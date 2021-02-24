@@ -543,6 +543,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Bongino highlights double standard over Biden using same migrant facilities press criticized under Trump"
+    excerpt: "The mainstream media is demonstrating a clear double standard by not calling out the Biden administration for utlizing the same migrant facilities as its predecessor, Fox News contributor Dan Bongino told \"Outnumbered\" Wednesday."
+    publishedDateTime: 2021-02-24T21:56:00Z
+    webUrl: "https://www.foxnews.com/media/bongino-double-standard-over-biden-migrant-center-trump"
+    ampWebUrl: "https://www.foxnews.com/media/bongino-double-standard-over-biden-migrant-center-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bongino-double-standard-over-biden-migrant-center-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "kEkehM3wuAJiPXtvmercG6pPRc4R9IaaPqA6PLjh0IkDVGeWJKAbBtSyYWHaonRem50yvmaSa8YGL17gQyNrru6VG621FFedwzWbIgYVx7gNlYh1knlip6wjhOclZl+HJNN1iPgbVMqWRoSgnJ5Oze6HG2Bk/AlTPnQBJDN1f3T/Cz2hnpHE/NXDdw2eqI5CuJiS6FYBqcYzX6iLHncyJEXgh8iJfPtO9PeHnkwqKpJuvK/zGKlNs+AfGaZJ+YlvBCwp76O8hb7utbTbdyMyackR1rka5YUBBEj/HPTr5UcrRUmlNOOgdsvO88XxWFTDUyiUJUKfgxGA+BhCliiH4zfd51O7niYbviFrqSoARO8=;k84tdm+rnEYZCiC7ieb9Dg=="
 ---

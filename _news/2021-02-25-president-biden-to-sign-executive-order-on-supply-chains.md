@@ -445,6 +445,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "U.S. senators weigh paring back Biden's $1.9 trillion COVID-19 aid plan"
+    excerpt: "U.S. senators on Wednesday were eyeing potentially significant cuts to President Joe Biden's $1.9 trillion COVID-19 relief bill as they awaited a ruling on whether the measure can include raising the federal minimum wage to $15 an hour."
+    publishedDateTime: 2021-02-24T21:16:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/u-s-senators-weigh-paring-back-bidens-1-9-trillion-covid-19-aid-plan-idUSKBN2AO2UQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO2UQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO2UQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552798578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N1LN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
     publishedDateTime: 2021-02-19T23:18:00Z
@@ -685,6 +701,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden on the brink of first Cabinet defeat as Senate panels postpone vote on Neera Tanden"
+    excerpt: "The White House needs support from Republicans to win her confirmation, but it is unclear which ones might vote for her."
+    publishedDateTime: 2021-02-24T21:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/votes-neera-tanden-bidens-pick-budget-chief-postponed/4573085001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4573085001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4573085001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/09/USAT/f2fdc334-a967-46b4-a594-34bde17dcb20-GTY_1231062167.jpg?auto=webp&crop=5026,2828,x0,y255&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – as it happened"
     excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
     publishedDateTime: 2021-02-18T01:13:00Z
@@ -835,6 +867,6 @@ related:
         height: 630
         isCached: true
 
-secured: "icPGK+u6iwl8cmfSH1Hje8g+E9/JxPyf+m42+BDCKpVwibzxFjTrYjLSyb0hLs9vRdDUeF2VmYmcxCGMctkn5ohAtyFO5KbEcBDnPuo/EVmJpboWedX2rA0clDXsZwmbh9T4LcTqiVLFQgRQlnFnqlPoa4i6DuQPUTxkYYaxBTjNtWS/EWG1LZu7+ny0NPQc+m9K6HRL5M2J4EcpMFEiP2DMy3frpHZyfuX3+MWeYDTfl7FPtqOzbBqU2JNrKDW4xirVicXUiHTQZXfyNYeWpXXxb/ZlzbMkcqvzxMjDV/OiaA0/TYqC8c4hKVfAN0ao7qrk61xWQTMBpaM3BbciNJadsMDbJ4XNck8ry9BO7fI=;3f656yRBSEpITu9FW/Depg=="
+secured: "+CKjAtAYKhYlALYb4Ih9j12IDj9J3n1sGjA82CXhy+sGQenJLa1oap++/B25RHZx5lqxh1vBnrSQBYkWluQYf0Un3FxnQfKgl81Nn7E2895vEzf4TNhUMeQc2X9XJnrbT8X+tTfDT8nL3qHx/FiVlFSjfKGNe8cBXNF48UATNwngkkZVGlIl6ZRn5N4HCVzUE/uzxQTQ6ObMvdjNdM+y4RmadopyEqxuGmzY+QmJYrvJvLtASLmzisxPQwrvRlwnqqSLFveUrwwBCbX3xE9JlnSvS34CFubGXssANI0dxVf1StT8i96H0f1vx081NG4b3L4FZZpFbjqNQKHEgPgCtXQ05Q7bIpsz8wkke1NpKSSwSFH3T0G5XhzNeNmjm1e5RCRlRMSBfkcMzQuaQYEPY426CRVAO2AF0+xx7CJNUij+KA0MmAGMLKDtArS245FSPNcpgOCTzec/3Vcmb31EhJWMD6uECGck3H5Dqbd1edy+EmUb/wtlrLd0iG1FvZjdDHmVXyBFBcsz6pkeXu4wRg==;A9yPhXIIl7Tgm+Fe/sQBbg=="
 ---
 

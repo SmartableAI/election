@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119220812-biden-harris-filipovic-oped-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to nominate 3 to USPS Board of Governors "
+    excerpt: "President Joe Biden on Wednesday announced three nominees to fill most of the vacancies on the US Postal Service Board of Governors, fulfilling a promise that the administration would make the board and the agency a priority in the early days of his presidency.\n    \n"
+    publishedDateTime: 2021-02-24T22:33:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rSbiDwZvjjA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/usps-board-of-governors-joe-biden-nominees/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/usps-board-of-governors-joe-biden-nominees/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224140214-01-louis-dejoy-0224-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

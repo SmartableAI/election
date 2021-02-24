@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden orders review on cracks in critical supply chains"
+    excerpt: "President Joe Biden wants his administration to identify and fix potential cracks in supply chains that could cause shortages of critical items like chips inside cars, minerals in flat-screen televisions,"
+    publishedDateTime: 2021-02-24T17:24:00Z
+    webUrl: "https://www.cnn.com/2021/02/24/politics/biden-executive-order-review-supply-chains/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/biden-executive-order-review-supply-chains/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/biden-executive-order-review-supply-chains/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223213522-01-joe-biden-0223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "Ey/Gem8FRnhtyKfffF/F5mWjR/e6dfMvZrKD7mgJdrwwk6IomaZKQCEhRnjpAXtO3mkoY3G1j84VOqCXxT9xMhx4rLhYQWQbMAN7VEBMMlw3yDdioeW1XYo9oda3ynyKU5iBxHAfVUOmn1MT+aOr/LLmOjNf4rhS3KdvczOzXzjWd9Rcw6sLYu+2xfdY5ZTs1qWpJg13uyLsRWiDUoPZ2mxk99I6txPSzGxJIqnVuLyav9H4qxm+H6IG1XWeqAxf65swFfxkqRiX2vHrKeuMDJ4s60Jutc2xVi+f4ogWhOKVP6cyEWMUyzxiYqdCGbhhPnMGmIhFTiR0DZX7holtPcEHSqchNJNVP39JI+GBWyw=;PokVb1XTySQ58e0S/jBOTg=="
 ---

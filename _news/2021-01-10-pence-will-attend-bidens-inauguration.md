@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/09/politics/mike-pence-inauguration-joe-biden/index.html"
 type: article
 quality: 200
-heat: 2180
+heat: 2200
 published: true
 
 provider:
@@ -1213,6 +1213,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127160132-rba-biden-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "The Words That Are In and Out With the Biden Administration"
+    excerpt: "The president has been clear to all of us — words matter, tone matters and civility matters,” said Jen Psaki, the White House press secretary."
+    publishedDateTime: 2021-02-24T17:37:00Z
+    webUrl: "https://www.nytimes.com/2021/02/24/us/politics/language-government-biden-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/24/us/politics/language-government-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/24/us/politics/language-government-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/21/us/politics/21dc-words-lede/21dc-words-lede-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Vice President Mike Pence ensures 'safe inauguration' after Capitol riot"
     excerpt: "During a briefing at FEMA headquarters, Vice President Mike Pence addressed the Capitol riot and ensured an “orderly transition into a safe inauguration.”"

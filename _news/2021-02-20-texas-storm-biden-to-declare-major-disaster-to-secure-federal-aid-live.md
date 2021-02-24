@@ -447,6 +447,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "U.S. senators weigh paring back Biden's $1.9 trillion COVID-19 aid plan"
+    excerpt: "U.S. senators on Wednesday were eyeing potentially significant cuts to President Joe Biden's $1.9 trillion COVID-19 relief bill as they awaited a ruling on whether the measure can include raising the federal minimum wage to $15 an hour."
+    publishedDateTime: 2021-02-24T21:16:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/u-s-senators-weigh-paring-back-bidens-1-9-trillion-covid-19-aid-plan-idUSKBN2AO2UQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO2UQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO2UQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552798578&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N1LN"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Joe Biden addresses nation as US passes 500,000 coronavirus deaths – live"
     excerpt: "I know what it’s like’"
     publishedDateTime: 2021-02-22T22:12:00Z
@@ -670,6 +686,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/397e9c81d30a0858d4af27de891e6279de7dadc8/0_0_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a0ac585526f1b234ccafd9a8a69d93b"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden on the brink of first Cabinet defeat as Senate panels postpone vote on Neera Tanden"
+    excerpt: "The White House needs support from Republicans to win her confirmation, but it is unclear which ones might vote for her."
+    publishedDateTime: 2021-02-24T21:41:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/votes-neera-tanden-bidens-pick-budget-chief-postponed/4573085001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4573085001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4573085001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/09/USAT/f2fdc334-a967-46b4-a594-34bde17dcb20-GTY_1231062167.jpg?auto=webp&crop=5026,2828,x0,y255&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – as it happened"
     excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/cruz-opposes-biden-absurd-pick-for-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor.amp"
 type: article
 quality: 166
-heat: 186
+heat: 206
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 166
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/566ccb90-f7a1-4d1d-8525-733e13c4284a/f43fdbde-dc23-44ca-967e-be6f9e470eb6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden HHS pick Becerra says taxpayer-funded health care for illegal immigrants not supported by law"
+    excerpt: "President Biden’s nominee to serve as Secretary of the Department of Health and Human Services Xavier Becerra said he would not support waivers to grant taxpayer-funded health care benefits to illegal immigrants during testimony on Wednesday."
+    publishedDateTime: 2021-02-24T22:41:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2FjqeOqdCtc/hhs-becerra-health-care-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/hhs-becerra-health-care-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hhs-becerra-health-care-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

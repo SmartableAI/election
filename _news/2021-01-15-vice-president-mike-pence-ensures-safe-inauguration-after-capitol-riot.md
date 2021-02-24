@@ -1230,6 +1230,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Words That Are In and Out With the Biden Administration"
+    excerpt: "The president has been clear to all of us — words matter, tone matters and civility matters,” said Jen Psaki, the White House press secretary."
+    publishedDateTime: 2021-02-24T17:37:00Z
+    webUrl: "https://www.nytimes.com/2021/02/24/us/politics/language-government-biden-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/24/us/politics/language-government-biden-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/24/us/politics/language-government-biden-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/21/us/politics/21dc-words-lede/21dc-words-lede-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden to deploy FEMA, National Guard as part of national vaccination plan"
     excerpt: "Biden has said that his goal is for 100 million doses of Covid-19 vaccines to be administered within the first 100 days of his presidency."
     publishedDateTime: 2021-01-16T00:51:00Z

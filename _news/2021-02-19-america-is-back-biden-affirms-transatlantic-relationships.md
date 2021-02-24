@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2021/02/19/biden-foreign-policy
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/02/19/biden-foreign-policy-transatlantic-partnerships-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden orders review on cracks in critical supply chains"
+    excerpt: "President Joe Biden wants his administration to identify and fix potential cracks in supply chains that could cause shortages of critical items like chips inside cars, minerals in flat-screen televisions,"
+    publishedDateTime: 2021-02-24T17:24:00Z
+    webUrl: "https://www.cnn.com/2021/02/24/politics/biden-executive-order-review-supply-chains/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/biden-executive-order-review-supply-chains/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/biden-executive-order-review-supply-chains/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223213522-01-joe-biden-0223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Stop the bleeding': allies urge Biden"
     excerpt: "There have been internal Biden admin debates over whether even to save the original Iran nuclear deal.” Nahal’s story here. BIDEN AND BLINKEN SET TO “STOP THE BLEEDING” AND CLEAR LOW BAR SET BY EUROPEAN LEADERS: “These next four days will set the tone,"
     publishedDateTime: 2021-02-19T14:28:00Z

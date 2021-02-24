@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-asks-high-court-to-drop-2-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp"
 type: article
 quality: 190
-heat: 830
+heat: 850
 published: true
 
 provider:
@@ -542,6 +542,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/ap17199673761309.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Bongino highlights double standard over Biden using same migrant facilities press criticized under Trump"
+    excerpt: "The mainstream media is demonstrating a clear double standard by not calling out the Biden administration for utlizing the same migrant facilities as its predecessor, Fox News contributor Dan Bongino told \"Outnumbered\" Wednesday."
+    publishedDateTime: 2021-02-24T21:56:00Z
+    webUrl: "https://www.foxnews.com/media/bongino-double-standard-over-biden-migrant-center-trump"
+    ampWebUrl: "https://www.foxnews.com/media/bongino-double-standard-over-biden-migrant-center-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bongino-double-standard-over-biden-migrant-center-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "Bfls67X5l3hB22me6wz1KKXS0lu26N4EGYbhB7sTaCrmVA3HVOp0L1DM6kYG8VBeKdHWPANbBFA0b337W3DybtBkQT8LJHPNGgyM/rRmb01QORHw/8XQTCK5R2GKxczjPUONwrLx3PO7FrTrqjlsrC5hd8nfW4jLhuLdOxEh5MdihVZ02ILb+FTQLWuKGFvvFnozMGbUc5S18CTv1HzoSTc2J5cWYSB+aNFka3kGhm8RVahmUp4PkxqH3uEw56YEOEAaRRbUl03wfhzIIBeFgxQZsZGF5dWYHH+SBaDia3PXuRDt/25oQhlbqliXk/KRAyynabPi67AWXFZnArOj4K0f9BHAQFnoz+Lyi7gqbqc=;7YXaBcNmDrTZ+xYWBjO+0A=="

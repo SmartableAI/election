@@ -2,6 +2,114 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-13-biden-administration-expresses-deep-concerns-about-whos-china-probe.md",
+      "title": "Biden administration expresses 'deep concerns' about WHO's China probe",
+      "excerpt": "The Biden administration on Saturday expressed \"deep concerns\" about the World Health Organization’s (WHO) probe into the Chinese handling of the coronavirus.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bEZ406eig2M/biden-deep-concerns-about-whos-china-probe",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bEZ406eig2M/biden-deep-concerns-about-whos-china-probe",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba8a532b-33f6-4379-905d-cc188ca9df78/01a49ac8-2cdb-483f-ab27-773439ff2ea7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-deep-concerns-about-whos-china-probe.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-deep-concerns-about-whos-china-probe.amp",
+      "publishedDateTime": "2021-02-13T09:58:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-ivanka-played-peacemaker-in-trump-and-pences-uncomfortable-first-meeting-after-capitol-riots-report-says.md",
+      "title": "Ivanka played peacemaker in Trump and Pence's 'uncomfortable' first meeting after Capitol riots, report says",
+      "excerpt": "Jared Kushner, who also helped arrange the meeting, later jokingly compared it to his efforts at brokering peace in the Middle East, the report says.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/report-ivanka-urged-trump-make-up-pence-after-capitol-riot-2021-2",
+      "originalUrl": "https://www.businessinsider.com/report-ivanka-urged-trump-make-up-pence-after-capitol-riot-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6027adbbb3c2a800183ccbff?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/report-ivanka-urged-trump-make-up-pence-after-capitol-riot-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/report-ivanka-urged-trump-make-up-pence-after-capitol-riot-2021-2?amp",
+      "publishedDateTime": "2021-02-13T06:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-trump-attorneys-falsely-claim-he-was-denied-due-process.md",
       "title": "Trump attorneys falsely claim he was denied ‘due process’",
       "excerpt": "Due process is a bedrock protection for anyone facing a loss of “life, liberty or property” — not public office.",
@@ -1253,114 +1361,6 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-north-carolina-man-charged-with-threatening-president-biden.md",
-      "title": "North Carolina man charged with threatening President Biden",
-      "excerpt": "Prosecutors say Kyle Reeves, 27, contacted the White House switchboard “multiple times” and “made threats against President Biden and others.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/IuP9CaXKTkE/north-carolina-man-charged-threatening-president-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 735,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-carolina-man-charged-threatening-president-biden.amp",
-      "publishedDateTime": "2021-02-11T12:59:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations.md",
-      "title": "Morning mail: Melbourne cluster grows, Trump's message to insurrectionists, Crown resignations",
-      "excerpt": "Two more Covid cases linked to the Holiday Inn quarantine hotel. Plus: simple strategies to cope with bluebottles",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2021/feb/12/morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations",
-      "originalUrl": "https://www.theguardian.com/australia-news/2021/feb/12/morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/86ee9ba605ed24237a4240114b1c07ca658de675/0_16_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bb20fc08e05a5fb94a1856adfffad43",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -3,8 +3,8 @@ category: news
 title: "Federal judge in Texas blocks Biden's 100-day deportation pause in nationwide order"
 excerpt: "Granting a nationwide injunction sought by Texas, a federal judge has blocked the Biden administration's plans to pause deportations for 100 days."
 publishedDateTime: 2021-02-24T17:14:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/federal-judge-texas-blocks-joe-biden-100-day-deportation-pause/4576411001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/federal-judge-texas-blocks-joe-biden-100-day-deportation-pause/4576411001/"
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/federal-judge-texas-blocks-joe-biden-100-day-deportation-pause/4576411001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/federal-judge-texas-blocks-joe-biden-100-day-deportation-pause/4576411001/?scrolla=5eb6d68b7fedc32c19ef33b4"
 ampWebUrl: "https://amp.usatoday.com/amp/4576411001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4576411001"
 type: article
@@ -201,6 +201,6 @@ related:
         height: 675
         isCached: true
 
-secured: "jP8PASPxk/KnjEUdh9w6Bvtn2rm4UyX7+EBPSrjgKKkmgxvhmclkXV5aRjvWca2gm0NSa0e5K7OtVsW2B+J8W74l1ytaPzoe31WbpRB/+TU4Dh/nNSqh6B8ICFbt1B8w6PUUuAQB7uAOUB8plWiCBG7TJNVnJmJ+R4dG/WDJv/wWUpBW3So8wMjr0UijxJkw6Id/bqwQqKKOZjI0rA1OjsiEAMkW+u8rhDSJAGoN9idvVNHQG3G3VAi/rk+aJUD4pgN4DZQ9fEVZDzv3lUIAn06HSlTfjD3UWsE5IwKHXp1IrSl3uJrKus8uCRPmxhf2Gdctriy4ArvA75JaKt91u7dLSS51MHWGSGctRR/1emTJA/Y4ZntaKU1f7vJx2Vn1gbkzGrguITVITeY9qDF5h829FqwluJ+j6uuna9Q5a1DO+VHjzebsyTDeditIaPRM3tDBBcVI4MIVhTzeerHYwiSDNO3v+AyauQLamv+NDf+1oSaB/yGg10cFbFJ+IdUeO1NSRr5Do9pvQ4LelcYlJw==;IT5Eb78/h1itwEVfuqcaGQ=="
+secured: "56V4Cz37c/4PmPHECwuWJYChc0hijFbYgVY1PVttj1bR+VpVrfpJO+npGod9DXUeq06v+Ej9wP0LvXWXgO47fx4oDc2QeDylf207YjvIGiDQFNkSQlkkslNESTjHppUAMrJ4BbFswuUBZJLL3tiEEXV/v9pc5/HsjgvzmkDsD0aMKaBmjRbFXNFumu2yYeDCupNaQSluKJIZzqDLQeewXL9Clcs/jAW+G835lJqPQ4/4/f63b7UBzC9M61m0UaWw6hAhtYlgj8K42YmaFwNSmOh0EOZaey+wxv7B3hsV9/mXEEbKrn8rUjXXFPagobUNk5wiStMCFA5OngTvdyFBpUCvuWu0dkjwrKk+HMgn050=;ge6TM+Ux1zTQ7SnSl0Dejw=="
 ---
 

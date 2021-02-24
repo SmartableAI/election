@@ -2,6 +2,54 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-01-29-if-biden-and-democrats-truly-support-equity-why-are-they-silent-on-school-choice.md",
+      "title": "If Biden and Democrats Truly Support 'Equity,' Why Are They Silent on School Choice?",
+      "excerpt": "This is National School Choice Week, and if there's been one benefit to the pandemic lockdowns of public schools across the country it's this: American",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/48/481557_5_.jpg",
+          "width": 750,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/28/if_biden_and_democrats_truly_support_equity_why_are_they_silent_on_school_choice_145143.amp.html",
+      "publishedDateTime": "2021-01-28T08:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-28-cnn-reporter-gushes-over-bidens-impressively-productive-call-with-putin.md",
       "title": "CNN reporter gushes over Biden's 'impressively productive' call with Putin",
       "excerpt": "A CNN correspondent lauded the \"impressively productive\" call President Biden had with Russian President Vladimir Putin this week.",
@@ -1518,58 +1566,6 @@
         "Election",
         "Joe Biden",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-20-irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says.md",
-      "title": "Iran's nuclear 'breakout time' has shrunk to three-four months, Biden's top diplomat pick says",
-      "excerpt": "The time it would take Iran to make enough fissile material for a single nuclear weapon has fallen to three or four months from over a year under the 2015 Iran nuclear deal, President-elect Joe Biden's choice to be the top U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-state-iran/irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says-idUSKBN29O2HD?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-state-iran/irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says-idUSKBN29O2HD?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548353909&r=LYNXMPEH0I1I0&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-19T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

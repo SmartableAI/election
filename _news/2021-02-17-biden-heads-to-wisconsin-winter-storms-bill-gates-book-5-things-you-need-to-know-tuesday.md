@@ -130,7 +130,7 @@ related:
   - title: "Federal judge in Texas blocks Biden's 100-day deportation pause in nationwide order"
     excerpt: "Granting a nationwide injunction sought by Texas, a federal judge has blocked the Biden administration's plans to pause deportations for 100 days."
     publishedDateTime: 2021-02-24T17:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/federal-judge-texas-blocks-joe-biden-100-day-deportation-pause/4576411001/"
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/federal-judge-texas-blocks-joe-biden-100-day-deportation-pause/4576411001/?scrolla=5eb6d68b7fedc32c19ef33b4"
     ampWebUrl: "https://amp.usatoday.com/amp/4576411001"
     cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4576411001"
     type: article

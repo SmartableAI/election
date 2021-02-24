@@ -2,6 +2,118 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-20-biden-remarks-on-chinas-uighurs-is-bigotry-masquerading-as-cultural-sensitivity-hr-mcmaster-says.md",
+      "title": "Biden remarks on China's Uighurs is 'bigotry masquerading as cultural sensitivity',' H.R. McMaster says",
+      "excerpt": "Former national security adviser H.R. McMaster accused President Biden of \"bigotry masquerading as cultural sensitivity,\" following a town hall event where the president addressed China’s human rights abuses.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Gga4AZwEWM/biden-comments-on-chinas-uighurs-bigotry-masquerading-as-cultural-sensitivity-h-r-mcmaster-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-Gga4AZwEWM/biden-comments-on-chinas-uighurs-bigotry-masquerading-as-cultural-sensitivity-h-r-mcmaster-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2a618703-1039-4099-a473-0bf7dd823a8f/546f7729-7ab8-4909-98ae-031711b53461/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-comments-on-chinas-uighurs-bigotry-masquerading-as-cultural-sensitivity-h-r-mcmaster-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-comments-on-chinas-uighurs-bigotry-masquerading-as-cultural-sensitivity-h-r-mcmaster-says.amp",
+      "publishedDateTime": "2021-02-19T17:55:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-biden-open-to-lowering-the-19-trillion-coronavirus-package-price-tag.md",
+      "title": "Biden 'open' to lowering the $1.9 trillion coronavirus package price tag",
+      "excerpt": "President Biden Friday defended the size of his $1.9 trillion coronavirus relief package even as he signaled to critics he'd be willing to make some trims to win their support. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ai3fUiWSmzo/biden-open-to-lowering-the-1-9t-coronavirus-package-price-tag",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ai3fUiWSmzo/biden-open-to-lowering-the-1-9t-coronavirus-package-price-tag",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 314,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21050716058409.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-open-to-lowering-the-1-9t-coronavirus-package-price-tag.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-to-lowering-the-1-9t-coronavirus-package-price-tag.amp",
+      "publishedDateTime": "2021-02-19T15:26:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-iran-learning-it-can-threaten-biden-to-get-its-way-on-nuclear-talks-ric-grenell.md",
       "title": "Iran learning it can threaten Biden to get its way on nuclear talks: Ric Grenell",
       "excerpt": "Iran has already shown it can pressure the Biden administration into granting concessions related to its nuclear weapons program, former Acting Director of National Intelligence Richard Grenell told \"Your World\" Friday.",
@@ -70,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 355,
+      "heat": 375,
       "tags": null,
       "images": [
         {
@@ -122,7 +234,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1980,
+      "heat": 2000,
       "tags": null,
       "images": [
         {
@@ -178,7 +290,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -943,7 +1055,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 645,
+      "heat": 665,
       "tags": null,
       "images": [
         {
@@ -1252,118 +1364,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-biden-nominees-becerra-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign.md",
-      "title": "Biden nominees Becerra, Gupta targeted by conservative groups with high-dollar ad campaign",
-      "excerpt": "A handful of conservative groups are aiming to block the confirmation of two of President Biden's most controversial nominees, using an ad campaign targeting lawmakers, their staff and their constituents. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IPkvZdzIuc/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IPkvZdzIuc/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign.amp",
-      "publishedDateTime": "2021-02-18T10:23:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-trumps-ambassador-to-slovenia-launches-senate-bid-in-alabama.md",
-      "title": "Trump’s ambassador to Slovenia launches Senate bid in Alabama",
-      "excerpt": "Republican Lynda Blanchard is the first candidate to jump into the race to succeed longtime GOP Sen. Richard Shelby of Alabama.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1K6gBR9X_1Q/trumps-ambassador-to-slovenia-launches-senate-bid-in-alabama",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1K6gBR9X_1Q/trumps-ambassador-to-slovenia-launches-senate-bid-in-alabama",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/alabama.png",
-          "width": 2237,
-          "height": 1152,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-18T10:03:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -284,6 +284,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump is getting active again with endorsements in state GOP contests"
+    excerpt: "Former President Donald Trump is wading into contests for control of state Republican Party organizations with endorsements this week in Ohio and South Carolina that would help cement his national"
+    publishedDateTime: 2021-02-24T21:30:00Z
+    webUrl: "https://nypost.com/2021/02/24/trump-gives-endorsements-in-ohio-south-carolina-gop-contests/"
+    ampWebUrl: "https://nypost.com/2021/02/24/trump-gives-endorsements-in-ohio-south-carolina-gop-contests/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/trump-gives-endorsements-in-ohio-south-carolina-gop-contests/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Donald-trump-224.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "North Carolina GOP censures Sen. Richard Burr over vote to convict Trump"
     excerpt: "The Central Committee of the North Carolina Republican Party on Monday night censured Sen. Richard Burr for voting to convict former President Donald Trump at his Senate impeachment trial. The"
     publishedDateTime: 2021-02-16T13:57:00Z

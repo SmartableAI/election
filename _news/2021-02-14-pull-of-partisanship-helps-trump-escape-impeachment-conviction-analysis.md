@@ -591,6 +591,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Awkward scene highlights GOP choice on Trump"
+    excerpt: "The top three House GOP leaders each carve out different choices: A bear hug (Steve Scalise), a middle ground (Kevin McCarthy), or a full break (Liz Cheney)."
+    publishedDateTime: 2021-02-24T20:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/24/an-awkward-scene-epitomizes-gops-3-choices-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/24/an-awkward-scene-epitomizes-gops-3-choices-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/24/an-awkward-scene-epitomizes-gops-3-choices-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-24-2021/t_fb9f67f394504c0f98769a9980e35a5e_name_65139534_76c3_11eb_9489_8f7dacd51e75_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Trump's Indonesia partner to build movie studio after securing tax breaks"
     excerpt: "Indonesian tycoon Hary Tanoesoedibjo, a business partner of former U.S. president Donald Trump, launched on Monday construction on a movie studio as part of a tourism complex on Java island that is set to receive tax breaks."
     publishedDateTime: 2021-02-15T14:07:00Z

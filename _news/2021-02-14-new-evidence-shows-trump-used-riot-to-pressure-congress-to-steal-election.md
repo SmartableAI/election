@@ -587,6 +587,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Awkward scene highlights GOP choice on Trump"
+    excerpt: "The top three House GOP leaders each carve out different choices: A bear hug (Steve Scalise), a middle ground (Kevin McCarthy), or a full break (Liz Cheney)."
+    publishedDateTime: 2021-02-24T20:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/24/an-awkward-scene-epitomizes-gops-3-choices-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/24/an-awkward-scene-epitomizes-gops-3-choices-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/24/an-awkward-scene-epitomizes-gops-3-choices-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-24-2021/t_fb9f67f394504c0f98769a9980e35a5e_name_65139534_76c3_11eb_9489_8f7dacd51e75_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
     publishedDateTime: 2021-02-13T22:04:00Z

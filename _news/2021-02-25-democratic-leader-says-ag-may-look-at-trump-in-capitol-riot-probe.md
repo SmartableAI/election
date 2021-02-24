@@ -589,6 +589,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Awkward scene highlights GOP choice on Trump"
+    excerpt: "The top three House GOP leaders each carve out different choices: A bear hug (Steve Scalise), a middle ground (Kevin McCarthy), or a full break (Liz Cheney)."
+    publishedDateTime: 2021-02-24T20:30:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/02/24/an-awkward-scene-epitomizes-gops-3-choices-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/24/an-awkward-scene-epitomizes-gops-3-choices-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/24/an-awkward-scene-epitomizes-gops-3-choices-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-24-2021/t_fb9f67f394504c0f98769a9980e35a5e_name_65139534_76c3_11eb_9489_8f7dacd51e75_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
     publishedDateTime: 2021-02-13T22:04:00Z
@@ -1421,6 +1437,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "0IJuYEcSSY99Xz93KhA+0cpRDuF7t4kOVxfZPzRkrlQ8eqYvmvJpYVUvqBsR+2w1ighiNj+fbN+Mk8xUjevRK4mIHXRtFPbdLmtw8RhcL5enAA7xMNB0hxYxq1b+8Re+eRcJnrKzvtfA3XpedUV1XEt28t9yhgiqkRq9yzFYS4lNiZgqx16nBuWmN9a19O4Hg6skInEta1T3icKsZn6OEJY7gesOLon38HvTmKP7IvCBOAhFjVCvNPVgxJk9N4bBCmVlhi+GYkFyCtAcY2P5rJ1TfMGMzUxPmuFX6lFQzr4kVGh9xVXCFWTAWS+0xdmegU97MWL6S4WyacyTH+3HHF9Sw3aKfpM8SJvU7ukQhxo=;Y3IBLSzWLd9VfXiMGSD94Q=="
+secured: "n2+zD+dtqu8m0IlSL8V8FUNwNetGPw5aYQgX2pOSCWNkBKoQs66UDlsNh9+gyX5w/sFeCJE/x/8Dl9iV/K3/R4xSWHYFgtDjwJvjOMJTXKqWDrZs05es9/IqjUKJ4FrwTHzqgTZAxqzBmI/JDsY2ooZ8SJEpuhJVoWtSTiiQfayj4p38/jhKaiIW7ZiX0e+KHwcyR8B1mUe+/tC5AV4zZa+pqToq4uvLBAqIDoDHoWUG2K5LWMJW+bsmoJhiPa4AHbkRewdqRg/JFptGTiGdWYwEibC7MW+EddekiS0nT8+SvT22k9vTP7nFlSPaT3+iz5wTLIa8nmruCNFclXCsJTAm38rjTeT64+vM0xEiietqXgs2fH/YCECISCOgnpb1/8O9xrYVNra1kiFT811Zc8lzZzm91bmieNchWizLgsHityWcl5Xfw3oJXhJrDAOmOAPRFqwba6ndSqDeZEeNGj0nwSS5JLlYxc5IEouzxucicz7z93CWcvcNWBlMgLNCNTuI++7oZvirC/hxc/Rnlw==;teFBRMkwvwCpqMNCWY/LvQ=="
 ---
 
