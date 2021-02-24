@@ -431,6 +431,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Senate committee vote on Biden budget pick Tanden postponed"
+    excerpt: "A Senate committee postponed the Wednesday hearing for President Joe Biden’s pick to lead the Office of Management and Budget, suggesting further challenges for Neera Tanden."
+    publishedDateTime: 2021-02-24T13:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/senate-committee-vote-on-biden-budget-pick-tanden-postponed-idUSKBN2AO1S4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552752404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
     publishedDateTime: 2021-02-19T23:18:00Z
@@ -530,7 +546,7 @@ related:
   - title: "Biden to host bipartisan economy meeting amid supply chain fears – live updates"
     excerpt: "President will meet group from both houses ahead of expected executive order over chip shortage"
     publishedDateTime: 2021-02-24T10:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates?page=with:block-60362c508f08614ccf104f93"
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates?page=with:block-603634038f087933c5fdb9b2"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates"
     type: article
@@ -539,7 +555,7 @@ related:
       domain: theguardian.com
     quality: 121
     images:
-      - url: "https://i.guim.co.uk/img/media/3dac94403a9f9cda85538c0882a2bc7ecf5051a9/1814_744_1671_1003/master/1671.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=973cee32bc8c718a4ee9ea33af1300f1"
+      - url: "https://i.guim.co.uk/img/media/bedb4506ff187ad6d66f4404fd4abd5c125e2761/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=445d0b0b8549c003be0219b5ab92c009"
         width: 600
         height: 360
         isCached: true
@@ -606,6 +622,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551916537&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G1JD"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden's massive coronavirus relief package receives boost from business leaders – live"
+    excerpt: "Top executives support Biden plan in open letter, while Romney says Trump would win 2024 Republican nomination ‘in a landslide’ – follow all the latest"
+    publishedDateTime: 2021-02-24T12:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates?page=with:block-60363d578f08614ccf10509d"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/bedb4506ff187ad6d66f4404fd4abd5c125e2761/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=445d0b0b8549c003be0219b5ab92c009"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – live"
     excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"

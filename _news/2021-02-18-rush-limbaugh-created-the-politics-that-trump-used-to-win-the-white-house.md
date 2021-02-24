@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-cre
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp"
 type: article
 quality: 124
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/f2f98dd2e1eb6d62b1e3711a8d1fd2dc0e79c882/c=0-0-2924-1652/local/-/media/2017/09/13/USATODAY/USATODAY/636409176515272786-B02-RUSH-LIMBAUGH-93562293.JPG?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+        isCached: true
+  - title: "A judge dismissed claims by a Capitol riot suspect that he shouldn't be held responsible because Trump put him up to it"
+    excerpt: "Lawyers for William Chrestman, a Proud Boys member, argued that the group believed it had Trump's \"official endorsement.\""
+    publishedDateTime: 2021-02-24T14:27:00Z
+    webUrl: "https://www.businessinsider.com/capitol-riot-suspect-william-chrestman-lawyer-says-following-trump-instructions-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/capitol-riot-suspect-william-chrestman-lawyer-says-following-trump-instructions-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-riot-suspect-william-chrestman-lawyer-says-following-trump-instructions-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5ff653cfd184b30018aad6d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Here's what the people who helped Donald Trump ascend to the White House — and fight back once he got there — have to say about it all now"
     excerpt: "Joseph DePaolo, Mike Offit, and Forbes all sought to distance themselves from Trump, while Michael Cohen called him an \"out-of-control monster.\""

@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Iranian refugee slams John Kerry's 'anti-American' backdoor meetings with Iran during Trump admin"
+    excerpt: "Iranian refugee and former Trump official Ellie Cohanim slammed John Kerry on Wednesday, calling his backdoor meetings with Iran during Trump’s presidency “anti-American” and an attempt to undermine the administration’s foreign policy stances."
+    publishedDateTime: 2021-02-24T14:08:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vL8X5dyTYeE/iran-john-kerry-backdoor-meetings-trump-nuclear-deal-anti-american"
+    ampWebUrl: "https://www.foxnews.com/politics/iran-john-kerry-backdoor-meetings-trump-nuclear-deal-anti-american.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-john-kerry-backdoor-meetings-trump-nuclear-deal-anti-american.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a74e0f7-76a3-43c7-94cf-ed601e664157/4be582ae-4c4f-4365-a205-78d2501a3af1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "1jXNKFkmLNUnfmx8LMw0JSoDBmnd6LJSC4oL/Fbqi/MohlOhUyXJhoR+WZ/5HY9fmECEMRbl9iZWVH8GdTP5IhRrAm3yGGmp0F/fbYvYA1o/QciEO1OSMh0IownmWybdPo5SsApr0l42o5ubLMp7QiMganLIqequkbYvgRFnW898uVrOhPh0rlH/hqQi+NAQ3ijjnkKUQRUxF7dg+r+541tvzzeaFdzjqDLp3DBslMjQ6frmPt+r8fpSFFTylVU4QXzFGKrgU+OqWZ2wNj9n0VYkDOuG20Nqd+LBd57I3cLLn0G0EykIQa5XSAllfkZ56fGhWilYivIJ0Xv/9Fj6WTl69OsqGTpg14F+7ke5kCY=;egVXjlYlk4Re3BuBhEeKcg=="
 ---

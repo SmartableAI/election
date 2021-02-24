@@ -332,6 +332,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Neera Tanden committee votes abruptly delayed as Biden budget pick’s nomination in jeopardy"
+    excerpt: "The Senate Homeland Security and Governmental Affairs Committee (HSGAC) and Budget Committees postponed planned business meetings Wednesday where they were supposed to vote on Neera Tanden, President Biden's pick to be the director of the Office of Management and Budget. "
+    publishedDateTime: 2021-02-24T13:26:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bC7gMmv-EG0/neera-tanden-committee-votes-postponed-as-nomination-on-rocks"
+    ampWebUrl: "https://www.foxnews.com/politics/neera-tanden-committee-votes-postponed-as-nomination-on-rocks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/neera-tanden-committee-votes-postponed-as-nomination-on-rocks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden will keep Trump letter private, White House says"
     excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
     publishedDateTime: 2021-01-29T20:13:00Z

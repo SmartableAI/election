@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "A judge dismissed claims by a Capitol riot suspect that he shouldn't be held responsible because Trump put him up to it"
+    excerpt: "Lawyers for William Chrestman, a Proud Boys member, argued that the group believed it had Trump's \"official endorsement.\""
+    publishedDateTime: 2021-02-24T14:27:00Z
+    webUrl: "https://www.businessinsider.com/capitol-riot-suspect-william-chrestman-lawyer-says-following-trump-instructions-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/capitol-riot-suspect-william-chrestman-lawyer-says-following-trump-instructions-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-riot-suspect-william-chrestman-lawyer-says-following-trump-instructions-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5ff653cfd184b30018aad6d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. Conservative Radio Provocateur and Trump Ally Rush Limbaugh Dies"
     excerpt: "Provocative and polarizing U.S. talk radio luminary Rush Limbaugh, a leading voice on the American political right since the 1980s who boosted, and was honored by, former President Donald Trump, has died at age 70 after suffering from lung cancer,"
     publishedDateTime: 2021-02-18T02:25:00Z

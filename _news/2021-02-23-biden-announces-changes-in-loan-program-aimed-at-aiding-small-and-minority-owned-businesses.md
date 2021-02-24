@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration will begin to admit migrants held in tent camp near the US-Mexico border "
+    excerpt: "A tent camp in Matamoros, Mexico, where hundreds of migrants stayed in deplorable conditions after being subject to a Trump-era policy requiring they stay in Mexico until their immigration court date in the US, is being drawn down, the Department of Homeland Security announced Wednesday.\n    \n"
+    publishedDateTime: 2021-02-24T14:05:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FqDpuIreBpg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/immigration-mexico-tent-camp/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/immigration-mexico-tent-camp/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127171917-migrant-tents-mexico-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "xCI7/z7KBJW8DL4MC34ugRWWgLRPBad6Wa9vidXzYb4ddi9J09zEMwqulF7Fqxj7QqPOyLCOFXW3fhmxnxDzSssfqgjEjWeyHLc6Ac4kRWmzznrgOsgXVzNNW2KniFW5A38hPvbUatn+iT6gjA6E8Di/i1vfUcCfmQMs3cs/c7hMv1ctdUzokvK8kK88KhYjxh3VP11cZlM7vmZG2K36PEYvmGtxJ0eKsIYAhhxANqKxu1dDO5vW/Vo5MlsP0PO99sWqzlOv6924bs8OhryXuAeifEgovtSBfgiQIjL1CA3N+5EZhZh938NiRoaba7xX0lkYbyF+kG7pkjYVQMXydHtvRrvHnfJQ/O+q9lJLHx3fmYukPcq3UpZcIbN3u/9KTRmQK4QkWrAA547tKwCwfkU1+Ja79bZwbwN9uRIWsJ/UOjJtFOtGgIN41F7eXLh+r/ZGUI+ifsQKKpI0IP7HMzXJXBSulnx0SsfjXTYPOhFb9X0GUR0RkcRLPEvjLGsq20Zni0VdkIMhet5qlAl7Sw==;4cLipeVcT8HkoVZ5A0S04g=="
 ---

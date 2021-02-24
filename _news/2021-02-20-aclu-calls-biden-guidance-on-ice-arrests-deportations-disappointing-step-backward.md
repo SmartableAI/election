@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests.amp"
 type: article
 quality: 168
-heat: 188
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Mark Morgan blasts Biden's new guidelines on ICE arrests: 'Defies law and order, common sense'"
-    excerpt: "The Biden administration's immigration reform \"defies law and order and common sense,\" former acting DHS Secretary Mark Morgan said on Friday."
-    publishedDateTime: 2021-02-19T17:46:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cg4x5MHCXCk/mark-morgan-joe-biden-ice-arrests-drop"
-    ampWebUrl: "https://www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp"
+  - title: "Biden’s 100-day deportation moratorium indefinitely banned by judge"
+    excerpt: "The Biden administration’s efforts to impose a 100-day pause on deportations were dealt another blow on Tuesday when a district judge extended a ban on its imposition in response to a lawsuit from Texas."
+    publishedDateTime: 2021-02-24T13:53:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OUfAiZtcmg/bidens-100-day-deportation-moratorium-judge"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dems to introduce Biden-backed immigration bill, includes citizenship path for millions of illegal immigrants"
+    excerpt: "Congressional Democrats on Thursday will unveil a sweeping immigration bill, backed by President Biden, that includes a path to citizenship for millions of illegal immigrants -- although the plan faces tough odds in the Senate."
+    publishedDateTime: 2021-02-18T13:35:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_6If0yJSWC0/dems-biden-immigration-bill-citizenship-path-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "W7Pmx7BXi38qLftoizrzHfkaKlkzwV4ZZLQ/xIY24zFsiiIDTemI7aBIQK904w89tL+UNe5O/8KUoHYMb/mGsY30ApeW5UDoxAjbY7DVUbdgR+jvNneZ8CsXlGeBFs65+dPVl8gboIswDPnx8g5MzI1emstPd5I8XdB0xDh79f6k/BRU9C93CxsOIiGlbWYVgSFjoEUM03vGxTfiFZ5oR9/9phqX33M4D5he4G2J6ddQZQAnJC/9sraMnXQaOQF30o8C/QSQmjL7Z7/neRF/kmprLf/Hhg5FoXBKDSCkNuHjACtlR8xEZKahKRwj89aK/mfJNdjfsJDKINwh/fGO+39UYnLy65gMd5gfL+xPtGw=;dajtuhRhz066yIdIVzaP7g=="

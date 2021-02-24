@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 515
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223213522-01-joe-biden-0223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Federal judge extends block on Biden deportation pause"
+    excerpt: "A federal judge in Texas ruled late Tuesday that a block on the Biden administration's deportation pause will remain in effect after having previously halted the moratorium on a temporary basis.\n    \n"
+    publishedDateTime: 2021-02-24T12:58:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hWKxYxeq-iE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/biden-deportation-pause-texas/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/biden-deportation-pause-texas/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190711184303-01-ice-raids-0711-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -205,6 +221,22 @@ related:
     images:
       - url: "https://static.politico.com/e9/ba/71da241a459fa6ed55a5766e75cc/20210220-joe-biden-ap-773.jpg"
         width: 1160
+        height: 773
+        isCached: true
+  - title: "Texas judge deals Biden another blow on 100-day deportation ban"
+    excerpt: "U.S. District Judge Drew Tipton granted a preliminary injunction that blocks the moratorium the Biden administration announced on its first day."
+    publishedDateTime: 2021-02-24T13:40:00Z
+    webUrl: "https://www.politico.com/news/2021/02/24/texas-judge-biden-deportation-ban-471315"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/24/texas-judge-biden-deportation-ban-471315"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/24/texas-judge-biden-deportation-ban-471315"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/5a/39/7966a98c45dfa8050f06d885294d/biden-773-getty-1.jpg"
+        width: 1159
         height: 773
         isCached: true
   - title: "Biden nominee Neera Tanden describes double standards she's faced as a woman of color"

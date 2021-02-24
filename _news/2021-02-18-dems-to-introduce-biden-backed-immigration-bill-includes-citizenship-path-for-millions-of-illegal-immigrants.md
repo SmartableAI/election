@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Florida Democrat says Biden vaccine distribution plan hurts states with high senior populations"
-    excerpt: "Florida Democratic Rep. Stephanie Murphy urged President Biden to adjust his plan for distributing vaccines nationwide after finding \"obvious flaws\" that could prove detrimental to states with higher rates of seniors."
-    publishedDateTime: 2021-02-13T03:08:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOKyv0sPg0A/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula"
-    ampWebUrl: "https://www.foxnews.com/politics/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula.amp"
+  - title: "Biden’s 100-day deportation moratorium indefinitely banned by judge"
+    excerpt: "The Biden administration’s efforts to impose a 100-day pause on deportations were dealt another blow on Tuesday when a district judge extended a ban on its imposition in response to a lawsuit from Texas."
+    publishedDateTime: 2021-02-24T13:53:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OUfAiZtcmg/bidens-100-day-deportation-moratorium-judge"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/daed92be-3252-43fa-b9e8-da5603edde14/87911f60-2d64-4b3d-9640-48c901ad4264/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Rubio: Biden Administration \"Trying To Punish Florida\" With \"Clearly Unconstitutional\" COVID Travel Ban Proposal"
-    excerpt: "Sen. Marco Rubio told FOX News Channel's 'Tucker Carlson Tonight' on Thursday that a proposed Biden administration plan to restrict travel to Florida during the COVID pandemic is an \"attack\" on his state."
-    publishedDateTime: 2021-02-12T13:21:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/02/12/rubio_biden_administration_trying_to_punish_florida_with_clearly_unconstitutional_covid_travel_ban_proposal.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/12/rubio_biden_administration_trying_to_punish_florida_with_clearly_unconstitutional_covid_travel_ban_proposal.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/12/rubio_biden_administration_trying_to_punish_florida_with_clearly_unconstitutional_covid_travel_ban_proposal.amp.html"
+  - title: "ACLU calls Biden guidance on ICE arrests, deportations 'disappointing step backward'"
+    excerpt: "The American Civil Liberties Union (ACLU) is criticizing the Biden administration’s new guidance for arrests and deportations under Immigration and Customs Enforcement (ICE) -- calling it a “disappointing step backward” and telling the new administration it expects “better.”"
+    publishedDateTime: 2021-02-20T20:48:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yxwD2nTBCB0/aclu-biden-era-ice-guidance-arrests"
+    ampWebUrl: "https://www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 64
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
     images:
-      - url: "https://assets.realclear.com/images/47/471791.jpg"
-        width: 800
-        height: 599
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1afb723c-6431-4ce5-bea8-c93398d5b403/6ac0fdd4-ffcc-4654-840f-4ac9bc82d527/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "z1NR/TaRAyphn6inHIzK6GnvzJNc0jzjAZLQBVbzjx6BoDZfy/sdvheLPrqtVnGNnS6yQgVRXJbinwDWeyj6EY28c6azh2ynalgmep6TCPGM6QlvDcRXtru8iOyRpRLhG1J+Z57wGWPHfbss4u+XFiJwTvXQAfzF/nmGWHohaOGSQIBX7zuCfqsazWAnjEvxNX2diy64pMO34pgkKYotLhiwrmLvhTXb2ieaXdoBJCnvAPJGF4BuW4hSzugTRGm8JImteah2WkvmUUauykmBMyry/gALKml6qzqvQ92pErvuN0p+x+aBuI7sH1+VUaW8hWmj8izNjPZZQd7aHJ3lZknc2zCn5odOygGxsWcLMBQ=;2jd/lIT7+4C7hCoTE88JuA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-trudeau-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-trudeau-white-house-visit/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119175756-22-biden-inauguration-0119-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration will begin to admit migrants held in tent camp near the US-Mexico border "
+    excerpt: "A tent camp in Matamoros, Mexico, where hundreds of migrants stayed in deplorable conditions after being subject to a Trump-era policy requiring they stay in Mexico until their immigration court date in the US, is being drawn down, the Department of Homeland Security announced Wednesday.\n    \n"
+    publishedDateTime: 2021-02-24T14:05:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FqDpuIreBpg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/immigration-mexico-tent-camp/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/immigration-mexico-tent-camp/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127171917-migrant-tents-mexico-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

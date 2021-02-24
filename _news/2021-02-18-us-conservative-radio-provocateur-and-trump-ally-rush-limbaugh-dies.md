@@ -57,6 +57,22 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "A judge dismissed claims by a Capitol riot suspect that he shouldn't be held responsible because Trump put him up to it"
+    excerpt: "Lawyers for William Chrestman, a Proud Boys member, argued that the group believed it had Trump's \"official endorsement.\""
+    publishedDateTime: 2021-02-24T14:27:00Z
+    webUrl: "https://www.businessinsider.com/capitol-riot-suspect-william-chrestman-lawyer-says-following-trump-instructions-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/capitol-riot-suspect-william-chrestman-lawyer-says-following-trump-instructions-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/capitol-riot-suspect-william-chrestman-lawyer-says-following-trump-instructions-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5ff653cfd184b30018aad6d8?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Here's what the people who helped Donald Trump ascend to the White House — and fight back once he got there — have to say about it all now"
     excerpt: "Joseph DePaolo, Mike Offit, and Forbes all sought to distance themselves from Trump, while Michael Cohen called him an \"out-of-control monster.\""
     publishedDateTime: 2021-02-23T09:02:00Z

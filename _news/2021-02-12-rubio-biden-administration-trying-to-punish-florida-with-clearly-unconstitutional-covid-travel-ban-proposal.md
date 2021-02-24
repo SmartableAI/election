@@ -44,22 +44,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Dems to introduce Biden-backed immigration bill, includes citizenship path for millions of illegal immigrants"
-    excerpt: "Congressional Democrats on Thursday will unveil a sweeping immigration bill, backed by President Biden, that includes a path to citizenship for millions of illegal immigrants -- although the plan faces tough odds in the Senate."
-    publishedDateTime: 2021-02-18T13:35:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_6If0yJSWC0/dems-biden-immigration-bill-citizenship-path-illegal-immigrants"
-    ampWebUrl: "https://www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "+2NvFv7bhojQB3hEwS9a82b+7WWyWqNxAdsrwyyL5gAbyaP4kUQzctM6Yld4Wr/zCl8b8EUwjWMhaSdKN6xo4ix67nfia8X3shrdt1lNADknvd168P6W2AGOSDroL1LsoRchvSuqRLs3cyz0e2Wo/rMeTP/Y82Tjv/hilgvCtjo9Th1PF/d0pnq1chTkvG72OjvHhicXkvnF48Di0xwf5uTtB0MUixbmMWv0U++Ee99mh1WAS28FoJQ9RNNj8sH8XB4v/YTP1Zq3rXVkMg5aJQCLXROoGux+qXoG78R2w9AfZ0IHqM2IPno7sAFkGMbL5JIE/1Ahm52E0E+dnwGySz7E7uujp1oe+jJfwcxBvPQ=;7CmB2ghuoSkHvFvrpy/KUw=="
 ---
