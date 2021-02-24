@@ -431,6 +431,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Biden administration is relying on a Trump-era policy to turn away migrants at border"
+    excerpt: "The Biden administration has moved swiftly to distance itself from Trump-era immigration policies, but at the US-Mexico border, a pandemic-related order put in place by former President Donald Trump remains in effect, allowing officials to continue to turn away thousands of migrants.\n    \n"
+    publishedDateTime: 2021-02-24T11:06:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XKh-J-c5dyI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/immigration-biden-us-mexico-border/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/immigration-biden-us-mexico-border/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 181
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112155717-trump-alamo-tx-0112-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden transition finds culture of coronavirus denial throughout Trump's federal government"
     excerpt: "Joe Biden's transition team found a culture of coronavirus skepticism within Donald Trump's federal government as they prepared to take office, sources close to the Biden transition told CNN, with political appointees loyal to the President reflecting his dismissiveness of public health guidelines and"
     publishedDateTime: 2021-01-19T22:01:23Z

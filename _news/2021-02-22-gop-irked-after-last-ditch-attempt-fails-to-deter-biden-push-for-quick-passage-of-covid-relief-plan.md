@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-co
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
 type: article
 quality: 160
-heat: 180
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,54 @@ images:
     isCached: true
 
 related:
+  - title: "Biden's Covid plan gets backing from more than 150 top business leaders"
+    excerpt: "More than 150 senior executives from some of the largest American companies across several major industries have lined up behind President Joe Biden's $1.9 trillion coronavirus relief package, according to a letter obtained by CNN.\n    \n"
+    publishedDateTime: 2021-02-24T11:25:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rvm6EU82ifE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/business-leaders-biden-covid-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/business-leaders-biden-covid-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222181225-03-biden-covid-deaths-0222-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration changes PPP rules to help reach the smallest businesses"
+    excerpt: "The Biden administration announced several changes Monday to the Paycheck Protection Program in an effort to reach minority-owned and very small businesses that may have previously missed out on accessing loans to help weather the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-02-22T12:23:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EC5YHXJ3WG4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/ppp-loans-biden-administration-small-businesses/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/ppp-loans-biden-administration-small-businesses/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126025400-01-los-angeles-restaurant-1123-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's pick to lead Health and Human Services goes before Senate committees"
+    excerpt: "President Joe Biden's choice for the nation's top health official will go before Senate committees on Tuesday and Wednesday, as Republicans attempt to torpedo the nomination.\n    \n"
+    publishedDateTime: 2021-02-23T12:25:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84PHMzbJnGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/health-and-human-services-confirmation-xavier-becerra/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/health-and-human-services-confirmation-xavier-becerra/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219140325-xavier-becerra-nov-2019-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP begins new push against Biden's relief plan as Republican leaders expect no defections in the ranks"
     excerpt: "Republican leaders in both chambers are maneuvering to keep all of their members in line against the $1.9 trillion Covid-19 relief plan, a move that would deny President Joe Biden a bipartisan victory and one that could scuttle the bill in the Senate if any Democrat breaks ranks.\n    \n"
     publishedDateTime: 2021-02-23T22:08:37Z
@@ -46,6 +94,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/160620175138-mitch-mcconnell-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "WARREN presses BIDEN for DEBT RELIEF — NEW GROUPS eligible for COVID SHOTS — BEACON HILL to probe VAX rollout"
+    excerpt: "President Joe Biden is pretty blunt about where he stands on canceling $50,000 per borrower in student loan debt. “I will not make that happen,” Biden said during a CNN town hall earlier this week. But Sen."
+    publishedDateTime: 2021-02-18T12:23:00Z
+    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/02/18/warren-presses-biden-for-debt-relief-new-groups-eligible-for-covid-shots-beacon-hill-to-probe-vax-rollout-491796"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 96
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "8g0DpReD91k1cc6fCEwon6jAMfZ9J6Kx8owo7HHMejskWYow3/+K5XUd/1JSQUkz7g14J8KBCpXSXCdWbq14rwHyiQw28ajI0S1xJSFtUJGBC7oSeThAjBKT8Mv8CEH+0U5L0AOHGhX1SevvzzSvMO2i32SZ8MmrCX3b/NkUdU3PoIPo5HnCo4tC86O6m/s7RyFAMzR6wtsYdp0WELtxNlX8NnB79ne+dGgJe4MScu9aU15uHeGXqLaXVpKfWJastskRcia3TKxkxwUMh6lZaWSNhCBPAGVvJsI3naZDQFA0sEIGXPqZfs6+yJFlH5RtgejXHEbqs7kXRCTO/h8oHdblYQ1h/ABib4uAtXYwSR4=;wH4yCXaUiyqw0k/PemNFpw=="

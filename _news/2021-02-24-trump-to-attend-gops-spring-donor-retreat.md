@@ -2,11 +2,11 @@
 category: news
 title: "Trump to attend GOP's spring donor retreat"
 excerpt: "Former President Trump is scheduled to attend the Republican National Committee's spring donor retreat in Florida this April, according to a Republican familiar with the situation and an invitation obtained by CBS News."
-publishedDateTime: 2021-02-24T00:23:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-to-attend-gops-spring-donor-retreat/"
-webUrl: "https://www.cbsnews.com/news/trump-to-attend-gops-spring-donor-retreat/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-to-attend-gops-spring-donor-retreat/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-to-attend-gops-spring-donor-retreat/"
+publishedDateTime: 2021-02-24T12:24:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-republican-spring-donor-retreat/"
+webUrl: "https://www.cbsnews.com/news/trump-republican-spring-donor-retreat/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-republican-spring-donor-retreat/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-republican-spring-donor-retreat/"
 type: article
 quality: 125
 heat: -1
@@ -1407,6 +1407,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "y6yJPCaIEMWpFFtkfAIpRINk1zRRS+v3OUripY7Tq1Ua7SgriqqYE7hx52eFJFPpQhc5coJ6hImCw41TVWxjLZGG91OlAlrDRmLy8+zzy4kWXYr98GCt7wCJIxo7jtEWVlkbFflkHlwyYFjLwdH/OJITRQY07XQsfCWBzkICkZ9oDtLT2jjcf9VeEol7k1B2WIS9+g+2bzA5obWvFT1AZBjRj6ay+IfykXj/sssHYGOCJ0ev5XwHVLEVTArElCIwpTkRqErS6js82mZ1aviIIFi+vzcDIPaX4YYpoReoMVk0q5CMYQsm8EE5mwINOkkGBnbrDo+m8ji/0OTud0+Viw88qyAVx6jUPb+2Fhac44A=;wFMIEHUTkxlVn8UzNYfMIg=="
+secured: "zvxCmufWVTBTKzUmmvdecVLWkHaMSxjmtH55Js+9qvbFjAwK2qGhqMGqYRD7PxQiO/Zf2jHL4Bi0saTPauraySFWIU/mr/kAlqCHkHKsFTjYH3jCBlYMwtvBws2Ac8pocC9hc4jAYsSW93OiV5IHg70GssmTipYtowSR/j9optoT+vKGdBhEUrD/L2v9YXYRec0PRxa7N577dTAvYL7lDuRwf9LXkpcXIFSY4JVHLJN2nDvACFheGN4LdVGt6rwWXGUeIjTFz4KwSTxIpQD8gGs2o+bxbSetx6MSMlKJ5bxgPY+NIKbyLO11AtsV2vABXmlkE1JPLYsT96V/V21R8mZYC2UWwrAxWHVrIhDAnaM=;kH12dsmg33YJlXTvP82c4A=="
 ---
 

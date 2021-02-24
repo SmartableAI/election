@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/chiquita-brooks-lasure-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/chiquita-brooks-lasure-cms-pick/index.html"
 type: article
 quality: 161
-heat: -1
-published: false
+heat: 161
+published: true
 
 provider:
   name: CNN
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Biden's pick to lead Health and Human Services goes before Senate committees"
-    excerpt: "President Joe Biden's choice for the nation's top health official will go before Senate committees on Tuesday and Wednesday, as Republicans attempt to torpedo the nomination.\n    \n"
-    publishedDateTime: 2021-02-23T12:25:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84PHMzbJnGs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/health-and-human-services-confirmation-xavier-becerra/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/health-and-human-services-confirmation-xavier-becerra/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219140325-xavier-becerra-nov-2019-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "uZ3bhxXEgLtKtdTQE1DKi/wiQ9pu67tItZg1wBuFQ47gJeSGsQgE5zgNha1HtCYKICLf5Cz1CZk2GPiKTcr9GJNuRnHgduTKsMuEarjn9PX96z6o1B6IBnsvMKWar7m09Njb5soTsLOlEo7NJjLlvFt0mB2KpBeJ6ES60R3Mw9QjjZOdX1U89tiF4KTB9piobYQvjtkSaiE1+umHIHmB+wcB5odk5WHtyYebtbv9BlgdSowJf9XDz5d6ckYX3QJQUmC4tePZW7GkcRhfX5Dk3Hatqrhah2xbzxyu9NdtXZhJdlU4GwWXmHwGGwBrl6ksuIqt5/eZT/BJlvXBfyATOV+sX8/OYn3dNEueMebAn8E=;mPBO9jpi9IkvACWQrJa4mQ=="
 ---

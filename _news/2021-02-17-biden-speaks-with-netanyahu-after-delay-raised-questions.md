@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 475
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to order review on cracks in critical supply chains"
+    excerpt: "President Joe Biden wants his administration to identify and fix potential cracks in supply chains that could cause shortages of critical items like chips inside cars, minerals in flat-screen televisions, batteries in electric vehicles and ingredients in life-saving medicines.\n    \n"
+    publishedDateTime: 2021-02-24T10:02:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2rrRzfi_AxM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/biden-executive-order-review-supply-chains/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/biden-executive-order-review-supply-chains/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223213522-01-joe-biden-0223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Netanyahu's wait for a call from Biden raises questions about US priorities"
     excerpt: "The White House insists President Joe Biden will \"soon\" speak with Israel's Prime Minister Benjamin Netanyahu, but the wait, which has now stretched beyond three weeks, is raising questions about whether there is a motive behind the delay.\n    \n"
     publishedDateTime: 2021-02-12T02:39:30Z
@@ -92,6 +108,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201133546-biden-netanyahu-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Congress rocked by consequential battles that will shape Biden's presidency"
+    excerpt: "The future of the Biden presidency, the terrain of the midterm elections and the fate of the Republican Party will all be shaped by a series of early battles unfolding on Capitol Hill.\n    \n"
+    publishedDateTime: 2021-02-24T12:22:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bj1lC0JWHNA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/president-joe-biden-congress-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/president-joe-biden-congress-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223213522-01-joe-biden-0223-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

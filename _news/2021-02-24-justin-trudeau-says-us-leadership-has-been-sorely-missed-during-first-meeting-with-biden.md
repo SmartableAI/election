@@ -3,8 +3,8 @@ category: news
 title: "Justin Trudeau says US leadership has been 'sorely missed' during first meeting with Biden"
 excerpt: "Canadian PM congratulates US president on rejoining Paris accord, saying ‘it’s nice when the Americans are not pulling out all the references to climate change’"
 publishedDateTime: 2021-02-24T01:06:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden?fbclid=IwAR04wSscA5bCC9ZDO9nQZ7W483JW7bsxCIbhTmd_E2gMhA3f0BjdygxrXSk"
-webUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden?fbclid=IwAR04wSscA5bCC9ZDO9nQZ7W483JW7bsxCIbhTmd_E2gMhA3f0BjdygxrXSk"
+originalUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+webUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
 type: article
@@ -112,6 +112,6 @@ related:
         height: 682
         isCached: true
 
-secured: "b8SQjTYbHIDjqBWlus/F+s7x2Wd0AyiXDHauyMIavhjmqAdtGLVefdxnS+Iv1k9Mi4VgxuK777q6AMrvVmXvXx5EIuPg6A3e2ypfQilBePyeOxdLCTB12GdfwzbSNiJRctEliJW27o/9K/1ZxZYF8yHTNfX9YcXY1nFcMpY/JZjLHk6aIy7NrAmDBnJQ/WR7r/T4PDZVvyMpkCxMOYExtA2FjkbmHykWVEiPxo52mjGViZ2/mL2qEdax8CS+xFQ8g3AQ+X4/SB2bbWPlm8qer4zSHepRVnJV2RZmwHFDqGw0JYKSrhesB5og3+lyDl968jRiDPpPCpfcZbxLHWhwW+9W/G8aEyR0htji/0zzJps=;3ee+5Z7HU6sDHZRYSivtKA=="
+secured: "pmIkJYgcqELlPl6tbLwqHxxLqwf06Ipz3Rkm5XmznNRjQCQ5JmnpH3vegU3d846FUaVJaESOcgM60gMayqtPBuz8S1IDlWT/zWB8SxTEZ/MDXntmrDPw6Rtwg0kvGpudGS6LJvnDUUI7Jgy1j6unHHEK2842pi3KQdvUUNjbWABkT6M43tGIQpOXpMMa/m+PPNDHs0jzkroFTTD3olAV4LxbhYa8R5FuZkBabmdlJn5Wdu8JEca8UhWA7Nl0WwxBamiyxV1FZKtqwqWagh7QiXDB7JjT8jpWIa5idtpgjTF5AGPfVB6cHqxKgzHzHSm94KGZNsrSoBiO0xCMHHYiSlPUwY4u8JIZkXnga4gAGaY=;qQNjw4nCtD+3DyczPZeQDA=="
 ---
 

@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration changes PPP rules to help reach the smallest businesses"
-    excerpt: "The Biden administration announced several changes Monday to the Paycheck Protection Program in an effort to reach minority-owned and very small businesses that may have previously missed out on accessing loans to help weather the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-02-22T12:23:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EC5YHXJ3WG4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/ppp-loans-biden-administration-small-businesses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/ppp-loans-biden-administration-small-businesses/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126025400-01-los-angeles-restaurant-1123-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "7bEUM4yaqMAg+6b9B1UDVOP17ih/p5J1jBkocsdLqdJzGB0sQNqh1GmU8OWP2qcB8L5Xu0MjFXNc/fKYaJjZ9vNjUfYbVe0rJgS/82PTH8mNxZh/vsoIkm1z0t4pVKvxul8o9UDkyy/wwIb1AqmG/HbG0atgX1yp1e7hy2rsdaQ0rfSPJ90p/W8vjUeY/Wy+nKBQr/yLDJaIXUezAhzvO+shRxvf16xXumb3zIsQ/IMc8FlTrt7LPM0kpcJNsApLmOgoHeCGN1enBvk7vOMr7Pja6zwIJM5Lie2cBYYijCtJVTuFUeNt3M8ADtVE0KiI6CXsTpFjC/Hyrrj4DaBAJNgGIiqgcyU06ioqCBqQGFA=;RWs7kQCUYEaFWj4nTMaM0g=="
 ---

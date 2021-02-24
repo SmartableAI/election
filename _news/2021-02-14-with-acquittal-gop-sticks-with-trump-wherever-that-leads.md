@@ -380,6 +380,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Romney says Trump would win GOP nomination 'in a landslide' in 2024"
+    excerpt: "Romney was among seven Republican senators who joined Democrats in voting in favor of convicting Trump in his second impeachment trial."
+    publishedDateTime: 2021-02-24T12:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/romney-says-trump-would-win-gop-nomination-landslide-2024-n1258709"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 115
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2021_08/3452295/210224-mitt-romney-mc-1143_5edcc34b7355fe57ff6c836a6000bc7c.nbcnews-fp-1200-630.JPG"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump taunts don’t shake McConnell’s hold on Senate GOP"
     excerpt: "The crumbled alliance between Trump and McConnell has finally brought the GOP to the reckoning that never happened after the 2016 election."
     publishedDateTime: 2021-02-23T22:41:00Z

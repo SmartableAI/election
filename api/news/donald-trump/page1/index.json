@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-romney-says-trump-would-win-2024-gop-nomination-in-a-landslide-if-he-ran-for-president.md",
+      "title": "Romney says Trump would win 2024 GOP nomination \"in a landslide\" if he ran for president",
+      "excerpt": "Senator Mitt Romney said that he believes former President Donald Trump would win the Republican presidential nomination if he ran for office in 2024. \"He has by far the largest voice and a big impact in my party,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/mitt-romney-donald-trump-2024-gop-presidential-nomination-future-republican-party/",
+      "originalUrl": "https://www.cbsnews.com/news/mitt-romney-donald-trump-2024-gop-presidential-nomination-future-republican-party/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/02/20/dca06304-522b-4482-9166-317a5a46711f/thumbnail/1200x630g2/6f3546d61ad4b98f6ecdc039c506721f/ap-399758590509.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/mitt-romney-donald-trump-2024-gop-presidential-nomination-future-republican-party/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mitt-romney-donald-trump-2024-gop-presidential-nomination-future-republican-party/",
+      "publishedDateTime": "2021-02-24T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-major-trump-backer-rebekah-mercer-orchestrates-parlers-second-act.md",
+      "title": "Major Trump backer Rebekah Mercer orchestrates Parler’s second act",
+      "excerpt": "Rebekah Mercer, a daughter of a major Republican donor, is a founding investor of Parler, where she reportedly is pulling strings. Mercer holds the majority stake in Parler and controlled two of three board seats as of early February — a board to which she recently appointed allies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W4UB54TWCUI6XFEJR562ZVI6OU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/?outputType=amp",
+      "publishedDateTime": "2021-02-24T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-critics-slam-sen-ron-johnson-for-unfounded-claim-that-fake-trump-protesters-led-riots-its-disgraceful.md",
       "title": "Critics slam Sen. Ron Johnson for unfounded claim that ‘fake Trump protesters’ led riots: ‘It’s disgraceful’",
       "excerpt": "Sen. Ron Johnson (R-Wis.) made false claims minimizing the damage done by a pro-Trump mob during the Jan. 6 Capitol riot.",
@@ -540,7 +644,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1067,
+      "heat": 1087,
       "tags": null,
       "images": [
         {
@@ -1501,120 +1605,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-rush-limbaughs-legacy-of-venom-as-trump-rose-it-all-sounded-familiar.md",
-      "title": "Rush Limbaugh’s Legacy of Venom: As Trump Rose, ‘It All Sounded Familiar’",
-      "excerpt": "Weaponizing conspiracy theories and bigotry long before Donald Trump’s ascent, the radio giant helped usher in the political style that came to dominate the Republican Party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/17/us/politics/17limbaugh-politics1/17limbaugh-politics1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/17/us/politics/limbaugh-death.amp.html",
-      "publishedDateTime": "2021-02-17T16:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-watch-trump-plaza-in-atlantic-city-is-demolished.md",
-      "title": "WATCH: Trump Plaza in Atlantic City is demolished",
-      "excerpt": "Videos show the moment former President Donald Trump's long-standing Trump Plaza in Atlantic City is destroyed in a controlled demolition. The casino and hotel were closed in 2014.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-trump-plaza-in-atlantic-city-is-demolished-101146182002",
-      "originalUrl": "https://www.nbcnews.com/video/watch-trump-plaza-in-atlantic-city-is-demolished-101146182002",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/f_mo_trump_demolish_210217.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo101146182002",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101146182002",
-      "publishedDateTime": "2021-02-17T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

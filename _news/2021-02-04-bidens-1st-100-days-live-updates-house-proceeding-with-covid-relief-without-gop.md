@@ -543,6 +543,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Biden to host bipartisan economy meeting amid supply chain fears – live updates"
+    excerpt: "President will meet group from both houses ahead of expected executive order over chip shortage"
+    publishedDateTime: 2021-02-24T10:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates?page=with:block-60362c508f08614ccf104f93"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/3dac94403a9f9cda85538c0882a2bc7ecf5051a9/1814_744_1671_1003/master/1671.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=973cee32bc8c718a4ee9ea33af1300f1"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Garland confirmation hearing live updates: Biden's AG pick faces Senate questions"
     excerpt: "Live updates of Judge Merrick Garland's confirmation hearing to be attorney general before the Senate Judiciary Committee."
     publishedDateTime: 2021-02-22T15:17:00Z

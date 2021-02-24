@@ -545,10 +545,10 @@ related:
         isCached: true
   - title: "Trump to attend GOP's spring donor retreat"
     excerpt: "Former President Trump is scheduled to attend the Republican National Committee's spring donor retreat in Florida this April, according to a Republican familiar with the situation and an invitation obtained by CBS News."
-    publishedDateTime: 2021-02-24T00:23:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-to-attend-gops-spring-donor-retreat/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-to-attend-gops-spring-donor-retreat/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-to-attend-gops-spring-donor-retreat/"
+    publishedDateTime: 2021-02-24T12:24:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-republican-spring-donor-retreat/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-republican-spring-donor-retreat/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-republican-spring-donor-retreat/"
     type: article
     provider:
       name: CBS News

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's CIA director pick set to face senators in confirmation hearing "
+    excerpt: "President Joe Biden's pick to lead the Central Intelligence Agency, William Burns, will face questions from lawmakers Wednesday during a hearing before the Senate Intelligence Committee, his final hurdle on the path to being confirmed as the first lifelong diplomat to serve as director of the nation's"
+    publishedDateTime: 2021-02-24T11:04:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-x_FChnCdNc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/burns-cia-director-confirmation-hearing/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/burns-cia-director-confirmation-hearing/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210110184425-william-j-burns-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Biden's massive Covid relief bill was put on a glide path to passage"
     excerpt: "It's not supposed to look this easy.\n    \n"
     publishedDateTime: 2021-02-20T01:42:46Z

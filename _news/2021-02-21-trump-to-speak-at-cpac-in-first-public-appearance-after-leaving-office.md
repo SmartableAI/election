@@ -76,6 +76,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "CPAC readies for Florida gathering amid COVID-19, as conservatives ready for Trump bonanza"
+    excerpt: "For many, the Conservative Political Action Conference (CPAC) is essentially one of the last major in-person events without masks or coronavirus pandemic restrictions before the shutdown began."
+    publishedDateTime: 2021-02-24T12:41:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKQ3qEf8N1w/cpac-readies-for-florida-gathering-amid-covid-as-conservatives-ready-for-trump-bonanza"
+    ampWebUrl: "https://www.foxnews.com/politics/cpac-readies-for-florida-gathering-amid-covid-as-conservatives-ready-for-trump-bonanza.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-readies-for-florida-gathering-amid-covid-as-conservatives-ready-for-trump-bonanza.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump to Speak at CPAC in First Public Appearance Since Leaving Office"
     excerpt: "Former President Donald Trump is expected to address the Conservative Political Action Conference on Feb. 28 in Orlando, Fla., in what would be his first public appearance since leaving the White House,"
     publishedDateTime: 2021-02-20T23:02:00Z

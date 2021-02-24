@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
 type: article
 quality: 174
-heat: 214
+heat: 194
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration changes PPP rules to help reach the smallest businesses"
-    excerpt: "The Biden administration announced several changes Monday to the Paycheck Protection Program in an effort to reach minority-owned and very small businesses that may have previously missed out on accessing loans to help weather the coronavirus pandemic.\n    \n"
-    publishedDateTime: 2021-02-22T12:23:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EC5YHXJ3WG4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/ppp-loans-biden-administration-small-businesses/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/ppp-loans-biden-administration-small-businesses/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201126025400-01-los-angeles-restaurant-1123-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration prepares to impose sanctions on Russia over Navalny poisoning "
     excerpt: "The Biden administration is preparing to impose sanctions on Russia in the coming weeks over the poisoning and jailing of Russia opposition leader Alexey Navalny, according to two administration officials familiar with the matter.\n    \n"
     publishedDateTime: 2021-02-23T18:22:05Z

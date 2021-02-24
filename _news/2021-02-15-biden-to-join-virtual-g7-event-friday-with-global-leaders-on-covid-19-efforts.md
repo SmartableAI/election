@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/biden-g7-summit-virtual-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/biden-g7-summit-virtual-covid-19/index.html"
 type: article
 quality: 172
-heat: 252
+heat: 232
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/ott_now_brewster_3p_milwa_210216_1920x1080.jpg"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "WARREN presses BIDEN for DEBT RELIEF — NEW GROUPS eligible for COVID SHOTS — BEACON HILL to probe VAX rollout"
-    excerpt: "President Joe Biden is pretty blunt about where he stands on canceling $50,000 per borrower in student loan debt. “I will not make that happen,” Biden said during a CNN town hall earlier this week. But Sen."
-    publishedDateTime: 2021-02-18T12:23:00Z
-    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/02/18/warren-presses-biden-for-debt-relief-new-groups-eligible-for-covid-shots-beacon-hill-to-probe-vax-rollout-491796"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 96
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
 
 secured: "fStIo4VhETcIpJNW10xM3ccS2tHKTZgO+o/XY0b0dYCpM526PjHnFXADulZvaBsVimIKWmb2pBlSYIJd+/14H4dhcO8heIES3hU8edCwIf+00w9aV2/FIW+ie4sTxONfzWFxAqaP6nPRtIIUSb35ZrclFAznJh0bdQjrdC2fjEIeNkOL0ZGWBm9G5aYCn/d4jpFl8yfKh0PNdFDvsjz43ILdsrvmvA2DOGm3EN/FUHzXYWvtVSQEU8vSwgapqOpjzlyMyzDZrJwYckhTPG2QrhafEEXyHbLpVCkv8vRwGJr1sOnm5ihbQ+x6ceorl/W8F//J45pi3vDWS1AQL6tn9v9fkrQdz+PhLix+FS6qPNA=;9iW8jV6A886U+a6fZVb7Qw=="
