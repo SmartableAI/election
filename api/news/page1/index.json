@@ -338,7 +338,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -440,17 +440,17 @@
     {
       "path": "_news/2021-02-24-romney-says-trump-likely-republican-nominee-if-he-runs-in-2024.md",
       "title": "Romney says Trump likely Republican nominee if he runs in 2024",
-      "excerpt": "Sen. Mitt Romney reportedly said Tuesday if former President Trump were to run again he would likely win the Republican nomination for president. ",
+      "excerpt": "Sen. Mitt Romney reportedly said Tuesday if former President Trump were to run again he would likely win the Republican nomination for president.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TCg92s_j7E0/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TCg92s_j7E0/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024",
+      "webUrl": "https://www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024",
+      "originalUrl": "https://www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -466,7 +466,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024.amp",
-      "publishedDateTime": "2021-02-23T20:48:46-08:00",
+      "publishedDateTime": "2021-02-23T21:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -490,6 +490,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -950,7 +951,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 194,
+      "heat": 214,
       "tags": null,
       "images": [
         {

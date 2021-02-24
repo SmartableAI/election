@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-24-2021.am
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-24-2021.amp"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Dozens of House Democrats want Biden to give up sole authority to launch nuclear weapons"
+    excerpt: "About three dozen House Democrats have signed a letter asking President Biden to renounce his sole authority to launch nuclear weapons, according to reports."
+    publishedDateTime: 2021-02-24T15:29:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvwKJTWXLDA/democrats-biden-rescind-sole-nuclear-capabilities"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-biden-rescind-sole-nuclear-capabilities.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-biden-rescind-sole-nuclear-capabilities.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/military-aide-carries.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Live Updates: Biden says team on track to surpass 100 million vaccine doses in first 100 days"
     excerpt: "Biden provided the update as he and Vice President Kamala Harris spoke to Arizona health care officials"
     publishedDateTime: 2021-02-09T08:42:37Z

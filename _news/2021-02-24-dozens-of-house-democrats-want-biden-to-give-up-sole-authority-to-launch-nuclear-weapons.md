@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Live Updates: Biden says team on track to surpass 100 million vaccine doses in first 100 days"
-excerpt: "Biden provided the update as he and Vice President Kamala Harris spoke to Arizona health care officials"
-publishedDateTime: 2021-02-09T08:42:37Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-W-8C32SZk/live-updates-biden-2-9-2021"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-W-8C32SZk/live-updates-biden-2-9-2021"
-ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-9-2021.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-9-2021.amp"
+title: "Dozens of House Democrats want Biden to give up sole authority to launch nuclear weapons"
+excerpt: "About three dozen House Democrats have signed a letter asking President Biden to renounce his sole authority to launch nuclear weapons, according to reports."
+publishedDateTime: 2021-02-24T15:29:31Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvwKJTWXLDA/democrats-biden-rescind-sole-nuclear-capabilities"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvwKJTWXLDA/democrats-biden-rescind-sole-nuclear-capabilities"
+ampWebUrl: "https://www.foxnews.com/politics/democrats-biden-rescind-sole-nuclear-capabilities.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-biden-rescind-sole-nuclear-capabilities.amp"
 type: article
-quality: 164
+quality: 166
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86aadf47-31ea-4598-9cba-7cd27d2b6cde/abac50d9-7116-4733-80ee-f940bcb5916e/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/military-aide-carries.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Dozens of House Democrats want Biden to give up sole authority to launch nuclear weapons"
-    excerpt: "About three dozen House Democrats have signed a letter asking President Biden to renounce his sole authority to launch nuclear weapons, according to reports."
-    publishedDateTime: 2021-02-24T15:29:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HvwKJTWXLDA/democrats-biden-rescind-sole-nuclear-capabilities"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-biden-rescind-sole-nuclear-capabilities.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-biden-rescind-sole-nuclear-capabilities.amp"
+  - title: "Live Updates: Biden says team on track to surpass 100 million vaccine doses in first 100 days"
+    excerpt: "Biden provided the update as he and Vice President Kamala Harris spoke to Arizona health care officials"
+    publishedDateTime: 2021-02-09T08:42:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-W-8C32SZk/live-updates-biden-2-9-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-9-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-9-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/military-aide-carries.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86aadf47-31ea-4598-9cba-7cd27d2b6cde/abac50d9-7116-4733-80ee-f940bcb5916e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "LIVE UPDATES: Joe Biden's education relief plan would see fraction go toward schools this year, CBO estimates"
     excerpt: "The CBO estimates that the number would increase to $32 billion in 2022 and 2023, respectively."
@@ -80,6 +80,6 @@ related:
         height: 720
         isCached: true
 
-secured: "W4nXkvqZCG17DjXghIPVbMloloBT+65iAx4hUxtlxKB3dIcx5hZEZno0BbcRhhZmIpNWcc2XAHI0/5iujoEh4GoM+rmELIOVifS3Ik/VScHKRiCh7MI5yULHQpgw6N3ShQ+BXG7LumNlVElztiyHS0D5xWhKKW3/umbFcj/8iIeDNrSzaaU3Ri1N81uadzIxFnI8/MbhdfzobxhZZpJMqrbvmoo9CzLiZe61pyZRNkYpxflUvKN2U0/WfpMd7UTwlbJqN6R/OzzMZC6cnKPu+Jjrl+0Qr2sha8zRiZ8TVNDHQ0oUCWO3g8EVM5w/+a40h1S/lvYu6bLxxM6ingl0humIOdpilCzSwEYjWWpKy38=;W/aJk/ujaZmDeF1DAvmtJw=="
+secured: "sOKygz+ipMI6D4lbdy1HNpxZmkaTEwPzK2SidTdhp0zpJybVS76D4f+4GqHXcZDLyWbsfhwz82BZwKkOPNCk9lfhI3lnX4/9jaxAvHpGJRYkSYmGJ7QRo5qVlzZelkzPs+Ox0p3yoqNUh1pzyo0pLQioyBI8qhrYBO5yj3ceI2vLwRL0Lp8YlnxqEa+uh26TwoW/vqES2HY0fqxiP50gz7W4cPHJ9nm1lnKxTZYzlx2J+FWUD6dL0UiVQu3AcacM0svXhs74zNLCIG5BrUfuusfJ1rGoPucXXtLYmrvGVZE75NyCik+mW9gJ3YJJSWP1qzCIfyNc+dYYK9V34jWnz76UxUNIywQhP5STsHK2oGM=;9LFOGNKQhoMcg4pw4KjtJQ=="
 ---
 

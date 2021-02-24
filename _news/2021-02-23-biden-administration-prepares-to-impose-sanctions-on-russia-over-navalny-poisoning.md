@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration to send 25 million masks to community health centers and food pantries "
+    excerpt: "The Biden administration said Wednesday it would send more than 25 million masks to community health centers, food pantries and soup kitchens across the country in order to reach some of the nation's most vulnerable populations.\n    \n"
+    publishedDateTime: 2021-02-24T16:38:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hJryPS5hZX0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/biden-25-million-masks-community-health-centers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/biden-25-million-masks-community-health-centers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222181225-03-biden-covid-deaths-0222-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "7bEUM4yaqMAg+6b9B1UDVOP17ih/p5J1jBkocsdLqdJzGB0sQNqh1GmU8OWP2qcB8L5Xu0MjFXNc/fKYaJjZ9vNjUfYbVe0rJgS/82PTH8mNxZh/vsoIkm1z0t4pVKvxul8o9UDkyy/wwIb1AqmG/HbG0atgX1yp1e7hy2rsdaQ0rfSPJ90p/W8vjUeY/Wy+nKBQr/yLDJaIXUezAhzvO+shRxvf16xXumb3zIsQ/IMc8FlTrt7LPM0kpcJNsApLmOgoHeCGN1enBvk7vOMr7Pja6zwIJM5Lie2cBYYijCtJVTuFUeNt3M8ADtVE0KiI6CXsTpFjC/Hyrrj4DaBAJNgGIiqgcyU06ioqCBqQGFA=;RWs7kQCUYEaFWj4nTMaM0g=="
 ---

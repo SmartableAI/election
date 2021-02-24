@@ -1,0 +1,69 @@
+---
+category: news
+title: "Biden administration to send 25 million masks to community health centers and food pantries "
+excerpt: "The Biden administration said Wednesday it would send more than 25 million masks to community health centers, food pantries and soup kitchens across the country in order to reach some of the nation's most vulnerable populations.\n    \n"
+publishedDateTime: 2021-02-24T16:38:01Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hJryPS5hZX0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hJryPS5hZX0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/biden-25-million-masks-community-health-centers/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/biden-25-million-masks-community-health-centers/index.html"
+type: article
+quality: 164
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222181225-03-biden-covid-deaths-0222-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Biden says administration will 'probably' mail out millions of masks soon"
+    excerpt: "President Joe Biden said Tuesday the White House will \"probably\" move to send face masks directly to Americans as the country continues to grapple with the coronavirus pandemic. It's a plan originally proposed by health officials during the Trump administration but was blocked by the former President.\n"
+    publishedDateTime: 2021-02-23T20:39:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONiUqXYU7rQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221115959-anthony-fauci-mask-210121-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration prepares to impose sanctions on Russia over Navalny poisoning "
+    excerpt: "The Biden administration is preparing to impose sanctions on Russia in the coming weeks over the poisoning and jailing of Russia opposition leader Alexey Navalny, according to two administration officials familiar with the matter.\n    \n"
+    publishedDateTime: 2021-02-23T18:22:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TvKJJADikGg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-prepares-russia-sanctions/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-prepares-russia-sanctions/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204183157-cnn-red-biden-navalny-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "vT1RJLconYU1IZz5uYFaKynURbp5L8XNTA2VDv+damlNv9gEtaUP99w3MnrTfXkM5P1k/SShRtQFkcBss1D1Vq9F+fmrZ9Ya2uw/FZ9I3fmDkq2XpMpV5S9OpbLNx9A0/nqwVE8hFP82gRIGgJUOOYyPqSOLAQfPMHYf3vdiRZK2srahK4hbRQQVjvNyvCkxhy6bUzJn7/aACaG8M4kYnznr86UndPtQO0cwanj8bpkcPI5wPK8DUlsM/ZXQ4IGWoAC7bxJk/c11O/CoK14jvY7d5+hy6zLPgfGxFOF+tUfDuErsjNbE147p5u/EJZ9S8UNKZNHLXrEh+HPC9bG/0226LZkWjGtBbAc7yrxw7RU=;FAQ5cBGJQEffQkbRCh4j1A=="
+---
+

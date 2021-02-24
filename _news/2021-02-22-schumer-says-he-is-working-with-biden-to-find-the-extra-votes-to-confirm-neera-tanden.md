@@ -298,6 +298,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden's new Paris pledge"
+    excerpt: "The U.S. will update its climate emissions target under the Paris agreement ahead of President Joe Biden's planned global summit with world leaders on April 22. — Biden's pick to lead the Interior Department,"
+    publishedDateTime: 2021-02-24T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-energy/2021/02/24/bidens-new-paris-pledge-793554"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "QXgofH1lfd++y2V+ie0NqEkF4LugskNzqWBL6fkZnSeqd45Z3gaTnwPzetzb2Mcghc44p2BKJSmlURzl/smOC0Y9n0nO7ditq555STrpNd6oOHNJIkib4I0MuNWhEFESVPWt92ChqfaYgCrySC7aUi3RTCFi6AztTrQcoU0fjWCvjhM6B5+LpALa+orzq8u1ya+1RlW6xp5NgWFDxdIU5bGPF2zztIJwjf6qmxHayV4YBHg/nAs8ON5o6SXavjgqurMo681wSO431+YBRqElfRYWf8hm+VobZytbJEvGF/Vr5aS/sWWsrLtOfoK2CfjtE1gKYsijMuYy+HI2Mj2wsCxSyWvBsPnsKfMAhZn2yhQ=;iC8FMt/eAFZHWWmY6xDbtA=="
 ---

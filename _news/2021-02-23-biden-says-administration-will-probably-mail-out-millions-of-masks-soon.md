@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
 type: article
 quality: 174
-heat: 194
+heat: 214
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204183157-cnn-red-biden-navalny-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to send 25 million masks to community health centers and food pantries "
+    excerpt: "The Biden administration said Wednesday it would send more than 25 million masks to community health centers, food pantries and soup kitchens across the country in order to reach some of the nation's most vulnerable populations.\n    \n"
+    publishedDateTime: 2021-02-24T16:38:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hJryPS5hZX0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/biden-25-million-masks-community-health-centers/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/biden-25-million-masks-community-health-centers/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222181225-03-biden-covid-deaths-0222-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

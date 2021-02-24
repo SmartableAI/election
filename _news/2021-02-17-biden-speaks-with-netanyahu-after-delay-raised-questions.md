@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netan
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/joe-biden-benjamin-netanyahu-israel-us-call/index.html"
 type: article
 quality: 175
-heat: 515
+heat: 535
 published: true
 
 provider:
@@ -282,6 +282,20 @@ related:
       - url: "https://static.politico.com/3a/09/3b9ac1e84dbfad35c8bbdf0d6232/210220-tanden-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden's new Paris pledge"
+    excerpt: "The U.S. will update its climate emissions target under the Paris agreement ahead of President Joe Biden's planned global summit with world leaders on April 22. — Biden's pick to lead the Interior Department,"
+    publishedDateTime: 2021-02-24T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-energy/2021/02/24/bidens-new-paris-pledge-793554"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "Schumer says he is working with Biden 'to find the extra votes' to confirm Neera Tanden"
     excerpt: "Senate Majority Leader Chuck Schumer said Sunday he is working with President Joe Biden to gather the support needed to confirm Neera Tanden as director of the Office of Management and Budget."

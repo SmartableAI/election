@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Romney says Trump likely Republican nominee if he runs in 2024"
-excerpt: "Sen. Mitt Romney reportedly said Tuesday if former President Trump were to run again he would likely win the Republican nomination for president. "
-publishedDateTime: 2021-02-24T04:48:46Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TCg92s_j7E0/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TCg92s_j7E0/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024"
+excerpt: "Sen. Mitt Romney reportedly said Tuesday if former President Trump were to run again he would likely win the Republican nomination for president."
+publishedDateTime: 2021-02-24T05:05:00Z
+originalUrl: "https://www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024"
+webUrl: "https://www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024"
 ampWebUrl: "https://www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024.amp"
 type: article
-quality: 175
-heat: 195
+quality: 135
+heat: 135
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -30,24 +31,6 @@ images:
     height: 720
     isCached: true
 
-related:
-  - title: "Mitt Romney says Trump would win 2024 GOP nomination if he ran for president again"
-    excerpt: "Senator Mitt Romney said that President Donald Trump would win the GOP nomination “in a landslide” if he decided to make a run for The White House again in 2024. Romney (R –"
-    publishedDateTime: 2021-02-24T09:16:00Z
-    webUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/"
-    ampWebUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 129
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-romney.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "h8M7iCbdVaHYd9xPCoZKNrV5CeRihQEFjrhxh2CgWXwf2F9lsVH217LoZ//jqhyV/Smouhdbb964NceyuRCbqOF2jcWQo8XfTqtLoNhoQb93UvArsnR4LCJWMtVrVkJHB/HW5OLMOYqjCYYGsgLDuMoB0J2MIYj8sYzJFglROFQ3kGZ4Cx53YTmn3J4S1/KiAl0GZuVtfzwtOpDLfhA8oAlU10F0PvErQNf7FrxigHFH3HWN7H7c2qfWOkpL37zzTng2zMVBdB5mp31oOITLnlODvh4/g1FWlR5KDelXWa420gQvWWlw1pYlhde8rRC4CoNwoS2+VUizd9OiAs7cEIh8ShkOxpayOdE10GjCq/U=;dqElgIDuoZmCUSIHmX9J6w=="
+secured: "Qdy+MkQHyiPZPSHToG1Sk5Em3rB8evvcggoHStzezoavRoXvD2FASAQPDd3YwqN/BlZ7M4mblZTCmaafp104gnTWlZcqs6VeOGdebqfDlo2UpP2eK2DA3GZhhZrIVOdoOBPwxaAqQORPfZ0WpLR+hAxT+a+X1u2ZyPsaYtCaG2DvwkUPWbDFB4Ue4POEw77pXpg9yOtDnwhrBNQZSYM3ROaJLY3Tx4uIrIXRM4gWtf5nVLnDn2wkQ9LI7Qb7vtB9KaEkkTzxaF+obmQtJIhXty87oV3s0398qrnjJtrRdOqXQ6AiIXO9hf5jXPuYkbqrAVCwQq0SCxPTRWqezu8snufj8xZPdFEeIekCuxR06uM=;XnuwPVnG7vCGIztWtBFCeg=="
 ---
 

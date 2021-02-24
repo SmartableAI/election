@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Is Tanden toast? And why Biden is wary of touching reparations"
-excerpt: "For Biden and his administration, that’s meant studiously avoiding the kinds of cultural issues that have tripped up some of his predecessors early in their terms. This week, we asked Press Secretary JEN PSAKI about Biden’s support for HR 40,"
-publishedDateTime: 2021-02-20T15:36:00Z
-originalUrl: "https://www.politico.com/newsletters/playbook/2021/02/20/is-tanden-toast-and-why-biden-is-wary-of-touching-reparations-491820"
-webUrl: "https://www.politico.com/newsletters/playbook/2021/02/20/is-tanden-toast-and-why-biden-is-wary-of-touching-reparations-491820"
+title: "Biden's new Paris pledge"
+excerpt: "The U.S. will update its climate emissions target under the Paris agreement ahead of President Joe Biden's planned global summit with world leaders on April 22. — Biden's pick to lead the Interior Department,"
+publishedDateTime: 2021-02-24T15:00:00Z
+originalUrl: "https://www.politico.com/newsletters/morning-energy/2021/02/24/bidens-new-paris-pledge-793554"
+webUrl: "https://www.politico.com/newsletters/morning-energy/2021/02/24/bidens-new-paris-pledge-793554"
 type: article
 quality: 115
 heat: -1
@@ -24,9 +24,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/3a/09/3b9ac1e84dbfad35c8bbdf0d6232/210220-tanden-ap-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+    width: 1120
+    height: 629
     isCached: true
 
 related:
@@ -284,19 +284,19 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "Biden's new Paris pledge"
-    excerpt: "The U.S. will update its climate emissions target under the Paris agreement ahead of President Joe Biden's planned global summit with world leaders on April 22. — Biden's pick to lead the Interior Department,"
-    publishedDateTime: 2021-02-24T15:00:00Z
-    webUrl: "https://www.politico.com/newsletters/morning-energy/2021/02/24/bidens-new-paris-pledge-793554"
+  - title: "Is Tanden toast? And why Biden is wary of touching reparations"
+    excerpt: "For Biden and his administration, that’s meant studiously avoiding the kinds of cultural issues that have tripped up some of his predecessors early in their terms. This week, we asked Press Secretary JEN PSAKI about Biden’s support for HR 40,"
+    publishedDateTime: 2021-02-20T15:36:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/20/is-tanden-toast-and-why-biden-is-wary-of-touching-reparations-491820"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://static.politico.com/3a/09/3b9ac1e84dbfad35c8bbdf0d6232/210220-tanden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "Schumer says he is working with Biden 'to find the extra votes' to confirm Neera Tanden"
     excerpt: "Senate Majority Leader Chuck Schumer said Sunday he is working with President Joe Biden to gather the support needed to confirm Neera Tanden as director of the Office of Management and Budget."
@@ -313,6 +313,6 @@ related:
         height: 619
         isCached: true
 
-secured: "3PGAoSflBupj2cV/hBB4srxlXyOXGgp0LlaIGVUQe68mGuOzK04khAG4xGKs3JQFF9ac1SU6KnSumYGuAad1ZmFf0kzzOkQ24Zj7bUeTRNpyGp9z4sX/GkqB8tGr1y0ED9G020FX9RkC59rR/EZmUv8GLnd4XgbkihQkg1XQSngKiZmxu9wNU/uY+ucB4GdqGeWonPDAdU5twYGEpY1GQrTUf3zEjfRCMrp4UHEN9ND06/zQ8X52JdmVQGnXxl+MLhhato1I5VHu0HdrO7yNNFEdu0Nlmp2okL+/ZkaWTSiBQJ+IeYeQzhr1lCyzWHHQQXuBfmelgpKiE3rfjHoPNjC+QCnXGDK5KvCEPM0lubNdkuOr5i3qmH4QPTZUbRnSe3b/9HRNHBiJpmaGs2Sk4HGFxIbg1dwwPRXY7MufJeH/Wu09ks5wZjlnF2s+eTXvTY7juuSBNI/PDCOeusJ1k8Hg+EzD8HfIk3+KSkKqpRveGxKmLV4K5qlscenMHz7aXuyN7f1FvcDxWNp0FYedVg==;vgbs7nW5ScMmZTXPML7N3g=="
+secured: "z4g308mDOVGWmP3f1YkIZ80mq2SJNqwPnf4SyZ6tkSXyEq4sr+PHbAszUjrKl/IeQY9GTlPvl2E0MzcAILVorLQQvrNIHVbO+dWbPYqk2x7VSgrrEAvN8eg1z1uuHO+thcR+xjTL6whavryf+wgJCkWmDAUU8g53UOo7wHMCjh6dD6X5meHP26DyYf78cd9zmUiyGdyL+34+oyWM73ylSavVKNgo13azWVg5sjzJNta71cVbv7KSoCX1y2Gz6LY7W5pkk4UAluIQLBOwE0IEmud9cK+ft+PPcG844vn8AYUKc81PfABwi9hz/aZV5/6zyee/E1Mi5z2pmwR+YH6ErNGFiEM2hKAm486Vcbo6Z1E=;fSV9Awk9f1iMnMk2I3iL4Q=="
 ---
 
