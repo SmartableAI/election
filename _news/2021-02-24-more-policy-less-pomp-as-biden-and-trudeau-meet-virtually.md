@@ -1,51 +1,51 @@
 ---
 category: news
-title: "Biden-Trudeau meeting: Canadians glad to get beyond Trump, but new administration brings new friction"
-excerpt: "Relations between the leaders are likely to be more harmonious, but they differ on pipeline projects, Biden's \"Buy American\" policies and, possibly, vaccine cooperation."
-publishedDateTime: 2021-02-23T11:00:00Z
-originalUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/"
-webUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/"
-ampWebUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
+title: "More policy, less pomp as Biden and Trudeau meet virtually"
+excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
+publishedDateTime: 2021-02-24T02:16:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
+webUrl: "https://abcnews.go.com/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
 type: article
 quality: 125
-heat: 205
-published: true
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AKLUKDAAYI6XILXO5S7FGUVEQ.jpg&w=1440"
-    width: 1440
-    height: 962
+  - url: "https://s.abcnews.com/images/Politics/WireAP_0067a91419334861af58da6fd748679b_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "More policy, less pomp as Biden and Trudeau meet virtually"
-    excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
-    publishedDateTime: 2021-02-24T02:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
+  - title: "Biden-Trudeau meeting: Canadians glad to get beyond Trump, but new administration brings new friction"
+    excerpt: "Relations between the leaders are likely to be more harmonious, but they differ on pipeline projects, Biden's \"Buy American\" policies and, possibly, vaccine cooperation."
+    publishedDateTime: 2021-02-23T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/"
+    ampWebUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_0067a91419334861af58da6fd748679b_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AKLUKDAAYI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 962
         isCached: true
   - title: "More policy, less pomp as Biden-Trudeau meet virtually"
     excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
@@ -96,6 +96,6 @@ related:
         height: 682
         isCached: true
 
-secured: "3F7BjqnSGunzS3Xf/GBScvWk6DZBB3jHcseWZNhmhTrNByNg0TLRUw+9sXkB+Kp5v0V6TrRgBDUw/lFyiyIaWQrOwXExTQ2XOhSU4zNamDfJPJ7IbGwb/6NwjaDUSmVMOe4pK5aJ3+WmfkerGp/ufXOdiJXRe30OiRoCGBLuoLSX4KjR6b38VL9a7fGAX3JQ0XXqcIXEt4IE/Fve4UBaxCgl7DLgrPRkh1Na39NjA/PKYWMxFugbwfBtB3T1xsMQSXeNyMw+g+jJ8ZI44wpQoDASGFywiuCWOIf3sxcRmmQ5x6wfIPx+CejATbtDkwF0XdyfL6ljmj0pMjh68NCZqzdHuzupitTSzxRfJQlmTiT35RGZos4Ksisv/CRk4ZfK0M+8bLNOq8T5PYZMqF2XjNEIWW9W4os24ydkVWinnYwdnSXHr2fvPW/WrLPLLSGyffBRbhmn4bRYbrGAPKjNkHeeJB7WGbqpTuFLvuYsMxPMHvL/vcALFP2aVeOUwtUP8xL97e9RearRBuT1bWleAQ==;GBZFFsMUEQwOYKrqvYeRyw=="
+secured: "PQuL55Fs8ny/4E4QGg9O9h0AeTJMoaVUMFBbRoNNujPBC4sMQfWDjNZdIlAt5IEdG1zi3jyXaNNxGy0p7qs/8EpBEcmX/IrySfS4wolW0pYYFdILBukywITESYV6z5CM9ukije+ug1N/FLhrV9JaPvqIIzwPr3rjUVr0wD1tNpssUEVmBv+PJ+xWnQohz0ibnf8lQ9JjDtAdGgK+3sA80Im1Aej8zr+DJWdLG0ON3cRdtgqbn4LJ6fVdVLD/egWDYSKenseO17VON387VOJwQ6FDRIl0Z7j6XJ3ZhLtRIPWeM8Bv3sKhyHR+GkRoX789GJJj92YNiKHA6Ur+xjQKycyuvg4AZWN99ZcxHO8Hbws=;f6lJ+0wxlOoeY5iWYQylXA=="
 ---
 

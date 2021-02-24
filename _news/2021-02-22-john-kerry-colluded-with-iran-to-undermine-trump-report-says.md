@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/john-kerry-iran-trump-biden-washing
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kerry-iran-trump-biden-washington-times.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Romney says Trump likely Republican nominee if he ran in 2024"
+    excerpt: "Sen. Mitt Romney reportedly said Tuesday if former President Trump were to run again he would likely win the Republican nomination for president. "
+    publishedDateTime: 2021-02-24T04:48:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zZPFa-dUG6c/romney-says-trump-would-be-republican-noominee-if-he-ran-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/romney-says-trump-would-be-republican-noominee-if-he-ran-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-says-trump-would-be-republican-noominee-if-he-ran-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/719aef80-9299-4f19-8167-e35b9b675e7b/b035c72e-7866-4a53-b1aa-5f42e54dda76/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "White House to freeze out Mohammed bin Salman, Saudi prince who was close to Trump White House"
     excerpt: "President Joe Biden is recalibrating U.S. diplomatic relations with Saudi Arabia, deploying a new approach that includes sidestepping Crown Prince Mohammed bin Salman, who had a close relationship with the Trump administration."
     publishedDateTime: 2021-02-17T02:07:48Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-asks-high-court-to-drop-2-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp"
 type: article
 quality: 190
-heat: 710
+heat: 750
 published: true
 
 provider:
@@ -287,6 +287,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden mum on declaring Uighur abuses genocide even as Canada's parliament does so"
+    excerpt: "President Biden has yet to declare reported atrocities by China against Uighurs in Xinjiang province to be genocide even after Canada’s parliament voted Monday to pass a nonbinding motion applying the classification and Europe increases pressure on the Chinese Communist government."
+    publishedDateTime: 2021-02-24T03:43:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7WPkqm_FC54/global-community-pressure-china-on-uighur-abuses-biden-remains-mum-on-genocide-declaration"
+    ampWebUrl: "https://www.foxnews.com/politics/global-community-pressure-china-on-uighur-abuses-biden-remains-mum-on-genocide-declaration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/global-community-pressure-china-on-uighur-abuses-biden-remains-mum-on-genocide-declaration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e6ba441-6c4c-4109-a2bc-0b9e22da9c6f/99201b4f-f627-459a-a870-4444f62d790b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Thinking about 2024? Biden’s first trips as president are to two battleground states"
     excerpt: "President Biden’s hitting the road again – getting out of Washington for the second time this week as he makes the case for his top priority in the early days of his administration – a $1.9 trillion COVID relief package."
     publishedDateTime: 2021-02-19T23:15:39Z
@@ -414,6 +430,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/ned-price-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Hannity: Biden facilities for immigrant minors identical to Trump administration's 'cages'"
+    excerpt: "The Biden administration's solution to an increase in the number of unaccompanied minors at the southern border is no different from the Trump administration's measures that were blasted by the mainstream media,"
+    publishedDateTime: 2021-02-24T04:07:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-biden-facility-immigrant-minors-identical-trump-cages"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-biden-facility-immigrant-minors-identical-trump-cages.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-facility-immigrant-minors-identical-trump-cages.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 140
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffe6cac6-c7cc-49c4-a04c-72a9c99592f7/2f0b5bbd-2b19-4ac3-bdb2-6895cb5206ea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Pro-Trump Candidates Launch Early Senate, Governor Bids"
     excerpt: "Republican hopefuls are betting that former President Donald Trump’s enduring popularity with the GOP base can help propel them into office."

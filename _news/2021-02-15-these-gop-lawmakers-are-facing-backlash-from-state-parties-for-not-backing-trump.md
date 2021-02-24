@@ -349,6 +349,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Romney predicts Trump would win the 2024 G.O.P. nomination if he ran for president."
+    excerpt: "I would probably be getting behind somebody who I thought more represented the tiny wing of the Republican Party that I represent,” Mr. Romney said."
+    publishedDateTime: 2021-02-24T03:10:00Z
+    webUrl: "https://www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/23/us/politics/23new-washington-briefing-romney/23new-washington-briefing-romney-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "McConnell's next chapter: Guiding the post-Trump GOP"
     excerpt: "The Kentuckian is the GOP's de facto leader for at least the next two years, as Trump remains exiled in Florida with no real public platform."
     publishedDateTime: 2021-02-14T12:05:00Z

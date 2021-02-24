@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 962
         isCached: true
+  - title: "More policy, less pomp as Biden and Trudeau meet virtually"
+    excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
+    publishedDateTime: 2021-02-24T02:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0067a91419334861af58da6fd748679b_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden seeks to 'reinvigorate' US-Canada relations in first bilateral meeting with Trudeau"
     excerpt: "The U.S.-Canada relationship was deeply strained during the Trump administration, with tensions spiking over trade and spilling over into personal insults."
     publishedDateTime: 2021-02-23T10:12:00Z

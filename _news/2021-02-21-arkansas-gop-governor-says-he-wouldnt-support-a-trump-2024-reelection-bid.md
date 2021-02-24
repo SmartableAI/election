@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-ree
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-reelection-2024-cnntv/index.html"
 type: article
 quality: 188
-heat: 628
+heat: 648
 published: true
 
 provider:
@@ -348,6 +348,22 @@ related:
       - url: "https://media1.s-nbcnews.com/j/newscms/2021_07/3450196/210215-donald-trump-mc-12382_e59fc92ce31ccb96d8a2bcdab73f03a0.nbcnews-fp-1200-630.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Romney predicts Trump would win the 2024 G.O.P. nomination if he ran for president."
+    excerpt: "I would probably be getting behind somebody who I thought more represented the tiny wing of the Republican Party that I represent,” Mr. Romney said."
+    publishedDateTime: 2021-02-24T03:10:00Z
+    webUrl: "https://www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 129
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/23/us/politics/23new-washington-briefing-romney/23new-washington-briefing-romney-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "McConnell's next chapter: Guiding the post-Trump GOP"
     excerpt: "The Kentuckian is the GOP's de facto leader for at least the next two years, as Trump remains exiled in Florida with no real public platform."

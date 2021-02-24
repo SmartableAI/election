@@ -1,33 +1,34 @@
 ---
 category: news
-title: "GOP senators facing reelection in 2022 keep mum on McConnell amid divisive fight with Trump"
-excerpt: "Republican senators are trying to stay out of the fray between former President Donald Trump and their leader, Sen. Mitch McConnell.\n    \n"
-publishedDateTime: 2021-02-18T22:20:29Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/brcx77tnGxk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/brcx77tnGxk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/senate-republicans-2022-mcconnell-trump/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/senate-republicans-2022-mcconnell-trump/index.html"
+title: "Romney predicts Trump would win the 2024 G.O.P. nomination if he ran for president."
+excerpt: "I would probably be getting behind somebody who I thought more represented the tiny wing of the Republican Party that I represent,” Mr. Romney said."
+publishedDateTime: 2021-02-24T03:10:00Z
+originalUrl: "https://www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.html"
+webUrl: "https://www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.html"
+ampWebUrl: "https://www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.amp.html"
 type: article
-quality: 180
+quality: 129
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230094039-split-donald-trump-mitch-mcconnell-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/02/23/us/politics/23new-washington-briefing-romney/23new-washington-briefing-romney-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -44,6 +45,22 @@ related:
     quality: 188
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221100458-hutchinson-sotu-vpx-2-21-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "GOP senators facing reelection in 2022 keep mum on McConnell amid divisive fight with Trump"
+    excerpt: "Republican senators are trying to stay out of the fray between former President Donald Trump and their leader, Sen. Mitch McConnell.\n    \n"
+    publishedDateTime: 2021-02-18T22:20:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/brcx77tnGxk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/senate-republicans-2022-mcconnell-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/senate-republicans-2022-mcconnell-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 180
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230094039-split-donald-trump-mitch-mcconnell-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -349,22 +366,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Romney predicts Trump would win the 2024 G.O.P. nomination if he ran for president."
-    excerpt: "I would probably be getting behind somebody who I thought more represented the tiny wing of the Republican Party that I represent,” Mr. Romney said."
-    publishedDateTime: 2021-02-24T03:10:00Z
-    webUrl: "https://www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/us/politics/romney-trump-landslide-2024.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 129
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/23/us/politics/23new-washington-briefing-romney/23new-washington-briefing-romney-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "McConnell's next chapter: Guiding the post-Trump GOP"
     excerpt: "The Kentuckian is the GOP's de facto leader for at least the next two years, as Trump remains exiled in Florida with no real public platform."
     publishedDateTime: 2021-02-14T12:05:00Z
@@ -394,6 +395,6 @@ related:
         height: 773
         isCached: true
 
-secured: "VDjm6iRMr4kfS1WM4aFNMvQVLldbdafocDxYkURqYSxrH9y83BORW0xQknxE4GXpbSWrlTAJsvdG1UjxQqMo/nHt1yxgmdJkqMiBxZ6p1GDhCzaUY1ZA729SB0/S6wzCXmnP9ZgRTBbCTk6o/BNno2yMsz4yygUaDRLYlDsbgBaHDTafQwQhINjCo7r9RIfQtsQkOvoGFhDdRDSM0mtepfTPTe3C1dyq16F4R71voljOThb8Q7npSbHLH369kP3K0RvlqRrWtWAtCKEZbx7ix/e0oyxZJhFwbAbGeIwllFBrlJl3CQrjqL4CbkIVi4zybGPG/EH9sm4jMuOSSqDwiC1U2+E3pK/G7gm+sZFgGLo=;+JF/5PAvsOllxsOumdNdwQ=="
+secured: "aEaLXGvw7DQt/050/bpfYafTvuszIo5t5XszZGEB83Cr6WrpG1DYZlNlInQMBBA5tq/H8AYGKfyEl4ML2i8qdXNn2Fp7Hs9+pF+tn/VtcFBi9u1Gtu5N/Ms4mBHh+cVFLwcyft/fhbaMgd3RlpunZdlVU1WoiOriEeZjz7lQQsBl8jlcVcOHk+3K+XiOBYsVkQAcm/rTLKFNDy5M3NWXkgPektxnPK/qA8Z7sNNeIrQa82nZL26VEctEBDdiCH/3w7lKj22dNHdPjrYxNo8qX0ou6XuXAXpytiqGHZYUub2HaPqyKWFd9MdkQh4NFJmkgAKUhqjbCa1S5jkjXr0PUoaOQGBG88Z0EDXp4dSnQRQ=;1iGZVO0hLglsT+XfJKfwiA=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Thinking about 2024? Biden’s first trips as president are to two battleground states"
-excerpt: "President Biden’s hitting the road again – getting out of Washington for the second time this week as he makes the case for his top priority in the early days of his administration – a $1.9 trillion COVID relief package."
-publishedDateTime: 2021-02-19T23:15:39Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FPQiQhnae-M/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FPQiQhnae-M/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states"
-ampWebUrl: "https://www.foxnews.com/politics/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states.amp"
+title: "Hannity: Biden facilities for immigrant minors identical to Trump administration's 'cages'"
+excerpt: "The Biden administration's solution to an increase in the number of unaccompanied minors at the southern border is no different from the Trump administration's measures that were blasted by the mainstream media,"
+publishedDateTime: 2021-02-24T04:07:00Z
+originalUrl: "https://www.foxnews.com/media/hannity-biden-facility-immigrant-minors-identical-trump-cages"
+webUrl: "https://www.foxnews.com/media/hannity-biden-facility-immigrant-minors-identical-trump-cages"
+ampWebUrl: "https://www.foxnews.com/media/hannity-biden-facility-immigrant-minors-identical-trump-cages.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-facility-immigrant-minors-identical-trump-cages.amp"
 type: article
-quality: 168
+quality: 140
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffe6cac6-c7cc-49c4-a04c-72a9c99592f7/2f0b5bbd-2b19-4ac3-bdb2-6895cb5206ea/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -319,6 +320,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Thinking about 2024? Biden’s first trips as president are to two battleground states"
+    excerpt: "President Biden’s hitting the road again – getting out of Washington for the second time this week as he makes the case for his top priority in the early days of his administration – a $1.9 trillion COVID relief package."
+    publishedDateTime: 2021-02-19T23:15:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FPQiQhnae-M/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states"
+    ampWebUrl: "https://www.foxnews.com/politics/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden will keep Trump letter private, White House says"
     excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
     publishedDateTime: 2021-01-29T20:13:00Z
@@ -431,22 +448,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Hannity: Biden facilities for immigrant minors identical to Trump administration's 'cages'"
-    excerpt: "The Biden administration's solution to an increase in the number of unaccompanied minors at the southern border is no different from the Trump administration's measures that were blasted by the mainstream media,"
-    publishedDateTime: 2021-02-24T04:07:00Z
-    webUrl: "https://www.foxnews.com/media/hannity-biden-facility-immigrant-minors-identical-trump-cages"
-    ampWebUrl: "https://www.foxnews.com/media/hannity-biden-facility-immigrant-minors-identical-trump-cages.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-biden-facility-immigrant-minors-identical-trump-cages.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 140
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ffe6cac6-c7cc-49c4-a04c-72a9c99592f7/2f0b5bbd-2b19-4ac3-bdb2-6895cb5206ea/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Pro-Trump Candidates Launch Early Senate, Governor Bids"
     excerpt: "Republican hopefuls are betting that former President Donald Trump’s enduring popularity with the GOP base can help propel them into office."
     publishedDateTime: 2021-02-15T10:35:00Z
@@ -480,6 +481,6 @@ related:
         height: 320
         isCached: true
 
-secured: "9W8ZboDSwA6T8Yt9Kjs80mAp9UdTDN4e22L5w3C6kef6PN5p1cG37lI83e5HWfiYwht65Jbpy86DJ8bBuaUOhrnKaM6NKaLZk5spIR8vZq9Ci+/gT3seiGMnfgBPUGPanz9sjNzo2FqQC1uPgO/09LOxHsvVCEJ9F4ScPfrdwyMhbW+8RHs2nQJ0bVTcElob07VxxhVxqdy4Onikge/Bis4+QhNt2NVsD1a13bZHNDL/qp9X+XT1oq0RtRz91piPCib0f+r/K8o6dvFmLv+RvDgrqJoaH1o1XmtmTpfNjRvipYg5s9eoVT1ufb4awLVoW5acn+tZp4fwaJINJGE9NGPdSH0wfYWnsaWONOeBVh0=;Sn4dOVsYej9MOyhVZPBGTg=="
+secured: "sxMksvZMyUtllcHY6KpDmuFLvmnuPq4hNvrr4PRNkp5rC39E+YDgLRmN9sHL2vwKBDl4mH1pmt4zl0ng9zPra8DSqqlDokh+ghovq1FRprAQpoZjS35cIdZus0m+Kprp4MKoAdwksOWrflNMC9hsvEEjHadSTiU8P3FxzBtnK0YcaaczdekAJf08vbxso4tiTYqFIZpvTIrxCyduCepwwvlNlU1i1lSaBL0cQpZRk3yozFF4mPykpjfqc00FMrFNDWTTb2t2oLYXuJ6zhkFTmtEJD6sufBSwEQU+ImWP7liLlnATHEZ1Dysad0hpCkWiYtuCsFd57Kzm/be4+4S8vrWF9uFbde2rAv0m3qrmBeQ=;DC5t48mu/NyyAyT8XLzLOw=="
 ---
 

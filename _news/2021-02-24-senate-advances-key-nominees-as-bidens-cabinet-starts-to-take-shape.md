@@ -33,19 +33,19 @@ images:
 related:
   - title: "Biden to visit storm-ravaged Texas Friday"
     excerpt: "President Joe Biden will visit Texas on Friday as the state begins its recovery from a devastating winter storm that caused serious damage to homes and businesses across the state and left many withou"
-    publishedDateTime: 2021-02-23T17:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
+    publishedDateTime: 2021-02-23T17:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_0b40b2ed85c2451cafb376c3c20fae9e_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "UPDATE 1-Biden to travel to winter storm-battered Texas on Friday"
     excerpt: "U.S. President Joe Biden and first lady Jill Biden will travel to Texas on Friday to visit a state that has been hit hard by a winter storm, leading to mass power outages and a disruption of water supplies,"
@@ -185,6 +185,6 @@ related:
         height: 675
         isCached: true
 
-secured: "BK1E/RGSDuQSv1MjF3Sfv1n4J7HxZAb4NHgOmBpQiu17K88pZwl9uQ5jpipRTOtmusGHfBd7t2gJYuB798Tkwwitil/HuaoTUP/kHwbvW/Gl0KZj0xifigs0zPzJ/UUDCyngA0hBj68SfWSpMOIonkCdvAYI3BW4zGTK8UqleDG6RY7T6dE1JHucctBHdwrOXcP+mYoqEiLjCfJsiInibYaF9fvDcSTPYSHA3a6htR4NBbRWizGVlvojydDcf7ZOQPP6DoRT7CdUrnNStmGWADFxD9d4XC9yfdfFlTBBW81XoqN8Fm6xCaEiHxbthqPZuA3iedahh2c+oDBx0PZT3R4/mvZoLlGLxdcE5Ysf1N0=;IOwfWBaiQC+MKo4jTIE4Jg=="
+secured: "CPxTRMzwYWz1vWlN0iNF0BDAR8bq4jPDATt9555v6snSI4Pz3bwIoHPSBAh/Ga0s10y2kWWfklYSlzVd2xEb2vMk3/P+k0v58414tErWCGpwxAt1AiAdcMnQvdW1pXv86dev2bjr6RbBjaKfN87xaJ4Doft4m5/KC4RLiFTgkyzDONzBZbxJyNZEEJ5g7AjCouTG/ZYk+6WrKcWAMqq+za0xxqdk9z4ibDF1cuIol/rZlZptr819DfzeBebPQAEIa3l1+4oZQHcA7zQ2AsaFBEe0ocbNfPZwrl7bKYpEa8e/Z6z7ca1SgsLEPyD+vNlCj/x+EWgdL2WcLGUXWRG6ZxqsHN5GTnSWGBPClFciTsHAMOFALmhlFEP3IVvTU3Y4ODCt49II6ZjQEXrvcbXu5tMzEMIlj+zIP4oZ8Xja2iAN79hvWkVbpSUhjB9LAP3B47or6JKbgueOIuwQjPHIUwbXfN2Boa5fEBvseRlwadnxp5fbxrlGtkpeP5TGCchqjRXF1CFlTMgV3Mzu+4m5Mg==;2kAhB9cpuzOJfSl2aP8ZXQ=="
 ---
 

@@ -33,19 +33,19 @@ images:
 related:
   - title: "Biden to visit storm-ravaged Texas Friday"
     excerpt: "President Joe Biden will visit Texas on Friday as the state begins its recovery from a devastating winter storm that caused serious damage to homes and businesses across the state and left many withou"
-    publishedDateTime: 2021-02-23T17:51:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
+    publishedDateTime: 2021-02-23T17:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_0b40b2ed85c2451cafb376c3c20fae9e_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Senate advances key nominees as Biden's Cabinet starts to take shape"
     excerpt: "President Joe Biden's Cabinet rounded further into form Tuesday with the approval of two nominees and confirmation hearings on three more. The Senate approved former Agriculture Secretary Tom Vilsack to serve in the same position in Biden's Cabinet."

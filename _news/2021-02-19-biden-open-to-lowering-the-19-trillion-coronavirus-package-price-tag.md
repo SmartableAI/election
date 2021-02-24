@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-open-to-lowering-the-1-9t-cor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-to-lowering-the-1-9t-coronavirus-package-price-tag.amp"
 type: article
 quality: 174
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "House to vote on Biden-backed coronavirus relief package Friday, Steny Hoyer says"
+    excerpt: "The House will vote Friday on whether to approve President Biden’s $1.9 trillion coronavirus relief package, according to House Majority Leader Steny Hoyer, D-Md."
+    publishedDateTime: 2021-02-24T02:56:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DGj_mebJCuY/house-vote-biden-backed-coronavirus-relief-package-friday-steny-hoyer-says"
+    ampWebUrl: "https://www.foxnews.com/politics/house-vote-biden-backed-coronavirus-relief-package-friday-steny-hoyer-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-vote-biden-backed-coronavirus-relief-package-friday-steny-hoyer-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/caf08d43-180b-4607-8133-c606795c96ae/df4520a2-aae9-4c85-95cc-f6e4dcdd1351/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden $1.9T coronavirus stimulus package includes $1B for racial justice provisions for farmers"
     excerpt: "The $1.9 trillion coronavirus stimulus package being pushed by President Biden puts more than $1 billion toward \"socially disadvantaged\" farmers and related groups — including an equity commission, agricultural training and other assistance to advance racial justice in farming."
     publishedDateTime: 2021-02-22T13:14:14Z

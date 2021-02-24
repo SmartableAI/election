@@ -2,21 +2,21 @@
 category: news
 title: "Biden to visit storm-ravaged Texas Friday"
 excerpt: "President Joe Biden will visit Texas on Friday as the state begins its recovery from a devastating winter storm that caused serious damage to homes and businesses across the state and left many withou"
-publishedDateTime: 2021-02-23T17:51:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-visit-storm-ravaged-texas-friday-76068435"
+publishedDateTime: 2021-02-23T17:43:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
 heat: 325
 published: true
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_0b40b2ed85c2451cafb376c3c20fae9e_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -185,6 +185,6 @@ related:
         height: 675
         isCached: true
 
-secured: "Wsc8c5mCsMReVoJVZxxUaQ9BWpSNDyuI5YNcQMQSzstSlTz7moKxlrX10itPxkvpKWMggdt8XSTg+3j9lIdU8FnAuNFrIImhv+xvWpp8ZbmY4E4mXBIXQxe6QPRhHlH9fj0tCBkAxtNNnlZMLaDXvxg0r73rFFGOHAuuBNtrJND/3VZPzaaZNyZQRf0ESq3lZ4n11jYjFboMDquzduHH3Qb/DtyDB8+Eil14Jfzesc/ueQd7vX7lMlxavw0aZl/UlHY8+ylu+XxbYMDqS9Np1d0/tyotGRDjQFCSCiTgnNaYJHCJat+GdoLKq/LhFDLwlnfMXFspHR8w7NRGNGlhN+79Fgoh/FjQpMiidbmDdPIK1NUDHyt7qBCeknDTCfPS+bK2oibedZ/I65wPfWXfRSNZS8CB5NX/D+g2DR4h3WXmVc+9SkydjJ2uscx+xBx4xJnJ9RUz18sRfjEX645JSz/C9Z5EsYjLl9EOAoaJQ94ooFr7RO3ygUu6C/TUiE9a0+zKkVTAqyL5x77u0BCNXQ==;uD9Dy54G7aNm8jT7jOVB1Q=="
+secured: "weGD6YQcA/9uT9z1/KJQihdlyxySWdYu6TvDXCCT/QWicNAETaCbIK8gX3roGrQJX1HeLQ3j1SmV+GAQ2gpYamCsmBfM8iJjINKf8s24O9sJdGEEtgv/HCNGLz+PRwi7YBiZRob/UmV5P4bulXqfK4IRGCcnQHYr5XY7wGtEPmf6YkR/KHe70yzQq9Cs3OVgVwGYELnEaW42p67osS/s4OAuaftqmSbvyQ328mPF5sQ1C8LojUIIfnmt2X9viLqYjkM6lsRYsEbeBm7cIoUzA+mso1qYMr7PNbLpEAqrtwuDdPpTYMbCp3D2dzuM2sGdKTHcU7TX1BJWPmtMinr/xSZvM90UankxTmvInPpbdV0=;8NQCWrSJlsQI8IvvNBJC4A=="
 ---
 

@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "House to vote on Biden-backed coronavirus relief package Friday, Steny Hoyer says"
+    excerpt: "The House will vote Friday on whether to approve President Biden’s $1.9 trillion coronavirus relief package, according to House Majority Leader Steny Hoyer, D-Md."
+    publishedDateTime: 2021-02-24T02:56:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DGj_mebJCuY/house-vote-biden-backed-coronavirus-relief-package-friday-steny-hoyer-says"
+    ampWebUrl: "https://www.foxnews.com/politics/house-vote-biden-backed-coronavirus-relief-package-friday-steny-hoyer-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-vote-biden-backed-coronavirus-relief-package-friday-steny-hoyer-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/caf08d43-180b-4607-8133-c606795c96ae/df4520a2-aae9-4c85-95cc-f6e4dcdd1351/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Politico panned for report Biden finding coronavirus containment 'out of his control'"
     excerpt: "Politico was criticized Friday after publishing an article suggesting that President Biden is finding out how much containing the coronavirus pandemic is \"out of his control\", with critics suggesting the publication was conveniently resetting expectations for someone who vowed to \"shut down\" the virus during his campaign."
     publishedDateTime: 2021-02-20T00:06:00Z

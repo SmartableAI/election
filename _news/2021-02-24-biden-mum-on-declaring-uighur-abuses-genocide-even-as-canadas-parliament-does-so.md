@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Thinking about 2024? Biden’s first trips as president are to two battleground states"
-excerpt: "President Biden’s hitting the road again – getting out of Washington for the second time this week as he makes the case for his top priority in the early days of his administration – a $1.9 trillion COVID relief package."
-publishedDateTime: 2021-02-19T23:15:39Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FPQiQhnae-M/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FPQiQhnae-M/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states"
-ampWebUrl: "https://www.foxnews.com/politics/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states.amp"
+title: "Biden mum on declaring Uighur abuses genocide even as Canada's parliament does so"
+excerpt: "President Biden has yet to declare reported atrocities by China against Uighurs in Xinjiang province to be genocide even after Canada’s parliament voted Monday to pass a nonbinding motion applying the classification and Europe increases pressure on the Chinese Communist government."
+publishedDateTime: 2021-02-24T03:43:05Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7WPkqm_FC54/global-community-pressure-china-on-uighur-abuses-biden-remains-mum-on-genocide-declaration"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7WPkqm_FC54/global-community-pressure-china-on-uighur-abuses-biden-remains-mum-on-genocide-declaration"
+ampWebUrl: "https://www.foxnews.com/politics/global-community-pressure-china-on-uighur-abuses-biden-remains-mum-on-genocide-declaration.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/global-community-pressure-china-on-uighur-abuses-biden-remains-mum-on-genocide-declaration.amp"
 type: article
-quality: 168
+quality: 170
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e6ba441-6c4c-4109-a2bc-0b9e22da9c6f/99201b4f-f627-459a-a870-4444f62d790b/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -303,21 +303,21 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden mum on declaring Uighur abuses genocide even as Canada's parliament does so"
-    excerpt: "President Biden has yet to declare reported atrocities by China against Uighurs in Xinjiang province to be genocide even after Canada’s parliament voted Monday to pass a nonbinding motion applying the classification and Europe increases pressure on the Chinese Communist government."
-    publishedDateTime: 2021-02-24T03:43:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7WPkqm_FC54/global-community-pressure-china-on-uighur-abuses-biden-remains-mum-on-genocide-declaration"
-    ampWebUrl: "https://www.foxnews.com/politics/global-community-pressure-china-on-uighur-abuses-biden-remains-mum-on-genocide-declaration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/global-community-pressure-china-on-uighur-abuses-biden-remains-mum-on-genocide-declaration.amp"
+  - title: "Thinking about 2024? Biden’s first trips as president are to two battleground states"
+    excerpt: "President Biden’s hitting the road again – getting out of Washington for the second time this week as he makes the case for his top priority in the early days of his administration – a $1.9 trillion COVID relief package."
+    publishedDateTime: 2021-02-19T23:15:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FPQiQhnae-M/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states"
+    ampWebUrl: "https://www.foxnews.com/politics/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/already-thinking-about-2024-bidens-first-two-trips-as-president-are-to-two-crucial-battleground-states.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e6ba441-6c4c-4109-a2bc-0b9e22da9c6f/99201b4f-f627-459a-a870-4444f62d790b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden will keep Trump letter private, White House says"
     excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
@@ -480,6 +480,6 @@ related:
         height: 320
         isCached: true
 
-secured: "9W8ZboDSwA6T8Yt9Kjs80mAp9UdTDN4e22L5w3C6kef6PN5p1cG37lI83e5HWfiYwht65Jbpy86DJ8bBuaUOhrnKaM6NKaLZk5spIR8vZq9Ci+/gT3seiGMnfgBPUGPanz9sjNzo2FqQC1uPgO/09LOxHsvVCEJ9F4ScPfrdwyMhbW+8RHs2nQJ0bVTcElob07VxxhVxqdy4Onikge/Bis4+QhNt2NVsD1a13bZHNDL/qp9X+XT1oq0RtRz91piPCib0f+r/K8o6dvFmLv+RvDgrqJoaH1o1XmtmTpfNjRvipYg5s9eoVT1ufb4awLVoW5acn+tZp4fwaJINJGE9NGPdSH0wfYWnsaWONOeBVh0=;Sn4dOVsYej9MOyhVZPBGTg=="
+secured: "PLfosLENYTQ2opNmns8aIpjxOXlQ/MGrZR+ympxVP3LrFyS5goiHqxslOHnHdI6oHb8Ps3K+xOKVT0l5mbBeXRS/8vypSQEnQ8ur9gH4YtLHgv31uj7/CiWuDVBKc0mCKEg0iz/dltgPisSm875hjZh7J21RDobsEssmMnMnfawrNZl7lpygdpMKbqI8uCG1zcR6daA8IkgRVeZHWgOGxLHIxg1JHTlDNu85j/JjZOLBRD6pqQegaAtE0mbjVZljmJuLtcVDVa+RGSuipFAcV6iBjG3W5HADTZp0IvVRdYVSoXeTDwetwySXMntlOy5GDihwZXiSJ2v9jAZDQfltDdy+nJrewaEkGebK9TOzq3w=;udkIHpYDji+EQXRE084FiQ=="
 ---
 
