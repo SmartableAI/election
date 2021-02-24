@@ -1213,6 +1213,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Democratic leader says AG may look at Trump in Capitol riot probe"
+    excerpt: "Garland has said he plans to pursue leads “wherever the investigation takes us.” US Capitol riots: Tracking the insurrection Senate Majority Whip Dick Durbin, D-Ill., said he believes President Joe Biden’s nominee for attorney general could look into conspiracy charges surrounding former President Donald Trump's potential involvement in the Jan."
+    publishedDateTime: 2021-02-24T20:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/democratic-leader-ag-trump-capitol-riot-probe/story?id=76087308"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/dick-durbin-file-ap-jef-210224_1614194960812_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "2 Central Park ice rinks to close after city severs ties with Trump Organization"
     excerpt: "The Trump Organization is closing two ice skating rinks in Central Park after New York City Mayor Bill de Blasio severed their contract in the wake of the deadly Capitol riot. CBS New York's Carolyn Gusoff reports."
     publishedDateTime: 2021-02-21T20:35:00Z

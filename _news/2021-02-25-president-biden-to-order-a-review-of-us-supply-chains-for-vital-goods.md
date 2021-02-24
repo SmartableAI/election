@@ -79,6 +79,22 @@ related:
         width: 856
         height: 545
         isCached: true
+  - title: "Judge bans enforcement of Biden's 100-day deportation pause"
+    excerpt: "A federal judge has indefinitely banned President Joe Biden’s administration from enforcing a 100-day moratorium on most deportations"
+    publishedDateTime: 2021-02-24T16:30:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/judge-bans-enforcement-bidens-100-day-deportation-pause-76081339"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/judge-bans-enforcement-bidens-100-day-deportation-pause-76081339"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/judge-bans-enforcement-bidens-100-day-deportation-pause-76081339"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_e4a26da9c66a4414a324ab16b9d33f4c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Iran's Khamenei demands 'action, not words' from Biden to revive nuclear deal"
     excerpt: "Iran's Supreme Leader Ayatollah Ali Khamenei demanded \"action, not words\" from the United States if it wants to revive Tehran's 2015 nuclear deal with world powers, the latest challenge to new President Joe Biden to take the first step towards a thaw."
     publishedDateTime: 2021-02-17T12:08:00Z
@@ -144,6 +160,6 @@ related:
         height: 2400
         isCached: true
 
-secured: "0YFTsX1tciqXxlj/vr2CIw2KDXjZGdAP9OR5ioQIFwlgQOu0hYR2BZ4EQISGkJK/QoaBLNyjWsOd1gt57f4OHtAWL/G4emLJ+BRr+kQKSAaBVUqMFbSGJ1qiFqi5sEvRFx1JF+iVPn0DNglAnvl+4sOR7PmtpDI9GCijvWIGWXT2NDGOofmklRVGaZ72pZXQGulvsf/VHkQFt/4cZcjlM4tqN45I1zcvqoiO2rSYopslR7pbQqk5offonxYZi5Br+ZdkkRG377VXi8wdyR+8xE50zXkx2Yal4ey2kafUFii51v1D1r9CE2+l2tgyNHnLiILvimRy0CRU1TEDwQtsYTmJsfqYKk1M5ie/jp2nQvE=;DE5/LhniYEJqFcg9EbmSCA=="
+secured: "srqN3tUEtp8Ewxj2ELmnqx2aMbt/ComBsqHIRexgytNelkOFSO8TB4SnH/9IL3CDfKspd2IHeb5TbQOEiF8i6ae7XBc0RbC/+cPR3+wWRmvU7CSu5k57p/YpkC4Q+EawmDGc0OEYqTTMsAMVGUAa8gWjbf9SWgw2MgEom0raYO0AzL0ySiJwSpvrAJortG3uKt5iKZbor9kUnNDGWhGhEq6h83EL7EGM+xSdTSe9WEXfAw/RfxZ5/m7C+pi/OAKK9eJ7ihE1HLCiBln7Uc/1tdzdsxLbb8bCK0gfVSCUZOj//1JDAoRsB1UILcldphlT15QLXhIQxwZXC19b9PPijSFCs3IPOjkvIBGzuPFYCEPlYk4ebwpadbqnXSHG8aNDxmw8EnwVHu6FBPcYT0xAbT02toAw27XdXGgoY2FjjmcM3gzzjc3wg6kIsZvJFgMmNlmkEG0EI62bDVMWSt/NbywSce5Yiuk7oBOaT9IAJ1+mZp+jZrT8wy/YfwXyTfMttD61oS8wD6BKmUCnuLyctQ==;XWLeQ5EqHipGUt/6HmTpKg=="
 ---
 

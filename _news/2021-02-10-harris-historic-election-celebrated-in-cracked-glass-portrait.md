@@ -1206,6 +1206,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden and Vice President Kamala Harris Meet on U.S. Supply Chains"
+    excerpt: "President Joe Biden and Vice President Kamala Harris attend a meeting with a bipartisan group of House and Senate members on U.S. supply chains in the Oval Office on Wednesday, Febuary 24, 2021 in Washington,"
+    publishedDateTime: 2021-02-24T19:40:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ffbb9504726f6ef71aa84afd46861489/President-Joe-Biden-and-Vice-President-Kamala-Harris-Meet-on-US-Supply-Chains/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 66
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/ffbb9504726f6ef71aa84afd46861489/SUPPLY-CHAINS.jpg"
+        width: 650
+        height: 830
+        isCached: true
   - title: "Twitter Reacts To Kamala Harris' Stairs Cardio Workout, Concerned About Secret Service Agent"
     excerpt: "Vice President Kamala Harris was spotted working out and running up and down the stairs at the Lincoln Memorial over the weekend."
     publishedDateTime: 2021-02-09T00:28:00Z

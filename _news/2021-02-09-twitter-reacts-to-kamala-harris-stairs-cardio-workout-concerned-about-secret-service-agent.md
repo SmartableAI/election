@@ -1222,6 +1222,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Joe Biden and Vice President Kamala Harris Meet on U.S. Supply Chains"
+    excerpt: "President Joe Biden and Vice President Kamala Harris attend a meeting with a bipartisan group of House and Senate members on U.S. supply chains in the Oval Office on Wednesday, Febuary 24, 2021 in Washington,"
+    publishedDateTime: 2021-02-24T19:40:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ffbb9504726f6ef71aa84afd46861489/President-Joe-Biden-and-Vice-President-Kamala-Harris-Meet-on-US-Supply-Chains/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 66
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/ffbb9504726f6ef71aa84afd46861489/SUPPLY-CHAINS.jpg"
+        width: 650
+        height: 830
+        isCached: true
   - title: "Vice President Kamala Harris: White House wants to accelerate COVID-19 vaccinations in Arizona"
     excerpt: "\"We have big problems right now, but we also have the ability to be bold with big solutions,\" Vice President Kamala Harris told The Arizona Republic."
     publishedDateTime: 2021-01-28T20:00:00Z

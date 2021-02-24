@@ -820,6 +820,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "President Biden to sign executive order on supply chains"
+    excerpt: "President Joe Biden is signing an executive order on supply chains Wednesday, part of the administration's efforts to cope with the effects of the coronavirus pandemic. The move comes as Congress continues to consider Biden's Cabinet nominees and the $1."
+    publishedDateTime: 2021-02-24T19:16:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-to-sign-executive-order-on-supply-chains/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/24/71b9f6bd-379e-4db7-a998-935ba9d9be78/thumbnail/1200x630/1e805f87a03f7600bffb66235fb54868/cbsn-fusion-president-biden-to-sign-executive-order-on-supply-chains-thumbnail-652931-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zn23sS3AYtIMBQHaUY21/Yg7Jr5OW1acM4Vz1SBasBkEWlI+yQJepxNRpH4yu/3WH+sNqO2R3KXrWcYWwCakWUtOs7RJGzd2cB5CiHAA02rOlvmYhDaKv2wICGnfve8UyJ+RXXBIqSEAeruiK9Q5Dt6UQQn8y95Dz/RJmX+dhk76G/wiFisw3OtjUIIPw9I1bFgsknQrIZPetBZuNgJSjuuE03UgBMmrRLNt7vhGl2Kl4wZ+evU4LDtWgAvpgnyKLzE+QGmcT77g4ymSUVDnNYil5KqfeoN9eP/jP5HpyUs/2pRTY0LE+wvKB4GQO6+ln5fzxIEbRo64G5SC8SB8nn6EzanB0PBUdTuzbQ8FFo+ro0RE8WLj5YHYuVax2usEE7ohKez1yDkc040/OnKuUvC7y6k/AQk4vVM5bJKEJMUDGBIWFgQf2nk/bLOJci3/eCeCBDrFvveY9hD6c1Nw9UuuHWJE3Tk6/NvHPMxNrSNHMLZfsw0Yt31VWwE065RR76vPuwe59b3Sh2N09IaWPA==;MYgeCIqQZNATAj1YuRngxw=="
 ---

@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Psaki pressed to explain difference between Trump and Biden migrant facilities for children"
+    excerpt: "Amid criticism for the reopening of a Trump-era child migrant facility, White House press secretary Jen Psaki said it was a “difficult choice” to reopen the Carrizo Springs, Texas facility, but the best option available. "
+    publishedDateTime: 2021-02-24T19:57:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jBCtAuYqyTg/psaki-difference-trump-biden-migrant-facilities-children"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-difference-trump-biden-migrant-facilities-children.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-difference-trump-biden-migrant-facilities-children.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
+        isCached: true
   - title: "US begins admitting migrants from Mexico, as Biden administration winds down Trump-era policy"
     excerpt: "The U.S. on Friday began admitting migrants waiting in Mexico for their immigration cases to be processed -- as the Biden administration moves to wind down the Trump-era Migrant Protection Protocols (MPP), a move critics say could fuel a new border crisis."
     publishedDateTime: 2021-02-19T18:36:42Z

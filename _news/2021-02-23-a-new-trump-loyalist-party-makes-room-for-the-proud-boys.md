@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-pa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-patriot-party-orig-jm.cnn"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209151016-patriot-party-pa-1-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Cheney and McCarthy At Odds Over Trump Role in Republican Party"
+    excerpt: "Representative Kevin McCarthy of California and Representative Liz Cheney of Wyoming disagreed on whether former President Donald J. Trump should speak at a conservative event this week."
+    publishedDateTime: 2021-02-24T19:51:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007622290/mccarthy-cheney-trump-cpac.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/24/us/politics/24new-was-repubs/24new-was-repubs-facebookJumbo-v2.jpg?video-overlay"
+        width: 1050
+        height: 549
         isCached: true
 
 secured: "ytHjTeQJMqYstWNjPYfkvGAKfK9dvvASxHIj86GdvpOeiY16otN8VBIbA/15qk3wX43HAeBsyU9Sg92Nhmzcndv/xIwDAjC93hTKy8tiKQYRBaa5KAPO3Ci3KcgbSiKQGbvH8smH4/pid4LwCluUVXKKKpo/kRU4Vp6M/LN8RHy4VfT/iJe8/6dDzqU/dZxTbaBcQ8xVx/gkuM4GxmSqF3Zo14gNvnff1S/pu/YBP2DMcM0h0aYxzhYPFcSCWhhQ64ZdRF839W1KG40CDTTBg/0MN60M7vIiTxSq+0rZoroDtKnIyqBFUYUSHW4BvuEMeiIbKf8jviX69En+QuRdOL1KB2jbepQHvv36CqgzC0c=;InEsnTdrlhMW6/Dw5qCn7Q=="

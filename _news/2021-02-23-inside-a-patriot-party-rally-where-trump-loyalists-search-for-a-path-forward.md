@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Cheney and McCarthy At Odds Over Trump Role in Republican Party"
+    excerpt: "Representative Kevin McCarthy of California and Representative Liz Cheney of Wyoming disagreed on whether former President Donald J. Trump should speak at a conservative event this week."
+    publishedDateTime: 2021-02-24T19:51:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007622290/mccarthy-cheney-trump-cpac.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/24/us/politics/24new-was-repubs/24new-was-repubs-facebookJumbo-v2.jpg?video-overlay"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "LuSSsNh4YW3AL2iNt2lSMUESRmyUsLISIwnrDVfzcyO01PHaMKovQ6cbO6UEMDZyI5mzHSdzMT46lXfykUTlPe8Ujtrsm4dJ2Jenf3U4s598i6nnMFhB8xSRdnb8EhkGWKzainuKQestkKvvcAg6ijgDmDkaLgSz45oKkv2HbZ4VKZMEhD+0+ijHigh/ZWDja6HtY9YDPbOlFprDgIyaDlLcMGvmO8KXivhXqqYjbdgZuXAGewsOb24F/gE1POzXWmp7vzM7TsJ82TIQjwEjnFeqN79Y8ESDkabIyL+vrXb5qM2iMZ2ZXUaOrGJegEftxJIqjFxVkpayU/A4tNL3x2d+L5XWT6M7HI3yfJndhAk=;q4wl9/sCOg8Ou2x9PE807g=="
 ---

@@ -805,6 +805,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "President Biden to sign executive order on supply chains"
+    excerpt: "President Joe Biden is signing an executive order on supply chains Wednesday, part of the administration's efforts to cope with the effects of the coronavirus pandemic. The move comes as Congress continues to consider Biden's Cabinet nominees and the $1."
+    publishedDateTime: 2021-02-24T19:16:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-to-sign-executive-order-on-supply-chains/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/24/71b9f6bd-379e-4db7-a998-935ba9d9be78/thumbnail/1200x630/1e805f87a03f7600bffb66235fb54868/cbsn-fusion-president-biden-to-sign-executive-order-on-supply-chains-thumbnail-652931-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden holds moment of silence for 500,000 COVID-19 deaths, promises nation \"will know joy again\""
     excerpt: "Before a moment of silence at the White House, President Joe Biden connected his personal losses to the more than half a million dead in the U.S. from COVID-19. Weijia Jiang reports how the current administration's response to the pandemic contrasts with its predecessor's."
     publishedDateTime: 2021-02-23T13:07:00Z

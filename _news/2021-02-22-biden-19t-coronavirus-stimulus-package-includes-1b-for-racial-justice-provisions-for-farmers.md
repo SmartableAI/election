@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden adviser called coronavirus pandemic 'best thing that ever happened' to the president, new book reveals"
+    excerpt: "A top adviser to President Biden described the coronavirus pandemic as \"the best thing that ever happened\" to Biden, a new book reveals. "
+    publishedDateTime: 2021-02-24T20:01:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/51L60kxq_mo/biden-coronavirus-pandemic-best-thing-anita-dunn"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-pandemic-best-thing-anita-dunn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-pandemic-best-thing-anita-dunn.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41e1b327-c827-4b22-85d7-4b6e823b1cd2/1a5c194e-2ef4-4a92-b79b-e3516347f612/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Politico panned for report Biden finding coronavirus containment 'out of his control'"
     excerpt: "Politico was criticized Friday after publishing an article suggesting that President Biden is finding out how much containing the coronavirus pandemic is \"out of his control\", with critics suggesting the publication was conveniently resetting expectations for someone who vowed to \"shut down\" the virus during his campaign."
     publishedDateTime: 2021-02-20T00:06:00Z
@@ -108,6 +124,22 @@ related:
     quality: 127
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/695da98a-70c0-49e2-90b2-2a02274119b1/f381a748-d0a9-40b2-8d42-d34f00f7a9a6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden adviser called coronavirus pandemic 'best thing that ever happened' to the president, new book reveals"
+    excerpt: "A top adviser to President Biden described the coronavirus pandemic as \"the best thing that ever happened\" to Biden, a new book reveals."
+    publishedDateTime: 2021-02-24T20:03:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-coronavirus-pandemic-best-thing-anita-dunn"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-pandemic-best-thing-anita-dunn.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-pandemic-best-thing-anita-dunn.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41e1b327-c827-4b22-85d7-4b6e823b1cd2/1a5c194e-2ef4-4a92-b79b-e3516347f612/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

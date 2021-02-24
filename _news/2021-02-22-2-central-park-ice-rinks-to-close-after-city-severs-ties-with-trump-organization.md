@@ -1213,6 +1213,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Democratic leader says AG may look at Trump in Capitol riot probe"
+    excerpt: "Garland has said he plans to pursue leads “wherever the investigation takes us.” US Capitol riots: Tracking the insurrection Senate Majority Whip Dick Durbin, D-Ill., said he believes President Joe Biden’s nominee for attorney general could look into conspiracy charges surrounding former President Donald Trump's potential involvement in the Jan."
+    publishedDateTime: 2021-02-24T20:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/democratic-leader-ag-trump-capitol-riot-probe/story?id=76087308"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/dick-durbin-file-ap-jef-210224_1614194960812_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Senate acquits Trump for second time after week-long trial | Impeachment This Week"
     excerpt: "House managers argue former president Trump incited an insurrection in a dramatic and swift Senate impeachment trial. Come inside the proceedings with The Washington Post."
     publishedDateTime: 2021-02-14T14:53:00Z
