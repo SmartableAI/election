@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57"
         width: 600
         height: 360
+        isCached: true
+  - title: "Federal judge in Texas blocks Biden's 100-day deportation pause in nationwide order"
+    excerpt: "Granting a nationwide injunction sought by Texas, a federal judge has blocked the Biden administration's plans to pause deportations for 100 days."
+    publishedDateTime: 2021-02-24T17:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/federal-judge-texas-blocks-joe-biden-100-day-deportation-pause/4576411001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4576411001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4576411001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/14/NAAS/0dc111b6-63c9-4c2f-b2c4-5bc23496c694-Biden_Immigration.jpg?auto=webp&crop=5191,2920,x0,y519&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden heads to Wisconsin, winter storms, Bill Gates book: 5 things you need to know Tuesday"
     excerpt: "President Joe Biden travels to Wisconsin, another dose of severe weather is on the way and more news to start your Tuesday."

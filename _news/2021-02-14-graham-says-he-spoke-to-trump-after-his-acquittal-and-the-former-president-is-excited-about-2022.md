@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "PA GOP expected to consider censure of Sen. Pat Toomey over vote to convict Trump "
+    excerpt: "The Pennsylvania Republican state committee is holding a meeting Wednesday night with the expectations that the issue of censuring Pennsylvania GOP Sen. Pat Toomey over his impeachment vote will be discussed.\n    \n"
+    publishedDateTime: 2021-02-24T18:30:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CyzUv7z1rBU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/pennsylvania-gop-censure-toomey/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/pennsylvania-gop-censure-toomey/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224093131-01-pat-toomey-0213-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Supreme Court is still sitting on Trump's tax returns, and justices aren't saying why"
     excerpt: "Lawsuits involving Donald Trump tore apart the Supreme Court while he was president, and the justices apparently remain riven by him.\n    \n"
     publishedDateTime: 2021-02-18T11:40:15Z

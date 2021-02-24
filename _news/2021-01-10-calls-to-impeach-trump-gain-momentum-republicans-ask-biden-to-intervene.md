@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump, at CPAC, expected to hammer Biden on immigration, China"
+    excerpt: "Former President Donald Trump will hammer President Biden on everything from immigration to China when he addresses the Conservative Political Action Committee (CPAC) on Sunday, sources familiar with the speech told Fox News."
+    publishedDateTime: 2021-02-24T18:47:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WMBwBEmF12c/trump-cpac-biden-immigration-china"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-biden-immigration-china.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-biden-immigration-china.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a2ad743-1535-4a2f-a170-004d8af27903/8a68237d-7266-4ba0-a12b-ade26928c40a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden tells European allies ‘America is back,’ seeks to turn page on Trump era"
     excerpt: "President Biden on Friday hailed the importance of the alliance between the U.S. and Europe, while also taking a number of thinly-veiled shots at his predecessor."
     publishedDateTime: 2021-02-19T22:08:10Z
@@ -254,6 +270,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21048725534237.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden admin to send 25M masks to community health centers, food pantries"
+    excerpt: "The Biden administration said Wednesday that it plans to deliver more than 25 million masks to more than 1,300 community health centers and thousands of food pantries and soup kitchens, in an effort to reach the most vulnerable Americans."
+    publishedDateTime: 2021-02-24T17:38:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5gaat0dxBOs/biden-admin-coronavirus-masks-community-health-centers-food-pantries"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-coronavirus-masks-community-health-centers-food-pantries.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-coronavirus-masks-community-health-centers-food-pantries.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Garland says he has not discussed the Hunter Biden case with the president"
     excerpt: "Judge Merrick Garland on Monday said he has not discussed the federal investigation into Hunter Biden’s tax affairs with President Biden."

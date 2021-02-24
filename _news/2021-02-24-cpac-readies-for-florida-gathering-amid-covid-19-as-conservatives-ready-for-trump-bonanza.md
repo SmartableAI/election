@@ -2,13 +2,13 @@
 category: news
 title: "CPAC readies for Florida gathering amid COVID-19, as conservatives ready for Trump bonanza"
 excerpt: "For many, the Conservative Political Action Conference (CPAC) is essentially one of the last major in-person events without masks or coronavirus pandemic restrictions before the shutdown began."
-publishedDateTime: 2021-02-24T12:41:23Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKQ3qEf8N1w/cpac-readies-for-florida-gathering-amid-covid-as-conservatives-ready-for-trump-bonanza"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKQ3qEf8N1w/cpac-readies-for-florida-gathering-amid-covid-as-conservatives-ready-for-trump-bonanza"
+publishedDateTime: 2021-02-24T12:45:00Z
+originalUrl: "https://www.foxnews.com/politics/cpac-readies-for-florida-gathering-amid-covid-as-conservatives-ready-for-trump-bonanza"
+webUrl: "https://www.foxnews.com/politics/cpac-readies-for-florida-gathering-amid-covid-as-conservatives-ready-for-trump-bonanza"
 ampWebUrl: "https://www.foxnews.com/politics/cpac-readies-for-florida-gathering-amid-covid-as-conservatives-ready-for-trump-bonanza.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-readies-for-florida-gathering-amid-covid-as-conservatives-ready-for-trump-bonanza.amp"
 type: article
-quality: 165
+quality: 125
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/RT-Matt-Schlapp.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -128,6 +129,6 @@ related:
         height: 320
         isCached: true
 
-secured: "49kXspUQpgMfM1E9aazzqpzLWJC23n790LpCQ0W004Yz+f9mx0Yy2OkFLhKAK8ZUhWbSbHGkM51yLTp/T7ricYDnQ1CdVc2HAKGL9H8pIBDOwdQYn6CBjQOmB+Zcr1fHxbS/CpwD6bF/0FK4uKwxCkTvTuSJLedezRWwxVnfyxRSTineUs/XYjqYJ4ZgTvVvCagskApuvU2Lr1bHkioLfcjpJ76sYxpwlAjUIrRMKishjSCv2YsgY8nXEaYsb3D2VOhDn1IRKPpfUw8g2qjPrVXQ/dd6MKOlEwtq0DP0G/m7WAlV42HMTg/d8EjxgtRdRlRZwyhsOul3dzjUG6xX0IeuAY47Ti/nNuiSmpsHZFg=;K1q2itGvDOvtXm4199+e/A=="
+secured: "2JomewgHCoEjt4RCe+7PfQ2KYDrF/qzY8Gf1x3UjukM7vzgr6jFLKQYjledg6K8yELm07Sl8HsRFKX45GG5HhqNOlK4+juv/zKMvyVxVIDKq3uHHNeCrWAEj5bRyyL5MFnvZTOAuKlbrm0Mlr3T88DqQkoF2X3xuNiWTU7rcw0WVSDYp0qY7iluQUhbIneLRGwVOaIDyyl30TN3ggb9deGTVT/EH2Ho8g2ArtEvcITMwg352VbT7EupEZ5skbX8UzSe8ATLgZRqaU6zrfDlMj6qT36Mn08IyEw1iT5bFA9C57TQQjXFefg3eTnyIbOF/ED8/qDNT3fEUg1zm8SIWoYU1Qae1cg0NNnn+H1didb8=;e6ZqMy95c7CBq2CyVUrsTg=="
 ---
 

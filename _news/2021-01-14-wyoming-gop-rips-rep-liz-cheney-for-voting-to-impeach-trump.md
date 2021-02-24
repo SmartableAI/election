@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-vot
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump.amp"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -234,6 +234,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Liz-Cheney-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Liz Cheney says Trump should have no future role in GOP or country"
+    excerpt: "The No. 3 House Republican denounced Trump after she was asked at a press conference if she thought it was appropriate for Trump to be speaking Sunday at the annual CPAC event."
+    publishedDateTime: 2021-02-24T17:34:00Z
+    webUrl: "https://nypost.com/2021/02/24/liz-cheney-says-trump-should-have-no-role-in-gop-or-country/"
+    ampWebUrl: "https://nypost.com/2021/02/24/liz-cheney-says-trump-should-have-no-role-in-gop-or-country/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/liz-cheney-says-trump-should-have-no-role-in-gop-or-country/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/liz-cheney-trump-01.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

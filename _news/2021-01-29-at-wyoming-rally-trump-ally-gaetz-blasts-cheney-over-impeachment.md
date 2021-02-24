@@ -252,6 +252,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Liz Cheney says Trump should have no future role in GOP or country"
+    excerpt: "The No. 3 House Republican denounced Trump after she was asked at a press conference if she thought it was appropriate for Trump to be speaking Sunday at the annual CPAC event."
+    publishedDateTime: 2021-02-24T17:34:00Z
+    webUrl: "https://nypost.com/2021/02/24/liz-cheney-says-trump-should-have-no-role-in-gop-or-country/"
+    ampWebUrl: "https://nypost.com/2021/02/24/liz-cheney-says-trump-should-have-no-role-in-gop-or-country/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/liz-cheney-says-trump-should-have-no-role-in-gop-or-country/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/liz-cheney-trump-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "FURz+oHWrmFHwpW0Zdlqd8hUqoNc0u55bzclda+fPbRbtGokcJUhVjuzGupefUz4fb8qEL5jV+AB7PmXjUpPCfWeppCfq/IHoEClWDMUzscgVvw/B00skUy6TdC66UvacGVVRpkglT4RqPXygFIfRRW3qzp7pM2DthkPSrSRGfFMYPboKid88WiucJZuK/5R79y5dKNbPKtsCgLSA9SbdmTYT+N66URG3BkKTTbUkvWdmTbexl5g9IYAkl8hcHHD9AyOeMrKEL8NxFOIM2+tI4W0ltKQcEb38exXpKEFwTyUXGBz5/WvTRrNyDw/40kZrqzVUAeMrVubAB+K2lq65reircXEvv2ErTVi/g0BSRbsvDIT9PPrY2YIYJN7qHcZn/rsS9LfvxWRvS6Wk5nLvr0rr9XgXqUhMuGL6ggXSJHf/HFNgQLeojehhSSPKTLHnesF+eKWDprpb97VbCVJlJ6DfxVPpBjHmtxcbAfuhX9YwmFOtmHtZSkNF8Nu8xOxNDrbcjeYeBtSytafV88vLQ==;/OSOxmJQXH3m3SfnPE8NLg=="
 ---

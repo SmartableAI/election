@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "PA GOP expected to consider censure of Sen. Pat Toomey over vote to convict Trump "
+    excerpt: "The Pennsylvania Republican state committee is holding a meeting Wednesday night with the expectations that the issue of censuring Pennsylvania GOP Sen. Pat Toomey over his impeachment vote will be discussed.\n    \n"
+    publishedDateTime: 2021-02-24T18:30:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CyzUv7z1rBU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/pennsylvania-gop-censure-toomey/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/pennsylvania-gop-censure-toomey/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224093131-01-pat-toomey-0213-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Graham says he spoke to Trump after his acquittal and the former President is 'excited' about 2022"
     excerpt: "Republican Sen. Lindsey Graham said Sunday that he spoke to former President Donald Trump after his acquittal in his second impeachment trial and that Trump is \"excited\" about the midterms in 2022.\n    \n"
     publishedDateTime: 2021-02-14T17:12:53Z

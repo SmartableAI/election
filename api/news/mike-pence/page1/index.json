@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-pence-reportedly-not-holding-a-grudge-against-trump-over-whole-riot-thing.md",
+      "title": "Pence Reportedly Not Holding a Grudge Against Trump Over Whole Riot Thing",
+      "excerpt": "It took a few weeks, but Pence seems to be over it — at least publicly. CNN reports that Pence told a group of Republican lawmakers on Tuesday that not only does he remain close friends with Trump, but that he has plans to launch a political action organization defending the administration’s record.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/ff6/d91/a33a01fa386758c72fc9ae2ff1631f8012-donald-trump-mike-pence.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html",
+      "publishedDateTime": "2021-02-24T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count.md",
       "title": "Pence announces Biden as winner after Congress finishes electoral vote count",
       "excerpt": "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes.",
@@ -1500,49 +1543,6 @@
       "provider": {
         "name": "THE WEEK",
         "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-joe-scarborough-mike-pence-is-in-fear-for-his-life-because-of-donald-j-trump.md",
-      "title": "Joe Scarborough: 'Mike Pence is in fear for his life because of Donald J. Trump'",
-      "excerpt": "MSNBC co-host Joe Scarborough said Wednesday morning that former Vice President Mike Pence is “in fear for his life” because of former President Donald Trump’s actions leading up to the U.S. Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/01/27/scarborough_c35-0-900-505_s1200x700.jpg?3b9cfe2c93ef070d968f1facefb8412d0ec504ee",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
-      "publishedDateTime": "2021-01-27T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
         "images": null,
         "publishers": null,
         "authors": null

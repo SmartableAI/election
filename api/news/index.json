@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-mccarthy-and-cheney-at-odds-over-trumps-future-role-in-the-party.md",
+      "title": "McCarthy and Cheney at odds over Trump's future role in the party",
+      "excerpt": "House Minority Leader Kevin McCarthy (R-Calif) and Rep. Liz Cheney (R-Wyo.) disagreed Feb. 24 on former president Donald Trump's role in the Republican party.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/politics/mccarthy-and-cheney-at-odds-over-trumps-future-role-in-the-party/2021/02/24/319b5c94-85a0-4bae-84b2-c7115d589fa6_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/mccarthy-and-cheney-at-odds-over-trumps-future-role-in-the-party/2021/02/24/319b5c94-85a0-4bae-84b2-c7115d589fa6_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-24-2021/t_fb9f67f394504c0f98769a9980e35a5e_name_65139534_76c3_11eb_9489_8f7dacd51e75_scaled.jpg&w=1080",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-pence-reportedly-not-holding-a-grudge-against-trump-over-whole-riot-thing.md",
+      "title": "Pence Reportedly Not Holding a Grudge Against Trump Over Whole Riot Thing",
+      "excerpt": "It took a few weeks, but Pence seems to be over it — at least publicly. CNN reports that Pence told a group of Republican lawmakers on Tuesday that not only does he remain close friends with Trump, but that he has plans to launch a political action organization defending the administration’s record.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/ff6/d91/a33a01fa386758c72fc9ae2ff1631f8012-donald-trump-mike-pence.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html",
+      "publishedDateTime": "2021-02-24T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-bidens-100-day-deportation-moratorium-indefinitely-banned-by-judge.md",
       "title": "Biden’s 100-day deportation moratorium indefinitely banned by judge",
       "excerpt": "The Biden administration’s efforts to impose a 100-day pause on deportations were dealt another blow on Tuesday when a district judge extended a ban on its imposition in response to a lawsuit from Texas.",
@@ -1168,7 +1263,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1265,114 +1360,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-take-a-look-inside-vice-president-kamala-harriss-san-francisco-loft-it-just-sold-for-a-profit.md",
-      "title": "Take a look inside Vice President Kamala Harris’s San Francisco loft — it just sold for a profit",
-      "excerpt": "The nation's newest vice president is unloading her San Francisco condo — and she's getting a very good price.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/take-a-look-inside-vice-president-kamala-harris-san-francisco-condo-that-just-sold-for-a-profit-11614024358?mod=hp_minor_pos19",
-      "originalUrl": "https://www.marketwatch.com/story/take-a-look-inside-vice-president-kamala-harris-san-francisco-condo-that-just-sold-for-a-profit-11614024358?mod=hp_minor_pos19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-302496/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T07:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-a-new-trump-loyalist-party-makes-room-for-the-proud-boys.md",
-      "title": "A new Trump loyalist 'party' makes room for the Proud Boys",
-      "excerpt": "CNN's Elle Reeve went to a Patriot Party event in Harrisburg, PA, but things weren't what they seemed.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ziyxbcU-ktE/proud-boys-and-patriot-party-orig-jm.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ziyxbcU-ktE/proud-boys-and-patriot-party-orig-jm.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210209152447-patriot-party-pa-10-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-patriot-party-orig-jm.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-patriot-party-orig-jm.cnn",
-      "publishedDateTime": "2021-02-23T07:24:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

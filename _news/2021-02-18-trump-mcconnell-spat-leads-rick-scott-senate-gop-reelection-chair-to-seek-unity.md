@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-see
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp"
 type: article
 quality: 185
-heat: 625
+heat: 645
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Pence meets with House GOP, says he has good relationship with Trump"
+    excerpt: "Former Vice President Mike Pence met with a group of House Republicans this week to discuss the party’s political agenda going forward. Pence met Tuesday with members of the Republican Study"
+    publishedDateTime: 2021-02-24T18:11:00Z
+    webUrl: "https://nypost.com/2021/02/24/pence-tells-house-gop-he-has-good-relationship-with-trump/"
+    ampWebUrl: "https://nypost.com/2021/02/24/pence-tells-house-gop-he-has-good-relationship-with-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/pence-tells-house-gop-he-has-good-relationship-with-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/mike-pence-gop.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump-McConnell spat leads Rick Scott, Senate GOP reelection chair, to seek unity"
     excerpt: "Amid a very vocal war of words between the most powerful GOP leader in Congress and the most popular and influential Republican politician among the party’s base, the chair of the reelection arm of the Senate GOP is calling for unity as Republicans aim to win back the chamber’s majority next year."

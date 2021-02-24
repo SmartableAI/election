@@ -127,6 +127,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Federal judge in Texas blocks Biden's 100-day deportation pause in nationwide order"
+    excerpt: "Granting a nationwide injunction sought by Texas, a federal judge has blocked the Biden administration's plans to pause deportations for 100 days."
+    publishedDateTime: 2021-02-24T17:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/federal-judge-texas-blocks-joe-biden-100-day-deportation-pause/4576411001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4576411001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4576411001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/14/NAAS/0dc111b6-63c9-4c2f-b2c4-5bc23496c694-Biden_Immigration.jpg?auto=webp&crop=5191,2920,x0,y519&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Joe Biden planning trip to storm-ravaged Texas, but 'I don't want to be a burden'"
     excerpt: "President Joe Biden said \"I don’t want to be a burden\" and will go next week when a presidential visit won't get in the way of Texas recovery."
     publishedDateTime: 2021-02-19T22:41:00Z

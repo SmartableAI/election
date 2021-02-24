@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-mccarthy-and-cheney-at-odds-over-trumps-future-role-in-the-party.md",
+      "title": "McCarthy and Cheney at odds over Trump's future role in the party",
+      "excerpt": "House Minority Leader Kevin McCarthy (R-Calif) and Rep. Liz Cheney (R-Wyo.) disagreed Feb. 24 on former president Donald Trump's role in the Republican party.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/video/politics/mccarthy-and-cheney-at-odds-over-trumps-future-role-in-the-party/2021/02/24/319b5c94-85a0-4bae-84b2-c7115d589fa6_video.html",
+      "originalUrl": "https://www.washingtonpost.com/video/politics/mccarthy-and-cheney-at-odds-over-trumps-future-role-in-the-party/2021/02/24/319b5c94-85a0-4bae-84b2-c7115d589fa6_video.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-24-2021/t_fb9f67f394504c0f98769a9980e35a5e_name_65139534_76c3_11eb_9489_8f7dacd51e75_scaled.jpg&w=1080",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T09:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-romney-says-trump-would-win-2024-gop-nomination-in-a-landslide-if-he-ran-for-president.md",
       "title": "Romney says Trump would win 2024 GOP nomination \"in a landslide\" if he ran for president",
       "excerpt": "Senator Mitt Romney said that he believes former President Donald Trump would win the Republican presidential nomination if he ran for office in 2024. \"He has by far the largest voice and a big impact in my party,",
@@ -379,7 +431,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -701,7 +753,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1127,
+      "heat": 1147,
       "tags": null,
       "images": [
         {
@@ -1528,63 +1580,6 @@
       "ampWebUrl": "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.amp",
       "publishedDateTime": "2021-02-18T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.md",
-      "title": "Trump hails Rush Limbaugh on 'Hannity': 'They all respected Rush'",
-      "excerpt": "They all respected Rush' Former President Donald Trump joined \" Hannity \" on Wednesday night to remember conservative radio host Rush Limbaugh, who died at age 70 after a long battle with lung cancer .",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush",
-      "originalUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1189876914.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp",
-      "publishedDateTime": "2021-02-18T02:09:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

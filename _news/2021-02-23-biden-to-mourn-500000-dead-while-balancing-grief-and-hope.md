@@ -649,6 +649,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Federal judge's ruling allows deportations to continue despite Biden's attempt at pause"
+    excerpt: "Lawyers for the administration argued the pause was needed to reassess U.S. Immigration and Customs Enforcement policies."
+    publishedDateTime: 2021-02-24T17:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/deportations-2-gty-rc-210224_1614176925783_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – live"
     excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
     publishedDateTime: 2021-02-18T00:36:00Z

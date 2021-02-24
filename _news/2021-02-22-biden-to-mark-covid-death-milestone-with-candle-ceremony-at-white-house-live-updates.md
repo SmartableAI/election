@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1127
+heat: 1147
 published: true
 
 provider:
@@ -639,6 +639,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/bedb4506ff187ad6d66f4404fd4abd5c125e2761/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=445d0b0b8549c003be0219b5ab92c009"
         width: 600
         height: 360
+        isCached: true
+  - title: "Federal judge's ruling allows deportations to continue despite Biden's attempt at pause"
+    excerpt: "Lawyers for the administration argued the pause was needed to reassess U.S. Immigration and Customs Enforcement policies."
+    publishedDateTime: 2021-02-24T17:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/deportations-2-gty-rc-210224_1614176925783_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – live"
     excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"

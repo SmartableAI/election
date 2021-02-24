@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "President Biden to order a review of US supply chains for vital goods"
+    excerpt: "President Joe Biden is preparing to sign an order to review U.S. supply chains for large-capacity batteries, pharmaceuticals and other goods."
+    publishedDateTime: 2021-02-24T17:58:00Z
+    webUrl: "https://www.usatoday.com/story/money/2021/02/24/biden-order-review-us-supply-chains-vital-goods/4572801001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4572801001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4572801001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/22/USAT/cd464467-bd05-4701-87c5-32bd40872ca9-AP_Biden_1.jpg?auto=webp&crop=5999,3374,x1,y272&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Iran's Khamenei demands 'action, not words' from Biden to revive nuclear deal"
     excerpt: "Iran's Supreme Leader Ayatollah Ali Khamenei demanded \"action, not words\" from the United States if it wants to revive Tehran's 2015 nuclear deal with world powers, the latest challenge to new President Joe Biden to take the first step towards a thaw."
     publishedDateTime: 2021-02-17T12:08:00Z

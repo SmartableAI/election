@@ -208,6 +208,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Pence meets with House GOP, says he has good relationship with Trump"
+    excerpt: "Former Vice President Mike Pence met with a group of House Republicans this week to discuss the party’s political agenda going forward. Pence met Tuesday with members of the Republican Study"
+    publishedDateTime: 2021-02-24T18:11:00Z
+    webUrl: "https://nypost.com/2021/02/24/pence-tells-house-gop-he-has-good-relationship-with-trump/"
+    ampWebUrl: "https://nypost.com/2021/02/24/pence-tells-house-gop-he-has-good-relationship-with-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/pence-tells-house-gop-he-has-good-relationship-with-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/mike-pence-gop.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "State GOP may censure Sen. Richard Burr over Trump vote"
     excerpt: "The North Carolina Republican Party is saying it will vote later Monday on whether to censure GOP Sen. Richard Burr for voting to convict former President Donald Trump at his Senate impeachment"
     publishedDateTime: 2021-02-15T16:39:00Z

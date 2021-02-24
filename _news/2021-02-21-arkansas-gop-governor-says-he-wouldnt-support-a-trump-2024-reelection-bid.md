@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-ree
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-reelection-2024-cnntv/index.html"
 type: article
 quality: 188
-heat: 668
+heat: 688
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222122848-donald-trump-clarence-thomas-102620-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "PA GOP expected to consider censure of Sen. Pat Toomey over vote to convict Trump "
+    excerpt: "The Pennsylvania Republican state committee is holding a meeting Wednesday night with the expectations that the issue of censuring Pennsylvania GOP Sen. Pat Toomey over his impeachment vote will be discussed.\n    \n"
+    publishedDateTime: 2021-02-24T18:30:59Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CyzUv7z1rBU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/pennsylvania-gop-censure-toomey/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/pennsylvania-gop-censure-toomey/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224093131-01-pat-toomey-0213-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

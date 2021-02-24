@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Kennedy: Biden coronavirus stimulus bill is 'chock-full of spending porn'"
+    excerpt: "Sen. John Kennedy R-LA., blasted President Joe Biden’s proposed $1.9 trillion COVID relief bill Wednesday, calling it \"chock-full of spending porn\" unrelated to the coronavirus pandemic."
+    publishedDateTime: 2021-02-24T18:03:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d1iRntcckSE/john-kennedy-biden-stimulus-chock-full-spending-porn-coronavirus-relief-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/john-kennedy-biden-stimulus-chock-full-spending-porn-coronavirus-relief-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/john-kennedy-biden-stimulus-chock-full-spending-porn-coronavirus-relief-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41e1b327-c827-4b22-85d7-4b6e823b1cd2/1a5c194e-2ef4-4a92-b79b-e3516347f612/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House to vote on Biden-backed coronavirus relief package Friday, Steny Hoyer says"
     excerpt: "The House will vote Friday on whether to approve President Biden’s $1.9 trillion coronavirus relief package, according to House Majority Leader Steny Hoyer, D-Md."
     publishedDateTime: 2021-02-24T02:56:20Z
