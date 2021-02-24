@@ -87,6 +87,15 @@ related:
         width: 1000
         height: 615
         isCached: true
+  - title: "Jefferson City NAACP event to celebrate ‘historic first’ of Vice President Kamala Harris"
+    excerpt: "Jefferson City NAACP event to celebrate ‘historic first’ of VP HarrisThe Jefferson City NAACP is joining with several community organizations to recognize the historic election of Vice President Kamala Harris at its “Celebrating a Legacy of Firsts” event."
+    publishedDateTime: 2021-02-24T06:16:00Z
+    webUrl: "https://www.newstribune.com/news/local/story/2021/feb/24/jefferson-city-naacp-event-to-celebrate-historic-first-of-vice-president-kamala-harris/861276/"
+    type: article
+    provider:
+      name: News Tribune
+      domain: newstribune.com
+    quality: 26
 
 secured: "bBD0b0DvZeK4uD3jpMCbjeChwYYHkiKMh3HzEfY7cUKmINQ4fCwvbUKtAFIYF9wkjeBW9Wsn7BeeguHCDRXS+MZkTglLNsjXJYzBcpX92AaEsmXcsJf8sWzkTAcu5n28D1+5IChl4lhUWNUEvR+PaAhwY0loLd+JqnNN3dh2OySrS7wCKnrp7hwLSDwh9Bw3/1OfISegtPxFu9e9e3+bjv7uHFUbbGZY5VrTmUWCGQEvl4MPUzwawIYJM1tbQ595k50K8ajbiy3hV+YvrsQ4XwVDpn7uIVLdXhvuTlNcIn5MTOK5YU7xL+da31AIW+JneafFjF7Cfjz+x8FpnaCqYFJF9fYuGSzT1xk5UQCMs2A=;xohwGLNhpkkseYNkfT/VBw=="
 ---

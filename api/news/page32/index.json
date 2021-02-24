@@ -2,6 +2,119 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-01-09-pelosi-asks-joint-chiefs-about-preventing-trump-from-launching-nukes.md",
+      "title": "Pelosi asks Joint Chiefs about preventing Trump from launching nukes",
+      "excerpt": "House Speaker Nancy Pelosi spoke with the nation's top military officer on Friday about precautions in place to prevent President Donald Trump from ordering a nuclear strike or conducting other military hostilities as Democrats seek his removal from office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/08/pelosi-trump-take-away-nuclear-codes-456529",
+      "originalUrl": "https://www.politico.com/news/2021/01/08/pelosi-trump-take-away-nuclear-codes-456529",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/fd/0c/d4119b0a47de86d75b1f36341ac8/gettyimages-1230470231-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-08T10:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-pelosi-says-she-spoke-to-gen-milley-about-protecting-nuclear-codes-from-trump.md",
+      "title": "Pelosi says she spoke to Gen. Milley about protecting nuclear codes from Trump",
+      "excerpt": "House Speaker Nancy Pelosi, D-Calif., said she has spoken to Chairman of the Joint Chiefs of Staff Mark Milley about protecting the nuclear codes from an “unhinged president.” ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GVgKBIdVhcs/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/GVgKBIdVhcs/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94a18acc-5025-4d44-9bda-db2348258d22/107bb457-e4ae-4598-8a02-535aaa65aa94/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-spoke-gen-milley-protecting-nuclear-codes-trump.amp",
+      "publishedDateTime": "2021-01-08T10:13:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-ashli-babbitt-rioter-fatally-shot-in-dc-was-bananas-over-trump-grandfather.md",
       "title": "Ashli Babbitt, rioter fatally shot in DC, was ‘bananas’ over Trump: grandfather",
       "excerpt": "The Air Force veteran who was fatally shot as she stormed the Capitol was an “excellent patriot” who was a fanatic follower of President Trump, her grandfather said. Ashli Babbitt, 35, of San",
@@ -1230,120 +1343,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations.md",
-      "title": "Joe Biden: Black Lives Matter protesters would have been ‘treated differently’ at Capitol demonstrations",
-      "excerpt": "President-elect Joe Biden called protesters at the Capitol a “mob of thugs” and said if they were a group of Black Lives Matter demonstrators they would have been “treated very differently.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations-99068997831",
-      "originalUrl": "https://www.nbcnews.com/video/joe-biden-black-lives-matter-protesters-would-have-been-treated-differently-at-capitol-demonstrations-99068997831",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202101/nbc_spec_brk_blm_biden_200107_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo99068997831",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo99068997831",
-      "publishedDateTime": "2021-01-07T11:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-trump-pressured-pence-to-engineer-a-coup-then-put-the-vp-in-danger-source-says.md",
-      "title": "Trump pressured Pence to engineer a coup, then put the VP in danger, source says",
-      "excerpt": "President Donald Trump and top White House officials did little to check in on Vice President Mike Pence while he and members of his family were inside the US Capitol when Trump-backed rioters stormed the halls of Congress on Wednesday, a source close to the vice president tells CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gxFu2v2gDUA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gxFu2v2gDUA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 1215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210105143554-01-trump-pence-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/trump-pence-riot/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/trump-pence-riot/index.html",
-      "publishedDateTime": "2021-01-07T10:31:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

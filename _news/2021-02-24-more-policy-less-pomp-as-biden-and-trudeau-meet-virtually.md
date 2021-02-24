@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Justin Trudeau says US leadership has been 'sorely missed' during first meeting with Biden"
+    excerpt: "Canadian PM congratulates US president on rejoining Paris accord, saying ‘it’s nice when the Americans are not pulling out all the references to climate change’"
+    publishedDateTime: 2021-02-24T01:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
+    images:
+      - url: "https://i.guim.co.uk/img/media/92f4d394d2c49c86c46e628d5e42bc7db1b6700d/56_372_3769_2262/master/3769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aa842ac91dc9a696ee51e2e1e51e2fbb"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden Early Approval Ratings Better Than Donald Trump, Barack Obama, George W Bush, Bill Clinton?"
     excerpt: "President Joe Biden's approval ratings are trending positive early in his term, with 57% approving of his job performance in an early February poll and 62% doing so in a poll taken Sunday and Monday."
     publishedDateTime: 2021-02-16T20:48:00Z
@@ -96,6 +112,6 @@ related:
         height: 682
         isCached: true
 
-secured: "PQuL55Fs8ny/4E4QGg9O9h0AeTJMoaVUMFBbRoNNujPBC4sMQfWDjNZdIlAt5IEdG1zi3jyXaNNxGy0p7qs/8EpBEcmX/IrySfS4wolW0pYYFdILBukywITESYV6z5CM9ukije+ug1N/FLhrV9JaPvqIIzwPr3rjUVr0wD1tNpssUEVmBv+PJ+xWnQohz0ibnf8lQ9JjDtAdGgK+3sA80Im1Aej8zr+DJWdLG0ON3cRdtgqbn4LJ6fVdVLD/egWDYSKenseO17VON387VOJwQ6FDRIl0Z7j6XJ3ZhLtRIPWeM8Bv3sKhyHR+GkRoX789GJJj92YNiKHA6Ur+xjQKycyuvg4AZWN99ZcxHO8Hbws=;f6lJ+0wxlOoeY5iWYQylXA=="
+secured: "q0lVnELJY1BdQuij4Cy5HeZXTkIdV+2L39XNeYxK0SvtNO90hju6UGcayop1TZb2ptUFve0yv7HFcnqTW+8cm6fnI9JLdFqShi4XIQi5PEcg10LoVVT1zg3atgJcwGVrX5XySeCJvocBZQhexVZvl/+AuVhCTcZTugQZPjUcQUfjUpqk9EQZ7JqZVI0weSESkWw570KdfPApu/FU3q5ELgcf0WFKqspvoA9heuvgU2+uzFVUy3sg+rhGfrrIcf7vOCCfTX8NkFBS0evsfB0PH91AOMmQGUxLNA9nm2qLp7C0fZcHmLIHbSTBU22cgwsyCuVjDnJf/4BOX/Op2RQa7n1MIadrn/7iaWJCfMMJ4FKtwchlFPAX6wz5boOPooeO3ctBw5GUx1XGLIHWtJhztGrDg54vIWlxbbpapDO5NPqlsYTXQk27C4prnjl+8YPNd/KZsS3xP/vr0SGRVCxGigoG15WXlTVJ2hia69bpItbQ+PMhsMd8/3LCaVwHjdMeCyf+o2+PwwG4l3tWV7cGxQ==;/j/8AAlfUsXjed1FF4R8yg=="
 ---
 

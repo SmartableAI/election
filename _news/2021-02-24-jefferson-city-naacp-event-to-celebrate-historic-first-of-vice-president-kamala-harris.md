@@ -1,34 +1,38 @@
 ---
 category: news
-title: "Take a look inside Vice President Kamala Harris’s San Francisco loft — it just sold for a profit"
-excerpt: "The nation's newest vice president is unloading her San Francisco condo — and she's getting a very good price."
-publishedDateTime: 2021-02-23T15:37:00Z
-originalUrl: "https://www.marketwatch.com/story/take-a-look-inside-vice-president-kamala-harris-san-francisco-condo-that-just-sold-for-a-profit-11614024358?mod=hp_minor_pos19"
-webUrl: "https://www.marketwatch.com/story/take-a-look-inside-vice-president-kamala-harris-san-francisco-condo-that-just-sold-for-a-profit-11614024358?mod=hp_minor_pos19"
+title: "Jefferson City NAACP event to celebrate ‘historic first’ of Vice President Kamala Harris"
+excerpt: "Jefferson City NAACP event to celebrate ‘historic first’ of VP HarrisThe Jefferson City NAACP is joining with several community organizations to recognize the historic election of Vice President Kamala Harris at its “Celebrating a Legacy of Firsts” event."
+publishedDateTime: 2021-02-24T06:16:00Z
+originalUrl: "https://www.newstribune.com/news/local/story/2021/feb/24/jefferson-city-naacp-event-to-celebrate-historic-first-of-vice-president-kamala-harris/861276/"
+webUrl: "https://www.newstribune.com/news/local/story/2021/feb/24/jefferson-city-naacp-event-to-celebrate-historic-first-of-vice-president-kamala-harris/861276/"
 type: article
-quality: 92
-heat: 192
-published: true
+quality: 26
+heat: -1
+published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: News Tribune
+  domain: newstribune.com
 
 topics:
   - Election
   - Kamala Harris
 
-images:
-  - url: "https://images.mktw.net/im-302496/social"
-    width: 1280
-    height: 640
-    isCached: true
-
 related:
+  - title: "Take a look inside Vice President Kamala Harris’s San Francisco loft — it just sold for a profit"
+    excerpt: "The nation's newest vice president is unloading her San Francisco condo — and she's getting a very good price."
+    publishedDateTime: 2021-02-23T15:37:00Z
+    webUrl: "https://www.marketwatch.com/story/take-a-look-inside-vice-president-kamala-harris-san-francisco-condo-that-just-sold-for-a-profit-11614024358?mod=hp_minor_pos19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 92
+    images:
+      - url: "https://images.mktw.net/im-302496/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Photos: Kamala Harris selling San Francisco loft for $799,000"
     excerpt: "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco."
     publishedDateTime: 2021-02-22T17:06:00Z
@@ -91,16 +95,7 @@ related:
         width: 1000
         height: 615
         isCached: true
-  - title: "Jefferson City NAACP event to celebrate ‘historic first’ of Vice President Kamala Harris"
-    excerpt: "Jefferson City NAACP event to celebrate ‘historic first’ of VP HarrisThe Jefferson City NAACP is joining with several community organizations to recognize the historic election of Vice President Kamala Harris at its “Celebrating a Legacy of Firsts” event."
-    publishedDateTime: 2021-02-24T06:16:00Z
-    webUrl: "https://www.newstribune.com/news/local/story/2021/feb/24/jefferson-city-naacp-event-to-celebrate-historic-first-of-vice-president-kamala-harris/861276/"
-    type: article
-    provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 26
 
-secured: "2X4zQhuKuHBvF5v+Zh/vL5CKqRc9nCB9yYmFb5GgcSGb31BeHMKQ2PLBFssCJ0maTms83hWnyOG/mLKIbaEtUJwDJK4a6kEUa7MEg7ECCds9CNya4hRLeHFkwwkPJRwhRC59dK4zi1oAMS/4chFAE643v/botvcw+uPrHSeRmVw/RyOV9tR/2jqbdEKt8Ex8OxTD+cyW/rB6bEhmncuhNuBEUVSPKgt7yd1fzXFqeoGRoQ7rPoEItcGtyqao8KDJMivVNQAK81+fMgQ1ltqhEX29n/Xsj9+E1pZydCs7JzmdzKfMsr1NBdTg+IYsv5T6tmflhc6+3io8iPn1O3BZ0hMt5dKMefG5j5YHziOtiCA=;50RIzKfayx7ug3Kx0m3lWA=="
+secured: "5cKJkNBgF3Rq+XKswIMN3wGnWrIMjKN5ThQG+JtevPqcZGNJBGNww/DTVxwzRXezxPb1xvfXpnokOlgew5pLluC32jEZgVB0stxezFZ95uRHnvLks9kJKLgajx9d8kgkYD46PB2k3uQMhC9XvKPr+KHkot8Hhb08NxocP10k1UpNofuzDm+siEgJpTjqeOTyjfj6DTIffwmqhIQj0x7kcOO82GfJQ5/3NR0g55V+Xxy8kROlYsuk/of9OMrmSuF65DCQH2pfCXQRHeChvRyWoQdS4RRo1mhBQ6wG+CZcBk5EzYUUIsLZ1Af+AKfwY4m/SFERuHe/ZhfXqGpSySjwNib4ofZk0Y5RvNhB80r69TU=;+lTyWADtIahl2XGf4brzEQ=="
 ---
 

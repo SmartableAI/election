@@ -2,6 +2,118 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-03-sen-kennedy-blasts-immeasurably-foolish-biden-orders-that-will-gut-louisiana-like-a-fish.md",
+      "title": "Sen. Kennedy blasts 'immeasurably foolish' Biden orders that will 'gut Louisiana like a fish'",
+      "excerpt": "Sen. John Kennedy, R-La., warned Tuesday that President Biden's sweeping executive orders related to the industrial energy sector and immigration will be detrimental to both the nation and, in the former case, his home state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RAcaTpjN_gA/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RAcaTpjN_gA/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad91f5b6-ed4f-41ac-b105-9fd686d6b5e1/e06686e2-9266-4384-8b53-bd22c3418899/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-john-kennedy-foolish-biden-executive-orders-gut-louisiana.amp",
+      "publishedDateTime": "2021-02-02T17:16:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-chicago-mayor-lori-lightfoot-blames-trump-for-standoff-between-citys-public-schools-and-teachers-union.md",
+      "title": "Chicago Mayor Lori Lightfoot blames Trump for standoff between city’s public schools and teachers union",
+      "excerpt": "Chicago Mayor Lori Lightfoot on Tuesday blamed the impasse between the city’s public schools and teachers union on President Donald Trump for not being able to roll out a nationwide vaccine program while he was in office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwqYt-uVXrw/chicago-schools-closed-mayor-lightfoot-blames-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iwqYt-uVXrw/chicago-schools-closed-mayor-lightfoot-blames-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cf45ae16-a9fd-45fd-9ca2-c58562d1c92f/f424f3ab-ce52-4966-86f5-ebfc6cf3f51e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/chicago-schools-closed-mayor-lightfoot-blames-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/chicago-schools-closed-mayor-lightfoot-blames-trump.amp",
+      "publishedDateTime": "2021-02-02T14:44:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-defense-secretary-dismisses-hundreds-of-members-of-pentagon-advisory-boards-including-late-trump-picks.md",
       "title": "Defense Secretary dismisses hundreds of members of Pentagon advisory boards including late Trump picks",
       "excerpt": "Defense Secretary Lloyd Austin has dismissed hundreds of members of 42 Pentagon advisory boards, including controversial late appointments by the Trump administration, as the Pentagon announced a review of the boards' memberships Tuesday.\n    \n",
@@ -544,7 +656,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 293,
+      "heat": 273,
       "tags": null,
       "images": [
         {
@@ -1229,118 +1341,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-biden-administration-cites-climate-change-as-a-racial-justice-issue.md",
-      "title": "Biden administration cites climate change as a 'racial justice issue'",
-      "excerpt": "Climate Adviser Gina McCarthy explained that challenges are exacerbated in communities that haven't been invested in.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQjA3MJAeuI/biden-admin-calls-climate-change-is-a-racial-justice-issue",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YQjA3MJAeuI/biden-admin-calls-climate-change-is-a-racial-justice-issue",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-calls-climate-change-is-a-racial-justice-issue.amp",
-      "publishedDateTime": "2021-02-01T13:57:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-howard-kurtz-media-will-use-impeachment-trial-to-convict-donald-trump-in-the-court-of-public-opinion.md",
-      "title": "Howard Kurtz: Media will use impeachment trial to ‘convict Donald Trump in the court of public opinion’",
-      "excerpt": "Fox News media analyst Howard Kurtz predicts Donald Trump’s second impeachment trial will be “grand political theater” that will dominate media coverage.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hLve9vSHhGs/media-impeachment-trial-convict-trump-court-public-opinion",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hLve9vSHhGs/media-impeachment-trial-convict-trump-court-public-opinion",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0f1e8796-e12a-466e-a05d-58f56f2aa13a/c3254a19-493a-479d-8670-59412f3c0ec0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/media-impeachment-trial-convict-trump-court-public-opinion.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/media-impeachment-trial-convict-trump-court-public-opinion.amp",
-      "publishedDateTime": "2021-02-01T13:32:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Live Updates: Biden says team on track to surpass 100 million vaccine doses in first 100 days"
-    excerpt: "Biden provided the update as he and Vice President Kamala Harris spoke to Arizona health care officials"
-    publishedDateTime: 2021-02-09T08:42:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8-W-8C32SZk/live-updates-biden-2-9-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-2-9-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-2-9-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/86aadf47-31ea-4598-9cba-7cd27d2b6cde/abac50d9-7116-4733-80ee-f940bcb5916e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Top US union boss Richard Trumka disappointed in Biden's Keystone XL cancelation in new interview"
     excerpt: "The leader on one of the most prominent U.S. labor unions said he wished President Biden hadn’t derailed the Keystone XL pipeline project on his first day in office in a new interview."
     publishedDateTime: 2021-02-08T02:38:34Z

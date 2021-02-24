@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/ff0ad41e-afaf-4be1-9214-3dd4620700f5-VPC_CANADA_US_TRAVEL_BAN_DESK_THUMB.00_00_03_00.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Justin Trudeau says US leadership has been 'sorely missed' during first meeting with Biden"
+    excerpt: "Canadian PM congratulates US president on rejoining Paris accord, saying ‘it’s nice when the Americans are not pulling out all the references to climate change’"
+    publishedDateTime: 2021-02-24T01:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
+    images:
+      - url: "https://i.guim.co.uk/img/media/92f4d394d2c49c86c46e628d5e42bc7db1b6700d/56_372_3769_2262/master/3769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aa842ac91dc9a696ee51e2e1e51e2fbb"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden Early Approval Ratings Better Than Donald Trump, Barack Obama, George W Bush, Bill Clinton?"
     excerpt: "President Joe Biden's approval ratings are trending positive early in his term, with 57% approving of his job performance in an early February poll and 62% doing so in a poll taken Sunday and Monday."

@@ -2,6 +2,114 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-01-15-bidens-19t-stimulus-plan-is-a-bailout-for-blue-states-bad-lockdown-policies-waltz.md",
+      "title": "Biden's $1.9T stimulus plan is a 'bailout' for blue states' bad lockdown policies: Waltz",
+      "excerpt": "Rep. Michael Waltz, R-Fla., took issue Friday with President-elect Joe Biden's massive $1.9 trillion stimulus package proposal that aims to combat the coronavirus and attempt to pump up a U.S. economy severely battered by the worst pandemic to strike the globe in a century.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ehl6ZP9KA0w/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ehl6ZP9KA0w/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/54727a25-d138-4f02-80c6-7a2dee4319e9/92ff4ba6-c8d8-4611-bc12-a63f4c66a2e0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-stimulus-plan-bailout-blue-states-bad-lockdown-policies-waltz.amp",
+      "publishedDateTime": "2021-01-15T05:08:36-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-15-biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus.md",
+      "title": "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus",
+      "excerpt": "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-15T04:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-joe-biden-unveils-19tn-us-economic-relief-package.md",
       "title": "Joe Biden unveils $1.9tn US economic relief package",
       "excerpt": "President-elect Joe Biden has unveiled a $1.9tn (£1.4tn) stimulus plan for the coronavirus-sapped US economy before he takes office next week. If passed by Congress, it would include $1tn for households,",
@@ -1219,118 +1327,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-trump-has-told-staff-not-to-pay-rudy-giuliani-over-irritation-at-being-impeached-again.md",
-      "title": "Trump has told staff not to pay Rudy Giuliani over irritation at being impeached again",
-      "excerpt": "President Donald Trump, irritated at being impeached for a second time, has told people to stop paying Rudy Giuliani's legal fees, a person familiar with the matter tells CNN, though aides were not clear if the President was serious about his instructions given he's lashing out at nearly everyone after",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EF5AViWHJgM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EF5AViWHJgM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/13/politics/donald-trump-rudy-giuliani-legal-fees-white-house/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/13/politics/donald-trump-rudy-giuliani-legal-fees-white-house/index.html",
-      "publishedDateTime": "2021-01-13T20:04:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.md",
-      "title": "Swalwell compares Trump to Usama bin Laden: 'He was responsible'",
-      "excerpt": "Democratic California Rep. Eric Swalwell, who remains on the House Intelligence Committee despite foggy ties to a spy for China and who will serve as an impeachment manager, associated President Trump with Usama bin Laden in an interview Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjxHIq_BY1I/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EjxHIq_BY1I/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/swalwell-walking-masked.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-compares-trump-to-usama-bin-laden-he-was-responsible.amp",
-      "publishedDateTime": "2021-01-13T15:57:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

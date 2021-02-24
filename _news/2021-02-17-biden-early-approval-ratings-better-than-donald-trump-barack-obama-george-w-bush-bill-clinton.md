@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Justin Trudeau says US leadership has been 'sorely missed' during first meeting with Biden"
+    excerpt: "Canadian PM congratulates US president on rejoining Paris accord, saying ‘it’s nice when the Americans are not pulling out all the references to climate change’"
+    publishedDateTime: 2021-02-24T01:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 115
+    images:
+      - url: "https://i.guim.co.uk/img/media/92f4d394d2c49c86c46e628d5e42bc7db1b6700d/56_372_3769_2262/master/3769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aa842ac91dc9a696ee51e2e1e51e2fbb"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "KD7d6smBmLVKxf59cwu26bbrhT4BKoDXOr9uDxyG3kwEIn5fjRyEvKZG7tztoRk7pPHQUwpvqBfBfj7srblB15XsFXoD0ZI7XvtM3aiboaPB4Ew4RdKWCertPzeulGYP9YCTLPkXDOg97AlWfNQ3Px7CeTfH93IawWfv8UW7z2UwabwfxIIJHcFh7QdW7CA3hOSa21V6z9ptX6voWsvcSyBk2VWXmygE9X+f7hYtaC9HYTpjOP8K/1+7ehVAlCvB3baGLl/A2e36yMyrOSL8x/r50I5OFQ/fAo84CP54tNw3e8Zg5bjacqJibnsa192hbmXKnLEgd80tpPBB0S/NH87XO27S6FiOXzd79BfBO0o=;co13MrnJk0MD0VLosO0J0g=="
 ---

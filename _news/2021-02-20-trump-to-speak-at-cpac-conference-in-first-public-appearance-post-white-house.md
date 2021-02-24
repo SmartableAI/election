@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Pence declined CPAC invitation: source"
-    excerpt: "Former Vice President Mike Pence has declined an invitation to attend this year's Conservative Political Action Conference, Fox News has learned."
-    publishedDateTime: 2021-02-21T14:08:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pxTq-u8QWBY/pence-declined-cpac-invitation-source"
-    ampWebUrl: "https://www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-declined-cpac-invitation-source.amp"
+  - title: "Trump should focus on 2022 elections, not 2024, in CPAC address: Newt Gingrich"
+    excerpt: "Former President Donald Trump should focus on next year's midterm elections when he addresses the Conservative Political Action Conference (CPAC) this weekend, former House Speaker Newt Gingrich told \"Hannity.\""
+    publishedDateTime: 2021-02-24T05:21:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/afuZMKQGJsA/trump-cpac-speech-2022-elections-2024-election-newt-gingrich"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-speech-2022-elections-2024-election-newt-gingrich.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-speech-2022-elections-2024-election-newt-gingrich.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 185
+    quality: 186
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e7fe47e-ed40-4bb7-97a7-8b2c3b23ff48/b5a6a527-121e-4e98-876f-f6204780c546/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump CPAC message to include 'big thank you' to supporters, Lara Trump expects"
+    excerpt: "Former President Trump is scheduled to make his first public appearance since leaving office at the 2021 Conservative Political Action Conference (CPAC) next weekend, and Lara Trump shared her expectations for the message he’ll share."
+    publishedDateTime: 2021-02-21T17:04:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7GDwHRgQF4/trump-cpac-message-thank-you-supporters-lara-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-message-thank-you-supporters-lara-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-message-thank-you-supporters-lara-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-CPAC-AP-e1607457728844.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump to speak at CPAC in first public appearance after leaving office"
     excerpt: "Former President Trump will be a keynote speaker at the Conservative Political Action Conference in Orlando, Fla., a spokesman for the organization confirmed to The Post on Saturday. Trump is"
@@ -78,6 +94,22 @@ related:
       - url: "https://images.wsj.net/im-302065/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump CPAC message to include 'big thank you' to supporters, Lara Trump expects"
+    excerpt: "Former President Trump is scheduled to make his first public appearance since leaving office at the 2021 Conservative Political Action Conference (CPAC) next weekend, and Lara Trump shared her expectations for the message he’ll share."
+    publishedDateTime: 2021-02-21T17:07:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-cpac-message-thank-you-supporters-lara-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-message-thank-you-supporters-lara-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-message-thank-you-supporters-lara-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-CPAC-AP-e1607457728844.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "kpddf2E2mTocIUO/ihOchmIjFGJ1DsJZ1M7NGulx5fF1Md0NXM+6wCsuUvxJYza2tazr7wwLReOmw6we/VgJ+opbengibZUqZ45XRNXdGYmoeD+iAc2uE1pASm9kpIqricHC2nXaSxft9MYvKpDazgWpcBUSHGsWHdQKQE3jJB6+5Q2ApucdymCqKvXK5TAl7FZBt3eoViFLQMNxLFobNHJ/ECOtkXelXAnU4FHFPL0hY8B2kpIlkLh3M0GB8NpDi1YwPHL01NKdTG+iIAIVRyUU/9GuHeFEdTdhhQquuJcf0RI4sTmFDkYLSHCBIG+oSpRDO6l3nsnQvypBHdLVG6mAiaAvr0tmYWPQo3Ho+XY=;29j6awb+YfrCDo7TmNcydA=="
