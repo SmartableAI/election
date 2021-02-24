@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-ree
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-reelection-2024-cnntv/index.html"
 type: article
 quality: 188
-heat: 608
+heat: 628
 published: true
 
 provider:
@@ -360,6 +360,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/ba/49/dfd390ea400cb7bd00c4ff761091/gettyimages-1230449215-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Trump taunts don’t shake McConnell’s hold on Senate GOP"
+    excerpt: "The crumbled alliance between Trump and McConnell has finally brought the GOP to the reckoning that never happened after the 2016 election."
+    publishedDateTime: 2021-02-23T22:41:00Z
+    webUrl: "https://www.politico.com/news/2021/02/22/trump-mcconnell-gop-471053"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ab/fb/c726072a4ee7b8e3826bb5634c7d/gettyimages-1257244767-c.jpg"
         width: 1160
         height: 773
         isCached: true

@@ -551,6 +551,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump to attend GOP's spring donor retreat"
+    excerpt: "Former President Trump is scheduled to attend the Republican National Committee's spring donor retreat in Florida this April, according to a Republican familiar with the situation and an invitation obtained by CBS News."
+    publishedDateTime: 2021-02-24T00:23:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-to-attend-gops-spring-donor-retreat/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-to-attend-gops-spring-donor-retreat/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-to-attend-gops-spring-donor-retreat/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/22d29beb-171c-44f2-b45b-116746ad9948/thumbnail/1200x630g2/a2f76a465e94fff640d335f1343e3d74/gettyimages-1229999067.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
     publishedDateTime: 2021-02-13T22:04:00Z
@@ -1264,6 +1280,22 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/8f1/8f0/96cf7a78ef022c12b9dc57cf633efb4aa0-trump-2.1x.rsocial.w1200.jpg"
         width: 1200
         height: 632
+        isCached: true
+  - title: "Security officials blame poor intel and each other for pro-Trump Capitol attack"
+    excerpt: "Steven Sund, the recently resigned Capitol Police chief, admitted that a “critical” FBI report issued about the potential for violence somehow didn’t make it to his desk."
+    publishedDateTime: 2021-02-23T23:20:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-riot-security-congress-hearing-20210223-l37drwz47bc65k2oszm6eklzwu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-riot-security-congress-hearing-20210223-l37drwz47bc65k2oszm6eklzwu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-capitol-riot-security-congress-hearing-20210223-l37drwz47bc65k2oszm6eklzwu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 71
+    images:
+      - url: "https://www.nydailynews.com/resizer/W7zyj-f164pen8_scjhx_HODl80=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/6MCRF3S4YFCTDE6JIJVHY4BWBY.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Senate Acquits Trump With Seven Republicans Joining All 50 Democrats in Voting ‘Guilty’"
     excerpt: "Mitch McConnell spoke after the verdict to denounce Trump’s conduct while insisting his trial was unconstitutional."

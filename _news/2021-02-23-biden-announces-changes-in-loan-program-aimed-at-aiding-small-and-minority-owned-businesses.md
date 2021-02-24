@@ -32,35 +32,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's pick to lead Health and Human Services goes before Senate committees"
-    excerpt: "President Joe Biden's choice for the nation's top health official will go before Senate committees on Tuesday and Wednesday, as Republicans attempt to torpedo the nomination.\n    \n"
-    publishedDateTime: 2021-02-23T12:25:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/84PHMzbJnGs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/health-and-human-services-confirmation-xavier-becerra/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/health-and-human-services-confirmation-xavier-becerra/index.html"
+  - title: "Biden and Trudeau stress US-Canadian bonds in virtual meeting"
+    excerpt: "When President Joe Biden welcomes his Canadian counterpart to the White House on Tuesday to \"reinvigorate\" a cross-border relationship strained under his predecessor, he will do so by addressing a large television monitor.\n    \n"
+    publishedDateTime: 2021-02-24T00:00:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kwM0LDvkiHE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-trudeau-white-house-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-trudeau-white-house-visit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219140325-xavier-becerra-nov-2019-restricted-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222204808-biden-trudeau-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden to pick Chiquita Brooks-LaSure to run Centers for Medicare and Medicaid Services, sources say"
-    excerpt: "President Joe Biden is expected to nominate Chiquita Brooks-LaSure to lead the Centers for Medicare and Medicaid Services, two sources familiar with the decision told CNN.\n    \n"
-    publishedDateTime: 2021-02-18T00:29:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GvOg0uYVY94/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/chiquita-brooks-lasure-cms-pick/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/chiquita-brooks-lasure-cms-pick/index.html"
+  - title: "Biden to press for Covid-19 relief package during CNN's Wisconsin town hall"
+    excerpt: "President Joe Biden, no longer encumbered by his predecessor's impeachment trial and eager to seize the national spotlight, will bring the case for his massive coronavirus relief plan to the country on Tuesday when he participates in a CNN town hall at 9 p.m. ET in Milwaukee.\n    \n"
+    publishedDateTime: 2021-02-16T22:35:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BZxNyEn6k4k/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210217191845-chiquita-brooks-lasure-headshot-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205130625-joe-biden-february-5-2021-01-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to mark upcoming 500,000 US Covid-19 deaths with candle lighting ceremony"
+    excerpt: "With the US approaching 500,000 Covid-19 deaths, plans are underway for President Joe Biden to mark the moment this week.\n    \n"
+    publishedDateTime: 2021-02-22T09:59:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dYOI65LzzkU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/coronavirus-memorial-biden-500000-deaths/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/coronavirus-memorial-biden-500000-deaths/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119175756-22-biden-inauguration-0119-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

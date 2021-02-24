@@ -363,6 +363,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump taunts don’t shake McConnell’s hold on Senate GOP"
+    excerpt: "The crumbled alliance between Trump and McConnell has finally brought the GOP to the reckoning that never happened after the 2016 election."
+    publishedDateTime: 2021-02-23T22:41:00Z
+    webUrl: "https://www.politico.com/news/2021/02/22/trump-mcconnell-gop-471053"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ab/fb/c726072a4ee7b8e3826bb5634c7d/gettyimages-1257244767-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "CBU34VKZCwOS6yTqFY649Jbu2O6DFOOlOMcPd6NXOBXiNZg04LrIIpvomW4A5TUG8Oss4PyUH1HpM/tJ0huAK7mjvtHDH4TCQK5cOSzajE0eM4nx5OMgJDTffGIas7v0zCExpy4e9cc9t4PHYgFWqP7FRpV7AlKzxHtF8KnFgamPaYgmAf0Jr6EhbKuKE/DY4Hgp1hsFzhgKjKAcPguMnGrL67j2Zg30VkxwzpqrUBgZGJt+n6XoGssx/BtRz0rBYqKTHrMMBsfi8gJaCt1q9KTDPyNIevKDMQXyrnyigzwjjitPLPxINnjadFwouD/rfcWj8Wlz2lBCDKYhMiWhbfe6Pwwnsi4lePd7zm+zYtE=;EP0OK5hcOxvjWmlpjTInmg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february/index.html"
 type: article
 quality: 173
-heat: 333
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to join virtual G7 event Friday with global leaders on Covid-19 efforts"
-    excerpt: "President Joe Biden will participate in a virtual G7 event on Friday where he plans to discuss efforts to combat the Covid-19 pandemic and rebuild the world economy.\n    \n"
-    publishedDateTime: 2021-02-15T02:02:56Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PmVw0W8MlL4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/biden-g7-summit-virtual-covid-19/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/biden-g7-summit-virtual-covid-19/index.html"
+  - title: "Biden and Trudeau stress US-Canadian bonds in virtual meeting"
+    excerpt: "When President Joe Biden welcomes his Canadian counterpart to the White House on Tuesday to \"reinvigorate\" a cross-border relationship strained under his predecessor, he will do so by addressing a large television monitor.\n    \n"
+    publishedDateTime: 2021-02-24T00:00:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kwM0LDvkiHE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-trudeau-white-house-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-trudeau-white-house-visit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212084720-01-joe-biden-0211-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden reassures 2nd grader afraid of getting Covid-19: 'Don't be scared, honey'"
-    excerpt: "President Joe Biden at a Tuesday CNN town hall sought to reassure a second grader worried about getting Covid-19, telling her that young children are the \"safest group of people in the whole world.\"\n    \n"
-    publishedDateTime: 2021-02-17T04:02:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ETLhksVqyzw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-coronavirus-second-grader/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-coronavirus-second-grader/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216214118-11-biden-town-hall-0216-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222204808-biden-trudeau-split-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -79,81 +63,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden son-in-law faces conflicts of interest concerns following coronavirus response investments"
-    excerpt: "The White House has pledged to bar President Joe Biden's family from using the office for personal gain, but questions are being raised by good governance groups and news outlets about whether an investment firm co-founded by Biden's son-in-law could present a new set of ethical challenges for the administration.\n"
-    publishedDateTime: 2021-02-10T17:54:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7inrCkSsNj0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/joe-biden-howard-krein-startup-health/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/joe-biden-howard-krein-startup-health/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205130625-joe-biden-february-5-2021-01-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP irked after last-ditch attempt fails to deter Biden push for quick passage of Covid relief plan "
-    excerpt: "It was Super Bowl Sunday -- and President Joe Biden was on the phone with Sen. Susan Collins.\n    \n"
-    publishedDateTime: 2021-02-22T11:01:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gLrhDrrTwT8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204164947-21-week-in-photos-0205-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "White House relaunches Snapchat account with a Covid-focused message from Biden and Fauci"
-    excerpt: "The White House is relaunching its official Snapchat account on Tuesday, featuring a message from President Joe Biden focused on Covid-19.\n    \n"
-    publishedDateTime: 2021-02-16T23:17:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0h9RX_MYX_E/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 146
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216171151-01-white-house-snapchat-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Milwaukee voters want Biden to focus on ‘small business assistance’ amid Covid"
-    excerpt: "President Joe Biden will be in Milwaukee, Wis., for his first town hall since taking office. NBC News’ Shaquille Brewster spoke with voters in the state about what they want to see Biden accomplish."
-    publishedDateTime: 2021-02-16T23:16:00Z
-    webUrl: "https://www.nbcnews.com/now/video/milwaukee-voters-want-biden-to-focus-on-small-business-assistance-amid-covid-101111365795"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101111365795"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101111365795"
+  - title: "Biden announces changes in loan program aimed at aiding small and minority-owned businesses"
+    excerpt: "Biden had previously criticized the loan program for having helped larger businesses with existing banking relationships while many smaller businesses struggled to get relief."
+    publishedDateTime: 2021-02-22T18:49:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-announce-changes-loan-program-aimed-aiding-small-minority-owned-n1258480"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258480"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258480"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 131
+    quality: 125
     images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202102/ott_now_brewster_3p_milwa_210216_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "WARREN presses BIDEN for DEBT RELIEF — NEW GROUPS eligible for COVID SHOTS — BEACON HILL to probe VAX rollout"
-    excerpt: "President Joe Biden is pretty blunt about where he stands on canceling $50,000 per borrower in student loan debt. “I will not make that happen,” Biden said during a CNN town hall earlier this week. But Sen."
-    publishedDateTime: 2021-02-18T12:23:00Z
-    webUrl: "https://www.politico.com/newsletters/massachusetts-playbook/2021/02/18/warren-presses-biden-for-debt-relief-new-groups-eligible-for-covid-shots-beacon-hill-to-probe-vax-rollout-491796"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 96
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_08/3451681/210222-small-biz-covid-mc-80223_44be66485ba36996fc79fc1f75ef47fa.jpg"
+        width: 2500
+        height: 1668
         isCached: true
 
 secured: "33U+egh4+zIgIenXKBSDqxixMjiiorUwf29927Vif+VDHyTmSIneTuuxuuEB8dF5OjRdH/kHU5zY6TogbL22p217oCAq8JOHD7ITLMPmJwHuKt+8cftJ4Ni9LFzWr08smOPOTZtwaeiZJqDnQMMUtNu/hO2tjTVn/V5mYbkZTp2K3FiVh3yYCDiPtCPtcHXW7+8JSRrFZjKHxxp0BC/1xHnBiYfFmQQT0bxCWBXdquMuICH6rAEzFkd7geflTRkLkyEhqgpJ1M0Di48HsAOFTcIl8WFqti+Rj/LvpR6sB+ELmo8FUy6rAPbe31QHMgyUXRB1Kkr80WmPWSA7K7XxwxYunZK/IB6U52AV/Al6OWM=;+JqJlm4JmjIiHFmn6l4IzA=="

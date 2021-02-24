@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/republican-opposition-bi
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/republican-opposition-biden-relief-plan/index.html"
 type: article
 quality: 159
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -30,6 +30,24 @@ images:
     height: 619
     isCached: true
 
-secured: "iBR75qfY8+LnMlVa8HreOVuqi1+v740tuMBAxlYOLo5zy9AV+VcN8vg24VjH/KBSQsdMW0olLBD0fXHd/E/fAuXNtLZWNL3LRYwslNt0xKQpgTx4eQeg6AlV/hAoy3s0cWuHV9m/peva03M6q4NesiHmL5tirzvP5ChOaAZp87M5+li3qmKe5RLklqrEQNAMeopRn6CU2NA0x1mmedQYrf3Nh9TN/Z24EKcmKXcXCafBW0ibBjhqvCr37dCYE2YvvKaBXliwXcdCQEcPTLmbaB5mlqod0pxoUaYSmrp7dqvvOnqn8iMgBPDwiWjHkgDPgncSChuyEcV2YElpwqWdc/4FgvgzvLX70cMYswvcVbQ=;IumZgXg8Xsa8O9UUs/RJgA=="
+related:
+  - title: "GOP irked after last-ditch attempt fails to deter Biden push for quick passage of Covid relief plan "
+    excerpt: "It was Super Bowl Sunday -- and President Joe Biden was on the phone with Sen. Susan Collins.\n    \n"
+    publishedDateTime: 2021-02-22T11:01:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gLrhDrrTwT8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204164947-21-week-in-photos-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "H7mpeEStVIkGvgjkPrkFCiUfVXkAnv9QtMgNGaaJG2iM1AyKYRjCMLRoVhFG/1UVJbVwjsvdOssACi0mfpjxAIzYrg1yngWR83Cx9MfJ2+Bitrm1gZ1MycVyFLF3hTDfbIET9nMu68nIprHeMKOMiIET1CFN3WrAzs8aehbMjaYI64ICBTqHKrpeX5P3w4D5xegACVr4IEOagx1cmkuL9ivyJ0V2NKhCV/QOaHfLhl98c0UfgCDYyjlIe2f4Mt+Pv1mujkBoBapLMiEhMnMdvNpNjjIJUHpyeo12/3R8YtjV8GUG3NbvkgxzJB7/VX7BXBmOLAJL9EitlCV4MSNvdt3/2KI1MCvlTLMhrst1Sr0=;LiE/Ul/30ml/2IJNzulsfg=="
 ---
 

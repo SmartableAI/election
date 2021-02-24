@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to press for Covid-19 relief package during CNN's Wisconsin town hall"
-    excerpt: "President Joe Biden, no longer encumbered by his predecessor's impeachment trial and eager to seize the national spotlight, will bring the case for his massive coronavirus relief plan to the country on Tuesday when he participates in a CNN town hall at 9 p.m. ET in Milwaukee.\n    \n"
-    publishedDateTime: 2021-02-16T22:35:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BZxNyEn6k4k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/biden-town-hall-february/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205130625-joe-biden-february-5-2021-01-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to join virtual G7 event Friday with global leaders on Covid-19 efforts"
     excerpt: "President Joe Biden will participate in a virtual G7 event on Friday where he plans to discuss efforts to combat the Covid-19 pandemic and rebuild the world economy.\n    \n"
     publishedDateTime: 2021-02-15T02:02:56Z
@@ -75,54 +59,6 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216214118-11-biden-town-hall-0216-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to mark upcoming 500,000 US Covid-19 deaths with candle lighting ceremony"
-    excerpt: "With the US approaching 500,000 Covid-19 deaths, plans are underway for President Joe Biden to mark the moment this week.\n    \n"
-    publishedDateTime: 2021-02-22T09:59:06Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dYOI65LzzkU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/coronavirus-memorial-biden-500000-deaths/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/coronavirus-memorial-biden-500000-deaths/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119175756-22-biden-inauguration-0119-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden son-in-law faces conflicts of interest concerns following coronavirus response investments"
-    excerpt: "The White House has pledged to bar President Joe Biden's family from using the office for personal gain, but questions are being raised by good governance groups and news outlets about whether an investment firm co-founded by Biden's son-in-law could present a new set of ethical challenges for the administration.\n"
-    publishedDateTime: 2021-02-10T17:54:47Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7inrCkSsNj0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/10/politics/joe-biden-howard-krein-startup-health/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/10/politics/joe-biden-howard-krein-startup-health/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205130625-joe-biden-february-5-2021-01-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "GOP irked after last-ditch attempt fails to deter Biden push for quick passage of Covid relief plan "
-    excerpt: "It was Super Bowl Sunday -- and President Joe Biden was on the phone with Sen. Susan Collins.\n    \n"
-    publishedDateTime: 2021-02-22T11:01:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gLrhDrrTwT8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/republicans-joe-biden-covid-relief/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204164947-21-week-in-photos-0205-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
