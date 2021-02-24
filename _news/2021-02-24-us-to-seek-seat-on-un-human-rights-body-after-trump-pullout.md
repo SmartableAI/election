@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Giuliani not currently representing Trump in legal matters - Trump spokesman"
-excerpt: "Former President Donald Trump's long-time lawyer and confidant Rudy Giuliani is not representing Trump in legal matters at this time, Trump spokesman Jason Miller said on Tuesday."
-publishedDateTime: 2021-02-16T22:10:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-giuliani/giuliani-not-currently-representing-trump-in-legal-matters-trump-spokesman-idUSKBN2AG2KU?edition-redirect=uk"
-webUrl: "https://www.reuters.com/article/us-usa-trump-giuliani/giuliani-not-currently-representing-trump-in-legal-matters-trump-spokesman-idUSKBN2AG2KU?edition-redirect=uk"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG2KU"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG2KU"
+title: "US to seek seat on UN human rights body, after Trump pullout"
+excerpt: "U.S. Secretary of State Antony Blinken says the United States will vie for a seat at the U.N.’s human rights body, which would cement a return to a Geneva-based body that was shunned by the Trump admi"
+publishedDateTime: 2021-02-24T10:20:00Z
+originalUrl: "https://abcnews.go.com/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
+webUrl: "https://abcnews.go.com/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
+ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
 type: article
-quality: 122
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551768478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1JO"
-    width: 823
-    height: 545
+  - url: "https://s.abcnews.com/images/US/WireAP_5136ebdcb04e4172bb9e2325be87e990_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -575,22 +575,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "US to seek seat on UN human rights body, after Trump pullout"
-    excerpt: "U.S. Secretary of State Antony Blinken says the United States will vie for a seat at the U.N.’s human rights body, which would cement a return to a Geneva-based body that was shunned by the Trump admi"
-    publishedDateTime: 2021-02-24T10:20:00Z
-    webUrl: "https://abcnews.go.com/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
-    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/US/WireAP_5136ebdcb04e4172bb9e2325be87e990_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
     publishedDateTime: 2021-02-13T22:04:00Z
@@ -686,6 +670,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JAIZYVDOG4I6XH4AHV3ENTQ3YA.jpg&w=1440"
         width: 1106
         height: 653
+        isCached: true
+  - title: "Giuliani not currently representing Trump in legal matters - Trump spokesman"
+    excerpt: "Former President Donald Trump's long-time lawyer and confidant Rudy Giuliani is not representing Trump in legal matters at this time, Trump spokesman Jason Miller said on Tuesday."
+    publishedDateTime: 2021-02-16T22:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-giuliani/giuliani-not-currently-representing-trump-in-legal-matters-trump-spokesman-idUSKBN2AG2KU?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG2KU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG2KU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551768478&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1JO"
+        width: 823
+        height: 545
         isCached: true
   - title: "Republican enthusiasm for second Trump term lags as impeachment trial nears end"
     excerpt: "Senate Republicans, while likely to acquit former President Donald Trump at his impeachment trial, showed little enthusiasm this week for a possible second White House bid in 2024 after reliving his supporters' deadly storming of the U."
@@ -1407,6 +1407,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "4o2j0vVSRqKLHPduEJVtX6YOAjFDMB2e672rVhKv8wGpVGH0AzskhLbCsuZTtU6zxFMxU8/dsyAtkYwtwQhk7CBz608rRcouw3xIfpDysWivskfbR6NZOtAFhMY59xm7+ns16kUjBKbx694Xg2+gm4fyHKhS1/6Wmq00FlNbuBURCp6Rf91KReAf8LodeXeWH4EndS+Z/2zJ0wc8UlbL4mc0tGDXvongIz7ko25mat7Bq5S4p6YcJFSwci8AWyqTjH4OZhvrW+nQ/0/VRqk/cWszWEpBoN0gxk6vAwhX0Q/S6qsm7wWfmTp+DcOlZpX9AkjGtE6rjXDZErsQVEoR1HBWhi7LmqZoZnhUCxwyneg=;Upkgo92+r5KzaPQYNQwywg=="
+secured: "4LrkLRVJk0Auee+HqEse60PVyhZM2EtI5CpWuR0bO9udRdg4vltuS6/OCbBRpR6q2CEVOvOlo8XWsjO3GEAq0LVhzBybExCVXg0zIHQ9SI6dx8yXWsYhNaM1UJB0m8znyHW5TQBdgtylNxdgvp5h0QCZRR7whDhFHtnbPh7u8Hv0EFWm5VPZ+nzkp5pqCmP/NcfUgSBy/FShTH6d+ENQtwCUs660iH/M2iWuuvvQLfL/DTodGI/l8sXcQA9TeHYVHEAi0xxjrDUaXeAkuyJwkvZWFrl5CyvW1hWjxyHSHJBcdysZV9byCzJrwIb/3OHOFY46aPcCvQvtPP8Fo5G59MJImtcQycFTQFF00G/E7e8=;ymSZF9b+eXL3jQZGG7KdoQ=="
 ---
 

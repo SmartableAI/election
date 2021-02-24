@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/romney-says-trump-likely-republican
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     height: 720
     isCached: true
 
-secured: "xh4dGZpZ5burLA5cPowC/o2zmKeoccISwnZxDQyhxSvvVvjALDlZtURR4NaP7jkp0qQwbPPa4RupVDcP9M4pOUnv5FqhSmOuz6SJdElb77VjYhxmwvjxqGisEtMgyEXbCAqO1TKsX4zHBqS0SPMw5T8zdombMVl2AHxNr8JTXXaa6PBMhWULDqdHFKvIwRhLZjgoVlXbsTA6+bJh9hh5uLsW/jn58LfeWFYEKc+KBJT0smOD5P3YviCnwuY+z9EoUxucsIaFvV8WtZg4lUMHzsm6yIa8PDiFyla+IxKVHq/LNdmO6K+ShAxkg4OnAFUy2YEf+CeAjy54QsSxTt3roGpZnF4vIWyi/AHNHq/0ReE=;LCCHN7RWxWv+lFnunVy2+A=="
+related:
+  - title: "Mitt Romney says Trump would win 2024 GOP nomination if he ran for president again"
+    excerpt: "Senator Mitt Romney said that President Donald Trump would win the GOP nomination “in a landslide” if he decided to make a run for The White House again in 2024. Romney (R –"
+    publishedDateTime: 2021-02-24T09:16:00Z
+    webUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/"
+    ampWebUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-romney.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+
+secured: "VR6O9UMSPmSGn1ltcS5T010iR/Q0iGph78w8ATAufy54DMG/9DUGteK4TIG7LloRMBIXHwnqBZtHUmQDx2WXujusDoxFEHNB1veSfVmVMvisCXg4iD3bbigqoAdKIPgK/oU6wo72Tc3raixr/B+quFofRpDbsR07UxGgvDEl8PvZPkHVMv2doSzpnl9d2Nfyz0XhkhpWzc+6v9PEqb/VpOweg/KVi4lhE8+uQhGY6EbCAgCy42CvZY37gOu/1IsCEbQLRpnuyAfrO/HWnUNJ3i/wfpZelhVTUcVmVEMzFwm7prU5Wgh8mycMlaLtOKT007GPVRQLu1Jji+dZh5VAgkLNrwo0YeuQHgqMLAVm2kw=;f37bH7MZXCFpZHaualCgbQ=="
 ---
 

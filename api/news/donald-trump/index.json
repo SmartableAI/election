@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-critics-slam-sen-ron-johnson-for-unfounded-claim-that-fake-trump-protesters-led-riots-its-disgraceful.md",
+      "title": "Critics slam Sen. Ron Johnson for unfounded claim that ‘fake Trump protesters’ led riots: ‘It’s disgraceful’",
+      "excerpt": "Sen. Ron Johnson (R-Wis.) made false claims minimizing the damage done by a pro-Trump mob during the Jan. 6 Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XUFEX5TVJUI6XFEJR562ZVI6OU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/?outputType=amp",
+      "publishedDateTime": "2021-02-24T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-trumps-enablers-meet-the-125-people-and-institutions-most-responsible-for-his-rise-to-power.md",
       "title": "Trump's enablers: Meet the 125 people and institutions most responsible for his rise to power",
       "excerpt": "Donald Trump's unprecedented presidency didn't happen without help — lots of it. Insider compiled this exclusive list of the most important people and entities behind the 45th president of the United States.",
@@ -1029,7 +1081,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1940,
+      "heat": 1960,
       "tags": null,
       "images": [
         {
@@ -1563,63 +1615,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-trump-ex-campaign-manager-brad-parscale-meet-at-mar-a-lago-source.md",
-      "title": "Trump, ex-campaign manager Brad Parscale, meet at Mar-a-Lago: Source",
-      "excerpt": "Former President Donald Trump met Tuesday with former campaign manager Brad Parscale at his Mar-a-Lago resort in Palm Beach, Florida, a source familiar with the matter told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/trump-ex-campaign-manager-brad-parscale-met-at-mar-a-lago-source",
-      "originalUrl": "https://www.foxnews.com/politics/trump-ex-campaign-manager-brad-parscale-met-at-mar-a-lago-source",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-ex-campaign-manager-brad-parscale-met-at-mar-a-lago-source.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ex-campaign-manager-brad-parscale-met-at-mar-a-lago-source.amp",
-      "publishedDateTime": "2021-02-16T17:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

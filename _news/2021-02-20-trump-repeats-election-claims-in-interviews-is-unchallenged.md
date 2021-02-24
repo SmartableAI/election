@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
 type: article
 quality: 140
-heat: 1940
+heat: 1960
 published: true
 
 provider:
@@ -558,6 +558,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/12/08/22d29beb-171c-44f2-b45b-116746ad9948/thumbnail/1200x630g2/a2f76a465e94fff640d335f1343e3d74/gettyimages-1229999067.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "US to seek seat on UN human rights body, after Trump pullout"
+    excerpt: "U.S. Secretary of State Antony Blinken says the United States will vie for a seat at the U.N.’s human rights body, which would cement a return to a Geneva-based body that was shunned by the Trump admi"
+    publishedDateTime: 2021-02-24T10:20:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_5136ebdcb04e4172bb9e2325be87e990_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"

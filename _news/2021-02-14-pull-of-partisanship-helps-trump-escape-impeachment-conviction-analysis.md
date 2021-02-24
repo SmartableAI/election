@@ -575,6 +575,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US to seek seat on UN human rights body, after Trump pullout"
+    excerpt: "U.S. Secretary of State Antony Blinken says the United States will vie for a seat at the U.N.’s human rights body, which would cement a return to a Geneva-based body that was shunned by the Trump admi"
+    publishedDateTime: 2021-02-24T10:20:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/us-seek-seat-human-rights-body-trump-pullout-76082403"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_5136ebdcb04e4172bb9e2325be87e990_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump's Indonesia partner to build movie studio after securing tax breaks"
     excerpt: "Indonesian tycoon Hary Tanoesoedibjo, a business partner of former U.S. president Donald Trump, launched on Monday construction on a movie studio as part of a tourism complex on Java island that is set to receive tax breaks."
     publishedDateTime: 2021-02-15T14:07:00Z

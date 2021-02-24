@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-life-white-house/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219150027-02-biden-tours-pfizer-site-0219-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "With Biden Behind on Confirmations, Senators Are Overloaded With Hearings"
+    excerpt: "Senators pressed through hours of backlogged confirmation hearings on Tuesday as pressure intensified to get the president’s cabinet picks through the process."
+    publishedDateTime: 2021-02-24T07:27:00Z
+    webUrl: "https://www.nytimes.com/2021/02/23/us/politics/biden-confirmations.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/23/us/politics/biden-confirmations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/us/politics/biden-confirmations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/23/us/politics/23dc-confirm/23dc-confirm-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Capitol security officials face Senate grilling, Biden honors those lost to Covid"
     excerpt: "A year after Ahmaud Arbery was fatally shot while jogging in Georgia, Black runners all over the country discuss the lasting trauma of his shooting."

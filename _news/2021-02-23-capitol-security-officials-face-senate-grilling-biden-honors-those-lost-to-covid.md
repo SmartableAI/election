@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "With Biden Behind on Confirmations, Senators Are Overloaded With Hearings"
+    excerpt: "Senators pressed through hours of backlogged confirmation hearings on Tuesday as pressure intensified to get the president’s cabinet picks through the process."
+    publishedDateTime: 2021-02-24T07:27:00Z
+    webUrl: "https://www.nytimes.com/2021/02/23/us/politics/biden-confirmations.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/23/us/politics/biden-confirmations.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/us/politics/biden-confirmations.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/23/us/politics/23dc-confirm/23dc-confirm-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "zZzJ7iyRVl5AsJRdjJczsuCWcuODYLXmd1zBY+I2FZK+EZgkbJnCcran3pFq38BLeaQx6Pn8HMoACWYKsSp39+PaRxvDNUZzIoWwpy6t1pshp30EpBN3D0AedO2cnXxETDMQfoChRJaJPfXNT5aoYS8EDzvRUPMrpMtQePRQHGgA5p32jNkxY4/VwtAqXirjNQneK7Y/q0z+QZn+vhp9pI7V47NMv4ezXIb0VbcftI/c6BUkkl01WJ6nv7hNvDJHEZnq10j67ZsbYbrtqEAMi8VqoK7Q96ImJAx/+jXxOePC4V5Fpu2BHaxglqbLdWIGf6dOkBkPqPWF2TPNePrhuUACdOlKD6UUpg2J3CY0Du0+tCkVp6k04TjiYGNIksEN+UEGFyhwT6ANhRkNWuqFr1+SPtRPeZvB8Dy9Z/2lWUB/+IAH1cbqZpSoS/r/YtY0BzYlr70YpJ/cfqNr1fzciy40D/uGDkJqXEaKksiMEari2xyhkMpHIAdipZJJDtwW+oAbgdLik79C8ZFuR9nUZg==;AO06GqP24W44ISodZu0ZQQ=="
 ---

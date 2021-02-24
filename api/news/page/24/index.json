@@ -2,6 +2,62 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-01-19-bidens-defense-secretary-pick-pledges-to-uphold-principle-of-civilian-control-of-the-military.md",
+      "title": "Biden's defense secretary pick pledges to uphold 'principle of civilian control of the military' ",
+      "excerpt": "President-elect Joe Biden's nominee for defense secretary, retired Gen. Lloyd Austin, pledged on Tuesday that he will \"uphold the principle of civilian control of the military\" if confirmed to the post.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7KA3VxIIBPg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7KA3VxIIBPg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/19/politics/lloyd-austin-defense-secretary-nominee-hearing/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/lloyd-austin-defense-secretary-nominee-hearing/index.html",
+      "publishedDateTime": "2021-01-19T13:29:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-irans-nuclear-breakout-time-has-shrunk-to-three-four-months-bidens-top-diplomat-pick-says.md",
       "title": "Iran's nuclear 'breakout time' has shrunk to three-four months, Biden's top diplomat pick says",
       "excerpt": "The time it would take Iran to make enough fissile material for a single nuclear weapon has fallen to three or four months from over a year under the 2015 Iran nuclear deal, President-elect Joe Biden's choice to be the top U.",
@@ -1274,63 +1330,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-pence-has-tried-to-reach-capitol-police-officer-who-led-rioters-away-from-senate-chambers-to-offer-thanks.md",
-      "title": "Pence has tried to reach Capitol Police officer who led rioters away from Senate chambers to offer thanks",
-      "excerpt": "Vice President Mike Pence reached out to Capitol Police officer Eugene Goodman late last week to thank him for his efforts during the attack on the US Capitol, a person close to Pence told CNN, but they haven't connected yet.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aGKLFH_kdk8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aGKLFH_kdk8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210114114844-01-eugene-goodman-capitol-riot-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/eugene-goodman-mike-pence-us-capitol-breach/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/eugene-goodman-mike-pence-us-capitol-breach/index.html",
-      "publishedDateTime": "2021-01-17T18:31:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

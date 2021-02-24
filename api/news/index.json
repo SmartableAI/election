@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-24-critics-slam-sen-ron-johnson-for-unfounded-claim-that-fake-trump-protesters-led-riots-its-disgraceful.md",
+      "title": "Critics slam Sen. Ron Johnson for unfounded claim that ‘fake Trump protesters’ led riots: ‘It’s disgraceful’",
+      "excerpt": "Sen. Ron Johnson (R-Wis.) made false claims minimizing the damage done by a pro-Trump mob during the Jan. 6 Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XUFEX5TVJUI6XFEJR562ZVI6OU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/?outputType=amp",
+      "publishedDateTime": "2021-02-24T02:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-live-updates-joe-biden-has-yet-to-declare-uighur-abuses-genocide.md",
       "title": "LIVE UPDATES: Joe Biden has yet to declare Uighur abuses genocide",
       "excerpt": "Biden, who vowed to be tough on China while on the campaign trail, has been careful not to classify the human rights abuses against the Uighurs since entering office.",
@@ -126,7 +178,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 195,
       "tags": null,
       "images": [
         {
@@ -1296,58 +1348,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
       "publishedDateTime": "2021-02-23T03:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-biden-trudeau-meeting-canadians-glad-to-get-beyond-trump-but-new-administration-brings-new-friction.md",
-      "title": "Biden-Trudeau meeting: Canadians glad to get beyond Trump, but new administration brings new friction",
-      "excerpt": "Relations between the leaders are likely to be more harmonious, but they differ on pipeline projects, Biden's \"Buy American\" policies and, possibly, vaccine cooperation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/",
-      "originalUrl": "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AKLUKDAAYI6XILXO5S7FGUVEQ.jpg&w=1440",
-          "width": 1440,
-          "height": 962,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp",
-      "publishedDateTime": "2021-02-23T03:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

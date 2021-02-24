@@ -3,8 +3,8 @@ category: news
 title: "Justin Trudeau says US leadership has been 'sorely missed' during first meeting with Biden"
 excerpt: "Canadian PM congratulates US president on rejoining Paris accord, saying ‘it’s nice when the Americans are not pulling out all the references to climate change’"
 publishedDateTime: 2021-02-24T01:06:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
-webUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+originalUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden?fbclid=IwAR04wSscA5bCC9ZDO9nQZ7W483JW7bsxCIbhTmd_E2gMhA3f0BjdygxrXSk"
+webUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden?fbclid=IwAR04wSscA5bCC9ZDO9nQZ7W483JW7bsxCIbhTmd_E2gMhA3f0BjdygxrXSk"
 ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
 type: article
@@ -112,6 +112,6 @@ related:
         height: 682
         isCached: true
 
-secured: "LFOHBgUpnkOVgXM3cspsIpVyAJzd2LWQGYsGjUOFd2QOqLMwj1tcI3q8rOpynWCr3c0C6TY4gcwJraAtbRs1SSC5Q7xNoKZ9YuQdOFYAYngbgBrgSMypKkC0j0t79OZVtOewNSabbihLQiiqTMYsCZtmKMOt8mSRGGzjFzJNnfllrLAoJHm7w/2Py97WzOUab8+e/eG9ky4bwvj9jtfFuFggB0TS3dc5jzldm380FYy3UYWZgF0igqv4qv3DDPKJIJ4AXZteHMdotm1cZWoyLgugNSZW3s6mLxE2UNjaXqCR31PM5bFATsqgGL9GdkbhSRzAjUmP/n5vCDyWKLfvGgiPupwgWE6R6mj6sbiOBsO71epQRLIItiadkA0MWwhfkcXl1dujJUSOGYdNQnlRHu4w77yZmvx8670s8DR9z7Jy6tWQzyP+PdS2ZojlnkJUu2fysDV2E02syIccK3Gz0gAy6R/AR+aAso4VVsGf+LXZ3hQj2LqJJGXi8issb6Q6THf3mSOmokZKFgyuZgPWmw==;VqJBr2lQX9jNMRRgBqiG0w=="
+secured: "b8SQjTYbHIDjqBWlus/F+s7x2Wd0AyiXDHauyMIavhjmqAdtGLVefdxnS+Iv1k9Mi4VgxuK777q6AMrvVmXvXx5EIuPg6A3e2ypfQilBePyeOxdLCTB12GdfwzbSNiJRctEliJW27o/9K/1ZxZYF8yHTNfX9YcXY1nFcMpY/JZjLHk6aIy7NrAmDBnJQ/WR7r/T4PDZVvyMpkCxMOYExtA2FjkbmHykWVEiPxo52mjGViZ2/mL2qEdax8CS+xFQ8g3AQ+X4/SB2bbWPlm8qer4zSHepRVnJV2RZmwHFDqGw0JYKSrhesB5og3+lyDl968jRiDPpPCpfcZbxLHWhwW+9W/G8aEyR0htji/0zzJps=;3ee+5Z7HU6sDHZRYSivtKA=="
 ---
 

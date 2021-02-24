@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-22-oath-keeper-claims-she-was-vip-security-at-trump-rally-before-riot-and-says-she-met-with-secret-service-agents.md",
+      "title": "Oath Keeper claims she was VIP security at Trump rally before riot and says she met with Secret Service agents",
+      "excerpt": "A leader in an alleged Oath Keepers conspiracy in the US Capitol insurrection claims she was given a VIP pass to the pro-Trump rally on January 6, had met with Secret Service agents and was providing security for legislators and others,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html",
+      "originalUrl": "https://www.cnn.com/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210221090239-capitol-riots-210106-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html",
+      "publishedDateTime": "2021-02-21T08:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-full-hurd-interview-trump-should-have-very-little-influence-on-gop.md",
       "title": "Full Hurd Interview: Trump should have 'very little' influence on GOP",
       "excerpt": "Former Rep. Will Hurd (R-Texas) talks about storm recover in Texas and the future of the Republican party, during an exclusive interview with Meet the Press.",
@@ -1041,7 +1098,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1940,
+      "heat": 1960,
       "tags": null,
       "images": [
         {
@@ -1298,58 +1355,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-biden-to-acknowledge-democracy-under-stress-in-us-as-he-tries-to-restore-place-on-global-stage-official.md",
-      "title": "Biden to 'acknowledge' democracy 'under stress' in US, as he tries to restore place on global stage: Official",
-      "excerpt": "President Joe Biden will aim to restore the United States' place as a world leader, the official said, following four years of President Donald Trump in office.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-acknowledge-democracy-stress-us-restore-place-global/story?id=75982189",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-acknowledge-democracy-stress-us-restore-place-global/story?id=75982189",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/joe-biden-anthony-blinken-ap-jc-210218_1613689623584_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-acknowledge-democracy-stress-us-restore-place-global/story?id=75982189",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-acknowledge-democracy-stress-us-restore-place-global/story?id=75982189",
-      "publishedDateTime": "2021-02-19T07:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

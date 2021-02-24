@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-14-black-immigrant-advocates-praise-biden-for-reinstating-deportation-protections-for-liberians-who-fled-civil-war.md",
+      "title": "Black immigrant advocates praise Biden for reinstating deportation protections for Liberians who fled civil war",
+      "excerpt": "More than 10,000 Liberians, who have been living in the U.S. without legal status since fleeing a civil war decades ago, will get to stay for now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/immigration/2021/02/14/biden-reinstates-liberian-deportation-protections-deferred-enforced-departure/4363464001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/immigration/2021/02/14/biden-reinstates-liberian-deportation-protections-deferred-enforced-departure/4363464001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/13/PPHX/1819eeaa-f11b-4bfe-b928-b8528de1689d-cent02-7ehm9g0a3a14erj5hle_original.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4363464001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4363464001",
+      "publishedDateTime": "2021-02-14T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-rep-marjorie-taylor-greene-accused-of-threatening-gop-colleague-with-warning-that-millions-of-trump-supporters-are-watching-her.md",
       "title": "Rep. Marjorie Taylor Greene accused of threatening GOP colleague with warning that millions of Trump supporters 'are watching' her",
       "excerpt": "\"The Trump loyal 75 million are watching\" Rep. Greene tweeted about Rep. Herrera Beutler after it emerged she had evidence damaging to Trump's defense.",
@@ -1312,58 +1364,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-mike-pences-nuclear-football-was-potentially-at-risk-during-capitol-riot.md",
-      "title": "Mike Pence's 'nuclear football' was potentially at risk during Capitol riot",
-      "excerpt": "Footage from 6 January shows mob was within 30 metres of Pence and air force officer carrying briefcase with nuclear codes",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aa570c715fe508074fa860f143bc11e882931278/0_103_3277_1966/master/3277.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=55d5ec64a57c06a57b87f6d8c091f553",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
-      "publishedDateTime": "2021-02-12T10:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Former Biden coronavirus advisers push White House to more widely recommend use of N95 masks"
-excerpt: "Several members of President Joe Biden's former coronavirus advisory board are urging his administration to more widely recommend and mandate the use of N95 masks, citing a \"pressing and urgent need for action\" driven by the threat of new coronavirus variants.\n    \n"
-publishedDateTime: 2021-02-17T12:48:29Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/svdc99aRyrM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/svdc99aRyrM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-coronavirus-n95-masks/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-coronavirus-n95-masks/index.html"
+title: "With Biden Behind on Confirmations, Senators Are Overloaded With Hearings"
+excerpt: "Senators pressed through hours of backlogged confirmation hearings on Tuesday as pressure intensified to get the president’s cabinet picks through the process."
+publishedDateTime: 2021-02-24T07:27:00Z
+originalUrl: "https://www.nytimes.com/2021/02/23/us/politics/biden-confirmations.html"
+webUrl: "https://www.nytimes.com/2021/02/23/us/politics/biden-confirmations.html"
+ampWebUrl: "https://www.nytimes.com/2021/02/23/us/politics/biden-confirmations.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/us/politics/biden-confirmations.amp.html"
 type: article
-quality: 164
+quality: 134
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208202631-n-95-masks-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/02/23/us/politics/23dc-confirm/23dc-confirm-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -175,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former Biden coronavirus advisers push White House to more widely recommend use of N95 masks"
+    excerpt: "Several members of President Joe Biden's former coronavirus advisory board are urging his administration to more widely recommend and mandate the use of N95 masks, citing a \"pressing and urgent need for action\" driven by the threat of new coronavirus variants.\n    \n"
+    publishedDateTime: 2021-02-17T12:48:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/svdc99aRyrM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/17/politics/biden-coronavirus-n95-masks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/biden-coronavirus-n95-masks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208202631-n-95-masks-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact-checking the Biden administration's sliding scale on vaccines and school reopening goals"
     excerpt: "A large part of the conversation on recovering from the coronavirus pandemic in the US has focused on the success of the vaccine rollout and how quickly schools can reopen for in-person learning. The Biden administration, however, has struggled with its messaging over the goals and timelines for each,"
     publishedDateTime: 2021-02-23T22:06:30Z
@@ -190,22 +207,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219150027-02-biden-tours-pfizer-site-0219-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "With Biden Behind on Confirmations, Senators Are Overloaded With Hearings"
-    excerpt: "Senators pressed through hours of backlogged confirmation hearings on Tuesday as pressure intensified to get the president’s cabinet picks through the process."
-    publishedDateTime: 2021-02-24T07:27:00Z
-    webUrl: "https://www.nytimes.com/2021/02/23/us/politics/biden-confirmations.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/23/us/politics/biden-confirmations.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/us/politics/biden-confirmations.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/23/us/politics/23dc-confirm/23dc-confirm-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Capitol security officials face Senate grilling, Biden honors those lost to Covid"
     excerpt: "A year after Ahmaud Arbery was fatally shot while jogging in Georgia, Black runners all over the country discuss the lasting trauma of his shooting."
@@ -224,6 +225,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "c4rh/nEFM71K4vcbsqbazAsy53XVcWycCaUGX3Ai2XjCby0i4qH+7OtmtWs7lNt4dtMW0f7li8GZK0KPD6N5VbUnvJ8EbbGK3A1r2W1Au8PTfUTVrrrC9gjEqrLtQwS8OfGJY59oDX2FadoqWWN8S0+Qd2/VaJ56K7sxVcX1eY+iE0JL0LPbVRLLF568JcTMcGT+C1ODKspkmxx5JS3P1FrYea2I0cAVdRqsr9JsHWqHZmyACJX+/IfbRWBqe8VxBz+QJbLsoFbo8i7gB3/Pgh01aYAyG4UiffZMAZLRAhU1RdUKJzL7w3SWmenZtcMokyRedP7kvTE5WcIJmxMDZyD+BiLr75IZtYC1k4BJctI=;U2S1eocyASStTfF67n5ztQ=="
+secured: "MAUWXt4pmZH9epusYy+1vcqUYifd3mlrwDpDcRysaFtd7aJ36Q1HDHBzHDYl6+5elzxWCPrJQkaoKd4Xpzo1xJkBlXU7I6CcDXKvuOr04ip4mPc6c2F7bMcbmmJKKjuTK5UFMfKvmgej3jY8pbVTs2yoc6qrsL+GuqvyuukFN/i11MLYa9RY7GDxu2DdXXCxypqUTDF3ZGtv/gCohuIC3TYFq7LAK5/nuwuO8F74QZveCMJaTI/lQCo8B2eBGhriOL4IiKul3dB0f7pse4xkIgi3QBxoisWJv+RAf5mCti80Xw2ankt8T1A/ROiG6k1TiVA3WhRaQwYD3WLkg2deARUrHaBsAuGbN3PIqahhuCY=;B54EajDL7hG3EPMEB6021Q=="
 ---
 
