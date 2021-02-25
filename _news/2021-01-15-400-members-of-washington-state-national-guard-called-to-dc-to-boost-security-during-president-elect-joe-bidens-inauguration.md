@@ -3731,6 +3731,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Vice President Harris at Washington, D.C. Pharmacy"
+    excerpt: "T09:10:56-05:00 President Kamala Harris visits a Washington, D.C. pharmacy participating in the Biden administration’s Federal Retail Pharmacy Program. Vice President Kamala Harris visits a Washington,"
+    publishedDateTime: 2021-02-25T14:14:00Z
+    webUrl: "https://www.c-span.org/video/?509327-1/vice-president-harris-visits-dc-pharmacy"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "‘Everybody wins when we’re in positions of leadership’: Washington state’s female leaders of color on what Kamala Harris represents"
     excerpt: "Kamala Harris has transcended politics to become a cultural icon, one who will ascend to the vice presidency at a fraught time in United States history. There’s a long record"
     publishedDateTime: 2021-01-16T14:00:00Z

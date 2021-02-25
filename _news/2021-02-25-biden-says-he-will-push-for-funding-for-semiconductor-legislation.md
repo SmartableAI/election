@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KA060"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KA060"
 type: article
 quality: 125
-heat: 185
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Jill Biden says health inequities have lasted ‘far too long’"
-    excerpt: "During a visit to a cancer center Wednesday, first lady Jill Biden said health disparities have hurt communities of color “for far too long” and “it’s about time” the country got serious about ending those inequities."
-    publishedDateTime: 2021-02-24T22:20:00Z
-    webUrl: "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+  - title: "Biden, facing resistance in Congress, courts GOP governors"
+    excerpt: "Biden is spending at least as much time courting Republican governors as he is wooing the senators he needs to pass legislation in Washington."
+    publishedDateTime: 2021-02-25T13:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3R4GDTW3II6XFJXJFQVRTC73E.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
     excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
@@ -76,6 +76,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/e38a4941-b873-41d2-9d50-a260b8e1231e-Double_masking_09.JPG?auto=webp&crop=5746,3232,x1,y237&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden nominates three to USPS board of governors as DeJoy testifies on mail crises"
+    excerpt: "The White House moves to reassert control of the U.S. Postal Service as the postmaster general brushes off lawmakers’ calls to resign."
+    publishedDateTime: 2021-02-24T23:26:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/02/24/dejoy-hearing-usps-live-updates/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BUWJEQDW2YI6XFEJR562ZVI6OU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "CHP1qr09jugVg6DYP9pSntiBrocjmuhyoTTgRNDAV68um3czHa9y+mgCH/aiI5wCSYsXMd2yyPduWalroVbzxcwWBxobZq1IEF2BJ71C5d2mKRwcLdec68qN3oSS0rioRnOMBy3+BI30qIYa1uU2ECTMV0pJE3EmNzFcbKbBxFRvi3Fo1l8zYytcPPRA1skmoIrqsg4GeZjvtjiOmnxm1jE7u8gX+jTl/b6m8k8AcwJtqJiGUyjIWF8SvSGLPtEb0ofxS6x3tvGCxr3s8KfCgFnjWIsGM32IxshYM6arNP6pbgriC4PmkPEP6WGMqpHO1mkEd38DZ32pPqY3ll2Q5poqBS5GTlKVftEBYFpNf04=;3JCV3/VHq3gimBYXug4PYg=="

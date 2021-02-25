@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris To Black Americans: \"Let's Not Let COVID Get Us\""
 excerpt: "Vice President Kamala Harris addressed the Black community and encouraged them to take the COVID vaccine in an interview with MSNBC host Rev. Al Sharpton that will air on Thursday and fully on the Saturday broadcast of his show on the news network."
 publishedDateTime: 2021-02-24T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 842
     isCached: true
 
-secured: "JPDFueF0EV7ymAR5AkxjPzEgreGq5kROgjXq0OMba2FOQNyDZrXHUZWIgqCXDRqaltQigqqKU2o15jB9pEIx5lwWujTSXa6mS+fNmc1SWRx/Pw2yWiIA886NnmpcgZqLi/1Cg7/hB4MIKhF6weelJx7P5tcTYGX6Ybu1q7NH6ubgDMa4jN/w4ZFIhpO+2uC5HwmpQCaY7yh+4rwcmhbut9n7xzr49v8BJH+vtYfJkYmZcdQq/t6dJWAJ2AIJHJ/9gs+7poWUedEgdZqQFRlU/X3dnNHrAPAOTxjoyUcoFYsQlqZDU3W+yrxBm6lFzPjhcpOCsKDlnCtlcTYk7AUAbBLTRg0EiHKjjbFDZPcOpgM=;VyQL5eQovu8vSoTaw8QwjQ=="
+secured: "5GQKe0RHoX7NMe6lx+cx+q7XHcQfBhU5/mpWIQbMNU/hpxVbnjJCPgn4QCKWZPTX7vhr01OjrYla+Lw+3WJ8Dt2kyGTWktgDXGHLoE+k9bD0QJXRz/Eb40o/LUeZV+tR50MtC91o0pEcww8uQnEiXRh4m4aB/L0RkJ0ST/3tDVvOeh5bw59GVOn4CwfCfp8KYlKee9l8iGMOpjOtXGxo/7VMqYSudSSQsG0maAlTjBaqUGB9N8WeGNM2TD1rFADVPAE6JVnjfig1UC07Cl+SixbdzSGOQaR0etcQVdiLnyiTb+HQZcRnjDsyfNBlgzIclsN2wZkI+aPsdEIKIBjD/zAvhHWkG+ctm0RYsJffexA=;PfKmGh3NHE5ovVps1c9e3Q=="
 ---
 

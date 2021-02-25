@@ -3724,6 +3724,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Vice President Harris at Washington, D.C. Pharmacy"
+    excerpt: "T09:10:56-05:00 President Kamala Harris visits a Washington, D.C. pharmacy participating in the Biden administration’s Federal Retail Pharmacy Program. Vice President Kamala Harris visits a Washington,"
+    publishedDateTime: 2021-02-25T14:14:00Z
+    webUrl: "https://www.c-span.org/video/?509327-1/vice-president-harris-visits-dc-pharmacy"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "400 members of Washington state National Guard called to D.C. to boost security during President-elect Joe Biden’s inauguration"
     excerpt: "In the wake of the insurgence at the U.S. Capitol during certification of the Electoral College votes last week and threats of further violence, nearly 400 Washington National Guard soldiers and airmen are being sent to D."
     publishedDateTime: 2021-01-15T15:05:00Z

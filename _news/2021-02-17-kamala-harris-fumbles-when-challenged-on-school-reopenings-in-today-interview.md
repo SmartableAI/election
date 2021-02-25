@@ -44,22 +44,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "White House reporter covering Kamala Harris tests positive for COVID-19"
-    excerpt: "A reporter covering Vice President Kamala Harris tested positive for the coronavirus on Wednesday, forcing a thorough cleaning of the White House briefing room before this afternoon’s press"
-    publishedDateTime: 2021-02-24T17:21:00Z
-    webUrl: "https://nypost.com/2021/02/24/white-house-reporter-covering-kamala-harris-contracts-covid-19/"
-    ampWebUrl: "https://nypost.com/2021/02/24/white-house-reporter-covering-kamala-harris-contracts-covid-19/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/white-house-reporter-covering-kamala-harris-contracts-covid-19/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/white-house-reporter-covid.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "KvU93ax3MUA6k4YBxdoiUt1dKyP9KyZkCPTcC/JyMMtoOU04t/0mLGKf3ou4k3p0J8Igm629OzyQU/ZVtXhnmmaEiaq1G3p13QnYeEZdRw3fI9rIhvH8SGRioPAU7kZVmEHi8Mxd2zRdr6Qi/OTKtCuBeM0qG1NXJzJ+3PyPkFpmKsRMx89pTAdoqvXBQN5mRq/s6xcTMXgoVP+RNuVvo4QatfnNsEdvl/aPRMd1HozYOpVWtXJx1UdwqgVwZecVBqabdZ2GUJqLK7QYdZKKL3NOWcN5p3YjraJddTYYHy5zgkw4o4EnTP/JVZrXq30i+SYOWzMrHf24Ts1I/RCWVhzph7nMEZ4aNC+pJ6qF4ns=;IG+sJbGx+7eBWmBWdR10HQ=="
 ---

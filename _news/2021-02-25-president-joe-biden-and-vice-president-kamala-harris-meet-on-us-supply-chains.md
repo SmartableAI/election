@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden and Vice President Kamala Harris Meet on U.S. Supply Chains"
 excerpt: "President Joe Biden and Vice President Kamala Harris attend a meeting with a bipartisan group of House and Senate members on U.S. supply chains in the Oval Office on Wednesday, Febuary 24, 2021 in Washington,"
 publishedDateTime: 2021-02-24T19:40:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/71d59f2a6341755fb4e0e8b4a17912aa/President-Joe-Biden-and-Vice-President-Kamala-Harris-Meet-on-US-Supply-Chains/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/71d59f2a6341755fb4e0e8b4a17912aa/President-Joe-Biden-and-Vice-President-Kamala-Harris-Meet-on-US-Supply-Chains/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/ffbb9504726f6ef71aa84afd46861489/President-Joe-Biden-and-Vice-President-Kamala-Harris-Meet-on-US-Supply-Chains/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/ffbb9504726f6ef71aa84afd46861489/President-Joe-Biden-and-Vice-President-Kamala-Harris-Meet-on-US-Supply-Chains/"
 type: article
 quality: 66
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/71d59f2a6341755fb4e0e8b4a17912aa/SUPPLY-CHAINS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/ffbb9504726f6ef71aa84afd46861489/SUPPLY-CHAINS.jpg"
     width: 650
-    height: 433
+    height: 830
     isCached: true
 
 related:
@@ -73,22 +73,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
-    excerpt: "White House event will commemorate halfway point of Biden’s 100 million campaign promise"
-    publishedDateTime: 2021-02-25T10:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 146
-    images:
-      - url: "https://i.guim.co.uk/img/media/120f772b8ca2bea5afc097d035756aa7f49e2edf/558_12_4043_2426/master/4043.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=abce3dacc876d4e6179acfe342957c9f"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Biden's 1st 100 days live updates: Biden, Harris honor 500K who died of COVID-19"
     excerpt: "Live updates of Judge Merrick Garland's confirmation hearing to be attorney general before the Senate Judiciary Committee."
     publishedDateTime: 2021-02-23T00:02:00Z
@@ -136,6 +120,22 @@ related:
       - url: "https://d3i6fh83elv35t.cloudfront.net/static/2021/02/GettyImages-13003735251-1024x681.jpg"
         width: 1024
         height: 681
+        isCached: true
+  - title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
+    excerpt: "White House event will commemorate halfway point of Biden’s campaign promise of 100m vaccine doses in first 100 days"
+    publishedDateTime: 2021-02-25T14:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037b6498f088c613add25d6"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 136
+    images:
+      - url: "https://i.guim.co.uk/img/media/217e603b6b725cecaaa8e92cba452b33b4725a9e/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=350ce288ff53be8e28b963cceec278e2"
+        width: 600
+        height: 360
         isCached: true
   - title: "Fact check: Kamala Harris did not say military would be used against Trump supporters"
     excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that she does not care about the constitution and will use federal law enforcement and the military against Trump supporters."
@@ -1537,6 +1537,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "gg2Hw31Xk+Kbn8Gpwr04u+IDUz4rGKt+Wbw6DC99u53rCugm1hVYXhaLy+FIaTp5a4RXyw6drGSjMIyBhMIpZPpECBsx9iBEOKitXCjUmt/5cMMMVT/udorx5M7aASHLbqJf5ZsIsse/92ec+yPtmoT1Hb17p7EbCjSpbwy3goDFglrSnL1k2PyOsRVNu0nRsikS2j8YVv54ThK+q4J+Vm/L6WE+fiHwJKoUL1wL5aELgpV8Zny0hWKjqORQgHeWMA6wvE1lBd+GUeXoDzTAUMvrKf0wUuD0rsk8+Y76AtY4sed6Yeurs+Nv8TPExtBQNdG+zbuaNugA/Ro6BtPO96PwnfK2ly8I3iz0XCpFaR0=;+AGQUnoH5M6sRtjrWY/Jyg=="
+secured: "6gDy4Qvir2FFlx6at3bg2cZmtOMtMJc42JUgqByFhoZ9RCLEZAN2OFH80wBN+6sQZsA1/gsdlAlRbnsn/9PXR6TFIIXObRVWkT/XAGtcLwatR2qI89sxLj392XSNjibCY/TrfoVM1St0xFeUhF6ILsRbcjxuKuKEeTH93B2aUVHbON2AtLWhWURCisez+4Nvm5PaIOgt2ui4YfSGVfy15bQBTA46thordhouQvc0zyCGLscAmwVBQGmSr/9yBYuWJ+6sz8GZ9vVvBU2I+qMIQ8E4vFemqv8+Bhit1E9RMl5Q6i5CICuaWfIl/L86BxbG08sx4Nea8ZadVGRQGG5MtUXfs1rjrWqz1S//Gr5CDqQ=;41pQG196O808W8fXJO3nsA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-teachers-priority-cor
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-teachers-priority-coronavirus-vaccines.amp"
 type: article
 quality: 166
-heat: 206
+heat: 186
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "White House reporter covering Kamala Harris tests positive for COVID-19"
-    excerpt: "A reporter covering Vice President Kamala Harris tested positive for the coronavirus on Wednesday, forcing a thorough cleaning of the White House briefing room before this afternoon’s press"
-    publishedDateTime: 2021-02-24T17:21:00Z
-    webUrl: "https://nypost.com/2021/02/24/white-house-reporter-covering-kamala-harris-contracts-covid-19/"
-    ampWebUrl: "https://nypost.com/2021/02/24/white-house-reporter-covering-kamala-harris-contracts-covid-19/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/white-house-reporter-covering-kamala-harris-contracts-covid-19/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/white-house-reporter-covid.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Kamala Harris fumbles when challenged on school reopenings in ‘Today’ interview"
     excerpt: "Speaking to NBC’s “Today” show, Harris was pressed continually on the CDC’s guidance released last week on their phased re-opening of schools, specifically on the point"
     publishedDateTime: 2021-02-17T13:58:00Z

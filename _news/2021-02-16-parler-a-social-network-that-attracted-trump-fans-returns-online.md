@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's tax returns and related records turned over to Manhattan district attorney"
+    excerpt: "Tax records that former President Donald Trump tried to keep secret for years are now in the hands of the New York district attorney.\n    \n"
+    publishedDateTime: 2021-02-25T14:52:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kALnAf8DvY4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-mazars-vance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-mazars-vance/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113140558-02-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What the Supreme Court ruling means for Manhattan DA's Trump criminal investigation "
     excerpt: "After 17 months and two trips to the US Supreme Court, the Manhattan district attorney's criminal investigation into former President Donald Trump's business has received a significant boost with investigators now able to pour over Trump's tax returns and financial records.\n    \n"
     publishedDateTime: 2021-02-22T20:16:43Z

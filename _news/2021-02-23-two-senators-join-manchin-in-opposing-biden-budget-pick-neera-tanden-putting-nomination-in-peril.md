@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden, facing resistance in Congress, courts GOP governors"
+    excerpt: "Biden is spending at least as much time courting Republican governors as he is wooing the senators he needs to pass legislation in Washington."
+    publishedDateTime: 2021-02-25T13:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3R4GDTW3II6XFJXJFQVRTC73E.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden says he will push for funding for semiconductor legislation"
     excerpt: "U.S. President Joe Biden said on Wednesday he will push for funding for semiconductor legislation following a meeting with bipartisan group of lawmakers about supply chain issues."
     publishedDateTime: 2021-02-24T21:09:00Z
@@ -47,22 +63,6 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "Jill Biden says health inequities have lasted ‘far too long’"
-    excerpt: "During a visit to a cancer center Wednesday, first lady Jill Biden said health disparities have hurt communities of color “for far too long” and “it’s about time” the country got serious about ending those inequities."
-    publishedDateTime: 2021-02-24T22:20:00Z
-    webUrl: "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
     excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
     publishedDateTime: 2021-02-24T02:38:00Z
@@ -76,6 +76,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/96903ded-b1a9-4d84-a15f-ea2e517a2a36/thumbnail/1200x630/c99acd2afef2a814aa9ae8a306570843/cbsn-fusion-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count-thumbnail-621736-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden nominates three to USPS board of governors as DeJoy testifies on mail crises"
+    excerpt: "The White House moves to reassert control of the U.S. Postal Service as the postmaster general brushes off lawmakers’ calls to resign."
+    publishedDateTime: 2021-02-24T23:26:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/02/24/dejoy-hearing-usps-live-updates/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BUWJEQDW2YI6XFEJR562ZVI6OU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "Eu4ZR10oIIuUF/+hSPCUPCZtxWnCPC5clj5SCX4pVn8q25RiLCYKLpHuTHUGflbtBUpCblfjKy3h7zRYZK/rbT9Wkz3zQw9yW/oG5Mf3noK0fjVCI0efD47fEkxyf10EpOFwrehA6qK0SxUguZtIKFgjndOfzaxE608sUVoq57bu0+ioSNhYqlSB4sRHe7PcHXj4w32qMGXglizE3T5QgKNjaL1vSADUHnndRptV6RvXPDtgpAkr3rDAzku5zuUR1PW7UfkNDLduEXAROLDrvFRY6QEjDARpUHNtqELb8cbMU5AZ6YLD9NRT80JrZ4Fgt006qnIdeUDJg8CL2L8dm2MCj5krgZOewORComeG1C+3XXNK1wf/HxuID66pPCfL8NQgbqOdHJV2JUTbdZ8wzD+I7quG3L0+JIVJShCVXMArlAVjoxKdakCCweeTlXaIe08klesW1Syo6OaAIg87zeHyJxTTUKowkXecIjvgi3A8GFR0vadTrdNNJeoXaGHr+PpgMa8WeGiwn+uOOYm1MA==;QyzkdhOg3yUcJAxNsm9qTg=="

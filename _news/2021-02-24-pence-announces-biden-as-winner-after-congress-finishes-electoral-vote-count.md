@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden, facing resistance in Congress, courts GOP governors"
+    excerpt: "Biden is spending at least as much time courting Republican governors as he is wooing the senators he needs to pass legislation in Washington."
+    publishedDateTime: 2021-02-25T13:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3R4GDTW3II6XFJXJFQVRTC73E.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden says he will push for funding for semiconductor legislation"
     excerpt: "U.S. President Joe Biden said on Wednesday he will push for funding for semiconductor legislation following a meeting with bipartisan group of lawmakers about supply chain issues."
     publishedDateTime: 2021-02-24T21:09:00Z
@@ -45,22 +61,6 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "Jill Biden says health inequities have lasted ‘far too long’"
-    excerpt: "During a visit to a cancer center Wednesday, first lady Jill Biden said health disparities have hurt communities of color “for far too long” and “it’s about time” the country got serious about ending those inequities."
-    publishedDateTime: 2021-02-24T22:20:00Z
-    webUrl: "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Two senators join Manchin in opposing Biden budget pick Neera Tanden, putting nomination in peril"
     excerpt: "Neera Tanden has come under fire during the confirmation process for her past tweets and statements criticizing lawmakers on both sides of the aisle."
     publishedDateTime: 2021-02-22T16:47:00Z
@@ -76,6 +76,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/e38a4941-b873-41d2-9d50-a260b8e1231e-Double_masking_09.JPG?auto=webp&crop=5746,3232,x1,y237&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden nominates three to USPS board of governors as DeJoy testifies on mail crises"
+    excerpt: "The White House moves to reassert control of the U.S. Postal Service as the postmaster general brushes off lawmakers’ calls to resign."
+    publishedDateTime: 2021-02-24T23:26:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/02/24/dejoy-hearing-usps-live-updates/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BUWJEQDW2YI6XFEJR562ZVI6OU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "wz4CZglR8ZSO0wZVyTIk2ftSwlRq5sBFPCKXP4BGkP6ffqkCrHUQ/D8KKALGrXXGhfE+EqOlLNFxnwLhbgSY3hHTpltIaW6pOu4bjk2Uzsbu5r6W6qKfdowQjjXcw97MuS862OdUAQef1dq94MwYl+wlu70ndc2qRPGKkLiLGMtEblSZW1q6bNYnF3/UcTTvK0li/bF80fHAYFWENqP1VGkOmloQ1tZxOC+mxhnee6aE/0S6+sUYqZAhCwrfZg3at5b9YQ10/RQjDc00PWm6hAKAMKGZNvhanMo9DyK8Zuffss/Os8bWJklbN2dpZEUsM/dw5NkN8Qn7eVSbbVN0A18ZjaDSva2SIncEHCei1VeqTMyyoHPRIqDzjwPlw2Fa5CHN1vI0velIBw/zTb0lGgLBiEEU7XSW1h9KXViJk/TYg/t9OvH6SardK1C59FzT68CBwrMTGwTAVrQqyTVDVkyjgbuooxm30ajsNnpdFtJwdevQss9PmSclFRm8tW1Et5YrEJUfsJ5OdsHfEfHUDQ==;GjVoLCDtUjEG78cCyjWTFw=="

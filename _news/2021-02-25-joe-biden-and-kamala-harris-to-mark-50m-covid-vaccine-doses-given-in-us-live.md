@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
-excerpt: "White House event will commemorate halfway point of Biden’s 100 million campaign promise"
-publishedDateTime: 2021-02-25T10:46:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
+excerpt: "White House event will commemorate halfway point of Biden’s campaign promise of 100m vaccine doses in first 100 days"
+publishedDateTime: 2021-02-25T14:42:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037b6498f088c613add25d6"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037b6498f088c613add25d6"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 type: article
-quality: 146
+quality: 136
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Kamala Harris
 
 images:
-  - url: "https://i.guim.co.uk/img/media/120f772b8ca2bea5afc097d035756aa7f49e2edf/558_12_4043_2426/master/4043.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=abce3dacc876d4e6179acfe342957c9f"
+  - url: "https://i.guim.co.uk/img/media/217e603b6b725cecaaa8e92cba452b33b4725a9e/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=350ce288ff53be8e28b963cceec278e2"
     width: 600
     height: 360
     isCached: true
@@ -1226,16 +1225,16 @@ related:
   - title: "President Joe Biden and Vice President Kamala Harris Meet on U.S. Supply Chains"
     excerpt: "President Joe Biden and Vice President Kamala Harris attend a meeting with a bipartisan group of House and Senate members on U.S. supply chains in the Oval Office on Wednesday, Febuary 24, 2021 in Washington,"
     publishedDateTime: 2021-02-24T19:40:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/71d59f2a6341755fb4e0e8b4a17912aa/President-Joe-Biden-and-Vice-President-Kamala-Harris-Meet-on-US-Supply-Chains/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ffbb9504726f6ef71aa84afd46861489/President-Joe-Biden-and-Vice-President-Kamala-Harris-Meet-on-US-Supply-Chains/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 66
     images:
-      - url: "https://cdnph.upi.com/pv/upi/71d59f2a6341755fb4e0e8b4a17912aa/SUPPLY-CHAINS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/ffbb9504726f6ef71aa84afd46861489/SUPPLY-CHAINS.jpg"
         width: 650
-        height: 433
+        height: 830
         isCached: true
   - title: "Twitter Reacts To Kamala Harris' Stairs Cardio Workout, Concerned About Secret Service Agent"
     excerpt: "Vice President Kamala Harris was spotted working out and running up and down the stairs at the Lincoln Memorial over the weekend."
@@ -1542,6 +1541,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "MqhbzcnQSd1M73pKaRHcKuO9wVJ04J6hoH+iqdTuLQ2+kdcp1HUn5MgS5i2IdIgPeO3JZ9WIo1QyELgnYhCz1Ln/TkcPbWhGBt2XbVYFnum1tnldewTU7q3GjwkQ+eWKNHPL22Ru0ka5qWqBp/VFM2PsfK3zobuF3H97eSquqm6wryhAbSv9Z/UQdHw6GoaMAlsC+lAZC4dgsNox9LCZCW0Rk7uKf0UYZ/dWHX4TQtbC1cy97urrrqEIAD91K3d4RUy/K7SA32teCrtmCU0BoxIlegHzPzSFMuCVmlTRzKOncUeFWUOtwSeinVUwijxqxI6oOnn1I3ROaTrjW5o78ZupOB6wTm0Hr6kGs30fndQOkxXm6tQ65Tsihk8YRXohrX7X+KOjKqiDY0nVZGh0kAG/eDWTx+/zPuMNgSwR58rbwzUx5LJQP9RnM4TCSOZadj+hHJiBn3C4oQh+Xq/5HC2poMNAAU7Z9WaHaYRfBPfhvVlVKTEDCakPOjM5Cs4RyNxKbrM5BeFaiB4eFDoDZw==;yD88ihAFwBb01N4K/ZU1cw=="
+secured: "zENMR69DnENDhdZTW80+526m9if3JiCOOk/JBOjiP+cQ+ByHJIy0feuXzLmKYaqIduOXM4v1Q7oUt1dsrMSSnG1sF8TyfuACor47RzJ+fS/OJ3Lejx+rD/VSJELl9A+Pk6LYkeYOiGaQojuvS5GBdalzXWQv8x9oyWKJkpSkHDkwAOz6iXLNE8uhZdqmdPnvIbqqg/6Av04z9rLYeG/bjV/cN2Og1eGSjRf3U3vwCAKs7Rlh/sBmnSnPna+sduP5ABgakHy7HcDM7EQNVSn51SlWCNzuiWYUq0aRNiGRXZKMGe9S9toUV5rWqZL0C7z13P0Z9Yj8gAPkYs7zv/C9sHE7opPpULUpdfiP+BJJpCY=;Q4FN4QII7WsinliDkh0IOw=="
 ---
 
