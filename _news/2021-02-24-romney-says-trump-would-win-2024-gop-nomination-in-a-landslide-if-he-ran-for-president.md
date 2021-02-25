@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mitt-romney-donald-trump-2024-gop-p
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mitt-romney-donald-trump-2024-gop-presidential-nomination-future-republican-party/"
 type: article
 quality: 116
-heat: 116
+heat: 136
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Should Trump speak at CPAC? Liz Cheney says he shouldn't be part of the GOP's future; McCarthy says yes"
+    excerpt: "\"I don't believe that he should be playing a role in the future of the party or the country,\" Cheney said of the former president."
+    publishedDateTime: 2021-02-25T02:37:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/liz-cheney-donald-trump-shouldnt-part-republicans-future/4576060001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4576060001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4576060001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/17ab0a832cd78ecc70cb4b93786a0d088066895f/c=0-292-5465-3380/local/-/media/2018/07/17/USATODAY/USATODAY/636674189159039396-AP-17086712547630.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
 
 secured: "oDGfJMK/PDc79FN5jmyLsfVCbsDKIIa4ZakpVS8QIIS+zwGy06FWg3qIgM2Q7hBmFNAIGhWCpzBtBsOWoPUeos6hvVWwD3f5iyvb01r7DE8N6ymUwtqAK4hYIAAtmO3cDOhTJihmOp1XT2lJKPqqp8ceqZveg+bXuSjVgApsAHSWsareV4FbqjZ70GzdJpbefsI8c3zQ5p1fVyyfCUzfJAXJIDXFX7HTO0yE/OYOxKv7de6y1Eah5GCm09W8Olb8FcYnQUH07jVUFQMmioyp7e9ng+BuFO0SSFY1rSR09CVOHYTprlZsTnrn7Dl4eEm8wiwrDHhXMj8aBRYEb/yW/pUY43ahNdBFd37liFKpcM4=;OksE4lO1NjSDec1QmM6M4A=="
 ---

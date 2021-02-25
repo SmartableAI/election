@@ -2654,6 +2654,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden Rescinds Trump Immigration Restrictions"
+    excerpt: "The Trump administration had banned most forms of legal immigration last year, citing high unemployment caused by the coronavirus pandemic."
+    publishedDateTime: 2021-02-25T01:45:00Z
+    webUrl: "https://www.wsj.com/articles/biden-rescinds-trump-immigration-restrictions-11614217531"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-rescinds-trump-immigration-restrictions-11614217531"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-rescinds-trump-immigration-restrictions-11614217531"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-303999/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump reportedly to leave White House the morning of Biden’s inauguration"
     excerpt: "President Trump is set to officially depart.C. Wednesday morning, reports said. That same day Joe Biden will take the oath of office and be officially sworn in as th"
     publishedDateTime: 2021-01-16T18:55:00Z

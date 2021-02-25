@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 4605
+heat: 4625
 published: true
 
 provider:
@@ -2637,6 +2637,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/DTrumpIntel.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden Rescinds Trump Immigration Restrictions"
+    excerpt: "The Trump administration had banned most forms of legal immigration last year, citing high unemployment caused by the coronavirus pandemic."
+    publishedDateTime: 2021-02-25T01:45:00Z
+    webUrl: "https://www.wsj.com/articles/biden-rescinds-trump-immigration-restrictions-11614217531"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-rescinds-trump-immigration-restrictions-11614217531"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-rescinds-trump-immigration-restrictions-11614217531"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-303999/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "In breaking with Trump, Pence does ‘what he believes in,’ strategist says"
     excerpt: "After breaking with his boss last week and certifying President-elect Joe Biden’s Electoral College victory over President Trump, Vice President Mike Pence this week quickly shot down a push by House Democrats urging him to invoke the 25th Amendment of the Constitution to remove Trump from the presidency."

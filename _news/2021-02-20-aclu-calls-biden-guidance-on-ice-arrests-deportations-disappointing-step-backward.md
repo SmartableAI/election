@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden HHS pick Xavier Becerra refuses to say whether he supports any restrictions on abortion"
+    excerpt: "Xavier Becerra, President Biden’s nominee to head the Department of Health and Human Services, declined to name a restriction on abortion that he would support when rigorously pressed on the issue during testimony before Senators on Wednesday."
+    publishedDateTime: 2021-02-25T01:31:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HiYv8iUC4wU/becerra-abortion-restrictions-senate-hearing"
+    ampWebUrl: "https://www.foxnews.com/politics/becerra-abortion-restrictions-senate-hearing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/becerra-abortion-restrictions-senate-hearing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dems to introduce Biden-backed immigration bill, includes citizenship path for millions of illegal immigrants"
     excerpt: "Congressional Democrats on Thursday will unveil a sweeping immigration bill, backed by President Biden, that includes a path to citizenship for millions of illegal immigrants -- although the plan faces tough odds in the Senate."
     publishedDateTime: 2021-02-18T13:35:51Z

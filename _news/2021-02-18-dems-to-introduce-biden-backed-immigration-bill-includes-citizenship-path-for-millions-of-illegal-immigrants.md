@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden HHS pick Xavier Becerra refuses to say whether he supports any restrictions on abortion"
+    excerpt: "Xavier Becerra, President Biden’s nominee to head the Department of Health and Human Services, declined to name a restriction on abortion that he would support when rigorously pressed on the issue during testimony before Senators on Wednesday."
+    publishedDateTime: 2021-02-25T01:31:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HiYv8iUC4wU/becerra-abortion-restrictions-senate-hearing"
+    ampWebUrl: "https://www.foxnews.com/politics/becerra-abortion-restrictions-senate-hearing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/becerra-abortion-restrictions-senate-hearing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "z1NR/TaRAyphn6inHIzK6GnvzJNc0jzjAZLQBVbzjx6BoDZfy/sdvheLPrqtVnGNnS6yQgVRXJbinwDWeyj6EY28c6azh2ynalgmep6TCPGM6QlvDcRXtru8iOyRpRLhG1J+Z57wGWPHfbss4u+XFiJwTvXQAfzF/nmGWHohaOGSQIBX7zuCfqsazWAnjEvxNX2diy64pMO34pgkKYotLhiwrmLvhTXb2ieaXdoBJCnvAPJGF4BuW4hSzugTRGm8JImteah2WkvmUUauykmBMyry/gALKml6qzqvQ92pErvuN0p+x+aBuI7sH1+VUaW8hWmj8izNjPZZQd7aHJ3lZknc2zCn5odOygGxsWcLMBQ=;2jd/lIT7+4C7hCoTE88JuA=="
 ---

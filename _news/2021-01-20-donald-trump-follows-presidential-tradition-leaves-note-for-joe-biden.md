@@ -476,6 +476,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "President Biden lifts Trump-era ban blocking legal immigration to US"
+    excerpt: "President Joe Biden on Wednesday lifted a freeze on green cards issued by his predecessor during the pandemic that lawyers said was blocking most legal immigration to the United States."
+    publishedDateTime: 2021-02-25T02:50:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-lifts-trump-ban-immigration-20210225-u4lquwztiraefp4whuxsun7f5i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-biden-lifts-trump-ban-immigration-20210225-u4lquwztiraefp4whuxsun7f5i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-biden-lifts-trump-ban-immigration-20210225-u4lquwztiraefp4whuxsun7f5i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 140
+    images:
+      - url: "https://www.chicagotribune.com/resizer/SxJWtq45mVM11GM34Lp59gBDMXM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I3NLXVDYGYBUUCJZRYT5IVQDII.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden administration drops Trump-era discrimination lawsuit against Yale"
     excerpt: "Lawsuit had claimed university discriminates against Asian American and white applicants"
     publishedDateTime: 2021-02-03T20:01:00Z

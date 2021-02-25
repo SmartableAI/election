@@ -607,6 +607,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Biden's 1st 100 days live updates: WH faces questions on child immigration policy"
+    excerpt: "Live updates from the first 100 days of the administration of President Joe Biden and Vice President Kamala Harris."
+    publishedDateTime: 2021-02-25T00:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/psaki-ap-ml-210224_1614190929772_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Biden's 1st 100 days live updates: 9/11-type commission to investigate insurrection"
     excerpt: "U.S. Capitol. \"Now, as always, security is the order of the day: the security of our country, the security of our Capitol which is the temple of our democracy, and the security of our Members,\" she wrote in a letter to her Democratic colleagues."
     publishedDateTime: 2021-02-16T00:34:00Z

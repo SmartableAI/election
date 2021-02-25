@@ -319,6 +319,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Democrats weaponize identity politics to shield vulnerable Biden nominees"
+    excerpt: "Prominent Democrats in Washington are weaponizing identity politics to defend some of President Biden's most controversial Cabinet nominees from criticism. "
+    publishedDateTime: 2021-02-25T01:25:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9oz0cvjb0gk/biden-cabinet-nominees-identity-politics-tanden-becerra-haaland"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cabinet-nominees-identity-politics-tanden-becerra-haaland.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cabinet-nominees-identity-politics-tanden-becerra-haaland.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d16feed0-9ec2-4fe9-b91d-3d4d6b4bc208/7e98aa8f-5585-4375-8842-4bc7464cd6ea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Collins opposes Tanden for Biden budget director, in another blow to confirmation"
     excerpt: "Sen. Susan Collins, R-Me., said Monday that she will not support President Biden's nominee to lead the Office of Management and Budget, Neera Tanden, dealing another blow to the odds of confirmation."
     publishedDateTime: 2021-02-22T12:17:08Z
