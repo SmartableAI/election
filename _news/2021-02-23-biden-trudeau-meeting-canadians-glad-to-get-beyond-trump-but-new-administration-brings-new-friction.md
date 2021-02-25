@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -50,6 +50,22 @@ related:
   - title: "More policy, less pomp as Biden-Trudeau meet virtually"
     excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
     publishedDateTime: 2021-02-23T22:47:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "More policy, less pomp as Biden and Trudeau meet virtually"
+    excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
+    publishedDateTime: 2021-02-25T09:01:00Z
     webUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html"
     ampWebUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"

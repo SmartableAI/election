@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2150
+heat: 2170
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 147
     images:
       - url: "https://i.guim.co.uk/img/media/47b0b5181453cc4d3e2d0a983c82b67fc2f8ea46/0_44_5814_3488/master/5814.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=93e2b331646d8aacc4e42d48cc2a33d7"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
+    excerpt: "White House event will commemorate halfway point of Biden’s 100 million campaign promise"
+    publishedDateTime: 2021-02-25T10:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 146
+    images:
+      - url: "https://i.guim.co.uk/img/media/120f772b8ca2bea5afc097d035756aa7f49e2edf/558_12_4043_2426/master/4043.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=abce3dacc876d4e6179acfe342957c9f"
         width: 600
         height: 360
         isCached: true

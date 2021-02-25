@@ -339,6 +339,115 @@
       ]
     },
     {
+      "path": "_news/2021-02-25-candidate-biden-called-saudi-arabia-a-pariah-he-now-has-to-deal-with-it.md",
+      "title": "Candidate Biden Called Saudi Arabia a ‘Pariah.’ He Now Has to Deal With It.",
+      "excerpt": "In a coming call with King Salman, the president plans to warn him that the United States will soon make public intelligence about the Saudi crown prince’s role in the killing of Jamal Khashoggi.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/24/us/politics/biden-jamal-khashoggi-saudi-arabia.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/24/us/politics/biden-jamal-khashoggi-saudi-arabia.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/24/us/politics/24dc-prexy/24dc-prexy-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/24/us/politics/biden-jamal-khashoggi-saudi-arabia.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/24/us/politics/biden-jamal-khashoggi-saudi-arabia.amp.html",
+      "publishedDateTime": "2021-02-24T16:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-biden-signs-order-to-protect-us-supply-chains-as-moderna-announces-progress-on-vaccine-updates-as-it-happened.md",
+      "title": "Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates – as it happened",
+      "excerpt": "Biden order aims to prepare for future crises similar to pandemic",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates?page=with:block-603619638f08614ccf104e98",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates?page=with:block-603619638f08614ccf104e98",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/a0c8c1fb919e1a34a50c6f70c0d44f33a68f41d8/0_271_8640_5184/master/8640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4862e19c7ca10db602745e920a9bb730",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates",
+      "publishedDateTime": "2021-02-24T16:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-biden-nominates-three-to-usps-board-of-governors-as-dejoy-testifies-on-mail-crises.md",
       "title": "Biden nominates three to USPS board of governors as DeJoy testifies on mail crises",
       "excerpt": "The White House moves to reassert control of the U.S. Postal Service as the postmaster general brushes off lawmakers’ calls to resign.",
@@ -822,7 +931,7 @@
       "originalUrl": "https://www.cbsnews.com/news/mitt-romney-donald-trump-2024-gop-presidential-nomination-future-republican-party/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1247,118 +1356,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-aoc-tears-into-biden-admin-for-reopening-child-migrant-facility-this-is-not-okay.md",
-      "title": "AOC tears into Biden admin for reopening child migrant facility: 'This is not okay'",
-      "excerpt": "Rep. Alexandria Ocasio-Cortez, D-N.Y., had some strong words for President Biden's administration after news surfaced that it was reopening a child migrant detention facility in Texas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N131LIzMZO8/aoc-biden-child-migrant-facility",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N131LIzMZO8/aoc-biden-child-migrant-facility",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c344915-8c99-4be2-b518-e14a049426cb/58ebec30-01e6-4e46-b823-b9f83aae2b97/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/aoc-biden-child-migrant-facility.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-child-migrant-facility.amp",
-      "publishedDateTime": "2021-02-23T17:40:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-biden-says-us-canada-doubled-down-on-efforts-to-fight-climate-change.md",
-      "title": "Biden says US, Canada 'doubled down' on efforts to fight climate change",
-      "excerpt": "President Biden hosted his first bilateral meeting with Canadian Prime Minister Justin Trudeau, where the pair pledged to strengthen their partnership and to address the COVID-19 pandemic, climate change and a middle-class economic recovery as a team.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WivXFVhU0Zg/biden-us-canada-fight-climate-change",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WivXFVhU0Zg/biden-us-canada-fight-climate-change",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a172a24a-1dea-4aba-9141-8e59dcb43aec/6013fc6a-3b87-4d54-931a-4574a813fd53/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-us-canada-fight-climate-change.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-canada-fight-climate-change.amp",
-      "publishedDateTime": "2021-02-23T16:31:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

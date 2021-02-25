@@ -1,0 +1,35 @@
+---
+category: news
+title: "Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates – as it happened"
+excerpt: "Biden order aims to prepare for future crises similar to pandemic"
+publishedDateTime: 2021-02-25T00:17:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates?page=with:block-603619638f08614ccf104e98"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates?page=with:block-603619638f08614ccf104e98"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/24/joe-biden-covid-coronavirus-capitol-riot-donald-trump-live-updates"
+type: article
+quality: 105
+heat: 105
+published: true
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://i.guim.co.uk/img/media/a0c8c1fb919e1a34a50c6f70c0d44f33a68f41d8/0_271_8640_5184/master/8640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4862e19c7ca10db602745e920a9bb730"
+    width: 600
+    height: 360
+    isCached: true
+
+secured: "s4jwtvuzN7us+HdnF6c1D6/JnswWuGE2j9+iJUbVUnNZNLs/49Hs7sf1yhBfJmni0/4Cw+oQe0s1yBiAMdXb1MH5XslPfaXZVc8gwbnMNbDgTegRp70LNEwu8sBPL4I9qWK7wauysTFwAFS5EegxnhiZYcKgjvAByAgK06LRbVaWTFJiVlrEbv1Y5VcO7VwaS4yOmwbdV54IVobjOo3bUN2JUBnBhX5Kwc47Ed9+8aYcmiRgD+g+v3cr/rERUoUsyrITqKd3lbB55CgFNZ88v6t0w4RFzYTMq9o4zguKNQUTCax2oZWhGZlgDDupotQriibThOcRQMq1qMIsi2JQK3TWUWL0TNZJW2Qd1nn5NHc=;731kSJbFbPM2J6m7CA7O5Q=="
+---
+

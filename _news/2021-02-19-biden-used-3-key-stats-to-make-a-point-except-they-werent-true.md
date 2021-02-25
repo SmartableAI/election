@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimu
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201114182513-01-daca-protests-file-june-2020-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden’s CIA pick vows to focus on a rising China"
+    excerpt: "CIA Director nominee William Burns said on Wednesday that, if confirmed by the Senate, competing with China and countering a “formidable authoritarian adversary” in Beijing would be the central focus of his tenure."
+    publishedDateTime: 2021-02-25T09:15:00Z
+    webUrl: "https://www.politico.com/news/2021/02/24/cia-william-burns-china-471354"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/24/cia-william-burns-china-471354"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/24/cia-william-burns-china-471354"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/93/27/cfd6acd548f78dbc89bcb4b60c0a/210224-louis-dejoy-getty-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "President Biden declares major disaster for much of Texas following severe winter storm"
     excerpt: "The move unlocks federal money for the state after a dayslong freeze resulted in deaths, power outages and boil water orders."

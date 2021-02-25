@@ -208,6 +208,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden’s CIA pick vows to focus on a rising China"
+    excerpt: "CIA Director nominee William Burns said on Wednesday that, if confirmed by the Senate, competing with China and countering a “formidable authoritarian adversary” in Beijing would be the central focus of his tenure."
+    publishedDateTime: 2021-02-25T09:15:00Z
+    webUrl: "https://www.politico.com/news/2021/02/24/cia-william-burns-china-471354"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/24/cia-william-burns-china-471354"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/24/cia-william-burns-china-471354"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/93/27/cfd6acd548f78dbc89bcb4b60c0a/210224-louis-dejoy-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "kxdDmLJ8matSo6J7Un86+X9cn3Xq9LlD/v+TGE3Ro3di1LT8wWSnkZyb4Y0uICJV2Xvcv9P6z6NC39SEyrIrHZ/6dy22UEdMAZ0jIKav/lKZku113Rm9OGOPBN/fGoGHDIx0tIJgrsVH1fQcwlNdIwPeveEHbbdICjpxejuMWt+ICNl4OUd4E3SoM4X+fi8P6lUqzyTLjJU9eHiy+E1nJO0BKkTIrGXSS79V2BQ9NJNiwmz0f93vSwKWjqe+J+ybLoEPegm5ujwyhHUZlI748ySmumYXVRO9uczvdHxyQVh9SEmBgnzwXPkoU3C4ln5mYD0/VY+7PrSjU/uJer/Pm7pD+DWl4U9qOVZhB85Wck0/3o0j10qN7FRdE8bjzvRdBwd3HaoK4GwsF8vt8m5vHw8G9y3BCR1TUiCCUTbanrVzn+SjtqGRPsEJePdHLtPzTgb9vItkSbzlvgDXxblg4mow0Y1myd7XpxIm1qCuT0XO6kwYVvV/lVQiUBfRNKukmXbjFjwb/Aqs5XYXM6Xm4A==;b7pPsPHaIhcX8QcP4kLeKg=="
 ---
