@@ -191,6 +191,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Citizens United rolls out anti-Biden campaign to 'fight back' against agenda, defend Trump's record"
+    excerpt: "The conservative Citizens United group on Thursday rolled out a new anti-Biden campaign in an effort to \"fight back\" against President Biden's agenda and defend the \"successful America first policies\" of former President Trump. "
+    publishedDateTime: 2021-02-25T12:11:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oIzfAk8RvW8/citizens-united-anti-biden-campaign-defend-trump-record"
+    ampWebUrl: "https://www.foxnews.com/politics/citizens-united-anti-biden-campaign-defend-trump-record.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/citizens-united-anti-biden-campaign-defend-trump-record.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "High-profile ex-Trump aides eye political office in 2022"
     excerpt: "Former President Donald Trump is not on the ballot in next year’s elections, but some of his closest advisers and aides in the White House and on his 2020 reelection team are mulling bids of their own in what could be a test run of the clout of the Trump brand going forward."
     publishedDateTime: 2021-02-15T18:44:56Z

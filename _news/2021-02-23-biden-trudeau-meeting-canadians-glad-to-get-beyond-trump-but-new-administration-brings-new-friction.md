@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/30038c47-c90a-4ea2-a65d-ff270c5e5dda-AP_Biden.jpg?auto=webp&crop=1999,1124,x0,y88&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden revokes Trump orders on ‘anarchist’ cities, restores New York City’s funding"
+    excerpt: "President Joe Biden on Wednesday formally revoked a series of presidential orders and memorandum signed by Donald Trump, including one that sought to cut funding from several cities the 45th president deemed “anarchist” havens and another mandating that federal buildings should be designed in a classical aesthetic."
+    publishedDateTime: 2021-02-25T12:16:00Z
+    webUrl: "https://www.al.com/news/2021/02/biden-revokes-trump-orders-on-anarchist-cities-restores-new-york-citys-funding.html"
+    ampWebUrl: "https://www.al.com/news/2021/02/biden-revokes-trump-orders-on-anarchist-cities-restores-new-york-citys-funding.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/02/biden-revokes-trump-orders-on-anarchist-cities-restores-new-york-citys-funding.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJAGMVDUCZDAHI6MIHGXAQMAOI.jpg"
+        width: 6000
+        height: 4000
         isCached: true
   - title: "Biden Early Approval Ratings Better Than Donald Trump, Barack Obama, George W Bush, Bill Clinton?"
     excerpt: "President Joe Biden's approval ratings are trending positive early in his term, with 57% approving of his job performance in an early February poll and 62% doing so in a poll taken Sunday and Monday."

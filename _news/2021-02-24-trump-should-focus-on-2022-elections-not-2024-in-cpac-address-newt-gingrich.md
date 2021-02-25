@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-speech-2022-elections-20
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-speech-2022-elections-2024-election-newt-gingrich.amp"
 type: article
 quality: 186
-heat: 306
+heat: 346
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-CPAC-AP-e1607457728844.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "CPAC kicks off as Trump, Republicans eyeing 2024 campaigns seize chance to woo conservatives"
+    excerpt: "The Conservative Political Action Conference (CPAC) kicks off Thursday, featuring a slew of Republicans who are eyed as potential 2024 presidential contenders and who will seek to make their appeals to the base -- but none will command as much attention as former President Donald Trump."
+    publishedDateTime: 2021-02-25T12:08:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/00USwZ9tByA/cpac-republicans-2024-campaigns-including-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/cpac-republicans-2024-campaigns-including-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-republicans-2024-campaigns-including-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec17f718-5e13-4765-a0d5-abf5b7c50419/3ab1b96b-d63b-4a7e-8f79-81596a21a222/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump to speak at CPAC in first public appearance after leaving office"
     excerpt: "Former President Trump will be a keynote speaker at the Conservative Political Action Conference in Orlando, Fla., a spokesman for the organization confirmed to The Post on Saturday. Trump is"
@@ -126,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/RT-Matt-Schlapp.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "CPAC kicks off as Republicans eyeing 2024 campaigns – including Trump – seize chance to woo conservatives"
+    excerpt: "The Conservative Political Action Conference (CPAC) kicks off Thursday, featuring a slew of Republicans who are eyed as potential 2024 presidential contenders and who will seek to make their appeals to the base -- but none will command as much attention as former President Donald Trump."
+    publishedDateTime: 2021-02-25T12:09:00Z
+    webUrl: "https://www.foxnews.com/politics/cpac-republicans-2024-campaigns-including-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/cpac-republicans-2024-campaigns-including-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-republicans-2024-campaigns-including-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec17f718-5e13-4765-a0d5-abf5b7c50419/3ab1b96b-d63b-4a7e-8f79-81596a21a222/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "LNrev0fdwtEbwccqpaCmIMG61FDg9qPRUh+5Aqt+AyGmDXxxQItA6VfLw816ZZusRchvqHyGfZGmAp1+QhFFKJfXikLTfYHXuZpyR4uxrWmCj2m6T+JFlKVZo80iHcJf+zeJ94TMifMRZ9RtsacbAD1wzDxeGQ7kIzRfG229n/cl56qktO9sDVdr2ZHbiBtjyCZwOBwL4NmjUup/qiAye+M5tSMMyTExe1O3UrWRN8ljBhMj6zOdeFf0DsxqC/qlQDpG8SR9INJOgKQYBQRkN4ou7JtO+PCxgRxD47FuVu/OIC45cfy/xkMvcE/Tpvywe2QLLKfS+KZMFB7t1JcOX/v5VY7GA6Mhth+83Y/9V6M=;zpV/cvOJEXUrdfTvp4U+9A=="

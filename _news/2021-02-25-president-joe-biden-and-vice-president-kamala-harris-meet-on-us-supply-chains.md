@@ -3,8 +3,8 @@ category: news
 title: "President Joe Biden and Vice President Kamala Harris Meet on U.S. Supply Chains"
 excerpt: "President Joe Biden and Vice President Kamala Harris attend a meeting with a bipartisan group of House and Senate members on U.S. supply chains in the Oval Office on Wednesday, Febuary 24, 2021 in Washington,"
 publishedDateTime: 2021-02-24T19:40:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/ffbb9504726f6ef71aa84afd46861489/President-Joe-Biden-and-Vice-President-Kamala-Harris-Meet-on-US-Supply-Chains/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/ffbb9504726f6ef71aa84afd46861489/President-Joe-Biden-and-Vice-President-Kamala-Harris-Meet-on-US-Supply-Chains/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/71d59f2a6341755fb4e0e8b4a17912aa/President-Joe-Biden-and-Vice-President-Kamala-Harris-Meet-on-US-Supply-Chains/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/71d59f2a6341755fb4e0e8b4a17912aa/President-Joe-Biden-and-Vice-President-Kamala-Harris-Meet-on-US-Supply-Chains/"
 type: article
 quality: 66
 heat: -1
@@ -19,9 +19,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/ffbb9504726f6ef71aa84afd46861489/SUPPLY-CHAINS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/71d59f2a6341755fb4e0e8b4a17912aa/SUPPLY-CHAINS.jpg"
     width: 650
-    height: 830
+    height: 433
     isCached: true
 
 related:
@@ -1537,6 +1537,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "YlOXoYLGkoHSBLmsEpfVV66pdDOuEQGvA9ir8woAfU9V/DHbNz5q23VoF4TWFe4teaQddudK/7Q05GcbHhb/J9kkgP4M9qCfe/jGxjJFqxZneA7TkKB1nap+K+gSHoMoQMWjFh5lRcj/c94mzwiivCClXIq9HhhkXePHuO37JwfTHrql99ytw3nh8949ylOFQlx7maOwviL5G3NPwUXIsyTZSLJK5d2KHlKy7cFIRGzaXs+FL0LwAg/xqYXIC2MWiCtem3Zp+daAhEwNw2CtMCt7R16vx1UnEt8ZarpRqVkgjUZRoWcfVVXF747fArnMdlOOMahi5qmYJC2ni96rYZCkqXlMDnSe5eGpQbwtLBI6YC3wW9LVgYivDasWz3Aoicr5ZtWgIu/jnkvHqLcKbsF6D00pB82knj5vRRVf1q9YqOqtm5ufC41Z0wbMXW9omFMuw+eAIjWqABnI7AVjsoQO1Kj6gJUkRkrY+0hlNarbxWExgG3Mtn4yVWCRIzSJQIjBdIBCtMreda70nRKJsw==;EoqjuoPOCBSk0EB3p51uSg=="
+secured: "gg2Hw31Xk+Kbn8Gpwr04u+IDUz4rGKt+Wbw6DC99u53rCugm1hVYXhaLy+FIaTp5a4RXyw6drGSjMIyBhMIpZPpECBsx9iBEOKitXCjUmt/5cMMMVT/udorx5M7aASHLbqJf5ZsIsse/92ec+yPtmoT1Hb17p7EbCjSpbwy3goDFglrSnL1k2PyOsRVNu0nRsikS2j8YVv54ThK+q4J+Vm/L6WE+fiHwJKoUL1wL5aELgpV8Zny0hWKjqORQgHeWMA6wvE1lBd+GUeXoDzTAUMvrKf0wUuD0rsk8+Y76AtY4sed6Yeurs+Nv8TPExtBQNdG+zbuaNugA/Ro6BtPO96PwnfK2ly8I3iz0XCpFaR0=;+AGQUnoH5M6sRtjrWY/Jyg=="
 ---
 

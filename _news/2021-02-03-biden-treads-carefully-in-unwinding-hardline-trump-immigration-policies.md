@@ -464,6 +464,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden rescinds Trump's pandemic-era ban on certain immigrant visas"
+    excerpt: "Former President Trump said the restrictions were necessary to prevent new immigrants from competing with U.S. workers in the labor market during the coronavirus recession."
+    publishedDateTime: 2021-02-25T12:05:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-biden-revokes-trump-policy-limiting-green-cards-visas/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-biden-revokes-trump-policy-limiting-green-cards-visas/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-biden-revokes-trump-policy-limiting-green-cards-visas/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/25/4b109816-a468-4980-ba2b-cd6e7a53dc6e/thumbnail/1200x630/08c620affda64c15027e07a7c38af61a/gettyimages-1231364660.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Biden lifts Trump-era ban blocking legal immigration to US"
     excerpt: "President Joe Biden on Wednesday lifted a freeze on green cards issued by his predecessor during the pandemic that lawyers said was blocking most legal immigration to the United States."
     publishedDateTime: 2021-02-25T02:50:00Z

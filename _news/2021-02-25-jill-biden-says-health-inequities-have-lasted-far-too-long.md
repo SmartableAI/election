@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Jill Biden says health inequities have lasted 'far too long'"
-excerpt: "First lady Jill Biden says health disparities have hurt communities of color for “far too long.” RICHMOND, Va. -- During a visit to a cancer center Wednesday, first lady Jill Biden said health disparities have hurt communities of color “for far too long” and “it’s about time” the country got serious about ending those inequities."
-publishedDateTime: 2021-02-24T22:21:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283"
-webUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283"
+title: "Jill Biden says health inequities have lasted ‘far too long’"
+excerpt: "During a visit to a cancer center Wednesday, first lady Jill Biden said health disparities have hurt communities of color “for far too long” and “it’s about time” the country got serious about ending those inequities."
+publishedDateTime: 2021-02-24T22:20:00Z
+originalUrl: "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html"
+webUrl: "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_fa3e833230504889a04f657ef822f2e8_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -78,6 +78,6 @@ related:
         height: 675
         isCached: true
 
-secured: "vrhL3zQ+19cjxZpcxSjtgpVeHTy4OHp+O+QoX9qWzEvP3+gy8ZUjDO6wxNK9TLIHzhAucxYc7WleAEkpCtCvZJKJwhxEbcakdVXczxCV9O+pzrIjKdkB3CBmKqbzniRxrnpg1QlnHHQntShcLzTt0bMmjIPh500LAgRML5nZOhegqTHuT6iaUqMsHOxtM5kWmXqdKQIAdkPq6XcXG9XbyxLlKzXPqdlwKZy022YriedIf6qhHTWatTbBiYyMoQpWSFeuyPDBIuF7BH7AkecRBOJjlI6ebtGGDC/8mSvUz7BwWQnEmXZVf1k7/ZVjgk19wuOyBjqdvs+c1nALRk105zf7LR4CUr7D4pzSwihwnnDD9moUJ70Qs+c1KqDID4qb4o0qG2rvf9af6Eu2fWE2XcoMUc/4Dpqjfy36Jr9eOHHGFz1Y20c1CTTEgqrY/u8BQJl2CL92PsCwpSlubF0nZ3iYRyqUL3+kx84crIUN3Po0DhuY5N0Yo5PM73d8xHatvLhKMahoH5ZdZ7+qqY6lhQ==;3iyslQVCjIIqwkWWC/MNvQ=="
+secured: "prAC1By2UjpcXKgg/gFJHRQhc8JSf4IIGCgubKSETR3pkKhMfXKCPRf3GmIFI1H5YAjyA9kK+u08p/O6553BU7VS/p/Xz9DyfMnQ19jnyAo/EivpsGlusrYlKm0j3UxW2V4IqgFOaChsw9a3/+lh09H77d0yDC84f/zCw9NZBNC4F0IvFzRoJW2FkVeXqzHqlXwIgvvdTusUxNgqLe9747H0rR+KftpqywZpGBn+2UzwceyBe3A1pJ9ZCFh52PUgEbdxwWSSVHb6I5WgK+XHY9VZnAwB1zMxyk/2c9opVRh4dQrq+ctcu6l9M8IfefN8gjlzJZxwwtIaxt+QsMkaATa4vmuoDLW93mxWF5GNOys=;Y0qdkHFZ/CsPAzAU5yXjBQ=="
 ---
 

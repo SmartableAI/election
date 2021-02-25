@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/trump-pence-relationship
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/trump-pence-relationship/index.html"
 type: article
 quality: 200
-heat: 440
+heat: 460
 published: true
 
 provider:
@@ -223,6 +223,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/19/us/politics/19dc-hulse/19dc-hulse-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Out with Trump, in with the Senate parliamentarian"
+    excerpt: "Can we take a minute this morning to point out that Washington is totally preoccupied with a wonkish policy matter involving Senate procedure and the latest chatter surrounding a Cabinet nomination? What a change after four years of numbing scandals and Twitter name-calling (though some of those tweets are still making news,"
+    publishedDateTime: 2021-02-25T11:20:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/25/out-with-trump-in-with-the-senate-parliamentarian-491896"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d9/99/61a01c334c83a932be21100d2240/210225-macdonough-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "g1D1vi1BIp/wrs7gCq9KJAuow6OdzWUFmKtLMuQyWkIMv/iU2nZ9YktLrNzKHlbmWMx53CuSXBmiFSN1DzPqlQCZ7uD3gT4o7vbPQxrzmmzeaUO+C9sgG5uGlZyIN6/SsLMAF0p7+0Qcm8vqMO138VQKKCjKUbKwOvju+l5k05qVfJ/O5DrCL/bC430E3l2uW6f719FA6HxdpJ5BG2gIl2/eDsFPmauqGh6ol3oAE4upn9Dp1MZ5BvL9GP2HXBrhJHq5GnYQbXyoSLnH5i6Iyh6tHaR6uyK/yvjywIuGRZ5h0tHlgqyRbMF/pRQGbIcjLMABOqlltcC2nk3ZRwfdVvVayz94v2lNjp9CeiG4eGI=;wKqZi7xeUG6qrDydxx2B1A=="

@@ -607,6 +607,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Donald Trump Jr. deposed in D.C. lawsuit over inauguration funds"
+    excerpt: "District of Columbia Attorney General Karl Racine revealed in a court filing Trump Jr. was deposed February 11."
+    publishedDateTime: 2021-02-25T12:02:00Z
+    webUrl: "https://www.cbsnews.com/news/donald-trump-jr-deposed-attorney-general-inaugural-funds-suit/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/donald-trump-jr-deposed-attorney-general-inaugural-funds-suit/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/donald-trump-jr-deposed-attorney-general-inaugural-funds-suit/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/24/b2bfa4b8-1839-41b2-9010-7491f121d595/thumbnail/1200x630g2/513b98f650a3127b6219ce0b54673faa/gettyimages-1230434542.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump's Indonesia partner to build movie studio after securing tax breaks"
     excerpt: "Indonesian tycoon Hary Tanoesoedibjo, a business partner of former U.S. president Donald Trump, launched on Monday construction on a movie studio as part of a tourism complex on Java island that is set to receive tax breaks."
     publishedDateTime: 2021-02-15T14:07:00Z
@@ -1214,6 +1230,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieS2tQJWOMws/v1/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "A Trump Tax Break Kicked Off a Race to Redraw U.S. Census Maps"
+    excerpt: "Developers and local officials from Pennsylvania to New Mexico lobbied to change the tract boundaries that define opportunity zones."
+    publishedDateTime: 2021-02-25T12:04:00Z
+    webUrl: "https://www.bloomberg.com/news/features/2021-02-25/trump-s-opportunity-zone-tax-break-started-a-race-to-redraw-census-maps"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iESVwWoJJyUE/v1/1200x798.jpg"
+        width: 1200
+        height: 798
         isCached: true
   - title: "Democratic leader says AG may look at Trump in Capitol riot probe"
     excerpt: "Garland has said he plans to pursue leads “wherever the investigation takes us.” US Capitol riots: Tracking the insurrection Senate Majority Whip Dick Durbin, D-Ill., said he believes President Joe Biden’s nominee for attorney general could look into conspiracy charges surrounding former President Donald Trump's potential involvement in the Jan."

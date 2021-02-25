@@ -192,6 +192,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Citizens United rolls out anti-Biden campaign to 'fight back' against agenda, defend Trump's record"
+    excerpt: "The conservative Citizens United group on Thursday rolled out a new anti-Biden campaign in an effort to \"fight back\" against President Biden's agenda and defend the \"successful America first policies\" of former President Trump. "
+    publishedDateTime: 2021-02-25T12:11:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oIzfAk8RvW8/citizens-united-anti-biden-campaign-defend-trump-record"
+    ampWebUrl: "https://www.foxnews.com/politics/citizens-united-anti-biden-campaign-defend-trump-record.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/citizens-united-anti-biden-campaign-defend-trump-record.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Supreme Court cancels arguments over Trump-era immigration policies at Biden administration's request"
     excerpt: "The Supreme Court on Wednesday agreed to a request by the Biden administration to remove two immigration-related cases from its upcoming calendar because they were no longer necessary due to policy changes by the new administration."
     publishedDateTime: 2021-02-03T15:42:46Z

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Congressional Republicans risk backlash as they unite against Biden's Covid relief plan "
+    excerpt: "Democrats and Republicans tangled over the size and scope of Joe Biden's $1.9 trillion Covid-19 relief plan Wednesday, despite the broad public support for the package and a new push by business leaders to get it passed -- a sign of the difficulties facing the new President, who had hoped to be a bridge"
+    publishedDateTime: 2021-02-25T11:30:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZzYeixb7ZSQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/biden-covid-relief-republican-opposition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/biden-covid-relief-republican-opposition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213004123-01-kevin-mccarthy-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'Stop the bleeding': allies urge Biden"
     excerpt: "There have been internal Biden admin debates over whether even to save the original Iran nuclear deal.” Nahal’s story here. BIDEN AND BLINKEN SET TO “STOP THE BLEEDING” AND CLEAR LOW BAR SET BY EUROPEAN LEADERS: “These next four days will set the tone,"
     publishedDateTime: 2021-02-19T14:28:00Z

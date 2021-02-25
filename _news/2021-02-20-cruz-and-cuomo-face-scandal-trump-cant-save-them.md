@@ -224,6 +224,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Out with Trump, in with the Senate parliamentarian"
+    excerpt: "Can we take a minute this morning to point out that Washington is totally preoccupied with a wonkish policy matter involving Senate procedure and the latest chatter surrounding a Cabinet nomination? What a change after four years of numbing scandals and Twitter name-calling (though some of those tweets are still making news,"
+    publishedDateTime: 2021-02-25T11:20:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/25/out-with-trump-in-with-the-senate-parliamentarian-491896"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/d9/99/61a01c334c83a932be21100d2240/210225-macdonough-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "liqPZwFH0j54gq63hTWmEQOn80BbMBWEtYBzJeX9R9VfVzm4g6j3aEOrWv26xJDXWkhdB293GpMvXrumUXnn9+W88+6lSGrvEhO9AIegIcPHIhzEbkx+4unmxYFA0a3pmZfOFaD63SagvuOW9t2GIgqVyjX+l2aa+sZ53tiPWnrqAeISTUbZNko9w8OK+rxb+ZfU/rPJwPsYoQkBIiJ0kcotGsqw8IlamCXxUcRZwups9U+0fGlJGL6nagfaS+J08vGdZowNVxVsPn5PqGKDYGMy9epVb6+SU05gW9s6WHBF6bPKrrRG055JjfNUpFPeN/s71Fj6cLS/Ns7rLmXraY9ppB4n6bY0h2xSIiiPEl5BC1+jkTN2n2tiM+8OIiY7q8HHyfX6OPAgFpskC55m/s3nbTfPV5suiEOZdmPsJkWbVqDyN7YtfEFsdrNFHgjTrOwQgDbvFOHAhM+aK1VatEAxn29uFxTPihaUpa6JcHofklidjJC2pITffHiOlCTGALyEndCAMAXByx4ZDB/ueQ==;3uYWawoalop9dcXMtYVm4A=="
 ---

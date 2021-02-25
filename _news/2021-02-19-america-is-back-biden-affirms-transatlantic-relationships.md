@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2021/02/19/biden-foreign-policy
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/02/19/biden-foreign-policy-transatlantic-partnerships-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Congressional Republicans risk backlash as they unite against Biden's Covid relief plan "
+    excerpt: "Democrats and Republicans tangled over the size and scope of Joe Biden's $1.9 trillion Covid-19 relief plan Wednesday, despite the broad public support for the package and a new push by business leaders to get it passed -- a sign of the difficulties facing the new President, who had hoped to be a bridge"
+    publishedDateTime: 2021-02-25T11:30:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZzYeixb7ZSQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/biden-covid-relief-republican-opposition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/biden-covid-relief-republican-opposition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213004123-01-kevin-mccarthy-file-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden orders review on cracks in critical supply chains"
     excerpt: "President Joe Biden wants his administration to identify and fix potential cracks in supply chains that could cause shortages of critical items like chips inside cars, minerals in flat-screen televisions,"
     publishedDateTime: 2021-02-24T17:24:00Z
