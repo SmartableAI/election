@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-asks-high-court-to-drop-2-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp"
 type: article
 quality: 190
-heat: 910
+heat: 930
 published: true
 
 provider:
@@ -430,6 +430,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Republicans warn of 'grave risk' if Biden ends Trump-era order barring migrants amid COVID"
+    excerpt: "EXCLUSIVE: House Republicans are warning the Biden administration of a \"grave risk\" if a Trump-era public health order that allows for migrants to be swiftly returned to their home countries is ended -- something activists have urged President Biden to do."
+    publishedDateTime: 2021-02-25T15:09:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1fdpDrZbWks/house-republicans-biden-grave-risk-title-42-trump-order"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden will keep Trump letter private, White House says"
     excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"

@@ -623,6 +623,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Republican leaders want a show of unity. Will Trump allow it?"
+    excerpt: "The next few days will give Republicans opportunities to stand together or fight among themselves, first when the House of Representatives votes on a $1.9 trillion coronavirus package on Friday and again when Donald Trump retakes the global spotlight in a speech to the"
+    publishedDateTime: 2021-02-25T16:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-republicans-idUSKBN2AP1AV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AP1AV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP1AV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552869529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O0OX"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump's Indonesia partner to build movie studio after securing tax breaks"
     excerpt: "Indonesian tycoon Hary Tanoesoedibjo, a business partner of former U.S. president Donald Trump, launched on Monday construction on a movie studio as part of a tourism complex on Java island that is set to receive tax breaks."
     publishedDateTime: 2021-02-15T14:07:00Z

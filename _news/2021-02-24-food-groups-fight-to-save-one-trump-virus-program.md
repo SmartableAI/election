@@ -607,6 +607,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Republican leaders want a show of unity. Will Trump allow it?"
+    excerpt: "The next few days will give Republicans opportunities to stand together or fight among themselves, first when the House of Representatives votes on a $1.9 trillion coronavirus package on Friday and again when Donald Trump retakes the global spotlight in a speech to the"
+    publishedDateTime: 2021-02-25T16:10:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-congress-republicans-idUSKBN2AP1AV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AP1AV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP1AV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552869529&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O0OX"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
     publishedDateTime: 2021-02-13T22:04:00Z

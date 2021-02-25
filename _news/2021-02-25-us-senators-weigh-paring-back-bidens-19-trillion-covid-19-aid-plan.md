@@ -447,6 +447,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden's picks face peril in 50-50 Senate"
+    excerpt: "Two of President Biden’s Cabinet nominees are slamming into confirmation hurdles on Capitol Hill, testing the White House’s ability to navigate a tenuous Senate majority amid deep partisan divisions in Washington."
+    publishedDateTime: 2021-02-25T02:19:00Z
+    webUrl: "https://thehill.com/homenews/administration/540406-biden-nominees-run-into-senate-hurdles"
+    ampWebUrl: "https://thehill.com/homenews/administration/540406-biden-nominees-run-into-senate-hurdles?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/540406-biden-nominees-run-into-senate-hurdles?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/tandenneera_becerraxavier_022421getty_split_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
     publishedDateTime: 2021-02-19T23:18:00Z

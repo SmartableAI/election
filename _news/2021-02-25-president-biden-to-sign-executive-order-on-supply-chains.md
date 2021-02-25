@@ -445,6 +445,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden's picks face peril in 50-50 Senate"
+    excerpt: "Two of President Biden’s Cabinet nominees are slamming into confirmation hurdles on Capitol Hill, testing the White House’s ability to navigate a tenuous Senate majority amid deep partisan divisions in Washington."
+    publishedDateTime: 2021-02-25T02:19:00Z
+    webUrl: "https://thehill.com/homenews/administration/540406-biden-nominees-run-into-senate-hurdles"
+    ampWebUrl: "https://thehill.com/homenews/administration/540406-biden-nominees-run-into-senate-hurdles?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/540406-biden-nominees-run-into-senate-hurdles?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/tandenneera_becerraxavier_022421getty_split_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "U.S. senators weigh paring back Biden's $1.9 trillion COVID-19 aid plan"
     excerpt: "U.S. senators on Wednesday were eyeing potentially significant cuts to President Joe Biden's $1.9 trillion COVID-19 relief bill as they awaited a ruling on whether the measure can include raising the federal minimum wage to $15 an hour."
     publishedDateTime: 2021-02-24T21:16:00Z

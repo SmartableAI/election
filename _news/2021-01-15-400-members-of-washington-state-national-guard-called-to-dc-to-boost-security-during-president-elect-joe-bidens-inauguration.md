@@ -3567,6 +3567,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Kamala Harris visits Washington vaccination site"
+    excerpt: "Vice President Kamala Harris visits a local pharmacy in Washington DC to highlight the need for residents to get the vaccine when its their turn. (Feb. 25)"
+    publishedDateTime: 2021-02-25T16:29:00Z
+    webUrl: "https://www.freep.com/videos/news/nation/2021/02/25/kamala-harris-visits-washington-vaccination-site/6815312002/"
+    type: article
+    provider:
+      name: Detroit Free Press
+      domain: freep.com
+    quality: 55
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/901afde3-2034-441a-9333-8293957b641a_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z
@@ -3578,6 +3592,20 @@ related:
       name: San Francisco Chronicle
       domain: sfchronicle.com
     quality: 54
+  - title: "VP Kamala Harris visits a COVID-19 Vaccination Facility in Washington, DC"
+    excerpt: "United States Vice President Kamala Harris watches as Dr. Linval Matthews administers a Moderna COVID-19 vaccine to Brenda Thompson during a visit to a COVID-19 vaccination facility in an effort to promote the administration's plan to promote vaccinations in areas hit hard by the virus,"
+    publishedDateTime: 2021-02-25T15:39:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/41d5d8d6ee66cd831cd3bc17f7f4d076/VP-Kamala-Harris-visits-a-COVID-19-Vaccination-Facility-in-Washington-DC/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/41d5d8d6ee66cd831cd3bc17f7f4d076/HARRIS-VIRUS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Representation for women as Vice President-elect Kamala Harris takes office"
     excerpt: "Women share their thoughts about the importance of representation as Vice President-elect Kamala Harris is about to take office."
     publishedDateTime: 2021-01-16T20:42:00Z

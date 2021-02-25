@@ -3,8 +3,8 @@ category: news
 title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
 excerpt: "White House event will commemorate halfway point of Biden’s campaign promise of 100m vaccine doses in first 100 days"
 publishedDateTime: 2021-02-25T14:42:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037b6498f088c613add25d6"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037b6498f088c613add25d6"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037abba8f087933c5fdce0a"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037abba8f087933c5fdce0a"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 type: article
@@ -1541,6 +1541,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "zENMR69DnENDhdZTW80+526m9if3JiCOOk/JBOjiP+cQ+ByHJIy0feuXzLmKYaqIduOXM4v1Q7oUt1dsrMSSnG1sF8TyfuACor47RzJ+fS/OJ3Lejx+rD/VSJELl9A+Pk6LYkeYOiGaQojuvS5GBdalzXWQv8x9oyWKJkpSkHDkwAOz6iXLNE8uhZdqmdPnvIbqqg/6Av04z9rLYeG/bjV/cN2Og1eGSjRf3U3vwCAKs7Rlh/sBmnSnPna+sduP5ABgakHy7HcDM7EQNVSn51SlWCNzuiWYUq0aRNiGRXZKMGe9S9toUV5rWqZL0C7z13P0Z9Yj8gAPkYs7zv/C9sHE7opPpULUpdfiP+BJJpCY=;Q4FN4QII7WsinliDkh0IOw=="
+secured: "glgcIXtNt+GghjgANsZh5OeEApNg68wkRv319IDzf3op3Nw3PThlZ5eZx+OaXOqq/lFxKU1RM+974YSAOKbkQw+wqVvDCmTQbjQY17Jd8zjGbhRd+rPLoq4KCXbodIXGRAuRrFLVEmzWEZ1CLr1y48upNmAJaSRJ9cuorOJHkCyZrb4dokDPRc2Nkmhyw1MGEqK3xEUhRzknoxE6snMH0fBJRYx+ZkiQ47zHIr8w615OKDVHdcjQ/DcxqrDUyNyjDLw/Ldj/m863+PlVmcBmXDsZgVNxjLrma6eIQblYtAHWuu7sy6n+Xg5/5rdsYaVLDQ/oteKXqwXrwL4IQsB6Zf1WckvHloAyxGsz/So7Fgs=;HZ69hSiUpw19T+YZvIwG6g=="
 ---
 

@@ -431,6 +431,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Republicans warn of 'grave risk' if Biden ends Trump-era order barring migrants amid COVID"
+    excerpt: "EXCLUSIVE: House Republicans are warning the Biden administration of a \"grave risk\" if a Trump-era public health order that allows for migrants to be swiftly returned to their home countries is ended -- something activists have urged President Biden to do."
+    publishedDateTime: 2021-02-25T15:09:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1fdpDrZbWks/house-republicans-biden-grave-risk-title-42-trump-order"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden will keep Trump letter private, White House says"
     excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
     publishedDateTime: 2021-01-29T20:13:00Z
@@ -608,6 +622,6 @@ related:
         height: 340
         isCached: true
 
-secured: "7kI4gwNuPCTayZ+vqfFAPMAtngbJYwacYTdwT3slNIVX1JsnpsRua8FzTAxFVy81u7uhfXgZWIlONgAGvG7uFkefjuRs1zii59cWGKtQu80HRHKQwNrn+gdyStLqOti6tnjBqhqCiBDSlzbIyyXFePAL890nDoX95b0FKEqjCLfm5UpXSyFSOHYxPA1zpXD3SvYVj5ByDRvySNDmayRUyW0ciCZQVEHjNMyVmPCV8aRu7KGiXkpXja9uV7RIOuTokv77zeW1PH9v96ZWLjrEW6QrJRrS9wgJ+qTFvr5K7O/WTpPepShVw8l/C8zFUDqNlEQ7An5KH9u/5ZDrXRX3mUqpOhnWQz0RIU5wenQNOM0=;4gdD8208iZj2lecubzyKHA=="
+secured: "cY67MUSSgJSULk6dwdBnZKxP4SNqwH2G/TnDllcvFEBju+87JhKyLU/CqJlk0DcHieJ07Ts8EIFik8yaOuMKVDwyY1urfZ4H775pA1qChuiCeMZitGjg1GnTGsnOBzsUP4wX9v/aUjj7GmX0J8qE5vMYtJc9Uc1oR8MiRo+1Kxb3m9pZdU8Bakyzr8kC1iCD+OgR53YFX1dxkM0wCiQ0vDP8aTgscRj/niDSPt+pnSOl9nd+6NUY6T/0HpA17asiVqNt3KbZtOjOgIdjNRC7eKXXG05pKt2Z2hg+Br5IuwZie1Q39FElJvEtD2eR6wOGGWz1ER89/cle66LQ7uQSSI7MVsenK/BRatPPocjY4lE=;T1CqVmBkQGHTTH0XxGm2Sw=="
 ---
 

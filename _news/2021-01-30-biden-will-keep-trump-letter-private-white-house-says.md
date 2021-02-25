@@ -444,6 +444,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Republicans warn of 'grave risk' if Biden ends Trump-era order barring migrants amid COVID"
+    excerpt: "EXCLUSIVE: House Republicans are warning the Biden administration of a \"grave risk\" if a Trump-era public health order that allows for migrants to be swiftly returned to their home countries is ended -- something activists have urged President Biden to do."
+    publishedDateTime: 2021-02-25T15:09:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1fdpDrZbWks/house-republicans-biden-grave-risk-title-42-trump-order"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says he didn’t watch Trump Senate trial, monitored coverage"
     excerpt: "President Biden on Thursday said he “didn’t watch any of the hearing live” but did monitor coverage of former President Donald Trump’s impeachment trial. House impeachment"
     publishedDateTime: 2021-02-11T16:36:00Z
