@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senate confirms Jennifer Granholm as Biden's energy secretary"
+    excerpt: "The Senate confirmed President Biden's pick for energy secretary Jennifer Granholm in a 64-35 vote Thursday afternoon."
+    publishedDateTime: 2021-02-25T17:48:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FVynKO3JWCE/senate-confirms-jennifer-granholm-biden-energy-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-confirms-jennifer-granholm-biden-energy-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-jennifer-granholm-biden-energy-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jennifer-Granholm-Energy-Secretary-Nominee-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Conservatives call Biden pick for HHS Xavier Becerra an 'extremist,' oppose nomination"
     excerpt: "More than 100 conservatives voiced opposition to President Biden’s nominee for secretary of the Department of Health and Human Services Xavier Becerra, calling him an “extremist” who would carry a liberal agenda if confirmed."
     publishedDateTime: 2021-02-22T18:28:42Z

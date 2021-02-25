@@ -1461,6 +1461,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Conservative Gathering to Feature Trump's False Fraud Claims"
+    excerpt: "Some of the nation’s leading conservatives are gathering at a conference in Florida that will endorse former President Donald Trump’s continued dominance in Republican politics and promote his false claim that he lost the election only because of widespread voter fraud."
+    publishedDateTime: 2021-02-25T18:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-25/conservative-gathering-to-feature-trumps-false-fraud-claims"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-25/conservative-gathering-to-feature-trumps-false-fraud-claims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-25/conservative-gathering-to-feature-trumps-false-fraud-claims?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "With Republican Firewall, U.S. Senate Acquits Trump of Inciting Deadly Capitol Riot"
     excerpt: "Donald Trump's second impeachment trial could conclude on Saturday, leaving a divided U.S. Senate to decide whether the former president incited his supporters to attack the U.S. Capitol on Jan. 6 in a last-ditch effort to stay in power after his November election defeat."
     publishedDateTime: 2021-02-14T22:19:00Z

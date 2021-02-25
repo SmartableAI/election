@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-19-ivanka-trump-tells-sen-marco-rubio-she-will-not-run-for-his-senate-seat-in-2022.md",
+      "title": "Ivanka Trump tells Sen. Marco Rubio she will not run for his Senate seat in 2022",
+      "excerpt": "Ivanka Trump will not be running for Sen. Marco Rubio’s U.S. Senate seat in 2022.The ex-senior White House adviser spoke with Rubio several weeks ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/t_d161UjJTSv1JSV136IImAvrtU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A3GTOAJ4C5SSVFF5ZTJXNQAYGU.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html?outputType=amp",
+      "publishedDateTime": "2021-02-18T11:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.md",
       "title": "Bowe Bergdahl targets Trump, McCain comments in lawsuit challenging court-martial",
       "excerpt": "Former U.S. Army Sgt. Robert \"Bowe\" Bergdahl, who was court-martialed in 2017 after being accused of abandoning his post in Afghanistan and endangering fellow service members, has filed a civil lawsuit in a bid to overturn his conviction.",
@@ -1537,58 +1589,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-donald-trump-jr-has-no-intention-of-running-for-officefor-now.md",
-      "title": "Donald Trump Jr. Has 'No Intention' of Running for Office—For Now",
-      "excerpt": "Donald Trump Jr. said he had \"no intention\" of running for office right now, but did not completely rule out putting himself on the ballot in the future as his father's impeachment trial entered its second day on Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605",
-      "originalUrl": "https://www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1732509/donald-trump-jr.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605?amp=1",
-      "publishedDateTime": "2021-02-11T07:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

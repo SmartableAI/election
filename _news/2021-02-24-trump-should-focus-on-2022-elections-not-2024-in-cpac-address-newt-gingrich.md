@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-speech-2022-elections-20
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-speech-2022-elections-2024-election-newt-gingrich.amp"
 type: article
 quality: 186
-heat: 346
+heat: 366
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 164
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec17f718-5e13-4765-a0d5-abf5b7c50419/3ab1b96b-d63b-4a7e-8f79-81596a21a222/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "White House 'certainly not' focused on anticipated Trump criticisms of immigration policy at CPAC"
+    excerpt: "The White House is \"certainly not\" worried about anticipated criticisms from former President Donald Trump at the Conservative Political Action Conference (CPAC) this weekend, according to press secretary Jen Psaki. "
+    publishedDateTime: 2021-02-25T18:36:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVsvAo0r9y4/white-house-not-focused-trump-criticisms-immigration-policy-cpac"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-not-focused-trump-criticisms-immigration-policy-cpac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-not-focused-trump-criticisms-immigration-policy-cpac.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/psaki4.jpg"
         width: 1280
         height: 720
         isCached: true

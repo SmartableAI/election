@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Senate confirms Jennifer Granholm as Biden's energy secretary"
+    excerpt: "The Senate confirmed President Biden's pick for energy secretary Jennifer Granholm in a 64-35 vote Thursday afternoon."
+    publishedDateTime: 2021-02-25T17:48:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FVynKO3JWCE/senate-confirms-jennifer-granholm-biden-energy-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-confirms-jennifer-granholm-biden-energy-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-confirms-jennifer-granholm-biden-energy-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jennifer-Granholm-Energy-Secretary-Nominee-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "LIVE UPDATES: Merrick Garland, Biden's AG nominee dodges questions from Senate Republicans"
     excerpt: "Garland dodged questions about the Durham investigation into the Trump-Russia probe origins, transgender athletes in high school sports, and whether crossing the border illegally should be a criminal offense. "
     publishedDateTime: 2021-02-23T06:47:30Z

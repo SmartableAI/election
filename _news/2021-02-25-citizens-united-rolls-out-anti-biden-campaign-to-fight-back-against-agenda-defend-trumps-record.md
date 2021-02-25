@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Citizens United rolls out anti-Biden campaign to 'fight back' against agenda, defend Trump's record"
-excerpt: "The conservative Citizens United group on Thursday rolled out a new anti-Biden campaign in an effort to \"fight back\" against President Biden's agenda and defend the \"successful America first policies\" of former President Trump. "
-publishedDateTime: 2021-02-25T12:11:43Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oIzfAk8RvW8/citizens-united-anti-biden-campaign-defend-trump-record"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oIzfAk8RvW8/citizens-united-anti-biden-campaign-defend-trump-record"
+excerpt: "The conservative Citizens United group on Thursday rolled out a new anti-Biden campaign in an effort to \"fight back\" against President Biden's agenda and defend the \"successful America first policies\" of former President Trump."
+publishedDateTime: 2021-02-25T12:16:00Z
+originalUrl: "https://www.foxnews.com/politics/citizens-united-anti-biden-campaign-defend-trump-record"
+webUrl: "https://www.foxnews.com/politics/citizens-united-anti-biden-campaign-defend-trump-record"
 ampWebUrl: "https://www.foxnews.com/politics/citizens-united-anti-biden-campaign-defend-trump-record.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/citizens-united-anti-biden-campaign-defend-trump-record.amp"
 type: article
-quality: 176
+quality: 136
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/883c28bb-c0fd-4d66-9f39-46ccb6b756bd/56e667a0-13e4-4f68-80ac-2e9c7b739690/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -622,6 +623,6 @@ related:
         height: 340
         isCached: true
 
-secured: "cY67MUSSgJSULk6dwdBnZKxP4SNqwH2G/TnDllcvFEBju+87JhKyLU/CqJlk0DcHieJ07Ts8EIFik8yaOuMKVDwyY1urfZ4H775pA1qChuiCeMZitGjg1GnTGsnOBzsUP4wX9v/aUjj7GmX0J8qE5vMYtJc9Uc1oR8MiRo+1Kxb3m9pZdU8Bakyzr8kC1iCD+OgR53YFX1dxkM0wCiQ0vDP8aTgscRj/niDSPt+pnSOl9nd+6NUY6T/0HpA17asiVqNt3KbZtOjOgIdjNRC7eKXXG05pKt2Z2hg+Br5IuwZie1Q39FElJvEtD2eR6wOGGWz1ER89/cle66LQ7uQSSI7MVsenK/BRatPPocjY4lE=;T1CqVmBkQGHTTH0XxGm2Sw=="
+secured: "bAWy/JBBZanIxHvPq/yjIGVb6JPT+O8FJYzh8V7SIog6z14Z6Ksn8dWSx0JZ4VkXsZJ88lQF8wdsbZSF+3NuIwojMcyzStpsOqQa9Wq+h7twMRMB/DqcpAS6yGn+tGVNUV1WrU2NvJmSliP+/1LITK4qOoMccajvt1GaMF6uhz/UGyghcKvPQxDvn4jozNDQIpEn+hxZ737636lS0FZm2qs1mZmPvup7X8UntF/rEmYHs5NQovueHMD4AEz2+0w6xvM6Yc8dtRgpJp/HbxflhZtoUuzxEMH7n0hw94r+z5BbwgQjJCQZhUJ8SeHudci0BHm434y9uUlhzCw+mBVu3ltvIgQGB1X7zaGbArCHDmA=;fC9oTkdY7AmV/qtHUJ0DIw=="
 ---
 

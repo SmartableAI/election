@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-11-donald-trump-jr-has-no-intention-of-running-for-officefor-now.md",
+      "title": "Donald Trump Jr. Has 'No Intention' of Running for Office—For Now",
+      "excerpt": "Donald Trump Jr. said he had \"no intention\" of running for office right now, but did not completely rule out putting himself on the ballot in the future as his father's impeachment trial entered its second day on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605",
+      "originalUrl": "https://www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1732509/donald-trump-jr.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-no-intention-running-now-1568605?amp=1",
+      "publishedDateTime": "2021-02-11T07:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful-conduct.md",
       "title": "Wall Street Journal: Trump might be acquitted, but won't live down 'disgraceful conduct'",
       "excerpt": "The Wall Street Journal’s editorial board wrote that while the Senate may acquit former President Trump over the deadly riot at the U.S. Capitol, “he won’t live down his disgraceful conduct.”",
@@ -1531,58 +1583,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-voting-company-sues-fox-and-trump-lawyers-for-27bn-over-false-claims-of-election-fraud.md",
-      "title": "Voting company sues Fox and Trump lawyers for $2.7bn over false claims of election fraud",
-      "excerpt": "Smartmatic lawsuit charges that the defendants conspired to spread false claims that the company helped ‘steal’ the US election",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 331,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/e2fc6385843fd40dcbfd069855a5575972c1af6a/0_190_5694_3416/master/5694.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ea2e2a58f97d190fdaa497cc2a39031",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
-      "publishedDateTime": "2021-02-04T12:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

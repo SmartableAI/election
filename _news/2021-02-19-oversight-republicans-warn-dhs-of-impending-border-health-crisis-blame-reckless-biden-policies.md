@@ -173,6 +173,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cuomo expected to join governors meeting with Biden amid scandals, as ex-aide defends nursing home order"
+    excerpt: "New York Gov. Andrew Cuomo is scheduled to join the National Governors Association's winter meeting Thursday afternoon, with President Biden expected to participate as well."
+    publishedDateTime: 2021-02-25T17:27:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lOQfOX18kTY/cuomo-governors-meeting-biden-controversies"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-governors-meeting-biden-controversies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-governors-meeting-biden-controversies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf1b5346-c83b-4ca5-9cc1-755fda7539ae/bf6f75e8-7243-4e1e-b455-a37cb86337be/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "House GOP tell Biden ‘far-left’ immigration agenda is creating border crisis: ‘gravely irresponsible’"
     excerpt: "EXCLUSIVE: House Republicans are accusing President Biden of pursuing a \"far-left\" agenda on immigration -- an agenda they say is \"gravely irresponsible\" and is creating a new crisis at the border."
     publishedDateTime: 2021-02-22T20:29:50Z

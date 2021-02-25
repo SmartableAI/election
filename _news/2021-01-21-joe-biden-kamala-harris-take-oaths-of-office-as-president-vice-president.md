@@ -3562,19 +3562,16 @@ related:
         height: 433
         isCached: true
   - title: "Kamala Harris visits Washington vaccination site"
-    excerpt: "Vice President Kamala Harris visits a local pharmacy in Washington DC to highlight the need for residents to get the vaccine when its their turn. (Feb. 25)"
-    publishedDateTime: 2021-02-25T16:29:00Z
-    webUrl: "https://www.freep.com/videos/news/nation/2021/02/25/kamala-harris-visits-washington-vaccination-site/6815312002/"
+    excerpt: "Vice President Kamala Harris visits a local pharmacy in Washington DC to highlight the need for residents to get the vaccine when its their turn."
+    publishedDateTime: 2021-02-25T16:45:00Z
+    webUrl: "https://tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.amp.html"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/901afde3-2034-441a-9333-8293957b641a_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z

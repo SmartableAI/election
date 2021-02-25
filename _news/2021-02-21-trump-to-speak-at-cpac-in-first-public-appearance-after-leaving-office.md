@@ -92,6 +92,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White House 'certainly not' focused on anticipated Trump criticisms of immigration policy at CPAC"
+    excerpt: "The White House is \"certainly not\" worried about anticipated criticisms from former President Donald Trump at the Conservative Political Action Conference (CPAC) this weekend, according to press secretary Jen Psaki. "
+    publishedDateTime: 2021-02-25T18:36:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jVsvAo0r9y4/white-house-not-focused-trump-criticisms-immigration-policy-cpac"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-not-focused-trump-criticisms-immigration-policy-cpac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-not-focused-trump-criticisms-immigration-policy-cpac.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/psaki4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump to Speak at CPAC in First Public Appearance Since Leaving Office"
     excerpt: "Former President Donald Trump is expected to address the Conservative Political Action Conference on Feb. 28 in Orlando, Fla., in what would be his first public appearance since leaving the White House,"
     publishedDateTime: 2021-02-20T23:02:00Z

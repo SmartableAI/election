@@ -2,6 +2,175 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-22-new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.md",
+      "title": "New York backtracks on de Blasio’s plan to close Trump-owned ice rinks",
+      "excerpt": "The city is doing a full “180” on its plan to shutter Trump-operated ice skating rinks.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gwe07OOsb4M/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gwe07OOsb4M/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/902ec378-d6b4-4473-b43c-a57e3f99d9da/02832883-8881-40ab-9872-b74b64a5c0e6/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.amp",
+      "publishedDateTime": "2021-02-21T22:37:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-biden-tells-town-hall-not-all-minorities-know-how-to-get-online.md",
+      "title": "Biden tells town hall not all minorities 'know how to get online'",
+      "excerpt": "But the arrival of the Chinese virus followed by the idiotic lockdown policies of Blue State Governors and then, of course, the defeats of Donald Trump led to a less free, less prosperous, less optimistic America and listening to Joe Biden speaking today in Michigan you couldn't help but think that Biden and Fauci are going to keep us under their thumbs for as long as possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online",
+      "originalUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a17db8b-72da-45f1-ac74-3f11135bb3b6/600bca1e-bafc-4923-ac66-753f6027ed5a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online.amp",
+      "publishedDateTime": "2021-02-21T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-21-arkansas-gop-governor-says-he-wouldnt-support-a-trump-2024-reelection-bid.md",
+      "title": "Arkansas GOP governor says he wouldn't support a Trump 2024 reelection bid",
+      "excerpt": "The Republican governor of Arkansas, who had previously supported Donald Trump's reelection bid, said Sunday that he would not back the former President if he decided to run in 2024.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCtCCCPvzfE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCtCCCPvzfE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 688,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210221100458-hutchinson-sotu-vpx-2-21-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-reelection-2024-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-reelection-2024-cnntv/index.html",
+      "publishedDateTime": "2021-02-21T08:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-oath-keeper-claims-she-was-vip-security-at-trump-rally-before-riot-and-says-she-met-with-secret-service-agents.md",
       "title": "Oath Keeper claims she was VIP security at Trump rally before riot and says she met with Secret Service agents",
       "excerpt": "A leader in an alleged Oath Keepers conspiracy in the US Capitol insurrection claims she was given a VIP pass to the pro-Trump rally on January 6, had met with Secret Service agents and was providing security for legislators and others,",
@@ -1042,7 +1211,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2060,
+      "heat": 2080,
       "tags": null,
       "images": [
         {
@@ -1154,7 +1323,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 395,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -1195,166 +1364,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-mark-morgan-blasts-bidens-new-guidelines-on-ice-arrests-defies-law-and-order-common-sense.md",
-      "title": "Mark Morgan blasts Biden's new guidelines on ICE arrests: 'Defies law and order, common sense'",
-      "excerpt": "The Biden administration's immigration reform \"defies law and order and common sense,\" former acting DHS Secretary Mark Morgan said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cg4x5MHCXCk/mark-morgan-joe-biden-ice-arrests-drop",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Cg4x5MHCXCk/mark-morgan-joe-biden-ice-arrests-drop",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-morgan-joe-biden-ice-arrests-drop.amp",
-      "publishedDateTime": "2021-02-19T09:46:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-trump-hotel-employees-say-they-had-to-pretend-to-support-the-president-inside-i-was-dying.md",
-      "title": "Trump hotel employees say they had to pretend to support the president: 'Inside I was dying'",
-      "excerpt": "For employees at the Trump International Hotel who weren't Donald Trump supporters, pretending to be one was an unwritten rule of the job.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2",
-      "originalUrl": "https://www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602fe0d8a06a8e0018ce442e?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2?amp",
-      "publishedDateTime": "2021-02-19T09:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-fact-check-did-donald-trump-jr-say-texas-governor-greg-abbott-is-a-democrat.md",
-      "title": "Fact Check: Did Donald Trump Jr. Say Texas Governor Greg Abbott is a Democrat?",
-      "excerpt": "The eldest son of former President Donald Trump was mocked for tweeting about \"Democrat Governor's incompetence\" while defending Ted Cruz.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574",
-      "originalUrl": "https://www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1739162/donald-trump-jr.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574?amp=1",
-      "publishedDateTime": "2021-02-19T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

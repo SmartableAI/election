@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-26-manhattan-district-attorney-obtains-trumps-long-sought-tax-records.md",
+      "title": "Manhattan district attorney obtains Trump's long-sought tax records",
+      "excerpt": "The Manhattan District Attorney's Office has obtained former President Donald Trump's tax records, executing a subpoena for the long-sought documents after the Supreme Court declined to shield them from investigators earlier this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/31/e6e4b3bf-d221-4e69-9758-c125b8adfeda/thumbnail/1200x630g2/2846660e3574f923ccd0a39f79b733a8/gettyimages-1230689498.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/",
+      "publishedDateTime": "2021-02-25T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-a-year-after-trump-said-coronavirus-was-under-control-a-look-back-at-the-first-news-stories.md",
       "title": "A year after Trump said coronavirus was ‘under control,’ a look back at the first news stories",
       "excerpt": "Wednesday that then-President Trump offered words of assurance about the coronavirus which had only recently been detected in the United States. “The Coronavirus is very much under control in the USA,",
@@ -587,7 +639,7 @@
       "originalUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -1346,7 +1398,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2060,
+      "heat": 2080,
       "tags": null,
       "images": [
         {
@@ -1548,58 +1600,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-ivanka-trump-tells-sen-marco-rubio-she-will-not-run-for-his-senate-seat-in-2022.md",
-      "title": "Ivanka Trump tells Sen. Marco Rubio she will not run for his Senate seat in 2022",
-      "excerpt": "Ivanka Trump will not be running for Sen. Marco Rubio’s U.S. Senate seat in 2022.The ex-senior White House adviser spoke with Rubio several weeks ago.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/t_d161UjJTSv1JSV136IImAvrtU=/1200x0/center/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/A3GTOAJ4C5SSVFF5ZTJXNQAYGU.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-ivanka-trump-marco-rubio-senate-20210218-akuxftwwobh3lmhhgzymv6prpe-story.html?outputType=amp",
-      "publishedDateTime": "2021-02-18T11:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -3572,19 +3572,16 @@ related:
         height: 433
         isCached: true
   - title: "Kamala Harris visits Washington vaccination site"
-    excerpt: "Vice President Kamala Harris visits a local pharmacy in Washington DC to highlight the need for residents to get the vaccine when its their turn. (Feb. 25)"
-    publishedDateTime: 2021-02-25T16:29:00Z
-    webUrl: "https://www.freep.com/videos/news/nation/2021/02/25/kamala-harris-visits-washington-vaccination-site/6815312002/"
+    excerpt: "Vice President Kamala Harris visits a local pharmacy in Washington DC to highlight the need for residents to get the vaccine when its their turn."
+    publishedDateTime: 2021-02-25T16:45:00Z
+    webUrl: "https://tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.amp.html"
     type: article
     provider:
-      name: Detroit Free Press
-      domain: freep.com
+      name: Tulsa World
+      domain: tulsaworld.com
     quality: 55
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/901afde3-2034-441a-9333-8293957b641a_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Alert: AP sources: Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance"
     excerpt: "Vice President Mike Pence calls Vice President-elect Kamala Harris to congratulate her, offer assistance."
     publishedDateTime: 2021-01-15T18:27:00Z
@@ -3781,6 +3778,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "7WxRgEebLDvnRmGb/YVUjOQWhsk8wa42HLmBsbX/Z4zVgllmf78qcP1wgqXbVy+S+8GueI4Y9oeWLxcdd9SB3zqo4tQl0BEw8Mjm/REfyfNg6tCpJOLYtWiePe5yHkv4BuUT/7G4H3nJtiLKxLVGlB8AfGwW3jsGfD9SQMs1td3ueSBojbZQNmzWa/kU2aQ3ajfrPIrN1GNuAPJUhjpp9RQYO3e69dDDuZJAp/e2FACfhNUIK49E0gbZvB8ykAU7SOxXQRtdowZbeUUB7+DrO0FXijGFxUSwYNDxifFLZhmwnB2GtSJs+tYknYKAWp9MxiJ0xRWBli+vghGzReOmGL/+yDfxV7LGEn0JJOFSnA4=;UcjJSEtB9MtSHQGlyDsKMw=="
+secured: "cuPqKej0nZBdFT1t8o74R9cDwZ+W9wwzv5x7BRFO3MIv757LloOeaKiu6MPdby0OCFG562K3RmWy1BUKSZ+cdVLSmpGyceDFHyE5QG8g+kK2BSyX66A3FtS+hiQ+Bqq50FzwniHKS51onMe2HgMmOfpAoEoTQWz3TnO/UZUcQbBHoV+UhGGaoQhjgQyu7N8zov7aPB6kAcqz+6PRIBcz1d9qylaBKo8GjUOvNtL1K7N4PnN3CX6S28j1Boj6g01zyljqamJBNlqMxTamGAsM7qi8HcmAP/SxR93UNbd10CiMWuboLKxlsHwgWfpTPKkX9fRJp88PanR5gAIOBaO4silPHpi1C1U3mm0udkfq0vsiD8lcXniSAETmMwMsySXGF1McCs1Nce0knlHxMGnr/wwNPoYpeclrucWSEoQVRgr0SaV/nXLMTnzh2JJrK5bNlgZlR7d5xz0ZCYb1ixdD6CVZInfq+tseqH1f3X9eHRyUjNoehWHMYRQ9k9+4CO7ZF8x64XlaOhD+1hHx4+245w==;6gUIaIXE+LLL3GZzFD+EAA=="
 ---
 

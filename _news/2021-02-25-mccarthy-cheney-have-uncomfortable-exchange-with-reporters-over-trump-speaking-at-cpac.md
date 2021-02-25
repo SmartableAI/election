@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mccarthy-cheney-have-uncomfortable-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac.amp"
 type: article
 quality: 167
-heat: 207
+heat: 247
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Freedom Caucus members urge Cheney to step down from GOP leadership role after latest anti-Trump comment"
+    excerpt: "The chair of the conservative House Freedom Caucus is urging Rep. Liz Cheney to step down from her position as the number three House Republican in leadership over her latest critical comments of former President Donald Trump."
+    publishedDateTime: 2021-02-25T17:54:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rK0_CyAGz60/house-freedom-caucus-members-cheney-step-down-anti-trump-comme"
+    ampWebUrl: "https://www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump impeachment manager says she's filled with 'glee' at prospect of questioning McCarthy about Capitol riot"
     excerpt: "Del. Stacey Plaskett said she is filled with \"glee\" at the prospect of questioning House Minority Leader Kevin McCarthy regarding a phone call between him and former President Donald Trump during the Capitol riot in January."
     publishedDateTime: 2021-02-17T19:57:58Z
@@ -46,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Freedom Caucus members urge Cheney to step down from GOP leadership role after latest anti-Trump comment"
+    excerpt: "The chair of the conservative House Freedom Caucus is urging Rep. Liz Cheney to step down from her position as the number three House Republican in leadership over her latest critical comments of former President ."
+    publishedDateTime: 2021-02-25T17:58:00Z
+    webUrl: "https://www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme"
+    ampWebUrl: "https://www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055611217771.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump impeachment manager says she's filled with 'glee' at prospect of questioning McCarthy about Capitol riot"
     excerpt: "Del. Stacey Plaskett said she is filled with \"glee\" at the prospect of questioning House Minority Leader Kevin McCarthy regarding a phone call between him and former President Donald Trump during the Capitol riot in January."

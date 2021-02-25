@@ -2,6 +2,170 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-blackburn-warns-biden-admin-china-is-our-adversary-threatens-supply-chain.md",
+      "title": "Blackburn warns Biden admin China is 'our adversary,' threatens supply chain",
+      "excerpt": "EXCLUSIVE: Republican Sen. Marsha Blackburn is warning the Biden administration that China is \"our adversary,\" saying Beijing threatens our supply chain and urging the White House to \"step up their game.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/To5htOdlxYQ/blackburn-china-our-adversary-threatens-supply-chain-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/To5htOdlxYQ/blackburn-china-our-adversary-threatens-supply-chain-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blackburn-china-our-adversary-threatens-supply-chain-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-china-our-adversary-threatens-supply-chain-biden.amp",
+      "publishedDateTime": "2021-02-25T10:27:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-house-freedom-caucus-members-question-liz-cheneys-leadership-again-after-her-latest-trump-comments.md",
+      "title": "House Freedom Caucus members question Liz Cheney's leadership again after her latest Trump comments",
+      "excerpt": "House Freedom Caucus members questioned GOP conference chairwoman Liz Cheney's leadership — again — at a news conference Thursday after the Wyoming Republican congresswoman's comments that she believes former President Donald Trump shouldn't play a role in the Republican Party.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OM80qsrIyrQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OM80qsrIyrQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/25/politics/liz-cheney-house-freedom-caucus/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/liz-cheney-house-freedom-caucus/index.html",
+      "publishedDateTime": "2021-02-25T09:21:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-manhattan-district-attorney-obtains-trumps-long-sought-tax-records.md",
+      "title": "Manhattan district attorney obtains Trump's long-sought tax records",
+      "excerpt": "The Manhattan District Attorney's Office has obtained former President Donald Trump's tax records, executing a subpoena for the long-sought documents after the Supreme Court declined to shield them from investigators earlier this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/31/e6e4b3bf-d221-4e69-9758-c125b8adfeda/thumbnail/1200x630g2/2846660e3574f923ccd0a39f79b733a8/gettyimages-1230689498.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/",
+      "publishedDateTime": "2021-02-25T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-harris-addresses-vaccine-hesitancy-in-dc-pharmacy-visit.md",
       "title": "Harris addresses vaccine hesitancy in DC pharmacy visit",
       "excerpt": "Vice President Kamala Harris on Thursday visited a local pharmacy in Washington, DC, to highlight the Biden administration's retail pharmacy vaccination program and combat vaccine hesitancy.\n    \n",
@@ -344,7 +508,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 207,
+      "heat": 247,
       "tags": null,
       "images": [
         {
@@ -1194,170 +1358,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-bidens-100-day-deportation-moratorium-indefinitely-banned-by-judge.md",
-      "title": "Biden’s 100-day deportation moratorium indefinitely banned by judge",
-      "excerpt": "The Biden administration’s efforts to impose a 100-day pause on deportations were dealt another blow on Tuesday when a district judge extended a ban on its imposition in response to a lawsuit from Texas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OUfAiZtcmg/bidens-100-day-deportation-moratorium-judge",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OUfAiZtcmg/bidens-100-day-deportation-moratorium-judge",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp",
-      "publishedDateTime": "2021-02-24T05:53:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-romney-says-trump-would-win-2024-gop-nomination-in-a-landslide-if-he-ran-for-president.md",
-      "title": "Romney says Trump would win 2024 GOP nomination \"in a landslide\" if he ran for president",
-      "excerpt": "Senator Mitt Romney said that he believes former President Donald Trump would win the Republican presidential nomination if he ran for office in 2024. \"He has by far the largest voice and a big impact in my party,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mitt-romney-donald-trump-2024-gop-presidential-nomination-future-republican-party/",
-      "originalUrl": "https://www.cbsnews.com/news/mitt-romney-donald-trump-2024-gop-presidential-nomination-future-republican-party/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2018/02/20/dca06304-522b-4482-9166-317a5a46711f/thumbnail/1200x630g2/6f3546d61ad4b98f6ecdc039c506721f/ap-399758590509.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mitt-romney-donald-trump-2024-gop-presidential-nomination-future-republican-party/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mitt-romney-donald-trump-2024-gop-presidential-nomination-future-republican-party/",
-      "publishedDateTime": "2021-02-24T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-trump-stacked-his-cabinet-with-climate-skeptics-now-republicans-are-piling-on-bidens-climate-activist-nominee.md",
-      "title": "Trump stacked his Cabinet with climate skeptics. Now Republicans are piling on Biden's climate activist nominee",
-      "excerpt": "President Joe Biden nominated the most diverse Cabinet in history, but the Senate, which gets to offer \"advice and consent,\" is suddenly full of members -- mostly Republicans -- who are critical of partisan tweets and are carefully scrutinizing nominees' job qualifications.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kvTeKFzFC4E/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kvTeKFzFC4E/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210224070026-02-deb-haaland-confirmation-hearing-0223-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/24/politics/what-matters-february-23/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/what-matters-february-23/index.html",
-      "publishedDateTime": "2021-02-24T04:09:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

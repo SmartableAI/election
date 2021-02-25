@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
 type: article
 quality: 140
-heat: 2060
+heat: 2080
 published: true
 
 provider:
@@ -1448,6 +1448,17 @@ related:
     webUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished"
     ampWebUrl: "https://www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/us/articles/2021-02-17/on-jersey-shore-crumbling-trump-plaza-hotel-is-demolished?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Conservative Gathering to Feature Trump's False Fraud Claims"
+    excerpt: "Some of the nation’s leading conservatives are gathering at a conference in Florida that will endorse former President Donald Trump’s continued dominance in Republican politics and promote his false claim that he lost the election only because of widespread voter fraud."
+    publishedDateTime: 2021-02-25T18:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-25/conservative-gathering-to-feature-trumps-false-fraud-claims"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-25/conservative-gathering-to-feature-trumps-false-fraud-claims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-25/conservative-gathering-to-feature-trumps-false-fraud-claims?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-we
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 159
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/11665ff5-341f-4d44-9ffc-514372608862/28df6f02-0427-4c6b-8612-78db21c2fd30/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Cuomo expected to join governors meeting with Biden amid scandals, as ex-aide defends nursing home order"
+    excerpt: "New York Gov. Andrew Cuomo is scheduled to join the National Governors Association's winter meeting Thursday afternoon, with President Biden expected to participate as well."
+    publishedDateTime: 2021-02-25T17:27:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lOQfOX18kTY/cuomo-governors-meeting-biden-controversies"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-governors-meeting-biden-controversies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-governors-meeting-biden-controversies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf1b5346-c83b-4ca5-9cc1-755fda7539ae/bf6f75e8-7243-4e1e-b455-a37cb86337be/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

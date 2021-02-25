@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Kamala Harris visits Washington vaccination site"
-excerpt: "Vice President Kamala Harris visits a local pharmacy in Washington DC to highlight the need for residents to get the vaccine when its their turn. (Feb. 25)"
-publishedDateTime: 2021-02-25T16:29:00Z
-originalUrl: "https://www.freep.com/videos/news/nation/2021/02/25/kamala-harris-visits-washington-vaccination-site/6815312002/"
-webUrl: "https://www.freep.com/videos/news/nation/2021/02/25/kamala-harris-visits-washington-vaccination-site/6815312002/"
+excerpt: "Vice President Kamala Harris visits a local pharmacy in Washington DC to highlight the need for residents to get the vaccine when its their turn."
+publishedDateTime: 2021-02-25T16:45:00Z
+originalUrl: "https://tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.html"
+webUrl: "https://tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.html"
+ampWebUrl: "https://tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.amp.html"
+cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.amp.html"
 type: article
 quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Detroit Free Press
-  domain: freep.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/901afde3-2034-441a-9333-8293957b641a_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Trump plans to depart Washington Inauguration Day morning, while Pence, Harris speak"
@@ -3781,6 +3777,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "aUE6z0u4rYAw+Lr5PR6J42qRXBPeRvqjZuJYlhEbc58/jPKlK3BcRIqPI520SnCpbe01BajPuV7kVA5b8/D0/nVbPcw3gHI/xDo9WR22ZW/kpGgX7GT2r9hEPaFli4y17Of+4QgaEek/6muVeeq2PC1SNqr3641MJZ6P3c8v2MBjjuF4GhXUcVeL3v1g9EqyVtlcmP+CPTgfHX9IvAo4KsD4QkWA27R/gsIAlKEDqZMgsonFsVNJZo31yX23jcDDjuF6aytaprGsIUn+KV9fEl3VLPnukIoiC5GZw13EEyDzV+fIIVgmDMHs39o+X+ePGDsqyhbkIW44dZQ44h3+vGPVTVJ/HZH+XMr4JqyjSiU=;saxBu3ePnb8QWct100YZQw=="
+secured: "+KMbZ/s3r4NqGQzlw//e447V23RJJ7Dv8B1gHobtMVwrWpwn/j7K8cs4xQtknsJ4lJYFa6ybiNMz19VURlrn1zEc6mghitDhngX5JTJWE97fCktRjVGsmwRoX7aAA480Pgl07u0Rj3/6jfUeGUR64UHYEW6Pj2Rmp5WXBtlS331OU7CJPmlqWgiwYDBnpYyoIxiPlbHN++JAYOA8e/z6wN9gx+GOrIqSo41CLbtLS79b01nUV/B033SO3JPr/LA4YAG9cb4fue4tj/BLZInH7ib06nDxr3mU1+0PI5OW0K0XxPwyif/rlZ9snAGnYFBZs2hY/sNzvixPoySgXwn8wh3qutb2A3JOGEmhoLlafYbF9lOuQ9cRvygq4QnJt4sgbl/Dp07qvyoDrKc4bRX2tUo108hztGOLVo5OnIcIo1iYC5Ewukd4Yx5h1oAfbpYSuD2v/Y//n0HfYq1ufAObWLl1x+jF4ETeWgT3EEbN43NbkVU5ZSy4JN6DS11RegcWZ4xC0feHM2nIdLFQnNd3cw==;A6YvtNSN1iJzwx2hRD4B+w=="
 ---
 

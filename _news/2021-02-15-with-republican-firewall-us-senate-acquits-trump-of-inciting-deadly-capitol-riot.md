@@ -1463,6 +1463,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Conservative Gathering to Feature Trump's False Fraud Claims"
+    excerpt: "Some of the nation’s leading conservatives are gathering at a conference in Florida that will endorse former President Donald Trump’s continued dominance in Republican politics and promote his false claim that he lost the election only because of widespread voter fraud."
+    publishedDateTime: 2021-02-25T18:57:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-25/conservative-gathering-to-feature-trumps-false-fraud-claims"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-25/conservative-gathering-to-feature-trumps-false-fraud-claims?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-25/conservative-gathering-to-feature-trumps-false-fraud-claims?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
   - title: "Emails Show Trump Backers Bashing Iowa AG Over Election Case"
     excerpt: "A Republican lawmaker and a man later charged with participating in the Jan. 6 Capitol riot were among thousands of people who criticized Iowa’s attorney general for refusing to seek to overturn Donald Trump’s electoral defeat."
     publishedDateTime: 2021-02-23T16:58:00Z
