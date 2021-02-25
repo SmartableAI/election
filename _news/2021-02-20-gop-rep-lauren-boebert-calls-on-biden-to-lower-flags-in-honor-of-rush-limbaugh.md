@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp"
 type: article
 quality: 171
-heat: 191
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,19 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump reveals story behind Rush Limbaugh's Presidential Medal of Freedom honor"
-    excerpt: "Former President Donald Trump joined \"Hannity\" on Wednesday to remember conservative radio host Rush Limbaugh, who passed away at age 70 after a long battle with lung cancer."
-    publishedDateTime: 2021-02-18T03:32:00Z
-    webUrl: "https://www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer"
-    ampWebUrl: "https://www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-rush-limbaugh-medal-of-freedom-lung-cancer.amp"
+  - title: "Biden should not give up his sole nuclear authority, GOP lawmakers say"
+    excerpt: "Three Republican members of the House Armed Services Committee on Wednesday issued a statement pushing back on Democrats' letter to President Biden urging him to give up his sole nuclear authority."
+    publishedDateTime: 2021-02-25T20:18:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_ao_yWQyWO0/republicans-biden-nuclear-authority"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-nuclear-authority.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-nuclear-authority.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 131
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92214969-2ed8-4652-abbf-25abb5a4c35d/230c7f0f-55bc-4f80-84a5-1a6341629932/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/military-aide-carries.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Louisiana GOP Rep. Higgins challenges Biden 'to live without oil & gas'"
+    excerpt: "Louisiana Republican Rep. Clay Higgins floated an environmental challenge to President Biden Tuesday – introducing a House resolution calling on the commander-in-chief to live without any petroleum products."
+    publishedDateTime: 2021-02-25T01:00:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U7Cz6YZ-hZg/louisiana-higgins-biden-live-without-oil"
+    ampWebUrl: "https://www.foxnews.com/politics/louisiana-higgins-biden-live-without-oil.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/louisiana-higgins-biden-live-without-oil.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Higgins-Biden-GETTY-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "House Homeland Republicans urge Biden to reconsider lifting sanctions on Iran, warn of a 'historic mistake'"
+    excerpt: "Republicans on the House Homeland Security Committee this week urged President Biden to reconsider lifting sanctions on Iran."
+    publishedDateTime: 2021-02-23T17:05:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UagrZC-YCiw/house-homeland-republicans-biden-reconsider-lifting-sanctions-iran"
+    ampWebUrl: "https://www.foxnews.com/politics/house-homeland-republicans-biden-reconsider-lifting-sanctions-iran.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-homeland-republicans-biden-reconsider-lifting-sanctions-iran.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Hannity reacts to Dems' letter pressuring Biden to give up nuclear authority: 'Must be totally humiliating'"
+    excerpt: "Fox News host Sean Hannity reacted Wednesday night to the reports suggesting House Democrats were urging President Biden to relinquish his nuclear authority."
+    publishedDateTime: 2021-02-25T04:10:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d0ca450-9410-4c83-9026-009225ad95fb/1d38c7d9-a3cc-4aaf-98e7-dbf68cf495c4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

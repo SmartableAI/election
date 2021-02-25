@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
 type: article
 quality: 140
-heat: 2080
+heat: 2100
 published: true
 
 provider:
@@ -1006,6 +1006,20 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210215&t=2&i=1551606644&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1E0T8"
         width: 818
         height: 545
+        isCached: true
+  - title: "The legal efforts to hold Trump and his allies accountable for post-election claims have just begun"
+    excerpt: "The Post’s Rosalind Helderman explains the lawsuits and investigations aimed at holding former president Donald Trump and his allies accountable for their attempts to subvert the election results."
+    publishedDateTime: 2021-02-25T19:32:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/the-legal-efforts-to-hold-trump-and-his-allies-accountable-for-post-election-claims-have-just-begun/2021/02/25/ca33fb70-c1d3-4c16-ae0f-bd7c4a5ffc05_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-25-2021/t_efa0bf1316ba49e385e6017f6b3f0fc9_name_cbc0a3bc_2a9c_11eb_9c21_3cc501d0981f_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Senate Reaches Deal to Skip Witnesses in Trump Impeachment Trial"
     excerpt: "WASHINGTON — House Democrats began wrapping up their impeachment case against Donald Trump on Saturday after a chaotic morning in which they gave up a last-minute plan for witness testimony that could have significantly prolonged the trial and delayed a vote on whether the former president incited the deadly Capitol insurrection."

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-22-garland-says-doj-would-advance-bidens-pro-gun-control-policies.md",
+      "title": "Garland says DOJ would ‘advance’ Biden’s pro-gun control policies",
+      "excerpt": "Merrick Garland, President Biden’s nominee for attorney general, signaled Monday that the Justice Department under his leadership would “advance” the policies of the Biden administration on gun control.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSSyOROK0w/garland-doj-would-advance-bidens-gun-control-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSSyOROK0w/garland-doj-would-advance-bidens-gun-control-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c25e528-ef62-414a-9729-19aefc9f27dd/26fcebe6-799e-46dd-a7b3-498d2337ea25/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/garland-doj-would-advance-bidens-gun-control-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-doj-would-advance-bidens-gun-control-policies.amp",
+      "publishedDateTime": "2021-02-22T09:59:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-22-ny-dem-says-cuomo-nursing-home-scandal-is-impeachable-offense-as-governor-blames-trump-for-vaccine-woes.md",
       "title": "NY Dem says Cuomo nursing home scandal is impeachable offense, as governor blames Trump for vaccine woes",
       "excerpt": "New York State Assemblyman Ron Kim – who said Gov. Andrew Cuomo threatened to ruin his career for speaking out against his mishandling of the nursing home crisis during the coronavirus pandemic – is now calling for Cuomo to face impeachment.",
@@ -127,7 +183,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 212,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -370,62 +426,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-revival-of-immigration-catch-and-release-wont-work-former-cbp-chief.amp",
       "publishedDateTime": "2021-02-20T17:36:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-gop-rep-lauren-boebert-calls-on-biden-to-lower-flags-in-honor-of-rush-limbaugh.md",
-      "title": "GOP Rep. Lauren Boebert calls on Biden to lower flags in honor of Rush Limbaugh",
-      "excerpt": "Rep. Lauren Boebert, R-Colo., called on President Biden on Friday night to order flags lowered to half-staff in honor the life of conservative radio legend Rush Limbaugh.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUXL4ysyf_Y/boebert-flags-half-staff-limbaugh",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUXL4ysyf_Y/boebert-flags-half-staff-limbaugh",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63a7afd9-a51a-4f00-91e3-c8786f9cf099/9d76ec8a-b441-45c7-94ee-88ec24e0820e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp",
-      "publishedDateTime": "2021-02-19T18:12:02-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1356,7 +1356,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {

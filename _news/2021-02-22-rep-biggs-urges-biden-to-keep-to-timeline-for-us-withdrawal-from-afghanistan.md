@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afg
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp"
 type: article
 quality: 172
-heat: 212
+heat: 192
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f8bdec3-c76d-497c-9b83-f41264d7457d/f94509fc-686f-4795-9528-498cf5c2dd43/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "House Homeland Republicans urge Biden to reconsider lifting sanctions on Iran, warn of a 'historic mistake'"
-    excerpt: "Republicans on the House Homeland Security Committee this week urged President Biden to reconsider lifting sanctions on Iran."
-    publishedDateTime: 2021-02-23T17:05:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UagrZC-YCiw/house-homeland-republicans-biden-reconsider-lifting-sanctions-iran"
-    ampWebUrl: "https://www.foxnews.com/politics/house-homeland-republicans-biden-reconsider-lifting-sanctions-iran.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-homeland-republicans-biden-reconsider-lifting-sanctions-iran.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "vKIGIEI8y3OioXxt5wdb8aTX5tYBt15TO6FqYrPFSR5sJ0xon9TZZyvoMpYQ8cSzFdG8hFV/LM+x+kxxY2EavKgZ3O60xUBPaggXSvARjoxjos5xl0rXJQG/DPGy9ZroAM2c63OpZEcX2wr7fzD38qu13sccpOnjJ4SStAPU/1/zjWWWyA0dlV7NVD8zO9Mj2lVTWXVhPkZdKbrkb4nhbmZvRNK8toeaRzxQWdG89sUjPwE6Xve1tPS+h8zGIfHJc/6U+S8wlaojw95Hb2LJmupqEkFRiHRc+END2dYZB1rpKahayWjE7wgJ427fK+sffSfEQC3lr1E4qcDxCZ1oVq2kF6DEAwUYn9T9x31BDQc=;6REf7Rdps2awrwVhEIm3UA=="

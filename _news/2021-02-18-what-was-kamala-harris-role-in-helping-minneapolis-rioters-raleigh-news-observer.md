@@ -27,69 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon"
-    excerpt: "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according"
-    publishedDateTime: 2021-02-20T16:02:00Z
-    webUrl: "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/"
-    ampWebUrl: "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/"
+  - title: "Republicans tee up attacks on Biden—and Kamala Harris | Raleigh News & Observer"
+    excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
+    publishedDateTime: 2021-02-25T18:11:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article249514215.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article249514215.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article249514215.html"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 86
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771"
-        width: 1024
-        height: 771
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Kamala Harris’ Stepdaughter Ella Emhoff’s Modeling Contract Sparks Melania Trump Comparisons On Twitter"
-    excerpt: "Some Twitter users were not impressed with Kamala Harris' stepdaughter Ella Emhoff signing a modeling contract, while others compared the 22-year-old's situation with that of former first lady Melania Trump,"
-    publishedDateTime: 2021-01-30T09:29:00Z
-    webUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838"
-    ampWebUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoffs-modeling-contract-sparks-melania-trump-3133838?amp=1"
+  - title: "Republicans regroup around attacks on Biden administration —including Kamala Harris"
+    excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
+    publishedDateTime: 2021-02-25T18:11:00Z
+    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article249514215.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article249514215.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article249514215.html"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 74
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 84
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/15/first-lady-melania-trump.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Kamala Harris’ Stepdaughter Ella Emhoff Convinced ‘Protective’ Family To Accept Modeling Career"
-    excerpt: "After attending the inauguration of President Joe Biden and Vice President Kamala Harris, Ella Emhoff has signed a contract with the modeling agency, IMG. Although the VP’s stepdaughter went viral after wearing an embellished plaid Miu Miu coat to the historic event,"
-    publishedDateTime: 2021-01-28T21:29:00Z
-    webUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoff-convinced-protective-family-accept-modeling-3132804"
-    ampWebUrl: "https://www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoff-convinced-protective-family-accept-modeling-3132804?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/kamala-harris-stepdaughter-ella-emhoff-convinced-protective-family-accept-modeling-3132804?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 63
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/20/ella-emhoff-the-step-daughter-of-democratic-vice.jpg"
-        width: 1024
-        height: 573
-        isCached: true
-  - title: "Kamala Harris’ stepdaughter Ella Emhoff makes her New York digital runway debut — in another stylish coat"
-    excerpt: "Designers Lazaro Hernandez and Jack McCollough said the fashion world took quick notice when Emhoff appeared at the inauguration in January, dressed in a quirky Miu Miu coat with bejeweled shoulders along with a starchy white collar."
-    publishedDateTime: 2021-02-18T18:35:00Z
-    webUrl: "https://chicago.suntimes.com/entertainment-and-culture/2021/2/18/22289690/ella-emhoff-kamala-harris-stepdaughter-makes-runway-debut-in-a-coat-inauguration-day-fashion"
-    ampWebUrl: "https://chicago.suntimes.com/platform/amp/entertainment-and-culture/2021/2/18/22289690/ella-emhoff-kamala-harris-stepdaughter-makes-runway-debut-in-a-coat-inauguration-day-fashion"
-    cdnAmpWebUrl: "https://chicago-suntimes-com.cdn.ampproject.org/c/s/chicago.suntimes.com/platform/amp/entertainment-and-culture/2021/2/18/22289690/ella-emhoff-kamala-harris-stepdaughter-makes-runway-debut-in-a-coat-inauguration-day-fashion"
-    type: article
-    provider:
-      name: Chicago Sun-Times
-      domain: suntimes.com
-    quality: 58
-    images:
-      - url: "https://cdn.playbuzz.com/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "EFwNpIocDIXGQ26BPz2/mSlSq85KnSIFxF3Z6TkDDYEQnK6KP9XdybJk+OuyRobRj5tVN2Eq1CugPGT8kzNlSzYSbVsgUQZ7lwQcKDvD1yG7vyS93K7FqB5VC5jFUo2VgZ3TFk0UDAsvCSnSSMH5OZWfZMXqNqO45Iep7vxLb4VIfzb/ngyorCHM8nHe64PtVI+k41jzwaWjsGwIA97kLli2aLR8nloKnG0RI7c+di6ZaoVIVh6Ew6+1Ool3p1GamaT6k59otZ61Pnxyv/unK62A5GHYXy2Qvg6PyiNQFnquDQq8CIAJJ2dGiTq3xeiL2d67LXPxsbljUzKrFFMfiRxdVlvSHFLM3p1U6uy3oDXAgayfxqDZ6aCIUVb9+js721dFtInk2P/oqLkCt53r4sdS7P/7eO+3/jY6IESbd5FM9phTfqLZCcTbbTtT111xsSUO20W1jpHwqQy+RP7FMrNA15LV9bmcx000dzD+R8GWUiiTBYzg2xrYfs8ToC633m9s8ujLY2FidxKbvTeUeg==;lmxTmkP2KjJaDTH7N1oEuQ=="

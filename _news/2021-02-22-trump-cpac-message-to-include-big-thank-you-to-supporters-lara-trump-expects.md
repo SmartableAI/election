@@ -160,6 +160,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "White House 'certainly not' focused on anticipated Trump criticisms of immigration policy at CPAC"
+    excerpt: "The White House is \"certainly not\" worried about anticipated criticisms from former President Donald Trump at the Conservative Political Action Conference (CPAC) this weekend, according to press secretary Jen Psaki."
+    publishedDateTime: 2021-02-25T18:40:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-not-focused-trump-criticisms-immigration-policy-cpac"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-not-focused-trump-criticisms-immigration-policy-cpac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-not-focused-trump-criticisms-immigration-policy-cpac.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/psaki4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "CPAC kicks off as Republicans eyeing 2024 campaigns – including Trump – seize chance to woo conservatives"
     excerpt: "The Conservative Political Action Conference (CPAC) kicks off Thursday, featuring a slew of Republicans who are eyed as potential 2024 presidential contenders and who will seek to make their appeals to the base -- but none will command as much attention as former President Donald Trump."
     publishedDateTime: 2021-02-25T12:09:00Z

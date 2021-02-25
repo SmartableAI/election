@@ -32,19 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "GOP Rep. Lauren Boebert calls on Biden to lower flags in honor of Rush Limbaugh"
-    excerpt: "Rep. Lauren Boebert, R-Colo., called on President Biden on Friday night to order flags lowered to half-staff in honor the life of conservative radio legend Rush Limbaugh."
-    publishedDateTime: 2021-02-20T02:12:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUXL4ysyf_Y/boebert-flags-half-staff-limbaugh"
-    ampWebUrl: "https://www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp"
+  - title: "Trump hails Rush Limbaugh on 'Hannity': 'They all respected Rush'"
+    excerpt: "They all respected Rush' Former President Donald Trump joined \" Hannity \" on Wednesday night to remember conservative radio host Rush Limbaugh, who died at age 70 after a long battle with lung cancer ."
+    publishedDateTime: 2021-02-18T10:09:00Z
+    webUrl: "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush"
+    ampWebUrl: "https://www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-hails-rush-limbaugh-on-hannity-they-all-respected-rush.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 135
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63a7afd9-a51a-4f00-91e3-c8786f9cf099/9d76ec8a-b441-45c7-94ee-88ec24e0820e/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1189876914.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Donald Trump mourns passing of Rush Limbaugh: ‘He is a legend, he loved this country so much'"
+    excerpt: "Former President Donald Trump joined Fox News to remember conservative radio host Rush Limbaugh, who died at age 70 following a lung cancer battle."
+    publishedDateTime: 2021-02-17T18:37:00Z
+    webUrl: "https://www.foxnews.com/media/rush-limbaugh-death-donald-trump-legend-loved-america"
+    ampWebUrl: "https://www.foxnews.com/media/rush-limbaugh-death-donald-trump-legend-loved-america.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/rush-limbaugh-death-donald-trump-legend-loved-america.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f2a45f01-9afd-40d7-8f19-bedc3a947ff8/f1cf8d3e-0a81-431d-9d82-f768a578f49d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

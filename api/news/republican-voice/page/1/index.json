@@ -2,6 +2,166 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-biden-should-not-give-up-his-sole-nuclear-authority-gop-lawmakers-say.md",
+      "title": "Biden should not give up his sole nuclear authority, GOP lawmakers say",
+      "excerpt": "Three Republican members of the House Armed Services Committee on Wednesday issued a statement pushing back on Democrats' letter to President Biden urging him to give up his sole nuclear authority.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_ao_yWQyWO0/republicans-biden-nuclear-authority",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_ao_yWQyWO0/republicans-biden-nuclear-authority",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/military-aide-carries.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-nuclear-authority.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-nuclear-authority.amp",
+      "publishedDateTime": "2021-02-25T12:18:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-rick-scott-calls-for-bidens-immediate-attention-on-moving-2022-olympics-from-china.md",
+      "title": "Rick Scott calls for Biden's 'immediate attention' on moving 2022 Olympics from China",
+      "excerpt": "Republican Sen. Rick Scott is requesting a meeting with President Biden and calling for his \"immediate attention\" to moving the 2022 Winter Olympic Games out of Beijing, citing China’s human rights abuses.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tizv1ycAMqE/rick-scott-bidens-2022-olympics-china",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tizv1ycAMqE/rick-scott-bidens-2022-olympics-china",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-bidens-2022-olympics-china.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-bidens-2022-olympics-china.amp",
+      "publishedDateTime": "2021-02-25T12:08:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-donald-trump-jr-blasts-springsteens-dropped-dwi-charge-as-liberal-privilege.md",
+      "title": "Donald Trump Jr. blasts Springsteen’s dropped DWI charge as ‘liberal privilege’",
+      "excerpt": "Donald Trump Jr. tweeted Thursday that federal prosecutors only dismissed charges of DWI and reckless driving against rock icon Bruce Springsteen because of “liberal privilege,” Trump Jr., 43,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/02/25/donald-trump-jr-blasts-springsteens-dropped-dwi-charges/",
+      "originalUrl": "https://nypost.com/2021/02/25/donald-trump-jr-blasts-springsteens-dropped-dwi-charges/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/don-jr-springsteen.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/02/25/donald-trump-jr-blasts-springsteens-dropped-dwi-charges/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/25/donald-trump-jr-blasts-springsteens-dropped-dwi-charges/amp/",
+      "publishedDateTime": "2021-02-25T11:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-blackburn-warns-biden-admin-china-is-our-adversary-threatens-supply-chain.md",
       "title": "Blackburn warns Biden admin China is 'our adversary,' threatens supply chain",
       "excerpt": "EXCLUSIVE: Republican Sen. Marsha Blackburn is warning the Biden administration that China is \"our adversary,\" saying Beijing threatens our supply chain and urging the White House to \"step up their game.\"",
@@ -283,119 +443,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-25-hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating.md",
-      "title": "Hannity reacts to Dems' letter pressuring Biden to give up nuclear authority: 'Must be totally humiliating'",
-      "excerpt": "Fox News host Sean Hannity reacted Wednesday night to the reports suggesting House Democrats were urging President Biden to relinquish his nuclear authority.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating",
-      "originalUrl": "https://www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d0ca450-9410-4c83-9026-009225ad95fb/1d38c7d9-a3cc-4aaf-98e7-dbf68cf495c4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating.amp",
-      "publishedDateTime": "2021-02-24T20:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-louisiana-gop-rep-higgins-challenges-biden-to-live-without-oil-gas.md",
-      "title": "Louisiana GOP Rep. Higgins challenges Biden 'to live without oil & gas'",
-      "excerpt": "Louisiana Republican Rep. Clay Higgins floated an environmental challenge to President Biden Tuesday – introducing a House resolution calling on the commander-in-chief to live without any petroleum products.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U7Cz6YZ-hZg/louisiana-higgins-biden-live-without-oil",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/U7Cz6YZ-hZg/louisiana-higgins-biden-live-without-oil",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Higgins-Biden-GETTY-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/louisiana-higgins-biden-live-without-oil.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/louisiana-higgins-biden-live-without-oil.amp",
-      "publishedDateTime": "2021-02-24T17:00:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-25-west-virginia-gov-urges-republicans-to-swallow-unrelated-spending-in-biden-covid-19-relief-plan.md",
       "title": "West Virginia gov urges Republicans to 'swallow' unrelated spending in Biden COVID-19 relief plan",
       "excerpt": "Republican West Virginia Gov. Jim Justice urged Senate Republicans Wednesday to \"swallow\" the hefty price tag of President Biden’s $1.9 trillion COVID-19 relief plan, warning lawmakers that \"you will leave a lot of people hurting\" if they continue to oppose the legislation.",
@@ -632,7 +679,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 366,
+      "heat": 386,
       "tags": null,
       "images": [
         {
@@ -1594,62 +1641,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp",
       "publishedDateTime": "2021-02-22T12:01:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-garland-says-doj-would-advance-bidens-pro-gun-control-policies.md",
-      "title": "Garland says DOJ would ‘advance’ Biden’s pro-gun control policies",
-      "excerpt": "Merrick Garland, President Biden’s nominee for attorney general, signaled Monday that the Justice Department under his leadership would “advance” the policies of the Biden administration on gun control.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSSyOROK0w/garland-doj-would-advance-bidens-gun-control-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3GSSyOROK0w/garland-doj-would-advance-bidens-gun-control-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c25e528-ef62-414a-9729-19aefc9f27dd/26fcebe6-799e-46dd-a7b3-498d2337ea25/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/garland-doj-would-advance-bidens-gun-control-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-doj-would-advance-bidens-gun-control-policies.amp",
-      "publishedDateTime": "2021-02-22T09:59:53-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

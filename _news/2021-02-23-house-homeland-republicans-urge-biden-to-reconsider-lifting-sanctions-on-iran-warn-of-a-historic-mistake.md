@@ -31,35 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Biggs urges Biden to keep to timeline for US withdrawal from Afghanistan"
-    excerpt: "Rep. Andy Biggs, R-Ariz., on Monday urged President Biden to keep to the current timeline for withdrawal from Afghanistan, warning that any delay could lead to a \"slippery slope.\""
-    publishedDateTime: 2021-02-22T15:33:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oX-Ef91_nPs/biggs-biden-timeline-withdrawal-afghanistan"
-    ampWebUrl: "https://www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp"
+  - title: "Biden should not give up his sole nuclear authority, GOP lawmakers say"
+    excerpt: "Three Republican members of the House Armed Services Committee on Wednesday issued a statement pushing back on Democrats' letter to President Biden urging him to give up his sole nuclear authority."
+    publishedDateTime: 2021-02-25T20:18:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_ao_yWQyWO0/republicans-biden-nuclear-authority"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-nuclear-authority.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-nuclear-authority.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a7b903e-cc4e-4409-881b-9423960d9b52/94fa5bc2-c641-45fa-bead-1029cfadffec/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/military-aide-carries.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Louisiana GOP Rep. Higgins challenges Biden 'to live without oil & gas'"
+    excerpt: "Louisiana Republican Rep. Clay Higgins floated an environmental challenge to President Biden Tuesday – introducing a House resolution calling on the commander-in-chief to live without any petroleum products."
+    publishedDateTime: 2021-02-25T01:00:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U7Cz6YZ-hZg/louisiana-higgins-biden-live-without-oil"
+    ampWebUrl: "https://www.foxnews.com/politics/louisiana-higgins-biden-live-without-oil.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/louisiana-higgins-biden-live-without-oil.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Higgins-Biden-GETTY-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "GOP Rep. Lauren Boebert calls on Biden to lower flags in honor of Rush Limbaugh"
+    excerpt: "Rep. Lauren Boebert, R-Colo., called on President Biden on Friday night to order flags lowered to half-staff in honor the life of conservative radio legend Rush Limbaugh."
+    publishedDateTime: 2021-02-20T02:12:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUXL4ysyf_Y/boebert-flags-half-staff-limbaugh"
+    ampWebUrl: "https://www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63a7afd9-a51a-4f00-91e3-c8786f9cf099/9d76ec8a-b441-45c7-94ee-88ec24e0820e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Iranian dissidents urge Biden to keep up pressure on Tehran, say regime at ‘weakest point in history’"
-    excerpt: "Iranian dissidents are calling on the Biden administration to keep up the pressure on the country's leaders, arguing that the regime is at its \"weakest point in history\" -- even as the administration looks set to re-engage with Tehran."
-    publishedDateTime: 2021-02-23T23:35:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LKcy8-DW09Y/iranian-biden-pressure-on-tehran-weakest-point"
-    ampWebUrl: "https://www.foxnews.com/politics/iranian-biden-pressure-on-tehran-weakest-point.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iranian-biden-pressure-on-tehran-weakest-point.amp"
+  - title: "Hannity reacts to Dems' letter pressuring Biden to give up nuclear authority: 'Must be totally humiliating'"
+    excerpt: "Fox News host Sean Hannity reacted Wednesday night to the reports suggesting House Democrats were urging President Biden to relinquish his nuclear authority."
+    publishedDateTime: 2021-02-25T04:10:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 117
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5f8bdec3-c76d-497c-9b83-f41264d7457d/f94509fc-686f-4795-9528-498cf5c2dd43/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d0ca450-9410-4c83-9026-009225ad95fb/1d38c7d9-a3cc-4aaf-98e7-dbf68cf495c4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

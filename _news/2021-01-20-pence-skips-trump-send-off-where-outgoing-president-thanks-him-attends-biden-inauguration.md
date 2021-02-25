@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 4625
+heat: 4645
 published: true
 
 provider:
@@ -447,6 +447,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/071f1d37-4a3e-4737-9116-daa4093f0f0b/045aa0b1-e137-4f38-b83e-3887abc19c69/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden cancels Trump-era bans on some immigrant visas"
+    excerpt: "President Biden this week lifted a Trump administration ban on green cards during the pandemic that was blocking most legal immigration to the United States."
+    publishedDateTime: 2021-02-25T19:49:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aD8X6L6tbG4/biden-cancels-trump-era-bans-on-some-immigrant-visas"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cancels-trump-era-bans-on-some-immigrant-visas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancels-trump-era-bans-on-some-immigrant-visas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "

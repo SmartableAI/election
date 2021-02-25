@@ -1,0 +1,70 @@
+---
+category: news
+title: "Biden resets Saudi ties as US prepares to release intelligence report on Khashoggi's murder"
+excerpt: "President Joe Biden's reset of the US-Saudi Arabia relationship will take another step with the release of a long-awaited US intelligence report on the killing of Saudi insider turned dissident Jamal Khashoggi."
+publishedDateTime: 2021-02-25T20:14:00Z
+originalUrl: "https://www.cnn.com/2021/02/25/politics/biden-us-saudi-recalibrate-khashoggi/index.html"
+webUrl: "https://www.cnn.com/2021/02/25/politics/biden-us-saudi-recalibrate-khashoggi/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/biden-us-saudi-recalibrate-khashoggi/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/biden-us-saudi-recalibrate-khashoggi/index.html"
+type: article
+quality: 125
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223213522-01-joe-biden-0223-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Biden resets Saudi ties as US prepares to release intelligence report on Khashoggi's murder "
+    excerpt: "President Joe Biden's reset of the US-Saudi Arabia relationship will take another step with the release of a long-awaited US intelligence report on the killing of Saudi insider turned dissident Jamal Khashoggi.\n    \n"
+    publishedDateTime: 2021-02-25T20:14:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V1S8uLYA_i0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/biden-us-saudi-recalibrate-khashoggi/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/biden-us-saudi-recalibrate-khashoggi/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223213522-01-joe-biden-0223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Candidate Biden Called Saudi Arabia a ‘Pariah.’ He Now Has to Deal With It."
+    excerpt: "In a coming call with King Salman, the president plans to warn him that the United States will soon make public intelligence about the Saudi crown prince’s role in the killing of Jamal Khashoggi."
+    publishedDateTime: 2021-02-25T00:39:00Z
+    webUrl: "https://www.nytimes.com/2021/02/24/us/politics/biden-jamal-khashoggi-saudi-arabia.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/24/us/politics/biden-jamal-khashoggi-saudi-arabia.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/24/us/politics/biden-jamal-khashoggi-saudi-arabia.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/24/us/politics/24dc-prexy/24dc-prexy-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "LpldjqOkRN1YOVlIwQEdYMqB3l+021QWgQDKBamF/K7LqwJpnS+n+RUIzmBoW79EeqJQlOA1MjthHMr607CCYyAliEX611BFRZmt/25U0q/kiDpYLgvV1klTIpbAQzDFss50J82AWT+8VCFvgreT8w9abC+r+NNf7Zpp7NYIojeSellUF8Ay77toBaCuMVcU/lGjdy9owFd34BDoeog++GqNlxCLk8JDYqSID4/bBr6UP4IPWKBv/k8Tg2p1hAsXFOtFR/QybFi54IpPVSBcA8QX1YqaJLS/6Um5dKiDYxWyLGZMPMVale7A8lZcCSQRZgWfKoY5j4rJuRp3HROZmLpXQEYL2CRdLRKZIvZ1ssk=;dNK5n9AM6aCiLi5f22k+Gg=="
+---
+

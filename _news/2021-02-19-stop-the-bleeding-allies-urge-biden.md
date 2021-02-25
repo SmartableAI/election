@@ -78,6 +78,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden signs executive order targeting America's supply chains in critical areas"
+    excerpt: "Each of the four sectors identified by the order will undergo a 100-day review to assess vulnerabilities and areas for improvement."
+    publishedDateTime: 2021-02-25T20:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-sign-executive-order-targeting-america-s-supply-chains-critical-n1258684"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 111
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_08/3452468/210224-joe-biden-executive-order-jm-1714_757177ffbf5b58b9e5cb93f76b08c6f5.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Ey/Gem8FRnhtyKfffF/F5mWjR/e6dfMvZrKD7mgJdrwwk6IomaZKQCEhRnjpAXtO3mkoY3G1j84VOqCXxT9xMhx4rLhYQWQbMAN7VEBMMlw3yDdioeW1XYo9oda3ynyKU5iBxHAfVUOmn1MT+aOr/LLmOjNf4rhS3KdvczOzXzjWd9Rcw6sLYu+2xfdY5ZTs1qWpJg13uyLsRWiDUoPZ2mxk99I6txPSzGxJIqnVuLyav9H4qxm+H6IG1XWeqAxf65swFfxkqRiX2vHrKeuMDJ4s60Jutc2xVi+f4ogWhOKVP6cyEWMUyzxiYqdCGbhhPnMGmIhFTiR0DZX7holtPcEHSqchNJNVP39JI+GBWyw=;PokVb1XTySQ58e0S/jBOTg=="
 ---

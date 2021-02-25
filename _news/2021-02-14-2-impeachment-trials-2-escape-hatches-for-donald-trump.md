@@ -1017,6 +1017,20 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "The legal efforts to hold Trump and his allies accountable for post-election claims have just begun"
+    excerpt: "The Post’s Rosalind Helderman explains the lawsuits and investigations aimed at holding former president Donald Trump and his allies accountable for their attempts to subvert the election results."
+    publishedDateTime: 2021-02-25T19:32:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/the-legal-efforts-to-hold-trump-and-his-allies-accountable-for-post-election-claims-have-just-begun/2021/02/25/ca33fb70-c1d3-4c16-ae0f-bd7c4a5ffc05_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-25-2021/t_efa0bf1316ba49e385e6017f6b3f0fc9_name_cbc0a3bc_2a9c_11eb_9c21_3cc501d0981f_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Senate Reaches Deal to Skip Witnesses in Trump Impeachment Trial"
     excerpt: "WASHINGTON — House Democrats began wrapping up their impeachment case against Donald Trump on Saturday after a chaotic morning in which they gave up a last-minute plan for witness testimony that could have significantly prolonged the trial and delayed a vote on whether the former president incited the deadly Capitol insurrection."
     publishedDateTime: 2021-02-14T02:22:00Z

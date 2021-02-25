@@ -463,6 +463,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden cancels Trump-era bans on some immigrant visas"
+    excerpt: "President Biden this week lifted a Trump administration ban on green cards during the pandemic that was blocking most legal immigration to the United States."
+    publishedDateTime: 2021-02-25T19:49:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aD8X6L6tbG4/biden-cancels-trump-era-bans-on-some-immigrant-visas"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cancels-trump-era-bans-on-some-immigrant-visas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancels-trump-era-bans-on-some-immigrant-visas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House pressed on Biden's unity message amid Trump impeachment push"
     excerpt: "President Biden began his term in office with a message of unity, expressing a desire to move past the rancorous division in the United States and bring people together, while Congress remains set to carry out an impeachment trial for former President Donald Trump."
     publishedDateTime: 2021-01-21T13:59:20Z

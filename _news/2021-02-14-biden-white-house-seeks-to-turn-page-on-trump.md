@@ -447,6 +447,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden cancels Trump-era bans on some immigrant visas"
+    excerpt: "President Biden this week lifted a Trump administration ban on green cards during the pandemic that was blocking most legal immigration to the United States."
+    publishedDateTime: 2021-02-25T19:49:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aD8X6L6tbG4/biden-cancels-trump-era-bans-on-some-immigrant-visas"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cancels-trump-era-bans-on-some-immigrant-visas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancels-trump-era-bans-on-some-immigrant-visas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden fires Trump-appointed labor board attorney in break with precedent"
     excerpt: "President Biden in a break with precedent fired the general counsel of the National Labor Relations Board, a Senate-confirmed position, on his first day in the White House. "
     publishedDateTime: 2021-01-21T09:24:25Z

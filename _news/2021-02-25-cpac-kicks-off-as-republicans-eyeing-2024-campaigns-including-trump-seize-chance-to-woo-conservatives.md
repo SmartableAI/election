@@ -176,6 +176,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "White House 'certainly not' focused on anticipated Trump criticisms of immigration policy at CPAC"
+    excerpt: "The White House is \"certainly not\" worried about anticipated criticisms from former President Donald Trump at the Conservative Political Action Conference (CPAC) this weekend, according to press secretary Jen Psaki."
+    publishedDateTime: 2021-02-25T18:40:00Z
+    webUrl: "https://www.foxnews.com/politics/white-house-not-focused-trump-criticisms-immigration-policy-cpac"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-not-focused-trump-criticisms-immigration-policy-cpac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-not-focused-trump-criticisms-immigration-policy-cpac.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/psaki4.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Vwf5cHkYkUkmr656IUHsn8kY4tCB6dJYpXN5r0WkbggVdEzEaiAeOosCOqXMt2SgpyO8EYiGVXGn6GirdPK6LY8GXpMWIc3kkB4cK4KBM7H6K/XymNdgfTQ1xqqSw9ifXa+Bk73RnyGk2avSkdbJxAuhJ32Cy4nCgTJ8lYssLt4/SrVVbb1uJsNJ3zqR8DpCzyL+xNsptjoQDm0jLcrPUvUg8z4WI5K8y6paSNhF8UNNeWA6KhF2sOqFCPSYQecpUlwtzs/32q9b6NeRlSA+91vFZJMeQDzpfbgk3U5LJiX9YdPQJ/B600b2m1rLSSjh12+Be4NHc+Ma/ZwbIgCktgVfr9Ue5pVLN40BzdL1+tlWHXZDUC1TC7/KSy8k/psFh1ESAI30q8OT8H4nGrTa5ZtWrlQawMrgaDDlT8/Dr3qsLlfrsB8UVtIEMgPxwqykGS3Nw71Vmfq6gEKHtK9GpGomRlvGouLf5aiCGaWu2G1rl4/WNYueNaS2M2t00jYxEJK1CGtXriBNqC7Td1Qtsw==;X3qCvOlSc1juC53uKCfecA=="
 ---
