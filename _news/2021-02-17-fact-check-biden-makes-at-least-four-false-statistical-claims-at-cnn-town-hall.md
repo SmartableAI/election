@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden marks 50 million vaccine doses but cautions there's a 'long way to go'"
+    excerpt: "President Joe Biden on Thursday commemorated 50 million Covid-19 vaccine doses administered since he took office, using it as a measuring stick against his promise to put 100 million shots in people's arms in his first 100 days. But he also warned there's \"a long way to go\" before life will return to"
+    publishedDateTime: 2021-02-25T22:07:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-pDYmAKk6M0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/biden-vaccines-50-million/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/biden-vaccines-50-million/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223213522-01-joe-biden-0223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to travel to Houston on Friday in the wake of extreme weather and power outages"
     excerpt: "President Joe Biden and first lady Jill Biden will travel to Houston on Friday as the state works to recover from major winter storms and power outages.\n    \n"
     publishedDateTime: 2021-02-23T18:37:34Z

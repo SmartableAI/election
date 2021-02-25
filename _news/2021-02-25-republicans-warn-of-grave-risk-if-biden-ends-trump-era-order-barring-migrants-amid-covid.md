@@ -93,6 +93,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden bulldozes Trump's classical architecture mandate for federal buildings"
+    excerpt: "President Biden revoked former President Trump’s order that called for \"Promoting Beautiful Federal Civic Architecture.”"
+    publishedDateTime: 2021-02-25T21:18:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zLYluqDRCGo/biden-trumps-classical-architecture-mandate-federal-buildings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trumps-classical-architecture-mandate-federal-buildings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trumps-classical-architecture-mandate-federal-buildings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/San-Francisco-Federal-Building.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden tells European allies ‘America is back,’ seeks to turn page on Trump era"
     excerpt: "President Biden on Friday hailed the importance of the alliance between the U.S. and Europe, while also taking a number of thinly-veiled shots at his predecessor."
     publishedDateTime: 2021-02-19T22:08:10Z

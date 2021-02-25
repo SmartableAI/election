@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump Has to Turn Over Tax Returns to Manhattan DA"
+    excerpt: "Manhattan District Attorney Cyrus Vance Jr. has obtained copies of Donald Trump’s tax records after the Supreme Court this week rejected the former president’s last-ditch effort to prevent them from being handed over."
+    publishedDateTime: 2021-02-25T22:11:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-02-25/trump-has-to-turn-over-tax-returns-to-manhattan-da-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGwGzs7BCkU8/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "vDG4OJ5/6N/LVd7ssnLlxbimPX3I1vC31jqy5htNgzxaDxGo5xq5amjyi2mO/wDKPJlgvq9mW1KPNsKDsG/i+b36S15ifiFnt3m8Nf/VjEmnR6byAwhFsq9ideD3+8YRx8gX5wUPe+VaH38Ebilslwo/q+3sY4NEKy/3aeEG9qvVWwDMotKOzlE8CGHnCVJPhk3wLZJngviHPR69AIq1Q4C9O3r97R6nxDahlzTg96GzzJmySoQyiniRZwpAuP0gw4xYmJqUjp/9HamZ95ehQL92L+3BzRSdIzyWEx1bemACgmSqVkVOKwKwzyEWZ2VOcYfmloV4lFeakGsMLFucSojS3pNV9+3pplRvm5W27uVIzWZgzhmXC9/mIfMACGSvdrcmnpLJP5bPtKvLBDE08ZjaCdZwJkmJeGDPrDUTqzBdP/v+h/ASqcB7Og8tBgyTywOeIqpKPKDHTVb9UWx79rc1Nr9LExOAwvTZYFzzd5ryL7mVYSmV6EF4LXFlPwMik9eeFUU1O4pEedeEStGzEQ==;DztK9PVmjKvizAiwycWuAw=="
 ---

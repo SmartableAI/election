@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden bulldozes Trump's classical architecture mandate for federal buildings"
+    excerpt: "President Biden revoked former President Trump’s order that called for \"Promoting Beautiful Federal Civic Architecture.”"
+    publishedDateTime: 2021-02-25T21:18:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zLYluqDRCGo/biden-trumps-classical-architecture-mandate-federal-buildings"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-trumps-classical-architecture-mandate-federal-buildings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-trumps-classical-architecture-mandate-federal-buildings.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/San-Francisco-Federal-Building.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden to issue new immigration orders as part of push to roll back Trump-era policies"
     excerpt: "President Biden on Tuesday will sign three executive orders on illegal and legal immigration -- as part of an aggressive push in the early days of his presidency to roll back many of his predecessor’s policies."
     publishedDateTime: 2021-02-02T14:07:13Z

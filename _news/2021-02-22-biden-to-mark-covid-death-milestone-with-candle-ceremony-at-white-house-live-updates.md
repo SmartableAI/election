@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1287
+heat: 1307
 published: true
 
 provider:
@@ -543,6 +543,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800579&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G071"
         width: 777
         height: 545
+        isCached: true
+  - title: "With the economy healing, is Biden's $1.9T COVID-19 relief package too much?"
+    excerpt: "Critics say Biden's $1.9 trillion stimulus is excessive but supporters say it's just the right medicine for an unprecedented downturn"
+    publishedDateTime: 2021-02-25T20:58:00Z
+    webUrl: "https://www.usatoday.com/story/money/2021/02/25/covid-relief-bill-stimulus-check-critics-bidens-stimulus-goes-too-far/6804219002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6804219002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6804219002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 122
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/17/USAT/b39bd82d-ca3b-4bfd-90db-20fda1cb7891-VPC_BIDEN_TOWN_HALL_MILWAUKEE_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden's 1st 100 days live updates: WH offers no timeline for return to normalcy"
     excerpt: "Biden's trip to Kalamazoo, Michigan, has been rescheduled to Friday. The visit -- in addition to his Tuesday town hall in Milwaukee -- will give Biden an opportunity to make his case for COVID-19 relief to every day Americans since taking office."

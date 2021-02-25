@@ -125,6 +125,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "South Carolina Lawmaker: Trump Can Be Buried at Our Capitol"
+    excerpt: "A South Carolina Republican lawmaker says he is filing a bill that would allow former President Donald Trump to buried on the grounds of the state Capitol if Trump is banned from being buried at Arlington National Cemetery."
+    publishedDateTime: 2021-02-25T22:07:00Z
+    webUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2021-02-25/south-carolina-lawmaker-trump-can-be-buried-at-our-capitol"
+    ampWebUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2021-02-25/south-carolina-lawmaker-trump-can-be-buried-at-our-capitol?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/south-carolina/articles/2021-02-25/south-carolina-lawmaker-trump-can-be-buried-at-our-capitol?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "Gv4pc1Kw2zGulijiTWjDWU7h46LevDkI2yMbRZKjt2HTFLq0KQccERFfnr9cZux8qdoxvp/i01E77kkskuadlPmcqi/oB4QNGHMykks/ipERU6K32q9Hfy1NpR4qKZrcUc6QQog0bAy/1F19q/2995ghD8Lo6jTM9htmTnTr8F/AkOanZPQ+rB73Gr61OTL7Ofdk5+xDSdXjx4DbuBHfyfwl/t1/boBSin7mr7Jgmd15pNDjQA6ueQy3h/38quOE1QCDelPPKmvhZ2m8cG+Y6l7sH/cb98pD7FDdhW5gnQZ78C8vvFHrIyaQIP2CgdvIgjsEd9bT4OfKyhFQSFiCcr0W2wuxlf1fBbE+nq4l4zk=;NE/ut1WrOcUB7DPOPoOERA=="
 ---

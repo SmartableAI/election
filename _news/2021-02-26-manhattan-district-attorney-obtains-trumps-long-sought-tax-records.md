@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecu
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Trump Has to Turn Over Tax Returns to Manhattan DA"
+    excerpt: "Manhattan District Attorney Cyrus Vance Jr. has obtained copies of Donald Trump’s tax records after the Supreme Court this week rejected the former president’s last-ditch effort to prevent them from being handed over."
+    publishedDateTime: 2021-02-25T22:11:00Z
+    webUrl: "https://www.bloomberg.com/news/videos/2021-02-25/trump-has-to-turn-over-tax-returns-to-manhattan-da-video"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iGwGzs7BCkU8/v5/-1x-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Supreme Court rejects Trump effort to block Manhattan prosecutors from getting tax records"
     excerpt: "The Supreme Court ruled in July that the subpoena of the then-president's records was constitutional, but their release was held up by an appeal."
     publishedDateTime: 2021-02-22T21:16:00Z
