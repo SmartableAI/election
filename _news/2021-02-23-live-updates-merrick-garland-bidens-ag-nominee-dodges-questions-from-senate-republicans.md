@@ -79,6 +79,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Partisanship prevails as Biden pushes agenda with little GOP support"
+    excerpt: "For all of Biden’s longtime relationships with Republican lawmakers, he may find that Beltway gridlock is the one beast he cannot slay."
+    publishedDateTime: 2021-02-25T08:13:00Z
+    webUrl: "https://www.foxnews.com/media/partisanship-prevails-as-biden-pushes-agenda-with-little-gop-support"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230701766.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "xrJuO/lF83+nFSfB2IzmHCYlq+m9DbAcTECRA2j8GgehJK7RzyRvpQLcSlg1TJn0wXHguB+eyL5MqPSPXOCYn+zwxoR4j0OWaE+/SvdPiCbKxZXGNN59PhfXLRt/LNT0YoeaOEltbxy6Fimqgn1p2G0Y4lU+fMYq2+pF9GdB4/XtGQ9POA1W9oc6OTX+L5GeWQXL60+xy74j3aWpOmJNeUDjvXz1u9dDnHmPZa7cWdNpP509j+TgiQvNWO7Xu16ZE+ds1702PRuWE5vLm+auI0bGSOhhgQ/gDAPrMoK3CNVQ6tT2XgUbIEdez7IZGqMrmdJJTsRYFmDUcOwElNmcHcIO3ydvYtmzmu3XT3Y9Ovs=;OyESXZaIzpUMSV0lPCN98Q=="
 ---

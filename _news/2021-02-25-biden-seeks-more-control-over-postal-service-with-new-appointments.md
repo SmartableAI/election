@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Joe Biden returns to Wisconsin, testing a new President's promise to unify and govern"
-excerpt: "Caroline Quinlan didn't vote for Joe Biden, but she's praying for his success and hoping he can deliver on his pledge to unite a deeply divided country.\n    \n"
-publishedDateTime: 2021-02-16T12:00:51Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/axxeK57M5WU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/axxeK57M5WU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
+title: "Biden Seeks More Control Over Postal Service With New Appointments"
+excerpt: "The president nominated three people to the beleaguered agency’s board on a day when the postmaster general, Louis DeJoy, a major Republican donor, faced questioning on Capitol Hill."
+publishedDateTime: 2021-02-25T00:32:00Z
+originalUrl: "https://www.nytimes.com/2021/02/24/us/politics/joe-biden-usps.html"
+webUrl: "https://www.nytimes.com/2021/02/24/us/politics/joe-biden-usps.html"
+ampWebUrl: "https://www.nytimes.com/2021/02/24/us/politics/joe-biden-usps.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/24/us/politics/joe-biden-usps.amp.html"
 type: article
-quality: 168
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/121026104222-joe-biden-wisconsin-story-top.jpg"
-    width: 640
-    height: 360
+  - url: "https://static01.nyt.com/images/2021/02/24/us/politics/24dc-postal/24dc-postal-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -175,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden returns to Wisconsin, testing a new President's promise to unify and govern"
+    excerpt: "Caroline Quinlan didn't vote for Joe Biden, but she's praying for his success and hoping he can deliver on his pledge to unite a deeply divided country.\n    \n"
+    publishedDateTime: 2021-02-16T12:00:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/axxeK57M5WU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/121026104222-joe-biden-wisconsin-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Schumer says he is working with Biden 'to find the extra votes' to confirm Neera Tanden"
     excerpt: "Senate Majority Leader Chuck Schumer said Sunday he is working with President Joe Biden to gather the support needed to confirm Neera Tanden as director of the Office of Management and Budget.\n    \n"
     publishedDateTime: 2021-02-21T20:23:18Z
@@ -238,22 +255,6 @@ related:
       - url: "https://static.politico.com/5a/39/7966a98c45dfa8050f06d885294d/biden-773-getty-1.jpg"
         width: 1159
         height: 773
-        isCached: true
-  - title: "Biden Seeks More Control Over Postal Service With New Appointments"
-    excerpt: "The president nominated three people to the beleaguered agency’s board on a day when the postmaster general, Louis DeJoy, a major Republican donor, faced questioning on Capitol Hill."
-    publishedDateTime: 2021-02-25T00:32:00Z
-    webUrl: "https://www.nytimes.com/2021/02/24/us/politics/joe-biden-usps.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/24/us/politics/joe-biden-usps.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/24/us/politics/joe-biden-usps.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/24/us/politics/24dc-postal/24dc-postal-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Biden nominee Neera Tanden describes double standards she's faced as a woman of color"
     excerpt: "People's perceptions of leadership and who leaders are has not been, to this moment, an Asian American woman,\" Tanden told NBC Asian America."
@@ -328,6 +329,6 @@ related:
         height: 619
         isCached: true
 
-secured: "qcYAp50n+DTCRNsGiyma19uOSxj93WTo438nn+Y26e4M8xBujbiaNfiWCqjBjnAPUsQB5n7C+sYhqYMVqLY8h/D8ncnjbzXEC/QHijb/lBEuJ2pGQEbrjn0qb3dUhM/KffaSFbqJueVprBcpEM+w9L3UNvbbzy8eWbCzcnwEpu8ymDY0i9EqoXNnVbCX8S7nHAnOTFH+g37YtWgbh7hsppWVKzbrF2/t2rfWQ6o0dW/MQBQ+3Z6l7FquNX1HEJjpZ/DPAuT41xLn56Xq17rX2NS9q6MPRgICcwh4v5vcc5ln1rh1CpGTl2WdLK6Jel/yh2KyQhXIRfX6ZbmzvdgKppnEwIvo+NahOmV1HtWx1SQ=;JSc2yRDVb0+qWpvg4QAEgg=="
+secured: "2Y9xrL5+9Pc4VTVXjB80NhoSziV54FAWErCm72oSOC86GXE90OzmKgx0vcUBTf0+0Q35tBmOMuIQI64SCl7hPraFwnMhH8E1urkhvjih6ebUvhln+A3hH9cVf3o2ZaanB43q0AewVngXJwTFzpGhCtu+FPkzAfES5mgFrQp44bOBvLYGmosxVxwl+oFNGIIJgbgV416wGQvAUIhMLeh8zSRmGHmqE9M3Pe8PTtYP/wVtAaLxg1F4rC5shiJKAVVRtmFg2RR/XZua2k0jSzRyrKD4ILtxevlDnHlWi+4XE54u1A/L8689I5GqTo9pYQCyR8aXkrKXyka6iihJDOKdvRu4YTp+2gbuxd4wpMF8HQs=;o4LK9bsaWBdw9F1C/Cs55Q=="
 ---
 

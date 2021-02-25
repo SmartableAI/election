@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Conservatives call Biden pick for HHS Xavier Becerra an 'extremist,' oppose nomination"
-excerpt: "More than 100 conservatives voiced opposition to President Biden’s nominee for secretary of the Department of Health and Human Services Xavier Becerra, calling him an “extremist” who would carry a liberal agenda if confirmed."
-publishedDateTime: 2021-02-22T18:28:42Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S88TxDO8cI8/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S88TxDO8cI8/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination"
-ampWebUrl: "https://www.foxnews.com/politics/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination.amp"
+title: "Partisanship prevails as Biden pushes agenda with little GOP support"
+excerpt: "For all of Biden’s longtime relationships with Republican lawmakers, he may find that Beltway gridlock is the one beast he cannot slay."
+publishedDateTime: 2021-02-25T08:13:00Z
+originalUrl: "https://www.foxnews.com/media/partisanship-prevails-as-biden-pushes-agenda-with-little-gop-support"
+webUrl: "https://www.foxnews.com/media/partisanship-prevails-as-biden-pushes-agenda-with-little-gop-support"
 type: article
-quality: 167
+quality: 115
 heat: -1
 published: false
 
@@ -22,12 +20,13 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230701766.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -46,6 +45,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f57ab36-ea8b-456f-ab70-6835f363cab3/7f5905d3-cc41-4df7-99a6-9399aa75de21/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Conservatives call Biden pick for HHS Xavier Becerra an 'extremist,' oppose nomination"
+    excerpt: "More than 100 conservatives voiced opposition to President Biden’s nominee for secretary of the Department of Health and Human Services Xavier Becerra, calling him an “extremist” who would carry a liberal agenda if confirmed."
+    publishedDateTime: 2021-02-22T18:28:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/S88TxDO8cI8/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination"
+    ampWebUrl: "https://www.foxnews.com/politics/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/conservatives-call-biden-pick-for-hhs-xavier-becerra-an-extremist-oppose-nomination.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "LIVE UPDATES: Merrick Garland, Biden's AG nominee dodges questions from Senate Republicans"
     excerpt: "Garland dodged questions about the Durham investigation into the Trump-Russia probe origins, transgender athletes in high school sports, and whether crossing the border illegally should be a criminal offense. "
@@ -79,21 +94,7 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Partisanship prevails as Biden pushes agenda with little GOP support"
-    excerpt: "For all of Biden’s longtime relationships with Republican lawmakers, he may find that Beltway gridlock is the one beast he cannot slay."
-    publishedDateTime: 2021-02-25T08:13:00Z
-    webUrl: "https://www.foxnews.com/media/partisanship-prevails-as-biden-pushes-agenda-with-little-gop-support"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230701766.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "2CZasuEgjf1d/LTUvWw/Ok7F4JztppXd+aaP9SOpl5pghMYrx9B8FOmsyBnDrNwHiTafXjhW88OLXTt6V0RyyMKukXfVvRpv9sYJjS6/szB5YbnPjvS1U17hSb5yxrobiSk7EKv95ju+QfmeP2U/Ntwzcaidq0nh1hayXE481IGg/DBS4AcwoxDj2hlYXcYSrz+Wo59FTDqDw+fWlF1W760nAtfWBuejiclc38Pda6eu8r0cjr/yTHJwyRICCBGWYa99csGI3p2d1AupPhCIeMDYmk3DiQKF0/UrHBMdHoKX+/8qqttXwre0QY/n1VtOlP6MTJfMg8UsvcC6zY5GTeU9pPSF5lNWSIxvv2KZdf0=;/lRQI6MsEt5UeW215Hd8Lw=="
+secured: "3NTI0D4/w/P3ok5N0skXzHCeVgq7JqDutgAfWYWcxabXPfLSqjmYtLfjEU3+EyTXnBEsaY1lx/ebbGwQdM8EpOnESLY1D5fk2EJAbu+70aB486SHFFku/UP8rDzmCt6tVRe84uxl5kqTFmTNo8bmisNhDM2QB46QjuDZHHfdi5of8ptidmSFEj0qTahcqdHRm+m89ntYwtfSaUxx/1UhcoE3EKMw1Co8jQQ3k8QdJ0bmNjD+kZCC6W20t/TdKEKBoWnX0CAXZrX9fLbPgMT0BS9qPS4MvC4tSPM3C6bZ3oBsAy1w9t/l+d2taQNGl4XmH6jigcoXiKazI+q0/0WPFTAEydDUZ/jWM7vQAmKiJJ4=;ZdrqrRUXaxzGytPBTbiMLg=="
 ---
 

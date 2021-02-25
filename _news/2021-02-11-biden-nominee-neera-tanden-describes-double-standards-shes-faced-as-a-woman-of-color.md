@@ -256,6 +256,22 @@ related:
         width: 1159
         height: 773
         isCached: true
+  - title: "Biden Seeks More Control Over Postal Service With New Appointments"
+    excerpt: "The president nominated three people to the beleaguered agency’s board on a day when the postmaster general, Louis DeJoy, a major Republican donor, faced questioning on Capitol Hill."
+    publishedDateTime: 2021-02-25T00:32:00Z
+    webUrl: "https://www.nytimes.com/2021/02/24/us/politics/joe-biden-usps.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/24/us/politics/joe-biden-usps.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/24/us/politics/joe-biden-usps.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/24/us/politics/24dc-postal/24dc-postal-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Biden's foreign foray masks an ocean of doubt"
     excerpt: "In successive virtual addresses today to the G-7 summit and, Biden announced that “America was back” — presumably to a collective sigh of relief from the foreign dignitaries in attendance that they weren’t being hectored by Donald Trump."
     publishedDateTime: 2021-02-20T00:00:00Z

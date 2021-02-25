@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/fact-check-biden-first-m
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/fact-check-biden-first-month-2021/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200728170636-jim-jordan-barr-hearing-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Uptick in minors crossing border may result in Biden administration's building more shelters"
+    excerpt: "\"This is not okay, never has been okay, never will be okay — no matter the administration or party,\" Rep. Alexandria Ocasio-Cortez tweeted."
+    publishedDateTime: 2021-02-25T08:19:00Z
+    webUrl: "https://www.nbcnews.com/politics/immigration/uptick-minors-crossing-border-may-result-biden-administration-building-more-n1258746"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 104
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_08/3452409/210224-asylum-seekers-mexico-border-ew-1223p_ac6e4acbbe49eb52b585029006ff4169.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "0tCgL/Gj+twzUZOJ/K97WYq3PKz4zPmBBa0wXOC3C8yU1RnYl18CSWk6IfvnhKRFzk8JPR4b9MqdqduZk7Be86OFD++8KCf1NiVxNjWp1OGytrvAMsP8WKWy8dGRML7rjMHyLs+rhQMEr6+0qkWGYAYqHk1dS4E9qWgDS5TeCM5DdEWVvJrKZbHQp2jeQKqlQcFjd8cYVQO3p+QRjnEri9Nf37w9OzmSm2QQxcRHTpUy0QZXxQhaoA36HOkgB+eq82Y2oqwQs9d40hSUuX05sf9gRs2koqvzSbsnClulCGWYPtFmnvjcq94pjgw6GxDwWlw8hW0kpkMC5U5OCp04N438IJn1ajGkqxGpkeKP6no=;6DWhLM6LE9eKC6897J/aYg=="

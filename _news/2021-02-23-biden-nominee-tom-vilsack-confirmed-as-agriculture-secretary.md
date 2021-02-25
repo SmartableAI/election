@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Partisanship prevails as Biden pushes agenda with little GOP support"
+    excerpt: "For all of Biden’s longtime relationships with Republican lawmakers, he may find that Beltway gridlock is the one beast he cannot slay."
+    publishedDateTime: 2021-02-25T08:13:00Z
+    webUrl: "https://www.foxnews.com/media/partisanship-prevails-as-biden-pushes-agenda-with-little-gop-support"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 115
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/GettyImages-1230701766.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "qUF+05sc/FQkkQvuKaZD0J0xzALhUrHnXWv1WplzPHKqx4qSxUtwv3f8ymqAsZMi+WL+foNsbMXMXBMtyo/JbbgCJMCwR9kQUAd9b0SuEQeIk0jQa7qjPt0MAL9MxKu9QD5XfUtZpTU2Xxz5JI7iH4XDrjD3JYV99itAXpg4eD3RtDkyDt2w2mdLBik7wFjXg0vB74iautPLayuQsfvcheN3GXu7UAyVfEDHP4e8Bj2P45xndZoH8ZTSLUi1J3kcLYWwR49WJnY/Vgott136XVEBWxwxzf35Dgm2lGoU5uMhkXsb28s0vS2yO99YQ/ugZJod21C5C9cbCYaSzh8TaQmIRV/qfKq0bCvZgO9cIrI=;0wzwUZzNoQRb8VVF5DpU2Q=="
