@@ -2,6 +2,175 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-white-house-lifts-trump-order-that-temporarily-banned-certain-immigrant-visas-during-pandemic.md",
+      "title": "White House lifts Trump order that temporarily banned certain immigrant visas during pandemic",
+      "excerpt": "President Joe Biden on Wednesday revoked a Trump-era executive order that temporarily banned some immigrant visas during the coronavirus pandemic\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WOfcu_s3qGI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WOfcu_s3qGI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210114132612-file-02-joe-biden-november-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/24/politics/biden-immigration-coronavirus-pandemic/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/biden-immigration-coronavirus-pandemic/index.html",
+      "publishedDateTime": "2021-02-24T20:29:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-trump-aide-27-launches-gop-primary-bid-against-kinzinger-blasts-fake-republican-incumbent.md",
+      "title": "Trump aide, 27, launches GOP primary bid against Kinzinger, blasts 'Fake Republican' incumbent",
+      "excerpt": "Just weeks after voting in support of the second impeachment of former President Donald Trump, U.S. Rep. Adam Kinzinger, R-Ill., is already facing a pro-Trump GOP primary challenger.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/krycsEqgbSA/adam-kinzinger-catalina-lauf-gop-primary-challenge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/krycsEqgbSA/adam-kinzinger-catalina-lauf-gop-primary-challenge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20b30800-df63-48ce-9d88-bf71e25343ce/ee6bcfcf-a2bb-4aaa-88b8-3f9b9cda3e48/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/adam-kinzinger-catalina-lauf-gop-primary-challenge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-kinzinger-catalina-lauf-gop-primary-challenge.amp",
+      "publishedDateTime": "2021-02-24T20:16:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating.md",
+      "title": "Hannity reacts to Dems' letter pressuring Biden to give up nuclear authority: 'Must be totally humiliating'",
+      "excerpt": "Fox News host Sean Hannity reacted Wednesday night to the reports suggesting House Democrats were urging President Biden to relinquish his nuclear authority.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating",
+      "originalUrl": "https://www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d0ca450-9410-4c83-9026-009225ad95fb/1d38c7d9-a3cc-4aaf-98e7-dbf68cf495c4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating.amp",
+      "publishedDateTime": "2021-02-24T20:10:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-louisiana-gop-rep-higgins-challenges-biden-to-live-without-oil-gas.md",
       "title": "Louisiana GOP Rep. Higgins challenges Biden 'to live without oil & gas'",
       "excerpt": "Louisiana Republican Rep. Clay Higgins floated an environmental challenge to President Biden Tuesday – introducing a House resolution calling on the commander-in-chief to live without any petroleum products.",
@@ -1167,174 +1336,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-02-23T16:14:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-biden-and-trudeau-stress-us-canadian-bonds-in-virtual-meeting.md",
-      "title": "Biden and Trudeau stress US-Canadian bonds in virtual meeting",
-      "excerpt": "When President Joe Biden welcomes his Canadian counterpart to the White House on Tuesday to \"reinvigorate\" a cross-border relationship strained under his predecessor, he will do so by addressing a large television monitor.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kwM0LDvkiHE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kwM0LDvkiHE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210222204808-biden-trudeau-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/23/politics/biden-trudeau-white-house-visit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-trudeau-white-house-visit/index.html",
-      "publishedDateTime": "2021-02-23T16:00:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-alaska-was-openly-targeted-by-biden-executive-order-murkowski-claims-in-haaland-confirmation-hearing.md",
-      "title": "Alaska was openly ‘targeted’ by Biden executive order, Murkowski claims in Haaland confirmation hearing",
-      "excerpt": "Sen. Lisa Murkowski, R-Alaska, sounded the alarm about President Biden's oil restrictions, pressing his Interior secretary nominee, Rep. Deb Haaland, D-N.M., on an executive order she said targeted her state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dHheHxQaeOc/murkowski-deb-haaland-alaska",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dHheHxQaeOc/murkowski-deb-haaland-alaska",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94d3be80-80fd-4e32-88f8-f17582c5c87c/066e8bcf-d531-4803-95df-7e10d15e3db8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/murkowski-deb-haaland-alaska.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/murkowski-deb-haaland-alaska.amp",
-      "publishedDateTime": "2021-02-23T13:07:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-not-so-fast-wh-dodges-on-whether-biden-agrees-with-kerry-nine-year-deadline-to-avert-climate-catastrophe.md",
-      "title": "Not so fast: WH dodges on whether Biden agrees with Kerry nine-year deadline to avert climate catastrophe",
-      "excerpt": "White House Press Secretary Jen Psaki stopped short of saying President Biden is on board with the idea that there are less than ten years left to thwart the worst consequences of a global climate crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPLFWBexWwo/psaki-biden-kerry-climate-prediction",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPLFWBexWwo/psaki-biden-kerry-climate-prediction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-kerry-climate-prediction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-kerry-climate-prediction.amp",
-      "publishedDateTime": "2021-02-23T13:07:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -735,6 +735,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden Reopens Gateway For Green Cards, Work Visas Reversing Trump COVID-19 Freeze"
+    excerpt: "The change means the wait is over for hundreds of thousands of job-seeking foreigners and those pursuing permanent residency in the U.S., to apply for the coveted immigration documents."
+    publishedDateTime: 2021-02-25T03:12:00Z
+    webUrl: "https://www.npr.org/2021/02/24/971206197/biden-reopens-gateway-for-green-cards-work-visas-reversing-trump-covid-19-freeze"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 115
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/24/ap_20174715433953_wide-ac356c5ff4cc39376cf7630053d651c17ca06cd1.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Biden's 1st 100 days live updates: Biden using 1st trip as president to make case for COVID relief plan"
     excerpt: "Biden is visiting Wisconsin on Tuesday and Michigan on Thursday. Coronavirus and the economy This is Day 28 of the administration of President Joe Biden and Vice President Kamala Harris. Biden traveled to Milwaukee Tuesday evening and is participating in a televised CNN town hall where he's answering questions from Americans."
     publishedDateTime: 2021-02-17T02:44:00Z
@@ -865,6 +879,20 @@ related:
     quality: 105
     images:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/24/71b9f6bd-379e-4db7-a998-935ba9d9be78/thumbnail/1200x630/1e805f87a03f7600bffb66235fb54868/cbsn-fusion-president-biden-to-sign-executive-order-on-supply-chains-thumbnail-652931-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden's pick to lead White House budget office faces pushback from senators"
+    excerpt: "President Joe Biden is facing pushback from fellow Democrats over his pick to lead the Office of Management and Budget, Neera Tanden. CBS News senior White House and political correspondent Ed O'Keefe and Los Angeles Times congressional reporter Jennifer Haberkorn join CBSN's Lana Zak to discuss."
+    publishedDateTime: 2021-02-25T03:28:00Z
+    webUrl: "https://www.cbsnews.com/video/bidens-pick-to-lead-white-house-budget-office-faces-pushback-from-senators/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/25/27687318-4dbb-4841-9a97-1f913e32a788/thumbnail/1200x630/6bce67ae0cc910baeb396533e209ea31/cbsn-fusion-bidens-pick-to-lead-white-house-budget-office-faces-pushback-from-senators-thumbnail-653339-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

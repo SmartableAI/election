@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-asks-high-court-to-drop-2-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp"
 type: article
 quality: 190
-heat: 870
+heat: 890
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 183
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6423eb4b-2774-420f-84fe-d9dfac3316b6/5db3f176-689a-4bd2-99ce-1b4d762459d8/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Lara Trump tells 'Hannity' Biden presidency's early blunders are 'only the beginning’"
+    excerpt: "President Biden’s first month in the White House has already shown him to be a \"detriment\" to the nation, and \"it's only the beginning,\" former Trump campaign senior adviser Lara Trump told Fox News' \"Hannity\" Wednesday."
+    publishedDateTime: 2021-02-25T04:33:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HoCbODTIuug/lara-trump-points-out-biden-presidency-blunders-its-only-the-beginning"
+    ampWebUrl: "https://www.foxnews.com/politics/lara-trump-points-out-biden-presidency-blunders-its-only-the-beginning.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lara-trump-points-out-biden-presidency-blunders-its-only-the-beginning.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92b277e7-68ec-4d25-857d-c4a7c4826d43/050cf197-9f03-4b1d-b36d-b15d29e73ee0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
