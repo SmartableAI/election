@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-25-jill-biden-says-health-inequities-have-lasted-far-too-long.md",
-      "title": "Jill Biden says health inequities have lasted 'far too long'",
-      "excerpt": "First lady Jill Biden says health disparities have hurt communities of color for “far too long.” RICHMOND, Va. -- During a visit to a cancer center Wednesday, first lady Jill Biden said health disparities have hurt communities of color “for far too long” and “it’s about time” the country got serious about ending those inequities.",
+      "path": "_news/2021-02-25-biden-nominates-three-to-usps-board-of-governors-as-dejoy-testifies-on-mail-crises.md",
+      "title": "Biden nominates three to USPS board of governors as DeJoy testifies on mail crises",
+      "excerpt": "The White House moves to reassert control of the U.S. Postal Service as the postmaster general brushes off lawmakers’ calls to resign.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283",
+      "webUrl": "https://www.washingtonpost.com/business/2021/02/24/dejoy-hearing-usps-live-updates/",
+      "originalUrl": "https://www.washingtonpost.com/business/2021/02/24/dejoy-hearing-usps-live-updates/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Health/WireAP_fa3e833230504889a04f657ef822f2e8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BUWJEQDW2YI6XFEJR562ZVI6OU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283",
-      "publishedDateTime": "2021-02-24T14:21:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T15:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-biden-says-he-will-push-for-funding-for-semiconductor-legislation.md",
+      "title": "Biden says he will push for funding for semiconductor legislation",
+      "excerpt": "U.S. President Joe Biden said on Wednesday he will push for funding for semiconductor legislation following a meeting with bipartisan group of lawmakers about supply chain issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-biden-semiconductors-idUSW1N2KA060",
+      "originalUrl": "https://www.reuters.com/article/usa-biden-semiconductors-idUSW1N2KA060",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552798506&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N1LM",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSW1N2KA060",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KA060",
+      "publishedDateTime": "2021-02-24T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -119,7 +171,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -333,7 +385,7 @@
       "originalUrl": "https://www.cbsnews.com/news/asylum-seekers-united-states-biden/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 138,
       "tags": null,
       "images": [
         {
@@ -1533,63 +1585,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-loujain-al-hathloul-saudi-activists-family-thanks-biden-after-release-from-jail.md",
-      "title": "Loujain al-Hathloul: Saudi activist's family thanks Biden after release from jail",
-      "excerpt": "The women's rights activist's incarceration had led to growing international pressure and further scrutiny of Saudi Arabia's human rights record.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/loujain-al-hathloul-saudi-activist-s-family-thanks-biden-after-n1257446",
-      "originalUrl": "https://www.nbcnews.com/news/world/loujain-al-hathloul-saudi-activist-s-family-thanks-biden-after-n1257446",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2021_06/3449354/210211-loujain-al-hathlou-al-0853_5469535b6fde1d6348486b15c860fe9b.jpg",
-          "width": 1024,
-          "height": 609,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257446",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257446",
-      "publishedDateTime": "2021-02-11T07:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

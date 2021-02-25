@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Key GOP senator critical of Tanden's past tweets in latest setback for Biden's pick for budget director"
+    excerpt: "Sen. Lisa Murkowski expressed concerns on Wednesday about the social media history of President Joe Biden's nominee to be budget director, the latest warning sign for the White House since the Alaska Republican could seal Neera Tanden's fate.\n    \n"
+    publishedDateTime: 2021-02-25T00:03:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qF7X2rhloWs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/lisa-murkowski-neera-tanden-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/lisa-murkowski-neera-tanden-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213164215-04-gop-vote-murkowski-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats and Biden prepare to unveil bill that would provide a pathway to citizenship for undocumented immigrants"
     excerpt: "The Biden administration, in concert with Hill Democrats, is preparing to unveil legislation this week that seeks to provide a pathway to citizenship to the 11 million undocumented immigrants living in the United States.\n    \n"
     publishedDateTime: 2021-02-16T22:40:14Z

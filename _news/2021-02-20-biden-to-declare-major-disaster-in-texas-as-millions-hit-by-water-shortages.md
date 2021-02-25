@@ -184,6 +184,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Vilsack sworn in as Biden's agriculture secretary"
+    excerpt: "One day after the Senate confirmed Tom Vilsack as agriculture secretary, the former Iowa governor has been sworn in to head the department for a second time. (Feb. 25)"
+    publishedDateTime: 2021-02-25T00:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/25/vilsack-sworn-bidens-agriculture-secretary/6808430002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/714388f5-00dc-4da6-b44d-e09279b269af_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
     excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
     publishedDateTime: 2021-02-19T00:55:00Z

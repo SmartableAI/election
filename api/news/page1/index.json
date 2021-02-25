@@ -2,21 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-25-jill-biden-says-health-inequities-have-lasted-far-too-long.md",
-      "title": "Jill Biden says health inequities have lasted 'far too long'",
-      "excerpt": "First lady Jill Biden says health disparities have hurt communities of color for “far too long.” RICHMOND, Va. -- During a visit to a cancer center Wednesday, first lady Jill Biden said health disparities have hurt communities of color “for far too long” and “it’s about time” the country got serious about ending those inequities.",
+      "path": "_news/2021-02-25-west-virginia-gov-urges-republicans-to-swallow-unrelated-spending-in-biden-covid-19-relief-plan.md",
+      "title": "West Virginia gov urges Republicans to 'swallow' unrelated spending in Biden COVID-19 relief plan",
+      "excerpt": "Republican West Virginia Gov. Jim Justice urged Senate Republicans Wednesday to \"swallow\" the hefty price tag of President Biden’s $1.9 trillion COVID-19 relief plan, warning lawmakers that \"you will leave a lot of people hurting\" if they continue to oppose the legislation.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283",
-      "originalUrl": "https://abcnews.go.com/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pwi-NZwrq-I/jim-justice-covid-relief-biden-spending",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pwi-NZwrq-I/jim-justice-covid-relief-biden-spending",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Health/WireAP_fa3e833230504889a04f657ef822f2e8_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8e533880-ef12-43c0-ab93-12e0ea966ea8/2853468e-c823-4f3d-855d-ddd40cdfbdf3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,120 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283",
-      "publishedDateTime": "2021-02-24T14:21:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/jim-justice-covid-relief-biden-spending.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-justice-covid-relief-biden-spending.amp",
+      "publishedDateTime": "2021-02-24T16:41:08-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-biden-nominates-three-to-usps-board-of-governors-as-dejoy-testifies-on-mail-crises.md",
+      "title": "Biden nominates three to USPS board of governors as DeJoy testifies on mail crises",
+      "excerpt": "The White House moves to reassert control of the U.S. Postal Service as the postmaster general brushes off lawmakers’ calls to resign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/2021/02/24/dejoy-hearing-usps-live-updates/",
+      "originalUrl": "https://www.washingtonpost.com/business/2021/02/24/dejoy-hearing-usps-live-updates/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BUWJEQDW2YI6XFEJR562ZVI6OU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-24T15:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-biden-says-he-will-push-for-funding-for-semiconductor-legislation.md",
+      "title": "Biden says he will push for funding for semiconductor legislation",
+      "excerpt": "U.S. President Joe Biden said on Wednesday he will push for funding for semiconductor legislation following a meeting with bipartisan group of lawmakers about supply chain issues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-biden-semiconductors-idUSW1N2KA060",
+      "originalUrl": "https://www.reuters.com/article/usa-biden-semiconductors-idUSW1N2KA060",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552798506&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N1LM",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSW1N2KA060",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KA060",
+      "publishedDateTime": "2021-02-24T13:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -862,58 +970,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-24-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count.md",
-      "title": "Pence announces Biden as winner after Congress finishes electoral vote count",
-      "excerpt": "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count/",
-      "originalUrl": "https://www.cbsnews.com/video/pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/96903ded-b1a9-4d84-a15f-ea2e517a2a36/thumbnail/1200x630/c99acd2afef2a814aa9ae8a306570843/cbsn-fusion-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count-thumbnail-621736-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T18:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
       "path": "_news/2021-02-24-aoc-tears-into-biden-admin-for-reopening-child-migrant-facility-this-is-not-okay.md",
       "title": "AOC tears into Biden admin for reopening child migrant facility: 'This is not okay'",
       "excerpt": "Rep. Alexandria Ocasio-Cortez, D-N.Y., had some strong words for President Biden's administration after news surfaced that it was reopening a child migrant detention facility in Texas.",
@@ -1094,7 +1150,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1303,62 +1359,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-biden-says-administration-will-probably-mail-out-millions-of-masks-soon.md",
-      "title": "Biden says administration will 'probably' mail out millions of masks soon",
-      "excerpt": "President Joe Biden said Tuesday the White House will \"probably\" move to send face masks directly to Americans as the country continues to grapple with the coronavirus pandemic. It's a plan originally proposed by health officials during the Trump administration but was blocked by the former President.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONiUqXYU7rQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONiUqXYU7rQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 214,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210221115959-anthony-fauci-mask-210121-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html",
-      "publishedDateTime": "2021-02-23T12:39:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

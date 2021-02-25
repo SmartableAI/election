@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. admits first group of asylum-seekers as Biden rolls back Remain-in-Mexico policy"
-    excerpt: "As part of its efforts to wind down a Trump-era policy that kept tens of thousands of asylum-seekers outside U.S. territory, the Biden administration on Friday admitted the first group of migrants who had been previously required to wait in Mexico for their immigration court hearings."
-    publishedDateTime: 2021-02-20T12:33:00Z
-    webUrl: "https://www.cbsnews.com/news/asylum-seekers-united-states-biden/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/asylum-seekers-united-states-biden/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/asylum-seekers-united-states-biden/"
+  - title: "Biden says he will push for funding for semiconductor legislation"
+    excerpt: "U.S. President Joe Biden said on Wednesday he will push for funding for semiconductor legislation following a meeting with bipartisan group of lawmakers about supply chain issues."
+    publishedDateTime: 2021-02-24T21:09:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-semiconductors-idUSW1N2KA060"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KA060"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KA060"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552798506&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N1LM"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Jill Biden says health inequities have lasted 'far too long'"
+    excerpt: "First lady Jill Biden says health disparities have hurt communities of color for “far too long.” RICHMOND, Va. -- During a visit to a cancer center Wednesday, first lady Jill Biden said health disparities have hurt communities of color “for far too long” and “it’s about time” the country got serious about ending those inequities."
+    publishedDateTime: 2021-02-24T22:21:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/jill-biden-health-inequities-lasted-long-76095283"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_fa3e833230504889a04f657ef822f2e8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
+    excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
+    publishedDateTime: 2021-02-24T02:38:00Z
+    webUrl: "https://www.cbsnews.com/video/pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 118
+    quality: 117
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/20/f3b8e40d-79c5-4918-a1bc-d715b17f6a23/thumbnail/1200x630/a99162a5d1bf159722d6b96ac72a25c9/gettyimages-1231266086.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/96903ded-b1a9-4d84-a15f-ea2e517a2a36/thumbnail/1200x630/c99acd2afef2a814aa9ae8a306570843/cbsn-fusion-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count-thumbnail-621736-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The U.S. Starts to Allow Asylum-Seekers Stuck in Mexico to Enter, Unravelling Trump's 'Remain in Mexico' Policy"
-    excerpt: "People seeking asylum in the United States are being allowed into the country as they wait for courts to decide on their cases."
-    publishedDateTime: 2021-02-19T17:49:00Z
-    webUrl: "https://time.com/5941079/asylum-seeks-mexico-enter-us/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 85
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/02/asylum-seeks-mexico-enter-us.jpg"
-        width: 2400
-        height: 1600
         isCached: true
 
 secured: "Eu4ZR10oIIuUF/+hSPCUPCZtxWnCPC5clj5SCX4pVn8q25RiLCYKLpHuTHUGflbtBUpCblfjKy3h7zRYZK/rbT9Wkz3zQw9yW/oG5Mf3noK0fjVCI0efD47fEkxyf10EpOFwrehA6qK0SxUguZtIKFgjndOfzaxE608sUVoq57bu0+ioSNhYqlSB4sRHe7PcHXj4w32qMGXglizE3T5QgKNjaL1vSADUHnndRptV6RvXPDtgpAkr3rDAzku5zuUR1PW7UfkNDLduEXAROLDrvFRY6QEjDARpUHNtqELb8cbMU5AZ6YLD9NRT80JrZ4Fgt006qnIdeUDJg8CL2L8dm2MCj5krgZOewORComeG1C+3XXNK1wf/HxuID66pPCfL8NQgbqOdHJV2JUTbdZ8wzD+I7quG3L0+JIVJShCVXMArlAVjoxKdakCCweeTlXaIe08klesW1Syo6OaAIg87zeHyJxTTUKowkXecIjvgi3A8GFR0vadTrdNNJeoXaGHr+PpgMa8WeGiwn+uOOYm1MA==;QyzkdhOg3yUcJAxNsm9qTg=="

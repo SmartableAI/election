@@ -175,6 +175,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Key GOP senator critical of Tanden's past tweets in latest setback for Biden's pick for budget director"
+    excerpt: "Sen. Lisa Murkowski expressed concerns on Wednesday about the social media history of President Joe Biden's nominee to be budget director, the latest warning sign for the White House since the Alaska Republican could seal Neera Tanden's fate.\n    \n"
+    publishedDateTime: 2021-02-25T00:03:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qF7X2rhloWs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/lisa-murkowski-neera-tanden-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/lisa-murkowski-neera-tanden-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213164215-04-gop-vote-murkowski-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "President Biden declares major disaster for much of Texas following severe winter storm"
     excerpt: "The move unlocks federal money for the state after a dayslong freeze resulted in deaths, power outages and boil water orders."
     publishedDateTime: 2021-02-21T01:21:00Z

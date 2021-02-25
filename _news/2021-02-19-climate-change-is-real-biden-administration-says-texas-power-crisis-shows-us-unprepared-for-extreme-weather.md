@@ -200,6 +200,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Vilsack sworn in as Biden's agriculture secretary"
+    excerpt: "One day after the Senate confirmed Tom Vilsack as agriculture secretary, the former Iowa governor has been sworn in to head the department for a second time. (Feb. 25)"
+    publishedDateTime: 2021-02-25T00:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/25/vilsack-sworn-bidens-agriculture-secretary/6808430002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/714388f5-00dc-4da6-b44d-e09279b269af_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "b2MVVreiwYcFx64DAedSRqNfpGCTOQDBQDvg2+XujSGwMupW0Zu/YPKWsV+JdPhB5AnYGGEGTH0i32PKQkPeOo8iMSbxet2OBCO1Qck9IqfvXnTPH3x+YcuvGiGEYz3FtYTCDwt/kjn2fPQvYc0hLYSgs6aw9sVN/0f7F4Q/CiwXKGDmJp9MlCcKGsemHzIyJrwPJej18kL6PJ5wPrMvQjzZI3MQdQD2kBvDq2bxx3I7BVnFFiUraWSSYVTC+RiHhAoc3Sg7IaFojG+qIBFlgseaOzqiW+l6f9vFiVSziboIaHMuxDRcMWwz5DcXrwQVph/B4C65eJJRtcoTPS6BoRXSnuzPEU/B/PxcK6yzXdyLRmkL0zC9Oha3ywfCWRDZPRXuBt/fp5bEtrXubWKsJX/gzlUPp5sS81UuyN+eYy7+RJ3G1pfecGQNAE3V/rGFOk3cJgtls1m3kGVFB4wbyf9FKqRcOEPG5LPVlmlIG4ySB2CPG2RR01R8koMbIsWoBD5WYaNJY/v0kEaTj2J+DQ==;SByfLXUDz3i74IKqw0cvJA=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Miscalculating Sinema and Manchin could end up costing Biden"
+    excerpt: "The message emblazoned on the bright pink sweater Sen. Kyrsten Sinema wore presiding over the Senate this week may not have been intended specifically for the White House, but the words could still offer fair warning to the West Wing.\n    \n"
+    publishedDateTime: 2021-02-25T00:00:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k6qfAq8H2R4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/kyrsten-sinema-joe-manchin-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/kyrsten-sinema-joe-manchin-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224170054-sinema-manchin-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden to mark upcoming 500,000 US Covid-19 deaths with candle lighting ceremony"
     excerpt: "With the US approaching 500,000 Covid-19 deaths, plans are underway for President Joe Biden to mark the moment this week.\n    \n"
     publishedDateTime: 2021-02-22T09:59:06Z
