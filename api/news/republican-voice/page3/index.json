@@ -1623,23 +1623,23 @@
       ]
     },
     {
-      "path": "_news/2021-02-10-del-plaskett-says-jan-6-rally-didnt-have-permit-to-march-to-the-capitol-until-trump-stepped-in.md",
-      "title": "Del. Plaskett says Jan. 6 rally didn't have permit to march to the Capitol until Trump stepped in",
-      "excerpt": "Del. Stacey Plaskett, D-Virgin Islands, claimed Wednesday that the “Save America” rally did not have a permit to march to the Capitol on Jan. 6 until President Trump stepped in. ",
+      "path": "_news/2021-02-11-video-of-capitol-riot-shown-at-trump-impeachment-trial-literally-took-my-breath-away-meghan-mccain.md",
+      "title": "Video of Capitol riot shown at Trump impeachment trial 'literally took my breath away': Meghan McCain",
+      "excerpt": "Conservative \"The View\" co-host Meghan McCain said Wednesday that video of last month's Capitol riot that was played at former President Donald Trump's impeachment trial \"literally took my breath away\".",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3cLU5t4xw2Y/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3cLU5t4xw2Y/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in",
+      "webUrl": "https://www.foxnews.com/media/capitol-riot-video-at-impeachment-trial-breath-away-meghan-mccain",
+      "originalUrl": "https://www.foxnews.com/media/capitol-riot-video-at-impeachment-trial-breath-away-meghan-mccain",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 182,
+      "heat": 120,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Stacey-Plaskett-Impeachment-Manager-AP.jpg",
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aa02fe3d-aae5-4b87-a3d8-ca13398bc8e9/d019a293-6513-47a8-a113-06b4ea181d46/1280x720/match/image.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -1649,9 +1649,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in.amp",
-      "publishedDateTime": "2021-02-10T13:54:59-08:00",
+      "ampWebUrl": "https://www.foxnews.com/media/capitol-riot-video-at-impeachment-trial-breath-away-meghan-mccain.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/capitol-riot-video-at-impeachment-trial-breath-away-meghan-mccain.amp",
+      "publishedDateTime": "2021-02-10T14:10:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1675,6 +1675,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     }

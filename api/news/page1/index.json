@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-25-mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac.md",
+      "title": "McCarthy, Cheney have uncomfortable exchange with reporters over Trump speaking at CPAC",
+      "excerpt": "House Minority Leader Kevin McCarthy and Rep. Liz Cheney, the third-ranking House GOP member, had a tense exchange with reporters Wednesday over whether former President Trump should speak at CPAC as planned this weekend.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ErsAnkXqMP8/mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ErsAnkXqMP8/mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055611217771.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac.amp",
+      "publishedDateTime": "2021-02-24T22:50:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-white-house-lifts-trump-order-that-temporarily-banned-certain-immigrant-visas-during-pandemic.md",
       "title": "White House lifts Trump order that temporarily banned certain immigrant visas during pandemic",
       "excerpt": "President Joe Biden on Wednesday revoked a Trump-era executive order that temporarily banned some immigrant visas during the coronavirus pandemic\n    \n",
@@ -615,7 +671,7 @@
       "originalUrl": "https://www.washingtonpost.com/video/politics/mccarthy-and-cheney-at-odds-over-trumps-future-role-in-the-party/2021/02/24/319b5c94-85a0-4bae-84b2-c7115d589fa6_video.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1038,7 +1094,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -1280,62 +1336,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-us-canada-fight-climate-change.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-canada-fight-climate-change.amp",
       "publishedDateTime": "2021-02-23T16:31:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-biden-transition-received-donations-from-george-soros-hollywood-celebrities.md",
-      "title": "Biden transition received donations from George Soros, Hollywood celebrities",
-      "excerpt": "President Biden’s transition team raised more than $20 million, including contributions from renowned business moguls and staples in the Hollywood celebrity circuit.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/je7Ge0ePhFI/biden-transition-donors",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/je7Ge0ePhFI/biden-transition-donors",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T16:14:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

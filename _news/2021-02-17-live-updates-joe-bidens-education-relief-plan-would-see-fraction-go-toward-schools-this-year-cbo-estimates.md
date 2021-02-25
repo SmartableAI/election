@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Joe Biden State Department creates new diversity officer position"
+    excerpt: "The new officer will ‘hold senior leadership accountable' for implementing new diversity and inclusion programs and report directly to Blinken, he said."
+    publishedDateTime: 2021-02-25T05:26:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mBxxkNUl-aY/joe-biden-live-updates-2-25-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-25-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-25-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebea8ee7-80f2-4b7d-bdc3-3b565d011e12/a913a342-4f0d-4fdf-ad1d-f16c89704987/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dozens of House Democrats want Biden to give up sole authority to launch nuclear weapons"
     excerpt: "About three dozen House Democrats have signed a letter asking President Biden to renounce his sole authority to launch nuclear weapons, according to reports."
     publishedDateTime: 2021-02-24T15:29:31Z

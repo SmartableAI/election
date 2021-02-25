@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Late Night Laughs Off Mike Pence’s Renewed Loyalty to Trump"
+    excerpt: "I don’t know where the line is between forgiving and being a doormat, but Mike Pence crossed it a long time ago,” Trevor Noah said."
+    publishedDateTime: 2021-02-25T06:43:00Z
+    webUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/25/arts/25latenight/25latenight-facebookJumbo.png"
+        width: 851
+        height: 445
+        isCached: true
   - title: "Trump Tower’s Neighbors Are Relieved as Barricades Come Down"
     excerpt: "Donald J. Trump’s presidency meant snarled traffic, blocked sidewalks and frequent protests outside his Manhattan home."
     publishedDateTime: 2021-02-16T10:00:00Z

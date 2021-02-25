@@ -2,25 +2,21 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-02-17-trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.md",
-      "title": "Trump impeachment manager says she's filled with 'glee' at prospect of questioning McCarthy about Capitol riot",
-      "excerpt": "Del. Stacey Plaskett said she is filled with \"glee\" at the prospect of questioning House Minority Leader Kevin McCarthy regarding a phone call between him and former President Donald Trump during the Capitol riot in January.",
+      "path": "_news/2021-02-18-biden-wants-to-put-a-black-woman-on-the-supreme-court-putting-spotlight-on-lack-of-diversity-in-lower-courts.md",
+      "title": "Biden wants to put a Black woman on the Supreme Court, putting spotlight on lack of diversity in lower courts",
+      "excerpt": "Biden has vowed to pick a Black woman for the Supreme Court. Advocates say he must also address the lack of diversity in the nation's lower courts.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vuq7MKJnsmw/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vuq7MKJnsmw/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot",
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/17/supreme-court-advocates-ask-joe-biden-name-black-women-judges/6722856002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/17/supreme-court-advocates-ask-joe-biden-name-black-women-judges/6722856002/",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
+      "highlight": null,
+      "heat": 126,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://www.gannett-cdn.com/presto/2021/02/14/USAT/ad9e4b80-2796-4181-af30-22c3b824d87c-XXX_SCOTUS-hdb3382.JPG?auto=webp&crop=2866,1613,x0,y34&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp",
-      "publishedDateTime": "2021-02-17T11:57:58-08:00",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6722856002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6722856002",
+      "publishedDateTime": "2021-02-17T12:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
+        "name": "USA Today",
+        "domain": "usatoday.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -54,7 +50,7 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
+        "Joe Biden"
       ]
     },
     {

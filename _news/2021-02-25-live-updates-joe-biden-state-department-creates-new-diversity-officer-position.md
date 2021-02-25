@@ -1,16 +1,16 @@
 ---
 category: news
-title: "LIVE UPDATES: Joe Biden has yet to declare Uighur abuses genocide"
-excerpt: "Biden, who vowed to be tough on China while on the campaign trail, has been careful not to classify the human rights abuses against the Uighurs since entering office."
-publishedDateTime: 2021-02-24T06:13:21Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoyIs4V3eBk/joe-biden-live-updates-2-24-2021"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoyIs4V3eBk/joe-biden-live-updates-2-24-2021"
-ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-24-2021.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-24-2021.amp"
+title: "LIVE UPDATES: Joe Biden State Department creates new diversity officer position"
+excerpt: "The new officer will ‘hold senior leadership accountable' for implementing new diversity and inclusion programs and report directly to Blinken, he said."
+publishedDateTime: 2021-02-25T05:26:39Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mBxxkNUl-aY/joe-biden-live-updates-2-25-2021"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mBxxkNUl-aY/joe-biden-live-updates-2-25-2021"
+ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-25-2021.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-25-2021.amp"
 type: article
-quality: 175
-heat: 255
-published: true
+quality: 171
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,25 +25,25 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed2437fa-70d3-41a2-8d07-4137f509e27b/5acdfa3d-92b5-4388-ad1b-51ef27135a52/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebea8ee7-80f2-4b7d-bdc3-3b565d011e12/a913a342-4f0d-4fdf-ad1d-f16c89704987/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
 
 related:
-  - title: "LIVE UPDATES: Joe Biden State Department creates new diversity officer position"
-    excerpt: "The new officer will ‘hold senior leadership accountable' for implementing new diversity and inclusion programs and report directly to Blinken, he said."
-    publishedDateTime: 2021-02-25T05:26:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mBxxkNUl-aY/joe-biden-live-updates-2-25-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-25-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-25-2021.amp"
+  - title: "LIVE UPDATES: Joe Biden has yet to declare Uighur abuses genocide"
+    excerpt: "Biden, who vowed to be tough on China while on the campaign trail, has been careful not to classify the human rights abuses against the Uighurs since entering office."
+    publishedDateTime: 2021-02-24T06:13:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoyIs4V3eBk/joe-biden-live-updates-2-24-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-24-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-24-2021.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ebea8ee7-80f2-4b7d-bdc3-3b565d011e12/a913a342-4f0d-4fdf-ad1d-f16c89704987/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed2437fa-70d3-41a2-8d07-4137f509e27b/5acdfa3d-92b5-4388-ad1b-51ef27135a52/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -96,6 +96,6 @@ related:
         height: 720
         isCached: true
 
-secured: "PohG4rM1LNYGxk2WhvfFlygtAxrNtLtfe3eUkI+6rOjEzLSaK2RxAlg7X412q2nwLbcetDW93BFNtNV8uxCXbV2yupn0X74J7q7Blccq4yRplZ4InuSxTRhJdhWHXHzuaeoqxrkZ40YGk82mWt8pe+EApf7gWlbc6Sd+3qMcyPwglpIs8ABRo2UeDmKQOD5lV84HBljK1zR4CdN8NobPuQsBy0tnk1dpIm3LAHFwIUtDc/qgdDHtCVWCU+f296R+ctKNtVfm/0ERstmzehDFCOOawiNL+lM7vL5fQfgs9rZuryFCzUb6reoumn9o3h7khlDOPXrfrNS/43PuH6hL/49fYMdzv25qOh/+Q8WPuI0=;ccVz0PvFJbUAon5hFkRPKQ=="
+secured: "m5JAhgPn9MlAxorI4Y54vjUaxsdPP5Wvp89Oe2XRrRx1xKUhskoXskpVv47xCszIptI6lGtQDfL9PAcPZdWAGIdggKbOj/AyyVxKbvb4rgtokd45ZRFi9hFFihyTmksLuiQC7GUc5JgeGUxqoN9Lk/IfzSRQdELk95LdjUL0G9yHbCRRZjFWWnjgvAMF60xq7q5mfgJVHI8jyC/XUwDJ2Ox75pWLJfJl5EdY9xacQU7u6PvVBmuRfMtaS5AJAN+IkSzqEChdSvWH9DfXXMRZ70IUcd3I4swYbQ4nNZYZcACbNdHyjtPC9sqO4vJQjjOS+4Q6FCedNnJYuv0lOYZzUh0YlT97/WNR7DlOLH147ak=;sxasF8rhK7ZxnTbJ0zmX+A=="
 ---
 

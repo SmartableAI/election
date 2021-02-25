@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-05-angel-dad-slams-joe-bidens-immigration-orders-insanity-on-steroids.md",
+      "title": "Angel dad slams Joe Biden's immigration orders: 'Insanity on steroids'",
+      "excerpt": "A California father, whose son was killed in a car accident with an illegal immigrant slammed President Joe Biden’s move to halt deportations of undocumented migrants on Friday, calling the administration's actions “insanity on steroids.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqjtEWa62Sg/biden-immigration-insanity-steroids-california-angel-dad",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqjtEWa62Sg/biden-immigration-insanity-steroids-california-angel-dad",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c4487de-9432-4b11-85ec-6465e3cf5347/6b3ff08b-0f57-40d9-b1d2-1ae5bc8eab17/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp",
+      "publishedDateTime": "2021-02-05T10:53:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-biden-administrations-cbp-revives-catch-and-release-policy-at-border-amid-covid-concerns.md",
       "title": "Biden administration’s CBP revives ‘catch and release’ policy at border amid COVID concerns",
       "excerpt": "A perfect storm of events has the Biden administration’s Customs and Border Protection on its heels in parts of Texas.",
@@ -1602,62 +1658,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-trump.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kinzinger-pac-take-back-gop-from-trump.amp",
       "publishedDateTime": "2021-02-01T08:48:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-democratic-party-tweet-accused-of-contradicting-bidens-original-promise-for-third-2000-stimulus-check.md",
-      "title": "Democratic Party tweet accused of contradicting Biden's original promise for third, $2000 stimulus check",
-      "excerpt": "Biden promised a separate, $2,000 stimulus check would 'go out the door immediately' if Georgia voters cast their ballots for newly-elected Democratic Sens. Jon Ossoff and Raphael Warnock during the state runoff elections earlier this month.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-Q-1Y5Xh88/democratic-party-twitter-account-faces-backlash-for-saying-600-was-down-payment-on-2000-stimulus-checks",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5-Q-1Y5Xh88/democratic-party-twitter-account-faces-backlash-for-saying-600-was-down-payment-on-2000-stimulus-checks",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bf5bd722-821b-4c34-9c86-b346316d5a2e/9948cd85-6696-4601-bb71-505ea8ec7441/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/democratic-party-twitter-account-faces-backlash-for-saying-600-was-down-payment-on-2000-stimulus-checks.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democratic-party-twitter-account-faces-backlash-for-saying-600-was-down-payment-on-2000-stimulus-checks.amp",
-      "publishedDateTime": "2021-01-31T18:54:51-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

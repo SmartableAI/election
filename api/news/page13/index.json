@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-06-what-of-individual-1-feds-trump-campaign-case-is-dead.md",
+      "title": "What of ‘Individual-1’? Feds’ Trump campaign case is ‘dead’",
+      "excerpt": "Prosecutors have shown no signs of reopening the campaign finance investigation that sent Donald Trump’s former attorney Michael Cohen to prison even now that Trump has left the White House",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/what-of-individual-1-feds-trump-campaign-case-is-dead/2021/02/05/678965ec-67ea-11eb-bab8-707f8769d785_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/what-of-individual-1-feds-trump-campaign-case-is-dead/2021/02/05/678965ec-67ea-11eb-bab8-707f8769d785_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/what-of-individual-1-feds-trump-campaign-case-is-dead/2021/02/05/678965ec-67ea-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/what-of-individual-1-feds-trump-campaign-case-is-dead/2021/02/05/678965ec-67ea-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-05T11:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-06-fact-check-letter-thanking-president-trump-was-not-written-by-rush-limbaugh.md",
       "title": "Fact check: Letter thanking President Trump was not written by Rush Limbaugh",
       "excerpt": "Social media users have been sharing a letter online attributed to conservative radio personality Rush Limbaugh that thanks former President Donald J. Trump for the past four years.",
@@ -1310,58 +1362,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-04-biden-at-prayer-breakfast-calls-out-political-extremism.md",
-      "title": "Biden, at prayer breakfast, calls out ‘political extremism’",
-      "excerpt": "President Joe Biden has called for a confrontation of the “political extremism” that inspired the U.S. Capitol riot in remarks at the National Prayer Breakfast",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/prayer-breakfast-gives-biden-fresh-chance-to-call-for-unity/2021/02/04/b2ac0596-66a7-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-04T02:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump Tower’s Neighbors Are Relieved as Barricades Come Down"
-excerpt: "Donald J. Trump’s presidency meant snarled traffic, blocked sidewalks and frequent protests outside his Manhattan home."
-publishedDateTime: 2021-02-16T10:00:00Z
-originalUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.html"
-webUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.html"
-ampWebUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
+title: "Late Night Laughs Off Mike Pence’s Renewed Loyalty to Trump"
+excerpt: "I don’t know where the line is between forgiving and being a doormat, but Mike Pence crossed it a long time ago,” Trevor Noah said."
+publishedDateTime: 2021-02-25T06:43:00Z
+originalUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.html"
+webUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.html"
+ampWebUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
 type: article
-quality: 135
+quality: 160
 heat: -1
 published: false
 
@@ -22,13 +22,14 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
+  - Mike Pence
   - Democratic Voice
+  - Donald Trump
 
 images:
-  - url: "https://static01.nyt.com/images/2021/02/15/nyregion/00nytrump-tower1/00nytrump-tower1-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://static01.nyt.com/images/2021/02/25/arts/25latenight/25latenight-facebookJumbo.png"
+    width: 851
+    height: 445
     isCached: true
 
 related:
@@ -112,22 +113,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Late Night Laughs Off Mike Pence’s Renewed Loyalty to Trump"
-    excerpt: "I don’t know where the line is between forgiving and being a doormat, but Mike Pence crossed it a long time ago,” Trevor Noah said."
-    publishedDateTime: 2021-02-25T06:43:00Z
-    webUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 160
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/25/arts/25latenight/25latenight-facebookJumbo.png"
-        width: 851
-        height: 445
-        isCached: true
   - title: "Trump admin a cautionary tale of nepotism for future generations"
     excerpt: "Rachel Maddow highlights Donald Trump's tendency to hire people he knows or is related to for White House jobs, and the conflict that creates, particularly in the case of Ivanka Trump and Jared Kushner who continue in senior White House roles despite being unable to to earn a full security clearance."
     publishedDateTime: 2021-02-15T09:32:00Z
@@ -143,6 +128,22 @@ related:
       - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201802/n_maddow_a2nepotism_180226_1920x1080.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Trump Tower’s Neighbors Are Relieved as Barricades Come Down"
+    excerpt: "Donald J. Trump’s presidency meant snarled traffic, blocked sidewalks and frequent protests outside his Manhattan home."
+    publishedDateTime: 2021-02-16T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/15/nyregion/00nytrump-tower1/00nytrump-tower1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Cruz and Cuomo Face Scandal. Trump Can’t Save Them."
     excerpt: "Without Donald Trump dominating the political conversation, politicians’ audacious behavior isn’t so quickly subsumed."
@@ -225,6 +226,6 @@ related:
         height: 550
         isCached: true
 
-secured: "xlDZefYjiv9L3ifcSc//1OdZYzXvS//qnDUhR/OscRlzOCBwRZRgMpBu1LwgGNbD46zA01AxVRWQIbubmMEIPMjXNpE64/hDi0LxKFRqhO1ZY9CBrEHNWwC3FxLT2uOQnVc/5A1s5WEcXUcuN8zEvkg4XiPqq1A2SeHyq1n1/ybCi649YS4LKchYiWIG5Vabd6Sc/g3Smy7ZfdeH9+IqqWrMLntVB82CmOC2meFD8hPzy3ZZDSSkDRTBj/D4dFFdLr+0mqAP9RNzSfxdJxBkh0BBGc2U+DNPooQM90zNLFWIo1LHz8ywhLbsLewtfyNwY64GEHK5JJYzgT4ob5Qaq6fr6oRC9rrstsGFB07yD3c=;KqDSEFgjmhiuJG4RFS/6WA=="
+secured: "B7FUNeon8rQ/wn+MD3C9fjrvjJ8vUJ7sc4gbYo36U21vmi+LgFEV0dE1znmxQtYDAFQmHJdQTXVyX49wj7BvDRtYGZNvotWox1K1dI7LwWXmIXDVk7EnBf+KCvqqewurJBnePAEqVDhqWWazynkOLK55C0jyuwTh0NPsXS/giBf/vg/c2bpZdrcfh1aqvMxDZwh3FS5BfX+bxF/MgFVRxDmGKY87VgnsYbYBNImLKttLzEbry0i0xtP9RFV4tjLqy/EJ5ierb9GqTyp3yOvmStMlWkK2pteP+yNnKllxsZHhrTNIskHc/8p4pwQ90I2ZSXYXRTg7JFrerVHPhhiXgogi6NRhUJGASPtShyXbAZo=;W8TNgy+c6VkwA6GM/oMhvw=="
 ---
 
