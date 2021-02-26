@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Calls to impeach Trump gain momentum, Republicans ask Biden to intervene"
-excerpt: "Congressional calls for the impeachment of President Trump are gaining traction on both sides of the aisle, as lawmakers announced Saturday that impeachment would be introduced in the House Monday."
-publishedDateTime: 2021-01-10T02:28:02Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIg8l3_7HZY/calls-impeach-trump-momentum-biden-intervene"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIg8l3_7HZY/calls-impeach-trump-momentum-biden-intervene"
-ampWebUrl: "https://www.foxnews.com/politics/calls-impeach-trump-momentum-biden-intervene.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/calls-impeach-trump-momentum-biden-intervene.amp"
+title: "LIVE UPDATES: Joe Biden revokes Trump order that called for review of funding for 'anarchist' cities"
+excerpt: "New York City, Portland and Seattle are cities that were designated by the Department of Justice as anarchist."
+publishedDateTime: 2021-02-26T05:01:19Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/03VBom32D4Q/joe-biden-live-updates-2-26-2021"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/03VBom32D4Q/joe-biden-live-updates-2-26-2021"
+ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-26-2021.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-26-2021.amp"
 type: article
-quality: 189
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7703f1c-319b-4a2c-a02c-e47f026d164a/62286249-5c96-4c92-828a-d41b31614674/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53558228-b7c5-4a9c-a5f9-e05737e5f1b2/186c7c05-b9ef-4f86-bac6-8ec955d603f7/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -76,6 +76,22 @@ related:
     quality: 190
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5a2ad743-1535-4a2f-a170-004d8af27903/8a68237d-7266-4ba0-a12b-ade26928c40a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Calls to impeach Trump gain momentum, Republicans ask Biden to intervene"
+    excerpt: "Congressional calls for the impeachment of President Trump are gaining traction on both sides of the aisle, as lawmakers announced Saturday that impeachment would be introduced in the House Monday."
+    publishedDateTime: 2021-01-10T02:28:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIg8l3_7HZY/calls-impeach-trump-momentum-biden-intervene"
+    ampWebUrl: "https://www.foxnews.com/politics/calls-impeach-trump-momentum-biden-intervene.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/calls-impeach-trump-momentum-biden-intervene.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7703f1c-319b-4a2c-a02c-e47f026d164a/62286249-5c96-4c92-828a-d41b31614674/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -334,22 +350,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21053849361061.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "LIVE UPDATES: Joe Biden revokes Trump order that called for review of funding for 'anarchist' cities"
-    excerpt: "New York City, Portland and Seattle are cities that were designated by the Department of Justice as anarchist."
-    publishedDateTime: 2021-02-26T05:01:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/03VBom32D4Q/joe-biden-live-updates-2-26-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-26-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-26-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53558228-b7c5-4a9c-a5f9-e05737e5f1b2/186c7c05-b9ef-4f86-bac6-8ec955d603f7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "State Dept briefing gets heated as reporter asks if Biden admin taking credit for Trump accomplishments"
     excerpt: "An Associated Press reported took State Department spokesman Ned Price to task Monday for suggesting that President Joe Biden was responsible for a policy that had started under the Trump administration."
@@ -702,6 +702,6 @@ related:
         height: 340
         isCached: true
 
-secured: "M5GbGOuQXfnPRtI8wmPzgxRXciM2G8Z8HySyq2wXE3mKRKjBlTpyRujFUbJsVhf9WJEbuKITDgguc2YATR09fRtFZPs5osVn3q8IKM6pDGXvGynAzd1cfPmVyDSykWgGl75l0LCO+oCZNNwpfG5B8xyI5tbSWCDjL5AVkHrWe6JSOxxib0zvJ8Uu9SRDWcy8doQuuLa4h+VhEHmy9gZNuaS+9SZ6CHjw0Ina1VmyK6vS1mQYB21jLm+m/Ok6tiWI7uDrMRmaBaLGkIO5pVoveA+hzsJIfMep7BqqjumWqe2WrNplunki8poaCaVErWvPo7P21y21L3cF4aelvGy76gKWRM5kNSlPlLfJTxYIVVk=;YQVusRBNhEL6OWJ6b6rbUQ=="
+secured: "z70eIeOxQh2Q1yyN3MZH02VF4zamXiXS+ido6Ycou37s7BhgeN1OPB9UgOhwduAgNmzV+A2of8QzFOeuQAR20HGBOwDeMvCnzFeyJgzVvvXAWCHbSuBDRDFleO1S4neevhpvb6qq4388S9C65giRmxSjKeoyma6OrRWJRH/acsLUvtX6mSlSMajcOkOWoEP1yvloNrGyyUjnw8Fp1C3F60AFXmpHbnhFgRlEF/rPtxVwZKDLQjEpJEhncNCx5HW4ht9wUXLHUQKpSFGCsTJEYHI12jvUHAuqkbCBXZ4AgCSm3XXpn4P+NaL7lRRm+DvV472KA2WRd8PFsibf5ui/4zr4ZgM+JCf2cvYjmwAnaaY=;7rj9vz6C5S88dr2K8m/T3g=="
 ---
 

@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump's tax returns given to Manhattan prosecutors"
+    excerpt: "Former President Donald Trump has turned over his tax returns to Manhattan prosecutors after the Supreme Court ruling on Monday."
+    publishedDateTime: 2021-02-25T21:05:00Z
+    webUrl: "https://abcnews.go.com/US/trumps-tax-returns-manhattan-prosecutors/story?id=76110229"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trumps-tax-returns-manhattan-prosecutors/story?id=76110229"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trumps-tax-returns-manhattan-prosecutors/story?id=76110229"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/trump6-gty-ml-210106_1609954173598_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Manhattan district attorney receives Trump's tax returns"
     excerpt: "The Manhattan District Attorney's Office has taken possession of former president Donald Trump's tax returns and financial data deemed central to prosecutors' ongoing criminal case, officials said Feb."
     publishedDateTime: 2021-02-26T00:18:00Z

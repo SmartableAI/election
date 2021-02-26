@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to revise small business PPP loans to reach smaller, minority firms"
-excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."
-publishedDateTime: 2021-02-22T18:32:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-smallbusiness-idINKBN2AM0ZR"
-webUrl: "https://www.reuters.com/article/usa-biden-smallbusiness-idINKBN2AM0ZR"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AM0ZR"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AM0ZR"
+title: "Biden to exercise empathy skills in Texas visit after storms"
+excerpt: "President Joe Biden will have a chance to exercise his empathy skills during a visit to Texas on Friday with a dual mission"
+publishedDateTime: 2021-02-26T05:42:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
-quality: 124
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210222&t=2&i=1552462077&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1L175"
-    width: 817
-    height: 545
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -79,21 +79,21 @@ related:
         width: 813
         height: 545
         isCached: true
-  - title: "Biden to exercise empathy skills in Texas visit after storms"
-    excerpt: "President Joe Biden will have a chance to exercise his empathy skills during a visit to Texas on Friday with a dual mission"
-    publishedDateTime: 2021-02-26T05:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+  - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
+    excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."
+    publishedDateTime: 2021-02-22T18:32:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-smallbusiness-idINKBN2AM0ZR"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AM0ZR"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AM0ZR"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210222&t=2&i=1552462077&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1L175"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden to declare major disaster in Texas as millions hit by water shortages"
     excerpt: "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages"
@@ -231,6 +231,6 @@ related:
         height: 675
         isCached: true
 
-secured: "H3swzN7DQLlEf+JiJmeMuMXeo1I/8Y3cWUziqKV7JL4xCepm/tivwHsmp8LjN7G0TB9BtMh9IACmAcX54Pq/uELviPGQoDWr5paQcE+TD7HsD4Y8I/TGlEu4GHG7l4tGBrcLzZaD8E1cZ1aqvHtLMYu+dIvLr/1Iv5G9Y8uejqMZQbeYu012SkTmQ3OcwobauDca3HgKgESpJ6mdkboi3cjdvc0nN6t379WtUiqoWbPrUDz86toopDm3t4cLAJT/iMd2VkQzRDl7BGxL3BESry9tjNF638G2BP2U9iqRX3VYF/nJubITCFLpccSJZ3qaCANl+kSXO4fPBbC+x0QL69zmzSAMcimskqI4sihbHIM=;vOj6yLhl0Sjk6iHU/WQexg=="
+secured: "+oAjbs/4SHUBlJ9E393WryTs0X55WA9vAtB/U74wlOKQqYqnPBjkpCnZwr+kIONomThInfTwIZgmUcHctZiTW00kDu8kqQKfstJSEfD57CFb4GGmIuH9WkjRVD+9VgMbGLQMKp6/bJJY8Dotop5tK11kZUA3kRNG5XPHWdgWcrdk8yZJ9xIU8ZBIzxQIdhqledwXz9/GZCgrMFxkW76z50E4KloZTFVHLdsmhBSQLmM9OMQHudEu81gWVKr0EYK093eYJBQm2hX7OMw9IBBz6geh+6jF5681jsoq/4sU807ftFTN4+MTwr7LZ6kXY+EHIAz/Ov6he4KkYaDEQn+TlI8Qlea2fyVkwoyZLjKJ9PA=;WZrrwVqSrGmcmzrEEXBwlA=="
 ---
 

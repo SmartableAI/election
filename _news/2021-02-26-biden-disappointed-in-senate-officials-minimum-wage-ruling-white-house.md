@@ -2,9 +2,9 @@
 category: news
 title: "Biden disappointed in Senate official's minimum wage ruling: White House"
 excerpt: "U.S. President Joe Biden is disappointed in the ruling by the Senate parliamentarian that the chamber cannot include his proposed $15-an-hour minimum wage in a $1.9 trillion coronavirus bill, White House spokeswoman Jen Psaki said on Thursday."
-publishedDateTime: 2021-02-26T02:09:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-wage-biden/biden-disappointed-in-senate-officials-minimum-wage-ruling-white-house-idUSKBN2AQ06C?edition-redirect=in"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-wage-biden/biden-disappointed-in-senate-officials-minimum-wage-ruling-white-house-idUSKBN2AQ06C?edition-redirect=in"
+publishedDateTime: 2021-02-26T06:56:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-wage-biden/biden-disappointed-in-senate-officials-minimum-wage-ruling-white-house-idUSKBN2AQ06C?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-wage-biden/biden-disappointed-in-senate-officials-minimum-wage-ruling-white-house-idUSKBN2AQ06C?edition-redirect=uk"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AQ06C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ06C"
 type: article
@@ -1007,6 +1007,6 @@ related:
         height: 630
         isCached: true
 
-secured: "QBIv7u48zUj26VBUlaZalnDwZKVNp13uCSjtSLRUm8e1ligTItgU0JW+/BzX9Bm75sp47h8a8irrVnmaCLb6CgjZL89NGI8j9Lx9MGyHkV7fiF55f2NCV1CKJsqoS0BHVBrgOgQrHwlx/eUDjrfpb1r8MFNkGbAtKNaDhjoqxP4zWmqZ/GLezjYE6opLPk3WuVaUGegJxjxH/ec1T0hyElSwzB9NTH8hScQUOH1V/bmANDtn1/Y1O7xHzBdMR+POv9yyVM05FHlSsDjPSeON0iy8/7qaIbgzPBKdGBZAY/l8zoWp9wlzKGTkVybmiRbnUrmJnEuxlKOBAsQcUiDCg16GZnJNK+jVR4GBzbJG5q0=;PN2NEDVb4nKmd6VWHI2YbA=="
+secured: "Odmu/SYZHA3Jl4//iqvDV+v5EbVrdlj0iEs3/VqzfYNpcLp+YMFMOeaEeO/Bwb5o21miHu64yGlZ8C5g9nVSeD0QNhjNDJUplL0HHZp+9KG61Kih/N2HWVOTMIOJR58TXJGIsI3BNthdFd1+SSusznPss3AOQtfo9d+HgHzLEH5/N01jR0IcrGJ8M9L/6bMYukevVWA7vPhqbRlASPGfVCwGUIe+iFB4FKjnAqqpI6EaBaPntp6p699sYU8Jwu0FfNoG4SZHOSIYKz5zFLp1I8Tg/vSUJc/7k+DnGQSDerAatSok5f9GfBxZG5+cRFby22F5k47VnRoJOpMsFrauKG1AJOCYqddr1ZG3E7l/Fls=;2bRfXgvD6OwPfNdBWPcl9g=="
 ---
 

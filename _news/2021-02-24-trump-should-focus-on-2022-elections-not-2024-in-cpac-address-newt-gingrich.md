@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-speech-2022-elections-20
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-speech-2022-elections-2024-election-newt-gingrich.amp"
 type: article
 quality: 186
-heat: 406
+heat: 426
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "LIVE UPDATES: CPAC 2021 speakers on Friday will include Trump Jr., Ted Cruz"
+    excerpt: "The annual Conservative Political Action Conference  (CPAC) is slated to run through Sunday and a number of high-profile conservatives will take the stage to share conservative ideas with the crowd. "
+    publishedDateTime: 2021-02-26T05:01:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fm6ofa0wkyo/cpac-2021-speakers-live-updates-2-26-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/cpac-2021-speakers-live-updates-2-26-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-2021-speakers-live-updates-2-26-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e846752-618c-47d3-8809-39b9925c638c/0f3747c2-0a3e-445d-8777-ba7c40126a5e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump to speak at CPAC conference in first public appearance post-White House"
     excerpt: "Former President Trump will make his first major public appearance at the Conservative Political Action Conference (CPAC) conference later this month, Fox News has learned."
     publishedDateTime: 2021-02-20T21:08:12Z

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "CPAC kicks off as Republicans eyeing 2024 campaigns – including Trump – seize chance to woo conservatives"
-excerpt: "The Conservative Political Action Conference (CPAC) kicks off Thursday, featuring a slew of Republicans who are eyed as potential 2024 presidential contenders and who will seek to make their appeals to the base -- but none will command as much attention as former President Donald Trump."
-publishedDateTime: 2021-02-25T12:09:00Z
-originalUrl: "https://www.foxnews.com/politics/cpac-republicans-2024-campaigns-including-trump"
-webUrl: "https://www.foxnews.com/politics/cpac-republicans-2024-campaigns-including-trump"
-ampWebUrl: "https://www.foxnews.com/politics/cpac-republicans-2024-campaigns-including-trump.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-republicans-2024-campaigns-including-trump.amp"
+title: "LIVE UPDATES: CPAC 2021 speakers on Friday will include Trump Jr., Ted Cruz"
+excerpt: "The annual Conservative Political Action Conference  (CPAC) is slated to run through Sunday and a number of high-profile conservatives will take the stage to share conservative ideas with the crowd. "
+publishedDateTime: 2021-02-26T05:01:17Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fm6ofa0wkyo/cpac-2021-speakers-live-updates-2-26-2021"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fm6ofa0wkyo/cpac-2021-speakers-live-updates-2-26-2021"
+ampWebUrl: "https://www.foxnews.com/politics/cpac-2021-speakers-live-updates-2-26-2021.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-2021-speakers-live-updates-2-26-2021.amp"
 type: article
-quality: 118
+quality: 173
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec17f718-5e13-4765-a0d5-abf5b7c50419/3ab1b96b-d63b-4a7e-8f79-81596a21a222/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e846752-618c-47d3-8809-39b9925c638c/0f3747c2-0a3e-445d-8777-ba7c40126a5e/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -47,22 +46,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "LIVE UPDATES: CPAC 2021 speakers on Friday will include Trump Jr., Ted Cruz"
-    excerpt: "The annual Conservative Political Action Conference  (CPAC) is slated to run through Sunday and a number of high-profile conservatives will take the stage to share conservative ideas with the crowd. "
-    publishedDateTime: 2021-02-26T05:01:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fm6ofa0wkyo/cpac-2021-speakers-live-updates-2-26-2021"
-    ampWebUrl: "https://www.foxnews.com/politics/cpac-2021-speakers-live-updates-2-26-2021.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-2021-speakers-live-updates-2-26-2021.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5e846752-618c-47d3-8809-39b9925c638c/0f3747c2-0a3e-445d-8777-ba7c40126a5e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump to speak at CPAC conference in first public appearance post-White House"
     excerpt: "Former President Trump will make his first major public appearance at the Conservative Political Action Conference (CPAC) conference later this month, Fox News has learned."
@@ -224,7 +207,23 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "CPAC kicks off as Republicans eyeing 2024 campaigns – including Trump – seize chance to woo conservatives"
+    excerpt: "The Conservative Political Action Conference (CPAC) kicks off Thursday, featuring a slew of Republicans who are eyed as potential 2024 presidential contenders and who will seek to make their appeals to the base -- but none will command as much attention as former President Donald Trump."
+    publishedDateTime: 2021-02-25T12:09:00Z
+    webUrl: "https://www.foxnews.com/politics/cpac-republicans-2024-campaigns-including-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/cpac-republicans-2024-campaigns-including-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-republicans-2024-campaigns-including-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec17f718-5e13-4765-a0d5-abf5b7c50419/3ab1b96b-d63b-4a7e-8f79-81596a21a222/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
-secured: "Vwf5cHkYkUkmr656IUHsn8kY4tCB6dJYpXN5r0WkbggVdEzEaiAeOosCOqXMt2SgpyO8EYiGVXGn6GirdPK6LY8GXpMWIc3kkB4cK4KBM7H6K/XymNdgfTQ1xqqSw9ifXa+Bk73RnyGk2avSkdbJxAuhJ32Cy4nCgTJ8lYssLt4/SrVVbb1uJsNJ3zqR8DpCzyL+xNsptjoQDm0jLcrPUvUg8z4WI5K8y6paSNhF8UNNeWA6KhF2sOqFCPSYQecpUlwtzs/32q9b6NeRlSA+91vFZJMeQDzpfbgk3U5LJiX9YdPQJ/B600b2m1rLSSjh12+Be4NHc+Ma/ZwbIgCktgVfr9Ue5pVLN40BzdL1+tlWHXZDUC1TC7/KSy8k/psFh1ESAI30q8OT8H4nGrTa5ZtWrlQawMrgaDDlT8/Dr3qsLlfrsB8UVtIEMgPxwqykGS3Nw71Vmfq6gEKHtK9GpGomRlvGouLf5aiCGaWu2G1rl4/WNYueNaS2M2t00jYxEJK1CGtXriBNqC7Td1Qtsw==;X3qCvOlSc1juC53uKCfecA=="
+secured: "dXmPln0mjaUpZFp6+V8gKxmmomgyKCO8amPSr3FhdX5PrjZzTq38UTUK8vTZYQURYTJ6kh7rI9zpbk+YbitDHfhnUyIpkl+RLInoOwxXc/msnfpZP2p3BUSEtiMiZP1Y6ziKhCpGrX+X8jB4bBqk47cFlP2Agf+whGyoWs9/RDin5Tu4Zov07N+woJv/xI1f4d3EkfrbSEvr2lIasdZgX0o3WOO0AwrGmWDak4QO9QaYQRH971LyRrB5gfV2FFazjbBDhQxB2P4hxG9tHSe+uvYYobN0vGDVtXxivP2ymLrJoXI4e0WFL4OZNJH7KdPII1IfhjuExxJ/LZKh9UT42BQr06EUmFA1BSzO2eVA7BU=;+pgLQvTs3DiKWY4/dKFeLA=="
 ---
 

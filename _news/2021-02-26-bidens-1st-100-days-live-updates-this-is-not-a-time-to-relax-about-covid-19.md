@@ -529,8 +529,8 @@ related:
         isCached: true
   - title: "Biden disappointed in Senate official's minimum wage ruling: White House"
     excerpt: "U.S. President Joe Biden is disappointed in the ruling by the Senate parliamentarian that the chamber cannot include his proposed $15-an-hour minimum wage in a $1.9 trillion coronavirus bill, White House spokeswoman Jen Psaki said on Thursday."
-    publishedDateTime: 2021-02-26T02:09:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-wage-biden/biden-disappointed-in-senate-officials-minimum-wage-ruling-white-house-idUSKBN2AQ06C?edition-redirect=in"
+    publishedDateTime: 2021-02-26T06:56:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-wage-biden/biden-disappointed-in-senate-officials-minimum-wage-ruling-white-house-idUSKBN2AQ06C?edition-redirect=uk"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AQ06C"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ06C"
     type: article
@@ -1007,6 +1007,6 @@ related:
         height: 630
         isCached: true
 
-secured: "A/6feNE1X34K5lgRG+bVVc4dy73sEPnYhg9CrLHpsZymm7SNxyLdW5y8tGcwgNp8erG0czuc9aIxbmkvOx0fu/Se5gaGG13kvzp93TPMJ0a7FNiNd0hNKQ4DifTXQwUX8Z8zAhngvXBpCWaxzXybRAwfYreFDwo/9vo8uUjcbWfiHKlB9QlaVwr4Qhhg0TYr8S7/P7DHP8XX5+eO9aKZOwRUtpVBhzD20NdoiG7MA6bAmgj9+b/r8x/c9oFEVvYQJyimaZ7LclpUa3lihLOLKc3q2PT6+OA9LLk9m3I1bMCheskNbh0lGdyIf2U1Yv7X6f6xkOCFXalSOU+xqH3YHEqtdft9oXN32qHWqXa8bkk=;My7sDZ9PIFCydBdeFsxkKQ=="
+secured: "UfpK66vOpPWO8Y05PrODImENEi1gky5jXXt8P3tujHFt8e/C0UdhM1B+3wIxGHyn91JA53urtcbDuDv+Dz+Da2qRq8WwxLJSPIXpfWckHCqmwGab159hsBji/YeGZo+ppOIWdN6nWXlBCOq2UoiGP/rj4eBbZ4MBxPnudHqbRgcvXIfSmOwrn2RnO4HL12rQTTTqQMnEOsLdRCPnPMj+l5x9S21V7omL6nMuDFlPhXmmhfE9CmDyi4quLcCAHZJk8kk8+FoELGLAfdUe6aumBum4rUmmL+PNdUEz58u7SMsMWrhBRJyxRIGc8IyyfNG2Hem3r1OuVaA9eqFsn+nk3k66C8q2vy+nJRry1lZA0rfKOsdJEQsqIyHieknSuUlttN8WuDOlI4I0INQtNAhLPuZ24lT3eWJLubiiQdGkqi45DILHzaKIMq9rATUr7IqkSUHtOnPKdxIzqsL3MZQKAChgh6D2DfihcC0q84ay8K4Pwh81MV92IGToa/0CcyuwfLvWqQWwdKjUBPR/hJGjDQ==;KJtNRU8IQLwpUGoLvklO3A=="
 ---
 

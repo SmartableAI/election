@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Manhattan district attorney obtains Trump's long-sought tax records"
-excerpt: "The Manhattan District Attorney's Office has obtained former President Donald Trump's tax records, executing a subpoena for the long-sought documents after the Supreme Court declined to shield them from investigators earlier this week."
-publishedDateTime: 2021-02-25T17:19:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/"
-webUrl: "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/"
+title: "Trump's tax returns given to Manhattan prosecutors"
+excerpt: "Former President Donald Trump has turned over his tax returns to Manhattan prosecutors after the Supreme Court ruling on Monday."
+publishedDateTime: 2021-02-25T21:05:00Z
+originalUrl: "https://abcnews.go.com/US/trumps-tax-returns-manhattan-prosecutors/story?id=76110229"
+webUrl: "https://abcnews.go.com/US/trumps-tax-returns-manhattan-prosecutors/story?id=76110229"
+ampWebUrl: "https://abcnews.go.com/amp/US/trumps-tax-returns-manhattan-prosecutors/story?id=76110229"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trumps-tax-returns-manhattan-prosecutors/story?id=76110229"
 type: article
 quality: 125
-heat: 205
-published: true
+heat: -1
+published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,27 +25,27 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/31/e6e4b3bf-d221-4e69-9758-c125b8adfeda/thumbnail/1200x630g2/2846660e3574f923ccd0a39f79b733a8/gettyimages-1230689498.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s.abcnews.com/images/Politics/trump6-gty-ml-210106_1609954173598_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
-  - title: "Trump's tax returns given to Manhattan prosecutors"
-    excerpt: "Former President Donald Trump has turned over his tax returns to Manhattan prosecutors after the Supreme Court ruling on Monday."
-    publishedDateTime: 2021-02-25T21:05:00Z
-    webUrl: "https://abcnews.go.com/US/trumps-tax-returns-manhattan-prosecutors/story?id=76110229"
-    ampWebUrl: "https://abcnews.go.com/amp/US/trumps-tax-returns-manhattan-prosecutors/story?id=76110229"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trumps-tax-returns-manhattan-prosecutors/story?id=76110229"
+  - title: "Manhattan district attorney obtains Trump's long-sought tax records"
+    excerpt: "The Manhattan District Attorney's Office has obtained former President Donald Trump's tax records, executing a subpoena for the long-sought documents after the Supreme Court declined to shield them from investigators earlier this week."
+    publishedDateTime: 2021-02-25T17:19:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/trump6-gty-ml-210106_1609954173598_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/31/e6e4b3bf-d221-4e69-9758-c125b8adfeda/thumbnail/1200x630g2/2846660e3574f923ccd0a39f79b733a8/gettyimages-1230689498.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Manhattan district attorney receives Trump's tax returns"
     excerpt: "The Manhattan District Attorney's Office has taken possession of former president Donald Trump's tax returns and financial data deemed central to prosecutors' ongoing criminal case, officials said Feb."
@@ -90,6 +90,6 @@ related:
         height: 630
         isCached: true
 
-secured: "C1Yo3OPjDQf24e74B7ysQQIVl4VZh1EvNGhQ0SeHQBNAGHuc6JI64kSlZhsYTTYzmRwMzb86mPZ0q2kHbLIbR+8Y7STB51FXXRuU/SZDxhy0qSMbrCVnbsYyXsumzako5bbap+7khgkjJnsccpsR9VYgGau+j0yzNtd5PQPN6KHq0wXCRo8lwbFEKwUbsTiEtNMvaenowg8r4dsWEhC9klQH5m6J3OIC2CjMwGpbaFGh1FjqIqmtKjdJsstwuWHZTRGxuL27JZk3y9Ks9AG73M4++v/A0lzAB3pkDIlSTkE2j/Bx4h5S13xDvmGRXxlgKGi10lFdy9ePNQUgyb2LqZ+tomF3qC2w2LuDogVhoReRVG6966UkiSJRMPCVdjr+L9lhrFREowibHIDYyiKrzwiVTlUiv8ct2Sa5QnZDoXCFSOKRF53s4MpSVOSxJsSmfuoEFkgHcswhtfUTiJD3Y3RRMzq0KqGVWHPOsLDGqPx9d0IAAcmlV/VTMfcrztxPFdE2auSWjg3HM/VjpxxROA==;tZOdBQCQyYUktg21AYFbjg=="
+secured: "rHcaaT2YdqBML1OpC/63BH6a0xmeGPrGlx6ryfQRfAan3F0QpRYS2DL0xUll7k2bfC7XiSM9Uc64v6UyGcNZl07ooZ9VuQQBAp6LAbLhGOnfVXk5/E6+5OIDJhucCEZvxEqe96zjHyiY2TpeqYnp0vgUpg8BxMAMqJV1vwDJ0dS3xLH9LgSFy3tBWCcfQKq6JpPpOHkNhKABXx/sDXlBmVzRBJOHW91o4CZzRqtVjob7+ZPWPDTx3N9eZXyGEqauK7/eKgHLqPThWwVlHkUYiUs42QJREIaSF6rVTqlV/wjICudYE9bw24LhFmAUWxamogNUAtSJ2//posVhO+jZ/EBCMVeC8lWtJ2wHmglMaZo=;HxGpJwvICpCNbQ9PBE5aeg=="
 ---
 

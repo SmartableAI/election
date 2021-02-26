@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Analysis: McConnell was done with Trump. His party said not so fast."
-excerpt: "Mitch McConnell had finally had enough. But with most Republicans rallying around Trump, he sided with his colleagues trying to throw out the impeachment case."
-publishedDateTime: 2021-01-28T02:51:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
+title: "McConnell to support Trump if party picks him as its 2024 nominee"
+excerpt: "Senate Minority Leader Mitch McConnell, who excoriated former President Donald Trump over the deadly Jan. 6 Capitol riot less than two weeks ago, said on Thursday that he would \"absolutely\" vote for Trump if he became the 2024 Republican presidential nominee."
+publishedDateTime: 2021-02-26T05:33:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-mcconnell/mcconnell-to-support-trump-if-party-picks-him-as-its-2024-nominee-idUSKBN2AQ021"
+webUrl: "https://www.reuters.com/article/us-usa-trump-mcconnell/mcconnell-to-support-trump-if-party-picks-him-as-its-2024-nominee-idUSKBN2AQ021"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AQ021"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ021"
 type: article
 quality: 125
-heat: 205
-published: true
+heat: -1
+published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/ep6Q1vD4mePB-iDVbF8MWftnQD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MOWKPUEBW73M7CU3NULPPZFH7A.jpg"
-    width: 1200
-    height: 800
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1552961518&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1P01B"
+    width: 817
+    height: 545
     isCached: true
 
 related:
+  - title: "Analysis: McConnell was done with Trump. His party said not so fast."
+    excerpt: "Mitch McConnell had finally had enough. But with most Republicans rallying around Trump, he sided with his colleagues trying to throw out the impeachment case."
+    publishedDateTime: 2021-01-28T02:51:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
+    images:
+      - url: "https://www.chicagotribune.com/resizer/ep6Q1vD4mePB-iDVbF8MWftnQD8=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/MOWKPUEBW73M7CU3NULPPZFH7A.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "McConnell says he'd support Trump if he wins 2024 nomination"
     excerpt: "Less than a month after excoriating Donald Trump in a blistering floor speech, Senate Minority Leader Mitch McConnell now says he would “absolutely” support the former president again if he secured th"
     publishedDateTime: 2021-02-26T04:06:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_e175ee42a4384abd84202cd19ea387dc_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "McConnell to support Trump if party picks him as its 2024 nominee"
-    excerpt: "Senate Minority Leader Mitch McConnell, who excoriated former President Donald Trump over the deadly Jan. 6 Capitol riot less than two weeks ago, said on Thursday that he would \"absolutely\" vote for Trump if he became the 2024 Republican presidential nominee."
-    publishedDateTime: 2021-02-26T05:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-mcconnell/mcconnell-to-support-trump-if-party-picks-him-as-its-2024-nominee-idUSKBN2AQ021"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AQ021"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ021"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1552961518&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1P01B"
-        width: 817
-        height: 545
         isCached: true
   - title: "Trump attacks McConnell as ‘political hack,’ says he will back pro-Trump candidates"
     excerpt: "The lengthy and personal diatribe escalated a growing rift in the GOP about whether it will be controlled by pro-Trump forces or those viewed as more traditional Republicans."
@@ -96,6 +96,6 @@ related:
         height: 960
         isCached: true
 
-secured: "9z443Rx6INUiT5UUrRkhrCsW6elW4LO4J2EKUrmMU/R8tFB5ObVKGSRcn4r1N+FLCVPuPJRD7n0QVyYKLzTZjUoElMZWCbd/V+Z0pLcNHp1RBXlW6BTVD5a5AJx/MyUBo0DE+DoTtekVkZm6UbAm+IqnhSwvFyd/J3+QcCsVnT12RdDHu7qEv2gaOdTnfM57Zv7Iz7pT6+l+ziSOHQEJPOl+rjZyIi96ecuXxfefSWeOrO9da66N7WKP7pyp65WXcU7Bi3Bx+ngmPX2xp4ZCQAPubmnQ8xxRTB6MXiQJJjCgB/LcC9BE+pq14KiT1eOvKb5JY7iW8UXvg3Q00g99uUCJeZHte2QaObba+I1f3zY=;x2MomvpGou7ECCZ1rfg2/g=="
+secured: "uwNZ2a0OqyDz12GXScddCPRmbkLWFw4vps5xMiHf8u2UYW0fjWflP7B6dSzdEJKtEO0K3ctGsD/MAI1XBVGfUWZqvDspC/cWfW3Ql9agN8dtqUfIzP1pm47fOcWeNk4l44BQVUF9dqvSxCwzA3bghnAor2VfV9SRf0f+Ysz7C37ZHD7bbikr7OouYNXYGTa08+LQyZ9JuursDJnF0wqJXjrp0BqXq8UGJkAfInotD38CTW/DSpFkJKh2IXupT26sqSVJ7dmvhiN8B8wkmuVN+0+O+IYrSVwGvbXxh+32PXCkjq9NL4GnigR8BRWr5q91Z3d5oobsmZO2F/uHi2kzGHkWtt1Hi8gvikYiu8l1vQo=;RzsqZGgflJ1Hm1ne431tag=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Calls to impeach Trump gain momentum, Republicans ask Biden to intervene"
-excerpt: "Congressional calls for the impeachment of President Trump are gaining traction on both sides of the aisle, as lawmakers announced Saturday that impeachment would be introduced in the House Monday."
-publishedDateTime: 2021-01-10T02:28:02Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIg8l3_7HZY/calls-impeach-trump-momentum-biden-intervene"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIg8l3_7HZY/calls-impeach-trump-momentum-biden-intervene"
-ampWebUrl: "https://www.foxnews.com/politics/calls-impeach-trump-momentum-biden-intervene.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/calls-impeach-trump-momentum-biden-intervene.amp"
+title: "Past Biden, Psaki tweets criticizing Trump slammed after new Syria airstrikes"
+excerpt: "Past Twitter messages from President Biden and one of his top aides -- both criticizing former President Trump -- weren't appearing to age well Thursday after Biden ordered airstrikes against an Iranian-backed militia stronghold in Syria."
+publishedDateTime: 2021-02-26T05:03:56Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jE4Z1X_KAAw/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jE4Z1X_KAAw/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes"
+ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
 type: article
-quality: 189
+quality: 187
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7703f1c-319b-4a2c-a02c-e47f026d164a/62286249-5c96-4c92-828a-d41b31614674/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jen-Psaki-Joe-Biden.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Calls to impeach Trump gain momentum, Republicans ask Biden to intervene"
+    excerpt: "Congressional calls for the impeachment of President Trump are gaining traction on both sides of the aisle, as lawmakers announced Saturday that impeachment would be introduced in the House Monday."
+    publishedDateTime: 2021-01-10T02:28:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vIg8l3_7HZY/calls-impeach-trump-momentum-biden-intervene"
+    ampWebUrl: "https://www.foxnews.com/politics/calls-impeach-trump-momentum-biden-intervene.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/calls-impeach-trump-momentum-biden-intervene.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c7703f1c-319b-4a2c-a02c-e47f026d164a/62286249-5c96-4c92-828a-d41b31614674/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden bulldozes Trump's classical architecture mandate for federal buildings"
     excerpt: "President Biden revoked former President Trump’s order that called for \"Promoting Beautiful Federal Civic Architecture.”"
     publishedDateTime: 2021-02-25T21:18:20Z
@@ -110,22 +126,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ad8e56e-865f-4e90-ba49-06c59247a3f7/f71aaed0-d9e1-4fb6-9658-2a40da2880f4/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Past Biden, Psaki tweets criticizing Trump slammed after new Syria airstrikes"
-    excerpt: "Past Twitter messages from President Biden and one of his top aides -- both criticizing former President Trump -- weren't appearing to age well Thursday after Biden ordered airstrikes against an Iranian-backed militia stronghold in Syria."
-    publishedDateTime: 2021-02-26T05:03:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jE4Z1X_KAAw/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jen-Psaki-Joe-Biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
         isCached: true
   - title: "Biden tells European allies ‘America is back,’ seeks to turn page on Trump era"
     excerpt: "President Biden on Friday hailed the importance of the alliance between the U.S. and Europe, while also taking a number of thinly-veiled shots at his predecessor."
@@ -702,6 +702,6 @@ related:
         height: 340
         isCached: true
 
-secured: "M5GbGOuQXfnPRtI8wmPzgxRXciM2G8Z8HySyq2wXE3mKRKjBlTpyRujFUbJsVhf9WJEbuKITDgguc2YATR09fRtFZPs5osVn3q8IKM6pDGXvGynAzd1cfPmVyDSykWgGl75l0LCO+oCZNNwpfG5B8xyI5tbSWCDjL5AVkHrWe6JSOxxib0zvJ8Uu9SRDWcy8doQuuLa4h+VhEHmy9gZNuaS+9SZ6CHjw0Ina1VmyK6vS1mQYB21jLm+m/Ok6tiWI7uDrMRmaBaLGkIO5pVoveA+hzsJIfMep7BqqjumWqe2WrNplunki8poaCaVErWvPo7P21y21L3cF4aelvGy76gKWRM5kNSlPlLfJTxYIVVk=;YQVusRBNhEL6OWJ6b6rbUQ=="
+secured: "FV1F2d/8BgmvojDGIw4MzaechaztdvcE9jr3S5XhW75cZ3+AQeomwQlhDN9mbf7/5452ipzj3I8FnqaD6+piVAYVi69Kq2k/jXKwarRzKWGU6SyDtmmmCY9yVw7vNSBmfdzL58hE2i6+ZIeGFnO9ifs3lG9ooKBA1LLv3c54fixjKTWQDVExGU+OU814KEhZn1VNeC8InPPEpQ/7zoO4gvMYWlUbvYrZ5ekeOgwrm56Q2YSbgeAlTzqwGL3wICduURYlNF/eqR49wmNakD2rCfkuATdDVNSQm+lQJ0lVMYhrDXgpb7WWT2sQuHhM6/DtO5E3DXiYDlgAt7cdeuGQl0f37WPsh7XrREf/NV95/pk=;mTPRYwy4lDMKRtd0Z6KAsQ=="
 ---
 

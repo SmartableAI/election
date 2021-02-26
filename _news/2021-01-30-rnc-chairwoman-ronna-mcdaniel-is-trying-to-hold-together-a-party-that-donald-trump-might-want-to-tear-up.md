@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "McConnell to support Trump if party picks him as its 2024 nominee"
+    excerpt: "Senate Minority Leader Mitch McConnell, who excoriated former President Donald Trump over the deadly Jan. 6 Capitol riot less than two weeks ago, said on Thursday that he would \"absolutely\" vote for Trump if he became the 2024 Republican presidential nominee."
+    publishedDateTime: 2021-02-26T05:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-mcconnell/mcconnell-to-support-trump-if-party-picks-him-as-its-2024-nominee-idUSKBN2AQ021"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AQ021"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ021"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1552961518&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1P01B"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Trump attacks McConnell as ‘political hack,’ says he will back pro-Trump candidates"
     excerpt: "The lengthy and personal diatribe escalated a growing rift in the GOP about whether it will be controlled by pro-Trump forces or those viewed as more traditional Republicans."
     publishedDateTime: 2021-02-17T07:51:00Z

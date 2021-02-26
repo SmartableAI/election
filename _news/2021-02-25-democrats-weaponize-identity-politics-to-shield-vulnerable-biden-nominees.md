@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Past Biden, Psaki tweets criticizing Trump slammed after new Syria airstrikes"
+    excerpt: "Past Twitter messages from President Biden and one of his top aides -- both criticizing former President Trump -- weren't appearing to age well Thursday after Biden ordered airstrikes against an Iranian-backed militia stronghold in Syria."
+    publishedDateTime: 2021-02-26T05:03:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jE4Z1X_KAAw/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jen-Psaki-Joe-Biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden tells European allies ‘America is back,’ seeks to turn page on Trump era"
     excerpt: "President Biden on Friday hailed the importance of the alliance between the U.S. and Europe, while also taking a number of thinly-veiled shots at his predecessor."
     publishedDateTime: 2021-02-19T22:08:10Z
@@ -334,6 +350,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21053849361061.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "LIVE UPDATES: Joe Biden revokes Trump order that called for review of funding for 'anarchist' cities"
+    excerpt: "New York City, Portland and Seattle are cities that were designated by the Department of Justice as anarchist."
+    publishedDateTime: 2021-02-26T05:01:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/03VBom32D4Q/joe-biden-live-updates-2-26-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-2-26-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-26-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/53558228-b7c5-4a9c-a5f9-e05737e5f1b2/186c7c05-b9ef-4f86-bac6-8ec955d603f7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "State Dept briefing gets heated as reporter asks if Biden admin taking credit for Trump accomplishments"
     excerpt: "An Associated Press reported took State Department spokesman Ned Price to task Monday for suggesting that President Joe Biden was responsible for a policy that had started under the Trump administration."
