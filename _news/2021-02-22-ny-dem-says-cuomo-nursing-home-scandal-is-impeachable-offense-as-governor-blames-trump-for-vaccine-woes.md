@@ -7,8 +7,8 @@ originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gyDnSeqC_qc/new-yo
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gyDnSeqC_qc/new-york-ron-kim-cuomo-nursing-home-scandal-impeachable-offense"
 type: article
 quality: 138
-heat: 138
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -27,6 +27,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Cuomo jabs Trump vaccine effort amid NY governor's own snowballing controversies"
+    excerpt: "New York Gov. Andrew Cuomo on Thursday took shots at former President Donald Trump’s handling of the COVID-19 vaccine effort, as pressure on the governor mounts over sexual harassment claims and how he handled nursing home patient care in his state."
+    publishedDateTime: 2021-02-25T23:33:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a1jFboCJLR8/cuomo-trump-vaccine-new-york-controversies"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-trump-vaccine-new-york-controversies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-trump-vaccine-new-york-controversies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c1825e5-665b-4d6e-bdd9-e3620f0df14c/006cbacc-2b51-4eab-b974-d936fecaf019/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "MuZ8UgJ1+KoyvvHcm64s1BStg1+vCOl7EVpM73ldi72BKZv/CtcO4oNO4qeKrsYSs751tSlMS/ME2DGyz+TyT3KKYBtMIS24t/AdW03y/5YOcsUXDwuOO08F1y4Cq7s33MLpxJIHrUsa/HdTOlyDHtTKR5ciYnrbmlEOzWXHjA5VuZU/Kaebfu9dGeGfDAdiQqaGMpDIt4/jlEldZ1LCCPbOUX8fazcwJ4e5SI6YmfW3jprPUf/hq/mMG92R6w17pbdrq+rtgZvyVeSbxd9AnCPgcZx4MlP5vjw4oMmmYl/O5npjoD1ozL1C73cJDojBEEqJU9CxW5cn7Hq1Rej+2XdQEcAn1Z7SLos0pd1CmwU=;iRz9n+NcL2pkD1qU4ers4A=="
 ---

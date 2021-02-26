@@ -368,6 +368,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Mitch McConnell would ‘absolutely’ support Trump if he won GOP’s 2024 nomination"
+    excerpt: "Senate Minority Leader Mitch McConnell says he would “absolutely” support former President Donald Trump if he won the GOP’s party nomination in 2024. McConnell went on Fox"
+    publishedDateTime: 2021-02-26T00:54:00Z
+    webUrl: "https://nypost.com/2021/02/25/mitch-mcconnell-would-absolutely-support-2024-trump-gop-ticket/"
+    ampWebUrl: "https://nypost.com/2021/02/25/mitch-mcconnell-would-absolutely-support-2024-trump-gop-ticket/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/25/mitch-mcconnell-would-absolutely-support-2024-trump-gop-ticket/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 130
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/mitch-mcconnell-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Graham weighs in on McConnell-Trump feud, says he's 'more worried’ about 2022 than ever"
     excerpt: "S.C., voiced Mitch McConnell and Donald Trump have got to knock off the arguing for the future of the Republican Party."
     publishedDateTime: 2021-02-17T04:26:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
 type: article
 quality: 140
-heat: 2100
+heat: 2120
 published: true
 
 provider:
@@ -878,6 +878,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552099907&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I04N"
         width: 818
         height: 545
+        isCached: true
+  - title: "New York prosecutors finally got a hold of Trump's taxes after a lengthy court battle"
+    excerpt: "Manhattan prosecutors now have access to a treasure trove of information about the complex world of Trump's finances."
+    publishedDateTime: 2021-02-26T00:07:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-district-attorney-obtains-trump-taxes-after-supreme-court-win-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-district-attorney-obtains-trump-taxes-after-supreme-court-win-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-district-attorney-obtains-trump-taxes-after-supreme-court-win-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/60292e9fb3c2a800183cccae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump impeachment: divided reaction in US after former president acquitted – live updates"
     excerpt: "Senate reflects split opinion across US over Capitol attack impeachment"

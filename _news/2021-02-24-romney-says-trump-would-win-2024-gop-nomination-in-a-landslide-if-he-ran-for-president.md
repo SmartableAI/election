@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mitt-romney-donald-trump-2024-gop-p
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mitt-romney-donald-trump-2024-gop-presidential-nomination-future-republican-party/"
 type: article
 quality: 116
-heat: 156
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "McConnell says he would \"absolutely\" support Trump if he's the 2024 GOP nominee"
+    excerpt: "Just two weeks ago, the Senate Minority Leader called the former president \"practically and morally responsible for provoking the events\" of January 6."
+    publishedDateTime: 2021-02-26T00:30:00Z
+    webUrl: "https://www.cbsnews.com/news/mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/20/6ffb8a67-5134-46d7-9ec4-0d3c7ddd44cf/thumbnail/1200x630/b7afdd3f1d6d7db65539b5c680dc11a7/gettyimages-1257244765.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Should Trump speak at CPAC? Liz Cheney says he shouldn't be part of the GOP's future; McCarthy says yes"
     excerpt: "\"I don't believe that he should be playing a role in the future of the party or the country,\" Cheney said of the former president."
     publishedDateTime: 2021-02-25T02:37:00Z
@@ -46,20 +62,6 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/17ab0a832cd78ecc70cb4b93786a0d088066895f/c=0-292-5465-3380/local/-/media/2018/07/17/USATODAY/USATODAY/636674189159039396-AP-17086712547630.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
-        isCached: true
-  - title: "Here's what GOP insiders are saying about the 2024 presidential field: It's still Trump's party, but it's Ron DeSantis' moment."
-    excerpt: "Former President Trump and Florida Gov. Ron DeSantis have Republican strategists buzzing as they eye the GOP's early 2024 White House field."
-    publishedDateTime: 2021-02-25T09:02:00Z
-    webUrl: "https://www.businessinsider.com/2024-rankings-republican-gop-presidential-nomination-candidate-trump-desantis-pence-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 77
-    images:
-      - url: "https://i.insider.com/6036e98abed5c50011a2c5f6?width=1200&format=jpeg"
-        width: 1000
-        height: 500
         isCached: true
 
 secured: "oDGfJMK/PDc79FN5jmyLsfVCbsDKIIa4ZakpVS8QIIS+zwGy06FWg3qIgM2Q7hBmFNAIGhWCpzBtBsOWoPUeos6hvVWwD3f5iyvb01r7DE8N6ymUwtqAK4hYIAAtmO3cDOhTJihmOp1XT2lJKPqqp8ceqZveg+bXuSjVgApsAHSWsareV4FbqjZ70GzdJpbefsI8c3zQ5p1fVyyfCUzfJAXJIDXFX7HTO0yE/OYOxKv7de6y1Eah5GCm09W8Olb8FcYnQUH07jVUFQMmioyp7e9ng+BuFO0SSFY1rSR09CVOHYTprlZsTnrn7Dl4eEm8wiwrDHhXMj8aBRYEb/yW/pUY43ahNdBFd37liFKpcM4=;OksE4lO1NjSDec1QmM6M4A=="

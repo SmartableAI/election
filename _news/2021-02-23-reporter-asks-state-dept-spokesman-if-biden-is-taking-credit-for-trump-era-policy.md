@@ -444,6 +444,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "House Republicans want Biden administration to provide briefing on NY nursing home scandal"
+    excerpt: "House Republicans are demanding the Biden administration’s Department of Health and Human Services give a briefing on New York’s nursing home deaths after Democrats quashed a push for a bipartisan hearing."
+    publishedDateTime: 2021-02-26T00:12:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jkhBltD5WYE/new-york-nursing-home-scandal-house-gop-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/new-york-nursing-home-scandal-house-gop-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-nursing-home-scandal-house-gop-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Reed-Nunes-Brady.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Republicans warn of 'grave risk' if Biden ends Trump-era order barring migrants amid COVID"
     excerpt: "EXCLUSIVE: House Republicans are warning the Biden administration of a \"grave risk\" if a Trump-era public health order that allows for migrants to be swiftly returned to their home countries is ended -- something activists have urged President Biden to do."
     publishedDateTime: 2021-02-25T15:09:53Z

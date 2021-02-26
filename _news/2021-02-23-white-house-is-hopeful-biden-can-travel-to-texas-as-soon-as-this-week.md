@@ -473,6 +473,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "White House says expects Biden call with Saudi king 'very soon'"
+    excerpt: "U.S. President Joe Biden's phone call with Saudi Arabia's King Salman should take place \"very soon,\" White House spokeswoman Jen Psaki said on Thursday."
+    publishedDateTime: 2021-02-25T23:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-saudi-biden/white-house-says-expects-biden-call-with-saudi-king-very-soon-idUSKBN2AP2MG"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AP2MG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP2MG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1552962094&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1P01H"
+        width: 602
+        height: 545
+        isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
     publishedDateTime: 2021-02-19T23:18:00Z

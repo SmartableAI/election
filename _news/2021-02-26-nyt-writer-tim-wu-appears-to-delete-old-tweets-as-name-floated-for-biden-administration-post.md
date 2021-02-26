@@ -1,0 +1,101 @@
+---
+category: news
+title: "NYT writer Tim Wu appears to delete old tweets as name floated for Biden administration post"
+excerpt: "Timothy Wu, a Columbia University professor and New York Times contributing writer reportedly set to join the Biden administration’s National Economic Council, appeared this week to have deleted thousands of old tweets as another nominee faced scrutiny over their social media activity."
+publishedDateTime: 2021-02-26T00:04:22Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ps0cWtdjpfg/nyt-writer-tim-wu-tweets-name-floated-biden-administration-post"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ps0cWtdjpfg/nyt-writer-tim-wu-tweets-name-floated-biden-administration-post"
+ampWebUrl: "https://www.foxnews.com/politics/nyt-writer-tim-wu-tweets-name-floated-biden-administration-post.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nyt-writer-tim-wu-tweets-name-floated-biden-administration-post.amp"
+type: article
+quality: 164
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Timothy-Wu-GETTY.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
+    isCached: true
+
+related:
+  - title: "Biden’s 100-day deportation moratorium indefinitely banned by judge"
+    excerpt: "The Biden administration’s efforts to impose a 100-day pause on deportations were dealt another blow on Tuesday when a district judge extended a ban on its imposition in response to a lawsuit from Texas."
+    publishedDateTime: 2021-02-24T13:53:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OUfAiZtcmg/bidens-100-day-deportation-moratorium-judge"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "ACLU calls Biden guidance on ICE arrests, deportations 'disappointing step backward'"
+    excerpt: "The American Civil Liberties Union (ACLU) is criticizing the Biden administration’s new guidance for arrests and deportations under Immigration and Customs Enforcement (ICE) -- calling it a “disappointing step backward” and telling the new administration it expects “better.”"
+    publishedDateTime: 2021-02-20T20:48:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yxwD2nTBCB0/aclu-biden-era-ice-guidance-arrests"
+    ampWebUrl: "https://www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aclu-biden-era-ice-guidance-arrests.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1afb723c-6431-4ce5-bea8-c93398d5b403/6ac0fdd4-ffcc-4654-840f-4ac9bc82d527/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden HHS pick Xavier Becerra refuses to say whether he supports any restrictions on abortion"
+    excerpt: "Xavier Becerra, President Biden’s nominee to head the Department of Health and Human Services, declined to name a restriction on abortion that he would support when rigorously pressed on the issue during testimony before Senators on Wednesday."
+    publishedDateTime: 2021-02-25T01:31:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HiYv8iUC4wU/becerra-abortion-restrictions-senate-hearing"
+    ampWebUrl: "https://www.foxnews.com/politics/becerra-abortion-restrictions-senate-hearing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/becerra-abortion-restrictions-senate-hearing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Dems to introduce Biden-backed immigration bill, includes citizenship path for millions of illegal immigrants"
+    excerpt: "Congressional Democrats on Thursday will unveil a sweeping immigration bill, backed by President Biden, that includes a path to citizenship for millions of illegal immigrants -- although the plan faces tough odds in the Senate."
+    publishedDateTime: 2021-02-18T13:35:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_6If0yJSWC0/dems-biden-immigration-bill-citizenship-path-illegal-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dems-biden-immigration-bill-citizenship-path-illegal-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+
+secured: "bcIobE8yLyJDQ2MkTz2vyjlJ8ypmo/QCz9TPrZPHa6G/KRYhfaQCz/ByXaxhqgp03lOU7GBLiLdTOnNT1MVlJs2Plp1AITqxcC/RWmBxqik+Y9MvRw3EZYEG0tyxAn17DyMiZheEMkhAbnv8tpcThh32W4DTBmvB4TuWiERBR6Gn2hahB2tM3lRHAN13VqGgV170qu2YBog5FDwj9lwwmp/ibBFtQOnBCkLrUhnmBLU/6NhjM0NKTWPCgctd/5uqrkYgqFY/+5PhFVTYhMZULOY5ZFujtGkqYDpPfOJtsRn8m9EiRE2JB8z9r46hW03F7oi2qQ6BqmGsIpkoI/aWC7iIzNVKSlqC6DhCm8Azxuc=;qQylSwAXkb3zKHlpv6zLMQ=="
+---
+

@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Manhattan DA faces critical decisions in Trump investigation as his time in office runs low"
+    excerpt: "At the helm of the most significant criminal investigation facing Donald Trump, his family and his business, Manhattan's top prosecutor faces a daunting task heading into his final months in office while sifting through millions of newly obtained pages of financial records related to the former President.\n"
+    publishedDateTime: 2021-02-25T23:25:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1fKVj9rqWIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200221104852-cy-vance-0215-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Parler, a Social Network That Attracted Trump Fans, Returns Online"
     excerpt: "After being cut off by Amazon and other tech giants, Parler worked for weeks to find a way to get back on the internet."
     publishedDateTime: 2021-02-15T19:29:00Z
@@ -110,6 +126,38 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/15/business/15parler1/merlin_182226063_a7a3368d-45c0-4f5c-a7f9-7fc23bfc40d4-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump's tax returns handed over to Manhattan prosecutors"
+    excerpt: "The Supreme Court this week declined to block a New York grand jury from getting Trump's personal and corporate tax returns."
+    publishedDateTime: 2021-02-26T00:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/manhattan-d-vance-possession-trump-s-taxes-n1258834"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258834"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258834"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_22/3372656/200531-donald-trump-cs-611p_e554c90c1572ac84631e4d1731a76b2d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Prosecutors just got millions of pages of Trump documents. His taxes are just the beginning."
+    excerpt: "The records are likely to offer New York investigators a revealing look into the former president’s business dealings, experts say."
+    publishedDateTime: 2021-02-25T23:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/prosecutors-just-got-millions-trump-documents-his-taxes-are-just-n1258876"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258876"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258876"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3452122/210223-donald-trump-jm-1402_dbab2f8aec615a8c581bb5f4ed0c8961.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "+xCiZoknzh/pp4dTXWuxWdxmgbR23YZlAQ9oVqur9b3XEjMDBs+0aTFd7kJAhccfCjscns07z2rri7jGUI5vSNe2XuCXJD9dd53bw4NwaJoAF+mp81m3fkS1sYiEbFkQX6DQN7We4pB2QZogT8OuFztOuoocxDxoawE8t/NAoIExA9Q+1Wy5riA/GS4qdpuDurgUI6jN4GnnuqMqoGDQzv40Q2fUZsD1Zrx+oX21B7LnlTa0x4BDMpErexEH7SArYCl3dyjlaRSmWFOJ119q9TUhmG0DiPMdMPOXtrDTyDID4OC+B0QZWuB3HrnJJtI8ytd/Fpjm1FwVMxYH7KJOCrRq0AdyG3iqzaF0V3TCERA=;fxAt7+pOoFtDUTjpAv53dA=="

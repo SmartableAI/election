@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "McConnell says he'll 'absolutely' support Trump in 2024 if he's the GOP nominee "
+    excerpt: "Senate Minority Leader Mitch McConnell said Thursday he would \"absolutely\" support former President Donald Trump if he became the GOP presidential nominee in 2024, a notable commitment following his recent blistering critiques of the former President.\n    \n"
+    publishedDateTime: 2021-02-26T00:35:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LT-b4R0NvWw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/mitch-mcconnell-donald-trump-2024/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/mitch-mcconnell-donald-trump-2024/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202094920-01-mitch-mcconnell-0126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "PA GOP expected to consider censure of Sen. Pat Toomey over vote to convict Trump "
     excerpt: "The Pennsylvania Republican state committee is holding a meeting Wednesday night with the expectations that the issue of censuring Pennsylvania GOP Sen. Pat Toomey over his impeachment vote will be discussed.\n    \n"
     publishedDateTime: 2021-02-24T18:30:59Z

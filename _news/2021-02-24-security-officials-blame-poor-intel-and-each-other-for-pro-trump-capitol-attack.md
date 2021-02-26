@@ -891,6 +891,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "New York prosecutors finally got a hold of Trump's taxes after a lengthy court battle"
+    excerpt: "Manhattan prosecutors now have access to a treasure trove of information about the complex world of Trump's finances."
+    publishedDateTime: 2021-02-26T00:07:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-district-attorney-obtains-trump-taxes-after-supreme-court-win-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-district-attorney-obtains-trump-taxes-after-supreme-court-win-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-district-attorney-obtains-trump-taxes-after-supreme-court-win-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/60292e9fb3c2a800183cccae?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump impeachment: divided reaction in US after former president acquitted – live updates"
     excerpt: "Senate reflects split opinion across US over Capitol attack impeachment"
     publishedDateTime: 2021-02-14T12:18:00Z

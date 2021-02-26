@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden’s CIA nominee says US colleges should cut ties with China-backed Confucius Institutes"
+    excerpt: "President Biden’s pick for CIA director appeased GOP lawmakers Wednesday after he suggested Confucius Institute programs should be barred from U.S. public schools and universities."
+    publishedDateTime: 2021-02-25T23:52:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8XkZrbh1jGw/biden-cia-nominee-us-colleges-cut-ties-china-connected-confucius-institutes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cia-nominee-us-colleges-cut-ties-china-connected-confucius-institutes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cia-nominee-us-colleges-cut-ties-china-connected-confucius-institutes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/623d17aa-7d38-412c-b40b-7ba1b4a4f44a/b7a36189-182f-419d-b316-356a849ac3ca/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Neera Tanden, Xavier Becerra under fire as Biden nominees fight to survive confirmation battles"
     excerpt: "President Biden is standing behind a pair of Cabinet picks facing uphill battles —including Neera Tanden, his nominee to lead the Office of Management and Budget, and Xavier Becerra, his pick for secretary of the Department of Health and Human Services -- as a growing number of senators have vowed to"
     publishedDateTime: 2021-02-23T13:49:29Z

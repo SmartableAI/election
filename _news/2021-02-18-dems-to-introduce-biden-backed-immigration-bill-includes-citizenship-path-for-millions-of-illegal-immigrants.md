@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NYT writer Tim Wu appears to delete old tweets as name floated for Biden administration post"
+    excerpt: "Timothy Wu, a Columbia University professor and New York Times contributing writer reportedly set to join the Biden administration’s National Economic Council, appeared this week to have deleted thousands of old tweets as another nominee faced scrutiny over their social media activity."
+    publishedDateTime: 2021-02-26T00:04:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ps0cWtdjpfg/nyt-writer-tim-wu-tweets-name-floated-biden-administration-post"
+    ampWebUrl: "https://www.foxnews.com/politics/nyt-writer-tim-wu-tweets-name-floated-biden-administration-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nyt-writer-tim-wu-tweets-name-floated-biden-administration-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Timothy-Wu-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "z1NR/TaRAyphn6inHIzK6GnvzJNc0jzjAZLQBVbzjx6BoDZfy/sdvheLPrqtVnGNnS6yQgVRXJbinwDWeyj6EY28c6azh2ynalgmep6TCPGM6QlvDcRXtru8iOyRpRLhG1J+Z57wGWPHfbss4u+XFiJwTvXQAfzF/nmGWHohaOGSQIBX7zuCfqsazWAnjEvxNX2diy64pMO34pgkKYotLhiwrmLvhTXb2ieaXdoBJCnvAPJGF4BuW4hSzugTRGm8JImteah2WkvmUUauykmBMyry/gALKml6qzqvQ92pErvuN0p+x+aBuI7sH1+VUaW8hWmj8izNjPZZQd7aHJ3lZknc2zCn5odOygGxsWcLMBQ=;2jd/lIT7+4C7hCoTE88JuA=="
 ---

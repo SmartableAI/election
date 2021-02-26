@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-100-day-deportation-moratori
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "NYT writer Tim Wu appears to delete old tweets as name floated for Biden administration post"
+    excerpt: "Timothy Wu, a Columbia University professor and New York Times contributing writer reportedly set to join the Biden administration’s National Economic Council, appeared this week to have deleted thousands of old tweets as another nominee faced scrutiny over their social media activity."
+    publishedDateTime: 2021-02-26T00:04:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ps0cWtdjpfg/nyt-writer-tim-wu-tweets-name-floated-biden-administration-post"
+    ampWebUrl: "https://www.foxnews.com/politics/nyt-writer-tim-wu-tweets-name-floated-biden-administration-post.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nyt-writer-tim-wu-tweets-name-floated-biden-administration-post.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Timothy-Wu-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Dems to introduce Biden-backed immigration bill, includes citizenship path for millions of illegal immigrants"
     excerpt: "Congressional Democrats on Thursday will unveil a sweeping immigration bill, backed by President Biden, that includes a path to citizenship for millions of illegal immigrants -- although the plan faces tough odds in the Senate."

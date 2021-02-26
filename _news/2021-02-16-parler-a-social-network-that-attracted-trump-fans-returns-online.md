@@ -112,6 +112,54 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Manhattan DA faces critical decisions in Trump investigation as his time in office runs low"
+    excerpt: "At the helm of the most significant criminal investigation facing Donald Trump, his family and his business, Manhattan's top prosecutor faces a daunting task heading into his final months in office while sifting through millions of newly obtained pages of financial records related to the former President.\n"
+    publishedDateTime: 2021-02-25T23:25:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1fKVj9rqWIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200221104852-cy-vance-0215-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's tax returns handed over to Manhattan prosecutors"
+    excerpt: "The Supreme Court this week declined to block a New York grand jury from getting Trump's personal and corporate tax returns."
+    publishedDateTime: 2021-02-26T00:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/manhattan-d-vance-possession-trump-s-taxes-n1258834"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258834"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258834"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_22/3372656/200531-donald-trump-cs-611p_e554c90c1572ac84631e4d1731a76b2d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Prosecutors just got millions of pages of Trump documents. His taxes are just the beginning."
+    excerpt: "The records are likely to offer New York investigators a revealing look into the former president’s business dealings, experts say."
+    publishedDateTime: 2021-02-25T23:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/prosecutors-just-got-millions-trump-documents-his-taxes-are-just-n1258876"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258876"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258876"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3452122/210223-donald-trump-jm-1402_dbab2f8aec615a8c581bb5f4ed0c8961.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "E+bu/IpZLtTXovPA3LV4/MG5+8yABfceqHM0Omffn8/vLl9+jLSllZhAGNQhtPPqSy9qXFSV7uWkCJNOBkYCN0TB1N7ZpqVYJ7hXLSQouYgnWFEqy9pKLVnOvr+ysmBEMYWqP+an9Y8/iHfnfGXW0+u/ZwDDiJ6XWfUWyGYQiR1Sdgmjhf/cdLBzS4HIzPL0uQ6dUSI7B2FnVowHTRaRQmRbV6/Kfg2Ur1WfZ3BHRdjntMOV/G4nUYOgwSYmcF4ZtC+5L32fBuztssGc3u8UZ5sie4x5wsYaLbnJI+kdeH9VnWcUWc58Ge+YirY+wkEALbTFaxQuKQugsJGwaDSBNrs8B8mRNOjFLFoJ+CtlXESGs2mAkCX6pswM3gQTDLWVIMV6Ma0+HEbm5JVs28a7JQOPkqF+GOvPWgdvr6JPczQUSkLCDPuxHLJjTVViH+zYiPaAPYK0/oWhBACKIYjB8WG1WOSWrmYbkG6g68YLaF6VbXuHsfvEVgDG1NRjv3biPOAxOkwFxKDyyYjZ8iNQNw==;6n9Mzyx+VvICLE/x+KxEGA=="
 ---
