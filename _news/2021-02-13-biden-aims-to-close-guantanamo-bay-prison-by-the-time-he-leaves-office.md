@@ -457,6 +457,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden, in Call With Xi, Talks of ‘Unfair Economic Practices’"
+    excerpt: "Joe Biden, in his first conversation as president with the Chinese leader Xi Jinping, spoke of his concern about China’s “coercive and unfair economic practices” as well as human rights ..."
+    publishedDateTime: 2021-02-11T09:29:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-10/biden-xi-plan-first-call-as-soon-as-wednesday-evening-in-u-s"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idTiG0oDAQck/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "WH: Biden would 'support' study on reparations"
     excerpt: "Biden would 'support' study on reparations. Posted . President Joe Biden supports a study on whether descendants of enslaved people in the United States should receiv"
     publishedDateTime: 2021-02-17T23:08:00Z

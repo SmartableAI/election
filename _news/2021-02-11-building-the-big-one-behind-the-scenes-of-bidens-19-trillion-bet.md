@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html"
 type: article
 quality: 175
-heat: 1135
+heat: 1155
 published: true
 
 provider:
@@ -631,6 +631,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/07/us/politics/00DC-Biden-Senate1/00DC-Biden-Senate1-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden raises concerns with Chinese president in first official phone call"
+    excerpt: "WASHINGTON — President Joe Biden spoke with Chinese President Xi Jinping by phone Wednesday evening for the first time since he took office, the White House said. The White House said in a ..."
+    publishedDateTime: 2021-02-12T10:24:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-raises-concerns-chinese-president-first-official-phone-call-n1257405"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257405"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257405"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3446227/210129-joe-biden-oval-office-ac-537p_3c4ea66977d9bd7f093e311cf8612ce0.jpg"
+        width: 2500
+        height: 1675
         isCached: true
   - title: "Biden's meeting with CEOs focused on equalizing economic recovery, skills training, wage gap"
     excerpt: "President Joe Biden met with the heads of some of America's biggest companies on Tuesday as part of his push for a $1.9 trillion economic relief package. The Oval Office meeting included Vice President Kamala Harris and Treasury Secretary Janet Yellen,"

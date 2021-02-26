@@ -172,6 +172,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "LIVE UPDATES: CPAC 2021 speakers Trump Jr., Ted Cruz appear in Florida as conference ramps up"
+    excerpt: "Conservative Political Action Conference  (CPAC) is slated to run through Sunday and a number of high-profile conservatives will take the stage to share conservative ideas with the crowd."
+    publishedDateTime: 2021-02-26T14:10:00Z
+    webUrl: "https://www.foxnews.com/politics/cpac-2021-speakers-live-updates-2-26-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/cpac-2021-speakers-live-updates-2-26-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-2021-speakers-live-updates-2-26-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a49811f-2d0a-4c3c-be77-ee1662ed0e21/db971091-e2db-4001-99f5-4b85af5e64cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Mercedes Schlapp assesses 'what went wrong' for Trump 2020 campaign on 'CPAC All Access Live!'"
     excerpt: "Lawrence Jones and Tomi Lahren kicked off their coverage of this weekend's Conservative Political Action Conference (CPAC) by welcoming former White House Director of Strategic Communications Mercedes Schlapp to \"CPAC All Access Live!"
     publishedDateTime: 2021-02-26T01:03:00Z

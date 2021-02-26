@@ -1540,6 +1540,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "U.S. President Joe Biden"
+    excerpt: "What we know about Amanda Gorman, the 22-year-old who made history as the youngest poet to perform on inauguration day"
+    publishedDateTime: 2021-02-11T00:00:00Z
+    webUrl: "https://www.thestar.com/news/joe-biden.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 35
 
 secured: "5U4WJvWW2hYNPWZsXavW0aLzKu6Upesr6/v4xxChX/DEO5HUq4DKTpESXnl87+dnLRwYnGwj3HvpMG11gf3NbOezsGA/kdTicBSM1pRWccmshoprZJNyKfY0PvfKmGL+Jpdvz9LLvz/CsmTViiki8ejQg9jNVrBUZBCAnSaux4ByaXqRRg/CFzlNrS/jvdjQonlJcOS8pCL6i5pumwWzLNSIbVggJGmUdA6RIcuL+eBZhfiSya1CDvH6sD/p1DlIkNsbobac4PMiJf78vnkx8EWiEcto/EAmNInp8LlQ1bsppWzgQcK/mmr2R+zCvlZQie651taD5Jl3DLh9DQKFTwHdEcHFMjXxKw72AjCXoE7Xw7bKE3biMSC6Laxbto6lA2Ab1JXDuNtOXP6HXGAlja6brFp9f/Lsk+dxbOEM9lP+VAWkwMi4s3HSf9+m0InHBz4NFeB+yu6e0wCHOSZ2KXmXso3QjAk27pFly7eKCTaSAU//F+1U2HfNhAh6zXLyhCVxf/CSPhWScvMBw/fp0w==;2XrlDXlYsiF/tT3ANyzBqw=="
 ---

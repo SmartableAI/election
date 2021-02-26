@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2170
+heat: 2190
 published: true
 
 provider:
@@ -1540,6 +1540,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "U.S. President Joe Biden"
+    excerpt: "What we know about Amanda Gorman, the 22-year-old who made history as the youngest poet to perform on inauguration day"
+    publishedDateTime: 2021-02-11T00:00:00Z
+    webUrl: "https://www.thestar.com/news/joe-biden.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
     quality: 35
 
 secured: "3vlHu649OY+2S7ATe5GDXiePAQpKe+Tq8T0m8QvYt8aai37WjK2ZADyCtN2j+al7pwAqcvMMuKMyBCTfP484vwV3dAPkV73nwxA26FaeoD034xyf1EzVtovnod56bzDEk5CsXEwMuILmVyWrDZTnv9OrTd8OY5IDW3bGDw+8bOTCd6y+bgB2YaC/DOxrR0LUB/HYLiabsDTZAzstyq9jG0zGuVaY032ODnh8BMKF8y1kpFVwVHQrijqG9LIfr0OEDb8KQx+KecaDP5KvR0TDIdSdc9CFaRkucc8wuYSAbr3xfjFjpZ9xmIrdvkYD3eLgM2LfSQjXSZ2nyAmcBw5uHLHeLonweEja/Df59G8N5qQ=;CcmJnboMHvsi2UOQpsueVg=="

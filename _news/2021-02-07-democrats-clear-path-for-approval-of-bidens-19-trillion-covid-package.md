@@ -143,6 +143,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Column: Joe Biden had a choice: Go big or go bipartisan. He opted for big"
+    excerpt: "When Joe Biden arrived in the White House, he promised a new dawn of unity and bipartisanship. But when he began to pursue a COVID relief bill, he met with Republican senators for only about two ..."
+    publishedDateTime: 2021-02-07T11:59:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-07/joe-biden-had-a-choice-go-big-or-go-bipartisan-he-opted-for-big"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-07/joe-biden-had-a-choice-go-big-or-go-bipartisan-he-opted-for-big?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-07/joe-biden-had-a-choice-go-big-or-go-bipartisan-he-opted-for-big?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/242a909/2147483647/strip/true/crop/4762x3110+0+32/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2Ff5%2F4354bb304e9d8f53a85668d80e5b%2Fbiden-99944.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "White House says Biden is committed to an independent Justice Department"
     excerpt: "White House Press Secretary Jen Psaki said on Tuesday the decision to leave two U.S. prosecutors in their posts reflects President Joe Biden's commitment to an independent Justice Department."
     publishedDateTime: 2021-02-09T18:42:00Z

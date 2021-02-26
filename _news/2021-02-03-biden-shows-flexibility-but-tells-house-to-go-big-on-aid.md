@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-a
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550527493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141NR"
         width: 817
         height: 545
+        isCached: true
+  - title: "Column: Joe Biden had a choice: Go big or go bipartisan. He opted for big"
+    excerpt: "When Joe Biden arrived in the White House, he promised a new dawn of unity and bipartisanship. But when he began to pursue a COVID relief bill, he met with Republican senators for only about two ..."
+    publishedDateTime: 2021-02-07T11:59:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-07/joe-biden-had-a-choice-go-big-or-go-bipartisan-he-opted-for-big"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-07/joe-biden-had-a-choice-go-big-or-go-bipartisan-he-opted-for-big?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-07/joe-biden-had-a-choice-go-big-or-go-bipartisan-he-opted-for-big?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/242a909/2147483647/strip/true/crop/4762x3110+0+32/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2Ff5%2F4354bb304e9d8f53a85668d80e5b%2Fbiden-99944.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Democrats clear path for approval of Biden's $1.9 trillion COVID package"
     excerpt: "President Joe Biden and his Democratic allies in Congress forged ahead with their $1.9 trillion COVID-19 relief package on Friday as lawmakers approved a budget outline that will allow them to muscle Biden's plan through in the coming weeks without Republican support."

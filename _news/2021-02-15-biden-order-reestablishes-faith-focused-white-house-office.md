@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-order-reestablishes-fa
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 825
+heat: 845
 published: true
 
 provider:
@@ -446,6 +446,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/20/4b93c024-a9fd-4d25-a93d-8eaf1cd9c50d/thumbnail/1200x630/50a3b4649ee6472c910204255fb99bb8/ap21050827751388.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden, in Call With Xi, Talks of ‘Unfair Economic Practices’"
+    excerpt: "Joe Biden, in his first conversation as president with the Chinese leader Xi Jinping, spoke of his concern about China’s “coercive and unfair economic practices” as well as human rights ..."
+    publishedDateTime: 2021-02-11T09:29:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-10/biden-xi-plan-first-call-as-soon-as-wednesday-evening-in-u-s"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idTiG0oDAQck/v1/1200x800.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden aims to close Guantanamo Bay prison by the time he leaves office"
     excerpt: "The White House said on Friday that U.S. President Joe Biden aims to close the Guantanamo Bay prison by the time he leaves office, press secretary Jen Psaki told reporters in a daily briefing."

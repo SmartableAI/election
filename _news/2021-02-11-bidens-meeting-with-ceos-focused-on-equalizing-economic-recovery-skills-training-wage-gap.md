@@ -649,6 +649,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden raises concerns with Chinese president in first official phone call"
+    excerpt: "WASHINGTON — President Joe Biden spoke with Chinese President Xi Jinping by phone Wednesday evening for the first time since he took office, the White House said. The White House said in a ..."
+    publishedDateTime: 2021-02-12T10:24:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-raises-concerns-chinese-president-first-official-phone-call-n1257405"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257405"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257405"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_04/3446227/210129-joe-biden-oval-office-ac-537p_3c4ea66977d9bd7f093e311cf8612ce0.jpg"
+        width: 2500
+        height: 1675
+        isCached: true
   - title: "Biden under pressure to go nuclear to get minimum wage hike"
     excerpt: "The president said he doesn’t think a $15-an-hour wage increase will make it into the final Covid relief bill. And it’s unlikely his VP will push the rules to make it happen."
     publishedDateTime: 2021-02-11T09:36:00Z

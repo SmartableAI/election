@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-see
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp"
 type: article
 quality: 185
-heat: 725
+heat: 745
 published: true
 
 provider:
@@ -316,6 +316,22 @@ related:
     quality: 135
     images:
       - url: "https://images.wsj.net/im-304671/social"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Rick Scott Tries to Bridge Trump-McConnell Divide"
+    excerpt: "The Florida senator has the task of straddling the gulf between Senate Minority Leader Mitch McConnell and the former president as their party tries to present a united front to recapture the Senate in 2022."
+    publishedDateTime: 2021-02-26T14:26:00Z
+    webUrl: "https://www.wsj.com/articles/rick-scott-tries-to-bridge-trump-mcconnell-divide-11614349598"
+    ampWebUrl: "https://www.wsj.com/amp/articles/rick-scott-tries-to-bridge-trump-mcconnell-divide-11614349598"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/rick-scott-tries-to-bridge-trump-mcconnell-divide-11614349598"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-304587/social"
         width: 1280
         height: 640
         isCached: true

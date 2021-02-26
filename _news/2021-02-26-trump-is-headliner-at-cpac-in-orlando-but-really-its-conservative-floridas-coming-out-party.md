@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Golden Calf? Trump Statue At CPAC Draws Online Ridicule"
+    excerpt: "The rolling out of a golden caricature of former President Donald Trump at a conservative conference in Florida has brought about an online reaction of biblical proportions. Featuring panels on cancel culture,"
+    publishedDateTime: 2021-02-26T13:32:00Z
+    webUrl: "https://www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848"
+    ampWebUrl: "https://www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/10/donald-trump-remains-popular-and-powerful-among-republicans.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "ZdMnlYGAxR1Y59JMZsI14jRabp9mgXPR4OzO/t42sMMD5+zCk+0/6eCo+b5CCVdG+Bfb7WqJ7w0LWWW/ZT3QQRUI+OTHSZcBrCdHXxpW4fZsqhl30AX2Or0isfuVR8skWlmbd0Gt1bIAuJAypuy+L5RvtgE8K/DpIjxnE3qD0ADjfxN8b/P0ZIB8KEg9kpCHEE2/FF1CmVlpAleL8O5pkOS/MfaDl/9+o90dYzGXxh2YA0Up/5motYL7r+JlR2d+eSq6LjtEzYy3t7h5q5YEzSk/HlQY93ci0rnOpjWOcQcu5ToLfx9ltAldnPm6Vvk5kRdpR9g2EfKMaY4v3sxH8sOM2081+Rj7PgTkZACmFx0=;2zl7osAFl9IIP/f7GvnO4g=="
 ---
