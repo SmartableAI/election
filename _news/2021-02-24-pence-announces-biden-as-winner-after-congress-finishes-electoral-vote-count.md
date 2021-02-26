@@ -61,6 +61,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Biden choice for budget chief faces new hurdles in Congress"
+    excerpt: "The increasingly slim odds — and surprisingly thin outreach from the White House — for Neera Tanden’s nomination as head of the Office of Management and Budget are raising growing questions about how"
+    publishedDateTime: 2021-02-26T04:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1cb6fdeffac84dd6b4179796077178c8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Two senators join Manchin in opposing Biden budget pick Neera Tanden, putting nomination in peril"
     excerpt: "Neera Tanden has come under fire during the confirmation process for her past tweets and statements criticizing lawmakers on both sides of the aisle."
     publishedDateTime: 2021-02-22T16:47:00Z

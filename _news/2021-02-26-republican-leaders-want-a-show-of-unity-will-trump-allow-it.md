@@ -623,6 +623,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Manhattan prosecutor gets Trump tax records after long fight"
+    excerpt: "A New York prosecutor has obtained copies of Donald Trump’s tax records after the Supreme Court this week rejected the former president’s last-ditch effort to prevent them from being handed over"
+    publishedDateTime: 2021-02-26T04:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/manhattan-prosecutor-trump-tax-records-long-fight-76110456"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/manhattan-prosecutor-trump-tax-records-long-fight-76110456"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/manhattan-prosecutor-trump-tax-records-long-fight-76110456"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_89fd04d324f5413fa1373a2dacc2cbfc_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pull of partisanship helps Trump escape impeachment conviction: ANALYSIS"
     excerpt: "While seven Republicans joined all 50 Democrats in voting for former President Donald Trump 's conviction, the Senate fell 10 votes short of conviction. Trump was spared the ultimate punishment Congress could wield by powerful and familiar forces he has long understood,"
     publishedDateTime: 2021-02-13T22:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republica
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee"
 type: article
 quality: 125
-heat: 125
+heat: 145
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Trump is headliner at CPAC in Orlando. But really it's conservative Florida's coming-out party"
+    excerpt: "Former President Trump will mark his return at CPAC, but the four-day fest in Orlando is a coming out party for Florida's conservative leaders, too."
+    publishedDateTime: 2021-02-26T04:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/02/25/cpac-2021-trump-headline-orlando-event-its-also-where-florida-conservatives-gather/4576196001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4576196001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4576196001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/09/03/NPPP/d26f6e2d-4671-4c8e-99ad-4e9347c67ad3-Trump_Speech_86105.jpg-dcd1.JPG?auto=webp&crop=5471,3078,x0,y182&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "kykpO6ciwqSbEoMJZd37cxs67m22EpAsLQwmgSCTh/Uv+rGhBgxtV/tHWdEhc3X557wpGGq4bfY7aLUuWgxDXeEkbkBmaUC/l29knmzKZh1jFYYHw2OBethukgvzmgnS8IG9IREVDRWrwUD41zmnhHDvKSLsfjeXTcpV68cYJNRSHVwcGgSZVLv/KwYEL4q5Ftj2Uc61joZzzg51470a1M6O3xdVWGMVLdtPt+/47VCfGlAkAonI/M1OfLOJIYWUS/nUOsil2QYSznwc07kuypxWdGQO5XhlA39pLCcY3EvMVieJUFS29BXtc20SAdNw7/hnJeA95C8ug8Idd10DTvVjP0+qtjDm/mXqGfMZHQeo4mBGAUevTPE6+YZhGOsmPB+SnNU4JNqEC8n8Bi/ljGQFnJglO1Krw4gx+pMNetzsQIMX+sFctNB3ovZMEOn5t43SVg71SLCj5x8et3bZzpm1KfPI9ChVNjqQzHbRRpXXmWmQ2LBn2Y03rpcY2+ray0n4ntNZLtcXPlUmVt0ARQ==;R0H/Ci3M6hFBTdqIhMMMrw=="
 ---

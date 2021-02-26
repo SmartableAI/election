@@ -1,28 +1,34 @@
 ---
 category: news
-title: "McConnell Says He'd Support Trump if He Wins 2024 Nomination"
-excerpt: "Less than a month after excoriating Donald Trump in a blistering floor speech, Senate Minority Leader Mitch McConnell said Thursday that he would “absolutely” support the former president again if he secured the Republican nomination in 2024."
-publishedDateTime: 2021-02-26T02:26:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-25/mcconnell-says-hed-support-trump-if-he-wins-2024-nomination"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-02-25/mcconnell-says-hed-support-trump-if-he-wins-2024-nomination"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-25/mcconnell-says-hed-support-trump-if-he-wins-2024-nomination?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-25/mcconnell-says-hed-support-trump-if-he-wins-2024-nomination?context=amp"
+title: "McConnell says he'd support Trump if he wins 2024 nomination"
+excerpt: "Less than a month after excoriating Donald Trump in a blistering floor speech, Senate Minority Leader Mitch McConnell now says he would “absolutely” support the former president again if he secured th"
+publishedDateTime: 2021-02-26T04:06:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/mcconnell-hed-support-trump-wins-2024-nomination-76125920"
+webUrl: "https://abcnews.go.com/Politics/wireStory/mcconnell-hed-support-trump-wins-2024-nomination-76125920"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/mcconnell-hed-support-trump-wins-2024-nomination-76125920"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/mcconnell-hed-support-trump-wins-2024-nomination-76125920"
 type: article
-quality: 55
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_e175ee42a4384abd84202cd19ea387dc_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "Analysis: McConnell was done with Trump. His party said not so fast."
@@ -74,6 +80,6 @@ related:
         height: 960
         isCached: true
 
-secured: "hhK0u2+92P8BTBnfuRimm7FJVH02JzhHQ+fyZaRiTaz82HHl1blfqlT5E2VeXppnjw6BlzFdfNr5T4DSIcrDBXvuw9p2d/YXOTNaC2CLjoxvXLIeX7TSZLiuKfwUOAtHCZhoxx0F1tC6ksBfmpfIFNBY4HeQFKERncHpxe7sqXXAkyPjolEo1ivz4M0OFb+TbnIwQR+Wqf6QT53fx491vdPlXBqgaxOCK3stKeAJ1HNuWzfi7JCXdDRWUDWlaPwIxQ2hFXSEQ0sJaL7KNx/8XYgpa18rM9qchoEWWIQX3AbrlgutgIpUEeZgFgOyU6eSlgikoXNtmB8A9R4E2bTEV2rCg+ggdYcvwgB2HvuUJSn6eNKJosgbkIIVokYu3VcVdMx6JyooORYk3KG4b4PpksgLrdRo3eovAcke0P8DZSuWyfsErg1udlkg1rfEGbuFOkLpFFsrwYXRzrD/tCj9vL4xr6ejZATOw0zQJ4pAd1eZxptYgSV0uxWyduFBgg0XfIXbr1I9MzCGDf5IlaFxhg==;L09r5IAuzLL2VMgkCUNQ6w=="
+secured: "6f1IeJ/Lzg6etrKFG2B0vUpL9fRNayS4LhJ6zV/jGI6Jvrb+64+EnCOYLsF6k4HILxiqkQ68WI6a9OZyijlgBVckvnZMHtgYjhOY2R3qFP7/YEmKTgmNCSobvKNldP3jmzYQ5IE4dZxx7N9SxxtHWQGSkrkxqzILGg5qcuq9oph4IqAaIahVSDVPWtY8wo9F+0TK3xmXS/w2d2U6eXmgTgt/FQ8GlJzpkD8KRIh3PtS/hds5i0aJXDyxXWzoHrQLvqdrJ1d31TROScrogyi89svKrpXnhQEIophLfg5tCTquveeDo739nCC/9+r28HICIGOIH+pgs9JqkiUbrwmB7X1/q9Pl7dkk6gCHoagV6pI=;TX8Sh+tETZzE6Q4uziUqBQ=="
 ---
 

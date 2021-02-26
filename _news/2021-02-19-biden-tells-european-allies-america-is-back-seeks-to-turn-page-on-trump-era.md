@@ -111,6 +111,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden revokes Trump order that cut funding for ‘anarchist’ cities after riots"
+    excerpt: "President Biden this week revoked several executive orders issued by President Donald Trump, including one that called for a review of funding given to so-called “anarchist” cities."
+    publishedDateTime: 2021-02-26T03:28:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OXQ7JEKekpA/biden-revokes-trump-order-funding-anarchist-cities-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-revokes-trump-order-funding-anarchist-cities-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-revokes-trump-order-funding-anarchist-cities-riots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ad8e56e-865f-4e90-ba49-06c59247a3f7/f71aaed0-d9e1-4fb6-9658-2a40da2880f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to issue new immigration orders as part of push to roll back Trump-era policies"
     excerpt: "President Biden on Tuesday will sign three executive orders on illegal and legal immigration -- as part of an aggressive push in the early days of his presidency to roll back many of his predecessor’s policies."
     publishedDateTime: 2021-02-02T14:07:13Z

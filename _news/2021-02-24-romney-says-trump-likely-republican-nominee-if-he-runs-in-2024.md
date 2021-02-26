@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/romney-says-trump-likely-republican
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024.amp"
 type: article
 quality: 135
-heat: 135
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Donald Trump Jr.: Donald Trump is ‘still the future of the Republican Party’"
+    excerpt: "Former President Donald Trump is the future of the Republican Party, his eldest son Donald Trump Jr. argued on Thursday."
+    publishedDateTime: 2021-02-26T04:20:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pgbpZAToxZU/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "Qdy+MkQHyiPZPSHToG1Sk5Em3rB8evvcggoHStzezoavRoXvD2FASAQPDd3YwqN/BlZ7M4mblZTCmaafp104gnTWlZcqs6VeOGdebqfDlo2UpP2eK2DA3GZhhZrIVOdoOBPwxaAqQORPfZ0WpLR+hAxT+a+X1u2ZyPsaYtCaG2DvwkUPWbDFB4Ue4POEw77pXpg9yOtDnwhrBNQZSYM3ROaJLY3Tx4uIrIXRM4gWtf5nVLnDn2wkQ9LI7Qb7vtB9KaEkkTzxaF+obmQtJIhXty87oV3s0398qrnjJtrRdOqXQ6AiIXO9hf5jXPuYkbqrAVCwQq0SCxPTRWqezu8snufj8xZPdFEeIekCuxR06uM=;XnuwPVnG7vCGIztWtBFCeg=="
 ---

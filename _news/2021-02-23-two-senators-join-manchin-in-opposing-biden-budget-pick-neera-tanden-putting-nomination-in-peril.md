@@ -63,6 +63,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Biden choice for budget chief faces new hurdles in Congress"
+    excerpt: "The increasingly slim odds — and surprisingly thin outreach from the White House — for Neera Tanden’s nomination as head of the Office of Management and Budget are raising growing questions about how"
+    publishedDateTime: 2021-02-26T04:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1cb6fdeffac84dd6b4179796077178c8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
     excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
     publishedDateTime: 2021-02-24T02:38:00Z

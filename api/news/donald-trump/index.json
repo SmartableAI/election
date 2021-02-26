@@ -466,63 +466,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-24-romney-says-trump-likely-republican-nominee-if-he-runs-in-2024.md",
-      "title": "Romney says Trump likely Republican nominee if he runs in 2024",
-      "excerpt": "Sen. Mitt Romney reportedly said Tuesday if former President Trump were to run again he would likely win the Republican nomination for president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024",
-      "originalUrl": "https://www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/719aef80-9299-4f19-8167-e35b9b675e7b/b035c72e-7866-4a53-b1aa-5f42e54dda76/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024.amp",
-      "publishedDateTime": "2021-02-23T21:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-24-trumps-enablers-meet-the-125-people-and-institutions-most-responsible-for-his-rise-to-power.md",
       "title": "Trump's enablers: Meet the 125 people and institutions most responsible for his rise to power",
       "excerpt": "Donald Trump's unprecedented presidency didn't happen without help — lots of it. Insider compiled this exclusive list of the most important people and entities behind the 45th president of the United States.",
@@ -739,7 +682,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -1009,7 +952,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1347,
+      "heat": 1387,
       "tags": null,
       "images": [
         {
@@ -1550,7 +1493,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2120,
+      "heat": 2140,
       "tags": null,
       "images": [
         {
@@ -1574,6 +1517,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-trump-hotel-employees-say-they-had-to-pretend-to-support-the-president-inside-i-was-dying.md",
+      "title": "Trump hotel employees say they had to pretend to support the president: 'Inside I was dying'",
+      "excerpt": "For employees at the Trump International Hotel who weren't Donald Trump supporters, pretending to be one was an unwritten rule of the job.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2",
+      "originalUrl": "https://www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/602fe0d8a06a8e0018ce442e?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hotel-employees-pretended-support-him-2021-2?amp",
+      "publishedDateTime": "2021-02-19T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

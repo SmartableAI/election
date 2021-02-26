@@ -112,6 +112,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden revokes Trump order that cut funding for ‘anarchist’ cities after riots"
+    excerpt: "President Biden this week revoked several executive orders issued by President Donald Trump, including one that called for a review of funding given to so-called “anarchist” cities."
+    publishedDateTime: 2021-02-26T03:28:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OXQ7JEKekpA/biden-revokes-trump-order-funding-anarchist-cities-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-revokes-trump-order-funding-anarchist-cities-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-revokes-trump-order-funding-anarchist-cities-riots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 187
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ad8e56e-865f-4e90-ba49-06c59247a3f7/f71aaed0-d9e1-4fb6-9658-2a40da2880f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden tells European allies ‘America is back,’ seeks to turn page on Trump era"
     excerpt: "President Biden on Friday hailed the importance of the alliance between the U.S. and Europe, while also taking a number of thinly-veiled shots at his predecessor."
     publishedDateTime: 2021-02-19T22:08:10Z

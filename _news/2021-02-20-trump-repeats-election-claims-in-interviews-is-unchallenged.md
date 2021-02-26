@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
 type: article
 quality: 140
-heat: 2120
+heat: 2140
 published: true
 
 provider:
@@ -606,6 +606,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/24/b2bfa4b8-1839-41b2-9010-7491f121d595/thumbnail/1200x630g2/513b98f650a3127b6219ce0b54673faa/gettyimages-1230434542.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Manhattan prosecutor gets Trump tax records after long fight"
+    excerpt: "A New York prosecutor has obtained copies of Donald Trump’s tax records after the Supreme Court this week rejected the former president’s last-ditch effort to prevent them from being handed over"
+    publishedDateTime: 2021-02-26T04:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/manhattan-prosecutor-trump-tax-records-long-fight-76110456"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/manhattan-prosecutor-trump-tax-records-long-fight-76110456"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/manhattan-prosecutor-trump-tax-records-long-fight-76110456"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_89fd04d324f5413fa1373a2dacc2cbfc_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Republican leaders want a show of unity. Will Trump allow it?"
     excerpt: "The next few days will give Republicans opportunities to stand together or fight among themselves, first when the House of Representatives votes on a $1.9 trillion coronavirus package on Friday and again when Donald Trump retakes the global spotlight in a speech to the"
