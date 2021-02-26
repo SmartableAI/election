@@ -1,32 +1,33 @@
 ---
 category: news
-title: "Biden signs executive order targeting America's supply chains in critical areas"
-excerpt: "Each of the four sectors identified by the order will undergo a 100-day review to assess vulnerabilities and areas for improvement."
-publishedDateTime: 2021-02-25T20:13:00Z
-originalUrl: "https://www.nbcnews.com/politics/white-house/biden-sign-executive-order-targeting-america-s-supply-chains-critical-n1258684"
-webUrl: "https://www.nbcnews.com/politics/white-house/biden-sign-executive-order-targeting-america-s-supply-chains-critical-n1258684"
+title: "House is set for historic down payment on Biden's legacy"
+excerpt: "At any other time, the imminent House passage of a gargantuan $1.9 trillion bill that addresses many of the foundational goals of a new presidency would be regarded as a smashing victory for a White House only six weeks into a first term.\n    \n"
+publishedDateTime: 2021-02-26T12:23:13Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ldaRoNyfbrQ/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ldaRoNyfbrQ/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/president-joe-biden-covid-relief-minimum-wage/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/president-joe-biden-covid-relief-minimum-wage/index.html"
 type: article
-quality: 111
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://media2.s-nbcnews.com/j/newscms/2021_08/3452468/210224-joe-biden-executive-order-jm-1714_757177ffbf5b58b9e5cb93f76b08c6f5.nbcnews-fp-1200-630.jpg"
-    width: 1200
-    height: 630
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222190511-biden-pelosi-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -43,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219122934-01-biden-munich-security-conference-0219-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "House is set for historic down payment on Biden's legacy"
-    excerpt: "At any other time, the imminent House passage of a gargantuan $1.9 trillion bill that addresses many of the foundational goals of a new presidency would be regarded as a smashing victory for a White House only six weeks into a first term.\n    \n"
-    publishedDateTime: 2021-02-26T12:23:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ldaRoNyfbrQ/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/president-joe-biden-covid-relief-minimum-wage/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/president-joe-biden-covid-relief-minimum-wage/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222190511-biden-pelosi-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -108,7 +93,21 @@ related:
         width: 1201
         height: 629
         isCached: true
+  - title: "Biden signs executive order targeting America's supply chains in critical areas"
+    excerpt: "Each of the four sectors identified by the order will undergo a 100-day review to assess vulnerabilities and areas for improvement."
+    publishedDateTime: 2021-02-25T20:13:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-sign-executive-order-targeting-america-s-supply-chains-critical-n1258684"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 111
+    images:
+      - url: "https://media2.s-nbcnews.com/j/newscms/2021_08/3452468/210224-joe-biden-executive-order-jm-1714_757177ffbf5b58b9e5cb93f76b08c6f5.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "PWlNhcjm6CY2Rig9k4H+St5+xjH7N3VwBp1jw4tXwf5DTnXYwLYgmyTgDzNie3sYSeMVEEu2Py9eVVu7iUZ2+xnShOGqvUdMWRPAsiOvAjcmavynv93T15hj+S2whPes+lPFBJE+IX+HV/9fMnGqWlU7aSzx1likaiTieBI65CfdejT5mp4P3nHTYUcrGwcTRISzbkOvOVscpJ8ShmfInNwDyCg3MmlYwGDTHPf0rj6XeFr7tWTuP6kks8+AWDvd8XsafUmmQ4+hTisUznRZjl0eykn1lmcmmA41ly+s5ShA64EwuFKuPWD/01Lg02gXzACNvRwV7ivvtN8LL4L4YF4zrhz0kQNeRUrFyVaT7ieAE9VtidDmfqsAgsAxuqWDmiU8E0FZcp5XqOqP1q7ZgIur+6RV+B0nW+HpZf+Eacsy0gLQ+27pKaOZJF8K4Iier0cvxMfpAbSj5friNSgJ0Tk+CKLG8yiox/Jkrrc3lidCtMVM+h/iIOAvCLRaZ3LA3YzlJMFEWiW+cu4XIWJBTg==;qgRn5ackip30G8Iun/Deww=="
+secured: "PfcmucwIsxJGFeo36OUeqaJSkgU2T+PLSPJpjG2Pye0LnB4OELLolGN+IQtP++rfGG22TJoRQrzC2+06RfC9wfX9P3WlhBmTEu3/xrAlmcOgUtF/YPiKiCC+YKc30wsGu3Tlcg1G6nMh/sE1F+fecXG5BnTmYsoQWVPr2KmmsNtQWPSBCd4u9QRbZWMP31fpIwlDvzZ/YkbRkv9KuCKE5X8MLUP8QUT69rrlJNltVf3WsqXPoC7wEzm5S3jghosQYUSb4WelaVemX6pBnjbYwQMRqGDccgBNU55jadjltp/weGMfcA9Ns6mYKOEAZUMtJWNgeqkEuSUg6zJff6ULEvhZaaqOYXCmGVzN/OI+ITg=;+L1yxYpMajeDT10P7J1rFw=="
 ---
 

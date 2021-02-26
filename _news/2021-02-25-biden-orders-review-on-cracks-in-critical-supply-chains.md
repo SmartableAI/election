@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House is set for historic down payment on Biden's legacy"
+    excerpt: "At any other time, the imminent House passage of a gargantuan $1.9 trillion bill that addresses many of the foundational goals of a new presidency would be regarded as a smashing victory for a White House only six weeks into a first term.\n    \n"
+    publishedDateTime: 2021-02-26T12:23:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ldaRoNyfbrQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/president-joe-biden-covid-relief-minimum-wage/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/president-joe-biden-covid-relief-minimum-wage/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222190511-biden-pelosi-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Congressional Republicans risk backlash as they unite against Biden's Covid relief plan "
     excerpt: "Democrats and Republicans tangled over the size and scope of Joe Biden's $1.9 trillion Covid-19 relief plan Wednesday, despite the broad public support for the package and a new push by business leaders to get it passed -- a sign of the difficulties facing the new President, who had hoped to be a bridge"
     publishedDateTime: 2021-02-25T11:30:21Z

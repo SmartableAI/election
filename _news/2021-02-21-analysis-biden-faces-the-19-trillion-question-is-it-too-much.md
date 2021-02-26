@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/biden-covid-relief-plan-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/biden-covid-relief-plan-economists/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "House to vote on Biden's $1.9 trillion Covid relief package Friday"
+    excerpt: "The House of Representatives will vote on Friday to approve President Joe Biden's $1.9 trillion pandemic aid package, a major step toward enacting the first legislative priority of the new administration as the devastating fallout from the spread of Covid-19 has left Americans in dire need of further"
+    publishedDateTime: 2021-02-26T12:05:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XmPOboYXgMU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/stimulus-package-covid-relief-house-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/stimulus-package-covid-relief-house-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219161318-01-pelosi-house-dems-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Economist: Biden's $1.9 trillion stimulus plan is not too large"
     excerpt: "President Joe Biden has rejected criticism that his $1.9 trillion stimulus plan is too large. Economist Paul Krugman discusses with CNN's Richard Quest discuss whether Biden's plan will cause inflation as many critics fear."
     publishedDateTime: 2021-02-22T21:14:00Z

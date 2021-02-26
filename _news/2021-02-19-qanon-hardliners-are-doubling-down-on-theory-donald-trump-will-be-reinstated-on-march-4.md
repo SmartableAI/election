@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump to reemerge at CPAC as GOP tries to plot its future"
+    excerpt: "\"There's no question that the gun has gone off on the 2024 campaign for the Republican nomination,\" says American Conservative Union chairman Matt Schlapp."
+    publishedDateTime: 2021-02-26T11:00:00Z
+    webUrl: "https://www.cbsnews.com/news/cpac-2021-trump-2024-preview/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/26/7558afe2-990a-4ffc-8429-7f2e6f9d3f9a/thumbnail/1200x630/8e24dcc458effb4e504fa3ad24b93094/ap21057076398977.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Donald Trump Jr. uses a wall of guns as backdrop to launch video attack against teaching unions"
     excerpt: "Donald Trump Jr. stood in front of a wall of guns while declaring teachers \"out of control\" in the clip shared on a Canadian video site."
     publishedDateTime: 2021-02-22T15:16:00Z

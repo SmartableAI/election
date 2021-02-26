@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Joe Biden addresses nation as US passes 500,000 coronavirus deaths – live"
-excerpt: "I know what it’s like’"
-publishedDateTime: 2021-02-22T22:12:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-6034355a8f08614ccf103960"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-6034355a8f08614ccf103960"
-ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+title: "One month in, Biden angers supporters who wanted him to curb standardized testing"
+excerpt: "Joe Biden appeared at an education forum and was asked if he would commit to ending standardized testing in public schools if elected president. His answer was surprising — given that the Obama administration,"
+publishedDateTime: 2021-02-26T10:59:00Z
+originalUrl: "https://www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/"
+webUrl: "https://www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/"
+ampWebUrl: "https://www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/?outputType=amp"
 type: article
-quality: 124
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/6857911a6bb4c3291e82fb3183002181fc7d0fc5/0_269_5443_3266/master/5443.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=64f476420fa5563ee7ddd942157d6fea"
-    width: 600
-    height: 360
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GE53ZPDMBQI6XJTO4JYEN2PITA.jpg&w=1440"
+    width: 1440
+    height: 971
     isCached: true
 
 related:
@@ -511,6 +511,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Joe Biden addresses nation as US passes 500,000 coronavirus deaths – live"
+    excerpt: "I know what it’s like’"
+    publishedDateTime: 2021-02-22T22:12:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-6034355a8f08614ccf103960"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
+    images:
+      - url: "https://i.guim.co.uk/img/media/6857911a6bb4c3291e82fb3183002181fc7d0fc5/0_269_5443_3266/master/5443.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=64f476420fa5563ee7ddd942157d6fea"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden disappointed in Senate official's minimum wage ruling: White House"
     excerpt: "U.S. President Joe Biden is disappointed in the ruling by the Senate parliamentarian that the chamber cannot include his proposed $15-an-hour minimum wage in a $1.9 trillion coronavirus bill, White House spokeswoman Jen Psaki said on Thursday."
     publishedDateTime: 2021-02-26T06:56:00Z
@@ -718,22 +734,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/psaki-ap-ml-210224_1614190929772_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
-        isCached: true
-  - title: "One month in, Biden angers supporters who wanted him to curb standardized testing"
-    excerpt: "Joe Biden appeared at an education forum and was asked if he would commit to ending standardized testing in public schools if elected president. His answer was surprising — given that the Obama administration,"
-    publishedDateTime: 2021-02-26T10:59:00Z
-    webUrl: "https://www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/"
-    ampWebUrl: "https://www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 120
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GE53ZPDMBQI6XJTO4JYEN2PITA.jpg&w=1440"
-        width: 1440
-        height: 971
         isCached: true
   - title: "Biden's 1st 100 days live updates: 9/11-type commission to investigate insurrection"
     excerpt: "U.S. Capitol. \"Now, as always, security is the order of the day: the security of our country, the security of our Capitol which is the temple of our democracy, and the security of our Members,\" she wrote in a letter to her Democratic colleagues."
@@ -1037,6 +1037,6 @@ related:
         height: 630
         isCached: true
 
-secured: "FLkVPTH2uhGEis+shOLN6Z5HFFYhl1ngb/BlAoaUbWVCDISwTsfH35OsuigFocVaWJpzTBxZkDVDGTtoU/PC+qVKbwKwnwetnLCTBfi2TjLAGF6eiS0ZhNSv44TCHLvjuj1broqSblXxRiW6eXc6s/43ARzHlZFQviMs9h3G0zGe7nDDIC0FRa2RETkJGDkRdmZR3uhJw49Eel1o4eSP5/NH0PPcd+ktzOJU2dYUFlZ6FbAgVfKbo/BSJlr5nFbicfVF79zAOri+aHAqqbjX5ixboJJ771KpYvAAvDP4snR+58C0uqFWT0IhY0Wn0/TSLhREmKbkCTj3hv6vIDxZ7N0gcuwZCt4FfIjJsFRWX287XIEGAbzXz9QJXuY75sI0njwpbh2+IkC5EPPOJUI4fjVtwNm/n33ze8KEIfmQd7zy7ejBproXsY9GIwJoy2kNChLo9o6nV97gQF1rVgDzwQ2lXSHkqfNJZc+PXOlaaW/nSZZKMUEAgU4pFXIJSHiKcxeCQQdKvEsZmDCNEPQDQQ==;Nhtsrw3iJVOrZ1S9GHs8vQ=="
+secured: "FdYaV8iyv4NYFnLyhjiA9wqbycp0wRWj7uvDqB5qxXqBYxBIyStlAC3iKF9/hVaN9SJFmvksRcfPqQsALiAKNHo9dJDSon/UZfD0ZRT3yLccFNBilvtkQtS5flX1lj53zXCz/PLLc4NeB59XvptfqdBC7v0wI699Vr0LSgFz37tAylHlkVxc/npgYy5B33ymk7dQUGbYuBQ5wlyDYh2gfUnchsrP6pPOCktFhW6TCKiOeEylbawbRRlHXCdPqkdcg9Sn+wotfGKLw9rRCTve4Pc0qOt5F0RsjjTn7owW/OCt/8IXhgnun8tfzMXitBg3ZuwYDJyJ87Sxck2WbRq13fkFXuvkf76s/d88Vdb+CQw=;gPP4MbzbBAJffPXrwCa9GQ=="
 ---
 

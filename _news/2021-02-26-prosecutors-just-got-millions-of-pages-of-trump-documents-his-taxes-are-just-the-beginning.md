@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump returns and Republican 2024 prospects seek breakout moments at CPAC gathering"
+    excerpt: "Republican politicians, media personalities and activists are gathering this weekend in Florida for the annual Conservative Political Action Conference, an event that could offer an early window into the party's 2024 presidential contest while also amplifying false claims that the 2020 election was stolen.\n"
+    publishedDateTime: 2021-02-26T11:17:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z1araHTqzZI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/cpac-2021-trump-schedule-friday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/cpac-2021-trump-schedule-friday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225164855-01-cpac-0225-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What the Supreme Court ruling means for Manhattan DA's Trump criminal investigation "
     excerpt: "After 17 months and two trips to the US Supreme Court, the Manhattan district attorney's criminal investigation into former President Donald Trump's business has received a significant boost with investigators now able to pour over Trump's tax returns and financial records.\n    \n"
     publishedDateTime: 2021-02-22T20:16:43Z

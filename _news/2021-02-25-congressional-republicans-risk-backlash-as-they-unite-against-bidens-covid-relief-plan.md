@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House is set for historic down payment on Biden's legacy"
+    excerpt: "At any other time, the imminent House passage of a gargantuan $1.9 trillion bill that addresses many of the foundational goals of a new presidency would be regarded as a smashing victory for a White House only six weeks into a first term.\n    \n"
+    publishedDateTime: 2021-02-26T12:23:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ldaRoNyfbrQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/president-joe-biden-covid-relief-minimum-wage/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/president-joe-biden-covid-relief-minimum-wage/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222190511-biden-pelosi-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden orders review on cracks in critical supply chains"
     excerpt: "President Joe Biden wants his administration to identify and fix potential cracks in supply chains that could cause shortages of critical items like chips inside cars, minerals in flat-screen televisions,"
     publishedDateTime: 2021-02-24T17:24:00Z

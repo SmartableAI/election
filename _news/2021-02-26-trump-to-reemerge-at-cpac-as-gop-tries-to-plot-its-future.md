@@ -1,20 +1,22 @@
 ---
 category: news
-title: "The GOP's first 2024 cattle call is almost here. By the looks of the CPAC speaking roster, it's gearing up to be a very Trump-friendly affair."
-excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
-publishedDateTime: 2021-02-17T10:02:00Z
-originalUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
-webUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
+title: "Trump to reemerge at CPAC as GOP tries to plot its future"
+excerpt: "\"There's no question that the gun has gone off on the 2024 campaign for the Republican nomination,\" says American Conservative Union chairman Matt Schlapp."
+publishedDateTime: 2021-02-26T11:00:00Z
+originalUrl: "https://www.cbsnews.com/news/cpac-2021-trump-2024-preview/"
+webUrl: "https://www.cbsnews.com/news/cpac-2021-trump-2024-preview/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
 type: article
-quality: 69
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/602c67945847630018323658?width=1200&format=jpeg"
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/26/7558afe2-990a-4ffc-8429-7f2e6f9d3f9a/thumbnail/1200x630/8e24dcc458effb4e504fa3ad24b93094/ap21057076398977.jpg"
     width: 1200
-    height: 600
+    height: 630
     isCached: true
 
 related:
@@ -60,22 +62,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_75282de617dd461fa98147b4ae80b735_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Trump to reemerge at CPAC as GOP tries to plot its future"
-    excerpt: "\"There's no question that the gun has gone off on the 2024 campaign for the Republican nomination,\" says American Conservative Union chairman Matt Schlapp."
-    publishedDateTime: 2021-02-26T11:00:00Z
-    webUrl: "https://www.cbsnews.com/news/cpac-2021-trump-2024-preview/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/26/7558afe2-990a-4ffc-8429-7f2e6f9d3f9a/thumbnail/1200x630/8e24dcc458effb4e504fa3ad24b93094/ap21057076398977.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4"
     excerpt: "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4."
@@ -141,6 +127,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The GOP's first 2024 cattle call is almost here. By the looks of the CPAC speaking roster, it's gearing up to be a very Trump-friendly affair."
+    excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
+    publishedDateTime: 2021-02-17T10:02:00Z
+    webUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 69
+    images:
+      - url: "https://i.insider.com/602c67945847630018323658?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "South Carolina Lawmaker: Trump Can Be Buried at Our Capitol"
     excerpt: "A South Carolina Republican lawmaker says he is filing a bill that would allow former President Donald Trump to buried on the grounds of the state Capitol if Trump is banned from being buried at Arlington National Cemetery."
     publishedDateTime: 2021-02-25T22:07:00Z
@@ -153,6 +153,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "y4Jms2uSpnkZ1rLOjZJv3/PT4HgkVly8SEDdNIwVZm7sEII2H28UudA6tPuFknuLhrffJhCRZqiw9Rr8dl15GT1XbgDtNM8stFE0zcrfjijT5TiQWrGpkrB70mMXSm8VUsiEUTtP7h+b34+Yccwy3Ro/bRoFGMgg8LjWmkw5ta0VLFITkHf4wEPoXwouWJrMU2CWecMXVYa1XshCsgqgOCsxUnG5XSshjk5gQXjbGKEn6iduVGU4VREQ2IUNgdxGuU47ToU75pSn44nOatq5lXz9Xsst/dop5HJBVZLV9XnFpfOyAK/WfciXFNTgzxza/TJt1cPHhOD3SjR2FuN6/QpRF4nF74uHZxoNc6YMsc4ugIPM30CTTTt3tu3HDPO+Oo14RxQV/tNyr0D6upCst2k/9MvId50RDbnx9YJ/tXrdQlaFBXmlG7bu9eJo98HubJSjF2WbCJDSJDk8ISbhXjfg/ccu9PfNsDoSh3oPyZO2nWtcpkKtigSXYJpogAoLuGVCQL7d1RKBhJeXGRREcA==;NCDwaJ+xBC5c4PFAyB/FBw=="
+secured: "Ex0LrIuqQCp2SIFVamsZTwv9b3ph9vNadGKuETMbmfk2VZ/P4pb2UQT8kgqGV3XBzWJPQriDRPhhqO9+/NPGstD67Q9JPouJSnV2sSY7PR8/YKb9ifdAXmyHHw9+VXGnMJh/hjLBIMeb3adSuq8FRH0VaQUaH3ISTXpHfAt5GMgZ6cd+PlG2cvUtGgsJK8f4uVBUmJPc95wf37uUqeBtJ/arBLgXhmPLT2WwvU3ApFbRUKwI0kuLips8G4rQfAfOBhqEm0zrLUF053Ua4mMiWfiwJ4BJdlGIgrqDmEE3WEYAnhUH/5AUh3lrOXD6dEjWKUk0P69EwUv3qBRZ1388l44WMiRTyW+JNPLOdmhc/bM=;wMgLj7f73rF4tpvG+MRbbw=="
 ---
 

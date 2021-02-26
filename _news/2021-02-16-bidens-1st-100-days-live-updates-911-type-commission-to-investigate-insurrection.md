@@ -735,6 +735,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "One month in, Biden angers supporters who wanted him to curb standardized testing"
+    excerpt: "Joe Biden appeared at an education forum and was asked if he would commit to ending standardized testing in public schools if elected president. His answer was surprising — given that the Obama administration,"
+    publishedDateTime: 2021-02-26T10:59:00Z
+    webUrl: "https://www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/"
+    ampWebUrl: "https://www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GE53ZPDMBQI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 971
+        isCached: true
   - title: "Biden will ask DOJ to review his authority to cancel student loan debt - White House"
     excerpt: "President Joe Biden will ask the Department of Justice to review his legal authority to cancel student loan debt, the White House said on Wednesday, adding the president does not favor $50,000 in student loan relief without limitation."
     publishedDateTime: 2021-02-18T00:20:00Z

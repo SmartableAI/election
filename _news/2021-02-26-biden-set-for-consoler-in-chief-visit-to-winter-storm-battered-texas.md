@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to travel to Houston on Friday in the wake of extreme weather and power outages"
-excerpt: "President Joe Biden and first lady Jill Biden will travel to Houston on Friday as the state works to recover from major winter storms and power outages.\n    \n"
-publishedDateTime: 2021-02-23T18:37:34Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F4v-Wt-9Pbo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F4v-Wt-9Pbo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
+title: "Biden set for consoler-in-chief visit to winter storm-battered Texas"
+excerpt: "President Joe Biden will embrace a familiar role on his trip to Houston Friday as he seeks to offer both comfort and federal support after a severe winter storm-battered Texas and left millions without power, heat or water.\n    \n"
+publishedDateTime: 2021-02-26T12:38:49Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iMIAS5nRgcE/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iMIAS5nRgcE/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/biden-texas-visit/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/biden-texas-visit/index.html"
 type: article
-quality: 168
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223052228-texas-power-lines-021621-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222181225-03-biden-covid-deaths-0222-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -111,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden set for consoler-in-chief visit to winter storm-battered Texas"
-    excerpt: "President Joe Biden will embrace a familiar role on his trip to Houston Friday as he seeks to offer both comfort and federal support after a severe winter storm-battered Texas and left millions without power, heat or water.\n    \n"
-    publishedDateTime: 2021-02-26T12:38:49Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iMIAS5nRgcE/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/biden-texas-visit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/biden-texas-visit/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222181225-03-biden-covid-deaths-0222-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "How Biden's massive Covid relief bill was put on a glide path to passage"
     excerpt: "It's not supposed to look this easy.\n    \n"
     publishedDateTime: 2021-02-20T01:42:46Z
@@ -172,6 +156,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210216213824-10-biden-town-hall-0216-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to travel to Houston on Friday in the wake of extreme weather and power outages"
+    excerpt: "President Joe Biden and first lady Jill Biden will travel to Houston on Friday as the state works to recover from major winter storms and power outages.\n    \n"
+    publishedDateTime: 2021-02-23T18:37:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F4v-Wt-9Pbo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223052228-texas-power-lines-021621-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -272,6 +272,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "lPEarh1b5YTJsBdVK4+6bP4OxgfXpA2S/1AzTk3SoAvvquZk31dta552hTu1n17TVS/t0Nn/V5rP047uyddwVG0aAE+x6/CUIiIMVM74w+CVQcgdOt9kx4pgI3AiOej9CQ/uDd5IhM5t+6J9FQ6jY2/+GuSWC5o45+X5Xcf2hmpAwgjBRsf9GnD5ZysqSFgfumQvqf6sflkaPUw0OMkE6vY/33Pw+Sn+SqBdy/sw1WG03mJT+ilozmr/WWWbS7t+eJFH1J+CqGsQvh4VDlvx7cXwjQ4vgz1/M9i7rrDz5QjnGXQHpCmB5qcGqhP/SVzARfO7158mnDF+oOcDNHiDKkff0quatzy3DfGF3Xhh9EY=;wNe7DZbhsaVidlhQKbI8vA=="
+secured: "FMiQMtFj5SIaMrUIZ5kl5yMMPN7x2dkinCDaXGo4NfL87MqTf9fsSfs8CQN94EBa/C67H7CZmHTOJQPls3NunP8GKDMK51DAcBHcveyUQ+gCYOghRKxLBKLVFVm+TC/065qRCxoOT61KQwatVdIPq/TIvDkP5mG9ka5SkUXsoqPrsiScWM25qLUUdG2RXodFbOUQHEFicQ0TwaYdpea4q4vi63eKOHWlclfon7VDpxkxlzpbZRy/QFOFwbXqZnSYWezfoHVHIpCHKR/VN3jeZk2M6iWLGvpQ2ffJ7enXMom8cgn7Xoy/rYBoQsRToWhLWa2ZHwccAPyUQpgLYdlUNd8kUCJMFP2j6kqQYWc13Kk=;7Re8Upl8RvfKrxGq05OYAQ=="
 ---
 

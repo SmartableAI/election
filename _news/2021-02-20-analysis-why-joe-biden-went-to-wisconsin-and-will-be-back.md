@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set for consoler-in-chief visit to winter storm-battered Texas"
+    excerpt: "President Joe Biden will embrace a familiar role on his trip to Houston Friday as he seeks to offer both comfort and federal support after a severe winter storm-battered Texas and left millions without power, heat or water.\n    \n"
+    publishedDateTime: 2021-02-26T12:38:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iMIAS5nRgcE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/biden-texas-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/biden-texas-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222181225-03-biden-covid-deaths-0222-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How Biden's massive Covid relief bill was put on a glide path to passage"
     excerpt: "It's not supposed to look this easy.\n    \n"
     publishedDateTime: 2021-02-20T01:42:46Z
@@ -222,6 +238,22 @@ related:
       - url: "https://static.politico.com/93/27/cfd6acd548f78dbc89bcb4b60c0a/210224-louis-dejoy-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Biden, first lady to travel to Texas as state recovers from historic winter storm"
+    excerpt: "President Joe Biden and first lady Jill Biden will travel to Houston Friday to survey the damage from Texas' recent historic winter storm, the president’s first trip as commander-in-chief to a state following a natural disaster."
+    publishedDateTime: 2021-02-26T12:45:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-first-lady-travel-texas-state-recovers-historic-winter-storm-n1258927"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258927"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258927"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_08/3452885/210226-joe-jill-biden-mc1148_dce6f67141587d61cc2188978c4ef755.JPG"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "President Biden declares major disaster for much of Texas following severe winter storm"
     excerpt: "The move unlocks federal money for the state after a dayslong freeze resulted in deaths, power outages and boil water orders."

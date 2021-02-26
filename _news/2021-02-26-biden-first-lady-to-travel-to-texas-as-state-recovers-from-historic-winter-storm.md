@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden to travel to Houston on Friday in the wake of extreme weather and power outages"
-excerpt: "President Joe Biden and first lady Jill Biden will travel to Houston on Friday as the state works to recover from major winter storms and power outages.\n    \n"
-publishedDateTime: 2021-02-23T18:37:34Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F4v-Wt-9Pbo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F4v-Wt-9Pbo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
+title: "Biden, first lady to travel to Texas as state recovers from historic winter storm"
+excerpt: "President Joe Biden and first lady Jill Biden will travel to Houston Friday to survey the damage from Texas' recent historic winter storm, the president’s first trip as commander-in-chief to a state following a natural disaster."
+publishedDateTime: 2021-02-26T12:45:00Z
+originalUrl: "https://www.nbcnews.com/politics/white-house/biden-first-lady-travel-texas-state-recovers-historic-winter-storm-n1258927"
+webUrl: "https://www.nbcnews.com/politics/white-house/biden-first-lady-travel-texas-state-recovers-historic-winter-storm-n1258927"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258927"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258927"
 type: article
-quality: 168
+quality: 130
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223052228-texas-power-lines-021621-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://media3.s-nbcnews.com/i/newscms/2021_08/3452885/210226-joe-jill-biden-mc1148_dce6f67141587d61cc2188978c4ef755.JPG"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -175,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to travel to Houston on Friday in the wake of extreme weather and power outages"
+    excerpt: "President Joe Biden and first lady Jill Biden will travel to Houston on Friday as the state works to recover from major winter storms and power outages.\n    \n"
+    publishedDateTime: 2021-02-23T18:37:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/F4v-Wt-9Pbo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/joe-biden-texas-houston-storm/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223052228-texas-power-lines-021621-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden again rejects $50,000 student loan debt forgiveness plan pushed by other top Democrats"
     excerpt: "President Joe Biden made it clear during Tuesday night's CNN town hall that he disagrees with other members of his party who want to cancel $50,000 of student debt per borrower.\n    \n"
     publishedDateTime: 2021-02-17T05:04:58Z
@@ -239,22 +256,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Biden, first lady to travel to Texas as state recovers from historic winter storm"
-    excerpt: "President Joe Biden and first lady Jill Biden will travel to Houston Friday to survey the damage from Texas' recent historic winter storm, the president’s first trip as commander-in-chief to a state following a natural disaster."
-    publishedDateTime: 2021-02-26T12:45:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-first-lady-travel-texas-state-recovers-historic-winter-storm-n1258927"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258927"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258927"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 130
-    images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2021_08/3452885/210226-joe-jill-biden-mc1148_dce6f67141587d61cc2188978c4ef755.JPG"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "President Biden declares major disaster for much of Texas following severe winter storm"
     excerpt: "The move unlocks federal money for the state after a dayslong freeze resulted in deaths, power outages and boil water orders."
     publishedDateTime: 2021-02-21T01:21:00Z
@@ -272,6 +273,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "lPEarh1b5YTJsBdVK4+6bP4OxgfXpA2S/1AzTk3SoAvvquZk31dta552hTu1n17TVS/t0Nn/V5rP047uyddwVG0aAE+x6/CUIiIMVM74w+CVQcgdOt9kx4pgI3AiOej9CQ/uDd5IhM5t+6J9FQ6jY2/+GuSWC5o45+X5Xcf2hmpAwgjBRsf9GnD5ZysqSFgfumQvqf6sflkaPUw0OMkE6vY/33Pw+Sn+SqBdy/sw1WG03mJT+ilozmr/WWWbS7t+eJFH1J+CqGsQvh4VDlvx7cXwjQ4vgz1/M9i7rrDz5QjnGXQHpCmB5qcGqhP/SVzARfO7158mnDF+oOcDNHiDKkff0quatzy3DfGF3Xhh9EY=;wNe7DZbhsaVidlhQKbI8vA=="
+secured: "ds1GsOcqxCTbjgoi5DFWhScRBOac8fnHCASw4NjUlmIW+bn9/6DJYL2C1U01m3tvgoNL82ms+6PVl/d5DBXXSdCN35xVZ/QmChOhC/zGoWZHOkYWQHp23Y/uVp90EtzBeXG1NwQzyGJqh63hE2VrfN+uTPNUZj+ACxU7rw/siBQT0hja/2/WYlCznXX3OD0iXgsIpfRqrS1kEOEuDfD4/HDwgfjrNwDi4RkDJI4gQsPuMA1v2tftPaYsn+f5jD+YaVXgJrnTG4x6oczKVKdhQXe3BJmJYV45LuVS8YTkNvQqd8wUqb/C/gIqjPB0dJ/DPLJZ+ShRdqa3EyhnOhcfPqQBJx1lJCRpnO4Q22ku3Ik=;q7ixt6ftoIIuQ0RprV48nQ=="
 ---
 

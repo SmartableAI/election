@@ -33,10 +33,10 @@ images:
 related:
   - title: "McConnell says he would \"absolutely\" support Trump if he's the 2024 GOP nominee"
     excerpt: "Just two weeks ago, the Senate Minority Leader called the former president \"practically and morally responsible for provoking the events\" of January 6."
-    publishedDateTime: 2021-02-26T00:30:00Z
-    webUrl: "https://www.cbsnews.com/news/mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee/"
+    publishedDateTime: 2021-02-26T12:21:00Z
+    webUrl: "https://www.cbsnews.com/news/mcconnell-support-trump-2024-republican-nominee/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republican-nominee/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republican-nominee/"
     type: article
     provider:
       name: CBS News
@@ -96,6 +96,6 @@ related:
         height: 600
         isCached: true
 
-secured: "YBvTNJUQI8xt130cKf7quAKmE+to6eOR1cNXjvwjnTzFbFU3Cq7hvYpIAmKd6djEsOL8fQRr+teGXNMss9CIsa/rQlPuWhEjdRX+RVVQZghDNyqpBP4PhLM3d5sdX/H0zyhK8Cs1HkizvVijBoG2akZ1L0y6jO4p2N2lLDtYX9veX7n2vYcIqVCpRMsg+gqTZLz3bc+O7DTZ2gsaLCG8F3yictmRRhcN5JC/JQtM3mTNbfVwTZi7o5BHqKccEsOOG//qqDYkFoHf21S3AIPCrUkrkmMY2LFvIG8wFVD+U2WRexBjjX5P0Kw7Mp0ackygI2jakeLBtFdXJKtZI73l7ZSBgu5IIL77Xx67fYkKHag=;Z/zGvBhDy1g+RH21al4m2A=="
+secured: "4kkQRb35gYrmuSN0p1T4kzWIyRCqTb28zjBrAXlTQJYmWZn3Ry0vYkS+9Tk8rKg5sZN1Mk61SzA10L1k1hKQTKYGDZwOYC8inqH+G9IIfwhz0em+PMNTmlcNqsM2hSN6Zw92djsGyvf0jG6wbECVoUe842DI7n2Go0tgExvJICb6sJjzIoxC09gE0AdR53cH3BW+bQEad9IM/tW5fcnOYvnN/ryWhnLvDzlBfYlHmdOmrT7al7IVBCeDOJQB4n+3MP4qG3nvtn7K8FuNj2aBPHB5EW1wp4jamuyjDpkrewx8OjlYui85coD9WNnt8vBVf/R/W9mWDA6y94mto15SptIFgyq/KwPy78ERrSVQQTNeC1y5BkR4MvvmQkhzgzmCcFU35Ko9z7x3zR/xjdh5dPsQ+fwsvTYPiq/gygb3rlo9I4LcJUC0lRXcRwDMEa3qG09nAMK9/7Ip2oS9WPFdsYafMReG7XMuOqP1Liy/ID7DpIlpyYZtr4z6pKr7JWEr6Jwp5OYguIkvuh5MsL3mBQ==;g9LGP+zwjSV6lkQyPquEXg=="
 ---
 

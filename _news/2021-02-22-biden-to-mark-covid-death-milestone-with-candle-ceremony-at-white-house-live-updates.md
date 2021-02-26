@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1407
+heat: 1427
 published: true
 
 provider:
@@ -719,6 +719,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/psaki-ap-ml-210224_1614190929772_hpMain_16x9_1600.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "One month in, Biden angers supporters who wanted him to curb standardized testing"
+    excerpt: "Joe Biden appeared at an education forum and was asked if he would commit to ending standardized testing in public schools if elected president. His answer was surprising — given that the Obama administration,"
+    publishedDateTime: 2021-02-26T10:59:00Z
+    webUrl: "https://www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/"
+    ampWebUrl: "https://www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/2021/02/26/biden-angers-critics-of-standardized-testing/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GE53ZPDMBQI6XJTO4JYEN2PITA.jpg&w=1440"
+        width: 1440
+        height: 971
         isCached: true
   - title: "Biden's 1st 100 days live updates: 9/11-type commission to investigate insurrection"
     excerpt: "U.S. Capitol. \"Now, as always, security is the order of the day: the security of our country, the security of our Capitol which is the temple of our democracy, and the security of our Members,\" she wrote in a letter to her Democratic colleagues."

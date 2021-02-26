@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump to reemerge at CPAC as GOP tries to plot its future"
+    excerpt: "\"There's no question that the gun has gone off on the 2024 campaign for the Republican nomination,\" says American Conservative Union chairman Matt Schlapp."
+    publishedDateTime: 2021-02-26T11:00:00Z
+    webUrl: "https://www.cbsnews.com/news/cpac-2021-trump-2024-preview/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/26/7558afe2-990a-4ffc-8429-7f2e6f9d3f9a/thumbnail/1200x630/8e24dcc458effb4e504fa3ad24b93094/ap21057076398977.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4"
     excerpt: "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4."
     publishedDateTime: 2021-02-19T10:21:00Z

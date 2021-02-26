@@ -1,14 +1,14 @@
 ---
 category: news
-title: "What the Supreme Court ruling means for Manhattan DA's Trump criminal investigation "
-excerpt: "After 17 months and two trips to the US Supreme Court, the Manhattan district attorney's criminal investigation into former President Donald Trump's business has received a significant boost with investigators now able to pour over Trump's tax returns and financial records.\n    \n"
-publishedDateTime: 2021-02-22T20:16:43Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UdNZ51ZMpls/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UdNZ51ZMpls/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
+title: "Trump returns and Republican 2024 prospects seek breakout moments at CPAC gathering"
+excerpt: "Republican politicians, media personalities and activists are gathering this weekend in Florida for the annual Conservative Political Action Conference, an event that could offer an early window into the party's 2024 presidential contest while also amplifying false claims that the 2020 election was stolen.\n"
+publishedDateTime: 2021-02-26T11:17:32Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z1araHTqzZI/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z1araHTqzZI/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/cpac-2021-trump-schedule-friday/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/cpac-2021-trump-schedule-friday/index.html"
 type: article
-quality: 168
+quality: 169
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225164855-01-cpac-0225-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -111,19 +111,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump returns and Republican 2024 prospects seek breakout moments at CPAC gathering"
-    excerpt: "Republican politicians, media personalities and activists are gathering this weekend in Florida for the annual Conservative Political Action Conference, an event that could offer an early window into the party's 2024 presidential contest while also amplifying false claims that the 2020 election was stolen.\n"
-    publishedDateTime: 2021-02-26T11:17:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z1araHTqzZI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/cpac-2021-trump-schedule-friday/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/cpac-2021-trump-schedule-friday/index.html"
+  - title: "What the Supreme Court ruling means for Manhattan DA's Trump criminal investigation "
+    excerpt: "After 17 months and two trips to the US Supreme Court, the Manhattan district attorney's criminal investigation into former President Donald Trump's business has received a significant boost with investigators now able to pour over Trump's tax returns and financial records.\n    \n"
+    publishedDateTime: 2021-02-22T20:16:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UdNZ51ZMpls/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 168
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225164855-01-cpac-0225-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -192,6 +192,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "IwzBKtjz1aJ9iPM3qCKyCKlb2UcecE+Z8ePeVjen0cpGVzdNSjG1m0LRzFKiEg5L3wkPzlw6Yfthua4nH7z4iObKou2FIZpKClP7I/JilMDZ4Hes4AH10tOJcdteDoKXE8CUKo0qPLhLPp3yVp3WSrDeprTk1L+HGe/mdcA0cEAhN7Hk7C7mwlomP6QtAOwrEGJuwjLkCNYiSwRT/CKSaxVB89Nhm6SuXFFLa9E80H6Gl0tHqCGcBII7Xk10ZymzfTvVZBkWMqk245IzsaWUIJyuMBXkr+OUKJMGphYaPdEdpzzr65GdNdH6q9Xwxf1VRraUHGFtHz8Jn2ZOvuk0RTP7iQ1YZDWwAJcAaaiZnk4=;dMwU20xexncRoOEO6aqa8w=="
+secured: "oalX7scR12OrbscjUiI49zOEC30VOEmefxpGEgHSW5JM75T9t4AvWLiM3J26lMKD+u0iiadMA1PRlE4RBJzNSVCz6PJUFHZKIegblnzh9qdGodxVZE7uraVDuh6mf8GXiVL9lmCMqRvpk4EN9EkMKe1PLPtSdun0vDm7qOovSvfB9yUWOws7+FzN4qUHTpAYdJbGfh3ogVhg90QgUWgIJHwl92H2AT4Z8Kvk3OtzTSp5sxFJRYCIuU11pxb2hdvS9AKSF67MT/0uMc8AkFaWKoFiCt+K6sFQQX34Oj6F8hlUk4RmBLdG9bMKpVnPptbO9tdQPOFP/DudKYCoArxQVQCHzCbFrDynUEHyqE3LUuk=;pQVTjxuCV2JedJimkObuLA=="
 ---
 

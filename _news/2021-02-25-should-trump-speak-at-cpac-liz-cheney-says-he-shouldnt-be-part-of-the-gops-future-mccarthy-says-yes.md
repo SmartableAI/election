@@ -33,10 +33,10 @@ images:
 related:
   - title: "McConnell says he would \"absolutely\" support Trump if he's the 2024 GOP nominee"
     excerpt: "Just two weeks ago, the Senate Minority Leader called the former president \"practically and morally responsible for provoking the events\" of January 6."
-    publishedDateTime: 2021-02-26T00:30:00Z
-    webUrl: "https://www.cbsnews.com/news/mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee/"
+    publishedDateTime: 2021-02-26T12:21:00Z
+    webUrl: "https://www.cbsnews.com/news/mcconnell-support-trump-2024-republican-nominee/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republican-nominee/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republican-nominee/"
     type: article
     provider:
       name: CBS News
