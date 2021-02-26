@@ -92,6 +92,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Mitch McConnell ‘absolutely’ would support Trump if GOP nominee in 2024"
+    excerpt: "Senate Minority Leader Mitch McConnell, R-Ky., said Thursday he would \"absolutely\" support Donald Trump if the former president won the Republican nomination in 2024."
+    publishedDateTime: 2021-02-26T01:06:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9tadi5mR-2o/mitch-mcconnell-absolutely-would-support-trump-if-gop-nominee-in-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/mitch-mcconnell-absolutely-would-support-trump-if-gop-nominee-in-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mitch-mcconnell-absolutely-would-support-trump-if-gop-nominee-in-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66bd0867-734c-4d23-ab91-7e89c506b1f4/bc3cc15b-261f-4b24-a65d-992f22b4a0b0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Graham: McConnell 'put a load on Republicans' back' with anti-Trump speech"
     excerpt: "Sen. Lindsey Graham, R-S.C., called out Senate Minority Leader Mitch McConnell for speaking out against former President Donald Trump after voting to acquit Trump at his impeachment trial."
     publishedDateTime: 2021-02-14T15:27:21Z
@@ -283,6 +299,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-mcconnell.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Mitch McConnell Says He Would Support Trump If He’s GOP’s 2024 Nominee"
+    excerpt: "The Senate minority leader said he would support Donald Trump if GOP voters select him as the party’s nominee in 2024, the latest remarks from the Kentucky Republican on his stance toward the former president’s future in the party."
+    publishedDateTime: 2021-02-26T02:47:00Z
+    webUrl: "https://www.wsj.com/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862?mod=hp_listb_pos3"
+    ampWebUrl: "https://www.wsj.com/amp/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-304671/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Mitch McConnell says Trump could play ‘constructive’ role for Republicans"
     excerpt: "Senate Minority Leader Mitch McConnell said Monday that former President Donald Trump could play a “constructive” role for Republicans after his acquittal for allegedly inciting the"

@@ -63,6 +63,17 @@ related:
         width: 1072
         height: 667
         isCached: true
+  - title: "McConnell Says He'd Support Trump if He Wins 2024 Nomination"
+    excerpt: "Less than a month after excoriating Donald Trump in a blistering floor speech, Senate Minority Leader Mitch McConnell said Thursday that he would “absolutely” support the former president again if he secured the Republican nomination in 2024."
+    publishedDateTime: 2021-02-26T02:26:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-25/mcconnell-says-hed-support-trump-if-he-wins-2024-nomination"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-25/mcconnell-says-hed-support-trump-if-he-wins-2024-nomination?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-25/mcconnell-says-hed-support-trump-if-he-wins-2024-nomination?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "KUOxvgifdQd1wI8G/K0liW5jEeh///AsWvc8YKGSIdB/aqBtI/HvDCtyo2A8rrVnUAbbO4wrSSE+rouKXT/tp4WNM2q529XmIJ3NaRdO8LL3StYUqWhiFKPtn4Fj05aJRNNomF3MeP/+yxdsCJxoYqU6Xr3aHZURuzfdQTA0Ocne0Fy3/5Pqw1ya6m4T3Cqf4nf7dSii/12q9nS2+5YSCaNpCGMItAvLi1O0i5hQ0QVwbOjcnpORa6P11qK89cDjn2RpABmK/koVsEDP1Si3oYt0eEeifrnpFvhmewoNSBDoCZ05BCoY1TsclxnBcPVGcj0WMWViOE8njlt+paSi10720944fDERiKvsmn1ZH7G/uVc2/6SG8YedqbryU7waVEQj3IyGYmFOU0TxHznEsig8AlABpwM2EtbwkqviwPPcXbFMvijQTvViijKwqmLQPpOR3bLU28QcbzW3grwFXqcKVUWrNLGbvk/1ocZaBmeKvzKXNs/rWQV3QT74tnYlPOKLsc4jSTOToVBhllPh/A==;cGF/V+u96JHRP/33zDuUsQ=="
 ---

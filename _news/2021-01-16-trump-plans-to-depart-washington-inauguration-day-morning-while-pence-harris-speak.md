@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-plans-depart-washington-in
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-plans-depart-washington-inauguration-day-morning-pence/story?id=75280643"
 type: article
 quality: 158
-heat: 5138
+heat: 5158
 published: true
 
 provider:
@@ -3559,6 +3559,20 @@ related:
     quality: 55
     images:
       - url: "https://cdnph.upi.com/pv/upi/332fc0b73bd30b39f31518123c0a2bdf/HARRIS-VETERANS.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Kamala Harris swears in new Secretary of Energy in Washington"
+    excerpt: "Former Michigan Governor Jennifer Granholm reacts next to her husband Dan Mulhern after been sworn in as Secretary of Energy by U.S. Vice President Kamala Harris (R) in the Eisenhower Executive Office Building at the White House in Washington,"
+    publishedDateTime: 2021-02-26T01:33:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5e16e07c8aff826a61ca71d967393675/Kamala-Harris-swears-in-new-Secretary-of-Energy-in-Washington/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/5e16e07c8aff826a61ca71d967393675/GRANHOLM-ENERGY.jpg"
         width: 650
         height: 433
         isCached: true

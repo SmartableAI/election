@@ -176,6 +176,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Mercedes Schlapp assesses 'what went wrong' for Trump 2020 campaign on 'CPAC All Access Live!'"
+    excerpt: "Lawrence Jones and Tomi Lahren kicked off their coverage of this weekend's Conservative Political Action Conference (CPAC) by welcoming former White House Director of Strategic Communications Mercedes Schlapp to \"CPAC All Access Live!"
+    publishedDateTime: 2021-02-26T01:03:00Z
+    webUrl: "https://www.foxnews.com/media/mercedes-schlapp-what-went-wrong-trump-2020-campaign-cpac-all-access-live"
+    ampWebUrl: "https://www.foxnews.com/media/mercedes-schlapp-what-went-wrong-trump-2020-campaign-cpac-all-access-live.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mercedes-schlapp-what-went-wrong-trump-2020-campaign-cpac-all-access-live.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a3df0be-1f26-484d-943d-4b56cc00e9a7/c2d2fb71-298c-4e85-889b-95652ca62c84/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "CPAC kicks off as Republicans eyeing 2024 campaigns – including Trump – seize chance to woo conservatives"
     excerpt: "The Conservative Political Action Conference (CPAC) kicks off Thursday, featuring a slew of Republicans who are eyed as potential 2024 presidential contenders and who will seek to make their appeals to the base -- but none will command as much attention as former President Donald Trump."
     publishedDateTime: 2021-02-25T12:09:00Z

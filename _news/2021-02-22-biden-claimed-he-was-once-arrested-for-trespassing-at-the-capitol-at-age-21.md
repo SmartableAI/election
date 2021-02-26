@@ -79,6 +79,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden ignores question on stimulus check promise"
+    excerpt: "President Biden on Thursday ignored a question about the timing of stimulus checks, after promising the American people earlier this year that they would receive $2,000 checks immediately if Democrats won the Senate."
+    publishedDateTime: 2021-02-26T02:02:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/33ZMnKuQDBg/biden-ignores-question-on-stimulus-check-promise"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ignores-question-on-stimulus-check-promise.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ignores-question-on-stimulus-check-promise.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07bb7d28-6da1-4081-88e6-743e81b940ad/be9f790a-36ed-4c0a-802d-e0157cb656c5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ted Cruz won't travel with Biden on Texas trip following Cancun gaffe"
+    excerpt: "Sen. Ted Cruz, R-TX, will not accompany President Biden on Air Force One during his trip to assist with recovery efforts and survey damage related to destructive winter weather conditions in Texas, White House Press Secretary Jen Psaki said Thursday."
+    publishedDateTime: 2021-02-26T02:44:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnUcFsujNew/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe"
+    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3a9250b-c67e-4fc2-8773-b09a51a26cf2/ac28a3f8-2e0a-4d8e-810a-92aa3e576e37/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden says he won't pull Tanden nomination after key Dem says he'll vote no"
     excerpt: "President Biden on Friday said he will not pull the nomination of Neera Tanden to be head of the Office of Management and Budget (OMB) -- despite her nomination being dealt a significant blow after a key Democrat said he would vote against her."
     publishedDateTime: 2021-02-20T15:25:19Z

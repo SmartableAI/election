@@ -110,6 +110,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Give Biden a Chance? On Covid Aid, Some Trump Voters Just Might"
+    excerpt: "Republican leaders in Washington firmly oppose the president’s stimulus plan, but a sizable number of Trump voters support it, interviews and polls show."
+    publishedDateTime: 2021-02-25T21:58:00Z
+    webUrl: "https://www.nytimes.com/2021/02/25/us/politics/republicans-trump-biden-stimulus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/25/us/politics/republicans-trump-biden-stimulus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/us/politics/republicans-trump-biden-stimulus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/25/us/politics/25repubs-stimulus/25repubs-stimulus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "b3wbhE/bToQUVUbt8ZVinZVoO35KSrX7TygAumfWFwuMAbBzoTmgbFi2ypA3vOpePA2YY+h1KsC/AAHMStw9pBqmZnwp6x51o4KtKSGbimv9FKkceXOzLrUkpiKDiWYEIWCJ9+iNuG6DJg0m3C24HtUCbWtg9xR8QxFHfisH3kUbG0BfGWgCYReZXH7Er4j0THb8nR+Z6iFY0LXyMwgTCikj6pXvgdPjZM/gt2PRauT+cXTBNbTwrbScUaqoJ7jkfNIGSlByu7lhJG210agOPuzk3nJfbRtmYROpX7TyaeKoIG6GPIQd0yNiLa/8iIEWznLCn6H4Z4Kbr0BXpF8hgPthoBKk3FgO5obSnjA8vlg=;KDqAb7Jo9O/0BsaE1z8+Xw=="
 ---

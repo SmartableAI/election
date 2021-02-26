@@ -527,6 +527,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden disappointed in Senate official's minimum wage ruling: White House"
+    excerpt: "U.S. President Joe Biden is disappointed in the ruling by the Senate parliamentarian that the chamber cannot include his proposed $15-an-hour minimum wage in a $1.9 trillion coronavirus bill, White House spokeswoman Jen Psaki said on Thursday."
+    publishedDateTime: 2021-02-26T02:09:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-wage-biden/biden-disappointed-in-senate-officials-minimum-wage-ruling-white-house-idUSKBN2AQ06C?edition-redirect=in"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AQ06C"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ06C"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1552968031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1P038"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden calls for national moment of silence for 500,000 U.S. COVID-19 deaths"
     excerpt: "President Joe Biden called on Americans to observe a moment of silence on Monday to commemorate the grim milestone of 500,000 U.S. deaths from COVID-19."
     publishedDateTime: 2021-02-22T21:17:00Z
