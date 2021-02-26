@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-18-gop-sen-hagerty-presses-biden-on-remain-in-mexico-rollback-warns-it-will-endanger-communities.md",
+      "title": "GOP Sen. Hagerty presses Biden on ‘Remain in Mexico’ rollback, warns it will ‘endanger’ communities",
+      "excerpt": "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., on Wednesday wrote to President Biden over his administration’s rollback of the Migrant Protection Protocols (MPP), warning that it could lead to tens of thousands of migrants flowing into the country and endanger U.S. communities.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rweg1Gs0HbQ/hagerty-biden-remain-in-mexico-rollback",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rweg1Gs0HbQ/hagerty-biden-remain-in-mexico-rollback",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T17:37:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-17-biden-israeli-pm-netanyahu-have-warm-and-friendly-talk.md",
       "title": "Biden, Israeli PM Netanyahu have 'warm and friendly' talk",
       "excerpt": "President Biden spoke with Israeli Prime Minister Benjamin Netanyahu on Wednesday, Netanyahu’s office confirmed to Fox News.",
@@ -1606,62 +1662,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-keystone-xl-cancellation-real-world-impact-georgia-ag.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-xl-cancellation-real-world-impact-georgia-ag.amp",
       "publishedDateTime": "2021-02-11T06:41:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-rep-nunes-republicans-could-possibly-face-pressure-to-impeach-biden-if-they-take-back-house-in-2022.md",
-      "title": "Rep. Nunes: Republicans could possibly face 'pressure' to impeach Biden if they take back House in 2022",
-      "excerpt": "California Rep. Devin Nunes, R-Calif., believes that Republicans might face pressure to impeach President Biden should the party gain control of the House in the 2022 midterms.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlHLh_q5c6g/nunes-republicans-pressure-impeach-biden-house-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlHLh_q5c6g/nunes-republicans-pressure-impeach-biden-house-2022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/devin-nunes.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nunes-republicans-pressure-impeach-biden-house-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nunes-republicans-pressure-impeach-biden-house-2022.amp",
-      "publishedDateTime": "2021-02-11T05:13:15-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

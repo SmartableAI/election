@@ -2,6 +2,119 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-25-harris-addresses-vaccine-hesitancy-in-dc-pharmacy-visit.md",
+      "title": "Harris addresses vaccine hesitancy in DC pharmacy visit",
+      "excerpt": "Vice President Kamala Harris on Thursday visited a local pharmacy in Washington, DC, to highlight the Biden administration's retail pharmacy vaccination program and combat vaccine hesitancy.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gsWiVnj6pro/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gsWiVnj6pro/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210225111325-01-harris-pharmacy-vaccines-0225-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/25/politics/harris-dc-pharmacy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/harris-dc-pharmacy/index.html",
+      "publishedDateTime": "2021-02-25T08:34:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-removing-nuclear-launch-powers-from-president-biden-would-be-wildly-unconstitutional-mike-lee.md",
+      "title": "Removing nuclear launch powers from President Biden would be 'wildly unconstitutional': Mike Lee",
+      "excerpt": "Sen. Mike Lee R-UT. said Thursday that it is 'really weird' and 'unconstitutional' that Democrats want to change the nuclear launch code policy, which places sole power in the hands of the president. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3JFtgu1yQho/nuclear-launch-code-power-changed-joe-biden-mike-lee",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3JFtgu1yQho/nuclear-launch-code-power-changed-joe-biden-mike-lee",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a50ef65-defc-425f-8ddc-058fef21e866/f33db3e8-44d1-4d65-952b-a22d51ef049c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/nuclear-launch-code-power-changed-joe-biden-mike-lee.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nuclear-launch-code-power-changed-joe-biden-mike-lee.amp",
+      "publishedDateTime": "2021-02-25T06:25:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-harris-acknowledges-righteous-skepticism-over-covid-19-vaccine-but-says-it-will-save-your-life.md",
       "title": "Harris acknowledges 'righteous skepticism' over COVID-19 vaccine, but says 'it will save your life'",
       "excerpt": "Vice President Kamala Harris is urging Americans to get vaccinated for coronavirus while acknowledging the mistrust some have for medical research and development.",
@@ -1235,114 +1348,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-trump-should-focus-on-2022-elections-not-2024-in-cpac-address-newt-gingrich.md",
-      "title": "Trump should focus on 2022 elections, not 2024, in CPAC address: Newt Gingrich",
-      "excerpt": "Former President Donald Trump should focus on next year's midterm elections when he addresses the Conservative Political Action Conference (CPAC) this weekend, former House Speaker Newt Gingrich told \"Hannity.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/afuZMKQGJsA/trump-cpac-speech-2022-elections-2024-election-newt-gingrich",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/afuZMKQGJsA/trump-cpac-speech-2022-elections-2024-election-newt-gingrich",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 486,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-cpac-speech-2022-elections-2024-election-newt-gingrich.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-speech-2022-elections-2024-election-newt-gingrich.amp",
-      "publishedDateTime": "2021-02-23T21:21:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-more-policy-less-pomp-as-biden-and-trudeau-meet-virtually.md",
-      "title": "More policy, less pomp as Biden and Trudeau meet virtually",
-      "excerpt": "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_0067a91419334861af58da6fd748679b_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755",
-      "publishedDateTime": "2021-02-23T18:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

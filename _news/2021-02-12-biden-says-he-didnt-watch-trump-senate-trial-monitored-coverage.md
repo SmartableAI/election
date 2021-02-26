@@ -554,6 +554,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump to go after Biden in highly anticipated CPAC speech"
+    excerpt: "Former President Donald Trump will use his highly anticipated speech at the Conservative Political Action Conference this Sunday to slam the Biden administration and highlight areas of policy"
+    publishedDateTime: 2021-02-26T19:13:00Z
+    webUrl: "https://nypost.com/2021/02/26/trump-to-go-after-biden-in-highly-anticipated-cpac-speech/"
+    ampWebUrl: "https://nypost.com/2021/02/26/trump-to-go-after-biden-in-highly-anticipated-cpac-speech/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/26/trump-to-go-after-biden-in-highly-anticipated-cpac-speech/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-biden-speech.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Biden Agenda Faces GOP Seeking to Unify in Opposition After Trump Impeachment"
     excerpt: "Democrats are turning to cabinet nominees and pandemic relief, but some Republicans are already signaling their opposition to the president’s plans."
     publishedDateTime: 2021-02-15T19:08:00Z

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "CityLab Daily: Watch Kamala Harris at the CityLab 2021 Conference"
+    excerpt: "A virtual edition of the annual CityLab conference starts Monday, and it includes some pretty impressive speakers. Vice President Kamala Harris will give the keynote address, and U.S. Secretary of Transportation Pete Buttigieg will be interviewed by Bloomberg CityLab’s Laura Bliss."
+    publishedDateTime: 2021-02-26T19:01:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i074DLE2rc5U/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Kamala Harris steps into new foreign policy role"
     excerpt: "White House officials say Vice President Kamala Harris will prioritize cybersecurity and global health as part of her foreign policy role. CBS News White House reporter Tim Perry joins CBSN to explain."
     publishedDateTime: 2021-02-26T18:29:00Z
@@ -40,36 +54,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/26/2a8ccff5-f44e-487b-8f91-742e85cb1eab/thumbnail/1200x630/5c1316e4da52862bb493217fb7fb9010/cbsn-fusion-vice-president-kamala-harris-steps-into-new-foreign-policy-role-thumbnail-654395-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Take a look inside Vice President Kamala Harris’s San Francisco loft — it just sold for a profit"
-    excerpt: "The nation's newest vice president is unloading her San Francisco condo — and she's getting a very good price."
-    publishedDateTime: 2021-02-23T15:37:00Z
-    webUrl: "https://www.marketwatch.com/story/take-a-look-inside-vice-president-kamala-harris-san-francisco-condo-that-just-sold-for-a-profit-11614024358?mod=hp_minor_pos19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 92
-    images:
-      - url: "https://images.mktw.net/im-302496/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Republicans tee up attacks on Biden—and Kamala Harris | Raleigh News & Observer"
-    excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
-    publishedDateTime: 2021-02-25T18:11:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article249514215.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article249514215.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article249514215.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 86
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon"
     excerpt: "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according"
@@ -87,22 +71,6 @@ related:
         width: 1024
         height: 771
         isCached: true
-  - title: "Photos: Kamala Harris selling San Francisco loft for $799,000"
-    excerpt: "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco."
-    publishedDateTime: 2021-02-22T17:06:00Z
-    webUrl: "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/"
-    ampWebUrl: "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&h=434"
-        width: 700
-        height: 434
-        isCached: true
   - title: "Photos: Vice-President Kamala Harris selling San Francisco loft"
     excerpt: "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco."
     publishedDateTime: 2021-02-22T18:06:00Z
@@ -118,22 +86,6 @@ related:
       - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/02/kam3-1.jpg?w=700&h=434"
         width: 700
         height: 434
-        isCached: true
-  - title: "Kamala Harris won't weigh in on minimum wage ruling from Senate parliamentarian: Deese"
-    excerpt: "Brian Deese, a top economic adviser to President Biden, said Friday that Vice President Kamala Harris will not move to overturn a ruling from the Senate parliamentarian that increasing the federal minimum wage to $15 per hour is out of bounds for Democrats’ $1."
-    publishedDateTime: 2021-02-26T17:22:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 67
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/25/Harris_Vaccine_23019.jpg-d889b_c0-222-5337-3335_s1200x700.jpg?fc9c632cd81d04c067c203b8e851477caee02e4f"
-        width: 1200
-        height: 700
         isCached: true
   - title: "Vice President Kamala Harris's Longtime San Francisco Condo Has Found a Buyer for $799,000"
     excerpt: "Vice President Kamala Harris is settling down in Washington, D.C., and saying goodbye to her San Francisco condo. The one-bedroom, two-bathroom apartment, located in the city's trendy SoMa neighborhood,"

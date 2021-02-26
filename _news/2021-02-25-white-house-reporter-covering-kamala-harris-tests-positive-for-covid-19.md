@@ -47,7 +47,7 @@ related:
   - title: "VP Kamala Harris To Black Americans: \"Let's Not Let COVID Get Us\""
     excerpt: "Vice President Kamala Harris addressed the Black community and encouraged them to take the COVID vaccine in an interview with MSNBC host Rev. Al Sharpton that will air on Thursday and fully on the Saturday broadcast of his show on the news network."
     publishedDateTime: 2021-02-24T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html"
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html#!"
     ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
     cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
     type: article

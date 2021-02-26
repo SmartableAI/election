@@ -3,8 +3,8 @@ category: news
 title: "VP Kamala Harris To Black Americans: \"Let's Not Let COVID Get Us\""
 excerpt: "Vice President Kamala Harris addressed the Black community and encouraged them to take the COVID vaccine in an interview with MSNBC host Rev. Al Sharpton that will air on Thursday and fully on the Saturday broadcast of his show on the news network."
 publishedDateTime: 2021-02-24T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html"
-webUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html"
+originalUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html#!"
+webUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html#!"
 ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
 cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
 type: article
@@ -61,6 +61,6 @@ related:
         height: 800
         isCached: true
 
-secured: "NyZsZfHKB1sr+/pgFC0NNZkFc3CpKkyj+zBVysMZ2PYMbOq7e7PSsoSFyPUF47GJCry6aFLEfmfxHvyJFUBNiAs5Na11T1BovpdOWkyTB1qSg82Tbe16hu3FOZZImP+9aJETj2d7de44eXtFvMOfjHfCHSumZxVOmfRf6TwjCm50YEXna6/eS6g3JCmh2ny7LWAuyyhbI+C3aoAHk5n6r+VtuWaXpMMmSdMlNe21k6bQkFj4rTvM+shKPeqrzWSkQbZc6QI5iFFZ0TYX2HSJepKrVhmFv9a/npla7jTv0Hl7nkdtQp3LIwSg2Jxhgbj1SrKaq7LXxrV7Eg9DVXBlQtRahBBFDG2HdBu8pQL0OSr9vno0jCTbodWZDsJKGuDVn8WbV3a3hVtipxoEgajrfowsQzehQRcyGbuxqdc1sdA4JAaHWyaHEOYjTkkccpUS1i3MxVrfj+acslFfXu83I4AngTdyvOX1pUElzy/7wvegft84HvwiPuLYjhf5JV1ytaUrtdsSvxOxh3mpLAOQBg==;pIFiU2W968edZW7TT//1Jw=="
+secured: "H0+LZ5OhzPoYFYYszJkryufXGX0wwQ2oai5ZeIVSQmO/FPBvyTp0litWmHTxHJSY3iKheEwJPIcOkAo94WVX6VztYAdJJxEOYMCj3hmYovad/Ze52i5wmbsdEIn7nWH5FTrWYAaHR6UVi26nudeMS4aE3pocX9WaM1eeU+beVdN0bGQrmLfNr5ktT7wcbyELwS2hmv5qG/PIyCN/iO3K5xRNQYYq+HHCgAHjedaXHMXHMoB8hQixIWLr8rxZnJ6xBthh1Q0z4AngNh7VORyGV8q1oNZRGjBg6UrQ1UnUqZDNnl8crukbHrah1iDPqSRv4PeqqMIKOxvbc3QxlzGOwd6HlqCjCS/dSiAkajG3dRc=;4WB4/rNh/meXu9lMVGNyeA=="
 ---
 

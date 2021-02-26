@@ -2,21 +2,78 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-27-vice-president-kamala-harris-steps-into-new-foreign-policy-role.md",
-      "title": "Vice President Kamala Harris steps into new foreign policy role",
-      "excerpt": "White House officials say Vice President Kamala Harris will prioritize cybersecurity and global health as part of her foreign policy role. CBS News White House reporter Tim Perry joins CBSN to explain.",
+      "path": "_news/2021-02-26-steve-hilton-kamala-harris-silent-on-cuomo-allegations-after-grandstanding-at-kavanaugh-hearings.md",
+      "title": "Steve Hilton: Kamala Harris silent on Cuomo allegations after ‘grandstanding’ at Kavanaugh hearings",
+      "excerpt": "“The focus should be on Vice President Kamala Harris” amid the sexual harassment allegations against N.Y. Gov. Andrew Cuomo, Fox News “The Revolution” host Steve Hilton said on Friday.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/vice-president-kamala-harris-foreign-policy-role/",
-      "originalUrl": "https://www.cbsnews.com/video/vice-president-kamala-harris-foreign-policy-role/",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC_g_RdkvKI/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC_g_RdkvKI/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/26/2a8ccff5-f44e-487b-8f91-742e85cb1eab/thumbnail/1200x630/5c1316e4da52862bb493217fb7fb9010/cbsn-fusion-vice-president-kamala-harris-steps-into-new-foreign-policy-role-thumbnail-654395-640x360.jpg",
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton.amp",
+      "publishedDateTime": "2021-02-26T12:05:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference.md",
+      "title": "CityLab Daily: Watch Kamala Harris at the CityLab 2021 Conference",
+      "excerpt": "A virtual edition of the annual CityLab conference starts Monday, and it includes some pretty impressive speakers. Vice President Kamala Harris will give the keynote address, and U.S. Secretary of Transportation Pete Buttigieg will be interviewed by Bloomberg CityLab’s Laura Bliss.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference",
+      "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i074DLE2rc5U/v0/1200x800.jpg",
           "width": 1200,
-          "height": 630,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +83,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T10:29:00-08:00",
+      "publishedDateTime": "2021-02-26T11:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -66,7 +123,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1139,6 +1196,49 @@
       ]
     },
     {
+      "path": "_news/2021-02-26-republicans-tee-up-attacks-on-bidenand-kamala-harris-raleigh-news-observer.md",
+      "title": "Republicans tee up attacks on Biden—and Kamala Harris | Raleigh News & Observer",
+      "excerpt": "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsobserver.com/news/politics-government/national-politics/article249514215.html",
+      "originalUrl": "https://www.newsobserver.com/news/politics-government/national-politics/article249514215.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.newsobserver.com/news/politics-government/national-politics/article249514215.html",
+      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article249514215.html",
+      "publishedDateTime": "2021-02-25T10:11:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Raleigh News & Observer",
+        "domain": "newsobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-house-freedom-caucus-members-question-liz-cheneys-leadership-again-after-her-latest-trump-comments.md",
       "title": "House Freedom Caucus members question Liz Cheney's leadership again after her latest Trump comments",
       "excerpt": "House Freedom Caucus members questioned GOP conference chairwoman Liz Cheney's leadership — again — at a news conference Thursday after the Wyoming Republican congresswoman's comments that she believes former President Donald Trump shouldn't play a role in the Republican Party.\n    \n",
@@ -1244,119 +1344,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-harris-addresses-vaccine-hesitancy-in-dc-pharmacy-visit.md",
-      "title": "Harris addresses vaccine hesitancy in DC pharmacy visit",
-      "excerpt": "Vice President Kamala Harris on Thursday visited a local pharmacy in Washington, DC, to highlight the Biden administration's retail pharmacy vaccination program and combat vaccine hesitancy.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gsWiVnj6pro/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gsWiVnj6pro/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210225111325-01-harris-pharmacy-vaccines-0225-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/25/politics/harris-dc-pharmacy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/harris-dc-pharmacy/index.html",
-      "publishedDateTime": "2021-02-25T08:34:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-removing-nuclear-launch-powers-from-president-biden-would-be-wildly-unconstitutional-mike-lee.md",
-      "title": "Removing nuclear launch powers from President Biden would be 'wildly unconstitutional': Mike Lee",
-      "excerpt": "Sen. Mike Lee R-UT. said Thursday that it is 'really weird' and 'unconstitutional' that Democrats want to change the nuclear launch code policy, which places sole power in the hands of the president. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3JFtgu1yQho/nuclear-launch-code-power-changed-joe-biden-mike-lee",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3JFtgu1yQho/nuclear-launch-code-power-changed-joe-biden-mike-lee",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9a50ef65-defc-425f-8ddc-058fef21e866/f33db3e8-44d1-4d65-952b-a22d51ef049c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nuclear-launch-code-power-changed-joe-biden-mike-lee.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nuclear-launch-code-power-changed-joe-biden-mike-lee.amp",
-      "publishedDateTime": "2021-02-25T06:25:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

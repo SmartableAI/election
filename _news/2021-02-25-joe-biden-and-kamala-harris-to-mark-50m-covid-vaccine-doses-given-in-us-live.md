@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
-excerpt: "White House event will commemorate halfway point of Biden’s 100 million campaign promise"
-publishedDateTime: 2021-02-25T12:58:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603794b28f088c613add23d0"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603794b28f088c613add23d0"
+excerpt: "White House event will commemorate halfway point of Biden’s campaign promise of 100m vaccine doses in first 100 days"
+publishedDateTime: 2021-02-25T14:42:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037b6498f088c613add25d6"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037b6498f088c613add25d6"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 type: article
@@ -1566,6 +1566,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "I2ZyNCW5h1Mmc0FLvkXU6iPhhM1CRZTWlZRvXtJC4LQj6WIN8mISxh+54ktBavGJHx4GDc/+3XgKvB9kQBNWDevLA7aV4ZFVXVmC/tdGeF+k3U7w8mBnavlQlXq7p7Tc8MHdabAMybIPkmNn46ZntvulXSbYHPcJvvACMHGBZtdjjUCFAW9lYEiYWsT34tL9Pd31L4q2zqSZxnY+dYYET8zRnZzj+zITiMVZPwwjtrxDj6TuAl8AZYb8B/mBLiEZn9qKEMcZ9pK/YgjPS/Ne+s2lUN0rkCPbk1YC3AVgtuq67sV3/6OoCjkYV+O8CCndNaucReoFAejZWYsWPvc0LnHlazQvcgro4wF43WbeIAU=;A7puF6+HPWls651igydkWg=="
+secured: "QemJWX6Y9aLc8pXqrblmZ9bFA1HuFdVQ5xXDQiBqLGthFZZ2LcHnF8JkB9x3pnHZ0/izIlHwI3eMZ0f7MPg2RhoLW9m8oH3pzKyPOESZfWCwmtrtMyChCra4OF/tmJZoMGxTKUULtNRI5IbqIrU0dRNswomPjfj5empqMKIfBgCICUR43WPoO0f8Tf6LIcAgl/dTEoq7rakOLN1P2rNhFZoJX5j74d4UFTmn8h6+YVoz35fwH6V0SrYQhTs1xFI2O5FuQZltgBJgUFC8L/hUPII984dc/GTp8DW8uXrpYJqzawYzEFskhmAK6k8PmH9gpqUdtq+OiX3oyC2f3cyQXAaAgmptUMa2yhL2CJjmsbs=;akrO7foVA07AxfFQyxeOYw=="
 ---
 

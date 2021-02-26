@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-26-steve-hilton-kamala-harris-silent-on-cuomo-allegations-after-grandstanding-at-kavanaugh-hearings.md",
+      "title": "Steve Hilton: Kamala Harris silent on Cuomo allegations after ‘grandstanding’ at Kavanaugh hearings",
+      "excerpt": "“The focus should be on Vice President Kamala Harris” amid the sexual harassment allegations against N.Y. Gov. Andrew Cuomo, Fox News “The Revolution” host Steve Hilton said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC_g_RdkvKI/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC_g_RdkvKI/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton.amp",
+      "publishedDateTime": "2021-02-26T12:05:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-bidens-syria-airstrike-earns-applause-from-prominent-republicans.md",
       "title": "Biden's Syria airstrike earns applause from prominent Republicans",
       "excerpt": "Following the airstrike ordered by Biden against Iranian-backed militia members Thursday night, House Foreign Affairs Committee ranking member Rep. Michael McCaul, R-Texas, and Rep. French Hill, R-Ark., applauded the successful airstrike.",
@@ -14,7 +71,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1064,7 +1121,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 486,
+      "heat": 506,
       "tags": null,
       "images": [
         {
@@ -1585,62 +1642,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/lindsey-graham-warns-biden-immigration-policies-will-restart-migrant-caravans-into-us.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-warns-biden-immigration-policies-will-restart-migrant-caravans-into-us.amp",
       "publishedDateTime": "2021-02-22T20:45:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-cruz-opposes-xavier-becerra-as-absurd-biden-pick-for-hhs-secretary-hes-not-a-doctor.md",
-      "title": "Cruz opposes Xavier Becerra as 'absurd' Biden pick for HHS secretary: 'He's not a doctor'",
-      "excerpt": "Attorney General nominee Merrick Garland repeatedly \"dodged\" questions from Republican senators during his confirmation hearing before the Senate Judiciary Committee, Sen. Ted Cruz, R-Texas, told \"Hannity\" Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts_PjIFcvTM/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts_PjIFcvTM/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8bd54b59-efda-450f-ac9c-2f7f53926495/1d8ab2cb-01ff-40f7-9614-c89cbd108e6c/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-opposes-biden-absurd-pick-for-hhs-xavier-becerra-hes-not-a-doctor.amp",
-      "publishedDateTime": "2021-02-22T20:13:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
