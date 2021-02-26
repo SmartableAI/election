@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden doesn't penalize crown prince despite promise to punish senior Saudi leaders"
+    excerpt: "Despite promising to punish senior Saudi leaders while on the campaign trail, President Joe Biden declined to apply sanctions to the one the US intelligence community determined is responsible for the death of journalist Jamal Khashoggi: Crown Prince Mohammed bin Salman.\n    \n"
+    publishedDateTime: 2021-02-26T22:18:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gqJ7dCIyMeY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/biden-mohammed-bin-salman-jamal-khashoggi/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/biden-mohammed-bin-salman-jamal-khashoggi/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225203258-biden-50-million-doses-0225-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden resets Saudi ties as US prepares to release intelligence report on Khashoggi's murder "
     excerpt: "President Joe Biden's reset of the US-Saudi Arabia relationship will take another step with the release of a long-awaited US intelligence report on the killing of Saudi insider turned dissident Jamal Khashoggi.\n    \n"
     publishedDateTime: 2021-02-25T20:14:57Z
@@ -45,6 +61,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223213522-01-joe-biden-0223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden doesn't penalize crown prince despite promise to punish senior Saudi leaders"
+    excerpt: "Despite promising to punish senior Saudi leaders while on the campaign trail, President Joe Biden declined to apply sanctions to the one the US intelligence community determined is responsible for the death of journalist Jamal Khashoggi: Crown Prince Mohammed bin Salman."
+    publishedDateTime: 2021-02-26T16:38:00Z
+    webUrl: "https://www.cnn.com/2021/02/26/politics/biden-mohammed-bin-salman-jamal-khashoggi/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/biden-mohammed-bin-salman-jamal-khashoggi/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/biden-mohammed-bin-salman-jamal-khashoggi/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 129
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225203258-biden-50-million-doses-0225-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

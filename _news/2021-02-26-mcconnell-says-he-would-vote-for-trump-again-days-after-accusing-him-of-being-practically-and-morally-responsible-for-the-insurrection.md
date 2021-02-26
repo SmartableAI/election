@@ -63,22 +63,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Should Trump speak at CPAC? Liz Cheney says he shouldn't be part of the GOP's future; McCarthy says yes"
-    excerpt: "\"I don't believe that he should be playing a role in the future of the party or the country,\" Cheney said of the former president."
-    publishedDateTime: 2021-02-25T02:37:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/liz-cheney-donald-trump-shouldnt-part-republicans-future/4576060001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4576060001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4576060001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 109
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/17ab0a832cd78ecc70cb4b93786a0d088066895f/c=0-292-5465-3380/local/-/media/2018/07/17/USATODAY/USATODAY/636674189159039396-AP-17086712547630.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 678
-        isCached: true
   - title: "Trump called McConnell a ‘hack.’ But McConnell says he would ‘absolutely’ back him if he wins 2024 nomination."
     excerpt: "McConnell said in a Fox News interview that he would support Trump, despite slamming the former president for his incitement of the Capitol riot."
     publishedDateTime: 2021-02-26T10:21:00Z

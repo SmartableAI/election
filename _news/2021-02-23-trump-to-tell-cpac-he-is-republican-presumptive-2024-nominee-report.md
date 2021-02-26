@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republica
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump, Mr. Potato Head and CPAC: Republicans Show Their Loyalties"
+    excerpt: "They railed against \"socialist\" Democrats and \"cancel culture,\" and wrung their hands over whether Mr. Potato Head would lose his gender identity. They laughed along with Sen. Ted Cruz when the Texas lawmaker joked about his much-derided trip to Cancun during a water and power crisis in his home state."
+    publishedDateTime: 2021-02-26T22:19:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "kykpO6ciwqSbEoMJZd37cxs67m22EpAsLQwmgSCTh/Uv+rGhBgxtV/tHWdEhc3X557wpGGq4bfY7aLUuWgxDXeEkbkBmaUC/l29knmzKZh1jFYYHw2OBethukgvzmgnS8IG9IREVDRWrwUD41zmnhHDvKSLsfjeXTcpV68cYJNRSHVwcGgSZVLv/KwYEL4q5Ftj2Uc61joZzzg51470a1M6O3xdVWGMVLdtPt+/47VCfGlAkAonI/M1OfLOJIYWUS/nUOsil2QYSznwc07kuypxWdGQO5XhlA39pLCcY3EvMVieJUFS29BXtc20SAdNw7/hnJeA95C8ug8Idd10DTvVjP0+qtjDm/mXqGfMZHQeo4mBGAUevTPE6+YZhGOsmPB+SnNU4JNqEC8n8Bi/ljGQFnJglO1Krw4gx+pMNetzsQIMX+sFctNB3ovZMEOn5t43SVg71SLCj5x8et3bZzpm1KfPI9ChVNjqQzHbRRpXXmWmQ2LBn2Y03rpcY2+ray0n4ntNZLtcXPlUmVt0ARQ==;R0H/Ci3M6hFBTdqIhMMMrw=="
 ---

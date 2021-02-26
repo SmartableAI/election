@@ -63,6 +63,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump, Mr. Potato Head and CPAC: Republicans Show Their Loyalties"
+    excerpt: "They railed against \"socialist\" Democrats and \"cancel culture,\" and wrung their hands over whether Mr. Potato Head would lose his gender identity. They laughed along with Sen. Ted Cruz when the Texas lawmaker joked about his much-derided trip to Cancun during a water and power crisis in his home state."
+    publishedDateTime: 2021-02-26T22:19:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "ZdMnlYGAxR1Y59JMZsI14jRabp9mgXPR4OzO/t42sMMD5+zCk+0/6eCo+b5CCVdG+Bfb7WqJ7w0LWWW/ZT3QQRUI+OTHSZcBrCdHXxpW4fZsqhl30AX2Or0isfuVR8skWlmbd0Gt1bIAuJAypuy+L5RvtgE8K/DpIjxnE3qD0ADjfxN8b/P0ZIB8KEg9kpCHEE2/FF1CmVlpAleL8O5pkOS/MfaDl/9+o90dYzGXxh2YA0Up/5motYL7r+JlR2d+eSq6LjtEzYy3t7h5q5YEzSk/HlQY93ci0rnOpjWOcQcu5ToLfx9ltAldnPm6Vvk5kRdpR9g2EfKMaY4v3sxH8sOM2081+Rj7PgTkZACmFx0=;2zl7osAFl9IIP/f7GvnO4g=="
 ---

@@ -236,6 +236,22 @@ related:
         width: 375
         height: 815
         isCached: true
+  - title: "Donald Trump Jr. hits Biden, Cuomo, CNN, 'Lincoln Project Liz' Cheney in fiery CPAC speech"
+    excerpt: "Donald Trump Jr. made a splash at this year's Conservative Political Action Conference (CPAC) by knocking a slew of political foes, including President Biden, New York Gov. Andrew Cuomo, and Rep. Liz Cheney, R-Wy., in a fiery speech on Friday. "
+    publishedDateTime: 2021-02-26T22:29:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CiMJBz6xTaw/cpac-donald-trump-jr-biden-cuomo-liz-cheney"
+    ampWebUrl: "https://www.foxnews.com/politics/cpac-donald-trump-jr-biden-cuomo-liz-cheney.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-donald-trump-jr-biden-cuomo-liz-cheney.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/358d4a83-2ffa-4864-b18b-0493c55dcc60/c53febf6-d8fa-447e-87bf-c7cab81cf429/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "US begins admitting migrants from Mexico, as Biden administration winds down Trump-era policy"
     excerpt: "The U.S. on Friday began admitting migrants waiting in Mexico for their immigration cases to be processed -- as the Biden administration moves to wind down the Trump-era Migrant Protection Protocols (MPP), a move critics say could fuel a new border crisis."
     publishedDateTime: 2021-02-19T18:36:42Z
