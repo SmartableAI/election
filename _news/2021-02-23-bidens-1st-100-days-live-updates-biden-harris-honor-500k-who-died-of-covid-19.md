@@ -114,8 +114,8 @@ related:
         isCached: true
   - title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
     excerpt: "White House event will commemorate halfway point of Biden’s 100 million campaign promise"
-    publishedDateTime: 2021-02-25T10:45:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037802a8f08614ccf106101"
+    publishedDateTime: 2021-02-25T12:58:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603794b28f088c613add23d0"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
     type: article
@@ -789,6 +789,22 @@ related:
       - url: "https://www.baltimoresun.com/resizer/Up7iITOZFi3Xr4ZE2-SyQMFHPkU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/K2HXZREWKF727QCL2EYIW4VXGI.jpg"
         width: 1200
         height: 785
+        isCached: true
+  - title: "Joe Biden, Kamala Harris close out Black History Month with a celebration"
+    excerpt: "Five things Joe Biden should do in Houston after he gives me $1,400 U.S. presidents of both political parties have a history of hosting official celebrations for Black History Month, bringing celebrities,"
+    publishedDateTime: 2021-02-26T18:54:00Z
+    webUrl: "https://www.chron.com/news/nation-world/article/Joe-Biden-Kamala-Harris-Black-History-America-15982474.php"
+    ampWebUrl: "https://www.chron.com/news/nation-world/amp/Joe-Biden-Kamala-Harris-Black-History-America-15982474.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/nation-world/amp/Joe-Biden-Kamala-Harris-Black-History-America-15982474.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 89
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/17/17/20247539/3/rawImage.png"
+        width: 810
+        height: 602
         isCached: true
   - title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
     excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."

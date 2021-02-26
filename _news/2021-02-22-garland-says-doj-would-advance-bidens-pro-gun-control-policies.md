@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/garland-doj-would-advance-bidens-gu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/garland-doj-would-advance-bidens-gun-control-policies.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5e4207d-6c8d-49c6-908c-4cc998501216/cc487d03-bd7f-493d-b774-4c8a14a98aa7/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Vanita Gupta, Biden associate attorney general nominee, backed by city police chiefs"
+    excerpt: "Current and former police chiefs in more than 53 cities across the country, as well as the National Fraternal Order of Police, are issuing their support of the nomination of Vanita Gupta — President Biden’s nominee for associate attorney general — praising her leadership and record and urging the Senate"
+    publishedDateTime: 2021-02-26T17:15:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0VDoHHVkqbo/vanita-gupta-associate-attorney-general-police-chiefs"
+    ampWebUrl: "https://www.foxnews.com/politics/vanita-gupta-associate-attorney-general-police-chiefs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-associate-attorney-general-police-chiefs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "B7BjjpHOyJWqPIzq2RnOMwCBLMN5KPAwN5UYxTZMeC2A619ysUw8+5slrjZuqZm1m+P5XnPKk/Qs3jQ4Dre37/AzxQY741e98yPFHWOTgh+6cIMcAS+gAUIP+ZUiUwfNQ/U3brZYd8qP5xkHzufqY7ABMx8N5YaNdCuZ3jheePzAG8qID5J5AozVP2iKapBvguWBNx24O+UR4Jrk3wlto55862Bl7uGbjj15Nbqo7xpZZtDVHxqDyhY45HaBHskdRv9xKdEILHkalk5fT1dn3J3eUeGc6afBeEY7dq4yJxnL1/IEOFwVaowXwY2VdUDKXcz0Hn8glakhIjb1/a3xp8q6ut20pmhr1ock6GY7RJI=;FBxs58Kq2N+QTKbKrLjUxA=="

@@ -111,6 +111,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Lawrence Jones says CPAC attendees 'united,' previews what Trump will say in speech"
+    excerpt: "Conservatives appear energized and united at the annual Conservative Political Action Conference (CPAC) in Florida, Fox Nation host Lawrence Jones said on Friday, offering insight on what former President Donald Trump will say in his weekend address."
+    publishedDateTime: 2021-02-26T17:04:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dB2AEBEzhTY/trump-message-cpac-united-civil-war-gop-lawrence-jones"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-message-cpac-united-civil-war-gop-lawrence-jones.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-message-cpac-united-civil-war-gop-lawrence-jones.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House 'certainly not' focused on anticipated Trump criticisms of immigration policy at CPAC"
     excerpt: "The White House is \"certainly not\" worried about anticipated criticisms from former President Donald Trump at the Conservative Political Action Conference (CPAC) this weekend, according to press secretary Jen Psaki. "
     publishedDateTime: 2021-02-25T18:36:06Z

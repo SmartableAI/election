@@ -2,21 +2,21 @@
 category: news
 title: "Biden to exercise empathy skills in Texas visit after storms"
 excerpt: "President Joe Biden will have a chance to exercise his empathy skills during a visit to Texas on Friday with a dual mission"
-publishedDateTime: 2021-02-26T07:08:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
+publishedDateTime: 2021-02-26T10:36:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_2eb98dd19bb34eabb6e0b11fc36c4ff5_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -247,6 +247,6 @@ related:
         height: 675
         isCached: true
 
-secured: "tlh0s9Pgl5sEUP4bUUNHK1WlRUcsJDqC9jJngyDjiiYl0uDMiQSJpGIAMOJJ9QXnAUWondYA2jJ4rY3lso+Jrbh7zRkfTLcH6JrwG1mGB7XSyXDZ0nqtzDzisSvtYd+U67Kd9zTXNT4AqMSy6n0LrbYVfVqlEtFxZPzkcPuOfQji9RUiknOcPa2thdktQ3RfZFgEZAjr1zET+sjywG5UfHSkmnWuSNu0z0uSUIF67eUCYbMg4QSCw6qoUnpkE4GSMDIkMiVyhPMjg0rnAp6++dwsmwE2SDbTIdUxilZrwZzRPlnyCJRozr7K2Jf6i8U4MviZToDlnwJVfWAsYB6exZAYXmh04T8UkFKecmkxLnA=;2O7U1EEibP0E3O8h0ITtuQ=="
+secured: "lnJg+cIoCt0K3TDCIDkgSnc2rQGDU8jLWa2mGCTmkCPNSb+yKiD3ZJWMZYs5TcBF7u5lFANcLi7F+7YcCQmgbuqHcMCuWfpVzi7qx6T2SS0N+hcZea609Q5FBf0bh/FD1qPl/og2mFlMYXxGNsKs6Z+i/2r/15HQOH2LPdJihyg+crqA1I3wWD60WCG7IN6rEzlO8I66W/cBaN4kOxdcOrRYqk26MSXL85i/pG4VP7oKYVrb4LTYfYoYMJtvJFROfBeP+IVEI+bLKl3osumNY+k2t45nstOGx9FAWRpNsKM9PFchoWYbVhZDfa4MFNJpIDLx2SAzTgOstzSusFFkxukbQkxEa7oWHb5cbGVL4MU=;UzNCoRHMLdBXPpak+1ueig=="
 ---
 

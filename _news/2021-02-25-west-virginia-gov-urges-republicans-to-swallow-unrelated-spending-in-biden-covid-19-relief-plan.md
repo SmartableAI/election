@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/jim-justice-covid-relief-biden-spen
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jim-justice-covid-relief-biden-spending.amp"
 type: article
 quality: 162
-heat: 162
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Biden's Syria airstrike earns applause from prominent Republicans"
+    excerpt: "Following the airstrike ordered by Biden against Iranian-backed militia members Thursday night, House Foreign Affairs Committee ranking member Rep. Michael McCaul, R-Texas, and Rep. French Hill, R-Ark., applauded the successful airstrike."
+    publishedDateTime: 2021-02-26T17:01:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/62h3pp0aFrk/biden-syria-strike-iran-republicans-praise"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-syria-strike-iran-republicans-praise.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-syria-strike-iran-republicans-praise.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d4b4b3b-a02c-4c6c-993b-27e88fcbad6c/1ec6d8e6-1fe9-4c8c-9ca5-7e0f436ae1a9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "2H1XsPeYnyWuQ10ZG/eyp5GxuqHKKEt1rSg3iit1PYZHmv4zyuA+48oWFTmK/q9OqgxSh8qH10FxIFSEN7PPjE/BkQTrdQCUMMmjexKFojR2KKE3rAszqLrbgH5aqIDgZ8Xu+geiRL23qNNbAS5XGE1v9Xc85MYIOWpP+BG5sWFq6ONutd/0Vrs0yxsiMFcB8q0evCugpFnom1Fhu/s/sUowcshvCjqyublzvzB+On3oqaUC/tO3nte3ILgp/OJF5cDq99dsvXH0Y+8Fx/CoUBU8ukgAP4Yq2z7OGcoQHeLKhEuOWB8l6IiXx2G6VE2V5eAZXvWmj8JM7P03u06JKK6tSl8tt52C44UWCWhdXOc=;MHH51l21wrjTYPYeXS3Oww=="
 ---

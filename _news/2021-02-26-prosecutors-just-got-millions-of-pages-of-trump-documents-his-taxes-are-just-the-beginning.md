@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Golden Trump statue turns heads at CPAC"
+    excerpt: "With the first full day of the Conservative Political Action Conference underway, there's already an indisputable star: an outrageously golden statue of Donald Trump wearing shorts and flip-flops.\n    \n"
+    publishedDateTime: 2021-02-26T18:36:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LKqak9yC0nw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/trump-gold-statue-cpac-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/trump-gold-statue-cpac-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226130859-02-golden-trump-statue-cpac-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Why has Donald Trump fought so hard to keep his tax returns secret?"
     excerpt: "The Supreme Court's rejection Monday of an attempt by Donald Trump to keep Manhattan District Attorney Cyrus Vance from seeing his tax returns (and other financial documents) was rightly cast as a major legal setback for the former President.\n    \n"
     publishedDateTime: 2021-02-23T15:42:19Z

@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vanita Gupta, Biden associate attorney general nominee, backed by city police chiefs"
+    excerpt: "Current and former police chiefs in more than 53 cities across the country, as well as the National Fraternal Order of Police, are issuing their support of the nomination of Vanita Gupta — President Biden’s nominee for associate attorney general — praising her leadership and record and urging the Senate"
+    publishedDateTime: 2021-02-26T17:15:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0VDoHHVkqbo/vanita-gupta-associate-attorney-general-police-chiefs"
+    ampWebUrl: "https://www.foxnews.com/politics/vanita-gupta-associate-attorney-general-police-chiefs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-associate-attorney-general-police-chiefs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "JAQ0VHuoUC8kSmTa/XPgPrk4wY+9EuOb3PvS9pyp8ms9mkYe4HlW20aSiGgKg2mR6qgggxuUlWkmKVFp7gM333OPNT3cRbbpwPLbwEeIbnzIL06hrZjaCVCsQ77qonWNQN8A2YnRkLV5NxD005XBN9TOZ1hiTGcIjDWi9ZHYtUGl4/lT8s0E2ftk5MYQ1zGz83olWat0gDcb8vden3ehYEbTAVUyCiXU+gZI0IuPTgRoPSbcz7NOyaLUe2yon7+c9u7XxxBJeGMdXs5UtiUKieLfXEiIatM5mRz9Vo4iNQRg4pcsYaKc8U3q2niJ9qgWPXvFipYn6ByVeqGTGnuhFgsnTMKiGIPAsVJkkoKeY90=;fmt9Qxl9zo6wyRsAforDyA=="
 ---

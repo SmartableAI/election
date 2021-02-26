@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon"
-    excerpt: "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according"
-    publishedDateTime: 2021-02-20T16:02:00Z
-    webUrl: "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/"
-    ampWebUrl: "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771"
-        width: 1024
-        height: 771
-        isCached: true
   - title: "Kamala Harris’ Stepdaughter Ella Emhoff’s Modeling Contract Sparks Melania Trump Comparisons On Twitter"
     excerpt: "Some Twitter users were not impressed with Kamala Harris' stepdaughter Ella Emhoff signing a modeling contract, while others compared the 22-year-old's situation with that of former first lady Melania Trump,"
     publishedDateTime: 2021-01-30T09:29:00Z
@@ -74,6 +58,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/08/20/ella-emhoff-the-step-daughter-of-democratic-vice.jpg"
         width: 1024
         height: 573
+        isCached: true
+  - title: "Twitter On Criticism Of Kamala Harris For Wearing Controversial Brand Dolce & Gabbana: 'Misogyny'"
+    excerpt: "A number of Twitter users were not happy about the criticism Kamala Harris is receiving for simply wearing the controversial brand Dolce & Gabbana."
+    publishedDateTime: 2021-02-03T02:28:00Z
+    webUrl: "https://www.ibtimes.com/twitter-criticism-kamala-harris-wearing-controversial-brand-dolce-gabbana-misogyny-3136209"
+    ampWebUrl: "https://www.ibtimes.com/twitter-criticism-kamala-harris-wearing-controversial-brand-dolce-gabbana-misogyny-3136209?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-criticism-kamala-harris-wearing-controversial-brand-dolce-gabbana-misogyny-3136209?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
         isCached: true
 
 secured: "xAftJa0sgyOmLamXzqcZbR9HOVD7dHqoNOnn9cp4lfW6BAh4galCSHzn9R8r8/4hKynZE0kWCcFRfqA6dQm8XAmr/qXkbYKsAgboiog73czuYVccrP1pnQ/xDjuKds2mulzFVLtNJtznO5Ii/0yIiwUJ51xRFtOP8pia9WoAZo7lYdfer58ku0/q1SJrCtgrLVPnZUe8+BZ3623DenoLIql/9Ik/0MP+BSZkIKxZaTechjF8+NfP/wJfd7NTcnp+RMy6sBc5TDCrRUcpXHVcmAlkLELxD3s3y5BlOHGRJvGPgWD0SbVOYHiVwMf2GXfkvl5CMeaTokcea32SuNMdycXrxhVig1RXFyOs81gHHj1Rn9k7x2v+uZSFTkAZ3I/KpxXPuxyp1QxFcEebvL52+NQQIYPhlSP9yhUXoX3de7rGJIb4sPnWpHEV2/Kp738jHPTzXOn4LZmUtzTxJUdP3TvX0W3ZslDQPHAFn+fWn+akrFXj76qJ42DFSfh4ROLshp0PlE27ST/Z3Hr2T3AW2A==;bSHuuk94X7Xx6GN9H6ko6g=="

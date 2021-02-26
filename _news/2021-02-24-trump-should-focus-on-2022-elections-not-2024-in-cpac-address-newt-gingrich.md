@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-speech-2022-elections-20
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-speech-2022-elections-2024-election-newt-gingrich.amp"
 type: article
 quality: 186
-heat: 466
+heat: 486
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-CPAC-AP-e1607457728844.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Lawrence Jones says CPAC attendees 'united,' previews what Trump will say in speech"
+    excerpt: "Conservatives appear energized and united at the annual Conservative Political Action Conference (CPAC) in Florida, Fox Nation host Lawrence Jones said on Friday, offering insight on what former President Donald Trump will say in his weekend address."
+    publishedDateTime: 2021-02-26T17:04:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dB2AEBEzhTY/trump-message-cpac-united-civil-war-gop-lawrence-jones"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-message-cpac-united-civil-war-gop-lawrence-jones.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-message-cpac-united-civil-war-gop-lawrence-jones.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "CPAC kicks off as Trump, Republicans eyeing 2024 campaigns seize chance to woo conservatives"
     excerpt: "The Conservative Political Action Conference (CPAC) kicks off Thursday, featuring a slew of Republicans who are eyed as potential 2024 presidential contenders and who will seek to make their appeals to the base -- but none will command as much attention as former President Donald Trump."

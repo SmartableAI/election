@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
 excerpt: "White House event will commemorate halfway point of Biden’s 100 million campaign promise"
-publishedDateTime: 2021-02-25T10:45:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037802a8f08614ccf106101"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037802a8f08614ccf106101"
+publishedDateTime: 2021-02-25T12:58:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603794b28f088c613add23d0"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603794b28f088c613add23d0"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 type: article
@@ -789,6 +789,22 @@ related:
         width: 1200
         height: 785
         isCached: true
+  - title: "Joe Biden, Kamala Harris close out Black History Month with a celebration"
+    excerpt: "Five things Joe Biden should do in Houston after he gives me $1,400 U.S. presidents of both political parties have a history of hosting official celebrations for Black History Month, bringing celebrities,"
+    publishedDateTime: 2021-02-26T18:54:00Z
+    webUrl: "https://www.chron.com/news/nation-world/article/Joe-Biden-Kamala-Harris-Black-History-America-15982474.php"
+    ampWebUrl: "https://www.chron.com/news/nation-world/amp/Joe-Biden-Kamala-Harris-Black-History-America-15982474.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/nation-world/amp/Joe-Biden-Kamala-Harris-Black-History-America-15982474.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 89
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/17/17/20247539/3/rawImage.png"
+        width: 810
+        height: 602
+        isCached: true
   - title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
     excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
     publishedDateTime: 2021-01-23T12:00:00Z
@@ -1550,6 +1566,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "XewufkKNF+e91Up8AQAGzNgwVxqo1xUty6J12x+BRJGdz8TH5QNyA2jMBPHEbirg26UBn98YIuolJMZLg3gpEMq874/Q1rZYengO6MaktgGbuecbEbAJAUX3tV2iLo/0f+vBIbaLHVA9gpu5WehCctfL1czg6fj9OmbK9eUQ6nighNZjpdBxlXOud8p+91XZpgN6rH3CA67DGIw/fHZo07W2cblB9cnRRfgI60k+DXR6FOqvci3bXgkAZm3wS7OEekze/DPOn5AFdp3k3cGA1qjC6VeYsYtgGvd/rZOdbV5mD8zwsKWWiqIVV001iaW42AVNf8qy91WaFg5Zg1F17ROhM1w8erWMm8c7iZc2jco=;AcuUqvii+NiUqWRhxSLVtA=="
+secured: "I2ZyNCW5h1Mmc0FLvkXU6iPhhM1CRZTWlZRvXtJC4LQj6WIN8mISxh+54ktBavGJHx4GDc/+3XgKvB9kQBNWDevLA7aV4ZFVXVmC/tdGeF+k3U7w8mBnavlQlXq7p7Tc8MHdabAMybIPkmNn46ZntvulXSbYHPcJvvACMHGBZtdjjUCFAW9lYEiYWsT34tL9Pd31L4q2zqSZxnY+dYYET8zRnZzj+zITiMVZPwwjtrxDj6TuAl8AZYb8B/mBLiEZn9qKEMcZ9pK/YgjPS/Ne+s2lUN0rkCPbk1YC3AVgtuq67sV3/6OoCjkYV+O8CCndNaucReoFAejZWYsWPvc0LnHlazQvcgro4wF43WbeIAU=;A7puF6+HPWls651igydkWg=="
 ---
 

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Golden Trump statue turns heads at CPAC"
+    excerpt: "With the first full day of the Conservative Political Action Conference underway, there's already an indisputable star: an outrageously golden statue of Donald Trump wearing shorts and flip-flops.\n    \n"
+    publishedDateTime: 2021-02-26T18:36:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LKqak9yC0nw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/trump-gold-statue-cpac-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/trump-gold-statue-cpac-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226130859-02-golden-trump-statue-cpac-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Supreme Court agrees to hear challenge to Trump administration's public charge rule"
     excerpt: "The Supreme Court agreed on Monday to take up a case brought by various groups and state and local officials challenging a Trump-era rule that makes it more difficult for immigrants to obtain legal status if they use public benefits, such as Medicaid, food stamps and housing vouchers.\n    \n"
     publishedDateTime: 2021-02-22T15:53:50Z

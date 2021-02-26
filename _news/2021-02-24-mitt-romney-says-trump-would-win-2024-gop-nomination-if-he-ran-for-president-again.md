@@ -44,6 +44,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Ted Cruz in CPAC speech says ‘Trump ain’t goin’ anywhere,’ jokes about Cancun controversy"
+    excerpt: "Sen. Ted Cruz says the GOP is the party of the working class and vows that former President Trump will remain a power player in the Republican Party."
+    publishedDateTime: 2021-02-26T17:13:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W421qeGQnHg/cruz-cpac-speech-trump-aint-goin-anywhere"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-cpac-speech-trump-aint-goin-anywhere.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-cpac-speech-trump-aint-goin-anywhere.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "8/bk//spdpZtOPtu0x0tNkdIRgiwTfikrIAtzk95BJh+GuKg0pdkdbFcNtdJdpFDi9sfJGoT7wSv3WZ7Yw5q7WNH8dz/bAP0orS2z4yB67s5U9ArAZzARwzjWb1sCRLeVaar5CcpmqSxdhOE1oIL7+G22/FO0O7XR1RdpSuH7gxtL3/RPnj0FWvxvEV+iFRhIBrKmPgGQTidwZhs3yGg7N5aebriSlX3Iqr6Zx5G/+Tnh324vcsQ4Ni4hd1T4XxhDuVz9LLwm4TSpMQh9+iN5JpL0GmXcn0FN1fz2XbGkQdl+V1KJGaXw3soAy+SeNk4+wpXQDVjBsT7zHmHFC8HfChAeQMARovOKhs2w3o2neDm0gx4/Kg0JOrmA4Eol3CCO+7OrPkKdgeojIP5jDMtCy6RLGkLrWyodQhRm+O3Y4M9+0Zpv+VS8Kx4ICsTxavlV8Jkqw/WQTFesEWHGc+RwE7kxrFrwQatjsuFQurlLfCx+CR73HdRYeOVMEXO51jFDVuVzovOy3YnSIqc3DaV0Q==;w0EJKgUkZysl72sU59TtOw=="
 ---

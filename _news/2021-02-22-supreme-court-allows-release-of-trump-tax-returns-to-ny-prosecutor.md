@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxe
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxes-vance/index.html"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209191515-donald-trump-juicio-politico-violencia-capitolio-presidente-eeuu-gobierno-senado-aristegui-mexico-roberto-izurieta-republicanos-democratas-00002909-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Golden Trump statue turns heads at CPAC"
+    excerpt: "With the first full day of the Conservative Political Action Conference underway, there's already an indisputable star: an outrageously golden statue of Donald Trump wearing shorts and flip-flops.\n    \n"
+    publishedDateTime: 2021-02-26T18:36:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LKqak9yC0nw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/trump-gold-statue-cpac-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/trump-gold-statue-cpac-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226130859-02-golden-trump-statue-cpac-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
