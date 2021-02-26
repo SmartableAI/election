@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-25-white-house-lifts-trump-order-that-temporarily-banned-certain-immigrant-visas-during-pandemic.md",
+      "title": "White House lifts Trump order that temporarily banned certain immigrant visas during pandemic",
+      "excerpt": "President Joe Biden on Wednesday revoked a Trump-era executive order that temporarily banned some immigrant visas during the coronavirus pandemic\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WOfcu_s3qGI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WOfcu_s3qGI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210114132612-file-02-joe-biden-november-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/24/politics/biden-immigration-coronavirus-pandemic/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/biden-immigration-coronavirus-pandemic/index.html",
+      "publishedDateTime": "2021-02-24T20:29:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-trump-aide-27-launches-gop-primary-bid-against-kinzinger-blasts-fake-republican-incumbent.md",
       "title": "Trump aide, 27, launches GOP primary bid against Kinzinger, blasts 'Fake Republican' incumbent",
       "excerpt": "Just weeks after voting in support of the second impeachment of former President Donald Trump, U.S. Rep. Adam Kinzinger, R-Ill., is already facing a pro-Trump GOP primary challenger.",
@@ -1134,54 +1190,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-vp-kamala-harris-to-black-americans-lets-not-let-covid-get-us.md",
-      "title": "VP Kamala Harris To Black Americans: \"Let's Not Let COVID Get Us\"",
-      "excerpt": "Vice President Kamala Harris addressed the Black community and encouraged them to take the COVID vaccine in an interview with MSNBC host Rev. Al Sharpton that will air on Thursday and fully on the Saturday broadcast of his show on the news network.",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html",
-      "originalUrl": "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/536177.jpg",
-          "width": 1124,
-          "height": 842,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html",
-      "publishedDateTime": "2021-02-23T16:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     },
     {

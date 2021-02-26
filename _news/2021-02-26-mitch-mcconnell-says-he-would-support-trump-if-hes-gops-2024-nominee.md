@@ -2,9 +2,9 @@
 category: news
 title: "Mitch McConnell Says He Would Support Trump If He’s GOP’s 2024 Nominee"
 excerpt: "The Senate minority leader said he would support Donald Trump if GOP voters select him as the party’s nominee in 2024, the latest remarks from the Kentucky Republican on his stance toward the former president’s future in the party."
-publishedDateTime: 2021-02-26T02:47:00Z
-originalUrl: "https://www.wsj.com/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862?mod=hp_listb_pos3"
-webUrl: "https://www.wsj.com/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862?mod=hp_listb_pos3"
+publishedDateTime: 2021-02-26T07:34:00Z
+originalUrl: "https://www.wsj.com/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
+webUrl: "https://www.wsj.com/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
 ampWebUrl: "https://www.wsj.com/amp/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
 type: article
@@ -461,6 +461,6 @@ related:
         height: 576
         isCached: true
 
-secured: "DvTg5F9ZgOrEnhoi1cz1+ggQDJk7jaPFW7IHulrQygWXHwWd16I+2X51tqZKzOkIwquQxhg+ilvvgPhZnECRuQpYTMtUT4iefdTDO37Sd65NVB56bmrIOG3N9ZnA6YBXCHP5vzhgTSTtlKqKbFe7UDdODFysJBP6XRt2p1WBXKpxGCAhnLz5+CPMat5YMQevZE3+uVGpiKPQQ/AD7LuqB2ycPWQiDHPMJu+qcODTU4cEWV9cNlC0JOq+uS4pqTOONEy9xZ6notchLL5pfqWqBbKEANvHQmPC8MdsOveZ5514xRGTMh6WGY2xpUw3I8p+rNijlOD1RsTrlRDFTHuLvIpRwgHuxmYsyroDsTxVg00=;qWPIsQel/XlPjBqerZnTfw=="
+secured: "sRvaHI2eweEoq23EKfgahPtgeKjI251BomMteRis73jQn5qG/YGatXYKLWcOPiYVWgXBdqWy717wASlvzGmzhU9fVPuaj0Pj4h8sYU4uI8vTK4YIGbMngyQ86kI7fKiz68n1+VjUq+P0Bb9ohnd/Lt7yf7vt7C2BMd3OvBfcZPWjm6Kj4W1eVvKoD0ua4MaiEkq5VLlI6u8GFyCxoAMRCqolPHSj7PB2ntD9eOnnV80lOPrsNocDHdAg3B9zeFL0+LGt9YFDFzJpOl520OKSjpdKA8tEV/KpsrXUA91wuGcKkWdCJiLG9zFRh7f22Tv75oYyuCBUmLkJDjpVprWNHKHtwXFXvF2kZ2yTv5kStEQ=;XHqc9919+axBNZ3tJcOY6Q=="
 ---
 
