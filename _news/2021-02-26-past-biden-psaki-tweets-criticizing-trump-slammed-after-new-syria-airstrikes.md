@@ -2,13 +2,13 @@
 category: news
 title: "Past Biden, Psaki tweets criticizing Trump slammed after new Syria airstrikes"
 excerpt: "Past Twitter messages from President Biden and one of his top aides -- both criticizing former President Trump -- weren't appearing to age well Thursday after Biden ordered airstrikes against an Iranian-backed militia stronghold in Syria."
-publishedDateTime: 2021-02-26T05:03:56Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jE4Z1X_KAAw/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jE4Z1X_KAAw/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes"
+publishedDateTime: 2021-02-26T05:08:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes"
+webUrl: "https://www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes"
 ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
 type: article
-quality: 187
+quality: 147
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -142,6 +143,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb3ea36b-8ddf-4bf9-962e-95ccdac9293a/db70fa60-ab05-4327-b026-dbd89869e341/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Past Biden, Psaki tweets criticizing Trump resurface after new Syria airstrikes"
+    excerpt: "Past Twitter messages from President Biden and one of his top aides -- both criticizing former President Trump -- weren't appearing to age well Thursday after Biden ordered airstrikes against an Iranian-backed militia stronghold in Syria."
+    publishedDateTime: 2021-02-26T05:03:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jE4Z1X_KAAw/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jen-Psaki-Joe-Biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden to issue new immigration orders as part of push to roll back Trump-era policies"
     excerpt: "President Biden on Tuesday will sign three executive orders on illegal and legal immigration -- as part of an aggressive push in the early days of his presidency to roll back many of his predecessor’s policies."
@@ -702,6 +719,6 @@ related:
         height: 340
         isCached: true
 
-secured: "fupSMpSZnZEn3CMYS9760Ytsm0COW43nwaxdNUrDN2yiFYao+zXzRoKnb8b8oweex2tCheoOyz7CMBH9quXE10dMGLHx+IJ4ouUbvbXa+Krjof8L0326aRHMW1D5cQfPCvXtz2QhWoJ2vTtQuAFVHurqaU9K4FaigXxNM1EJgj2YY0Daj7w7vpV6hRB9XYAvtDs2qJ3V4cWNMQwklmi6ASGwP/IFXlBSJYhOdZK5lbcOjKAnAFJ1UQEVRsr1HecUjOwQg8yI/Gp1KraVN1fGrZFpt9NYfqbl+ZEmhVnlm0QH/DefErVeL9Y3fuKbpiSWRlKd18S+ogJ/IO7RoPGvaJHEastZ8omY16eb+DqQeb0=;hrKYG/rSNVtiyvTbff/mng=="
+secured: "FfwIkatnPISBM1KvYBjUOrNeRrJ5FwqBJDCz88SDogg+CMvHnJHvfjLISDwHpFIA0JMc0cezC+bLgInmCM8Qx5Xal0qG5Kv2QEoa72xmIBE8l0ESYOKdCDn2t6vgnFRExnjqzQM4svHRvMEnaoStot+SaaksjXEXNeI7Udm+KAp0YFJDxpInXuxmV8Iga3djQu0RlUbip0hhdMn7PR7XkCkALeC7e5/NSo1iX62Um4V2Fe019Q9+RdjE89KOF0AKRcr15PB8NLBwCSUbrd+7LOVUDsCixv7pS5OC6koVRqQQxlsekUJKqvMJlFYrF9go11VN1UyHCWsWEjgEjmYvZdpCSbn6lYcrqZBLxhMtfYs=;Zj8dddqgq4eXgwxN2RDMhw=="
 ---
 

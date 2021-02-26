@@ -1401,6 +1401,22 @@ related:
         width: 1024
         height: 716
         isCached: true
+  - title: "Donald Trump Banned from Future Re-Admission to SAG-AFTRA: It's 'More Than a Symbolic Step'"
+    excerpt: "The SAG-AFTRA National Board has voted to ban former President Donald Trump from future re-admission into the union. The resolution was passed via Zoom videoconference on Saturday, citing ..."
+    publishedDateTime: 2021-02-09T05:32:00Z
+    webUrl: "https://people.com/tv/sag-aftra-bans-donald-trump-future-readmission/"
+    ampWebUrl: "https://people.com/tv/sag-aftra-bans-donald-trump-future-readmission/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/tv/sag-aftra-bans-donald-trump-future-readmission/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 65
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B23600%2C4252%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fdonald-trump-2-2000-1.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "WATCH LIVE: Impeachment managers set to screen ‘heinous’ video of Capitol attack as Trump trial resumes"
     excerpt: "It will provide new insight into both the extreme violence that everyone suffered (and) the threat that it could have led to further violence and death,” a Democratic aide said."
     publishedDateTime: 2021-02-10T16:50:00Z

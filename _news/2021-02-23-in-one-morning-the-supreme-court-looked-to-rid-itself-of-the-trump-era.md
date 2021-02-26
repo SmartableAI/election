@@ -31,51 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Federal judge blocks last-minute Trump rule limiting asylum claims"
-    excerpt: "A federal judge in California blocked a Trump-era rule that went into effect just a day before Joe Biden took office and sought to dramatically limit the ability of Central American migrants to claim asylum in the United States\n    \n"
-    publishedDateTime: 2021-02-16T18:38:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9DkBccKpUVI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html"
+  - title: "Supreme Court allows release of Trump tax returns to NY prosecutor"
+    excerpt: "The Supreme Court cleared the way for a New York prosecutor to obtain former President Donald Trump's tax returns, dealing a massive loss to Trump who has fiercely fought to shield his financial papers from prosecutors.\n    \n"
+    publishedDateTime: 2021-02-22T14:51:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Mib7JoXI30/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxes-vance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxes-vance/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111218-05-immigration-file-asylum-seekers-mexico-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729082623-trump-at-podium-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Federal judge blocks Trump administration asylum rule from taking effect"
-    excerpt: "A federal judge on Friday blocked a sweeping asylum rule that had been scheduled to take effect nationwide in a matter of days, issuing yet another legal blow to the Trump administration.\n    \n"
-    publishedDateTime: 2021-01-09T02:50:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rb2CMYeyGs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html"
+  - title: "The Point: Why has Donald Trump fought so hard to keep his tax returns secret?"
+    excerpt: "The Supreme Court's rejection Monday of an attempt by Donald Trump to keep Manhattan District Attorney Cyrus Vance from seeing his tax returns (and other financial documents) was rightly cast as a major legal setback for the former President.\n    \n"
+    publishedDateTime: 2021-02-23T15:42:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RJDWU7rk_60/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/donald-trump-tax-returns-scotus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/donald-trump-tax-returns-scotus/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 174
+    quality: 171
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210215838-panorama-nuevas-restricciones-asilo-eeuu-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "DC attorney general weighs legal viability of charging Trump under local statute "
-    excerpt: "Lawyers inside the Washington, DC attorney general's office are working to determine if it is legally viable to use district statutes to charge former President Donald Trump for his alleged role in the insurrection.\n    \n"
-    publishedDateTime: 2021-02-12T20:40:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iPjpB1KnfoA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201225192217-karl-racine-headshot-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170417184020-cnnmoney-trump-tax-returns-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -95,67 +79,101 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "How the Trump Era Broke the Sunday-Morning News Show"
-    excerpt: "Any number of hallowed political and media institutions fell apart. So why should the most hallowed political-media institution of them all escape unscathed?"
-    publishedDateTime: 2021-02-11T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
+  - title: "Trump's tax returns and related records turned over to Manhattan district attorney"
+    excerpt: "Tax records that former President Donald Trump tried to keep secret for years are now in the hands of the New York district attorney.\n    \n"
+    publishedDateTime: 2021-02-25T14:52:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kALnAf8DvY4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-mazars-vance/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-mazars-vance/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 169
     images:
-      - url: "https://static01.nyt.com/images/2021/02/14/magazine/14mag-screenland/14mag-screenland-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113140558-02-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Ice Skating Ends at Central Park After New York City Rift With Trump"
-    excerpt: "The skating season ended abruptly Sunday, a casualty of the decision to boot the former president’s business from operating the two ice rinks in the park."
-    publishedDateTime: 2021-02-21T19:49:00Z
-    webUrl: "https://www.nytimes.com/2021/02/21/nyregion/trump-skating-rink-central-park.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/21/nyregion/trump-skating-rink-central-park.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/21/nyregion/trump-skating-rink-central-park.amp.html"
+  - title: "What the Supreme Court ruling means for Manhattan DA's Trump criminal investigation "
+    excerpt: "After 17 months and two trips to the US Supreme Court, the Manhattan district attorney's criminal investigation into former President Donald Trump's business has received a significant boost with investigators now able to pour over Trump's tax returns and financial records.\n    \n"
+    publishedDateTime: 2021-02-22T20:16:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UdNZ51ZMpls/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Manhattan DA faces critical decisions in Trump investigation as his time in office runs low"
+    excerpt: "At the helm of the most significant criminal investigation facing Donald Trump, his family and his business, Manhattan's top prosecutor faces a daunting task heading into his final months in office while sifting through millions of newly obtained pages of financial records related to the former President.\n"
+    publishedDateTime: 2021-02-25T23:25:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1fKVj9rqWIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200221104852-cy-vance-0215-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Parler, a Social Network That Attracted Trump Fans, Returns Online"
+    excerpt: "After being cut off by Amazon and other tech giants, Parler worked for weeks to find a way to get back on the internet."
+    publishedDateTime: 2021-02-15T19:29:00Z
+    webUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/02/21/multimedia/21trumprink2/merlin_182341011_8d7ddaf3-a381-44db-afe2-cbcb1bcd06c9-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/15/business/15parler1/merlin_182226063_a7a3368d-45c0-4f5c-a7f9-7fc23bfc40d4-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
-  - title: "House Democrats and White House Split Over Lawsuit for Ex-Trump Aide’s Testimony"
-    excerpt: "President Biden has inherited litigation over a subpoena to Donald F. McGahn II, President Donald J. Trump’s former lawyer, about the Russia investigation."
-    publishedDateTime: 2021-02-18T22:35:00Z
-    webUrl: "https://www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.amp.html"
+  - title: "Trump's tax returns handed over to Manhattan prosecutors"
+    excerpt: "The Supreme Court this week declined to block a New York grand jury from getting Trump's personal and corporate tax returns."
+    publishedDateTime: 2021-02-26T00:16:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/manhattan-d-vance-possession-trump-s-taxes-n1258834"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258834"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258834"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/02/18/us/politics/18dc-mcgahn/18dc-mcgahn-facebookJumbo.jpg"
-        width: 1050
-        height: 549
+      - url: "https://media4.s-nbcnews.com/i/newscms/2020_22/3372656/200531-donald-trump-cs-611p_e554c90c1572ac84631e4d1731a76b2d.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Schiff ponders life beyond the House as focus shifts from Trump"
-    excerpt: "Speaker Nancy Pelosi, an ally, has lent some muscle to Adam Schiff’s bid to become California's attorney general."
-    publishedDateTime: 2021-02-14T12:10:00Z
-    webUrl: "https://www.politico.com/news/2021/02/14/adam-schiff-future-468949"
+  - title: "Prosecutors just got millions of pages of Trump documents. His taxes are just the beginning."
+    excerpt: "The records are likely to offer New York investigators a revealing look into the former president’s business dealings, experts say."
+    publishedDateTime: 2021-02-25T23:14:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/prosecutors-just-got-millions-trump-documents-his-taxes-are-just-n1258876"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258876"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258876"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
     images:
-      - url: "https://static.politico.com/b4/04/01342b3c4ef699ea410e681d31e9/20200911-adamschiff-gty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3452122/210223-donald-trump-jm-1402_dbab2f8aec615a8c581bb5f4ed0c8961.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "Ip0ozKYbDDQT4EPjWVE5bEbG6yJJIKAgcPJdgeiDP3cyFrNnc2mB61oIANNoNi8yfHDdKrvSrYnrxvFM96KieTGEYREIMrDT+Hxv52bTvDbRXNdpfzrsYzgvZYu5fYk2tEmUCbDKPXFVawE401CcodRkAojdSQvcM5kXoBSDJBDK5RLva/fNv3UANSmI5hE1NlS524jSI5oAtfq6zfqnUHMe7006+vMtX4X/dkYDY9Z75zuHbNP/NghEtt7WSaEe5Xqmlj+D5J7ctC9JiDAMbzgKwpkKxBU/zBaYTD8oFO/WIvWCfvxZj0/nJVfM+TPTmCJxyTeCQEyjfLgnYp7xboPtknqrko+2WH2wxyAbAJ4=;q4aK+QDW/DDJ0fecHhmzQw=="

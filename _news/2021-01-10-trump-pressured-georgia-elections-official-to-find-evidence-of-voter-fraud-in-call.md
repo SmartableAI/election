@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
 type: article
 quality: 134
-heat: 374
+heat: 394
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://thehill.com/sites/default/files/clyburnjames_111820bc3_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Georgia prosecutor investigating Trump call urges patience"
+    excerpt: "The Georgia prosecutor investigating potential efforts by Donald Trump to influence last year’s general election is urging people to be patient"
+    publishedDateTime: 2021-02-26T06:11:00Z
+    webUrl: "https://www.washingtonpost.com/national/georgia-prosecutor-investigating-trump-call-urges-patience/2021/02/26/55d11a2a-77f8-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/georgia-prosecutor-investigating-trump-call-urges-patience/2021/02/26/55d11a2a-77f8-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-prosecutor-investigating-trump-call-urges-patience/2021/02/26/55d11a2a-77f8-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Cozying up to Trump may have hurt Perdue and Loeffler in the Georgia run-off"
     excerpt: "Already, recriminations are flying about what Loeffler and Perdue might have done wrong. Our research suggests that they made one crucial error: aligning themselves with Donald Trump. In an effort to turn out their base,"

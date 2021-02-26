@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-r
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html"
 type: article
 quality: 174
-heat: -1
-published: false
+heat: 254
+published: true
 
 provider:
   name: CNN
@@ -31,129 +31,65 @@ images:
     isCached: true
 
 related:
-  - title: "Federal judge blocks last-minute Trump rule limiting asylum claims"
-    excerpt: "A federal judge in California blocked a Trump-era rule that went into effect just a day before Joe Biden took office and sought to dramatically limit the ability of Central American migrants to claim asylum in the United States\n    \n"
-    publishedDateTime: 2021-02-16T18:38:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9DkBccKpUVI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111218-05-immigration-file-asylum-seekers-mexico-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "In one morning, the Supreme Court looked to rid itself of the Trump era"
-    excerpt: "Donald Trump took a drubbing at the Supreme Court on Monday, as the justices in a flurry of orders dealt critical blows to his efforts to shield his tax records from a New York prosecutor and his oft-repeated false claims that there was widespread voter fraud during the last election.\n    \n"
-    publishedDateTime: 2021-02-23T00:49:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zWO8MaEjn7A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-election-taxes-stormy-daniels/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-election-taxes-stormy-daniels/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209191515-donald-trump-juicio-politico-violencia-capitolio-presidente-eeuu-gobierno-senado-aristegui-mexico-roberto-izurieta-republicanos-democratas-00002909-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "DC attorney general weighs legal viability of charging Trump under local statute "
-    excerpt: "Lawyers inside the Washington, DC attorney general's office are working to determine if it is legally viable to use district statutes to charge former President Donald Trump for his alleged role in the insurrection.\n    \n"
-    publishedDateTime: 2021-02-12T20:40:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iPjpB1KnfoA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html"
+  - title: "Trump administration strikes parting blow at Medicaid with Tennessee block grant"
+    excerpt: "Just days before leaving office, the Trump administration took a step toward fulfilling a long-held Republican dream of curbing Medicaid costs and giving states more flexibility to run the program.\n    \n"
+    publishedDateTime: 2021-01-09T00:08:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rl92DLpadG0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-administration-medicaid-block-grant-tennessee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-administration-medicaid-block-grant-tennessee/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201225192217-karl-racine-headshot-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108175126-seema-verma-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Supreme Court agrees to hear challenge to Trump administration's public charge rule"
-    excerpt: "The Supreme Court agreed on Monday to take up a case brought by various groups and state and local officials challenging a Trump-era rule that makes it more difficult for immigrants to obtain legal status if they use public benefits, such as Medicaid, food stamps and housing vouchers.\n    \n"
-    publishedDateTime: 2021-02-22T15:53:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V1VF280FP_w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-public-charge-rule/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-public-charge-rule/index.html"
+  - title: "Despite Trump administration promise, government has no more 'reserve' 2nd vaccine doses"
+    excerpt: "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n"
+    publishedDateTime: 2021-01-16T01:36:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 166
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200225125440-02-supreme-court-building-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222111258-02-alex-azar-vaccine-1222-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "How the Trump Era Broke the Sunday-Morning News Show"
-    excerpt: "Any number of hallowed political and media institutions fell apart. So why should the most hallowed political-media institution of them all escape unscathed?"
-    publishedDateTime: 2021-02-11T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
+  - title: "Despite Trump administration promise, there appear to be no more 'reserve' 2nd vaccine doses to release"
+    excerpt: "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n"
+    publishedDateTime: 2021-01-15T20:01:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 159
     images:
-      - url: "https://static01.nyt.com/images/2021/02/14/magazine/14mag-screenland/14mag-screenland-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 549
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222111258-02-alex-azar-vaccine-1222-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Ice Skating Ends at Central Park After New York City Rift With Trump"
-    excerpt: "The skating season ended abruptly Sunday, a casualty of the decision to boot the former president’s business from operating the two ice rinks in the park."
-    publishedDateTime: 2021-02-21T19:49:00Z
-    webUrl: "https://www.nytimes.com/2021/02/21/nyregion/trump-skating-rink-central-park.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/21/nyregion/trump-skating-rink-central-park.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/21/nyregion/trump-skating-rink-central-park.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/21/multimedia/21trumprink2/merlin_182341011_8d7ddaf3-a381-44db-afe2-cbcb1bcd06c9-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "House Democrats and White House Split Over Lawsuit for Ex-Trump Aide’s Testimony"
-    excerpt: "President Biden has inherited litigation over a subpoena to Donald F. McGahn II, President Donald J. Trump’s former lawyer, about the Russia investigation."
-    publishedDateTime: 2021-02-18T22:35:00Z
-    webUrl: "https://www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/18/us/politics/18dc-mcgahn/18dc-mcgahn-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Schiff ponders life beyond the House as focus shifts from Trump"
-    excerpt: "Speaker Nancy Pelosi, an ally, has lent some muscle to Adam Schiff’s bid to become California's attorney general."
-    publishedDateTime: 2021-02-14T12:10:00Z
-    webUrl: "https://www.politico.com/news/2021/02/14/adam-schiff-future-468949"
+  - title: "Pelosi asks Joint Chiefs about preventing Trump from launching nukes"
+    excerpt: "House Speaker Nancy Pelosi spoke with the nation's top military officer on Friday about precautions in place to prevent President Donald Trump from ordering a nuclear strike or conducting other military hostilities as Democrats seek his removal from office."
+    publishedDateTime: 2021-01-08T18:26:00Z
+    webUrl: "https://www.politico.com/news/2021/01/08/pelosi-trump-take-away-nuclear-codes-456529"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/b4/04/01342b3c4ef699ea410e681d31e9/20200911-adamschiff-gty-773.jpg"
+      - url: "https://static.politico.com/fd/0c/d4119b0a47de86d75b1f36341ac8/gettyimages-1230470231-1.jpg"
         width: 1160
         height: 773
         isCached: true

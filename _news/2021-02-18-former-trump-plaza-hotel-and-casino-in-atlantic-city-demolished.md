@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Ice Skating Ends at Central Park After New York City Rift With Trump"
+    excerpt: "The skating season ended abruptly Sunday, a casualty of the decision to boot the former president’s business from operating the two ice rinks in the park."
+    publishedDateTime: 2021-02-21T19:49:00Z
+    webUrl: "https://www.nytimes.com/2021/02/21/nyregion/trump-skating-rink-central-park.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/21/nyregion/trump-skating-rink-central-park.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/21/nyregion/trump-skating-rink-central-park.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/21/multimedia/21trumprink2/merlin_182341011_8d7ddaf3-a381-44db-afe2-cbcb1bcd06c9-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "NRy6kF3eHHT7nPrfiE3aiLI5gP9uidjaX3UB5Qn/aiGOJH44AAxsq9CIuM1QvuYFZbE+Vc8om50Uysp8TPSgQyDlfDSQ5n4EBD6n6LNGwY4YribQL0DhcYfDQ8rN7i2oeS+JfI2BTzdstvgi3CRtn3w4r0dzdhjkA7q6ep3ESvnmXxIVbVeDfMr22zCj5MCGPTFqp3T0GqguoqnuDEloEAtMXYAOtprMThmIFm6Cp5/S0spD8X13NXYUv6iCPW8mNwL5yr4enUeuo5cwePLR1PLOkhuYXj2c5nHw3YmGQwm75eDrbzZHLBQJegPPEgyrg/c36V+uoV0Cg/i1pFP/UY1eLgLambuMBuz7aImbjmbqYfYhjmNa8D0Nxes8ZV2AWUe95FQp18a+gPWhfmtv7sU3w7VOFF5xYUx/LSYHJxlElzJNOLVH7bOZp8RkITvmKWRIlFcQ7ZBTM/NkNVUDfAP2n5TPfIYiK9hhw6thIxgQvmT/IkrhuAfan1BHHiYzQXsHkEHkM+34I6uq4KN1+g==;GnMJLdUERBT8gC9X2RniUw=="
 ---

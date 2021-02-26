@@ -189,6 +189,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "President Biden heads to Texas to assess damage after horrific winter storm left millions without power"
+    excerpt: "President Joe Biden will visit Houston where he will meet with local leaders to discuss the storm, relief efforts and recovery."
+    publishedDateTime: 2021-02-26T09:03:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/26/joe-biden-visits-texas-after-winter-storm-left-millions-damage/4560686001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4560686001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4560686001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/19/USAT/603162ef-b26b-4e0b-a54c-c91b0da0868d-AP21050597735960.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden Gives Small Firms Exclusive Access to Paycheck Program"
     excerpt: "President Joe Biden said his administration is seeking to help small businesses by giving them exclusive access to the Paycheck Protection Program for two weeks, and he called on lawmakers to pass his $1."
     publishedDateTime: 2021-02-22T18:25:00Z

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-19-as-trumps-latest-intra-party-feud-rages-graham-heads-to-mar-a-lago-on-a-peace-mission.md",
+      "title": "As Trump's latest intra-party feud rages, Graham heads to Mar-a-Lago on a peace mission",
+      "excerpt": "Sen. Lindsey Graham is heading to Mar-a-Lago this weekend to meet with Donald Trump in hopes of bridging a growing rift in the top echelon of the Republican Party, CNN has learned.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9N17SFn70hs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9N17SFn70hs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210212211855-lindsey-graham-0107-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/19/politics/lindsey-graham-mar-a-lago-trump-gop-feud/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/lindsey-graham-mar-a-lago-trump-gop-feud/index.html",
+      "publishedDateTime": "2021-02-19T05:20:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-south-carolina-heartbeat-ban-marks-next-era-of-abortion-battle-under-biden.md",
       "title": "South Carolina heartbeat ban marks next era of abortion battle under Biden",
       "excerpt": "South Carolina on Thursday became the first state in 2021 to enact a restrictive abortion law known as a \"heartbeat ban,\" an opening salvo underscoring a potentially perilous situation for President Joe Biden's administration as anti-abortion supporters look for a Supreme Court fight over reproductive",
@@ -31,62 +87,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/19/politics/abortion-biden-south-carolina/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/19/politics/abortion-biden-south-carolina/index.html",
       "publishedDateTime": "2021-02-19T03:01:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-manhattan-district-attorney-bolsters-team-investigating-possible-fraud-claims-by-trump-and-his-company.md",
-      "title": "Manhattan district attorney bolsters team investigating possible fraud claims by Trump and his company",
-      "excerpt": "The Manhattan District Attorney's Office has added a prominent former prosecutor to bolster its team investigating possible fraud claims by former President Donald Trump and his company.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WtHosy67ua0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WtHosy67ua0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210116005758-trump-seven-springs-estate-file-2020-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/18/politics/manhattan-district-attorney-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/manhattan-district-attorney-trump/index.html",
-      "publishedDateTime": "2021-02-18T16:24:58-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -452,63 +452,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-17-watch-trump-plaza-in-atlantic-city-is-demolished.md",
-      "title": "WATCH: Trump Plaza in Atlantic City is demolished",
-      "excerpt": "Videos show the moment former President Donald Trump's long-standing Trump Plaza in Atlantic City is destroyed in a controlled demolition. The casino and hotel were closed in 2014.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-trump-plaza-in-atlantic-city-is-demolished-101146182002",
-      "originalUrl": "https://www.nbcnews.com/video/watch-trump-plaza-in-atlantic-city-is-demolished-101146182002",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/f_mo_trump_demolish_210217.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo101146182002",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101146182002",
-      "publishedDateTime": "2021-02-17T07:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-17-explainer-what-is-the-ku-klux-klan-act-cited-in-lawsuit-against-trump.md",
       "title": "Explainer: What is the Ku Klux Klan Act cited in lawsuit against Trump ",
       "excerpt": "The Democratic chairman of the House Homeland Security Committee has filed a lawsuit against former President Donald Trump that cites a little-known federal statute that was first passed after the Civil War.\n    \n",
@@ -521,7 +464,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -734,23 +677,23 @@
       ]
     },
     {
-      "path": "_news/2021-02-16-federal-judge-blocks-last-minute-trump-rule-limiting-asylum-claims.md",
-      "title": "Federal judge blocks last-minute Trump rule limiting asylum claims",
-      "excerpt": "A federal judge in California blocked a Trump-era rule that went into effect just a day before Joe Biden took office and sought to dramatically limit the ability of Central American migrants to claim asylum in the United States\n    \n",
+      "path": "_news/2021-02-16-mcconnell-defends-vote-to-acquit-trump-our-job-was-to-defend-the-constitution-and-respect-its-limits.md",
+      "title": "McConnell defends vote to acquit Trump: 'Our job was to defend the Constitution and respect its limits'",
+      "excerpt": "Senate Republican leader Mitch McConnell on Monday rebuked Donald Trump's incitement of the January 6 insurrection at the US Capitol while doubling down on his vote to acquit the former President of the charge.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9DkBccKpUVI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9DkBccKpUVI/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PQ_8PZyjsXo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PQ_8PZyjsXo/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 179,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210204111218-05-immigration-file-asylum-seekers-mexico-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210215202426-mcconnell-210213-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -760,65 +703,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html",
-      "publishedDateTime": "2021-02-16T10:38:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-georgia-state-bar-proceeding-with-inquiry-into-pro-trump-attorney-lin-wood.md",
-      "title": "Georgia state bar proceeding with inquiry into pro-Trump attorney Lin Wood ",
-      "excerpt": "The State Bar of Georgia is \"proceeding with an inquiry\" into attorney Lin Wood, one of the lawyers who unsuccessfully pushed a handful of suits to block Georgia's election results after alleging unfounded claims of fraud, the organization told CNN in a statement Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uLHT6ZN9Bjk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uLHT6ZN9Bjk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210202195002-lin-wood-dec-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/16/politics/lin-wood-georgia-state-bar-inquiry/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/lin-wood-georgia-state-bar-inquiry/index.html",
-      "publishedDateTime": "2021-02-16T08:25:58-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/15/politics/mcconnell-trump-acquit-op-ed-wall-street-journal/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/mcconnell-trump-acquit-op-ed-wall-street-journal/index.html",
+      "publishedDateTime": "2021-02-15T18:22:37-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -954,63 +841,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-saturday-night-live-spotlights-trumps-impeachment-victory.md",
-      "title": "'Saturday Night Live' spotlights Trump's impeachment victory",
-      "excerpt": "The show imagined Fox News' Tucker Carlson interviewing Republican leaders about the historic impeachment trial, which saw the most bipartisan support for impeachment conviction in history. \"There's a lot to cover tonight,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/us-news/snl-spotlights-trump-s-impeachment-victory-n1257910",
-      "originalUrl": "https://www.nbcnews.com/news/us-news/snl-spotlights-trump-s-impeachment-victory-n1257910",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media4.s-nbcnews.com/i/newscms/2021_06/3450055/210213-snl-er-1145pm_de57f8718eb7290e1464a1412e60b008.png",
-          "width": 1919,
-          "height": 1069,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257910",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257910",
-      "publishedDateTime": "2021-02-14T15:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1184,118 +1014,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-14-fact-check-trump-lawyer-closes-impeachment-defense-with-a-barrage-of-dishonesty.md",
-      "title": "Fact check: Trump lawyer closes impeachment defense with a barrage of dishonesty ",
-      "excerpt": "Former President Donald Trump's impeachment defense was dishonest from start to finish.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210213210145-michael-van-der-veen-abogado-trump-sot-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html",
-      "publishedDateTime": "2021-02-13T16:47:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-mcconnell-blames-trump-but-voted-not-guilty-anyway.md",
-      "title": "McConnell blames Trump but voted not guilty anyway",
-      "excerpt": "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html",
-      "publishedDateTime": "2021-02-13T16:42:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-14-the-disgraceful-acquittal-of-donald-trump.md",
       "title": "The ‘Disgraceful Acquittal’ of Donald Trump",
       "excerpt": "A sad, sad day for democracy,” one reader writes. “It was craven cowardice for Republicans to put Mr. Trump before country,” writes another.",
@@ -1353,6 +1071,62 @@
       ]
     },
     {
+      "path": "_news/2021-02-13-this-is-trumps-heaping-list-of-legal-problems-post-impeachment.md",
+      "title": "This is Trump's heaping list of legal problems post-impeachment  ",
+      "excerpt": "After averting a conviction in his second impeachment trial, former President Donald Trump faces significant new legal threats as prosecutors in Georgia have joined those in New York to conduct criminal investigations into his actions.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BNW1zsEIlHQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BNW1zsEIlHQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 675,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210211174740-106-trump-impeachment-centered-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/13/politics/trump-legal-problems-post-impeachment/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-legal-problems-post-impeachment/index.html",
+      "publishedDateTime": "2021-02-13T14:39:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-trump-was-aware-pence-had-been-evacuated-to-secure-location-as-rioters-stormed-capitol.md",
       "title": "Trump was aware Pence had been evacuated to secure location as rioters stormed Capitol",
       "excerpt": "President Donald Trump was aware his vice president had been evacuated to a secure location as rioters stormed the US Capitol, according to a person who was with Trump on January 6.\n    \n",
@@ -1365,7 +1139,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 1412,
+      "heat": 1452,
       "tags": null,
       "images": [
         {
@@ -1523,63 +1297,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-13-trumps-impeachment-defense-team-argues-his-words-before-riot-were-ordinary-political-rhetoric.md",
-      "title": "Trump's impeachment defense team argues his words before riot were 'ordinary political rhetoric'",
-      "excerpt": "Lawyers for former President Donald Trump’s kicked off their defense Friday with a forceful rebuke of the case made by Democratic House impeachment managers, calling it an act of \"political vengeance\" and alleging that Trump's speech preceding the Capitol riot was merely \"ordinary political rhetoric.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601",
-      "originalUrl": "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_06/3449634/210212-donald-trump-mn-0730_1766caa6ab5712ca048af6133531a753.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257601",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257601",
-      "publishedDateTime": "2021-02-12T10:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-12-key-republican-breaks-with-trump-we-shouldnt-have-followed-him.md",
       "title": "Key Republican breaks with Trump: 'We shouldn't have followed him'",
       "excerpt": "Former ambassador to the UN Nikki Haley weighed in on Trump's legacy during an interview with Politico, saying that he had \"fallen so far\" and was likely out of the picture for 2024 presidential candidates. Former special assistant to President George H.W. Bush and president of the Council on Foreign",
@@ -1592,7 +1309,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 415,
+      "heat": 475,
       "tags": null,
       "images": [
         {
@@ -1689,6 +1406,290 @@
       "topics": [
         "Election",
         "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops.md",
+      "title": "Remembering Parkland — Defiant DeSantis lashes out at Biden administration — Sprowls warns schools over enrollment drops",
+      "excerpt": "Between Wednesday and Thursday, the number of Florida coronavirus cases increased by 8,525 (nearly 0.5 percent), to 1,806,805; active hospitalizations went down by 220 (nearly 4.3 percent). to 4,906;",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/12/remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops-491735",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/12/remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops-491735",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-12T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-military-officials-were-unaware-of-potential-danger-to-pences-nuclear-football-during-capitol-riot.md",
+      "title": "Military officials were unaware of potential danger to Pence's 'nuclear football' during Capitol riot",
+      "excerpt": "Military officials overseeing the authorization process to launch nuclear weapons were unaware on January 6 that then-Vice President Mike Pence's military aide carrying the \"nuclear football\" was potentially in danger as rioters got close during the violent Capitol insurrection, according to a defense",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oggkB_k4niw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oggkB_k4niw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210211153147-impeachment-manager-exhibit-pence-0106-footage-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/11/politics/military-officials-were-unaware-pence-nuclear-football-riot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/military-officials-were-unaware-pence-nuclear-football-riot/index.html",
+      "publishedDateTime": "2021-02-11T14:39:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-day-three-democrats-try-to-make-the-trump-link-clearer.md",
+      "title": "Day Three: Democrats try to make the Trump link clearer",
+      "excerpt": "And Speaker Nancy Pelosi says she will award the Congressional Gold Medal to Capitol Police and other law enforcement who defended the Capitol on Jan. 6.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/11/day-three-democrats-try-to-make-the-trump-link-clearer-491726",
+      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/11/day-three-democrats-try-to-make-the-trump-link-clearer-491726",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/a9/3c/81523a5e4fb583824a567513d7f6/210211-degette-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T10:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-loujain-al-hathloul-saudi-activists-family-thanks-biden-after-release-from-jail.md",
+      "title": "Loujain al-Hathloul: Saudi activist's family thanks Biden after release from jail",
+      "excerpt": "The women's rights activist's incarceration had led to growing international pressure and further scrutiny of Saudi Arabia's human rights record.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/world/loujain-al-hathloul-saudi-activist-s-family-thanks-biden-after-n1257446",
+      "originalUrl": "https://www.nbcnews.com/news/world/loujain-al-hathloul-saudi-activist-s-family-thanks-biden-after-n1257446",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_06/3449354/210211-loujain-al-hathlou-al-0853_5469535b6fde1d6348486b15c860fe9b.jpg",
+          "width": 1024,
+          "height": 609,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1257446",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257446",
+      "publishedDateTime": "2021-02-11T07:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-building-the-big-one-behind-the-scenes-of-bidens-19-trillion-bet.md",
+      "title": "Building the big one: Behind the scenes of Biden's $1.9 trillion bet  ",
+      "excerpt": "On January 5, as results came in from the Senate runoff election in Georgia, the texts between President-elect Joe Biden's senior staff went late into the night and into the next morning. With the Senate majority on the line, and full control of Washington in their grasp, the outcome of the two Georgia",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e4brB_NVZgk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/e4brB_NVZgk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210210153022-20210210-biden-relief-package-illustration-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/biden-1-9-trillion-bet/index.html",
+      "publishedDateTime": "2021-02-11T07:10:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Democratic Voice"
       ]
     }

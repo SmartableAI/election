@@ -591,22 +591,6 @@ related:
         width: 777
         height: 545
         isCached: true
-  - title: "Biden talks to Saudi king, stresses human rights and rule of law: White House"
-    excerpt: "U.S. President Joe Biden spoke with Saudi Arabia's King Salman on Thursday, stressing the importance of human rights and vowing to make the relationship between the two countries stronger and more transparent,"
-    publishedDateTime: 2021-02-26T03:11:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-saudi-biden-statement/biden-talks-to-saudi-king-stresses-human-rights-and-rule-of-law-white-house-idUSKBN2AP2ZJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AP2ZJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP2ZJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552949255&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O1QG"
-        width: 818
-        height: 545
-        isCached: true
   - title: "Biden's 1st 100 days live updates: WH offers no timeline for return to normalcy"
     excerpt: "Biden's trip to Kalamazoo, Michigan, has been rescheduled to Friday. The visit -- in addition to his Tuesday town hall in Milwaukee -- will give Biden an opportunity to make his case for COVID-19 relief to every day Americans since taking office."
     publishedDateTime: 2021-02-18T07:58:00Z
@@ -654,6 +638,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/bedb4506ff187ad6d66f4404fd4abd5c125e2761/0_400_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=445d0b0b8549c003be0219b5ab92c009"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden talks to Saudi king, stresses human rights and rule of law - White House"
+    excerpt: "U.S. President Joe Biden spoke with Saudi Arabia's King Salman on Thursday, stressing the importance of human rights and vowing to make the relationship between the two countries stronger and more transparent,"
+    publishedDateTime: 2021-02-26T03:22:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-saudi-biden-statement-idUKKBN2AP30H"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AP30H"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AP30H"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552949255&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O1QG"
+        width: 818
+        height: 545
         isCached: true
   - title: "Biden's 1st 100 days live updates: 'This is not a time to relax' about COVID-19"
     excerpt: "Live updates from the first 100 days of the administration of President Joe Biden and Vice President Kamala Harris."
@@ -824,6 +824,20 @@ related:
       name: NPR
       domain: npr.org
     quality: 115
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/24/ap_20174715433953_wide-ac356c5ff4cc39376cf7630053d651c17ca06cd1.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
+  - title: "Biden Reopens Gateway For Green Cards And Work Visas, Reversing Trump COVID-19 Freeze"
+    excerpt: "The change means the wait is over for hundreds of thousands of job-seeking foreigners and those pursuing permanent residency in the U.S. to apply for the coveted immigration documents."
+    publishedDateTime: 2021-02-26T09:23:00Z
+    webUrl: "https://www.npr.org/2021/02/24/971206197/biden-reopens-gateway-for-green-cards-work-visas-reversing-trump-covid-19-freeze"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 113
     images:
       - url: "https://media.npr.org/assets/img/2021/02/24/ap_20174715433953_wide-ac356c5ff4cc39376cf7630053d651c17ca06cd1.jpg?s=1400"
         width: 1400

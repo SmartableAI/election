@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden talks to Saudi king, stresses human rights and rule of law: White House"
+title: "Biden talks to Saudi king, stresses human rights and rule of law - White House"
 excerpt: "U.S. President Joe Biden spoke with Saudi Arabia's King Salman on Thursday, stressing the importance of human rights and vowing to make the relationship between the two countries stronger and more transparent,"
-publishedDateTime: 2021-02-26T03:11:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-saudi-biden-statement/biden-talks-to-saudi-king-stresses-human-rights-and-rule-of-law-white-house-idUSKBN2AP2ZJ"
-webUrl: "https://www.reuters.com/article/us-usa-saudi-biden-statement/biden-talks-to-saudi-king-stresses-human-rights-and-rule-of-law-white-house-idUSKBN2AP2ZJ"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AP2ZJ"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP2ZJ"
+publishedDateTime: 2021-02-26T03:22:00Z
+originalUrl: "https://www.reuters.com/article/uk-usa-saudi-biden-statement-idUKKBN2AP30H"
+webUrl: "https://www.reuters.com/article/uk-usa-saudi-biden-statement-idUKKBN2AP30H"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2AP30H"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2AP30H"
 type: article
-quality: 122
+quality: 121
 heat: -1
 published: false
 
@@ -829,6 +829,20 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Biden Reopens Gateway For Green Cards And Work Visas, Reversing Trump COVID-19 Freeze"
+    excerpt: "The change means the wait is over for hundreds of thousands of job-seeking foreigners and those pursuing permanent residency in the U.S. to apply for the coveted immigration documents."
+    publishedDateTime: 2021-02-26T09:23:00Z
+    webUrl: "https://www.npr.org/2021/02/24/971206197/biden-reopens-gateway-for-green-cards-work-visas-reversing-trump-covid-19-freeze"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 113
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/24/ap_20174715433953_wide-ac356c5ff4cc39376cf7630053d651c17ca06cd1.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – as it happened"
     excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
     publishedDateTime: 2021-02-18T01:13:00Z
@@ -1007,6 +1021,6 @@ related:
         height: 630
         isCached: true
 
-secured: "3uRzdH6SP7Nhq3BcLnSg3FRmP+/lmkJ/JFV7fSXM4tg9zcxS/qS86pUpncuFQj346L2aAJ11zvB1GBpdwWpnfxJspgrZcnPoiq9aGPEOor8yLsHY9e9DvoS/qMb2QCPTu99FkKVc7wmgjzXS4ydoKSsNjPcF4qxNCh3tb7m7N6x6Bm2jJMvfg247Sfke5X6KGFEpCmU6MVU2i2cHX9DdUokjIAPFFoTWgWvzA9M7NNxkV/T0br7pURrVtYAXC+W+E7+CrnyY7y3QIBbiT1puwJtZW9S/c1+i4oW4aq7XmxNvcUGNcWHWPlXzv9oVPR7DO02lDE3Gjx8GjVWuoUzAJcNAkf9SDZaUbLLPgz8RnXUBCy4UsM5rli+XxYYq6C7KgG4wSRgJZK/qALb8zBECB1T2RIufna3cAwvqgYhAiBzmfVkFwpCaoghpBfVvXeUv3KPUQ2uOfMWjpuR6KWZE/EYGDVmsPEfzweWJc0Bp02ShNwqSQ8qJMjuy5Lfmh56PU+ho6tjIa8GvmLuJs2YdPg==;7LkP6csl+5wkiEAi/sTEvA=="
+secured: "uH/q06Q1E6OzO9sLDHNYeoYvT8E4Eb26IpwQXmSNLdYY3ZFHBInhQoMveazP4y5jCeIuBUy4ZgynLp1k+R24Nupt2ccQSvyg1APSthy36NLhKVOfMHxzj2OrGLAqRFonva2UmxFjmmLQcUOStBZ6viWJlhDesRA9D+d0ugtK9pZ/mIpfTLnvCCfe9j/w7DDSaQzgQ839lEAfFD0PscymP+cptd6Ia3llKC/L3L7jvg5lhorUx70VKyt1uqkdmWsPQGLWcrElbbuKovAxr3QbR+4gK//ZzwLuWvr2eV4xMyVqTKK/R1PD0f1RfdcWk5Z/Jbz5fAZnenJUyziJzealZ8SujzAQ52yM68wSuUR5f+o=;LHvHylBqhlpP497WEQiisA=="
 ---
 

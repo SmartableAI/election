@@ -31,69 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Trump campaign says the President has not yet chosen impeachment defense team"
-    excerpt: "President Donald Trump has not yet assembled a defense team for his upcoming Senate impeachment trial, a spokesperson for the President's campaign said Sunday.\n    \n"
-    publishedDateTime: 2021-01-17T14:11:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJ0rnrr503s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html"
+  - title: "Federal judge blocks Trump administration asylum rule from taking effect"
+    excerpt: "A federal judge on Friday blocked a sweeping asylum rule that had been scheduled to take effect nationwide in a matter of days, issuing yet another legal blow to the Trump administration.\n    \n"
+    publishedDateTime: 2021-01-09T02:50:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rb2CMYeyGs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201210215838-panorama-nuevas-restricciones-asilo-eeuu-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "‘A Total Failure’: The Proud Boys Now Mock Trump"
-    excerpt: "Members of the far-right group, who were among Donald Trump’s staunchest fans, are calling him “weak,” in a sign of fraying support."
-    publishedDateTime: 2021-01-20T19:25:00Z
-    webUrl: "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/20/technology/proud-boys-trump.amp.html"
+  - title: "Trump administration strikes parting blow at Medicaid with Tennessee block grant"
+    excerpt: "Just days before leaving office, the Trump administration took a step toward fulfilling a long-held Republican dream of curbing Medicaid costs and giving states more flexibility to run the program.\n    \n"
+    publishedDateTime: 2021-01-09T00:08:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rl92DLpadG0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/trump-administration-medicaid-block-grant-tennessee/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/trump-administration-medicaid-block-grant-tennessee/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 170
     images:
-      - url: "https://static01.nyt.com/images/2021/01/20/business/20noproudboys1/20noproudboys1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108175126-seema-verma-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Trump should not be prosecuted for Capitol riot incitement, former FBI Director James Comey says"
-    excerpt: "\"The country would be better off if we did not give him the platform that a prosecution would for the next three years,\" Comey told Sky News."
-    publishedDateTime: 2021-01-18T04:10:00Z
-    webUrl: "https://www.nbcnews.com/news/us-news/trump-should-not-be-prosecuted-capitol-riot-incitement-former-fbi-n1254535"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254535"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254535"
+  - title: "Despite Trump administration promise, there appear to be no more 'reserve' 2nd vaccine doses to release"
+    excerpt: "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n"
+    publishedDateTime: 2021-01-15T20:01:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 122
+      name: CNN
+      domain: cnn.com
+    quality: 159
     images:
-      - url: "https://media3.s-nbcnews.com/i/newscms/2020_44/3423609/201028-james-comey-al-0856_dd78874bf9563d902a336451af19486e.jpg"
-        width: 2500
-        height: 1672
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222111258-02-alex-azar-vaccine-1222-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Presidential Transition Live Updates: House Says It Will Move Swiftly With Impeachment If Pence Won’t Act"
-    excerpt: "The House could vote as soon as Tuesday on charging President Trump with inciting a mob that attacked the Capitol. But top leaders want to avoid hamstringing the first days of Joseph R. Biden Jr.’s presidency with an all-consuming Senate trial."
-    publishedDateTime: 2021-01-10T19:52:00Z
-    webUrl: "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden"
-    ampWebUrl: "https://www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/01/10/us/joe-trump-biden.amp.html"
+  - title: "Pelosi asks Joint Chiefs about preventing Trump from launching nukes"
+    excerpt: "House Speaker Nancy Pelosi spoke with the nation's top military officer on Friday about precautions in place to prevent President Donald Trump from ordering a nuclear strike or conducting other military hostilities as Democrats seek his removal from office."
+    publishedDateTime: 2021-01-08T18:26:00Z
+    webUrl: "https://www.politico.com/news/2021/01/08/pelosi-trump-take-away-nuclear-codes-456529"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 118
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2021/01/10/us/10transition-briefing-promo-sub/10transition-briefing-promo-sub-videoSixteenByNineJumbo1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://static.politico.com/fd/0c/d4119b0a47de86d75b1f36341ac8/gettyimages-1230470231-1.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "jR792H9DRXtMlPfq925wxEDkRt6lBO8yZYIINm4eGGLjrnx9vr8+nHPcUzLSajMAxMUNJ0MfqM3rhy83QPUPM2Xkhu+/KasUcPjJps5cA223EJxVxQbdmbIaS4zmUmFGoETavs8WWt9/MV5FLtjyAibzVnSMpPvp9Ao5MZbHqPIZa1jWyfqsPvy746bd3OMEjQyxAn+DSOOzGSyu9uw2vUS4hEGCms5mxzelLMtd6J45Z7ri5G4XY1sW7FHG3bpcd5UY9oVudp+SWRplIURhRQbbSVr2jXa6WR6AMxVSoVa1OnuyQYyg3bH3gT1kep6De44AoeofcyaBqCLVyd7s+ykyqRQ8F50PeWEAoazBngc=;8zZsiZEHb8yPPrG5L+uvTg=="

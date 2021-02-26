@@ -48,22 +48,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Despite Trump administration promise, government has no more 'reserve' 2nd vaccine doses"
-    excerpt: "Hopes of a surge in Covid-19 vaccine shipments under a new policy to release second doses held in reserve appear to be evaporating -- with the revelation that those doses have already been distributed, contrary to recent indications by the Trump administration.\n    \n"
-    publishedDateTime: 2021-01-16T01:36:48Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lalVOl5dJlA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/15/politics/coronavirus-vaccine-reserve-dose/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222111258-02-alex-azar-vaccine-1222-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Trump should not be prosecuted for Capitol riot incitement, former FBI Director James Comey says"
     excerpt: "\"The country would be better off if we did not give him the platform that a prosecution would for the next three years,\" Comey told Sky News."
     publishedDateTime: 2021-01-18T04:10:00Z

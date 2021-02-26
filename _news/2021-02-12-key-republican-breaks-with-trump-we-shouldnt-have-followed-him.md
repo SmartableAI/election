@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/12/nikki-haley-trump-election-richard-haass-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 415
+heat: 475
 published: true
 
 provider:
@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP lawmaker tied to surprise call for witnesses in Trump impeachment trial has broken with party before"
+    excerpt: "The Republican congresswoman who triggered a surprise call for witnesses in the waning hours of former President Donald Trump's second impeachment trial has logged a decade in Congress -- at times breaking from her party and standing up to Trump.\n    \n"
+    publishedDateTime: 2021-02-13T19:55:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/odi26vg7RcI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/jaime-herrera-beutler-senate-impeachment-trial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/jaime-herrera-beutler-senate-impeachment-trial/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213112620-01-rep-jaime-herrera-beutler-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senior Republicans are split over how to treat Trump: Pay homage at Mar-a-Lago or refuse to 'bend the knee'"
     excerpt: "Senior Republicans are split over how to treat former President Donald Trump, with the No. 2 House Republican making a personal pilgrimage to visit him on the same day that the top Senate Republican vowed never to \"bend the knee\" in that way.\n    \n"
     publishedDateTime: 2021-02-18T22:34:58Z
@@ -190,6 +206,36 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3450135/210214-mitch-mcconnell-jm-1703_c0bf19f41e894b1eea9af61d47b71d4a.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial"
+    excerpt: "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press."
+    publishedDateTime: 2021-02-07T14:57:00Z
+    webUrl: "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100655685848"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 117
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Donald Trump ‘Lit the Flame,’ Rep. Castro Says"
+    excerpt: "As senators questioned the defense and prosecution during the fourth day of former President Donald J. Trump’s impeachment trial, Representative Joaquin Castro said the former president bore responsibility for the attack on the U."
+    publishedDateTime: 2021-02-13T00:10:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007603283/impeachment-joaquin-castro-trump-mob.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/12/us/politics/Screen-Shot-2021-02-12-at-6/Screen-Shot-2021-02-12-at-6-facebookJumbo.png?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
   - title: "POLITICO Playbook: Republicans can’t quit Trump"
     excerpt: "While the rest of the country wants less DONALD TRUMP, Republicans just can’t quit him. Our flash POLITICO/Morning Consult poll conducted in the days following the Senate trial shows that despite the impeachment managers’ gripping presentation and video laying out Trump’s role in the Jan."

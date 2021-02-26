@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "In one morning, the Supreme Court looked to rid itself of the Trump era"
+    excerpt: "Donald Trump took a drubbing at the Supreme Court on Monday, as the justices in a flurry of orders dealt critical blows to his efforts to shield his tax records from a New York prosecutor and his oft-repeated false claims that there was widespread voter fraud during the last election.\n    \n"
+    publishedDateTime: 2021-02-23T00:49:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zWO8MaEjn7A/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-election-taxes-stormy-daniels/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-election-taxes-stormy-daniels/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209191515-donald-trump-juicio-politico-violencia-capitolio-presidente-eeuu-gobierno-senado-aristegui-mexico-roberto-izurieta-republicanos-democratas-00002909-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "The Point: Why has Donald Trump fought so hard to keep his tax returns secret?"
     excerpt: "The Supreme Court's rejection Monday of an attempt by Donald Trump to keep Manhattan District Attorney Cyrus Vance from seeing his tax returns (and other financial documents) was rightly cast as a major legal setback for the former President.\n    \n"
     publishedDateTime: 2021-02-23T15:42:19Z
@@ -60,6 +76,22 @@ related:
     quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170417184020-cnnmoney-trump-tax-returns-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Supreme Court agrees to hear challenge to Trump administration's public charge rule"
+    excerpt: "The Supreme Court agreed on Monday to take up a case brought by various groups and state and local officials challenging a Trump-era rule that makes it more difficult for immigrants to obtain legal status if they use public benefits, such as Medicaid, food stamps and housing vouchers.\n    \n"
+    publishedDateTime: 2021-02-22T15:53:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V1VF280FP_w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-public-charge-rule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-public-charge-rule/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200225125440-02-supreme-court-building-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -92,22 +124,6 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Manhattan district attorney subpoenas NYC property tax agency in Trump Organization probe "
-    excerpt: "The Manhattan District Attorney's Office has subpoenaed the New York City Tax Commission as part of a criminal investigation into former President Donald Trump's real estate company, according to a spokesperson for the New York City mayor.\n    \n"
-    publishedDateTime: 2021-02-20T20:25:15Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OO0SMrKKY_w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/new-york-trump-organization-probe/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/new-york-trump-organization-probe/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210220132616-trump-tower-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

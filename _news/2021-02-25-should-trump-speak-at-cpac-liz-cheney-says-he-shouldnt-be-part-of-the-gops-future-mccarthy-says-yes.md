@@ -63,6 +63,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Trump called McConnell a ‘hack.’ But McConnell says he would ‘absolutely’ back him if he wins 2024 nomination."
+    excerpt: "McConnell said in a Fox News interview that he would support Trump, despite slamming the former president for his incitement of the Capitol riot."
+    publishedDateTime: 2021-02-26T10:21:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X5LE4SLBIVGJHKWNSG6XY2VFWA.jpg&w=1440"
+        width: 1440
+        height: 788
+        isCached: true
+  - title: "McConnell says he would vote for Trump again days after accusing him of being 'practically and morally responsible' for the insurrection"
+    excerpt: "McConnell told Fox News' Bret Baier that he would \"absolutely\" back Trump if he won the 2024 Republican nomination."
+    publishedDateTime: 2021-02-26T08:43:00Z
+    webUrl: "https://www.businessinsider.com/watch-mcconnell-says-he-would-support-trump-despite-capitol-siege-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/watch-mcconnell-says-he-would-support-trump-despite-capitol-siege-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-mcconnell-says-he-would-support-trump-despite-capitol-siege-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5feda99c9ff41f001883f80a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "JeZK2gN4GmKb1DWGjewT6qpCHoU25hwqM7ChV0T9pxt1wB7M4Hm+vvwcjgYnnAZEJuFumdw1/eeRkVtfFt2SpEemSVEp5K1VeBC0YjwkMYF81Dklpw9IC91Pwy2Bjpt5f5d6omWI51KaRUgjnbCQyLGoz9w1TVwI98SCkStv7KrElf8hMSRm9pon8dt7hVvEKEqYPW4yqp8k3AhEWmqXAU/W6LP6nPbP5++b0v5Qpzdz0xGsgySSAWfotGTaFnL+Io5O34GdNZHGqfOLdXoK0MaHpFUNxlhGNwM3A0Q77LrXd19nQXRr/wjuBeclhnRJ84YgSCInFIiHqEAUqkTlRg2yFFFgEFGbupmr4gvVzv0pXYgJISLOV4eL8vRSEsPYAvdCWKqvxoBgRI4FqkQXmxYTv7YfJieEa6aOMK1uvAsreHJrV/mIiXwV5kH8evrsQGym1HBK98/F8lmgvAhTSgZ6QTdYAiAFtvUKkhQ8pjgdnickV8gr3SczUaocjARqmdubK8CM+gMO8dr/141ZLw==;6lgOAF1Lk41ystcCJHiUHg=="
 ---

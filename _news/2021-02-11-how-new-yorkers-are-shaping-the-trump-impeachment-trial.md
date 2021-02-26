@@ -652,6 +652,22 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "The 3 defenses of Donald Trump"
+    excerpt: "(CNN)Former President Donald Trump's lawyers have explained how will they defend him in his second impeachment trial against the charge that he incited the violent insurrection at the Capitol on ..."
+    publishedDateTime: 2021-02-09T05:08:00Z
+    webUrl: "https://www.cnn.com/2021/02/08/opinions/trump-impeachment-defense-arguments-milgram/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/opinions/trump-impeachment-defense-arguments-milgram/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/opinions/trump-impeachment-defense-arguments-milgram/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205103301-101-trump-january-6-rally-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "What to Watch For as Donald J. Trump’s Impeachment Trial Begins"
     excerpt: "Debate will begin at 1 p.m. on Tuesday. Though the trial is expected to be fast-paced, oral arguments could stretch into next week."
     publishedDateTime: 2021-02-09T11:42:00Z
@@ -683,6 +699,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/10/multimedia/10Georgia/10Georgia-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump Senate impeachment trial II: Everything you need to know"
+    excerpt: "Donald Trump's second impeachment trial is scheduled to begin this week, and will look much different than the first. Trump is the first president to be impeached twice by the House of ..."
+    publishedDateTime: 2021-02-09T19:41:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-senate-impeachment-trial-ii-everything-you-need-know-n1256905"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1256905"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1256905"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_05/3448077/210205-impeachment-viewers-guide-main-cover-cs_4929b871f7e1b3c088230175c935d952.jpg"
+        width: 2500
+        height: 1250
         isCached: true
   - title: "As the Senate Nears a Verdict on Trump"
     excerpt: "Readers call on Republicans to vote to convict the former president. “Jan. 6 was a day most of us will never forget,” one reader writes. “And now Donald Trump must be held accountable.”"

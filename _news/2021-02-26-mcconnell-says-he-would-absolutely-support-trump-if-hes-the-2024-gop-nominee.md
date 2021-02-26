@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mcconnell-says-he-would-absolutely-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee/"
 type: article
 quality: 121
-heat: 161
+heat: 201
 published: true
 
 provider:
@@ -62,6 +62,38 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/17ab0a832cd78ecc70cb4b93786a0d088066895f/c=0-292-5465-3380/local/-/media/2018/07/17/USATODAY/USATODAY/636674189159039396-AP-17086712547630.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 678
+        isCached: true
+  - title: "Trump called McConnell a ‘hack.’ But McConnell says he would ‘absolutely’ back him if he wins 2024 nomination."
+    excerpt: "McConnell said in a Fox News interview that he would support Trump, despite slamming the former president for his incitement of the Capitol riot."
+    publishedDateTime: 2021-02-26T10:21:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X5LE4SLBIVGJHKWNSG6XY2VFWA.jpg&w=1440"
+        width: 1440
+        height: 788
+        isCached: true
+  - title: "McConnell says he would vote for Trump again days after accusing him of being 'practically and morally responsible' for the insurrection"
+    excerpt: "McConnell told Fox News' Bret Baier that he would \"absolutely\" back Trump if he won the 2024 Republican nomination."
+    publishedDateTime: 2021-02-26T08:43:00Z
+    webUrl: "https://www.businessinsider.com/watch-mcconnell-says-he-would-support-trump-despite-capitol-siege-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/watch-mcconnell-says-he-would-support-trump-despite-capitol-siege-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-mcconnell-says-he-would-support-trump-despite-capitol-siege-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/5feda99c9ff41f001883f80a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "hNW4SZIltxQSRO1aSf1cCmu3Q4pAgRmqKSpOasAbtX9v4weg6/NJ/zpLBId66DbKg+WU1zcFaPZEo/NQg7y2nCnWQVnxHBYBB/clb4UHpmx/sCm2chsKkBxl7qFgEd0ddKIyS1dfEjJOcnovsvPI9Q25wrL5fYAYHPR+Su1RcFagkkL/z/jgOhMZ4zR60wHIgv6nxadMYKmWxH0cPh6wDVsM1iBkxQ4bfNDTKYR4q8j3ULVc0xjvuxyC2mEI7mqC+yiupHBuj2Q6FuihQXrapRm56pmHvSlKE/kjZGvCZFhV4CxmvrLvUIDd53B5lLv5+A4gX2CmA7SJW3k4EX9LAGm0weIHOy4rZZ81EEbsYMw=;JyQavs1BqP7qb3qROVcTCg=="

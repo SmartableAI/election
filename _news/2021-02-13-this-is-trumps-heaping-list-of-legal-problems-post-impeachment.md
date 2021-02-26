@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-legal-problems-pos
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-legal-problems-post-impeachment/index.html"
 type: article
 quality: 175
-heat: -1
-published: false
+heat: 675
+published: true
 
 provider:
   name: CNN
@@ -31,19 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Trump's trial set to rock Washington and echo through the ages"
-    excerpt: "The simple question posed by Donald Trump's second impeachment trial that begins Tuesday is whether a president who loses reelection can get away with a violent coup attempt in a desperate bid to stay in power.\n    \n"
-    publishedDateTime: 2021-02-09T12:09:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/n2JQyYKfR10/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
+  - title: "McConnell blames Trump but voted not guilty anyway"
+    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
+    publishedDateTime: 2021-02-14T00:42:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -63,6 +63,54 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Federal judge blocks last-minute Trump rule limiting asylum claims"
+    excerpt: "A federal judge in California blocked a Trump-era rule that went into effect just a day before Joe Biden took office and sought to dramatically limit the ability of Central American migrants to claim asylum in the United States\n    \n"
+    publishedDateTime: 2021-02-16T18:38:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9DkBccKpUVI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/immigration-asylum-trump-rule/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204111218-05-immigration-file-asylum-seekers-mexico-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia state bar proceeding with inquiry into pro-Trump attorney Lin Wood "
+    excerpt: "The State Bar of Georgia is \"proceeding with an inquiry\" into attorney Lin Wood, one of the lawyers who unsuccessfully pushed a handful of suits to block Georgia's election results after alleging unfounded claims of fraud, the organization told CNN in a statement Tuesday.\n    \n"
+    publishedDateTime: 2021-02-16T16:25:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uLHT6ZN9Bjk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/lin-wood-georgia-state-bar-inquiry/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/lin-wood-georgia-state-bar-inquiry/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202195002-lin-wood-dec-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "DC attorney general weighs legal viability of charging Trump under local statute "
+    excerpt: "Lawyers inside the Washington, DC attorney general's office are working to determine if it is legally viable to use district statutes to charge former President Donald Trump for his alleged role in the insurrection.\n    \n"
+    publishedDateTime: 2021-02-12T20:40:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iPjpB1KnfoA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/12/politics/dc-attorney-trump/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201225192217-karl-racine-headshot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Inside the Senate: Sketches from a dramatic Day 5 of the Trump impeachment trial"
     excerpt: "Senators voted on a surprise move by the House managers on Saturday to allow for witnesses in the impeachment trial of former President Donald Trump.\n    \n"
     publishedDateTime: 2021-02-13T20:10:09Z
@@ -76,6 +124,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213140031-05-impeachment-sketch-2021-saturday-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Trump lawyer closes impeachment defense with a barrage of dishonesty "
+    excerpt: "Former President Donald Trump's impeachment defense was dishonest from start to finish.\n    \n"
+    publishedDateTime: 2021-02-14T00:47:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213210145-michael-van-der-veen-abogado-trump-sot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -95,69 +159,197 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Washington Post: Manhattan DA considering prosecuting Steve Bannon after Trump pardon"
-    excerpt: "The Manhattan District Attorney's Office is considering bringing state charges against Steve Bannon related to the same border wall fundraising campaign fraud scheme for which he was federally charged and then granted a presidential pardon, according to The Washington Post.\n    \n"
-    publishedDateTime: 2021-02-03T14:15:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4v9ZYdWYC3s/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/03/politics/steve-bannon-manhattan-da-prosecution/index.html"
+  - title: "Manhattan district attorney subpoenas NYC property tax agency in Trump Organization probe "
+    excerpt: "The Manhattan District Attorney's Office has subpoenaed the New York City Tax Commission as part of a criminal investigation into former President Donald Trump's real estate company, according to a spokesperson for the New York City mayor.\n    \n"
+    publishedDateTime: 2021-02-20T20:25:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OO0SMrKKY_w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/new-york-trump-organization-probe/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/new-york-trump-organization-probe/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210203063618-file-steve-bannon-2020-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210220132616-trump-tower-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell defends vote to acquit Trump: 'Our job was to defend the Constitution and respect its limits'"
-    excerpt: "Senate Republican leader Mitch McConnell on Monday rebuked Donald Trump's incitement of the January 6 insurrection at the US Capitol while doubling down on his vote to acquit the former President of the charge.\n    \n"
-    publishedDateTime: 2021-02-16T02:22:37Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PQ_8PZyjsXo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/mcconnell-trump-acquit-op-ed-wall-street-journal/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/mcconnell-trump-acquit-op-ed-wall-street-journal/index.html"
+  - title: "Manhattan district attorney bolsters team investigating possible fraud claims by Trump and his company"
+    excerpt: "The Manhattan District Attorney's Office has added a prominent former prosecutor to bolster its team investigating possible fraud claims by former President Donald Trump and his company.\n    \n"
+    publishedDateTime: 2021-02-19T00:24:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WtHosy67ua0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/manhattan-district-attorney-trump/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/manhattan-district-attorney-trump/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215202426-mcconnell-210213-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210116005758-trump-seven-springs-estate-file-2020-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "GOP lawmaker tied to surprise call for witnesses in Trump impeachment trial has broken with party before"
-    excerpt: "The Republican congresswoman who triggered a surprise call for witnesses in the waning hours of former President Donald Trump's second impeachment trial has logged a decade in Congress -- at times breaking from her party and standing up to Trump.\n    \n"
-    publishedDateTime: 2021-02-13T19:55:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/odi26vg7RcI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/jaime-herrera-beutler-senate-impeachment-trial/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/jaime-herrera-beutler-senate-impeachment-trial/index.html"
+  - title: "Georgia prosecutors launch criminal probe into Trump's efforts to overturn election results"
+    excerpt: "The investigation will look into the phone call Trump made to Georgia Secretary of State Brad Raffensperger in which Trump begged him to reverse Joe Biden's victory."
+    publishedDateTime: 2021-02-10T20:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/georgia-prosecutors-launch-criminal-probe-trump-s-efforts-overturn-biden-n1257272"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257272"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257272"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2020_43/3419416/201012-georgia-early-voting-se-1232p_79c46a105227f1219a0bbeb22bc74a49.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump's trial set to rock Washington and echo through the ages"
+    excerpt: "Avlon: Shall any man be above justice? The answer is no (CNN)The simple question posed by Donald Trump's second impeachment trial that begins Tuesday is whether a president who loses reelection ..."
+    publishedDateTime: 2021-02-09T05:28:00Z
+    webUrl: "https://edition.cnn.com/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/09/politics/donald-trump-impeachment-trial/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213112620-01-rep-jaime-herrera-beutler-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125192318-donald-trump-september-2020-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "After Presidency, Trump Hotel in Washington Is a Limited Draw"
-    excerpt: "Traffic on two recent evenings at the hotel was exceedingly slow, even after the city lifted a ban on indoor dining."
-    publishedDateTime: 2021-01-28T21:15:00Z
-    webUrl: "https://www.nytimes.com/2021/01/28/us/politics/trump-hotel-washington.html"
-    ampWebUrl: "https://www.nytimes.com/2021/01/28/us/politics/trump-hotel-washington.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/28/us/politics/trump-hotel-washington.amp.html"
+  - title: "How the Trump Era Broke the Sunday-Morning News Show"
+    excerpt: "Any number of hallowed political and media institutions fell apart. So why should the most hallowed political-media institution of them all escape unscathed?"
+    publishedDateTime: 2021-02-11T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/11/magazine/how-the-trump-era-broke-the-sunday-morning-news-show.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/01/27/us/politics/27dc-trumphotel2/27dc-trumphotel2-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/14/magazine/14mag-screenland/14mag-screenland-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Donald Trump’s Impeachment Legacy: Violent Extremism"
+    excerpt: "Whether or not Mr. Trump is convicted, the extremism that flourished under his administration is embedded in our politics."
+    publishedDateTime: 2021-02-13T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/donald-trump-impeachment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/donald-trump-impeachment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/donald-trump-impeachment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/13/multimedia/13onpolitics/13onpolitics-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "'Saturday Night Live' spotlights Trump's impeachment victory"
+    excerpt: "The show imagined Fox News' Tucker Carlson interviewing Republican leaders about the historic impeachment trial, which saw the most bipartisan support for impeachment conviction in history. \"There's a lot to cover tonight,"
+    publishedDateTime: 2021-02-14T23:20:00Z
+    webUrl: "https://www.nbcnews.com/news/us-news/snl-spotlights-trump-s-impeachment-victory-n1257910"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257910"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257910"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_06/3450055/210213-snl-er-1145pm_de57f8718eb7290e1464a1412e60b008.png"
+        width: 1919
+        height: 1069
+        isCached: true
+  - title: "READ: Democrat's lawsuit against Donald Trump over US Capitol attack"
+    excerpt: "Former President Donald Trump and attorney Rudy Giuliani are being accused of conspiring with the far-right groups Proud Boys and Oath Keepers to incite the January 6 insurrection in a civil lawsuit filed Tuesday in federal court by the Democratic chairman of the House Homeland Security Committee and backed by the NAACP."
+    publishedDateTime: 2021-02-16T15:26:00Z
+    webUrl: "https://www.cnn.com/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "WATCH: Trump Plaza in Atlantic City is demolished"
+    excerpt: "Videos show the moment former President Donald Trump's long-standing Trump Plaza in Atlantic City is destroyed in a controlled demolition. The casino and hotel were closed in 2014."
+    publishedDateTime: 2021-02-17T15:34:00Z
+    webUrl: "https://www.nbcnews.com/video/watch-trump-plaza-in-atlantic-city-is-demolished-101146182002"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101146182002"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101146182002"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/f_mo_trump_demolish_210217.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "In Georgia, a New District Attorney Starts Circling Trump and His Allies"
+    excerpt: "Fani Willis has opened a criminal investigation into efforts by the Trump camp to overturn the former president’s loss in Georgia. In an interview, Ms. Willis described a wide-ranging inquiry."
+    publishedDateTime: 2021-02-13T10:00:00Z
+    webUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/13/us/politics/fani-willis-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/13/us/politics/13georgia-trump/13georgia-trump-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Lara Trump for North Carolina Senate Seat? Trump’s Trial Is Renewing Talk."
+    excerpt: "Senator Richard M. Burr’s vote to convict the former president has intensified speculation that Ms. Trump might galvanize staunch Trump loyalists behind a possible bid for Mr. Burr’s seat in 2022."
+    publishedDateTime: 2021-02-14T22:01:00Z
+    webUrl: "https://www.nytimes.com/2021/02/14/us/politics/lara-trump-north-carolina.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/14/us/politics/lara-trump-north-carolina.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/14/us/politics/lara-trump-north-carolina.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/14/us/politics/14nc-trump/14nc-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "House Democrats and White House Split Over Lawsuit for Ex-Trump Aide’s Testimony"
+    excerpt: "President Biden has inherited litigation over a subpoena to Donald F. McGahn II, President Donald J. Trump’s former lawyer, about the Russia investigation."
+    publishedDateTime: 2021-02-18T22:35:00Z
+    webUrl: "https://www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/politics/mcgahn-lawsuit-democrats.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 130
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/18/us/politics/18dc-mcgahn/18dc-mcgahn-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Trump is on trial for inciting an insurrection. What about the 12 people who spoke before him?"
     excerpt: "Rioters heard from others besides Trump on Jan. 6. As the former president confronts a Senate impeachment trial, 12 other notable “Stop the Steal” speakers have faced few, if any, consequences."
@@ -175,49 +367,65 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "‘If this happened in the Soviet Union, you would call it a show trial,’ Cassidy of Trump impeachment trial"
-    excerpt: "Sen. Bill Cassidy (R-La.) tells Chuck Todd that the House did an incredibly 'poor job' in building a case against President Trump during his second impeachment trial, during an exclusive interview with Meet the Press."
-    publishedDateTime: 2021-02-07T14:57:00Z
-    webUrl: "https://www.nbcnews.com/meet-the-press/video/-if-this-happened-in-the-soviet-union-you-would-call-it-a-show-trial-cassidy-of-trump-impeachment-trial-100655685848"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100655685848"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100655685848"
+  - title: "Trump's impeachment defense team argues his words before riot were 'ordinary political rhetoric'"
+    excerpt: "Lawyers for former President Donald Trump’s kicked off their defense Friday with a forceful rebuke of the case made by Democratic House impeachment managers, calling it an act of \"political vengeance\" and alleging that Trump's speech preceding the Capitol riot was merely \"ordinary political rhetoric."
+    publishedDateTime: 2021-02-12T18:50:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257601"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257601"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 117
+    quality: 122
     images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/1612709590167_mtp_clip_cassidyshowtrial_210207_1920x1080.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449634/210212-donald-trump-mn-0730_1766caa6ab5712ca048af6133531a753.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "Day Three: Democrats try to make the Trump link clearer"
-    excerpt: "And Speaker Nancy Pelosi says she will award the Congressional Gold Medal to Capitol Police and other law enforcement who defended the Capitol on Jan. 6."
-    publishedDateTime: 2021-02-11T18:50:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/02/11/day-three-democrats-try-to-make-the-trump-link-clearer-491726"
+  - title: "Trump's impeachment defense team rests, arguing his words before riot were 'ordinary political rhetoric'"
+    excerpt: "Trump's impeachment defense team argues his words before riot were 'ordinary political rhetoric' A final vote on whether to convict the ex-president for inciting the Capitol riot could happen this weekend."
+    publishedDateTime: 2021-02-12T21:34:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-defense-present-case-senate-impeachment-trial-n1257601"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257601"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257601"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 118
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_06/3449634/210212-donald-trump-mn-0730_10c3f8b8018c1bcd5ca03624e410509d.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "‘He can do this again’: Dems rest case against Trump warning of more attacks"
+    excerpt: "House Democrats rested their case against Donald Trump on Thursday insisting that the Senate’s refusal to punish him for inciting a mob to attack the Capitol would pave the way for a future commander-in-chief to subvert the democratic process,"
+    publishedDateTime: 2021-02-12T00:36:00Z
+    webUrl: "https://www.politico.com/news/2021/02/11/trump-impeachment-trial-day-3-468588"
     type: article
     provider:
       name: Politico
       domain: politico.com
-    quality: 115
+    quality: 112
     images:
-      - url: "https://static.politico.com/a9/3c/81523a5e4fb583824a567513d7f6/210211-degette-ap-773.jpg"
+      - url: "https://static.politico.com/d0/c0/3592c01b47b2bf3eed014f9fd90b/210211-neguse-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true
-  - title: "Donald Trump ‘Lit the Flame,’ Rep. Castro Says"
-    excerpt: "As senators questioned the defense and prosecution during the fourth day of former President Donald J. Trump’s impeachment trial, Representative Joaquin Castro said the former president bore responsibility for the attack on the U."
-    publishedDateTime: 2021-02-13T00:10:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007603283/impeachment-joaquin-castro-trump-mob.html"
+  - title: "Trump impeachment defense team shows 9-plus minute compilation of Dems using word 'fight'"
+    excerpt: "House impeachment managers have pointed to Trump’s own words before the Jan. 6 insurrection, when he said supporters would lose the country if they didn't “fight like hell.”"
+    publishedDateTime: 2021-02-12T19:13:00Z
+    webUrl: "https://www.politico.com/news/2021/02/12/trump-impeachment-defense-democrats-fight-468852"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
+      name: Politico
+      domain: politico.com
+    quality: 106
     images:
-      - url: "https://static01.nyt.com/images/2021/02/12/us/politics/Screen-Shot-2021-02-12-at-6/Screen-Shot-2021-02-12-at-6-facebookJumbo.png?video-overlay"
-        width: 1050
-        height: 550
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1155968404/5d641925-59d2-4f7b-80e3-518f4dcd0ea2/22afe3dc-ac3e-4ddf-8806-29bc33264432/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "7F1f/V6jy7pJziq1syl3Pu6AKR2VIldHQ7yMxXVDS0GuULgE3JVwpsgswWriWh8gB2CUCvKrhLayRyuNrfmrR9AUvpIHiXYNWC8nfegqcmMxZIq6v+xEfoSF4QyeOm7MZ/wK3NU4aagrL4pJSAGYYisD3fuBOmBt0v+qp3oOCL4/kM41xFODPcewNVM2fvwoHWzcXbEBM+aAODG6MoIV39I85h6vXpnlHcfXGtS8I3u4WiDrS0pP8YSY2fUNKuY4fYCDWXpRUg1ba/vvnHHAuXzgLk1jTvdvDiXCzrCCRAuJkx2smCmCKtzD/0Zj2Km9lvaV6z1c0VTKluBMOJ4h2h6nsNsjr75ZQsE2NzNkkpc=;OLZiLuGZM8ifFrl1IErXSw=="

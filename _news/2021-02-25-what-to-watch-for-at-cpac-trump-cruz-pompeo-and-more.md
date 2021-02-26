@@ -48,6 +48,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump to Dominate CPAC as Activists Assess Potential 2024 Candidates"
+    excerpt: "Day 1 of the Conservative Political Action Conference will include speeches from Senators Tom Cotton, Ted Cruz, Rick Scott and others. Here’s what to expect."
+    publishedDateTime: 2021-02-26T10:33:00Z
+    webUrl: "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-2024-candidates.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-2024-candidates.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/politics/trump-cpac-2024-candidates.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/26/us/politics/26cpac/26cpac-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "PteiDT9d1cMY4CXfcYHWlCREtioR0gOrWY0SeMTaIRuuC/e2HLm2qcqzus1pxowe91GAaXQ3Xwnp3x5FiGDq3jJd45oqwbq9HeB1hVlYM4a3Zh63dVan9YhmuJMyxPxlmvpEyWJvjicFV6WR7su8mF7jvGPc1vEgUnxUO6zi8187WtAlkEgBszv15qIVO64HSov6msTvSGZVAHDPIaCpU6uJ5jGlsmAOzpUhK4EQI4ZuTEOz5PmIl2lgN2goRx6YHwrEIvf2DngtfomWrNrQwfFep7UXb/AHBNrYO4n7YvbsocgJCo1D4pK3TI7GacTgR6tBTVnCpCcKB2Tpz83Yv+lY/ibA1+a/vRl2FrF0FAcnjUes2NGzKhm+it9MjA6Y+hQjs5J8foovmbmk7C0qtNBwmTnq8brrtcJOr7SPSBgqQq3W9t//pT5tSn8ixVWAV50oR04fhN97UqJ17hX92P6vlYBhCWAmpNCEKViCpGrNukClJq5ewuYBfvph/oOA+MiGqe/Jp48fvTaugpmSsA==;axFq/wQh9zc/dAfWLOD9og=="
 ---

@@ -128,22 +128,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Past Biden, Psaki tweets criticizing Trump slammed after new Syria airstrikes"
-    excerpt: "Past Twitter messages from President Biden and one of his top aides -- both criticizing former President Trump -- weren't appearing to age well Thursday after Biden ordered airstrikes against an Iranian-backed militia stronghold in Syria."
-    publishedDateTime: 2021-02-26T05:03:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jE4Z1X_KAAw/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 187
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jen-Psaki-Joe-Biden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden tells European allies ‘America is back,’ seeks to turn page on Trump era"
     excerpt: "President Biden on Friday hailed the importance of the alliance between the U.S. and Europe, while also taking a number of thinly-veiled shots at his predecessor."
     publishedDateTime: 2021-02-19T22:08:10Z
@@ -159,6 +143,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb3ea36b-8ddf-4bf9-962e-95ccdac9293a/db70fa60-ab05-4327-b026-dbd89869e341/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Past Biden, Psaki tweets criticizing Trump resurface after new Syria airstrikes"
+    excerpt: "Past Twitter messages from President Biden and one of his top aides -- both criticizing former President Trump -- weren't appearing to age well Thursday after Biden ordered airstrikes against an Iranian-backed militia stronghold in Syria."
+    publishedDateTime: 2021-02-26T05:03:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jE4Z1X_KAAw/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jen-Psaki-Joe-Biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden to issue new immigration orders as part of push to roll back Trump-era policies"
     excerpt: "President Biden on Tuesday will sign three executive orders on illegal and legal immigration -- as part of an aggressive push in the early days of his presidency to roll back many of his predecessor’s policies."
@@ -573,6 +573,22 @@ related:
       - url: "https://images.wsj.net/im-299229/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Past Biden, Psaki tweets criticizing Trump slammed after new Syria airstrikes"
+    excerpt: "Past Twitter messages from President Biden and one of his top aides -- both criticizing former President Trump -- weren't appearing to age well Thursday after Biden ordered airstrikes against an Iranian-backed militia stronghold in Syria."
+    publishedDateTime: 2021-02-26T05:08:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-psaki-tweets-criticizing-trump-slammed-after-new-syria-airstrikes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 147
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jen-Psaki-Joe-Biden.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Trump slams Biden for comment on vaccine distribution, won’t rule out 2024 run"
     excerpt: "Former President Trump blasted President Biden for claiming that he left the White House without a vaccine distribution plan — calling it a “very dumb statement,” late Wednesday"

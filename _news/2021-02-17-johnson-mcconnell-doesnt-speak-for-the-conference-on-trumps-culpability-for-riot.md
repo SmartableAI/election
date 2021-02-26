@@ -30,51 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "McConnell blames Trump but voted not guilty anyway"
-    excerpt: "Senate Minority Leader Mitch McConnell has told his colleagues that he will vote to acquit former President Donald Trump of inciting the insurrection at the US Capitol last month, according to a source familiar with the conversations.\n    \n"
-    publishedDateTime: 2021-02-14T00:42:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Rw3HPocqnPw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/mitch-mcconnell-acquit-trump/index.html"
+  - title: "McConnell defends vote to acquit Trump: 'Our job was to defend the Constitution and respect its limits'"
+    excerpt: "Senate Republican leader Mitch McConnell on Monday rebuked Donald Trump's incitement of the January 6 insurrection at the US Capitol while doubling down on his vote to acquit the former President of the charge.\n    \n"
+    publishedDateTime: 2021-02-16T02:22:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PQ_8PZyjsXo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/mcconnell-trump-acquit-op-ed-wall-street-journal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/mcconnell-trump-acquit-op-ed-wall-street-journal/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106121255-01-mcconnell-0106-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump tells aides he thinks he'll be acquitted as he remains fixated on 'accountability' for GOP lawmakers who voted to impeach"
-    excerpt: "Former President Donald Trump has been reaching out to aides and advisers to discuss his upcoming Senate impeachment trial, sources familiar with the conversations said, with one of those sources saying Trump thinks there won't be enough Republican senators who'll vote to convict him.\n    \n"
-    publishedDateTime: 2021-02-08T22:44:00Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jGuLoMasK2k/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/trump-impeachment/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/trump-impeachment/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 147
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205160106-01-trumps-florida-0120-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "READ: Democrat's lawsuit against Donald Trump over US Capitol attack"
-    excerpt: "Former President Donald Trump and attorney Rudy Giuliani are being accused of conspiring with the far-right groups Proud Boys and Oath Keepers to incite the January 6 insurrection in a civil lawsuit filed Tuesday in federal court by the Democratic chairman of the House Homeland Security Committee and backed by the NAACP."
-    publishedDateTime: 2021-02-16T15:26:00Z
-    webUrl: "https://www.cnn.com/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/dem-lawsuit-against-trump-naacp/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210215202426-mcconnell-210213-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

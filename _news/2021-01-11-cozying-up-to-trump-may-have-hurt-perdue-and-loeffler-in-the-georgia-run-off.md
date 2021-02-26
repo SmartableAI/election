@@ -111,6 +111,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Georgia prosecutor investigating Trump call urges patience"
+    excerpt: "The Georgia prosecutor investigating potential efforts by Donald Trump to influence last year’s general election is urging people to be patient"
+    publishedDateTime: 2021-02-26T06:11:00Z
+    webUrl: "https://www.washingtonpost.com/national/georgia-prosecutor-investigating-trump-call-urges-patience/2021/02/26/55d11a2a-77f8-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/georgia-prosecutor-investigating-trump-call-urges-patience/2021/02/26/55d11a2a-77f8-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-prosecutor-investigating-trump-call-urges-patience/2021/02/26/55d11a2a-77f8-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Small group of Pro-Trump protesters, some armed, quietly gather in Carson City near capitol"
     excerpt: "A small group of protesters have gathered in Carson City near the Nevada state Capitol. Check back here for live updates throughout the day."
     publishedDateTime: 2021-01-16T22:27:00Z

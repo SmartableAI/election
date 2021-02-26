@@ -1231,6 +1231,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump's second impeachment trial begins in US Senate"
+    excerpt: "Trump's impeachment trial starts with graphic Capitol assault footage – video Sign up for the Guardian’s First Thing newsletter The historic second impeachment trial of Donald Trump began in ..."
+    publishedDateTime: 2021-02-09T23:25:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/09/donald-trump-impeachment-trial-begins-us-senate"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/09/donald-trump-impeachment-trial-begins-us-senate"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/09/donald-trump-impeachment-trial-begins-us-senate"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/fbd3897c02cee715b9b662024ce896d19b2b5461/0_399_5069_3042/master/5069.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d218fb6d76d4449cea8b004131928357"
+        width: 600
+        height: 360
+        isCached: true
   - title: "GOP senator flips on impeachment trial, rips Trump lawyers"
     excerpt: "Republican Sen. Bill Cassidy of Louisiana joined Democrats in voting against ending Donald Trump’s impeachment trial, a surprise reversal"
     publishedDateTime: 2021-02-10T02:00:00Z
@@ -1422,6 +1438,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_665734fde56446f490ab46202cef9ef8_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Twitter says Trump ban is permanent – even if he runs for office again"
+    excerpt: "Chief financial officer says ‘when you’re removed, you’re removed … our policies don’t allow people to come back’ Guardian staff Twitter said Donald Trump’s privileges would not be ..."
+    publishedDateTime: 2021-02-11T01:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/10/trump-twitter-ban-permament-social-media"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/10/trump-twitter-ban-permament-social-media"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/10/trump-twitter-ban-permament-social-media"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/1bd30d4de3a6e57cbaa925b964641b72942eff1a/0_110_4090_2454/master/4090.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=56cce4619807cab4a5784c29e3d9e959"
+        width: 600
+        height: 360
         isCached: true
   - title: "Anti-Trump Republicans face major challenge in launching third party"
     excerpt: "A group of former Republican officials considering a new center-right political party to counter former President Donald Trump's influence would face steep challenges in shaking up a U.S. political system that has favored two-party rule throughout its history."
