@@ -159,6 +159,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump, in CPAC 2021 speech, to rip Biden and map out how to retake Congress in 2022"
+    excerpt: "Former President Donald Trump will use his much-anticipated speech at the Conservative Political Action Conference (CPAC) on Sunday to offer a stinging rebuke of the first month of the Biden presidency -- while laying out what the GOP needs to do to take Congress in the 2022 midterms, sources with knowledge"
+    publishedDateTime: 2021-02-26T16:16:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aVSeciuRtwg/trump-cpac-biden-congress-in-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-biden-congress-in-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-biden-congress-in-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5dd5016-e973-406e-aca3-a67d4fa2408e/60e2794a-cd23-476f-aed8-5df466d4b73d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to issue new immigration orders as part of push to roll back Trump-era policies"
     excerpt: "President Biden on Tuesday will sign three executive orders on illegal and legal immigration -- as part of an aggressive push in the early days of his presidency to roll back many of his predecessor’s policies."
     publishedDateTime: 2021-02-02T14:07:13Z
@@ -636,6 +652,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/ned-price-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump, in CPAC 2021 speech, to rip Biden and map out how to retake Congress in 2022"
+    excerpt: "Former President Donald Trump will use his much-anticipated speech at the Conservative Political Action Conference (CPAC) on Sunday to offer a stinging rebuke of the first month of the Biden presidency -- while laying out what the GOP needs to do to take Congress in the 2022 midterms,"
+    publishedDateTime: 2021-02-26T16:20:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-cpac-biden-congress-in-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-biden-congress-in-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-biden-congress-in-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 144
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5dd5016-e973-406e-aca3-a67d4fa2408e/60e2794a-cd23-476f-aed8-5df466d4b73d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Hannity: Biden facilities for immigrant minors identical to Trump administration's 'cages'"
     excerpt: "The Biden administration's solution to an increase in the number of unaccompanied minors at the southern border is no different from the Trump administration's measures that were blasted by the mainstream media,"

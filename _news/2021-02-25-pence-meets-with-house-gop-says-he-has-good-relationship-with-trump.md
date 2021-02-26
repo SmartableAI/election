@@ -303,7 +303,7 @@ related:
   - title: "Mitch McConnell Says He Would Support Trump If He’s GOP’s 2024 Nominee"
     excerpt: "The Senate minority leader said he would support Donald Trump if GOP voters select him as the party’s nominee in 2024, the latest remarks from the Kentucky Republican on his stance toward the former president’s future in the party."
     publishedDateTime: 2021-02-26T07:34:00Z
-    webUrl: "https://www.wsj.com/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862?mod=hp_listb_pos3"
+    webUrl: "https://www.wsj.com/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
     ampWebUrl: "https://www.wsj.com/amp/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
     type: article

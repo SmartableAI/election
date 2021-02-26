@@ -31,35 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "McCarthy, Cheney have uncomfortable exchange with reporters over Trump speaking at CPAC"
-    excerpt: "House Minority Leader Kevin McCarthy and Rep. Liz Cheney, the third-ranking House GOP member, had a tense exchange with reporters Wednesday over whether former President Trump should speak at CPAC as planned this weekend."
-    publishedDateTime: 2021-02-25T06:50:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ErsAnkXqMP8/mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac.amp"
+  - title: "Corey Lewandowski likely to lead new Trump political action committee"
+    excerpt: "Former President Trump is starting up a new political action committee and is eyeing longtime top political adviser and aide Corey Lewandowski to head up the new super PAC, multiple people with knowledge of the conversations confirmed to Fox News."
+    publishedDateTime: 2021-02-26T15:14:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVvQtrx3mn0/trump-political-action-committee-corey-lewandowski"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-political-action-committee-corey-lewandowski.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-political-action-committee-corey-lewandowski.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055611217771.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump impeachment manager says she's filled with 'glee' at prospect of questioning McCarthy about Capitol riot"
-    excerpt: "Del. Stacey Plaskett said she is filled with \"glee\" at the prospect of questioning House Minority Leader Kevin McCarthy regarding a phone call between him and former President Donald Trump during the Capitol riot in January."
-    publishedDateTime: 2021-02-17T19:57:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vuq7MKJnsmw/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 155
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -78,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055611217771.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Trump impeachment manager says she's filled with 'glee' at prospect of questioning McCarthy about Capitol riot"
-    excerpt: "Del. Stacey Plaskett said she is filled with \"glee\" at the prospect of questioning House Minority Leader Kevin McCarthy regarding a phone call between him and former President Donald Trump during the Capitol riot in January."
-    publishedDateTime: 2021-02-17T20:00:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "diS8r4rb5heHGLxXJgrsEC5cQyJxBkR2CTUF9g8QkqpmD0fP2dbw7VKX+9ROo3dG7Qr17/Y4+Wm3xiiKJYguzmsmvrKfCTjz98Jw+tQRO8TQMipmCfFx+DA2qud6no9xHP1CJnvMxJBN62D2b+VTsUqP9qSYdDuBbbWVwMSjoVF3otsbgqx9h13H/dj1gfqpR565IVcLgMR4lFb3U88V0FUue+Q0W3KpT2ZyVfAbsT3YxhA5aGzV2KdUacG4d93edToS8tmWSgiv1vIz4+/iEHN/l2gbRxi5lAQ7Zx0rrE38jielbPHx67vo1PYdjPbUE55/HjRW3dQ+bmFI8FRcQI4d6sZsscpOsvMhEpnueLM=;cH6Ss+IfJeVu6Qxf+MTJcQ=="

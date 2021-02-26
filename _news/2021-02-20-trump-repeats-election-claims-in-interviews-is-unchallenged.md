@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
 type: article
 quality: 140
-heat: 2140
+heat: 2160
 published: true
 
 provider:
@@ -1510,6 +1510,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "UN Rights Chief Hails US Shift From Trump Migration Policies"
+    excerpt: "The UN rights chief on Friday celebrated the shift in the United States under President Joe Biden away from a range of immigration policies introduced under his predecessor Donald Trump. In her annual global overview of the human rights situation around the world,"
+    publishedDateTime: 2021-02-26T13:35:00Z
+    webUrl: "https://ibtimes.com/un-rights-chief-hails-us-shift-trump-migration-policies-3152884"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/26/trump-mounted-a-hardline-effort-to-halt-illegal.jpg"
+        width: 1024
+        height: 718
+        isCached: true
   - title: "Emails Show Trump Backers Bashing Iowa AG Over Election Case"
     excerpt: "A Republican lawmaker and a man later charged with participating in the Jan. 6 Capitol riot were among thousands of people who criticized Iowa’s attorney general for refusing to seek to overturn Donald Trump’s electoral defeat."
     publishedDateTime: 2021-02-23T16:58:00Z

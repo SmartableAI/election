@@ -223,22 +223,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden pays a visit to ailing former GOP Sen. Bob Dole"
-    excerpt: "President Joe Biden paid a visit Saturday to former Sen. Bob Dole, days after the World War II veteran and 1996 Republican presidential nominee announced he’d been diagnosed with stage 4 lung cancer"
-    publishedDateTime: 2021-02-20T22:50:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-pays-visit-ailing-gop-sen-bob-dole-76021778"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pays-visit-ailing-gop-sen-bob-dole-76021778"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pays-visit-ailing-gop-sen-bob-dole-76021778"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_2b2b75ab452c4275b33968eab740e198_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden plans to 'recalibrate' Saudi relations in shot at MbS - White House"
     excerpt: "President Joe Biden plans to shift U.S. relations with Saudi Arabia and will conduct diplomacy through Saudi King Salman bin Abdulaziz rather than his powerful son, Crown Prince Mohammed bin Salman, the White House said on Tuesday."
     publishedDateTime: 2021-02-16T19:52:00Z
@@ -252,22 +236,6 @@ related:
     quality: 124
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551758997&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F1ET"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Democratic U.S. senator opposes Biden budget pick, confirmation in doubt"
-    excerpt: "Democratic U.S. Senator Joe Manchin announced on Friday that he would oppose President Joe Biden's nomination of Neera Tanden to head the Office of Management and Budget, which could sink the nomination."
-    publishedDateTime: 2021-02-20T02:50:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/democratic-u-s-senator-opposes-biden-budget-pick-confirmation-in-doubt-idUSKBN2AJ2I6?edition-redirect=in"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ2I6"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ2I6"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552212855&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I1FU"
         width: 817
         height: 545
         isCached: true
@@ -499,20 +467,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/2a325fc9fbd40349f1d51910eb86f5f2cf92b5a0/0_0_3500_2099/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd3391c8f554ce0c1acb9af9dfcb1b09"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden admin. admits first group of migrants"
-    excerpt: "Watch \"Biden admin. admits first group of migrants\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-02-20T17:46:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210220204315-biden-admin-admits-first-group-of-migrants/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://images-cbsn.cbsnews.com/prod/2021/02/20/story_09106216_1613853904.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Senate panel clears Biden's nomination of Boston mayor for labor secretary"
     excerpt: "President Joe Biden's nomination of Boston Mayor Marty Walsh to serve as the next secretary of labor won approval from a Senate committee on Thursday, clearing the way for a vote by the full Senate."

@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Is Trump the GOP's future? Here's what CPAC attendees think"
+    excerpt: "Former President Donald Trump isn't the leader of the free world anymore. But many of the attendees at the Conservative Political Action Conference (CPAC) in Orlando, Fla., still want him to be the leader of the Republican Party. "
+    publishedDateTime: 2021-02-26T16:34:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d0VYQerXQPg/is-trump-the-gops-future-heres-what-cpac-attendees-think"
+    ampWebUrl: "https://www.foxnews.com/politics/is-trump-the-gops-future-heres-what-cpac-attendees-think.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/is-trump-the-gops-future-heres-what-cpac-attendees-think.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "LIVE UPDATES: CPAC 2021 speakers on Friday will include Trump Jr., Ted Cruz"
     excerpt: "The annual Conservative Political Action Conference  (CPAC) is slated to run through Sunday and a number of high-profile conservatives will take the stage to share conservative ideas with the crowd. "
     publishedDateTime: 2021-02-26T05:01:17Z

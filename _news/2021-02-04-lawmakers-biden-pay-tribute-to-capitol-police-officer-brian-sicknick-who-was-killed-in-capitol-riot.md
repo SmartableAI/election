@@ -128,9 +128,9 @@ related:
         height: 681
         isCached: true
   - title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
-    excerpt: "White House event will commemorate halfway point of Biden’s campaign promise of 100m vaccine doses in first 100 days"
-    publishedDateTime: 2021-02-25T14:42:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037b6498f088c613add25d6"
+    excerpt: "White House event will commemorate halfway point of Biden’s 100 million campaign promise"
+    publishedDateTime: 2021-02-25T10:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037802a8f08614ccf106101"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
     type: article
@@ -139,7 +139,7 @@ related:
       domain: theguardian.com
     quality: 136
     images:
-      - url: "https://i.guim.co.uk/img/media/217e603b6b725cecaaa8e92cba452b33b4725a9e/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=350ce288ff53be8e28b963cceec278e2"
+      - url: "https://i.guim.co.uk/img/media/be249d338a0abc25679067d6f2554ceacbf282d1/0_11_4602_2761/master/4602.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ea758282063091755395ad55beb83c37"
         width: 600
         height: 360
         isCached: true

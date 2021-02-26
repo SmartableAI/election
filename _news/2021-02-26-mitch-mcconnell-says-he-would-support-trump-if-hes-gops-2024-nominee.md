@@ -3,8 +3,8 @@ category: news
 title: "Mitch McConnell Says He Would Support Trump If He’s GOP’s 2024 Nominee"
 excerpt: "The Senate minority leader said he would support Donald Trump if GOP voters select him as the party’s nominee in 2024, the latest remarks from the Kentucky Republican on his stance toward the former president’s future in the party."
 publishedDateTime: 2021-02-26T07:34:00Z
-originalUrl: "https://www.wsj.com/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862?mod=hp_listb_pos3"
-webUrl: "https://www.wsj.com/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862?mod=hp_listb_pos3"
+originalUrl: "https://www.wsj.com/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
+webUrl: "https://www.wsj.com/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
 ampWebUrl: "https://www.wsj.com/amp/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mitch-mcconnell-says-he-would-support-trump-if-hes-gops-2024-nominee-11614306862"
 type: article
@@ -477,6 +477,6 @@ related:
         height: 576
         isCached: true
 
-secured: "MUJjKTLlSU+HMY5dOC7xmnJ/cHcn66+HoshCqxUqSpBNrYMjAZQaLIi8h2pJAUynr9wVDf3onbYNB1uTbJ433UMexXOQFyodv8kdw27kPVO1GpHhpxj16lwf3pbgJNbIrOBC03untrotTWSBDLfD0HuPcTjvMDn+cONd0u1Cvcna95yMSPAnFJADeAJoob2DPeD8rs9h3LjRcsuljpR8Sywy5vfx2JpRuihyMa1W5GXDDs71No5md9psq8cTBd3FZXQreMcVcf7bRLiYqINNBYgRe+KlgHYqkX+q3U48gtGynOvvVf9jCTUcRe4/8ywXVC9iYetTtNa7c0Vo4VmMV2VZAYi5ZdYso0mjASKYP3w=;uMh+qZsube74lgTV0DvJlg=="
+secured: "7+l0slnE6Kc2cBC4zxldMaCGPSLG8J2gCV70lJY/edGQMefTlM0TxlppTAdAxxIr95UAwT9jdWIbEmvaE6MImPpEv/SdD6IcgNyioJ3Iz5IiPVpLNWakAGEpJzNFlBQLxYff3rYp5gtAC8NZvOHDqC+ST9va9/xPRfkp++cl43tHdZ/xGD66azhu+sRzT3VlcWyv+rG7ZDCOe/LxhTXKd+TADWO70cxh6xBUKs2Y8lDGU1VojBs1/79Wl26MXYOddssGmLNedVuzXXK6sYpf7hmPG6Bx5fyXe7cR+84IoXemngszy5svFOQwbQvpOemO2DG6seDThXNhurG5OJaNsOyDfD22A68xrABpYkHqPtI=;fsd2/7ghENnWtVfbFSAHQA=="
 ---
 

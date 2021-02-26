@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
-excerpt: "White House event will commemorate halfway point of Biden’s campaign promise of 100m vaccine doses in first 100 days"
-publishedDateTime: 2021-02-25T14:42:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037b6498f088c613add25d6"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037b6498f088c613add25d6"
+excerpt: "White House event will commemorate halfway point of Biden’s 100 million campaign promise"
+publishedDateTime: 2021-02-25T10:45:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037802a8f08614ccf106101"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037802a8f08614ccf106101"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://i.guim.co.uk/img/media/217e603b6b725cecaaa8e92cba452b33b4725a9e/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=350ce288ff53be8e28b963cceec278e2"
+  - url: "https://i.guim.co.uk/img/media/be249d338a0abc25679067d6f2554ceacbf282d1/0_11_4602_2761/master/4602.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ea758282063091755395ad55beb83c37"
     width: 600
     height: 360
     isCached: true
@@ -1550,6 +1550,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "CS2kxDHlirc6O/x7Zm/YUDg7CRwl/j1IRHbNWPb9ZgBfhP+uCKlqTf0vuTLLcMus9t9TR5DWrwmhg41CSmc0O2PmJKjkMdathY0pHG5jn+nRmlV9hujj1P+GqSl6ezWhqvirUx4Rtom7nJFhDgkGT+q+FSfA/g1XzLIXqpEwPOuwy4QhfTmUlTP+DAlXFr/PsXfdnohJ7qN9CAFqfg+dD2qjckwwihOb+LjItBwIurme4m/hTFrt/KsnWL75qegMCEGTpA3XtW3yZ7GpVExxqJPh38ILAfnRW+iwPI2FtxzmkTGBQNjS4hR0j0dIAvVDvKl4duOjueUdlLOJBc6U33OND+3xhgGGXKjn1YUupbNXPGCob6Dx9tq8TV1Qa7EEBtSnYVJ51TA3ABTGfMroWJUARbf44CUMLTmN5VXNAZcRuklzchDRwd+OQ4Ab/0La8228/cBWQSDrWfsMU3rqUlPbO6vlw/mP8j5LtujWZFnMYW+nELUs2Q/OVZlt7Oe7T7cGSvf+0n2TjYOzgor0IA==;+YvSMpntv5WasA3HvZendQ=="
+secured: "XewufkKNF+e91Up8AQAGzNgwVxqo1xUty6J12x+BRJGdz8TH5QNyA2jMBPHEbirg26UBn98YIuolJMZLg3gpEMq874/Q1rZYengO6MaktgGbuecbEbAJAUX3tV2iLo/0f+vBIbaLHVA9gpu5WehCctfL1czg6fj9OmbK9eUQ6nighNZjpdBxlXOud8p+91XZpgN6rH3CA67DGIw/fHZo07W2cblB9cnRRfgI60k+DXR6FOqvci3bXgkAZm3wS7OEekze/DPOn5AFdp3k3cGA1qjC6VeYsYtgGvd/rZOdbV5mD8zwsKWWiqIVV001iaW42AVNf8qy91WaFg5Zg1F17ROhM1w8erWMm8c7iZc2jco=;AcuUqvii+NiUqWRhxSLVtA=="
 ---
 

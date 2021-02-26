@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden orders first military airstrikes but minimum wage hopes hit as Covid relief set for vote"
+    excerpt: "House to vote on Biden’s $1.9 trillion Covid relief bill, but minimum wage hike all but doomed. The House will vote on President Joe Biden's $1.9 trillion Covid-19 relief packag"
+    publishedDateTime: 2021-02-26T15:26:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/biden-orders-first-military-airstrikes-minimum-wage-hopes-hit-covid-n1258929"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258929"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258929"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_08/3452826/210225-chuck-schumer-ac-759p_d9d92c08fd333459f5470fcad5541c0c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "48ZNY0/QI7U3nE3g4pKQtJHgl2RnMLgypkF7r/TiiwcqauhSAV8MAGAU2N8g68sbM871HZB8EhtVJePBR2Eq7MzdZ9NirUdnjdb3YD7ePV2mGtidh3tO0xiS8DXY1ulbXYDqjFYJnbcgXRXz2jfo46cRwWso2LuA7W2qcgvxetHewRWJZmE1L61nQuoCi8+Q7i2VMQAz9NZ8YNj1MBuYIIgtRoONaLHekZJZnGvpkTR3QsR3Rm7vfvqUdunT3oqcT5YiN0qsCPhL+8RpSJYlkdGFbCxwRgl4tXuM2s7cs6zmnL2AHN5DoKjraZqeYTRBoYyOmlUuGnACi+iqcWQEExEC341KF2zmGZARsxXHjqeidSdcmTHI0D2vI/4XGPMyZh9oy9oTOc7JhYmHCPz1Nyhpi0mzcLGz2M+f0v/x/a798rRtrONvacciqP0M6BS+yyK42reIEY02ShZNoLTb+NHt01ySQXoBad6SlUUdvxrrKcsX0YDWjXISk5R81IV86iKtAspsSbHjeCZs3et89w==;uV7P/yPjyLQHtLsoRMiCkA=="
 ---

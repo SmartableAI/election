@@ -1518,6 +1518,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "UN Rights Chief Hails US Shift From Trump Migration Policies"
+    excerpt: "The UN rights chief on Friday celebrated the shift in the United States under President Joe Biden away from a range of immigration policies introduced under his predecessor Donald Trump. In her annual global overview of the human rights situation around the world,"
+    publishedDateTime: 2021-02-26T13:35:00Z
+    webUrl: "https://ibtimes.com/un-rights-chief-hails-us-shift-trump-migration-policies-3152884"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/26/trump-mounted-a-hardline-effort-to-halt-illegal.jpg"
+        width: 1024
+        height: 718
+        isCached: true
   - title: "With Republican Firewall, U.S. Senate Acquits Trump of Inciting Deadly Capitol Riot"
     excerpt: "Donald Trump's second impeachment trial could conclude on Saturday, leaving a divided U.S. Senate to decide whether the former president incited his supporters to attack the U.S. Capitol on Jan. 6 in a last-ditch effort to stay in power after his November election defeat."
     publishedDateTime: 2021-02-14T22:19:00Z

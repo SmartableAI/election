@@ -93,6 +93,20 @@ related:
         width: 1201
         height: 629
         isCached: true
+  - title: "Biden strikes back at Iran-backed militias"
+    excerpt: "President Joe Biden orders a retaliatory airstrike against Iranian-backed militias in Syria after rocket attacks in Iraq. — The Space Force chief says an “alternative acquisition proposal” is in the final stages and the plan for a Space Systems Command will be out in a few weeks."
+    publishedDateTime: 2021-02-26T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/02/26/biden-strikes-back-at-iran-backed-militias-793641"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "Biden signs executive order targeting America's supply chains in critical areas"
     excerpt: "Each of the four sectors identified by the order will undergo a 100-day review to assess vulnerabilities and areas for improvement."
     publishedDateTime: 2021-02-25T20:13:00Z

@@ -431,38 +431,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Senate committee vote on Biden budget pick Tanden postponed"
-    excerpt: "A Senate committee postponed the Wednesday hearing for President Joe Biden’s pick to lead the Office of Management and Budget, suggesting further challenges for Neera Tanden."
-    publishedDateTime: 2021-02-24T13:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/senate-committee-vote-on-biden-budget-pick-tanden-postponed-idUSKBN2AO1S4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552752404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden's picks face peril in 50-50 Senate"
-    excerpt: "Two of President Biden’s Cabinet nominees are slamming into confirmation hurdles on Capitol Hill, testing the White House’s ability to navigate a tenuous Senate majority amid deep partisan divisions in Washington."
-    publishedDateTime: 2021-02-25T02:19:00Z
-    webUrl: "https://thehill.com/homenews/administration/540406-biden-nominees-run-into-senate-hurdles"
-    ampWebUrl: "https://thehill.com/homenews/administration/540406-biden-nominees-run-into-senate-hurdles?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/540406-biden-nominees-run-into-senate-hurdles?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/tandenneera_becerraxavier_022421getty_split_1.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "U.S. senators weigh paring back Biden's $1.9 trillion COVID-19 aid plan"
     excerpt: "U.S. senators on Wednesday were eyeing potentially significant cuts to President Joe Biden's $1.9 trillion COVID-19 relief bill as they awaited a ruling on whether the measure can include raising the federal minimum wage to $15 an hour."
     publishedDateTime: 2021-02-24T21:16:00Z
@@ -525,22 +493,6 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1552968031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1P038"
         width: 817
-        height: 545
-        isCached: true
-  - title: "Biden calls for national moment of silence for 500,000 U.S. COVID-19 deaths"
-    excerpt: "President Joe Biden called on Americans to observe a moment of silence on Monday to commemorate the grim milestone of 500,000 U.S. deaths from COVID-19."
-    publishedDateTime: 2021-02-22T21:17:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-idUSKBN2AM2EH"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AM2EH"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AM2EH"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552519951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M02K"
-        width: 823
         height: 545
         isCached: true
   - title: "Mitch McConnell Attacks COVID Stimulus Joe Biden Hoped Would Be Bipartisan"
@@ -783,22 +735,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Federal judge's ruling allows deportations to continue despite Biden's attempt at pause"
-    excerpt: "Lawyers for the administration argued the pause was needed to reassess U.S. Immigration and Customs Enforcement policies."
-    publishedDateTime: 2021-02-24T17:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 117
-    images:
-      - url: "https://s.abcnews.com/images/Politics/deportations-2-gty-rc-210224_1614176925783_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – live"
     excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
     publishedDateTime: 2021-02-18T00:36:00Z
@@ -830,34 +766,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/09/USAT/f2fdc334-a967-46b4-a594-34bde17dcb20-GTY_1231062167.jpg?auto=webp&crop=5026,2828,x0,y255&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Biden Reopens Gateway For Green Cards, Work Visas Reversing Trump COVID-19 Freeze"
-    excerpt: "The change means the wait is over for hundreds of thousands of job-seeking foreigners and those pursuing permanent residency in the U.S., to apply for the coveted immigration documents."
-    publishedDateTime: 2021-02-25T03:12:00Z
-    webUrl: "https://www.npr.org/2021/02/24/971206197/biden-reopens-gateway-for-green-cards-work-visas-reversing-trump-covid-19-freeze"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 115
-    images:
-      - url: "https://media.npr.org/assets/img/2021/02/24/ap_20174715433953_wide-ac356c5ff4cc39376cf7630053d651c17ca06cd1.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "Biden Reopens Gateway For Green Cards And Work Visas, Reversing Trump COVID-19 Freeze"
-    excerpt: "The change means the wait is over for hundreds of thousands of job-seeking foreigners and those pursuing permanent residency in the U.S. to apply for the coveted immigration documents."
-    publishedDateTime: 2021-02-26T09:23:00Z
-    webUrl: "https://www.npr.org/2021/02/24/971206197/biden-reopens-gateway-for-green-cards-work-visas-reversing-trump-covid-19-freeze"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 113
-    images:
-      - url: "https://media.npr.org/assets/img/2021/02/24/ap_20174715433953_wide-ac356c5ff4cc39376cf7630053d651c17ca06cd1.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
   - title: "Biden administration pledges to expand vaccinations as winter storms cause delays – as it happened"
     excerpt: "CDC warns of ‘widespread delays’ in vaccine deliveries due to weather"
@@ -933,20 +841,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "At vaccine plant, Biden hopes for year end normalcy"
-    excerpt: "President Joe Biden toured a state-of-the-art coronavirus vaccine plant Friday and said while he can't predict when the crisis will end, he's optimistic the nation will approach 'normalcy' by the end of the year if Americans get their vaccines."
-    publishedDateTime: 2021-02-20T00:00:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/19/vaccine-plant-biden-hopes-year-end-normalcy/4516298001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/b6d1f09f-56ee-4cd0-aeef-f93d71dc0904_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Biden to mourn 500,000 dead while balancing grief and hope"
     excerpt: "WASHINGTON (AP) —"
     publishedDateTime: 2021-02-23T09:09:00Z
@@ -994,20 +888,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "President Biden to sign executive order on supply chains"
-    excerpt: "President Joe Biden is signing an executive order on supply chains Wednesday, part of the administration's efforts to cope with the effects of the coronavirus pandemic. The move comes as Congress continues to consider Biden's Cabinet nominees and the $1."
-    publishedDateTime: 2021-02-24T19:16:00Z
-    webUrl: "https://www.cbsnews.com/video/president-biden-to-sign-executive-order-on-supply-chains/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/24/71b9f6bd-379e-4db7-a998-935ba9d9be78/thumbnail/1200x630/1e805f87a03f7600bffb66235fb54868/cbsn-fusion-president-biden-to-sign-executive-order-on-supply-chains-thumbnail-652931-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Biden's pick to lead White House budget office faces pushback from senators"
     excerpt: "President Joe Biden is facing pushback from fellow Democrats over his pick to lead the Office of Management and Budget, Neera Tanden. CBS News senior White House and political correspondent Ed O'Keefe and Los Angeles Times congressional reporter Jennifer Haberkorn join CBSN's Lana Zak to discuss."
     publishedDateTime: 2021-02-25T03:28:00Z
@@ -1035,6 +915,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/23/2e083d0c-5f94-4b75-ad7a-4513d80ad908/thumbnail/1200x630/0998ab0c28636967434038511a943b23/cbsn-fusion-biden-holds-moment-of-silence-for-500000-covid-19-deaths-promises-nation-will-know-joy-again-thumbnail-651840-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Joe Biden marks 50M vaccine doses in 37 days; South Korea, Hong Kong administer first vaccinations; 508K US deaths: Latest COVID-19 updates"
+    excerpt: "President Joe Biden urged Americans to wear masks and not let their guard down as the number of coronavirus cases declined. Latest COVID-19 updates."
+    publishedDateTime: 2021-02-26T08:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/02/25/covid-news-pfizer-vaccine-joe-biden-masks-coronavirus/6805714002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6805714002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6805714002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/63d1b5c5-73f6-4739-ac74-d67db56a30d0-AFP_AFP_92J4ZY.jpg?auto=webp&crop=4999,2812,x1,y508&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "WwOIdqMGIzJ4bWmEgr6zQJEA8uEuJ3p7Sg3regqLSob6b89JXiJjP43Us6xff53n41Z8+1FxdPkx7OGEPIMRei6x44DKcPUegvnkunKduYYbgWy9eMu8g0A+xU7VkmGRsT3nYRk5y+unYbcikLqYr6rG5HQQTYozW9+8kuhfu2INjfiW5kTr6hj4GnTD6NH/o4AmjkBwB0rbZZFGtIghMl7x5NprN8lw1WAjOa/OETKLCr9UV8eWvXcEPIoDiA5MHM0bZoiyKWaSIDGYnPJitVWKGbb4cvYmIOJyhZ/4QzdvEpq1nrVjKbr9JIVEx2qH1JI0OHZNwzQPHDegH9K1EuN0F8VBOV4fQ+5SAzEOAPE=;JNFZarcAAHznGqMZOPjA6A=="

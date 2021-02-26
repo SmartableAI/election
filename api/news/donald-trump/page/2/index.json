@@ -10,7 +10,7 @@
       "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
       "featuredContent": null,
       "highlight": null,
-      "heat": 2140,
+      "heat": 2160,
       "tags": null,
       "images": [
         {
@@ -34,6 +34,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-the-us-starts-to-allow-asylum-seekers-stuck-in-mexico-to-enter-unravelling-trumps-remain-in-mexico-policy.md",
+      "title": "The U.S. Starts to Allow Asylum-Seekers Stuck in Mexico to Enter, Unravelling Trump's 'Remain in Mexico' Policy",
+      "excerpt": "People seeking asylum in the United States are being allowed into the country as they wait for courts to decide on their cases.",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5941079/asylum-seeks-mexico-enter-us/",
+      "originalUrl": "https://time.com/5941079/asylum-seeks-mexico-enter-us/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2021/02/asylum-seeks-mexico-enter-us.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-19T09:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -631,6 +683,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-biden-early-approval-ratings-better-than-donald-trump-barack-obama-george-w-bush-bill-clinton.md",
+      "title": "Biden Early Approval Ratings Better Than Donald Trump, Barack Obama, George W Bush, Bill Clinton?",
+      "excerpt": "President Joe Biden's approval ratings are trending positive early in his term, with 57% approving of his job performance in an early February poll and 62% doing so in a poll taken Sunday and Monday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498",
+      "originalUrl": "https://www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trumps-swift-impeachment-trial-will.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498?amp=1",
+      "publishedDateTime": "2021-02-16T12:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1463,115 +1567,6 @@
       "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/11/republican-senators-accomplices-trump-impeachment-josh-hawley-ted-cruz",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/republican-senators-accomplices-trump-impeachment-josh-hawley-ted-cruz",
       "publishedDateTime": "2021-02-11T23:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-raskin-trump-like-the-fire-chief-who-sends-the-mob.md",
-      "title": "Raskin: Trump 'Like the Fire Chief Who Sends the Mob'",
-      "excerpt": "Maryland Rep. Jamie Raskin, the lead impeachment manager, countered arguments made by Donald Trump's attorneys that the former president's words in the lead-up to the Jan. 6 assault on the Capitol qualify as protected speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/qrR4NJ5q0obo6LnUrbih",
-      "originalUrl": "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/qrR4NJ5q0obo6LnUrbih",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-298259?size=1.5",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T18:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations.md",
-      "title": "Morning mail: Melbourne cluster grows, Trump's message to insurrectionists, Crown resignations",
-      "excerpt": "Two more Covid cases linked to the Holiday Inn quarantine hotel. Plus: simple strategies to cope with bluebottles",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2021/feb/12/morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations",
-      "originalUrl": "https://www.theguardian.com/australia-news/2021/feb/12/morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/86ee9ba605ed24237a4240114b1c07ca658de675/0_16_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bb20fc08e05a5fb94a1856adfffad43",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T12:23:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",

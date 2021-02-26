@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "More policy, less pomp as Biden-Trudeau meet virtually"
+    excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
+    publishedDateTime: 2021-02-23T22:47:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "UPDATE 1-Biden to travel to winter storm-battered Texas on Friday"
     excerpt: "U.S. President Joe Biden and first lady Jill Biden will travel to Texas on Friday to visit a state that has been hit hard by a winter storm, leading to mass power outages and a disruption of water supplies,"
     publishedDateTime: 2021-02-23T16:24:00Z
@@ -65,19 +81,19 @@ related:
         isCached: true
   - title: "Biden to exercise empathy skills in Texas visit after storms"
     excerpt: "President Joe Biden will have a chance to exercise his empathy skills during a visit to Texas on Friday with a dual mission"
-    publishedDateTime: 2021-02-26T05:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-exercise-empathy-skills-in-texas-visit-after-storms/2021/02/26/8da7ff3a-77f4-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    publishedDateTime: 2021-02-26T07:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_2eb98dd19bb34eabb6e0b11fc36c4ff5_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
     excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."
@@ -126,22 +142,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57"
         width: 600
         height: 360
-        isCached: true
-  - title: "Federal judge in Texas blocks Biden's 100-day deportation pause in nationwide order"
-    excerpt: "Granting a nationwide injunction sought by Texas, a federal judge has blocked the Biden administration's plans to pause deportations for 100 days."
-    publishedDateTime: 2021-02-24T17:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/federal-judge-texas-blocks-joe-biden-100-day-deportation-pause/4576411001/?scrolla=5eb6d68b7fedc32c19ef33b4"
-    ampWebUrl: "https://amp.usatoday.com/amp/4576411001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4576411001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/14/NAAS/0dc111b6-63c9-4c2f-b2c4-5bc23496c694-Biden_Immigration.jpg?auto=webp&crop=5191,2920,x0,y519&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Biden heads to Wisconsin, winter storms, Bill Gates book: 5 things you need to know Tuesday"
     excerpt: "President Joe Biden travels to Wisconsin, another dose of severe weather is on the way and more news to start your Tuesday."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/biden-covid-relief-plan-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/biden-covid-relief-plan-economists/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200203184711-paul-krugman-amanpour-democratic-primary-economy-00012322-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden orders first military airstrikes but minimum wage hopes hit as Covid relief set for vote"
+    excerpt: "House to vote on Biden’s $1.9 trillion Covid relief bill, but minimum wage hike all but doomed. The House will vote on President Joe Biden's $1.9 trillion Covid-19 relief packag"
+    publishedDateTime: 2021-02-26T15:26:00Z
+    webUrl: "https://www.nbcnews.com/news/morning-briefing/biden-orders-first-military-airstrikes-minimum-wage-hopes-hit-covid-n1258929"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258929"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258929"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 123
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_08/3452826/210225-chuck-schumer-ac-759p_d9d92c08fd333459f5470fcad5541c0c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
 
 secured: "LKYthUzv0A7S8n/rUFLfbE7AtoUomJtQp+enCD1Z9Vb+atiMgMlb7HgusyN1L3+s3BRAqValTQdIyxqKXPevcsS8BQahAebVjIcK0bhKsaRZydlzYI3bccMyWuF/UHrvN8e0e0dYLHBXjtuddJ/Hi3uX6i1mGokpZm2L1nn66s5WrJcf9TrDJtymHqL4fOWnbKb7iVFjM1niroMTRbdANpQUUPQeNorOvbz1V7wYSFIjIqyz+tx2VovRFjI8bjLudMt+wL/Kv1BV7LZh1jg2DxA97mcAc2qhrauOkpqp7AtCKrQW2tAlKJkzkRFmV5N9E29Lag3qZsJyWGNHePgVsNFjCBrtZMhwC/G8PfwGlgI=;qCFe4+PMGSwanjcevdWv4Q=="

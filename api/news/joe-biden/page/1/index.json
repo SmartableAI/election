@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-27-biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi.md",
+      "title": "Biden holds high-stakes call with Saudi King Salman ahead of new intel report on Khashoggi",
+      "excerpt": "The Biden administration is set to release an intelligence report on the 2018 murder of journalist Jamal Khashoggi. This latest summary is expected to blame Saudi Crown Prince Mohammed Bin Salman for Khashoggi's killing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi/",
+      "originalUrl": "https://www.cbsnews.com/video/biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/26/baf7f65c-ff2c-4a82-be53-59356f4cb0f6/thumbnail/1200x630/e5bc6f7fb1341090f3f3ed37e2405de6/cbsn-fusion-biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi-thumbnail-654296-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-26T08:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-biden-facing-resistance-in-congress-courts-gop-governors.md",
       "title": "Biden, facing resistance in Congress, courts GOP governors",
       "excerpt": "Biden is spending at least as much time courting Republican governors as he is wooing the senators he needs to pass legislation in Washington.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -218,7 +270,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-cia-idUSKBN2AO19B",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -242,6 +294,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-more-policy-less-pomp-as-biden-and-trudeau-meet-virtually.md",
+      "title": "More policy, less pomp as Biden and Trudeau meet virtually",
+      "excerpt": "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_0067a91419334861af58da6fd748679b_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755",
+      "publishedDateTime": "2021-02-23T18:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -431,7 +535,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1427,
+      "heat": 1287,
       "tags": null,
       "images": [
         {
@@ -530,58 +634,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-us-admits-first-group-of-asylum-seekers-as-biden-rolls-back-remain-in-mexico-policy.md",
-      "title": "U.S. admits first group of asylum-seekers as Biden rolls back Remain-in-Mexico policy",
-      "excerpt": "As part of its efforts to wind down a Trump-era policy that kept tens of thousands of asylum-seekers outside U.S. territory, the Biden administration on Friday admitted the first group of migrants who had been previously required to wait in Mexico for their immigration court hearings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/asylum-seekers-united-states-biden/",
-      "originalUrl": "https://www.cbsnews.com/news/asylum-seekers-united-states-biden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/20/f3b8e40d-79c5-4918-a1bc-d715b17f6a23/thumbnail/1200x630/a99162a5d1bf159722d6b96ac72a25c9/gettyimages-1231266086.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/asylum-seekers-united-states-biden/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/asylum-seekers-united-states-biden/",
-      "publishedDateTime": "2021-02-20T04:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -853,7 +905,7 @@
       "originalUrl": "https://www.reuters.com/article/us-iran-nuclear-usa/irans-khamenei-demands-action-from-biden-to-revive-nuclear-deal-idUSKBN2AH0UQ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1061,7 +1113,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-order-reestablishes-faith-focused-white-house-office/2021/02/14/17fe6700-6ee0-11eb-8651-6d3091eac63f_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 845,
+      "heat": 785,
       "tags": null,
       "images": [
         {
@@ -1528,63 +1580,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops.md",
-      "title": "Remembering Parkland — Defiant DeSantis lashes out at Biden administration — Sprowls warns schools over enrollment drops",
-      "excerpt": "Between Wednesday and Thursday, the number of Florida coronavirus cases increased by 8,525 (nearly 0.5 percent), to 1,806,805; active hospitalizations went down by 220 (nearly 4.3 percent). to 4,906;",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/12/remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops-491735",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/12/remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops-491735",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

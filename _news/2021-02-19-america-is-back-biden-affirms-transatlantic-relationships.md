@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/world/2021/02/19/biden-foreign-policy
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/world/2021/02/19/biden-foreign-policy-transatlantic-partnerships-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -91,6 +91,20 @@ related:
     images:
       - url: "https://static.politico.com/da/bc/89ed482f4862b339c70a33cc0fb0/politico-global-translations-shared-graphic.jpg"
         width: 1201
+        height: 629
+        isCached: true
+  - title: "Biden strikes back at Iran-backed militias"
+    excerpt: "President Joe Biden orders a retaliatory airstrike against Iranian-backed militias in Syria after rocket attacks in Iraq. — The Space Force chief says an “alternative acquisition proposal” is in the final stages and the plan for a Space Systems Command will be out in a few weeks."
+    publishedDateTime: 2021-02-26T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/morning-defense/2021/02/26/biden-strikes-back-at-iran-backed-militias-793641"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
         height: 629
         isCached: true
   - title: "Biden signs executive order targeting America's supply chains in critical areas"
