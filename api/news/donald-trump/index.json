@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-27-trump-thinks-hes-a-god-cpac-packed-with-cult-followers-michael-cohen-says.md",
+      "title": "Trump 'Thinks He's a God,' CPAC Packed With Cult Followers, Michael Cohen Says",
+      "excerpt": "Organizers installed a golden statue of Trump, whose behavior Cohen described as \"sociopathic,\" at the conservative event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576",
+      "originalUrl": "https://www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1744731/michael-cohen-attorney-donald-trump.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576?amp=1",
+      "publishedDateTime": "2021-02-27T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-its-donald-trumps-party-how-the-former-president-is-building-a-political-operation-to-cement-his-hold-on-the-gop.md",
+      "title": "‘It’s Donald Trump’s party’: How the former president is building a political operation to cement his hold on the GOP",
+      "excerpt": "In advance of his first major post-White House address, Trump is making plans to launch a super PAC, has begun endorsing candidates and is plotting a possible 2024 comeback.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/donald-trump-gop/2021/02/27/890376f0-783d-11eb-8115-9ad5e9c02117_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/donald-trump-gop/2021/02/27/890376f0-783d-11eb-8115-9ad5e9c02117_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XPWTODTYMUI6XFEJR562ZVI6OU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/donald-trump-gop/2021/02/27/890376f0-783d-11eb-8115-9ad5e9c02117_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/donald-trump-gop/2021/02/27/890376f0-783d-11eb-8115-9ad5e9c02117_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-27T06:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-how-to-unite-a-deeply-divided-kosovo-name-a-lake-after-trump.md",
       "title": "How to Unite a Deeply Divided Kosovo? Name a Lake After Trump",
       "excerpt": "A lighthearted suggestion by a U.S. envoy hoping to bridge a vast rift between Albanians and Serbs in Kosovo has taken on a life of its own — only to be ridiculed by local residents on both sides.",
@@ -380,7 +484,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/02/26/bidens-pick-hhs-sued-trump-administration-not-group-nuns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 660,
+      "heat": 680,
       "tags": null,
       "images": [
         {
@@ -688,7 +792,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/23/liz-cheney-again-hits-president-donald-trump-over-jan-6-insurrection/4559614001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -1379,7 +1483,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1367,
+      "heat": 1387,
       "tags": null,
       "images": [
         {
@@ -1421,63 +1525,6 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-oath-keeper-claims-she-was-vip-security-at-trump-rally-before-riot-and-says-she-met-with-secret-service-agents.md",
-      "title": "Oath Keeper claims she was VIP security at Trump rally before riot and says she met with Secret Service agents",
-      "excerpt": "A leader in an alleged Oath Keepers conspiracy in the US Capitol insurrection claims she was given a VIP pass to the pro-Trump rally on January 6, had met with Secret Service agents and was providing security for legislators and others,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html",
-      "originalUrl": "https://www.cnn.com/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210221090239-capitol-riots-210106-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html",
-      "publishedDateTime": "2021-02-21T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {
@@ -1535,58 +1582,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-for-mexican-ambassador-who-survived-trump-washington-was-last-stop.md",
-      "title": "For Mexican ambassador who survived Trump, Washington was last stop",
-      "excerpt": "Martha Bárcena, the first woman to serve as Mexican ambassador to the United States, retired this month after a 42-year career.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/mexican-ambassador-martha-barcena-retires/2021/02/20/a65eb048-715d-11eb-a4eb-44012a612cf9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/mexican-ambassador-martha-barcena-retires/2021/02/20/a65eb048-715d-11eb-a4eb-44012a612cf9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2KSZ55TT2II6XBSRNUYJD2WGH4.jpg&w=1440",
-          "width": 1440,
-          "height": 959,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/mexican-ambassador-martha-barcena-retires/2021/02/20/a65eb048-715d-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/mexican-ambassador-martha-barcena-retires/2021/02/20/a65eb048-715d-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-20T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

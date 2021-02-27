@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/biden-covid-relief-plan-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/biden-covid-relief-plan-economists/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219161318-01-pelosi-house-dems-0205-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Questions grow about discrimination's role in the hurdles Biden's nominees are facing "
+    excerpt: "President Joe Biden succeeded in nominating the most racially diverse slate of Cabinet nominees in history. But now the slow and contentious process of getting some of his top picks confirmed is leading progressive groups to question whether his nominees of color are facing a higher level of scrutiny"
+    publishedDateTime: 2021-02-27T11:15:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bP7h4gBw99U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/biden-cabinet-nominees-discrimination/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/biden-cabinet-nominees-discrimination/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224141135-02-haaland-confirmation-hearing-0224-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

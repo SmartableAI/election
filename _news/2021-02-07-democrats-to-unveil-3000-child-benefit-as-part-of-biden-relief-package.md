@@ -303,6 +303,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to laud House passing Covid relief bill as an important first step to defeating Covid-19"
+    excerpt: "President Joe Biden will praise the House of Representatives for passing his $1.9 trillion Covid relief bill as an important first step when he delivers remarks Saturday morning, according to a White House official.\n    \n"
+    publishedDateTime: 2021-02-27T13:48:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tRoG-zZ9a0w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/biden-covid-relief-package-house-bill-passes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/biden-covid-relief-package-house-bill-passes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227082815-joe-biden-210226-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to deploy approximately 1,000 troops to assist with Covid vaccination effort"
     excerpt: "The Biden administration is expected to announce Friday that it will deploy approximately 1000 troops across the United States to assist with coronavirus vaccination efforts.\n    \n"
     publishedDateTime: 2021-02-05T16:39:31Z

@@ -417,6 +417,22 @@ related:
         width: 6000
         height: 4000
         isCached: true
+  - title: "Trump dominant force at conservative conference"
+    excerpt: "Trump on Sunday will be making his first post-presidential appearance at the conference, and aides say he will use the speech to reassert his power."
+    publishedDateTime: 2021-02-27T13:20:00Z
+    webUrl: "https://www.al.com/news/2021/02/trump-dominant-force-at-conservative-conference.html"
+    ampWebUrl: "https://www.al.com/news/2021/02/trump-dominant-force-at-conservative-conference.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/02/trump-dominant-force-at-conservative-conference.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GFZDVPLSCZFQ3COVYGFYRO7M2E.jpg"
+        width: 4000
+        height: 2666
+        isCached: true
   - title: "Biden White House Asks 'Trump Who?' Ahead of Speech to Conservatives"
     excerpt: "President Joe Biden's White House has made it clear it plans to ignore Donald Trump's speech on Sunday to a conservative conference in Florida, where the former president is expected to go on the attack against his successor."
     publishedDateTime: 2021-02-27T12:19:00Z

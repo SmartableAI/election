@@ -45,6 +45,22 @@ related:
         isCached: true
   - title: "Live politics updates: Mike Pence declines invitation to speak at conservative CPAC conference"
     excerpt: "Organizer Matt Schlapp said it was a \"mistake\" for Pence to avoid the conference because \"his conservative record is well respected.\""
+    publishedDateTime: 2021-02-24T04:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/21/live-politics-updates-joe-biden-texas-storm-ted-cruz-asa-hutchinson/4532683001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4532683001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4532683001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/21/USAT/89c5b44f-c754-4634-bd60-8a80a4a53e75-XXX__JG_138559_CPAC_02_27_2020_jmg_40382.JPG?auto=webp&crop=2176,1224,x0,y318&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Live politics updates: Mike Pence declines invitation to speak at conservative CPAC conference"
+    excerpt: "Organizer Matt Schlapp said it was a \"mistake\" for Pence to avoid the conference because \"his conservative record is well respected.\""
     publishedDateTime: 2021-02-22T02:07:00Z
     webUrl: "https://www.cincinnati.com/story/news/politics/2021/02/21/live-politics-updates-joe-biden-texas-storm-ted-cruz-asa-hutchinson/4532683001/"
     ampWebUrl: "https://amp.cincinnati.com/amp/4532683001"

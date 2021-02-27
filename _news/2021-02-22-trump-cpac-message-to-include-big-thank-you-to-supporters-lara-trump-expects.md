@@ -208,6 +208,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump prepares to reassert dominance over Republicans at CPAC"
+    excerpt: "The American people fired him, but he’s still the boss of CPAC. Former President Trump will take centerstage at the influential Conservative Political Action Conference"
+    publishedDateTime: 2021-02-27T13:42:00Z
+    webUrl: "https://nypost.com/2021/02/27/trump-prepares-to-reassert-dominance-over-republicans-at-cpac/"
+    ampWebUrl: "https://nypost.com/2021/02/27/trump-prepares-to-reassert-dominance-over-republicans-at-cpac/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/27/trump-prepares-to-reassert-dominance-over-republicans-at-cpac/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Trump_Conservatives.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CPAC readies for Florida gathering amid COVID-19, as conservatives ready for Trump bonanza"
     excerpt: "For many, the Conservative Political Action Conference (CPAC) is essentially one of the last major in-person events without masks or coronavirus pandemic restrictions before the shutdown began."
     publishedDateTime: 2021-02-24T12:45:00Z

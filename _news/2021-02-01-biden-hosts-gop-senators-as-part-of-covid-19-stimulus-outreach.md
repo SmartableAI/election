@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
 type: article
 quality: 175
-heat: 855
+heat: 875
 published: true
 
 provider:
@@ -300,6 +300,22 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210131111649-restricted-split-covid-relief-republican-senators-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to laud House passing Covid relief bill as an important first step to defeating Covid-19"
+    excerpt: "President Joe Biden will praise the House of Representatives for passing his $1.9 trillion Covid relief bill as an important first step when he delivers remarks Saturday morning, according to a White House official.\n    \n"
+    publishedDateTime: 2021-02-27T13:48:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tRoG-zZ9a0w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/biden-covid-relief-package-house-bill-passes/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/biden-covid-relief-package-house-bill-passes/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227082815-joe-biden-210226-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

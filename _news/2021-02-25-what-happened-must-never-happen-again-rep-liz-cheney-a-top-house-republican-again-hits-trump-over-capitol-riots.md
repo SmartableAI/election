@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4559614001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4559614001"
 type: article
 quality: 100
-heat: 120
+heat: 100
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 678
     isCached: true
-
-related:
-  - title: "Pence Reportedly Not Holding a Grudge Against Trump Over Whole Riot Thing"
-    excerpt: "It took a few weeks, but Pence seems to be over it — at least publicly. CNN reports that Pence told a group of Republican lawmakers on Tuesday that not only does he remain close friends with Trump, but that he has plans to launch a political action organization defending the administration’s record."
-    publishedDateTime: 2021-02-24T17:03:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 89
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/ff6/d91/a33a01fa386758c72fc9ae2ff1631f8012-donald-trump-mike-pence.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
 
 secured: "+Eqr67+PnP5quWPPRohHp2Al9mxSemX6Qgmco8GWkn8YWMmkackeMJsL75r+LPmrog5idIKAn/Z6Gb8TEQdIyqAWm8G/6si+KNZ8wdZLO4z5eYYFQYSMuHhx8E+NEai1vSfDHjVST+SXu+ZMPev7upuD2TvMFuT/5Pcr9S/HwihGmGxyjmrdV6v3WxexsI7GQzm8Yl3fJOddzwzfIzFFm7uoeDeeHolkXeQvxL3ZZVnxrCygAQ7hukew3ka2XbL0LmEEaFV+TB2T1IKO5pnBcaAuYDV7iotSb7J1QCV39lBY0cgsfjtivRdOinwaADhgCmU8SrSt9/xKm6OTkwZLb2ASwg23RhossMfK/9FUcEB8D5egeyPORCyew+ePIdLy0o35CsapOKuRgCHkyYBDdNxuI8VmBeFPHviNX9iV+w/OcNkHRwR77tTYNEbiZCJJmJGUBGCkWfSZwxBgkDJDge9/H6YrmM641IMlph/3EMS21NXLQOIzegwjdaMRZg1GZafWWdNXCUTgDYN6XvDTdQ==;N35uEAaV9wbmdklM+EksRQ=="
 ---

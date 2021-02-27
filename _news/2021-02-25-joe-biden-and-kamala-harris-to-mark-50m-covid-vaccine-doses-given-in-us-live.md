@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
 excerpt: "White House event will commemorate halfway point of Biden’s 100 million campaign promise"
-publishedDateTime: 2021-02-25T12:58:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603794b28f088c613add23d0"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603794b28f088c613add23d0"
+publishedDateTime: 2021-02-25T11:45:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-60378d3e8f088c613add2360"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-60378d3e8f088c613add2360"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 type: article
@@ -1566,6 +1566,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "covjOOwzD7Y/WvDoxeJNClkJkdwYB13xjRA35p+nKeToUGfvQCa6YADjNsMYkx8lHcTUEqk43Xzjotflyg+IX/lKfC35UhmX0CUdf/3lG2c03eYRkfXUZNQaaevN/3dfAR0gdAAwF+9qgD2hrKE32QOyjQNVXH3Wp5MOenHO9+eO0deLRL8HD7DQ92+2jobifXkLmD4cQhkr39FPVUjcP9mvZfI2ENhg4TK04aKC6lxS6Dxn9h1G9LECsNNXWm8VgkrupvFkMhkIrA8L3LDEmHCstlxTyobMMBbDHW+j3NfiNW2jTxiz7vdMLKRMwKUay1GLo+7+hq3q0jpuLV5atcGgrV+QqKQ9LBRg3T15OxE=;rPIPKbE6GVzy2eKsfA3uWQ=="
+secured: "nOiyKw5qZHN29e5ZErOgHRS+8t5cx2iEF9YlRiiGkjKxD5pUX/rizOyP4tQrSTidshwd5LBxc2/h+4YrCqjimVCBAyFDjxRD/rOPtvjNEjkkthjEJqyVHOj0lEixq8+QCEKOg7E83KAJRJaWkwcVoSG3IxnJYrbWSjjsN+ihqSVgt+75DQ+kIgj9l3rQGL/yOjGqGiFKA55fx9fTS1w/P9Bj9w3SxXRrdKkj934H/yFNo+G6czYiEBdEBf3fuOklhwBYfNtmAcVBMo7M1SBFeF+k0gd8dbacd/UoA6V0vE9fBmHZ7Wn+XQlE1m/K46fwdviZqayG6+TpiwzKocGX7t7hSY8CqPlClny9Ux6vUJ0=;yalxA26PFPKS9UIxy784eA=="
 ---
 

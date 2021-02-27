@@ -192,6 +192,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump prepares to reassert dominance over Republicans at CPAC"
+    excerpt: "The American people fired him, but he’s still the boss of CPAC. Former President Trump will take centerstage at the influential Conservative Political Action Conference"
+    publishedDateTime: 2021-02-27T13:42:00Z
+    webUrl: "https://nypost.com/2021/02/27/trump-prepares-to-reassert-dominance-over-republicans-at-cpac/"
+    ampWebUrl: "https://nypost.com/2021/02/27/trump-prepares-to-reassert-dominance-over-republicans-at-cpac/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/27/trump-prepares-to-reassert-dominance-over-republicans-at-cpac/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Trump_Conservatives.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump CPAC message to include 'big thank you' to supporters, Lara Trump expects"
     excerpt: "Former President Trump is scheduled to make his first public appearance since leaving office at the 2021 Conservative Political Action Conference (CPAC) next weekend, and Lara Trump shared her expectations for the message he’ll share."
     publishedDateTime: 2021-02-21T17:07:00Z

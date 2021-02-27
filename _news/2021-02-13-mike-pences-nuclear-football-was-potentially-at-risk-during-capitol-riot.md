@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-f
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot"
 type: article
 quality: 123
-heat: 163
+heat: 183
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/602599df2edd0f001a8d559a?width=1200&format=jpeg"
         width: 1024
         height: 512
+        isCached: true
+  - title: "Nuclear commanders had 'no idea' Mike Pence's 'football' was so close to being taken by the mob until they saw dramatic security footage at Donald Trump's trial"
+    excerpt: "Nuclear commanders had no idea how close Vice President Mike Pence's nuclear 'football' got to being taken by the MAGA mob until they saw the dramatic security footage shared at President Donald ..."
+    publishedDateTime: 2021-02-12T16:53:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9254325/Nuclear-commanders-no-idea-Mike-Pences-football-close-taken-mob.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9254325/amp/Nuclear-commanders-no-idea-Mike-Pences-football-close-taken-mob.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9254325/amp/Nuclear-commanders-no-idea-Mike-Pences-football-close-taken-mob.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 45
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/02/12/16/39219242-0-image-a-5_1613148539488.jpg"
+        width: 636
+        height: 382
         isCached: true
   - title: "Military officials were unaware of potential danger to Pence's 'nuclear football' during Capitol riot"
     excerpt: "Military officials overseeing the authorization process to launch nuclear weapons were unaware on January 6 that then-Vice President Mike Pence's military aide carrying the \"nuclear football\" was pote"

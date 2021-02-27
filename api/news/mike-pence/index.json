@@ -525,6 +525,63 @@
       ]
     },
     {
+      "path": "_news/2021-02-13-strange-new-respect-for-mike-pence.md",
+      "title": "Strange New Respect for Mike Pence",
+      "excerpt": "One novel, even astonishing, spectacle in President Trump’s impeachment trial has been progressive Democrats singing the praises of Mike Pence. “The Vice President and I don’t agree on too ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/strange-new-respect-for-mike-pence-11613086666",
+      "originalUrl": "https://www.wsj.com/articles/strange-new-respect-for-mike-pence-11613086666",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-298363/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/strange-new-respect-for-mike-pence-11613086666",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/strange-new-respect-for-mike-pence-11613086666",
+      "publishedDateTime": "2021-02-12T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-mike-pences-nuclear-football-was-potentially-at-risk-during-capitol-riot.md",
       "title": "Mike Pence's 'nuclear football' was potentially at risk during Capitol riot",
       "excerpt": "Footage from 6 January shows mob was within 30 metres of Pence and air force officer carrying briefcase with nuclear codes",
@@ -533,7 +590,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/12/mike-pence-nuclear-football-capitol-riot",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 183,
       "tags": null,
       "images": [
         {
@@ -751,7 +808,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/10/trump-impeachment-trial-capitol-mob-videos-show-violence-jan-6/6712324002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 170,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -1052,21 +1109,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-06-mike-pence-is-starting-a-podcast-to-share-the-good-news-of-conservatism.md",
-      "title": "Mike Pence is starting a podcast 'to share the good news of conservatism'",
-      "excerpt": "The podcast marks just one of the latest ventures Pence is taking on after departing the Trump administration.",
+      "path": "_news/2021-02-08-mike-pence-to-launch-video-podcast-with-conservative-group.md",
+      "title": "Mike Pence to launch 'video podcast' with conservative group",
+      "excerpt": "While the Mike Pence Show, which included Pence railing against adultery and “talking about the global warming ‘myth’”, was not the most prominent or gripping of rightwing talk radio ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/mike-pence-starting-a-podcast-conservatism-partnership-2021-2",
-      "originalUrl": "https://www.businessinsider.com/mike-pence-starting-a-podcast-conservatism-partnership-2021-2",
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/06/mike-pence-video-podcast-young-americas-foundation",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/06/mike-pence-video-podcast-young-americas-foundation",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/601e98e7cca90200129b6d6b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://i.guim.co.uk/img/media/e66b6e0a3890405f280a280d692f950eee5e4196/0_82_1233_740/master/1233.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1fe03e7dd81840f23d891972d4e57bdb",
+          "width": 600,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1074,16 +1131,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/mike-pence-starting-a-podcast-conservatism-partnership-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/mike-pence-starting-a-podcast-conservatism-partnership-2021-2?amp",
-      "publishedDateTime": "2021-02-06T07:27:00-08:00",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/06/mike-pence-video-podcast-young-americas-foundation",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/06/mike-pence-video-podcast-young-americas-foundation",
+      "publishedDateTime": "2021-02-07T09:58:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "The Guardian",
+        "domain": "theguardian.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-the-martyrdom-of-mike-pence.md",
+      "title": "The martyrdom of Mike Pence",
+      "excerpt": "Trump asked. “We’ll start with Mike and then we’ll just go around, your name, your position.” “This is just the greatest privilege of my life,” Pence said, setting the tone for the others.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2021/feb/07/mike-pence-donald-trump-republicans-religion-evangelical",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2021/feb/07/mike-pence-donald-trump-republicans-religion-evangelical",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/081fc7b2f87d35e5887bcac5478f1d369256b24d/0_192_1994_1196/master/1994.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=36cd1c5247645073888d6f4335fe9eea",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2021/feb/07/mike-pence-donald-trump-republicans-religion-evangelical",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2021/feb/07/mike-pence-donald-trump-republicans-religion-evangelical",
+      "publishedDateTime": "2021-02-07T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1457,92 +1566,6 @@
       "provider": {
         "name": "Des Moines Register",
         "domain": "desmoinesregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-heres-what-to-exect-from-pences-post-vp-life.md",
-      "title": "Here's what to exect from Pence's post-VP life",
-      "excerpt": "Pence's relationship with former President Donald Trump, which, to put it mildly, faltered after the deadly Jan. 6 Capitol riot, does not appear to have improved over the last few weeks, NBC reports.",
-      "sourceUrl": null,
-      "webUrl": "https://theweek.com/speedreads/964190/heres-what-exect-from-pences-postvp-life",
-      "originalUrl": "https://theweek.com/speedreads/964190/heres-what-exect-from-pences-postvp-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230702122.jpg?itok=9TsIXNEV&resize=450x300",
-          "width": 450,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life",
-      "cdnAmpWebUrl": "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/964190/heres-what-expect-from-pences-postvp-life",
-      "publishedDateTime": "2021-01-31T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "THE WEEK",
-        "domain": "theweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-joe-scarborough-mike-pence-is-in-fear-for-his-life-because-of-donald-j-trump.md",
-      "title": "Joe Scarborough: 'Mike Pence is in fear for his life because of Donald J. Trump'",
-      "excerpt": "MSNBC co-host Joe Scarborough said Wednesday morning that former Vice President Mike Pence is “in fear for his life” because of former President Donald Trump’s actions leading up to the U.S. Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
-      "originalUrl": "https://www.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://twt-thumbs.washtimes.com/media/image/2021/01/27/scarborough_c35-0-900-505_s1200x700.jpg?3b9cfe2c93ef070d968f1facefb8412d0ec504ee",
-          "width": 1200,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
-      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/jan/27/joe-scarborough-mike-pence-is-in-fear-for-his-life/",
-      "publishedDateTime": "2021-01-27T09:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Times",
-        "domain": "washingtontimes.com",
         "images": null,
         "publishers": null,
         "authors": null

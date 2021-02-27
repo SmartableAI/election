@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-27-trump-supporters-who-breached-the-capitol-it-was-not-antifa.md",
+      "title": "Trump supporters who breached the Capitol: 'It was not Antifa'",
+      "excerpt": "Nearly a dozen Trump supporters charged in connection with the US Capitol insurrection have said that Antifa and other left-wing groups weren't involved in the attack, debunking a false-flag conspiracy theory that is gaining popularity in the pro-Trump orbit.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONjE18kvPbY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONjE18kvPbY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205104923-104-january-6-capitol-riots-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-supporters-not-antifa/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-supporters-not-antifa/index.html",
+      "publishedDateTime": "2021-02-27T06:01:11-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-how-to-unite-a-deeply-divided-kosovo-name-a-lake-after-trump.md",
       "title": "How to Unite a Deeply Divided Kosovo? Name a Lake After Trump",
       "excerpt": "A lighthearted suggestion by a U.S. envoy hoping to bridge a vast rift between Albanians and Serbs in Kosovo has taken on a life of its own — only to be ridiculed by local residents on both sides.",
@@ -1573,63 +1629,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-oath-keeper-claims-she-was-vip-security-at-trump-rally-before-riot-and-says-she-met-with-secret-service-agents.md",
-      "title": "Oath Keeper claims she was VIP security at Trump rally before riot and says she met with Secret Service agents",
-      "excerpt": "A leader in an alleged Oath Keepers conspiracy in the US Capitol insurrection claims she was given a VIP pass to the pro-Trump rally on January 6, had met with Secret Service agents and was providing security for legislators and others,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html",
-      "originalUrl": "https://www.cnn.com/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210221090239-capitol-riots-210106-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/oath-keepers-vip-security-capitol-riot/index.html",
-      "publishedDateTime": "2021-02-21T08:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     },

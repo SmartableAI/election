@@ -3,10 +3,10 @@ category: news
 title: "U.S. House approves Biden's $1.9 trillion COVID-19 aid"
 excerpt: "President Joe Biden's $1.9 trillion plan to address the human and economic toll of the COVID-19 pandemic passed the U.S. House of Representatives early on Saturday, with the next step Senate consideration."
 publishedDateTime: 2021-02-27T06:08:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-vote-idUSL1N2KX06G"
-webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-vote-idUSL1N2KX06G"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AR08Q"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AR08Q"
+originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-vote-idUKL1N2KX06G"
+webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-vote-idUKL1N2KX06G"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2KX06G"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2KX06G"
 type: article
 quality: 125
 heat: -1
@@ -920,6 +920,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Eye Opener: House passes Biden's $1.9 trillion COVID-19 relief bill"
+    excerpt: "The House passes President Joe Biden's $1.9 trillion coronavirus relief bill despite little Republican support. Also, a panel of experts with the Food and Drug Administration recommended the COVID-19 vaccine from Johnson & Johnson for emergency use authorization."
+    publishedDateTime: 2021-02-27T13:44:00Z
+    webUrl: "https://www.cbsnews.com/video/eye-opener-house-passes-bidens-19-trillion-covid-19-relief-bill/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/27/2a48d895-45d2-4430-a58c-1139ecf332b7/thumbnail/1200x630/e4a24ca0ac1de1077a7753fed61fb2d4/cbsn-fusion-eye-opener-house-passes-bidens-19-trillion-covid-19-relief-bill-thumbnail-654969-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pres. Biden speaks at FEMA vaccination site"
     excerpt: "Watch \"Pres. Biden speaks at FEMA vaccination site\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-02-26T23:07:00Z
@@ -990,6 +1004,6 @@ related:
         height: 675
         isCached: true
 
-secured: "rijWoCLlOgIB8psTYSsnV49gO/5oF+p1yARFJCByeJUEjvMxXDFDddfdYfacGNYBSUkaH6Am73CMI257DmJRXVx9zk2GkKHNRgLS9g5mHW5NLA3YgQNtbu2MJSYQvl2HMKAtn7O/wKjqgqxY8Wz0uCj+NvK07ioUvYIjpGJgdmAWqz3yF3EcFmKdtGCSl2Lb+XtXwO0zud3kEXeZAYtb21T7T/B3I7sc1zAmRc9EmtPM4sYHIig4k8glvXntQXm+JYLFqBFfIz9nkbjw7LwgaaLvmLVFgS/3O7G1o3dzgK3a7JRGsDwGB59mqyb+WqDPiI/Qhuyk5wIyGgM7tpT3HstW7LAXqtV9xOA49MrPT5A=;144cHeVRxguq3gtKKzZzAA=="
+secured: "dQv+CLT0yoxb1q7/WfvvZ34Nng3gdvkvANP3EuAGtCXyihoBb7QTjG8baMqojEpnG2ZQZVwAltfo0Ipcyy7S5gqhhq5rfiEzOWWnEox/7MOduIm27U5sfaLzSUZ3iFnU3Hmc0tdtAfiKrpWJUh4qtTqSFaq/FoR8ggOKmctjzP0CIltENZxwcDuD29aCD3HWDU2xcogLFNG4gwj2cDlPgIA5wz/GOVdMiF3LPntCYZoN6Uc9AWdYo2yjSxdrRbSNpIXPXhdvJqIEEgu5wEzA2RjOnUFBuhexAQoie2ulqDanWXu2a+JS3ctG6NO73W+tMcjCCTwyXEA9EhHnk5zfO9Ta13FgCLew/OyHBQ+8D1w=;C/xpi5FYAOmJpqXiYoDhAw=="
 ---
 

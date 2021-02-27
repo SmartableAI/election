@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/26/bidens-pick-hhs-s
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/26/bidens-pick-hhs-sued-trump-administration-not-group-nuns/?outputType=amp"
 type: article
 quality: 140
-heat: 660
+heat: 680
 published: true
 
 provider:
@@ -420,6 +420,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump dominant force at conservative conference"
+    excerpt: "Trump on Sunday will be making his first post-presidential appearance at the conference, and aides say he will use the speech to reassert his power."
+    publishedDateTime: 2021-02-27T13:20:00Z
+    webUrl: "https://www.al.com/news/2021/02/trump-dominant-force-at-conservative-conference.html"
+    ampWebUrl: "https://www.al.com/news/2021/02/trump-dominant-force-at-conservative-conference.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/02/trump-dominant-force-at-conservative-conference.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GFZDVPLSCZFQ3COVYGFYRO7M2E.jpg"
+        width: 4000
+        height: 2666
         isCached: true
   - title: "Biden White House Asks 'Trump Who?' Ahead of Speech to Conservatives"
     excerpt: "President Joe Biden's White House has made it clear it plans to ignore Donald Trump's speech on Sunday to a conservative conference in Florida, where the former president is expected to go on the attack against his successor."

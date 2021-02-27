@@ -830,6 +830,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump Has CPAC, But Biden Has Kryptonite"
+    excerpt: "Julian Zelizer writes that as former President Donald Trump gears up to make his first post-presidential appearance at CPAC, President Joe Biden has a unique opportunity to counter Trump's bluster -- by not reacting."
+    publishedDateTime: 2021-02-27T13:43:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/02/27/trump_has_cpac_but_biden_has_kryptonite_537018.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/53/536420_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "bAWy/JBBZanIxHvPq/yjIGVb6JPT+O8FJYzh8V7SIog6z14Z6Ksn8dWSx0JZ4VkXsZJ88lQF8wdsbZSF+3NuIwojMcyzStpsOqQa9Wq+h7twMRMB/DqcpAS6yGn+tGVNUV1WrU2NvJmSliP+/1LITK4qOoMccajvt1GaMF6uhz/UGyghcKvPQxDvn4jozNDQIpEn+hxZ737636lS0FZm2qs1mZmPvup7X8UntF/rEmYHs5NQovueHMD4AEz2+0w6xvM6Yc8dtRgpJp/HbxflhZtoUuzxEMH7n0hw94r+z5BbwgQjJCQZhUJ8SeHudci0BHm434y9uUlhzCw+mBVu3ltvIgQGB1X7zaGbArCHDmA=;fC9oTkdY7AmV/qtHUJ0DIw=="
 ---

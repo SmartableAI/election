@@ -129,8 +129,8 @@ related:
         isCached: true
   - title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
     excerpt: "White House event will commemorate halfway point of Biden’s 100 million campaign promise"
-    publishedDateTime: 2021-02-25T12:58:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603794b28f088c613add23d0"
+    publishedDateTime: 2021-02-25T11:45:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-60378d3e8f088c613add2360"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
     type: article

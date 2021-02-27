@@ -57,6 +57,22 @@ related:
         width: 1024
         height: 512
         isCached: true
+  - title: "Nuclear commanders had 'no idea' Mike Pence's 'football' was so close to being taken by the mob until they saw dramatic security footage at Donald Trump's trial"
+    excerpt: "Nuclear commanders had no idea how close Vice President Mike Pence's nuclear 'football' got to being taken by the MAGA mob until they saw the dramatic security footage shared at President Donald ..."
+    publishedDateTime: 2021-02-12T16:53:00Z
+    webUrl: "https://www.dailymail.co.uk/news/article-9254325/Nuclear-commanders-no-idea-Mike-Pences-football-close-taken-mob.html"
+    ampWebUrl: "https://www.dailymail.co.uk/news/article-9254325/amp/Nuclear-commanders-no-idea-Mike-Pences-football-close-taken-mob.html"
+    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-9254325/amp/Nuclear-commanders-no-idea-Mike-Pences-football-close-taken-mob.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 45
+    images:
+      - url: "https://i.dailymail.co.uk/1s/2021/02/12/16/39219242-0-image-a-5_1613148539488.jpg"
+        width: 636
+        height: 382
+        isCached: true
 
 secured: "CDJt/nT2pKcDZbT9yMO/+gDqyhBgVs078VZBL0nB+3/IMrFacFB6KMWIxgmCeQt4lbacCNWtA87RyCHnrgUT18tt6MkFn7q0cEJFPztysVRZ19+zLOFKBNAT7KqByG9J2jk69Sa0z/qyHrOcxBaMhFpK9GhDvjv0f8O2M3gZ+r1lwaIF1J0lVKvjqa55fedvDpd0B28o6415nqYEzGglKgs1vfVsdFasQcap87PeuTWLmNT9qE9mhksrpUfg1JgvTtiOkrGFmLGRs4kUTPfXzVXsoJtgqOv8kula+EwV+roBqxyqFUDwzECrqFZhOGz3Vey8PTksXRHnkZ07P6Ka8ysRjobTRQ1xnXgS/G5Kh+Q=;/SBsIFpf+NhvkzSLaq9P0Q=="
 ---

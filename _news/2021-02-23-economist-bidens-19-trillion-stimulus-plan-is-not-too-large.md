@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: Questions grow about discrimination's role in the hurdles Biden's nominees are facing "
+    excerpt: "President Joe Biden succeeded in nominating the most racially diverse slate of Cabinet nominees in history. But now the slow and contentious process of getting some of his top picks confirmed is leading progressive groups to question whether his nominees of color are facing a higher level of scrutiny"
+    publishedDateTime: 2021-02-27T11:15:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bP7h4gBw99U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/biden-cabinet-nominees-discrimination/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/biden-cabinet-nominees-discrimination/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224141135-02-haaland-confirmation-hearing-0224-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden orders first military airstrikes but minimum wage hopes hit as Covid relief set for vote"
     excerpt: "House to vote on Biden’s $1.9 trillion Covid relief bill, but minimum wage hike all but doomed. The House will vote on President Joe Biden's $1.9 trillion Covid-19 relief packag"
     publishedDateTime: 2021-02-26T15:26:00Z
