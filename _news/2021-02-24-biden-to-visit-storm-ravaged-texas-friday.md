@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -274,6 +274,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Eight auto state governors urge Biden to press semiconductor firms on chip shortage"
+    excerpt: "A bipartisan group of eight governors from U.S. auto states on Friday urged President Joe Biden to do more to press semiconductor firms to address a global shortage of automotive chips that has cut some vehicle production."
+    publishedDateTime: 2021-02-26T18:14:00Z
+    webUrl: "https://www.businessinsider.com/eight-auto-state-governors-urge-biden-to-press-semiconductor-firms-on-chip-shortage-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/eight-auto-state-governors-urge-biden-to-press-semiconductor-firms-on-chip-shortage-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/eight-auto-state-governors-urge-biden-to-press-semiconductor-firms-on-chip-shortage-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
 
 secured: "weGD6YQcA/9uT9z1/KJQihdlyxySWdYu6TvDXCCT/QWicNAETaCbIK8gX3roGrQJX1HeLQ3j1SmV+GAQ2gpYamCsmBfM8iJjINKf8s24O9sJdGEEtgv/HCNGLz+PRwi7YBiZRob/UmV5P4bulXqfK4IRGCcnQHYr5XY7wGtEPmf6YkR/KHe70yzQq9Cs3OVgVwGYELnEaW42p67osS/s4OAuaftqmSbvyQ328mPF5sQ1C8LojUIIfnmt2X9viLqYjkM6lsRYsEbeBm7cIoUzA+mso1qYMr7PNbLpEAqrtwuDdPpTYMbCp3D2dzuM2sGdKTHcU7TX1BJWPmtMinr/xSZvM90UankxTmvInPpbdV0=;8NQCWrSJlsQI8IvvNBJC4A=="
 ---

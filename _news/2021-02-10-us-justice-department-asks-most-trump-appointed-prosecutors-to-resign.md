@@ -1359,6 +1359,22 @@ related:
         width: 818
         height: 545
         isCached: true
+  - title: "US Senate votes for Trump impeachment trial to go ahead"
+    excerpt: "Billboard trucks parked on the National Mall near of the US Capitol during the impeachment trial of former President Donald Trump in Washington [Jose Luis Magana/AP Photo] The Senate impeachment ..."
+    publishedDateTime: 2021-02-10T08:37:00Z
+    webUrl: "https://www.aljazeera.com/news/2021/2/9/second-impeachment-trial-of-donald-trump-set-to-begin-live"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2021/2/9/second-impeachment-trial-of-donald-trump-set-to-begin-live"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/2/9/second-impeachment-trial-of-donald-trump-set-to-begin-live"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 125
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2021/02/AP_21040797163548.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Video of violence at Capitol open Trump's historic impeachment trial"
     excerpt: "Donald Trump's historic post-presidency impeachment trial began in the Senate on Tuesday, with Democrats who are hoping to disqualify him from ever again holding public office showing graphic video of last month's deadly storming of the U."
     publishedDateTime: 2021-02-10T00:40:00Z

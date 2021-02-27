@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
 type: article
 quality: 140
-heat: 2160
+heat: 2180
 published: true
 
 provider:
@@ -1524,6 +1524,17 @@ related:
         width: 1024
         height: 718
         isCached: true
+  - title: "With Gold-Colored Trump Statue, Conservatives Show Fealty to Former President"
+    excerpt: "U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue of the former president, showing he remains a Republican political force despite violent scenes in Washington last month."
+    publishedDateTime: 2021-02-27T03:33:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
   - title: "Emails Show Trump Backers Bashing Iowa AG Over Election Case"
     excerpt: "A Republican lawmaker and a man later charged with participating in the Jan. 6 Capitol riot were among thousands of people who criticized Iowa’s attorney general for refusing to seek to overturn Donald Trump’s electoral defeat."
     publishedDateTime: 2021-02-23T16:58:00Z

@@ -1532,6 +1532,17 @@ related:
         width: 1024
         height: 718
         isCached: true
+  - title: "With Gold-Colored Trump Statue, Conservatives Show Fealty to Former President"
+    excerpt: "U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue of the former president, showing he remains a Republican political force despite violent scenes in Washington last month."
+    publishedDateTime: 2021-02-27T03:33:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 52
   - title: "With Republican Firewall, U.S. Senate Acquits Trump of Inciting Deadly Capitol Riot"
     excerpt: "Donald Trump's second impeachment trial could conclude on Saturday, leaving a divided U.S. Senate to decide whether the former president incited his supporters to attack the U.S. Capitol on Jan. 6 in a last-ditch effort to stay in power after his November election defeat."
     publishedDateTime: 2021-02-14T22:19:00Z

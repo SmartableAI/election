@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1287
+heat: 1307
 published: true
 
 provider:
@@ -903,6 +903,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's $1.9 trillion COVID-19 bill clears hurdle toward passage in U.S. House"
+    excerpt: "U.S. President Joe Biden's $1.9 trillion plan to address the human and economic toll of the COVID-19 pandemic cleared a procedural hurdle in the House of Representatives Friday, advancing to a final debate and vote."
+    publishedDateTime: 2021-02-27T03:29:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-house/bidens-1-9-trillion-covid-19-bill-clears-hurdle-toward-passage-in-u-s-house-idUSKBN2AR059"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AR059"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AR059"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
   - title: "Biden holds moment of silence for 500,000 COVID-19 deaths, promises nation \"will know joy again\""
     excerpt: "Before a moment of silence at the White House, President Joe Biden connected his personal losses to the more than half a million dead in the U.S. from COVID-19. Weijia Jiang reports how the current administration's response to the pandemic contrasts with its predecessor's."
     publishedDateTime: 2021-02-23T13:07:00Z

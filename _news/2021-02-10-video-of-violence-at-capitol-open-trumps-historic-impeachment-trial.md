@@ -1375,6 +1375,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "US Senate votes for Trump impeachment trial to go ahead"
+    excerpt: "Billboard trucks parked on the National Mall near of the US Capitol during the impeachment trial of former President Donald Trump in Washington [Jose Luis Magana/AP Photo] The Senate impeachment ..."
+    publishedDateTime: 2021-02-10T08:37:00Z
+    webUrl: "https://www.aljazeera.com/news/2021/2/9/second-impeachment-trial-of-donald-trump-set-to-begin-live"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2021/2/9/second-impeachment-trial-of-donald-trump-set-to-begin-live"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/2/9/second-impeachment-trial-of-donald-trump-set-to-begin-live"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 125
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2021/02/AP_21040797163548.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "What to Watch: Democrats to argue Trump alone incited mob"
     excerpt: "WASHINGTON — House Democrats will begin two days of arguments in Donald Trump’s second impeachment trial, trying to convince skeptical Republicans that the former president alone was responsible for inciting his mob of supporters who broke into the U."
     publishedDateTime: 2021-02-10T10:40:00Z

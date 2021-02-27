@@ -916,6 +916,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's $1.9 trillion COVID-19 bill clears hurdle toward passage in U.S. House"
+    excerpt: "U.S. President Joe Biden's $1.9 trillion plan to address the human and economic toll of the COVID-19 pandemic cleared a procedural hurdle in the House of Representatives Friday, advancing to a final debate and vote."
+    publishedDateTime: 2021-02-27T03:29:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-house/bidens-1-9-trillion-covid-19-bill-clears-hurdle-toward-passage-in-u-s-house-idUSKBN2AR059"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AR059"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AR059"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
   - title: "Joe Biden marks 50M vaccine doses in 37 days; South Korea, Hong Kong administer first vaccinations; 508K US deaths: Latest COVID-19 updates"
     excerpt: "President Joe Biden urged Americans to wear masks and not let their guard down as the number of coronavirus cases declined. Latest COVID-19 updates."
     publishedDateTime: 2021-02-26T08:52:00Z

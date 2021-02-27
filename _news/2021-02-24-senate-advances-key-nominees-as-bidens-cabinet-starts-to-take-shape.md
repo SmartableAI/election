@@ -274,6 +274,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Eight auto state governors urge Biden to press semiconductor firms on chip shortage"
+    excerpt: "A bipartisan group of eight governors from U.S. auto states on Friday urged President Joe Biden to do more to press semiconductor firms to address a global shortage of automotive chips that has cut some vehicle production."
+    publishedDateTime: 2021-02-26T18:14:00Z
+    webUrl: "https://www.businessinsider.com/eight-auto-state-governors-urge-biden-to-press-semiconductor-firms-on-chip-shortage-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/eight-auto-state-governors-urge-biden-to-press-semiconductor-firms-on-chip-shortage-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/eight-auto-state-governors-urge-biden-to-press-semiconductor-firms-on-chip-shortage-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 99
 
 secured: "CPxTRMzwYWz1vWlN0iNF0BDAR8bq4jPDATt9555v6snSI4Pz3bwIoHPSBAh/Ga0s10y2kWWfklYSlzVd2xEb2vMk3/P+k0v58414tErWCGpwxAt1AiAdcMnQvdW1pXv86dev2bjr6RbBjaKfN87xaJ4Doft4m5/KC4RLiFTgkyzDONzBZbxJyNZEEJ5g7AjCouTG/ZYk+6WrKcWAMqq+za0xxqdk9z4ibDF1cuIol/rZlZptr819DfzeBebPQAEIa3l1+4oZQHcA7zQ2AsaFBEe0ocbNfPZwrl7bKYpEa8e/Z6z7ca1SgsLEPyD+vNlCj/x+EWgdL2WcLGUXWRG6ZxqsHN5GTnSWGBPClFciTsHAMOFALmhlFEP3IVvTU3Y4ODCt49II6ZjQEXrvcbXu5tMzEMIlj+zIP4oZ8Xja2iAN79hvWkVbpSUhjB9LAP3B47or6JKbgueOIuwQjPHIUwbXfN2Boa5fEBvseRlwadnxp5fbxrlGtkpeP5TGCchqjRXF1CFlTMgV3Mzu+4m5Mg==;2kAhB9cpuzOJfSl2aP8ZXQ=="
 ---
