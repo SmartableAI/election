@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact check: Biden's pick for HHS secretary says he never sued nuns as California attorney general"
+    excerpt: "President Joe Biden's pick to run the Department of Health and Human Services, California's Attorney General Xavier Becerra, faced a good deal of criticism from Senate Republicans during his confirmation hearing last week over his qualifications, his stance on abortion and several lawsuits he took part"
+    publishedDateTime: 2021-02-27T21:10:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pQIWvcxwPf0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/hhs-xavier-becerra-nuns-sue-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/hhs-xavier-becerra-nuns-sue-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225141715-01-becerra-nomination-hearing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Agenda Faces Difficult Test as Stimulus Measure Heads to Senate"
     excerpt: "The $1.9 trillion pandemic aid bill narrowly passed the House, but now must maneuver through a procedural and political thicket in the Senate."
     publishedDateTime: 2021-02-27T17:49:00Z

@@ -117,6 +117,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Kamala Harris honors 'visionaries' at Black History Month event"
+    excerpt: "Vice President Kamala Harris called Black history makers 'visionaries' Saturday during a virtual celebration of the 40th annual Black History Month."
+    publishedDateTime: 2021-02-27T21:57:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 71
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3951614453259/2021/1/4e1c9803ceb7d94f3642d013fb8a5d21/v1.5/Vice-President-Kamala-Harris-honors-visionaries-at-Black-History-Month-event.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Vice President Kamala Harris's Longtime San Francisco Condo Has Found a Buyer for $799,000"
     excerpt: "Vice President Kamala Harris is settling down in Washington, D.C., and saying goodbye to her San Francisco condo. The one-bedroom, two-bathroom apartment, located in the city's trendy SoMa neighborhood,"
     publishedDateTime: 2021-02-23T00:29:00Z
@@ -180,6 +196,6 @@ related:
       domain: newstribune.com
     quality: 26
 
-secured: "ZejH3uNVW40jOJAH38dt3yM+hDSaHrtC3KnUCAGexozYJgsP9xv9yevkI8XAxYczRyOqgnGfXtE7/GArmKEfPQf+cGJqJE8oXcb2OPY8kXIx7awREPo3qyCT7iQKX7M6hn8vratF9127egttg1XVgzImha9Uh4fXEieW8FTtF9zsVUoJTOHWGCHtMa2vW0UA5VqcKKM2CRsqNOWruVHshV6ENnaVK2xaDlBNVtVvEDeTPEIZj8Idy7ooMaLBpc7qzpBDEaGr/ja9ca8poBwX7MbtoXUKk65W7ToWpNOkHNMweH2nx7QmumTR9P+CrUnMiyWCbz5M4oIE5zhWW+1nuGLfTJVIE/+1EzXPiO/KumY=;kT/7Uc9vaS8TZIL6ioL0yw=="
+secured: "fa371N43lv9+JQEb2XqBNbnKsbsDkQ3iKr66YrvXb2KNx4rNbJhUeBIEkraaHD3YAnwizWA/N4TR2mqfOirIdj6tBFMmuXxjM24QPpTX7Filq+hWDsx+pmGsl8rT8e+prrcE+ID5ZXGO51jqMa+bEgM1eE1caZpxJOzw8Be/ARptp+f/wrjVKx4kvAQ9sSvs0hP0DsR7p9YhI5/wDVBrih/d+b4/aa31RU9b4fCXWDMVF6AmOeXH2XeuCRsL4IdyiEk+iO6wyYW26sYYwZ0ui9dfd4rF1jbwtHMBNDfLaDVuBoHOfsXvzltimtGnt4hEbvhiYsla//lCQHJjsHoDmslo32hsXjVPfku+OQ3iZhYyWYsaKgEWHVRl2xsRD78XHVyIj/sBOLAcTa4cK3H8TjGmh9MtZdaY9X8Ey8DT9zXuXAuLZnctcex57YPDwRkpPatrtejZAZhO0cWhiEkmRahbbwKeJ+KJHUo14zwDFOf8FCeza6fh2zo0AJ09mz8mcracxH9devYINPqXQ5WKew==;rz74XGNy2s+LiIoD2BeFKQ=="
 ---
 

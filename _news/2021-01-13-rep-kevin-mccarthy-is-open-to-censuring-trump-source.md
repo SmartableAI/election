@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/mccarthy-censuring-trump-capitol-ri
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-censuring-trump-capitol-riots.amp"
 type: article
 quality: 175
-heat: 275
+heat: 315
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump could target Kevin McCarthy in CPAC speech: report"
+    excerpt: "Former President Trump is fighting mad at House Minority Leader Kevin McCarthy, R-Calif., over his support of Rep. Liz Cheney’s number three leadership spot in the House GOP."
+    publishedDateTime: 2021-02-27T21:55:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCvhBEHNmIo/trump-target-kevin-mccarthy-cpac-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-target-kevin-mccarthy-cpac-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-target-kevin-mccarthy-cpac-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/McCarthy-Trump.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Freshman Republican Nancy Mace on condemning Trump: 'I don't operate out of fear'"
     excerpt: "Rep. Nancy Mace, R-S.C., told \"America’s Newsroom\" on Tuesday that she doesn’t \"operate out of fear\" regarding her decision to turn on President Trump following last week's violence at the U.S. Capitol."
@@ -110,6 +126,22 @@ related:
       - url: "https://images.wsj.net/im-291733/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump could target Kevin McCarthy in CPAC speech: report"
+    excerpt: "Former President Trump is fighting mad at House Minority Leader Kevin McCarthy, R-Calif., over his support of Rep. Liz Cheney’s number three leadership spot in the House GOP."
+    publishedDateTime: 2021-02-27T21:59:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-target-kevin-mccarthy-cpac-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-target-kevin-mccarthy-cpac-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-target-kevin-mccarthy-cpac-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/McCarthy-Trump.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "DHToBakBqz3LRtvkAeBVo3TVYbjDaZWNxXgy53wkUvcVFc23Bw6wQvgS/8XLoe6kjEMNryDU90ZzftBbH8GJ1YYlTPRRjwOmBTdEVteCq44MJCYeFwrSQKDxxuLM7qH9YdzPYe2ZQlNARggKj45S1dinakKPpl0pI/1CHHbYiAAzCxL2Cn4KpUAqAdZ0XAu5kO5QkweA1QQpk3Gmrpf6uSbplBZrZ35u3vQTyyl6f16l9Qqe1pVUdpkD5Mu9E9iNnKBPm49M8M0xunhRSQ8Acyqp15uyzM5zK6BWKKLkRGaN/dfrDir2F89Jei3ojNkAxPo7wz7hB7qvnh4sOXj7h3wITx04qqgxqF1PlYn/IYY=;p0M0HyFBxyMHMHhXgtmXuA=="

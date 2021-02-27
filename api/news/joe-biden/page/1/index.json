@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-28-biden-a-statement-on-saudi-arabia-coming-monday.md",
+      "title": "Biden: A statement on Saudi Arabia coming Monday",
+      "excerpt": "US President Joe Biden on Saturday answered a single question about whether he will punish the Saudi crown prince following the Khashoggi report. (Feb. 27)",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/02/27/biden-statement-saudi-arabia-coming-monday/6854324002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/02/27/biden-statement-saudi-arabia-coming-monday/6854324002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/65d8b199-88e3-4103-8af9-7e1a6fe98d85_poster.jpg?quality=10",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-27T13:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-iran-cant-act-with-impunity-biden-says-after-us-air-strikes.md",
       "title": "Iran 'can't act with impunity,' Biden says after U.S. air strikes",
       "excerpt": "President Joe Biden said Iran cannot act with impunity and warned Iran to \"be careful\" when asked what message he was sending the country with the U.S. air strikes in Syria.",
@@ -86,58 +138,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi.md",
-      "title": "Biden holds high-stakes call with Saudi King Salman ahead of new intel report on Khashoggi",
-      "excerpt": "The Biden administration is set to release an intelligence report on the 2018 murder of journalist Jamal Khashoggi. This latest summary is expected to blame Saudi Crown Prince Mohammed Bin Salman for Khashoggi's killing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi/",
-      "originalUrl": "https://www.cbsnews.com/video/biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/26/baf7f65c-ff2c-4a82-be53-59356f4cb0f6/thumbnail/1200x630/e5bc6f7fb1341090f3f3ed37e2405de6/cbsn-fusion-biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi-thumbnail-654296-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-26T08:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -639,7 +639,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1407,
+      "heat": 1447,
       "tags": null,
       "images": [
         {

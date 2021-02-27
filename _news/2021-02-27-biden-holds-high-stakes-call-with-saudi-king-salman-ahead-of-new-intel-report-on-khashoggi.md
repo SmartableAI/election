@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/biden-holds-high-stakes-call-with-sa
 webUrl: "https://www.cbsnews.com/video/biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi/"
 type: article
 quality: 95
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Biden: A statement on Saudi Arabia coming Monday"
+    excerpt: "US President Joe Biden on Saturday answered a single question about whether he will punish the Saudi crown prince following the Khashoggi report. (Feb. 27)"
+    publishedDateTime: 2021-02-27T21:54:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/27/biden-statement-saudi-arabia-coming-monday/6854324002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/65d8b199-88e3-4103-8af9-7e1a6fe98d85_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "ETyx3e4Ggr3HrWDSIklNY0axrKSwkWFCubr3A00awVrWKjAbV4/K7dDcNQkYkKvc7phEABgj3H9CFiegB3BXEJ6i24Zzv4+KShyYpKc91xXjRPUzv3XmO3aFnuAsJ698M3MmdaINAal3nk2AWTxcKIvVp3OqCgO/lSCl+6HQGWluyRIO+u29MC0BSXfl+njeEUIb78t6kwaHgoxPBjF1Wd/ePeW4E1Bijd0qG8Hsc7dL2RlZb8GyiphcSrW+1M6dcqjxfaOEZgiJDuisWc7j/CR6Z6/U48bJN1YMwjqT/Eh/Ev/8yWHt+ggft6C01JHKiyldrj8G2qEuRc4/5DybPBLna6B1fO4rimLvV7mWrMs=;w05jDxZFPk+iimz9H16G7A=="
 ---

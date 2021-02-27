@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump to target Biden and assert leadership over GOP in CPAC speech"
+    excerpt: "Former President Donald Trump plans to reaffirm his leadership of the Republican Party and sharply criticize President Biden for an early focus on immigration policy and \"identity politics\" in his speech Sunday,"
+    publishedDateTime: 2021-02-27T18:56:00Z
+    webUrl: "https://www.cbsnews.com/news/cpac-2021-donald-trump-speech-republicans/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-2021-donald-trump-speech-republicans/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-2021-donald-trump-speech-republicans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/27/f6ac56df-c1c4-4517-97b7-4a9d4432c6cc/thumbnail/1200x630/72421f3248e10fdac7e53c8e4aaea53f/gettyimages-1304272594.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Unlike Trump's COVID Bills, Biden's $1.9 Trillion Plan Largely Spends Money On The Virus"
     excerpt: "As House members prepare for the anticipated vote on President Joe Biden's nearly $2 trillion coronavirus relief package on Friday, Republicans have spent much of their time lamenting the massive amount of money that it will cost taxpayers."
     publishedDateTime: 2021-02-26T16:42:00Z

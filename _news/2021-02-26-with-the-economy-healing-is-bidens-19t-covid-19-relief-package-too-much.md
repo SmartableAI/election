@@ -463,6 +463,22 @@ related:
         width: 602
         height: 545
         isCached: true
+  - title: "Biden hails House passage of $1.9T virus bill, now to Senate"
+    excerpt: "The House approved a $1.9 trillion pandemic relief bill that was championed by President Joe Biden, the first step in providing another dose of aid to a weary nation as the measure now moves to a tense Senate."
+    publishedDateTime: 2021-02-27T03:06:00Z
+    webUrl: "https://www.washingtonpost.com/business/house-nears-relief-bill-passage-dems-mull-wage-hike-rescue/2021/02/26/c76fce64-78a8-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/house-nears-relief-bill-passage-dems-mull-wage-hike-rescue/2021/02/26/c76fce64-78a8-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/house-nears-relief-bill-passage-dems-mull-wage-hike-rescue/2021/02/26/c76fce64-78a8-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "U.S. House approves Biden's $1.9 trillion COVID-19 aid"
     excerpt: "President Joe Biden's $1.9 trillion plan to address the human and economic toll of the COVID-19 pandemic passed the U.S. House of Representatives early on Saturday, with the next step Senate consideration."
     publishedDateTime: 2021-02-27T06:08:00Z
@@ -557,6 +573,22 @@ related:
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210217&t=2&i=1551800579&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1G071"
         width: 777
+        height: 545
+        isCached: true
+  - title: "Biden scores legislative win as House passes $1.9 trillion COVID relief plan"
+    excerpt: "President Joe Biden scored his first legislative win as the House of Representatives passed his $1.9 trillion coronavirus relief package early Saturday, though Democrats face challenges to their hopes of using the bill to raise the minimum wage."
+    publishedDateTime: 2021-02-27T18:44:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AQ1FT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AQ1FT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ1FT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210227&t=2&i=1553161352&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH1Q0B7"
+        width: 817
         height: 545
         isCached: true
   - title: "Biden's 1st 100 days live updates: WH offers no timeline for return to normalcy"

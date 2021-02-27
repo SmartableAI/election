@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump could target Kevin McCarthy in CPAC speech: report"
+    excerpt: "Former President Trump is fighting mad at House Minority Leader Kevin McCarthy, R-Calif., over his support of Rep. Liz Cheney’s number three leadership spot in the House GOP."
+    publishedDateTime: 2021-02-27T21:55:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bCvhBEHNmIo/trump-target-kevin-mccarthy-cpac-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-target-kevin-mccarthy-cpac-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-target-kevin-mccarthy-cpac-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/McCarthy-Trump.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Republicans introduce resolution to censure Trump: 'His actions threatened the integrity of our democracy'"
     excerpt: "Six House Republicans Tuesday introduced a censure resolution accusing President Trump of violating his oath of office by attempting to overturn the lawful results of the 2020 election and by sparking a riot at the Capitol with his continued lies about the election. "
     publishedDateTime: 2021-01-13T02:05:45Z
@@ -110,6 +126,22 @@ related:
       - url: "https://images.wsj.net/im-291733/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump could target Kevin McCarthy in CPAC speech: report"
+    excerpt: "Former President Trump is fighting mad at House Minority Leader Kevin McCarthy, R-Calif., over his support of Rep. Liz Cheney’s number three leadership spot in the House GOP."
+    publishedDateTime: 2021-02-27T21:59:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-target-kevin-mccarthy-cpac-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-target-kevin-mccarthy-cpac-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-target-kevin-mccarthy-cpac-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/McCarthy-Trump.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "0dTHYjEQKfM9NSch6mQOjmXQ+RhVpXRGA/Gpn7bcRZUH9duzhArFveM2w1L2CLiKkG1uWn8/WAzubXHcTnU4wJEELjHr86SYtEtN+/4p/962Z8HjirjhPryoJ2UfW3R8ZenixFft//cPwOYSucDJ/Ry5/9otXVoGO7ICSVp0XjnLc9s2v7kJuoum3WHq4xlMl7ifjC9piD60VAc2BcNLrCQhBFQdAlkPO7l1gKdosBdIg497bdnaN3EzK1PdOzjRwY3MhqhsPDn1QQ1022XNZoDHRuzBRF6+is8v5UgezXqFwWXMVtXnLLGGi2ykXdF+ihO4sl8R425+0jSYdAKqHrfRbTkCqgeX+h87/Fz59nc=;nnknd9TIt/ex/3g6WM747A=="
