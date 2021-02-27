@@ -573,6 +573,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden warns COVID-19 cases 'could go back up' as variants emerge, despite vaccination progress"
+    excerpt: "President Biden warned Friday that the rise of COVID-19 variants could lead to a surge in cases in the coming weeks, even as his administration makes progress on its goal of administering 100 million vaccine doses in its first 100 days in office."
+    publishedDateTime: 2021-02-27T02:47:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TauatYCnEtQ/biden-warns-covid-19-cases-could-go-back-up-variants-emerge-touts-progress-in-vaccine-drive"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-warns-covid-19-cases-could-go-back-up-variants-emerge-touts-progress-in-vaccine-drive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-warns-covid-19-cases-could-go-back-up-variants-emerge-touts-progress-in-vaccine-drive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/49067940-ef0c-4fd7-b5b9-fb61d190050d/3d10911a-db7a-4341-a2c8-b48977086b4c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden will keep Trump letter private, White House says"
     excerpt: "President Biden will keep the letter former President Donald Trump left for him in the Oval Office private, White House press secretary Jen Psaki said Friday. Biden also has no"
     publishedDateTime: 2021-01-29T20:13:00Z

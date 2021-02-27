@@ -192,6 +192,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Thousands of Migrant Children Detained in Resumption of Trump-Era Policies"
+    excerpt: "President Biden vowed to create a humane approach to immigration. But thousands of children who crossed the border alone are being confined in government shelters."
+    publishedDateTime: 2021-02-26T23:30:00Z
+    webUrl: "https://www.nytimes.com/2021/02/26/us/migrant-children-border-detained.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/26/us/migrant-children-border-detained.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/migrant-children-border-detained.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 133
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/26/world/26BORDER-KIDS/26BORDER-KIDS-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Prosecutors just got millions of pages of Trump documents. His taxes are just the beginning."
     excerpt: "The records are likely to offer New York investigators a revealing look into the former president’s business dealings, experts say."
     publishedDateTime: 2021-02-25T23:14:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-21-trump-to-give-first-big-speech-since-presidency-at-conservative-conference-in-florida.md",
+      "title": "Trump to Give First Big Speech Since Presidency at Conservative Conference in Florida",
+      "excerpt": "The former president will make his first major public appearance at the Conservative Political Action Conference (CPAC) in Orlando, Florida, on Sunday, February 28.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785",
+      "originalUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1739496/donald-trump.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785?amp=1",
+      "publishedDateTime": "2021-02-20T14:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-lindsey-graham-said-count-me-out-after-the-capitol-riot-but-hes-all-in-with-trump-again.md",
       "title": "Lindsey Graham said ‘Count me out’ after the Capitol riot. But he’s all in with Trump again.",
       "excerpt": "The South Carolina Republican senator is positioning himself as a leader of the pro-Trump wing of a party that is increasingly divided about how to reckon with the divisive 45th president.",
@@ -1539,58 +1591,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-sen-blumenthal-calls-trumps-defense-an-insult-to-all-of-our-intelligence.md",
-      "title": "Sen. Blumenthal calls Trump's defense an 'insult to all of our intelligence'",
-      "excerpt": "Friday evening following the fourth day of former President Trump’s impeachment trial said that the Trump defense team’s response to questions from senators on details surrounding the then-president’s response to the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence",
-      "originalUrl": "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/blumenthalrichard_111020bc_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp",
-      "publishedDateTime": "2021-02-13T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
