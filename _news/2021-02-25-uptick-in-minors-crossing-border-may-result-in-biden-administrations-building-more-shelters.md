@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden Agenda Faces Difficult Test as Stimulus Measure Heads to Senate"
+    excerpt: "The $1.9 trillion pandemic aid bill narrowly passed the House, but now must maneuver through a procedural and political thicket in the Senate."
+    publishedDateTime: 2021-02-27T17:49:00Z
+    webUrl: "https://www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/27/us/politics/27dc-stimulus-1/27dc-stimulus-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "ZMnNSnlP5NXW3/qV3o0CQOQ0eYkU2EE5O5KcXzXRsZQ2u66B73f37IptiN0A5RcUFAKcle3ewKhoAfRyHyCTNCjccbhgFHVXKtvEo1etyz6NNetN0nNOaDwgZp3KdLI2ulqWccTa6Qx8foAowvPOV8IRSm08+oRhPMwqiTAyxmibtjzVO6PZ1mIb35pWgRHF7ehwqi1XDcAlCKDmPbgL/KyVbwdtCA32KaCLZUksu9FtKydlQFPS3jXfb87Rj+ereN8NKfVGxr7/T4E1YMhRjEGDGj4pMUDkoS9Sw6LUczAXGZusFNtNV3pvD2+9H3b7X+nFf/BDZzKvxUwtAM7n3Qu7vT1iy8uaeWXuOjwfdVnTT2NA9S+ulnqrHqEq3QSeuL5bIXpJOKbpb61ps7euwNIT6ZolbOfPotQPa8xdbxKxq6qSP7KrfYK5modQa+aXNHhLTvVAh/wb06komqPOw5aHMLYVmmMvWo/RKZ+TmJlFw9PGX/RhbbXxB3yraXfROh72QUFjB1kXymP33Q4RQw==;vvOqxzwF71cXdOsGwYfenA=="
 ---

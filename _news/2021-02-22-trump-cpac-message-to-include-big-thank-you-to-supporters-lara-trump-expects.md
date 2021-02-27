@@ -224,6 +224,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Gold Trump statue on sale at CPAC for $100,000"
+    excerpt: "A bizarre gold statue of former President Trump clad in sandals and waving a magic wand is currently on sale at CPAC — for anyone with a cool $100,000 to spend. “He’s"
+    publishedDateTime: 2021-02-27T18:23:00Z
+    webUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/"
+    ampWebUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-statue-cpac-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "CPAC readies for Florida gathering amid COVID-19, as conservatives ready for Trump bonanza"
     excerpt: "For many, the Conservative Political Action Conference (CPAC) is essentially one of the last major in-person events without masks or coronavirus pandemic restrictions before the shutdown began."
     publishedDateTime: 2021-02-24T12:45:00Z

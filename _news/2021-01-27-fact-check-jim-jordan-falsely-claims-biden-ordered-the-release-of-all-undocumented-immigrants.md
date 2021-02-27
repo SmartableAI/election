@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden Agenda Faces Difficult Test as Stimulus Measure Heads to Senate"
+    excerpt: "The $1.9 trillion pandemic aid bill narrowly passed the House, but now must maneuver through a procedural and political thicket in the Senate."
+    publishedDateTime: 2021-02-27T17:49:00Z
+    webUrl: "https://www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/27/us/politics/27dc-stimulus-1/27dc-stimulus-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Uptick in minors crossing border may result in Biden administration's building more shelters"
     excerpt: "\"This is not okay, never has been okay, never will be okay — no matter the administration or party,\" Rep. Alexandria Ocasio-Cortez tweeted."
     publishedDateTime: 2021-02-25T08:19:00Z

@@ -224,6 +224,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Gold Trump statue on sale at CPAC for $100,000"
+    excerpt: "A bizarre gold statue of former President Trump clad in sandals and waving a magic wand is currently on sale at CPAC — for anyone with a cool $100,000 to spend. “He’s"
+    publishedDateTime: 2021-02-27T18:23:00Z
+    webUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/"
+    ampWebUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-statue-cpac-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump CPAC message to include 'big thank you' to supporters, Lara Trump expects"
     excerpt: "Former President Trump is scheduled to make his first public appearance since leaving office at the 2021 Conservative Political Action Conference (CPAC) next weekend, and Lara Trump shared her expectations for the message he’ll share."
     publishedDateTime: 2021-02-21T17:07:00Z

@@ -458,6 +458,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hawley suggests Biden elevate Trump-era judges, but warns president is 'in thrall to radical left wing'"
+    excerpt: "Sen. Josh Hawley, R-Mo., on Friday suggested that President Biden, in a show of bipartisanship, pick Trump-appointed district court judges for seats on appeals courts when his administration begins to make judicial nominations. "
+    publishedDateTime: 2021-02-27T17:48:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Q5wfm21UwpE/hawley-biden-trump-era-judges-thrall-left"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-biden-trump-era-judges-thrall-left.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-biden-trump-era-judges-thrall-left.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Garland says he has not discussed the Hunter Biden case with the president"
     excerpt: "Judge Merrick Garland on Monday said he has not discussed the federal investigation into Hunter Biden’s tax affairs with President Biden."
     publishedDateTime: 2021-02-22T16:15:30Z
