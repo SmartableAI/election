@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ilhan Omar, other progressives question Biden's 'legal rationale' for Syria airstrikes"
+    excerpt: "Rep. Ilhan Omar, D-Minn., said Friday she was concerned about the White House’s \"legal rationale\" for launching airstrikes in Syria a day earlier without congressional approval."
+    publishedDateTime: 2021-02-27T07:43:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wCUSZr0Kekw/ilhan-omar-other-progressives-question-bidens-legal-rationale-for-syria-airstrikes"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-other-progressives-question-bidens-legal-rationale-for-syria-airstrikes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-other-progressives-question-bidens-legal-rationale-for-syria-airstrikes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82118a6d-0713-4711-b3e7-5bd5938427cd/6f5db8ea-a52b-4af9-a91c-06cd2cb9eadc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "West Virginia gov urges Republicans to 'swallow' unrelated spending in Biden COVID-19 relief plan"
     excerpt: "Republican West Virginia Gov. Jim Justice urged Senate Republicans Wednesday to \"swallow\" the hefty price tag of President Biden’s $1.9 trillion COVID-19 relief plan, warning lawmakers that \"you will leave a lot of people hurting\" if they continue to oppose the legislation."
     publishedDateTime: 2021-02-25T00:41:08Z

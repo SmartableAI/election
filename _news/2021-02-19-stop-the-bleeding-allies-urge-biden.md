@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House passes Biden's $1.9 trillion Covid relief package "
+    excerpt: "The House of Representatives voted early Saturday morning track to approve President Joe Biden's $1.9 trillion pandemic aid package, a major step toward enacting the first legislative priority of the new administration as the devastating fallout from the spread of Covid-19 has left Americans in dire"
+    publishedDateTime: 2021-02-27T07:21:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XmPOboYXgMU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/stimulus-package-covid-relief-house-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/stimulus-package-covid-relief-house-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227020847-02-house-floor-stimulus-vote-0226-pelosi-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Congressional Republicans risk backlash as they unite against Biden's Covid relief plan "
     excerpt: "Democrats and Republicans tangled over the size and scope of Joe Biden's $1.9 trillion Covid-19 relief plan Wednesday, despite the broad public support for the package and a new push by business leaders to get it passed -- a sign of the difficulties facing the new President, who had hoped to be a bridge"
     publishedDateTime: 2021-02-25T11:30:21Z

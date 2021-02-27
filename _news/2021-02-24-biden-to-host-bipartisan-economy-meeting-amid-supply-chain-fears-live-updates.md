@@ -463,6 +463,22 @@ related:
         width: 602
         height: 545
         isCached: true
+  - title: "U.S. House approves Biden's $1.9 trillion COVID-19 aid"
+    excerpt: "President Joe Biden's $1.9 trillion plan to address the human and economic toll of the COVID-19 pandemic passed the U.S. House of Representatives early on Saturday, with the next step Senate consideration."
+    publishedDateTime: 2021-02-27T06:08:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-vote-idUSL1N2KX06G"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AR08Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AR08Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210227&t=2&i=1553130516&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1Q04M"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
     publishedDateTime: 2021-02-19T23:18:00Z

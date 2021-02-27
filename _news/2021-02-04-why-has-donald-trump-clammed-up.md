@@ -1606,6 +1606,22 @@ related:
         width: 1024
         height: 680
         isCached: true
+  - title: "Joe Biden is Trumpism's best asset"
+    excerpt: "At this point, the key to Mr. Trump’s following is President Joe Biden. No matter how bad Mr. Trump’s lawyers are (and yesterday’s opening presentation for Mr. Trump may be the most ..."
+    publishedDateTime: 2021-02-10T20:18:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/feb/10/joe-biden-is-trumpisms-best-asset/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2021/feb/10/joe-biden-is-trumpisms-best-asset/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2021/feb/10/joe-biden-is-trumpisms-best-asset/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/15/biden_98707_c0-56-4283-2554_s1200x700.jpg?7897f04f4bfd20cf7092543d1282ed26691c7283"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Meet the Republican governor who is already on the attack against President Biden. Democrats have tagged him as 'Trump's errand boy.'"
     excerpt: "DeSantis is leading the pack of Republicans attacking Joe Biden, a plan that could help his 2022 reelection or, if he runs, 2024 presidential bid."
     publishedDateTime: 2021-02-03T19:34:00Z
