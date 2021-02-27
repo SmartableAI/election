@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "House votes on Biden's $1.9 trillion relief bill"
+    excerpt: "The House is voting early Saturday on President Biden's $1.9 trillion coronavirus relief package, including a provision raising the federal minimum wage which faces significant opposition in the Senate."
+    publishedDateTime: 2021-02-27T06:48:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-american-rescue-plan-house-vote-today/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-house-vote-today/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-house-vote-today/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/27/f53396ee-5bf9-4c0b-862a-83bd985d2e99/thumbnail/1200x630/cc29128cfbf9ec4c31498949c46293af/gettyimages-1231402515.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden calls for national moment of silence for 500,000 U.S. COVID-19 deaths"
     excerpt: "President Joe Biden called on Americans to observe a moment of silence on Monday to commemorate the grim milestone of 500,000 U.S. deaths from COVID-19."
     publishedDateTime: 2021-02-22T21:17:00Z

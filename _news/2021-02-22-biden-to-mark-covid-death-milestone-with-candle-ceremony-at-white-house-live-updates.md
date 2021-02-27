@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1307
+heat: 1327
 published: true
 
 provider:
@@ -688,6 +688,22 @@ related:
         width: 1440
         height: 971
         isCached: true
+  - title: "Biden's 1st 100 days live updates: Biden offers unifying words on Texas, pandemic"
+    excerpt: "Live updates from the first 100 days of the administration of President Joe Biden and Vice President Kamala Harris."
+    publishedDateTime: 2021-02-27T05:01:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-texas-01-gty-llr-210226_1614382432515_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Biden's 1st 100 days live updates: 9/11-type commission to investigate insurrection"
     excerpt: "U.S. Capitol. \"Now, as always, security is the order of the day: the security of our country, the security of our Capitol which is the temple of our democracy, and the security of our Members,\" she wrote in a letter to her Democratic colleagues."
     publishedDateTime: 2021-02-16T00:34:00Z
@@ -905,10 +921,10 @@ related:
         isCached: true
   - title: "Biden's $1.9 trillion COVID-19 bill clears hurdle toward passage in U.S. House"
     excerpt: "U.S. President Joe Biden's $1.9 trillion plan to address the human and economic toll of the COVID-19 pandemic cleared a procedural hurdle in the House of Representatives Friday, advancing to a final debate and vote."
-    publishedDateTime: 2021-02-27T03:29:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-house/bidens-1-9-trillion-covid-19-bill-clears-hurdle-toward-passage-in-u-s-house-idUSKBN2AR059"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AR059"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AR059"
+    publishedDateTime: 2021-02-27T03:26:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-house/bidens-1-9-trillion-covid-19-bill-clears-hurdle-toward-passage-in-u-s-house-idUSL1N2KX04E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KX04E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KX04E"
     type: article
     provider:
       name: Reuters

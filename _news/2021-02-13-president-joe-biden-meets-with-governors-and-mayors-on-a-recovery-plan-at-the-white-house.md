@@ -1443,6 +1443,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Statement of President Joe Biden on Safely Reopening Schools"
+    excerpt: "But we can do more. Shortly before taking office, I set an ambitious but achievable goal of opening most K-8 schools by the end of my first 100 days. I’ve said all along that this is a national ..."
+    publishedDateTime: 2021-02-12T00:00:00Z
+    webUrl: "https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/12/statement-of-president-joe-biden-on-safely-reopening-schools/"
+    type: article
+    provider:
+      name: The White House
+      domain: whitehouse.gov
+    quality: 55
+    images:
+      - url: "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "KNvZ6di77Md4UJqEnJm9Yl9jLqVpJyCh1ILPS6KZW8sVj/h8SVCPQIyZraL06+Z/JGZhi/0mRT744FNKF2sfXGoljheI9m6qb+9f7gPvOXu140n3yq4ob+fqT5D/Q+qz4gDKHDWPDP0Tnp+D2NcSdaL0ph2A/2L6bdlsvInMETwMIFiurec/3MTmFF0v1FfTjOtf8nuNlLLHwT9i0Ont4c3vLqxH1mU8IJ8ZPCnRZ8e+Vhqwq+sXl17O9dlJ6n71shga5gmqr3NrzhwANsJIOFHSp+E5nTiKRcZrX5jNg/txdfrmfNtpd5S1YPtjox1CtI2PDufJLJvEudr/bfV45TLZOzwEmSINu9MlvkG6xzg=;OfhdYcgevgnnPyK2V9rL9g=="
 ---

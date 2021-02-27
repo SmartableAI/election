@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-planning-on-visiting-texas-we
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-planning-on-visiting-texas-weather-crisis.amp"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3a9250b-c67e-4fc2-8773-b09a51a26cf2/ac28a3f8-2e0a-4d8e-810a-92aa3e576e37/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Biden opening new migrant facility in Texas"
+    excerpt: "Follow for updates on the White House."
+    publishedDateTime: 2021-02-27T06:10:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/I9aqg7KM_vY/live-updates-biden-white-house-2-27"
+    ampWebUrl: "https://www.foxnews.com/politics/live-updates-biden-white-house-2-27.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/live-updates-biden-white-house-2-27.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b154843-552a-40c5-b466-6e70fb479eb0/8b8bcc05-86a9-4da0-8ada-b769b81d362d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

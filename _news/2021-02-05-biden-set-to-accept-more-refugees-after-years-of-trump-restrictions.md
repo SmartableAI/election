@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 2000
+heat: 2020
 published: true
 
 provider:
@@ -1432,6 +1432,20 @@ related:
       - url: "https://www.nydailynews.com/resizer/oQoJJSU_AQgv4pVSh36Q_NNjeJc=/1200x0/center/middle/cloudfront-us-east-1.images.arcpublishing.com/tronc/QW2X67LA45HG7KFBAS6PMPPC3E.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Statement of President Joe Biden on Safely Reopening Schools"
+    excerpt: "But we can do more. Shortly before taking office, I set an ambitious but achievable goal of opening most K-8 schools by the end of my first 100 days. I’ve said all along that this is a national ..."
+    publishedDateTime: 2021-02-12T00:00:00Z
+    webUrl: "https://www.whitehouse.gov/briefing-room/statements-releases/2021/02/12/statement-of-president-joe-biden-on-safely-reopening-schools/"
+    type: article
+    provider:
+      name: The White House
+      domain: whitehouse.gov
+    quality: 55
+    images:
+      - url: "https://www.whitehouse.gov/wp-content/uploads/2021/01/wh_social-share.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "President Joe Biden meets with Governors and Mayors on a Recovery Plan at the White House"
     excerpt: "President Joe Biden and Vice President Kamala Harris meet with governors and mayors to discuss the American Rescue Plan, which will provide aid to fight against COVID-19, in the Oval Office in Washington,"
