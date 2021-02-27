@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "What my dad and Kamala Harris's mom shared"
+    excerpt: "My father, Valayamghat Raghavan, and Shyamala Gopalan, Kamala Harris's mother, weren't acquainted but they were pilgrims in the great post-war migration of highly skilled Indians to the United States."
+    publishedDateTime: 2021-02-11T22:05:00Z
+    webUrl: "https://www.cnn.com/2021/02/11/opinions/indian-immigrant-parents-opinion-raghavan/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/opinions/indian-immigrant-parents-opinion-raghavan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/opinions/indian-immigrant-parents-opinion-raghavan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211114253-01-indian-immigrant-parents-opinion-raghavan-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris Breaks Senate Tie"
     excerpt: "Vice President Kamala Harris returned to the Senate, and casted a tiebreaking vote to pass a Covid relief budget measure."
     publishedDateTime: 2021-02-05T15:32:00Z

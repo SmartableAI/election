@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1347
+heat: 1367
 published: true
 
 provider:
@@ -921,6 +921,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Pres. Biden speaks at FEMA vaccination site"
+    excerpt: "Watch \"Pres. Biden speaks at FEMA vaccination site\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-02-26T23:07:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210226224843-pres-biden-speaks-at-fema-vaccination-site/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/02/26/story_09203782_1614380464.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's pick to lead White House budget office faces pushback from senators"
     excerpt: "President Joe Biden is facing pushback from fellow Democrats over his pick to lead the Office of Management and Budget, Neera Tanden. CBS News senior White House and political correspondent Ed O'Keefe and Los Angeles Times congressional reporter Jennifer Haberkorn join CBSN's Lana Zak to discuss."
     publishedDateTime: 2021-02-25T03:28:00Z

@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
 excerpt: "White House event will commemorate halfway point of Biden’s 100 million campaign promise"
-publishedDateTime: 2021-02-25T12:58:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603794b28f088c613add23d0"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603794b28f088c613add23d0"
+publishedDateTime: 2021-02-25T11:45:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603788728f087933c5fdcbf4"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603788728f087933c5fdcbf4"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 type: article
@@ -1566,6 +1566,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "NwlpedI7kfueF/dExhfHvePWD5Izz+E4arGDA5d+sClzeprUcTwbsgYAxsiUJKAZeLBjUFeSi5JeX9x4Pk3RvBZ8fIfFTl0v5b88ywX6tVuWg/dAR+ZMObInamZGJZpDD+z2ivALP+fs50WXYUu5wFx8TQNsp1zHQPmgo0VIovrg4I4++6IAYxmzgHA1kimHYolc+cIkuvoUl6WG82N2OuLjlQch79FLXepHVqauQFVKJzFHvp59ZnqfYRe30mJE2TLR5MOfps/yHpa5zfKSKswJAUmefp1gb0Ufy1jwRvMoOJ/rI7dMfVobkx6nY7KN47bit7rniNoDXq1S4fjErBa9Dkhp9+nNfNEoCHmhN9k=;72NsKf3IbVyoXTX365+Ysw=="
+secured: "7zjrrR7T7H80zXos9iisAuzP5Mq9ifHgb16GbLzO+A6xUu2fjnjNt1ISDNyVb4sp0vHtuBNfcDk0f/hBaErNaOyJn7vR8aG9bAB9NQ4a3O9aAI35MngzKS0YixtbqO72GrnBpoW6A0KXU0yF150xiAgL8cC3JLwX7NK/YPPuFq4G+Tmcg99OFpzmilVjJaASxS3LQTKh3UfcBSjsAWpNqTCgCsrOZ+BOCDWbtcJluImfL96h/99ZIXcEBLDFYzrpxV0bMU2gbSJO6elU+lwXvc7GgJ8UceY24p/k6pVeDs05nDiG+om5BhPISd6FAmu8iK+sqtJ+Qw7KCD5oFIo+Wr+kT2FGOKXlq8euhPgQgaU=;lOHh4FwsGyMwah6U8cVSEQ=="
 ---
 

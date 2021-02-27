@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-27-how-to-unite-a-deeply-divided-kosovo-name-a-lake-after-trump.md",
+      "title": "How to Unite a Deeply Divided Kosovo? Name a Lake After Trump",
+      "excerpt": "A lighthearted suggestion by a U.S. envoy hoping to bridge a vast rift between Albanians and Serbs in Kosovo has taken on a life of its own — only to be ridiculed by local residents on both sides.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/25/world/00kosovo-trump-dispatch1/merlin_184072053_cdadfe06-aff9-44be-8eaa-ca4342a6b5fc-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.amp.html",
+      "publishedDateTime": "2021-02-27T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-trump-loyalists-spurn-failed-republican-establishment-of-yesteryear.md",
       "title": "Trump Loyalists Spurn ‘Failed Republican Establishment of Yesteryear’",
       "excerpt": "At an annual gathering of conservatives, devotees of Donald J. Trump pledged their fealty to him and issued grave warnings about the political left.",
@@ -1322,7 +1379,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1347,
+      "heat": 1367,
       "tags": null,
       "images": [
         {
@@ -1530,63 +1587,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-trump-schedules-address-before-cpac-next-sunday.md",
-      "title": "Trump Schedules Address Before CPAC Next Sunday",
-      "excerpt": "The former president will make his first lengthy remarks since leaving office before the annual conference of conservatives Feb. 28.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/20/us/politics/trump-cpac.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/20/us/politics/trump-cpac.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/20/us/politics/20TRUMP2/20TRUMP2-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/20/us/politics/trump-cpac.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/20/us/politics/trump-cpac.amp.html",
-      "publishedDateTime": "2021-02-20T15:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

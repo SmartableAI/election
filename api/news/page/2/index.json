@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-25-cuomo-jabs-trump-vaccine-effort-amid-ny-governors-own-snowballing-controversies.md",
+      "title": "Cuomo jabs Trump vaccine effort amid NY governor's own snowballing controversies",
+      "excerpt": "New York Gov. Andrew Cuomo on Thursday took shots at former President Donald Trump’s handling of the COVID-19 vaccine effort, as pressure on the governor mounts over sexual harassment claims and how he handled nursing home patient care in his state.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a1jFboCJLR8/cuomo-trump-vaccine-new-york-controversies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a1jFboCJLR8/cuomo-trump-vaccine-new-york-controversies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c1825e5-665b-4d6e-bdd9-e3620f0df14c/006cbacc-2b51-4eab-b974-d936fecaf019/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-trump-vaccine-new-york-controversies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-trump-vaccine-new-york-controversies.amp",
+      "publishedDateTime": "2021-02-25T15:33:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-rand-paul-lot-of-hypocrisy-from-biden-admin-on-immigration-migrant-facilities.md",
+      "title": "Rand Paul: Lot of ‘hypocrisy’ from Biden admin on immigration, migrant facilities",
+      "excerpt": "The Biden administration is showing \"hypocrisy\" by reopening a migrant facility that the Trump administration was criticized for using, Sen. Rand Paul, R-Ky., said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P5CVOwVb1eE/rand-paul-biden-administration-hypocrisy-biden-administration-immigration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P5CVOwVb1eE/rand-paul-biden-administration-hypocrisy-biden-administration-immigration",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 210,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rand-paul-biden-administration-hypocrisy-biden-administration-immigration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-biden-administration-hypocrisy-biden-administration-immigration.amp",
+      "publishedDateTime": "2021-02-25T15:29:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-big-lie-big-whoop-many-republicans-on-capitol-hill-see-little-reason-to-bat-down-trumps-election-lies.md",
       "title": "Big Lie? Big Whoop: Many Republicans on Capitol Hill see little reason to bat down Trump's election lies",
       "excerpt": "The deadly January 6 insurrection in the Capitol may have caused many voters to recoil at former President Donald Trump's election lies.\n    \n",
@@ -1215,110 +1327,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-a-year-after-trump-said-coronavirus-was-under-control-a-look-back-at-the-first-news-stories.md",
-      "title": "A year after Trump said coronavirus was ‘under control,’ a look back at the first news stories",
-      "excerpt": "Wednesday that then-President Trump offered words of assurance about the coronavirus which had only recently been detected in the United States. “The Coronavirus is very much under control in the USA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3JNHGTAAII6VLCQDBYB4FHANU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/?outputType=amp",
-      "publishedDateTime": "2021-02-24T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-biden-cia-nominee-burns-to-focus-on-authoritarian-adversary-china.md",
-      "title": "Biden CIA nominee Burns to focus on 'authoritarian adversary' China",
-      "excerpt": "President Joe Biden's nominee to be director of the CIA, William Burns, told a Senate committee on Wednesday that he saw competition with China - and countering its \"adversarial, predatory\" leadership - as the key to U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-cia-idUSKBN2AO19B",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-cia-idUSKBN2AO19B",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552770877&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N13F",
-          "width": 717,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AO19B",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO19B",
-      "publishedDateTime": "2021-02-24T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -934,6 +934,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Pres. Biden speaks at FEMA vaccination site"
+    excerpt: "Watch \"Pres. Biden speaks at FEMA vaccination site\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-02-26T23:07:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210226224843-pres-biden-speaks-at-fema-vaccination-site/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/02/26/story_09203782_1614380464.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's $1.9 trillion COVID-19 bill clears hurdle toward passage in U.S. House"
     excerpt: "U.S. President Joe Biden's $1.9 trillion plan to address the human and economic toll of the COVID-19 pandemic cleared a procedural hurdle in the House of Representatives Friday, advancing to a final debate and vote."
     publishedDateTime: 2021-02-27T03:26:00Z

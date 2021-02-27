@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-27-how-to-unite-a-deeply-divided-kosovo-name-a-lake-after-trump.md",
+      "title": "How to Unite a Deeply Divided Kosovo? Name a Lake After Trump",
+      "excerpt": "A lighthearted suggestion by a U.S. envoy hoping to bridge a vast rift between Albanians and Serbs in Kosovo has taken on a life of its own — only to be ridiculed by local residents on both sides.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/25/world/00kosovo-trump-dispatch1/merlin_184072053_cdadfe06-aff9-44be-8eaa-ca4342a6b5fc-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.amp.html",
+      "publishedDateTime": "2021-02-27T02:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic.md",
+      "title": "House passes Democrats’ $1.9T virus relief bill, setting stage for Senate fight over Biden vision for battling pandemic",
+      "excerpt": "House passes Democrats’ $1.9T virus relief bill, setting stage for Senate fight over Biden vision for battling pandemic",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-26T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-trump-endorses-primary-opponent-to-ohio-republican-who-voted-for-impeachment.md",
       "title": "Trump endorses primary opponent to Ohio Republican who voted for impeachment",
       "excerpt": "Former President Donald Trump on Friday endorsed a primary challenger running against Ohio's Rep. Anthony Gonzalez, who voted to impeach Trump last month, in an early sign of the former President's plans to exert his influence on Republican primaries ahead of the 2022 midterm elections.\n    \n",
@@ -1222,118 +1331,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.amp",
       "publishedDateTime": "2021-02-25T20:20:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-cuomo-jabs-trump-vaccine-effort-amid-ny-governors-own-snowballing-controversies.md",
-      "title": "Cuomo jabs Trump vaccine effort amid NY governor's own snowballing controversies",
-      "excerpt": "New York Gov. Andrew Cuomo on Thursday took shots at former President Donald Trump’s handling of the COVID-19 vaccine effort, as pressure on the governor mounts over sexual harassment claims and how he handled nursing home patient care in his state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a1jFboCJLR8/cuomo-trump-vaccine-new-york-controversies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a1jFboCJLR8/cuomo-trump-vaccine-new-york-controversies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c1825e5-665b-4d6e-bdd9-e3620f0df14c/006cbacc-2b51-4eab-b974-d936fecaf019/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-trump-vaccine-new-york-controversies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-trump-vaccine-new-york-controversies.amp",
-      "publishedDateTime": "2021-02-25T15:33:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-rand-paul-lot-of-hypocrisy-from-biden-admin-on-immigration-migrant-facilities.md",
-      "title": "Rand Paul: Lot of ‘hypocrisy’ from Biden admin on immigration, migrant facilities",
-      "excerpt": "The Biden administration is showing \"hypocrisy\" by reopening a migrant facility that the Trump administration was criticized for using, Sen. Rand Paul, R-Ky., said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P5CVOwVb1eE/rand-paul-biden-administration-hypocrisy-biden-administration-immigration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/P5CVOwVb1eE/rand-paul-biden-administration-hypocrisy-biden-administration-immigration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 210,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rand-paul-biden-administration-hypocrisy-biden-administration-immigration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-biden-administration-hypocrisy-biden-administration-immigration.amp",
-      "publishedDateTime": "2021-02-25T15:29:38-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
