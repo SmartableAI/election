@@ -95,6 +95,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "As Trump reemerges, will the GOP find a way to move on without him?"
+    excerpt: "The Republican base brooks no dissent about the former president, while others look to a future in which he becomes a diminished force."
+    publishedDateTime: 2021-02-27T16:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/balztrump-cpac-gop/2021/02/27/52c8f92e-7910-11eb-8115-9ad5e9c02117_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/balztrump-cpac-gop/2021/02/27/52c8f92e-7910-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/balztrump-cpac-gop/2021/02/27/52c8f92e-7910-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FQODBODZDAI6XFENDFDS42BVEE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4"
     excerpt: "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4."
     publishedDateTime: 2021-02-19T10:21:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
-title: "VP Kamala Harris visits a COVID-19 Vaccination Facility in Washington, DC"
-excerpt: "United States Vice President Kamala Harris watches as Dr. Linval Matthews administers a Moderna COVID-19 vaccine to Brenda Thompson during a visit to a COVID-19 vaccination facility in an effort to promote the administration's plan to promote vaccinations in areas hit hard by the virus,"
+title: "VP Kamala Harris visits a Covid-19 Vaccination Facility in Washington, DC"
+excerpt: "United States Vice President Kamala Harris speaks during a visit to a COVID-19 vaccination facility in an effort to promote the administration's plan to promote vaccinations in areas hit hard by the virus,"
 publishedDateTime: 2021-02-25T15:39:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/41d5d8d6ee66cd831cd3bc17f7f4d076/VP-Kamala-Harris-visits-a-COVID-19-Vaccination-Facility-in-Washington-DC/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/41d5d8d6ee66cd831cd3bc17f7f4d076/VP-Kamala-Harris-visits-a-COVID-19-Vaccination-Facility-in-Washington-DC/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/35afed236579424e70cf6369de03ac14/VP-Kamala-Harris-visits-a-Covid-19-Vaccination-Facility-in-Washington-DC/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/35afed236579424e70cf6369de03ac14/VP-Kamala-Harris-visits-a-Covid-19-Vaccination-Facility-in-Washington-DC/"
 type: article
 quality: 54
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/41d5d8d6ee66cd831cd3bc17f7f4d076/HARRIS-VIRUS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/35afed236579424e70cf6369de03ac14/HARRIS-VIRUS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -3792,6 +3792,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "dkGfzpnrg9Vn99Fr4aSPC5jK22i47/TJE2/web0bA48fizj2MzXBWYaufCnDFf1PA8dnzfFqrgOwwwrcv7311EsA3bkDle8GpIZqpURpzJK1h7w5Ka1eBtt8wnxGZaKSuIegu7rRYogh5yIbqbrOxGD0UgCHoMmEPTDRXXVhFY+kZrLVoUHg3i1qexpjOANUStSvA6xIDkezJ+SLgcTnPAQMqQHAlAwoC2KpHmsnYg2HMrYJHDcHC03z5AWc2l6KWf3+/BXCKyw45XukuYQ5PjydsmwZ1zWh4i3pnIxOpgrXp2pVM32TBVEUuFJVWsj9KDcUTrtF7zgKGPObUnjOdMnEpNCzHx0LkPp476ioL9tA8witSfKln3FREYEnV/A6cW0qL/EVjmRAnrLRNK1rJ3WMHViihyOF8MGbwTv2337rnha9kKsSS+gF6OLeWJ/WWev3BIpVVWbXo6dmTFeKT1n84FcA00wi/n0mUR7Lf5qowVYllgO+u5flOshjWBAfuJPbqup21i1dq77nT/Z6Kg==;BmT8mR3fxbOO/I2dxdmApA=="
+secured: "Fdv1+qM/sfLio5pBZ9OGMldzXwIEImAwaI9mb+DNMMZfxVTdoxzwurdYiRFpUJy6iZLGxT5xqSJnnZVXmuYtIXSUhXxrDfJiQVhLK2GMFlvA9yukSKbp2B4hyMJP0Wuz2AtwLkfL6Vx5F7qSFB5ANq7p+zxIfJf4+GZZrbbxbpfW8zjUuOLi7U0CMZSATpBfAWXn+Xf9Fbg1PiJpcX2SAERo4GB0WpYBjQ5ip3bN2lhyNWQINMK3YpIbh+mVu5KK1mlMb7Gtcnhr+L5eeb4ZwhtE5//tiuPRjcbZOpKrbMO2+amfY9TzLooRunHShBEpqKX3EBSc+odXrqxIASi+I1pZJuAhJ0oilJ6jOeW9DnY=;kuhrO05NSFKGMdRqa9a55w=="
 ---
 

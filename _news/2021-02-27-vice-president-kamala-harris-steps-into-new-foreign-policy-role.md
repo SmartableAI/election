@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris to speak at Black History Month event"
+    excerpt: "House Majority Leader Steny H. Hoyer (D-Md.) is expected to introduce Vice President Harris at a virtual event marking the 40th Black History Month on Feb. 27."
+    publishedDateTime: 2021-02-27T15:24:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/kamala-harris-to-speak-at-black-history-month-event/2021/02/27/533a911c-2d2c-4472-acd2-f69e987d07bf_live.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-27-2021/t_06aede71413242389b5cb300208ca5ba_name_202102_kamalaharris_reuters_thumbnail.jpg&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon"
     excerpt: "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according"
     publishedDateTime: 2021-02-20T16:02:00Z

@@ -236,6 +236,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "LIVE UPDATES: CPAC 2021 speakers praise Trump, Limbaugh and Florida as conference ramps up"
+    excerpt: "Conservative Political Action Conference  (CPAC) is slated to run through Sunday and a number of high-profile conservatives will take the stage to share conservative ideas with the crowd."
+    publishedDateTime: 2021-02-27T15:10:00Z
+    webUrl: "https://www.foxnews.com/politics/cpac-2021-speakers-live-updates-2-26-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/cpac-2021-speakers-live-updates-2-26-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-2021-speakers-live-updates-2-26-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a49811f-2d0a-4c3c-be77-ee1662ed0e21/db971091-e2db-4001-99f5-4b85af5e64cb/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "LIVE UPDATES: CPAC 2021 speakers Trump Jr., Ted Cruz appear in Florida as conference ramps up"
     excerpt: "Conservative Political Action Conference  (CPAC) is slated to run through Sunday and a number of high-profile conservatives will take the stage to share conservative ideas with the crowd."
     publishedDateTime: 2021-02-26T14:10:00Z
@@ -301,6 +317,6 @@ related:
         height: 720
         isCached: true
 
-secured: "rs8EhQvyO/hgoT+kYfksqgSDGNp7Ew32nX8n8Xdz2uWoc3FcU0a53e6nYcLFuzFqRxYkuj7ANSdl71rUZTBlMN0EWo76wLpSrTWFXoDQx1zD5EkJTWf2rr831OWnBnzgWdwyuZM2IwHyuzyRCe7YvL7lG4DWYaZKky/q9P5WvhiCj7PS05c95IZvh7+arxujF2OW64e7HfCuU8EIn9JBQDQxvYiW4FEk4aN5O7aUkNnesX8SSViF4yM1AnI33lFNoHOOs14TXM7kZ4KhWACwBMTnjxftvHdiIpRrbFvhnsB2iTZrCH4j9ySm0tXW+K7RyhlQg3sAtsCeZEnEJ3Qo8IxXBw/ToyHYhSX/jfdoYso=;ueOp35Ja9T0qRwxWftnRMg=="
+secured: "OnWkVaTqznBFgqJrKCSUExHQmCuw6e0T8MDiXGAeY1RWp59TOcw0kA8HLZRf5q9H9znBuWgQeZ2MfN+uRoW8bzUVyfwM/WbfJlzTciVGkzaEjXXuhX80/PIh/gQbWyrNE/K1PT4o9JkYWgn6jxG0zEmLT+1gmoNBKNq5HErh30bFiyFrZBvGcDOekJUvX52m6n3R14fZ8wyK1Gr+g2dbOG+9jEjmg6zdiFwHU8IKfKkOOISq7CJTor0yCgWjHsFtMpluJXevYSMNiRS8WfVALskkA8WzJW5FZQOnpspcvfJXGQA3Hw8jRT8QJqAMyWizzJc0BrrtHZmHpb7e3Q1ImGeVE7kI6v2rTXMnRbj2ab2XtLMLs3h9NztbxifDEDq4rWDm22FBG/BH7z0tMyNPy761fgpuRaZrG7gdelz1lE8SuAYwoQ+vEvqGwMkoRC0dErlci/dpYcLMdK1nkvLoBuFWJqusTiujUbqDO9U4G9FyxwSxq4AwmNHbUbLpOM1zDiPFWvjveSTuN6S465SbEQ==;cC+Aj1WY4y2XYsA8nRPx7w=="
 ---
 

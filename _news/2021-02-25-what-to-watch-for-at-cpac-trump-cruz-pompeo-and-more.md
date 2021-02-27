@@ -64,6 +64,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "POLITICO Playbook: Trump stewing over McCarthy again ahead of big CPAC speech"
+    excerpt: "Friday was the warm-up act at TPAC (get it?), where 2024 GOP hopefuls like TED CRUZ, TOM COTTON, JOSH HAWLEY, RICK SCOTT and DONALD TRUMP JR. tried out their material. The scene felt … low energy, but hey,"
+    publishedDateTime: 2021-02-27T15:02:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/27/trump-stewing-over-mccarthy-again-ahead-of-big-cpac-speech-491926"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 112
+    images:
+      - url: "https://static.politico.com/24/f7/078e461448aaaaf00a5af6895781/gettyimages-1272635840.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "PteiDT9d1cMY4CXfcYHWlCREtioR0gOrWY0SeMTaIRuuC/e2HLm2qcqzus1pxowe91GAaXQ3Xwnp3x5FiGDq3jJd45oqwbq9HeB1hVlYM4a3Zh63dVan9YhmuJMyxPxlmvpEyWJvjicFV6WR7su8mF7jvGPc1vEgUnxUO6zi8187WtAlkEgBszv15qIVO64HSov6msTvSGZVAHDPIaCpU6uJ5jGlsmAOzpUhK4EQI4ZuTEOz5PmIl2lgN2goRx6YHwrEIvf2DngtfomWrNrQwfFep7UXb/AHBNrYO4n7YvbsocgJCo1D4pK3TI7GacTgR6tBTVnCpCcKB2Tpz83Yv+lY/ibA1+a/vRl2FrF0FAcnjUes2NGzKhm+it9MjA6Y+hQjs5J8foovmbmk7C0qtNBwmTnq8brrtcJOr7SPSBgqQq3W9t//pT5tSn8ixVWAV50oR04fhN97UqJ17hX92P6vlYBhCWAmpNCEKViCpGrNukClJq5ewuYBfvph/oOA+MiGqe/Jp48fvTaugpmSsA==;axFq/wQh9zc/dAfWLOD9og=="
 ---
