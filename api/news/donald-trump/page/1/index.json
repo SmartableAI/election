@@ -158,6 +158,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-26-donald-trump-jr-gives-fiery-cpac-speech-railing-against-republicans-who-opposed-his-father-and-snatched-defeat-from-the-jaws-of-victory.md",
+      "title": "Donald Trump Jr. gives fiery CPAC speech railing against Republicans who opposed his father and snatched 'defeat from the jaws of victory'",
+      "excerpt": "Trump Jr. ranted about Wyoming Rep. Liz Cheney, saying her \"politics are only slightly less popular than her father is at a quail hunt.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2",
+      "originalUrl": "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6039646bd9208800185924cf?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2?amp",
+      "publishedDateTime": "2021-02-26T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-trump-vs-desantis-2024-clash-of-heavyweights-starts-early.md",
       "title": "Trump vs. DeSantis: 2024 Clash of Heavyweights Starts Early",
       "excerpt": "Politically speaking, this is the best and worst of times to be Florida Gov. Ron DeSantis. Lets start with best: Midway through his first term, the",
@@ -834,7 +886,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 285,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1513,58 +1565,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-lindsey-graham-said-count-me-out-after-the-capitol-riot-but-hes-all-in-with-trump-again.md",
-      "title": "Lindsey Graham said ‘Count me out’ after the Capitol riot. But he’s all in with Trump again.",
-      "excerpt": "The South Carolina Republican senator is positioning himself as a leader of the pro-Trump wing of a party that is increasingly divided about how to reckon with the divisive 45th president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3FMDI3TTCYI6XBSRNUYJD2WGH4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-20T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

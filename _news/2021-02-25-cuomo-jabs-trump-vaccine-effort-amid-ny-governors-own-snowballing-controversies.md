@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/cuomo-trump-vaccine-new-york-contro
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-trump-vaccine-new-york-controversies.amp"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Ron-Kim-andrew-cuomo.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Donald Trump Jr. slams Liz Cheney, says Gov. Cuomo ‘would be in jail’ if GOP"
+    excerpt: "Donald Trump Jr. on Friday trashed Rep. Liz Cheney and said New York Gov. Andrew Cuomo “would be in jail” already if he were a Republican. The former first son attacked his dad’s"
+    publishedDateTime: 2021-02-26T23:17:00Z
+    webUrl: "https://nypost.com/2021/02/26/donald-trump-jr-slams-liz-cheney-says-cuomo-would-be-in-jail-if-gop/"
+    ampWebUrl: "https://nypost.com/2021/02/26/donald-trump-jr-slams-liz-cheney-says-cuomo-would-be-in-jail-if-gop/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/26/donald-trump-jr-slams-liz-cheney-says-cuomo-would-be-in-jail-if-gop/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/don-trump-jr-cpac-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "DN/qHgfW2EmJHHtf3F2CrFwx8KAEtRTpmvSO9jlxrry5uJj8RSXct2XE2GjKZVIL54OfvRxMUxjExjQskfB4XtykuwQ3dipMrmGPMmMxxHppY0vmNG2Q4cpl2yzWJMpisNKDuV2UQEtXm2GuVHxyz16AgUr8shChqWuLWSjCrd0ykXNQWPZVLpd7N2J8i84Vd8lL4mJX8Pxd8hG2U3TaHhI5Sk/9jIPjqGWmhH3N6T7XSHicUdinuJ3P0x+ugLHq9FNXVf+subxiYilQRW1iJTYo+tm2oRnjVAhYCI9x5uMc1rzdCXC8rZEJIjx6xUbmiou86NpDUT3mUQ+VSMFBVWCSwHzZz8gCyGYrSau3mQE=;a1Musd56OsTLEgSZD864Pw=="

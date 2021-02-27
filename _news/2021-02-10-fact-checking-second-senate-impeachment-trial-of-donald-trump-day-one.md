@@ -576,6 +576,22 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "5 takeaways from Day 3 of Donald Trump's impeachment trial"
+    excerpt: "(CNN)On Thursday, the House impeachment managers wrapped up their case for the conviction of Donald Trump for inciting the US Capitol riot on January 6, centering their argument on connecting the ..."
+    publishedDateTime: 2021-02-11T22:55:00Z
+    webUrl: "https://www.cnn.com/2021/02/11/politics/trump-impeachment-trial-day-3-takeaways/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/trump-impeachment-trial-day-3-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/trump-impeachment-trial-day-3-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211123757-03-impeachment-trial-2021-raskin-0211-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump impeachment trial live updates: Defense team begins arguments"
     excerpt: "Former President Donald Trump's defense team will begin a full day of arguments Friday in his Senate impeachment trial after House Democrats wrapped up two days of presentations that included harrowing footage of last month's Capitol riot."
     publishedDateTime: 2021-02-12T11:14:00Z

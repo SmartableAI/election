@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "At CPAC, rising GOP stars send message that Trump is here to stay"
+    excerpt: "Trump, the marquee speaker this year, will make his first public remarks since leaving office at CPAC on Sunday."
+    publishedDateTime: 2021-02-27T00:50:00Z
+    webUrl: "https://www.cbsnews.com/news/cpac-trump-here-to-stay/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-trump-here-to-stay/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-trump-here-to-stay/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/27/f6ac56df-c1c4-4517-97b7-4a9d4432c6cc/thumbnail/1200x630/72421f3248e10fdac7e53c8e4aaea53f/gettyimages-1304272594.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4"
     excerpt: "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4."
     publishedDateTime: 2021-02-19T10:21:00Z

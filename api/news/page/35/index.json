@@ -2,283 +2,20 @@
   "page": 35,
   "value": [
     {
-      "path": "_news/2020-12-19-the-trump-survivors-six-cabinet-officials-who-stuck-it-out.md",
-      "title": "The Trump survivors: Six Cabinet officials who stuck it out",
-      "excerpt": "On Monday, Attorney General Bill Barr became the 12th of Donald Trump's Senate-confirmed Cabinet members either to resign or be fired by the President.\n    \n",
+      "path": "_news/2021-01-08-biden-to-nominate-judge-merrick-garland-for-attorney-general.md",
+      "title": "Biden to nominate Judge Merrick Garland for attorney general",
+      "excerpt": "President-elect Joe Biden will nominate federal appeals court Judge Merrick Garland to be U.S. attorney general, Biden's transition office said in a statement on Thursday.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mcPG0ZniXFQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mcPG0ZniXFQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200320112649-01-mnuchin-0317-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/19/politics/trump-cabinet-survivors/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/trump-cabinet-survivors/index.html",
-      "publishedDateTime": "2020-12-19T08:00:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-trump-promises-wild-protest-in-washington-dc-on-jan-6-claims-its-impossible-he-lost.md",
-      "title": "Trump promises 'wild' protest in Washington DC on Jan. 6, claims it's 'impossible' he lost",
-      "excerpt": "President Trump on Saturday promised that there would be a “wild” protest in Washington D.C. on Jan. 6, as he continued to deny that he lost the election -- claiming it was “statistically impossible” for him to have been defeated.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-I30v3XLfV4/trump-wild-protest-washington-dc-jan-6",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-I30v3XLfV4/trump-wild-protest-washington-dc-jan-6",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/10c14811-d45f-4cdf-aae9-04d8ca6a8d15/791ea33c-a185-4df4-81ce-8dc74c6c49dd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-wild-protest-washington-dc-jan-6.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wild-protest-washington-dc-jan-6.amp",
-      "publishedDateTime": "2020-12-19T06:55:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-betsy-devos-stalled-obamas-student-loan-relief-program-borrowers-hope-biden-will-fix-it.md",
-      "title": "Betsy DeVos stalled Obama's student loan relief program. Borrowers hope Biden will fix it",
-      "excerpt": "Just before President Barack Obama left office, he made it easier for students defrauded by for-profit colleges to apply for the federal debt relief they had long been entitled to.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k3hdmHPYqJc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k3hdmHPYqJc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216161003-rebekah-sanchez-norton-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/19/politics/student-loan-relief-devos-trump-biden/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/19/politics/student-loan-relief-devos-trump-biden/index.html",
-      "publishedDateTime": "2020-12-19T06:10:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.md",
-      "title": "US Space Force members will be called ‘guardians,’ Vice President Mike Pence says",
-      "excerpt": "The Trump administration celebrated the first birthday of the U.S. Space Force on Friday by announcing that its members will be known as “guardians.” Vice President Mike Pence made the announcement at a celebratory event tracing the development of the newest branch of the military over the past year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html",
-      "originalUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html",
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 425,
       "tags": null,
       "images": [
         {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TBQO6M6JPVBHDD32VSHIOZHFYM.jpg",
-          "width": 5845,
-          "height": 3897,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-masslive-com.cdn.ampproject.org/c/s/www.masslive.com/politics/2020/12/us-space-force-members-will-be-called-guardians-vice-president-mike-pence-says.html?outputType=amp",
-      "publishedDateTime": "2020-12-19T04:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MassLive",
-        "domain": "masslive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-the-trump-booster-group-that-helped-the-head-of-the-extremist-proud-boys-gain-access-to-the-white-house.md",
-      "title": "The Trump booster group that helped the head of the extremist Proud Boys gain access to the White House",
-      "excerpt": "The Proud Boys leader visited the White House before clashes erupted in DC on Dec. 12. He was invited by a political group with ties to Trump allies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/12/19/latinos-trump-group-tied-proud-boys-leader-enrique-tarrio/3931868001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/12/19/latinos-trump-group-tied-proud-boys-leader-enrique-tarrio/3931868001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/15/USAT/faa39348-f87f-4e26-94f3-50a0aef33d73-AFP_AFP_8QT7GX.jpg?auto=webp&crop=4499,2531,x0,y234&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3931868001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3931868001",
-      "publishedDateTime": "2020-12-19T03:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-trump-signs-into-law-stopgap-funding-bill-to-avoid-government-shutdown.md",
-      "title": "Trump signs into law stopgap funding bill to avoid government shutdown",
-      "excerpt": "President Donald Trump on Friday signed into law a two-day stopgap extension of existing federal funds passed by Congress to avoid a midnight government shutdown, as lawmakers negotiate a $900 billion pandemic aid bill and as part of $1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN28S31A",
-      "originalUrl": "https://www.reuters.com/article/uk-health-coronavirus-usa-congress-idUKKBN28S31A",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545099113&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH1Q4",
-          "width": 817,
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546953058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060RY",
+          "width": 765,
           "height": 545,
           "title": null,
           "attribution": null,
@@ -287,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN28S31A",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN28S31A",
-      "publishedDateTime": "2020-12-19T00:54:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29C1FY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C1FY",
+      "publishedDateTime": "2021-01-07T08:31:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -313,335 +50,23 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-sir-david-attenborough-on-joe-biden-christmas-wrapping-and-flamingos.md",
-      "title": "Sir David Attenborough on Joe Biden, Christmas wrapping... and flamingos",
-      "excerpt": "Like many of us, Sir David Attenborough has had to adapt to new ways of working since the coronavirus pandemic took hold this spring. For his latest series, the 93-year-old - who has been shielding - had to record some of his voiceovers from his home in south-west London.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/entertainment-arts-55042006",
-      "originalUrl": "https://www.bbc.com/news/entertainment-arts-55042006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/D8DF/production/_116091555_attenborough_bbc.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/entertainment-arts-55042006",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/entertainment-arts-55042006",
-      "publishedDateTime": "2020-12-18T17:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     },
     {
-      "path": "_news/2020-12-19-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long-running-tension-with-other-republicans.md",
-      "title": "Jeff Stein: Trump's last-minute push for larger stimulus checks example of 'long-running tension' with other Republicans",
-      "excerpt": "In an interview on Hill.TV’s “Rising,” Stein said Trump had told allies that he wanted new stimulus checks as large as $2,000 per person, even as congressional leadership is preparing a package that would provide checks of just $600 each.",
+      "path": "_news/2021-01-07-trump-pledges-orderly-transition-after-congress-affirms-biden-win.md",
+      "title": "Trump pledges \"orderly transition\" after Congress affirms Biden win",
+      "excerpt": "President didn't concede but his statement was as close as he's come to conceding an election he falsely insists was stolen,",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long",
-      "originalUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long",
+      "webUrl": "https://www.cbsnews.com/news/trump-transfer-power-biden-congress-electoral-college-win/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-transfer-power-biden-congress-electoral-college-win/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 660,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_120720getty_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/hilltv/rising/530847-jeff-stein-trumps-last-minute-push-for-larger-stimulus-checks-example-of-long?amp",
-      "publishedDateTime": "2020-12-18T15:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-mr-biden-shouldnt-be-the-only-target-for-catholics.md",
-      "title": "Mr. Biden shouldn’t be the only target for Catholics",
-      "excerpt": "Are the religious leaders condemning President-elect Joe Biden for his abortion stance also condemning Attorney General William P. Barr, who is also Catholic, for his rabid haste to execute federal prisoners before Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html",
-      "originalUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/L65E4PSZRAI6TBBNPU7NP2ZZK4.jpg&w=1440",
-          "width": 1440,
-          "height": 970,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/opinions/letters-to-the-editor/mr-biden-shouldnt-be-the-only-target-for-catholics/2020/12/18/5ec81420-3e2e-11eb-b58b-1623f6267960_story.html?outputType=amp",
-      "publishedDateTime": "2020-12-18T13:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-why-charlie-baker-isnt-planning-to-get-a-public-vaccination-like-mike-pence.md",
-      "title": "Why Charlie Baker isn’t planning to get a public vaccination like Mike Pence",
-      "excerpt": "The Massachusetts governor wants to wait until he qualifies — and isn't sure elected officials are the most effective officials to inspire public confidence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination",
-      "originalUrl": "https://www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boston.com/wp-content/uploads/2020/12/s3___bgmp-arc_arc-feeds_generic-photos_to-arc_wiggs_Governor_04-5fdd10a9449f2-850x478.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination/amp",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/coronavirus/2020/12/18/charlie-baker-mike-pence-public-vaccination/amp",
-      "publishedDateTime": "2020-12-18T13:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-biden-vows-to-impose-costs-for-russian-aggression-when-he-becomes-president.md",
-      "title": "Biden vows to impose 'costs' for Russian aggression when he becomes president",
-      "excerpt": "President-elect Joe Biden's approach to Russia is now an even tougher challenge with news that Moscow may be responsible for a massive cyber attack on US federal agencies -- one Biden said he will impose \"costs\" for.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uOiNtkVviR8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uOiNtkVviR8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201215031414-putin-biden-split-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/biden-russia-aggression-costs/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/biden-russia-aggression-costs/index.html",
-      "publishedDateTime": "2020-12-18T11:49:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-covid-19-live-updates-pence-mcconnell-and-other-us-officials-receive-vaccines.md",
-      "title": "Covid-19 Live Updates: Pence, McConnell and Other U.S. Officials Receive Vaccines",
-      "excerpt": "Experts fear the country’s deep partisan divide may limit the vaccine's reach to Republicans. France’s president details his symptoms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus",
-      "originalUrl": "https://www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2020/12/18/us/18virus-briefing-covax/18virus-briefing-covax-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2020/12/18/world/covid-19-coronavirus.amp.html",
-      "publishedDateTime": "2020-12-18T11:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-supreme-court-rules-its-too-early-to-review-trump-census-plan-to-exclude-undocumented-immigrants-from-house-redistricting.md",
-      "title": "Supreme Court rules it's too early to review Trump census plan to exclude undocumented immigrants from House redistricting",
-      "excerpt": "The U.S. has always counted citizens and non-citizens for the purposes of redrawing congressional districts every 10 years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/supreme-court-census-ruling-too-early-undocumented-immigrants/",
-      "originalUrl": "https://www.cbsnews.com/news/supreme-court-census-ruling-too-early-undocumented-immigrants/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/18/598123c6-e9fc-4e7d-8df1-d6e7d1cf4237/thumbnail/1200x630g8/e12aa40557dbc7b3525ba6258ddd5da2/gettyimages-1230073815.jpg",
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/25/4ae36525-7e22-474c-8329-5a6dc8ef6f10/thumbnail/1200x630/a76ed4b9ca5e55c18da62ee84bf08078/trump-reid-615985-640x360.jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -651,9 +76,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-census-ruling-too-early-undocumented-immigrants/",
-      "publishedDateTime": "2020-12-18T11:00:00-08:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-transfer-power-biden-congress-electoral-college-win/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-transfer-power-biden-congress-electoral-college-win/",
+      "publishedDateTime": "2021-01-07T04:16:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CBS News",
@@ -681,241 +106,19 @@
       ]
     },
     {
-      "path": "_news/2020-12-19-black-family-in-texas-says-cars-set-on-fire-house-vandalized-with-trump-20-over-blm-sign.md",
-      "title": "Black family in Texas says cars set on fire, house vandalized with 'Trump 20' over BLM sign",
-      "excerpt": "Jayla Gipson and Charles Crawford said the incident was brought on by a Black Lives Matter sign they put in their yard around Thanksgiving.",
+      "path": "_news/2021-01-07-us-house-rejects-attempt-to-overturn-biden-victory-in-arizona.md",
+      "title": "U.S. House rejects attempt to overturn Biden victory in Arizona",
+      "excerpt": "The U.S. House of Representatives on Wednesday night joined the Senate in rejecting a move by allies of President Donald Trump to overturn Democrat Joe Biden's victory in Arizona, a vote delayed by rioters earlier pushing their way into the U.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/nation/2020/12/18/black-texas-family-says-cars-set-fire-over-blm-sign/3956433001/",
-      "originalUrl": "https://www.usatoday.com/story/news/nation/2020/12/18/black-texas-family-says-cars-set-fire-over-blm-sign/3956433001/",
+      "webUrl": "https://www.reuters.com/article/usa-congress-election-arizona-house-idINKBN29C0H3",
+      "originalUrl": "https://www.reuters.com/article/usa-congress-election-arizona-house-idINKBN29C0H3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 765,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/26/USAT/ef4e297a-1c31-4810-91de-6c9105534f82-GettyImages-1182076012.jpg?auto=webp&crop=2120,1193,x0,y107&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/3956433001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/3956433001",
-      "publishedDateTime": "2020-12-18T10:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions.md",
-      "title": "Abortion, Guns and Trump: A Church Group Tries to Navigate America’s Divisions",
-      "excerpt": "In suburban Michigan, a group of worshipers from Calvary Christian Reformed Church sought understanding through dialogue. Sometimes it was tough going. ‘My soul is hurting,’ one member lamented.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
-      "originalUrl": "https://www.wsj.com/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-274212/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/abortion-guns-and-trump-a-church-group-tries-to-navigate-americas-divisions-11608298552",
-      "publishedDateTime": "2020-12-18T10:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-bidens-to-receive-first-dose-of-pfizer-vaccine-monday.md",
-      "title": "Bidens to receive first dose of Pfizer vaccine Monday",
-      "excerpt": "President-elect Joe Biden and incoming first lady Jill Biden will receive the first dose of the Pfizer vaccine on Monday in Delaware, transition spokesperson Jen Psaki told reporters on a briefing call Friday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BgS6YiV7RSU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BgS6YiV7RSU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201218030711-joe-and-jill-biden-on-late-night-with-stephen-colbert-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/biden-receiving-vaccination/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/biden-receiving-vaccination/index.html",
-      "publishedDateTime": "2020-12-18T10:29:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-trump-appoints-1776-commission-members-in-last-minute-bid-to-advance-patriotic-education.md",
-      "title": "Trump appoints 1776 Commission members in last-minute bid to advance 'patriotic education'",
-      "excerpt": "The group will be led by the president of the conservative Hillsdale College, Larry Arnn, a longtime Trump ally, the White House said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "originalUrl": "https://www.politico.com/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d8/88/8403c9844566924526431b2c7c58/gettyimages-1215228995-1.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/trump-1776-commission-appointments-448229",
-      "publishedDateTime": "2020-12-18T10:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-trump-ahead-of-fda-says-modernas-covid-19-vaccine-has-been-approved.md",
-      "title": "Trump, ahead of FDA, says Moderna's COVID-19 vaccine has been approved",
-      "excerpt": "U.S. President Donald Trump in a tweet on Friday said Moderna Inc's vaccine had been approved and would ship immediately, although the U.S. Food and Drug Administration has made no public announcement yet regarding its decision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/healthcoronavirus-moderna-trump/update-1-trump-ahead-of-fda-says-modernas-covid-19-vaccine-has-been-approved-idUSL1N2IY0Z4",
-      "originalUrl": "https://www.reuters.com/article/healthcoronavirus-moderna-trump/update-1-trump-ahead-of-fda-says-modernas-covid-19-vaccine-has-been-approved-idUSL1N2IY0Z4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 525,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20201218&t=2&i=1545045397&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEGBH11H",
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546906712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060AF",
           "width": 817,
           "height": 545,
           "title": null,
@@ -925,9 +128,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN28S1NF",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN28S1NF",
-      "publishedDateTime": "2020-12-18T09:58:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29C0H3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29C0H3",
+      "publishedDateTime": "2021-01-06T23:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -951,194 +154,25 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-trump-targeting-mcconnell-and-top-republicans-urges-them-to-get-tougher-in-election-fight.md",
-      "title": "Trump, targeting McConnell and top Republicans, urges them to 'get tougher' in election fight",
-      "excerpt": "President Trump is again taking aim at Senate Majority Leader Mitch McConnell after the top Republican and Trump ally earlier this week recognized President-elect Joe Biden's White House victory.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SXf-_nfXuLg/trump-mcconnell-senate-republicans-get-tougher-election-fight",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 339,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-senate-republicans-get-tougher-election-fight.amp",
-      "publishedDateTime": "2020-12-18T09:40:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-biden-transition-head-speaks-out-on-difficult-and-intense-process.md",
-      "title": "Biden transition head speaks out on 'difficult and intense' process",
-      "excerpt": "Biden’s longtime chief of staff and a former senator, says that leading Biden’s transition team “has been the most difficult and intense workload that I've ever experienced.” \"I thought we [saw] the most difficult transition because of the Great Recession,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2020/12/18/biden-transition-head-speaks-out-448145",
-      "originalUrl": "https://www.politico.com/news/2020/12/18/biden-transition-head-speaks-out-448145",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/93/34/c676a33a48e5800ae13b0b6b79e3/ted-kaufman-773-ap.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2020/12/18/biden-transition-head-speaks-out-448145",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2020/12/18/biden-transition-head-speaks-out-448145",
-      "publishedDateTime": "2020-12-18T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-19-he-called-me-kiddo-jill-biden-says-wsj-essay-was-such-a-surprise.md",
-      "title": "‘He called me kiddo’: Jill Biden says WSJ essay was ‘such a surprise’",
-      "excerpt": "\"One of the things I'm most proud of is my doctorate,\" incoming First Lady Jill Biden told Stephen Colbert while responding to the WSJ's controversial op-ed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden",
-      "originalUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/2f18bf9/2147483647/strip/true/crop/1654x1080+133+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fe7%2F07%2F8d98f6f24cbc8fba98db590cda4a%2Fthumbnail%2Fpol-dnc-night-2-jill-biden-20200818-jl.0000005.jpg",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/tv/story/2020-12-18/jill-biden-wsj-op-ed-doctor-joe-biden?_amp=true",
-      "publishedDateTime": "2020-12-18T09:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     },
     {
-      "path": "_news/2020-12-18-trump-praises-tuberville-after-alabama-gop-senator-elect-leaves-open-objecting-to-election-results-january-6.md",
-      "title": "Trump praises Tuberville after Alabama GOP senator-elect leaves open objecting to election results January 6",
-      "excerpt": "President Donald Trump lauded Tommy Tuberville this week after the Republican Alabama senator-elect said he is not ruling out joining a House member to object to the election results when Congress meets in a joint session to accept the votes of the Electoral College.\n    \n",
+      "path": "_news/2021-01-07-trump-supporters-storm-capitol-during-electoral-college-count.md",
+      "title": "Trump supporters storm Capitol during electoral college count",
+      "excerpt": "Violent protesters loyal to President Donald Trump stormed the U.S. Capitol on Wednesday and forced lawmakers into hiding, in a stunning attempt to overturn America’s presidential election, undercut the nation’s democracy and keep Democrat Joe Biden from replacing Trump in the White House.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g_lST3RO-Nk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/g_lST3RO-Nk/index.html",
+      "webUrl": "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html",
       "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 171,
+      "highlight": null,
+      "heat": 865,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201029152327-alabama-senate-race-doug-jones-tommy-tuberville-nws-orig-00002315-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4K2DZJCQNUI6XOLOBZKEI6ZDUE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1146,16 +180,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/tommy-tuberville-electoral-college-reaction/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/tommy-tuberville-electoral-college-reaction/index.html",
-      "publishedDateTime": "2020-12-18T08:31:06-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-06T14:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1172,179 +206,9 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-supreme-court-throws-out-challenge-to-trumps-plan-to-exclude-undocumented-immigrants-from-census-count.md",
-      "title": "Supreme Court throws out challenge to Trump's plan to exclude undocumented immigrants from census count",
-      "excerpt": "The Supreme Court on Friday threw out a challenge to President Donald Trump's bid to exclude undocumented immigrants from being counted when seats in Congress are divvied up between the states next year.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N5wnCqzRAuA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/N5wnCqzRAuA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201217193803-supreme-court-201212-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2020/12/18/politics/supreme-court-census-undocumented-immigrants/index.html",
-      "publishedDateTime": "2020-12-18T08:23:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-atlantic-city-auctions-off-chance-to-push-demolish-button-on-former-trump-casino.md",
-      "title": "Atlantic City auctions off chance to push demolish button on former Trump casino",
-      "excerpt": "The implosion of one of President Donald Trump's former Atlantic City casinos is being delayed by a few weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/atlantic-city-former-trump-casino-demolition",
-      "originalUrl": "https://www.foxnews.com/us/atlantic-city-former-trump-casino-demolition",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Trump-Plaza.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/atlantic-city-former-trump-casino-demolition.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/atlantic-city-former-trump-casino-demolition.amp",
-      "publishedDateTime": "2020-12-18T07:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2020-12-18-pence-gets-covid-19-vaccine-to-show-its-safe-and-effective.md",
-      "title": "Pence gets COVID-19 vaccine to show it's 'safe and effective'",
-      "excerpt": "Calling it a “medical miracle,” Vice President Mike Pence on Friday morning publicly took the new coronavirus vaccine. Pence, second lady Karen Pence and Surgeon General Jerome Adams, were all administered the vaccine in front of cameras at the vice president’s office in an event that was broadcast live",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u3ulDBdsRbs/pence-gets-coronavirus-vaccine",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u3ulDBdsRbs/pence-gets-coronavirus-vaccine",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-gets-coronavirus-vaccine.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-gets-coronavirus-vaccine.amp",
-      "publishedDateTime": "2020-12-18T06:45:26-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
+        "Donald Trump"
       ]
     }
   ],
-  "nextPage": 36
+  "nextPage": null
 }

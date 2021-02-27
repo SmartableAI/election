@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-08-double-standard-biden-black-lawmakers-and-activists-decry-police-response-to-attack-on-us-capitol.md",
+      "title": "'Double standard': Biden, Black lawmakers and activists decry police response to attack on US Capitol",
+      "excerpt": "Civil rights leaders blasted police for their response to an attack on the U.S. Capitol compared to clashes between Black Lives protesters and police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2021/01/06/us-capitol-attack-compared-response-black-lives-matter-protests/6570528002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/01/06/us-capitol-attack-compared-response-black-lives-matter-protests/6570528002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/30/PDTF/e5dbb82d-76b3-405a-803b-293b966f51bc-05292020_detprotest_jh-36.jpg?auto=webp&crop=2399,1350,x0,y122&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6570528002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6570528002",
+      "publishedDateTime": "2021-01-07T17:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-biden-picks-rhode-island-gov-raimondo-as-commerce-secretary.md",
       "title": "Biden picks Rhode Island Gov. Raimondo as commerce secretary",
       "excerpt": "President-elect Joe Biden has picked Rhode Island Gov. Gina Raimondo to lead the Commerce Department, helping set trade policy and looking to promote U.S. opportunities for growth domestically and ove",

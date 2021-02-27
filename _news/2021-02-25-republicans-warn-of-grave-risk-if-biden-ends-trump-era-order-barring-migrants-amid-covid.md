@@ -397,6 +397,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "AOC initiates fundraising campaign in response Biden migrant camps"
+    excerpt: "New York Democrat Rep. Alexandria Ocasio-Cortez condemned the Biden administration’s decision to temporarily reopen a Texas migrant facility this week, launching a fundraising campaign Friday to ask constituents to fight for immigration reform."
+    publishedDateTime: 2021-02-27T00:56:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GJXeC10jmhw/aoc-initiates-fundraising-campaign-in-response-biden-migrant-camps"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-initiates-fundraising-campaign-in-response-biden-migrant-camps.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-initiates-fundraising-campaign-in-response-biden-migrant-camps.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd45bd4a-914d-47c8-9045-c88ab2e0ccdd/62f79d26-240b-4f0e-ba40-411de1b62ba1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "State Dept briefing gets heated as reporter asks if Biden admin taking credit for Trump accomplishments"
     excerpt: "An Associated Press reported took State Department spokesman Ned Price to task Monday for suggesting that President Joe Biden was responsible for a policy that had started under the Trump administration."
     publishedDateTime: 2021-02-23T00:12:39Z
@@ -458,6 +474,22 @@ related:
     quality: 173
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Tom Cotton says Trump has 'big role' in GOP's future, Joe Biden trying to 'unravel' Trump accomplishments"
+    excerpt: "Sen. Tom Cotton on Friday said that former President Donald Trump has a \"big role\" in the future of the Republican Party and warned that President Biden is trying to \"unravel\" Trump's accomplishments. "
+    publishedDateTime: 2021-02-27T00:21:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qT1o51n08GE/tom-cotton-says-trump-has-big-role-in-gops-future-joe-biden-trying-to-unravel-trump-accomplishments"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-says-trump-has-big-role-in-gops-future-joe-biden-trying-to-unravel-trump-accomplishments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-says-trump-has-big-role-in-gops-future-joe-biden-trying-to-unravel-trump-accomplishments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

@@ -592,6 +592,22 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "5 takeaways from Day 3 of Donald Trump's impeachment trial"
+    excerpt: "(CNN)On Thursday, the House impeachment managers wrapped up their case for the conviction of Donald Trump for inciting the US Capitol riot on January 6, centering their argument on connecting the ..."
+    publishedDateTime: 2021-02-11T22:55:00Z
+    webUrl: "https://www.cnn.com/2021/02/11/politics/trump-impeachment-trial-day-3-takeaways/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/11/politics/trump-impeachment-trial-day-3-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/trump-impeachment-trial-day-3-takeaways/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211123757-03-impeachment-trial-2021-raskin-0211-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "5 takeaways from Day 4 of Donald Trump's impeachment trial"
     excerpt: "After two days of House impeachment managers making their case for the conviction of Donald Trump on a charge of incitement, the former President's legal team got its chance on Friday."
     publishedDateTime: 2021-02-12T16:11:00Z

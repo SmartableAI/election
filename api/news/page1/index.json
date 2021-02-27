@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-27-biden-promises-to-help-winter-storm-battered-texas-recover-were-in-it-for-the-long-haul.md",
+      "title": "Biden promises to help winter storm-battered Texas recover: 'We're in it for the long haul'",
+      "excerpt": "President Joe Biden will embrace a familiar role on his trip to Houston Friday as he seeks to offer both comfort and federal support after a severe winter storm-battered Texas and left millions without power, heat or water.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iMIAS5nRgcE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iMIAS5nRgcE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210222181225-03-biden-covid-deaths-0222-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/26/politics/biden-texas-visit/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/biden-texas-visit/index.html",
+      "publishedDateTime": "2021-02-26T16:27:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-bidens-message-to-iran-with-missile-strikes-you-cant-act-with-impunity-be-careful.md",
+      "title": "Biden's message to Iran with missile strikes: 'You can't act with impunity, be careful'",
+      "excerpt": "President Joe Biden looked to send a simple message to Iran by authorizing air strikes in Syria on Thursday: \"You can't act with impunity, be careful.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6qvcSH5ctHY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6qvcSH5ctHY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210226182332-03a-biden-houston-0226-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/26/politics/biden-syrian-missile-strikes-iran/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/biden-syrian-missile-strikes-iran/index.html",
+      "publishedDateTime": "2021-02-26T15:35:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-who-voted-for-impeachment.md",
       "title": "Trump endorses Max Miller over GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment",
       "excerpt": "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district.",
@@ -599,6 +711,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-26-donald-trump-jr-gives-fiery-cpac-speech-railing-against-republicans-who-opposed-his-father-and-snatched-defeat-from-the-jaws-of-victory.md",
+      "title": "Donald Trump Jr. gives fiery CPAC speech railing against Republicans who opposed his father and snatched 'defeat from the jaws of victory'",
+      "excerpt": "Trump Jr. ranted about Wyoming Rep. Liz Cheney, saying her \"politics are only slightly less popular than her father is at a quail hunt.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2",
+      "originalUrl": "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6039646bd9208800185924cf?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2?amp",
+      "publishedDateTime": "2021-02-26T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-biden-administration-and-democrats-do-not-care-about-american-jobs-sen-scott.md",
       "title": "Biden administration and Democrats 'do not care' about American jobs: Sen. Scott",
       "excerpt": "Sen. Rick Scott R-Fla. said Friday that the Biden administration and Democrats \"don't care about jobs\" and that the attempted inclusion of a $15 minimum wage in the latest coronavirus stimulus bill is just \"payback\" to liberal Democrats. ",
@@ -700,6 +864,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-biden-says-us-will-hold-russia-accountable-over-crimea.md",
+      "title": "Biden says U.S. will hold Russia accountable over Crimea",
+      "excerpt": "U.S. President Joe Biden displays his face mask as he speaks during an event to commemorate the 50 millionth coronavirus disease (COVID-19) vaccination in the South Court Auditorium at the White House",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/biden-says-us-will-hold-russia-accountab-idUSKBN2AQ22I",
+      "originalUrl": "https://www.reuters.com/news/picture/biden-says-us-will-hold-russia-accountab-idUSKBN2AQ22I",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1553042234&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH1P118",
+          "width": 810,
+          "height": 567,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-26T05:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -932,7 +1148,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 190,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -1137,226 +1353,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-trumps-pardon-of-lil-wayne-said-to-be-the-breaking-point-for-qanon-shaman-in-new-court-documents-filled-with-bizarre-anecdotes.md",
-      "title": "Trump's pardon of Lil Wayne said to be the breaking point for 'QAnon Shaman' in new court documents filled with bizarre anecdotes",
-      "excerpt": "An attorney for Jacob Chansley, the \"QAnon Shaman,\" filed a pretrial release motion Tuesday, weeks after he charged in the Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest",
-      "originalUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60359633d920880018591ad4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest?amp",
-      "publishedDateTime": "2021-02-25T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-biden-should-not-give-up-his-sole-nuclear-authority-gop-lawmakers-say.md",
-      "title": "Biden should not give up his sole nuclear authority, GOP lawmakers say",
-      "excerpt": "Three Republican members of the House Armed Services Committee on Wednesday issued a statement pushing back on Democrats' letter to President Biden urging him to give up his sole nuclear authority.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_ao_yWQyWO0/republicans-biden-nuclear-authority",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_ao_yWQyWO0/republicans-biden-nuclear-authority",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/military-aide-carries.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-nuclear-authority.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-nuclear-authority.amp",
-      "publishedDateTime": "2021-02-25T12:18:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-rick-scott-calls-for-bidens-immediate-attention-on-moving-2022-olympics-from-china.md",
-      "title": "Rick Scott calls for Biden's 'immediate attention' on moving 2022 Olympics from China",
-      "excerpt": "Republican Sen. Rick Scott is requesting a meeting with President Biden and calling for his \"immediate attention\" to moving the 2022 Winter Olympic Games out of Beijing, citing China’s human rights abuses.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tizv1ycAMqE/rick-scott-bidens-2022-olympics-china",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tizv1ycAMqE/rick-scott-bidens-2022-olympics-china",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-bidens-2022-olympics-china.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-bidens-2022-olympics-china.amp",
-      "publishedDateTime": "2021-02-25T12:08:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-capitol-police-chief-warns-militia-groups-want-to-blow-up-the-capitol-when-biden-addresses-congress.md",
-      "title": "Capitol police chief warns militia groups want to 'blow up the Capitol' when Biden addresses Congress",
-      "excerpt": "House lawmakers angrily grilled acting US Capitol Police Chief Yogananda Pittman and acting House Sergeant at Arms Timothy Blodgett on Thursday over the security failures that occurred on January 6, repeatedly pressing both officials on the lack of communication by law enforcement leaders as their officers",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VPkErQjkmcM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VPkErQjkmcM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/191113111541-us-capitol-impeachment-hearing-1113-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/25/politics/us-capitol-attack-house-hearing-pittman-blodgett/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/us-capitol-attack-house-hearing-pittman-blodgett/index.html",
-      "publishedDateTime": "2021-02-25T11:15:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

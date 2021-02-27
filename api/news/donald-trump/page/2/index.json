@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-21-lindsey-graham-said-count-me-out-after-the-capitol-riot-but-hes-all-in-with-trump-again.md",
+      "title": "Lindsey Graham said ‘Count me out’ after the Capitol riot. But he’s all in with Trump again.",
+      "excerpt": "The South Carolina Republican senator is positioning himself as a leader of the pro-Trump wing of a party that is increasingly divided about how to reckon with the divisive 45th president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3FMDI3TTCYI6XBSRNUYJD2WGH4.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-20T12:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-un-experts-trump-ally-uae-firms-violated-libya-sanctions.md",
       "title": "UN experts: Trump ally, UAE firms violated Libya sanctions",
       "excerpt": "U.N. experts say American security contractor Erik Prince, a close ally of former President Donald Trump, violated the U.N. arms embargo against Libya along with three United Arab Emirates-based compa",
@@ -1522,58 +1574,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-13-trump-attorneys-falsely-claim-he-was-denied-due-process.md",
-      "title": "Trump attorneys falsely claim he was denied ‘due process’",
-      "excerpt": "Due process is a bedrock protection for anyone facing a loss of “life, liberty or property” — not public office.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/13/trump-attorneys-falsely-claim-he-was-denied-due-process/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/13/trump-attorneys-falsely-claim-he-was-denied-due-process/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-13-2021/t_065a42902204474da662577810b75679_name_Trump_thumb.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/13/trump-attorneys-falsely-claim-he-was-denied-due-process/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/13/trump-attorneys-falsely-claim-he-was-denied-due-process/?outputType=amp",
-      "publishedDateTime": "2021-02-13T02:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

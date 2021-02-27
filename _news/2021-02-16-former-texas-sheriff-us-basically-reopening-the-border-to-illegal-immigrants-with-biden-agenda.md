@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration to open new tent facility in Texas amid surge in migrants at border"
+    excerpt: "The Biden administration is preparing to open a new tent facility in Texas to hold migrants crossing the border, as officials scramble to deal with the combination of a surge in numbers and the challenges of COVID-19."
+    publishedDateTime: 2021-02-27T00:34:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cfqi7DKJuzM/biden-tent-facility-texas-migrant-border-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tent-facility-texas-migrant-border-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tent-facility-texas-migrant-border-surge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b48a47cd-3183-4996-949f-3e4f4c601453/7ed4b063-ff82-46c7-981a-7ed5e85dc5ab/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Border mayor begs Biden to stop releasing illegal immigrants into his city amid winter storm"
     excerpt: "A Texas border mayor is begging President Biden to help his town struggling under extreme weather conditions, the coronavirus pandemic, and an influx of undocumented migrants crossing the border."
     publishedDateTime: 2021-02-19T03:38:52Z

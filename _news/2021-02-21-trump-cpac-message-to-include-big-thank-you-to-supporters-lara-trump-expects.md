@@ -177,8 +177,8 @@ related:
         isCached: true
   - title: "Republican Civil War Over Trump? Not at CPAC"
     excerpt: "Thousands have flocked to the annual Conservative Political Action Conference to hear from former President Donald Trump and some of his staunchest political disciples."
-    publishedDateTime: 2021-02-26T19:05:00Z
-    webUrl: "https://www.wsj.com/articles/republican-civil-war-over-trump-not-at-cpac-11614366303?mod=politics_lead_pos3"
+    publishedDateTime: 2021-02-27T00:14:00Z
+    webUrl: "https://www.wsj.com/articles/republican-civil-war-over-trump-not-at-cpac-11614366303?mod=newsviewer_click"
     ampWebUrl: "https://www.wsj.com/amp/articles/republican-civil-war-over-trump-not-at-cpac-11614366303"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/republican-civil-war-over-trump-not-at-cpac-11614366303"
     type: article

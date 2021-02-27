@@ -2,6 +2,227 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2021-01-18-rep-marjorie-taylor-greene-was-suspended-by-twitter-for-12-hours-not-long-after-she-told-trump-supporters-to-mobilize-in-a-deleted-tweet.md",
+      "title": "Rep. Marjorie Taylor Greene was suspended by Twitter for 12 hours not long after she told Trump supporters to 'mobilize' in a deleted tweet",
+      "excerpt": "In a since-deleted tweet, the congresswoman told 'all Americans' to 'mobilize and make your voices heard in opposition' days before Biden is sworn in.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1",
+      "originalUrl": "https://www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/600499fa660f6c0018349a20?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/marjorie-taylor-greene-suspended-from-twitter-for-12-hours-2021-1?amp",
+      "publishedDateTime": "2021-01-17T12:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-18-top-fema-official-attended-trumps-stop-the-steal-rally.md",
+      "title": "Top FEMA official attended Trump's 'Stop the Steal' rally",
+      "excerpt": "A top official at the Federal Emergency Management Agency, which has been assisting in preparations for the Inauguration next week, attended President Donald Trump’s “Stop the Steal” rally on Jan. 6. At that rally, Trump urged his followers to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/15/fema-trump-rally-459734",
+      "originalUrl": "https://www.politico.com/news/2021/01/15/fema-trump-rally-459734",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/ad/37/43fd268d42649efd54bf08dfbb90/ap20337786621970-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734",
+      "publishedDateTime": "2021-01-17T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-how-trumps-most-consequential-policies-have-changed-america.md",
+      "title": "How Trump's most consequential policies have changed America",
+      "excerpt": "Donald Trump's presidency has largely been defined by his disregard for political norms and his historic two impeachments.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ujB9JyRx0kc/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ujB9JyRx0kc/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210115152914-01-trump-presidency-lead-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/donald-trump-policy-legacy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/donald-trump-policy-legacy/index.html",
+      "publishedDateTime": "2021-01-17T06:12:38-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-17-trump-campaign-says-the-president-has-not-yet-chosen-impeachment-defense-team.md",
+      "title": "Trump campaign says the President has not yet chosen impeachment defense team",
+      "excerpt": "President Donald Trump has not yet assembled a defense team for his upcoming Senate impeachment trial, a spokesperson for the President's campaign said Sunday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJ0rnrr503s/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BJ0rnrr503s/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 232,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201227182837-02-trump-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/17/politics/trump-legal-team-second-impeachment/index.html",
+      "publishedDateTime": "2021-01-17T06:11:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-joe-bidens-options-for-dealing-with-donald-trump-are-worse-than-watergate.md",
       "title": "Joe Biden's Options for Dealing with Donald Trump Are Worse than Watergate",
       "excerpt": "When it comes to Donald Trump, the incoming president has a critical decision to make about the best way to move the country forward—and neither Democrats nor Republicans are likely to be happy about his choice.",
@@ -1072,214 +1293,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-police-man-charged-after-displaying-kill-biden-sign.md",
-      "title": "Police: Man charged after displaying ‘KILL BIDEN’ sign",
-      "excerpt": "A Virginia man has been arrested for having a “KILL BIDEN” sign. WWBT in Richmond reported Thursday that Kenneth Kraig Thomas of Goochland County was arrested and is facing a charge of threatening a person in writing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/police-man-charged-after-displaying-kill-biden-sign/2021/01/15/1397f9c4-5775-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-15T18:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-capitol-riots-what-are-far-right-trump-supporters-saying.md",
-      "title": "Capitol riots: What are far-right Trump supporters saying?",
-      "excerpt": "Members of the extreme right are searching for new online homes, amid paranoia that they are being ‘set up’ by the authorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/blogs-trending-55679813",
-      "originalUrl": "https://www.bbc.com/news/blogs-trending-55679813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/754F/production/_116413003_gettyimages-578547390.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/blogs-trending-55679813",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/blogs-trending-55679813",
-      "publishedDateTime": "2021-01-15T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-trump-receives-moroccos-highest-award-for-middle-east-work-official.md",
-      "title": "Trump receives Morocco's highest award for Middle East work: official",
-      "excerpt": "U.S. President Donald Trump on Friday received Morocco's highest award for his work in advancing a normalization deal between Israel and Morocco, a senior administration official told Reuters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-morocco/trump-receives-moroccos-highest-award-for-middle-east-work-official-idUSKBN29K2GK?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547969691&r=LYNXMPEH0E1FT&w=800",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-15T16:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-proud-boys-intended-to-kill-mike-pence-and-nancy-pelosi-fbi-witness-says.md",
-      "title": "Proud Boys Intended To Kill Mike Pence and Nancy Pelosi, FBI Witness Says",
-      "excerpt": "A group allegedly involved in the violent breach of the U.S. Capitol last week, including at least one self-proclaimed member of the Proud Boys, said that \"they would have killed [Vice President] Mike Pence if given the chance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062",
-      "originalUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1709898/proud-boys-pence-pelosi-capitol-riots.jpg",
-          "width": 2500,
-          "height": 1705,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062?amp=1",
-      "publishedDateTime": "2021-01-15T15:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

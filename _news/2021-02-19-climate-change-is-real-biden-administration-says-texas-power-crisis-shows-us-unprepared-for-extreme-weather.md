@@ -246,6 +246,34 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden in TX: 'Nothing partisan' about virus, storm"
+    excerpt: "President Joe Biden wrapped up his visit to storm-battered Texas, Friday with calls for unity and bipartisanship as the nation looks to help Texas recover not just from the storm but also from the health and economic crisis caused by COVID."
+    publishedDateTime: 2021-02-27T00:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/27/biden-tx-nothing-partisan-virus-storm/6844681002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c8e4d0f8-a416-4092-bc0b-0cf6a7de47be_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "On Texas visit, Biden warns Iran 'to be careful'"
+    excerpt: "President Joe Biden tells Iran on Friday, \"you can't act with impunity,\" adding, \"be careful.\" The president was speaking after U.S. military airstrikes in Syria took out facilities that housed capabilities used by Iranian-backed militia groups."
+    publishedDateTime: 2021-02-26T23:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/26/texas-visit-biden-warns-iran-to-careful/6843629002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a336019e-b858-41c2-bb50-298afa475668_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "b2MVVreiwYcFx64DAedSRqNfpGCTOQDBQDvg2+XujSGwMupW0Zu/YPKWsV+JdPhB5AnYGGEGTH0i32PKQkPeOo8iMSbxet2OBCO1Qck9IqfvXnTPH3x+YcuvGiGEYz3FtYTCDwt/kjn2fPQvYc0hLYSgs6aw9sVN/0f7F4Q/CiwXKGDmJp9MlCcKGsemHzIyJrwPJej18kL6PJ5wPrMvQjzZI3MQdQD2kBvDq2bxx3I7BVnFFiUraWSSYVTC+RiHhAoc3Sg7IaFojG+qIBFlgseaOzqiW+l6f9vFiVSziboIaHMuxDRcMWwz5DcXrwQVph/B4C65eJJRtcoTPS6BoRXSnuzPEU/B/PxcK6yzXdyLRmkL0zC9Oha3ywfCWRDZPRXuBt/fp5bEtrXubWKsJX/gzlUPp5sS81UuyN+eYy7+RJ3G1pfecGQNAE3V/rGFOk3cJgtls1m3kGVFB4wbyf9FKqRcOEPG5LPVlmlIG4ySB2CPG2RR01R8koMbIsWoBD5WYaNJY/v0kEaTj2J+DQ==;SByfLXUDz3i74IKqw0cvJA=="
 ---

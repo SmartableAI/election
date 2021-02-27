@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 405
+heat: 445
 published: true
 
 provider:
@@ -227,6 +227,34 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/714388f5-00dc-4da6-b44d-e09279b269af_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden in TX: 'Nothing partisan' about virus, storm"
+    excerpt: "President Joe Biden wrapped up his visit to storm-battered Texas, Friday with calls for unity and bipartisanship as the nation looks to help Texas recover not just from the storm but also from the health and economic crisis caused by COVID."
+    publishedDateTime: 2021-02-27T00:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/27/biden-tx-nothing-partisan-virus-storm/6844681002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c8e4d0f8-a416-4092-bc0b-0cf6a7de47be_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "On Texas visit, Biden warns Iran 'to be careful'"
+    excerpt: "President Joe Biden tells Iran on Friday, \"you can't act with impunity,\" adding, \"be careful.\" The president was speaking after U.S. military airstrikes in Syria took out facilities that housed capabilities used by Iranian-backed militia groups."
+    publishedDateTime: 2021-02-26T23:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/26/texas-visit-biden-warns-iran-to-careful/6843629002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a336019e-b858-41c2-bb50-298afa475668_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

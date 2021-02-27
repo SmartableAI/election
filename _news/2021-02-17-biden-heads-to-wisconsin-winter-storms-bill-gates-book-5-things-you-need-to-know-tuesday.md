@@ -230,6 +230,34 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden in TX: 'Nothing partisan' about virus, storm"
+    excerpt: "President Joe Biden wrapped up his visit to storm-battered Texas, Friday with calls for unity and bipartisanship as the nation looks to help Texas recover not just from the storm but also from the health and economic crisis caused by COVID."
+    publishedDateTime: 2021-02-27T00:47:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/27/biden-tx-nothing-partisan-virus-storm/6844681002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/c8e4d0f8-a416-4092-bc0b-0cf6a7de47be_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "On Texas visit, Biden warns Iran 'to be careful'"
+    excerpt: "President Joe Biden tells Iran on Friday, \"you can't act with impunity,\" adding, \"be careful.\" The president was speaking after U.S. military airstrikes in Syria took out facilities that housed capabilities used by Iranian-backed militia groups."
+    publishedDateTime: 2021-02-26T23:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/26/texas-visit-biden-warns-iran-to-careful/6843629002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a336019e-b858-41c2-bb50-298afa475668_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
     excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
     publishedDateTime: 2021-02-19T00:55:00Z
