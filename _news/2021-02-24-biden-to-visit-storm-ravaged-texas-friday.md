@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
     quality: 115
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/02/19/USAT/f188392a-9a26-456a-82d7-f1fb619253ab-AP_Biden.JPG?auto=webp&crop=5999,3374,x0,y189&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'We're in for the long haul': Biden visits Texas following storm, promises increased COVID relief"
+    excerpt: "President Joe Biden went down to the Lone Star State to survey the damage and take on his role of consoler-in-chief."
+    publishedDateTime: 2021-02-27T19:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/26/joe-biden-visits-texas-after-winter-storm-left-millions-damage/4560686001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4560686001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4560686001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/26/USAT/8e7c6749-180d-47c3-82fe-70fd4330fe8e-AP_Biden_2.jpg?auto=webp&crop=5177,2913,x0,y262&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

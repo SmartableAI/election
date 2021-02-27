@@ -415,6 +415,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gold-colored Trump statue at CPAC draws crowd"
+    excerpt: "Former President Trump has not yet made his appearance at the Conservative Political Action Conference (CPAC), but a gold-colored statue in his likeness has already stolen the show. "
+    publishedDateTime: 2021-02-27T20:01:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xofb71_v1OQ/gold-colored-statue-trump-cpac"
+    ampWebUrl: "https://www.foxnews.com/politics/gold-colored-statue-trump-cpac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gold-colored-statue-trump-cpac.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/roberts.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden admin to send 25M masks to community health centers, food pantries"
     excerpt: "The Biden administration said Wednesday that it plans to deliver more than 25 million masks to more than 1,300 community health centers and thousands of food pantries and soup kitchens, in an effort to reach the most vulnerable Americans."
     publishedDateTime: 2021-02-24T17:38:16Z

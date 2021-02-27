@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-asks-high-court-to-drop-2-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp"
 type: article
 quality: 190
-heat: 1230
+heat: 1250
 published: true
 
 provider:
@@ -398,6 +398,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cd45bd4a-914d-47c8-9045-c88ab2e0ccdd/62f79d26-240b-4f0e-ba40-411de1b62ba1/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Gold-colored Trump statue at CPAC draws crowd"
+    excerpt: "Former President Trump has not yet made his appearance at the Conservative Political Action Conference (CPAC), but a gold-colored statue in his likeness has already stolen the show. "
+    publishedDateTime: 2021-02-27T20:01:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xofb71_v1OQ/gold-colored-statue-trump-cpac"
+    ampWebUrl: "https://www.foxnews.com/politics/gold-colored-statue-trump-cpac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gold-colored-statue-trump-cpac.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/12/340/340/roberts.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "State Dept briefing gets heated as reporter asks if Biden admin taking credit for Trump accomplishments"
     excerpt: "An Associated Press reported took State Department spokesman Ned Price to task Monday for suggesting that President Joe Biden was responsible for a policy that had started under the Trump administration."

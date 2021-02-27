@@ -948,6 +948,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden hails House passage of $1.9T virus bill"
+    excerpt: "The House approved a $1.9 trillion pandemic relief bill that was championed by President Joe Biden, the first step in providing another dose of aid to a weary nation as the measure now moves to a tense Senate."
+    publishedDateTime: 2021-02-27T17:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/27/biden-hails-house-passage-1-9-t-virus-bill/6851256002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/e6d2bd9a-0380-476a-a17a-aeee09fa16ae_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden's pick to lead White House budget office faces pushback from senators"
     excerpt: "President Joe Biden is facing pushback from fellow Democrats over his pick to lead the Office of Management and Budget, Neera Tanden. CBS News senior White House and political correspondent Ed O'Keefe and Los Angeles Times congressional reporter Jennifer Haberkorn join CBSN's Lana Zak to discuss."
     publishedDateTime: 2021-02-25T03:28:00Z

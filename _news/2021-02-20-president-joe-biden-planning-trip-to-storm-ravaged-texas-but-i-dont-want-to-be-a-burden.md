@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'We're in for the long haul': Biden visits Texas following storm, promises increased COVID relief"
+    excerpt: "President Joe Biden went down to the Lone Star State to survey the damage and take on his role of consoler-in-chief."
+    publishedDateTime: 2021-02-27T19:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/26/joe-biden-visits-texas-after-winter-storm-left-millions-damage/4560686001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4560686001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4560686001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/26/USAT/8e7c6749-180d-47c3-82fe-70fd4330fe8e-AP_Biden_2.jpg?auto=webp&crop=5177,2913,x0,y262&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "President Biden heads to Texas to assess damage after horrific winter storm left millions without power"
     excerpt: "President Joe Biden will visit Houston where he will meet with local leaders to discuss the storm, relief efforts and recovery."
     publishedDateTime: 2021-02-26T09:03:00Z

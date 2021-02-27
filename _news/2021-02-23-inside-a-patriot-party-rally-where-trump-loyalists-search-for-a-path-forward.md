@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump makes fundraising moves ahead of CPAC speech"
+    excerpt: "Former President Donald Trump is weighing the creation of a super PAC as he seeks to assert his authority over the Republican Party and expand his post-presidential political operation.\n    \n"
+    publishedDateTime: 2021-02-27T20:45:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/dBe7ErOXqBg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/trump-fundraising-super-pac/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/trump-fundraising-super-pac/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Cheney and McCarthy At Odds Over Trump Role in Republican Party"
     excerpt: "Representative Kevin McCarthy of California and Representative Liz Cheney of Wyoming disagreed on whether former President Donald J. Trump should speak at a conservative event this week."
     publishedDateTime: 2021-02-24T19:51:00Z
