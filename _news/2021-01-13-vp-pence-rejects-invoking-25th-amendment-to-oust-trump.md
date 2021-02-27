@@ -3599,16 +3599,16 @@ related:
       domain: sfchronicle.com
     quality: 54
   - title: "VP Kamala Harris visits a COVID-19 Vaccination Facility in Washington, DC"
-    excerpt: "United States Vice President Kamala Harris aarrives during a visit to a COVID-19 vaccination facility in an effort to promote the administration's plan to promote vaccinations in areas hit hard by the virus,"
+    excerpt: "United States Vice President Kamala Harris watches as Dr. Linval Matthews administers a Moderna COVID-19 vaccine to Brenda Thompson during a visit to a COVID-19 vaccination facility in an effort to promote the administration's plan to promote vaccinations in areas hit hard by the virus,"
     publishedDateTime: 2021-02-25T15:39:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/5ab6a54da59543642b9fb0fd0f1b1eb7/VP-Kamala-Harris-visits-a-COVID-19-Vaccination-Facility-in-Washington-DC/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/41d5d8d6ee66cd831cd3bc17f7f4d076/VP-Kamala-Harris-visits-a-COVID-19-Vaccination-Facility-in-Washington-DC/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 54
     images:
-      - url: "https://cdnph.upi.com/pv/upi/5ab6a54da59543642b9fb0fd0f1b1eb7/HARRIS-VIRUS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/41d5d8d6ee66cd831cd3bc17f7f4d076/HARRIS-VIRUS.jpg"
         width: 650
         height: 433
         isCached: true

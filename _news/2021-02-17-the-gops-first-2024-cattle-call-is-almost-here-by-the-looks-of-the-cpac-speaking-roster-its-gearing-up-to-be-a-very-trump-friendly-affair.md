@@ -79,10 +79,10 @@ related:
         isCached: true
   - title: "At CPAC, rising GOP stars send message that Trump is here to stay"
     excerpt: "Trump, the marquee speaker this year, will make his first public remarks since leaving office at CPAC on Sunday."
-    publishedDateTime: 2021-02-27T00:50:00Z
-    webUrl: "https://www.cbsnews.com/news/cpac-trump-here-to-stay/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-trump-here-to-stay/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-trump-here-to-stay/"
+    publishedDateTime: 2021-02-27T12:18:00Z
+    webUrl: "https://www.cbsnews.com/news/cpac-republicans-trump-here-to-stay/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-republicans-trump-here-to-stay/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-republicans-trump-here-to-stay/"
     type: article
     provider:
       name: CBS News

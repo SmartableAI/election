@@ -2,11 +2,11 @@
 category: news
 title: "At CPAC, rising GOP stars send message that Trump is here to stay"
 excerpt: "Trump, the marquee speaker this year, will make his first public remarks since leaving office at CPAC on Sunday."
-publishedDateTime: 2021-02-27T00:50:00Z
-originalUrl: "https://www.cbsnews.com/news/cpac-trump-here-to-stay/"
-webUrl: "https://www.cbsnews.com/news/cpac-trump-here-to-stay/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-trump-here-to-stay/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-trump-here-to-stay/"
+publishedDateTime: 2021-02-27T12:18:00Z
+originalUrl: "https://www.cbsnews.com/news/cpac-republicans-trump-here-to-stay/"
+webUrl: "https://www.cbsnews.com/news/cpac-republicans-trump-here-to-stay/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-republicans-trump-here-to-stay/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-republicans-trump-here-to-stay/"
 type: article
 quality: 125
 heat: -1
@@ -169,6 +169,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "k1Ux4Pe20P4abB/tyWFxdcMUBOj/6LIQSpE5FchUFcCWwwFdDr1cTXvSRD6hdOBmvsZMbSuTl9iUF0ptI1yD/L7yHMz6OGXyHGB0J8R+dOWri4V5MBw7LUdzAiEH1fChxZJj0fcu80q2uDoYtMVwhaI8NP2QP3v65/YKj3lBZPgTusVp7KC5GxnHkOfVQ+IM7J2TZX+akkzE6+d7PpIO1Id1u8yqpnsyYyB4ivI4VPZSKIlDwo8WsaWEvm1iVGDcdSe+pIuLmCoc990lUF9+YEOIQeMEQ4JYvZXRk6xb3uGpKsXngcFOFXqb1iwdl8BhCmUObEk7z5Frrd9KUvnOzpIVDmD4PlP04sGKdfsbUmw=;qauUefQASc5dBawg/eIeBw=="
+secured: "YiqEi4o8oz/Jlj5bEYpot7xOrxQbhfgSaIlWxGC4dneGIHVelmW7ObEwPOrcoXhLyMH3thURRCHjb9BBzrZjId1d5LvDfUawQoYcWLazu23v3RewJCucshM8tirFOYIWumCJfGz/FOfWO/4bYJ+gzD75StPn5uPK44Cs1Y8iAPrpYHTZRtPAKgezqIWT5O1/lXmV5yhDxYuhVRtCzoRNhZqZ6BsMbY7Z9bnMfAPDjQ+C5hLx7jbvwu1zlQoN14Wkb3yB5vgkXGDBwAUqk732BZco6Jv2EEwpnu/ZD+WRYocr8v00jXmJohamlLMGUGrFAO45SuEGfv+Lqc3F8g8KPh8TVecBQMyw6tdRACk+WW8=;Kb+y2Rw+e0LQf8oEbvcoLg=="
 ---
 

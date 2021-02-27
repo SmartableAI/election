@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Jake Tapper Says Joe Biden Is Like Donald Trump on Saudi Prince: 'Save MBS' Ass'"
+    excerpt: "CNN's Jake Tapper compared President Joe Biden to former President Donald Trump on Friday following the administration's decision not to sanction Saudi. A U.S. intelligence report published on Friday concluded that bin Salman,"
+    publishedDateTime: 2021-02-27T08:36:00Z
+    webUrl: "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561"
+    ampWebUrl: "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 135
+    images:
+      - url: "https://d.newsweek.com/en/full/1744714/saudi-arabias-crown-prince-mohammed-bin-salman.jpg"
+        width: 2500
+        height: 1658
+        isCached: true
   - title: "Unlike Trump's COVID Bills, Biden's $1.9 Trillion Plan Largely Spends Money On The Virus"
     excerpt: "As House members prepare for the anticipated vote on President Joe Biden's nearly $2 trillion coronavirus relief package on Friday, Republicans have spent much of their time lamenting the massive amount of money that it will cost taxpayers."
     publishedDateTime: 2021-02-26T16:42:00Z
@@ -405,6 +421,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden White House Asks 'Trump Who?' Ahead of Speech to Conservatives"
+    excerpt: "President Joe Biden's White House has made it clear it plans to ignore Donald Trump's speech on Sunday to a conservative conference in Florida, where the former president is expected to go on the attack against his successor."
+    publishedDateTime: 2021-02-27T12:19:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-27/biden-white-house-asks-trump-who-ahead-of-speech-to-conservatives"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-27/biden-white-house-asks-trump-who-ahead-of-speech-to-conservatives?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-27/biden-white-house-asks-trump-who-ahead-of-speech-to-conservatives?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 70
 
 secured: "UvQeXnhn0ikEaw0IfpsCkaCMw+RNqwDrwZP1481ZHdUsD9/dWf2g4jeRItifZtUhF44ICbdPTlcUOGxVLYsXW9AX+TlQRvj1H27YrvEe7iCs/JLSLNrbmSYX8GTzPRBPeSq+CuD9P1Jtrh934N8aH/CuVgcllOmkdD8EpevgRBNC8mjAk+SNATOnciBaUAIeaTj2AlG6lSgObvbB3vNfstEtoFLnZV4boTULsTEzFbaQYkibrzbuT5GmBZB2/tWroLXEwzd2BVN0zKlpfSmE2Np+i+uUb2efofSd+jk2zKd55OX2LVmIDfVcdfC8EIcUHybe5Kgz/T5P3CebgRNDWV6/M1Egdv4feyty/iXe9QlaasKri3cauESh95Jh0jNJf7W+Kk1qUMHPgqhzkZZ2iloou6QGN6Lf5QgM8WvnvvWP4Fv2qJ/2ie+ucrZDXJAS5faV/mxuq9kxKLcSsN1OerN0NwG6tVs3bWbi2+vftLgbS13B6BQ8zScBxriM6M/tjjtEXh/J90CZp6efBiIBEw==;nagwIEFKNzLcPTOb1xnpyw=="
 ---
