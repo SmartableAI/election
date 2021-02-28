@@ -137,6 +137,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Donald Trump acquitted in second impeachment trial"
+    excerpt: "It was always unlikely that 17 Republican senators would jump ship and join Democrats to impeach Trump. Photograph: Tom Brenner/Reuters Donald Trump has been acquitted by the Senate in his second ..."
+    publishedDateTime: 2021-02-14T05:09:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/13/donald-trump-acquitted-impeachment-trial"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/13/donald-trump-acquitted-impeachment-trial"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/13/donald-trump-acquitted-impeachment-trial"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/574ab1f5c089af6d20b22c3b2b9f600724065e8f/0_106_2671_1603/master/2671.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=81f6ad1e9bf1d3b49c193973b79c674e"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Donald Trump's second impeachment trial was sad but necessary"
+    excerpt: "U.S. Sen. Ted Cruz would like you to believe that the second impeachment trial of Donald Trump, which ended Saturday with the Senate’s acquittal despite a 57-43 vote to convict, was nothing more ..."
+    publishedDateTime: 2021-02-14T01:07:00Z
+    webUrl: "https://www.houstonchronicle.com/news/columnists/grieder/article/Donald-Trump-s-second-impeachment-trial-was-sad-15949463.php"
+    ampWebUrl: "https://www.houstonchronicle.com/news/columnists/grieder/amp/Donald-Trump-s-second-impeachment-trial-was-sad-15949463.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/news/columnists/grieder/amp/Donald-Trump-s-second-impeachment-trial-was-sad-15949463.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/47/74/20610827/6/375x250.jpg"
+        width: 375
+        height: 249
+        isCached: true
   - title: "Former President Donald Trump acquitted in 2nd impeachment trial"
     excerpt: "President Donald Trump 's second impeachment trial came to a climactic end on Saturday afternoon, with Trump being acquitted for his alleged role of inciting the deadly event. A majority of senators voted to convict the former president,"
     publishedDateTime: 2021-02-14T04:49:00Z
@@ -536,22 +568,6 @@ related:
       - url: "https://s.abcnews.com/images/US/WireAP_6b667e32aed8483fa2f05bc435644913_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Food groups fight to save one Trump virus program"
-    excerpt: "Agricultural groups and anti-hunger organizations are pushing the Biden administration to continue a program launched by President Donald Trump that spent $6 billion to prevent farmers from plowing un"
-    publishedDateTime: 2021-02-23T16:22:00Z
-    webUrl: "https://www.washingtonpost.com/health/food-groups-fight-to-save-one-trump-virus-program/2021/02/23/53950868-75f3-11eb-9489-8f7dacd51e75_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/food-groups-fight-to-save-one-trump-virus-program/2021/02/23/53950868-75f3-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/food-groups-fight-to-save-one-trump-virus-program/2021/02/23/53950868-75f3-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Trump to attend GOP's spring donor retreat"
     excerpt: "Former President Trump is scheduled to attend the Republican National Committee's spring donor retreat in Florida this April, according to a Republican familiar with the situation and an invitation obtained by CBS News."
@@ -1264,20 +1280,6 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/f09b42a7-7eb7-4f20-bfe7-a9707f3ca0a8_poster.jpg?quality=10"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "'Donald Trump was linchpin behind Capitol riots'"
-    excerpt: "Although there were a growing number of extremist groups in the United States before former President Donald Trump came to office, the Capitol riots would not have happened without him and the claim the election was stolen,"
-    publishedDateTime: 2021-02-23T13:19:00Z
-    webUrl: "https://www.bbc.com/news/av/world-us-canada-56168050"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 105
-    images:
-      - url: "https://ichef.bbci.co.uk/images/ic/400xn/p097sx9r.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "SCOTUS denies Trump bid to shield tax returns"
     excerpt: "Politics SCOTUS denies Trump bid to shield tax returns. Posted . Donald Trump suffered a major setback on Monday in his long quest to conceal details of his finances as the U.S. S"

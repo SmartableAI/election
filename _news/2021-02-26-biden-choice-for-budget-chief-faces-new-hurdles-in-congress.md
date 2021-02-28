@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "More policy, less pomp as Biden and Trudeau meet virtually"
-    excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
-    publishedDateTime: 2021-02-24T02:16:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_0067a91419334861af58da6fd748679b_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "More policy, less pomp as Biden and Trudeau meet virtually"
-    excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
-    publishedDateTime: 2021-02-25T09:01:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+  - title: "Biden, facing resistance in Congress, courts GOP governors"
+    excerpt: "Biden is spending at least as much time courting Republican governors as he is wooing the senators he needs to pass legislation in Washington."
+    publishedDateTime: 2021-02-25T13:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3R4GDTW3II6XFJXJFQVRTC73E.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden says he will push for funding for semiconductor legislation"
+    excerpt: "U.S. President Joe Biden said on Wednesday he will push for funding for semiconductor legislation following a meeting with bipartisan group of lawmakers about supply chain issues."
+    publishedDateTime: 2021-02-24T21:09:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-semiconductors-idUSW1N2KA060"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KA060"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KA060"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552798506&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N1LM"
+        width: 816
+        height: 545
         isCached: true
   - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
     excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
@@ -77,53 +77,35 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden seeks to 'reinvigorate' US-Canada relations in first bilateral meeting with Trudeau"
-    excerpt: "The U.S.-Canada relationship was deeply strained during the Trump administration, with tensions spiking over trade and spilling over into personal insults."
-    publishedDateTime: 2021-02-23T10:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/23/joe-biden-seeks-reinvigorate-us-canada-relations/4546288001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4546288001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4546288001"
+  - title: "Two senators join Manchin in opposing Biden budget pick Neera Tanden, putting nomination in peril"
+    excerpt: "Neera Tanden has come under fire during the confirmation process for her past tweets and statements criticizing lawmakers on both sides of the aisle."
+    publishedDateTime: 2021-02-22T16:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/22/mitt-romney-susan-collins-oppose-biden-budget-nominee-neera-tanden/4539982001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4539982001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4539982001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 116
+    quality: 112
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/ff0ad41e-afaf-4be1-9214-3dd4620700f5-VPC_CANADA_US_TRAVEL_BAN_DESK_THUMB.00_00_03_00.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/e38a4941-b873-41d2-9d50-a260b8e1231e-Double_masking_09.JPG?auto=webp&crop=5746,3232,x1,y237&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Justin Trudeau says US leadership has been 'sorely missed' during first meeting with Biden"
-    excerpt: "Canadian PM congratulates US president on rejoining Paris accord, saying ‘it’s nice when the Americans are not pulling out all the references to climate change’"
-    publishedDateTime: 2021-02-24T01:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+  - title: "Biden nominates three to USPS board of governors as DeJoy testifies on mail crises"
+    excerpt: "The White House moves to reassert control of the U.S. Postal Service as the postmaster general brushes off lawmakers’ calls to resign."
+    publishedDateTime: 2021-02-24T23:26:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/02/24/dejoy-hearing-usps-live-updates/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 115
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 99
     images:
-      - url: "https://i.guim.co.uk/img/media/92f4d394d2c49c86c46e628d5e42bc7db1b6700d/56_372_3769_2262/master/3769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aa842ac91dc9a696ee51e2e1e51e2fbb"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "'US leadership has been sorely missed.' Trudeau, Biden seek to repair alliance in first meeting"
-    excerpt: "The U.S.-Canada relationship was deeply strained during the Trump administration, with tensions spiking over trade and spilling over into personal insults."
-    publishedDateTime: 2021-02-25T00:39:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/23/joe-biden-seeks-reinvigorate-us-canada-relations/4546288001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4546288001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4546288001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/30038c47-c90a-4ea2-a65d-ff270c5e5dda-AP_Biden.jpg?auto=webp&crop=1999,1124,x0,y88&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BUWJEQDW2YI6XFEJR562ZVI6OU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
 
 secured: "emyKKTfn2V6GoZ6HLotXWIQeCRV62OkfIsAcZ9C8Q/lN68KRwlpMGDcZU6CgfL2wGSzMFqEkoHYwNRcjLvKA8Io5jZWCTtWpeu/Lp1uWAMeIcVlsFFPZrSINGVKmvhUO0laI268Nj2/3+ftMplL/06xN5x99F0IznsfAghzdGFVlvOsjwbAV7LBhm9UR5CdKGPxxJhokAQRAVM3j3cMDK/TF8RSXhrTkaxFg5LsDoXB47vawTr9Bry/EoyJyh0gE1OQdQgJSycK4b2Lz4UjS2O73aDXlJtfYP6N/LDJ9rjuC9KWnjV/4lwZfP2g0cl19ionDaOyyJnSAaZ74ijCLJxC88NOCYaWKPOl0ve0/pKRCABHemO45DTXU+iXpHmhX4nbmj0pHoiUIZVc5Iy0BJq25zJXXTqes3Kf7ceLTtennar0WGOHYou5l/bmxpUDCcVIHYnlyRZFKQoZz7iCKj4rl34D7FWoqHRCJD/UM8xVAVC7Nz8J7jZr8RfHX7cMuJ3V+NQKjtcDfWGfqFSS/VQ==;7/vApJ9zReBuY20+WFYWeg=="

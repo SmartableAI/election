@@ -143,6 +143,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Senate acquits Trump for inciting Capitol riot even as bipartisan majority votes to convict"
+    excerpt: "The Senate on Saturday acquitted former President Donald Trump in a 57-43 vote on the charge of inciting insurrection for his role in the Jan. 6 Capitol riot. Seven GOP Senators voted guilty in ..."
+    publishedDateTime: 2021-02-13T22:38:00Z
+    webUrl: "https://www.cnbc.com/2021/02/13/senate-acquits-former-president-donald-trump-on-charge-of-inciting-insurrection-at-us-capitol-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/13/senate-acquits-former-president-donald-trump-on-charge-of-inciting-insurrection-at-us-capitol-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/13/senate-acquits-former-president-donald-trump-on-charge-of-inciting-insurrection-at-us-capitol-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 115
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106819967-16099540452021-01-06t172608z_985055494_rc2h2l9fywdv_rtrmadp_0_usa-election-trump.jpeg?v=1609954074"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "Arkansas' GOP governor says he won't back a Trump 2024 bid"
     excerpt: "Arkansas Gov. Asa Hutchinson said Sunday he will not back Donald Trump if the former president runs for the White House in 2024, saying “it’s time” to move on to different voices in the Republican Party."
     publishedDateTime: 2021-02-22T18:54:00Z

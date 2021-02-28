@@ -47,38 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "More policy, less pomp as Biden-Trudeau meet virtually"
-    excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
-    publishedDateTime: 2021-02-23T22:47:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Senate advances key nominees as Biden's Cabinet starts to take shape"
-    excerpt: "President Joe Biden's Cabinet rounded further into form Tuesday with the approval of two nominees and confirmation hearings on three more. The Senate approved former Agriculture Secretary Tom Vilsack to serve in the same position in Biden's Cabinet."
-    publishedDateTime: 2021-02-24T01:51:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/23/joe-biden-cabinet-taking-shape-senate-oks-thomas-greenfield-vilsack/4556541001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4556541001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4556541001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 125
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/7d61f808-12a0-46ae-813d-b7ba1de4cb8e-USP_News__Senate_hearing_on_the_Jan._6_attack_on_t.jpg?auto=webp&crop=4445,2501,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "UPDATE 1-Biden to travel to winter storm-battered Texas on Friday"
     excerpt: "U.S. President Joe Biden and first lady Jill Biden will travel to Texas on Friday to visit a state that has been hit hard by a winter storm, leading to mass power outages and a disruption of water supplies,"
     publishedDateTime: 2021-02-23T16:24:00Z
@@ -158,6 +126,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/86372474d992a6216b8c4c86e110fb68dda8bcd3/0_0_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2e7e8d27534d07dd3ac81b47cc714f57"
         width: 600
         height: 360
+        isCached: true
+  - title: "Federal judge in Texas blocks Biden's 100-day deportation pause in nationwide order"
+    excerpt: "Granting a nationwide injunction sought by Texas, a federal judge has blocked the Biden administration's plans to pause deportations for 100 days."
+    publishedDateTime: 2021-02-24T17:14:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/24/federal-judge-texas-blocks-joe-biden-100-day-deportation-pause/4576411001/?scrolla=5eb6d68b7fedc32c19ef33b4"
+    ampWebUrl: "https://amp.usatoday.com/amp/4576411001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4576411001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/14/NAAS/0dc111b6-63c9-4c2f-b2c4-5bc23496c694-Biden_Immigration.jpg?auto=webp&crop=5191,2920,x0,y519&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden heads to Wisconsin, winter storms, Bill Gates book: 5 things you need to know Tuesday"
     excerpt: "President Joe Biden travels to Wisconsin, another dose of severe weather is on the way and more news to start your Tuesday."

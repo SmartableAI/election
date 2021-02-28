@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Republicans regroup around attacks on Biden administration —including Kamala Harris"
+    excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
+    publishedDateTime: 2021-02-25T18:11:00Z
+    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article249514215.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article249514215.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article249514215.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 84
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "EFwNpIocDIXGQ26BPz2/mSlSq85KnSIFxF3Z6TkDDYEQnK6KP9XdybJk+OuyRobRj5tVN2Eq1CugPGT8kzNlSzYSbVsgUQZ7lwQcKDvD1yG7vyS93K7FqB5VC5jFUo2VgZ3TFk0UDAsvCSnSSMH5OZWfZMXqNqO45Iep7vxLb4VIfzb/ngyorCHM8nHe64PtVI+k41jzwaWjsGwIA97kLli2aLR8nloKnG0RI7c+di6ZaoVIVh6Ew6+1Ool3p1GamaT6k59otZ61Pnxyv/unK62A5GHYXy2Qvg6PyiNQFnquDQq8CIAJJ2dGiTq3xeiL2d67LXPxsbljUzKrFFMfiRxdVlvSHFLM3p1U6uy3oDXAgayfxqDZ6aCIUVb9+js721dFtInk2P/oqLkCt53r4sdS7P/7eO+3/jY6IESbd5FM9phTfqLZCcTbbTtT111xsSUO20W1jpHwqQy+RP7FMrNA15LV9bmcx000dzD+R8GWUiiTBYzg2xrYfs8ToC633m9s8ujLY2FidxKbvTeUeg==;lmxTmkP2KjJaDTH7N1oEuQ=="
 ---

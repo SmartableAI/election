@@ -121,22 +121,6 @@ related:
         width: 1024
         height: 641
         isCached: true
-  - title: "Biden revokes Trump orders on 'anarchist' cities and more"
-    excerpt: "President Joe Biden has formally revoked a series of presidential orders and memorandum signed by Donald Trump"
-    publishedDateTime: 2021-02-25T04:43:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-revokes-trump-orders-anarchist-cities-76099200"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-revokes-trump-orders-anarchist-cities-76099200"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-revokes-trump-orders-anarchist-cities-76099200"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a69f852044fc41338ddc33bb8d98d485_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."
     publishedDateTime: 2021-02-06T06:03:00Z

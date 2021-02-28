@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-speech-2022-elections-20
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-speech-2022-elections-2024-election-newt-gingrich.amp"
 type: article
 quality: 186
-heat: 686
+heat: 706
 published: true
 
 provider:
@@ -410,6 +410,20 @@ related:
     quality: 118
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec17f718-5e13-4765-a0d5-abf5b7c50419/3ab1b96b-d63b-4a7e-8f79-81596a21a222/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump CPAC 2021 speech to be first major address since leaving office"
+    excerpt: "Trump has made a handful of public statements since he left office, including calling into Fox News to discuss the death of radio legend Rush Limbaugh and the car crash of his fri"
+    publishedDateTime: 2021-02-28T16:21:00Z
+    webUrl: "https://www.foxnews.com/politics/cpac-2021-speakers-rush-limbaugh-honored-at-ronald-reagan-dinner"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 109
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c27c85e-3b06-4a0c-a3c5-bf53ca9c8b6f/846dc3aa-8e91-4932-8e6f-acb1fbaff51d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden wants to reopen schools. Here's why that's so hard to do"
+    excerpt: "Millions of students across the US are still out of the classroom after nearly a year, fueling a heated debate among school districts, teachers and parents about the best -- and safest -- way to educate kids even as President Joe Biden pushes to get them back in buildings.\n    \n"
+    publishedDateTime: 2021-02-28T16:28:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4GHA6WDNOLs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/why-school-reopening-is-so-hard/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/why-school-reopening-is-so-hard/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226125638-utah-covid-classroom-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Biden's pick for HHS secretary says he never sued nuns as California attorney general"
     excerpt: "President Joe Biden's pick to run the Department of Health and Human Services, California's Attorney General Xavier Becerra, faced a good deal of criticism from Senate Republicans during his confirmation hearing last week over his qualifications, his stance on abortion and several lawsuits he took part"
     publishedDateTime: 2021-02-27T21:10:19Z

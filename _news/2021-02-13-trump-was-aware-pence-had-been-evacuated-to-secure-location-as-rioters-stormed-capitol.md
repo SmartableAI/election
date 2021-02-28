@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-pence-capitol-riot/index.html"
 type: article
 quality: 192
-heat: 1452
+heat: 1432
 published: true
 
 provider:
@@ -747,22 +747,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Donald Trump acquitted in second impeachment trial"
-    excerpt: "In the most bipartisan Senate impeachment vote in history, former President Trump was declared not guilty of the impeachment charge that he incited the Capitol insurrection. Trump released a statement calling the trial a “witch hunt."
-    publishedDateTime: 2021-02-14T01:41:00Z
-    webUrl: "https://www.nbcnews.com/nightly-news/video/donald-trump-acquitted-in-second-impeachment-trial-100998213510"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo100998213510"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo100998213510"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/nn_khu_impeachment_trial_trump_acquitted_210213_1613261732532.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Party leaders rip Republicans who voted to convict Trump"
     excerpt: "The seven Republican senators who voted to convict former President Donald Trump of inciting the deadly Jan. 6 insurrection are already feeling the heat back home. Several state Republican parties moved quickly to discipline or criticize home-state senators for breaking with the 43 other Senate Republicans who voted to acquit Trump in his second impeachment trial."

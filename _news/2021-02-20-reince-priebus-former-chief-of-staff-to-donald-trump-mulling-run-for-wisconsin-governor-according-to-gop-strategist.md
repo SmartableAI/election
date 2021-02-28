@@ -63,38 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump to reemerge at CPAC as GOP tries to plot its future"
-    excerpt: "\"There's no question that the gun has gone off on the 2024 campaign for the Republican nomination,\" says American Conservative Union chairman Matt Schlapp."
-    publishedDateTime: 2021-02-26T11:00:00Z
-    webUrl: "https://www.cbsnews.com/news/cpac-2021-trump-2024-preview/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/26/7558afe2-990a-4ffc-8429-7f2e6f9d3f9a/thumbnail/1200x630/8e24dcc458effb4e504fa3ad24b93094/ap21057076398977.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "At CPAC, rising GOP stars send message that Trump is here to stay"
-    excerpt: "Trump, the marquee speaker this year, will make his first public remarks since leaving office at CPAC on Sunday."
-    publishedDateTime: 2021-02-27T12:18:00Z
-    webUrl: "https://www.cbsnews.com/news/cpac-republicans-trump-here-to-stay/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-republicans-trump-here-to-stay/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-republicans-trump-here-to-stay/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/27/f6ac56df-c1c4-4517-97b7-4a9d4432c6cc/thumbnail/1200x630/72421f3248e10fdac7e53c8e4aaea53f/gettyimages-1304272594.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "As Trump reemerges, will the GOP find a way to move on without him?"
     excerpt: "The Republican base brooks no dissent about the former president, while others look to a future in which he becomes a diminished force."
     publishedDateTime: 2021-02-27T16:29:00Z
@@ -143,21 +111,35 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Trump plans to use his CPAC speech as a 'show of force' to exert control over the GOP, report says"
-    excerpt: "Trump plans to use his first post-presidency public speech to show what power he still has over the Republican Party, Axios reported."
-    publishedDateTime: 2021-02-22T13:36:00Z
-    webUrl: "https://www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2?amp"
+  - title: "Conservatives have made a gold-colored Trump statue"
+    excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"
+    publishedDateTime: 2021-02-28T12:46:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE1KBLFN"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://i.insider.com/60339663bed5c50011a2bc53?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://static.reuters.com/resources/r/?d=20210228&i=OVE1KBLFN&r=OVE1KBLFN&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Trump dominant force at conservative conference"
+    excerpt: "Trump on Sunday will be making his first post-presidential appearance at the conference, and aides say he will use the speech to reassert his power."
+    publishedDateTime: 2021-02-27T13:20:00Z
+    webUrl: "https://www.al.com/news/2021/02/trump-dominant-force-at-conservative-conference.html"
+    ampWebUrl: "https://www.al.com/news/2021/02/trump-dominant-force-at-conservative-conference.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/02/trump-dominant-force-at-conservative-conference.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GFZDVPLSCZFQ3COVYGFYRO7M2E.jpg"
+        width: 4000
+        height: 2666
         isCached: true
   - title: "The GOP's first 2024 cattle call is almost here. By the looks of the CPAC speaking roster, it's gearing up to be a very Trump-friendly affair."
     excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
