@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/26/bidens-pick-hhs-s
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/26/bidens-pick-hhs-sued-trump-administration-not-group-nuns/?outputType=amp"
 type: article
 quality: 140
-heat: 740
+heat: 760
 published: true
 
 provider:
@@ -434,6 +434,20 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/24/71b9f6bd-379e-4db7-a998-935ba9d9be78/thumbnail/1200x630/1e805f87a03f7600bffb66235fb54868/cbsn-fusion-president-biden-to-sign-executive-order-on-supply-chains-thumbnail-652931-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Conservatives have made a gold-colored Trump statue"
+    excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"
+    publishedDateTime: 2021-02-28T12:46:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE1KBLFN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210228&i=OVE1KBLFN&r=OVE1KBLFN&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Biden revokes Trump orders on ‘anarchist’ cities, restores New York City’s funding"
     excerpt: "President Joe Biden on Wednesday formally revoked a series of presidential orders and memorandum signed by Donald Trump, including one that sought to cut funding from several cities the 45th president deemed “anarchist” havens and another mandating that federal buildings should be designed in a classical aesthetic."

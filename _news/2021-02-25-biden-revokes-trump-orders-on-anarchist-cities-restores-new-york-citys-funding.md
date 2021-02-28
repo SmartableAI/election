@@ -447,6 +447,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Conservatives have made a gold-colored Trump statue"
+    excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"
+    publishedDateTime: 2021-02-28T12:46:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE1KBLFN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210228&i=OVE1KBLFN&r=OVE1KBLFN&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Republicans regroup around attacks on Biden administration —including Kamala Harris"
     excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
     publishedDateTime: 2021-02-25T18:11:00Z

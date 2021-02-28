@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-02-28-biden-a-statement-on-saudi-arabia-coming-monday.md",
-      "title": "Biden: A statement on Saudi Arabia coming Monday",
-      "excerpt": "US President Joe Biden on Saturday answered a single question about whether he will punish the Saudi crown prince following the Khashoggi report. (Feb. 27)",
+      "path": "_news/2021-02-28-biden-will-not-sanction-mbs-over-khashoggis-killing-despite-us-report-implicating-the-saudi-leader.md",
+      "title": "Biden will not sanction MBS over Khashoggi's killing despite US report implicating the Saudi leader",
+      "excerpt": "Other than being downgraded in the eyes of the US under Biden, it's unclear what other consequences, if any, MBS will face over Khashoggi's killing.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/02/27/biden-statement-saudi-arabia-coming-monday/6854324002/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/02/27/biden-statement-saudi-arabia-coming-monday/6854324002/",
+      "webUrl": "https://www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2",
+      "originalUrl": "https://www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 151,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/65d8b199-88e3-4103-8af9-7e1a6fe98d85_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://i.insider.com/6039520805ddb100195f67da?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-27T13:54:00-08:00",
+      "ampWebUrl": "https://www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2?amp",
+      "publishedDateTime": "2021-02-28T03:08:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

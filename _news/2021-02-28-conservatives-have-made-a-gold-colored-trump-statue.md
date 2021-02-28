@@ -1,33 +1,31 @@
 ---
 category: news
-title: "Federal judge's ruling allows deportations to continue despite Biden's attempt at pause"
-excerpt: "Lawyers for the administration argued the pause was needed to reassess U.S. Immigration and Customs Enforcement policies."
-publishedDateTime: 2021-02-24T17:26:00Z
-originalUrl: "https://abcnews.go.com/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
-webUrl: "https://abcnews.go.com/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
+title: "Conservatives have made a gold-colored Trump statue"
+excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"
+publishedDateTime: 2021-02-28T12:46:00Z
+originalUrl: "https://www.reuters.com/video/watch/idOVE1KBLFN"
+webUrl: "https://www.reuters.com/video/watch/idOVE1KBLFN"
 type: article
-quality: 117
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/deportations-2-gty-rc-210224_1614176925783_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://static.reuters.com/resources/r/?d=20210228&i=OVE1KBLFN&r=OVE1KBLFN&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -365,6 +363,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Federal judge's ruling allows deportations to continue despite Biden's attempt at pause"
+    excerpt: "Lawyers for the administration argued the pause was needed to reassess U.S. Immigration and Customs Enforcement policies."
+    publishedDateTime: 2021-02-24T17:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/federal-judges-ruling-deportations-continue-bidens-attempt-pause/story?id=76085000"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/deportations-2-gty-rc-210224_1614176925783_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden Reopens Gateway For Green Cards, Work Visas Reversing Trump COVID-19 Freeze"
     excerpt: "The change means the wait is over for hundreds of thousands of job-seeking foreigners and those pursuing permanent residency in the U.S., to apply for the coveted immigration documents."
     publishedDateTime: 2021-02-25T03:12:00Z
@@ -435,20 +449,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Conservatives have made a gold-colored Trump statue"
-    excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"
-    publishedDateTime: 2021-02-28T12:46:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE1KBLFN"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210228&i=OVE1KBLFN&r=OVE1KBLFN&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Biden revokes Trump orders on ‘anarchist’ cities, restores New York City’s funding"
     excerpt: "President Joe Biden on Wednesday formally revoked a series of presidential orders and memorandum signed by Donald Trump, including one that sought to cut funding from several cities the 45th president deemed “anarchist” havens and another mandating that federal buildings should be designed in a classical aesthetic."
     publishedDateTime: 2021-02-25T12:16:00Z
@@ -509,6 +509,6 @@ related:
       domain: usnews.com
     quality: 70
 
-secured: "2iZvEYybK72cAufvcvvrZrKTIK06nIKC0M07aLle8GHijp2OOhJWu1bvRLXxmMWMFvGoMf3nZZI6urihORmq/YEICrOXwOmC0Iwih2gQiM/Ha5Yb+FLMlHg7BPsKRU59QqqyYCNUv25Bc70NWe2qmIGKK3zgOq1R24axTUXauwJjoONx5g4Y2U7QWEIoceXLZ3iJ5B3crkmdJR8x+vVLaoE/vkAU2ik5Ss3ifk9IHKkQkJ6K4SCexWoSxzrlNwhBscWpGJ79Ui0WFvCNjJpC7+gTzRtF6jMSadtjXNVskIL1oXmnfGvYtyC25oSAi0jxq05+etg9f9xt+rbNsZHJexYlf8Tdq9lpM6Cl9BeCuXHdAfrFSXYtV3NEKc9eLv1qz5I32NtyCn+UnD/ORzTO46ldvN6y6OEEulStt4fZG4xxDlEgNUvQjucuvnZT/IIHmErvkq2pJNSlMIVl/GcqWhtwdwv3SI9Gv9RMnoBFuPHnWJXDvmFoAcNBVTMg8802F+mctOsj3tR2qL1gFIv3YQ==;EWvsBuwCdNxQx4vOm8oGaw=="
+secured: "PZZzEsB6IOPERbDZ5K8AUjh4LXCYDOEcN4QrWU3ixlVmUxHOuf/J8H+ViRSOxvXHXwyocyFixlJh7toxkzRf3ebZOEIm2xT+lyIjVdbW1EGfwxHReecDsqHeAGqAbZkVmZzDGYoun5+huW5dlzKr0j/p+ECbXWTN49odJk0eswhZKyGxkcxX9uiIDG8CgILUM0MbpXJ1DlXSxRqsslyUtjLR1+c76KR7orsqmVTbiFFOUMhRJWT1kh66ixFlKZh8MlnJFBPF+tzH9reHP/8MFB1C+zB4FPnRZPn45Qub1l14tLl5Rwm1kWNB0E++qw6/MVcxxrxgvytxMDdsMIEjEDXHwnscW5Rum6Lk6QvL34A=;7p7TdgvQrkAXmvJrOnuy7w=="
 ---
 
