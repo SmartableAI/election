@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why the very conservative bloc is so important to Trump"
+    excerpt: "Poll of the week: A new Granite State Poll from the University of New Hampshire finds that 58% of New Hampshire Republicans probably or definitely want former President Donald Trump to run for president in 2024.\n    \n"
+    publishedDateTime: 2021-02-28T11:01:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xAi9cTjKiWo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/conservatives-trump-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/conservatives-trump-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174740-106-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump to speak at CPAC in first public appearance since leaving White House"
     excerpt: "Former President Donald Trump will speak at the Conservative Political Action Conference in Orlando, Florida, next Sunday, according to a source familiar with the matter.\n    \n"
     publishedDateTime: 2021-02-20T22:11:08Z
@@ -224,6 +240,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Vaccine, Stimulus, Trump: Your Weekend Briefing"
+    excerpt: "Here are the week’s top stories, and a look ahead. 1. A third Covid-19 vaccine has been approved. The Food and Drug Administration authorized Johnson & Johnson’s one-shot vaccine for emergency use on Saturday,"
+    publishedDateTime: 2021-02-28T11:20:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/lens/28weekend-briefing-promo/28weekend-briefing-vaccine-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "CPAC Starts Tomorrow and Trump Is Still Center of the Republican Universe"
     excerpt: "Things have been quiet on the Republican front since President Donald Trump left the White House five weeks ago. With Democrats pushing to deliver a widely popular economic-relief package and accelerate the circulation of coronavirus vaccines,"
     publishedDateTime: 2021-02-26T00:02:00Z
@@ -271,6 +303,6 @@ related:
         height: 773
         isCached: true
 
-secured: "bt01zGJUkv9WWdY6TjGuSY2yiRHBppp3KSKiPYZazM6gbVLP8r+mzzG2Y/73JBLqtudXKhJ8ruYyhGGy7CAe85mjo0q7ySgyK4zydNjHtMQCIA5gITlsi5xzSGqvLmsrI2mj1wrf4r1xFEb32snjfmN1SIi7G1MfMg46+1dohE69C/OLH8js7rS58wsYVBMiCHRou5sVuZBq4MT44UjF2fLmd5TgWHhn9SjWEWKk2iJDod40pYmuc3ayLzzThZw4tYnx2b6Ip3ecte2ZOI0XwzMtlXJTBr5rsjv8JB8/dI9KYVrbVxWQ2nW/kYhICeWX6F2JCJgHjTXC3S8eKuQ0MHxjmhIPiaG0tjT9iTnJPgU=;aSEOO09MjDuLGjmReXoRVQ=="
+secured: "CtLcqMOh7qcE5J1s/ppRi03t6WM+C78HawptN6qy854S80Hw0IX/f82nr18KoTI9WoVCDp76dDx20S+U8yEn3aJMGTV+mrdpPt8+KAEzQETkOuQ7VFEJ9C0qfdAGd+CLrL7+/BRG2LkUqAUBGp0FAXi7rCD3uLIthOpXB65Eo1OHAtUPiojwXIBFUVbKUFt1Wv7fEAz2HN2V5A6uGTlihajx8RJI4W30Ur2GNULndB5hFwwoX+L6PFglgPNKAbOtGa0N+ezyX7TINVi+7sYtsPK3L61SjYJDTjocHfXckzMU5nTqqoK7urkUDOrTU8PwO/9nh9lnbDCu07vM22PippAPVkEJUxHQAy+xYZ4FFauXFW4vTfKvFhzkAaSAZQCrl3JPiye8vpp4KohFfiCs26HYuoveSUf4Mr29TC2j6mTS49o6xHcLBSb+rkQ2Irm2pdvmKliRD2cBInpEP55di8qeXxECbinSWDm70DP4rb/WelqyaB1oBcVufqzeKZ7VTIGa9S56mpMVOCMAJUStHw==;3Pl38weqpSChht08fpWeuA=="
 ---
 

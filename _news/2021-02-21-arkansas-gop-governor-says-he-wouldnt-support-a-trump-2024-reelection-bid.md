@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-ree
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-reelection-2024-cnntv/index.html"
 type: article
 quality: 188
-heat: 708
+heat: 728
 published: true
 
 provider:
@@ -204,6 +204,22 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202094920-01-mitch-mcconnell-0126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "2024 Republican prospects seek their own breakout moments at Trump-dominated CPAC"
+    excerpt: "A slew of ambitious Republicans eyeing bids for the party's 2024 nomination used the two days ahead of former President Donald Trump's appearance at this year's Conservative Political Action Conference to begin staking their own claims as the eventual leaders of the movement built around the former President. \n"
+    publishedDateTime: 2021-02-28T00:36:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vQXJPM7PHyc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/cpac-2021-speeches-saturday-2024-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/cpac-2021-speeches-saturday-2024-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226144237-03-cpac-day-1-cruz-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

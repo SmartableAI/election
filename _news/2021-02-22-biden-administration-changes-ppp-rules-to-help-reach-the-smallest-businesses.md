@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden sends letter to congressional leadership explaining justification for Syria strike"
+    excerpt: "President Joe Biden sent a letter to congressional leadership Saturday explaining the reasoning behind Thursday's airstrike in Syria, which has been criticized by some Democrats in the latest fight between the executive and legislative branches over war powers.\n    \n"
+    publishedDateTime: 2021-02-27T23:12:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8Blncwwqf2U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/syria-airstrike-biden-letter-to-congressional-leadership/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/syria-airstrike-biden-letter-to-congressional-leadership/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226181142-02-biden-houston-0226-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP irked after last-ditch attempt fails to deter Biden push for quick passage of Covid relief plan "
     excerpt: "It was Super Bowl Sunday -- and President Joe Biden was on the phone with Sen. Susan Collins.\n    \n"
     publishedDateTime: 2021-02-22T11:01:14Z

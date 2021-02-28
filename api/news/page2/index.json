@@ -2,6 +2,54 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-26-trump-vs-desantis-2024-clash-of-heavyweights-starts-early.md",
+      "title": "Trump vs. DeSantis: 2024 Clash of Heavyweights Starts Early",
+      "excerpt": "Politically speaking, this is the best and worst of times to be Florida Gov. Ron DeSantis. Lets start with best: Midway through his first term, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearpolitics.com/articles/2021/02/26/trump_vs_desantis_2024_clash_of_heavyweights_starts_early_145307.html#!",
+      "originalUrl": "https://www.realclearpolitics.com/articles/2021/02/26/trump_vs_desantis_2024_clash_of_heavyweights_starts_early_145307.html#!",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.realclear.com/images/53/536304_5_.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/02/26/trump_vs_desantis_2024_clash_of_heavyweights_starts_early_145307.amp.html",
+      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/26/trump_vs_desantis_2024_clash_of_heavyweights_starts_early_145307.amp.html",
+      "publishedDateTime": "2021-02-26T05:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearPolitics",
+        "domain": "realclearpolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-bidens-pick-for-hhs-sued-the-trump-administration-not-a-group-of-nuns.md",
       "title": "Biden’s pick for HHS sued the Trump administration, not a group of nuns",
       "excerpt": "By the way, I have never sued the nun — any nuns. I have taken on the federal government, but I’ve never sued any affiliation of nuns. And my actions have always been directed at the federal agencies,",
@@ -1293,62 +1341,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac.md",
-      "title": "McCarthy, Cheney have uncomfortable exchange with reporters over Trump speaking at CPAC",
-      "excerpt": "House Minority Leader Kevin McCarthy and Rep. Liz Cheney, the third-ranking House GOP member, had a tense exchange with reporters Wednesday over whether former President Trump should speak at CPAC as planned this weekend.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ErsAnkXqMP8/mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ErsAnkXqMP8/mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055611217771.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac.amp",
-      "publishedDateTime": "2021-02-24T22:50:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "‘It’s Donald Trump’s party’: How the former president is building a political operation to cement his hold on the GOP"
-    excerpt: "In advance of his first major post-White House address, Trump is making plans to launch a super PAC, has begun endorsing candidates and is plotting a possible 2024 comeback."
-    publishedDateTime: 2021-02-27T14:20:00Z
-    webUrl: "https://www.washingtonpost.com/politics/donald-trump-gop/2021/02/27/890376f0-783d-11eb-8115-9ad5e9c02117_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/donald-trump-gop/2021/02/27/890376f0-783d-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/donald-trump-gop/2021/02/27/890376f0-783d-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
+  - title: "Allies of Rep. Adam Kinzinger launch new super PAC to support Republicans who have bucked Trump"
+    excerpt: "The effort will be up against significant head winds, as Trump still holds vast sway over the Republican Party, even after his supporters attacked the U.S. Capitol last month."
+    publishedDateTime: 2021-02-28T13:04:00Z
+    webUrl: "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 102
+    quality: 113
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XPWTODTYMUI6XFEJR562ZVI6OU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCWAUHTZN4I6XFENDFDS42BVEE.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 968
         isCached: true
 
 secured: "1AHMCqDM6EbqLfJFmDJjGDzjyVXPqyuvvp2Yl0/z9LLPG0xzt72RaT2K0D1xseLWzCFBogL1adc175h5WkE/O2g2/YEHVz5V54Kq7UqiPdJ1suHj3xQKfkmdy6aheERe5bFH8SaYJ7u2Ywn1A0IzzkQGY2kTLFGwXkDlumNw/NGf7aG+ffTkhYtBCessOblGQ+s8H+AGATmW/gEZp78agM4yYzyCG+sSBsJKIGLYwtHasvkMoQeLlf9wLq+nZE+QT83FDThkxn92MRpCkcpeKkqooWhq6PpwTxYLau8QqG2jhSpxFcxYPyUtpVu0ZdGww5ra+Io1X/yRuEVj7fHkrPt3CeMcSiQHRBjt+SxcJNzSACkLHQ1Wg3+tSuEDSYPdbJeWfbTJdl9mPxycDuDjF21RXNOm47KDJ+2D1BDSoUsbSYS50ormxPGZpQ0wsD/G5xWyu8bMQHC/b40HffiIXJhR8/sWdc1/1+PMyFFdHfi3a/K+QycZdumVOvxzDUyzyUg+9TiVAE01S561023lrA==;x5dYej2jO2kEc6uYo2QJPg=="

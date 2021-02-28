@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-07-how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may.md",
+      "title": "How Donald Trump's hand-holding led to panicky call home by Theresa May",
+      "excerpt": "A remarkable BBC documentary reveals the startling reality of meeting the president",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may?CMP=oth_b-aplnews_d-1",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may?CMP=oth_b-aplnews_d-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 305,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/52c9efc5eb94b4ad66f48b556fdd3110f713e776/194_189_3962_2377/master/3962.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=61685925b23d35c19fcfba70c1e4b138",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/07/how-donald-trumps-hand-holding-led-to-panicky-call-home-by-theresa-may",
+      "publishedDateTime": "2021-02-07T03:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-07-liz-cheney-censured-by-wyoming-republican-party-for-voting-to-impeach-trump.md",
       "title": "Liz Cheney censured by Wyoming Republican party for voting to impeach Trump",
       "excerpt": "Cheney, the third ranking member of the House Republican leadership, was censured in a vote Saturday by her state’s Republican party",
@@ -1472,58 +1524,6 @@
       "ampWebUrl": "https://amp.usatoday.com/amp/4297906001",
       "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4297906001",
       "publishedDateTime": "2021-01-31T12:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-trump-loyalists-in-south-dakota-turn-on-longtime-senator-john-thune.md",
-      "title": "Trump loyalists in South Dakota turn on longtime senator John Thune",
-      "excerpt": "Longtime South Dakota Republican voter Jim Thompson is ready to leave the GOP, hoping that an exodus of Donald Trump supporters like him will punish the state's preeminent politician, Sen. John Thune,",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/2021/01/31/south-dakota-sen-john-thune-president-trump-loyalists-republicans/4330911001/",
-      "originalUrl": "https://www.usatoday.com/story/news/2021/01/31/south-dakota-sen-john-thune-president-trump-loyalists-republicans/4330911001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/31/PSIF/bb995139-3a8b-403a-a69c-b264b3c42498-AP21031428313779.jpg?auto=webp&crop=4499,2531,x0,y228&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4330911001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4330911001",
-      "publishedDateTime": "2021-01-31T11:40:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "USA Today",

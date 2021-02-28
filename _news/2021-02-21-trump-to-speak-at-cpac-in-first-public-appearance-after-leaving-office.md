@@ -92,6 +92,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump to tell CPAC crowd: 'We will be united and strong like never before'"
+    excerpt: "In his first major public appearance since leaving office, former President Donald Trump is expected to call for unity in the Republican Party when he addresses the Conservative Political Action Conference on Sunday."
+    publishedDateTime: 2021-02-28T13:44:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xnJFNnLxtcA/trump-cpac-speech-excerpt-republican-party"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-speech-excerpt-republican-party.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-speech-excerpt-republican-party.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1209529383.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump to speak at CPAC conference in first public appearance post-White House"
     excerpt: "Former President Trump will make his first major public appearance at the Conservative Political Action Conference (CPAC) conference later this month, Fox News has learned."
     publishedDateTime: 2021-02-20T21:08:12Z
@@ -172,6 +188,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump to speak at CPAC in first major address since leaving office, as GOP searches for path forward"
+    excerpt: "Former President Donald Trump is set to deliver the keynote address at the Conservative Political Action Conference (CPAC) Sunday afternoon as he and his allies aim to guide the direction of the Republican Party after his presidency."
+    publishedDateTime: 2021-02-28T13:03:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jGg4UCScn8M/trump-cpac-first-major-address-since-leaving-office"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-first-major-address-since-leaving-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-first-major-address-since-leaving-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Roger Stone, at CPAC, says he'd back Trump in 2024 but warns Dems, media will try to 'bury' accomplishments"
     excerpt: "Political operative Roger Stone told Fox News on Saturday that he would support former President Donald Trump if he decided to run for the White House in 2024 -- but warned that anti-Trump forces would seek to “bury” his accomplishments. "
     publishedDateTime: 2021-02-27T22:57:32Z
@@ -185,6 +217,20 @@ related:
     quality: 157
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aad1b5c-f865-4a8c-b449-bbe0d5fa0729/41d11d9b-8f05-44ae-934e-82fd8ee44704/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "LIVE UPDATES: Trump CPAC 2021 speech to be first major address since leaving office"
+    excerpt: "Follow for the latest updates on CPAC."
+    publishedDateTime: 2021-02-28T04:38:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u_4YC3wxECA/cpac-2021-speakers-rush-limbaugh-honored-at-ronald-reagan-dinner"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c27c85e-3b06-4a0c-a3c5-bf53ca9c8b6f/846dc3aa-8e91-4932-8e6f-acb1fbaff51d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -363,6 +409,20 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ec17f718-5e13-4765-a0d5-abf5b7c50419/3ab1b96b-d63b-4a7e-8f79-81596a21a222/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Watch Live: Fmr. Pres. Trump Will Speak At CPAC As 2024 Chatter Begins"
+    excerpt: "Former President Donald Trump is the headline speaker at the 2021 CPAC convention where several other potential 2024 presidential candidates will speak beginning Sunday,. \"I don't know if he'll run in 2024 or not,"
+    publishedDateTime: 2021-02-28T14:37:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/28/watch_live_trump_will_speak_at_cpac_as_2024_chatter_begins.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/536218.jpg"
+        width: 5400
+        height: 3601
         isCached: true
 
 secured: "M5j4ZmdvXStVnuGEKvCkON1U09w6jTC2znBk7fu0N1WmByh+PdNIG5PNb8Yen6XeoioOrEISK22v8i43mf/n9v6OW/my2cLvGA+na+xNYKLMAAmYyXM0m3ThzzinNT+YQLBKnwwTG89wCNRcvXPDmxY6QnyTZD566jMzlM3fmv2Gojw5i0YRPZWaLHY63aFnvzKS+jIe/tWTHMuicAQNESpRXHM9opWr6Cj2HQ5oy1wa6vfp9THwg/b/nkjHdMFFpNt29dUeoF9q1rUABq/6ymhNcJtDJ6eN0aKnzi2H7Q37dPayYdS+CiT3j8u63QGwthGHhlgoLIyRxsqbPQ7XH8s64x5S3RdJyq0LqI4ay8E=;UorU+d5FN0hhOBZktc7bRg=="

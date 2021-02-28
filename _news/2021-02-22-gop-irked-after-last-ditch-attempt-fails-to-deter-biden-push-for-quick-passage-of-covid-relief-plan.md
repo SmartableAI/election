@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden sends letter to congressional leadership explaining justification for Syria strike"
+    excerpt: "President Joe Biden sent a letter to congressional leadership Saturday explaining the reasoning behind Thursday's airstrike in Syria, which has been criticized by some Democrats in the latest fight between the executive and legislative branches over war powers.\n    \n"
+    publishedDateTime: 2021-02-27T23:12:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8Blncwwqf2U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/syria-airstrike-biden-letter-to-congressional-leadership/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/syria-airstrike-biden-letter-to-congressional-leadership/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226181142-02-biden-houston-0226-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP begins new push against Biden's relief plan as Republican leaders expect no defections in the ranks"
     excerpt: "Republican leaders in both chambers are maneuvering to keep all of their members in line against the $1.9 trillion Covid-19 relief plan, a move that would deny President Joe Biden a bipartisan victory and one that could scuttle the bill in the Senate if any Democrat breaks ranks.\n    \n"
     publishedDateTime: 2021-02-23T22:08:37Z

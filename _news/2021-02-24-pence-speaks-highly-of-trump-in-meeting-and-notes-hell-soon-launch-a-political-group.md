@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Why the very conservative bloc is so important to Trump"
+    excerpt: "Poll of the week: A new Granite State Poll from the University of New Hampshire finds that 58% of New Hampshire Republicans probably or definitely want former President Donald Trump to run for president in 2024.\n    \n"
+    publishedDateTime: 2021-02-28T11:01:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xAi9cTjKiWo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/conservatives-trump-analysis/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/conservatives-trump-analysis/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174740-106-trump-impeachment-centered-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump to speak at CPAC in first public appearance since leaving White House"
     excerpt: "Former President Donald Trump will speak at the Conservative Political Action Conference in Orlando, Florida, next Sunday, according to a source familiar with the matter.\n    \n"
     publishedDateTime: 2021-02-20T22:11:08Z
@@ -221,6 +237,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/28/multimedia/28cpac-scene-1-sub/merlin_184356534_81f6f205-4732-40a1-8930-db1dc17dcdaf-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Vaccine, Stimulus, Trump: Your Weekend Briefing"
+    excerpt: "Here are the week’s top stories, and a look ahead. 1. A third Covid-19 vaccine has been approved. The Food and Drug Administration authorized Johnson & Johnson’s one-shot vaccine for emergency use on Saturday,"
+    publishedDateTime: 2021-02-28T11:20:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/lens/28weekend-briefing-promo/28weekend-briefing-vaccine-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
