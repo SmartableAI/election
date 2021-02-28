@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Biden's $1.9 trillion COVID-19 bill clears hurdle toward passage in U.S. House"
-excerpt: "U.S. President Joe Biden's $1.9 trillion plan to address the human and economic toll of the COVID-19 pandemic cleared a procedural hurdle in the House of Representatives Friday, advancing to a final debate and vote."
-publishedDateTime: 2021-02-27T03:26:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-house/bidens-1-9-trillion-covid-19-bill-clears-hurdle-toward-passage-in-u-s-house-idUSL1N2KX04E"
-webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-house/bidens-1-9-trillion-covid-19-bill-clears-hurdle-toward-passage-in-u-s-house-idUSL1N2KX04E"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KX04E"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KX04E"
+title: "Biden's 1st 100 days live updates: Biden says 'no time to waste' on COVID relief bill"
+excerpt: "Live updates from the first 100 days of the administration of President Joe Biden and Vice President Kamala Harris."
+publishedDateTime: 2021-02-28T05:17:00Z
+originalUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
 type: article
-quality: 101
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s.abcnews.com/images/General/president-joe-biden-covid-relief-01-ap-llr-210227_1614444241110_hpMain_16x9_1600.jpg"
+    width: 1600
+    height: 900
+    isCached: true
 
 related:
   - title: "Biden to mark Covid death milestone with candle ceremony at White House – live updates"
@@ -793,22 +799,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden's 1st 100 days live updates: Biden says 'no time to waste' on COVID relief bill"
-    excerpt: "Live updates from the first 100 days of the administration of President Joe Biden and Vice President Kamala Harris."
-    publishedDateTime: 2021-02-28T05:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/General/president-joe-biden-covid-relief-01-ap-llr-210227_1614444241110_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Biden's massive coronavirus relief package receives boost from business leaders – live"
     excerpt: "Top executives support Biden plan in open letter, while Romney says Trump would win 2024 Republican nomination ‘in a landslide’ – follow all the latest"
     publishedDateTime: 2021-02-24T12:50:00Z
@@ -1034,6 +1024,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's $1.9 trillion COVID-19 bill clears hurdle toward passage in U.S. House"
+    excerpt: "U.S. President Joe Biden's $1.9 trillion plan to address the human and economic toll of the COVID-19 pandemic cleared a procedural hurdle in the House of Representatives Friday, advancing to a final debate and vote."
+    publishedDateTime: 2021-02-27T03:26:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-house/bidens-1-9-trillion-covid-19-bill-clears-hurdle-toward-passage-in-u-s-house-idUSL1N2KX04E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2KX04E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2KX04E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 101
   - title: "Biden holds moment of silence for 500,000 COVID-19 deaths, promises nation \"will know joy again\""
     excerpt: "Before a moment of silence at the White House, President Joe Biden connected his personal losses to the more than half a million dead in the U.S. from COVID-19. Weijia Jiang reports how the current administration's response to the pandemic contrasts with its predecessor's."
     publishedDateTime: 2021-02-23T13:07:00Z
@@ -1065,6 +1066,6 @@ related:
         height: 675
         isCached: true
 
-secured: "XVFl4Ezk7r+A3WJl/oMTLwh/kZ2smtmuK9D4uiqf0ydfGpv9Y6JxSoi7P0Dsrfo8J51mtRAUfWwAt6H2bOKYgqhgYOnwWtLzMnO7Ob/wDza7vE5VWjvFf+S7fhQ8sbe33wiyMnHYsl+VV/INfSbytTzd1C5mCNJU/83RqyUVLD3y+421KQnJYhjsMejVyDKZVdp3xz01lEYaQyyng+VEQlWhpLGUUp2sgYfxL/EcMJFPshYgktLkWu2nVozksYU62Wm1gt6nvLZ7rUd15oJAGrNomxUPJFEHb8k285aHJR15yx2BnGrIHxfrU5KDDPCLnXwauMc1Jja1yoeiPTDM1CnLvDSAMi4+2HWKTotMUus=;iEBUOXLupK0zVow1bcpsxQ=="
+secured: "CA00ZVJ08ZW0Cl1z9kNVRnxPfm1fGAu6Qe/ATpzOOAK5vaJwXrQdlkyM4reJONtBPiv2Tumm8RSKvfKruO8n4FZ9XqkarAeswa8or4+7lULiVyfHMP6qa38KbJlPMUoyri0ZUhzvi12AER4YA4TQxNVbkvE5pzFtxKN2cMpNJGT4yZ+MMe8AY/WIPKU15rEU7Kh01Vno5ZTmfCBbrDfXgw5euw8jFi/WJsR1qrOrhThZGOEAg85E556oN9MDvGYcOJNIGtp059bhn/F7DgMB/ZT7QWLOqBpy0EBJC5oO1GjQTcFEHiny73Ema4Z+ON4n9AEBz8yOSY3e4KBMp5XmVlBYC6l2JE8HNGwclKe7hos=;jbyy7/0m9IGKkI5vQ0LN8A=="
 ---
 

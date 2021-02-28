@@ -32,7 +32,7 @@ related:
   - title: "Iran 'can't act with impunity,' Biden says after U.S. air strikes"
     excerpt: "President Joe Biden said Iran cannot act with impunity and warned Iran to \"be careful\" when asked what message he was sending the country with the U.S. air strikes in Syria."
     publishedDateTime: 2021-02-27T07:52:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-iran-int-idUSKBN2AQ31T"
+    webUrl: "https://www.reuters.com/article/us-usa-biden-iran/iran-cant-act-with-impunity-biden-says-after-u-s-air-strikes-idUSKBN2AQ31W?edition-redirect=in"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AQ31T"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ31T"
     type: article

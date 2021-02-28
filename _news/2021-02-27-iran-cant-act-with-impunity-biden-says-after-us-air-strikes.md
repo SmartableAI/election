@@ -3,8 +3,8 @@ category: news
 title: "Iran 'can't act with impunity,' Biden says after U.S. air strikes"
 excerpt: "President Joe Biden said Iran cannot act with impunity and warned Iran to \"be careful\" when asked what message he was sending the country with the U.S. air strikes in Syria."
 publishedDateTime: 2021-02-27T07:52:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-iran-int-idUSKBN2AQ31T"
-webUrl: "https://www.reuters.com/article/usa-biden-iran-int-idUSKBN2AQ31T"
+originalUrl: "https://www.reuters.com/article/us-usa-biden-iran/iran-cant-act-with-impunity-biden-says-after-u-s-air-strikes-idUSKBN2AQ31W?edition-redirect=in"
+webUrl: "https://www.reuters.com/article/us-usa-biden-iran/iran-cant-act-with-impunity-biden-says-after-u-s-air-strikes-idUSKBN2AQ31W?edition-redirect=in"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AQ31T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ31T"
 type: article
@@ -46,6 +46,6 @@ related:
         height: 567
         isCached: true
 
-secured: "EdVyZgEToXOfSb8mqq7k9V9Pp9xaPO+q/xkLlOoniXxalvpOJ9+s5O6c1Bw4DGj92JWUVsgGXrkDkLsEaOsaWRyFcT5GUrZah0bBYQHW23ut/GH/Z58NUnrSm3V6VDM9Q7KRdDoOCzvJQLWuEG/4hHjgf+mzmBVfnJSPMjd7qCtN2dKBHPsptj/aiFgtGcaTkZJvggKths71VGR6K8Ox1ISg2iqN7HWyQ3arpezr093mtBZ6cg77D2ZCncXTU+Tbzt+x+kE4Z1Qo9ICBY6emL97DlUwqqCx5+/ihnf/Jf6rZ/XEnEkK1IUuzhxnCQ9fsPBrJ0Wg1HFhHPfioYBoCd8oz15HtIlxZ27f1k5uCD9s=;oxdlaI3quEE4jBxdM2IGuA=="
+secured: "DRLAI1hnVrJkT05O/R0vDXyyvTELoJe3d7es2DoypFRMz5wk9v89SR7h7j1HfVqgkhHH8NzgMdg+7zCuNiRB8hJEPxaV4/sSxTwUcWpkeTZRcrGDdvUoYE8/OhyX9T93Nvs+4b/rcw4cfapXu/znO/QV0CbJXTYLl3EXuIFcpc9L9OlEmvugW93xENzZSh+lMTK5X8zphHUTO2C2pHtyUtN//7T8g5dkjQSQQqLSzIP8BumnatWFNQT3ddzRyEa597GyQ5KQW1snqrgekr/jJz724RiXvc+JuPqhL8qP6AtLz/ss9/tqBJGx0nvXuCXIyajT7t9Jjx0iIOo1VJHSWUh6TBUp0OGwKjo+V+Z/BNY=;pPXUyAo1XVUYE8qrVU2L8w=="
 ---
 
