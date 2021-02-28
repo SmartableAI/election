@@ -1534,6 +1534,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Kamala Harris visits Washington vaccination site"
+    excerpt: "Vice President Kamala Harris visits a local pharmacy in Washington DC to highlight the need for residents to get the vaccine when its their turn. (Feb. 25)"
+    publishedDateTime: 2021-02-25T16:15:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/25/kamala-harris-visits-washington-vaccination-site/6815312002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/901afde3-2034-441a-9333-8293957b641a_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Washington mayor asks for increased security around Biden's inauguration"
     excerpt: "Washington's mayor has asked for increased security around the inauguration of U.S. President-elect Joe Biden after last week's storming of the U.S. Capitol by supporters of President Donald Trump."
     publishedDateTime: 2021-01-11T13:41:00Z
@@ -3582,17 +3596,6 @@ related:
         width: 650
         height: 433
         isCached: true
-  - title: "Kamala Harris visits Washington vaccination site"
-    excerpt: "Vice President Kamala Harris visits a local pharmacy in Washington DC to highlight the need for residents to get the vaccine when its their turn."
-    publishedDateTime: 2021-02-25T16:45:00Z
-    webUrl: "https://tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.html"
-    ampWebUrl: "https://tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.amp.html"
-    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.amp.html"
-    type: article
-    provider:
-      name: Tulsa World
-      domain: tulsaworld.com
-    quality: 55
   - title: "VP Kamala Harris visits a COVID-19 Vaccination Facility in Washington, DC"
     excerpt: "United States Vice President Kamala Harris aarrives during a visit to a COVID-19 vaccination facility in an effort to promote the administration's plan to promote vaccinations in areas hit hard by the virus,"
     publishedDateTime: 2021-02-25T15:39:00Z

@@ -46,22 +46,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "What to Watch For at CPAC: Trump, Cruz, Pompeo and More"
-    excerpt: "Even more than usual, the Conservative Political Action Conference this year will be a barometer for the Republican Party, newly out of power in Washington and trying to chart a way back."
-    publishedDateTime: 2021-02-25T10:08:00Z
-    webUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/25/us/politics/25cpac-guide/25cpac-guide-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump to Dominate CPAC as Activists Assess Potential 2024 Candidates"
     excerpt: "Day 1 of the Conservative Political Action Conference will include speeches from Senators Tom Cotton, Ted Cruz, Rick Scott and others. Here’s what to expect."
     publishedDateTime: 2021-02-26T10:33:00Z

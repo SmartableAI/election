@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-09-north-koreas-kim-calls-us-our-biggest-enemy-in-challenge-to-biden.md",
+      "title": "North Korea's Kim calls U.S. 'our biggest enemy' in challenge to Biden",
+      "excerpt": "North Korean leader Kim Jong Un called for more advanced nuclear weapons and said the United States is \"our biggest enemy,\" state media said on Saturday, presenting a stark challenge to President-elect Joe Biden just days before he takes office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-northkorea-politics/north-koreas-kim-calls-u-s-our-biggest-enemy-in-challenge-to-biden-idUSKBN29D2YA",
+      "originalUrl": "https://www.reuters.com/article/us-northkorea-politics/north-koreas-kim-calls-u-s-our-biggest-enemy-in-challenge-to-biden-idUSKBN29D2YA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210108&t=2&i=1547162452&r=LYNXMPEH071G6&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-09T01:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-biden-says-impeachment-is-a-decision-for-the-congress-to-make.md",
       "title": "Biden says impeachment is a \"decision for the Congress to make\"",
       "excerpt": "\"That's a decision for the Congress to make. I'm focused on my job,\" Mr. Biden said. He added that he will be speaking with House Speaker Nancy Pelosi and Democratic leaders later in the day. \"I'll be speaking with Nancy and the Democratic leadership this afternoon,",

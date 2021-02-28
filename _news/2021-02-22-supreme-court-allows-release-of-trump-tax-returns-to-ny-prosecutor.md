@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxe
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxes-vance/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://media4.s-nbcnews.com/i/newscms/2020_22/3372656/200531-donald-trump-cs-611p_e554c90c1572ac84631e4d1731a76b2d.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Trump, Addressing Conservatives, Plans to Claim Leadership of G.O.P."
+    excerpt: "In his first public appearance since leaving office, Donald J. Trump also planned to assert that there were no divisions in his party, according to excerpts of his speech, even as he plotted vindication against his enemies."
+    publishedDateTime: 2021-02-28T19:48:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/trump-cpac-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-trump/merlin_184388943_eabe5c31-e90b-4553-b3cc-a3dd9ee86d9f-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Thousands of Migrant Children Detained in Resumption of Trump-Era Policies"
     excerpt: "President Biden vowed to create a humane approach to immigration. But thousands of children who crossed the border alone are being confined in government shelters."

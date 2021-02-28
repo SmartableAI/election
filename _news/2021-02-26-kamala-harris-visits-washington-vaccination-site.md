@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Kamala Harris visits Washington vaccination site"
-excerpt: "Vice President Kamala Harris visits a local pharmacy in Washington DC to highlight the need for residents to get the vaccine when its their turn."
-publishedDateTime: 2021-02-25T16:45:00Z
-originalUrl: "https://tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.html"
-webUrl: "https://tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.html"
-ampWebUrl: "https://tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.amp.html"
-cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/kamala-harris-visits-washington-vaccination-site/video_79058df5-7918-5aec-9692-a379c33c72b6.amp.html"
+excerpt: "Vice President Kamala Harris visits a local pharmacy in Washington DC to highlight the need for residents to get the vaccine when its their turn. (Feb. 25)"
+publishedDateTime: 2021-02-25T16:15:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/02/25/kamala-harris-visits-washington-vaccination-site/6815312002/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/25/kamala-harris-visits-washington-vaccination-site/6815312002/"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Tulsa World
-  domain: tulsaworld.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/901afde3-2034-441a-9333-8293957b641a_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Trump plans to depart Washington Inauguration Day morning, while Pence, Harris speak"
@@ -3791,6 +3799,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "+KMbZ/s3r4NqGQzlw//e447V23RJJ7Dv8B1gHobtMVwrWpwn/j7K8cs4xQtknsJ4lJYFa6ybiNMz19VURlrn1zEc6mghitDhngX5JTJWE97fCktRjVGsmwRoX7aAA480Pgl07u0Rj3/6jfUeGUR64UHYEW6Pj2Rmp5WXBtlS331OU7CJPmlqWgiwYDBnpYyoIxiPlbHN++JAYOA8e/z6wN9gx+GOrIqSo41CLbtLS79b01nUV/B033SO3JPr/LA4YAG9cb4fue4tj/BLZInH7ib06nDxr3mU1+0PI5OW0K0XxPwyif/rlZ9snAGnYFBZs2hY/sNzvixPoySgXwn8wh3qutb2A3JOGEmhoLlafYbF9lOuQ9cRvygq4QnJt4sgbl/Dp07qvyoDrKc4bRX2tUo108hztGOLVo5OnIcIo1iYC5Ewukd4Yx5h1oAfbpYSuD2v/Y//n0HfYq1ufAObWLl1x+jF4ETeWgT3EEbN43NbkVU5ZSy4JN6DS11RegcWZ4xC0feHM2nIdLFQnNd3cw==;A6YvtNSN1iJzwx2hRD4B+w=="
+secured: "Ke/+AhS1v4Nt1KNAm9ZU9L0NdLLeeTBI+ATGUZzhXN6f5dUsZwCL43G48OmH3AhYo2tFUfOZaAihDcP71AlnYxliEbxp93nS0l5JKsZFO/gukwybPr++2TrCu+gPoUasiO2hTGO+YOutj+IyRuZojiHbbanRhWHDUgTOBLsoqYl2exR4Yagswm6M5XEwyQ997NOY8qKYiBtG7CXVls5mkdEo9E9IOr9MeAEMmB6ot1V7mAJtfOq3cDRGyv65oBoG5AwQ5K47rBs8iI43IErpac1Jua5znRiRdPjZA0w+CEgyrpeWW9tdbJEKDox1RmBu5xDCm/9b3or4Pycx2HvUhEBczPDdEQC5JdoQ3oY7v+U=;zpLlzh165sB1KAiFXiK2KA=="
 ---
 

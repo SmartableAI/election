@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3810
+heat: 3830
 published: true
 
 provider:
@@ -492,6 +492,22 @@ related:
     quality: 177
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106202510-mconnell-schumer-split-0106-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Diversity visa lottery winners from countries blocked by Trump hope for another chance under Biden"
+    excerpt: "In 2016, Belqees Al-Doais won a lottery that she was sure would change her life: the chance at a visa to come to the United States.\n    \n"
+    publishedDateTime: 2021-02-28T19:57:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GIcb9DuMlDQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/diversity-visa-lottery-winners-trump-ban/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/diversity-visa-lottery-winners-trump-ban/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 176
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227164128-belqees-al-doais-travel-ban-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

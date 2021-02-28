@@ -32,51 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Schedules Address Before CPAC Next Sunday"
-    excerpt: "The former president will make his first lengthy remarks since leaving office before the annual conference of conservatives Feb. 28."
-    publishedDateTime: 2021-02-20T23:23:00Z
-    webUrl: "https://www.nytimes.com/2021/02/20/us/politics/trump-cpac.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/20/us/politics/trump-cpac.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/20/us/politics/trump-cpac.amp.html"
+  - title: "Trump to tell CPAC crowd the 'incredible journey' is 'far from over' in first public remarks since leaving White House"
+    excerpt: "Former President Donald Trump takes the stage at the Conservative Political Action Conference Sunday, looking to reclaim his role as the Republican Party's kingmaker as he positions himself to play a major role in the 2022 midterm elections.\n    \n"
+    publishedDateTime: 2021-02-28T20:33:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bWKjJG0ZK1M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/trump-cpac-speech-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/trump-cpac-speech-2021/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 151
     images:
-      - url: "https://static01.nyt.com/images/2021/02/20/us/politics/20TRUMP2/20TRUMP2-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Trump to Dominate CPAC as Activists Assess Potential 2024 Candidates"
-    excerpt: "Day 1 of the Conservative Political Action Conference will include speeches from Senators Tom Cotton, Ted Cruz, Rick Scott and others. Here’s what to expect."
-    publishedDateTime: 2021-02-26T10:33:00Z
-    webUrl: "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-2024-candidates.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-2024-candidates.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/politics/trump-cpac-2024-candidates.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/26/us/politics/26cpac/26cpac-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "POLITICO Playbook: Trump stewing over McCarthy again ahead of big CPAC speech"
-    excerpt: "Friday was the warm-up act at TPAC (get it?), where 2024 GOP hopefuls like TED CRUZ, TOM COTTON, JOSH HAWLEY, RICK SCOTT and DONALD TRUMP JR. tried out their material. The scene felt … low energy, but hey,"
-    publishedDateTime: 2021-02-27T15:02:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/27/trump-stewing-over-mccarthy-again-ahead-of-big-cpac-speech-491926"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 112
-    images:
-      - url: "https://static.politico.com/24/f7/078e461448aaaaf00a5af6895781/gettyimages-1272635840.jpg"
-        width: 1160
-        height: 773
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212193827-trump-rally-republicano-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "PteiDT9d1cMY4CXfcYHWlCREtioR0gOrWY0SeMTaIRuuC/e2HLm2qcqzus1pxowe91GAaXQ3Xwnp3x5FiGDq3jJd45oqwbq9HeB1hVlYM4a3Zh63dVan9YhmuJMyxPxlmvpEyWJvjicFV6WR7su8mF7jvGPc1vEgUnxUO6zi8187WtAlkEgBszv15qIVO64HSov6msTvSGZVAHDPIaCpU6uJ5jGlsmAOzpUhK4EQI4ZuTEOz5PmIl2lgN2goRx6YHwrEIvf2DngtfomWrNrQwfFep7UXb/AHBNrYO4n7YvbsocgJCo1D4pK3TI7GacTgR6tBTVnCpCcKB2Tpz83Yv+lY/ibA1+a/vRl2FrF0FAcnjUes2NGzKhm+it9MjA6Y+hQjs5J8foovmbmk7C0qtNBwmTnq8brrtcJOr7SPSBgqQq3W9t//pT5tSn8ixVWAV50oR04fhN97UqJ17hX92P6vlYBhCWAmpNCEKViCpGrNukClJq5ewuYBfvph/oOA+MiGqe/Jp48fvTaugpmSsA==;axFq/wQh9zc/dAfWLOD9og=="

@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump wins CPAC straw poll by wide margin"
+    excerpt: "Former President Donald Trump won the annual Conservative Political Action Conference (CPAC) straw poll with 55% of the vote in results announced Sunday. "
+    publishedDateTime: 2021-02-28T20:32:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/43ECcCfA1x0/trump-wins-cpac-straw-poll-by-wide-margin"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-wins-cpac-straw-poll-by-wide-margin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wins-cpac-straw-poll-by-wide-margin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "LIVE UPDATES: CPAC 2021 speakers on Friday will include Trump Jr., Ted Cruz"
     excerpt: "The annual Conservative Political Action Conference  (CPAC) is slated to run through Sunday and a number of high-profile conservatives will take the stage to share conservative ideas with the crowd. "
     publishedDateTime: 2021-02-26T05:01:17Z
@@ -127,6 +143,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-CPAC-AP-e1607457728844.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Trump delivers much-anticipated speech at CPAC, after winning 2024 straw poll"
+    excerpt: "Former President Trump is delivering his keynote address at the Conservative Political Action Conference (CPAC) on Sunday -- a finale to the annual conference which sees Trump make his first major speech since leaving office."
+    publishedDateTime: 2021-02-28T20:41:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4zf_X_1_ERo/trump-speech-cpac-2024-straw-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-speech-cpac-2024-straw-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-speech-cpac-2024-straw-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e53e971-e8fe-4407-9dfa-e33d12d2335a/015f0b2b-c927-4c9c-a260-0eb74175d73c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump CPAC message to include 'big thank you' to supporters, Lara Trump expects"
     excerpt: "Former President Trump is scheduled to make his first public appearance since leaving office at the 2021 Conservative Political Action Conference (CPAC) next weekend, and Lara Trump shared her expectations for the message he’ll share."

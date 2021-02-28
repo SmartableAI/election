@@ -2,6 +2,171 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-18-beto-orourke-says-us-could-become-like-nazi-germany-in-10-years-despite-bidens-win.md",
+      "title": "Beto O'Rourke says U.S. could become like Nazi Germany in 10 years, despite Biden's win",
+      "excerpt": "Democratic politician Beto O'Rourke fretted Thursday on MSNBC that the United States could become Nazi Germany within 10 years, in spite of full Democratic control of the White House and Congress.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7XmFAeiQFiA/beto-orourke-us-nazi-germany-10-years-bidens-win",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7XmFAeiQFiA/beto-orourke-us-nazi-germany-10-years-bidens-win",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6868c53f-020a-448d-b028-4cfb1cec889b/15e23bff-0ea4-4ec4-82e8-1b6805ddc164/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/beto-orourke-us-nazi-germany-10-years-bidens-win.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/beto-orourke-us-nazi-germany-10-years-bidens-win.amp",
+      "publishedDateTime": "2021-02-18T08:36:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.md",
+      "title": "Mike Pence on Rush Limbaugh's impact: 'America lost a giant today'",
+      "excerpt": "Well, we're mournful because we lost a giant today, a great and unparalleled radio icon, of course, Rush Limbaugh. But we're also grateful for having heard his voice and wisdom for as long as we did.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today",
+      "originalUrl": "https://www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7a29c2a4-7100-4203-8ca1-de0202648473/ea288b70-6978-4fe5-a888-523c7aab4ed9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/mike-pence-on-rush-limbaughs-impact-america-lost-a-giant-today.amp",
+      "publishedDateTime": "2021-02-18T06:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-joe-biden-north-korea-review-will-consider-malicious-cyber-activity-as-hackers-charged.md",
+      "title": "Joe Biden North Korea Review Will Consider 'Malicious' Cyber Activity As Hackers Charged",
+      "excerpt": "Three North Korean hackers were charged Wednesday over a plot to steal $1.3 billion in crypto and traditional currencies from banks and individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188",
+      "originalUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1738417/kim-il-sung-kim-jong-il.jpg",
+          "width": 2500,
+          "height": 1664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188?amp=1",
+      "publishedDateTime": "2021-02-18T06:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.md",
       "title": "Bowe Bergdahl targets Trump, McCain comments in lawsuit challenging court-martial",
       "excerpt": "Former U.S. Army Sgt. Robert \"Bowe\" Bergdahl, who was court-martialed in 2017 after being accused of abandoning his post in Afghanistan and endangering fellow service members, has filed a civil lawsuit in a bid to overturn his conviction.",
@@ -1187,170 +1352,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-biden-administration-urges-dhs-officials-to-stop-using-illegal-alien-in-favor-of-inclusive-language.md",
-      "title": "Biden administration urges DHS officials to stop using ‘illegal alien’ in favor of ‘inclusive’ language",
-      "excerpt": "The Biden administration is urging officials at the Department of Homeland Security to stop using phrases like “illegal alien” in favor of what it says are more “inclusive” terms -- part of a broader effort by the administration to change language use on immigration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ujGB8wO0Qkg/biden-dhs-officials-illegal-alien-inclusive-language",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ujGB8wO0Qkg/biden-dhs-officials-illegal-alien-inclusive-language",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-dhs-officials-illegal-alien-inclusive-language.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-officials-illegal-alien-inclusive-language.amp",
-      "publishedDateTime": "2021-02-16T16:38:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-plaskett-insists-trump-will-never-be-elected-again-despite-impeachment-acquittal.md",
-      "title": "Plaskett insists Trump will 'never be elected again' despite impeachment acquittal",
-      "excerpt": "Rep. Stacey Plaskett says Republicans made a calculation to save their political futures rather than convict Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392",
-      "originalUrl": "https://abcnews.go.com/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/Plaskett-ap-er-210216_1613499656957_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/plaskett-insists-trump-elected-impeachment-acquittal/story?id=75923392",
-      "publishedDateTime": "2021-02-16T16:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-giuliani-no-longer-representing-trump-in-any-legal-matters-adviser-says.md",
-      "title": "Giuliani no longer representing Trump 'in any legal matters,' adviser says",
-      "excerpt": "Former President Donald Trump's longtime personal attorney, Rudy Giuliani, is \"not currently representing President Trump in any legal matters,\" senior Trump adviser Jason Miller told CNN on Tuesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QaBn1mAwvQA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QaBn1mAwvQA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 173,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201120165627-giuliani-trump-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/16/politics/rudy-giuliani-donald-trump/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/rudy-giuliani-donald-trump/index.html",
-      "publishedDateTime": "2021-02-16T14:45:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

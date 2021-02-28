@@ -48,22 +48,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "What to Watch For at CPAC: Trump, Cruz, Pompeo and More"
-    excerpt: "Even more than usual, the Conservative Political Action Conference this year will be a barometer for the Republican Party, newly out of power in Washington and trying to chart a way back."
-    publishedDateTime: 2021-02-25T10:08:00Z
-    webUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/25/us/politics/25cpac-guide/25cpac-guide-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "POLITICO Playbook: Trump stewing over McCarthy again ahead of big CPAC speech"
     excerpt: "Friday was the warm-up act at TPAC (get it?), where 2024 GOP hopefuls like TED CRUZ, TOM COTTON, JOSH HAWLEY, RICK SCOTT and DONALD TRUMP JR. tried out their material. The scene felt … low energy, but hey,"
     publishedDateTime: 2021-02-27T15:02:00Z
