@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Clinton, Harris, Warren all silent on Cuomo after second woman brings sexual misconduct allegations"
+    excerpt: "Multiple high-profile Democratic women have yet to publicly comment on sexual harassment allegations against New York Gov. Andrew Cuomo despite having fervently objected to the nomination of Brett Kavanaugh to the U.S. Supreme Court over decades-old allegations of sexual harassment."
+    publishedDateTime: 2021-02-28T22:09:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0RpL2G5P4Q/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations"
+    ampWebUrl: "https://www.foxnews.com/politics/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055530944049.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "VP Kamala Harris To Black Americans: \"Let's Not Let COVID Get Us\""
     excerpt: "Vice President Kamala Harris addressed the Black community and encouraged them to take the COVID vaccine in an interview with MSNBC host Rev. Al Sharpton that will air on Thursday and fully on the Saturday broadcast of his show on the news network."
     publishedDateTime: 2021-02-24T00:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-pr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp"
 type: article
 quality: 183
-heat: 223
+heat: 243
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Clinton, Harris, Warren all silent on Cuomo after second woman brings sexual misconduct allegations"
+    excerpt: "Multiple high-profile Democratic women have yet to publicly comment on sexual harassment allegations against New York Gov. Andrew Cuomo despite having fervently objected to the nomination of Brett Kavanaugh to the U.S. Supreme Court over decades-old allegations of sexual harassment."
+    publishedDateTime: 2021-02-28T22:09:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0RpL2G5P4Q/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations"
+    ampWebUrl: "https://www.foxnews.com/politics/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055530944049.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "White House reporter covering Kamala Harris tests positive for COVID-19"
     excerpt: "A reporter covering Vice President Kamala Harris tested positive for the coronavirus on Wednesday, forcing a thorough cleaning of the White House briefing room before this afternoon’s press"
     publishedDateTime: 2021-02-24T17:21:00Z

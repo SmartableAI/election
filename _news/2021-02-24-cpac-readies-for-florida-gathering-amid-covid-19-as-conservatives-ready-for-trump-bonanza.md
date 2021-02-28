@@ -208,6 +208,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump declares he won't start a new party at CPAC, says speculation otherwise was 'fake news'"
+    excerpt: "Former President Donald Trump in his Sunday address to the Conservative Political Action Conference (CPAC) clearly declared that he would not start a new political party, after some speculation last month that he might. "
+    publishedDateTime: 2021-02-28T22:29:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rYdz3znZD1s/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House 'certainly not' focused on anticipated Trump criticisms of immigration policy at CPAC"
     excerpt: "The White House is \"certainly not\" worried about anticipated criticisms from former President Donald Trump at the Conservative Political Action Conference (CPAC) this weekend, according to press secretary Jen Psaki. "
     publishedDateTime: 2021-02-25T18:36:06Z
@@ -347,6 +363,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-statue-cpac-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "CPAC 2021: Trump says he won’t start a new political party"
+    excerpt: "Former president Donald Trump denied he has any plans to found a new political party during remarks delivered Sunday at Florida’s Conservative Political Action Conference — branding"
+    publishedDateTime: 2021-02-28T22:38:00Z
+    webUrl: "https://nypost.com/2021/02/28/trump-says-he-wont-start-a-new-political-party/"
+    ampWebUrl: "https://nypost.com/2021/02/28/trump-says-he-wont-start-a-new-political-party/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/28/trump-says-he-wont-start-a-new-political-party/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-6.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

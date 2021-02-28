@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Gold Trump statue on sale at CPAC for $100,000"
-excerpt: "A bizarre gold statue of former President Trump clad in sandals and waving a magic wand is currently on sale at CPAC — for anyone with a cool $100,000 to spend. “He’s"
-publishedDateTime: 2021-02-27T18:23:00Z
-originalUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/"
-webUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/"
-ampWebUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/amp/"
+title: "CPAC 2021: Trump says he won’t start a new political party"
+excerpt: "Former president Donald Trump denied he has any plans to found a new political party during remarks delivered Sunday at Florida’s Conservative Political Action Conference — branding"
+publishedDateTime: 2021-02-28T22:38:00Z
+originalUrl: "https://nypost.com/2021/02/28/trump-says-he-wont-start-a-new-political-party/"
+webUrl: "https://nypost.com/2021/02/28/trump-says-he-wont-start-a-new-political-party/"
+ampWebUrl: "https://nypost.com/2021/02/28/trump-says-he-wont-start-a-new-political-party/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/28/trump-says-he-wont-start-a-new-political-party/amp/"
 type: article
 quality: 135
 heat: -1
@@ -22,7 +22,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-statue-cpac-1.jpg?quality=90&strip=all&w=1200"
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-6.jpg?quality=90&strip=all&w=1200"
     width: 1200
     height: 800
     isCached: true
@@ -346,19 +346,19 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "CPAC 2021: Trump says he won’t start a new political party"
-    excerpt: "Former president Donald Trump denied he has any plans to found a new political party during remarks delivered Sunday at Florida’s Conservative Political Action Conference — branding"
-    publishedDateTime: 2021-02-28T22:38:00Z
-    webUrl: "https://nypost.com/2021/02/28/trump-says-he-wont-start-a-new-political-party/"
-    ampWebUrl: "https://nypost.com/2021/02/28/trump-says-he-wont-start-a-new-political-party/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/28/trump-says-he-wont-start-a-new-political-party/amp/"
+  - title: "Gold Trump statue on sale at CPAC for $100,000"
+    excerpt: "A bizarre gold statue of former President Trump clad in sandals and waving a magic wand is currently on sale at CPAC — for anyone with a cool $100,000 to spend. “He’s"
+    publishedDateTime: 2021-02-27T18:23:00Z
+    webUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/"
+    ampWebUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-6.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-statue-cpac-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -503,6 +503,6 @@ related:
         height: 3601
         isCached: true
 
-secured: "/x5Qg0QAUVZKRIiSMy+2IJc/iv2hqtiehAc01oDObzDw6LaRHWLFcKGbonNSIgiG8lSkYsH5U7Cuh/7grHMl2SVSB9Jq/dWt9aqmZAZDmotEWynlcjg2A1bTlJbgo9kswY1Z8AMRuoFLppHFv64afNQaK2klxfda7JT4o4RaQgk6JqCYnJSeLeZqMrQMpMVX/WRyaA64HAQw3miXwiuWJkReQzTdcYP63CMst0pMPDkcDkpSHUwV+P5FjJFKQRz4f/lRIc9X8OJlkEVK9O5+VCKX4ylKu5MZoIP9iu+/c68r0KP5+5VgE+QciQPKBJG6mRR8Uhlq3wdDPtWFyobjQiktODxjZGNUBVH3pgZhQ1c=;Glf0nV4TOnRtuu3iMOSnWQ=="
+secured: "h9lhRm2zk555uToCzeOC/HsDpx8QN8bGlOft4mOgn3yyZ7E2njU/PHOKp9az0ASIvJWNzfL+GnlrZnZxr0ZYJGqfE/gx/V97TSGfYSJfreY82tFzNuuoQQUiQrcnLFuDQaUpBpwuZfbr968B7dK7yCzAbHlqmhHuZJN7ym1EHBixK7Fji7alDTgKlGRZ/VCrm4zxpv1PObtMPhvduZkEmmsIp26vCd80RFCxJTPTdkNUfrNv6h1N+nA7uaNt/b2zKRNHFP6FnWLBxGOQEEGmHOC7hKKfKVjiJcb9TbDx3BLPUJVYcGvOaxpuo7j3D0NwueI9hS8vUrARkcKOD+0bU/WW9HFW15fxc6gh3ClvY8g=;4Ezsh7G5bGwL2fNpT9HNKg=="
 ---
 

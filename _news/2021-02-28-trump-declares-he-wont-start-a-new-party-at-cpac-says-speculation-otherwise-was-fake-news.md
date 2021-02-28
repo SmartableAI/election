@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Gold Trump statue on sale at CPAC for $100,000"
-excerpt: "A bizarre gold statue of former President Trump clad in sandals and waving a magic wand is currently on sale at CPAC — for anyone with a cool $100,000 to spend. “He’s"
-publishedDateTime: 2021-02-27T18:23:00Z
-originalUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/"
-webUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/"
-ampWebUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/amp/"
+title: "Trump declares he won't start a new party at CPAC, says speculation otherwise was 'fake news'"
+excerpt: "Former President Donald Trump in his Sunday address to the Conservative Political Action Conference (CPAC) clearly declared that he would not start a new political party, after some speculation last month that he might. "
+publishedDateTime: 2021-02-28T22:29:03Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rYdz3znZD1s/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rYdz3znZD1s/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news"
+ampWebUrl: "https://www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news.amp"
 type: article
-quality: 135
+quality: 164
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-statue-cpac-1.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -204,22 +207,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump declares he won't start a new party at CPAC, says speculation otherwise was 'fake news'"
-    excerpt: "Former President Donald Trump in his Sunday address to the Conservative Political Action Conference (CPAC) clearly declared that he would not start a new political party, after some speculation last month that he might. "
-    publishedDateTime: 2021-02-28T22:29:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rYdz3znZD1s/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "White House 'certainly not' focused on anticipated Trump criticisms of immigration policy at CPAC"
     excerpt: "The White House is \"certainly not\" worried about anticipated criticisms from former President Donald Trump at the Conservative Political Action Conference (CPAC) this weekend, according to press secretary Jen Psaki. "
     publishedDateTime: 2021-02-25T18:36:06Z
@@ -343,6 +330,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/Trump_Conservatives.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Gold Trump statue on sale at CPAC for $100,000"
+    excerpt: "A bizarre gold statue of former President Trump clad in sandals and waving a magic wand is currently on sale at CPAC — for anyone with a cool $100,000 to spend. “He’s"
+    publishedDateTime: 2021-02-27T18:23:00Z
+    webUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/"
+    ampWebUrl: "https://nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/27/gold-trump-statue-on-sale-at-cpac-for-100000/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-statue-cpac-1.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -503,6 +506,6 @@ related:
         height: 3601
         isCached: true
 
-secured: "/x5Qg0QAUVZKRIiSMy+2IJc/iv2hqtiehAc01oDObzDw6LaRHWLFcKGbonNSIgiG8lSkYsH5U7Cuh/7grHMl2SVSB9Jq/dWt9aqmZAZDmotEWynlcjg2A1bTlJbgo9kswY1Z8AMRuoFLppHFv64afNQaK2klxfda7JT4o4RaQgk6JqCYnJSeLeZqMrQMpMVX/WRyaA64HAQw3miXwiuWJkReQzTdcYP63CMst0pMPDkcDkpSHUwV+P5FjJFKQRz4f/lRIc9X8OJlkEVK9O5+VCKX4ylKu5MZoIP9iu+/c68r0KP5+5VgE+QciQPKBJG6mRR8Uhlq3wdDPtWFyobjQiktODxjZGNUBVH3pgZhQ1c=;Glf0nV4TOnRtuu3iMOSnWQ=="
+secured: "qkGtrV9grldImS5B0wnRTfYukh9AwfOoF6fZNSuI267YSlRyEqFYk0Qvp1EkvfAyIYKW8qs47Vp1pUAxnIjQ9g2PzfE5hRvV5nB//4OyW1jqFHA2cF8gqX4BgYh431CmosLXC8Y5FAWqx5wR7Ill0S7vhZVGgjdY9t2PRrWLlmnVvDs1RbR6PCsiAnjxl3Ltc7SmcIlRK0ei5GimNzThoX2HzqehgsJSx17acv2EKxcNAB+5u+Xng8V3LCliEBV9jQ0o5ssKW/a+fIc85DAtw2ZMj9drh3Glz+k8+eQBF4Mt0GzlI0Lz9KuABtTT9npB7aHD6cAAL9OSv49D+wIP8vrl71VagrO8rpNr5MEBsgU=;fZurhqj7lB1ta5aiXNRU6A=="
 ---
 
