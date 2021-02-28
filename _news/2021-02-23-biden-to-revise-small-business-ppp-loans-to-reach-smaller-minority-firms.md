@@ -111,6 +111,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden surveys Texas weather damage, encourages virus shots"
+    excerpt: "President Joe Biden will exercise his empathy skills Friday during a Texas visit with a dual mission: surveying damage caused by severe winter weather and encouraging people to get their coronavirus shots."
+    publishedDateTime: 2021-02-27T23:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_41820955cdf04ada9a78e7b519b74e4c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to declare major disaster in Texas as millions hit by water shortages"
     excerpt: "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages"
     publishedDateTime: 2021-02-19T20:19:00Z

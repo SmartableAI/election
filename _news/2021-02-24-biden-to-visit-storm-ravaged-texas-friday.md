@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden surveys Texas weather damage, encourages virus shots"
+    excerpt: "President Joe Biden will exercise his empathy skills Friday during a Texas visit with a dual mission: surveying damage caused by severe winter weather and encouraging people to get their coronavirus shots."
+    publishedDateTime: 2021-02-27T23:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-exercise-empathy-skills-texas-visit-storms-76129459"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_41820955cdf04ada9a78e7b519b74e4c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
     excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."

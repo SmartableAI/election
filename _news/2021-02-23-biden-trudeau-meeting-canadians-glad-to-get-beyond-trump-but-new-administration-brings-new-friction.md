@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1658
         isCached: true
+  - title: "Biden raises social cost of carbon, restoring key climate policy tool slashed by Trump"
+    excerpt: "The social cost of carbon is an estimate of the long-term damage, in dollars, of carbon on our environment. Former President Trump disbanded the interagency working group (IWG) that determined the number in 2017,"
+    publishedDateTime: 2021-02-28T00:50:00Z
+    webUrl: "https://www.cbsnews.com/news/carbon-social-cost-raised-by-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/carbon-social-cost-raised-by-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/carbon-social-cost-raised-by-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 132
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/28/6030a987-2302-47b5-8aa7-056a0b6597b7/thumbnail/1200x630/0ff37934c439629a09d8ea0aa3465d8f/gettyimages-1231423408.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Unlike Trump's COVID Bills, Biden's $1.9 Trillion Plan Largely Spends Money On The Virus"
     excerpt: "As House members prepare for the anticipated vote on President Joe Biden's nearly $2 trillion coronavirus relief package on Friday, Republicans have spent much of their time lamenting the massive amount of money that it will cost taxpayers."
     publishedDateTime: 2021-02-26T16:42:00Z
@@ -254,6 +270,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210223&t=2&i=1552519951&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1M02K"
         width: 823
         height: 545
+        isCached: true
+  - title: "Biden Reopens Gateway For Green Cards Reversing Trump COVID-19 Freeze"
+    excerpt: "The change means the wait is over for hundreds of thousands of job-seeking foreigners and those pursuing permanent residency in the U.S. to apply for the coveted immigration documents."
+    publishedDateTime: 2021-02-28T00:16:00Z
+    webUrl: "https://www.npr.org/2021/02/24/971206197/biden-reopens-gateway-for-green-cards-work-visas-reversing-trump-covid-19-freeze"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 120
+    images:
+      - url: "https://media.npr.org/assets/img/2021/02/24/ap_20174715433953_wide-ac356c5ff4cc39376cf7630053d651c17ca06cd1.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "Federal judge in Texas blocks Biden's 100-day deportation pause in nationwide order"
     excerpt: "Granting a nationwide injunction sought by Texas, a federal judge has blocked the Biden administration's plans to pause deportations for 100 days."
