@@ -302,6 +302,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Fears about Trump out of the cage"
+    excerpt: "There are two months of pent-up tweets Trump could unleash at CPAC today, his first on-stage appearance since Jan. 6. The risk of havoc is higher than going on Fox, which he’s done a few times. Here’s what his aides have been trying to prevail upon Trump to do: — Train his fire on JOE BIDEN."
+    publishedDateTime: 2021-02-28T17:08:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/28/fears-about-trump-out-of-the-cage-491927"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/27/65/d91c54f44a0ca44ab6d017e832d7/210228-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "CtLcqMOh7qcE5J1s/ppRi03t6WM+C78HawptN6qy854S80Hw0IX/f82nr18KoTI9WoVCDp76dDx20S+U8yEn3aJMGTV+mrdpPt8+KAEzQETkOuQ7VFEJ9C0qfdAGd+CLrL7+/BRG2LkUqAUBGp0FAXi7rCD3uLIthOpXB65Eo1OHAtUPiojwXIBFUVbKUFt1Wv7fEAz2HN2V5A6uGTlihajx8RJI4W30Ur2GNULndB5hFwwoX+L6PFglgPNKAbOtGa0N+ezyX7TINVi+7sYtsPK3L61SjYJDTjocHfXckzMU5nTqqoK7urkUDOrTU8PwO/9nh9lnbDCu07vM22PippAPVkEJUxHQAy+xYZ4FFauXFW4vTfKvFhzkAaSAZQCrl3JPiye8vpp4KohFfiCs26HYuoveSUf4Mr29TC2j6mTS49o6xHcLBSb+rkQ2Irm2pdvmKliRD2cBInpEP55di8qeXxECbinSWDm70DP4rb/WelqyaB1oBcVufqzeKZ7VTIGa9S56mpMVOCMAJUStHw==;3Pl38weqpSChht08fpWeuA=="
 ---

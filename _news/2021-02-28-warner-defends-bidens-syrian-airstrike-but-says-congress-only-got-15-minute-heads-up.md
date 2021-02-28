@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Ilhan Omar, other progressives question Biden's 'legal rationale' for Syria airstrikes"
-excerpt: "Rep. Ilhan Omar, D-Minn., said Friday she was concerned about the White House’s \"legal rationale\" for launching airstrikes in Syria a day earlier without congressional approval."
-publishedDateTime: 2021-02-27T07:43:05Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wCUSZr0Kekw/ilhan-omar-other-progressives-question-bidens-legal-rationale-for-syria-airstrikes"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wCUSZr0Kekw/ilhan-omar-other-progressives-question-bidens-legal-rationale-for-syria-airstrikes"
-ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-other-progressives-question-bidens-legal-rationale-for-syria-airstrikes.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-other-progressives-question-bidens-legal-rationale-for-syria-airstrikes.amp"
+title: "Warner defends Biden's Syrian airstrike, but says Congress only got 15 minute 'head's up'"
+excerpt: "The White House's strike on Iranian-backed militias in Syria was the right move but Congress didn’t have much time to process it, Senate Intelligence Committee chair Mark Warner, D-Va., told \"Fox News Sunday.\""
+publishedDateTime: 2021-02-28T17:46:55Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCcfnOVmbJ4/warner-biden-iranian-airstrike-congress"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCcfnOVmbJ4/warner-biden-iranian-airstrike-congress"
+ampWebUrl: "https://www.foxnews.com/politics/warner-biden-iranian-airstrike-congress.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warner-biden-iranian-airstrike-congress.amp"
 type: article
-quality: 167
+quality: 166
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82118a6d-0713-4711-b3e7-5bd5938427cd/6f5db8ea-a52b-4af9-a91c-06cd2cb9eadc/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ddd7856-df12-449a-8ebc-e3a4d579d450/41b52434-62f0-4a56-9311-6ac81ccd793a/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Warner defends Biden's Syrian airstrike, but says Congress only got 15 minute 'head's up'"
-    excerpt: "The White House's strike on Iranian-backed militias in Syria was the right move but Congress didn’t have much time to process it, Senate Intelligence Committee chair Mark Warner, D-Va., told \"Fox News Sunday.\""
-    publishedDateTime: 2021-02-28T17:46:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCcfnOVmbJ4/warner-biden-iranian-airstrike-congress"
-    ampWebUrl: "https://www.foxnews.com/politics/warner-biden-iranian-airstrike-congress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warner-biden-iranian-airstrike-congress.amp"
+  - title: "Ilhan Omar, other progressives question Biden's 'legal rationale' for Syria airstrikes"
+    excerpt: "Rep. Ilhan Omar, D-Minn., said Friday she was concerned about the White House’s \"legal rationale\" for launching airstrikes in Syria a day earlier without congressional approval."
+    publishedDateTime: 2021-02-27T07:43:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wCUSZr0Kekw/ilhan-omar-other-progressives-question-bidens-legal-rationale-for-syria-airstrikes"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-other-progressives-question-bidens-legal-rationale-for-syria-airstrikes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-other-progressives-question-bidens-legal-rationale-for-syria-airstrikes.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ddd7856-df12-449a-8ebc-e3a4d579d450/41b52434-62f0-4a56-9311-6ac81ccd793a/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82118a6d-0713-4711-b3e7-5bd5938427cd/6f5db8ea-a52b-4af9-a91c-06cd2cb9eadc/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -96,6 +96,6 @@ related:
         height: 340
         isCached: true
 
-secured: "UZEjtt9Nfx/1ZZxjPNt734Kvqn/1KpXA233Y2wVoTVZRG4hrH04LCS+W3iCcL1hrZPtIo+Pto5j7LnyBw8Zc+9KIEHHxwOP95pfz2ItAqS3j1VfHn3c8Uy5djHQabSLQfjIibzbTO4/O6K8jGJffO5k1kAjbhDQLsfdzJi6Ft4+RlgE6hYdXrGHKNBAJeVMxAkAf7tZOz2QQvwvesbp3lGOFTIQJBtEYxJa56g+bD0Y8dWPA7M4XrFyS9ny2DJxhYP1XQrhSQ6/Ys9PolX98gd7lZ+Zsvph+jXUCuSoTqyoeb1tKVdVboTZkmMoOV14r5Oj95Y9FNhZFwa6vngDfT0GCfS1f1aiZoLPCcULV1hE=;cZvtHVb5F1Q8Ow/ZvPs0iw=="
+secured: "Y9+dcUDkCs52lJu7C3bhgENwGIgQjL8rInpTy479LmpI7+o/aO5qmZoj4FmTkmIqTwkUZ0ckBRHTOW6o1XLDHFOT142qlnuIBYJb65Bd12OuK1WZZ+76yJE60uRqnMHFHgs/dPrV8Qrqle5pBolWKz8HYV8HkRtFHYh2GDyqU6dwdL0sqORw3xnoZeew4rj4qemTKsOKBjhgzPr6qEWzbm+TgTgqTaZmyfoaZK45Asggwte54iyHuXZMJH8ae1ImZlJIeo4/p/l9nTKAtozPE/WjMX8Poe43KWtz5m0J/dXEPPHI+RboflSPALpkq+TVle7lJv2r2bIw+Pjj/L0K3mY6O8RO2BpHUzYjVUP4KqM=;Jwc0Jk9ifldAO0aQCiezDg=="
 ---
 

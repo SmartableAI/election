@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Sarah Sanders, ex-Trump press secretary, to run for Arkansas governor"
-excerpt: "Former White House Press Secretary Sarah Huckabee Sanders is expected to announce a run for governor of Arkansas on Monday, according to two people familiar with her plans. Sanders has toyed with launching a campaign since leaving her post in 2019 and has been quietly planning for the bid over the last year."
-publishedDateTime: 2021-01-26T07:02:00Z
-originalUrl: "https://www.nbcnews.com/politics/politics-news/sarah-huckabee-sanders-ex-trump-press-secretary-run-arkansas-governor-n1255490"
-webUrl: "https://www.nbcnews.com/politics/politics-news/sarah-huckabee-sanders-ex-trump-press-secretary-run-arkansas-governor-n1255490"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255490"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255490"
+title: "Cassidy on Trump and the GOP: 'If we idolize one person, we will lose'"
+excerpt: "GOP Sen. Bill Cassidy said Sunday that he believes if the Republican Party focuses on former President Donald Trump to win back seats in 2022 and the presidency in 2024, \"we will lose.\"\n    \n"
+publishedDateTime: 2021-02-28T16:46:36Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Efmge6KjIJU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Efmge6KjIJU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/bill-cassidy-donald-trump-republican-party-future/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/bill-cassidy-donald-trump-republican-party-future/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://media1.s-nbcnews.com/i/newscms/2019_15/2821351/190414-sarah-sanders-cs-1035a_ab999702ae428cc28624be635f770c8c.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211183310-bill-cassidy-trump-impeachment-trial-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -176,22 +175,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Cassidy on Trump and the GOP: 'If we idolize one person, we will lose'"
-    excerpt: "GOP Sen. Bill Cassidy said Sunday that he believes if the Republican Party focuses on former President Donald Trump to win back seats in 2022 and the presidency in 2024, \"we will lose.\"\n    \n"
-    publishedDateTime: 2021-02-28T16:46:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Efmge6KjIJU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/bill-cassidy-donald-trump-republican-party-future/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/bill-cassidy-donald-trump-republican-party-future/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211183310-bill-cassidy-trump-impeachment-trial-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "These GOP lawmakers are facing backlash from state parties for not backing Trump"
     excerpt: "State Republican parties are taking action against former President Donald Trump.\n    \n"
     publishedDateTime: 2021-02-15T16:14:38Z
@@ -319,6 +302,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112182127-rep-adam-kinzinger-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Sarah Sanders, ex-Trump press secretary, to run for Arkansas governor"
+    excerpt: "Former White House Press Secretary Sarah Huckabee Sanders is expected to announce a run for governor of Arkansas on Monday, according to two people familiar with her plans. Sanders has toyed with launching a campaign since leaving her post in 2019 and has been quietly planning for the bid over the last year."
+    publishedDateTime: 2021-01-26T07:02:00Z
+    webUrl: "https://www.nbcnews.com/politics/politics-news/sarah-huckabee-sanders-ex-trump-press-secretary-run-arkansas-governor-n1255490"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1255490"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1255490"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2019_15/2821351/190414-sarah-sanders-cs-1035a_ab999702ae428cc28624be635f770c8c.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "With acquittal, GOP sticks with Trump, wherever that leads"
     excerpt: "On Saturday, 43 of 50 Republican senators voted to absolve former President Trump of responsibility for the deadly January 6th riot at the Capitol."
@@ -473,6 +472,6 @@ related:
         height: 773
         isCached: true
 
-secured: "YEDpH7TTpWbhpt1iZxWisY1fDZ22dgVh4Tz7iRcBaxMGi4QDwCNI5AJ59GqGDZ4iatXkNl24VvWq+xYU1ooHFsP7FSrjUrep11WMPpBFZPxCIocen6dJisVzWkWRdK6W9Lq1Wmy/Akl2GtO8XgIkT013mExAwlLqiA2Rq51pwC2JnCXIl+rm0bP1On+SJmruiJL/TaXjeVc2zY1bkLvSMEtx3oMCkssN79HdQ/u2GhHcwbUzEdOluhkNOnH2pM5P9nQR0IDVSrgOxZyzXhAsemvQTWOD6vvCBKgPvVzbbbLfdi01GHviot8wc6PzEpJqgOSv7TX8xBxVctKndc99Bl0Hg2XC6nl8qKa8EtD9zfM=;8LBEgwJ9u6XqOZKM41X5OA=="
+secured: "fzJ18jtcK9GO+Al+1l5VjQa3uNmCGSaw93w9Y1M1NeEvDJcXXpI26dVZ9sEGk3dRQGTmV7MCyLuaDqjqfFlhLzhCNHRBlsBsF/W04OJ+WWJ7G+uInzedCOFT7bgbkz6IpwGWnSG1qBky88KAKAAxirdfJX+eRWs5mOoA1vzu4BkV5I8GFMG51jh5VY4B6JhL7RcENenD1kADVIfaAMg8OwqUSB4D3Mhm+zkkzlb1URZ36sYotagYh8clqUgmGKs0h2bDnC3vPxBOxqHpwcFEq//WUTDQMCw141HA2HQu6+2SLdFfppc+NbpLGHbkCw+wu7VuEDqkUimBtNK4CcV4097BNBZf7ZCcZ+QeIhGmIyQ=;eHlktrz5u0AMhKjJuV/GBQ=="
 ---
 

@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-18-bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.md",
+      "title": "Bowe Bergdahl targets Trump, McCain comments in lawsuit challenging court-martial",
+      "excerpt": "Former U.S. Army Sgt. Robert \"Bowe\" Bergdahl, who was court-martialed in 2017 after being accused of abandoning his post in Afghanistan and endangering fellow service members, has filed a civil lawsuit in a bid to overturn his conviction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial",
+      "originalUrl": "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Bergdahl053119.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.amp",
+      "publishedDateTime": "2021-02-18T05:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-did-kamala-harris-bail-out-minneapolis-rioters-last-year-here-are-the-facts.md",
       "title": "Did Kamala Harris bail out Minneapolis rioters last year? Here are the facts",
       "excerpt": "If you use this model, I don’t know how Kamala Harris doesn’t get impeached if the Republicans take over the House, because she actually bailed out rioters, and one of the rioters went back to the streets and broke somebody’s head open,",
@@ -1294,63 +1351,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-fauci-defends-harris-starting-from-scratch-claim-now-knocks-trump-vaccine-rollout.md",
-      "title": "Fauci defends Harris 'starting from scratch' claim, now knocks Trump vaccine rollout",
-      "excerpt": "White House chief medical adviser Dr. Anthony Fauci reversed his previous rejection Tuesday of claims that the Biden administration was \"starting from scratch\" with the rollout of the coronavirus vaccine.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/57KtG5YlgyA/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/57KtG5YlgyA/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 253,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ad71656b-2875-49eb-84fa-d680c5cbc2f2/3169cfb5-6a85-407b-9d32-61d055c27ff9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anthony-fauci-kamala-harris-starting-from-scratch-covid-vaccine-rollout.amp",
-      "publishedDateTime": "2021-02-16T14:03:38-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

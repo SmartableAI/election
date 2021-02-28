@@ -58,6 +58,17 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump to Proclaim Himself as the Future for Republicans in Speech"
+    excerpt: "A civil war has erupted within the Republican Party with establishment figures like Senate minority leader Mitch McConnell eager to put Trump in the rear-view mirror and others, l"
+    publishedDateTime: 2021-02-28T17:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "ZdMnlYGAxR1Y59JMZsI14jRabp9mgXPR4OzO/t42sMMD5+zCk+0/6eCo+b5CCVdG+Bfb7WqJ7w0LWWW/ZT3QQRUI+OTHSZcBrCdHXxpW4fZsqhl30AX2Or0isfuVR8skWlmbd0Gt1bIAuJAypuy+L5RvtgE8K/DpIjxnE3qD0ADjfxN8b/P0ZIB8KEg9kpCHEE2/FF1CmVlpAleL8O5pkOS/MfaDl/9+o90dYzGXxh2YA0Up/5motYL7r+JlR2d+eSq6LjtEzYy3t7h5q5YEzSk/HlQY93ci0rnOpjWOcQcu5ToLfx9ltAldnPm6Vvk5kRdpR9g2EfKMaY4v3sxH8sOM2081+Rj7PgTkZACmFx0=;2zl7osAFl9IIP/f7GvnO4g=="
 ---

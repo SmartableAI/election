@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-syria-strike-iran-republicans
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-syria-strike-iran-republicans-praise.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 167
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/82118a6d-0713-4711-b3e7-5bd5938427cd/6f5db8ea-a52b-4af9-a91c-06cd2cb9eadc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Warner defends Biden's Syrian airstrike, but says Congress only got 15 minute 'head's up'"
+    excerpt: "The White House's strike on Iranian-backed militias in Syria was the right move but Congress didn’t have much time to process it, Senate Intelligence Committee chair Mark Warner, D-Va., told \"Fox News Sunday.\""
+    publishedDateTime: 2021-02-28T17:46:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FCcfnOVmbJ4/warner-biden-iranian-airstrike-congress"
+    ampWebUrl: "https://www.foxnews.com/politics/warner-biden-iranian-airstrike-congress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warner-biden-iranian-airstrike-congress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ddd7856-df12-449a-8ebc-e3a4d579d450/41b52434-62f0-4a56-9311-6ac81ccd793a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

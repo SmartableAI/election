@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Trump, Mr. Potato Head and CPAC: Republicans Show Their Loyalties"
-excerpt: "They railed against \"socialist\" Democrats and \"cancel culture,\" and wrung their hands over whether Mr. Potato Head would lose his gender identity. They laughed along with Sen. Ted Cruz when the Texas lawmaker joked about his much-derided trip to Cancun during a water and power crisis in his home state."
-publishedDateTime: 2021-02-26T22:19:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump"
-ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump?context=amp"
+title: "Trump to Proclaim Himself as the Future for Republicans in Speech"
+excerpt: "A civil war has erupted within the Republican Party with establishment figures like Senate minority leader Mitch McConnell eager to put Trump in the rear-view mirror and others, l"
+publishedDateTime: 2021-02-28T17:35:00Z
+originalUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech"
+webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech"
+ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
 type: article
 quality: 55
 heat: -1
@@ -57,18 +57,18 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Trump to Proclaim Himself as the Future for Republicans in Speech"
-    excerpt: "A civil war has erupted within the Republican Party with establishment figures like Senate minority leader Mitch McConnell eager to put Trump in the rear-view mirror and others, l"
-    publishedDateTime: 2021-02-28T17:35:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
+  - title: "Trump, Mr. Potato Head and CPAC: Republicans Show Their Loyalties"
+    excerpt: "They railed against \"socialist\" Democrats and \"cancel culture,\" and wrung their hands over whether Mr. Potato Head would lose his gender identity. They laughed along with Sen. Ted Cruz when the Texas lawmaker joked about his much-derided trip to Cancun during a water and power crisis in his home state."
+    publishedDateTime: 2021-02-26T22:19:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump?context=amp"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
 
-secured: "rSi+ygtZemn/NkYX3JnvK1xtetVdZ5tpRcOvoS9I5DNInX5LEDbmqf0bdU5TKnc+XL3xe5Q4LKw7LAT/HjsSOM7z2qVrgYo8dE+ifTLhugb1P/4qH+sP7TcweXKw01GFyqYEkHIioLq9dcsKb6ozp97XigFaRabDcAuakJr4eGW3MGR6VE7bBBfPaid0XpD7soVEJHmicc/h6OYWkddExPnTx86EeHvAb/lqU+vLSDDecf1wZSuvvkQKQ9raZGEtPYoCWzz44Fsu1Jog207ReRcUOEfIKGmEuJYPY+goVApeKReo8Giui+HdyyoPcJEWpQiN6/wvRwtuvgORdkzDSX6FuvamXg4PbHa8kSeYnH91xg7fTFIng4OR3Inlzt/FTlIC2POwh+Kd4e1w+uy27ikvLnL11kvOLqm3SovZ/FddEpXYvkWjXfEeSm5wYMAkX6/GLLkWJQFX/FAVNtsdjQLPsU39BoyThujdNeclIhTOsWlk0gpPSsuljCUNC6JmVdBnl7p6v+sHj0kiQvsJjQ==;DZeuhKFPkJ/fwvx0YnfVaA=="
+secured: "PkDEWKZWeJZsGqipXDZ9Ad7S5hHUZHHi8nopu5vQTyBqRrCTRhOtAZQpOwEle/34E5BnRiiBNBlxqoPypX1oyNqU48hzL7eO5BEIRTRUu6iE2QUOdNN3POyYAiz+mD0bbP2Fm3vRWtNmL5vl47qQNmtqcrKSTL2py9DP0bMHOoEbyRBI75uTn6d4vX+Z0Fog9c+1QVdPQNotRDoVTKiJCOytGmb0N58BB1yXpjmXVN7euVXwX7Dwkga9Lcq1hvLG/nm8pYfpv+Zz/EqCL6URFGwjMFPdNozAx5xuSIFLbS21vv9CN7t8/mjIiCLf2rZuaLnln6zTJfh/0W7j0H87x5VgNEZbUT9wB4bEwzTdyXQ=;XiRQND8fP61VT3NwMag02g=="
 ---
 

@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Cassidy on Trump and the GOP: 'If we idolize one person, we will lose'"
+    excerpt: "GOP Sen. Bill Cassidy said Sunday that he believes if the Republican Party focuses on former President Donald Trump to win back seats in 2022 and the presidency in 2024, \"we will lose.\"\n    \n"
+    publishedDateTime: 2021-02-28T16:46:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Efmge6KjIJU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/bill-cassidy-donald-trump-republican-party-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/bill-cassidy-donald-trump-republican-party-future/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211183310-bill-cassidy-trump-impeachment-trial-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "These GOP lawmakers are facing backlash from state parties for not backing Trump"
     excerpt: "State Republican parties are taking action against former President Donald Trump.\n    \n"
     publishedDateTime: 2021-02-15T16:14:38Z

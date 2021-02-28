@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republica
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -53,6 +53,17 @@ related:
     webUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump"
     ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump?context=amp"
     cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump to Proclaim Himself as the Future for Republicans in Speech"
+    excerpt: "A civil war has erupted within the Republican Party with establishment figures like Senate minority leader Mitch McConnell eager to put Trump in the rear-view mirror and others, l"
+    publishedDateTime: 2021-02-28T17:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
     type: article
     provider:
       name: U.S. News & World Report

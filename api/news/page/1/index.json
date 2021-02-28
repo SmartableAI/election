@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-02-28-bidens-19t-coronavirus-relief-bill-is-trojan-horse-will-use-as-slush-fund-to-buy-votes-rep-nunes.md",
+      "title": "Biden's $1.9T coronavirus relief bill is 'Trojan horse,' will use as 'slush fund' to buy votes: Rep. Nunes",
+      "excerpt": "President Biden’s $1.9 trillion coronavirus relief bill is a Trojan horse that the Democrat will use as a slush fund to buy votes over the next four years, Republican Rep. Devin Nunes said Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MXQKubfAGXw/biden-coronavirus-relief-bill-trojan-horse-rep-nunes",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MXQKubfAGXw/biden-coronavirus-relief-bill-trojan-horse-rep-nunes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c4a6592-d059-48be-9d60-4a2175e3eb91/85e851b2-86ff-481e-a302-aa8deaa048af/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-coronavirus-relief-bill-trojan-horse-rep-nunes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-relief-bill-trojan-horse-rep-nunes.amp",
+      "publishedDateTime": "2021-02-28T09:32:18-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-vegas-is-betting-on-trump-announcing-his-2024-reelection-bid-during-highly-anticipated-cpac-speech.md",
       "title": "Vegas is betting on Trump announcing his 2024 reelection bid during highly-anticipated CPAC speech",
       "excerpt": "Trump is expected to use his Florida speech to talk about the future of the Republican Party and the conservative movement.",
@@ -1299,62 +1355,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-bidens-syria-airstrike-earns-applause-from-prominent-republicans.md",
-      "title": "Biden's Syria airstrike earns applause from prominent Republicans",
-      "excerpt": "Following the airstrike ordered by Biden against Iranian-backed militia members Thursday night, House Foreign Affairs Committee ranking member Rep. Michael McCaul, R-Texas, and Rep. French Hill, R-Ark., applauded the successful airstrike.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/62h3pp0aFrk/biden-syria-strike-iran-republicans-praise",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/62h3pp0aFrk/biden-syria-strike-iran-republicans-praise",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d4b4b3b-a02c-4c6c-993b-27e88fcbad6c/1ec6d8e6-1fe9-4c8c-9ca5-7e0f436ae1a9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-syria-strike-iran-republicans-praise.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-syria-strike-iran-republicans-praise.amp",
-      "publishedDateTime": "2021-02-26T09:01:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],
