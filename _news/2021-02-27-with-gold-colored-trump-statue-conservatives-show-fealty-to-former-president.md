@@ -1,28 +1,34 @@
 ---
 category: news
-title: "With Gold-Colored Trump Statue, Conservatives Show Fealty to Former President"
+title: "With gold-colored Trump statue, conservatives show fealty to former president"
 excerpt: "U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue of the former president, showing he remains a Republican political force despite violent scenes in Washington last month."
-publishedDateTime: 2021-02-27T03:33:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather?context=amp"
+publishedDateTime: 2021-02-26T21:25:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-politics-conservatives-idUSKBN2AQ1GZ"
+webUrl: "https://www.reuters.com/article/us-usa-politics-conservatives-idUSKBN2AQ1GZ"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AQ1GZ"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ1GZ"
 type: article
-quality: 52
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1553095481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1P1LD"
+    width: 717
+    height: 545
+    isCached: true
 
 related:
   - title: "Trump repeats election claims in interviews, is unchallenged"
@@ -1596,6 +1602,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "MwJ0KGyJVHIV7/Qv6N3QVau6emjhtri8eqMfrJb/zs/vDJvWD9Noyr6h8PJajMvkTNtCG7fEJQ9RWZI7Alsll0Svmdu8Mv+ldcSBND/zhOdPQe+wXYNl4A9gYbtpDBrAEXHGzQWDCEP/3dYjJAMUIq/qB5VawEnUsuVv55JhSte5UVWGdvfaTS9OUBlWPIgJiw4yKjww8kUFDpq2cJ5AeHoT5Eg0/K0fX6PO0XxAnXsnbUbriwRS1JW3Pnj+Ryh56zRleAia4XPkAkiBhQ41qS9RA7P/0Jpcs6TR6PxyokVgzoyFXjL76fTO+7yHvhRzSkAYVoGXDp8H2goJRxlLcBG6b2SQYr4qqeG5uVWhThJpyMCo/dkPV3yVlPlxuLnDu4fZOdrTXiKZIoDAAEG1DSbV7m8Q4rnbz+hxB/yPGT4DIPH9mSdEaK+QNyW6RyRTnKzhWGhNmCYLiV2yQhn/RNEk7+6QVow5gpBWPm20XBkHwzkBNPHpbVzTOM2+vmo9DVzZG2vKDLupAhsjMO4cXQ==;SSi90BkwviU2IHUqMmsYWA=="
+secured: "kFkrN18Wf6+7iHMt0fqeWtx1kbS3quzAerdI3CnlsXAO+OjtBVNyJkNCJbvacYBI4sHVorabqt3n2XQBB9LACHLds4hgS9stBe9fPRUVhXox3b5547s7YmfubXywOnwkh4IYfBYjlk/1srNdXyJbMmN7Mz3ccW+8eFD/WYn2PsLLDOSvNKl3T9S2WC3ldWP0+2ba7DGzyDh4oz/v890xFXfPblM2r0xX2Gzg7zTCSKJlV+J6+sjdiYvRm6SR6b5LHTMc4wVMgwdaNdBO7BrF20CMcYDdnLbIG6kD1VLEe1trZajHkGkTvC6K6SsLfN1KlXW2En4p/NFQxvfqcFNmKJA3Ne3aQgovHjTWv03i7Xk=;K5lfhlQsu0+DR4CSGz2EUA=="
 ---
 

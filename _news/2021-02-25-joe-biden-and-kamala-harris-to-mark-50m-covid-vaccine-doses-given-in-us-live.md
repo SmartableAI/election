@@ -2,9 +2,9 @@
 category: news
 title: "Joe Biden and Kamala Harris to mark 50m Covid vaccine doses given in US – live"
 excerpt: "White House event will commemorate halfway point of Biden’s 100 million campaign promise"
-publishedDateTime: 2021-02-25T10:45:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037802a8f08614ccf106101"
-webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-6037802a8f08614ccf106101"
+publishedDateTime: 2021-02-25T11:58:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-60379db48f088c613add2445"
+webUrl: "https://www.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-60379db48f088c613add2445"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/25/joe-biden-kamala-harris-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 type: article
@@ -1582,6 +1582,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "etvsCq9DusF8piRoceMllaqmEySq0yl8RaR+IIKTNw52NYrPGQBxh1UwIJOiGt3RByiTccQr/VJ90hDcSn5E7Ap+6OulofVpktU48mmEiQ2zwN8looZhSQ0DqJB3XVVKZls6hYKP/zLVSB7gNvBrunAPqqN0ei2o9fwbZF6254X84xCflZuQfY1HqWcTUh6aOMRqCxnX2S0nFkg+4DFRz9pkPcc2z2OLAptbm0OF5RLs+NZel7kkM90WcAnoLpE7J6d/7R3fQD+L+zJFu2fnw8hOQjFoGNw++SqXGfuNs2C0w1MrrCa5BmpYgw/ZoZ+c3aTIK2QWJvxdCozO7x9KBdIh+V3pu/7rUb9eX1Wh5hp4TsTZii+eZSFIPGX+8tC48NxOFi1uQdEJEDV28IxuXrkHktAEVXV3Z/THWGi0MuMdC/1o0Uj3KVM7eLuGselq1QVxTwI/6iAbuvcseaq3YDa9XBhFmTezXBKmpGjy6NhCB6d97hS77wCLgxqq/h9Gk0MGiI8GdAqG4Cf20s6+vw==;IYyX2QUAJa+RSGuDzDnlpA=="
+secured: "u/nLv5XykTTaHrJqf52Ix2oXNSIwUvzG5F6vkLwcRrLluI/NfGkq2yI4qfYZtjVZACOZS17szHCA8uaT0ZpYvjTSh0FclZlPc2VqG1EkOTkH63ruIAFhEfUe5YcRVngfwE5FbEmR5RKfwA8fJQDZvkTNev/Van4K5a2BiIvVJf4iwGouXLLHT/MLaSnkc3EHP2uAA/KjIWQfLIUD5VnjpHT+RX2pZGYO/N72gKhikGCAaeHTNsifRrLCDNEKbtvndAf9HORH3jQ/gVLTOUBjUCjgt4NZwmxyiCOKRa6rDp4pRrLbF2xKa22tWWrsk2nxjnZ+j2fdO/wLUe38mtjLo/p7RIOo5C2iFPkVdPIOi4I=;apLuPVh5HDOQzNKiE3nXlA=="
 ---
 

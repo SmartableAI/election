@@ -783,6 +783,22 @@ related:
         width: 823
         height: 545
         isCached: true
+  - title: "With gold-colored Trump statue, conservatives show fealty to former president"
+    excerpt: "U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue of the former president, showing he remains a Republican political force despite violent scenes in Washington last month."
+    publishedDateTime: 2021-02-26T21:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-politics-conservatives-idUSKBN2AQ1GZ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AQ1GZ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ1GZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1553095481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1P1LD"
+        width: 717
+        height: 545
+        isCached: true
   - title: "Acquitted again by Senate, Trump still a powerful force in Republican politics"
     excerpt: "It is still Donald Trump’s Republican Party - at least for now. The vote by 43 of the 50 Republican senators to acquit Trump on the charge of inciting last month’s deadly riot at the U.S. Capitol, with only seven voting for conviction,"
     publishedDateTime: 2021-02-14T18:11:00Z
@@ -1556,17 +1572,6 @@ related:
         width: 1024
         height: 718
         isCached: true
-  - title: "With Gold-Colored Trump Statue, Conservatives Show Fealty to Former President"
-    excerpt: "U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue of the former president, showing he remains a Republican political force despite violent scenes in Washington last month."
-    publishedDateTime: 2021-02-27T03:33:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-26/trumps-hold-on-republican-party-on-display-as-conservatives-gather?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 52
   - title: "Emails Show Trump Backers Bashing Iowa AG Over Election Case"
     excerpt: "A Republican lawmaker and a man later charged with participating in the Jan. 6 Capitol riot were among thousands of people who criticized Iowa’s attorney general for refusing to seek to overturn Donald Trump’s electoral defeat."
     publishedDateTime: 2021-02-23T16:58:00Z

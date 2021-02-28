@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump endorses Max Miller in primary against GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment"
+    excerpt: "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district."
+    publishedDateTime: 2021-02-28T08:15:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "8ZsSpEmRD9YgK8grhLork46C4Mu+n9FPoTj6haHER9lbfoO1BrRU21o4PZ2j4vYkXr56+EQTcRWDt6KzVnH9THu89XZRMfn2crr8E++qhQrh3SAvTGpPskD99fS52YT05WCOjTU7yV4/eXmil0vNbnK7kock7/hX88jzz9KWTO5Y/JbUEzlJIDRkVYBqGt28QtwWPDyEHcxNsJwibqa8nJBMxzRqfrzwkvH4Z12rK53OI0wvhITrzx9NhqGZDayortu1qX8rbTAgeO5/q2WakgdUNTt8UWqcZC7g8sFJgxcgflpqJbb/lWao2BesdB04Sda2sgnyW0DkemcfJh89Ugedc9pLCzPjojBV4QSTh+mjgR+0A2WZR5aRaRXmMcPZk5sr9bF5j9PqFALACOhdWcs5UXoX/eGI/Apg3/A2AiwLX1nfazUd0Wkj51qQGm9scx548GL5YNZkNnpsiI6mpXecEfx/82nYScAKm7ixg708gYJLA8UN+NpJj9llD7AtUHJXkt5fOzYNupL5H06iug==;3AUqDVADJFSEBGuXeIadtw=="
 ---
