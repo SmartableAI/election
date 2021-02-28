@@ -680,6 +680,22 @@ related:
         width: 1200
         height: 798
         isCached: true
+  - title: "Trump's CPAC speech will rip Biden, map out retaking Congress in 2022"
+    excerpt: "Former President Donald Trump will use his much-anticipated speech at the Conservative Political Action Conference (CPAC) on Sunday to offer a stinging rebuke of the first month of the Biden presidency -- while laying out what the GOP needs to do to take Congress in the 2022 midterms,"
+    publishedDateTime: 2021-02-28T02:19:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-cpac-biden-congress-in-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-biden-congress-in-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-biden-congress-in-2022.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5dd5016-e973-406e-aca3-a67d4fa2408e/60e2794a-cd23-476f-aed8-5df466d4b73d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden Agenda Faces GOP Seeking to Unify in Opposition After Trump Impeachment"
     excerpt: "Democrats are turning to cabinet nominees and pandemic relief, but some Republicans are already signaling their opposition to the president’s plans."
     publishedDateTime: 2021-02-15T19:08:00Z

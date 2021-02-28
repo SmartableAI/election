@@ -125,6 +125,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Mexican president says he'll propose labor program to Biden"
+    excerpt: "Mexican President Andrés Manuel López Obrador says he will propose a ‘Bracero’ style immigrant labor program to U.S. President Joe Biden during a video call between the two leaders planned for Monday"
+    publishedDateTime: 2021-02-27T23:39:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_a14888fcad834a5fbd784cce04c6a24c_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
     publishedDateTime: 2021-01-21T12:38:00Z

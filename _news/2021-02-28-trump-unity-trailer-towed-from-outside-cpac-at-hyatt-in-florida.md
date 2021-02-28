@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Trump to speak at CPAC in first public appearance after leaving office"
-excerpt: "Former President Trump will be a keynote speaker at the Conservative Political Action Conference in Orlando, Fla., a spokesman for the organization confirmed to The Post on Saturday. Trump is"
-publishedDateTime: 2021-02-20T20:42:00Z
-originalUrl: "https://nypost.com/2021/02/20/trump-to-speak-at-cpac-in-first-public-appearance-after-leaving-office/"
-webUrl: "https://nypost.com/2021/02/20/trump-to-speak-at-cpac-in-first-public-appearance-after-leaving-office/"
-ampWebUrl: "https://nypost.com/2021/02/20/trump-to-speak-at-cpac-in-first-public-appearance-after-leaving-office/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/20/trump-to-speak-at-cpac-in-first-public-appearance-after-leaving-office/amp/"
+title: "'Trump Unity' trailer towed from outside CPAC at Hyatt in Florida"
+excerpt: "The Michigan-based Trump Unity Bridge, a traveling pro-Trump trailer bed, was towed outside the Conservative Political Action Conference (CPAC) in Orlando, Fla., Saturday."
+publishedDateTime: 2021-02-28T01:59:42Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvmmVdPV8LM/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvmmVdPV8LM/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida"
+ampWebUrl: "https://www.foxnews.com/politics/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida.amp"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-cpac.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cab6b957-54f2-4910-8657-64cecd72fd35/400b6824-8ea8-4b72-a987-e3415dcc98b7/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -59,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "'Trump Unity' trailer towed from outside CPAC at Hyatt in Florida"
-    excerpt: "The Michigan-based Trump Unity Bridge, a traveling pro-Trump trailer bed, was towed outside the Conservative Political Action Conference (CPAC) in Orlando, Fla., Saturday."
-    publishedDateTime: 2021-02-28T01:59:42Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvmmVdPV8LM/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cab6b957-54f2-4910-8657-64cecd72fd35/400b6824-8ea8-4b72-a987-e3415dcc98b7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "LIVE UPDATES: CPAC 2021 speakers on Friday will include Trump Jr., Ted Cruz"
     excerpt: "The annual Conservative Political Action Conference  (CPAC) is slated to run through Sunday and a number of high-profile conservatives will take the stage to share conservative ideas with the crowd. "
@@ -187,6 +174,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aad1b5c-f865-4a8c-b449-bbe0d5fa0729/41d11d9b-8f05-44ae-934e-82fd8ee44704/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump to speak at CPAC in first public appearance after leaving office"
+    excerpt: "Former President Trump will be a keynote speaker at the Conservative Political Action Conference in Orlando, Fla., a spokesman for the organization confirmed to The Post on Saturday. Trump is"
+    publishedDateTime: 2021-02-20T20:42:00Z
+    webUrl: "https://nypost.com/2021/02/20/trump-to-speak-at-cpac-in-first-public-appearance-after-leaving-office/"
+    ampWebUrl: "https://nypost.com/2021/02/20/trump-to-speak-at-cpac-in-first-public-appearance-after-leaving-office/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/20/trump-to-speak-at-cpac-in-first-public-appearance-after-leaving-office/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-cpac.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump to Speak at CPAC in First Public Appearance Since Leaving Office"
     excerpt: "Former President Donald Trump is expected to address the Conservative Political Action Conference on Feb. 28 in Orlando, Fla., in what would be his first public appearance since leaving the White House,"
@@ -365,6 +368,6 @@ related:
         height: 720
         isCached: true
 
-secured: "M5j4ZmdvXStVnuGEKvCkON1U09w6jTC2znBk7fu0N1WmByh+PdNIG5PNb8Yen6XeoioOrEISK22v8i43mf/n9v6OW/my2cLvGA+na+xNYKLMAAmYyXM0m3ThzzinNT+YQLBKnwwTG89wCNRcvXPDmxY6QnyTZD566jMzlM3fmv2Gojw5i0YRPZWaLHY63aFnvzKS+jIe/tWTHMuicAQNESpRXHM9opWr6Cj2HQ5oy1wa6vfp9THwg/b/nkjHdMFFpNt29dUeoF9q1rUABq/6ymhNcJtDJ6eN0aKnzi2H7Q37dPayYdS+CiT3j8u63QGwthGHhlgoLIyRxsqbPQ7XH8s64x5S3RdJyq0LqI4ay8E=;UorU+d5FN0hhOBZktc7bRg=="
+secured: "tnI0btQcP5/vGrW58qEhvBtisr0Pln3WN7hvGhW1hbraz6g4/FGNuElc8cJsT7cdgia8oi04/r/2EtnGtipIU4ud5ndXe57NPxCpy0YAcoDQuMtg4UH+FW+FCCXsz3fCImPHRan4srMj8ij3vMSPm8U8d1VjSKDK1Xuw2dnXQzhnLRWCwhpkcFDV0GwvQPebAWrMZvvwc4uQA6WJBHUutw+Djs6+2oDOQ3Qd6YLi/A2NV2O+0BWU+LU/m0QLULHTg1kJfdpF42fJ4P8Z3h3PNQEp4YHgMaxK6dWTA4B6zNm8YWTm1XQrio1xLc6e3LXhrjYkIEj1ebHOC0NGD+MeNBVk43qSoVq6THQkTS+zhX0=;SdM7Ti7d+W/8jMzhiKvXIw=="
 ---
 

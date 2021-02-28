@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'Trump Unity' trailer towed from outside CPAC at Hyatt in Florida"
+    excerpt: "The Michigan-based Trump Unity Bridge, a traveling pro-Trump trailer bed, was towed outside the Conservative Political Action Conference (CPAC) in Orlando, Fla., Saturday."
+    publishedDateTime: 2021-02-28T01:59:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvmmVdPV8LM/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cab6b957-54f2-4910-8657-64cecd72fd35/400b6824-8ea8-4b72-a987-e3415dcc98b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump to speak at CPAC conference in first public appearance post-White House"
     excerpt: "Former President Trump will make his first major public appearance at the Conservative Political Action Conference (CPAC) conference later this month, Fox News has learned."
     publishedDateTime: 2021-02-20T21:08:12Z

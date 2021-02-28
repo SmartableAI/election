@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Biden, Harris get virtual tour of Arizona vaccination site"
-excerpt: "President Joe Biden and Vice President Kamala Harris got a virtual tour Monday of a federally funded, mass vaccination site in Arizona, but they did not address the"
-publishedDateTime: 2021-02-08T22:50:00Z
-originalUrl: "https://apnews.com/article/joe-biden-arizona-health-coronavirus-pandemic-doug-ducey-2f3a8457e1d7941ebec31acf5b96cfee/gallery/7cd793a8bcdf402eac2091ecc15d94b9"
-webUrl: "https://apnews.com/article/joe-biden-arizona-health-coronavirus-pandemic-doug-ducey-2f3a8457e1d7941ebec31acf5b96cfee/gallery/7cd793a8bcdf402eac2091ecc15d94b9"
+title: "Kamala Harris has already broken 2 Senate ties on COVID relief. She could give Democrats more victories in the future"
+excerpt: "WASHINGTON – Around 5 a.m. Friday in the nation's capital, bleary-eyed senators who had spent hours debating a COVID-19 relief bill looked up to see Vice President Kamala Harris presiding ..."
+publishedDateTime: 2021-02-09T12:52:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/02/06/kamala-harris-tie-breaking-votes-on-covid-foreshadows-senate-role/6678440002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/02/06/kamala-harris-tie-breaking-votes-on-covid-foreshadows-senate-role/6678440002/"
+ampWebUrl: "https://amp.usatoday.com/amp/6678440002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6678440002"
 type: article
-quality: 120
+quality: 102
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/7cd793a8bcdf402eac2091ecc15d94b9/3000.jpeg"
-    width: 3000
-    height: 1957
+  - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/2d42fd8f-87d9-4b50-a0ea-97eed40376c1-AP_New_Congress_1.jpg?auto=webp&crop=5451,3066,x0,y0&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -553,6 +559,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden, Harris get virtual tour of Arizona vaccination site"
+    excerpt: "President Joe Biden and Vice President Kamala Harris got a virtual tour Monday of a federally funded, mass vaccination site in Arizona, but they did not address the"
+    publishedDateTime: 2021-02-08T22:50:00Z
+    webUrl: "https://apnews.com/article/joe-biden-arizona-health-coronavirus-pandemic-doug-ducey-2f3a8457e1d7941ebec31acf5b96cfee/gallery/7cd793a8bcdf402eac2091ecc15d94b9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/7cd793a8bcdf402eac2091ecc15d94b9/3000.jpeg"
+        width: 3000
+        height: 1957
+        isCached: true
   - title: "VP Kamala Harris' niece Meena Harris on learning 'female ambition is a good thing'"
     excerpt: "Meena Harris spoke with \"The View\" co-host Sunny Hostin on her children's book \"Ambitious Girl\" and how her family serves as a constant inspiration to her work."
     publishedDateTime: 2021-01-28T00:39:00Z
@@ -708,22 +728,6 @@ related:
       - url: "https://s.abcnews.com/images/International/WireAP_39d5010b83c04d1da8b91419b16f6882_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Kamala Harris has already broken 2 Senate ties on COVID relief. She could give Democrats more victories in the future"
-    excerpt: "WASHINGTON – Around 5 a.m. Friday in the nation's capital, bleary-eyed senators who had spent hours debating a COVID-19 relief bill looked up to see Vice President Kamala Harris presiding ..."
-    publishedDateTime: 2021-02-09T12:52:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/06/kamala-harris-tie-breaking-votes-on-covid-foreshadows-senate-role/6678440002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6678440002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6678440002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 102
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/2d42fd8f-87d9-4b50-a0ea-97eed40376c1-AP_New_Congress_1.jpg?auto=webp&crop=5451,3066,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Kamala Harris uses casting vote to pass Covid relief budget resolution – video"
     excerpt: "Vice-president’s Senate intervention means Biden’s $1.9tn package can pass without Republican support"
@@ -1578,6 +1582,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "VWg2wldOfd70b9nn3kaMaA5uvPrCUk0ghLkQ0R+RkDjocWznYeIVGHSAC90XIrbAmZFa+UCejdlN1Dnyt3Pt3snhf+KQQWoZx3eGflnO6R5uOoZg1syKexNfSbnSjnF4IJvHUSAztFvrFi+9RM8GIGRbolLYnUMw8rL2ruI1Ye+qk3rv5e9UT7uL5e+4mzAs1qqVK2FeKEbNxLW4IvWM/NqNN/DQRtfz264mPNdfCMOhuCMfDzKTVlvElNktbTAYcKUCGtfX+2q9Gkj/GpU4QjK4oPo6NVxoFmF/tTmC0JZrmQqwZhqkbNkrxuBMZA2VlK1aOhZDeP72NLGclgSSYVQO8pJLbzGotXWVnCxhSu8=;fvEH46XAoQ6VSh1rzzkdRQ=="
+secured: "stXb7geInaeFiJllFZw2eja4QyJYVxzrDZGTMLlDjGW82KpzwbDF39IbAFm8AowPcr068ZVb+b0EF/v6xRwYoXf1RNVjq/9b8SvMinSWLm4htj24ZclnF79yJrx0vedbOEYuh1123F67BlYRfc+vNmbT2Q1lsNZn9ClQK/qAQZBnylCuGupgi4e4ZTY9oIKYAh2QcvUew/hW+Kcl6hi1jtbmkdBqtY3IxW5JbVyFELSaQ0k21u2XLvWmZPzEZ0wh/5WTBBBZOBbnDY30qMVV/Uav1rikNEXRAXh0kLC+9nqCYL6mcRFgYvWT+T/V7JH25og3rFkQSDrFMt0PtBmd0UP7ADRAQmw52UuqG8TEYZQ=;+BLVJr7q/0CRTrlNRxD3WA=="
 ---
 

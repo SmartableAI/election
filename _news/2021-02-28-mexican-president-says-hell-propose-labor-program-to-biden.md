@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden to reinstate COVID-19 travel rules, add South Africa"
-excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
-publishedDateTime: 2021-01-25T14:46:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp"
+title: "Mexican president says he'll propose labor program to Biden"
+excerpt: "Mexican President Andrés Manuel López Obrador says he will propose a ‘Bracero’ style immigrant labor program to U.S. President Joe Biden during a video call between the two leaders planned for Monday"
+publishedDateTime: 2021-02-27T23:39:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
+webUrl: "https://abcnews.go.com/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/International/WireAP_a14888fcad834a5fbd784cce04c6a24c_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_7aad6260e03e4eb1af6cc90dc7555d01_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden to reinstate COVID-19 travel rules, add South Africa"
+    excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
+    publishedDateTime: 2021-01-25T14:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-reinstate-covid-19-travel-rules-add-south-africa/2021/01/25/5e73cb50-5f1b-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden to reinstate COVID travel rules, add South Africa"
     excerpt: "Two White House officials say President Joe Biden on Monday will formally reinstate COVID-19 travel restrictions on non-U.S. travelers from Brazil, Ireland, United Kingdom and 26 other European countr"
@@ -110,22 +126,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/3503722/2147483647/strip/true/crop/2400x1568+0+73/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa7%2Fd3%2F4db4b3c44abab5f4667352644f09%2Fla-na-pol-biden-birthday08.JPG"
         width: 320
         height: 209
-        isCached: true
-  - title: "Mexican president says he'll propose labor program to Biden"
-    excerpt: "Mexican President Andrés Manuel López Obrador says he will propose a ‘Bracero’ style immigrant labor program to U.S. President Joe Biden during a video call between the two leaders planned for Monday"
-    publishedDateTime: 2021-02-27T23:39:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_a14888fcad834a5fbd784cce04c6a24c_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
@@ -204,6 +204,6 @@ related:
         height: 337
         isCached: true
 
-secured: "6ybjp9VHEfsPwhVliHoFP2NKCbMx/jfT0lsZ0maAJZPYZlV8QvPYAnZtYg5P9THSUG3ReXH7JhBfYRmQAunMzMfi3ZUq1TyGgjW6iZKii7G1tZWSsV5gr0aZe0MEigBRDjBQksvJwtXxYfLDZTN51Ih06sl50HnJ71zJSQHbcp4fE5qlc2MdICYDKgRS2KOUhfSuoIyAa5rYJvBFfU08ozu6BAJE6GuRaW15pajHppU1StQmcR7Mq4Ne90a23E1VT724RuydxtoO4n/YeQCRY3mkW9lgJD9aBwqLAGUWU2Hhcat3680NuTs1ArRn/BtnzQooO5DiwuriD85aBzncoEB1JW2GOTWGVITvQopaZ5s=;DyQguqMmTGJ+J4NvXpqaaA=="
+secured: "mWnsorMXKRssHoieeXYzruOwjidKiTbjctG1rH9k7iYxhmHpaw+jMOIn++1Am7kIIgk2BiEI8ObNFi1HLS0a0mlObHTjS3KGlPfvLcZk9SH2uuUI88PsfK3siYKp8AFWAojUfrY5nnWVTVS10j3jdsvGnYaDivogrdvqlxfSNFr0I2OFaLveYt57ZHe5yGCl5kuaSDhClBRPNtmrk/0gvPDqiwcbXqqrMpcAQnWG1mjVYnZo2DjZW1IyRuv3/KUUgSO3Ml8PFQDs+qfRgOm9q6V2naaLUqY7ehXvuBMvdcCn5KkHubYOIZxfbRQPB+MvJncfOiWqnrzJvOe7D0lutzK/RgSCCKWrb4/3Hvbx1co=;mOGsapHTyEohZ5yjqaeDdg=="
 ---
 

@@ -713,6 +713,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kamala Harris has already broken 2 Senate ties on COVID relief. She could give Democrats more victories in the future"
+    excerpt: "WASHINGTON – Around 5 a.m. Friday in the nation's capital, bleary-eyed senators who had spent hours debating a COVID-19 relief bill looked up to see Vice President Kamala Harris presiding ..."
+    publishedDateTime: 2021-02-09T12:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/06/kamala-harris-tie-breaking-votes-on-covid-foreshadows-senate-role/6678440002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6678440002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6678440002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 102
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/2d42fd8f-87d9-4b50-a0ea-97eed40376c1-AP_New_Congress_1.jpg?auto=webp&crop=5451,3066,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris uses casting vote to pass Covid relief budget resolution – video"
     excerpt: "Vice-president’s Senate intervention means Biden’s $1.9tn package can pass without Republican support"
     publishedDateTime: 2021-02-05T10:25:00Z

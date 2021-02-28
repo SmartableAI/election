@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden tells European allies ‘America is back,’ seeks to turn page on Trump era"
-excerpt: "President Biden on Friday hailed the importance of the alliance between the U.S. and Europe, while also taking a number of thinly-veiled shots at his predecessor."
-publishedDateTime: 2021-02-19T22:08:10Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HHe3ihsg54s/biden-european-allies-america-is-back-trump-era"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HHe3ihsg54s/biden-european-allies-america-is-back-trump-era"
-ampWebUrl: "https://www.foxnews.com/politics/biden-european-allies-america-is-back-trump-era.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-european-allies-america-is-back-trump-era.amp"
+title: "Trump's CPAC speech will rip Biden, map out retaking Congress in 2022"
+excerpt: "Former President Donald Trump will use his much-anticipated speech at the Conservative Political Action Conference (CPAC) on Sunday to offer a stinging rebuke of the first month of the Biden presidency -- while laying out what the GOP needs to do to take Congress in the 2022 midterms,"
+publishedDateTime: 2021-02-28T02:19:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-cpac-biden-congress-in-2022"
+webUrl: "https://www.foxnews.com/politics/trump-cpac-biden-congress-in-2022"
+ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-biden-congress-in-2022.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-biden-congress-in-2022.amp"
 type: article
-quality: 186
+quality: 150
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb3ea36b-8ddf-4bf9-962e-95ccdac9293a/db70fa60-ab05-4327-b026-dbd89869e341/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5dd5016-e973-406e-aca3-a67d4fa2408e/60e2794a-cd23-476f-aed8-5df466d4b73d/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -124,6 +125,22 @@ related:
     quality: 187
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ad8e56e-865f-4e90-ba49-06c59247a3f7/f71aaed0-d9e1-4fb6-9658-2a40da2880f4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden tells European allies ‘America is back,’ seeks to turn page on Trump era"
+    excerpt: "President Biden on Friday hailed the importance of the alliance between the U.S. and Europe, while also taking a number of thinly-veiled shots at his predecessor."
+    publishedDateTime: 2021-02-19T22:08:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HHe3ihsg54s/biden-european-allies-america-is-back-trump-era"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-european-allies-america-is-back-trump-era.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-european-allies-america-is-back-trump-era.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 186
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fb3ea36b-8ddf-4bf9-962e-95ccdac9293a/db70fa60-ab05-4327-b026-dbd89869e341/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -669,22 +686,6 @@ related:
         width: 1200
         height: 798
         isCached: true
-  - title: "Trump's CPAC speech will rip Biden, map out retaking Congress in 2022"
-    excerpt: "Former President Donald Trump will use his much-anticipated speech at the Conservative Political Action Conference (CPAC) on Sunday to offer a stinging rebuke of the first month of the Biden presidency -- while laying out what the GOP needs to do to take Congress in the 2022 midterms,"
-    publishedDateTime: 2021-02-28T02:19:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-cpac-biden-congress-in-2022"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-biden-congress-in-2022.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-biden-congress-in-2022.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 150
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5dd5016-e973-406e-aca3-a67d4fa2408e/60e2794a-cd23-476f-aed8-5df466d4b73d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden Agenda Faces GOP Seeking to Unify in Opposition After Trump Impeachment"
     excerpt: "Democrats are turning to cabinet nominees and pandemic relief, but some Republicans are already signaling their opposition to the president’s plans."
     publishedDateTime: 2021-02-15T19:08:00Z
@@ -892,6 +893,6 @@ related:
         height: 500
         isCached: true
 
-secured: "7AMGWFzwyhPv9o0W0CdqcXpkymSR4+H6YRymlGTeVRs/WAvUJKDOnpt/j9LG0lmf9KqhW1+V35s7oXixVE0NK9wRsI1iNN0fXecvtFHUDraYDylq4gmbk59apu7aRqid12nkLTzKkAy1o2+p3y4SwpTnbDzzgmWA5INVkqNDUF4xKh4k2xt3jY7swRamWgqcK2Kro5Q+VlLzFlQK/ggmglkd/5N5TTxLBuPJpShTwyGG420/rGiU0OQPWqJWbTWzZTvPfHmzJcknKERCTRxWwmnTEpBS5Jfif7bH6W+inuM45ImEnqBs2GpnchdszK4+tFF5yysitlra2FPAGCGZMAQUh2ETzOQmdf9D7RAScSA=;wJQfPdl5VfPttQ9609ZAuA=="
+secured: "nAsgth47djgpDRS+jvoUrpeLATgTBWbk+BtCAOwD0NovN6OY8R+mHnqC0//k4Y7h/jgqoRlf+9+qxW5/fMkzRfh78HBqsJnFJ7tnbGTh5ZanAXQ7S6kksiBq6OE4oiGanarzTvJebhBfcq6frxE/L7ODXQU/OXBpfdCePz/QFtJECudUbjJ04uB9txSpsX+w7p5FGM9LHOZRSI8vDRMxUEfpsNuLg37UmcaGeCwOgRI6n9quIjnGml21q7TZLSMsIlrve7nDJaQog4LOdY4svXcjoHG+/RyCZjm8C5izjQ7MlKDnlLLIN8fVGnLin1QacqDRFc4qR109h9K6YEmFIpcj5XdKZVmhboiO3nMP298=;LKNBf3OaY35eex9pAF1rqQ=="
 ---
 

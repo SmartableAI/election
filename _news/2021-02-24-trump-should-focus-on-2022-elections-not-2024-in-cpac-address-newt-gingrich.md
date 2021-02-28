@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-speech-2022-elections-20
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-speech-2022-elections-2024-election-newt-gingrich.amp"
 type: article
 quality: 186
-heat: 586
+heat: 606
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "'Trump Unity' trailer towed from outside CPAC at Hyatt in Florida"
+    excerpt: "The Michigan-based Trump Unity Bridge, a traveling pro-Trump trailer bed, was towed outside the Conservative Political Action Conference (CPAC) in Orlando, Fla., Saturday."
+    publishedDateTime: 2021-02-28T01:59:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvmmVdPV8LM/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-unity-trailer-towed-from-outside-cpac-at-hyatt-in-florida.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cab6b957-54f2-4910-8657-64cecd72fd35/400b6824-8ea8-4b72-a987-e3415dcc98b7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "LIVE UPDATES: CPAC 2021 speakers on Friday will include Trump Jr., Ted Cruz"
     excerpt: "The annual Conservative Political Action Conference  (CPAC) is slated to run through Sunday and a number of high-profile conservatives will take the stage to share conservative ideas with the crowd. "

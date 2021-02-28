@@ -713,6 +713,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Kamala Harris has already broken 2 Senate ties on COVID relief. She could give Democrats more victories in the future"
+    excerpt: "WASHINGTON – Around 5 a.m. Friday in the nation's capital, bleary-eyed senators who had spent hours debating a COVID-19 relief bill looked up to see Vice President Kamala Harris presiding ..."
+    publishedDateTime: 2021-02-09T12:52:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/06/kamala-harris-tie-breaking-votes-on-covid-foreshadows-senate-role/6678440002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6678440002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6678440002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 102
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/2d42fd8f-87d9-4b50-a0ea-97eed40376c1-AP_New_Congress_1.jpg?auto=webp&crop=5451,3066,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Kamala Harris uses casting vote to pass Covid relief budget resolution – video"
     excerpt: "Vice-president’s Senate intervention means Biden’s $1.9tn package can pass without Republican support"
     publishedDateTime: 2021-02-05T10:25:00Z
@@ -1566,6 +1582,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "cvbbkJfF9m3xLxPa/x7z9OoRktVcMQpM/0ML/UU2GePbVYotcUQ7dvxyYyF2FzvXxeKxLnCZ9sT3pxelsg+IPij6CPA9b5dXqZSs9z3R48pnhopxpTkZW84TYntH5rUM5kGLjptIkg6eoPFOw5lwubrqOUCMtceppICzQS6lSKn8/5yM9xKEQn/xyG776JCjME6dJBCT93bjlh4smfLPBe4s7HBTPz7KH1iekSWLnV3KhA3/4V0K1CNnU1ZlNLr59WXFwx/V9ww9M5Lcs2qIp61RUx+VpCCLzPLY52WJJke/MvkgdR8eMN3DHZAps+q6CmdG3005aU9hL1xa3/RgKDokKpKSZ+Fhvm/BVUho+WE=;uUHuKdfjIybDS8WElo0lhw=="
+secured: "etvsCq9DusF8piRoceMllaqmEySq0yl8RaR+IIKTNw52NYrPGQBxh1UwIJOiGt3RByiTccQr/VJ90hDcSn5E7Ap+6OulofVpktU48mmEiQ2zwN8looZhSQ0DqJB3XVVKZls6hYKP/zLVSB7gNvBrunAPqqN0ei2o9fwbZF6254X84xCflZuQfY1HqWcTUh6aOMRqCxnX2S0nFkg+4DFRz9pkPcc2z2OLAptbm0OF5RLs+NZel7kkM90WcAnoLpE7J6d/7R3fQD+L+zJFu2fnw8hOQjFoGNw++SqXGfuNs2C0w1MrrCa5BmpYgw/ZoZ+c3aTIK2QWJvxdCozO7x9KBdIh+V3pu/7rUb9eX1Wh5hp4TsTZii+eZSFIPGX+8tC48NxOFi1uQdEJEDV28IxuXrkHktAEVXV3Z/THWGi0MuMdC/1o0Uj3KVM7eLuGselq1QVxTwI/6iAbuvcseaq3YDa9XBhFmTezXBKmpGjy6NhCB6d97hS77wCLgxqq/h9Gk0MGiI8GdAqG4Cf20s6+vw==;IYyX2QUAJa+RSGuDzDnlpA=="
 ---
 

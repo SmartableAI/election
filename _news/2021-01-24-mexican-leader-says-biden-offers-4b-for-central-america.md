@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-tr
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calls-canadas-trudeau-mexicos-lpez-obrador-75444816"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/3503722/2147483647/strip/true/crop/2400x1568+0+73/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa7%2Fd3%2F4db4b3c44abab5f4667352644f09%2Fla-na-pol-biden-birthday08.JPG"
         width: 320
         height: 209
+        isCached: true
+  - title: "Mexican president says he'll propose labor program to Biden"
+    excerpt: "Mexican President Andrés Manuel López Obrador says he will propose a ‘Bracero’ style immigrant labor program to U.S. President Joe Biden during a video call between the two leaders planned for Monday"
+    publishedDateTime: 2021-02-27T23:39:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/mexican-president-hell-propose-labor-program-biden-76158294"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_a14888fcad834a5fbd784cce04c6a24c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
