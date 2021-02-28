@@ -34,9 +34,9 @@ related:
   - title: "A Day Before He Speaks, Conservative Gathering Is Mostly About Trump"
     excerpt: "A pair of influential House Republicans used a conservative political gathering on Saturday to lavish praise on former President Donald J. Trump and, in ways subtle and direct, marginalize their G.O.P."
     publishedDateTime: 2021-02-28T00:38:00Z
-    webUrl: "https://www.nytimes.com/2021/02/27/us/CPAC-republicans-pompeo.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/27/us/CPAC-republicans-pompeo.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/us/CPAC-republicans-pompeo.amp.html"
+    webUrl: "https://www.nytimes.com/2021/02/27/us/politics/CPAC-republicans-pompeo.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/27/us/politics/CPAC-republicans-pompeo.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/us/politics/CPAC-republicans-pompeo.amp.html"
     type: article
     provider:
       name: New York Times

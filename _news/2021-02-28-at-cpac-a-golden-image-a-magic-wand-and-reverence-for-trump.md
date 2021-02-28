@@ -1,14 +1,14 @@
 ---
 category: news
-title: "CPAC Starts Tomorrow and Trump Is Still Center of the Republican Universe"
-excerpt: "Things have been quiet on the Republican front since President Donald Trump left the White House five weeks ago. With Democrats pushing to deliver a widely popular economic-relief package and accelerate the circulation of coronavirus vaccines,"
-publishedDateTime: 2021-02-26T00:02:00Z
-originalUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-republicans-trump.html"
-webUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-republicans-trump.html"
-ampWebUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-republicans-trump.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/us/politics/cpac-republicans-trump.amp.html"
+title: "At CPAC, a Golden Image, a Magic Wand and Reverence for Trump"
+excerpt: "The faithful who flocked to the annual conference of conservatives made it clear that their allegiance was to the former president far more than to the Republican Party."
+publishedDateTime: 2021-02-28T10:04:00Z
+originalUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.html"
+webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.html"
+ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.amp.html"
 type: article
-quality: 134
+quality: 135
 heat: -1
 published: false
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/02/25/multimedia/25onpolitics-03/25onpolitics-03-facebookJumbo.jpg"
+  - url: "https://static01.nyt.com/images/2021/02/28/multimedia/28cpac-scene-1-sub/merlin_184356534_81f6f205-4732-40a1-8930-db1dc17dcdaf-facebookJumbo.jpg"
     width: 1050
-    height: 549
+    height: 550
     isCached: true
 
 related:
@@ -224,21 +224,21 @@ related:
         width: 1050
         height: 549
         isCached: true
-  - title: "At CPAC, a Golden Image, a Magic Wand and Reverence for Trump"
-    excerpt: "The faithful who flocked to the annual conference of conservatives made it clear that their allegiance was to the former president far more than to the Republican Party."
-    publishedDateTime: 2021-02-28T10:04:00Z
-    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.amp.html"
+  - title: "CPAC Starts Tomorrow and Trump Is Still Center of the Republican Universe"
+    excerpt: "Things have been quiet on the Republican front since President Donald Trump left the White House five weeks ago. With Democrats pushing to deliver a widely popular economic-relief package and accelerate the circulation of coronavirus vaccines,"
+    publishedDateTime: 2021-02-26T00:02:00Z
+    webUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-republicans-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-republicans-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/us/politics/cpac-republicans-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 134
     images:
-      - url: "https://static01.nyt.com/images/2021/02/28/multimedia/28cpac-scene-1-sub/merlin_184356534_81f6f205-4732-40a1-8930-db1dc17dcdaf-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/25/multimedia/25onpolitics-03/25onpolitics-03-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
   - title: "The Relationship Between McConnell and Trump Was Good for Both — Until It Wasn’t"
     excerpt: "The unlikely alliance delivered results they both wanted but fell apart after the election once their political interests diverged."
@@ -271,6 +271,6 @@ related:
         height: 773
         isCached: true
 
-secured: "r9+ZFSv7apHLZw/XqL+WwDoYxZHaixSKXP/ZQKn1v78zdd7iovj7pMV1qSUg+A3ydr51fE3ALfUmLX1L0X6N10+ZBVbJRx3LfQtTTxsaVz4f6yPGiI2YzziU2XULLpxriNclIKyxPgaUXFBNnYCG0YwuTJBizw1LVVcDBC2XZ/raoO+9PFPp4Ls+fAzS+ZnYra5MFx+hWnU6Dbqwta0m42AyvcoRjaKu6K0IhfzM9KrHTpS8yPwy/NaEbcrHGyHQ37pPDrNbaFeWuRccDiL1A7C1bKC8m7GNXV7jla7p1r58S/Mdu7RN3l5GZiLZ/kBoOayDweD24GhHBromkMai04HyuX36bgk8vo3hclXImTmBjVRL52YTgcCRyNULxrY81SayMvKBqdGJv2lprlZipwGEBHc9Rp4YJb6y6HUkmdsSWvi3rtHIEYKLyGMWymKA9KXYUBBli9/qonmtF6celHKUvv7RoJhD5xzBL46tk04vcs/V7ZkYwtvBoLAm2MrosOomIVQEvCBPtVmHeYNO6w==;3veKjQzKX2aZYz3nEJFr0w=="
+secured: "bt01zGJUkv9WWdY6TjGuSY2yiRHBppp3KSKiPYZazM6gbVLP8r+mzzG2Y/73JBLqtudXKhJ8ruYyhGGy7CAe85mjo0q7ySgyK4zydNjHtMQCIA5gITlsi5xzSGqvLmsrI2mj1wrf4r1xFEb32snjfmN1SIi7G1MfMg46+1dohE69C/OLH8js7rS58wsYVBMiCHRou5sVuZBq4MT44UjF2fLmd5TgWHhn9SjWEWKk2iJDod40pYmuc3ayLzzThZw4tYnx2b6Ip3ecte2ZOI0XwzMtlXJTBr5rsjv8JB8/dI9KYVrbVxWQ2nW/kYhICeWX6F2JCJgHjTXC3S8eKuQ0MHxjmhIPiaG0tjT9iTnJPgU=;aSEOO09MjDuLGjmReXoRVQ=="
 ---
 

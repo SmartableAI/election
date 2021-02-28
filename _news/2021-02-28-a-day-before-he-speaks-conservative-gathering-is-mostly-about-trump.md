@@ -3,10 +3,10 @@ category: news
 title: "A Day Before He Speaks, Conservative Gathering Is Mostly About Trump"
 excerpt: "A pair of influential House Republicans used a conservative political gathering on Saturday to lavish praise on former President Donald J. Trump and, in ways subtle and direct, marginalize their G.O.P."
 publishedDateTime: 2021-02-28T00:38:00Z
-originalUrl: "https://www.nytimes.com/2021/02/27/us/CPAC-republicans-pompeo.html"
-webUrl: "https://www.nytimes.com/2021/02/27/us/CPAC-republicans-pompeo.html"
-ampWebUrl: "https://www.nytimes.com/2021/02/27/us/CPAC-republicans-pompeo.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/us/CPAC-republicans-pompeo.amp.html"
+originalUrl: "https://www.nytimes.com/2021/02/27/us/politics/CPAC-republicans-pompeo.html"
+webUrl: "https://www.nytimes.com/2021/02/27/us/politics/CPAC-republicans-pompeo.html"
+ampWebUrl: "https://www.nytimes.com/2021/02/27/us/politics/CPAC-republicans-pompeo.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/us/politics/CPAC-republicans-pompeo.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -49,6 +49,6 @@ related:
         height: 619
         isCached: true
 
-secured: "uOzYNfLfPAmuREIP7LvyHmKXY7s4eJWmkanLU/6u3Gr1AqtbMoAQHBuo9LLNlfM43h/eA3Dn+OIXyFmjGnddOJI0po/0WDZih6Fhmq4ocaMsIkb5okNQYJy7kaGoPoF11k2jGskh9mbllFtMFh8Tm67TVMZHwwP0KNO9+Ez96Y8FxRz5Qt7lLeuFFAcwc7Dvf5ULe0l56scw+1lSm+JgO02+gIIcpFciEviZkNuWi+g77PK5JvsdptULAssUCW4le5sCd4nnUhP/Fm1i1H6neNWW72JAXzpS4y3kYA851ntTOLi+eaMcWMJz0gbBfSguTw3wOn+WGjLQlcfz1hYA3glwo6xlGDDfiHWKKa0+O4UeGb+REgfbEAv/ljETDE4ykMtB2cyIKQ1F153rtVt8BzmZHIRzS9G6OIq7QbzYjmUj11WRCmkPP8nahpHFf3LYzAtdzl94Q0dMfW/PUVXiG21xdEmrI5dTBKP5jc7DHyHf5i5lJH2hHgnMbQ2Xhr5CfDlyaDqbR2LrBZRGEYb8eg==;Hkodw2IFglgvBbQi5LYglg=="
+secured: "a9mvuNJoUeneA7FDKbff1VVYJ2zj0z37N6YYskyx18SvLLc3TrPbmJaGrZPg9CHUHl/f28OJwLY7yszyD96HgabNeSbSRpmRAS8yoPQSxeGQUFcYuSZn4OgoO7P9dwtlEtJsqTsxNUXsw4YiUCll6S1Y1AapiuCkFd5YQe2wR8BBuREwsIvlbfMS6JeXKsIAPbnsWQbBgigVE/jp2FhzRo17GBQ9e1lRWYRAkPQM8biofHlq5nVxr7rm7OxBioMT0eOeAhq750gQWN+ebhTPzqNWKkMHmSOQtcZ+TwN2aCeeci5Ivbg5ETrnb6RI9BsibFifW7NDK1ycf/bI0M9VyX0JosV3uWrGZiEMO7ojlWI=;9ZFAy+UEV1pqpi8kjFosRg=="
 ---
 

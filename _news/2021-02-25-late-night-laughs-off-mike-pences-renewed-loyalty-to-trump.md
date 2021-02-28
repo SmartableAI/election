@@ -209,6 +209,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "At CPAC, a Golden Image, a Magic Wand and Reverence for Trump"
+    excerpt: "The faithful who flocked to the annual conference of conservatives made it clear that their allegiance was to the former president far more than to the Republican Party."
+    publishedDateTime: 2021-02-28T10:04:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/multimedia/28cpac-scene-1-sub/merlin_184356534_81f6f205-4732-40a1-8930-db1dc17dcdaf-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "CPAC Starts Tomorrow and Trump Is Still Center of the Republican Universe"
     excerpt: "Things have been quiet on the Republican front since President Donald Trump left the White House five weeks ago. With Democrats pushing to deliver a widely popular economic-relief package and accelerate the circulation of coronavirus vaccines,"
     publishedDateTime: 2021-02-26T00:02:00Z
