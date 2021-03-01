@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Freedom Caucus members urge Cheney to step down from GOP leadership role after latest anti-Trump comment"
-excerpt: "The chair of the conservative House Freedom Caucus is urging Rep. Liz Cheney to step down from her position as the number three House Republican in leadership over her latest critical comments of former President ."
-publishedDateTime: 2021-02-25T17:58:00Z
-originalUrl: "https://www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme"
-webUrl: "https://www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme"
-ampWebUrl: "https://www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme.amp"
+title: "Rep. Banks warns GOP ‘destined’ to lose elections if it rejects Trump and his voters"
+excerpt: "Rep. Jim Banks, R-Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class.\""
+publishedDateTime: 2021-03-01T07:48:38Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKg3dPv6oCg/rep-banks-gop-lose-elections-trumps-working-class"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKg3dPv6oCg/rep-banks-gop-lose-elections-trumps-working-class"
+ampWebUrl: "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp"
 type: article
-quality: 118
-heat: -1
-published: false
+quality: 183
+heat: 263
+published: true
 
 provider:
   name: Fox News
@@ -22,32 +22,15 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055611217771.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c055ca10-6fad-441b-9b13-bc9cfa464a1a/21f7f894-6377-4ca8-8101-b98ee68f19ac/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
-  - title: "Rep. Banks warns GOP ‘destined’ to lose elections if it rejects Trump and his voters"
-    excerpt: "Rep. Jim Banks, R-Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class.\""
-    publishedDateTime: 2021-03-01T07:48:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKg3dPv6oCg/rep-banks-gop-lose-elections-trumps-working-class"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 183
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c055ca10-6fad-441b-9b13-bc9cfa464a1a/21f7f894-6377-4ca8-8101-b98ee68f19ac/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Freedom Caucus members urge Cheney to step down from GOP leadership role after latest anti-Trump comment"
     excerpt: "The chair of the conservative House Freedom Caucus is urging Rep. Liz Cheney to step down from her position as the number three House Republican in leadership over her latest critical comments of former President Donald Trump."
     publishedDateTime: 2021-02-25T17:54:30Z
@@ -96,7 +79,23 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Freedom Caucus members urge Cheney to step down from GOP leadership role after latest anti-Trump comment"
+    excerpt: "The chair of the conservative House Freedom Caucus is urging Rep. Liz Cheney to step down from her position as the number three House Republican in leadership over her latest critical comments of former President ."
+    publishedDateTime: 2021-02-25T17:58:00Z
+    webUrl: "https://www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme"
+    ampWebUrl: "https://www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 118
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055611217771.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
-secured: "xU1HFUghtj5NX6uGZYonQv7AqGNjM4kknYJi7ii4J+D7SuZx3b3tj1j7sfnMipRLVDtQchS1gn3PM7DNDJeOkEQMqZhv3fkV+LRVKtCdkMIghd5Ju2qFeVBeVWq9Lo9+0yBuSBKDstWsUEaJRMuQjCKGAaYK3UL6zOvBCopFGr+36T5QxdQL7f1PS27RboHAO/UXluwkt8rRomuYbj3XP2aLG3oVEouS+y5RckxffhJ8ZV0r+oAM7TMjdete8drlgn3GjjmaGsI6a1sGIhcr/SG/DF8rLYS6173m7ET9LQoXTSZizOkXERyWHkZz/yjMUsCgpb5hqb8jh5q1c3u8mUbX6Tlot2CeR6L4nM0CABY=;yInKyERtxw/yLnQtlYeW2A=="
+secured: "c6fxlYBAkCGOrx6/lILfEddtlccs3ij3yzhljKEwI71UTM9xefzp7TjVmhbBUCxu3+Q+BLOrrpv9TFbJ2iUs/zQG5j3W2GxA1ZaZ2w7Gb3WaaJ/XWtAGyWpiSPZl2uQH84iRULCAcMq+fB1qxKfArCiMGdgQVQ9hZwKtlUH0GLHhsfI10HhsZKhj5TcCZvsrS7xmPNNamFKZH49psfKbW+WPm2C9VJsyVj9Nv5v0/H8pHYxBWna5wNpJlkzPu8IKbGFal/qs+wxTk6YrvSaIdE6kJzj6uu29Gp3f6o0cDJeUK9rNxqDfkRWaddz0FM127f74uz8WbO03Y9jwVAdo/IW41GgtU463sjCkkQZGJOo=;3IDp4oOR2iXF7pRvXS7PBA=="
 ---
 

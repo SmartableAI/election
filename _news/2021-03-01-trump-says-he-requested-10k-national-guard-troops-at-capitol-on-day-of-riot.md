@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump wishes Tiger Woods a speedy recovery after LA crash"
-excerpt: "Former President Trump is wishing golfing legend Tiger Woods well after he experienced a tragic car accident on Tuesday."
-publishedDateTime: 2021-02-23T20:44:06Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuPgZsz6pXU/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuPgZsz6pXU/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash"
-ampWebUrl: "https://www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp"
+title: "Trump says he requested 10K National Guard troops at Capitol on day of riot"
+excerpt: "Former President Trump told Fox News late Sunday that he expressed concern over the crowd size near the Capitol days before the deadly riots last month and personally requested 10,000 National Guard troops be deployed."
+publishedDateTime: 2021-03-01T07:19:48Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HDDFeV0K3SU/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HDDFeV0K3SU/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot"
+ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
 type: article
-quality: 175
-heat: 295
-published: true
+quality: 173
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,12 +25,28 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b77fd6d9-01d7-4f05-b55c-46c5036d321e/d1927e9e-87bd-409d-b12b-a3c4ff0a798f/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
+  - title: "Trump wishes Tiger Woods a speedy recovery after LA crash"
+    excerpt: "Former President Trump is wishing golfing legend Tiger Woods well after he experienced a tragic car accident on Tuesday."
+    publishedDateTime: 2021-02-23T20:44:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuPgZsz6pXU/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b77fd6d9-01d7-4f05-b55c-46c5036d321e/d1927e9e-87bd-409d-b12b-a3c4ff0a798f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump reacts to Tiger Woods accident: 'He's gonna be back, I have no doubt'"
     excerpt: "Former President Donald Trump told Fox News Tuesday that he has \"no doubt\" Tiger Woods will make a strong comeback after suffering serious injuries in a car accident in Southern California."
     publishedDateTime: 2021-02-24T01:17:41Z
@@ -46,22 +62,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d2f7fbe-a25c-474d-8f8f-0925a4e8c22e/e132704e-9e40-411a-b057-e50a94ef2efd/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Trump says he requested 10K National Guard troops at Capitol on day of riot"
-    excerpt: "Former President Trump told Fox News late Sunday that he expressed concern over the crowd size near the Capitol days before the deadly riots last month and personally requested 10,000 National Guard troops be deployed."
-    publishedDateTime: 2021-03-01T07:19:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HDDFeV0K3SU/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "GOP Rep. Adam Kinzinger receives letter from 11 family members disowning him over Trump opposition"
     excerpt: "Rep. Adam Kinzinger, a six-term Republican congressman representing Illinois, received a hand-written letter from 11 family members disowning him over his opposition of former President Donald Trump, Fox News has confirmed."
@@ -126,6 +126,6 @@ related:
         height: 720
         isCached: true
 
-secured: "njpQVhJEzyEfX7kCGgtKcv3nS03HXpCTh1eY2WRC1eSA1F2sf8PhFoXAnBwqBfGS/CqVSfqY+GxNjvfMYbvnI5xdJdsomFDLEYvKK4ooSyjjx1/P+X/jR+y2ZyHgG4q4p6gHGct/hbhAEEhJwKveSHxZ1700MhYotRs9c+CYPLg38Vz/NWIbh/uFxAKr4tvsWIM9puXifiREcad0dnFbnfr9xevUsBYpM2Eo4bFoyAtjZPiqJaHeFwL1ND5P580xXOKBt8bJDXr8A9kN/7xcHp/u5WVbWQ+82enIfgsynn06nACh7SaRuC1Qeco+Dhb7q3YVNnwTRh3qVXZntUJVuM6IyXKLg7WDaWFni7JrjuY=;QXzULh/In0erzKU5OXJ8RQ=="
+secured: "TwmiSt/QjToIZEuZm01qxgXYchWDimHtdh9bQpq9oeyTfDY+McG03MUavf0Q/pxJFGrUq+se3U0KKWehbSzsHvdVnfHzM0MsxXk4ftG9zx93V/W8WQcDMWPhspWnNatqSL52+glBVfFkJG7AEPf9aU91v+bQqJec4cpvOMnjsvalqWOp9e/6o3jFa9fFfy5LvCVPgEF62JQ/JLMvuHQRS9PTAxVTFOgDyf2j1nRk6FZJkPzeBS2HxFFwjFY5ovK7O1rUXrGteW4eKLxLBtmBrn63dIWlfT6fdwmMgFyZpW7lLBXOrwAZZG28d9Oxzf/5KfH8aaRsHr5LZyRwSx7w4vT3l/IMRE1hKi6xfZ2ZpOQ=;6ky3L86RjDPc2pU9e7CKTw=="
 ---
 

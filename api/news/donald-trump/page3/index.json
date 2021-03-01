@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2021-02-15-boris-johnson-calls-trump-impeachment-over-capitol-attack-kerfuffle.md",
-      "title": "Boris Johnson calls Trump impeachment over Capitol attack 'kerfuffle'",
-      "excerpt": "Prime minister touts Covid co-operation with Biden, who once called him a ‘clone of Donald Trump’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/politics/2021/feb/14/boris-johnson-capitol-attack-trump-impeachment-kerfuffle-joe-biden-clone",
-      "originalUrl": "https://www.theguardian.com/politics/2021/feb/14/boris-johnson-capitol-attack-trump-impeachment-kerfuffle-joe-biden-clone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/politics/2021/feb/14/boris-johnson-capitol-attack-trump-impeachment-kerfuffle-joe-biden-clone",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2021/feb/14/boris-johnson-capitol-attack-trump-impeachment-kerfuffle-joe-biden-clone",
-      "publishedDateTime": "2021-02-14T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-15-i-made-the-call-jamie-raskin-stands-by-decision-to-forgo-witnesses-in-trump-impeachment-trial.md",
       "title": "'I made the call': Jamie Raskin stands by decision to forgo witnesses in Trump impeachment trial",
       "excerpt": "\"We could have had 5,000 witnesses, and Mitch McConnell would be making the same speech,\" Raskin said of the GOP opposition to a Trump conviction.",
@@ -1590,6 +1547,63 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr.md",
+      "title": "Tampa Bay Bucs are Super Bowl champs — Major turnover for DeSantis administration — Parscale urges Trump to run again as 'martyr'",
+      "excerpt": "The Tampa Bay Buccaneers won their second Super Bowl in franchise history, following a dominating performance on both sides of the ball. In the quarterback battle of the aging yet savvy veteran vs. the rising superstar,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/08/tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr-491668",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/08/tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr-491668",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

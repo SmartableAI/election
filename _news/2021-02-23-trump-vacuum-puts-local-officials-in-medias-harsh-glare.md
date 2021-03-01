@@ -62,6 +62,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump says he requested 10K National Guard troops at Capitol on day of riot"
+    excerpt: "Former President Trump told Fox News late Sunday that he expressed concern over the crowd size near the Capitol days before the deadly riots last month and personally requested 10,000 National Guard troops be deployed."
+    publishedDateTime: 2021-03-01T07:19:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HDDFeV0K3SU/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "GOP Rep. Adam Kinzinger receives letter from 11 family members disowning him over Trump opposition"
     excerpt: "Rep. Adam Kinzinger, a six-term Republican congressman representing Illinois, received a hand-written letter from 11 family members disowning him over his opposition of former President Donald Trump, Fox News has confirmed."
     publishedDateTime: 2021-02-16T18:47:25Z

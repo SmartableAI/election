@@ -1,36 +1,53 @@
 ---
 category: news
-title: "Fact check: Trump delivers lie-filled CPAC speech"
-excerpt: "Former President Donald Trump returned to the public stage on Sunday with a familiar kind of Trump speech -- a speech filled with debunked lies.\n    \n"
-publishedDateTime: 2021-03-01T03:15:11Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6OjOpUeNqRo/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6OjOpUeNqRo/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html"
+title: "Trump Wins CPAC Straw Poll, but Only 68 Percent Want Him to Run Again"
+excerpt: "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential straw polls. Gov. Ron DeSantis of Florida won one that did not include Mr. Trump."
+publishedDateTime: 2021-02-28T21:07:00Z
+originalUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html"
+webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html"
+ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
 type: article
-quality: 175
-heat: 315
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228165529-02-donald-trump-cpac-0228-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-strawpollHFO-d/28cpac-strawpollHFO-d-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
+  - title: "Fact check: Trump delivers lie-filled CPAC speech"
+    excerpt: "Former President Donald Trump returned to the public stage on Sunday with a familiar kind of Trump speech -- a speech filled with debunked lies.\n    \n"
+    publishedDateTime: 2021-03-01T03:15:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6OjOpUeNqRo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228165529-02-donald-trump-cpac-0228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump CPAC speech revives 'rigged' election lie, declares political journey 'far from over'"
     excerpt: "In a speech here Sunday to close out the Conservative Political Action Conference, former President Donald Trump teased his political future and repeated the lie that he won the 2020 election. “I stand before you today to declare that the incredible journey we began together four years ago is far from over,"
     publishedDateTime: 2021-03-01T00:22:00Z
@@ -95,22 +112,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump Wins CPAC Straw Poll, but Only 68 Percent Want Him to Run Again"
-    excerpt: "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential straw polls. Gov. Ron DeSantis of Florida won one that did not include Mr. Trump."
-    publishedDateTime: 2021-02-28T21:07:00Z
-    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-strawpollHFO-d/28cpac-strawpollHFO-d-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Trump Wins CPAC Straw Poll, with Ron DeSantis Winning a Second One"
     excerpt: "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential polls: One with a potential field that included Mr. Trump, and one without him."
     publishedDateTime: 2021-02-28T20:37:00Z
@@ -142,6 +143,6 @@ related:
         height: 773
         isCached: true
 
-secured: "sOP0BC9fkurjJ27YNJhld0mr4DOqKMkEe8ZoLtkm4aeAx/EZ4He7NNaQ5KcCZI6+j0JRc2PJ2BxEgK+TxSjo2SDk3Vd/oIctEZuyP8NvXc65T5bVFgPa7RubkA37WbU1IVj5Nebdwn10laJIQAmbuJ0SXHBYm7aPYI7s1hWzJ3jVd3/miWL+0weqHzQX8FzMm+S5NZQiNAdewJYGSgbK3tcwp46WWiNmRD6V/1uTO7lKfaEjaK/P69+ObftmvO4Oazr9Qnu3oHKZ0Of+9bs6OxQPwMcj9DR8AxzvOq9K1d+5Qbe026y5Hooz5gJZDic8WFIeGmE1oEWd3dLM+qJJIpGdEqmNZwFLFQpZI0HJuRE=;NWXJaTqfqTDJ5LICZpD2nQ=="
+secured: "DOQQ4OXz8cZ7V8kthMt6MVtAb7fg2+A+dIDfGe8yyFcxYbDwnTor7GYQ8TzxTM9KVIdStQfAC1qrhtoliRECF/6arbft8uUFFuMbFA+d2ij2zDlgukZT/F4Mqmi96hckAzGeKUgY9DYnRy3TySFTBDMVBVJk7353BoN8FHj1904NZtSeoThbwb+rutqUz3/EM5nzlygBm20ei5RBkw45eUOZduPbsejDpHOTJHwSV5j3ChWS/lSz/MtarVCikCYBPqkjuygphTizKZEn+KUGMt1WOAfAi0o3h+DrxYT6I3uU6ctIr/xpAHf5/PRrQqgzzsUzfM0apUMhZ4U7cTzj3p+vxtHcnsRpKCquW1S1lJY=;EMyvtt2KQjNg9F7B/FjSWw=="
 ---
 

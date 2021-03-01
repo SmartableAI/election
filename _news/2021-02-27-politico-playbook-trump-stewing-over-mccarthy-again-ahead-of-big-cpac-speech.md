@@ -94,6 +94,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Revives Familiar Falsehoods in CPAC Speech"
+    excerpt: "Trump, in his first public appearance since leaving the White House, mounted inaccurate attacks against his successor and revived familiar falsehoods in a speech on Sunday at the Conservative Political Action Conference."
+    publishedDateTime: 2021-03-01T07:36:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-fact-check.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-fact-check.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/trump-cpac-fact-check.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/us/28dc-factcheck-trump/28dc-factcheck-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Wins CPAC Straw Poll, but Only 68 Percent Want Him to Run Again"
+    excerpt: "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential straw polls. Gov. Ron DeSantis of Florida won one that did not include Mr. Trump."
+    publishedDateTime: 2021-02-28T21:07:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-strawpollHFO-d/28cpac-strawpollHFO-d-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump Wins CPAC Straw Poll, with Ron DeSantis Winning a Second One"
     excerpt: "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential polls: One with a potential field that included Mr. Trump, and one without him."
     publishedDateTime: 2021-02-28T20:37:00Z

@@ -2,25 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-02-24-mitt-romney-says-trump-would-win-2024-gop-nomination-if-he-ran-for-president-again.md",
-      "title": "Mitt Romney says Trump would win 2024 GOP nomination if he ran for president again",
-      "excerpt": "Senator Mitt Romney said that President Donald Trump would win the GOP nomination “in a landslide” if he decided to make a run for The White House again in 2024. Romney (R –",
+      "path": "_news/2021-02-24-critics-slam-sen-ron-johnson-for-unfounded-claim-that-fake-trump-protesters-led-riots-its-disgraceful.md",
+      "title": "Critics slam Sen. Ron Johnson for unfounded claim that ‘fake Trump protesters’ led riots: ‘It’s disgraceful’",
+      "excerpt": "Sen. Ron Johnson (R-Wis.) made false claims minimizing the damage done by a pro-Trump mob during the Jan. 6 Capitol riot.",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/",
-      "originalUrl": "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/",
+      "webUrl": "https://www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/",
       "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
+      "highlight": null,
+      "heat": 106,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-romney.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XUFEX5TVJUI6XFEJR562ZVI6OU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/",
-      "publishedDateTime": "2021-02-24T01:16:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/?outputType=amp",
+      "publishedDateTime": "2021-02-24T02:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -45,8 +50,7 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump",
-        "Republican Voice"
+        "Donald Trump"
       ]
     },
     {
@@ -454,7 +458,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {

@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump says he requested 10K National Guard troops at Capitol on day of riot"
+    excerpt: "Former President Trump told Fox News late Sunday that he expressed concern over the crowd size near the Capitol days before the deadly riots last month and personally requested 10,000 National Guard troops be deployed."
+    publishedDateTime: 2021-03-01T07:19:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HDDFeV0K3SU/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump makes Tiger Woods prediction after golfer’s scary crash"
     excerpt: "Former President Donald Trump predicted on Tuesday night that Tiger Woods will make a comeback following his devastating car wreck. Trump spoke to Fox News about the golf legend after Woods"
     publishedDateTime: 2021-02-24T01:01:00Z

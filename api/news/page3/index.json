@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-25-blackburn-warns-biden-admin-china-is-our-adversary-threatens-supply-chain.md",
+      "title": "Blackburn warns Biden admin China is 'our adversary,' threatens supply chain",
+      "excerpt": "EXCLUSIVE: Republican Sen. Marsha Blackburn is warning the Biden administration that China is \"our adversary,\" saying Beijing threatens our supply chain and urging the White House to \"step up their game.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/To5htOdlxYQ/blackburn-china-our-adversary-threatens-supply-chain-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/To5htOdlxYQ/blackburn-china-our-adversary-threatens-supply-chain-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blackburn-china-our-adversary-threatens-supply-chain-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-china-our-adversary-threatens-supply-chain-biden.amp",
+      "publishedDateTime": "2021-02-25T10:27:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-republicans-tee-up-attacks-on-bidenand-kamala-harris-raleigh-news-observer.md",
       "title": "Republicans tee up attacks on Biden—and Kamala Harris | Raleigh News & Observer",
       "excerpt": "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections.",
@@ -1268,58 +1324,6 @@
       "ampWebUrl": "https://www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/?outputType=amp",
       "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/?outputType=amp",
       "publishedDateTime": "2021-02-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-critics-slam-sen-ron-johnson-for-unfounded-claim-that-fake-trump-protesters-led-riots-its-disgraceful.md",
-      "title": "Critics slam Sen. Ron Johnson for unfounded claim that ‘fake Trump protesters’ led riots: ‘It’s disgraceful’",
-      "excerpt": "Sen. Ron Johnson (R-Wis.) made false claims minimizing the damage done by a pro-Trump mob during the Jan. 6 Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XUFEX5TVJUI6XFEJR562ZVI6OU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/02/24/ron-johnson-capitol-riot-disinformation/?outputType=amp",
-      "publishedDateTime": "2021-02-24T02:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-26-donald-trump-jr-slams-blindly-supporting-gop-incumbents-says-theres-plenty-of-gop-senators-to-primary.md",
+      "title": "Donald Trump Jr. slams 'blindly' supporting GOP incumbents, says 'there's plenty' of GOP senators to primary",
+      "excerpt": "Donald Trump Jr., said on Friday that there are \"plenty\" of Senate Republicans who he might support primary challenges against, while slamming the idea of \"blindly\" supporting incumbents. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VyZ7-z_-p0Q/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VyZ7-z_-p0Q/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp",
+      "publishedDateTime": "2021-02-26T14:45:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-biden-doesnt-penalize-crown-prince-despite-promise-to-punish-senior-saudi-leaders.md",
       "title": "Biden doesn't penalize crown prince despite promise to punish senior Saudi leaders",
       "excerpt": "Despite promising to punish senior Saudi leaders while on the campaign trail, President Joe Biden declined to apply sanctions to the one the US intelligence community determined is responsible for the death of journalist Jamal Khashoggi: Crown Prince Mohammed bin Salman.\n    \n",
@@ -447,7 +503,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 215,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -768,7 +824,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 212,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1296,62 +1352,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-blackburn-warns-biden-admin-china-is-our-adversary-threatens-supply-chain.md",
-      "title": "Blackburn warns Biden admin China is 'our adversary,' threatens supply chain",
-      "excerpt": "EXCLUSIVE: Republican Sen. Marsha Blackburn is warning the Biden administration that China is \"our adversary,\" saying Beijing threatens our supply chain and urging the White House to \"step up their game.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/To5htOdlxYQ/blackburn-china-our-adversary-threatens-supply-chain-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/To5htOdlxYQ/blackburn-china-our-adversary-threatens-supply-chain-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/blackburn-china-our-adversary-threatens-supply-chain-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-china-our-adversary-threatens-supply-chain-biden.amp",
-      "publishedDateTime": "2021-02-25T10:27:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

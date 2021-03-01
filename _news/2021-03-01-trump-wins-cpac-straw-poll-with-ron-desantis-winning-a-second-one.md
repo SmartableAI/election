@@ -96,6 +96,38 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump Revives Familiar Falsehoods in CPAC Speech"
+    excerpt: "Trump, in his first public appearance since leaving the White House, mounted inaccurate attacks against his successor and revived familiar falsehoods in a speech on Sunday at the Conservative Political Action Conference."
+    publishedDateTime: 2021-03-01T07:36:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-fact-check.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-fact-check.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/trump-cpac-fact-check.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/us/28dc-factcheck-trump/28dc-factcheck-trump-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Wins CPAC Straw Poll, but Only 68 Percent Want Him to Run Again"
+    excerpt: "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential straw polls. Gov. Ron DeSantis of Florida won one that did not include Mr. Trump."
+    publishedDateTime: 2021-02-28T21:07:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-strawpollHFO-d/28cpac-strawpollHFO-d-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "POLITICO Playbook: Trump stewing over McCarthy again ahead of big CPAC speech"
     excerpt: "Friday was the warm-up act at TPAC (get it?), where 2024 GOP hopefuls like TED CRUZ, TOM COTTON, JOSH HAWLEY, RICK SCOTT and DONALD TRUMP JR. tried out their material. The scene felt … low energy, but hey,"
     publishedDateTime: 2021-02-27T15:02:00Z
