@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1567
+heat: 1587
 published: true
 
 provider:
@@ -511,6 +511,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210227&t=2&i=1553130516&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1Q04M"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden hails House passage of $1.9T virus bill, now to Senate"
+    excerpt: "President Joe Biden is hailing the House passage of the $1.9 trillion pandemic relief bill he championed WASHINGTON -- The House approved a $1.9 trillion pandemic relief bill that was championed by President Joe Biden,"
+    publishedDateTime: 2021-03-01T09:24:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/house-passes-19t-pandemic-bill-party-line-vote-76151269"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/house-passes-19t-pandemic-bill-party-line-vote-76151269"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/house-passes-19t-pandemic-bill-party-line-vote-76151269"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_6fb2cb80d46a48e89678af53f7ef4626_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"

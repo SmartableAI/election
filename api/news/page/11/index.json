@@ -2,58 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2021-02-12-morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations.md",
-      "title": "Morning mail: Melbourne cluster grows, Trump's message to insurrectionists, Crown resignations",
-      "excerpt": "Two more Covid cases linked to the Holiday Inn quarantine hotel. Plus: simple strategies to cope with bluebottles",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2021/feb/12/morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations",
-      "originalUrl": "https://www.theguardian.com/australia-news/2021/feb/12/morning-mail-melbourne-cluster-grows-trumps-message-to-insurrectionists-crown-resignations",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/86ee9ba605ed24237a4240114b1c07ca658de675/0_16_5000_3002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8bb20fc08e05a5fb94a1856adfffad43",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-11T12:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-12-impeachment-trial-mob-believed-they-were-acting-on-trumps-orders.md",
       "title": "Impeachment trial: mob 'believed they were acting on Trump's orders'",
       "excerpt": "Congresswoman Diana DeGette says ‘They came because he told them to’ as House managers prepare to conclude their case on Thursday",
@@ -1360,6 +1308,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-del-plaskett-says-jan-6-rally-didnt-have-permit-to-march-to-the-capitol-until-trump-stepped-in.md",
+      "title": "Del. Plaskett says Jan. 6 rally didn't have permit to march to the Capitol until Trump stepped in",
+      "excerpt": "Del. Stacey Plaskett, D-Virgin Islands, claimed Wednesday that the “Save America” rally did not have a permit to march to the Capitol on Jan. 6 until President Trump stepped in. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3cLU5t4xw2Y/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3cLU5t4xw2Y/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Stacey-Plaskett-Impeachment-Manager-AP.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-plaskett-says-jan-6-rally-didnt-have-permit-until-trump-stepped-in.amp",
+      "publishedDateTime": "2021-02-10T13:54:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

@@ -310,63 +310,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-27-how-to-unite-a-deeply-divided-kosovo-name-a-lake-after-trump.md",
-      "title": "How to Unite a Deeply Divided Kosovo? Name a Lake After Trump",
-      "excerpt": "A lighthearted suggestion by a U.S. envoy hoping to bridge a vast rift between Albanians and Serbs in Kosovo has taken on a life of its own — only to be ridiculed by local residents on both sides.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/25/world/00kosovo-trump-dispatch1/merlin_184072053_cdadfe06-aff9-44be-8eaa-ca4342a6b5fc-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.amp.html",
-      "publishedDateTime": "2021-02-27T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-27-jake-tapper-says-joe-biden-is-like-donald-trump-on-saudi-prince-save-mbs-ass.md",
       "title": "Jake Tapper Says Joe Biden Is Like Donald Trump on Saudi Prince: 'Save MBS' Ass'",
       "excerpt": "CNN's Jake Tapper compared President Joe Biden to former President Donald Trump on Friday following the administration's decision not to sanction Saudi. A U.S. intelligence report published on Friday concluded that bin Salman,",
@@ -1309,7 +1252,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 345,
       "tags": null,
       "images": [
         {
@@ -1563,6 +1506,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-trump-administration-deserves-credit-for-breathtaking-operation-warp-speed-success-nih-director.md",
+      "title": "Trump administration deserves credit for 'breathtaking' Operation Warp Speed success: NIH director",
+      "excerpt": "National Institutes of Health director Dr. Francis Collins praised the Trump administration on Sunday for the \"breathtaking\" success of Operation Warp Speed in getting multiple effective coronavirus vaccines developed and tested within one year of the virus outbreak.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director",
+      "originalUrl": "https://www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/370e43ef-5b8f-448a-b40c-4be5e2db8ecc/2a546d21-7544-4865-ae15-9ad81e022ea5/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director.amp",
+      "publishedDateTime": "2021-02-22T08:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

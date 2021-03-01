@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
 type: article
 quality: 174
-heat: 214
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration resumes Taliban peace talks"
+    excerpt: "The US is sending negotiators to the Middle East to restart peace negotiations with the Taliban for the first time in the Biden administration, the State Department announced Sunday.\n    \n"
+    publishedDateTime: 2021-03-01T03:51:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QjHSGPSQjD0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/biden-taliban-peace-talks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/biden-taliban-peace-talks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180823092036-zalmay-khalilzad-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration prepares to impose sanctions on Russia over Navalny poisoning "
     excerpt: "The Biden administration is preparing to impose sanctions on Russia in the coming weeks over the poisoning and jailing of Russia opposition leader Alexey Navalny, according to two administration officials familiar with the matter.\n    \n"
     publishedDateTime: 2021-02-23T18:22:05Z

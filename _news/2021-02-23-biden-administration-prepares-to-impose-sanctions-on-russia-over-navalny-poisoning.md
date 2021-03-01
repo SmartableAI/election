@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration resumes Taliban peace talks"
+    excerpt: "The US is sending negotiators to the Middle East to restart peace negotiations with the Taliban for the first time in the Biden administration, the State Department announced Sunday.\n    \n"
+    publishedDateTime: 2021-03-01T03:51:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QjHSGPSQjD0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/biden-taliban-peace-talks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/biden-taliban-peace-talks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180823092036-zalmay-khalilzad-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says administration will 'probably' mail out millions of masks soon"
     excerpt: "President Joe Biden said Tuesday the White House will \"probably\" move to send face masks directly to Americans as the country continues to grapple with the coronavirus pandemic. It's a plan originally proposed by health officials during the Trump administration but was blocked by the former President.\n"
     publishedDateTime: 2021-02-23T20:39:18Z

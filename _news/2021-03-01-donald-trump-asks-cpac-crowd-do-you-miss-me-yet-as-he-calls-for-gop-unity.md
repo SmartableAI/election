@@ -2,19 +2,19 @@
 category: news
 title: "Donald Trump asks CPAC crowd: ‘Do you miss me yet?’ as he calls for GOP unity"
 excerpt: "Taking the stage for the first time since leaving office, former President Donald Trump on Sunday called for Republican Party unity, even as he exacerbated intraparty divisions and trumpeted lies about the election in a speech that made clear he intends to remain a dominant political force."
-publishedDateTime: 2021-02-28T22:47:00Z
-originalUrl: "https://www.al.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html"
-webUrl: "https://www.al.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html"
-ampWebUrl: "https://www.al.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html?outputType=amp"
+publishedDateTime: 2021-03-01T00:03:00Z
+originalUrl: "https://www.nj.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html"
+webUrl: "https://www.nj.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html"
+ampWebUrl: "https://www.nj.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html?outputType=amp"
+cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html?outputType=amp"
 type: article
 quality: 72
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: NJ.com
+  domain: nj.com
 
 topics:
   - Election
@@ -42,6 +42,6 @@ related:
         height: 630
         isCached: true
 
-secured: "ZVC4e9hrKH86AOqnxLyfy+udvJl6lGj6PwWypx8vfg5yq2k5WtHSNgpn2ouxlMnWSQKx+O4udy4Ldhmizia2p+t3UeLCoJmK5p/u/k8chAIM8VuU0K+8RIly17tyeDvLiap60GTKNfn28OJtqkXo9nySOjgaJeX75+Z8USZUMvDn2hQJY8nLr+OzrIsqpSbXhLXpAMs1pc2ok54PMwrYkv0VU9uhWUVyO5YA77cbX8byx3VpaxHiTyVgyZYV0/czpVJHjVUTmpGeVvVkbXHBS/3kVIowWOWEj/feba0/RqPQOhVmUO1Jy6bGv+KCTEc/+u78CqRPj2EJO/9gbr8LRKusmQSERy1fmOcLJn86t9g=;ThhOOT9irCGdi+orhXuEOA=="
+secured: "bpJWi2ZIwQIN+eCkTuQH0WsTttutI+YdIWAxrNTTs2woPiEkpylQr6DMVioFeNwj96rZmYexpyEwTlHf50WoJVu1ca6VeTimt0wmRrBlj3wbW4dvTLAJYZzySz8+f5/syCJ3dQcpKdGWAgy9I2XDRLIfdG8N7njwjVKvowlVBZ//o3MmqwRoS3L20GnqSsxP0jl3ggU88AajA8VHwR0WaeSamWS2DcVXsUUrnEF1U/MyKrSX4qzyJuIgWNfOZ49QoMsxC6msQzStsatUoAyncR3waciS24ZXonSV993Bnz/Ot+tZKjThTrXwsW9kJP+MSHGvRBqECTm0+n4C4Bw8ObjSnuKOluMIR1UEw1O4diA=;kHNTaVRCgn9AlVYVn/0i3A=="
 ---
 

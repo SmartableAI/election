@@ -2,58 +2,6 @@
   "page": 30,
   "value": [
     {
-      "path": "_news/2021-01-15-i-support-him-more-than-i-ever-did-no-regrets-as-trump-loyalists-gather-at-ohio-movie-theater-to-discuss-jan-6.md",
-      "title": "'I support him more than I ever did.' No regrets as Trump loyalists gather at Ohio movie theater to discuss Jan. 6",
-      "excerpt": "A group of Republicans gathered at a suburban Cincinnati movie theater to hear firsthand from six Trump loyalists who attended the Jan. 6 rally.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/01/14/capitol-riot-trump-loyalists-ohio-relive-jan-6-no-regrets/4156313001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/01/14/capitol-riot-trump-loyalists-ohio-relive-jan-6-no-regrets/4156313001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/14/PCIN/fe3ba51d-da5e-456a-b04c-8073d2f33284-trump_clermont_poll.jpg?auto=webp&crop=4031,2268,x0,y373&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4156313001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4156313001",
-      "publishedDateTime": "2021-01-14T14:20:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-14-senate-gop-torn-over-convicting-trump-theres-no-love-lost.md",
       "title": "Senate GOP torn over convicting Trump: 'There's no love lost'",
       "excerpt": "To many Senate Republicans, including Senate Majority Leader Mitch McConnell, there's no question in their minds: President Donald Trump committed impeachable offenses.\n    \n",
@@ -1351,6 +1299,63 @@
       ],
       "topics": [
         "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-13-pence-uses-pelosis-own-words-to-justify-not-invoking-the-25th-amendment.md",
+      "title": "Pence uses Pelosi's own words to justify not invoking the 25th Amendment",
+      "excerpt": "Vice President Mike Pence told Speaker of the House Nancy Pelosi that he will not invoke the 25th Amendment, as lawmakers flooded into the House chamber for a vote Tuesday night on a resolution calling for him to do so.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZvObX8e7Wk/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZvObX8e7Wk/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/927d176b-21c3-43cd-93dd-13312fed5937/dea40182-fa8f-47b1-9184-fc98ec627628/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-echoes-pelosis-words-in-explaining-why-he-will-not-invoke-the-25th-amendment.amp",
+      "publishedDateTime": "2021-01-12T18:24:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
         "Mike Pence"
       ]
     }

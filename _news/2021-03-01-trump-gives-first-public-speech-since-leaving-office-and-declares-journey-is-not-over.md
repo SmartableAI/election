@@ -31,14 +31,14 @@ images:
 related:
   - title: "Donald Trump asks CPAC crowd: ‘Do you miss me yet?’ as he calls for GOP unity"
     excerpt: "Taking the stage for the first time since leaving office, former President Donald Trump on Sunday called for Republican Party unity, even as he exacerbated intraparty divisions and trumpeted lies about the election in a speech that made clear he intends to remain a dominant political force."
-    publishedDateTime: 2021-02-28T22:47:00Z
-    webUrl: "https://www.al.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html"
-    ampWebUrl: "https://www.al.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html?outputType=amp"
+    publishedDateTime: 2021-03-01T00:03:00Z
+    webUrl: "https://www.nj.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html"
+    ampWebUrl: "https://www.nj.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/politics/2021/02/donald-trump-asks-cpac-crowd-do-you-miss-me-yet-as-he-calls-for-gop-unity.html?outputType=amp"
     type: article
     provider:
-      name: al.com
-      domain: al.com
+      name: NJ.com
+      domain: nj.com
     quality: 72
     images:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/JAQ6ZBYHIFFEPHS746OXZIJH3E.jpg"

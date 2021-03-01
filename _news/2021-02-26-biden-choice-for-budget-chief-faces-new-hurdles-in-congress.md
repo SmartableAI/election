@@ -107,6 +107,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden and the Democrats have a rare opening to try passing long-sought gun reform laws. Here's a look at the bills they're proposing."
+    excerpt: "Democrats think they have a stronger chance of passing gun legislation this year while they control Congress and the White House."
+    publishedDateTime: 2021-03-01T01:01:00Z
+    webUrl: "https://www.businessinsider.com/gun-control-democrats-background-checks-biden-pelosi-mcbath-murphy-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://i.insider.com/6039431105ddb100195f6788?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "emyKKTfn2V6GoZ6HLotXWIQeCRV62OkfIsAcZ9C8Q/lN68KRwlpMGDcZU6CgfL2wGSzMFqEkoHYwNRcjLvKA8Io5jZWCTtWpeu/Lp1uWAMeIcVlsFFPZrSINGVKmvhUO0laI268Nj2/3+ftMplL/06xN5x99F0IznsfAghzdGFVlvOsjwbAV7LBhm9UR5CdKGPxxJhokAQRAVM3j3cMDK/TF8RSXhrTkaxFg5LsDoXB47vawTr9Bry/EoyJyh0gE1OQdQgJSycK4b2Lz4UjS2O73aDXlJtfYP6N/LDJ9rjuC9KWnjV/4lwZfP2g0cl19ionDaOyyJnSAaZ74ijCLJxC88NOCYaWKPOl0ve0/pKRCABHemO45DTXU+iXpHmhX4nbmj0pHoiUIZVc5Iy0BJq25zJXXTqes3Kf7ceLTtennar0WGOHYou5l/bmxpUDCcVIHYnlyRZFKQoZz7iCKj4rl34D7FWoqHRCJD/UM8xVAVC7Nz8J7jZr8RfHX7cMuJ3V+NQKjtcDfWGfqFSS/VQ==;7/vApJ9zReBuY20+WFYWeg=="
 ---

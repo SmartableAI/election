@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -106,6 +106,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BUWJEQDW2YI6XFEJR562ZVI6OU.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden and the Democrats have a rare opening to try passing long-sought gun reform laws. Here's a look at the bills they're proposing."
+    excerpt: "Democrats think they have a stronger chance of passing gun legislation this year while they control Congress and the White House."
+    publishedDateTime: 2021-03-01T01:01:00Z
+    webUrl: "https://www.businessinsider.com/gun-control-democrats-background-checks-biden-pelosi-mcbath-murphy-2021-2"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
+    images:
+      - url: "https://i.insider.com/6039431105ddb100195f6788?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "dDxZ+xdO1KpuDZWLf0iqJAWU9sxuBL8LS2ePANR9VEBqAC2xJnTPkj8qsdaKcsH1aOyqVg+B42LhNf0oO/ckikd2eSmfoSVF5KbOXJFaDNYv2Fm571j9dP34p+C+sO5eJRa99TkbUpEWZdbpGkAFvVxQA3D4inydiyM7PPiLJWEPKZRLVrkK4yH6s5GAd3sT2KlQGgB9/JEFHVzMn4ujtDSRe68eDNm+pRw9l8XSkMDSB67DwOtpeeN37qgxXwUPk3XBZQ5q+f9ByjCVZLDOMA1wXWHCyHAH8UaiaIRP6djL7QgWRmfwRTDNqP5zPO5SivVMT2BRi8ww6RqePlXmkVKi+PNWVDNku3bh/Oiav7KS61lYNhEWcCbOyF4PJF25nxNeX4H1LvHH2SaV3DyROtQomvF72/L+TFubRR+0ZKu+jDyn2Wxk2kOwc+Lk5FrZeRg5x5Se0ohobLiJRcQZ+eD7x3FO8ldX1DtVY+0JfdcPDAgXhqMgwPEgnqr5rOfLnuBBne3fGZP7mPm1VcOLlw==;9K4Nbh1YTgCozGFHlHznmA=="

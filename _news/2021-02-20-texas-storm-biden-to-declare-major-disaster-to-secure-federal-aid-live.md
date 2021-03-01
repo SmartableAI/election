@@ -527,6 +527,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden hails House passage of $1.9T virus bill, now to Senate"
+    excerpt: "President Joe Biden is hailing the House passage of the $1.9 trillion pandemic relief bill he championed WASHINGTON -- The House approved a $1.9 trillion pandemic relief bill that was championed by President Joe Biden,"
+    publishedDateTime: 2021-03-01T09:24:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/house-passes-19t-pandemic-bill-party-line-vote-76151269"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/house-passes-19t-pandemic-bill-party-line-vote-76151269"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/house-passes-19t-pandemic-bill-party-line-vote-76151269"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_6fb2cb80d46a48e89678af53f7ef4626_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Joe Biden addresses nation as US passes 500,000 coronavirus deaths – live"
     excerpt: "I know what it’s like’"
     publishedDateTime: 2021-02-22T22:12:00Z
