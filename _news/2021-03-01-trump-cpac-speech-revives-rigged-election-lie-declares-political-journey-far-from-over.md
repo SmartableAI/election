@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Acosta: Trump opened up 'fire hose of falsehoods' at CPAC"
+    excerpt: "Former President Donald Trump repeated his election lies on stage at the Conservative Political Action Conference in Orlando, Florida, looking to reclaim his role as the Republican Party's kingmaker as he positions himself to play a major role in the 2022 midterm elections.\n    \n"
+    publishedDateTime: 2021-03-01T00:01:12Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Ab7llD1kfw/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/28/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/28/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228165529-02-donald-trump-cpac-0228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Trump delivers lie-filled CPAC speech"
     excerpt: "Former President Donald Trump returned to the public stage on Sunday with a familiar kind of Trump speech -- a speech filled with debunked lies.\n    \n"
     publishedDateTime: 2021-03-01T03:15:11Z
@@ -45,6 +61,38 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228165529-02-donald-trump-cpac-0228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Goya Foods CEO falsely says election was illegitimate, Trump is 'the real, the legitimate, and the still actual president' "
+    excerpt: "The chief executive officer of Goya Foods, Robert Unanue, made a series of false claims about the 2020 election at the Conservative Political Action Conference on Sunday -- a little more than a month after the company board took action to limit his polarizing public political remarks.\n    \n"
+    publishedDateTime: 2021-03-01T00:39:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hWF_DBr8uP0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/fact-check-goya-unanue-election-cpac/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/fact-check-goya-unanue-election-cpac/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126105307-robert-unanue-goya-foods-1221-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump to tell CPAC crowd the 'incredible journey' is 'far from over' in first public remarks since leaving White House"
+    excerpt: "Former President Donald Trump takes the stage at the Conservative Political Action Conference Sunday, looking to reclaim his role as the Republican Party's kingmaker as he positions himself to play a major role in the 2022 midterm elections.\n    \n"
+    publishedDateTime: 2021-02-28T20:33:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bWKjJG0ZK1M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/trump-cpac-speech-2021/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/trump-cpac-speech-2021/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 151
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212193827-trump-rally-republicano-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,36 +159,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-strawpollHFO-d/28cpac-strawpollHFO-d-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Trump Wins CPAC Straw Poll, with Ron DeSantis Winning a Second One"
-    excerpt: "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential polls: One with a potential field that included Mr. Trump, and one without him."
-    publishedDateTime: 2021-02-28T20:37:00Z
-    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-strawpollHFO-d/28cpac-strawpollHFO-d-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "POLITICO Playbook: Trump stewing over McCarthy again ahead of big CPAC speech"
-    excerpt: "Friday was the warm-up act at TPAC (get it?), where 2024 GOP hopefuls like TED CRUZ, TOM COTTON, JOSH HAWLEY, RICK SCOTT and DONALD TRUMP JR. tried out their material. The scene felt … low energy, but hey,"
-    publishedDateTime: 2021-02-27T15:02:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/27/trump-stewing-over-mccarthy-again-ahead-of-big-cpac-speech-491926"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 112
-    images:
-      - url: "https://static.politico.com/24/f7/078e461448aaaaf00a5af6895781/gettyimages-1272635840.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "GqS8DhHwWKc7qvnN70srebCgEXCpbHLtj7sJ1q8l51cihk7lJ+xf6Ets5fXcX/j9fxCptxBg2hHIritHLckzbdNqEM3DGGOfJyIPdxVe+JdOKluVgniWtZDWfDBYOEegJvhtLX/JwFPanpFjaWmVvQ6JA8rzYs1wYYqwdxCkw3D1n37GaKPDnj60kQn7fnkyzFGurQWYn/zi04uRGeddTw12JmBctpHg3A8y7qVZukcsjwPU4BewcYMkoPffHHmkQTbuQfwSNVKEEwFj/oV7mcG94LPAZYXM8abTcc4wPbO9B8GdriHqpHK7TZCJ8n1GHi6N444B+LQUkhI9JZn2/SuT28VunkZo+f60KYmyZr0YH8ErhCVXyeedhDUkctF1N1SG2/Ung6biPQqPLztae8BhWZLFbUfH1f/BlstbvZr6TeH43fRQ0RTh8nuFZALns4pttWKoYmA3f6oUsNGWfHRJSoKVyabSJ6UDkjW70RVJc/IADj6x01BfDbL9Op/isOWrcFc3VDZ934bL4Zkzdw==;ZIbRzPEIC1ELaM7TgCeTzw=="

@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-24-bidens-100-day-deportation-moratorium-indefinitely-banned-by-judge.md",
+      "title": "Biden’s 100-day deportation moratorium indefinitely banned by judge",
+      "excerpt": "The Biden administration’s efforts to impose a 100-day pause on deportations were dealt another blow on Tuesday when a district judge extended a ban on its imposition in response to a lawsuit from Texas.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OUfAiZtcmg/bidens-100-day-deportation-moratorium-judge",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OUfAiZtcmg/bidens-100-day-deportation-moratorium-judge",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp",
+      "publishedDateTime": "2021-02-24T05:53:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-trump-stacked-his-cabinet-with-climate-skeptics-now-republicans-are-piling-on-bidens-climate-activist-nominee.md",
       "title": "Trump stacked his Cabinet with climate skeptics. Now Republicans are piling on Biden's climate activist nominee",
       "excerpt": "President Joe Biden nominated the most diverse Cabinet in history, but the Senate, which gets to offer \"advice and consent,\" is suddenly full of members -- mostly Republicans -- who are critical of partisan tweets and are carefully scrutinizing nominees' job qualifications.\n    \n",
@@ -1312,63 +1368,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-one-question-for-manhattan-da-candidates-will-you-prosecute-trump.md",
-      "title": "One Question for Manhattan D.A. Candidates: Will You Prosecute Trump?",
-      "excerpt": "The investigation into Donald J. Trump has been the focus of enormous attention, but candidates have mostly avoided talking about the case.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/19/nyregion/00trumpda1/00trumpda1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/nyregion/manhattan-district-attorney-trump-investigation.amp.html",
-      "publishedDateTime": "2021-02-23T02:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republica
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee"
 type: article
 quality: 125
-heat: 245
+heat: 285
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump, DeSantis favored for president in 2024 by CPAC attendees"
+    excerpt: "Former President Donald Trump will remain in politics from his new home base of Florida, and his followers see Gov. Ron DeSantis as his heir apparent."
+    publishedDateTime: 2021-03-01T15:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/01/donald-trump-ron-desantis-florida-cpac-2024-presidential-poll/6866908002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6866908002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6866908002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/26/USAT/f4ba7cdb-aae0-480e-9954-79c279a387db-AP_CPAC_Trump_Statue.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump is headliner at CPAC in Orlando. But really it's conservative Florida's coming-out party"
     excerpt: "Former President Trump will mark his return at CPAC, but the four-day fest in Orlando is a coming out party for Florida's conservative leaders, too."
     publishedDateTime: 2021-02-26T04:22:00Z
@@ -58,6 +74,20 @@ related:
     quality: 105
     images:
       - url: "https://i.guim.co.uk/img/media/273b47d4d8dd0d749a4bb4de4da0b1ee1d57e9bd/0_139_3374_2025/master/3374.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a543c13dc8e7dd495bd45a3051168af"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "QAnon followers read the tea leaves in Donald Trump's CPAC speech"
+    excerpt: "The QAnon netherworld was abuzz with excitement after former President Donald Trump spoke Sunday at the Conservative Political Action Conference in Orlando, Florida. The movement devoted to a variety of conspiracy theories is spreading the notion that Trump will be reinstated as president on March 4 -- this Thursday."
+    publishedDateTime: 2021-03-01T12:49:00Z
+    webUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/01/781f1259-b3fa-4fdc-8d13-1f5a5677fa16/thumbnail/1200x630/247ea7545a7cdc28795edac686b83072/cbsn-fusion-qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech-thumbnail-655919-640x360.jpg"
         width: 1200
         height: 630
         isCached: true

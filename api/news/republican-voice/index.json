@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-01-katrina-pierson-trump-presidential-campaign-veteran-moves-toward-congressional-bid-in-texas.md",
+      "title": "Katrina Pierson, Trump presidential campaign veteran, moves toward congressional bid in Texas",
+      "excerpt": "The field of Republicans running to succeed the late Republican Rep. Ron Wright of Texas is growing. Katrina Pierson, who served as a top adviser on President Trump’s 2016 and 2020 campaigns, is gearing up to launch a campaign, two sources with knowledge of her planning confirmed to Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PhrGzptxaGQ/katrina-pierson-run-for-congress-texas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PhrGzptxaGQ/katrina-pierson-run-for-congress-texas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp",
+      "publishedDateTime": "2021-03-01T08:16:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-mexican-president-should-call-out-biden-for-creating-new-border-crisis-mark-morgan.md",
+      "title": "Mexican president should call out Biden for creating new border 'crisis': Mark Morgan",
+      "excerpt": "Former Acting Customs and Border Protection Commissioner Mark Morgan said former President Donald Trump’s criticisms of President Joe Biden’s immigration policies at CPAC were “spot on,” arguing that Biden’s “radical, open border policies” have created a “crisis” at the U.S. Southern Border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d01sGtz-P1I/biden-immigration-crisis-southern-border-former-cbp-commissioner",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d01sGtz-P1I/biden-immigration-crisis-southern-border-former-cbp-commissioner",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/418fe94b-51ac-40be-af29-f63af8bd00ef/4f3c3e64-8000-41ef-905d-5bebc35010b1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-crisis-southern-border-former-cbp-commissioner.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-crisis-southern-border-former-cbp-commissioner.amp",
+      "publishedDateTime": "2021-03-01T07:25:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-former-trump-campaign-communications-director-murtaugh-joining-heritage-foundation.md",
       "title": "Former Trump campaign communications director Murtaugh joining Heritage Foundation",
       "excerpt": "Former Trump campaign communications director Tim Murtaugh is joining the Heritage Foundation and launching his own public affairs firm, Fox News has learned. ",
@@ -60,17 +172,17 @@
     {
       "path": "_news/2021-03-01-rep-banks-warns-gop-destined-to-lose-elections-if-it-rejects-trump-and-his-voters.md",
       "title": "Rep. Banks warns GOP ‘destined’ to lose elections if it rejects Trump and his voters",
-      "excerpt": "Rep. Jim Banks, R-Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class.\"",
+      "excerpt": "Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKg3dPv6oCg/rep-banks-gop-lose-elections-trumps-working-class",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKg3dPv6oCg/rep-banks-gop-lose-elections-trumps-working-class",
+      "webUrl": "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class",
+      "originalUrl": "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 263,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -86,7 +198,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp",
-      "publishedDateTime": "2021-02-28T23:48:38-08:00",
+      "publishedDateTime": "2021-02-28T23:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -110,6 +222,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -679,7 +792,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 175,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -896,7 +1009,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 192,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -1522,118 +1635,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp",
       "publishedDateTime": "2021-02-24T05:53:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-live-updates-joe-biden-has-yet-to-declare-uighur-abuses-genocide.md",
-      "title": "LIVE UPDATES: Joe Biden has yet to declare Uighur abuses genocide",
-      "excerpt": "Biden, who vowed to be tough on China while on the campaign trail, has been careful not to classify the human rights abuses against the Uighurs since entering office.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoyIs4V3eBk/joe-biden-live-updates-2-24-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoyIs4V3eBk/joe-biden-live-updates-2-24-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed2437fa-70d3-41a2-8d07-4137f509e27b/5acdfa3d-92b5-4388-ad1b-51ef27135a52/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-live-updates-2-24-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-24-2021.amp",
-      "publishedDateTime": "2021-02-23T22:13:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-trump-should-focus-on-2022-elections-not-2024-in-cpac-address-newt-gingrich.md",
-      "title": "Trump should focus on 2022 elections, not 2024, in CPAC address: Newt Gingrich",
-      "excerpt": "Former President Donald Trump should focus on next year's midterm elections when he addresses the Conservative Political Action Conference (CPAC) this weekend, former House Speaker Newt Gingrich told \"Hannity.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/afuZMKQGJsA/trump-cpac-speech-2022-elections-2024-election-newt-gingrich",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/afuZMKQGJsA/trump-cpac-speech-2022-elections-2024-election-newt-gingrich",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 826,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/chamberlain-160.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-cpac-speech-2022-elections-2024-election-newt-gingrich.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-speech-2022-elections-2024-election-newt-gingrich.amp",
-      "publishedDateTime": "2021-02-23T21:21:06-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

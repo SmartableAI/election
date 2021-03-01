@@ -879,6 +879,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "House progressives urge Biden to overrule parliamentarian on $15 minimum wage – live"
+    excerpt: "House members argue Kamala Harris can make final call on including provision in coronavirus relief package"
+    publishedDateTime: 2021-03-01T14:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/01/joe-biden-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603d00e78f0875da1a29cfc2"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/01/joe-biden-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/01/joe-biden-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/b18dc4d78a8d522fe58e873ffbe759594608c403/0_0_5469_3281/master/5469.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9982d37cf45bf5b5e21e761346de0383"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Federal judge's ruling allows deportations to continue despite Biden's attempt at pause"
     excerpt: "Lawyers for the administration argued the pause was needed to reassess U.S. Immigration and Customs Enforcement policies."
     publishedDateTime: 2021-02-24T17:26:00Z

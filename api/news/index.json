@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-01-katrina-pierson-trump-presidential-campaign-veteran-moves-toward-congressional-bid-in-texas.md",
+      "title": "Katrina Pierson, Trump presidential campaign veteran, moves toward congressional bid in Texas",
+      "excerpt": "The field of Republicans running to succeed the late Republican Rep. Ron Wright of Texas is growing. Katrina Pierson, who served as a top adviser on President Trump’s 2016 and 2020 campaigns, is gearing up to launch a campaign, two sources with knowledge of her planning confirmed to Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PhrGzptxaGQ/katrina-pierson-run-for-congress-texas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PhrGzptxaGQ/katrina-pierson-run-for-congress-texas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp",
+      "publishedDateTime": "2021-03-01T08:16:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-mexican-president-should-call-out-biden-for-creating-new-border-crisis-mark-morgan.md",
+      "title": "Mexican president should call out Biden for creating new border 'crisis': Mark Morgan",
+      "excerpt": "Former Acting Customs and Border Protection Commissioner Mark Morgan said former President Donald Trump’s criticisms of President Joe Biden’s immigration policies at CPAC were “spot on,” arguing that Biden’s “radical, open border policies” have created a “crisis” at the U.S. Southern Border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d01sGtz-P1I/biden-immigration-crisis-southern-border-former-cbp-commissioner",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d01sGtz-P1I/biden-immigration-crisis-southern-border-former-cbp-commissioner",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/418fe94b-51ac-40be-af29-f63af8bd00ef/4f3c3e64-8000-41ef-905d-5bebc35010b1/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-crisis-southern-border-former-cbp-commissioner.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-crisis-southern-border-former-cbp-commissioner.amp",
+      "publishedDateTime": "2021-03-01T07:25:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-former-trump-campaign-communications-director-murtaugh-joining-heritage-foundation.md",
       "title": "Former Trump campaign communications director Murtaugh joining Heritage Foundation",
       "excerpt": "Former Trump campaign communications director Tim Murtaugh is joining the Heritage Foundation and launching his own public affairs firm, Fox News has learned. ",
@@ -168,17 +280,17 @@
     {
       "path": "_news/2021-03-01-rep-banks-warns-gop-destined-to-lose-elections-if-it-rejects-trump-and-his-voters.md",
       "title": "Rep. Banks warns GOP ‘destined’ to lose elections if it rejects Trump and his voters",
-      "excerpt": "Rep. Jim Banks, R-Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class.\"",
+      "excerpt": "Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKg3dPv6oCg/rep-banks-gop-lose-elections-trumps-working-class",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKg3dPv6oCg/rep-banks-gop-lose-elections-trumps-working-class",
+      "webUrl": "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class",
+      "originalUrl": "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 263,
+      "heat": 163,
       "tags": null,
       "images": [
         {
@@ -194,7 +306,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp",
-      "publishedDateTime": "2021-02-28T23:48:38-08:00",
+      "publishedDateTime": "2021-02-28T23:51:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -218,6 +330,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -282,7 +395,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -378,118 +491,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-01-fact-check-trump-delivers-lie-filled-cpac-speech.md",
-      "title": "Fact check: Trump delivers lie-filled CPAC speech",
-      "excerpt": "Former President Donald Trump returned to the public stage on Sunday with a familiar kind of Trump speech -- a speech filled with debunked lies.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6OjOpUeNqRo/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6OjOpUeNqRo/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210228165529-02-donald-trump-cpac-0228-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html",
-      "publishedDateTime": "2021-02-28T19:15:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-goya-foods-ceo-falsely-says-election-was-illegitimate-trump-is-the-real-the-legitimate-and-the-still-actual-president.md",
-      "title": "Goya Foods CEO falsely says election was illegitimate, Trump is 'the real, the legitimate, and the still actual president' ",
-      "excerpt": "The chief executive officer of Goya Foods, Robert Unanue, made a series of false claims about the 2020 election at the Conservative Political Action Conference on Sunday -- a little more than a month after the company board took action to limit his polarizing public political remarks.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hWF_DBr8uP0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hWF_DBr8uP0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210126105307-robert-unanue-goya-foods-1221-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/28/politics/fact-check-goya-unanue-election-cpac/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/fact-check-goya-unanue-election-cpac/index.html",
-      "publishedDateTime": "2021-02-28T16:39:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-01-trump-gives-first-public-speech-since-leaving-office-and-declares-journey-is-not-over.md",
       "title": "Trump gives first public speech since leaving office and declares \"journey\" is not over",
       "excerpt": "Former President Trump on Sunday gave his first public speech since he left office and was acquitted in his second Senate impeachment trial. CBS News political reporter Adam Brewster, CBSN political contributor and Democratic strategist Antjuan Seawright and Maggie's List spokeswoman Lauren Zelt join CBSN's Lana Zak to discuss the former president's speech.",
@@ -539,6 +540,62 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-acosta-trump-opened-up-fire-hose-of-falsehoods-at-cpac.md",
+      "title": "Acosta: Trump opened up 'fire hose of falsehoods' at CPAC",
+      "excerpt": "Former President Donald Trump repeated his election lies on stage at the Conservative Political Action Conference in Orlando, Florida, looking to reclaim his role as the Republican Party's kingmaker as he positions himself to play a major role in the 2022 midterm elections.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Ab7llD1kfw/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Ab7llD1kfw/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210228165529-02-donald-trump-cpac-0228-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/28/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/28/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn",
+      "publishedDateTime": "2021-02-28T16:01:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     },
     {
@@ -650,25 +707,25 @@
       ]
     },
     {
-      "path": "_news/2021-02-28-trump-to-tell-cpac-crowd-the-incredible-journey-is-far-from-over-in-first-public-remarks-since-leaving-white-house.md",
-      "title": "Trump to tell CPAC crowd the 'incredible journey' is 'far from over' in first public remarks since leaving White House",
-      "excerpt": "Former President Donald Trump takes the stage at the Conservative Political Action Conference Sunday, looking to reclaim his role as the Republican Party's kingmaker as he positions himself to play a major role in the 2022 midterm elections.\n    \n",
+      "path": "_news/2021-03-01-trump-wins-cpac-straw-poll-with-ron-desantis-winning-a-second-one.md",
+      "title": "Trump Wins CPAC Straw Poll, with Ron DeSantis Winning a Second One",
+      "excerpt": "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential polls: One with a potential field that included Mr. Trump, and one without him.",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bWKjJG0ZK1M/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bWKjJG0ZK1M/index.html",
+      "webUrl": "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 151,
+      "heat": 135,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210212193827-trump-rally-republicano-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
+          "url": "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-strawpollHFO-d/28cpac-strawpollHFO-d-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -676,16 +733,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/28/politics/trump-cpac-speech-2021/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/trump-cpac-speech-2021/index.html",
-      "publishedDateTime": "2021-02-28T12:33:05-08:00",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html",
+      "publishedDateTime": "2021-02-28T12:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
+        "name": "New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -702,6 +759,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1292,63 +1350,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-trump-loyalists-spurn-failed-republican-establishment-of-yesteryear.md",
-      "title": "Trump Loyalists Spurn ‘Failed Republican Establishment of Yesteryear’",
-      "excerpt": "At an annual gathering of conservatives, devotees of Donald J. Trump pledged their fealty to him and issued grave warnings about the political left.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/26/us/politics/26cpac-repubs1/26cpac-repubs1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.amp.html",
-      "publishedDateTime": "2021-02-26T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

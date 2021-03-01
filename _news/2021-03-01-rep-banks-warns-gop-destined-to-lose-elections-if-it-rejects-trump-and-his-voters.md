@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Rep. Banks warns GOP ‘destined’ to lose elections if it rejects Trump and his voters"
-excerpt: "Rep. Jim Banks, R-Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class.\""
-publishedDateTime: 2021-03-01T07:48:38Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKg3dPv6oCg/rep-banks-gop-lose-elections-trumps-working-class"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uKg3dPv6oCg/rep-banks-gop-lose-elections-trumps-working-class"
+excerpt: "Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class."
+publishedDateTime: 2021-03-01T07:51:00Z
+originalUrl: "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class"
+webUrl: "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class"
 ampWebUrl: "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp"
 type: article
-quality: 183
-heat: 263
+quality: 143
+heat: 163
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -31,38 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Freedom Caucus members urge Cheney to step down from GOP leadership role after latest anti-Trump comment"
-    excerpt: "The chair of the conservative House Freedom Caucus is urging Rep. Liz Cheney to step down from her position as the number three House Republican in leadership over her latest critical comments of former President Donald Trump."
-    publishedDateTime: 2021-02-25T17:54:30Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rK0_CyAGz60/house-freedom-caucus-members-cheney-step-down-anti-trump-comme"
-    ampWebUrl: "https://www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Romney says Trump likely Republican nominee if he runs in 2024"
-    excerpt: "Sen. Mitt Romney reportedly said Tuesday if former President Trump were to run again he would likely win the Republican nomination for president."
-    publishedDateTime: 2021-02-24T05:05:00Z
-    webUrl: "https://www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024"
-    ampWebUrl: "https://www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/romney-says-trump-likely-republican-nominee-if-he-runs-in-2024.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/719aef80-9299-4f19-8167-e35b9b675e7b/b035c72e-7866-4a53-b1aa-5f42e54dda76/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Mitt Romney says Trump would win 2024 GOP nomination if he ran for president again"
     excerpt: "Senator Mitt Romney said that President Donald Trump would win the GOP nomination “in a landslide” if he decided to make a run for The White House again in 2024. Romney (R –"
     publishedDateTime: 2021-02-24T09:16:00Z
@@ -79,23 +48,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Freedom Caucus members urge Cheney to step down from GOP leadership role after latest anti-Trump comment"
-    excerpt: "The chair of the conservative House Freedom Caucus is urging Rep. Liz Cheney to step down from her position as the number three House Republican in leadership over her latest critical comments of former President ."
-    publishedDateTime: 2021-02-25T17:58:00Z
-    webUrl: "https://www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme"
-    ampWebUrl: "https://www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-freedom-caucus-members-cheney-step-down-anti-trump-comme.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 118
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055611217771.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
-secured: "IB1Nfh3LrGVfe7E3qV9VW+DAXXySJO/KVUBg7xiskUYWyqyNOJ3VDJ/43eHRMPeE/Q4EUNq4FG66M01q2U3/lcvBOmFN27x15/vWvGC+22c9Z23fU+lIkmKYCVXJJSiqJ5epiJQuELXhxEU8PQ8ahwCmvVf3fH3EaUC6L8TwES69aoi1v7a86/fCLLJD2HAeqVqqQ2vcrk8iHi+oKGZV7n78dDL6bHMN0CMcn4KOcsO1ev31lTpJL4AU29IwIb6ohqM/ISkBse8iu+AkIYLfUE8rBUu00BtWLGgXNeR35q1pwcDUusoSjc2CUb2rNuIqAXgzLzp1vPu7a52cELIIjIK8Ue9z0is2bLcWh3cOBgM=;lumur5VBBF/zL1sd585FCQ=="
+secured: "z5idzK4ueTPXlaj8MpBrI9TqAnRTrq0/NpkelXd2UGoInFKKqpplSMrJESFUwD2dCCAE3NmJ4RdUONl6FzfY/XCP6lxTCL9dNb6VqbhfrMZwbAskW93OStg1bt5nqoMgU+VarVxoKc0CJ1TgH7380y4IH0YNI6ijxcAllRsQORCgA2N8yFlBJ4v8nCvgzz0c6Bnw2GNu4Sn2aI/2mxjWKqdu5VB23mmoBtwroBGhvZ+4l0Ep22sWWeOLAZIyqg0AwzC0HrXhRSMh5U+cnP1eNZ6Faajv+IhNM8D5x/WFm/CQ8vQhsFQX94XDeprmohtuKHydvYpo4afpgS0bNPQNKeyK45x+wpPt5/3RRpwCONA=;a8q5Mr6QsEJ14tWAufdLCw=="
 ---
 

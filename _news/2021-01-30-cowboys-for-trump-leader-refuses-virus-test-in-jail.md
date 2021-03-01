@@ -3347,6 +3347,22 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "Mike Pence Opens Post-White House Office and Announces New Roles in Conservative Politics"
+    excerpt: "Former Vice President Mike Pence has been out of the White House about two weeks and is back to work — reportedly opening up a transition office in Arlington, Virginia, and announcing multiple ..."
+    publishedDateTime: 2021-02-08T22:20:00Z
+    webUrl: "https://people.com/politics/mike-pence-opens-his-post-white-house-office/"
+    ampWebUrl: "https://people.com/politics/mike-pence-opens-his-post-white-house-office/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/mike-pence-opens-his-post-white-house-office/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 66
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B19200%2C4078%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fmike-pence-2-2000-1.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Democrats Argue Trump Planted Seeds of Capitol Attack With False Election Claims"
     excerpt: "Democrats on Wednesday argued Donald Trump planted the seeds for the deadly attack on the U.S. Capitol long before Jan. 6 with false claims the 2020 election was stolen, and said lawmakers had an obligation to hold the former president accountable."
     publishedDateTime: 2021-02-10T20:16:00Z

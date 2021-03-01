@@ -3347,6 +3347,22 @@ related:
         width: 1200
         height: 680
         isCached: true
+  - title: "Mike Pence Opens Post-White House Office and Announces New Roles in Conservative Politics"
+    excerpt: "Former Vice President Mike Pence has been out of the White House about two weeks and is back to work — reportedly opening up a transition office in Arlington, Virginia, and announcing multiple ..."
+    publishedDateTime: 2021-02-08T22:20:00Z
+    webUrl: "https://people.com/politics/mike-pence-opens-his-post-white-house-office/"
+    ampWebUrl: "https://people.com/politics/mike-pence-opens-his-post-white-house-office/?amp=true"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/mike-pence-opens-his-post-white-house-office/?amp=true"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 66
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B19200%2C4078%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F-0001%2F11%2F30%2Fmike-pence-2-2000-1.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "Republicans condemned Donald Trump. Now they’re seeking his help"
     excerpt: "House Republican leader Kevin McCarthy declared Donald Trump culpable in the deadly attack on the U.S. Capitol. By Thursday, he was seeking his political support."
     publishedDateTime: 2021-01-29T15:04:00Z

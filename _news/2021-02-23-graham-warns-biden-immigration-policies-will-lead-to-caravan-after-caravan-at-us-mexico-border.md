@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/lindsey-graham-warns-biden-immigrat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lindsey-graham-warns-biden-immigration-policies-will-restart-migrant-caravans-into-us.amp"
 type: article
 quality: 162
-heat: 162
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Mexican president should call out Biden for creating new border 'crisis': Mark Morgan"
+    excerpt: "Former Acting Customs and Border Protection Commissioner Mark Morgan said former President Donald Trump’s criticisms of President Joe Biden’s immigration policies at CPAC were “spot on,” arguing that Biden’s “radical, open border policies” have created a “crisis” at the U.S. Southern Border."
+    publishedDateTime: 2021-03-01T15:25:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d01sGtz-P1I/biden-immigration-crisis-southern-border-former-cbp-commissioner"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-crisis-southern-border-former-cbp-commissioner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-crisis-southern-border-former-cbp-commissioner.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/418fe94b-51ac-40be-af29-f63af8bd00ef/4f3c3e64-8000-41ef-905d-5bebc35010b1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "swxfRxZtydkkcuLdnsMtu9KJh7UeG+Y5jM0oPcP+j5H6pxpL7k3B+QoUGEunvcuM+9ZWCVAZz4IGnfL7gyy53TXoEwM+v9d5eSmkjd52DT5QKoP6zcilb5eggESYINLyFxFnT6FTLT9O2XaQ9+0j2HZ/MCJqi0ORlb8uYmN9HTwi+dRAWeIbmpSQowZFUlf1KUwpqZ0gRsY3P2yXMsJKxpMWnPdJM49HubF//bMbH591SB2b1Ouw3G9ZHfK+HEz0TYs1ZZLDKcWWYAJfiNhu5rHMO7eHPoDkjOdhW9Bbf6RAGy1zzfAcyCJLllP6zK9JndKlZqqzqPMKhFA8LiAbuWmJMBIkWmTb+9Kb/HYUfHM=;AkJe6Z9t4j/2oZj7uIkWDg=="
 ---

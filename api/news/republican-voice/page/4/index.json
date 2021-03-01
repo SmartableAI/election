@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-12-biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.md",
+      "title": "Biden to get another judicial appointment to a key federal appeals court",
+      "excerpt": "President Biden will get another opportunity to make a key judicial appointment on what is considered the second most important federal court.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d06VaoBxLzA/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d06VaoBxLzA/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acdfe773-2342-4e03-86f0-af48ae93a0fb/de44e5ec-8943-4b86-8e01-6092c29e3016/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.amp",
+      "publishedDateTime": "2021-02-12T09:53:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.md",
       "title": "Hannity: Democrats never had problem with violent rhetoric towards Trump",
       "excerpt": "HANNITY: Welcome to \"Hannity\". Tonight, we are tracking multiple breaking stories. These are huge, including day three of the Senate's impeachment, Schiff charade show that they got going on. We have tonight just breaking,",
@@ -1596,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-omb-pick-tanden-confirmation-hearing-apology-anti-gop-tweets.amp",
       "publishedDateTime": "2021-02-09T08:33:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-gingrich-senators-who-vote-to-convict-trump-take-part-in-profound-attack-on-the-american-system.md",
-      "title": "Gingrich: Senators who vote to convict Trump take part in 'profound attack on the American system'",
-      "excerpt": "Lawmakers who vote to convict former President Donald Trump of incitement of insurrection and bar him from holding office again would be engaged in a \"profound attack on the American system,\" former House Speaker Newt Gingrich told \"Hannity\" Monday night.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nWYcLn8hW7s/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nWYcLn8hW7s/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b1df69c8-949a-4ca1-818e-e46caea0d7a0/c71de4c2-118c-44a0-9cac-465393f03e74/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gingrich-senators-voting-for-trump-impeachment-engaging-in-profound-attack-on-the-american-system.amp",
-      "publishedDateTime": "2021-02-08T21:08:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

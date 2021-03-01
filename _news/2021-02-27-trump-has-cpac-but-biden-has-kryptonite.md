@@ -218,6 +218,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden meeting with Mexico president amid efforts to roll back Trump immigration policies"
+    excerpt: "President Biden is set to meet with Mexican President Manuel López Obrador Monday afternoon amid the migrant crisis and as the new administration has taken steps to roll back Trump-era immigration policies."
+    publishedDateTime: 2021-03-01T14:57:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KtlMt8S6sjs/biden-meeting-mexico-president-trump-immigration-rollback"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-meeting-mexico-president-trump-immigration-rollback.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-meeting-mexico-president-trump-immigration-rollback.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki pressed to explain difference between Trump and Biden migrant facilities for children"
     excerpt: "Amid criticism for the reopening of a Trump-era child migrant facility, White House press secretary Jen Psaki said it was a “difficult choice” to reopen the Carrizo Springs, Texas facility, but the best option available. "
     publishedDateTime: 2021-02-24T19:57:59Z

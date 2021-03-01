@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration preparing to sanction Russia over Navalny treatment this week"
+    excerpt: "The Biden administration is preparing to impose sanctions on Russia over the poisoning and jailing of Russian opposition leader Alexey Navalny this week, two administration officials tell CNN.\n    \n"
+    publishedDateTime: 2021-03-01T15:35:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RtjViW-MONc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/biden-administration-russia-sanctions-alexei-navalny/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/biden-administration-russia-sanctions-alexei-navalny/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202034339-04-navalny-hearing-0202-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to send 25 million masks to community health centers and food pantries "
     excerpt: "The Biden administration said Wednesday it would send more than 25 million masks to community health centers, food pantries and soup kitchens across the country in order to reach some of the nation's most vulnerable populations.\n    \n"
     publishedDateTime: 2021-02-24T16:38:01Z
