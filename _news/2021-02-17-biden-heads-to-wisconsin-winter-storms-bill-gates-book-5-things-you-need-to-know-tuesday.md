@@ -175,6 +175,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Senate panel to vote Wednesday on 3 Biden nominees, including trade pick Tai - source"
+    excerpt: "The Senate Finance Committee will vote on Wednesday on three nominees for key jobs in the Biden administration, including Katherine Tai as trade czar and California Attorney General Xavier Becerra as U."
+    publishedDateTime: 2021-03-01T19:22:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-nominations-idUSL2N2KZ2GQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210301&t=2&i=1553370867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH2022J"
+        width: 817
+        height: 545
+        isCached: true
   - title: "President Joe Biden planning trip to storm-ravaged Texas, but 'I don't want to be a burden'"
     excerpt: "President Joe Biden said \"I don’t want to be a burden\" and will go next week when a presidential visit won't get in the way of Texas recovery."
     publishedDateTime: 2021-02-19T22:41:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1050
     height: 550
     isCached: true
+
+related:
+  - title: "Trump teases 2024 run in CPAC remarks, as he looks to keep his grip on GOP"
+    excerpt: "Donald Trump still has grievances to air — and a Republican Party eager to bask in his indignation. In his first major address since leaving office, Trump on Sunday laced into his Democratic successor,"
+    publishedDateTime: 2021-03-01T20:16:00Z
+    webUrl: "https://www.politico.com/news/2021/02/28/trump-cpac-2024-biden-471869"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/02/28/trump-cpac-2024-biden-471869"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/28/trump-cpac-2024-biden-471869"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/ff/da/d253bbe7432b9bd462956c3a3b4f/gettyimages-1304610824-1.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "B3XfSsSJkLJgsboVyZlstBw08aGDUP06xyKoGRGePLzzuwZymYp1iiCY/n4VYdgXe6f5t2jp1HawYKvMgZgqSofmDAC6zExlS4c4YKlE9Evvzi6lKHjuVRcKoU1hR8HCSwye0Q+OSVxkym/4hoULFZC/k8+fbcv/33MCHQMUw4CxnYyCxqGULNuAny7hHSX9dRklNIdlKxFHmSUGBVBYdBQbRDzX7JmtQ/kcmCTTHWjPGgSfhxXNcTAXRfcVec8OjAyEWjgBUQKiPd1nVoU1/mHWgpDn5p2EUIxhYGg3G4w/MxsPb7PDT1TaK13vwyan4MOM6cVa7B+FTgruhNh6cJ5zDm7ogmKnRelqDoCbDH8=;8qR5N5V2nSYw+jMq80U4JA=="
 ---

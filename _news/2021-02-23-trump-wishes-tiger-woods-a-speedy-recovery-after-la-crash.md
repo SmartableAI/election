@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Liberal Twitter users apparently fooled by fake image of evangelicals praying over golden Trump statue"
+    excerpt: "Some liberal users on Twitter appeared to be duped by a digitally modified photo depicting evangelicals praying to a golden Trump statue at CPAC this weekend."
+    publishedDateTime: 2021-03-01T19:14:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7fG9nPcSU-U/cpac-trump-golden-statue-praying-photoshop"
+    ampWebUrl: "https://www.foxnews.com/politics/cpac-trump-golden-statue-praying-photoshop.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-trump-golden-statue-praying-photoshop.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/950a44a4-3fe1-462d-bef6-5464ee18a268/7921c393-7fed-4dc2-a634-64b5a6ab730d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump makes Tiger Woods prediction after golfer’s scary crash"
     excerpt: "Former President Donald Trump predicted on Tuesday night that Tiger Woods will make a comeback following his devastating car wreck. Trump spoke to Fox News about the golf legend after Woods"

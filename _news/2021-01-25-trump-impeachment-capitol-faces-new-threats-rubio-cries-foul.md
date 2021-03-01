@@ -475,6 +475,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump names Republican impeachment supporters"
+    excerpt: "Former President Donald Trump called for GOP unity at a conservative convention in Orlando, Florida and then called out by name the 17 Republican House and Senate members who voted to impeach or convict him. (March 1)"
+    publishedDateTime: 2021-03-01T20:26:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/01/trump-names-republican-impeachment-supporters/6866270002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/8892288f-0e70-4630-906c-08527e19a7da_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Chuck Schumer: Donald Trump impeachment trial will be full and fair – video"
     excerpt: "The US Senate majority leader has said Nancy Pelosi would transmit the article of impeachment on Monday"
     publishedDateTime: 2021-01-22T15:36:00Z

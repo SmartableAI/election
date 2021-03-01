@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-pr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp"
 type: article
 quality: 183
-heat: 243
+heat: 263
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055530944049.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Ex-Trump administration HHS official Brian Harrison announces run for Texas House seat"
+    excerpt: "Ex-Trump administration HHS official Brian Harrison announces run for Texas House seat"
+    publishedDateTime: 2021-03-01T19:34:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqu2L8G6sCs/ex-trump-administration-hhs-official-brian-harrison-announces-run-for-texas-house-seat"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-trump-administration-hhs-official-brian-harrison-announces-run-for-texas-house-seat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-administration-hhs-official-brian-harrison-announces-run-for-texas-house-seat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "White House reporter covering Kamala Harris tests positive for COVID-19"
     excerpt: "A reporter covering Vice President Kamala Harris tested positive for the coronavirus on Wednesday, forcing a thorough cleaning of the White House briefing room before this afternoon’s press"

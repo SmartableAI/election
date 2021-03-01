@@ -2,6 +2,174 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-13-biden-will-try-to-close-guantanamo-after-robust-review.md",
+      "title": "Biden will try to close Guantanamo after ‘robust’ review",
+      "excerpt": "President Joe Biden will seek to close the prison on the U.S. base at Guantanamo Bay following a review process, resuming a project begun under the Obama administration, the White House said Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DV6zWcvEJ_E/biden-will-try-to-close-guantanamo-after-robust-review",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DV6zWcvEJ_E/biden-will-try-to-close-guantanamo-after-robust-review",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-617712896.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-will-try-to-close-guantanamo-after-robust-review.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-will-try-to-close-guantanamo-after-robust-review.amp",
+      "publishedDateTime": "2021-02-12T23:31:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-florida-democrat-says-biden-vaccine-distribution-plan-hurts-states-with-high-senior-populations.md",
+      "title": "Florida Democrat says Biden vaccine distribution plan hurts states with high senior populations",
+      "excerpt": "Florida Democratic Rep. Stephanie Murphy urged President Biden to adjust his plan for distributing vaccines nationwide after finding \"obvious flaws\" that could prove detrimental to states with higher rates of seniors.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOKyv0sPg0A/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JOKyv0sPg0A/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/daed92be-3252-43fa-b9e8-da5603edde14/87911f60-2d64-4b3d-9640-48c901ad4264/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dem-rep-murphy-says-obvious-flaws-in-biden-vaccine-distribution-plan-hurting-states-with-high-senior-popula.amp",
+      "publishedDateTime": "2021-02-12T19:08:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-mike-pompeo-urges-biden-to-confront-china-head-on-like-trump-administration.md",
+      "title": "Mike Pompeo urges Biden to 'confront China head-on' like Trump administration",
+      "excerpt": "The Biden administration has to confront China \"head-on\" the same way the previous administration did, former Trump Administration Secretary of State Mike Pompeo said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q5n0h6Twqds/mike-pompeo-biden-administration-confront-china-head-on",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/q5n0h6Twqds/mike-pompeo-biden-administration-confront-china-head-on",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 547,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mike-pompeo-biden-administration-confront-china-head-on.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-pompeo-biden-administration-confront-china-head-on.amp",
+      "publishedDateTime": "2021-02-12T11:19:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-strange-new-respect-for-mike-pence.md",
       "title": "Strange New Respect for Mike Pence",
       "excerpt": "One novel, even astonishing, spectacle in President Trump’s impeachment trial has been progressive Democrats singing the praises of Mike Pence. “The Vice President and I don’t agree on too ...",
@@ -1485,174 +1653,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/wisconsin-dem-governor-not-sure-hell-attend-biden-event-next-week-report.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wisconsin-dem-governor-not-sure-hell-attend-biden-event-next-week-report.amp",
       "publishedDateTime": "2021-02-09T22:42:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-flashback-obama-defense-sec-says-biden-as-vp-was-wrong-on-nearly-every-big-foreign-policy-issue.md",
-      "title": "FLASHBACK: Obama Defense Sec. says Biden as VP was wrong on nearly every big foreign policy issue",
-      "excerpt": "President Biden is expected to make his first visit to the Pentagon as Commander-in-Chief on Wednesday alongside Vice President Kamala Harris.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT9tvjH2mB8/flashback-obama-defense-sec-biden-wrong-foreign-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT9tvjH2mB8/flashback-obama-defense-sec-biden-wrong-foreign-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/928d5eb7-6cae-4b07-b417-7a20afc9f466/3517bf98-e3e7-498c-95dc-518c8e4cbebf/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/flashback-obama-defense-sec-biden-wrong-foreign-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-obama-defense-sec-biden-wrong-foreign-policy.amp",
-      "publishedDateTime": "2021-02-09T19:36:05-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water.md",
-      "title": "Why Trump lawyer David Schoen covered his head with every sip of water",
-      "excerpt": "David Schoen unwittingly gave Twitter a lesson in orthodox Jewish customs during former President Donald Trump’s impeachment trial on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nSFkGHOeAAc/why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nSFkGHOeAAc/why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/GettyImages-1231067321.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/why-trump-lawyer-david-schoen-covered-his-head-with-every-sip-of-water.amp",
-      "publishedDateTime": "2021-02-09T19:23:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-mike-lee-senate-impeachment-trial-will-end-in-trumps-acquittal.md",
-      "title": "Mike Lee: Senate impeachment trial will end in Trump's acquittal",
-      "excerpt": "Sen. Mike Lee, R-Utah, speculated that while former President Donald Trump will undergo a \"lengthy\" impeachment trial in the Senate, he will ultimately be acquitted of inciting an insurrection against the government.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXg0IDKM2vw/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXg0IDKM2vw/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 2135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f588e6a6-8583-41e4-bca4-a5e461109c67/32606c3b-9f9d-4572-b4d1-7c156dfad540/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp",
-      "publishedDateTime": "2021-02-09T09:25:04-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

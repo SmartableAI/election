@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/14/NAAS/0dc111b6-63c9-4c2f-b2c4-5bc23496c694-Biden_Immigration.jpg?auto=webp&crop=5191,2920,x0,y519&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Senate panel to vote Wednesday on 3 Biden nominees, including trade pick Tai - source"
+    excerpt: "The Senate Finance Committee will vote on Wednesday on three nominees for key jobs in the Biden administration, including Katherine Tai as trade czar and California Attorney General Xavier Becerra as U."
+    publishedDateTime: 2021-03-01T19:22:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-nominations-idUSL2N2KZ2GQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210301&t=2&i=1553370867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH2022J"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden heads to Wisconsin, winter storms, Bill Gates book: 5 things you need to know Tuesday"
     excerpt: "President Joe Biden travels to Wisconsin, another dose of severe weather is on the way and more news to start your Tuesday."
