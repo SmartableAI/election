@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-asks-high-court-to-drop-2-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp"
 type: article
 quality: 190
-heat: 1270
+heat: 1290
 published: true
 
 provider:
@@ -252,6 +252,22 @@ related:
     quality: 179
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e575dda5-88ce-410a-89d1-2e633c078351/84aa2f82-8a71-4b1d-8d63-e3489546f015/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "CPAC: 5 biggest moments from weekend as Trump returns to stage, conservatives rail against Biden"
+    excerpt: "The Conservative Political Action Conference (CPAC) wrapped on Sunday following an anticipated speech from former President Trump."
+    publishedDateTime: 2021-03-01T07:44:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ajfbHBcmbng/5-biggest-moments-all-week-at-cpac"
+    ampWebUrl: "https://www.foxnews.com/politics/5-biggest-moments-all-week-at-cpac.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/5-biggest-moments-all-week-at-cpac.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ead8d5c-bff8-48c1-bb58-5a2996524275/1df3c80e-23d8-42c8-83d3-ae494d2ab79b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

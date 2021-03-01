@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration disappointed after Iran rejects invite to discuss nuclear deal with US and other nations "
+    excerpt: "The Biden administration is disappointed after Iran rejected an offer by the European Union to partake in nuclear talks with the US and the other signatories of the nuclear deal on Sunday, but said they remain open to diplomacy with Iran.\n    \n"
+    publishedDateTime: 2021-02-28T23:04:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/elRFIEgsmII/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/biden-administration-iran-nuclear-deal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/biden-administration-iran-nuclear-deal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227211535-01-joe-biden-0227-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "vT1RJLconYU1IZz5uYFaKynURbp5L8XNTA2VDv+damlNv9gEtaUP99w3MnrTfXkM5P1k/SShRtQFkcBss1D1Vq9F+fmrZ9Ya2uw/FZ9I3fmDkq2XpMpV5S9OpbLNx9A0/nqwVE8hFP82gRIGgJUOOYyPqSOLAQfPMHYf3vdiRZK2srahK4hbRQQVjvNyvCkxhy6bUzJn7/aACaG8M4kYnznr86UndPtQO0cwanj8bpkcPI5wPK8DUlsM/ZXQ4IGWoAC7bxJk/c11O/CoK14jvY7d5+hy6zLPgfGxFOF+tUfDuErsjNbE147p5u/EJZ9S8UNKZNHLXrEh+HPC9bG/0226LZkWjGtBbAc7yrxw7RU=;FAQ5cBGJQEffQkbRCh4j1A=="
 ---

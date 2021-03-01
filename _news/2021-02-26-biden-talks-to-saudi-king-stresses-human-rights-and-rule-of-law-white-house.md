@@ -175,6 +175,22 @@ related:
         width: 602
         height: 545
         isCached: true
+  - title: "Power Up: Trump says the GOP is stuck with him. Whether they like it or not."
+    excerpt: "Former president Donald Trump says he's here to stay. Trump returned from his short lived political retirement on Sunday to tease a presidential bid and saddle up again as the leader of the Republican Party — spreading falsehoods and denunciations of President Biden as he spoke at a conservative gathering."
+    publishedDateTime: 2021-03-01T11:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/01/power-up-trump-says-gop-is-stuck-with-him-whether-they-like-it-or-not/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/01/power-up-trump-says-gop-is-stuck-with-him-whether-they-like-it-or-not/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/01/power-up-trump-says-gop-is-stuck-with-him-whether-they-like-it-or-not/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NL73NED2DYI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden Reopens Gateway For Green Cards Reversing Trump COVID-19 Freeze"
     excerpt: "The change means the wait is over for hundreds of thousands of job-seeking foreigners and those pursuing permanent residency in the U.S. to apply for the coveted immigration documents."
     publishedDateTime: 2021-02-28T00:16:00Z
