@@ -176,6 +176,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Key takeaways: With acquittal, Trump wins battle for the Republican soul"
+    excerpt: "WASHINGTON — The Republican civil war ended Feb. 13, 2021. Donald Trump won. The decision by most GOP senators to acquit Trump in the 57-43 vote on a charge of incitement of insurrection ..."
+    publishedDateTime: 2021-02-14T06:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/key-takeaways-acquittal-trump-wins-battle-republican-soul-n1257879"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1257879"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1257879"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 134
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_06/3450014/201102-donald-trump-mn-0900_64f94ea46b52fa86f224547a2b809ea4_3af62d69caaeb585e6b488d0712b4254.jpeg"
+        width: 1230
+        height: 820
+        isCached: true
   - title: "Democrats rest case with a warning: Republicans risk the republic if they acquit Trump"
     excerpt: "Analysis: House Democratic prosecutors asked Senate Republicans to consider the precedent they would set by approving of Trump's conduct."
     publishedDateTime: 2021-02-12T14:47:00Z

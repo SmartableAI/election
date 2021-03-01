@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-s
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 865
+heat: 845
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Fact Check: Did Trump Family Hold a Capitol Riot Watch Party?"
-    excerpt: "A video purportedly showing President Donald Trump and members of his family and administration celebrating the riot at the Capitol on Wednesday by some of his supporters has spread rapidly online. The riot left five people dead,"
-    publishedDateTime: 2021-01-08T14:39:00Z
-    webUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971"
-    ampWebUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1701168/trump-jr-rnc-victory-rally.jpg"
-        width: 2500
-        height: 1668
         isCached: true
   - title: "Family: Trump supporter who died followed QAnon conspiracy"
     excerpt: "Friends and relatives say a Georgia woman killed in Wednesday’s siege of the U.S. Capitol was a recovering drug addict who wanted to become a sobriety counselor"

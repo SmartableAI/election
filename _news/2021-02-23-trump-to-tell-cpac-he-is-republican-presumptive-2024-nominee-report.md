@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republica
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee"
 type: article
 quality: 125
-heat: 205
+heat: 245
 published: true
 
 provider:
@@ -60,6 +60,36 @@ related:
       - url: "https://i.guim.co.uk/img/media/273b47d4d8dd0d749a4bb4de4da0b1ee1d57e9bd/0_139_3374_2025/master/3374.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a543c13dc8e7dd495bd45a3051168af"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Former President Trump reasserts leadership over the Republican Party at CPAC"
+    excerpt: "Speaking at the Conservative Political Action Conference in Orlando, former President Donald Trump said he wants to unite Republicans and spent time lodging attacks at President Joe Biden. Ed O'Keefe reports on the latest."
+    publishedDateTime: 2021-03-01T00:44:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-trump-reasserts-leadership-over-the-republican-party-at-cpac/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 102
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/01/ae42e500-12e8-4be1-bf8a-8011dcb2cf14/thumbnail/1200x630/01416eb33d22e0a88aeaf863f7dbfcc9/0228-en-okeefe-655571-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Golden Calf? Trump Statue At CPAC Draws Online Ridicule"
+    excerpt: "The rolling out of a golden caricature of former President Donald Trump at a conservative conference in Florida has brought about an online reaction of biblical proportions. Featuring panels on cancel culture,"
+    publishedDateTime: 2021-02-26T13:32:00Z
+    webUrl: "https://www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848"
+    ampWebUrl: "https://www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/10/donald-trump-remains-popular-and-powerful-among-republicans.jpg"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Trump, Mr. Potato Head and CPAC: Republicans Show Their Loyalties"
     excerpt: "They railed against \"socialist\" Democrats and \"cancel culture,\" and wrung their hands over whether Mr. Potato Head would lose his gender identity. They laughed along with Sen. Ted Cruz when the Texas lawmaker joked about his much-derided trip to Cancun during a water and power crisis in his home state."

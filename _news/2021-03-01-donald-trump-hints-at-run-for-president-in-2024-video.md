@@ -61,6 +61,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Former President Trump reasserts leadership over the Republican Party at CPAC"
+    excerpt: "Speaking at the Conservative Political Action Conference in Orlando, former President Donald Trump said he wants to unite Republicans and spent time lodging attacks at President Joe Biden. Ed O'Keefe reports on the latest."
+    publishedDateTime: 2021-03-01T00:44:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-trump-reasserts-leadership-over-the-republican-party-at-cpac/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 102
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/01/ae42e500-12e8-4be1-bf8a-8011dcb2cf14/thumbnail/1200x630/01416eb33d22e0a88aeaf863f7dbfcc9/0228-en-okeefe-655571-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Golden Calf? Trump Statue At CPAC Draws Online Ridicule"
+    excerpt: "The rolling out of a golden caricature of former President Donald Trump at a conservative conference in Florida has brought about an online reaction of biblical proportions. Featuring panels on cancel culture,"
+    publishedDateTime: 2021-02-26T13:32:00Z
+    webUrl: "https://www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848"
+    ampWebUrl: "https://www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/10/donald-trump-remains-popular-and-powerful-among-republicans.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump, Mr. Potato Head and CPAC: Republicans Show Their Loyalties"
     excerpt: "They railed against \"socialist\" Democrats and \"cancel culture,\" and wrung their hands over whether Mr. Potato Head would lose his gender identity. They laughed along with Sen. Ted Cruz when the Texas lawmaker joked about his much-derided trip to Cancun during a water and power crisis in his home state."
     publishedDateTime: 2021-02-26T22:19:00Z
@@ -84,6 +114,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "bsf++Xn4mY2tsWCnlc/Mj2q1hArgPPItbu7N3iznh3Ar4ZL3Sv+vImg8cxQtwuG1fAsiQNymuxIEgvCAQ9TpMhYyii3IHACCX1tAY8aiXlZnBQxtAXmYiDgbqjqyWNuDSSb6kanh8+ZJ9lGKChcEavzVBqG6CpbwVkQJLmT26xLEBA3VvmcgYGoGU37lG/3YGIm1pmCAG+Ixpm/gYh93jeYcDIBEmTVIOHdGdSYE+BCvXHIQu9WOqfPKDW6u4SvSAbs9yb6vj8nu3gcbAt/fOCnTjmGcwMnW6nJSi0lc2FxWN6zG8aDVUnLh9CoDbnE1VfL9e/xJSLpwypDvFW1KbonI+ir5PSKbQY6dL6JIXQg=;rT2YiIVMgm+OhB08Vb7oKA=="
+secured: "i3Emf67L0s0FXBc6akggOXfmRg805u1ao+9FO8+m7Lt55dPbsjNvQ7D168k7Mw5ktQw5YK2/ZuV1xGFacAo31wSkO4zStOBGKmq1b+/6zXwQAKHy4OV/ccx1nRWwPtqwpi+fJ2P8jGElK8EEVBXixu9rsZ/ujChVzFEEO+N45fO8nOqPEXQVcLp/xYj+WvKqyZAXofgrDdTfqIksLMXIVtMiIP2gREBrOnMQPVxrjxpfFPmm3ns6bSJnJI2LkMoZuVeY0kNdULrFaVtkrz9HiJp6vSGH8cOpsLzjBW6dfHF6huk7Qp4pTFIsjW2uEAxwnUS/CXoy2dDRqiPFc+F4jzTR4nV5BhljIg9vuI7+mxoDIH8I5EwqU5f53UnIHC/IsT3wqjNW02X6cHQbmbvSbFZ6uy3RDbP7oCskJrxWk2n4DCxmRpy6QQQg7LGEEBzMbsnHwtIAQ7eHGvLt2BFB9bGBSQ9hGyVn9OYTeQCrLLznEa0+TECKVumjvEPwHnWPdnpKlUQ8tzNYZ+Jc+kZL3A==;BxQmFw5Jdw5q4FvEvQ2sfA=="
 ---
 

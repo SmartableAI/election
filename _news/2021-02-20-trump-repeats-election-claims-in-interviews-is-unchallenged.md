@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
 type: article
 quality: 140
-heat: 2220
+heat: 2240
 published: true
 
 provider:
@@ -1354,6 +1354,20 @@ related:
       - url: "https://s.abcnews.com/images/Politics/dick-durbin-file-ap-jef-210224_1614194960812_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Donald Trump Has Been Acquitted Again. But He Faces an Uncertain Road Ahead"
+    excerpt: "That’s how he sat for much of the Senate impeachment trial to consider whether former President Donald Trump incited an insurrection. Like his 99 fellow jurors, Romney weighed the arguments ..."
+    publishedDateTime: 2021-02-14T01:15:00Z
+    webUrl: "https://time.com/5939232/senate-acquits-donald-trump-second-impeachment-trial/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 103
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/02/Senate-Impeachment-donald-trump-democrats.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "2 Central Park ice rinks to close after city severs ties with Trump Organization"
     excerpt: "The Trump Organization is closing two ice skating rinks in Central Park after New York City Mayor Bill de Blasio severed their contract in the wake of the deadly Capitol riot. CBS New York's Carolyn Gusoff reports."

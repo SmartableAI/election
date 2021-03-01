@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "LIVE UPDATES: Joe Biden administration vows to keep fighting for Tanden"
+    excerpt: "'We remain committed to fighting our hearts out for Neera Tanden,' Psaki told 'Fox News Sunday' host Chris Wallace."
+    publishedDateTime: 2021-03-01T06:44:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JO2mWcxzMJw/joe-biden-live-updates-3-1-2021"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-live-updates-3-1-2021.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-3-1-2021.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d79e6363-51ad-47f1-b9f6-f5a94264370c/062e0e3b-bccb-4311-af68-3bb7a39e436e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden HHS pick Xavier Becerra refuses to say whether he supports any restrictions on abortion"
     excerpt: "Xavier Becerra, President Biden’s nominee to head the Department of Health and Human Services, declined to name a restriction on abortion that he would support when rigorously pressed on the issue during testimony before Senators on Wednesday."
     publishedDateTime: 2021-02-25T01:31:04Z

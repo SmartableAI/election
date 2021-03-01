@@ -71,6 +71,36 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Former President Trump reasserts leadership over the Republican Party at CPAC"
+    excerpt: "Speaking at the Conservative Political Action Conference in Orlando, former President Donald Trump said he wants to unite Republicans and spent time lodging attacks at President Joe Biden. Ed O'Keefe reports on the latest."
+    publishedDateTime: 2021-03-01T00:44:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-trump-reasserts-leadership-over-the-republican-party-at-cpac/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 102
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/01/ae42e500-12e8-4be1-bf8a-8011dcb2cf14/thumbnail/1200x630/01416eb33d22e0a88aeaf863f7dbfcc9/0228-en-okeefe-655571-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Golden Calf? Trump Statue At CPAC Draws Online Ridicule"
+    excerpt: "The rolling out of a golden caricature of former President Donald Trump at a conservative conference in Florida has brought about an online reaction of biblical proportions. Featuring panels on cancel culture,"
+    publishedDateTime: 2021-02-26T13:32:00Z
+    webUrl: "https://www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848"
+    ampWebUrl: "https://www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/10/donald-trump-remains-popular-and-powerful-among-republicans.jpg"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Trump to Proclaim Himself as the Future for Republicans in Speech"
     excerpt: "A civil war has erupted within the Republican Party with establishment figures like Senate minority leader Mitch McConnell eager to put Trump in the rear-view mirror and others, l"
     publishedDateTime: 2021-02-28T17:35:00Z

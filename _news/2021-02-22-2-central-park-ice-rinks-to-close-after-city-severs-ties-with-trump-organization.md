@@ -1369,6 +1369,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump Has Been Acquitted Again. But He Faces an Uncertain Road Ahead"
+    excerpt: "That’s how he sat for much of the Senate impeachment trial to consider whether former President Donald Trump incited an insurrection. Like his 99 fellow jurors, Romney weighed the arguments ..."
+    publishedDateTime: 2021-02-14T01:15:00Z
+    webUrl: "https://time.com/5939232/senate-acquits-donald-trump-second-impeachment-trial/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 103
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/02/Senate-Impeachment-donald-trump-democrats.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
   - title: "Senate acquits Trump for second time after week-long trial | Impeachment This Week"
     excerpt: "House managers argue former president Trump incited an insurrection in a dramatic and swift Senate impeachment trial. Come inside the proceedings with The Washington Post."
     publishedDateTime: 2021-02-14T14:53:00Z

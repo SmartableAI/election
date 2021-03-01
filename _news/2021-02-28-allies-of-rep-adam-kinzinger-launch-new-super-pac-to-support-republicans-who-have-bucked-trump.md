@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-tru
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp"
 type: article
 quality: 113
-heat: 133
+heat: 153
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump calls out Kinzinger, others as ‘hacks’ dividing GOP, while congressman says speech ‘peppered with dishonesty’"
+    excerpt: "Donald Trump calls out Adam Kinzinger, others as “hacks“ dividing GOP, congressman says speech “peppered with dishonesty.“"
+    publishedDateTime: 2021-03-01T06:14:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-trump-cpac-speech-20210228-epenmcegprhyllwp3zcyn3ihnq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-trump-cpac-speech-20210228-epenmcegprhyllwp3zcyn3ihnq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-adam-kinzinger-trump-cpac-speech-20210228-epenmcegprhyllwp3zcyn3ihnq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
+    images:
+      - url: "https://www.chicagotribune.com/resizer/p5pt7WUpDogzGzSvWef_WtulBfU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZE5C364SX3YEWGALHWDZ2O2C3I.jpg"
+        width: 1200
+        height: 807
+        isCached: true
   - title: "Pence Reportedly Not Holding a Grudge Against Trump Over Whole Riot Thing"
     excerpt: "It took a few weeks, but Pence seems to be over it — at least publicly. CNN reports that Pence told a group of Republican lawmakers on Tuesday that not only does he remain close friends with Trump, but that he has plans to launch a political action organization defending the administration’s record."
     publishedDateTime: 2021-02-24T17:03:00Z

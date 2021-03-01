@@ -27,85 +27,101 @@ images:
     isCached: true
 
 related:
-  - title: "In backing South Carolina GOP chair, Trump remains active"
-    excerpt: "South Carolina’s GOP chairman Drew McKissick tells The Associated Press that Donald Trump is backing him for a third term"
-    publishedDateTime: 2021-02-23T11:06:00Z
-    webUrl: "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+  - title: "AP FACT CHECK: Trump clings to his core election falsehoods"
+    excerpt: "An AP Fact Check that takes a look at Donald Trump's first post-presidential speech is finding a lot of familiar falsehoods"
+    publishedDateTime: 2021-03-01T03:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d6a861210180462dafa02ba81ab1c0ba_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump calls for GOP unity, repeats lies about election loss"
+    excerpt: "Former President Donald Trump called for Republican Party unity when he returned to the political stage for the first time since losing the White House to Joe Biden"
+    publishedDateTime: 2021-03-01T06:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_36ba0ee76f4744d98443ee52fd4c3bbf_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Vegas is betting on Trump announcing his 2024 reelection bid during highly-anticipated CPAC speech"
+    excerpt: "Trump is expected to use his Florida speech to talk about the future of the Republican Party and the conservative movement."
+    publishedDateTime: 2021-02-28T16:36:00Z
+    webUrl: "https://www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/603b7de287d37600190d0476?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Fact Check: Did Trump Family Hold a Capitol Riot Watch Party?"
+    excerpt: "A video purportedly showing President Donald Trump and members of his family and administration celebrating the riot at the Capitol on Wednesday by some of his supporters has spread rapidly online. The riot left five people dead,"
+    publishedDateTime: 2021-01-08T14:39:00Z
+    webUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971"
+    ampWebUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://d.newsweek.com/en/full/1701168/trump-jr-rnc-victory-rally.jpg"
+        width: 2500
+        height: 1668
         isCached: true
-  - title: "In backing South Carolina GOP chair, Trump remains active"
-    excerpt: "South Carolina’s GOP chairman Drew McKissick tells The Associated Press that Donald Trump is backing him for a third term"
-    publishedDateTime: 2021-02-24T02:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/backing-south-carolina-gop-chair-trump-remains-active-76059896"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/backing-south-carolina-gop-chair-trump-remains-active-76059896"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/backing-south-carolina-gop-chair-trump-remains-active-76059896"
+  - title: "AP FACT CHECK: The senator and Trump's misdialed phone call"
+    excerpt: "Donald Trump’s Senate impeachment trial hit a temporary snag this week when a Republican senator objected to how Democrats characterized a phone call from the president during the Capitol insurrection"
+    publishedDateTime: 2021-02-11T20:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_75282de617dd461fa98147b4ae80b735_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_38f13d7254734aaf8c5adf9e7014bc2a_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "As Trump reemerges, will the GOP find a way to move on without him?"
-    excerpt: "The Republican base brooks no dissent about the former president, while others look to a future in which he becomes a diminished force."
-    publishedDateTime: 2021-02-27T16:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/balztrump-cpac-gop/2021/02/27/52c8f92e-7910-11eb-8115-9ad5e9c02117_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/balztrump-cpac-gop/2021/02/27/52c8f92e-7910-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/balztrump-cpac-gop/2021/02/27/52c8f92e-7910-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
+  - title: "CPAC concludes with Trump reemerging post-presidency"
+    excerpt: "Former president Donald Trump capped this year’s Conservative Political Action Conference by making his first post-presidential speech on Sunday. The annual event held this weekend evolved from a fractious meeting of Republicans and libertarians into a celebration of the 45th president and the airing of his grievances."
+    publishedDateTime: 2021-03-01T02:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FQODBODZDAI6XFENDFDS42BVEE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4"
-    excerpt: "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4."
-    publishedDateTime: 2021-02-19T10:21:00Z
-    webUrl: "https://www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274"
-    ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-proud-boys-1570274?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1738534/qanon.jpg"
-        width: 3000
-        height: 2001
-        isCached: true
-  - title: "Donald Trump Jr. uses a wall of guns as backdrop to launch video attack against teaching unions"
-    excerpt: "Donald Trump Jr. stood in front of a wall of guns while declaring teachers \"out of control\" in the clip shared on a Canadian video site."
-    publishedDateTime: 2021-02-22T15:16:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-jr-video-teachers-backdrop-of-guns-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/donald-trump-jr-video-teachers-backdrop-of-guns-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-jr-video-teachers-backdrop-of-guns-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
-    images:
-      - url: "https://i.insider.com/6033ba7e623bd30012bcc805?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/resizer/18BmmlaIq3p2A34xDUMRRGbm5jI=/arc-anglerfish-washpost-prod-washpost/public/J4T2E4TXX4I6XFEJR562ZVI6OU.jpg"
+        width: 3500
+        height: 2333
         isCached: true
   - title: "Conservatives have made a gold-colored Trump statue"
     excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"
@@ -121,47 +137,6 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Reince Priebus, former chief of staff to Donald Trump, mulling run for Wisconsin governor, according to GOP strategist"
-    excerpt: "Reince Priebus, a former White House chief of staff to Donald Trump, has called Republican donors and power brokers in Wisconsin to discuss a possible bid for governor."
-    publishedDateTime: 2021-02-19T19:00:00Z
-    webUrl: "https://www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/midwest/ct-aud-reince-priebus-wisconsin-governor-20210219-ai4c6wytbjejjmv4b45bzuvyta-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 101
-    images:
-      - url: "https://www.chicagotribune.com/resizer/3RH0lVNQZpVMBio8n56dtId1QLA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/3LVREPFOC5HT4UQWO24KRZWNRA.aspx"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "The GOP's first 2024 cattle call is almost here. By the looks of the CPAC speaking roster, it's gearing up to be a very Trump-friendly affair."
-    excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
-    publishedDateTime: 2021-02-17T10:02:00Z
-    webUrl: "https://www.businessinsider.com/cpac-2021-speakers-trump-pence-orlando-republican-conservative-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 69
-    images:
-      - url: "https://i.insider.com/602c67945847630018323658?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "South Carolina Lawmaker: Trump Can Be Buried at Our Capitol"
-    excerpt: "A South Carolina Republican lawmaker says he is filing a bill that would allow former President Donald Trump to buried on the grounds of the state Capitol if Trump is banned from being buried at Arlington National Cemetery."
-    publishedDateTime: 2021-02-25T22:07:00Z
-    webUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2021-02-25/south-carolina-lawmaker-trump-can-be-buried-at-our-capitol"
-    ampWebUrl: "https://www.usnews.com/news/best-states/south-carolina/articles/2021-02-25/south-carolina-lawmaker-trump-can-be-buried-at-our-capitol?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/south-carolina/articles/2021-02-25/south-carolina-lawmaker-trump-can-be-buried-at-our-capitol?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
 
 secured: "1zqh8ygbhjlXgw9XNIKllLGOSPXrviUNq3Z2st00PaujE8KaxERApe3BcYecY38gD2h5T1SqP/Pm/oWl9NpmxJ2ibMR/xXjzD12263oCh0tOCj3TH6hw93cUf/ninnB/xIZjCCw21N9yoEe++PFx+ZIG21yiRpue2lCitM673WTizLepZs9cPZsRAhPY9dOLTr4GqAT/vE62c68x8fC+NJqMp/BLIsNbI8xUhMf6h8cCbc6LEe9FmDpOY16ciU/oXaiwr0EHdMVyjbI5+qQxgCtnE3lIMwwrHSWEE1tEuEdvw3kAinhmPRgS++ZHRuGQ7iOgwxPRviua3apjXq0cKtpjR9o60ADPFJlkKgcOb/2sbmm+kKVkCZxV4TqJaqlh9Pxa58FsT9iGnI5pfWgmgv/7kvmu8u5ax6xfkiL9OiRMrZV/UHpL/IHztQV1jm0b1qZJE1uslqcbAKt14cL1XHmWDcQiiFHEsMfofqdxYJP7dFV7rkUg/DiJUV4M4xIijFI6wmK3aJf1G+NvnWFs3w==;VaCrBqUPEeAk1F4poCq+Hg=="
 ---

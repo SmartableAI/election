@@ -2,6 +2,106 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-01-trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot.md",
+      "title": "Trump says he was not watching live TV coverage of Capital Hill riot",
+      "excerpt": "Former President Donald Trump on Sunday night denied that he was watching live television coverage of the deadly Capitol Hill riot. Trump was responding to a Washington Post story that claimed he",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/",
+      "originalUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-cpac.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/",
+      "publishedDateTime": "2021-02-28T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-ap-fact-check-trump-clings-to-his-core-election-falsehoods.md",
+      "title": "AP FACT CHECK: Trump clings to his core election falsehoods",
+      "excerpt": "An AP Fact Check that takes a look at Donald Trump's first post-presidential speech is finding a lot of familiar falsehoods",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_d6a861210180462dafa02ba81ab1c0ba_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364",
+      "publishedDateTime": "2021-02-28T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-trump-gives-first-public-speech-since-leaving-office-and-declares-journey-is-not-over.md",
       "title": "Trump gives first public speech since leaving office and declares \"journey\" is not over",
       "excerpt": "Former President Trump on Sunday gave his first public speech since he left office and was acquitted in his second Senate impeachment trial. CBS News political reporter Adam Brewster, CBSN political contributor and Democratic strategist Antjuan Seawright and Maggie's List spokeswoman Lauren Zelt join CBSN's Lana Zak to discuss the former president's speech.",
@@ -106,58 +206,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-01-vegas-is-betting-on-trump-announcing-his-2024-reelection-bid-during-highly-anticipated-cpac-speech.md",
-      "title": "Vegas is betting on Trump announcing his 2024 reelection bid during highly-anticipated CPAC speech",
-      "excerpt": "Trump is expected to use his Florida speech to talk about the future of the Republican Party and the conservative movement.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2",
-      "originalUrl": "https://www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 326,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/603b7de287d37600190d0476?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2?amp",
-      "publishedDateTime": "2021-02-28T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-28-allies-of-rep-adam-kinzinger-launch-new-super-pac-to-support-republicans-who-have-bucked-trump.md",
       "title": "Allies of Rep. Adam Kinzinger launch new super PAC to support Republicans who have bucked Trump",
       "excerpt": "The effort will be up against significant head winds, as Trump still holds vast sway over the Republican Party, even after his supporters attacked the U.S. Capitol last month.",
@@ -166,7 +214,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 133,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -489,7 +537,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/540761-donald-trump-jr-attacks-cheney-at-cpac-lincoln-project-liz",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -565,6 +613,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-donald-trump-jr-gives-fiery-cpac-speech-railing-against-republicans-who-opposed-his-father-and-snatched-defeat-from-the-jaws-of-victory.md",
+      "title": "Donald Trump Jr. gives fiery CPAC speech railing against Republicans who opposed his father and snatched 'defeat from the jaws of victory'",
+      "excerpt": "Trump Jr. ranted about Wyoming Rep. Liz Cheney, saying her \"politics are only slightly less popular than her father is at a quail hunt.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2",
+      "originalUrl": "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6039646bd9208800185924cf?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2?amp",
+      "publishedDateTime": "2021-02-26T06:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -665,6 +765,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-nikki-haley-iced-out-of-cpac-after-underestimating-donald-trumps-influence.md",
+      "title": "Nikki Haley Iced Out Of CPAC After Underestimating Donald Trump's Influence",
+      "excerpt": "The former ambassador hasn't been invited to speak, another blow to any presidential ambitions she may harbor.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228",
+      "originalUrl": "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/10/us-president-donald-trump-shakes-hands-with-nikki.jpg",
+          "width": 1024,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228?amp=1",
+      "publishedDateTime": "2021-02-25T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1205,7 +1357,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1366,7 +1518,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1407,172 +1559,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-the-hills-1230-report-presented-by-facebook-supreme-courts-blow-to-trump.md",
-      "title": "The Hill's 12:30 Report - Presented by Facebook - Supreme Court's blow to Trump",
-      "excerpt": "Donald Trump Donald Trump Former Florida officer arrested after live streaming from inside US Capitol during breach, FBI says Schumer says he's working to find votes to confirm Biden's OMB pick Pence declined invitation to attend CPAC: reports MORE\" height=\"326\" width=\"580\" class=\"media-element file-original-image\" data-delta=\"2\" typeof=\"foaf:Image\" src=\" /> To view past editions of The Hill's 12:30 Report,",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals",
-      "originalUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_7_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals?amp",
-      "publishedDateTime": "2021-02-22T09:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-trump-administration-deserves-credit-for-breathtaking-operation-warp-speed-success-nih-director.md",
-      "title": "Trump administration deserves credit for 'breathtaking' Operation Warp Speed success: NIH director",
-      "excerpt": "National Institutes of Health director Dr. Francis Collins praised the Trump administration on Sunday for the \"breathtaking\" success of Operation Warp Speed in getting multiple effective coronavirus vaccines developed and tested within one year of the virus outbreak.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director",
-      "originalUrl": "https://www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/370e43ef-5b8f-448a-b40c-4be5e2db8ecc/2a546d21-7544-4865-ae15-9ad81e022ea5/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-administration-breathtaking-operation-warp-speed-success-nih-director.amp",
-      "publishedDateTime": "2021-02-22T08:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-cagop-putting-trump-in-rearview-mirror-sf-school-board-walk-back-recall-drive-could-be-close-oleary-in-the-mix-for-omb.md",
-      "title": "CAGOP: Putting TRUMP in rearview mirror? — SF SCHOOL BOARD walk back — RECALL drive could be close — O’LEARY in the mix for OMB?",
-      "excerpt": "THE BUZZ — WHERE’S DONALD? The embattled California Republican Party, once home to the Reagan Revolution, has enthusiastically embraced a longshot plan for its political comeback after years of declining voter registration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/california-playbook/2021/02/22/cagop-putting-trump-in-rearview-mirror-sf-school-board-walks-back-renaming-decision-recall-drive-could-be-close-oleary-in-the-mix-for-omb-unions-gop-vs-newsom-on-school-reopenings-491825",
-      "originalUrl": "https://www.politico.com/newsletters/california-playbook/2021/02/22/cagop-putting-trump-in-rearview-mirror-sf-school-board-walks-back-renaming-decision-recall-drive-could-be-close-oleary-in-the-mix-for-omb-unions-gop-vs-newsom-on-school-reopenings-491825",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

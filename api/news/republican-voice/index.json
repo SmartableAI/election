@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-01-trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot.md",
+      "title": "Trump says he was not watching live TV coverage of Capital Hill riot",
+      "excerpt": "Former President Donald Trump on Sunday night denied that he was watching live television coverage of the deadly Capitol Hill riot. Trump was responding to a Washington Post story that claimed he",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/",
+      "originalUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-cpac.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/",
+      "publishedDateTime": "2021-02-28T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-28-trump-pays-tribute-to-rush-limbaugh-at-cpac-speech-irreplaceable.md",
       "title": "Trump pays tribute to Rush Limbaugh at CPAC speech: 'Irreplaceable'",
       "excerpt": "Former President Donald Trump on Sunday paid tribute to the late radio legend Rush Limbaugh, who was long considered the voice of the conservative movement and who was one of the first high-profile right-wing media personalities to back Trump's first presidential run. ",
@@ -1345,7 +1393,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1578,62 +1626,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-us-canada-fight-climate-change.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-canada-fight-climate-change.amp",
       "publishedDateTime": "2021-02-23T16:31:17-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-biden-transition-received-donations-from-george-soros-hollywood-celebrities.md",
-      "title": "Biden transition received donations from George Soros, Hollywood celebrities",
-      "excerpt": "President Biden’s transition team raised more than $20 million, including contributions from renowned business moguls and staples in the Hollywood celebrity circuit.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/je7Ge0ePhFI/biden-transition-donors",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/je7Ge0ePhFI/biden-transition-donors",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 152,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T16:14:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

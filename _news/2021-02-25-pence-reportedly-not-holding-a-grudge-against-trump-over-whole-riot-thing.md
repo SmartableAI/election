@@ -43,6 +43,22 @@ related:
         width: 1440
         height: 968
         isCached: true
+  - title: "Trump calls out Kinzinger, others as ‘hacks’ dividing GOP, while congressman says speech ‘peppered with dishonesty’"
+    excerpt: "Donald Trump calls out Adam Kinzinger, others as “hacks“ dividing GOP, congressman says speech “peppered with dishonesty.“"
+    publishedDateTime: 2021-03-01T06:14:00Z
+    webUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-trump-cpac-speech-20210228-epenmcegprhyllwp3zcyn3ihnq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/politics/ct-adam-kinzinger-trump-cpac-speech-20210228-epenmcegprhyllwp3zcyn3ihnq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-adam-kinzinger-trump-cpac-speech-20210228-epenmcegprhyllwp3zcyn3ihnq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 103
+    images:
+      - url: "https://www.chicagotribune.com/resizer/p5pt7WUpDogzGzSvWef_WtulBfU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/ZE5C364SX3YEWGALHWDZ2O2C3I.jpg"
+        width: 1200
+        height: 807
+        isCached: true
 
 secured: "1AHMCqDM6EbqLfJFmDJjGDzjyVXPqyuvvp2Yl0/z9LLPG0xzt72RaT2K0D1xseLWzCFBogL1adc175h5WkE/O2g2/YEHVz5V54Kq7UqiPdJ1suHj3xQKfkmdy6aheERe5bFH8SaYJ7u2Ywn1A0IzzkQGY2kTLFGwXkDlumNw/NGf7aG+ffTkhYtBCessOblGQ+s8H+AGATmW/gEZp78agM4yYzyCG+sSBsJKIGLYwtHasvkMoQeLlf9wLq+nZE+QT83FDThkxn92MRpCkcpeKkqooWhq6PpwTxYLau8QqG2jhSpxFcxYPyUtpVu0ZdGww5ra+Io1X/yRuEVj7fHkrPt3CeMcSiQHRBjt+SxcJNzSACkLHQ1Wg3+tSuEDSYPdbJeWfbTJdl9mPxycDuDjF21RXNOm47KDJ+2D1BDSoUsbSYS50ormxPGZpQ0wsD/G5xWyu8bMQHC/b40HffiIXJhR8/sWdc1/1+PMyFFdHfi3a/K+QycZdumVOvxzDUyzyUg+9TiVAE01S561023lrA==;x5dYej2jO2kEc6uYo2QJPg=="
 ---

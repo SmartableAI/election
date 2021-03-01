@@ -47,6 +47,38 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "CPAC: Trump to make first post-White House speech at rightwing summit"
+    excerpt: "Conference seeks to shore up Trump’s position as Republican standard bearer even after he lost the presidency and Congress"
+    publishedDateTime: 2021-02-28T05:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/27/donald-trump-cpac-speech-2021"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/27/donald-trump-cpac-speech-2021"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/27/donald-trump-cpac-speech-2021"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/47a9f5e1964ef1ca5afd66dc3ffc776caad54612/0_1_4076_2445/master/4076.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6b1a8fe536b298ba89dbfd85dea986c9"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "CPAC: Trump rules out new political party in speech to conservatives"
+    excerpt: "Donald Trump will give his first speech since leaving office as US president later on Sunday at the Conservative Political Action Conference (CPAC). It comes just weeks after he was acquitted during an impeachment trial which saw some members of his own Republican party vote against him."
+    publishedDateTime: 2021-03-01T04:32:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56230998"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56230998"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56230998"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B255/production/_117335654_065969666.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "McCarthy and Cheney at odds over Trump's future role in the party"
     excerpt: "House Minority Leader Kevin McCarthy (R-Calif) and Rep. Liz Cheney (R-Wyo.) disagreed Feb. 24 on former president Donald Trump's role in the Republican party."
     publishedDateTime: 2021-02-24T17:32:00Z

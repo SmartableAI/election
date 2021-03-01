@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-18-biden-nominees-becerra-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign.md",
+      "title": "Biden nominees Becerra, Gupta targeted by conservative groups with high-dollar ad campaign",
+      "excerpt": "A handful of conservative groups are aiming to block the confirmation of two of President Biden's most controversial nominees, using an ad campaign targeting lawmakers, their staff and their constituents. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IPkvZdzIuc/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IPkvZdzIuc/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign.amp",
+      "publishedDateTime": "2021-02-18T10:23:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-trumps-ambassador-to-slovenia-launches-senate-bid-in-alabama.md",
       "title": "Trump’s ambassador to Slovenia launches Senate bid in Alabama",
       "excerpt": "Republican Lynda Blanchard is the first candidate to jump into the race to succeed longtime GOP Sen. Richard Shelby of Alabama.",
@@ -1631,62 +1687,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-biden-says-almost-everybody-could-have-covid-19-vaccines-by-the-end-of-summer.md",
-      "title": "Biden says 'almost everybody' could have COVID-19 vaccines by 'the end of summer'",
-      "excerpt": "President Biden said Friday that it is his hope that by “the end of summer almost everybody” will have received a COVID-19 vaccine.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/twM_smKjuJI/biden-almost-everybody-covid-19-vaccine-summer",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/twM_smKjuJI/biden-almost-everybody-covid-19-vaccine-summer",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-almost-everybody-covid-19-vaccine-summer.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-almost-everybody-covid-19-vaccine-summer.amp",
-      "publishedDateTime": "2021-02-12T07:17:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

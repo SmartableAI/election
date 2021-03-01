@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/vegas-betting-on-trump-declaring-202
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2?amp"
 type: article
 quality: 126
-heat: 326
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,53 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump to reemerge at CPAC as GOP tries to plot its future"
-    excerpt: "\"There's no question that the gun has gone off on the 2024 campaign for the Republican nomination,\" says American Conservative Union chairman Matt Schlapp."
-    publishedDateTime: 2021-02-26T11:00:00Z
-    webUrl: "https://www.cbsnews.com/news/cpac-2021-trump-2024-preview/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
+  - title: "AP FACT CHECK: Trump clings to his core election falsehoods"
+    excerpt: "An AP Fact Check that takes a look at Donald Trump's first post-presidential speech is finding a lot of familiar falsehoods"
+    publishedDateTime: 2021-03-01T03:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/26/7558afe2-990a-4ffc-8429-7f2e6f9d3f9a/thumbnail/1200x630/8e24dcc458effb4e504fa3ad24b93094/ap21057076398977.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d6a861210180462dafa02ba81ab1c0ba_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "At CPAC, rising GOP stars send message that Trump is here to stay"
-    excerpt: "Trump, the marquee speaker this year, will make his first public remarks since leaving office at CPAC on Sunday."
-    publishedDateTime: 2021-02-27T12:18:00Z
-    webUrl: "https://www.cbsnews.com/news/cpac-republicans-trump-here-to-stay/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-republicans-trump-here-to-stay/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-republicans-trump-here-to-stay/"
+  - title: "Trump calls for GOP unity, repeats lies about election loss"
+    excerpt: "Former President Donald Trump called for Republican Party unity when he returned to the political stage for the first time since losing the White House to Joe Biden"
+    publishedDateTime: 2021-03-01T06:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/27/f6ac56df-c1c4-4517-97b7-4a9d4432c6cc/thumbnail/1200x630/72421f3248e10fdac7e53c8e4aaea53f/gettyimages-1304272594.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Politics/WireAP_36ba0ee76f4744d98443ee52fd4c3bbf_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "CPAC: Trump to make first post-White House speech at rightwing summit"
-    excerpt: "Conference seeks to shore up Trump’s position as Republican standard bearer even after he lost the presidency and Congress"
-    publishedDateTime: 2021-02-28T05:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/27/donald-trump-cpac-speech-2021"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/27/donald-trump-cpac-speech-2021"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/27/donald-trump-cpac-speech-2021"
+  - title: "Fact Check: Did Trump Family Hold a Capitol Riot Watch Party?"
+    excerpt: "A video purportedly showing President Donald Trump and members of his family and administration celebrating the riot at the Capitol on Wednesday by some of his supporters has spread rapidly online. The riot left five people dead,"
+    publishedDateTime: 2021-01-08T14:39:00Z
+    webUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971"
+    ampWebUrl: "https://www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-trump-family-hold-capitol-riot-watch-party-1559971?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
+      name: Newsweek
+      domain: newsweek.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/47a9f5e1964ef1ca5afd66dc3ffc776caad54612/0_1_4076_2445/master/4076.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6b1a8fe536b298ba89dbfd85dea986c9"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1701168/trump-jr-rnc-victory-rally.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
+  - title: "AP FACT CHECK: The senator and Trump's misdialed phone call"
+    excerpt: "Donald Trump’s Senate impeachment trial hit a temporary snag this week when a Republican senator objected to how Democrats characterized a phone call from the president during the Capitol insurrection"
+    publishedDateTime: 2021-02-11T20:37:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_38f13d7254734aaf8c5adf9e7014bc2a_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "CPAC concludes with Trump reemerging post-presidency"
     excerpt: "Former president Donald Trump capped this year’s Conservative Political Action Conference by making his first post-presidential speech on Sunday. The annual event held this weekend evolved from a fractious meeting of Republicans and libertarians into a celebration of the 45th president and the airing of his grievances."
@@ -95,99 +111,35 @@ related:
         width: 3500
         height: 2333
         isCached: true
-  - title: "CPAC: Trump rules out new political party in speech to conservatives"
-    excerpt: "Donald Trump will give his first speech since leaving office as US president later on Sunday at the Conservative Political Action Conference (CPAC). It comes just weeks after he was acquitted during an impeachment trial which saw some members of his own Republican party vote against him."
-    publishedDateTime: 2021-03-01T04:32:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-56230998"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56230998"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56230998"
+  - title: "Conservatives have made a gold-colored Trump statue"
+    excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"
+    publishedDateTime: 2021-02-28T12:46:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE1KBLFN"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B255/production/_117335654_065969666.jpg"
-        width: 1024
-        height: 576
+      - url: "https://static.reuters.com/resources/r/?d=20210228&i=OVE1KBLFN&r=OVE1KBLFN&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "Trump plans to use his CPAC speech as a 'show of force' to exert control over the GOP, report says"
-    excerpt: "Trump plans to use his first post-presidency public speech to show what power he still has over the Republican Party, Axios reported."
-    publishedDateTime: 2021-02-22T13:36:00Z
-    webUrl: "https://www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2?amp"
+  - title: "Trump dominant force at conservative conference"
+    excerpt: "Trump on Sunday will be making his first post-presidential appearance at the conference, and aides say he will use the speech to reassert his power."
+    publishedDateTime: 2021-02-27T13:20:00Z
+    webUrl: "https://www.al.com/news/2021/02/trump-dominant-force-at-conservative-conference.html"
+    ampWebUrl: "https://www.al.com/news/2021/02/trump-dominant-force-at-conservative-conference.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/02/trump-dominant-force-at-conservative-conference.html?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/60339663bed5c50011a2bc53?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Former President Trump reasserts leadership over the Republican Party at CPAC"
-    excerpt: "Speaking at the Conservative Political Action Conference in Orlando, former President Donald Trump said he wants to unite Republicans and spent time lodging attacks at President Joe Biden. Ed O'Keefe reports on the latest."
-    publishedDateTime: 2021-03-01T00:44:00Z
-    webUrl: "https://www.cbsnews.com/video/former-president-trump-reasserts-leadership-over-the-republican-party-at-cpac/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 102
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/01/ae42e500-12e8-4be1-bf8a-8011dcb2cf14/thumbnail/1200x630/01416eb33d22e0a88aeaf863f7dbfcc9/0228-en-okeefe-655571-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Donald Trump Jr. gives fiery CPAC speech railing against Republicans who opposed his father and snatched 'defeat from the jaws of victory'"
-    excerpt: "Trump Jr. ranted about Wyoming Rep. Liz Cheney, saying her \"politics are only slightly less popular than her father is at a quail hunt.\""
-    publishedDateTime: 2021-02-26T14:57:00Z
-    webUrl: "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/6039646bd9208800185924cf?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Golden Calf? Trump Statue At CPAC Draws Online Ridicule"
-    excerpt: "The rolling out of a golden caricature of former President Donald Trump at a conservative conference in Florida has brought about an online reaction of biblical proportions. Featuring panels on cancel culture,"
-    publishedDateTime: 2021-02-26T13:32:00Z
-    webUrl: "https://www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848"
-    ampWebUrl: "https://www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/golden-calf-trump-statue-cpac-draws-online-ridicule-3152848?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
+      name: al.com
+      domain: al.com
     quality: 75
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/10/donald-trump-remains-popular-and-powerful-among-republicans.jpg"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Nikki Haley Iced Out Of CPAC After Underestimating Donald Trump's Influence"
-    excerpt: "The former ambassador hasn't been invited to speak, another blow to any presidential ambitions she may harbor."
-    publishedDateTime: 2021-02-25T21:39:00Z
-    webUrl: "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228"
-    ampWebUrl: "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/10/us-president-donald-trump-shakes-hands-with-nikki.jpg"
-        width: 1024
-        height: 674
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GFZDVPLSCZFQ3COVYGFYRO7M2E.jpg"
+        width: 4000
+        height: 2666
         isCached: true
 
 secured: "cMc606enjVeeXnvEbPvYUVFrY/eF9wHaYF1lFystvLD/6vK6fjw5K1GeZa7evEcRkOkgfuLjQEREp1BgolotQSFp6I/I1xdUNZt9eWM/5GNuqIU/0B/BZBDNsOvXRKJ0x3JDwUVX0zrAWpwUsJySNS+O4ZRDhaCzsX6f0n5eYWP6IK4HDs9c1vYj5iWk2GcDPNosXUpoAMewQsgeRnQyWB3rRf3MoMgQr0JeA3cwW8QmnWdoH2YrYZByXMiZ7IAQ6ZB/NsICtEcEkE96JYA5r7J0McBdBgwN97HVnt+37mc0dwIVgctvznvOPGn5JbOnft9Ob2+j/7FshDap6hlqyQaFmOxCoYGF5f7smmwNjAiqO+MYd/Gn4/7JPr5DiX1Bjvq0UQoZe35dhJAtTgcuJn5IND7IkT84wsesy4oHnCD+j5LqjLPC9KnA2cNf6VCkiuqhBk6fJ9M5F/LUHfQt/Rt47jTRrif15Hwoj59ZpVEXQo8srwga/I9WAclbb868btJAUa6k7/m2jGd0Oyc03A==;tjgWX+sLKHw5lmPBJqQUWw=="

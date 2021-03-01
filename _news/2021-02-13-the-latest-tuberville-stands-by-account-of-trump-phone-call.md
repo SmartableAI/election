@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "AP FACT CHECK: The senator and Trump's misdialed phone call"
-    excerpt: "Donald Trump’s Senate impeachment trial hit a temporary snag this week when a Republican senator objected to how Democrats characterized a phone call from the president during the Capitol insurrection"
-    publishedDateTime: 2021-02-11T20:37:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-senator-trumps-misdialed-phone-call-75834176"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_38f13d7254734aaf8c5adf9e7014bc2a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "First Thing: Donald Trump is still a threat to democracy, Democrats warn"
     excerpt: "House impeachment managers urged senators to prevent Trump from holding office again. Plus, former Republican officials discuss creating a new party"
     publishedDateTime: 2021-02-12T11:00:00Z

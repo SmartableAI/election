@@ -31,117 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Vegas is betting on Trump announcing his 2024 reelection bid during highly-anticipated CPAC speech"
-    excerpt: "Trump is expected to use his Florida speech to talk about the future of the Republican Party and the conservative movement."
-    publishedDateTime: 2021-02-28T16:36:00Z
-    webUrl: "https://www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 126
-    images:
-      - url: "https://i.insider.com/603b7de287d37600190d0476?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump to reemerge at CPAC as GOP tries to plot its future"
-    excerpt: "\"There's no question that the gun has gone off on the 2024 campaign for the Republican nomination,\" says American Conservative Union chairman Matt Schlapp."
-    publishedDateTime: 2021-02-26T11:00:00Z
-    webUrl: "https://www.cbsnews.com/news/cpac-2021-trump-2024-preview/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-2021-trump-2024-preview/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/26/7558afe2-990a-4ffc-8429-7f2e6f9d3f9a/thumbnail/1200x630/8e24dcc458effb4e504fa3ad24b93094/ap21057076398977.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "At CPAC, rising GOP stars send message that Trump is here to stay"
-    excerpt: "Trump, the marquee speaker this year, will make his first public remarks since leaving office at CPAC on Sunday."
-    publishedDateTime: 2021-02-27T12:18:00Z
-    webUrl: "https://www.cbsnews.com/news/cpac-republicans-trump-here-to-stay/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/cpac-republicans-trump-here-to-stay/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cpac-republicans-trump-here-to-stay/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/27/f6ac56df-c1c4-4517-97b7-4a9d4432c6cc/thumbnail/1200x630/72421f3248e10fdac7e53c8e4aaea53f/gettyimages-1304272594.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "CPAC: Trump to make first post-White House speech at rightwing summit"
-    excerpt: "Conference seeks to shore up Trump’s position as Republican standard bearer even after he lost the presidency and Congress"
-    publishedDateTime: 2021-02-28T05:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/27/donald-trump-cpac-speech-2021"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/27/donald-trump-cpac-speech-2021"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/27/donald-trump-cpac-speech-2021"
+  - title: "Trump to tell CPAC he is Republican 'presumptive 2024 nominee' – report"
+    excerpt: "Unnamed source tells news site Axios Trump’s speech to the rightwing event will have the message ‘I’m still in charge’"
+    publishedDateTime: 2021-02-22T18:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/47a9f5e1964ef1ca5afd66dc3ffc776caad54612/0_1_4076_2445/master/4076.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6b1a8fe536b298ba89dbfd85dea986c9"
+      - url: "https://i.guim.co.uk/img/media/3a7275f576d965598d662bf1eb376ff03480bacd/0_364_5456_3273/master/5456.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0d6b3d50884a968f7fdefd6c0f54fdb0"
         width: 600
         height: 360
         isCached: true
-  - title: "CPAC concludes with Trump reemerging post-presidency"
-    excerpt: "Former president Donald Trump capped this year’s Conservative Political Action Conference by making his first post-presidential speech on Sunday. The annual event held this weekend evolved from a fractious meeting of Republicans and libertarians into a celebration of the 45th president and the airing of his grievances."
-    publishedDateTime: 2021-03-01T02:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
+  - title: "Trump is headliner at CPAC in Orlando. But really it's conservative Florida's coming-out party"
+    excerpt: "Former President Trump will mark his return at CPAC, but the four-day fest in Orlando is a coming out party for Florida's conservative leaders, too."
+    publishedDateTime: 2021-02-26T04:22:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/02/25/cpac-2021-trump-headline-orlando-event-its-also-where-florida-conservatives-gather/4576196001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4576196001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4576196001"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
     images:
-      - url: "https://www.washingtonpost.com/resizer/18BmmlaIq3p2A34xDUMRRGbm5jI=/arc-anglerfish-washpost-prod-washpost/public/J4T2E4TXX4I6XFEJR562ZVI6OU.jpg"
-        width: 3500
-        height: 2333
-        isCached: true
-  - title: "CPAC: Trump rules out new political party in speech to conservatives"
-    excerpt: "Donald Trump will give his first speech since leaving office as US president later on Sunday at the Conservative Political Action Conference (CPAC). It comes just weeks after he was acquitted during an impeachment trial which saw some members of his own Republican party vote against him."
-    publishedDateTime: 2021-03-01T04:32:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-56230998"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56230998"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56230998"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 125
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B255/production/_117335654_065969666.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Trump plans to use his CPAC speech as a 'show of force' to exert control over the GOP, report says"
-    excerpt: "Trump plans to use his first post-presidency public speech to show what power he still has over the Republican Party, Axios reported."
-    publishedDateTime: 2021-02-22T13:36:00Z
-    webUrl: "https://www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cpac-speech-plans-show-of-force-over-gop-axios-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 111
-    images:
-      - url: "https://i.insider.com/60339663bed5c50011a2bc53?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2020/09/03/NPPP/d26f6e2d-4671-4c8e-99ad-4e9347c67ad3-Trump_Speech_86105.jpg-dcd1.JPG?auto=webp&crop=5471,3078,x0,y182&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Donald Trump hints at run for president in 2024 – video"
+    excerpt: "Former US president Donald Trump has hinted at a possible run for president again in 2024 during a speech at the Conservative Political Action Conference [CPAC] in Florida."
+    publishedDateTime: 2021-03-01T00:44:00Z
+    webUrl: "https://www.theguardian.com/global/video/2021/mar/01/donald-trump-hints-at-run-for-president-in-2024-video?share=facebook"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/273b47d4d8dd0d749a4bb4de4da0b1ee1d57e9bd/0_139_3374_2025/master/3374.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a543c13dc8e7dd495bd45a3051168af"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Former President Trump reasserts leadership over the Republican Party at CPAC"
     excerpt: "Speaking at the Conservative Political Action Conference in Orlando, former President Donald Trump said he wants to unite Republicans and spent time lodging attacks at President Joe Biden. Ed O'Keefe reports on the latest."
@@ -157,38 +91,28 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Donald Trump Jr. gives fiery CPAC speech railing against Republicans who opposed his father and snatched 'defeat from the jaws of victory'"
-    excerpt: "Trump Jr. ranted about Wyoming Rep. Liz Cheney, saying her \"politics are only slightly less popular than her father is at a quail hunt.\""
-    publishedDateTime: 2021-02-26T14:57:00Z
-    webUrl: "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/watch-donald-trump-jr-speech-cpac-2021-2?amp"
+  - title: "Trump, Mr. Potato Head and CPAC: Republicans Show Their Loyalties"
+    excerpt: "They railed against \"socialist\" Democrats and \"cancel culture,\" and wrung their hands over whether Mr. Potato Head would lose his gender identity. They laughed along with Sen. Ted Cruz when the Texas lawmaker joked about his much-derided trip to Cancun during a water and power crisis in his home state."
+    publishedDateTime: 2021-02-26T22:19:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump"
+    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-26/trump-mr-potato-head-and-cpac-republicans-show-loyalty-to-trump?context=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 91
-    images:
-      - url: "https://i.insider.com/6039646bd9208800185924cf?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Nikki Haley Iced Out Of CPAC After Underestimating Donald Trump's Influence"
-    excerpt: "The former ambassador hasn't been invited to speak, another blow to any presidential ambitions she may harbor."
-    publishedDateTime: 2021-02-25T21:39:00Z
-    webUrl: "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228"
-    ampWebUrl: "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228?amp=1"
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
+  - title: "Trump to Proclaim Himself as the Future for Republicans in Speech"
+    excerpt: "A civil war has erupted within the Republican Party with establishment figures like Senate minority leader Mitch McConnell eager to put Trump in the rear-view mirror and others, l"
+    publishedDateTime: 2021-02-28T17:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 73
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/10/us-president-donald-trump-shakes-hands-with-nikki.jpg"
-        width: 1024
-        height: 674
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "xRxjB4dXV5W4r2UfFJfV4FQz0Jr20HXobfEB+taKkJVsrck+b2jgri8y4ORDkPVoQObzc6gB34hq7QiieKwXIMo2E4E/al8xBxVwQ4mVXATiCqNXe7TH5UQ0QNL4zY0GeucsSb9AYGrGy+8CFfYQRxtRRmduWG4cWotEMeIj1oD70Vxs121jIItvcCBnSIrJcmyy9mJI1WxF6u7FZ0qKch4DsYrAG2pTz+LG3ckJN8j2mjH+/IacoYwgrBXyGFk6vLjnEIlv9dX4Cr8QUxDHFPywYfuSgNCz71L48m09KDjDUT5w5cRJu6IplmciW7tDkBEYdFcKgBcwa7dVULihdgSBt5AWNegKnlV3nujT8HU=;omvANsvaLMocrEQ2dEdxiw=="
 ---
