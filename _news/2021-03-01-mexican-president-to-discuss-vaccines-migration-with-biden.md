@@ -1,20 +1,22 @@
 ---
 category: news
-title: "President Biden to sign executive order on supply chains"
-excerpt: "President Joe Biden is signing an executive order on supply chains Wednesday, part of the administration's efforts to cope with the effects of the coronavirus pandemic. The move comes as Congress continues to consider Biden's Cabinet nominees and the $1."
-publishedDateTime: 2021-02-24T19:16:00Z
-originalUrl: "https://www.cbsnews.com/video/president-biden-to-sign-executive-order-on-supply-chains/"
-webUrl: "https://www.cbsnews.com/video/president-biden-to-sign-executive-order-on-supply-chains/"
+title: "Mexican president to discuss vaccines, migration with Biden"
+excerpt: "Mexican President Andres Manuel Lopez Obrador said he will discuss COVID-19 vaccines and immigration policy when he speaks with his U.S. counterpart Joe Biden later on Monday."
+publishedDateTime: 2021-03-01T13:16:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-mexico-idUSKCN2AT2ME"
+webUrl: "https://www.reuters.com/article/us-usa-mexico-idUSKCN2AT2ME"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AT2ME"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AT2ME"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/24/71b9f6bd-379e-4db7-a998-935ba9d9be78/thumbnail/1200x630/1e805f87a03f7600bffb66235fb54868/cbsn-fusion-president-biden-to-sign-executive-order-on-supply-chains-thumbnail-652931-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210301&t=2&i=1553329180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH201J1"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -540,22 +542,6 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_6fb2cb80d46a48e89678af53f7ef4626_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Mexican president to discuss vaccines, migration with Biden"
-    excerpt: "Mexican President Andres Manuel Lopez Obrador said he will discuss COVID-19 vaccines and immigration policy when he speaks with his U.S. counterpart Joe Biden later on Monday."
-    publishedDateTime: 2021-03-01T13:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-mexico-idUSKCN2AT2ME"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AT2ME"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AT2ME"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210301&t=2&i=1553329180&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH201J1"
-        width: 817
-        height: 545
         isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
@@ -1076,6 +1062,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "President Biden to sign executive order on supply chains"
+    excerpt: "President Joe Biden is signing an executive order on supply chains Wednesday, part of the administration's efforts to cope with the effects of the coronavirus pandemic. The move comes as Congress continues to consider Biden's Cabinet nominees and the $1."
+    publishedDateTime: 2021-02-24T19:16:00Z
+    webUrl: "https://www.cbsnews.com/video/president-biden-to-sign-executive-order-on-supply-chains/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/24/71b9f6bd-379e-4db7-a998-935ba9d9be78/thumbnail/1200x630/1e805f87a03f7600bffb66235fb54868/cbsn-fusion-president-biden-to-sign-executive-order-on-supply-chains-thumbnail-652931-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Eye Opener: House passes Biden's $1.9 trillion COVID-19 relief bill"
     excerpt: "The House passes President Joe Biden's $1.9 trillion coronavirus relief bill despite little Republican support. Also, a panel of experts with the Food and Drug Administration recommended the COVID-19 vaccine from Johnson & Johnson for emergency use authorization."
     publishedDateTime: 2021-02-27T13:44:00Z
@@ -1174,6 +1174,6 @@ related:
         height: 675
         isCached: true
 
-secured: "+CKjAtAYKhYlALYb4Ih9j12IDj9J3n1sGjA82CXhy+sGQenJLa1oap++/B25RHZx5lqxh1vBnrSQBYkWluQYf0Un3FxnQfKgl81Nn7E2895vEzf4TNhUMeQc2X9XJnrbT8X+tTfDT8nL3qHx/FiVlFSjfKGNe8cBXNF48UATNwngkkZVGlIl6ZRn5N4HCVzUE/uzxQTQ6ObMvdjNdM+y4RmadopyEqxuGmzY+QmJYrvJvLtASLmzisxPQwrvRlwnqqSLFveUrwwBCbX3xE9JlnSvS34CFubGXssANI0dxVf1StT8i96H0f1vx081NG4b3L4FZZpFbjqNQKHEgPgCtXQ05Q7bIpsz8wkke1NpKSSwSFH3T0G5XhzNeNmjm1e5RCRlRMSBfkcMzQuaQYEPY426CRVAO2AF0+xx7CJNUij+KA0MmAGMLKDtArS245FSPNcpgOCTzec/3Vcmb31EhJWMD6uECGck3H5Dqbd1edy+EmUb/wtlrLd0iG1FvZjdDHmVXyBFBcsz6pkeXu4wRg==;A9yPhXIIl7Tgm+Fe/sQBbg=="
+secured: "glhaXTU2w+b1cwQtyCCo+Nh2W+fXnYUBlP45gbg0D3bR9K3no3ZCVoEiasH8qX2FrVGNAtKikK+bZVG8H4Fq/R1hBsCwTnZe/KLTVvXmQIA0xvGDTkqzqBCLBdtLvnRJTCRcdJ5J3HYEMnLEs7Wsexx46sPz215Jl/IxAJ02vMXnYlU/cfUxD96Qw1tZHbQ+4/CrJclfhNIM594GP2hHdcB3iZsNiLXwyLvAdxJNQ3UJILUPvKBbVl6HMq4J6TErWCW6Ae0wEYkvU3BLWRldZZ/gxhMrvORnVZtze3Rrg5Mp42WQr+yOqp0uPZQtejI3Rdv+bEHYsWIKk/uEPYaZr/6HAR1Bhr3u1l6uB9d66BU=;QnyrDIDYPdrREa4BAILFdg=="
 ---
 
