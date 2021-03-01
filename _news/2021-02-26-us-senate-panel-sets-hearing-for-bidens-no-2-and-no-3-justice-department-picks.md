@@ -31,21 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Biden CIA nominee Burns to focus on 'authoritarian adversary' China"
-    excerpt: "President Joe Biden's nominee to be director of the CIA, William Burns, told a Senate committee on Wednesday that he saw competition with China - and countering its \"adversarial, predatory\" leadership - as the key to U."
-    publishedDateTime: 2021-02-24T20:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cia-idUSKBN2AO19B"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO19B"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO19B"
+  - title: "Anti-Trump conservatives rally to back Vanita Gupta, Biden’s pick for key Justice Dept. post"
+    excerpt: "The effort is aimed at countering attacks from hard-right conservatives who have portrayed the civil rights attorney as a radical progressive."
+    publishedDateTime: 2021-03-01T17:21:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 129
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WCRZFWTW4QI6XFJXJFQVRTC73E.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Senate committee vote on Biden budget pick Tanden postponed"
+    excerpt: "A Senate committee postponed the Wednesday hearing for President Joe Biden’s pick to lead the Office of Management and Budget, suggesting further challenges for Neera Tanden."
+    publishedDateTime: 2021-02-24T13:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/senate-committee-vote-on-biden-budget-pick-tanden-postponed-idUSKBN2AO1S4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552770877&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N13F"
-        width: 717
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552752404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
+        width: 817
         height: 545
+        isCached: true
+  - title: "Biden revokes Trump orders on ‘anarchist’ cities, restores New York City’s funding"
+    excerpt: "President Joe Biden on Wednesday formally revoked a series of presidential orders and memorandum signed by Donald Trump, including one that sought to cut funding from several cities the 45th president deemed “anarchist” havens and another mandating that federal buildings should be designed in a classical aesthetic."
+    publishedDateTime: 2021-02-25T12:16:00Z
+    webUrl: "https://www.al.com/news/2021/02/biden-revokes-trump-orders-on-anarchist-cities-restores-new-york-citys-funding.html"
+    ampWebUrl: "https://www.al.com/news/2021/02/biden-revokes-trump-orders-on-anarchist-cities-restores-new-york-citys-funding.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/02/biden-revokes-trump-orders-on-anarchist-cities-restores-new-york-citys-funding.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 84
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJAGMVDUCZDAHI6MIHGXAQMAOI.jpg"
+        width: 6000
+        height: 4000
+        isCached: true
+  - title: "Trump To Make First Post-presidency Speech At Conservative Conference"
+    excerpt: "Donald Trump returns to the political spotlight Sunday, determined to regain control of a Republican Party that is out of power and pondering whether the flawed former president can win again in 2024."
+    publishedDateTime: 2021-02-28T14:11:00Z
+    webUrl: "https://www.ibtimes.com/trump-make-first-post-presidency-speech-conservative-conference-3153624"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/28/former-us-president-donald-trump-will-address-cpac.jpg"
+        width: 1024
+        height: 644
         isCached: true
 
 secured: "eh5YH5mmFE0TbqtyoRSalixnWNOXM/0BZ0sYUxPtf2KNkffZWlVM/CTYlTuvzxePNPePlbnE7xDgGbQxLN/KbeKSD6ttKW8xlONwKbtf5Nkf+XEw++0W9lSJ3H8c7e1EnwWaeO+Vrs+/JzCSIg9C0hro+i9a2pxi4KHoE4qEOXSb/B3j2YezwCSblifPqROYSvbFD+NFr0ZaGAgZk0k1k+SgGNnO2fXqtQ/C3g4YFnZnp0tQZeZ1LW9fy97rBqQIyhdb1cPEWCQiC0sN2DlxtQAO+jtQx0hxHs+jYzPelK/I4rlsBw1v6iBR9/cvIQY9wWaNcXsmpGGPR3XpI8KCOGqJ+h59hu2jAkZEnn/VYSA6oX/LA9u6p9J00VfONOOwgaxhiGm+m4RqDBbVQ8+fYws998mnLwDRPJ2kG3yEXsg7RZDXQ0N8pSRDArRuVMLrhy9URm0Qb9nyQTs8Qdyl4MqAQZPuKFrjB4Ftkjy5Y9+3mixEZjLYDehdR4kB/ln9cKrOG6LRwtUpuAZKomJBxQ==;CfWh4m6AEkcaickdxXuDzw=="

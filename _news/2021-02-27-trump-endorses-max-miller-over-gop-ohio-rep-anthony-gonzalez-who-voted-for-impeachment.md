@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
+    excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
+    publishedDateTime: 2021-03-01T18:43:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XXKJAJF5-TY/jane-timken-gonzalez-resign-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump endorses Max Miller in primary against GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment"
     excerpt: "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district."
     publishedDateTime: 2021-02-28T08:15:00Z
@@ -95,6 +111,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
+    excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
+    publishedDateTime: 2021-03-01T18:48:00Z
+    webUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jane-Timken.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "8ZsSpEmRD9YgK8grhLork46C4Mu+n9FPoTj6haHER9lbfoO1BrRU21o4PZ2j4vYkXr56+EQTcRWDt6KzVnH9THu89XZRMfn2crr8E++qhQrh3SAvTGpPskD99fS52YT05WCOjTU7yV4/eXmil0vNbnK7kock7/hX88jzz9KWTO5Y/JbUEzlJIDRkVYBqGt28QtwWPDyEHcxNsJwibqa8nJBMxzRqfrzwkvH4Z12rK53OI0wvhITrzx9NhqGZDayortu1qX8rbTAgeO5/q2WakgdUNTt8UWqcZC7g8sFJgxcgflpqJbb/lWao2BesdB04Sda2sgnyW0DkemcfJh89Ugedc9pLCzPjojBV4QSTh+mjgR+0A2WZR5aRaRXmMcPZk5sr9bF5j9PqFALACOhdWcs5UXoX/eGI/Apg3/A2AiwLX1nfazUd0Wkj51qQGm9scx548GL5YNZkNnpsiI6mpXecEfx/82nYScAKm7ixg708gYJLA8UN+NpJj9llD7AtUHJXkt5fOzYNupL5H06iug==;3AUqDVADJFSEBGuXeIadtw=="

@@ -159,22 +159,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden revokes Trump orders on ‘anarchist’ cities, restores New York City’s funding"
-    excerpt: "President Joe Biden on Wednesday formally revoked a series of presidential orders and memorandum signed by Donald Trump, including one that sought to cut funding from several cities the 45th president deemed “anarchist” havens and another mandating that federal buildings should be designed in a classical aesthetic."
-    publishedDateTime: 2021-02-25T12:16:00Z
-    webUrl: "https://www.al.com/news/2021/02/biden-revokes-trump-orders-on-anarchist-cities-restores-new-york-citys-funding.html"
-    ampWebUrl: "https://www.al.com/news/2021/02/biden-revokes-trump-orders-on-anarchist-cities-restores-new-york-citys-funding.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/02/biden-revokes-trump-orders-on-anarchist-cities-restores-new-york-citys-funding.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 84
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJAGMVDUCZDAHI6MIHGXAQMAOI.jpg"
-        width: 6000
-        height: 4000
-        isCached: true
 
 secured: "KD7d6smBmLVKxf59cwu26bbrhT4BKoDXOr9uDxyG3kwEIn5fjRyEvKZG7tztoRk7pPHQUwpvqBfBfj7srblB15XsFXoD0ZI7XvtM3aiboaPB4Ew4RdKWCertPzeulGYP9YCTLPkXDOg97AlWfNQ3Px7CeTfH93IawWfv8UW7z2UwabwfxIIJHcFh7QdW7CA3hOSa21V6z9ptX6voWsvcSyBk2VWXmygE9X+f7hYtaC9HYTpjOP8K/1+7ehVAlCvB3baGLl/A2e36yMyrOSL8x/r50I5OFQ/fAo84CP54tNw3e8Zg5bjacqJibnsa192hbmXKnLEgd80tpPBB0S/NH87XO27S6FiOXzd79BfBO0o=;co13MrnJk0MD0VLosO0J0g=="
 ---

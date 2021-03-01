@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-02-anti-trump-conservatives-rally-to-back-vanita-gupta-bidens-pick-for-key-justice-dept-post.md",
+      "title": "Anti-Trump conservatives rally to back Vanita Gupta, Biden’s pick for key Justice Dept. post",
+      "excerpt": "The effort is aimed at countering attacks from hard-right conservatives who have portrayed the civil rights attorney as a radical progressive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WCRZFWTW4QI6XFJXJFQVRTC73E.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-01T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-biden-white-house-not-releasing-virtual-visitor-logs-as-watchdogs-call-for-transparency.md",
+      "title": "Biden White House not releasing virtual visitor logs as watchdogs call for transparency",
+      "excerpt": "The Biden administration will not release White House virtual visitor logs, Fox News has confirmed, as watchdog organizations call on President Biden to do so in the name of transparency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hp6NiHdtwcU/biden-transparency-virtual-white-house-visitor-logs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hp6NiHdtwcU/biden-transparency-virtual-white-house-visitor-logs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-transparency-virtual-white-house-visitor-logs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transparency-virtual-white-house-visitor-logs.amp",
+      "publishedDateTime": "2021-03-01T09:18:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-katrina-pierson-trump-presidential-campaign-veteran-moves-toward-congressional-bid-in-texas.md",
       "title": "Katrina Pierson, Trump presidential campaign veteran, moves toward congressional bid in Texas",
       "excerpt": "The field of Republicans running to succeed the late Republican Rep. Ron Wright of Texas is growing. Katrina Pierson, who served as a top adviser on President Trump’s 2016 and 2020 campaigns, is gearing up to launch a campaign, two sources with knowledge of her planning confirmed to Fox News.",
@@ -1245,110 +1353,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-iran-cant-act-with-impunity-biden-says-after-us-air-strikes.md",
-      "title": "Iran 'can't act with impunity,' Biden says after U.S. air strikes",
-      "excerpt": "President Joe Biden said Iran cannot act with impunity and warned Iran to \"be careful\" when asked what message he was sending the country with the U.S. air strikes in Syria.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-iran/iran-cant-act-with-impunity-biden-says-after-u-s-air-strikes-idUSKBN2AQ31W?edition-redirect=in",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-iran/iran-cant-act-with-impunity-biden-says-after-u-s-air-strikes-idUSKBN2AQ31W?edition-redirect=in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1553097487&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1P1LV",
-          "width": 760,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AQ31T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ31T",
-      "publishedDateTime": "2021-02-26T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic.md",
-      "title": "House passes Democrats’ $1.9T virus relief bill, setting stage for Senate fight over Biden vision for battling pandemic",
-      "excerpt": "House passes Democrats’ $1.9T virus relief bill, setting stage for Senate fight over Biden vision for battling pandemic",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-26T23:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     }

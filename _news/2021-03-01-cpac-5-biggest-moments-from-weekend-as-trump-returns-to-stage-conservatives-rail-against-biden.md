@@ -287,6 +287,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden DHS secretary says Trump admin ‘gutted’ immigration system, claims 'no' crisis at border"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas on Monday urged migrants thinking of coming to the United States to \"wait\" as the Biden administration rebuilds a \"gutted\" immigration system -- and claimed there is no crisis at the U.S. southern border."
+    publishedDateTime: 2021-03-01T18:18:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4HTr2vePTXQ/biden-dhs-secretary-trump-admin-gutted-immigration-system"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-secretary-trump-admin-gutted-immigration-system.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-secretary-trump-admin-gutted-immigration-system.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Supreme Court cancels arguments over Trump-era immigration policies at Biden administration's request"
     excerpt: "The Supreme Court on Wednesday agreed to a request by the Biden administration to remove two immigration-related cases from its upcoming calendar because they were no longer necessary due to policy changes by the new administration."
     publishedDateTime: 2021-02-03T15:42:46Z

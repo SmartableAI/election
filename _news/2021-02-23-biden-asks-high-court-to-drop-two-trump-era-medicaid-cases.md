@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-asks-high-court-to-drop-2-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp"
 type: article
 quality: 190
-heat: 1310
+heat: 1330
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e575dda5-88ce-410a-89d1-2e633c078351/84aa2f82-8a71-4b1d-8d63-e3489546f015/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden DHS secretary says Trump admin ‘gutted’ immigration system, claims 'no' crisis at border"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas on Monday urged migrants thinking of coming to the United States to \"wait\" as the Biden administration rebuilds a \"gutted\" immigration system -- and claimed there is no crisis at the U.S. southern border."
+    publishedDateTime: 2021-03-01T18:18:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4HTr2vePTXQ/biden-dhs-secretary-trump-admin-gutted-immigration-system"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-dhs-secretary-trump-admin-gutted-immigration-system.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-secretary-trump-admin-gutted-immigration-system.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "CPAC: 5 biggest moments from weekend as Trump returns to stage, conservatives rail against Biden"
     excerpt: "The Conservative Political Action Conference (CPAC) wrapped on Sunday following an anticipated speech from former President Trump."

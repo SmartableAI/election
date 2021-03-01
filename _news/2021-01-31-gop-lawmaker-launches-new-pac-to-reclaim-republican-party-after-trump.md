@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-f
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/31/politics/adam-kinzinger-country-first-trump/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 515
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 174
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204151431-hawley-greene-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Kinzinger's allies launch super PAC to defend Republicans who impeached Trump"
+    excerpt: "Allies of Illinois GOP Rep. Adam Kinzinger have launched a super PAC to support Republicans in 2022 who stood up to then-President Donald Trump after a mob of his supporters attacked the US Capitol in an effort to overturn the 2020 election.\n    \n"
+    publishedDateTime: 2021-03-01T17:58:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UDD6zQThGKM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/kinzinger-allies-super-pac/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/kinzinger-allies-super-pac/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112182127-rep-adam-kinzinger-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

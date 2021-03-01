@@ -76,6 +76,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Nikki Haley praises Trump’s ‘strong’ CPAC speech after rebuking him weeks earlier"
+    excerpt: "Former ambassador and former South Carolina Gov. Nikki Haley’s latest comments regarding Donald Trump are raising eyebrows."
+    publishedDateTime: 2021-03-01T18:38:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EXQau5fH0j0/nikki-haley-praises-trumps-strong-cpac-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-praises-trumps-strong-cpac-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-praises-trumps-strong-cpac-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "GOP Rep. Adam Kinzinger receives letter from 11 family members disowning him over Trump opposition"
     excerpt: "Rep. Adam Kinzinger, a six-term Republican congressman representing Illinois, received a hand-written letter from 11 family members disowning him over his opposition of former President Donald Trump, Fox News has confirmed."
     publishedDateTime: 2021-02-16T18:47:25Z
@@ -107,6 +123,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/TigerWoodsTrump.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump says he requested 10K National Guard troops at Capitol on day of riot"
+    excerpt: "Former President Trump told Fox News late Sunday that he expressed concern over the crowd size near the Capitol days before the deadly riots last month and personally requested 10,000 National Guard troops be deployed."
+    publishedDateTime: 2021-03-01T18:52:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c055ca10-6fad-441b-9b13-bc9cfa464a1a/21f7f894-6377-4ca8-8101-b98ee68f19ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump vacuum puts local officials in media’s harsh glare"
     excerpt: "Without Trump dominating the news cycle, the media have turned their attention to scandals and controversies like those involving the governor of New York, the governor of California, and a senator fr"

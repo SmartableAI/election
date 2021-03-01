@@ -2,6 +2,105 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-04-maxine-waters-says-trump-should-be-charged-with-premeditated-murder.md",
+      "title": "Maxine Waters says Trump should be charged with 'premeditated murder'",
+      "excerpt": "Democratic Rep. Maxine Waters of California Tuesday said she thinks former President Donald Trump should be charged with \"premeditated murder\" over the deadly riots at the U.S. Capitol on Jan. 6.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ahSL7zuaIsg/maxine-waters-says-trump-should-be-charged-with-premeditated-murder",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ahSL7zuaIsg/maxine-waters-says-trump-should-be-charged-with-premeditated-murder",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41f5f9a2-9772-491d-b8dd-ff4d84121c81/7e2245d5-dbec-4656-ad2f-da3415479f87/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/maxine-waters-says-trump-should-be-charged-with-premeditated-murder.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-says-trump-should-be-charged-with-premeditated-murder.amp",
+      "publishedDateTime": "2021-02-04T00:48:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-04-former-vp-pence-opens-transition-office-in-northern-virginia.md",
+      "title": "Former VP Pence opens transition office in northern Virginia",
+      "excerpt": "Former Vice President Mike Pence has opened a transition office in northern Virginia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2",
+      "originalUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-vp-pence-opens-transition-office-in-northern-virginia-2021-2?amp",
+      "publishedDateTime": "2021-02-03T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-usa-today-column-argues-tom-brady-has-gotten-undeserved-pass-for-supporting-trump-cites-white-privilege.md",
       "title": "USA Today column argues Tom Brady has gotten 'undeserved pass' for supporting Trump, cites 'white privilege'",
       "excerpt": "With Tom Brady days away from playing in his tenth Super Bowl, a USA Today sports columnist has taken aim at the NFL superstar over his past support of former President Donald Trump.",
@@ -1231,105 +1330,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-trump-previews-impeachment-defense-it-wasnt-incitement-it-was-free-speech.md",
-      "title": "Trump Previews Impeachment Defense: It Wasn’t Incitement, It Was Free Speech",
-      "excerpt": "Donald Trump’s lawyers on Tuesday previewed their defense of the ex-president during next week’s impeachment trial, responding to pre-trial brief filed by House managers accusing him of a “grievous betrayal” of his oath of office for inciting last month’s attack on the Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/296/878/25434125e8951267e3143453e27a549073-trump-jan-6.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
-      "publishedDateTime": "2021-02-02T10:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-whistleblower-accuses-former-trump-official-of-abuse-of-authority-for-last-day-deal-with-ice-union.md",
-      "title": "Whistleblower accuses former Trump official of 'abuse of authority' for last day deal with ICE union",
-      "excerpt": "Former senior Department of Homeland Security official Ken Cuccinelli is accused in a new whistleblower complaint of mismanagement, waste and abuse of authority over a deal he signed with a union representing Immigration and Customs Enforcement officers that endorsed President Donald Trump.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZEV6se8mq9Y/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ZEV6se8mq9Y/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190813111158-ken-cuccinelli-presser-uscis-081219-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/02/politics/cuccinelli-whistleblower-complaint-ice-union/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/02/politics/cuccinelli-whistleblower-complaint-ice-union/index.html",
-      "publishedDateTime": "2021-02-02T10:41:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

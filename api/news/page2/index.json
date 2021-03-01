@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-27-iran-cant-act-with-impunity-biden-says-after-us-air-strikes.md",
+      "title": "Iran 'can't act with impunity,' Biden says after U.S. air strikes",
+      "excerpt": "President Joe Biden said Iran cannot act with impunity and warned Iran to \"be careful\" when asked what message he was sending the country with the U.S. air strikes in Syria.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-iran/iran-cant-act-with-impunity-biden-says-after-u-s-air-strikes-idUSKBN2AQ31W?edition-redirect=in",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-iran/iran-cant-act-with-impunity-biden-says-after-u-s-air-strikes-idUSKBN2AQ31W?edition-redirect=in",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1553097487&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1P1LV",
+          "width": 760,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AQ31T",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ31T",
+      "publishedDateTime": "2021-02-26T23:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic.md",
+      "title": "House passes Democrats’ $1.9T virus relief bill, setting stage for Senate fight over Biden vision for battling pandemic",
+      "excerpt": "House passes Democrats’ $1.9T virus relief bill, setting stage for Senate fight over Biden vision for battling pandemic",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-26T23:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-trump-loyalists-spurn-failed-republican-establishment-of-yesteryear.md",
       "title": "Trump Loyalists Spurn ‘Failed Republican Establishment of Yesteryear’",
       "excerpt": "At an annual gathering of conservatives, devotees of Donald J. Trump pledged their fealty to him and issued grave warnings about the political left.",
@@ -183,7 +287,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 246,
+      "heat": 286,
       "tags": null,
       "images": [
         {
@@ -347,7 +451,7 @@
       "originalUrl": "https://www.newsweek.com/donald-trump-jr-suggests-rino-policies-part-what-led-trump-presidency-1572518",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1258,110 +1362,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-nikki-haley-iced-out-of-cpac-after-underestimating-donald-trumps-influence.md",
-      "title": "Nikki Haley Iced Out Of CPAC After Underestimating Donald Trump's Influence",
-      "excerpt": "The former ambassador hasn't been invited to speak, another blow to any presidential ambitions she may harbor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228",
-      "originalUrl": "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/10/us-president-donald-trump-shakes-hands-with-nikki.jpg",
-          "width": 1024,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228?amp=1",
-      "publishedDateTime": "2021-02-25T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-trumps-pardon-of-lil-wayne-said-to-be-the-breaking-point-for-qanon-shaman-in-new-court-documents-filled-with-bizarre-anecdotes.md",
-      "title": "Trump's pardon of Lil Wayne said to be the breaking point for 'QAnon Shaman' in new court documents filled with bizarre anecdotes",
-      "excerpt": "An attorney for Jacob Chansley, the \"QAnon Shaman,\" filed a pretrial release motion Tuesday, weeks after he charged in the Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest",
-      "originalUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/60359633d920880018591ad4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest?amp",
-      "publishedDateTime": "2021-02-25T12:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

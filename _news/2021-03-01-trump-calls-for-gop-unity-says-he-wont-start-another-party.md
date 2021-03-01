@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trumpism will endure in the GOP. Trump may not."
+    excerpt: "It's the former president's approach to politics, not his own candidacy or his policies, which will define the party moving forward."
+    publishedDateTime: 2021-03-01T17:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/01/trumpism-will-endure-gop-trump-may-not/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/01/trumpism-will-endure-gop-trump-may-not/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/01/trumpism-will-endure-gop-trump-may-not/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U6BAWJUC2BCYRLO4BJPPAL2A2M.jpg&w=1440"
+        width: 1440
+        height: 1440
+        isCached: true
   - title: "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4"
     excerpt: "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4."
     publishedDateTime: 2021-02-19T10:21:00Z

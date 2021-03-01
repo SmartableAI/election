@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
 type: article
 quality: 166
-heat: 246
+heat: 286
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
+    excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
+    publishedDateTime: 2021-03-01T18:43:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XXKJAJF5-TY/jane-timken-gonzalez-resign-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump endorses Max Miller over GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment"
     excerpt: "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district."
     publishedDateTime: 2021-02-26T22:48:00Z
@@ -94,6 +110,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
+    excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
+    publishedDateTime: 2021-03-01T18:48:00Z
+    webUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jane-Timken.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "VJeKUCGfVyQiuYxyHeUX9IT7TOteo5dLE2H/WdG4s38wT8unfgwUzEloTducBgV4kHnzmDAAYu5rB6wW1i+BAAnXywpEYqSwqJagZu6KRonmwrFjMNSyqDyEGPZfuyzwbNaQgdx37O8G6GGUih00798Ixt7lz27+EaC8cjb7tz/DHoGqlJ3gUErQQbhyJ40M5NRyoK1I3LadDdr32flZwDiqTHw1Me/9ob4/ug/6QxXzpspn6BUgFzyz+IuqQ0J+WVl+c1Op63Z9+SHTFhQWO42hq0v+CaeEk1fr3b0MyCsNHJHds1uY/v0fdwOmFyrc270j2mo67bUkLsNHafUqzIXf9M5p3uQ0XgOMmmP9oSM=;OXanzkNYWch0OThli6N29g=="
