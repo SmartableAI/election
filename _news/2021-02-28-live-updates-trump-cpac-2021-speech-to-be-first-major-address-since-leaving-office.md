@@ -269,6 +269,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump slams 'establishment' Republicans McConnell, Cheney and others in CPAC speech as some deny GOP civil war"
+    excerpt: "Former President Donald Trump attacked a litany of \"establishment\" Republicans in his Sunday keynote address at the Conservative Political Action Conference (CPAC), even as some in the GOP  continue to deny that there is a civil war within the party. "
+    publishedDateTime: 2021-03-01T00:27:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5A5SuLACz0Q/trump-slams-establishment-republicans-mcconnell-cheney-and-others-in-cpac-speech-as-some-deny-gop-civil-war"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-slams-establishment-republicans-mcconnell-cheney-and-others-in-cpac-speech-as-some-deny-gop-civil-war.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-slams-establishment-republicans-mcconnell-cheney-and-others-in-cpac-speech-as-some-deny-gop-civil-war.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 155
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump to speak at CPAC in first public appearance after leaving office"
     excerpt: "Former President Trump will be a keynote speaker at the Conservative Political Action Conference in Orlando, Fla., a spokesman for the organization confirmed to The Post on Saturday. Trump is"
     publishedDateTime: 2021-02-20T20:42:00Z
@@ -362,6 +378,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-6.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Donald Trump makes keynote speech at CPAC 2021"
+    excerpt: "Former President Donald Trump was greeted with a standing ovation by attendees at Conservative Political Action Conference in Florida on Sunday as he took the stage to deliver his first public"
+    publishedDateTime: 2021-02-28T21:43:00Z
+    webUrl: "https://nypost.com/2021/02/28/former-president-donald-trump-makes-keynote-speech-at-cpac-2021/"
+    ampWebUrl: "https://nypost.com/2021/02/28/former-president-donald-trump-makes-keynote-speech-at-cpac-2021/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/28/former-president-donald-trump-makes-keynote-speech-at-cpac-2021/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/donald-trump-cpac-2021.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

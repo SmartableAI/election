@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-to-claim-he-is-presumptive-20
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-to-claim-he-is-presumptive-2024-nominee-leader-of-gop-in-cpac-speech-report.amp"
 type: article
 quality: 168
-heat: 208
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ted Cruz in CPAC speech says ‘Trump ain’t goin’ anywhere,’ jokes about Cancun controversy"
-    excerpt: "Sen. Ted Cruz says the GOP is the party of the working class and vows that former President Trump will remain a power player in the Republican Party."
-    publishedDateTime: 2021-02-26T17:13:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W421qeGQnHg/cruz-cpac-speech-trump-aint-goin-anywhere"
-    ampWebUrl: "https://www.foxnews.com/politics/cruz-cpac-speech-trump-aint-goin-anywhere.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-cpac-speech-trump-aint-goin-anywhere.amp"
+  - title: "Trump pays tribute to Rush Limbaugh at CPAC speech: 'Irreplaceable'"
+    excerpt: "Former President Donald Trump on Sunday paid tribute to the late radio legend Rush Limbaugh, who was long considered the voice of the conservative movement and who was one of the first high-profile right-wing media personalities to back Trump's first presidential run. "
+    publishedDateTime: 2021-02-28T23:40:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DjJ50ipYLLU/trump-pays-tribute-to-rush-limbaugh-at-cpac-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pays-tribute-to-rush-limbaugh-at-cpac-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pays-tribute-to-rush-limbaugh-at-cpac-speech.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Mitt Romney says Trump would win 2024 GOP nomination if he ran for president again"
-    excerpt: "Senator Mitt Romney said that President Donald Trump would win the GOP nomination “in a landslide” if he decided to make a run for The White House again in 2024. Romney (R –"
-    publishedDateTime: 2021-02-24T09:16:00Z
-    webUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/"
-    ampWebUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 129
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-romney.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "1nM7WIYuMyd5NEqtjZcx2pEea0HgQNwnRYDgFVmibk/HMJ7paXwhN2i0Qhikoxwds6v9ApkOsReAgdltD+Uj+gBnh2UaUUf2deFR+7EiKxhCSH0SulpIiie6dwPowUkE2VzgpgNMj9FV61P8u2rvYCyAWsUQAMFMEi5izbnPm4ukELNyIux1b6pvUsoGDUJhK7az6VUH6ZIUNRiV6R4xReVbu0xLax5tWfmtO2rc20/p/91pH4fXpQl8+xcoKG5tyzg5ylzM63CMadmp5Qlmi5UU1y9dQ/L19KjRgc0dSsxJdS8Z7lQIl0IFBEUHMEU1TKMaUgSuzErYaV7vLOcefUpt5gDKUeA4F6ySfZPbDG8=;oRtJeWaTx4PJ72+jbI7lcg=="

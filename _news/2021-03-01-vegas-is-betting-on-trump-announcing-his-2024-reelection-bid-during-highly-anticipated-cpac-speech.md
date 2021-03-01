@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/vegas-betting-on-trump-declaring-202
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2?amp"
 type: article
 quality: 126
-heat: 266
+heat: 286
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://i.insider.com/60339663bed5c50011a2bc53?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Former President Trump reasserts leadership over the Republican Party at CPAC"
+    excerpt: "Speaking at the Conservative Political Action Conference in Orlando, former President Donald Trump said he wants to unite Republicans and spent time lodging attacks at President Joe Biden. Ed O'Keefe reports on the latest."
+    publishedDateTime: 2021-03-01T00:44:00Z
+    webUrl: "https://www.cbsnews.com/video/former-president-trump-reasserts-leadership-over-the-republican-party-at-cpac/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 102
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/01/ae42e500-12e8-4be1-bf8a-8011dcb2cf14/thumbnail/1200x630/01416eb33d22e0a88aeaf863f7dbfcc9/0228-en-okeefe-655571-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Donald Trump Jr. gives fiery CPAC speech railing against Republicans who opposed his father and snatched 'defeat from the jaws of victory'"
     excerpt: "Trump Jr. ranted about Wyoming Rep. Liz Cheney, saying her \"politics are only slightly less popular than her father is at a quail hunt.\""
