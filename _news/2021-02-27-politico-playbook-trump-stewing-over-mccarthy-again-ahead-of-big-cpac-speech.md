@@ -30,19 +30,51 @@ images:
     isCached: true
 
 related:
-  - title: "Trump Schedules Address Before CPAC Next Sunday"
-    excerpt: "The former president will make his first lengthy remarks since leaving office before the annual conference of conservatives Feb. 28."
-    publishedDateTime: 2021-02-20T23:23:00Z
-    webUrl: "https://www.nytimes.com/2021/02/20/us/politics/trump-cpac.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/20/us/politics/trump-cpac.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/20/us/politics/trump-cpac.amp.html"
+  - title: "Fact check: Trump delivers lie-filled CPAC speech"
+    excerpt: "Former President Donald Trump returned to the public stage on Sunday with a familiar kind of Trump speech -- a speech filled with debunked lies.\n    \n"
+    publishedDateTime: 2021-03-01T03:15:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6OjOpUeNqRo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228165529-02-donald-trump-cpac-0228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump CPAC speech revives 'rigged' election lie, declares political journey 'far from over'"
+    excerpt: "In a speech here Sunday to close out the Conservative Political Action Conference, former President Donald Trump teased his political future and repeated the lie that he won the 2020 election. “I stand before you today to declare that the incredible journey we began together four years ago is far from over,"
+    publishedDateTime: 2021-03-01T00:22:00Z
+    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-cpac-speech-declare-his-political-journey-far-over-n1259093"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1259093"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1259093"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 140
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3453288/210228-donald-trump-cpac-jm-1031_05dfd6ca671e285665ddc9bead624b3c.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "What to Watch For at CPAC: Trump, Cruz, Pompeo and More"
+    excerpt: "Even more than usual, the Conservative Political Action Conference this year will be a barometer for the Republican Party, newly out of power in Washington and trying to chart a way back."
+    publishedDateTime: 2021-02-25T10:08:00Z
+    webUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
     quality: 135
     images:
-      - url: "https://static01.nyt.com/images/2021/02/20/us/politics/20TRUMP2/20TRUMP2-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/25/us/politics/25cpac-guide/25cpac-guide-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true
@@ -59,6 +91,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/26/us/politics/26cpac/26cpac-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump Wins CPAC Straw Poll, with Ron DeSantis Winning a Second One"
+    excerpt: "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential polls: One with a potential field that included Mr. Trump, and one without him."
+    publishedDateTime: 2021-02-28T20:37:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-strawpollHFO-d/28cpac-strawpollHFO-d-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

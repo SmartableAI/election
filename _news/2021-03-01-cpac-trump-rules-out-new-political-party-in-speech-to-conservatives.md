@@ -1,22 +1,22 @@
 ---
 category: news
-title: "CPAC concludes with Trump reemerging post-presidency"
-excerpt: "Former president Donald Trump capped this year’s Conservative Political Action Conference by making his first post-presidential speech on Sunday. The annual event held this weekend evolved from a fractious meeting of Republicans and libertarians into a celebration of the 45th president and the airing of his grievances."
-publishedDateTime: 2021-03-01T02:29:00Z
-originalUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
-webUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
-ampWebUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
+title: "CPAC: Trump rules out new political party in speech to conservatives"
+excerpt: "Donald Trump will give his first speech since leaving office as US president later on Sunday at the Conservative Political Action Conference (CPAC). It comes just weeks after he was acquitted during an impeachment trial which saw some members of his own Republican party vote against him."
+publishedDateTime: 2021-03-01T04:32:00Z
+originalUrl: "https://www.bbc.com/news/world-us-canada-56230998"
+webUrl: "https://www.bbc.com/news/world-us-canada-56230998"
+ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56230998"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56230998"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: BBC
+  domain: bbc.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/18BmmlaIq3p2A34xDUMRRGbm5jI=/arc-anglerfish-washpost-prod-washpost/public/J4T2E4TXX4I6XFEJR562ZVI6OU.jpg"
-    width: 3500
-    height: 2333
+  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B255/production/_117335654_065969666.jpg"
+    width: 1024
+    height: 576
     isCached: true
 
 related:
@@ -95,21 +95,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "CPAC: Trump rules out new political party in speech to conservatives"
-    excerpt: "Donald Trump will give his first speech since leaving office as US president later on Sunday at the Conservative Political Action Conference (CPAC). It comes just weeks after he was acquitted during an impeachment trial which saw some members of his own Republican party vote against him."
-    publishedDateTime: 2021-03-01T04:32:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-56230998"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56230998"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56230998"
+  - title: "CPAC concludes with Trump reemerging post-presidency"
+    excerpt: "Former president Donald Trump capped this year’s Conservative Political Action Conference by making his first post-presidential speech on Sunday. The annual event held this weekend evolved from a fractious meeting of Republicans and libertarians into a celebration of the 45th president and the airing of his grievances."
+    publishedDateTime: 2021-03-01T02:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B255/production/_117335654_065969666.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.washingtonpost.com/resizer/18BmmlaIq3p2A34xDUMRRGbm5jI=/arc-anglerfish-washpost-prod-washpost/public/J4T2E4TXX4I6XFEJR562ZVI6OU.jpg"
+        width: 3500
+        height: 2333
         isCached: true
   - title: "Trump plans to use his CPAC speech as a 'show of force' to exert control over the GOP, report says"
     excerpt: "Trump plans to use his first post-presidency public speech to show what power he still has over the Republican Party, Axios reported."
@@ -190,6 +190,6 @@ related:
         height: 674
         isCached: true
 
-secured: "FmqxA1TDaNN8769kznBjCHixQjdpFzAMxPI+pk/mHIR3NC6IS/8hjsGYGA18jd7OC74pJHvn+qDgaA/e963U/kCl3bU8c30VCgHusjzNs1Ivfd+DeRjW2y7Ke0AF9bDFs6+gnjZW9vQkd7P+MZG9+E5h0GedCeb1T/M0pz0lsP136IIbU4+g+O/LGN80a1zBlXuRidz42CrqrH3Jk8+yqyzRT7gUNY+EGjloSCDG18DOeLJ2rI2m/ndt9m8U4kI0knr2QrU1zsHPkp2i8ZefmqwfxzqEGQIu7DJiY3cZ7bmiJYBdCU5FoIyKP214rDg9MPp6pyS27KWaaxGXLvLGCL8n/T3W/qe3ijM1ZuTDwE4=;8XhGKWraGRGRhawArmhURw=="
+secured: "cFTdRLhCG43NBr+C2Oyh1BZ48w9BiLpmQMXUAuSRhXb+7KjERhuBQTik2zJZf6X9Xw+rhTdGg6nVKJlcPE+sTyUAtJ3BxeEGK5A4QqULL/UjMze8ET2Y8xbhCZIL9lzqRgylfLBfwtwA/WlSg/9MerTfFQKOZEatDP4tYRj1qkeODKqtkjhK1m/Li5dBA8NDIfkRiMypPWeBKnWjx3P7kbgDsrH63TdCp+Zqyr0bcDKJKeCDR1S4jrbuYJp9jvxClLJmplYV/MH7pcq2hYxvn3wkLNkY6dCcAmbBXsFDI0WCvh7G6Pan17iiYo/n6K+QjFBoZMa4RSQMzcPvqSMGEMzJMWLTSpDnYSzONA+u/Go=;n49tj9w2qNfkoYI+86Lbrw=="
 ---
 

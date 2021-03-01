@@ -1,28 +1,32 @@
 ---
 category: news
-title: "Trump to Proclaim Himself as the Future for Republicans in Speech"
-excerpt: "A civil war has erupted within the Republican Party with establishment figures like Senate minority leader Mitch McConnell eager to put Trump in the rear-view mirror and others, l"
-publishedDateTime: 2021-02-28T17:35:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech"
-ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
+title: "Donald Trump hints at run for president in 2024 – video"
+excerpt: "Former US president Donald Trump has hinted at a possible run for president again in 2024 during a speech at the Conservative Political Action Conference [CPAC] in Florida."
+publishedDateTime: 2021-03-01T00:44:00Z
+originalUrl: "https://www.theguardian.com/global/video/2021/mar/01/donald-trump-hints-at-run-for-president-in-2024-video?share=facebook"
+webUrl: "https://www.theguardian.com/global/video/2021/mar/01/donald-trump-hints-at-run-for-president-in-2024-video?share=facebook"
 type: article
-quality: 55
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://i.guim.co.uk/img/media/273b47d4d8dd0d749a4bb4de4da0b1ee1d57e9bd/0_139_3374_2025/master/3374.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a543c13dc8e7dd495bd45a3051168af"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Trump to tell CPAC he is Republican 'presumptive 2024 nominee' – report"
@@ -57,20 +61,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Donald Trump hints at run for president in 2024 – video"
-    excerpt: "Former US president Donald Trump has hinted at a possible run for president again in 2024 during a speech at the Conservative Political Action Conference [CPAC] in Florida."
-    publishedDateTime: 2021-03-01T00:44:00Z
-    webUrl: "https://www.theguardian.com/global/video/2021/mar/01/donald-trump-hints-at-run-for-president-in-2024-video?share=facebook"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/273b47d4d8dd0d749a4bb4de4da0b1ee1d57e9bd/0_139_3374_2025/master/3374.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a543c13dc8e7dd495bd45a3051168af"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Trump, Mr. Potato Head and CPAC: Republicans Show Their Loyalties"
     excerpt: "They railed against \"socialist\" Democrats and \"cancel culture,\" and wrung their hands over whether Mr. Potato Head would lose his gender identity. They laughed along with Sen. Ted Cruz when the Texas lawmaker joked about his much-derided trip to Cancun during a water and power crisis in his home state."
     publishedDateTime: 2021-02-26T22:19:00Z
@@ -82,7 +72,18 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Trump to Proclaim Himself as the Future for Republicans in Speech"
+    excerpt: "A civil war has erupted within the Republican Party with establishment figures like Senate minority leader Mitch McConnell eager to put Trump in the rear-view mirror and others, l"
+    publishedDateTime: 2021-02-28T17:35:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-02-28/trump-to-proclaim-himself-as-the-future-for-republicans-in-speech?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
-secured: "PkDEWKZWeJZsGqipXDZ9Ad7S5hHUZHHi8nopu5vQTyBqRrCTRhOtAZQpOwEle/34E5BnRiiBNBlxqoPypX1oyNqU48hzL7eO5BEIRTRUu6iE2QUOdNN3POyYAiz+mD0bbP2Fm3vRWtNmL5vl47qQNmtqcrKSTL2py9DP0bMHOoEbyRBI75uTn6d4vX+Z0Fog9c+1QVdPQNotRDoVTKiJCOytGmb0N58BB1yXpjmXVN7euVXwX7Dwkga9Lcq1hvLG/nm8pYfpv+Zz/EqCL6URFGwjMFPdNozAx5xuSIFLbS21vv9CN7t8/mjIiCLf2rZuaLnln6zTJfh/0W7j0H87x5VgNEZbUT9wB4bEwzTdyXQ=;XiRQND8fP61VT3NwMag02g=="
+secured: "bsf++Xn4mY2tsWCnlc/Mj2q1hArgPPItbu7N3iznh3Ar4ZL3Sv+vImg8cxQtwuG1fAsiQNymuxIEgvCAQ9TpMhYyii3IHACCX1tAY8aiXlZnBQxtAXmYiDgbqjqyWNuDSSb6kanh8+ZJ9lGKChcEavzVBqG6CpbwVkQJLmT26xLEBA3VvmcgYGoGU37lG/3YGIm1pmCAG+Ixpm/gYh93jeYcDIBEmTVIOHdGdSYE+BCvXHIQu9WOqfPKDW6u4SvSAbs9yb6vj8nu3gcbAt/fOCnTjmGcwMnW6nJSi0lc2FxWN6zG8aDVUnLh9CoDbnE1VfL9e/xJSLpwypDvFW1KbonI+ir5PSKbQY6dL6JIXQg=;rT2YiIVMgm+OhB08Vb7oKA=="
 ---
 

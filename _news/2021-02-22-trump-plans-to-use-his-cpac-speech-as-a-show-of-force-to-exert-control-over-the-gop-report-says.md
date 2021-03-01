@@ -111,6 +111,22 @@ related:
         width: 3500
         height: 2333
         isCached: true
+  - title: "CPAC: Trump rules out new political party in speech to conservatives"
+    excerpt: "Donald Trump will give his first speech since leaving office as US president later on Sunday at the Conservative Political Action Conference (CPAC). It comes just weeks after he was acquitted during an impeachment trial which saw some members of his own Republican party vote against him."
+    publishedDateTime: 2021-03-01T04:32:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56230998"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56230998"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56230998"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 125
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/B255/production/_117335654_065969666.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "Former President Trump reasserts leadership over the Republican Party at CPAC"
     excerpt: "Speaking at the Conservative Political Action Conference in Orlando, former President Donald Trump said he wants to unite Republicans and spent time lodging attacks at President Joe Biden. Ed O'Keefe reports on the latest."
     publishedDateTime: 2021-03-01T00:44:00Z

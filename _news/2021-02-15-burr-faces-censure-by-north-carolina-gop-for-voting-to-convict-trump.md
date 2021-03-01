@@ -471,6 +471,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump Targets Republicans Who Supported His Impeachment"
+    excerpt: "Former President Donald J. Trump told the Conservative Political Action Conference on Sunday that he would not form a new party, then called for ousting Republicans who had backed his second impeachment."
+    publishedDateTime: 2021-03-01T03:33:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007629038/trump-cpac-speech.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-trump0/28cpac-trump0-facebookJumbo-v2.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "T9bEYSk4oEezL46xROs5ykwtrHVzNyjKBNWt0X35HmzqZYMfgbeu7EAx0CwvTXxZFnhzAf8LRYdH4BvDBQmGLWEmPtsjmKztt5zzEmfHdD26cEpojOCM7EO8DgjPckK09mSaYR9TpV9V5F/VIKMouRWIZ06qOWWlBmVimswXxr6Y7mbl+jgxj/xtdLlKJcRX+KaE4Tlb3ZcZ86Yd2Nix5DffvFVJX0/wKKCeLKM13hgR1NUnF/XMJqPPWUu/5yhcfojpRmOqIJcawAfXR/0zGUbDtV8n3F4dD2uVmFGwYbLgg1HqDhn4sBohysjlaN+BUEr4FoTY4S8MPuRZ9RyRrhCOAR6dI7uDfRPZfWPcfqc=;5MenFEuOodAjWigDk99Hog=="
 ---

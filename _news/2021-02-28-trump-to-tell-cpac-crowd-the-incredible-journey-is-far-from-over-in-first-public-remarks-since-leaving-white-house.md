@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/trump-cpac-speech-2021/i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/trump-cpac-speech-2021/index.html"
 type: article
 quality: 151
-heat: 191
+heat: 151
 published: true
 
 provider:
@@ -29,40 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Trump CPAC speech revives 'rigged' election lie, declares political journey 'far from over'"
-    excerpt: "In a speech here Sunday to close out the Conservative Political Action Conference, former President Donald Trump teased his political future and repeated the lie that he won the 2020 election. “I stand before you today to declare that the incredible journey we began together four years ago is far from over,"
-    publishedDateTime: 2021-03-01T00:22:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-cpac-speech-declare-his-political-journey-far-over-n1259093"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1259093"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1259093"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 140
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3453288/210228-donald-trump-cpac-jm-1031_05dfd6ca671e285665ddc9bead624b3c.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "What to Watch For at CPAC: Trump, Cruz, Pompeo and More"
-    excerpt: "Even more than usual, the Conservative Political Action Conference this year will be a barometer for the Republican Party, newly out of power in Washington and trying to chart a way back."
-    publishedDateTime: 2021-02-25T10:08:00Z
-    webUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/25/us/politics/25cpac-guide/25cpac-guide-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
 
 secured: "5qsFzKG8hILGrERLCKyVJVFrJYqppCdnmUhG50StT4nEU6AJDM+WHBUE/X507Hu5CNpzgcSk1XLZNqSD3cYB37l7WxuUQBEvst1yZfFmEAsP3KCLpi+hMtjxqYux4r4MZO+yfuMwJLWe6qIPM4xqlwnPJV85DIOB2rrTa/8mUqKuev2NDqMofpkwJZ9Ykfr2DI63qoz7HiXnT/jOgJPBllZlASV6F6aNLTKAvWZBfHxLVP5H5pkBOSmfMpQZzIwzgi5D4NlsfCY/bbP5fwBVgdgTreBdahOTD0eBScE2igYBsiYjlz6ARUqb9h5HIEcQRTj1VM8NgusV2r9heK/ztGYIOmfmeEGxYF+m/Wkth9Y=;rxqjkjsT8/L9UHZ0G7EjTA=="
 ---

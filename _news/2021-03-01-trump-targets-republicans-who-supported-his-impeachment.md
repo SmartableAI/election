@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Burr censured by North Carolina GOP for voting to convict Trump"
-excerpt: "The North Carolina Republican Party will meet Monday to vote on whether to censure Sen. Richard Burr for his vote to convict former President Donald Trump during his second impeachment trial -- a move that would make him the latest GOP senator to be reprimanded by his state party for siding with Democrats"
-publishedDateTime: 2021-02-16T02:15:30Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
+title: "Trump Targets Republicans Who Supported His Impeachment"
+excerpt: "Former President Donald J. Trump told the Conservative Political Action Conference on Sunday that he would not form a new party, then called for ousting Republicans who had backed his second impeachment."
+publishedDateTime: 2021-03-01T03:33:00Z
+originalUrl: "https://www.nytimes.com/video/us/politics/100000007629038/trump-cpac-speech.html"
+webUrl: "https://www.nytimes.com/video/us/politics/100000007629038/trump-cpac-speech.html"
 type: article
-quality: 175
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/200320161313-01-richard-burr-file-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-trump0/28cpac-trump0-facebookJumbo-v2.jpg?video-overlay"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -82,6 +81,22 @@ related:
   - title: "Burr faces censure by North Carolina GOP for voting to convict Trump"
     excerpt: "The North Carolina Republican Party will meet Monday to vote on whether to censure Sen. Richard Burr for his vote to convict former President Donald Trump during his second impeachment trial -- a move that would make him the latest GOP senator to be reprimanded by his state party for siding with Democrats"
     publishedDateTime: 2021-02-15T12:35:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200320161313-01-richard-burr-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Burr censured by North Carolina GOP for voting to convict Trump"
+    excerpt: "The North Carolina Republican Party will meet Monday to vote on whether to censure Sen. Richard Burr for his vote to convict former President Donald Trump during his second impeachment trial -- a move that would make him the latest GOP senator to be reprimanded by his state party for siding with Democrats"
+    publishedDateTime: 2021-02-16T02:15:30Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rljBjo1-TfU/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/richard-burr-north-carolina-gop-censure-impeachment/index.html"
@@ -471,21 +486,7 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump Targets Republicans Who Supported His Impeachment"
-    excerpt: "Former President Donald J. Trump told the Conservative Political Action Conference on Sunday that he would not form a new party, then called for ousting Republicans who had backed his second impeachment."
-    publishedDateTime: 2021-03-01T03:33:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007629038/trump-cpac-speech.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-trump0/28cpac-trump0-facebookJumbo-v2.jpg?video-overlay"
-        width: 1050
-        height: 550
-        isCached: true
 
-secured: "MZtDVskC4TJAWaMQRKVAWez7f2psDSO6tPxfmgdAHrHqrRwtfLFg0HEnArIf9KXnDdeizvn1jlos6ntawCVGY2+RlRahUq4WnFXvPVRLUjGzpz/Xp6MrzHKe0MzoAJqvg+FpR9RRhG0De8H+0l1AgBCSxBXWTDIjLF3iKfq12lKBRUHF3+Ea1bmfq4p7m6evFtUQSpYC7FLhfzBqrOhwDUFK3tIodZY020GnZzChU5LZPOidhN00N+h0fuLed2Y9qwgLCfAJnylQA2YOJxxW1D6kkxtMRErTZDQrmNaN0p4YnqnL9SbL6uIy6lvqQ6nkXvQIF7Hww9u0plpmreSQ1eNZo4WHQFbCjNDVt6K4ByQ=;IJhqqGHV5taM0pZwz3sLtQ=="
+secured: "J6GwtfPpEn3o+e4ZCKhgefQqWNn64XuhOUFQZ1CJ5wYFj7vcIUBg8FXCG9kThf957vXE8D1q8W8elUaS6wUhGAirP+hgTPA/8UQLEEuz+5svIONwi0G7JM4qvul+5YDuGi1QsAMzjtBkK67U2kt9cc05x/U24IHA0/oSH4jvmiI8ZVLVVvz65j9Rpl86X5G6MXgQtHhdzD7ZCfoHf1fyYR93Hq5q929pkfhKsu0oW92AxmIw+8UPJ6AxghncUdtUObs0moLM5SRjd0hQMRYCgMY50h46Y2Z1KKTP1idgzAhikr+i1KvNp0CwvHsmgzzDfSAXSF5mD44b4Zp6bKtxuKCOSvw22MNvOCTTTDdj+oM=;DgyV/0d2+k5YE/n6c9PB3g=="
 ---
 

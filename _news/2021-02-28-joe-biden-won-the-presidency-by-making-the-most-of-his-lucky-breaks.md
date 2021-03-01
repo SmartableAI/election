@@ -1,22 +1,22 @@
 ---
 category: news
-title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
-excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
-publishedDateTime: 2021-02-19T00:55:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/white-house-texas-outages-show-u-s-unprepared-climate-change/4493117001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/white-house-texas-outages-show-u-s-unprepared-climate-change/4493117001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4493117001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4493117001"
+title: "Joe Biden won the presidency by making the most of his lucky breaks"
+excerpt: "Lucky: How Joe Biden Barely Won the Presidency’ by Jonathan Allen and Amie Parnes is an inside account of the 2020 campaign."
+publishedDateTime: 2021-02-28T13:12:00Z
+originalUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/"
+webUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/"
+ampWebUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
 type: article
-quality: 104
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/c2f51ce6-96e7-4bd4-bb82-6a1b9bc188e4-AP21047602785302.jpg?auto=webp&crop=3298,1856,x0,y115&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NCU2Z6HDLII6VAWYLZK5I7UQZI.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -94,22 +94,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_41820955cdf04ada9a78e7b519b74e4c_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Joe Biden won the presidency by making the most of his lucky breaks"
-    excerpt: "Lucky: How Joe Biden Barely Won the Presidency’ by Jonathan Allen and Amie Parnes is an inside account of the 2020 campaign."
-    publishedDateTime: 2021-02-28T13:12:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NCU2Z6HDLII6VAWYLZK5I7UQZI.jpg&w=1440"
-        width: 1440
-        height: 960
         isCached: true
   - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
     excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."
@@ -306,6 +290,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
+    excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
+    publishedDateTime: 2021-02-19T00:55:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/white-house-texas-outages-show-u-s-unprepared-climate-change/4493117001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4493117001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4493117001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 104
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/18/USAT/c2f51ce6-96e7-4bd4-bb82-6a1b9bc188e4-AP21047602785302.jpg?auto=webp&crop=3298,1856,x0,y115&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Eight auto state governors urge Biden to press semiconductor firms on chip shortage"
     excerpt: "A bipartisan group of eight governors from U.S. auto states on Friday urged President Joe Biden to do more to press semiconductor firms to address a global shortage of automotive chips that has cut some vehicle production."
     publishedDateTime: 2021-02-26T18:14:00Z
@@ -318,6 +318,6 @@ related:
       domain: businessinsider.com
     quality: 99
 
-secured: "b2MVVreiwYcFx64DAedSRqNfpGCTOQDBQDvg2+XujSGwMupW0Zu/YPKWsV+JdPhB5AnYGGEGTH0i32PKQkPeOo8iMSbxet2OBCO1Qck9IqfvXnTPH3x+YcuvGiGEYz3FtYTCDwt/kjn2fPQvYc0hLYSgs6aw9sVN/0f7F4Q/CiwXKGDmJp9MlCcKGsemHzIyJrwPJej18kL6PJ5wPrMvQjzZI3MQdQD2kBvDq2bxx3I7BVnFFiUraWSSYVTC+RiHhAoc3Sg7IaFojG+qIBFlgseaOzqiW+l6f9vFiVSziboIaHMuxDRcMWwz5DcXrwQVph/B4C65eJJRtcoTPS6BoRXSnuzPEU/B/PxcK6yzXdyLRmkL0zC9Oha3ywfCWRDZPRXuBt/fp5bEtrXubWKsJX/gzlUPp5sS81UuyN+eYy7+RJ3G1pfecGQNAE3V/rGFOk3cJgtls1m3kGVFB4wbyf9FKqRcOEPG5LPVlmlIG4ySB2CPG2RR01R8koMbIsWoBD5WYaNJY/v0kEaTj2J+DQ==;SByfLXUDz3i74IKqw0cvJA=="
+secured: "267+b3qyMjV/AQg3Cpo6I3nCYspsQVoFucNPtC9RCMx4xaK/if5g4Z3kPFsz4EEd3xQ3MOhWv3Saq1Q8+2diRR/2pDv0pqvX1apqfHUlgU9ufxwXQACa/II+2xG2KeF7uPJE8G9UjK0qJla7TO6YK554eQKUg0zfwxBLvetojhdM6vv8KOVOE8Qy3y4YtFA8g1mRvcawkHtDrF65zdHlzTDQd6gvrzNBvPZIN2czcVoAnETpNSYfaRnLEvmgbRIpaX+NSTD9yo1yCRRH3AZoD7N8d1QHI7Lv8lxVEydUXRkpezFeLZNncK4CezLsoqFoMQove5dCXn4h51ZZ0K267yQH0rtSbE+O/T566qZhceo=;sa3KFG7no3dssdO2E1bBuQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-ree
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/21/politics/asa-hutchinson-trump-reelection-2024-cnntv/index.html"
 type: article
 quality: 188
-heat: 748
+heat: 768
 published: true
 
 provider:
@@ -470,6 +470,20 @@ related:
       - url: "https://static.politico.com/ab/fb/c726072a4ee7b8e3826bb5634c7d/gettyimages-1257244767-c.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Trump Targets Republicans Who Supported His Impeachment"
+    excerpt: "Former President Donald J. Trump told the Conservative Political Action Conference on Sunday that he would not form a new party, then called for ousting Republicans who had backed his second impeachment."
+    publishedDateTime: 2021-03-01T03:33:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007629038/trump-cpac-speech.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-trump0/28cpac-trump0-facebookJumbo-v2.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "nkWLd+I9UCpZLIhW0B4Szy0jQBupHEV1Yx2Qeo0shAiVP8N9q5QQZBs9dHdlfRz638gKpiQ5kj17ElY1T55AOOkbhNBvqXEkV4zNtySydpOgPOupBfHQrq9rXWelLZvS6tTsXUyawyz8d6tAIwk0oSGPMjmwNFyZpYkYZmvQw7u22FgiFyYhixm1jBaFgU1+i+PWjkRSQWMEf0csYyphjPhIkW+RcZc7jR5E/soZBwNK0+EeqZnMwnJLQB+9wSUGOsi8XmbicdliY9XVdx4T5thGNPGtS1OwF1oaypoa0bjNVsdHV4FN4fW0FY6v912vSqEf+/cCTDNb+XW95QaT4wxedixRhjyZz/eCKUX1Rzk=;2GhINLIpHT03LFmbymbvTA=="
