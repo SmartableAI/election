@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "CPAC concludes with Trump reemerging post-presidency"
+    excerpt: "Former president Donald Trump capped this year’s Conservative Political Action Conference by making his first post-presidential speech on Sunday. The annual event held this weekend evolved from a fractious meeting of Republicans and libertarians into a celebration of the 45th president and the airing of his grievances."
+    publishedDateTime: 2021-03-01T02:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/18BmmlaIq3p2A34xDUMRRGbm5jI=/arc-anglerfish-washpost-prod-washpost/public/J4T2E4TXX4I6XFEJR562ZVI6OU.jpg"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "Trump plans to use his CPAC speech as a 'show of force' to exert control over the GOP, report says"
     excerpt: "Trump plans to use his first post-presidency public speech to show what power he still has over the Republican Party, Axios reported."
     publishedDateTime: 2021-02-22T13:36:00Z

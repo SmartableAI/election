@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "6 takeaways from the Trump-dominated CPAC"
+    excerpt: "Former President Donald Trump turned the Conservative Political Action Conference into his first post-presidential rally Sunday evening, pledging in a speech riddled with falsehoods to purge his enemies from the Republican Party and hinting repeatedly at another run for the White House in 2024.\n    \n"
+    publishedDateTime: 2021-03-01T02:03:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z82kXiicduk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/cpac-2021-takeaways-sunday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/cpac-2021-takeaways-sunday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228203004-restricted-04-donald-trump-cpac-0228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Late Night Laughs Off Mike Pence’s Renewed Loyalty to Trump"
     excerpt: "I don’t know where the line is between forgiving and being a doormat, but Mike Pence crossed it a long time ago,” Trevor Noah said."
     publishedDateTime: 2021-02-25T06:43:00Z

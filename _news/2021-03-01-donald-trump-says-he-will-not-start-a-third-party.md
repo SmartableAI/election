@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump called McConnell a ‘hack.’ But McConnell says he would ‘absolutely’ back him if he wins 2024 nomination."
-excerpt: "McConnell said in a Fox News interview that he would support Trump, despite slamming the former president for his incitement of the Capitol riot."
-publishedDateTime: 2021-02-26T10:21:00Z
-originalUrl: "https://www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/"
-webUrl: "https://www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/"
-ampWebUrl: "https://www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/?outputType=amp"
+title: "Donald Trump says he will not start a third party"
+excerpt: "President Donald Trump calls for Republican Party unity in a speech at a conservative political conference. Tries to cement his status as the party’s undisputed leader (Mar. 1)"
+publishedDateTime: 2021-03-01T01:14:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/01/donald-trump-says-he-not-start-third-party/6864626002/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/01/donald-trump-says-he-not-start-third-party/6864626002/"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X5LE4SLBIVGJHKWNSG6XY2VFWA.jpg&w=1440"
-    width: 1440
-    height: 788
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/591844ce-5d5e-482b-9a60-9a86ceb8f2cd_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -63,19 +61,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Donald Trump says he will not start a third party"
-    excerpt: "President Donald Trump calls for Republican Party unity in a speech at a conservative political conference. Tries to cement his status as the party’s undisputed leader (Mar. 1)"
-    publishedDateTime: 2021-03-01T01:14:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/01/donald-trump-says-he-not-start-third-party/6864626002/"
+  - title: "Trump called McConnell a ‘hack.’ But McConnell says he would ‘absolutely’ back him if he wins 2024 nomination."
+    excerpt: "McConnell said in a Fox News interview that he would support Trump, despite slamming the former president for his incitement of the Capitol riot."
+    publishedDateTime: 2021-02-26T10:21:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/02/26/mcconnell-support-trump-president-2024/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/591844ce-5d5e-482b-9a60-9a86ceb8f2cd_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X5LE4SLBIVGJHKWNSG6XY2VFWA.jpg&w=1440"
+        width: 1440
+        height: 788
         isCached: true
   - title: "McConnell says he would vote for Trump again days after accusing him of being 'practically and morally responsible' for the insurrection"
     excerpt: "McConnell told Fox News' Bret Baier that he would \"absolutely\" back Trump if he won the 2024 Republican nomination."
@@ -94,6 +94,6 @@ related:
         height: 600
         isCached: true
 
-secured: "4kkQRb35gYrmuSN0p1T4kzWIyRCqTb28zjBrAXlTQJYmWZn3Ry0vYkS+9Tk8rKg5sZN1Mk61SzA10L1k1hKQTKYGDZwOYC8inqH+G9IIfwhz0em+PMNTmlcNqsM2hSN6Zw92djsGyvf0jG6wbECVoUe842DI7n2Go0tgExvJICb6sJjzIoxC09gE0AdR53cH3BW+bQEad9IM/tW5fcnOYvnN/ryWhnLvDzlBfYlHmdOmrT7al7IVBCeDOJQB4n+3MP4qG3nvtn7K8FuNj2aBPHB5EW1wp4jamuyjDpkrewx8OjlYui85coD9WNnt8vBVf/R/W9mWDA6y94mto15SptIFgyq/KwPy78ERrSVQQTNeC1y5BkR4MvvmQkhzgzmCcFU35Ko9z7x3zR/xjdh5dPsQ+fwsvTYPiq/gygb3rlo9I4LcJUC0lRXcRwDMEa3qG09nAMK9/7Ip2oS9WPFdsYafMReG7XMuOqP1Liy/ID7DpIlpyYZtr4z6pKr7JWEr6Jwp5OYguIkvuh5MsL3mBQ==;g9LGP+zwjSV6lkQyPquEXg=="
+secured: "4SDRfQhuUlJWviYqgsmmdyI1CGJ6uBBn/ZPJozqZT7cCT6TFs/Q8ck82ZgXRYP0G7FWbf91xD0IuwgXsmbJDT8e2KzehTK3F0Vn78fSyCLiYn4ofWECAjDTA7pFyW+GiOSL+l1S1DoaN9wQJG+CuLAq6hYoeGXzfG7bhS2h/qv0SStBJN48TsAIzODCYrLUKvZylvD1w71M7Ijngi1i3goGDPR9QqdlzoK6Z7PJh1jeML8p29Bi0BcZWLmU9zrNi3Z/c0pfTaO8k52m0igsJrDCh+Nt2zJbVNdArFr503EC3TvbHsVlQZyOtdDV8XiY5Idvqj6sWhVtmFbiD7+uHUxX0gRQNCNN5kCt9KmKD7cc=;7xnxaIGsYTQdiwsq+MJ2iw=="
 ---
 

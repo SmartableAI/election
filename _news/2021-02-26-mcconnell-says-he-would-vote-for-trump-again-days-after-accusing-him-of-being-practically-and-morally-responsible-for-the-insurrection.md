@@ -79,6 +79,20 @@ related:
         width: 1440
         height: 788
         isCached: true
+  - title: "Donald Trump says he will not start a third party"
+    excerpt: "President Donald Trump calls for Republican Party unity in a speech at a conservative political conference. Tries to cement his status as the party’s undisputed leader (Mar. 1)"
+    publishedDateTime: 2021-03-01T01:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/01/donald-trump-says-he-not-start-third-party/6864626002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/591844ce-5d5e-482b-9a60-9a86ceb8f2cd_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "a48O5KswXjU6daVIzYERv+6DN+XJNLjUUxsctZRy4I8GYbcmRhUXsR/b1Rd6Tv90Z+Sr1JsYp1Ys2xaKEb6iwiHc+gzJ3bx/XW3xlC74zx2Thsj5zCGv5+RirDoQ7Omb/HExh22v9jpxAXTW9qVMAfHdU0lV8ABTaYcQDZV9+GfYiINQ/cDexg/zkeRGC/awLbFYBb307YR00BXWxtvhI6/oyrrNWbEWrB0kVJA8tf3A1uovVxk2xDfrYOiXZgTclUZT1oLTApBbgiiQfRChVjIwqtU76oX67s57vJp2HoeyWUxupVtrpDZ8u7EpUyvf5q+oDxIB6u4nzO8ANqIu8g2yc82JPBtIHNuPSOh4mCc=;1kn9JRu+ZSPpyj9VRSobIg=="
 ---

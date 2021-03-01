@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Vaccine, Stimulus, Trump: Your Weekend Briefing"
-excerpt: "Here are the week’s top stories, and a look ahead. 1. A third Covid-19 vaccine has been approved. The Food and Drug Administration authorized Johnson & Johnson’s one-shot vaccine for emergency use on Saturday,"
-publishedDateTime: 2021-02-28T11:20:00Z
-originalUrl: "https://www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.html"
-webUrl: "https://www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.html"
-ampWebUrl: "https://www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.amp.html"
+title: "6 takeaways from the Trump-dominated CPAC"
+excerpt: "Former President Donald Trump turned the Conservative Political Action Conference into his first post-presidential rally Sunday evening, pledging in a speech riddled with falsehoods to purge his enemies from the Republican Party and hinting repeatedly at another run for the White House in 2024.\n    \n"
+publishedDateTime: 2021-03-01T02:03:03Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z82kXiicduk/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z82kXiicduk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/cpac-2021-takeaways-sunday/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/cpac-2021-takeaways-sunday/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/02/28/lens/28weekend-briefing-promo/28weekend-briefing-vaccine-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228203004-restricted-04-donald-trump-cpac-0228-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -109,22 +108,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174740-106-trump-impeachment-centered-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "6 takeaways from the Trump-dominated CPAC"
-    excerpt: "Former President Donald Trump turned the Conservative Political Action Conference into his first post-presidential rally Sunday evening, pledging in a speech riddled with falsehoods to purge his enemies from the Republican Party and hinting repeatedly at another run for the White House in 2024.\n    \n"
-    publishedDateTime: 2021-03-01T02:03:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z82kXiicduk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/cpac-2021-takeaways-sunday/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/cpac-2021-takeaways-sunday/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228203004-restricted-04-donald-trump-cpac-0228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -272,6 +255,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Vaccine, Stimulus, Trump: Your Weekend Briefing"
+    excerpt: "Here are the week’s top stories, and a look ahead. 1. A third Covid-19 vaccine has been approved. The Food and Drug Administration authorized Johnson & Johnson’s one-shot vaccine for emergency use on Saturday,"
+    publishedDateTime: 2021-02-28T11:20:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/lens/28weekend-briefing-promo/28weekend-briefing-vaccine-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "CPAC Starts Tomorrow and Trump Is Still Center of the Republican Universe"
     excerpt: "Things have been quiet on the Republican front since President Donald Trump left the White House five weeks ago. With Democrats pushing to deliver a widely popular economic-relief package and accelerate the circulation of coronavirus vaccines,"
     publishedDateTime: 2021-02-26T00:02:00Z
@@ -333,6 +332,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Wmgvv5IfYNAeN3nNbvc6HiZCwnaf/E2fHrLSr3BdmFkoZWgPr2IuMq0NXEqgLm4h7uc6nNKSg/UNv8geHOMpxlGOhwOLAKw0xCSwb3JHvNUffCa1A8cbw/jvxj2lGB09TvTQbDZlco/w65134Sj2HDmrVPxDgDwRzVxHpGuDnxrhx4ZAPlTE2U0ylEW52vdtFldFgVxxt/58jyJfYyiBLZ0871NeC5Gox6d8UhnhxWfpK7Wy+XbpYh1l/7UISmBrVvQFAZT+4wCw524W/CHsNMqOZ4YukxtVBDD/hfWpZmaops4FLY/R37ycrynbHNlBE28toh7xRbB4akka8qXIOTcQC/d0JGaruGvq+pTa7cU=;nhPT6lJ+8AGPVIC4fozgVw=="
+secured: "7Elv42GhQ9/TVait4QbDXol+47ZMIz2l76RCOceMQLzZk2+shvmNeaZxsxwUwB0tnokIX43QXwiNFRC7AwJVCFvm3So+G0BRgqTxhTjeq0FWBGOuoL8q/3Sxwc5sPrsHoQwjDLu+b2Lar/W4jvIhZ6eSVJK1Z9/J94bJc3h3PBz2L3fzLRUqArQVJlfCvpMDhBOOdMg588zW3xEbalGb2PzCVLpOmvqCmFutZzH1PXu1kkfldeWmvClFOgScyjhl6XaBpEsKKOdplc1+68Ck8kbXBhQ9K2oTBAuG/e7nxiIYvjDaXS7l14CvTaSc8MN0n+Fxaa4XOcFkXg/hmR2beED0ZEknDexFJaJZj55y1+8=;iJhomXcwCBhlkNr04WgctA=="
 ---
 

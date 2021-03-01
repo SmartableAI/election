@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-pays-tribute-to-rush-limbaugh
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pays-tribute-to-rush-limbaugh-at-cpac-speech.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 168
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/640/320/donald-trump-melania6.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump pays tribute to Rush Limbaugh at CPAC speech: 'Irreplaceable'"
+    excerpt: "Former President Donald Trump on Sunday paid tribute to the late radio legend Rush Limbaugh, who was long considered the voice of the conservative movement and who was one of the first high-profile right-wing media personalities to back Trump's first presidential run."
+    publishedDateTime: 2021-03-01T02:12:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-pays-tribute-to-rush-limbaugh-at-cpac-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-pays-tribute-to-rush-limbaugh-at-cpac-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pays-tribute-to-rush-limbaugh-at-cpac-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SS-4.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

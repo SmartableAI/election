@@ -95,6 +95,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "CPAC concludes with Trump reemerging post-presidency"
+    excerpt: "Former president Donald Trump capped this year’s Conservative Political Action Conference by making his first post-presidential speech on Sunday. The annual event held this weekend evolved from a fractious meeting of Republicans and libertarians into a celebration of the 45th president and the airing of his grievances."
+    publishedDateTime: 2021-03-01T02:29:00Z
+    webUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/interactive/2021/trump-cpac-florida/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/18BmmlaIq3p2A34xDUMRRGbm5jI=/arc-anglerfish-washpost-prod-washpost/public/J4T2E4TXX4I6XFEJR562ZVI6OU.jpg"
+        width: 3500
+        height: 2333
+        isCached: true
   - title: "Former President Trump reasserts leadership over the Republican Party at CPAC"
     excerpt: "Speaking at the Conservative Political Action Conference in Orlando, former President Donald Trump said he wants to unite Republicans and spent time lodging attacks at President Joe Biden. Ed O'Keefe reports on the latest."
     publishedDateTime: 2021-03-01T00:44:00Z

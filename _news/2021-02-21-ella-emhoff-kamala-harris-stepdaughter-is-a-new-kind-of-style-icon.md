@@ -69,6 +69,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris Calls NASA Astronaut Victor Glover"
+    excerpt: "In celebration of Black History Month, NASA astronaut Victor Glover welcomed Vice President Kamala Harris to the International Space Station for a virtual chat. In the video recorded Feb. 24 and shared Saturday,"
+    publishedDateTime: 2021-02-27T21:27:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-science-industrial-products-and-services-aerospace-and-defense-industry-space-exploration-06c6fe47125365f8ca6b6893e2e9fcc9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Photos: Vice-President Kamala Harris selling San Francisco loft"
     excerpt: "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco."
     publishedDateTime: 2021-02-22T18:06:00Z

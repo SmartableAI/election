@@ -1,34 +1,44 @@
 ---
 category: news
-title: "CityLab Daily: Watch Kamala Harris at the CityLab 2021 Conference"
-excerpt: "A virtual edition of the annual CityLab conference starts Monday, and it includes some pretty impressive speakers. Vice President Kamala Harris will give the keynote address, and U.S. Secretary of Transportation Pete Buttigieg will be interviewed by Bloomberg CityLab’s Laura Bliss."
-publishedDateTime: 2021-02-26T19:01:00Z
-originalUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference"
-webUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference"
+title: "Vice President Kamala Harris Calls NASA Astronaut Victor Glover"
+excerpt: "In celebration of Black History Month, NASA astronaut Victor Glover welcomed Vice President Kamala Harris to the International Space Station for a virtual chat. In the video recorded Feb. 24 and shared Saturday,"
+publishedDateTime: 2021-02-27T21:27:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/business-science-industrial-products-and-services-aerospace-and-defense-industry-space-exploration-06c6fe47125365f8ca6b6893e2e9fcc9"
+webUrl: "https://apnews.com/press-release/pr-newswire/business-science-industrial-products-and-services-aerospace-and-defense-industry-space-exploration-06c6fe47125365f8ca6b6893e2e9fcc9"
 type: article
 quality: 105
-heat: 365
-published: true
+heat: -1
+published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i074DLE2rc5U/v0/1200x800.jpg"
-    width: 1200
-    height: 800
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
+  - title: "CityLab Daily: Watch Kamala Harris at the CityLab 2021 Conference"
+    excerpt: "A virtual edition of the annual CityLab conference starts Monday, and it includes some pretty impressive speakers. Vice President Kamala Harris will give the keynote address, and U.S. Secretary of Transportation Pete Buttigieg will be interviewed by Bloomberg CityLab’s Laura Bliss."
+    publishedDateTime: 2021-02-26T19:01:00Z
+    webUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i074DLE2rc5U/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris to speak at Black History Month event"
     excerpt: "House Majority Leader Steny H. Hoyer (D-Md.) is expected to introduce Vice President Harris at a virtual event marking the 40th Black History Month on Feb. 27."
     publishedDateTime: 2021-02-27T15:24:00Z
@@ -56,20 +66,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/26/2a8ccff5-f44e-487b-8f91-742e85cb1eab/thumbnail/1200x630/5c1316e4da52862bb493217fb7fb9010/cbsn-fusion-vice-president-kamala-harris-steps-into-new-foreign-policy-role-thumbnail-654395-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Vice President Kamala Harris Calls NASA Astronaut Victor Glover"
-    excerpt: "In celebration of Black History Month, NASA astronaut Victor Glover welcomed Vice President Kamala Harris to the International Space Station for a virtual chat. In the video recorded Feb. 24 and shared Saturday,"
-    publishedDateTime: 2021-02-27T21:27:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/business-science-industrial-products-and-services-aerospace-and-defense-industry-space-exploration-06c6fe47125365f8ca6b6893e2e9fcc9"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon"
     excerpt: "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according"
@@ -214,6 +210,6 @@ related:
       domain: newstribune.com
     quality: 26
 
-secured: "qS9RhMs9QojrgheZtMvvvAXsE90cf/lfeLAet2mZExQ+jlREDo4scSFChulN3cyRcG3dd1SzVt5P7/LPUzV8n8EHESsWpRk4cb1mTMkPD8VH1TBhW4reXVUUjciW4GsJCviF5qENI9LqDHoI8Rmp9QzptC6NPPHR7OyEbTF1rLpHTMLKLwifM7ggLd7GlHMfclleTiEqNEdqFXu9Z1Bc1hw6nZ81kAC+4oi+GyoILvE8dOAB9ZrhB9HOCN7oPmx5HHzFvxquXCmF22vIlPF9OnvkImsxk++oB9OW0JAH3I2ncX+Z406K6ZM+6kyW8QBIbQxBW0i3mVLA7clUvjPyzm9tZ4xEGAZCklDqTTkrjY0=;rW12cCQvqTE4yZziaEFgDQ=="
+secured: "WhnaKpcG/9plvlvw8Hsi/BMqb6T9s7P8AfMaOIuEjhrv8TTG6zWnvf5uyxX0PC0ncWyvlWz+SW1/bugIuX/khViuNWFNXBKBIGyINV4DsERWk3Qf7NA4Z4EUBOhirgvxXzBy2oT2e8gVbd7MP5lJpO4uy2QtLjJDAFBLJQlq6uYytT6O7MPaJwgpVcyJvQE7S0YnZLBO0chwBKDkoTqC/6WS8Um0fjNve4Rb8ZiRpy9ELzEQXd/cUzZxzzxrW2yJ2QLsRu9X12RgBNSq6UHfId1Yg12p55Te4HrZzPSs/4S3WOtAxR7HdLZPzHVyg7mvl0AEXHoFZf5Sb3SZrJaVGVQtxbxUZb7gBZoYsdi9+PI=;G9+lvU2/LGjRVnnyno2orA=="
 ---
 

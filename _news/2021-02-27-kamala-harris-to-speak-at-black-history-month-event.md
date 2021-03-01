@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris Calls NASA Astronaut Victor Glover"
+    excerpt: "In celebration of Black History Month, NASA astronaut Victor Glover welcomed Vice President Kamala Harris to the International Space Station for a virtual chat. In the video recorded Feb. 24 and shared Saturday,"
+    publishedDateTime: 2021-02-27T21:27:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/business-science-industrial-products-and-services-aerospace-and-defense-industry-space-exploration-06c6fe47125365f8ca6b6893e2e9fcc9"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon"
     excerpt: "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according"
     publishedDateTime: 2021-02-20T16:02:00Z
