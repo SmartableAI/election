@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-mee
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 315
 published: true
 
 provider:
@@ -140,20 +140,6 @@ related:
     quality: 132
     images:
       - url: "https://static.politico.com/ba/54/a2db9c9e48f48ef5db6a7cf7bbc2/ap21012842712411-c.jpg"
-        width: 1160
-        height: 773
-        isCached: true
-  - title: "McConnell lays low ahead of Trump trial"
-    excerpt: "Kevin McCarthy is hugging former President Donald Trump as tightly as he can. Liz Cheney voted to impeach him. But Mitch McConnell isn’t making any sudden movements as House Republicans tear each other apart in Trump's wake."
-    publishedDateTime: 2021-02-03T09:33:00Z
-    webUrl: "https://www.politico.com/news/2021/02/03/mitch-mcconnell-impeachment-trump-trial-465188"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ec/23/2d3486ae4d7289b031aea889cc8c/20210202-mitch-mcconnell-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true

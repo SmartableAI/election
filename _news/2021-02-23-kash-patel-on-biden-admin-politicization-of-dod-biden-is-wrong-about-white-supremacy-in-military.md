@@ -58,6 +58,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Laid-off pipeline worker: The Biden administration ‘has taken my livelihood from me’"
+    excerpt: "Jason Jernigan, a laid-off Keystone XL Pipeline worker, told \"America’s Newsroom\" on Monday that he doesn’t know how he is going to make a living now, saying, \"This is all I know how to do.\""
+    publishedDateTime: 2021-03-01T21:04:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXpdatjt7Jw/laid-off-pipeline-worker-biden-administration-livelihood"
+    ampWebUrl: "https://www.foxnews.com/politics/laid-off-pipeline-worker-biden-administration-livelihood.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/laid-off-pipeline-worker-biden-administration-livelihood.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "4p1gGtbK21/ETArdBdniQRRWCGo/jJ23mjCOokILpODQcNYCEIY5yQaOioJijVIbiQV76q08osQsV7eh+C+pJyBd1LSwde57yjR2auKIoTluRk2F2BHEcOpJVVx1lUuHgxlbdIdBHEO5KJIuO2mhUDhdcg8CmCyrkXkEYnEBq68JJAqvtOfgc7lCCw4WdYeierqpfsbTZzIyZPoWzP4e4sQ7kZeEQ8KcQurqR2yj7o7aj4Oc5efhUflUknXXekj3zDGBdRS+pRovygClYk7RzGlviRC9RL4Nw8E2gMXS6pKH2zYs2nWTESVQ7o4fEx6l6+kNlXRPqRHAJUMD3R6QdkxHZO09+RDLVTG86KCS1rY=;5EWLiqwgufZgnKNPAUGfZw=="
 ---

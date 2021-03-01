@@ -616,20 +616,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "McConnell retreats as Trump dominates the GOP civil war"
-    excerpt: "Mitch McConnell! — suggested he’d finally had enough when, in his words, a “mob” of protesters that “was fed lies” stormed Congress after “they were provoked by the president.” McConnell, the NYT reported,"
-    publishedDateTime: 2021-01-27T11:14:00Z
-    webUrl: "https://www.politico.com/newsletters/playbook/2021/01/27/mcconnell-retreats-as-trump-dominates-the-gop-civil-war-491540"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/58/de/b0653d484332b42ce97b3255aab1/210127-mcconnell-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Bill Cassidy says Trump defense should focus on impeachment charge"
     excerpt: "Cassidy’s suggestion follows reports that members of Trump’s legal team resigned just days before the trial following a disagreement over how the defense should be constructed."
     publishedDateTime: 2021-01-31T16:16:00Z

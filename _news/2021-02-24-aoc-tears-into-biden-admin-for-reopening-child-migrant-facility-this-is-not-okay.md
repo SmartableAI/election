@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Laid-off pipeline worker: The Biden administration ‘has taken my livelihood from me’"
+    excerpt: "Jason Jernigan, a laid-off Keystone XL Pipeline worker, told \"America’s Newsroom\" on Monday that he doesn’t know how he is going to make a living now, saying, \"This is all I know how to do.\""
+    publishedDateTime: 2021-03-01T21:04:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXpdatjt7Jw/laid-off-pipeline-worker-biden-administration-livelihood"
+    ampWebUrl: "https://www.foxnews.com/politics/laid-off-pipeline-worker-biden-administration-livelihood.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/laid-off-pipeline-worker-biden-administration-livelihood.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Kash Patel On Biden Admin Politicization Of DOD: Biden Is Wrong About White Supremacy In Military"
     excerpt: "Former Trump administration Department of Defense Chief of Staff Kash Patel joined Maria Bartiromo on FOX News Channel's \"Sunday Morning Futures\" to say the Biden Administration is wrong when alleging white supremacy is a major problem in the military."
     publishedDateTime: 2021-02-23T07:19:00Z

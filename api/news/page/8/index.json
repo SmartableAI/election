@@ -2,6 +2,228 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-18-gop-sen-hagerty-presses-biden-on-remain-in-mexico-rollback-warns-it-will-endanger-communities.md",
+      "title": "GOP Sen. Hagerty presses Biden on ‘Remain in Mexico’ rollback, warns it will ‘endanger’ communities",
+      "excerpt": "EXCLUSIVE: Sen. Bill Hagerty, R-Tenn., on Wednesday wrote to President Biden over his administration’s rollback of the Migrant Protection Protocols (MPP), warning that it could lead to tens of thousands of migrants flowing into the country and endanger U.S. communities.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rweg1Gs0HbQ/hagerty-biden-remain-in-mexico-rollback",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Rweg1Gs0HbQ/hagerty-biden-remain-in-mexico-rollback",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-17T17:37:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-vp-kamala-harris-on-battle-to-reopen-schools-amid-pandemic.md",
+      "title": "VP Kamala Harris on battle to reopen schools amid pandemic",
+      "excerpt": "Vice President Kamala Harris speaks with Savannah Guthrie about the CDC’s guidance for reopening schools and stresses that teachers should be given priority for receiving the Covid-19 vaccine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nightly-news/video/vp-kamala-harris-on-battle-to-reopen-schools-amid-pandemic-101198917708",
+      "originalUrl": "https://www.nbcnews.com/nightly-news/video/vp-kamala-harris-on-battle-to-reopen-schools-amid-pandemic-101198917708",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/nn_sgu_vp_kamala_harris_intv_210217_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo101198917708",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101198917708",
+      "publishedDateTime": "2021-02-17T16:50:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-rush-limbaugh-created-the-politics-that-trump-used-to-win-the-white-house.md",
+      "title": "Rush Limbaugh created the politics that Trump used to win the White House",
+      "excerpt": "The first time I remember hearing Rush Limbaugh’s radio show, I was in high school. It was 1991, and I was in the district office of then-Rep. Jim Traficant (D-Ohio), for whom I’d earned the dubious honor of interning.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USUFFNDRJAI6XBSRNUYJD2WGH4.jpg&w=1440",
+          "width": 1440,
+          "height": 991,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp",
+      "publishedDateTime": "2021-02-17T16:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-18-rush-limbaughs-legacy-of-venom-as-trump-rose-it-all-sounded-familiar.md",
+      "title": "Rush Limbaugh’s Legacy of Venom: As Trump Rose, ‘It All Sounded Familiar’",
+      "excerpt": "Weaponizing conspiracy theories and bigotry long before Donald Trump’s ascent, the radio giant helped usher in the political style that came to dominate the Republican Party.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/17/us/politics/17limbaugh-politics1/17limbaugh-politics1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/17/us/politics/limbaugh-death.amp.html",
+      "publishedDateTime": "2021-02-17T16:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-biden-to-pick-chiquita-brooks-lasure-to-run-centers-for-medicare-and-medicaid-services-sources-say.md",
       "title": "Biden to pick Chiquita Brooks-LaSure to run Centers for Medicare and Medicaid Services, sources say",
       "excerpt": "President Joe Biden is expected to nominate Chiquita Brooks-LaSure to lead the Centers for Medicare and Medicaid Services, two sources familiar with the decision told CNN.\n    \n",
@@ -1146,209 +1368,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-naacp-and-democratic-congressman-sue-trump-giuliani-over-capitol-assault.md",
-      "title": "NAACP and Democratic congressman sue Trump, Giuliani over Capitol assault",
-      "excerpt": "The lawsuit accuses Trump, Giuliani and two extremist groups of violating a federal Reconstruction-era law known as the Ku Klux Klan Act.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/naacp-sues-trump-giuliani-capitol-riot/",
-      "originalUrl": "https://www.cbsnews.com/news/naacp-sues-trump-giuliani-capitol-riot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 264,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/16/0543b3d7-c32a-4b6c-be77-cf5195d911cc/thumbnail/1200x630/e22992a93d9d17f355b7e72a7ada3a8d/gettyimages-1230465123.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/",
-      "publishedDateTime": "2021-02-16T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-lincoln-projects-rick-wilson-raised-64g-for-anti-trump-film-that-was-never-released.md",
-      "title": "Lincoln Project's Rick Wilson raised $64G for anti-Trump film that was never released",
-      "excerpt": "Rick Wilson, co-founder of the anti-Trump Lincoln Project PAC, raised nearly $65,000 for an in-production film called \"Everything Trump Touches Dies\" that has yet to be released.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMh8b_NuMDI/lincoln-project-rick-wilson-anti-trump-film-donations",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMh8b_NuMDI/lincoln-project-rick-wilson-anti-trump-film-donations",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 228,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Capture2.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp",
-      "publishedDateTime": "2021-02-16T07:28:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-op-ed-pence-was-a-potential-victim-on-jan-6-that-doesnt-make-him-a-hero.md",
-      "title": "OP-ED: Pence was a potential victim on Jan. 6. That doesn't make him a hero",
-      "excerpt": "When he issued a statement early on Jan. 6 indicating that he lacked the unilateral authority to determine which electoral votes should be counted, Vice President Mike Pence was stating the obvious. It was a \"Profiles in Courage\" moment only by the low standards of the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yorkdispatch.com/story/opinion/contributors/2021/02/16/op-ed-pence-potential-victim-jan-6-doesnt-make-him-hero/6750644002/",
-      "originalUrl": "https://www.yorkdispatch.com/story/opinion/contributors/2021/02/16/op-ed-pence-potential-victim-jan-6-doesnt-make-him-hero/6750644002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/07/PPYD/406e2975-3b2f-4c1b-ba71-f98b02f86423-AP21007314794320.jpg?auto=webp&crop=1023,576,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.yorkdispatch.com/amp/6750644002",
-      "cdnAmpWebUrl": "https://amp-yorkdispatch-com.cdn.ampproject.org/c/s/amp.yorkdispatch.com/amp/6750644002",
-      "publishedDateTime": "2021-02-16T00:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The York Dispatch",
-        "domain": "yorkdispatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-16-biden-has-reopened-obamacare-enrollment-but-how-fast-you-need-to-act-depends-on-where-you-live.md",
-      "title": "Biden has reopened Obamacare enrollment, but how fast you need to act depends on where you live",
-      "excerpt": "Residents of one state don't know whether they can participate in a special enrollment period for federally subsidized health insurance.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/15/bidens-special-health-insurance-enrollment-varies-state/6745781002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/2f3822947b6a8f8aa6a183e96e64d71752a99d03/c=0-89-2998-1783/local/-/media/2016/09/22/USATODAY/USATODAY/636101585701576984-BLM-OBAMA-HEALTHCARE-58839458.JPG?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6745781002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6745781002",
-      "publishedDateTime": "2021-02-15T22:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

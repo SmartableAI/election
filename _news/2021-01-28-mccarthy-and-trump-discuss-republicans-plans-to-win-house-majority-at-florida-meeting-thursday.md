@@ -143,20 +143,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "McConnell lays low ahead of Trump trial"
-    excerpt: "Kevin McCarthy is hugging former President Donald Trump as tightly as he can. Liz Cheney voted to impeach him. But Mitch McConnell isn’t making any sudden movements as House Republicans tear each other apart in Trump's wake."
-    publishedDateTime: 2021-02-03T09:33:00Z
-    webUrl: "https://www.politico.com/news/2021/02/03/mitch-mcconnell-impeachment-trump-trial-465188"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/ec/23/2d3486ae4d7289b031aea889cc8c/20210202-mitch-mcconnell-gty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "DMlhveVqXeKkAfGSLLDlJ0bnB2X+5xjXFt5GfnA+ohN+QQag/Zs4Tczar7cD63qpbB27zE7T8BI9NkXTLpOL8ZXSaBpKSrBgd8xwQb29ZFT/UPuLCCLFVzL5Z54cJ8W3dTHgoMEWfwV2JGy/PRkBkjUruErBMTcV+YekHPtNpD3DVdAmCX/xK9jP8tiktEPTMkj9U+8mqACsr+TIKSOTjqSXA7gDswkTSU2QMz6VqAyFEUh+a3I99z0gT01D7O6aO8ApRWWNDdIr1lPbvveBltZgE7TY3/jL7gsYCsPD1aWswOSSKzX91vu2pkXYi7PQlCeeUTI/edqhKuZCef4WOSdvjoqBF8cH7925/2VqDgA=;t0r2bKOla8vOdSmuRO9+yQ=="
 ---

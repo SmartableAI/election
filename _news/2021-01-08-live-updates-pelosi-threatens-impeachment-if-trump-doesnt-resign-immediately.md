@@ -432,22 +432,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict"
-    excerpt: "Senate Majority Leader Mitch McConnell has told associates that he thinks President Donald Trump committed impeachable offenses when he incited a deadly mob to attack the US Capitol last week and that he's \"pleased\" Democrats are working to impeach the President, The New York Times reported Tuesday.\n"
-    publishedDateTime: 2021-01-12T22:54:21Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rHZZFgzp_XU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 154
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Live updates: House readies for quick action against Trump"
     excerpt: "Lawmakers are expected to take up the 25th Amendment measure Tuesday night and the impeachment resolution Wednesday morning."
     publishedDateTime: 2021-01-13T00:21:00Z

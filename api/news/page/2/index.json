@@ -2,6 +2,222 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-28-psaki-biden-admin-committed-to-fighting-our-hearts-out-for-tanden-raising-minimum-wage.md",
+      "title": "Psaki: Biden admin 'committed to fighting our hearts out' for Tanden, raising minimum wage",
+      "excerpt": "The Biden administration remains committed to \"fighting our hearts out\" for Budget Director pick Neera Tanden, Biden's press secrestary said Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToK0jmcWdGc/biden-neera-tanden-omb-minimum-wage-jen-psaki",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToK0jmcWdGc/biden-neera-tanden-omb-minimum-wage-jen-psaki",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/neera-tanden.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-neera-tanden-omb-minimum-wage-jen-psaki.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neera-tanden-omb-minimum-wage-jen-psaki.amp",
+      "publishedDateTime": "2021-02-28T07:10:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-28-allies-of-rep-adam-kinzinger-launch-new-super-pac-to-support-republicans-who-have-bucked-trump.md",
+      "title": "Allies of Rep. Adam Kinzinger launch new super PAC to support Republicans who have bucked Trump",
+      "excerpt": "The effort will be up against significant head winds, as Trump still holds vast sway over the Republican Party, even after his supporters attacked the U.S. Capitol last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 153,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCWAUHTZN4I6XFENDFDS42BVEE.jpg&w=1440",
+          "width": 1440,
+          "height": 968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-28T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-28-biden-will-not-sanction-mbs-over-khashoggis-killing-despite-us-report-implicating-the-saudi-leader.md",
+      "title": "Biden will not sanction MBS over Khashoggi's killing despite US report implicating the Saudi leader",
+      "excerpt": "Other than being downgraded in the eyes of the US under Biden, it's unclear what other consequences, if any, MBS will face over Khashoggi's killing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2",
+      "originalUrl": "https://www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6039520805ddb100195f67da?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2?amp",
+      "publishedDateTime": "2021-02-28T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-28-pompeo-says-biden-administration-sending-mixed-signals-on-chinas-human-rights-abuses.md",
+      "title": "Pompeo says Biden administration sending ‘mixed signals’ on China's human rights abuses",
+      "excerpt": "Former Secretary of State Mike Pompeo said on Saturday that the Biden administration has sent \"mixed signals\" on the Chinese persecution of religious minorities in Xinjiang -- and called for the administration to impose \"real costs\" on Beijing.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa_WjtosXlc/pompeo-biden-mixed-signals-chinas-human-rights-abuses",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa_WjtosXlc/pompeo-biden-mixed-signals-chinas-human-rights-abuses",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4390b48-7d19-4e62-b1c3-bf5adacaa001/436db621-11ed-418d-9084-282486783be2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-mixed-signals-chinas-human-rights-abuses.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-mixed-signals-chinas-human-rights-abuses.amp",
+      "publishedDateTime": "2021-02-27T19:09:25-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-trump-thinks-hes-a-god-cpac-packed-with-cult-followers-michael-cohen-says.md",
       "title": "Trump 'Thinks He's a God,' CPAC Packed With Cult Followers, Michael Cohen Says",
       "excerpt": "Organizers installed a golden statue of Trump, whose behavior Cohen described as \"sociopathic,\" at the conservative event.",
@@ -1118,219 +1334,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp",
       "publishedDateTime": "2021-02-26T05:49:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-trump-vs-desantis-2024-clash-of-heavyweights-starts-early.md",
-      "title": "Trump vs. DeSantis: 2024 Clash of Heavyweights Starts Early",
-      "excerpt": "Politically speaking, this is the best and worst of times to be Florida Gov. Ron DeSantis. Lets start with best: Midway through his first term, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/02/26/trump_vs_desantis_2024_clash_of_heavyweights_starts_early_145307.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/02/26/trump_vs_desantis_2024_clash_of_heavyweights_starts_early_145307.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/536304_5_.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/02/26/trump_vs_desantis_2024_clash_of_heavyweights_starts_early_145307.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/26/trump_vs_desantis_2024_clash_of_heavyweights_starts_early_145307.amp.html",
-      "publishedDateTime": "2021-02-26T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee.md",
-      "title": "McConnell says he would \"absolutely\" support Trump if he's the 2024 GOP nominee",
-      "excerpt": "Just two weeks ago, the Senate Minority Leader called the former president \"practically and morally responsible for provoking the events\" of January 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mcconnell-support-trump-2024-republican-nominee/",
-      "originalUrl": "https://www.cbsnews.com/news/mcconnell-support-trump-2024-republican-nominee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/20/6ffb8a67-5134-46d7-9ec4-0d3c7ddd44cf/thumbnail/1200x630/b7afdd3f1d6d7db65539b5c680dc11a7/gettyimages-1257244765.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republican-nominee/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republican-nominee/",
-      "publishedDateTime": "2021-02-26T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.md",
-      "title": "Pelosi vows to keep minimum wage provision in House bill; Harris could act",
-      "excerpt": "The Senate's chief parliamentarian ruled Thursday that a federal minimum wage hike should not be included in the $1.9 trillion COVID-19 relief package, but that seemed to do little to deter House Democrats from pursuing the plan — against impossible odds.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wV7eyEm-PCI/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wV7eyEm-PCI/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 263,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp",
-      "publishedDateTime": "2021-02-25T23:30:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.md",
-      "title": "Donald Trump Jr.: Donald Trump is ‘still the future of the Republican Party’",
-      "excerpt": "Former President Donald Trump is the future of the Republican Party, his eldest son Donald Trump Jr. argued on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pgbpZAToxZU/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pgbpZAToxZU/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.amp",
-      "publishedDateTime": "2021-02-25T20:20:01-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
