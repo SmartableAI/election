@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-02-stephen-colbert-on-trump-he-isnt-going-to-start-a-new-party-he-already-owns-one.md",
+      "title": "Stephen Colbert on Trump: 'He isn’t going to start a new party – he already owns one'",
+      "excerpt": "Late-night hosts recap the rightwing CPAC summit, which featured Ted Cruz Cancun jokes and a peculiar gold statue",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/culture/2021/mar/02/stephen-colbert-trump-party-late-night-tv",
+      "originalUrl": "https://www.theguardian.com/culture/2021/mar/02/stephen-colbert-trump-party-late-night-tv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6e0b3a31638d6927c75652b400d03169479520f0/255_140_2511_1506/master/2511.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=52ba0b17d86f9256b8a5b0e4a71b5b31",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/culture/2021/mar/02/stephen-colbert-trump-party-late-night-tv",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/mar/02/stephen-colbert-trump-party-late-night-tv",
+      "publishedDateTime": "2021-03-02T07:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-jimmy-kimmel-compares-donald-trump-to-dr-pimple-popper-show.md",
       "title": "Jimmy Kimmel Compares Donald Trump to 'Dr. Pimple Popper' Show",
       "excerpt": "\"All this disgusting stuff keeps coming out and you're like 'Oh my god when is this going to end?' Kimmel said, mocking Trump's CPAC speech.",
@@ -1499,58 +1551,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-senate-to-hold-hearing-into-6-january-capitol-attack-by-trump-supporters-live-updates.md",
-      "title": "Senate to hold hearing into 6 January Capitol attack by Trump supporters – live updates",
-      "excerpt": "Law enforcement officials will give witness testimony about day pro-Trump mob stormed Capitol",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/60ab62fcd73657cd7195c8fd9ca853f1cec615f0/0_99_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f3fc19fd53d0e193fe77fccecb41e7a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates",
-      "publishedDateTime": "2021-02-23T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

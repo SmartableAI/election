@@ -59,6 +59,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "WATCH LIVE: FBI Director Christopher Wray says no evidence of ‘fake Trump supporters’ at Capitol riot"
+    excerpt: "The top law enforcement official, in an opening statement to the Senate Judiciary Committee, said he was “appalled” by the deadly Jan. 6 attack that killed five people."
+    publishedDateTime: 2021-03-02T17:06:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 60
+    images:
+      - url: "https://www.nydailynews.com/resizer/OX_M-cGRSh6r1Cc24GbTvCtdB9A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PB3B3FBBN5AOVMBXSS7BYMDAPY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "ShP2EMlmcpU9hDOHgHwwvhungj7rMpxNAN1O6iktUek+S4VNleQouNSwkNTrrdDNAT1KiRV5Idk2XtTEZsiet0ldlnfuZcWCoRFjEa1NgCKEqbDXLEFseW7FY5L6xpWo0e3oZ65JufZuFtI4buo2MQTVtdGk19W3k0vveKU5eIpwnShci9QzSgJczaeGHOcnFZVWE4aKTsBKziY8Iq8bp821mmlRf+dNdIt7t4NokwRixLLcogPaDe3slwABlQjWm+t1vq7pEMp/pbn43yfYDkxKn6hxZ/S+QSLIWTN7BTOMklTkUNxpa/2dLLWmGoMT+sD8qeerY5ywUmZtGWRCSkZSodwz8m+Jdwxy2jV6cr0=;/8UNh4LWeReTaLvS3DYQkw=="
 ---

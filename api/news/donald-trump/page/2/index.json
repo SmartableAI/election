@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-23-senate-to-hold-hearing-into-6-january-capitol-attack-by-trump-supporters-live-updates.md",
+      "title": "Senate to hold hearing into 6 January Capitol attack by Trump supporters – live updates",
+      "excerpt": "Law enforcement officials will give witness testimony about day pro-Trump mob stormed Capitol",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 177,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/60ab62fcd73657cd7195c8fd9ca853f1cec615f0/0_99_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f3fc19fd53d0e193fe77fccecb41e7a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates",
+      "publishedDateTime": "2021-02-23T03:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-in-backing-south-carolina-gop-chair-trump-remains-active.md",
       "title": "In backing South Carolina GOP chair, Trump remains active",
       "excerpt": "South Carolina’s GOP chairman Drew McKissick tells The Associated Press that Donald Trump is backing him for a third term",
@@ -1179,63 +1231,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.md",
-      "title": "Bowe Bergdahl targets Trump, McCain comments in lawsuit challenging court-martial",
-      "excerpt": "Former U.S. Army Sgt. Robert \"Bowe\" Bergdahl, who was court-martialed in 2017 after being accused of abandoning his post in Afghanistan and endangering fellow service members, has filed a civil lawsuit in a bid to overturn his conviction.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial",
-      "originalUrl": "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/05/640/320/Bergdahl053119.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/bowe-bergdahl-targets-trump-mccain-comments-in-lawsuit-challenging-court-martial.amp",
-      "publishedDateTime": "2021-02-18T05:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     },
     {

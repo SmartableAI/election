@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Mexican president says he and Biden exchanged invitations to visit"
+    excerpt: "Mexican President Andres Manuel Lopez Obrador said on Tuesday that he and his U.S. counterpart Joe Biden invited each other to visit their respective countries during a virtual meeting the two held on Monday."
+    publishedDateTime: 2021-03-02T14:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-mexico-visits-idUSKCN2AU1Y3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AU1Y3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AU1Y3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210302&t=2&i=1553482616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2115W"
+        width: 817
+        height: 545
+        isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."
     publishedDateTime: 2021-01-21T12:38:00Z
@@ -203,17 +219,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Mexican president says he and Biden exchanged invitations to visit"
-    excerpt: "Mexican President Andres Manuel Lopez Obrador said on Tuesday that he and his U.S. counterpart Joe Biden invited each other to visit their respective countries during a virtual meeting the two held on Monday."
-    publishedDateTime: 2021-03-02T13:31:00Z
-    webUrl: "https://www.reuters.com/article/usa-mexico-visits-idUSL2N2L01CM"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2L01CM"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2L01CM"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
 
 secured: "hcT5sRBq1+VoPYTSZgz2vmoUVe86IDKOv90kd9YCEHzcnPu/HbmMjSXeZm0s24Yt2+WK2RDkMA8RlQT2Mf5lkNjQ/yaFemw5jQZQBJ9b0quyZTH5gRe6aiN4Taw09Y6tdLoFtjW8D0Pht39NN6bdLFrtGzaduwCvTe8duKilNBRvUWtCuJjudTPXrdmDVlAqZl0ejbjG0ucwHe++Y61UJRL7fzU3UyCva7ZxsWO+1GkSoAnqtWgcqIiItCQyrWIpwfVPLrI1RGAmWYiKgCO0qRbovsb5jXnMxv3BvL/OwRvgPQJI7W6l8gEzKKaHlHeSnjef9/xErXE3dxYWVqYMsspBapKHHJAL0bmYc2iiTrs=;axjB/YCHPFjyzXaU501ATw=="
 ---

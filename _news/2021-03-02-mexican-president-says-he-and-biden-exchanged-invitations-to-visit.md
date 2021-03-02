@@ -2,13 +2,13 @@
 category: news
 title: "Mexican president says he and Biden exchanged invitations to visit"
 excerpt: "Mexican President Andres Manuel Lopez Obrador said on Tuesday that he and his U.S. counterpart Joe Biden invited each other to visit their respective countries during a virtual meeting the two held on Monday."
-publishedDateTime: 2021-03-02T13:31:00Z
-originalUrl: "https://www.reuters.com/article/usa-mexico-visits-idUSL2N2L01CM"
-webUrl: "https://www.reuters.com/article/usa-mexico-visits-idUSL2N2L01CM"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2L01CM"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2L01CM"
+publishedDateTime: 2021-03-02T14:53:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-mexico-visits-idUSKCN2AU1Y3"
+webUrl: "https://www.reuters.com/article/us-usa-mexico-visits-idUSKCN2AU1Y3"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AU1Y3"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AU1Y3"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210302&t=2&i=1553482616&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2115W"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Mexican leader says Biden offers $4B for Central America"
@@ -214,6 +220,6 @@ related:
         height: 337
         isCached: true
 
-secured: "0xZuJiCdr8vZalyOvKQnruHfg/nm0hT3FCKEfRqZIq/5DB+l1To2mIAWMrN34rlCmnRo1iS4kiJNcEP8UE+oPTncqwssBFWsB7WD9BYPI1Pj5BPqJ8B/9kAnrAyVjPJVDPMvQ7nt+rlFmjrSw6XRf8hFMOo/4jkvGk+iDx5aMbfhUX2LBsYczz0iiGFU9GdVF/ygsNLIS8b4JyNPuWUVs8mdIwhuzmh+Eb53kGQDxawk2ELxGTmOwQyGKjR7B6t2yaq5OrG4y+pXIC9Kxo43u9Zr5QDYxz4h0Lockl2SW7iX3IhSmMT7FNidNY6UYW4q2hkK5Cxp9FrfRuDOV0Ua7KxXRxymupRX5omWroB4oMY=;B3lnzxzzm4eB7bjRj1auPg=="
+secured: "U5WeYPifScOqYEV3Cu0lFrXvDTJszjs87QOZCB9xcCjxuuG54MWKU3AdbG042tad2ZMWe6RbEyLtQxhrsnVpWem77CycsP5JU1D3BcElR1euTSxe0au6T8ON0m+Q0mHb0QK+t86Bgz57Ornuj6rbfnn+Vee7cPKPqkVbAKHnApxoP7+nGiVu6qW4W0E6A5iyMvp5YWKfYn8dhOJEfD2sledKeJnJKxZzVThX8T+lBMeFXMq+yz73lDisHrmd1RUcuR+bBxolI4vu+2nCA3glEx25RSDvv3A+w3xCpfRKWibv/1EdRvvyczefCercR7NTwQc/xX/gjT4r68t2QKS0xqYg2GBD7YiFuyTeYYpBjl0=;av8pn9Qh4koUrp3fvsRh7A=="
 ---
 

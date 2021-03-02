@@ -107,6 +107,34 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden administration faces challenges at U.S.-Mexico border"
+    excerpt: "As the number of migrants and asylum seekers at the U.S.-Mexico border increases, the Biden administration must find ways to safely house them amid the coronavirus pandemic. Washington Post immigration reporter Nick Miroff joined CBSN to discuss the situation."
+    publishedDateTime: 2021-03-02T18:02:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-administration-faces-challenges-at-u-s-mexico-border/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/02/b0504ed4-43cc-4b7e-bde3-afc518b468fe/thumbnail/1200x630/85dc02ce52753c528a2105f98e175758/0302-cbsn-afx-bidensouthernborder-657142-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Joe Biden's support for unions sends a strong message to Amazon and employers across the country"
+    excerpt: "Biden clarified his administration's stance on existing labor laws, which experts say have been enforced lightly by previous administrations."
+    publishedDateTime: 2021-03-02T18:16:00Z
+    webUrl: "https://www.businessinsider.com/joe-biden-supports-unions-sends-message-to-us-employers-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 92
+    images:
+      - url: "https://i.insider.com/603e60e487d37600190d0a0a?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Biden and the Democrats have a rare opening to try passing long-sought gun reform laws. Here's a look at the bills they're proposing."
     excerpt: "Democrats think they have a stronger chance of passing gun legislation this year while they control Congress and the White House."
     publishedDateTime: 2021-03-01T01:01:00Z

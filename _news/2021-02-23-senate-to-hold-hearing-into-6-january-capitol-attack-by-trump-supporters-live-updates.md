@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates"
 type: article
 quality: 117
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_947d83b1b70a4643b78d5adc36f48592_name_e99b3644_7b6f_11eb_8c5e_32e47b42b51b_scaled.jpg&w=1080"
         width: 1080
         height: 608
+        isCached: true
+  - title: "WATCH LIVE: FBI Director Christopher Wray says no evidence of ‘fake Trump supporters’ at Capitol riot"
+    excerpt: "The top law enforcement official, in an opening statement to the Senate Judiciary Committee, said he was “appalled” by the deadly Jan. 6 attack that killed five people."
+    publishedDateTime: 2021-03-02T17:06:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 60
+    images:
+      - url: "https://www.nydailynews.com/resizer/OX_M-cGRSh6r1Cc24GbTvCtdB9A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PB3B3FBBN5AOVMBXSS7BYMDAPY.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "/Ebp3t6LoRjzkpSldTbYZ7VR6sTqrdP0xaBQyvJ2bQqDJ3L/YnuD2g5bFF9peaVyJsE47KqfXhvE/d9PS4p7cP7Lk8csp/Seau7oYjDOxJnY8ZugnB8OVr/z8GS64s1/2CzsFRw3hysjbd3TT02/+T3UXoaJA8MeztjlaG+SPOeZ7V5gB2AoxXl117QJz1xpySfIig6S67c9mDaFlNpQeNRVC6GsQzUYNJ4/6ypAh8Dh46CGRj67Qv1z93pIblyjKxLYa9C2dJw70mT/Ppn2W9NmF+teox7p1yCTKdEiLBUAUbjVvEqK4r9w4GkmSpw9DJjAtQ2qVz/WCBQhXvRRfGSP6gI89rM/82nYKVgFHdNJqfR5qXc9KjrXsLfqmyPecFFwe8cdkOoBGASSPzT+sxFSbUbX96G/BqIoblQ10DncgTga97yn++mX6lamt9cERlnnjSChCB2O6vVt/DTPMYgmJgWkspA8sSCmFGyJwYYZkdbqMSzuDkIfL9COvEP8m3PKOKEfsOrC8hE3AorXnw==;RlgYEQOsHnpMuBsg7adfkg=="

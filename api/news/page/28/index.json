@@ -2,6 +2,58 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-01-19-the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails.md",
+      "title": "‘The Capitol riot was our Chernobyl’: James Comey on Trump, the ‘pee tape’ and Clinton’s emails",
+      "excerpt": "The former FBI director was sickened and angered by the attack incited by the president. But has he come to terms with his part in getting him elected?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c1670d9840b03e3422e575cb3d7bcb5acadfeb84/0_243_3598_2158/master/3598.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6802a03dd80cbc31d986ecc43d7b3ac",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails",
+      "publishedDateTime": "2021-01-18T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-trump-rebuts-ny-times-1619-project-with-1776-report-urging-schools-to-reject-ideological-poison.md",
       "title": "Trump rebuts NY Times '1619 Project' with '1776 Report' urging schools to reject 'ideological poison'",
       "excerpt": "The Trump-backed panel released a 45-page report on the state of American education in what the White House described as a \"rebuttal\" to \"reckless\" historical accounts of the country's founding.",
@@ -1278,58 +1330,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-17-christine-priola-capitol-rioter-seen-at-mike-pences-desk-quits-school-job-in-qanon-rant.md",
-      "title": "Christine Priola, Capitol Rioter Seen At Mike Pence's Desk, Quits School Job In QAnon Rant",
-      "excerpt": "A former schools therapist has been charged with multiple criminal counts over the storming of the U.S. Capitol after she quit her job, citing several conspiracy theories as the reason behind her decision. Holding a placard that read \"THE CHILDREN CRY OUT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188",
-      "originalUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1710120/us-capitol-riots.jpg",
-          "width": 3422,
-          "height": 2281,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/christine-priola-capitol-rioter-mike-pence-quits-school-job-qanon-1562188?amp=1",
-      "publishedDateTime": "2021-01-17T01:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

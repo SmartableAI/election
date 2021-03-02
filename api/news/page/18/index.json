@@ -2,6 +2,62 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-02-02-bidens-keystone-xl-pipeline-cancellation-is-gut-punch-to-small-businesses.md",
+      "title": "Biden's Keystone XL pipeline cancellation is gut punch to small businesses",
+      "excerpt": "While opponents of the long-controversial Keystone XL Pipeline cheered its cancellation by President Biden's administration, others like Nebraska truck driver Chris Olsen shook their heads in dismay.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbFtZ-Zdamw/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MbFtZ-Zdamw/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 273,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden-keystone-XL.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-xl-pipeline-cancellation-gut-punch-small-businesses.amp",
+      "publishedDateTime": "2021-02-02T08:20:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-biden-administration-designates-myanmar-military-takeover-as-a-coup.md",
       "title": "Biden administration designates Myanmar military takeover as a coup",
       "excerpt": "The Biden administration has formally determined that the military takeover in Myanmar constitutes a coup d'état, a designation that requires the US to cut its foreign assistance to the country.\n    \n",
@@ -1307,63 +1363,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-two-years-later-vp-kamala-harris-once-called-jussie-smollett-the-victim-of-a-modern-day-lynching.md",
-      "title": "Two years later: VP Kamala Harris once called Jussie Smollett the victim of a 'modern day lynching'",
-      "excerpt": "Friday marked two years since now-vice president Kamala Harris publically expressed support for actor Jussie Smollett after he claimed to be a victim of a hate crime.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching",
-      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cabc059-1257-4d26-92fc-f3ee6854a415/dbd72d91-5230-4f66-95b0-5109510ba033/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching.amp",
-      "publishedDateTime": "2021-01-31T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

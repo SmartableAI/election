@@ -2,6 +2,118 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-26-trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-who-voted-for-impeachment.md",
+      "title": "Trump endorses Max Miller over GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment",
+      "excerpt": "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xl_Ogo2zTWM/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xl_Ogo2zTWM/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 286,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp",
+      "publishedDateTime": "2021-02-26T14:46:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-donald-trump-jr-slams-blindly-supporting-gop-incumbents-says-theres-plenty-of-gop-senators-to-primary.md",
+      "title": "Donald Trump Jr. slams 'blindly' supporting GOP incumbents, says 'there's plenty' of GOP senators to primary",
+      "excerpt": "Donald Trump Jr., said on Friday that there are \"plenty\" of Senate Republicans who he might support primary challenges against, while slamming the idea of \"blindly\" supporting incumbents. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VyZ7-z_-p0Q/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VyZ7-z_-p0Q/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp",
+      "publishedDateTime": "2021-02-26T14:45:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-biden-doesnt-penalize-crown-prince-despite-promise-to-punish-senior-saudi-leaders.md",
       "title": "Biden doesn't penalize crown prince despite promise to punish senior Saudi leaders",
       "excerpt": "Despite promising to punish senior Saudi leaders while on the campaign trail, President Joe Biden declined to apply sanctions to the one the US intelligence community determined is responsible for the death of journalist Jamal Khashoggi: Crown Prince Mohammed bin Salman.\n    \n",
@@ -159,6 +271,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-steve-hilton-kamala-harris-silent-on-cuomo-allegations-after-grandstanding-at-kavanaugh-hearings.md",
+      "title": "Steve Hilton: Kamala Harris silent on Cuomo allegations after ‘grandstanding’ at Kavanaugh hearings",
+      "excerpt": "“The focus should be on Vice President Kamala Harris” amid the sexual harassment allegations against N.Y. Gov. Andrew Cuomo, Fox News “The Revolution” host Steve Hilton said on Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC_g_RdkvKI/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC_g_RdkvKI/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton.amp",
+      "publishedDateTime": "2021-02-26T12:05:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
       ]
     },
     {
@@ -1184,161 +1353,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-blackburn-warns-biden-admin-china-is-our-adversary-threatens-supply-chain.md",
-      "title": "Blackburn warns Biden admin China is 'our adversary,' threatens supply chain",
-      "excerpt": "EXCLUSIVE: Republican Sen. Marsha Blackburn is warning the Biden administration that China is \"our adversary,\" saying Beijing threatens our supply chain and urging the White House to \"step up their game.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/To5htOdlxYQ/blackburn-china-our-adversary-threatens-supply-chain-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/To5htOdlxYQ/blackburn-china-our-adversary-threatens-supply-chain-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/blackburn-china-our-adversary-threatens-supply-chain-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-china-our-adversary-threatens-supply-chain-biden.amp",
-      "publishedDateTime": "2021-02-25T10:27:43-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-republicans-tee-up-attacks-on-bidenand-kamala-harris-raleigh-news-observer.md",
-      "title": "Republicans tee up attacks on Biden—and Kamala Harris | Raleigh News & Observer",
-      "excerpt": "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsobserver.com/news/politics-government/national-politics/article249514215.html",
-      "originalUrl": "https://www.newsobserver.com/news/politics-government/national-politics/article249514215.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.newsobserver.com/news/politics-government/national-politics/article249514215.html",
-      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article249514215.html",
-      "publishedDateTime": "2021-02-25T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raleigh News & Observer",
-        "domain": "newsobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-house-freedom-caucus-members-question-liz-cheneys-leadership-again-after-her-latest-trump-comments.md",
-      "title": "House Freedom Caucus members question Liz Cheney's leadership again after her latest Trump comments",
-      "excerpt": "House Freedom Caucus members questioned GOP conference chairwoman Liz Cheney's leadership — again — at a news conference Thursday after the Wyoming Republican congresswoman's comments that she believes former President Donald Trump shouldn't play a role in the Republican Party.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OM80qsrIyrQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OM80qsrIyrQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/25/politics/liz-cheney-house-freedom-caucus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/liz-cheney-house-freedom-caucus/index.html",
-      "publishedDateTime": "2021-02-25T09:21:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],
