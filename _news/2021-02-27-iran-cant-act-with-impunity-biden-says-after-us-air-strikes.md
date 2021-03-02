@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AQ31T"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ31T"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration may let families separated at Mexican border reunite in US"
+    excerpt: "DHS Secretary Alejandro Mayorkas said Monday the Biden administration will \"explore lawful pathways\" for families who reunite here to remain in U.S."
+    publishedDateTime: 2021-03-02T00:35:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/01/biden-lopez-obrador-talks-focus-new-approach-immigration/6868003002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6868003002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6868003002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 121
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/01/USAT/04abda43-17b6-490a-9c49-2c1a9d638412-Obrador_and_Biden.jpg?auto=webp&crop=3199,1800,x0,y296&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden says U.S. will hold Russia accountable over Crimea"
     excerpt: "U.S. President Joe Biden displays his face mask as he speaks during an event to commemorate the 50 millionth coronavirus disease (COVID-19) vaccination in the South Court Auditorium at the White House"
     publishedDateTime: 2021-02-26T13:15:00Z

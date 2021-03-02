@@ -1,10 +1,10 @@
 ---
 category: news
 title: "QAnon followers read the tea leaves in Donald Trump's CPAC speech"
-excerpt: "The QAnon netherworld was abuzz with excitement after former President Donald Trump spoke Sunday at the Conservative Political Action Conference in Orlando, Florida. The movement devoted to a variety of conspiracy theories is spreading the notion that Trump will be reinstated as president on March 4 — this Thursday."
-publishedDateTime: 2021-03-01T15:20:00Z
-originalUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech-dan-patterson-analysis-2021-03-01/"
-webUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech-dan-patterson-analysis-2021-03-01/"
+excerpt: "The QAnon netherworld was abuzz with excitement after former President Donald Trump spoke Sunday at the Conservative Political Action Conference in Orlando, Florida. The movement devoted to a variety of conspiracy theories is spreading the notion that Trump will be reinstated as president on March 4 -- this Thursday."
+publishedDateTime: 2021-03-01T12:49:00Z
+originalUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech/"
+webUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech/"
 type: article
 quality: 105
 heat: -1
@@ -58,6 +58,22 @@ related:
     quality: 125
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/02/26/USAT/f4ba7cdb-aae0-480e-9954-79c279a387db-AP_CPAC_Trump_Statue.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "At CPAC, Donald Trump targets the Republican Party of Liz Cheney and Mitch McConnell"
+    excerpt: "Former President Trump told CPAC he wants to \"get rid of\" Republicans who oppose him and supported impeachment."
+    publishedDateTime: 2021-03-01T20:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/01/cpac-donald-trump-targets-republicans-liz-cheney-mitch-mcconnell/6868099002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6868099002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6868099002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/01/USAT/635dfef8-08df-4434-a40c-ee6aea5166ce-AP_Trump_Conservatives.jpg?auto=webp&crop=3788,2131,x1,y95&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
@@ -144,6 +160,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "RUIv1R0lwcLCUu3WQbf/kZr+PEqZYFhrC4rRfjcIuUbD0gSRYIp9TSXHerNxOd6qmQuGRB/NTIsPY3PFukl8UFWXNNJvcsbI0O7BBINn5Hy8j541RyJFs3GN1rfUrlAU+UgiNUPrvB2Yo1RqfXOPfBh0SKZTOZFMtdvOwqdgMR5LMPUanJmmfuHD9WGdGuUGHlMXE75Mr7VyL+V1Du2NsRvahi4Aki4mpYSEkFGaki8H4cuVvvQSo67+e4Lw2HlN3sFU5tWrrJsGA31eJFldBFb7qCe6B6en8vT7ubCodqjKbxEktwvLeBZaL8pNaYLAW2kjcpmYd0MgDCivM7+3hHaqs6sLxOy31eNAbTft9kM=;Pmxo4TJmfTKUlJF0BjCiUQ=="
+secured: "yxiajzV6sizTtC1R84tFHkHtXCo3frLd5Uu910Xno6kQxrDyEavJcMQJoqsU7AvS86Rk17oPW2gut9TaAppTLlXT1gAz43LwvVEA8F4+hwDh+t+F9tUiqNYqbFzbZ86PFe5HLk9ooIMzDdwqlvtXxeSGw0rIRjOUoithNZ3q+lXld0qawTjABwQHluhjLSFLR8NsfzVSH4C83jA6BSzpf2qtKhlHBTYB4WIbS4ga+Vkil2vQvl4CAzKyHFxhbQt/c6yyIg1rOJ3bEcbwLa2zljtfgNcuVbxSQN2/jDUgIaPhUROGndReM8U41hAzxKtPUMaUJSaBZ7dGI8joUuea7iAb/Zx0xMWJjNFqrVP9znY=;3tv6yRaw6X35mu3HRR/hCw=="
 ---
 

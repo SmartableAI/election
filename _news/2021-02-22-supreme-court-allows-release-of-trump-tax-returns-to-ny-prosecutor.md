@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxe
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxes-vance/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -238,6 +238,20 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3452122/210223-donald-trump-jm-1402_dbab2f8aec615a8c581bb5f4ed0c8961.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Mayorkas Vows to Replace Trump-Era Immigration Policies"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas discussed efforts to revert immigration policies laid out by the Trump administration, including those involving children."
+    publishedDateTime: 2021-03-02T00:31:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007630715/mayorkas-trump-immigration-family-separation.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/01/us/politics/01new-was-mayorkas/01new-was-mayorkas-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "RYByXwOnRR42RmHT7PTxP5NxWL8pQUPduFqQVdJFyy7GK9HwPM0gwg5uuSlvbmNmsjnEGIzr7xB030q/gByy6XH8mupo42OiU9ujWWZMjIthqOWNsdqsyXpn60d/A0ICzfbWKeO3XfazCG8iSZt50V2IPISiSLR/z2+LHWE4A9NXQNmhoP1r8S2W8Yvyq9LO+4+biNn4QhScRP3IpUSpxgQ0OzzNiiTm4528u9bC8m4ip0HgdV+m06sh4Gdyc/hzxVyuppOM6cM1I/Hy2pdWa9Ta8EwVxklZ+vbwmnG5Y4ZM4jTUSkAKViLRcQ4CrYN2BOdC+6UxU8k++r7CLtURvniz20LvDMCx8Qm+WbsikoU=;shVTOH08vz8/HkfqqZTbqQ=="

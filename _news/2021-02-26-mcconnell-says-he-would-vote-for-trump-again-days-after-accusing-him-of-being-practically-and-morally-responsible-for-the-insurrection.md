@@ -93,6 +93,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump's supporters boo Mitch McConnell despite his saying he'd 'absolutely' support the former president in 2024"
+    excerpt: "Former President Donald Trump took credit for Mitch McConnell's reelection but prompted a round of jeers and boos from his supporters."
+    publishedDateTime: 2021-03-02T00:18:00Z
+    webUrl: "https://www.businessinsider.com/video-mitch-mcconnell-booed-by-trump-supporters-during-cpac-speech-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/video-mitch-mcconnell-booed-by-trump-supporters-during-cpac-speech-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-mitch-mcconnell-booed-by-trump-supporters-during-cpac-speech-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/603cdac287d37600190d057b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "a48O5KswXjU6daVIzYERv+6DN+XJNLjUUxsctZRy4I8GYbcmRhUXsR/b1Rd6Tv90Z+Sr1JsYp1Ys2xaKEb6iwiHc+gzJ3bx/XW3xlC74zx2Thsj5zCGv5+RirDoQ7Omb/HExh22v9jpxAXTW9qVMAfHdU0lV8ABTaYcQDZV9+GfYiINQ/cDexg/zkeRGC/awLbFYBb307YR00BXWxtvhI6/oyrrNWbEWrB0kVJA8tf3A1uovVxk2xDfrYOiXZgTclUZT1oLTApBbgiiQfRChVjIwqtU76oX67s57vJp2HoeyWUxupVtrpDZ8u7EpUyvf5q+oDxIB6u4nzO8ANqIu8g2yc82JPBtIHNuPSOh4mCc=;1kn9JRu+ZSPpyj9VRSobIg=="
 ---

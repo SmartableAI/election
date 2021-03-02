@@ -90,6 +90,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says Mexico an 'equal' as he dismantles Trump immigration policies"
+    excerpt: "President Biden assured Mexico’s President Andrés Manuel López Obrador that he considers the country “an equal” during a virtual meeting on Monday, as his administration works to unravel some of President Donald Trump’s immigration policies."
+    publishedDateTime: 2021-03-02T00:37:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b2PI3nYVx60/biden-mexico-equal-reverses-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mexico-equal-reverses-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mexico-equal-reverses-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e575dda5-88ce-410a-89d1-2e633c078351/84aa2f82-8a71-4b1d-8d63-e3489546f015/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden bulldozes Trump's classical architecture mandate for federal buildings"
     excerpt: "President Biden revoked former President Trump’s order that called for \"Promoting Beautiful Federal Civic Architecture.”"
     publishedDateTime: 2021-02-25T21:18:20Z
@@ -474,6 +490,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Miguel Cardona confirmed to serve as Biden’s education secretary"
+    excerpt: "President Joe Biden’s choice to serve as education secretary, Connecticut Education Commissioner Miguel Cardona, was confirmed to the post by the Senate on Monday"
+    publishedDateTime: 2021-03-01T23:41:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1SK6dBv7whM/miguel-cardona-confirmed-bidens-education-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/miguel-cardona-confirmed-bidens-education-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/miguel-cardona-confirmed-bidens-education-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ba2bc4f9-b694-4326-9312-44524e136e49/cf153a2d-9a34-4de7-b7b1-2e2a0236c841/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "State Dept briefing gets heated as reporter asks if Biden admin taking credit for Trump accomplishments"
     excerpt: "An Associated Press reported took State Department spokesman Ned Price to task Monday for suggesting that President Joe Biden was responsible for a policy that had started under the Trump administration."
     publishedDateTime: 2021-02-23T00:12:39Z
@@ -741,6 +773,22 @@ related:
     quality: 150
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5dd5016-e973-406e-aca3-a67d4fa2408e/60e2794a-cd23-476f-aed8-5df466d4b73d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says Mexico an 'equal' has he dismantles Trump immigration policies"
+    excerpt: "President Biden assured Mexico’s President Andrés Manuel López Obrador that he considers the country “an equal” during a virtual meeting on Monday, as his administration works to unravel some of President Donald Trump’s immigration policies."
+    publishedDateTime: 2021-03-02T00:37:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-mexico-equal-reverses-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mexico-equal-reverses-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mexico-equal-reverses-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 149
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e575dda5-88ce-410a-89d1-2e633c078351/84aa2f82-8a71-4b1d-8d63-e3489546f015/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

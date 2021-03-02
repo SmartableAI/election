@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-us-canada-fight-climate-chang
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-us-canada-fight-climate-change.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Ex-Clinton aide blasts Dems for #MeToo 'double standard' on Cuomo and Biden accusations"
+    excerpt: "Peter Daou, a former aide to Hillary Clinton, unleashed a series of attacks on Democrats, alleging they were hypocritical in their response to sexual harassment allegations lobbed at leaders in their party."
+    publishedDateTime: 2021-03-02T00:31:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X9JEsnqgIlg/ex-clinton-aide-biden-cuomo-double-standard"
+    ampWebUrl: "https://www.foxnews.com/politics/ex-clinton-aide-biden-cuomo-double-standard.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-clinton-aide-biden-cuomo-double-standard.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5309255d-fbe4-449f-a7a3-4733307d2e62/61001ff1-18d7-4969-b2d8-a672ffd64b94/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Vvzhux3oKpmOfgUZfhAlu0qk1q6iNRCfmHXNaCY/COl9NqMBEePCR8LSFRTO3ckEnJFkxElxqiuiLT4VZmf4GOJPvsD8K42Uwxvg82kC791Ur0iG1iDmDF97KljIMtVBGvJoIrA/KcCUooUIIOhj2+D7t2hOifaa5LyiMbdnGLgTR/5TsScnNidGQnTfnBRmmc6d6R02M/Bx5+43Rat0SkXYatWY1Fefk2sRskWyXvslLLC/yXEqhBu8UdT/um10EG4eo4PDK4ZDXlwqdnZCLTzYW/WszRxqd/Sz6LKTD5bJYzIdfBZfTbSHgS+fAGenDw2lk3C02mHTrJS11ggP7mq38/dpDQgqqyzHw6ZQHE0=;MDDLD0McE1rufleYDyr1rA=="
 ---

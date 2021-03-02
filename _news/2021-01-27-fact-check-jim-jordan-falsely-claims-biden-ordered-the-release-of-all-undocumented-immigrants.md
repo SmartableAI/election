@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Key GOP swing vote undecided on whether to back Biden's imperiled budget pick"
+    excerpt: "Republican Sen. Lisa Murkowksi of Alaska had a sit-down meeting on Monday with Neera Tanden, President Joe Biden's nominee to lead the Office of Management and Budget, but has not decided yet if she will provide the crucial vote Tanden likely needs to be confirmed.\n    \n"
+    publishedDateTime: 2021-03-02T00:19:30Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3o_6n_DArsU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/neera-tanden-lisa-murkowski-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/neera-tanden-lisa-murkowski-meeting/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222215225-neera-tanden-0209-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Biden's pick for HHS secretary says he never sued nuns as California attorney general"
     excerpt: "President Joe Biden's pick to run the Department of Health and Human Services, California's Attorney General Xavier Becerra, faced a good deal of criticism from Senate Republicans during his confirmation hearing last week over his qualifications, his stance on abortion and several lawsuits he took part"
     publishedDateTime: 2021-02-27T21:10:19Z

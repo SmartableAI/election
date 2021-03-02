@@ -77,6 +77,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Trump's supporters boo Mitch McConnell despite his saying he'd 'absolutely' support the former president in 2024"
+    excerpt: "Former President Donald Trump took credit for Mitch McConnell's reelection but prompted a round of jeers and boos from his supporters."
+    publishedDateTime: 2021-03-02T00:18:00Z
+    webUrl: "https://www.businessinsider.com/video-mitch-mcconnell-booed-by-trump-supporters-during-cpac-speech-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/video-mitch-mcconnell-booed-by-trump-supporters-during-cpac-speech-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/video-mitch-mcconnell-booed-by-trump-supporters-during-cpac-speech-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/603cdac287d37600190d057b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "McConnell says he would vote for Trump again days after accusing him of being 'practically and morally responsible' for the insurrection"
     excerpt: "McConnell told Fox News' Bret Baier that he would \"absolutely\" back Trump if he won the 2024 Republican nomination."
     publishedDateTime: 2021-02-26T08:43:00Z

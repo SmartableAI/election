@@ -239,6 +239,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Mayorkas Vows to Replace Trump-Era Immigration Policies"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas discussed efforts to revert immigration policies laid out by the Trump administration, including those involving children."
+    publishedDateTime: 2021-03-02T00:31:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007630715/mayorkas-trump-immigration-family-separation.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/01/us/politics/01new-was-mayorkas/01new-was-mayorkas-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "X4edJZ/c/wMQx2lshd/uHoiFIJViaNWCBh5J6kLP4nIIlnKVMEvh6N1+E7ctN80+uu4R2n/qZZ4Mc2CRntqgfW6vl0CvA3yJrojGtQ7guoWx2tlZeabjSQhzoetWVlO966zEgaqfy8Calvf9oSGbh5m8oc6x9UhYJ1jXgW9+1+WIu1uY44y+BmIsXuoM/oFsYbk8dvdRdS7Yie5wMWtz8uA4/0Pq57Ge7JDERthPAc0Q8S0OUerhTFnsmZDD7dGj4pSNbi7i4OctEKYek0eV7YjtOkO3q6dvruqK/oZxIWNKFbArvy3M3Y/pMEvSM3kUj25xZJbbOa8Qyi5kpt5sYO9zuMt9kQCKsSV1HcNsDdE=;tY43ojGt/WP5mmDy8hZQig=="
 ---

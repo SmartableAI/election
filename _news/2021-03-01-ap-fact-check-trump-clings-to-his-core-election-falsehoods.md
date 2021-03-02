@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-cl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
 type: article
 quality: 140
-heat: 280
+heat: 300
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/18BmmlaIq3p2A34xDUMRRGbm5jI=/arc-anglerfish-washpost-prod-washpost/public/J4T2E4TXX4I6XFEJR562ZVI6OU.jpg"
         width: 3500
         height: 2333
+        isCached: true
+  - title: "Nine months later, fencing comes down around the church where Trump stood with a Bible"
+    excerpt: "The elite, Episcopal congregation found itself at the center of anti-racism protests and wrestled with the way the fence changed it"
+    publishedDateTime: 2021-03-01T23:08:00Z
+    webUrl: "https://www.washingtonpost.com/religion/2021/03/01/st-johns-fencing-down-trump-bible-black-lives-matter-plaza/"
+    ampWebUrl: "https://www.washingtonpost.com/religion/2021/03/01/st-johns-fencing-down-trump-bible-black-lives-matter-plaza/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/03/01/st-johns-fencing-down-trump-bible-black-lives-matter-plaza/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3BJ4KST2ZII6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Conservatives have made a gold-colored Trump statue"
     excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"

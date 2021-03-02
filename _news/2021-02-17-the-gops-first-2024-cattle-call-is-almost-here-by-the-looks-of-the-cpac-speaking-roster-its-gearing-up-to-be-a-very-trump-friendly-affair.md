@@ -189,6 +189,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tracking Trump's legal cases as New York prosecutors examine tax documents"
+    excerpt: "Manhattan prosecutors are sifting through millions of pages of tax and financial documents from former President Donald Trump, after the Supreme Court rejected his effort to block them from being turned over."
+    publishedDateTime: 2021-03-01T23:56:00Z
+    webUrl: "https://www.cbsnews.com/video/tracking-trumps-legal-cases-as-new-york-prosecutors-examine-tax-documents/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/01/5b929da1-94b3-4243-8f0f-db4ef6eff32a/thumbnail/1200x630/4d676decdefcc90d580ff74ee451bd03/0301-redblue-bam-656442-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Reince Priebus, former chief of staff to Donald Trump, mulling run for Wisconsin governor, according to GOP strategist"
     excerpt: "Reince Priebus, a former White House chief of staff to Donald Trump, has called Republican donors and power brokers in Wisconsin to discuss a possible bid for governor."
     publishedDateTime: 2021-02-19T19:00:00Z

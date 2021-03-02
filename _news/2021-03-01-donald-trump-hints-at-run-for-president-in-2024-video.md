@@ -61,6 +61,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "At CPAC, Donald Trump targets the Republican Party of Liz Cheney and Mitch McConnell"
+    excerpt: "Former President Trump told CPAC he wants to \"get rid of\" Republicans who oppose him and supported impeachment."
+    publishedDateTime: 2021-03-01T20:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/01/cpac-donald-trump-targets-republicans-liz-cheney-mitch-mcconnell/6868099002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6868099002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6868099002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 118
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/01/USAT/635dfef8-08df-4434-a40c-ee6aea5166ce-AP_Trump_Conservatives.jpg?auto=webp&crop=3788,2131,x1,y95&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump is headliner at CPAC in Orlando. But really it's conservative Florida's coming-out party"
     excerpt: "Former President Trump will mark his return at CPAC, but the four-day fest in Orlando is a coming out party for Florida's conservative leaders, too."
     publishedDateTime: 2021-02-26T04:22:00Z
@@ -78,9 +94,9 @@ related:
         height: 675
         isCached: true
   - title: "QAnon followers read the tea leaves in Donald Trump's CPAC speech"
-    excerpt: "The QAnon netherworld was abuzz with excitement after former President Donald Trump spoke Sunday at the Conservative Political Action Conference in Orlando, Florida. The movement devoted to a variety of conspiracy theories is spreading the notion that Trump will be reinstated as president on March 4 — this Thursday."
-    publishedDateTime: 2021-03-01T15:20:00Z
-    webUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech-dan-patterson-analysis-2021-03-01/"
+    excerpt: "The QAnon netherworld was abuzz with excitement after former President Donald Trump spoke Sunday at the Conservative Political Action Conference in Orlando, Florida. The movement devoted to a variety of conspiracy theories is spreading the notion that Trump will be reinstated as president on March 4 -- this Thursday."
+    publishedDateTime: 2021-03-01T12:49:00Z
+    webUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech/"
     type: article
     provider:
       name: CBS News

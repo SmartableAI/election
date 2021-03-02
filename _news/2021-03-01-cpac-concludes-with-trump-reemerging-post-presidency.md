@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Nine months later, fencing comes down around the church where Trump stood with a Bible"
+    excerpt: "The elite, Episcopal congregation found itself at the center of anti-racism protests and wrestled with the way the fence changed it"
+    publishedDateTime: 2021-03-01T23:08:00Z
+    webUrl: "https://www.washingtonpost.com/religion/2021/03/01/st-johns-fencing-down-trump-bible-black-lives-matter-plaza/"
+    ampWebUrl: "https://www.washingtonpost.com/religion/2021/03/01/st-johns-fencing-down-trump-bible-black-lives-matter-plaza/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/religion/2021/03/01/st-johns-fencing-down-trump-bible-black-lives-matter-plaza/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3BJ4KST2ZII6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Conservatives have made a gold-colored Trump statue"
     excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"
     publishedDateTime: 2021-02-28T12:46:00Z

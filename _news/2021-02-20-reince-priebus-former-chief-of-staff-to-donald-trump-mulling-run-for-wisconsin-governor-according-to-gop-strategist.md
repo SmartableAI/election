@@ -191,6 +191,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tracking Trump's legal cases as New York prosecutors examine tax documents"
+    excerpt: "Manhattan prosecutors are sifting through millions of pages of tax and financial documents from former President Donald Trump, after the Supreme Court rejected his effort to block them from being turned over."
+    publishedDateTime: 2021-03-01T23:56:00Z
+    webUrl: "https://www.cbsnews.com/video/tracking-trumps-legal-cases-as-new-york-prosecutors-examine-tax-documents/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 103
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/01/5b929da1-94b3-4243-8f0f-db4ef6eff32a/thumbnail/1200x630/4d676decdefcc90d580ff74ee451bd03/0301-redblue-bam-656442-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The GOP's first 2024 cattle call is almost here. By the looks of the CPAC speaking roster, it's gearing up to be a very Trump-friendly affair."
     excerpt: "This year's flagship conservative event is also notable for who is not showing up. Establishment GOP leaders like Mitch McConnell, Kevin McCarthy and Mike Pence are so far not listed as speakers."
     publishedDateTime: 2021-02-17T10:02:00Z
