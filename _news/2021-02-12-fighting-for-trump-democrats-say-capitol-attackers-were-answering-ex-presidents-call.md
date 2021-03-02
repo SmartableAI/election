@@ -153,6 +153,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump sold his supporters on a big lie. What happens if Republicans let it define them?"
+    excerpt: "WASHINGTON—Every day of former president Donald Trump’s second impeachment trial opened with a prayer by Senate chaplain Barry Black. On Wednesday, he solemnly quoted the poet James Russell ..."
+    publishedDateTime: 2021-02-14T18:28:00Z
+    webUrl: "https://www.thestar.com/news/world/2021/02/14/donald-trump-sold-his-supporters-on-a-big-lie-what-happens-if-republicans-let-it-define-them.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/world/2021/02/14/donald-trump-sold-his-supporters-on-a-big-lie-what-happens-if-republicans-let-it-define-them.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/world/2021/02/14/donald-trump-sold-his-supporters-on-a-big-lie-what-happens-if-republicans-let-it-define-them.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 63
+    images:
+      - url: "https://images.thestar.com/Um8VzbUdMjnBOT0XAPafRODTJbw=/1200x800/smart/filters:cb(1613400225031)/https://www.thestar.com/content/dam/thestar/news/world/2021/02/14/donald-trump-sold-his-supporters-on-a-big-lie-what-happens-if-republicans-let-it-define-them/insight_cover.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "nNn/Soat9ODFUbBUQiKX6wlpUGop+1xw4x5c9z8wYVF9FMFuX7LVG0Q11y09rmI2JccJU0ydjuWEkHY3i1FydYQFOUJ6yhJWqCnSo6CHWvJvO19EY/hobY7xLgHZbfOnbGPuCYxdKx2yiw+m7iCIKogH+X95ZkarHMZlesUtUp7SFI+Rxq/r9jlX1SUHgpiJzczdf+GthDayVeqZm/7j2wenAt47qUNGqwoo/hrtfr3RqrXGmEeaAbYlXBRPtj+o2wBBv5PMju7hZYKf+mrlqxeHxbTAIMmTLPaIeA0AwtAUWwhfx7gRaKB2Q56OThxwu7lhSDhK0Z8MkUn2yNWWnYzzE7CDmvc3ckSqN5elI5lygpPNuKe8A1Dq7fnILBVPfD62qMJoHH7UIPDA5DNDOD/TxAahJtwxnj1Xs0MX14smdg1RcJQiSk8vF8P7Qhqba33JzJpw92rN8dj0HFpMr3fl0Dv4uDl4SpTkg5VSCSDJ8j9eADHbV9iKm/Lv1lHNOtsWhEmHoBIwakgnkmPKgw==;/1veh0TnUrMNtHTmhLm4Uw=="
 ---

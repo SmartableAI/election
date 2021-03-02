@@ -553,6 +553,20 @@ related:
         width: 5400
         height: 3601
         isCached: true
+  - title: "Full Speech: Former President Donald Trump Speaks at CPAC 2021"
+    excerpt: "Former President Donald Trump is the headline speaker at the 2021 CPAC convention where several other potential 2024 presidential candidates will speak beginning Sunday,. \"I don't know if he'll run in 2024 or not,"
+    publishedDateTime: 2021-03-02T04:18:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/28/watch_live_trump_will_speak_at_cpac_as_2024_chatter_begins.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/536218.jpg"
+        width: 5400
+        height: 3601
+        isCached: true
 
 secured: "yP6fNp8xsZhFJ1NACTr29xr+urGCpPMka1XUkxUy+0aqJnJV68Ak7pUpY5ZhAZHEjTtjekyweZPI2amRy0mnZze4MzOiujuXeqFTL3cbWoXpvMUF6hKmZMQRFKgJxMtZTRrLHNHQJLy+LrTJzLrNVDrnlvpV9adHFLZF+dGJ8/GUzMKTv7XPhhywSH5WJeO5lYghpsm9HKUHBfH7spaDWq3+fWitIQfDQOIPCdbjEqhjz2s3MDuNbXcYCzZMun0z8WZYSjlhz3VzLL29h+/AYYmRDFO/rO3noTlaxMRdswARL2xKGcSucMvhCB7N76iBvM99oHKocUF9f5DZOUJ0QkltjY6tJ0z1wbrQPsa6nQc=;/INsg2/f4iCbbQv2KF7Qhg=="
 ---

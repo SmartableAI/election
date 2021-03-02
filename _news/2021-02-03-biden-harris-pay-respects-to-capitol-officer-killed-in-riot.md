@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2230
+heat: 2250
 published: true
 
 provider:
@@ -1451,6 +1451,20 @@ related:
       - url: "https://i2.wp.com/bdn-data.s3.amazonaws.com/uploads/2021/02/Senate-Democrats.jpg?fit=2500%2C1676&#038;ssl=1"
         width: 2500
         height: 1676
+        isCached: true
+  - title: "15 Inspiring Kamala Harris Quotes"
+    excerpt: "Vice President Kamala Harris is no stranger to breaking barriers. Born in Oakland, California, to immigrant parents—her father from Jamaica, her mother from India—Harris graduated from Howard ..."
+    publishedDateTime: 2021-02-08T00:00:00Z
+    webUrl: "https://www.rd.com/list/kamala-harris-quotes/"
+    type: article
+    provider:
+      name: Reader's Digest
+      domain: rd.com
+    quality: 55
+    images:
+      - url: "https://www.rd.com/wp-content/uploads/2020/12/YouArePowerful.jpg"
+        width: 1600
+        height: 1600
         isCached: true
   - title: "Vice President Kamala Harris will stay here until official home is ready"
     excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."

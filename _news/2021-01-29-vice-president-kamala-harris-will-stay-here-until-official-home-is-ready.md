@@ -1461,6 +1461,20 @@ related:
         width: 2500
         height: 1676
         isCached: true
+  - title: "15 Inspiring Kamala Harris Quotes"
+    excerpt: "Vice President Kamala Harris is no stranger to breaking barriers. Born in Oakland, California, to immigrant parents—her father from Jamaica, her mother from India—Harris graduated from Howard ..."
+    publishedDateTime: 2021-02-08T00:00:00Z
+    webUrl: "https://www.rd.com/list/kamala-harris-quotes/"
+    type: article
+    provider:
+      name: Reader's Digest
+      domain: rd.com
+    quality: 55
+    images:
+      - url: "https://www.rd.com/wp-content/uploads/2020/12/YouArePowerful.jpg"
+        width: 1600
+        height: 1600
+        isCached: true
   - title: "VP Kamala Harris swears in Pete Buttigieg as Secretary of Transportation"
     excerpt: "Second gentleman Doug Emhoff poses for photos after United States Vice President Kamala Harris swore in Pete Buttigieg as Secretary of Transportation while his husband Chasten Buttiegieg watched on February 3,"
     publishedDateTime: 2021-02-03T15:27:00Z

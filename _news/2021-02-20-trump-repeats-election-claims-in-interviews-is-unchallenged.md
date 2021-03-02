@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-ele
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370"
 type: article
 quality: 140
-heat: 2240
+heat: 2260
 published: true
 
 provider:
@@ -366,6 +366,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump-supporters-motorcade-florida-01-gty-jc-210215_1613422932600_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump impeachment acquittal not end of legal troubles"
+    excerpt: "Donald Trump’s acquittal in a Senate impeachment trial on a charge of “incitement of insurrection” for his role in the United States Capitol violence does not spell an end to possible ..."
+    publishedDateTime: 2021-02-15T21:28:00Z
+    webUrl: "https://www.aljazeera.com/news/2021/2/15/trump-impeachment-acquittal-not-end-of-legal-troubles"
+    ampWebUrl: "https://www.aljazeera.com/amp/news/2021/2/15/trump-impeachment-acquittal-not-end-of-legal-troubles"
+    cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/2/15/trump-impeachment-acquittal-not-end-of-legal-troubles"
+    type: article
+    provider:
+      name: Al Jazeera English
+      domain: aljazeera.com
+    quality: 125
+    images:
+      - url: "https://www.aljazeera.com/wp-content/uploads/2021/02/2021-02-12T002653Z_247613244_RC2OQL9EAAYL_RTRMADP_3_USA-TRUMP-THIRD-PARTY.jpg?resize=1200%2C630"
+        width: 1200
+        height: 630
         isCached: true
   - title: "\"Duped\" and \"egged on\": Capitol rioters use Trump as excuse in court"
     excerpt: "The Senate may have acquitted Donald Trump of inciting an insurrection, but the former president still faces accusations of incitement from another source: Capitol rioters themselves. Attorneys for at least seven accused rioters have referenced Mr."

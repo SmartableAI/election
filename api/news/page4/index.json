@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-25-power-up-pence-seeks-to-chart-his-own-political-future-as-establishment-republican-fluent-in-maga.md",
+      "title": "Power Up: Pence seeks to chart his own political future – as establishment Republican fluent in MAGA",
+      "excerpt": "All that's missing from former vice president Mike Pence's political reemergence after surviving an insurrection and the turbulent Trump White House is a book deal. The former vice president is not quite back out on the speaking circuit just yet – and declined an invitation to speak at the Conservative Political Action Conference next week,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/02/25/power-up-pence-seeks-chart-his-own-political-future-establishment-republican-fluent-maga/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/25/power-up-pence-seeks-chart-his-own-political-future-establishment-republican-fluent-maga/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VRTZCXDWDUI6XFEJR562ZVI6OU.jpg&w=1440",
+          "width": 1440,
+          "height": 1053,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/25/power-up-pence-seeks-chart-his-own-political-future-establishment-republican-fluent-maga/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/25/power-up-pence-seeks-chart-his-own-political-future-establishment-republican-fluent-maga/?outputType=amp",
+      "publishedDateTime": "2021-02-25T03:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-mccarthy-cheney-have-uncomfortable-exchange-with-reporters-over-trump-speaking-at-cpac.md",
       "title": "McCarthy, Cheney have uncomfortable exchange with reporters over Trump speaking at CPAC",
       "excerpt": "House Minority Leader Kevin McCarthy and Rep. Liz Cheney, the third-ranking House GOP member, had a tense exchange with reporters Wednesday over whether former President Trump should speak at CPAC as planned this weekend.",
@@ -882,7 +934,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 846,
+      "heat": 866,
       "tags": null,
       "images": [
         {
@@ -1315,63 +1367,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-watch-live-biden-holds-roundtable-with-black-essential-workers.md",
-      "title": "Watch live: Biden holds roundtable with Black essential workers",
-      "excerpt": "President Joe Biden holds a roundtable with Black essential workers with Domestic Policy Advisor Susan Rice. Feb. 23, 2021. Read More",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-roundtable-with-black-essential-workers-101463621519",
-      "originalUrl": "https://www.nbcnews.com/video/watch-live-biden-holds-roundtable-with-black-essential-workers-101463621519",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202102/lv_ny1_biden_roundtable_210223.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo101463621519",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101463621519",
-      "publishedDateTime": "2021-02-23T11:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

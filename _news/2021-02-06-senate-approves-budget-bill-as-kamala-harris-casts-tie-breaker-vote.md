@@ -1447,6 +1447,20 @@ related:
         width: 650
         height: 650
         isCached: true
+  - title: "15 Inspiring Kamala Harris Quotes"
+    excerpt: "Vice President Kamala Harris is no stranger to breaking barriers. Born in Oakland, California, to immigrant parents—her father from Jamaica, her mother from India—Harris graduated from Howard ..."
+    publishedDateTime: 2021-02-08T00:00:00Z
+    webUrl: "https://www.rd.com/list/kamala-harris-quotes/"
+    type: article
+    provider:
+      name: Reader's Digest
+      domain: rd.com
+    quality: 55
+    images:
+      - url: "https://www.rd.com/wp-content/uploads/2020/12/YouArePowerful.jpg"
+        width: 1600
+        height: 1600
+        isCached: true
   - title: "Vice President Kamala Harris will stay here until official home is ready"
     excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
     publishedDateTime: 2021-01-28T17:35:00Z

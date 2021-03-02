@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump sold his supporters on a big lie. What happens if Republicans let it define them?"
+    excerpt: "WASHINGTON—Every day of former president Donald Trump’s second impeachment trial opened with a prayer by Senate chaplain Barry Black. On Wednesday, he solemnly quoted the poet James Russell ..."
+    publishedDateTime: 2021-02-14T18:28:00Z
+    webUrl: "https://www.thestar.com/news/world/2021/02/14/donald-trump-sold-his-supporters-on-a-big-lie-what-happens-if-republicans-let-it-define-them.html"
+    ampWebUrl: "https://www.thestar.com/amp/news/world/2021/02/14/donald-trump-sold-his-supporters-on-a-big-lie-what-happens-if-republicans-let-it-define-them.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/news/world/2021/02/14/donald-trump-sold-his-supporters-on-a-big-lie-what-happens-if-republicans-let-it-define-them.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 63
+    images:
+      - url: "https://images.thestar.com/Um8VzbUdMjnBOT0XAPafRODTJbw=/1200x800/smart/filters:cb(1613400225031)/https://www.thestar.com/content/dam/thestar/news/world/2021/02/14/donald-trump-sold-his-supporters-on-a-big-lie-what-happens-if-republicans-let-it-define-them/insight_cover.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "'Fighting for Trump:' Democrats Say Capitol Attackers Were Answering Ex-President's Call"
     excerpt: "Democrats Say Capitol Attackers Were Answering Ex-President's Call WASHINGTON (Reuters) - Democrats making the case for Donald Trump's conviction for inciting the deadly attack on the U.S. Capitol on Jan."
     publishedDateTime: 2021-02-11T20:28:00Z

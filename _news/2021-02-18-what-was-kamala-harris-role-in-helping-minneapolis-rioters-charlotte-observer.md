@@ -199,6 +199,22 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "Kamala Harris' Workout Routine Includes Running Up And Down The Lincoln Memorial"
+    excerpt: "Vice President Kamala Harris was spotted running up and down the Lincoln Memorial steps. She was working out with Second Gentleman Douglas Emhoff at the time. Harris previously said she likes to ..."
+    publishedDateTime: 2021-02-11T16:29:00Z
+    webUrl: "https://www.womenshealthmag.com/fitness/a35471564/kamala-harris-workout/"
+    ampWebUrl: "https://www.womenshealthmag.com/fitness/amp35471564/kamala-harris-workout/"
+    cdnAmpWebUrl: "https://www-womenshealthmag-com.cdn.ampproject.org/c/s/www.womenshealthmag.com/fitness/amp35471564/kamala-harris-workout/"
+    type: article
+    provider:
+      name: Women's Health
+      domain: womenshealthmag.com
+    quality: 70
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vice-president-kamala-harris-attends-a-virtual-roundtable-news-photo-1612978106.?crop=1.00xw:0.753xh;0,0.0671xh&resize=1200:*"
+        width: 1024
+        height: 514
+        isCached: true
   - title: "Kamala Harris, Husband Doug Emhoff Give Healthcare Workers A Valentine's Day Surprise"
     excerpt: "Kamala Harris and her husband, Doug Emhoff, handed out cookies to essential healthcare workers for Valentine's Day."
     publishedDateTime: 2021-02-14T07:27:00Z
