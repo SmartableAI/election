@@ -1,20 +1,20 @@
 ---
 category: news
-title: "Kamala Harris to speak at Black History Month event"
-excerpt: "House Majority Leader Steny H. Hoyer (D-Md.) is expected to introduce Vice President Harris at a virtual event marking the 40th Black History Month on Feb. 27."
-publishedDateTime: 2021-02-27T15:24:00Z
-originalUrl: "https://www.washingtonpost.com/video/national/kamala-harris-to-speak-at-black-history-month-event/2021/02/27/533a911c-2d2c-4472-acd2-f69e987d07bf_live.html"
-webUrl: "https://www.washingtonpost.com/video/national/kamala-harris-to-speak-at-black-history-month-event/2021/02/27/533a911c-2d2c-4472-acd2-f69e987d07bf_live.html"
+title: "Kamala Harris Pushes Plan to Strengthen City Infrastructure"
+excerpt: "The Biden administration is preparing a new stimulus proposal for Congress that would follow its coronavirus relief plan."
+publishedDateTime: 2021-03-02T08:15:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-03-01/kamala-harris-on-stimulus-plan-for-cities"
+webUrl: "https://www.bloomberg.com/news/articles/2021-03-01/kamala-harris-on-stimulus-plan-for-cities"
 type: article
 quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Bloomberg
+  domain: bloomberg.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +23,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-27-2021/t_06aede71413242389b5cb300208ca5ba_name_202102_kamalaharris_reuters_thumbnail.jpg&w=1080"
-    width: 1080
-    height: 608
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEdUCPOZx.G0/v1/1200x675.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -42,6 +42,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i074DLE2rc5U/v0/1200x800.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Kamala Harris to speak at Black History Month event"
+    excerpt: "House Majority Leader Steny H. Hoyer (D-Md.) is expected to introduce Vice President Harris at a virtual event marking the 40th Black History Month on Feb. 27."
+    publishedDateTime: 2021-02-27T15:24:00Z
+    webUrl: "https://www.washingtonpost.com/video/national/kamala-harris-to-speak-at-black-history-month-event/2021/02/27/533a911c-2d2c-4472-acd2-f69e987d07bf_live.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-27-2021/t_06aede71413242389b5cb300208ca5ba_name_202102_kamalaharris_reuters_thumbnail.jpg&w=1080"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Vice President Kamala Harris steps into new foreign policy role"
     excerpt: "White House officials say Vice President Kamala Harris will prioritize cybersecurity and global health as part of her foreign policy role. CBS News White House reporter Tim Perry joins CBSN to explain."
@@ -70,20 +84,6 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
-        isCached: true
-  - title: "Kamala Harris Pushes Plan to Strengthen City Infrastructure"
-    excerpt: "The Biden administration is preparing a new stimulus proposal for Congress that would follow its coronavirus relief plan."
-    publishedDateTime: 2021-03-02T08:15:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-03-01/kamala-harris-on-stimulus-plan-for-cities"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 105
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEdUCPOZx.G0/v1/1200x675.jpg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon"
     excerpt: "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according"
@@ -228,6 +228,6 @@ related:
       domain: newstribune.com
     quality: 26
 
-secured: "4S+mTLjb5oV/QfbO4KNhZNp89tVCkCPWn9Kx47yLKJO3yRxYw82AQ6poZLXk83GK6JHn5TqDjivyyyQkQFuQ3/8WmgDnXiRByRA383fU5qca9hulYcS/wrUFHGVUBwLBEMH92ntClgA4vZzoH61DtmxQq5Ef1WSC0cpFkJlVLt3OGNHQ0icmrniOPBWeHG6ODIbhtPGrafcyV9f8dxUxskt75rpmxxfXk9XoMq/lHUAj5NarfkNCroAkswKJrRJoiR3Yfkw6ULqLjMfGXr40Yw/V+MD0a4LmJW5kzSIQnvym2W/Hqu0wG/+o0rwQsO4ajdnY1h1RagizIGClQPmtVrjepFlSxHkz7B0sh6lCXwuQmuZu2gMKf6rL9avMT6q0am4nJS85Y2ApAmXpULjkNg8MrtneUk4u2/XLxcWx5Yv/36Z5rgCxGAxlq7jaLVGZzqf+0cA3zLaeZjIaj1QiJbCdS4WZTjAz+9YIVwfsQUsoLj4Yky8QjfoaIS/ybbVe4YD34H9U6IbhAij2LT/FFQ==;nkh29l9i/vhGtflJQ9TAEg=="
+secured: "9nbFggZ3fI8rZZax7eZa9w84xU2MxDRX6scB5hCsfBYiNkvgDue1nvhUTUKn8B/hpltM/G3kZXtAMXihyJhEpCAGADUYPiohp+noHsnpBc8KJVytW6//FjnJ/pbbD9u/T9SfqDsxDfZ4XlVkCVGInyds9OhIkA7fuOxP/OECCZcXWNlIsqP4yXUwJvaDA5upynCHkfwZSM4DXYhvRgPkwbLPPX52p/g2n5+3nNbkJqxWiJA1QvSLkkp69wPPGurlMduDwMI3clHRenwFgg0qX0FCLl+NFmax5/kVgS+oI/fNTxJGTPbwbNg/X6pUsMdADZ2blFd6OST5yf5wjRxnO+tVvRkv8vIk0W4yiKbkF8g=;6XzOFnhgcevUfnsxavXG7g=="
 ---
 

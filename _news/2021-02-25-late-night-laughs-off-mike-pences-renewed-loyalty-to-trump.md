@@ -155,7 +155,7 @@ related:
     provider:
       name: Politico
       domain: politico.com
-    quality: 150
+    quality: 160
     images:
       - url: "https://static.politico.com/06/b5/fffbc89c42abaaef5ce4dbe28735/210226-jim-banks-trump-ap-773.jpg"
         width: 1160

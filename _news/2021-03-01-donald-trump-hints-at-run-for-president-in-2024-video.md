@@ -94,9 +94,9 @@ related:
         height: 675
         isCached: true
   - title: "QAnon followers read the tea leaves in Donald Trump's CPAC speech"
-    excerpt: "The QAnon netherworld was abuzz with excitement after former President Donald Trump spoke Sunday at the Conservative Political Action Conference in Orlando, Florida. The movement devoted to a variety of conspiracy theories is spreading the notion that Trump will be reinstated as president on March 4 -- this Thursday."
-    publishedDateTime: 2021-03-01T12:49:00Z
-    webUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech/"
+    excerpt: "The QAnon netherworld was abuzz with excitement after former President Donald Trump spoke Sunday at the Conservative Political Action Conference in Orlando, Florida. The movement devoted to a variety of conspiracy theories is spreading the notion that Trump will be reinstated as president on March 4 — this Thursday."
+    publishedDateTime: 2021-03-01T15:20:00Z
+    webUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech-dan-patterson-analysis-2021-03-01/"
     type: article
     provider:
       name: CBS News

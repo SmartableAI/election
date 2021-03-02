@@ -2,26 +2,26 @@
 category: news
 title: "Vice President Kamala Harris talks to Maryland residents on COVID vaccine, stimulus at Black History Month event"
 excerpt: "Vice President Kamala Harris spoke to hundreds of Anne Arundel and Prince George’s County residents Saturday as she joined Rep. Steny Hoyer’s 40th Annual Black History Month Celebration, the first time in its 40 years the event was held online."
-publishedDateTime: 2021-02-27T20:02:00Z
-originalUrl: "https://www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
-webUrl: "https://www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
-ampWebUrl: "https://www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
+publishedDateTime: 2021-02-27T22:54:00Z
+originalUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
+webUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
+ampWebUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-capitalgazette-com.cdn.ampproject.org/c/s/www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Baltimore Sun
-  domain: baltimoresun.com
+  name: Capital Gazette
+  domain: capitalgazette.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.baltimoresun.com/resizer/GnZSS_D_H4PIb8RnycChednIWeM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L24NKVMQ6JC2NKIDR5SQICFGXE.jpg"
+  - url: "https://www.capitalgazette.com/resizer/GnZSS_D_H4PIb8RnycChednIWeM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L24NKVMQ6JC2NKIDR5SQICFGXE.jpg"
     width: 1200
     height: 674
     isCached: true
@@ -82,6 +82,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Kamala Harris Pushes Plan to Strengthen City Infrastructure"
+    excerpt: "The Biden administration is preparing a new stimulus proposal for Congress that would follow its coronavirus relief plan."
+    publishedDateTime: 2021-03-02T08:15:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-01/kamala-harris-on-stimulus-plan-for-cities"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEdUCPOZx.G0/v1/1200x675.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon"
     excerpt: "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according"
@@ -210,6 +224,6 @@ related:
       domain: newstribune.com
     quality: 26
 
-secured: "fa371N43lv9+JQEb2XqBNbnKsbsDkQ3iKr66YrvXb2KNx4rNbJhUeBIEkraaHD3YAnwizWA/N4TR2mqfOirIdj6tBFMmuXxjM24QPpTX7Filq+hWDsx+pmGsl8rT8e+prrcE+ID5ZXGO51jqMa+bEgM1eE1caZpxJOzw8Be/ARptp+f/wrjVKx4kvAQ9sSvs0hP0DsR7p9YhI5/wDVBrih/d+b4/aa31RU9b4fCXWDMVF6AmOeXH2XeuCRsL4IdyiEk+iO6wyYW26sYYwZ0ui9dfd4rF1jbwtHMBNDfLaDVuBoHOfsXvzltimtGnt4hEbvhiYsla//lCQHJjsHoDmslo32hsXjVPfku+OQ3iZhYyWYsaKgEWHVRl2xsRD78XHVyIj/sBOLAcTa4cK3H8TjGmh9MtZdaY9X8Ey8DT9zXuXAuLZnctcex57YPDwRkpPatrtejZAZhO0cWhiEkmRahbbwKeJ+KJHUo14zwDFOf8FCeza6fh2zo0AJ09mz8mcracxH9devYINPqXQ5WKew==;rz74XGNy2s+LiIoD2BeFKQ=="
+secured: "16cLeFjW0pd5tfdDlWceXIVS7LG7xLNPkpZ7G3ivAJayb7qN/LQrCXUZMPANPKikQmG3ZkdR1/MFjpwEVVJmaHBqreHbiiuTwSkddcUQImVirwSt4xBZOYd+qq4XWBnljwN+YSWNItO9ppWQ1uQB0xA0ouGgAnXW23AEqvrzbXdVzTz/zLynWT9WcHZm1dVHTfiH9ox2kEjzNdkvNX7FPK6AkAAa4M4UUjcWEN9UhHla1CBRFF9oo7meitaUA19UW8xhxfM0hFmdGXVef92z9GSieforAwJXF3XoLWfm4sh7zIx0yre7EffphWo0FXDem3o+iFWBY5KR7XinH8GBmqqiM1VY5lMDagted+NGmKs=;F/JMNvOwsoFyB6ndD7/f+A=="
 ---
 

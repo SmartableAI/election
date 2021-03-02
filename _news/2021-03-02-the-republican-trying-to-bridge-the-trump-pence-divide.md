@@ -8,7 +8,7 @@ webUrl: "https://www.politico.com/news/2021/03/01/republican-study-committee-jim
 ampWebUrl: "https://www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
 type: article
-quality: 150
+quality: 160
 heat: -1
 published: false
 
@@ -24,6 +24,7 @@ topics:
   - Election
   - Mike Pence
   - Democratic Voice
+  - Donald Trump
 
 images:
   - url: "https://static.politico.com/06/b5/fffbc89c42abaaef5ce4dbe28735/210226-jim-banks-trump-ap-773.jpg"
@@ -349,6 +350,6 @@ related:
         height: 773
         isCached: true
 
-secured: "9KTXDmI2SVa4c0trKpocrH/dlBz6EnnHh0QRG2JkJ6blRlWF65rPkUt2m/kwT+RXYPAYYKf1ToiI+NVFKaSuyC7ifdsnsBsPdHTGXKws01q8nFRBmVTDVSLvpw5epBEdJmBvIvyENtwQR2bGra5YCSzBJmp73YD4zEMTi5gITeVlS/O6iIGqOyqwckIgoZ6wdfmABbQlSkqY4lbjizQlrt9xWdzKGhEVVp55lwacy3q2j7yxXdNpXIL+JfHG+dna8Fu6Nu0AyKXW5fSbFhSrhhgjB9yBsbTx6BfJB0bM4lFcgy6hHRIuyUGvPGWK4AdI0sy5owLUAmJy2z3EKp+Ci8ccNwjYuvW9DCCTRc8Du0g=;f4NVXCW3TZTTxUkGUXYI6A=="
+secured: "4q46Av/sIjyrjRp+BecOmhgRZGmRdEX8agrB21MkfEkMGQCDf9fK5xzNb4FrjPQ+ls5jonC7WpohXOAsYNgl1OXP8seILUljZp2JLWCJcJSHwuIIJT/4EeVt81OADVPlGN6SCas85dtqRxSpobLmyJVUSbUvLSzCNquahjxSdZ+C0HqZwp9v9pRAKOCRChiLPAQaTfVDTMgp8vKpk/zYKdH0k2RVoeIfMV8f24gOH7femEUFIQ66WjgQIYQtHPZa1nhpp0t3LUAz0escwEVDgnx20Ye3gSZcNcyjHNdUzXoX7RSTcGs0g0+MfnXtpjsZYg0ECe6/U0QfDRXDmWbkwjR+EqIHvT6ew4Ku6aoRtEbIfPm2suxVUYsY1lghiKyS6kLXwZ4Da7/gWF2XzZmy/rC2n8b8lv4sEfIJwrUiR7olOgExz+5EfUEwM9sHHwup1JXR6GXn7HykR72mtYNexiU2kIIzDtCLI33BVACqfdmM//IluepXENrgFCL6+WFzd3zpb5rWt5JXd3aD2k93gw==;QChKq7pjliNxxV3O+pwLlA=="
 ---
 

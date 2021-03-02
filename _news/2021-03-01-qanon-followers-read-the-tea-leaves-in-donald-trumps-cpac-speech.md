@@ -1,10 +1,10 @@
 ---
 category: news
 title: "QAnon followers read the tea leaves in Donald Trump's CPAC speech"
-excerpt: "The QAnon netherworld was abuzz with excitement after former President Donald Trump spoke Sunday at the Conservative Political Action Conference in Orlando, Florida. The movement devoted to a variety of conspiracy theories is spreading the notion that Trump will be reinstated as president on March 4 -- this Thursday."
-publishedDateTime: 2021-03-01T12:49:00Z
-originalUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech/"
-webUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech/"
+excerpt: "The QAnon netherworld was abuzz with excitement after former President Donald Trump spoke Sunday at the Conservative Political Action Conference in Orlando, Florida. The movement devoted to a variety of conspiracy theories is spreading the notion that Trump will be reinstated as president on March 4 — this Thursday."
+publishedDateTime: 2021-03-01T15:20:00Z
+originalUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech-dan-patterson-analysis-2021-03-01/"
+webUrl: "https://www.cbsnews.com/video/qanon-followers-read-the-tea-leaves-in-donald-trumps-cpac-comeback-speech-dan-patterson-analysis-2021-03-01/"
 type: article
 quality: 105
 heat: -1
@@ -160,6 +160,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "8taqZ0puYfZ3t90qSSoJN21JVZAQXWNCPO36+If2GGaK5DnM81GkNvF3XHk7W1TsaY9EkqaVkPSUHXYVuWeUzk7dgskDU6ExzvORsUwsg3NXJNEsih2kjlggw/R7XpjYG0rzW4kUVd+qZAGdt1bvi4z0VSAitlF5g4cUBVrryw5//MVxh8C6OTlksYu7IjcBgSRgQrUP+T1w6qglbwytWaz6osagLin45k2b9JLeeW6X6UffbXAGDue273a1QPCdZJ4B/aT/fZsohJ6dq14G1FSbmBzzHsCyLjTtT+EVyKEv3xttvG/UqkqS5kIWbcveGVGqCnpL0Mvxgo+Q0XLoATfNHp9EQRfXeuA14+7GsSj5MP3a81czABVxktC/n86reuCCDPPQUY5C0lnwTZJHskUk8lsG6wYpCenxL5fHaVM/51rGuatqcKdGMLAedOdTY97JhCtUhAcmb/i7YlfbZ6Aqv5p8XCRYnkq33u0O5zzZwlYdH+KvynfZ8TbWP2KwYOeGZjVfv8oHNm90O8f4cA==;giTnk/P/01JytEpdouVH9w=="
+secured: "PigM2dvxAjmwvZTm7eypT0/5tR8Rsn/aEx+KNtI96C++y4y1PPzQ/UDxmF+7Vq5thr1cBAjsfQyqmMKqdcCMgwUiOkEhHyYpJZJSPTVMf8SO2MxOKg3Hg8hKJt3RiivCWY6QUZQh3OZ0akOZ6nhs55XP/zvasDl/L5RAlfrLwp0Lukx/ZOBy/RowaHO32wLcBtWbeDMcADIDSMeF25mCn3B69AFFvy0BXxcwP12Tgs3QXQQqqc4A3eoooqh5xyi8OrEM3M5k6hiOQxGqXgZET71StoVq0V6oNckuZ6Wews3h418JfAuDYWbFKhSQ5oT8S7aqjyqcBYvs3naQk/TBtRblYYpDQSUoFwZyBr9rKgk=;jp+wICFKUTUZCZdcyf6kLA=="
 ---
 

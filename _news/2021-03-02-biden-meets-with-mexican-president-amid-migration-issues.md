@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden's 1st 100 days live updates: House proceeding with COVID relief without GOP"
-excerpt: "Wyo., is keeping her place in House GOP leadership after Republicans voted 145-61 to keep her in the No. 3 position, despite her vote to impeach former President Donald Trump last month.  Trump's most ardent supporters in the House waged a weeks-long campaign to oust Cheney from her post,"
-publishedDateTime: 2021-02-04T01:57:00Z
-originalUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
-webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+title: "Biden meets with Mexican president amid migration issues"
+excerpt: "President Joe Biden met virtually Monday with Mexican President Andrés Manuel López Obrador — a chance for the pair to talk more fully about migration, confronti"
+publishedDateTime: 2021-03-01T23:00:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-meet-mexican-president-amid-migration-issues-76178227"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-meet-mexican-president-amid-migration-issues-76178227"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-meet-mexican-president-amid-migration-issues-76178227"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meet-mexican-president-amid-migration-issues-76178227"
 type: article
-quality: 120
+quality: 125
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/us-capitol-dome-reut_hpMain_20210203-184644_16x9_1600.jpg"
-    width: 1600
-    height: 900
+  - url: "https://s.abcnews.com/images/Politics/WireAP_a78e85506a104b4c80b2c03c604a5643_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -559,22 +559,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden meets with Mexican president amid migration issues"
-    excerpt: "President Joe Biden met virtually Monday with Mexican President Andrés Manuel López Obrador — a chance for the pair to talk more fully about migration, confronti"
-    publishedDateTime: 2021-03-01T23:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-meet-mexican-president-amid-migration-issues-76178227"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-meet-mexican-president-amid-migration-issues-76178227"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-meet-mexican-president-amid-migration-issues-76178227"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_a78e85506a104b4c80b2c03c604a5643_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Texas storm: Biden to declare major disaster to secure federal aid – live"
     excerpt: "Biden says declaration could be signed this afternoon and would open up aid for immediate and long-term recovery efforts – follow all the latest news"
     publishedDateTime: 2021-02-19T23:18:00Z
@@ -764,6 +748,22 @@ related:
     quality: 121
     images:
       - url: "https://s.abcnews.com/images/General/covid-vaccine-biden-03-gty-llr-210225_1614287814170_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Biden's 1st 100 days live updates: House proceeding with COVID relief without GOP"
+    excerpt: "Wyo., is keeping her place in House GOP leadership after Republicans voted 145-61 to keep her in the No. 3 position, despite her vote to impeach former President Donald Trump last month.  Trump's most ardent supporters in the House waged a weeks-long campaign to oust Cheney from her post,"
+    publishedDateTime: 2021-02-04T01:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75597849"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/us-capitol-dome-reut_hpMain_20210203-184644_16x9_1600.jpg"
         width: 1600
         height: 900
         isCached: true
@@ -1206,6 +1206,6 @@ related:
         height: 675
         isCached: true
 
-secured: "PwSa+0wENTOS3o5a4a0PNTFKOu2BzcjwgmUfrDhuYrNwfRGv+zbolRYxamaOJZtG9DRK80Caxn0ubS2TFKswLCcWQuqCONFm7xk1e0kGf21PNl3n+LBceJGsklaeXJ1HTfNYgWbJ24Q2hFpXoj7p0I5GyVsbLmZeuTJR1kuvkKtWOzzsZ8ZB2tBXe8y3ve6sOOiszhKtqmnc7F5bMqAX9FEB1bUlGzqqjMDZ1pbxdXcknLpH/YkfPHNzgGq688QdccFs5KHqdaBqwR1GCbd4KaFsJtYKybrihfJ37cUqSjLaFZmcW+Aw3BfbLBshQWStooU1yjOkyEbo1qV+azHBzbk5C2Lfc2IbGCTtrIMaEIY=;pzuPoBtzj3J3nk0x4aT4FQ=="
+secured: "rBEWchz0Y7oge3HJ8oCvE5nHxZcvWYMhFvKx4Qk6Z9H2QdDsBsaGadDLEA9rzJrdP2iM6PJe3fnllcgUs6udVZ7iwEa3SL1M0nUYxxHodV1TPkPKv3GvcYsTRnPkz9ZS+qizipvZ6HA1w6KD6MX93dxJ9VzWoNaum7+/41pJbcN7KstKkMGCNnWe+oS6nf/ilpMeTix12g2Z+QNKzoQmdKkalq1woN7mfruCdn3AqbqiSKwjO+JIaIU+JoQmwUvl1RENpVlkPyfW9xCAR8HzbkazmTbgySrlwVVRFbXpMcn69MBsLGRggdQYgVUYhteyf78ZUCbpzKFYzAP2YlYfj6GJck2qUkkHt8vCRcBc1Ts=;AmWz+esnGwYh3ppcYOX6RQ=="
 ---
 
