@@ -160,6 +160,22 @@ related:
         width: 851
         height: 445
         isCached: true
+  - title: "The Republican trying to bridge the Trump-Pence divide"
+    excerpt: "Rep. Jim Banks is reshaping the Republican Study Committee to align with the ex-president still ruling the GOP."
+    publishedDateTime: 2021-03-02T06:28:00Z
+    webUrl: "https://www.politico.com/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/06/b5/fffbc89c42abaaef5ce4dbe28735/210226-jim-banks-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Tower’s Neighbors Are Relieved as Barricades Come Down"
     excerpt: "Donald J. Trump’s presidency meant snarled traffic, blocked sidewalks and frequent protests outside his Manhattan home."
     publishedDateTime: 2021-02-16T10:00:00Z

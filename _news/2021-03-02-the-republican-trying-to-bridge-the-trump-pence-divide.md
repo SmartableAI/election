@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Late Night Laughs Off Mike Pence’s Renewed Loyalty to Trump"
-excerpt: "I don’t know where the line is between forgiving and being a doormat, but Mike Pence crossed it a long time ago,” Trevor Noah said."
-publishedDateTime: 2021-02-25T06:43:00Z
-originalUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.html"
-webUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.html"
-ampWebUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
+title: "The Republican trying to bridge the Trump-Pence divide"
+excerpt: "Rep. Jim Banks is reshaping the Republican Study Committee to align with the ex-president still ruling the GOP."
+publishedDateTime: 2021-03-02T06:28:00Z
+originalUrl: "https://www.politico.com/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+webUrl: "https://www.politico.com/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+ampWebUrl: "https://www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
 type: article
-quality: 160
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,12 +24,11 @@ topics:
   - Election
   - Mike Pence
   - Democratic Voice
-  - Donald Trump
 
 images:
-  - url: "https://static01.nyt.com/images/2021/02/25/arts/25latenight/25latenight-facebookJumbo.png"
-    width: 851
-    height: 445
+  - url: "https://static.politico.com/06/b5/fffbc89c42abaaef5ce4dbe28735/210226-jim-banks-trump-ap-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -145,21 +144,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Republican trying to bridge the Trump-Pence divide"
-    excerpt: "Rep. Jim Banks is reshaping the Republican Study Committee to align with the ex-president still ruling the GOP."
-    publishedDateTime: 2021-03-02T06:28:00Z
-    webUrl: "https://www.politico.com/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+  - title: "Late Night Laughs Off Mike Pence’s Renewed Loyalty to Trump"
+    excerpt: "I don’t know where the line is between forgiving and being a doormat, but Mike Pence crossed it a long time ago,” Trevor Noah said."
+    publishedDateTime: 2021-02-25T06:43:00Z
+    webUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
+      name: New York Times
+      domain: nytimes.com
+    quality: 160
     images:
-      - url: "https://static.politico.com/06/b5/fffbc89c42abaaef5ce4dbe28735/210226-jim-banks-trump-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://static01.nyt.com/images/2021/02/25/arts/25latenight/25latenight-facebookJumbo.png"
+        width: 851
+        height: 445
         isCached: true
   - title: "Trump admin a cautionary tale of nepotism for future generations"
     excerpt: "Rachel Maddow highlights Donald Trump's tendency to hire people he knows or is related to for White House jobs, and the conflict that creates, particularly in the case of Ivanka Trump and Jared Kushner who continue in senior White House roles despite being unable to to earn a full security clearance."
@@ -350,6 +349,6 @@ related:
         height: 773
         isCached: true
 
-secured: "oiXlWCfkOFPP1eSAFalwL+MCd3iVVz5uQ5qWHq2cvDdUJrvoxcT2H+sGEbQFtNB68l7xN88S1KFHKfzRjXKXSLkp0icUoHtEWPnpD213Z9KfFlqymWpqx7lxLPsVjlg11ARu7S+QLtK4FtiNmCyMTzr1nCAdTlTWITJaumbNVbdBPsdL69wiNwtBfWUu7/UffuK09Kz0FfH3Bybi5TyGWtSmaPaUxnoalGpLCxo1tx5sBw9goFgTXX3fO2FDFmaX+2h25FPWl4XJu9tsI1JN1PMn/RVXoA7x98lmJkZdm2FWZIfyluaaMYzZEKSXUPm3rptvkc+mfG5utelnRG6nBCMgxp6yONVkqaNHARCgO/4CTsjrzzN7GqjJ1jnQ6uUazDyU/OW2JBcwZFZPEJSSDi+i3p548rHFqf8Rchci5Pe8jAOjwiVmS0Zkpq6qiuft8YzyUXI9jpdL41e5Q15jb76xlt2Yp2gYQtdoqyuAuFpwiMwMQp867dGWp599mIcEYCtpMnYL5Q51q3uhRsPsdg==;wOpIlkR/nILBwtG1YigL9A=="
+secured: "9KTXDmI2SVa4c0trKpocrH/dlBz6EnnHh0QRG2JkJ6blRlWF65rPkUt2m/kwT+RXYPAYYKf1ToiI+NVFKaSuyC7ifdsnsBsPdHTGXKws01q8nFRBmVTDVSLvpw5epBEdJmBvIvyENtwQR2bGra5YCSzBJmp73YD4zEMTi5gITeVlS/O6iIGqOyqwckIgoZ6wdfmABbQlSkqY4lbjizQlrt9xWdzKGhEVVp55lwacy3q2j7yxXdNpXIL+JfHG+dna8Fu6Nu0AyKXW5fSbFhSrhhgjB9yBsbTx6BfJB0bM4lFcgy6hHRIuyUGvPGWK4AdI0sy5owLUAmJy2z3EKp+Ci8ccNwjYuvW9DCCTRc8Du0g=;f4NVXCW3TZTTxUkGUXYI6A=="
 ---
 

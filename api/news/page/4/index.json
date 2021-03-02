@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-25-biden-urged-to-back-water-justice-bill-to-reverse-decades-of-underinvestment.md",
+      "title": "Biden urged to back water justice bill to reverse decades of underinvestment",
+      "excerpt": "Water Act proposes injection of federal dollars to overhaul ageing infrastructure, create jobs and address inequalities",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/58c77231dce552c519cfbadca53546bbbe4b92fa/0_218_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bc900b56a61f274f18064c23b1e15ed8",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
+      "publishedDateTime": "2021-02-25T04:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-power-up-pence-seeks-to-chart-his-own-political-future-as-establishment-republican-fluent-in-maga.md",
       "title": "Power Up: Pence seeks to chart his own political future – as establishment Republican fluent in MAGA",
       "excerpt": "All that's missing from former vice president Mike Pence's political reemergence after surviving an insurrection and the turbulent Trump White House is a book deal. The former vice president is not quite back out on the speaking circuit just yet – and declined an invitation to speak at the Conservative Political Action Conference next week,",
@@ -1287,62 +1339,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp",
       "publishedDateTime": "2021-02-23T12:44:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-biden-nominee-tom-vilsack-confirmed-as-agriculture-secretary.md",
-      "title": "Biden nominee Tom Vilsack confirmed as agriculture secretary",
-      "excerpt": "President Biden’s Cabinet secured another key appointment Monday after the Senate voted to approve Tom Vilsack as the next agriculture secretary.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqsAvzMrQrg/biden-nominee-tom-vilsack-confirmed-agriculture-secretary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dqsAvzMrQrg/biden-nominee-tom-vilsack-confirmed-agriculture-secretary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9f57ab36-ea8b-456f-ab70-6835f363cab3/7f5905d3-cc41-4df7-99a6-9399aa75de21/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp",
-      "publishedDateTime": "2021-02-23T12:34:14-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

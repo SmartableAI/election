@@ -125,6 +125,22 @@ related:
         width: 3500
         height: 2333
         isCached: true
+  - title: "Sarkozy’s conviction carries echoes for Trump"
+    excerpt: "Despite considerable differences in the political contexts where they operated, the two share elements of a political style — and have faced allegations of abuse of power."
+    publishedDateTime: 2021-03-02T05:00:00Z
+    webUrl: "https://www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/"
+    ampWebUrl: "https://www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G4GHG7T2VEI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 1044
+        isCached: true
   - title: "Nine months later, fencing comes down around the church where Trump stood with a Bible"
     excerpt: "The elite, Episcopal congregation found itself at the center of anti-racism protests and wrestled with the way the fence changed it"
     publishedDateTime: 2021-03-01T23:08:00Z

@@ -158,6 +158,22 @@ related:
         width: 851
         height: 445
         isCached: true
+  - title: "The Republican trying to bridge the Trump-Pence divide"
+    excerpt: "Rep. Jim Banks is reshaping the Republican Study Committee to align with the ex-president still ruling the GOP."
+    publishedDateTime: 2021-03-02T06:28:00Z
+    webUrl: "https://www.politico.com/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/06/b5/fffbc89c42abaaef5ce4dbe28735/210226-jim-banks-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump admin a cautionary tale of nepotism for future generations"
     excerpt: "Rachel Maddow highlights Donald Trump's tendency to hire people he knows or is related to for White House jobs, and the conflict that creates, particularly in the case of Ivanka Trump and Jared Kushner who continue in senior White House roles despite being unable to to earn a full security clearance."
     publishedDateTime: 2021-02-15T09:32:00Z

@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Biden holds high-stakes call with Saudi King Salman ahead of new intel report on Khashoggi"
-excerpt: "The Biden administration is set to release an intelligence report on the 2018 murder of journalist Jamal Khashoggi. This latest summary is expected to blame Saudi Crown Prince Mohammed Bin Salman for Khashoggi's killing."
-publishedDateTime: 2021-02-26T16:13:00Z
-originalUrl: "https://www.cbsnews.com/video/biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi/"
-webUrl: "https://www.cbsnews.com/video/biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi/"
+title: "The key facts you need to know about Section 230, the controversial internet law that Trump hated and Biden might reform"
+excerpt: "Section 230 has been described as \"the most important law protecting internet speech\" and \"the 26 words that created the internet.\""
+publishedDateTime: 2021-03-02T05:17:00Z
+originalUrl: "https://www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5"
+webUrl: "https://www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5"
+ampWebUrl: "https://www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5?amp"
 type: article
-quality: 95
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/26/baf7f65c-ff2c-4a82-be53-59356f4cb0f6/thumbnail/1200x630/e5bc6f7fb1341090f3f3ed37e2405de6/cbsn-fusion-biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi-thumbnail-654296-640x360.jpg"
+  - url: "https://i.insider.com/602fd4cfd3570b001809284f?width=1200&format=jpeg"
     width: 1200
-    height: 630
+    height: 600
     isCached: true
 
 related:
@@ -233,22 +235,6 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "The key facts you need to know about Section 230, the controversial internet law that Trump hated and Biden might reform"
-    excerpt: "Section 230 has been described as \"the most important law protecting internet speech\" and \"the 26 words that created the internet.\""
-    publishedDateTime: 2021-03-02T05:17:00Z
-    webUrl: "https://www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5"
-    ampWebUrl: "https://www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 115
-    images:
-      - url: "https://i.insider.com/602fd4cfd3570b001809284f?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Biden Reopens Gateway For Green Cards And Work Visas, Reversing Trump COVID-19 Freeze"
     excerpt: "The change means the wait is over for hundreds of thousands of job-seeking foreigners and those pursuing permanent residency in the U.S. to apply for the coveted immigration documents."
     publishedDateTime: 2021-02-26T09:23:00Z
@@ -291,6 +277,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden holds high-stakes call with Saudi King Salman ahead of new intel report on Khashoggi"
+    excerpt: "The Biden administration is set to release an intelligence report on the 2018 murder of journalist Jamal Khashoggi. This latest summary is expected to blame Saudi Crown Prince Mohammed Bin Salman for Khashoggi's killing."
+    publishedDateTime: 2021-02-26T16:13:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 95
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/26/baf7f65c-ff2c-4a82-be53-59356f4cb0f6/thumbnail/1200x630/e5bc6f7fb1341090f3f3ed37e2405de6/cbsn-fusion-biden-holds-high-stakes-call-with-saudi-king-salman-ahead-of-new-intel-report-on-khashoggi-thumbnail-654296-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden White House Asks 'Trump Who?' Ahead of Speech to Conservatives"
     excerpt: "President Joe Biden's White House has made it clear it plans to ignore Donald Trump's speech on Sunday to a conservative conference in Florida, where the former president is expected to go on the attack against his successor."
     publishedDateTime: 2021-02-27T12:19:00Z
@@ -303,6 +303,6 @@ related:
       domain: usnews.com
     quality: 70
 
-secured: "ETyx3e4Ggr3HrWDSIklNY0axrKSwkWFCubr3A00awVrWKjAbV4/K7dDcNQkYkKvc7phEABgj3H9CFiegB3BXEJ6i24Zzv4+KShyYpKc91xXjRPUzv3XmO3aFnuAsJ698M3MmdaINAal3nk2AWTxcKIvVp3OqCgO/lSCl+6HQGWluyRIO+u29MC0BSXfl+njeEUIb78t6kwaHgoxPBjF1Wd/ePeW4E1Bijd0qG8Hsc7dL2RlZb8GyiphcSrW+1M6dcqjxfaOEZgiJDuisWc7j/CR6Z6/U48bJN1YMwjqT/Eh/Ev/8yWHt+ggft6C01JHKiyldrj8G2qEuRc4/5DybPBLna6B1fO4rimLvV7mWrMs=;w05jDxZFPk+iimz9H16G7A=="
+secured: "S45QVeaiUvghEHs3W1wCc0tkcb1ni5JI9tBIhAlw7XAEQ+9OMYaFmm60Hdp4ZypH2snDuoE7KbF8VJQ9k5XR9zW4IK5Ew/iS9vPTr2lXJk5RGZUDoZsBA2Lr+r9IKTcdPTFdMgcqOKpaZIVHMwJnWjMAiKV2Omj7cGvKS/4A3XEPXp5LPA9RsP7UFzoIpWvI0AW8BB3+3ia8RBkmuUpvpGuphtHn6Q+sK9Ovuz1t7kkf7d42N8LT5YmjuyGiu1t7PV3D/e7ghzg9Y4ZUehY/9jaCL4G7XETSsdQosSb6IWw6d+8+2lECjpX6gh6ZsdzysH0l5Yipu8coWn90FdexjdbM/U4GNLxsLHG3xLTko7I=;Et2/1prHWYWZ8tmc34AwVA=="
 ---
 

@@ -233,6 +233,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "The key facts you need to know about Section 230, the controversial internet law that Trump hated and Biden might reform"
+    excerpt: "Section 230 has been described as \"the most important law protecting internet speech\" and \"the 26 words that created the internet.\""
+    publishedDateTime: 2021-03-02T05:17:00Z
+    webUrl: "https://www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5"
+    ampWebUrl: "https://www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/what-is-section-230-internet-law-communications-decency-act-explained-2020-5?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 115
+    images:
+      - url: "https://i.insider.com/602fd4cfd3570b001809284f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "'Donald Trump was linchpin behind Capitol riots'"
     excerpt: "Although there were a growing number of extremist groups in the United States before former President Donald Trump came to office, the Capitol riots would not have happened without him and the claim the election was stolen,"
     publishedDateTime: 2021-02-23T13:19:00Z

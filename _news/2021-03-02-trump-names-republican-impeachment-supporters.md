@@ -697,6 +697,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "wm0r6iyRDlWeEsc4xmRdLShADmecwnkiI8zpN4CIk1pd5Bkg5Ek0EyLXHnAGBov72YZi2f6IrEuV53TENiaETXNg+S2U2cpLWw9qlQkeUK2ZMOcF9/gc1uEIKzeNDhzGIwaGywjjKdGX3RQbT4/tZj2ZinZw3TIJXaJjDAcCBLmhEg3f3iwZIHpTAuaQmsaL8aqTuyipo2Rhpg6X6UIjsQ+c6XY5igNdkmeQxNvGijyYnx5zB9vwiBnnJEohbS5S/COEvTLOGQnMXX2fHhyB8cdN+7p9ZwHHlKV+aTjGHKnORmaK9YdN1KR+s/gYW6sX3eyNHSWSWXb+yaY0Su6u4YLHIBiBMU259yvuVSxhJ2o=;gjKQ/cB06IVKBRYwmM1+8w=="
+secured: "3mVSOzbwDo/C6rNl1CwMYftkr5MpawC+hJhphOogobfDiShTvaDtNvAC/ZfSykYgFBi86uFflB7AwhjwE7nED99GgW/kh84wfyi2aDoG2fmLn0ugDLB/pI+EIBlYInxOi3tBYiZie0S08jg6oOPFt9c/2I/yHhF3f81vhrwzXD+Z1c6dPEpmQlWBn6sKokwd12/Iz7+dAB2ThdUir/LeVNwv1g/xbvt9ty1NQhvhZiTYqzhu/99hVpohnCmRSZ+kmXeFiRGEzMzphV4PaPRb+F0pXPlGieskF3nFhKz/1/ys+7A8xdpZg8WrngbTufEbRtdVsF/1lZSjM1M7ZKRVe+1rKbu5RBM8n9k4r68bo/PXvcak3fWRB+IomCD1/kj161Ev/bKUMzVe+KZxFPx3uWq3Vn5xq9pX7i2/7UK+igxxpa3yLv+p3tb69O6fpSKm04VfluOrEe7TLmh7ngXpdLGueFlPtwwLaTsYumHpxTJK6fbFy4czJ2E4PG8sfwipfu910Elc+qnZD+PS4csVUA==;7oUsj2A1W2BTL4Q9jj9Icg=="
 ---
 

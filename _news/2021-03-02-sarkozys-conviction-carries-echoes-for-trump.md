@@ -1,22 +1,22 @@
 ---
 category: news
-title: "AP FACT CHECK: Trump clings to his core election falsehoods"
-excerpt: "An AP Fact Check that takes a look at Donald Trump's first post-presidential speech is finding a lot of familiar falsehoods"
-publishedDateTime: 2021-03-01T03:47:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
-webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
+title: "Sarkozy’s conviction carries echoes for Trump"
+excerpt: "Despite considerable differences in the political contexts where they operated, the two share elements of a political style — and have faced allegations of abuse of power."
+publishedDateTime: 2021-03-02T05:00:00Z
+originalUrl: "https://www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/"
+webUrl: "https://www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/"
+ampWebUrl: "https://www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/?outputType=amp"
 type: article
-quality: 140
-heat: 320
-published: true
+quality: 125
+heat: -1
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_d6a861210180462dafa02ba81ab1c0ba_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G4GHG7T2VEI6XDC6GLSHWQVVDM.jpg&w=1440"
+    width: 1440
+    height: 1044
     isCached: true
 
 related:
+  - title: "AP FACT CHECK: Trump clings to his core election falsehoods"
+    excerpt: "An AP Fact Check that takes a look at Donald Trump's first post-presidential speech is finding a lot of familiar falsehoods"
+    publishedDateTime: 2021-03-01T03:47:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_d6a861210180462dafa02ba81ab1c0ba_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump calls for GOP unity, repeats lies about election loss"
     excerpt: "Former President Donald Trump called for Republican Party unity when he returned to the political stage for the first time since losing the White House to Joe Biden"
     publishedDateTime: 2021-03-01T06:34:00Z
@@ -111,22 +127,6 @@ related:
         width: 3500
         height: 2333
         isCached: true
-  - title: "Sarkozy’s conviction carries echoes for Trump"
-    excerpt: "Despite considerable differences in the political contexts where they operated, the two share elements of a political style — and have faced allegations of abuse of power."
-    publishedDateTime: 2021-03-02T05:00:00Z
-    webUrl: "https://www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/"
-    ampWebUrl: "https://www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G4GHG7T2VEI6XDC6GLSHWQVVDM.jpg&w=1440"
-        width: 1440
-        height: 1044
-        isCached: true
   - title: "Nine months later, fencing comes down around the church where Trump stood with a Bible"
     excerpt: "The elite, Episcopal congregation found itself at the center of anti-racism protests and wrestled with the way the fence changed it"
     publishedDateTime: 2021-03-01T23:08:00Z
@@ -174,6 +174,6 @@ related:
         height: 2666
         isCached: true
 
-secured: "lcWM4fc9yuYWk5EYqLphoThwud16YlKY9wQhYxwZDHgZh8N0zMWZQkRdZLr07LgLxW+z3m9BnuA3JVgVf1YATtTlWvNgQyT3dre21cI9yTibmYx7BWw8LwQ/j0YRnF/fAsh2U4db9SFWTVLW6TNstth+mRRqJZhV36jE1ObGp1hfkrIDCS6D8I145Fy1TAhIIYM4tRmPcJunjyn8dzj7qV+9u+/bgmnezBnqCM+4Z6PaE03UFSe1c+ElmHSsEkIzM2w5JU6pME//vDb8RyjzHORZeHVQ3QDXuqhOIH8s9YG8hxFSYcGWr6D6ocKmAZLvSRzP2mzfaZDR1NDBk4zHlUP8IwefabL2iZBZp392hRs=;7REJovmHU1Ew/FllqiFkVg=="
+secured: "nLpKjeI+9XmQwGuYZr9f185DiHhPk1GG5LEG3bi2ZWFU7ZzI7IL5B8crmpYKTpB0+2jzQ2jqYIqF9SDD9YedJp0kC45B/xLPL1A4/IkTQqxcniS1/Jta7d3ujLcor8kJpVsIOJcGXBILASAxmOdN3HWXfa2P+kzOoSIQePO88trleUh1YoGLQUTLgOqukiOS1NQb/QJ0HRHpb5BNqfN0z796zJ77b7VA4nITwLq272sG6KElrMjNRwEJxnmTcftVYbdKsPHKjFKzWxEZ+3M0hV5rBnd3vcuJOO7d/Go7HDzos4UAalMzEIzSJxy8fchA450kzrQzIqgnUhaiq+WEj+l63f16LeHCy6XEaRy/ZG8=;3T8L0dni2AwitjpKNw3v3A=="
 ---
 

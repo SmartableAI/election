@@ -127,6 +127,22 @@ related:
         width: 3500
         height: 2333
         isCached: true
+  - title: "Sarkozy’s conviction carries echoes for Trump"
+    excerpt: "Despite considerable differences in the political contexts where they operated, the two share elements of a political style — and have faced allegations of abuse of power."
+    publishedDateTime: 2021-03-02T05:00:00Z
+    webUrl: "https://www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/"
+    ampWebUrl: "https://www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/03/02/sarkozy-convicted-trump-similarities/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/G4GHG7T2VEI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 1044
+        isCached: true
   - title: "Conservatives have made a gold-colored Trump statue"
     excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"
     publishedDateTime: 2021-02-28T12:46:00Z
@@ -158,6 +174,6 @@ related:
         height: 2666
         isCached: true
 
-secured: "jckI9+Yxj/5ZjH6YyjO97MGb5uyXg6skp3Usd0X4p4He72W3yHdBKzByFqfbA7+QzxEKBA2aqHPj2ZaOlIdcF7fA8S+bHdadG+aWjBkVzeyN4rtlDVarWf4cSc3gFnr3WCAySouDzTrvMzLJ5T0MJhdRXse+TE+ycYZyY6H6nG1bSHm9r8NMs2ZHf2r7lTeU8DnloFMVPF0MbBjQ0JsreSRbYanQLVDpi1QinDYymaD6ArGuA8RERH97r+lhkOwYwowW0Y+vsCdoWIo7wHm15ytS2S0N8uIG6P7ZgT1Eswx3Let4XT92z8z6Phqe6e5b7RbssHjmo1boKJYHlrmCczwP51q3HWgHuabcX7V/Xt0=;weU1Bqhkj7Qn4A9Pa8oYvg=="
+secured: "13Ffc2QcfUFwVXWq8T3wEaWxht7qH5/BYy5DtmILChTzEXYmlU5IyovaSJz7FdgEgKGKu2WTBj9ahVwAje7cHB+FSq6bxoE7APrLTPLmhNzepd12CUUksLwI3ZUb3zGNZeCnjmXv8d7xnYhdJNwK/ARa32YpvzsFYx/A4pFZnE0HUH/dbeAPnwlPRoQ7YWfHhVTjk9xuo1x6vCoO/To9oeVDMq4J2Kh0KKt/kwZkwpVfrhzlQ8VxjT3Ao0vKiAJooaiqGdhr76TbaVOrD7hUiAohEdmZLAruXD9a1wlCDg3qcO12ZS/rlbuCi57y+rq/Ula0wLRZDqiW4TLw8y7dBLXfsVF3/Wy8hLWzmCQbA1s2KX6SEZliA9vV5oSgunH/iuYRk37Bp5exTNCpTJOU8CxiFeVZADgg+sXhVPxHvGwFinXdp3xnK6RGGg5llwf9UEetrj++ugL0PUmG6P0dR7El4Pmp/cJdKTZUYHY0M8e9lTi91jeg5ka7/VPsYNzY+zysUXPhAPJeJAuJpQRt9g==;rNCdZx4tjk3kae5Md0/iKg=="
 ---
 
