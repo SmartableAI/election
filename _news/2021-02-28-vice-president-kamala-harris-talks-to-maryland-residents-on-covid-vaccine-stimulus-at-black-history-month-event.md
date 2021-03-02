@@ -3,25 +3,25 @@ category: news
 title: "Vice President Kamala Harris talks to Maryland residents on COVID vaccine, stimulus at Black History Month event"
 excerpt: "Vice President Kamala Harris spoke to hundreds of Anne Arundel and Prince George’s County residents Saturday as she joined Rep. Steny Hoyer’s 40th Annual Black History Month Celebration, the first time in its 40 years the event was held online."
 publishedDateTime: 2021-02-27T22:54:00Z
-originalUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
-webUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
-ampWebUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-capitalgazette-com.cdn.ampproject.org/c/s/www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
+originalUrl: "https://www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
+webUrl: "https://www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
+ampWebUrl: "https://www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Capital Gazette
-  domain: capitalgazette.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.capitalgazette.com/resizer/GnZSS_D_H4PIb8RnycChednIWeM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L24NKVMQ6JC2NKIDR5SQICFGXE.jpg"
+  - url: "https://www.baltimoresun.com/resizer/GnZSS_D_H4PIb8RnycChednIWeM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L24NKVMQ6JC2NKIDR5SQICFGXE.jpg"
     width: 1200
     height: 674
     isCached: true
@@ -233,6 +233,6 @@ related:
       domain: newstribune.com
     quality: 26
 
-secured: "1//FbXEdeBMIO5B8Xw3W37owtXSPu0wUbua0Quhw0+j80I1GVmadZw2qWs/HwScul323cUUZA8fY1Zeks32nl47hnmCyeatk+rBXgr2sYoKWwcuk9kf490LcRzHe/m51TMx+oWMHXtsOCBN3QBKmDY7g6ssvokAqayW/pMXBtjTOcmUPtkqflT4Ng6gZPyx84L8lK9M4Ip5YRANlio82WZPsQPRMjFXKs+pZxW263d3LG4qiSp9owdZv6kL9wcHi+2yaFchGBioJJejFbNjHm+1Np+F3nIDTCD+Lnt4RBUHenUgDkgstn7nbrFUAOiprj1qk6Etul16oRQAyuW8irUVrQuppkJ1l3huSumirxmUJLir9Hi3HRCTOvoTs2ak2AwdV4wGLCLJcvYvbPhqpcUNIYUfcIXXYque3XhLrcQze9atqsxQBXc7Eg/zfm0GLkIZiM2H29iseACFztXw3qWrZGr5Gz4wAT5Zt7sJQPRyf2dtIgG11Nvx141u8yKHUK96WgOrOlcEmFegaLjHXGw==;P7M+mFXZAVNxjb/7zoqVZg=="
+secured: "pZcr5FWfjaHRq0f9I/k3x/7pY+kMbIar1LUZj3hrXsXbvutySdzoF7PbDFa0rCdIXg101kLhX0kiV4JswZGzKMjCntSiIW9KxSvABlKEgiWQNq7yNmL5O2abSYXPSZVyBE3rX04qBjOmYt875kXLmtFEZPVntxgRzBks63Vsosk1Ao3B4q1EqFf8zYDZKf8Bv9t4vJjEXT8HaJxAw4zD7PV0GM7qoS+DdbPvQbmbIrwky5wpG6+rL66r/lnJDGhkP7Gs1zrWK6Z4EjXKYEGAb7GssT+WwHEcKQ4eSPMATeGKjxl9MFLfShvvwdTqTIdUtdvNOj2OM6lXfp/3UMR+VRlwUcneD1z3xUT9iojZOnE=;9WJ3pzXntIeXal2cQf24mw=="
 ---
 

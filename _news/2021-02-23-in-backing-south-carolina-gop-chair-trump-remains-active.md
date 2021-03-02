@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/in-backing-south-carolina-go
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/in-backing-south-carolina-gop-chair-trump-remains-active/2021/02/23/2b491a60-75c7-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U6BAWJUC2BCYRLO4BJPPAL2A2M.jpg&w=1440"
         width: 1440
         height: 1440
+        isCached: true
+  - title: "Extent of Trump's Usefulness to GOP Questioned by WSJ Editorial Board After CPAC"
+    excerpt: "\"If CPAC represented America, Mr. Trump would still reside in the White House, not Mar-a-Lago,\" the board wrote."
+    publishedDateTime: 2021-03-02T16:51:00Z
+    webUrl: "https://www.newsweek.com/extent-trumps-usefulness-gop-questioned-wsj-editorial-board-after-cpac-1573205"
+    ampWebUrl: "https://www.newsweek.com/extent-trumps-usefulness-gop-questioned-wsj-editorial-board-after-cpac-1573205?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/extent-trumps-usefulness-gop-questioned-wsj-editorial-board-after-cpac-1573205?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1746199/former-us-president-donald-trump-addresses.jpg"
+        width: 3000
+        height: 1945
         isCached: true
   - title: "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4"
     excerpt: "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4."

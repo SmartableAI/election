@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Mexico president says meeting with Biden friendly, positive"
+    excerpt: "Mexico President Andrés Manuel López Obrador says he had no differences with U.S. President Joe Biden in their first bilateral meeting"
+    publishedDateTime: 2021-03-02T15:41:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/mexico-president-meeting-biden-friendly-positive-76202778"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/mexico-president-meeting-biden-friendly-positive-76202778"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/mexico-president-meeting-biden-friendly-positive-76202778"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_5279e9ac59fb494a9f30873c285c2891_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to declare major disaster in Texas as millions hit by water shortages"
     excerpt: "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages"
     publishedDateTime: 2021-02-19T20:19:00Z

@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Live Updates: Democrats and Biden Press Ahead on Stimulus"
+    excerpt: "President Biden will call into a meeting of fellow party members as the Senate prepares to take up the $1.9 trillion relief plan. The The White House accused a Russian intelligence agency of poisoning the dissident Aleksei A."
+    publishedDateTime: 2021-03-02T16:50:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/02/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/02/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/02/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/02/us/02new-washington-brief-stimulus/02new-washington-brief-stimulus-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "xCI7/z7KBJW8DL4MC34ugRWWgLRPBad6Wa9vidXzYb4ddi9J09zEMwqulF7Fqxj7QqPOyLCOFXW3fhmxnxDzSssfqgjEjWeyHLc6Ac4kRWmzznrgOsgXVzNNW2KniFW5A38hPvbUatn+iT6gjA6E8Di/i1vfUcCfmQMs3cs/c7hMv1ctdUzokvK8kK88KhYjxh3VP11cZlM7vmZG2K36PEYvmGtxJ0eKsIYAhhxANqKxu1dDO5vW/Vo5MlsP0PO99sWqzlOv6924bs8OhryXuAeifEgovtSBfgiQIjL1CA3N+5EZhZh938NiRoaba7xX0lkYbyF+kG7pkjYVQMXydHtvRrvHnfJQ/O+q9lJLHx3fmYukPcq3UpZcIbN3u/9KTRmQK4QkWrAA547tKwCwfkU1+Ja79bZwbwN9uRIWsJ/UOjJtFOtGgIN41F7eXLh+r/ZGUI+ifsQKKpI0IP7HMzXJXBSulnx0SsfjXTYPOhFb9X0GUR0RkcRLPEvjLGsq20Zni0VdkIMhet5qlAl7Sw==;4cLipeVcT8HkoVZ5A0S04g=="
 ---

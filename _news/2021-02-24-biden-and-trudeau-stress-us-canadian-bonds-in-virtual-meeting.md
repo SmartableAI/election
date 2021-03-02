@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-trudeau-white-hous
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-trudeau-white-house-visit/index.html"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127171917-migrant-tents-mexico-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Live Updates: Democrats and Biden Press Ahead on Stimulus"
+    excerpt: "President Biden will call into a meeting of fellow party members as the Senate prepares to take up the $1.9 trillion relief plan. The The White House accused a Russian intelligence agency of poisoning the dissident Aleksei A."
+    publishedDateTime: 2021-03-02T16:50:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/02/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/02/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/02/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/02/us/02new-washington-brief-stimulus/02new-washington-brief-stimulus-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Biden announces changes in loan program aimed at aiding small and minority-owned businesses"
     excerpt: "Biden had previously criticized the loan program for having helped larger businesses with existing banking relationships while many smaller businesses struggled to get relief."

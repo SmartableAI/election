@@ -143,6 +143,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden administration faces border challenges"
+    excerpt: "Watch \"Biden administration faces border challenges; plans to open new tent facility amid rise in migrants\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-02T14:52:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210302143428-biden-administration-faces-border-challenges-plans-to-open-new-tent-facility-amid-rise-in-migrants/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/02/story_09240697_1614696304.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden Early Approval Ratings Better Than Donald Trump, Barack Obama, George W Bush, Bill Clinton?"
     excerpt: "President Joe Biden's approval ratings are trending positive early in his term, with 57% approving of his job performance in an early February poll and 62% doing so in a poll taken Sunday and Monday."
     publishedDateTime: 2021-02-16T20:48:00Z

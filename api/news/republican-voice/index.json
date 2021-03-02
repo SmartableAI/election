@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-02-kamala-harris-silent-on-mounting-cuomo-allegations-after-kavanaugh-crusade-metoo-support.md",
+      "title": "Kamala Harris silent on mounting Cuomo allegations after Kavanaugh crusade, #MeToo support",
+      "excerpt": "While more and more members of both parties are weighing in on the sexual harassment allegations brought by multiple women against New York Gov. Andrew Cuomo, one voice absent in the conversation has been Vice President Kamala Harris'.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vw_SIiI9Pa8/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vw_SIiI9Pa8/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b56162d-9049-408e-84ef-8f89a7367c85/c862654e-050e-46de-9962-1296c04e66a2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo.amp",
+      "publishedDateTime": "2021-03-02T07:30:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-homan-fires-back-after-biden-dhs-secretary-slams-trump-immigration-policies-dont-tell-me-about-compassion.md",
       "title": "Homan fires back after Biden DHS secretary slams Trump immigration policies: ‘Don't tell me about compassion’",
       "excerpt": "The Biden administration's immigration policies are not as compassionate as they are making it out to be, former ICE Director Tom Homan said on Tuesday.",
@@ -172,21 +229,21 @@
     {
       "path": "_news/2021-03-02-bidens-release-of-report-on-khashoggi-killing-shows-difference-from-trumps-approach-experts-say.md",
       "title": "Biden's release of report on Khashoggi killing shows difference from Trump's approach, experts say",
-      "excerpt": "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge, at the very least, experts indicate.",
+      "excerpt": "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge,",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y4pMr6V9XOc/bidens-release-khashoggi-killing-report-difference-approach-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Y4pMr6V9XOc/bidens-release-khashoggi-killing-report-difference-approach-trump",
+      "webUrl": "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump",
+      "originalUrl": "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 156,
+      "heat": 136,
       "tags": null,
       "images": [
         {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Bin-Salden-Jamal-Khashogg.jpg",
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6135620-aa93-4f89-89c8-d3f90db43495/edbfa245-82dc-4205-9d6f-f6a77fc1d355/1280x720/match/image.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -196,9 +253,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-02T05:23:41-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump.amp",
+      "publishedDateTime": "2021-03-02T05:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -222,6 +279,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1113,63 +1171,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-steve-hilton-kamala-harris-silent-on-cuomo-allegations-after-grandstanding-at-kavanaugh-hearings.md",
-      "title": "Steve Hilton: Kamala Harris silent on Cuomo allegations after ‘grandstanding’ at Kavanaugh hearings",
-      "excerpt": "“The focus should be on Vice President Kamala Harris” amid the sexual harassment allegations against N.Y. Gov. Andrew Cuomo, Fox News “The Revolution” host Steve Hilton said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC_g_RdkvKI/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/WC_g_RdkvKI/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silence-cuomo-kavanaugh-allegations-hilton.amp",
-      "publishedDateTime": "2021-02-26T12:05:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     },
     {

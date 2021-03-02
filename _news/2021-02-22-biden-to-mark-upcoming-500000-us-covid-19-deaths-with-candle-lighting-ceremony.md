@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Live Updates: Democrats and Biden Press Ahead on Stimulus"
+    excerpt: "President Biden will call into a meeting of fellow party members as the Senate prepares to take up the $1.9 trillion relief plan. The The White House accused a Russian intelligence agency of poisoning the dissident Aleksei A."
+    publishedDateTime: 2021-03-02T16:50:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/02/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/02/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/02/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/02/us/02new-washington-brief-stimulus/02new-washington-brief-stimulus-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden announces changes in loan program aimed at aiding small and minority-owned businesses"
     excerpt: "Biden had previously criticized the loan program for having helped larger businesses with existing banking relationships while many smaller businesses struggled to get relief."
     publishedDateTime: 2021-02-22T18:49:00Z

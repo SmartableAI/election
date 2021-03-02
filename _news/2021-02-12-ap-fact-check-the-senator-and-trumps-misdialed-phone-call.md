@@ -159,6 +159,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "The Daily 202: Many Republicans don’t want the coronavirus vaccine. Trump could change that."
+    excerpt: "Welcome to The Daily 202 newsletter! Today, we look at whether Trump's secret coronavirus vaccination was a missed opportunity. But don’t miss the latest on the rescue package, major nominations, coronavirus vaccines and variants."
+    publishedDateTime: 2021-03-02T16:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/02/daily-202-many-republicans-dont-want-coronavirus-vaccine-trump-could-change-that/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/02/daily-202-many-republicans-dont-want-coronavirus-vaccine-trump-could-change-that/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/02/daily-202-many-republicans-dont-want-coronavirus-vaccine-trump-could-change-that/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3C2WST2UQI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 958
+        isCached: true
   - title: "Conservatives have made a gold-colored Trump statue"
     excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"
     publishedDateTime: 2021-02-28T12:46:00Z

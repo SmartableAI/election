@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NCU2Z6HDLII6VAWYLZK5I7UQZI.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Mexico president says meeting with Biden friendly, positive"
+    excerpt: "Mexico President Andrés Manuel López Obrador says he had no differences with U.S. President Joe Biden in their first bilateral meeting"
+    publishedDateTime: 2021-03-02T15:41:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/mexico-president-meeting-biden-friendly-positive-76202778"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/mexico-president-meeting-biden-friendly-positive-76202778"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/mexico-president-meeting-biden-friendly-positive-76202778"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_5279e9ac59fb494a9f30873c285c2891_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
     excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."

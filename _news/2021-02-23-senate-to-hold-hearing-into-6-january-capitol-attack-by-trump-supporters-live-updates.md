@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donal
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates"
 type: article
 quality: 117
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://static.reuters.com/resources/r/?d=20210225&i=OVE15CYXR&r=OVE15CYXR&t=2"
         width: 960
         height: 540
+        isCached: true
+  - title: "Wray: No evidence of fake Trump supporters at Capitol riot"
+    excerpt: "FBI Director Christopher A. Wray on March 2 said that there was no evidence of fake Trump supporters who stormed the Capitol on Jan. 6."
+    publishedDateTime: 2021-03-02T16:15:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/wray-no-evidence-of-fake-trump-supporters-at-capitol-riot/2021/03/02/11111ee8-eec3-44ba-93a6-917203f7c210_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_947d83b1b70a4643b78d5adc36f48592_name_e99b3644_7b6f_11eb_8c5e_32e47b42b51b_scaled.jpg&w=1080"
+        width: 1080
+        height: 608
         isCached: true
 
 secured: "/Ebp3t6LoRjzkpSldTbYZ7VR6sTqrdP0xaBQyvJ2bQqDJ3L/YnuD2g5bFF9peaVyJsE47KqfXhvE/d9PS4p7cP7Lk8csp/Seau7oYjDOxJnY8ZugnB8OVr/z8GS64s1/2CzsFRw3hysjbd3TT02/+T3UXoaJA8MeztjlaG+SPOeZ7V5gB2AoxXl117QJz1xpySfIig6S67c9mDaFlNpQeNRVC6GsQzUYNJ4/6ypAh8Dh46CGRj67Qv1z93pIblyjKxLYa9C2dJw70mT/Ppn2W9NmF+teox7p1yCTKdEiLBUAUbjVvEqK4r9w4GkmSpw9DJjAtQ2qVz/WCBQhXvRRfGSP6gI89rM/82nYKVgFHdNJqfR5qXc9KjrXsLfqmyPecFFwe8cdkOoBGASSPzT+sxFSbUbX96G/BqIoblQ10DncgTga97yn++mX6lamt9cERlnnjSChCB2O6vVt/DTPMYgmJgWkspA8sSCmFGyJwYYZkdbqMSzuDkIfL9COvEP8m3PKOKEfsOrC8hE3AorXnw==;RlgYEQOsHnpMuBsg7adfkg=="

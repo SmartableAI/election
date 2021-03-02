@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -142,6 +142,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/30038c47-c90a-4ea2-a65d-ff270c5e5dda-AP_Biden.jpg?auto=webp&crop=1999,1124,x0,y88&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden administration faces border challenges"
+    excerpt: "Watch \"Biden administration faces border challenges; plans to open new tent facility amid rise in migrants\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-02T14:52:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210302143428-biden-administration-faces-border-challenges-plans-to-open-new-tent-facility-amid-rise-in-migrants/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/02/story_09240697_1614696304.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden Early Approval Ratings Better Than Donald Trump, Barack Obama, George W Bush, Bill Clinton?"
     excerpt: "President Joe Biden's approval ratings are trending positive early in his term, with 57% approving of his job performance in an early February poll and 62% doing so in a poll taken Sunday and Monday."

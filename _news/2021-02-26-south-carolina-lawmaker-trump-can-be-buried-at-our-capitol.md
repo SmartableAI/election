@@ -137,6 +137,22 @@ related:
         width: 1440
         height: 1440
         isCached: true
+  - title: "Extent of Trump's Usefulness to GOP Questioned by WSJ Editorial Board After CPAC"
+    excerpt: "\"If CPAC represented America, Mr. Trump would still reside in the White House, not Mar-a-Lago,\" the board wrote."
+    publishedDateTime: 2021-03-02T16:51:00Z
+    webUrl: "https://www.newsweek.com/extent-trumps-usefulness-gop-questioned-wsj-editorial-board-after-cpac-1573205"
+    ampWebUrl: "https://www.newsweek.com/extent-trumps-usefulness-gop-questioned-wsj-editorial-board-after-cpac-1573205?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/extent-trumps-usefulness-gop-questioned-wsj-editorial-board-after-cpac-1573205?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1746199/former-us-president-donald-trump-addresses.jpg"
+        width: 3000
+        height: 1945
+        isCached: true
   - title: "QAnon Hardliners Are Doubling Down on Theory Donald Trump Will Be Reinstated on March 4"
     excerpt: "There are fears of potential violence as QAnon supporters say Donald Trump will somehow be inaugurated on March 4."
     publishedDateTime: 2021-02-19T10:21:00Z

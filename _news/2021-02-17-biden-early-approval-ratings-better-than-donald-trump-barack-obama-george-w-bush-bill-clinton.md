@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden administration faces border challenges"
+    excerpt: "Watch \"Biden administration faces border challenges; plans to open new tent facility amid rise in migrants\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-02T14:52:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210302143428-biden-administration-faces-border-challenges-plans-to-open-new-tent-facility-amid-rise-in-migrants/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/02/story_09240697_1614696304.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "KD7d6smBmLVKxf59cwu26bbrhT4BKoDXOr9uDxyG3kwEIn5fjRyEvKZG7tztoRk7pPHQUwpvqBfBfj7srblB15XsFXoD0ZI7XvtM3aiboaPB4Ew4RdKWCertPzeulGYP9YCTLPkXDOg97AlWfNQ3Px7CeTfH93IawWfv8UW7z2UwabwfxIIJHcFh7QdW7CA3hOSa21V6z9ptX6voWsvcSyBk2VWXmygE9X+f7hYtaC9HYTpjOP8K/1+7ehVAlCvB3baGLl/A2e36yMyrOSL8x/r50I5OFQ/fAo84CP54tNw3e8Zg5bjacqJibnsa192hbmXKnLEgd80tpPBB0S/NH87XO27S6FiOXzd79BfBO0o=;co13MrnJk0MD0VLosO0J0g=="
 ---
