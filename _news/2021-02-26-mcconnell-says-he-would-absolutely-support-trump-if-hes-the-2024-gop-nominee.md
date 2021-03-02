@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republ
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republican-nominee/"
 type: article
 quality: 121
-heat: 241
+heat: 201
 published: true
 
 provider:
@@ -62,36 +62,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/X5LE4SLBIVGJHKWNSG6XY2VFWA.jpg&w=1440"
         width: 1440
         height: 788
-        isCached: true
-  - title: "Donald Trump says he will not start a third party"
-    excerpt: "President Donald Trump calls for Republican Party unity in a speech at a conservative political conference. Tries to cement his status as the party’s undisputed leader (Mar. 1)"
-    publishedDateTime: 2021-03-01T01:14:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/01/donald-trump-says-he-not-start-third-party/6864626002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/591844ce-5d5e-482b-9a60-9a86ceb8f2cd_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Trump at CPAC called out his GOP critics and again claimed he won the 2020 election, showing he's still determined to undermine US democracy"
-    excerpt: "Former President Donald Trump's false claim that the 2020 election was stolen from him was at the heart of his Sunday-night speech at CPAC."
-    publishedDateTime: 2021-03-02T14:36:00Z
-    webUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-    images:
-      - url: "https://i.insider.com/603cc94387d37600190d0564?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Trump's supporters boo Mitch McConnell despite his saying he'd 'absolutely' support the former president in 2024"
     excerpt: "Former President Donald Trump took credit for Mitch McConnell's reelection but prompted a round of jeers and boos from his supporters."

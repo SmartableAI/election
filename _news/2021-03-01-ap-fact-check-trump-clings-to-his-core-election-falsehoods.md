@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-cl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
 type: article
 quality: 140
-heat: 360
+heat: 380
 published: true
 
 provider:
@@ -204,6 +204,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/GFZDVPLSCZFQ3COVYGFYRO7M2E.jpg"
         width: 4000
         height: 2666
+        isCached: true
+  - title: "Former Trump Press Secretary Joins Fox News"
+    excerpt: "Donald Trump's former White House press secretary has been hired by Fox News as an on-air commentator, the network said Tuesday. Kayleigh McEnany, 32, made her television debut in 2016 on CNN before officially joining Trump's team the following year."
+    publishedDateTime: 2021-03-02T21:42:00Z
+    webUrl: "https://www.ibtimes.com/former-trump-press-secretary-joins-fox-news-3154958"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/02/white-house-press-secretary-kayleigh-mcenany-pictured-january.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "lcWM4fc9yuYWk5EYqLphoThwud16YlKY9wQhYxwZDHgZh8N0zMWZQkRdZLr07LgLxW+z3m9BnuA3JVgVf1YATtTlWvNgQyT3dre21cI9yTibmYx7BWw8LwQ/j0YRnF/fAsh2U4db9SFWTVLW6TNstth+mRRqJZhV36jE1ObGp1hfkrIDCS6D8I145Fy1TAhIIYM4tRmPcJunjyn8dzj7qV+9u+/bgmnezBnqCM+4Z6PaE03UFSe1c+ElmHSsEkIzM2w5JU6pME//vDb8RyjzHORZeHVQ3QDXuqhOIH8s9YG8hxFSYcGWr6D6ocKmAZLvSRzP2mzfaZDR1NDBk4zHlUP8IwefabL2iZBZp392hRs=;7REJovmHU1Ew/FllqiFkVg=="

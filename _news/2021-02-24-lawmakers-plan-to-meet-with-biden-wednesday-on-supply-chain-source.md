@@ -337,6 +337,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden to prioritize vaccinating school teachers"
+    excerpt: "President Joe Biden is directing states to prioritize vaccinating all teachers during the month of March, and announced that the federal government will help in the effort through its partnership with retail pharmacies."
+    publishedDateTime: 2021-03-02T22:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/02/biden-prioritize-vaccinating-school-teachers/6894083002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a6ec64de-b482-4104-be67-ba4a79699a9d_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "'Climate change is real': Biden administration says Texas power crisis shows U.S. unprepared for extreme weather"
     excerpt: "President Joe Biden has approved federal emergency declarations for Texas, Oklahoma and is processing a request from Louisiana."
     publishedDateTime: 2021-02-19T00:55:00Z

@@ -78,6 +78,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Democrats hate filibuster now but used it to block GOP legislation under Trump"
+    excerpt: "Democrats are pushing to eliminate the Senate filibuster, which progressives paint as a tool of racism."
+    publishedDateTime: 2021-03-02T22:18:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/16Tw7VLDUq4/democrats-senate-filibuster-2020-block-gop-legislation"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-senate-filibuster-2020-block-gop-legislation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-senate-filibuster-2020-block-gop-legislation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/13877d8a-AP20365749407878-e1609436276614.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Nikki Haley praises Trump’s ‘strong’ CPAC speech after rebuking him weeks earlier"
     excerpt: "Former ambassador and former South Carolina Gov. Nikki Haley’s latest comments regarding Donald Trump are raising eyebrows."
     publishedDateTime: 2021-03-01T18:38:38Z
@@ -205,6 +221,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c055ca10-6fad-441b-9b13-bc9cfa464a1a/21f7f894-6377-4ca8-8101-b98ee68f19ac/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Democrats hate filibuster now but used it to block GOP legislation under Trump"
+    excerpt: "Congressional Democrats are pushing to eliminate the Senate filibuster, which progressives paint as a tool of racism, after making liberal use of the filibuster in 2020. \"Understand this: The filibuster gives veto power to Mitch McConnell."
+    publishedDateTime: 2021-03-02T22:23:00Z
+    webUrl: "https://www.foxnews.com/politics/democrats-senate-filibuster-2020-block-gop-legislation"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-senate-filibuster-2020-block-gop-legislation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-senate-filibuster-2020-block-gop-legislation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/13877d8a-AP20365749407878-e1609436276614.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Donald Trump Finally Makes Me Smile"
     excerpt: "Donald Trump was never forever. The former president is 74, obese and the subject of serious criminal investigations. Resurfacing after disgracefully"

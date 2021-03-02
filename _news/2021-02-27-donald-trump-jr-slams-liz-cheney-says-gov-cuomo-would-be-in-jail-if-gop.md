@@ -28,17 +28,35 @@ images:
     isCached: true
 
 related:
-  - title: "NY Dem says Cuomo nursing home scandal is impeachable offense, as governor blames Trump for vaccine woes"
-    excerpt: "New York State Assemblyman Ron Kim – who said Gov. Andrew Cuomo threatened to ruin his career for speaking out against his mishandling of the nursing home crisis during the coronavirus pandemic – is now calling for Cuomo to face impeachment."
-    publishedDateTime: 2021-02-22T17:41:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gyDnSeqC_qc/new-york-ron-kim-cuomo-nursing-home-scandal-impeachable-offense"
+  - title: "Trump ally Rep. Lee Zeldin exploring NY governor bid amid Cuomo controversies"
+    excerpt: "Republican Rep. Lee Zeldin of New York says he’s “actively exploring” a run for governor next year as embattled Democratic Gov. Andrew Cuomo faces multiple allegations of sexual harassment as well as a federal probe into the state’s handling of COVID deaths at nursing homes amid the coronavirus pandemic"
+    publishedDateTime: 2021-03-02T22:50:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAVmxHPCx14/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 138
+    quality: 172
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Ron-Kim-andrew-cuomo.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Trump Jr. asks if Cuomo publisher will cancel book contract: 'What are the rules?'"
+    excerpt: "Donald Trump Jr. called out the publishers of New York Gov. Andrew Cuomo's book on leadership during the coronavirus pandemic, asking if they will cut ties with the Democrat as he navigates his way through scandals."
+    publishedDateTime: 2021-03-02T13:40:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/eJ9T_An0PPs/trump-jr-cuomo-publisher-cancel-book-contract"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-jr-cuomo-publisher-cancel-book-contract.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-cuomo-publisher-cancel-book-contract.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b56162d-9049-408e-84ef-8f89a7367c85/c862654e-050e-46de-9962-1296c04e66a2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

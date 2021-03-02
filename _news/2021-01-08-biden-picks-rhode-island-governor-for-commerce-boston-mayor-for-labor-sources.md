@@ -61,6 +61,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Senate confirms Raimondo as Biden commerce secretary"
+    excerpt: "The Senate has voted overwhelmingly to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy’s recovery during and after the coronavir"
+    publishedDateTime: 2021-03-02T22:20:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76208463"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76208463"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76208463"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ddb641a2762c416386fbe70ab1587352_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to nominate Rhode Island Governor Gina Raimondo to be commerce secretary"
     excerpt: "President-elect Joe Biden intends to nominate Rhode Island Governor Gina Raimondo to serve as commerce secretary and Boston Mayor Marty Walsh to lead the Labor Department, CBS News confirmed Thursday,"
     publishedDateTime: 2021-01-08T02:46:00Z

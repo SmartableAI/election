@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-jr-cuomo-publisher-cancel-boo
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-cuomo-publisher-cancel-book-contract.amp"
 type: article
 quality: 169
-heat: 169
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump ally Rep. Lee Zeldin exploring NY governor bid amid Cuomo controversies"
+    excerpt: "Republican Rep. Lee Zeldin of New York says he’s “actively exploring” a run for governor next year as embattled Democratic Gov. Andrew Cuomo faces multiple allegations of sexual harassment as well as a federal probe into the state’s handling of COVID deaths at nursing homes amid the coronavirus pandemic"
+    publishedDateTime: 2021-03-02T22:50:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAVmxHPCx14/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Donald Trump Jr. slams Liz Cheney, says Gov. Cuomo ‘would be in jail’ if GOP"
+    excerpt: "Donald Trump Jr. on Friday trashed Rep. Liz Cheney and said New York Gov. Andrew Cuomo “would be in jail” already if he were a Republican. The former first son attacked his dad’s"
+    publishedDateTime: 2021-02-26T23:17:00Z
+    webUrl: "https://nypost.com/2021/02/26/donald-trump-jr-slams-liz-cheney-says-cuomo-would-be-in-jail-if-gop/"
+    ampWebUrl: "https://nypost.com/2021/02/26/donald-trump-jr-slams-liz-cheney-says-cuomo-would-be-in-jail-if-gop/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/26/donald-trump-jr-slams-liz-cheney-says-cuomo-would-be-in-jail-if-gop/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/don-trump-jr-cpac-1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "+UdkgYhxdR450uD+I9Mk5ECLc0CkdgZgFg84kT7SuaLFS7zoKLUgYy6oluhy5Vaaj2AWy1ilLSjnPrxBOAEXn92BqQqZotbmIAaPaTG3ipqtVcXaO3Ifije80IuS6mHaQErPlYKAj/cEF/T9PPw5b808IimErwIipfTDsy/YfU5BDpPWAHd41Sj6j6cyrpUAKKNAMJwpJ4GxrO95jnx+ShHI80CU7KdjoQOWugCoFcVsYhhm/Wl4ds60C4f6RUCLiXtec0KMoKnRveW+C9r0+mv2/IP899rKIEMA/Fsz8/cqIsMpBi9vMh+CGQpVNe/pe3gE0I/0jGUSfRpnoE7CLbzKKURIfF1D6HG3mPx+bYY=;dDtqGRRlWy2pffLxbMgtyA=="
 ---

@@ -205,6 +205,20 @@ related:
         width: 4000
         height: 2666
         isCached: true
+  - title: "Former Trump Press Secretary Joins Fox News"
+    excerpt: "Donald Trump's former White House press secretary has been hired by Fox News as an on-air commentator, the network said Tuesday. Kayleigh McEnany, 32, made her television debut in 2016 on CNN before officially joining Trump's team the following year."
+    publishedDateTime: 2021-03-02T21:42:00Z
+    webUrl: "https://www.ibtimes.com/former-trump-press-secretary-joins-fox-news-3154958"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/02/white-house-press-secretary-kayleigh-mcenany-pictured-january.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "13Ffc2QcfUFwVXWq8T3wEaWxht7qH5/BYy5DtmILChTzEXYmlU5IyovaSJz7FdgEgKGKu2WTBj9ahVwAje7cHB+FSq6bxoE7APrLTPLmhNzepd12CUUksLwI3ZUb3zGNZeCnjmXv8d7xnYhdJNwK/ARa32YpvzsFYx/A4pFZnE0HUH/dbeAPnwlPRoQ7YWfHhVTjk9xuo1x6vCoO/To9oeVDMq4J2Kh0KKt/kwZkwpVfrhzlQ8VxjT3Ao0vKiAJooaiqGdhr76TbaVOrD7hUiAohEdmZLAruXD9a1wlCDg3qcO12ZS/rlbuCi57y+rq/Ula0wLRZDqiW4TLw8y7dBLXfsVF3/Wy8hLWzmCQbA1s2KX6SEZliA9vV5oSgunH/iuYRk37Bp5exTNCpTJOU8CxiFeVZADgg+sXhVPxHvGwFinXdp3xnK6RGGg5llwf9UEetrj++ugL0PUmG6P0dR7El4Pmp/cJdKTZUYHY0M8e9lTi91jeg5ka7/VPsYNzY+zysUXPhAPJeJAuJpQRt9g==;rNCdZx4tjk3kae5Md0/iKg=="
 ---

@@ -47,6 +47,38 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and his top officials slammed Trump's lack of action against Saudi Arabia, MBS in years before taking office "
+    excerpt: "In the years prior to taking office, President Joe Biden, Vice President Kamala Harris, and many of their administration's top officials harshly criticized President Donald Trump's lack of action against Saudi Arabia and Crown Prince Mohammed bin Salman for the 2018 murder of Saudi journalist and Washington"
+    publishedDateTime: 2021-03-02T21:00:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1T-ogYlQgBY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/kfile-biden-officials-slammed-trump-action-on-khashoggi-death-saudi-arabia-mbs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/kfile-biden-officials-slammed-trump-action-on-khashoggi-death-saudi-arabia-mbs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225203258-biden-50-million-doses-0225-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden and his top officials slammed Trump's lack of action against Saudi Arabia, MBS in years before taking office"
+    excerpt: "In the years prior to taking office, President Joe Biden, Vice President Kamala Harris, and many of their administration's top officials harshly criticized President Donald Trump's lack of action against Saudi Arabia and Crown Prince Mohammed bin Salman for the 2018 murder of Saudi journalist and Washington Post columnist Jamal Khashoggi."
+    publishedDateTime: 2021-03-02T21:00:00Z
+    webUrl: "https://www.cnn.com/2021/03/02/politics/kfile-biden-officials-slammed-trump-action-on-khashoggi-death-saudi-arabia-mbs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/kfile-biden-officials-slammed-trump-action-on-khashoggi-death-saudi-arabia-mbs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/kfile-biden-officials-slammed-trump-action-on-khashoggi-death-saudi-arabia-mbs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 128
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225203258-biden-50-million-doses-0225-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "Ya4RS5BnGcH6ZRTHiwuOF05EJXukZJG3yHyyGT17YFT4zVM83FbVImA0i5vvGeS8Tgrp4ShQG0HcZz1nH5yW+TosCiQ/XkFawvf9Ce2V8xgmhySlrZLkUAB8frhiMDnE79zTkQ5GQUcwezcbhpjBHYyquuRaTaJ8iXkuVSKeHGbC+UmJwsdv/50VKaTOAi3Wetz0QEuiZfb7+FFGtZGnBqPkUKdpcu8K/gaiNfsrI3f1Kk6FprMwAG8JirO1nzTV/fuq97tcTKTByPILc6xfYLnAyJw1jCfykGKskfGbUZ0+5liH/ymnP9GFFJ89VmTSvawSJngNn+fVbvuvcpfGqkczrqM8WloJDvu2Q1YeuMQ=;c4q665LYPgdhGcJdOWQRXg=="
 ---
