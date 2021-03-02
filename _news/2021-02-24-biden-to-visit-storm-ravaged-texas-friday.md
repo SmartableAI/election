@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 545
+heat: 565
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://s.abcnews.com/images/International/WireAP_5279e9ac59fb494a9f30873c285c2891_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden plan to distribute virus aid irks some governors"
+    excerpt: "The Biden administration’s plan to funnel more coronavirus aid into states with greater unemployment has irked governors with lower jobless rates, even though many have economies that weren’t hit as h"
+    publishedDateTime: 2021-03-02T19:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-plan-to-distribute-virus-aid-irks-some-governors/2021/03/02/c7d4bf6e-7b90-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-plan-to-distribute-virus-aid-irks-some-governors/2021/03/02/c7d4bf6e-7b90-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-plan-to-distribute-virus-aid-irks-some-governors/2021/03/02/c7d4bf6e-7b90-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
     excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."

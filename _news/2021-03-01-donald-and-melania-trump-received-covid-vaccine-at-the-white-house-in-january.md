@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/trump-melania-vaccinated
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/trump-melania-vaccinated-white-house/index.html"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's surgeon general questions guidance about getting 2 Covid-19 vaccine shots"
+    excerpt: "Former US Surgeon General Dr. Jerome Adams on Monday questioned the Biden administration's current guidance on getting both Covid-19 vaccine shots for the Moderna and Pfizer/BioNTech vaccines -- which were tested and authorized as a two-dose regimen spaced a few weeks apart -- in order to offer at least"
+    publishedDateTime: 2021-03-02T19:58:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XrAYTeJP6HI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/jerome-adams-covid-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/jerome-adams-covid-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302110939-dr-jerome-adams-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump and his wife received coronavirus vaccine before leaving the White House."
     excerpt: "Former President Donald J. Trump and his wife, Melania, quietly received coronavirus vaccinations in January before leaving the White House, an adviser said on Monday."
     publishedDateTime: 2021-03-02T14:34:00Z

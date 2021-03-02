@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
 type: article
 quality: 129
-heat: 209
+heat: 229
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552752404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
         width: 817
         height: 545
+        isCached: true
+  - title: "Senate votes to confirm Biden pick as commerce secretary"
+    excerpt: "The Senate has voted overwhelmingly to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy’s recovery during and after the coronavir"
+    publishedDateTime: 2021-03-02T20:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76209102"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76209102"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76209102"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ddb641a2762c416386fbe70ab1587352_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "U.S. Senate panel sets hearing for Biden's No. 2 and No. 3 Justice Department picks"
     excerpt: "The U.S. Senate Judiciary Committee on Thursday announced it will hold a confirmation hearing on March 9 for President Joe Biden's nominees to serve in the No. 2 and No. 3 top jobs at the U.S. Justice Department."

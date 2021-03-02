@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Did Trump Really Make Dishwashers Great Again?"
+    excerpt: "In October 2020, the Trump administration passed a new rule for dishwasher efficiency, claiming that it would undo “burdensome regulations” that made dishwashers slow and weak, and that it would “allow Americans to wash dishes in under an hour!"
+    publishedDateTime: 2021-03-02T20:33:00Z
+    webUrl: "https://www.nytimes.com/wirecutter/blog/dishwashers-trump-efficiency/"
+    ampWebUrl: "https://www.nytimes.com/wirecutter/blog/dishwashers-trump-efficiency/amp/"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/blog/dishwashers-trump-efficiency/amp/"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://cdn.thewirecutter.com/wp-content/media/2021/03/dishwasher-efficiency-2048px.jpg?auto=webp&quality=60&crop=1.91:1&width=1200"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "ql8SjRiiagdSc+PyRD4Q5JIDYK4ELc3IhzuxrbJTFjoX8Robdmgj8kor4SzHxx3UkfHy0+oD4G6KvsbngxMw4LYBiPPrwUDNkjMa7VrSaqia+PDe0OEoBwKcGkr5a/BrBiMZnsLqd7A8w1cqiywPjvfc5OaYYy2o+Re8fHSYxAYW9vp1sGHh7JGhMsUE7A6SLPJWgKaQ7uLg+eNCOBOK8qeZImm3A5tWCwhIyUffVolSevJCV3ApstcQ+/h8AbLgOQfPUAIpTqVCM8G+H1LrAi1rzp6GtA1pJ3EGLpRlDVk0NlJ89ErVkQNbuVapNdq+kC2WkVoSTW49UqF1hs9dKOduU3whW7GkU64+tvRkFhrwi339XOljPS9XvgY2W4BrEcRpFCLO9jTBiRhtVgmdv0zZOa03t4D/rMX03pIkSK2uyTXWwmhDyD9EjAhQd+0mFQ7fT8nXlleXZS1osrzHheWw1WNYH/gi5A5MXY4ZEc191yOnGOzkkQ+dKAYEIcbuPpemrSfyoHnZmPYrigTh3Q==;2YYuhtqgl5T29i3LAbTC0g=="
 ---

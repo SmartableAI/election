@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate confirms Gina Raimondo as Biden's commerce secretary "
+    excerpt: "The Senate voted on Tuesday to confirm Gina Raimondo to serve as President Joe Biden's secretary of commerce. The vote was 84-15.\n    \n"
+    publishedDateTime: 2021-03-02T20:17:58Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d1_Hgu_zs-4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/gina-raimondo-commerce-secretary-confirmation/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/gina-raimondo-commerce-secretary-confirmation/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729235647-03-gina-raimondo-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Key GOP swing vote undecided on whether to back Biden's imperiled budget pick"
     excerpt: "Republican Sen. Lisa Murkowksi of Alaska had a sit-down meeting on Monday with Neera Tanden, President Joe Biden's nominee to lead the Office of Management and Budget, but has not decided yet if she will provide the crucial vote Tanden likely needs to be confirmed.\n    \n"
     publishedDateTime: 2021-03-02T00:19:30Z

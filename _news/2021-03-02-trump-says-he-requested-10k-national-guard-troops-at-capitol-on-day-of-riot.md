@@ -222,6 +222,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Trump Still Standing, Still Greatest Threat to Swamp"
+    excerpt: "Still standing is former President Donald Trump. And he proved this week he aims to get back into the fight and swing away, dangerous as ever."
+    publishedDateTime: 2021-03-02T19:37:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/02/trump_still_standing_still_greatest_threat_to_swamp_537217.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 65
+    images:
+      - url: "https://assets.realclear.com/images/53/536518_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "+x3dXZKHCHSPr2SgK1SJbLaErUVU3XUZ0snEDlKpLRQjYLDuzK6Aaj9Cb0Al5FsD5eGVFzlC98p7BACgcsvIvVbHixWTvzB2O9UTx6ZpBGELgsx7hq3jcLrcSF2jbtlna8uaD0xoGuZJssWIZ2CLNfX1gLWoMQjiRzJELKnbinTA4EO1pwl9+c08YF7x3+oIU2G4bTQqpZdnfkVnihEoiTpYBeANUv/sguEwrE/WSt++5z3mLIaohne3/aldbDlTVyC+NY64w1M+jzRYcP7G/ZTPbp6UxHfXpPpfamwuI3oK0qCIvO+rONaZctVCdbouiz6KbfOFnig/+ZHmSIuY/vKbKafz2hCX6SoKuCEBIW0=;48CKJ4K2DO8s8EyJYG/Syw=="
 ---

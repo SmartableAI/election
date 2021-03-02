@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-neera-tanden-omb-minimum-wage
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neera-tanden-omb-minimum-wage-jen-psaki.amp"
 type: article
 quality: 165
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,72 @@ images:
     width: 640
     height: 320
     isCached: true
+
+related:
+  - title: "Psaki won’t say why Dr. Seuss was dropped from Biden reading proclamation"
+    excerpt: "White House press secretary Jen Psaki wouldn’t say why President Biden dropped Dr. Seuss from \"Read Across America Day,\" the annual celebration of reading in honor of the legendary children’s author."
+    publishedDateTime: 2021-03-02T20:13:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ofhqkJyczYE/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden focused on COVID vaccines for 'every American' before aiding other nations, Psaki says"
+    excerpt: "White House press secretary Jen Psaki on Monday said President Biden's focus is making sure \"every American\" is vaccinated before discussing helping other nations with their COVID-19 vaccination process."
+    publishedDateTime: 2021-03-01T19:26:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rNnAKyaLtEQ/white-house-biden-focus-americans-vaccinated-foreign-aid"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-focus-americans-vaccinated-foreign-aid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-focus-americans-vaccinated-foreign-aid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Top Biden adviser pushes reparations commission, predicts progress 'breaking down systemic racism'"
+    excerpt: "White House adviser Cedric Richmond said it is “doable” for President Biden to make progress in his first term to break down barriers for people of color, as the administration supports a study on potential reparations for Black Americans."
+    publishedDateTime: 2021-03-01T20:13:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpFWpJ_8yQQ/top-biden-adviser-pushes-reparations-predicting-progress"
+    ampWebUrl: "https://www.foxnews.com/politics/top-biden-adviser-pushes-reparations-predicting-progress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-biden-adviser-pushes-reparations-predicting-progress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden erases Dr. Seuss from 'Read Across America' proclamation as progressives seek to cancel beloved author"
+    excerpt: "President Biden appears to have erased Dr. Seuss from Read Across America Day."
+    publishedDateTime: 2021-03-01T23:27:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6unV8cqv3OQ/biden-erases-dr-seuss-read-across-america-proclamation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-erases-dr-seuss-read-across-america-proclamation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-erases-dr-seuss-read-across-america-proclamation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e52474ef-0dd1-426d-9941-16c16e97c6ce/aa0ba86f-4bb1-48db-a4f6-3e9aaf9f50e0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "815gC+7h/8oYqFOCasn71XtUz+d2vF0xsP6ZSyW/dj+Prp1pSwhgRGCifVYV14i9YHYfb2FORuc/A1sdNaqX/mFnQX6j3mkfII0aVh3syTX0l3JtZVDnSnD8ocBGD8xQtqYk63TlT8+rqY0CKbBy0q0KpeghCnbEUCK88mv434JVlDWYotPRTjSTnYulDSdHZx0X6dOLKIQ5MVsG9WvIBUi3vp95QyQPlT0mzi6LW5NJ7gBNT9xzpcbyxzfwj6dNZ3JDE5yunxslnljejMpmXrREEVPPul9epuhYSvECqmd2RWKTzoHctSrBppDCq7EOo5TjjnP+9RjTVCV4180Pfcybp0Aqza/VsQNklgcSS10=;1yljNl8/hqsajhf3WMlAsA=="
 ---

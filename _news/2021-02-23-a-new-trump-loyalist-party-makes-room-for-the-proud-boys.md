@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-pa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-patriot-party-orig-jm.cnn"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209151016-patriot-party-pa-1-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Did Trump Really Make Dishwashers Great Again?"
+    excerpt: "In October 2020, the Trump administration passed a new rule for dishwasher efficiency, claiming that it would undo “burdensome regulations” that made dishwashers slow and weak, and that it would “allow Americans to wash dishes in under an hour!"
+    publishedDateTime: 2021-03-02T20:33:00Z
+    webUrl: "https://www.nytimes.com/wirecutter/blog/dishwashers-trump-efficiency/"
+    ampWebUrl: "https://www.nytimes.com/wirecutter/blog/dishwashers-trump-efficiency/amp/"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/blog/dishwashers-trump-efficiency/amp/"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://cdn.thewirecutter.com/wp-content/media/2021/03/dishwasher-efficiency-2048px.jpg?auto=webp&quality=60&crop=1.91:1&width=1200"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Cheney and McCarthy At Odds Over Trump Role in Republican Party"
     excerpt: "Representative Kevin McCarthy of California and Representative Liz Cheney of Wyoming disagreed on whether former President Donald J. Trump should speak at a conservative event this week."

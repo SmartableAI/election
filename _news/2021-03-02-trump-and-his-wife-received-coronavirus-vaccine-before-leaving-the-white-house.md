@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump's surgeon general questions guidance about getting 2 Covid-19 vaccine shots"
+    excerpt: "Former US Surgeon General Dr. Jerome Adams on Monday questioned the Biden administration's current guidance on getting both Covid-19 vaccine shots for the Moderna and Pfizer/BioNTech vaccines -- which were tested and authorized as a two-dose regimen spaced a few weeks apart -- in order to offer at least"
+    publishedDateTime: 2021-03-02T19:58:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XrAYTeJP6HI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/jerome-adams-covid-vaccines/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/jerome-adams-covid-vaccines/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302110939-dr-jerome-adams-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "QP6MXE8dO17ecZpkdVXPx71nWoMUF/CVQr/FmOfT5fwk63L1qMXr3b6UWIRv5L/YdS/1o8vbOYqo/iIQh1AX+ARxHcvWSrOsamlBfIEv0/Ugo+OXqY+s12udWQHJVZaIqH46yfVoziArP6R6a/pUzyRhXm5CNf4EZjpOujfoUSabKLg8CB0oqnNDlit9aGuuBURcOlCDyHMpiCvS5824K78j8XaztvjmcML95zL8Wci5Z+Jbw7PXZbBNvZghThFva1b3iXZtGMOSVV7YaGBDG4oQuzfxl/0+3Jrdrl3IhizJRU3H8MM/TGXTAUDpJBfKiKYRG8nzjg/riXHu38NEPI1F86zpVlL8klvgWKi4wrY=;1v+5TSnTRj5b/zYxnR99DA=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Republicans blast Biden, progressives for 'trying to cancel Dr. Seuss'"
+    excerpt: "Republicans criticized President Biden and progressives on Tuesday after Biden snubbed Dr. Seuss in his \"Read Across America Day\" proclamation"
+    publishedDateTime: 2021-03-02T20:37:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H872hNpnxFI/joe-biden-dr-seuss-canceled-republicans-cancel-culture"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-dr-seuss-canceled-republicans-cancel-culture.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-dr-seuss-canceled-republicans-cancel-culture.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e52474ef-0dd1-426d-9941-16c16e97c6ce/aa0ba86f-4bb1-48db-a4f6-3e9aaf9f50e0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Warner defends Biden's Syrian airstrike, but says Congress only got 15 minute 'head's up'"
     excerpt: "The White House's strike on Iranian-backed militias in Syria was the right move but Congress didn’t have much time to process it, Senate Intelligence Committee chair Mark Warner, D-Va., told \"Fox News Sunday.\""
     publishedDateTime: 2021-02-28T17:46:55Z
