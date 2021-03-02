@@ -111,6 +111,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Blackburn urges Biden to ensure WHO's China COVID probe is free from conflict of interest"
+    excerpt: "EXCLUSIVE: Sen. Marsha Blackburn, R-Tenn., on Tuesday urged President Biden to use his leadership to ensure the investigation into the origins of the coronavirus in Wuhan, China, by the World Health Organization (WHO) is free from conflict of interest -- amid continued concern over the probe by the controversial"
+    publishedDateTime: 2021-03-02T13:03:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X5SQBBNCsK8/blackburn-biden-whos-china-covid-probe-conflict-of-interest"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c48841ea-de79-4588-a6c6-d6a2a995f450/a888f8db-1dd8-4b27-8266-234182b86ece/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Partisanship prevails as Biden pushes agenda with little GOP support"
     excerpt: "For all of Biden’s longtime relationships with Republican lawmakers, he may find that Beltway gridlock is the one beast he cannot slay."
     publishedDateTime: 2021-02-25T08:13:00Z

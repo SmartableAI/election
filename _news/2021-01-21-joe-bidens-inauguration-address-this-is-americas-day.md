@@ -203,6 +203,17 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Mexican president says he and Biden exchanged invitations to visit"
+    excerpt: "Mexican President Andres Manuel Lopez Obrador said on Tuesday that he and his U.S. counterpart Joe Biden invited each other to visit their respective countries during a virtual meeting the two held on Monday."
+    publishedDateTime: 2021-03-02T13:31:00Z
+    webUrl: "https://www.reuters.com/article/usa-mexico-visits-idUSL2N2L01CM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2L01CM"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2L01CM"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
 
 secured: "Z1VKj7zb8Md71YtYK3386NjLHJgQdHG+E0v3PjgqUSz3+ncGGBVA1ZdEcxFvpi24WzVi4qC60UYtaem1LVhIbM6EVcWi7uEf0HY6PA375voZW+VZ/+ei83LH5Wfm3N2jRouRzeVMYm8szeLWH0l3HZrbxkmxYkuJOK9R/4qIE4zrDj+AMQjghLjZIldMPdh43b1D4bvYm55FUalIU2y25WkahINfR/Y6fiukwalqDXLrnNBN5Rj47/43gcDOoK+Th7r7o91s5w632OlsAg4OKiF3cU7uEnIWB6GS/aOuMClsugRDvU/OsJY0ANHmpOfpLwEzlzcMaktvoRTj+48yao7BMsnqWcEAvbjcrNpGIwI=;gWlJxLL7ulNl8yy0TJP4+w=="
 ---

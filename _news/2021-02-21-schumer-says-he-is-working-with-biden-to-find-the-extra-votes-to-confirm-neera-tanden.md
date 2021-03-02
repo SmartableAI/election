@@ -175,22 +175,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Joe Biden returns to Wisconsin, testing a new President's promise to unify and govern"
-    excerpt: "Caroline Quinlan didn't vote for Joe Biden, but she's praying for his success and hoping he can deliver on his pledge to unite a deeply divided country.\n    \n"
-    publishedDateTime: 2021-02-16T12:00:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/axxeK57M5WU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/121026104222-joe-biden-wisconsin-story-top.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Biden administration says 2 million Covid vaccine doses have been delivered after winter storms delay shipments"
     excerpt: "The Biden administration has partially caught up on its delayed vaccine shipments, having delivered about 2 million of the 6 million doses backlogged by the deadly winter storms in Texas and other states, administration officials said Sunday.\n    \n"
     publishedDateTime: 2021-02-21T19:38:15Z
@@ -270,6 +254,22 @@ related:
       - url: "https://media2.s-nbcnews.com/i/newscms/2021_06/3449175/210210-ONE-TIME-USE-neera-tanden-ew-334p_df6952b110feaac5c80fbf3994c9ebfc.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Joe Biden returns to Wisconsin, testing a new President's promise to unify and govern"
+    excerpt: "Cedarburg, Wisconsin (CNN)Caroline Quinlan didn't vote for Joe Biden, but she's praying for his success and hoping he can deliver on his pledge to unite a deeply divided country. \"He's the ..."
+    publishedDateTime: 2021-02-16T12:00:00Z
+    webUrl: "https://www.cnn.com/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 128
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/121026104222-joe-biden-wisconsin-story-top.jpg"
+        width: 640
+        height: 360
         isCached: true
   - title: "Biden's foreign foray masks an ocean of doubt"
     excerpt: "In successive virtual addresses today to the G-7 summit and, Biden announced that “America was back” — presumably to a collective sigh of relief from the foreign dignitaries in attendance that they weren’t being hectored by Donald Trump."

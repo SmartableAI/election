@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Joe Biden returns to Wisconsin, testing a new President's promise to unify and govern"
-excerpt: "Caroline Quinlan didn't vote for Joe Biden, but she's praying for his success and hoping he can deliver on his pledge to unite a deeply divided country.\n    \n"
-publishedDateTime: 2021-02-16T12:00:51Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/axxeK57M5WU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/axxeK57M5WU/index.html"
+excerpt: "Cedarburg, Wisconsin (CNN)Caroline Quinlan didn't vote for Joe Biden, but she's praying for his success and hoping he can deliver on his pledge to unite a deeply divided country. \"He's the ..."
+publishedDateTime: 2021-02-16T12:00:00Z
+originalUrl: "https://www.cnn.com/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
+webUrl: "https://www.cnn.com/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/16/politics/wisconsin-biden-town-hall/index.html"
 type: article
-quality: 168
+quality: 128
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
@@ -328,6 +329,6 @@ related:
         height: 619
         isCached: true
 
-secured: "qcYAp50n+DTCRNsGiyma19uOSxj93WTo438nn+Y26e4M8xBujbiaNfiWCqjBjnAPUsQB5n7C+sYhqYMVqLY8h/D8ncnjbzXEC/QHijb/lBEuJ2pGQEbrjn0qb3dUhM/KffaSFbqJueVprBcpEM+w9L3UNvbbzy8eWbCzcnwEpu8ymDY0i9EqoXNnVbCX8S7nHAnOTFH+g37YtWgbh7hsppWVKzbrF2/t2rfWQ6o0dW/MQBQ+3Z6l7FquNX1HEJjpZ/DPAuT41xLn56Xq17rX2NS9q6MPRgICcwh4v5vcc5ln1rh1CpGTl2WdLK6Jel/yh2KyQhXIRfX6ZbmzvdgKppnEwIvo+NahOmV1HtWx1SQ=;JSc2yRDVb0+qWpvg4QAEgg=="
+secured: "fwD8yFhNOJzeBpbHNml3ypaZ6VxSjLJmnqd0K2mV9l/g6yZk2vZ+uijN+NbGpD4YNg1WvQgzVOarNp8nJXeVF1NjwbPfFFGvMukSFvp0iiEWCexk04sJTnbrDBK8BuzRmp73cYwdQe2bUmUhcRKFvfDIPMCnuZMJh0hwNXd7HAQU6v9GRVi43r/Btd7Y1Mj8PhjNFWiX24/2KnCByYv0MiJ+SpPz/Fa11KGdwAFodMaBpJ8LuZwEdTZbG0peGCpdqah/wjxb+AFmzx+ssuC/GWuo3rzuCmZTq2OCQvy2Me8LJQwFBR0Xtgya6xQSELF5LW2jIpKQRk+QILw/eBvQ1XbyQykEBfDpAVeU/UpVFNY=;Ec9pqJ1Q0nh2e+dxr71ebA=="
 ---
 

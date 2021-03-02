@@ -160,6 +160,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "After Thriving Under Trump, ACLU Doubles Down on Progressive Stances"
+    excerpt: "The civil-rights group is trying to stave off a drop in donations, which surged during former President Donald Trump’s term."
+    publishedDateTime: 2021-03-02T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/after-thriving-under-trump-aclu-doubles-down-on-progressive-stances-11614693600"
+    ampWebUrl: "https://www.wsj.com/amp/articles/after-thriving-under-trump-aclu-doubles-down-on-progressive-stances-11614693600"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/after-thriving-under-trump-aclu-doubles-down-on-progressive-stances-11614693600"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-298335/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump says he requested 10K National Guard troops at Capitol on day of riot"
     excerpt: "Former President Trump told Fox News late Sunday that he expressed concern over the crowd size near the Capitol days before the deadly riots last month and personally requested 10,000 National Guard troops be deployed."
     publishedDateTime: 2021-03-01T18:52:00Z

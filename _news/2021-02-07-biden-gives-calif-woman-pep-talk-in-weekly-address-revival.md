@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-calif-woman-pep-talk-weekly-address-revival-75728273"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210212&t=2&i=1551301227&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1B08I"
         width: 792
         height: 545
+        isCached: true
+  - title: "Biden to ‘Hang Out’ at Camp David for First Time in Presidency"
+    excerpt: "Joe Biden and his family plan to spend Presidents’ Day weekend at Camp David, their first trip to the presidential retreat since he took office last month. “We’re going to be up at Camp ..."
+    publishedDateTime: 2021-02-12T16:55:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-02-12/biden-to-hang-out-at-camp-david-for-first-time-in-presidency"
+    ampWebUrl: "https://www.bloomberg.com/amp/news/articles/2021-02-12/biden-to-hang-out-at-camp-david-for-first-time-in-presidency"
+    cdnAmpWebUrl: "https://www-bloomberg-com.cdn.ampproject.org/c/s/www.bloomberg.com/amp/news/articles/2021-02-12/biden-to-hang-out-at-camp-david-for-first-time-in-presidency"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 125
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihOyGg_hx5YE/v0/360x-1.jpg"
+        width: 360
+        height: 239
         isCached: true
   - title: "ICE nearly released sex abuse convicts despite Biden memo"
     excerpt: "Texas prison officials say U.S. Immigration and Customs Enforcement was prepared to release three men convicted of sex offenses against children in an apparent misapplication by authorities of enforce"

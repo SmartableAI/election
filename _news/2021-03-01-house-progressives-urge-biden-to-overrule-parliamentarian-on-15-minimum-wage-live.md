@@ -2,9 +2,9 @@
 category: news
 title: "House progressives urge Biden to overrule parliamentarian on $15 minimum wage – live"
 excerpt: "House members argue Kamala Harris can make final call on including provision in coronavirus relief package"
-publishedDateTime: 2021-03-01T14:46:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/01/joe-biden-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603d00e78f0875da1a29cfc2"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/01/joe-biden-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603d00e78f0875da1a29cfc2"
+publishedDateTime: 2021-03-01T15:26:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/01/joe-biden-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603d03758f08be9d080d7d3c"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/01/joe-biden-covid-coronavirus-vaccine-donald-trump-cpac-live-updates?page=with:block-603d03758f08be9d080d7d3c"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/01/joe-biden-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/01/joe-biden-covid-coronavirus-vaccine-donald-trump-cpac-live-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/b18dc4d78a8d522fe58e873ffbe759594608c403/0_0_5469_3281/master/5469.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9982d37cf45bf5b5e21e761346de0383"
+  - url: "https://i.guim.co.uk/img/media/16e3d9a719baa82b897c996e0f6d3b080041fb01/0_0_6892_4137/master/6892.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=175c55370a031adacac3537b996b46b6"
     width: 600
     height: 360
     isCached: true
@@ -1206,6 +1206,6 @@ related:
         height: 675
         isCached: true
 
-secured: "wKAcr3VXQA7b1AObafZkWYzMQrsdbRmPNLvfNx/DrMpsK9zfSscKwgqwrYMJvTpN15PdV2I1AUVBmMOlrtWJUT03duOSEs8FIKlYGj0HjZ/DdVZy4C+1FGftoke0I+q3/vADec/Rxv6i59bN4jeDe2fdCIUmcsQPCZVEndXdjVOGy1H7fCnvj/KoUQAVB5geYHmg8G5T6Bdlxwy3/UVGSnBDhzf/oGbWCZbc5aplbpLqE44QHNaUP82xjKmDLU+6V1pI2AxA86sReHR9f2aZJbH13bl+wcvgAvZ3BclvFgs48OsErT7piF8C2FO8JHsjTn67Bf6L1pdG8BCgMdspej8GgZTRWv83dZcVI64XLivkYpM2V9eSSwCqGMklwZiRqLvgIx1DVTWw/eOPWgjipJF4ZjZTWIxA5Bq2U0FoY4Ob2ls7qN+m9cTs/x0beXuWfnatFqhGxAbZ013P1u6NSAdRC6j4n0C0OMZQCdPD47EzlJDVudcit69/jbiXj40p2M4dLbAWzFXojBEFNdhMvw==;AEnzr/mjVzdPe+xpy5FtUA=="
+secured: "N4kTrOVUxRGMT4R8XEFWUc+HkPrAd71SppW6tgspNYYbF2WFoUzrD9C50eP+bvt/Wn7DC4Itnlz4VffCZWdFpyAN9k8P6AA5b7ADANNVfKrt1H1IvOMZBroo1ClLw0gjKiIs3yu1yKZN2SDMXnKEqMZTXIx+0Zh2NA5+HiyQ43OMQs+ik6V2y4qOoNr24f3CKluOGU6fNgci21Rp2sgJRJwi23vtZ1Kd5SiYCq0PWSWLxCr2grTjRyZGmRf2TV/h77RG+WhjEyysKzlYOf9W1MsHEXu90VBkdH28JD7ues3djdOsl6OK0hZ0LNFZ926TeEEhVqQsJ78y7GMxgQ1vNKIlSS3PLwlt215XjvjAwY4=;Xg6Ke9Pgl/o6Ul4tOf6I3w=="
 ---
 

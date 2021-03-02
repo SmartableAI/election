@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Cuomo jabs Trump vaccine effort amid NY governor's own snowballing controversies"
-    excerpt: "New York Gov. Andrew Cuomo on Thursday took shots at former President Donald Trump’s handling of the COVID-19 vaccine effort, as pressure on the governor mounts over sexual harassment claims and how he handled nursing home patient care in his state."
-    publishedDateTime: 2021-02-25T23:33:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/a1jFboCJLR8/cuomo-trump-vaccine-new-york-controversies"
-    ampWebUrl: "https://www.foxnews.com/politics/cuomo-trump-vaccine-new-york-controversies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-trump-vaccine-new-york-controversies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c1825e5-665b-4d6e-bdd9-e3620f0df14c/006cbacc-2b51-4eab-b974-d936fecaf019/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "NY Dem says Cuomo nursing home scandal is impeachable offense, as governor blames Trump for vaccine woes"
     excerpt: "New York State Assemblyman Ron Kim – who said Gov. Andrew Cuomo threatened to ruin his career for speaking out against his mishandling of the nursing home crisis during the coronavirus pandemic – is now calling for Cuomo to face impeachment."
     publishedDateTime: 2021-02-22T17:41:54Z

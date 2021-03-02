@@ -156,6 +156,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "After Thriving Under Trump, ACLU Doubles Down on Progressive Stances"
+    excerpt: "The civil-rights group is trying to stave off a drop in donations, which surged during former President Donald Trump’s term."
+    publishedDateTime: 2021-03-02T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/after-thriving-under-trump-aclu-doubles-down-on-progressive-stances-11614693600"
+    ampWebUrl: "https://www.wsj.com/amp/articles/after-thriving-under-trump-aclu-doubles-down-on-progressive-stances-11614693600"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/after-thriving-under-trump-aclu-doubles-down-on-progressive-stances-11614693600"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-298335/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "DHS Will Seek to Reunify in U.S. Migrant Families Separated Under Trump"
     excerpt: "Homeland Security Secretary Alejandro Mayorkas said the Biden administration would seek legal pathways that could allow deported parents to join their children in the country."
     publishedDateTime: 2021-03-02T00:57:00Z
@@ -203,6 +219,6 @@ related:
         height: 720
         isCached: true
 
-secured: "l73+W6kTjp+0vxPEkvyvLKSPzsuN7bXqJRfffREAwRO+JhCDXii4Jix45ZW8X+SHfVobS9b2BaNcLRcwU99CukqAxm2Qgd8IcJr/fNFBUzMgMOQedQYX+YSDgr9bhfBd7nO/lLeObx24fYUmfxjuiHWATRx1LQZset+cUQF6gwNcoU0ReBLUjyrsZ0VOYiIzuC851bN9ZZh0ZqSEJZOOqWyAvhw8Ag+5gmYiPw/i45PG/51MDJR3/gZNysmyYyUWD5++g9pPHvLX6EgFjhU+aMZsrzOdHiTfySbEqYQodinWRSaNp6sA8bH5ab1aHSqhBQ1sqgjxo6308p16pWoSUIE1e7uvRax/X4ZKm/LeS+k=;0Jlzt6N08cmrdfdlAZRvDg=="
+secured: "untLd+GNLJBhAcnr1a24DkmhnaExuMax7mUwUPP3pE1zMyID1T+dh+H70ymvqvnI93NBxl60ej6iWOekEgaTMRGgIHbpp9RfN+m96VooZ5mJJNsED0vmIWtXLBlK8f7jOqq0bbcJ7W7edvcLiCn7Me8KIiJVnX6RfcK0K5TjhRG49vswk0jvimrE48PhwjRh2yej/q4hcaBuqQ7OFD9KdgK/dpkTUAnEVQDuJqTcLAPstMK0nk2Pf3WyXeoBDBV0u8UO8UVz6zfNBsb9LJxlgNEd9nRgtESX6fxwbrY+WDuWUqLs0ptEIYyJLN8QncVNnbcbNmx/4QibybI/k7R97/eBrnvVHxyUI+TIR1KAncK4X8bVuseJiQBPMfQPD76w6e8kuyjFTlvRamQlH239UMuIxU3OaTSz0u/nAYFMVFZUaQky1L3pfzgk64LuxV6jIjJXEWOwXBFK+d6yZ0Hl+AOq5voExY4F4jW95z7tN6qw6yWGVi2B+7UCD5RN6iFF6mBHgCoTjMiprawUODVRnw==;oj02ZccuMjqszAivyF/d0g=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/cuomo-trump-vaccine-new-york-contro
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-trump-vaccine-new-york-controversies.amp"
 type: article
 quality: 170
-heat: 210
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,35 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "NY Dem says Cuomo nursing home scandal is impeachable offense, as governor blames Trump for vaccine woes"
-    excerpt: "New York State Assemblyman Ron Kim – who said Gov. Andrew Cuomo threatened to ruin his career for speaking out against his mishandling of the nursing home crisis during the coronavirus pandemic – is now calling for Cuomo to face impeachment."
-    publishedDateTime: 2021-02-22T17:41:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gyDnSeqC_qc/new-york-ron-kim-cuomo-nursing-home-scandal-impeachable-offense"
+  - title: "Trumps received COVID-19 vaccines at White House in January"
+    excerpt: "Former President Donald Trump and former first lady Melania Trump received their COVID-19 vaccines in January at the White House, Fox News confirmed."
+    publishedDateTime: 2021-03-02T13:33:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/RC60pQ9lG0o/trumps-coronavirus-vaccines-white-house-in-january"
+    ampWebUrl: "https://www.foxnews.com/politics/trumps-coronavirus-vaccines-white-house-in-january.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-coronavirus-vaccines-white-house-in-january.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 138
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Ron-Kim-andrew-cuomo.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Donald Trump Jr. slams Liz Cheney, says Gov. Cuomo ‘would be in jail’ if GOP"
-    excerpt: "Donald Trump Jr. on Friday trashed Rep. Liz Cheney and said New York Gov. Andrew Cuomo “would be in jail” already if he were a Republican. The former first son attacked his dad’s"
-    publishedDateTime: 2021-02-26T23:17:00Z
-    webUrl: "https://nypost.com/2021/02/26/donald-trump-jr-slams-liz-cheney-says-cuomo-would-be-in-jail-if-gop/"
-    ampWebUrl: "https://nypost.com/2021/02/26/donald-trump-jr-slams-liz-cheney-says-cuomo-would-be-in-jail-if-gop/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/26/donald-trump-jr-slams-liz-cheney-says-cuomo-would-be-in-jail-if-gop/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/don-trump-jr-cpac-1.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "DN/qHgfW2EmJHHtf3F2CrFwx8KAEtRTpmvSO9jlxrry5uJj8RSXct2XE2GjKZVIL54OfvRxMUxjExjQskfB4XtykuwQ3dipMrmGPMmMxxHppY0vmNG2Q4cpl2yzWJMpisNKDuV2UQEtXm2GuVHxyz16AgUr8shChqWuLWSjCrd0ykXNQWPZVLpd7N2J8i84Vd8lL4mJX8Pxd8hG2U3TaHhI5Sk/9jIPjqGWmhH3N6T7XSHicUdinuJ3P0x+ugLHq9FNXVf+subxiYilQRW1iJTYo+tm2oRnjVAhYCI9x5uMc1rzdCXC8rZEJIjx6xUbmiou86NpDUT3mUQ+VSMFBVWCSwHzZz8gCyGYrSau3mQE=;a1Musd56OsTLEgSZD864Pw=="
