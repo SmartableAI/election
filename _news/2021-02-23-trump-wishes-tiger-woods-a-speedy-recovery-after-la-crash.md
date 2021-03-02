@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Cruz-Cuomo.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Donald Trump Finally Makes Me Smile"
+    excerpt: "Donald Trump was never forever. The former president is 74, obese and the subject of serious criminal investigations. Resurfacing after disgracefully"
+    publishedDateTime: 2021-03-02T11:24:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/536490_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "njpQVhJEzyEfX7kCGgtKcv3nS03HXpCTh1eY2WRC1eSA1F2sf8PhFoXAnBwqBfGS/CqVSfqY+GxNjvfMYbvnI5xdJdsomFDLEYvKK4ooSyjjx1/P+X/jR+y2ZyHgG4q4p6gHGct/hbhAEEhJwKveSHxZ1700MhYotRs9c+CYPLg38Vz/NWIbh/uFxAKr4tvsWIM9puXifiREcad0dnFbnfr9xevUsBYpM2Eo4bFoyAtjZPiqJaHeFwL1ND5P580xXOKBt8bJDXr8A9kN/7xcHp/u5WVbWQ+82enIfgsynn06nACh7SaRuC1Qeco+Dhb7q3YVNnwTRh3qVXZntUJVuM6IyXKLg7WDaWFni7JrjuY=;QXzULh/In0erzKU5OXJ8RQ=="

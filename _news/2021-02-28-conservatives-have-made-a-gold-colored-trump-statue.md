@@ -141,6 +141,22 @@ related:
         width: 1440
         height: 1044
         isCached: true
+  - title: "Why the GOP can’t quit Trump"
+    excerpt: "Is the apparent fissure in the GOP real or imagined? For answers, we studied the opinions of supporters of the “Make America Great Again” movement. The MAGA movement, often viewed as a divisive force in American politics,"
+    publishedDateTime: 2021-03-02T12:45:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/02/why-gop-cant-quit-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/02/why-gop-cant-quit-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/02/why-gop-cant-quit-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J62L3YD2L4I6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Nine months later, fencing comes down around the church where Trump stood with a Bible"
     excerpt: "The elite, Episcopal congregation found itself at the center of anti-racism protests and wrestled with the way the fence changed it"
     publishedDateTime: 2021-03-01T23:08:00Z

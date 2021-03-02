@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Unpacking What It Means To Call Kamala Harris A 'Jezebel'"
-excerpt: "Two Texas pastors who referred to Kamala Harris as a \"Jezebel\" are facing backlash. The trope has become shorthand for a woman who is manipulative, seductive and wicked."
-publishedDateTime: 2021-02-23T16:38:00Z
-originalUrl: "https://www.wbur.org/hereandnow/2021/02/23/jezebel-trope-black-women"
-webUrl: "https://www.wbur.org/hereandnow/2021/02/23/jezebel-trope-black-women"
+title: "Vice President Harris Delivers Remarks to House Democratic Caucus"
+excerpt: "Vice President Harris delivers virtual remarks to the House Democratic Issues Conference. Vice President Kamala Harris delivered remarks at a special event hosted by the Presidential Inaugural Committee"
+publishedDateTime: 2021-03-02T12:54:00Z
+originalUrl: "https://www.c-span.org/video/?509452-1/vice-president-harris-delivers-remarks-house-democratic-caucus"
+webUrl: "https://www.c-span.org/video/?509452-1/vice-president-harris-delivers-remarks-house-democratic-caucus"
 type: article
-quality: 55
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: WBUR
-  domain: wbur.org
+  name: C-SPAN
+  domain: c-span.org
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "http://d279m997dpfwgl.cloudfront.net/wp/2021/02/GettyImages-1145518960-1000x615.jpg"
-    width: 1000
-    height: 615
-    isCached: true
 
 related:
   - title: "CityLab Daily: Watch Kamala Harris at the CityLab 2021 Conference"
@@ -175,6 +169,20 @@ related:
         width: 1296
         height: 648
         isCached: true
+  - title: "Unpacking What It Means To Call Kamala Harris A 'Jezebel'"
+    excerpt: "Two Texas pastors who referred to Kamala Harris as a \"Jezebel\" are facing backlash. The trope has become shorthand for a woman who is manipulative, seductive and wicked."
+    publishedDateTime: 2021-02-23T16:38:00Z
+    webUrl: "https://www.wbur.org/hereandnow/2021/02/23/jezebel-trope-black-women"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 55
+    images:
+      - url: "http://d279m997dpfwgl.cloudfront.net/wp/2021/02/GettyImages-1145518960-1000x615.jpg"
+        width: 1000
+        height: 615
+        isCached: true
   - title: "Vice President Kamala Harris talks to Maryland residents on COVID vaccine, stimulus at Black History Month event"
     excerpt: "Vice President Kamala Harris spoke to hundreds of Anne Arundel and Prince George’s County residents Saturday as she joined Rep. Steny Hoyer’s 40th Annual Black History Month Celebration, the first time in its 40 years the event was held online."
     publishedDateTime: 2021-02-27T22:54:00Z
@@ -205,15 +213,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Vice President Harris Delivers Remarks to House Democratic Caucus"
-    excerpt: "Vice President Harris delivers virtual remarks to the House Democratic Issues Conference. Vice President Kamala Harris delivered remarks at a special event hosted by the Presidential Inaugural Committee"
-    publishedDateTime: 2021-03-02T12:54:00Z
-    webUrl: "https://www.c-span.org/video/?509452-1/vice-president-harris-delivers-remarks-house-democratic-caucus"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
-    quality: 35
   - title: "Where slaves once toiled, Vice President Kamala Harris will soon call home"
     excerpt: "The vice president’s residence, soon to be home to Kamala Harris, stands on land once owned by D.C.’s second-largest slave owner."
     publishedDateTime: 2021-02-23T13:33:00Z
@@ -233,6 +232,6 @@ related:
       domain: newstribune.com
     quality: 26
 
-secured: "bcmvMX4X9pdW/px3uzo0dR3ccGlv2aSIw8S4MjDK2cjJPFfTKVT/WhVjFP8Nk88NVUsUtVs6BvIpHvmFRD2YtJowNvqFrYxR8uJZRqZqLnV/POYzXfkWZdy0cnuG/7U8TOgzRUGWWk2xTrcmJyshvBOvH29ye3RIXkrBgDHk1ZJ5DdRGNaOHwc9NNT3GZTrwkcHK+z3L5dfP49Am1e/gDeNTkog4SN7K4m3zp45ZSbgGukUAxMFoySxVGaUbNUrkZZBBZxZDVdS8V0AC7DhQPkmq+UptG5E+FxnZFmy64HpK9mffQZ6R5c5hQBncYgtTend64PpaAryGwnVXYktzouqex1/XkeNGyBGKMLVSqrk=;St/xadN5EVCQYoSQ0C4bmQ=="
+secured: "184tr4D4yTfogKWfbC9yaSKrWqBaZt4JnqySX0/6I3JCgEERNzmgk4SDddrgVCt8/NJygKsMcBsEFaOHFr5kWTPk5+bfpHgwNVExOOeIGewy4dxtsX29fIoA+s8Ueg1PHXubnb2sfBkF8i/gBL7Nt1UDFN/PGDNM2PU5+k+w9j5j59W8Q6KtWJHXqSCBsa9L0znhAnnzhkQw9rylfYzeAvl297QZRhQ2n9OXqYf5+xPxaDFPSSlrCWAP5frRjDhwkQ8LFHqoMEaJrZKahws9zpGszw2QxWL/DEYTNvL426yobrBRDgo5wJwp62D9PGFv+ZUohMra+yHmMstbKAYp/HOqpu8o7jn+8GeodzA0FoBFQwi5RnbRlFtzSGqVSJYy2i9KAp341p6Q0AU2N3q/1Cj/aN4kKfJiQxkf30ySFObTzmEC3J+oFcVEtmOzNvRWsPefBpfDikqg57zI6OELeUZMNRV4y81/XZFuuWrtJSTm9XxqkWlE2Uw688y5eUsTi75xjclyPIv+KcK6PC8abA==;8MncVu3sC+pAIKYzl55hRA=="
 ---
 

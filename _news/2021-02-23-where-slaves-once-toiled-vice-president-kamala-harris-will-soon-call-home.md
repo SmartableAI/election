@@ -213,6 +213,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Vice President Harris Delivers Remarks to House Democratic Caucus"
+    excerpt: "Vice President Harris delivers virtual remarks to the House Democratic Issues Conference. Vice President Kamala Harris delivered remarks at a special event hosted by the Presidential Inaugural Committee"
+    publishedDateTime: 2021-03-02T12:54:00Z
+    webUrl: "https://www.c-span.org/video/?509452-1/vice-president-harris-delivers-remarks-house-democratic-caucus"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Jefferson City NAACP event to celebrate ‘historic first’ of Vice President Kamala Harris"
     excerpt: "Jefferson City NAACP event to celebrate ‘historic first’ of VP HarrisThe Jefferson City NAACP is joining with several community organizations to recognize the historic election of Vice President Kamala Harris at its “Celebrating a Legacy of Firsts” event."
     publishedDateTime: 2021-02-24T06:16:00Z

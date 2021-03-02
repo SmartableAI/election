@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Give Biden a Chance? On Covid Aid, Some Trump Voters Just Might"
-excerpt: "Republican leaders in Washington firmly oppose the president’s stimulus plan, but a sizable number of Trump voters support it, interviews and polls show."
-publishedDateTime: 2021-02-25T21:58:00Z
-originalUrl: "https://www.nytimes.com/2021/02/25/us/politics/republicans-trump-biden-stimulus.html"
-webUrl: "https://www.nytimes.com/2021/02/25/us/politics/republicans-trump-biden-stimulus.html"
-ampWebUrl: "https://www.nytimes.com/2021/02/25/us/politics/republicans-trump-biden-stimulus.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/us/politics/republicans-trump-biden-stimulus.amp.html"
+title: "Biden to huddle with Senate Democrats on Covid relief ahead of push for passage"
+excerpt: "President Joe Biden is expected to huddle with Senate Democrats on Tuesday as the chamber gears up to pass the White House's top legislative priority: a major pandemic relief plan.\n    \n"
+publishedDateTime: 2021-03-02T11:56:26Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jj31vqiy1PA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jj31vqiy1PA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/stimulus-covid-relief-bill-senate/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/stimulus-covid-relief-bill-senate/index.html"
 type: article
-quality: 150
+quality: 171
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/02/25/us/politics/25repubs-stimulus/25repubs-stimulus-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227211535-01-joe-biden-0227-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -77,22 +76,6 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219140325-xavier-becerra-nov-2019-restricted-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to huddle with Senate Democrats on Covid relief ahead of push for passage"
-    excerpt: "President Joe Biden is expected to huddle with Senate Democrats on Tuesday as the chamber gears up to pass the White House's top legislative priority: a major pandemic relief plan.\n    \n"
-    publishedDateTime: 2021-03-02T11:56:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jj31vqiy1PA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/stimulus-covid-relief-bill-senate/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/stimulus-covid-relief-bill-senate/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227211535-01-joe-biden-0227-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -160,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Give Biden a Chance? On Covid Aid, Some Trump Voters Just Might"
+    excerpt: "Republican leaders in Washington firmly oppose the president’s stimulus plan, but a sizable number of Trump voters support it, interviews and polls show."
+    publishedDateTime: 2021-02-25T21:58:00Z
+    webUrl: "https://www.nytimes.com/2021/02/25/us/politics/republicans-trump-biden-stimulus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/25/us/politics/republicans-trump-biden-stimulus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/us/politics/republicans-trump-biden-stimulus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/25/us/politics/25repubs-stimulus/25repubs-stimulus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "WARREN presses BIDEN for DEBT RELIEF — NEW GROUPS eligible for COVID SHOTS — BEACON HILL to probe VAX rollout"
     excerpt: "President Joe Biden is pretty blunt about where he stands on canceling $50,000 per borrower in student loan debt. “I will not make that happen,” Biden said during a CNN town hall earlier this week. But Sen."
     publishedDateTime: 2021-02-18T12:23:00Z
@@ -175,6 +174,6 @@ related:
         height: 629
         isCached: true
 
-secured: "tehLyfCnHP0m5ak8M/HCL2IKp/FJMFPBjItNPjdWcx4GRrKkFkSz9+CGcphEUsGlOS7mrruGg9TzYeIE9avdZdVHdrSztiBWoegXGXR+guLXPSetFXCV/QeVL051ZrJDFS+nGAFe69LZAinORJ1vDZil7PMEG84cTkDoykKhni9HTinMzHcMN6hEqNFXx1IAMV6BH3mnWSHn9ne0ArUqK1VNvSEuNa/O8XQnu6SlJIvSVVNdYt3Iwt47RMNJ9mUhaHKy0RBlWTfn6Tw/k1mPCSqU8BON00F9Oe36EBgovdkc43f+c38oz/9gBFdl+yPT9v23zrUIcln5bLfpvRx/dCddHmuImilTpCV1iYppVtA=;Peo1fK/cJLdvzkhLvsf+Tw=="
+secured: "1xdtnC2tSn9MbsP976EfkBUTKk/PoPBjxySSqvvXoowifYy8gggUtH5G0Pb2w0/g/HeOe27N/HS+upikmWPaIZxHGOEPIZU4/v5a3vQ9Zs3jJnf8pegzJFXbmHarlf+ItbpyEZCNGNp7GHstCFa2uEplr9ltAVeToVdIitXpB6dwpCXCse6oy9ZyhOnrwQ/R0SoRiUDMfFQADbL1dp6XvyIAFceHWxNNFtrqwgxJbekPzPmN2WBFYQi6CFeB+vPFiNW/OG6SfeoFEvuTf7B8I9RbpIk36igUe0Zbpna7z2ibWIOdgHcspV4sO5pgzbG7m6n1PZL0xhz/1tPbWZUH9/QaAm3J0xrev4+7axr6Vws=;KC/TiXkx7EqCZIH5wfM/rA=="
 ---
 

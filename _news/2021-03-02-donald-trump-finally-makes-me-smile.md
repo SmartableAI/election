@@ -1,33 +1,30 @@
 ---
 category: news
-title: "GOP Rep. Adam Kinzinger receives letter from 11 family members disowning him over Trump opposition"
-excerpt: "Rep. Adam Kinzinger, a six-term Republican congressman representing Illinois, received a hand-written letter from 11 family members disowning him over his opposition of former President Donald Trump, Fox News has confirmed."
-publishedDateTime: 2021-02-16T18:47:25Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4mNSAAX_7ZY/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4mNSAAX_7ZY/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition"
-ampWebUrl: "https://www.foxnews.com/politics/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition.amp"
+title: "Donald Trump Finally Makes Me Smile"
+excerpt: "Donald Trump was never forever. The former president is 74, obese and the subject of serious criminal investigations. Resurfacing after disgracefully"
+publishedDateTime: 2021-03-02T11:24:00Z
+originalUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.html#!"
+webUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.html#!"
+ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
+cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
 type: article
-quality: 161
+quality: 85
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: RealClearPolitics
+  domain: realclearpolitics.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://assets.realclear.com/images/53/536490_5_.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -92,6 +89,22 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "GOP Rep. Adam Kinzinger receives letter from 11 family members disowning him over Trump opposition"
+    excerpt: "Rep. Adam Kinzinger, a six-term Republican congressman representing Illinois, received a hand-written letter from 11 family members disowning him over his opposition of former President Donald Trump, Fox News has confirmed."
+    publishedDateTime: 2021-02-16T18:47:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4mNSAAX_7ZY/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -189,23 +202,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Donald Trump Finally Makes Me Smile"
-    excerpt: "Donald Trump was never forever. The former president is 74, obese and the subject of serious criminal investigations. Resurfacing after disgracefully"
-    publishedDateTime: 2021-03-02T11:24:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/536490_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
-secured: "vQpx/66R0noPEZXnVf4BkDtc9I/buxGDn1bCranLdee+iSEPDoLW/ZO3NMtau5BKm8M6iyfpbtNbmfsJW1cIVwo0Np63pDOi1HmT9gNHHsoU8RnyjwAB/xtT/+vEp8fxjw2qyFr3XwYCzFpuTzB09NYJnGhDfZ1792gAeFH6KP0SbSPHMDcM6oqibukdcgYWZDYRKoy+En7YbLH7p1dnlfLelIxz8+syHwHV6Xiw7jWpfFETOiyD10y6WzXA0Sk9HpzCMHIOYLzIQrtajSgqwI7R00eM9YyAH34U+qa27lgWrSx5yubFMZyQSeDqfutlXqgttSXxi6ul5hDihATVPfVEPKOIUWHk1vWpkQV1vDs=;Ex3UfiEdZkcyeQxO23lESw=="
+secured: "l73+W6kTjp+0vxPEkvyvLKSPzsuN7bXqJRfffREAwRO+JhCDXii4Jix45ZW8X+SHfVobS9b2BaNcLRcwU99CukqAxm2Qgd8IcJr/fNFBUzMgMOQedQYX+YSDgr9bhfBd7nO/lLeObx24fYUmfxjuiHWATRx1LQZset+cUQF6gwNcoU0ReBLUjyrsZ0VOYiIzuC851bN9ZZh0ZqSEJZOOqWyAvhw8Ag+5gmYiPw/i45PG/51MDJR3/gZNysmyYyUWD5++g9pPHvLX6EgFjhU+aMZsrzOdHiTfySbEqYQodinWRSaNp6sA8bH5ab1aHSqhBQ1sqgjxo6308p16pWoSUIE1e7uvRax/X4ZKm/LeS+k=;0Jlzt6N08cmrdfdlAZRvDg=="
 ---
 

@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to huddle with Senate Democrats on Covid relief ahead of push for passage"
+    excerpt: "President Joe Biden is expected to huddle with Senate Democrats on Tuesday as the chamber gears up to pass the White House's top legislative priority: a major pandemic relief plan.\n    \n"
+    publishedDateTime: 2021-03-02T11:56:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jj31vqiy1PA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/stimulus-covid-relief-bill-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/stimulus-covid-relief-bill-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227211535-01-joe-biden-0227-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden sends letter to congressional leadership explaining justification for Syria strike"
     excerpt: "President Joe Biden sent a letter to congressional leadership Saturday explaining the reasoning behind Thursday's airstrike in Syria, which has been criticized by some Democrats in the latest fight between the executive and legislative branches over war powers.\n    \n"
     publishedDateTime: 2021-02-27T23:12:47Z

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump calls for GOP unity, repeats lies about election loss"
-excerpt: "Former President Donald Trump called for Republican Party unity when he returned to the political stage for the first time since losing the White House to Joe Biden"
-publishedDateTime: 2021-03-01T06:34:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
-webUrl: "https://abcnews.go.com/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
+title: "Why the GOP can’t quit Trump"
+excerpt: "Is the apparent fissure in the GOP real or imagined? For answers, we studied the opinions of supporters of the “Make America Great Again” movement. The MAGA movement, often viewed as a divisive force in American politics,"
+publishedDateTime: 2021-03-02T12:45:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/03/02/why-gop-cant-quit-trump/"
+webUrl: "https://www.washingtonpost.com/politics/2021/03/02/why-gop-cant-quit-trump/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/02/why-gop-cant-quit-trump/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/02/why-gop-cant-quit-trump/?outputType=amp"
 type: article
-quality: 140
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_36ba0ee76f4744d98443ee52fd4c3bbf_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J62L3YD2L4I6XDC6GLSHWQVVDM.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
@@ -44,6 +44,22 @@ related:
     quality: 140
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_d6a861210180462dafa02ba81ab1c0ba_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump calls for GOP unity, repeats lies about election loss"
+    excerpt: "Former President Donald Trump called for Republican Party unity when he returned to the political stage for the first time since losing the White House to Joe Biden"
+    publishedDateTime: 2021-03-01T06:34:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-calls-gop-unity-repeats-lies-election-loss-76176162"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_36ba0ee76f4744d98443ee52fd4c3bbf_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -127,22 +143,6 @@ related:
         width: 1440
         height: 1044
         isCached: true
-  - title: "Why the GOP can’t quit Trump"
-    excerpt: "Is the apparent fissure in the GOP real or imagined? For answers, we studied the opinions of supporters of the “Make America Great Again” movement. The MAGA movement, often viewed as a divisive force in American politics,"
-    publishedDateTime: 2021-03-02T12:45:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/02/why-gop-cant-quit-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/02/why-gop-cant-quit-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/02/why-gop-cant-quit-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J62L3YD2L4I6XDC6GLSHWQVVDM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Nine months later, fencing comes down around the church where Trump stood with a Bible"
     excerpt: "The elite, Episcopal congregation found itself at the center of anti-racism protests and wrestled with the way the fence changed it"
     publishedDateTime: 2021-03-01T23:08:00Z
@@ -190,6 +190,6 @@ related:
         height: 2666
         isCached: true
 
-secured: "l3uq6h41C750tJCrrFde95lr4DAaMxnY8CKatn9/eEFMXd7iP0ojs8RiXdohO8snzu1BYIo7PSUlx7YFvmlHSC2sDge/TG9WwhKD0xBM/KZIrbpWGOIadkeAzvVWIkcQJ3PHZnytiLu4okQ6tbkRcs46yH97yP64Gnhp9pQpiv4zufpQuhk8ZlKNYE2ruA6pq0g3IWLNSXzFTJ5lpJoD5bnMefr3yaYEchWnJd/GWhLI+3NrrJLtBK9DOpBTYDzLkQQsiZsHbAZGN34b9qr2zDFXCoMIzsK6ykiV38BHhMmP8eXRD3AWGgkrkIAGwb8CU0Uc3Dtxvfmulw1Zl8PNcMGcPJvPnSZE9Q+8voTWLGQ=;HAThr/cLcKEyGgSu0icdSg=="
+secured: "56+AHBroTXiNajqSX8QiJSnbkIuq4kGhuR3UilN8yBe6xY02I8GgvJJBRiCSVY77RTfplfsSSzLFTFt02cK6lU8dvgYJskfIl5EP6m4n4syLN+uFwbRtaHXsDNZmKqpPxLoeCkXCOJE2QOJvjAksRNz9wiRGNeRtYDryclrWwT7hK/DgpX8JlpEZUDPmMAHBLq8DeTTLflGkxSzcubff+LRFUioquitjsdQylaIboaA4RTICs1A/Yuau3aCldt6NZffV3JQ1EvWxIkfo5TpWKiGDbR9yPl6BD0Zm2snWiusxKwYPABMIvh6xpO45ZGpCaJywl5Equn42OI13RjWL5JGC55Uc6Dl8Aj1/iFwlgak=;dpUJF32f6Pr571dUPFs0+w=="
 ---
 

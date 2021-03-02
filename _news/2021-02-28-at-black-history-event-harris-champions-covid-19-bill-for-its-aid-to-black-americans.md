@@ -205,6 +205,15 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "Vice President Harris Delivers Remarks to House Democratic Caucus"
+    excerpt: "Vice President Harris delivers virtual remarks to the House Democratic Issues Conference. Vice President Kamala Harris delivered remarks at a special event hosted by the Presidential Inaugural Committee"
+    publishedDateTime: 2021-03-02T12:54:00Z
+    webUrl: "https://www.c-span.org/video/?509452-1/vice-president-harris-delivers-remarks-house-democratic-caucus"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
   - title: "Where slaves once toiled, Vice President Kamala Harris will soon call home"
     excerpt: "The vice president’s residence, soon to be home to Kamala Harris, stands on land once owned by D.C.’s second-largest slave owner."
     publishedDateTime: 2021-02-23T13:33:00Z
