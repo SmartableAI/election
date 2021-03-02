@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/25/power-up-pence-se
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/25/power-up-pence-seeks-chart-his-own-political-future-establishment-republican-fluent-maga/?outputType=amp"
 type: article
 quality: 110
-heat: 110
+heat: 130
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1440
     height: 1053
     isCached: true
+
+related:
+  - title: "Political purgatory: Mike Pence missing in action as Trump makes triumphant return"
+    excerpt: "As former President Donald Trump teased his political comeback to conservatives this weekend, his one-time wingman, ex-Vice President Mike Pence, was nowhere to be found."
+    publishedDateTime: 2021-03-01T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/1/mike-pence-missing-action-donald-trump-makes-trium/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/1/mike-pence-missing-action-donald-trump-makes-trium/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/1/mike-pence-missing-action-donald-trump-makes-trium/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 84
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/election_2020_debate_80917_c0-0-7820-4561_s1200x700.jpg?56fde10e756e7809d656fd3fa8a95b1b1eda9bc8"
+        width: 1200
+        height: 700
+        isCached: true
 
 secured: "vEPocUSUBCNt6QYD7PhlmmXOWWBPNXlX9epJyAAqe54W2fCK08TOAolBoDNZQ3krAaTusNOftGFZqVW1QLYEUgLF7rrMNopv5rKeMCmWpNR+Zy/SvPsAIeEqtw1+luRN064nv3YNKa+PRE/SiMAZXz886nK17kxyxrIf9l9MqqZjiBogpb7mli/rqLiwhhmLcRnnPcq2yLM/wy8Ay4aCnFhzxag0kfJ62UZ97czXK3v3nulVBlVz+xnk9kSXaqeNhlXAhDiT/2Xa5HpRtqCmqw+x9YS8jdQseX3Ds1Vm8jWsROx0CdTBFEg5PrZD4iCP5DtYZGOamvGGTm4F1hVA8eka/vKDrN5zYw/+GCJxLhNlyD1VYRXikM8S7EQXM8mkwnKCpNb5hMaP4IF72q4wgf/BVqcbE2aDRhfvjjGstuA5R7szXn6utGpSWGbxJ/pE7rwp8WAaX6RxraVgVSsGbpVdkscX9cBfRqvc+RizJvOGrRLFgyEyWxGSIGGwj8TTMUeOexkacV2DFKMovrvrmw==;oQiiMnkLWZ+pz/YibcivCg=="
 ---

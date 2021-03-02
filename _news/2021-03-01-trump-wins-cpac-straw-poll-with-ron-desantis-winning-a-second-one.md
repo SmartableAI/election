@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "CPAC Takeaways: Trump Dominates, and DeSantis and Noem Stand Out"
+    excerpt: "At their three-day gathering, pro-Trump conservatives tried to turn “cancel culture” into their new “fake news” and spent little time on policy (either their own or President Biden’s)."
+    publishedDateTime: 2021-03-02T01:11:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-kristi-noem.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-kristi-noem.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-trump-kristi-noem.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-takeaways1/merlin_184399473_c7a01d25-83d4-4cf5-8e7a-af393cdc388f-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump teases 2024 run in CPAC remarks, as he looks to keep his grip on GOP"
     excerpt: "Donald Trump still has grievances to air — and a Republican Party eager to bask in his indignation. In his first major address since leaving office, Trump on Sunday laced into his Democratic successor,"
     publishedDateTime: 2021-03-01T20:16:00Z

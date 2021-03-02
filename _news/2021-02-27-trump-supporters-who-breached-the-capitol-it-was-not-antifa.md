@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-sup
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-supporters-not-antifa/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump supporters are still pushing false claims that antifa was behind the Capitol riot."
+    excerpt: "Brown wrote on Twitter that rioters had breached the United States Capitol — and immediately speculated about who was really to blame. “Antifa or BLM or other insurgents could be doing it disguised as Trump supporters,"
+    publishedDateTime: 2021-03-02T02:42:00Z
+    webUrl: "https://www.nytimes.com/2021/03/01/us/politics/trump-supporters-are-still-pushing-false-claims-that-antifa-was-behind-the-capitol-riot.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/01/us/politics/trump-supporters-are-still-pushing-false-claims-that-antifa-was-behind-the-capitol-riot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/01/us/politics/trump-supporters-are-still-pushing-false-claims-that-antifa-was-behind-the-capitol-riot.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 126
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/02/us/politics/28antifa-lie-promo/28antifa-lie-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Oath Keeper claims she was VIP security at Trump rally before riot and says she met with Secret Service agents"
     excerpt: "A leader in an alleged Oath Keepers conspiracy in the US Capitol insurrection claims she was given a VIP pass to the pro-Trump rally on January 6, had met with Secret Service agents and was providing security for legislators and others,"
     publishedDateTime: 2021-02-21T16:42:00Z

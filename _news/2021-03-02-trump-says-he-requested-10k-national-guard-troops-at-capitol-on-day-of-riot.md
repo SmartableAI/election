@@ -160,6 +160,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "DHS Will Seek to Reunify in U.S. Migrant Families Separated Under Trump"
+    excerpt: "Homeland Security Secretary Alejandro Mayorkas said the Biden administration would seek legal pathways that could allow deported parents to join their children in the country."
+    publishedDateTime: 2021-03-02T00:57:00Z
+    webUrl: "https://www.wsj.com/articles/mayorkas-says-u-s-will-seek-to-reunify-migrant-families-separated-under-trump-policy-11614632727"
+    ampWebUrl: "https://www.wsj.com/amp/articles/mayorkas-says-u-s-will-seek-to-reunify-migrant-families-separated-under-trump-policy-11614632727"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mayorkas-says-u-s-will-seek-to-reunify-migrant-families-separated-under-trump-policy-11614632727"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-305696/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Trump vacuum puts local officials in media’s harsh glare"
     excerpt: "Without Trump dominating the news cycle, the media have turned their attention to scandals and controversies like those involving the governor of New York, the governor of California, and a senator fr"
     publishedDateTime: 2021-02-23T08:14:00Z

@@ -48,6 +48,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "CPAC Takeaways: Trump Dominates, and DeSantis and Noem Stand Out"
+    excerpt: "At their three-day gathering, pro-Trump conservatives tried to turn “cancel culture” into their new “fake news” and spent little time on policy (either their own or President Biden’s)."
+    publishedDateTime: 2021-03-02T01:11:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-kristi-noem.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-kristi-noem.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-trump-kristi-noem.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-takeaways1/merlin_184399473_c7a01d25-83d4-4cf5-8e7a-af393cdc388f-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "AAW0S5Tjp8rmnzIFbYJ7krGOSgDbXMRf21nOgq8GIAhoCqoLUOPJfcIULrcE4FGovyA97ThBmYr03om+6BgqBPZxXltgl5WSuVIZe4V4wb0dwCGbpNp44lApvpRyQrWPk8vWujeSkXB6yLuivxkZNUhSy89dKKv5PMpQ/MspMeJiIaL4XL+AB9h8REwmo/Oj36aGhVnp8sRBL6TjVhFmJYGFmzCBpMu+NJXPxwmD36KwkUG0Y+sDV6pI8PcvnIzac/1QkWZa2J65OSvMxd0umiN0XQgAXDaBjKiOf1klj4asHFNrspRDiPKsw6aw64F2xOsD5tJRym7QDoKvXUAioO/FO8052UNEwtmSZb0jhv6dcdabqJoR/IoWOWByFMy0DF7BW9PsQN+/iqXCydTfCyhToXOEcX38vsvMQXzUAzrfBVPHBmOj92NVBFqKbHP9HVq7NftDA6ZZpD7SSy8247KyOTsbpBFWaJ7pVoQ1q7FZqmymwL+vtQEV8xT8OFPlWZxqCw0qJvcJi5ZdkZS+zg==;WUiSC9qJZG57rEIpTJDz/w=="
 ---

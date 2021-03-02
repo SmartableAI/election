@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Refugees are being removed from flights to the US as they await Biden's signature"
+    excerpt: "Hundreds of refugees who had been approved -- and booked -- to come to the United States are being taken off flights, according to resettlement agencies who work directly with refugees.\n    \n"
+    publishedDateTime: 2021-03-02T00:43:07Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PqvMFL-qo9I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/refugee-flights-biden-delay/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/refugee-flights-biden-delay/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193858-biden-meeting-0301-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden sends letter to congressional leadership explaining justification for Syria strike"
     excerpt: "President Joe Biden sent a letter to congressional leadership Saturday explaining the reasoning behind Thursday's airstrike in Syria, which has been criticized by some Democrats in the latest fight between the executive and legislative branches over war powers.\n    \n"
     publishedDateTime: 2021-02-27T23:12:47Z

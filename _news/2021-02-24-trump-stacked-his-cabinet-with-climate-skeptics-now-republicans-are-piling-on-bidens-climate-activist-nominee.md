@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/what-matters-february-23
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/what-matters-february-23/index.html"
 type: article
 quality: 170
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Hawley defends opposition to every Biden Cabinet nominee: 'I take them one at a time'"
+    excerpt: "Republican Sen. Josh Hawley on Monday defended his role as the only US senator to oppose every one of President Joe Biden's Cabinet nominees, insisting that he evaluates each pick individually.\n    \n"
+    publishedDateTime: 2021-03-02T01:33:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DrlmZ0SuTcM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/josh-hawley-biden-cabinet-opposition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/josh-hawley-biden-cabinet-opposition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119152918-01-hawley-dec2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "00acUlKYZ8/CW3AwylrQ8UTQ+1hlF0G76Hc2dYA9uTyDlFk27Ls7EYgg4J2yVTU5h5zBHqWq10Q4JGIaLPbOf5KdeZQYCErUBPdwbRRWLH5q5JbhRExBep1hgkZZm+bXwC1X83Tv9N8TjGCuoouTE6U7XX7ZxAUyLErzxl6h9asWvqwCMiRjKGudVi4785K0gCdn56PrZTb9/7PkhXhQzDtMJzLGB0scY/T8D5f6F4mHsyuRuHHSiZe2VXbAsQtt6/VbwEIewUbglAwpfkjR9j606hPkEebcbaFmZ+HTTUnSm8zS/wFFhRD8JkLJoEJKwA/twBVrSnBaHKu2/VYZxpSaLb1Vmd1/CpCXXDK0Y54=;Nq7vcuuOFLPgrbQ4+kNtAg=="
 ---
