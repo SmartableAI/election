@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden White House wants to use the Super Bowl to advance message on Covid, vaccines "
-excerpt: "President Joe Biden's urgent goal of tackling the Covid-19 pandemic depends heavily on persuading Americans to get the vaccine as quickly as possible and educating the public about the virus -- and his top aides have been eyeing this weekend's Super Bowl as an opportunity to score some points.\n    \n"
-publishedDateTime: 2021-02-05T13:48:35Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqRDiFIlRks/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqRDiFIlRks/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/biden-white-house-super-bowl/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/biden-white-house-super-bowl/index.html"
+title: "Biden must balance the horror of Covid-19 with the hope to come"
+excerpt: "It may not feel like it right now after a horrific winter, but America has never experienced a moment this hopeful since the pandemic began.\n    \n"
+publishedDateTime: 2021-03-02T05:00:31Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8KDlDbdUvk0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8KDlDbdUvk0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/joe-biden-covid-19-hope/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/joe-biden-covid-19-hope/index.html"
 type: article
-quality: 168
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204214958-super-bowl-tampla-florida-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193858-biden-meeting-0301-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -127,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden must balance the horror of Covid-19 with the hope to come"
-    excerpt: "It may not feel like it right now after a horrific winter, but America has never experienced a moment this hopeful since the pandemic began.\n    \n"
-    publishedDateTime: 2021-03-02T05:00:31Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8KDlDbdUvk0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/joe-biden-covid-19-hope/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/joe-biden-covid-19-hope/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193858-biden-meeting-0301-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Democrats to unveil $3,000 child benefit as part of Biden relief package"
     excerpt: "House Democratic leaders will unveil legislation Monday that would give millions of families at least $3,000 per child, advancing a key provision in President Joe Biden's $1.9 trillion Covid-19 relief package.\n    \n"
     publishedDateTime: 2021-02-07T19:35:56Z
@@ -220,6 +204,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210201203410-03-biden-harris-gop-meeting-0201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden White House wants to use the Super Bowl to advance message on Covid, vaccines "
+    excerpt: "President Joe Biden's urgent goal of tackling the Covid-19 pandemic depends heavily on persuading Americans to get the vaccine as quickly as possible and educating the public about the virus -- and his top aides have been eyeing this weekend's Super Bowl as an opportunity to score some points.\n    \n"
+    publishedDateTime: 2021-02-05T13:48:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nqRDiFIlRks/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/05/politics/biden-white-house-super-bowl/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/05/politics/biden-white-house-super-bowl/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210204214958-super-bowl-tampla-florida-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -604,6 +604,6 @@ related:
         height: 630
         isCached: true
 
-secured: "852IjbXDzFj1hHb43yKiyWQtVN8QUrSFdja1nz5Uo4hmOQNhQPVp846r2K7tfb5Wz/KTm0U5CvMCIimqGW8rwndSvx+AZ+I3872+lImXytCrUro0fkl+6Ybrtr912QEa+a7jmFY+ISwmjGYkDIpQcAs/SpkkiMNkrWqsWFTHuaiGWXs4hK567qjyraTdYD5UQ8p5N2ji6v1R6xVnoCgrUhWN1ma67esd1WTlWIUJdXKUUmduSopgTkFes3QohL2NtqRtjgSCZ24iaKow7n49n9NLcw9yOGR/ovxeF+8syqsE5xGSZRLr95keMRNtvKY+bPiEhXWUKRtcmGcEDQXT4iSxrcitl2x58B2xET5ZVrk=;JqselgoajdMqOO93Pit44A=="
+secured: "P8lrBPRgEJkyYbcG9X2F94OWGHH/JzqexPnPv+W0YH5rcPFFC+fRV5WsWAQU80cRj/u9iLajIsr1LCW1cYZqcFMPQCqUY56OqHpcn5A3MypA8Ch29kM/5NxV7xjpbxweeaCDAWXAmyJp1xdMpdWaAUqAd85FgGBz7VBhO3tztii+6exK/b24ftWVWqaSOvLRBF93rZXhl3PTwfAy6ipjrMIo8djZZFr8yooyN7xR2D86AtBk0ISWU6L1+MecH3f3qR5lhPujiiA0C5w70e7rG5MDFLiD0LSToNYeCB1SzfSV6ys65CkTKJjOjJxBHRRK7BRB7KnbNDhkeVK7nytwYOPD1B4DpD1q4rBshbucvkk=;fL4r+pB+pHPSXpzCEa3jZw=="
 ---
 

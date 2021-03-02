@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden must balance the horror of Covid-19 with the hope to come"
+    excerpt: "It may not feel like it right now after a horrific winter, but America has never experienced a moment this hopeful since the pandemic began.\n    \n"
+    publishedDateTime: 2021-03-02T05:00:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8KDlDbdUvk0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/joe-biden-covid-19-hope/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/joe-biden-covid-19-hope/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193858-biden-meeting-0301-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Democrats to unveil $3,000 child benefit as part of Biden relief package"
     excerpt: "House Democratic leaders will unveil legislation Monday that would give millions of families at least $3,000 per child, advancing a key provision in President Joe Biden's $1.9 trillion Covid-19 relief package.\n    \n"
     publishedDateTime: 2021-02-07T19:35:56Z

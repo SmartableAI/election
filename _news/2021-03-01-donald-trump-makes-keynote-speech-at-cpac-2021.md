@@ -426,6 +426,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump declares he won't start a new party at CPAC: 'We have the Republican Party'"
+    excerpt: "Former President Donald Trump in his Sunday address to the Conservative Political Action Conference (CPAC) clearly declared that he would not start a new political party, after some speculation last month that he might."
+    publishedDateTime: 2021-03-02T09:20:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/trump-cpac-cropped.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "CPAC readies for Florida gathering amid COVID-19, as conservatives ready for Trump bonanza"
     excerpt: "For many, the Conservative Political Action Conference (CPAC) is essentially one of the last major in-person events without masks or coronavirus pandemic restrictions before the shutdown began."
     publishedDateTime: 2021-02-24T12:45:00Z

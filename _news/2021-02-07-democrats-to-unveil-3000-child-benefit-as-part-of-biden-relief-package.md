@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden must balance the horror of Covid-19 with the hope to come"
+    excerpt: "It may not feel like it right now after a horrific winter, but America has never experienced a moment this hopeful since the pandemic began.\n    \n"
+    publishedDateTime: 2021-03-02T05:00:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8KDlDbdUvk0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/joe-biden-covid-19-hope/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/joe-biden-covid-19-hope/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193858-biden-meeting-0301-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tech problems kick off Biden administration's first virtual Covid briefing"
     excerpt: "The first Covid-19 briefing of the Biden administration got off to an unfortunate start on Wednesday with multiple technical difficulties. The administration has repeatedly touted their transparency amid the enormous undertaking of getting the pandemic under control, but the briefing, which was conducted"
     publishedDateTime: 2021-01-27T16:39:11Z

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump CPAC message to include 'big thank you' to supporters, Lara Trump expects"
-excerpt: "Former President Trump is scheduled to make his first public appearance since leaving office at the 2021 Conservative Political Action Conference (CPAC) next weekend, and Lara Trump shared her expectations for the message he’ll share."
-publishedDateTime: 2021-02-21T17:04:30Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7GDwHRgQF4/trump-cpac-message-thank-you-supporters-lara-trump"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7GDwHRgQF4/trump-cpac-message-thank-you-supporters-lara-trump"
-ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-message-thank-you-supporters-lara-trump.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-message-thank-you-supporters-lara-trump.amp"
+title: "Trump declares he won't start a new party at CPAC: 'We have the Republican Party'"
+excerpt: "Former President Donald Trump in his Sunday address to the Conservative Political Action Conference (CPAC) clearly declared that he would not start a new political party, after some speculation last month that he might."
+publishedDateTime: 2021-03-02T09:20:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news"
+webUrl: "https://www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news"
+ampWebUrl: "https://www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news.amp"
 type: article
-quality: 171
+quality: 130
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-CPAC-AP-e1607457728844.jpg?ve=1&tl=1"
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/trump-cpac-cropped.jpg?ve=1&tl=1"
     width: 640
     height: 320
     isCached: true
@@ -174,6 +175,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Trump CPAC message to include 'big thank you' to supporters, Lara Trump expects"
+    excerpt: "Former President Trump is scheduled to make his first public appearance since leaving office at the 2021 Conservative Political Action Conference (CPAC) next weekend, and Lara Trump shared her expectations for the message he’ll share."
+    publishedDateTime: 2021-02-21T17:04:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g7GDwHRgQF4/trump-cpac-message-thank-you-supporters-lara-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-cpac-message-thank-you-supporters-lara-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-cpac-message-thank-you-supporters-lara-trump.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/Donald-Trump-CPAC-AP-e1607457728844.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Lawrence Jones says CPAC attendees 'united,' previews what Trump will say in speech"
     excerpt: "Conservatives appear energized and united at the annual Conservative Political Action Conference (CPAC) in Florida, Fox Nation host Lawrence Jones said on Friday, offering insight on what former President Donald Trump will say in his weekend address."
@@ -429,22 +446,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Trump declares he won't start a new party at CPAC: 'We have the Republican Party'"
-    excerpt: "Former President Donald Trump in his Sunday address to the Conservative Political Action Conference (CPAC) clearly declared that he would not start a new political party, after some speculation last month that he might."
-    publishedDateTime: 2021-03-02T09:20:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-declares-he-wont-start-a-new-party-at-cpac-says-speculation-otherwise-was-fake-news.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 130
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/trump-cpac-cropped.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "CPAC readies for Florida gathering amid COVID-19, as conservatives ready for Trump bonanza"
     excerpt: "For many, the Conservative Political Action Conference (CPAC) is essentially one of the last major in-person events without masks or coronavirus pandemic restrictions before the shutdown began."
     publishedDateTime: 2021-02-24T12:45:00Z
@@ -584,6 +585,6 @@ related:
         height: 3601
         isCached: true
 
-secured: "aQcchZky4BBitKH/0be/0Xv6lduzcoxnYkNBIicfeuXZMzpxfAWoJ1IG5kA9LFny6wwSF3+f8pVryAY2Hd7XNleFGdSVIH5AXWgzy+rFU1MDqYmYQtHgW8a1zKmAgAUKB/MyqEZ98ZDudVVz4zJKULZU1/KFu0ELWu2EdCbSzLfMTc3EEWYd5UgJR8Eh/JF0TeiNmSXpf8Cq0Fl8bxEZAREhkUu81D511caniH2gUzzNUhMzdF0o71t0DTIl78JGsBTKO7kjIdaBjRUWgssWcl+P/VBtXj0aiFK2xw4hok2lpo3ARseOehnpf54yw8Tnc8/tBspitGiQYgf+lsx6nC531RN4SiC0XDwGiMOYE68=;Zk9qv+5bhWyvP5BofTKrFA=="
+secured: "3BS/VaryZ4M5fMUD8yIG3P7nNkU6SHIt6qP6b/pl3ioRF+ky1ZgVeEF/W1OYkECAbXldEvM0oZ/WaAm41CgguA9OwtASyWaeiNzLnKDwtQ9ytBsia/BJMZm3B1bxmo7RBT0wk89Htu0lwtTrrMiEhQqjpeC51YRnN5qoA0T+IPI3Z3S/m7u7P2RO9PoA7A5LlKjA91oL10To0sat7eY06qFgeCVXzaKfHZOht2RS+rYjs8vDMQKIrWAPvmQQbaivQQYePFTZyYTI7kErkiG59++Q7N7fUuV633ANVmwnq6BuU3YCY9CUKFwqAyuAcEtHP6bFNU6kIhbxx3DfjQ7uh/bHvI/gP4rgbd7PaWGvV2g=;NXrL2krRSVJEB0ALxdXJXg=="
 ---
 
