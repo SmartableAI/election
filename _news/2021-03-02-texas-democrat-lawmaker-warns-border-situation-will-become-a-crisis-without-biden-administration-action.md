@@ -31,19 +31,67 @@ images:
     isCached: true
 
 related:
-  - title: "Biden administration and Democrats 'do not care' about American jobs: Sen. Scott"
-    excerpt: "Sen. Rick Scott R-Fla. said Friday that the Biden administration and Democrats \"don't care about jobs\" and that the attempted inclusion of a $15 minimum wage in the latest coronavirus stimulus bill is just \"payback\" to liberal Democrats. "
-    publishedDateTime: 2021-02-26T13:49:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZkTrFGm5qc/minimum-wage-hike-biden-democrats-jobs-scott"
-    ampWebUrl: "https://www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp"
+  - title: "Biden administration argues migrant surge is a 'challenge,' not a 'crisis'"
+    excerpt: "President Biden is declining to call the situation at the southern border a crisis – even amid reports that his administration needs another 20,000 beds at migrant facilities to deal with a surge of unaccompanied minors."
+    publishedDateTime: 2021-03-03T00:40:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gNIwkKkxIzc/biden-migrant-surge-challenge-not-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21061778358268-e1614731162572.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Rand Paul: Lot of ‘hypocrisy’ from Biden admin on immigration, migrant facilities"
+    excerpt: "The Biden administration is showing \"hypocrisy\" by reopening a migrant facility that the Trump administration was criticized for using, Sen. Rand Paul, R-Ky., said on Thursday."
+    publishedDateTime: 2021-02-25T23:29:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P5CVOwVb1eE/rand-paul-biden-administration-hypocrisy-biden-administration-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-biden-administration-hypocrisy-biden-administration-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-biden-administration-hypocrisy-biden-administration-immigration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1d9959d-2022-46fc-865c-355a8970d8a6/0494ea3a-053d-4d59-b663-2a432ef7a084/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "AOC tears into Biden admin for reopening child migrant facility: 'This is not okay'"
+    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., had some strong words for President Biden's administration after news surfaced that it was reopening a child migrant detention facility in Texas."
+    publishedDateTime: 2021-02-24T01:40:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N131LIzMZO8/aoc-biden-child-migrant-facility"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-biden-child-migrant-facility.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-child-migrant-facility.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c344915-8c99-4be2-b518-e14a049426cb/58ebec30-01e6-4e46-b823-b9f83aae2b97/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mexican president should call out Biden for creating new border 'crisis': Mark Morgan"
+    excerpt: "Former Acting Customs and Border Protection Commissioner Mark Morgan said former President Donald Trump’s criticisms of President Joe Biden’s immigration policies at CPAC were “spot on,” arguing that Biden’s “radical, open border policies” have created a “crisis” at the U.S. Southern Border."
+    publishedDateTime: 2021-03-01T15:25:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d01sGtz-P1I/biden-immigration-crisis-southern-border-former-cbp-commissioner"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-crisis-southern-border-former-cbp-commissioner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-crisis-southern-border-former-cbp-commissioner.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/418fe94b-51ac-40be-af29-f63af8bd00ef/4f3c3e64-8000-41ef-905d-5bebc35010b1/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

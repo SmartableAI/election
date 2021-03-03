@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-24-major-trump-backer-rebekah-mercer-orchestrates-parlers-second-act.md",
+      "title": "Major Trump backer Rebekah Mercer orchestrates Parler’s second act",
+      "excerpt": "Rebekah Mercer, a daughter of a major Republican donor, is a founding investor of Parler, where she reportedly is pulling strings. Mercer holds the majority stake in Parler and controlled two of three board seats as of early February — a board to which she recently appointed allies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W4UB54TWCUI6XFEJR562ZVI6OU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/?outputType=amp",
+      "publishedDateTime": "2021-02-24T03:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-critics-slam-sen-ron-johnson-for-unfounded-claim-that-fake-trump-protesters-led-riots-its-disgraceful.md",
       "title": "Critics slam Sen. Ron Johnson for unfounded claim that ‘fake Trump protesters’ led riots: ‘It’s disgraceful’",
       "excerpt": "Sen. Ron Johnson (R-Wis.) made false claims minimizing the damage done by a pro-Trump mob during the Jan. 6 Capitol riot.",
@@ -390,62 +442,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-23-not-so-fast-wh-dodges-on-whether-biden-agrees-with-kerry-nine-year-deadline-to-avert-climate-catastrophe.md",
-      "title": "Not so fast: WH dodges on whether Biden agrees with Kerry nine-year deadline to avert climate catastrophe",
-      "excerpt": "White House Press Secretary Jen Psaki stopped short of saying President Biden is on board with the idea that there are less than ten years left to thwart the worst consequences of a global climate crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPLFWBexWwo/psaki-biden-kerry-climate-prediction",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPLFWBexWwo/psaki-biden-kerry-climate-prediction",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-kerry-climate-prediction.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-kerry-climate-prediction.amp",
-      "publishedDateTime": "2021-02-23T13:07:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-23-trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.md",
       "title": "Trump wishes Tiger Woods a speedy recovery after LA crash",
       "excerpt": "Former President Trump is wishing golfing legend Tiger Woods well after he experienced a tragic car accident on Tuesday.",
@@ -514,7 +510,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 315,
+      "heat": 335,
       "tags": null,
       "images": [
         {
@@ -675,7 +671,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 585,
+      "heat": 605,
       "tags": null,
       "images": [
         {
@@ -951,7 +947,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 375,
       "tags": null,
       "images": [
         {

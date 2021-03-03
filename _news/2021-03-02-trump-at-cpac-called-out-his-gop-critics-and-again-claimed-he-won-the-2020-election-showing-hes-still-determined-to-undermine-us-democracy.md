@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Video Shows Alex Jones Saying He's 'Sick' of Donald Trump and Wishes He Never Met Him"
+    excerpt: "Infowars host Alex Jones can be heard saying that he is \"sick\" of former President Donald Trump in a newly unearthed video. Jones made the remarks while filming an interview for the documentary You Can't Watch This in January 2019."
+    publishedDateTime: 2021-03-02T23:16:00Z
+    webUrl: "https://www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310"
+    ampWebUrl: "https://www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1746760/alex-jones-donald-trump-leaked-video.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "FBI focuses on video of Capitol Police officer being sprayed with chemicals before he died in pro-Trump riot"
     excerpt: "The video could offer investigators a path to holding someone accountable in connection with Officer Brian Sicknick’s death."
     publishedDateTime: 2021-02-27T00:47:00Z

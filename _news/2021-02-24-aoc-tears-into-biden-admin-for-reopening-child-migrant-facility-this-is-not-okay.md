@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration argues migrant surge is a 'challenge,' not a 'crisis'"
+    excerpt: "President Biden is declining to call the situation at the southern border a crisis – even amid reports that his administration needs another 20,000 beds at migrant facilities to deal with a surge of unaccompanied minors."
+    publishedDateTime: 2021-03-03T00:40:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gNIwkKkxIzc/biden-migrant-surge-challenge-not-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21061778358268-e1614731162572.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Rand Paul: Lot of ‘hypocrisy’ from Biden admin on immigration, migrant facilities"
     excerpt: "The Biden administration is showing \"hypocrisy\" by reopening a migrant facility that the Trump administration was criticized for using, Sen. Rand Paul, R-Ky., said on Thursday."
     publishedDateTime: 2021-02-25T23:29:38Z
@@ -47,35 +63,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Laid-off pipeline worker: The Biden administration ‘has taken my livelihood from me’"
-    excerpt: "Jason Jernigan, a laid-off Keystone XL Pipeline worker, told \"America’s Newsroom\" on Monday that he doesn’t know how he is going to make a living now, saying, \"This is all I know how to do.\""
-    publishedDateTime: 2021-03-01T21:04:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXpdatjt7Jw/laid-off-pipeline-worker-biden-administration-livelihood"
-    ampWebUrl: "https://www.foxnews.com/politics/laid-off-pipeline-worker-biden-administration-livelihood.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/laid-off-pipeline-worker-biden-administration-livelihood.amp"
+  - title: "Mexican president should call out Biden for creating new border 'crisis': Mark Morgan"
+    excerpt: "Former Acting Customs and Border Protection Commissioner Mark Morgan said former President Donald Trump’s criticisms of President Joe Biden’s immigration policies at CPAC were “spot on,” arguing that Biden’s “radical, open border policies” have created a “crisis” at the U.S. Southern Border."
+    publishedDateTime: 2021-03-01T15:25:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d01sGtz-P1I/biden-immigration-crisis-southern-border-former-cbp-commissioner"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-crisis-southern-border-former-cbp-commissioner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-crisis-southern-border-former-cbp-commissioner.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/418fe94b-51ac-40be-af29-f63af8bd00ef/4f3c3e64-8000-41ef-905d-5bebc35010b1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Kash Patel On Biden Admin Politicization Of DOD: Biden Is Wrong About White Supremacy In Military"
-    excerpt: "Former Trump administration Department of Defense Chief of Staff Kash Patel joined Maria Bartiromo on FOX News Channel's \"Sunday Morning Futures\" to say the Biden Administration is wrong when alleging white supremacy is a major problem in the military."
-    publishedDateTime: 2021-02-23T07:19:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/02/21/kash_patel_on_biden_admin_politicization_of_dod_biden_deliberately_lying_about_white_supremacy_in_military.html"
+  - title: "Texas Democrat lawmaker warns border situation will ‘become a crisis’ without Biden administration action"
+    excerpt: "Rep. Henry Cuellar, , D-Texas, whose district borders Mexico, says he believes the situation at the border will \"become a crisis\" if President Joe Biden’s administration does not take a stronger stance against illegal immigration."
+    publishedDateTime: 2021-03-02T21:31:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dkDvUoZjV0E/henry-cuellar-texas-border-crisis-biden-administration-action"
+    ampWebUrl: "https://www.foxnews.com/politics/henry-cuellar-texas-border-crisis-biden-administration-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/henry-cuellar-texas-border-crisis-biden-administration-action.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 52
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
     images:
-      - url: "https://assets.realclear.com/images/53/535799.jpg"
-        width: 750
-        height: 562
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/967baea6-efee-4745-967b-7c71937049ac/f6882a97-ccd1-42a7-842b-73d34c571173/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "bkp0gu8s1Omv+OmIgr1F1pEkD0hzfBA0ivit4Y0VlDEsuBMyoXpfFs2wzrEV8zGyW/u7sCjFYNEPFpwl4reJvYUE+pxjSu/SuNMsmj9NouvqtHPHJjw9yauzc/GQNdYTooZv6JexVn+gzXLHRMiB/8HSaeB9KOPnn2gs/q6ewkvfdxQnsWhbXUy+Hik4NyZ8WdWce2ACxE/v0rnkrxHWGzBZVZGEzQeD/godAj2PWyY9oCHhIT9RCdqWLpk6/tdPBY2zESSfP3TJ3i3zCtSv/ziFnAYa/CZeuKwPGW4z2TT/j0p3LgXblxMFZeVLkQJvMBqnWjss1jjVf8fq8tm7NHQJ/LJ7fSoxfaxkxQpoOzY=;rfpc+yFfFZzKQpOJrgKNww=="

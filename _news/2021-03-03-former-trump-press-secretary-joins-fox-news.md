@@ -203,6 +203,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Republicans recommit to Trump after blaming him for the Capitol attack"
+    excerpt: "After condemning former president Donald Trump’s actions around the Jan. 6 Capitol riot, multiple GOP lawmakers have since thrown their support behind him."
+    publishedDateTime: 2021-03-02T23:37:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/republicans-recommit-to-trump-after-blaming-him-for-the-capitol-attack/2021/03/02/62f65e12-dda1-4582-844f-ebb074472225_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_1a30ea49bd984a17a8d8973b6d658c51_name_20210301_GOP_TRUMP_V3.png&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Trump dominant force at conservative conference"
     excerpt: "Trump on Sunday will be making his first post-presidential appearance at the conference, and aides say he will use the speech to reassert his power."
     publishedDateTime: 2021-02-27T13:20:00Z
@@ -220,6 +234,6 @@ related:
         height: 2666
         isCached: true
 
-secured: "kuRDq6fABBHV+cETPvPXg7R0EUYcW4Css2GGTuRQ5Jsq5itbFJRbmCRR6HtQMHdkyzFKtDdeSdP1OGE7OWlzLFqi1UA69euIUGOBNr042VSV5fa1g+TRFdLb3aGbmjRg0eYtcrcZylxsMApWYp/m6Z1tRR/9zELo9yB2jAuMRzO0VmVTj395xQKc/BrJ5k4QaX3EOfV8D6oHTUh4CLjCNoCP1DAjN28Sx2u5PeA3FWlksVPN4clSMLC563V/+ySzBoi7hyjkLlnOQzXpQP2OWf/RBTlLKzV74sTWFMHodwfFqRigM9yZWqJDMTOIHWwKKpP/ShassT8FKYbylxIPXx873mcCbnHH9h8kqVGyEuo=;zFixoz43esVU5j3I78hdKg=="
+secured: "N+osBFOiVapBGnxd+wzC6PqZVNTpZb5ntTuBJKXVbBe7t8oAAiYR4/kZ7UJQ3HXn6+Q/eD5acYM4GsnwdBEQvCGfDWz8sayKtKIMLUQ+EcNHquCqo52f6UEUpZZErPq18Sn6fbll0eC4f0SzhtFVA8ROoJt9Tz0PYEo+86hrzDpxITs7mG6ZrFHAQO8V5uj+s0un60EcwM0mh7fje2OZHzQx4C1BjVIEPgl+ZXRXpOaGGKK8EtHBZt+xFHfzEoRtJXP72MOMaiwePvhwTAo4b77/TRMTSZHmbAJn/j4rGPlbdGWnbSnhRf6v3ValejBHDtt7wNdbSESteCGWsFFkyNQJekefcta87bI//HJboEpOi200PxciSyq5Uqk4L3IVMmIBhsmRriaN+WEM9I0gR4oftIivJ0q6XdtnXjrjLOWAJpLqWcDv5irllXUorFnl16z7Nw5Ao9m/DLe/EWs0/WH8xDsK9S8+GrToLQjrxg1rR8L65q23IVb0qDD/DF5OA69ipGGZqwJsa/8ssFikXA==;OXrFv1cz5xn8sXvKqB5clw=="
 ---
 

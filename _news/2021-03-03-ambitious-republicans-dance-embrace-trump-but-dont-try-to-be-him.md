@@ -3,10 +3,10 @@ category: news
 title: "Ambitious Republicans’ Dance: Embrace Trump, but Don’t Try to Be Him"
 excerpt: "As jockeying begins for 2024, rank-and-file Republicans say they are most drawn to leaders who both pledge fealty to the former president and appear to showcase a distinct political identity."
 publishedDateTime: 2021-03-02T22:07:00Z
-originalUrl: "https://www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.html"
-webUrl: "https://www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.html"
-ampWebUrl: "https://www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.amp.html"
+originalUrl: "https://www.nytimes.com/2021/03/02/us/politics/cpac-trump-tom-cotton-kristi-noem.html"
+webUrl: "https://www.nytimes.com/2021/03/02/us/politics/cpac-trump-tom-cotton-kristi-noem.html"
+ampWebUrl: "https://www.nytimes.com/2021/03/02/us/politics/cpac-trump-tom-cotton-kristi-noem.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/02/us/politics/cpac-trump-tom-cotton-kristi-noem.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -81,6 +81,6 @@ related:
         height: 550
         isCached: true
 
-secured: "ndqfNyi1GX+/Sy/bzNxSBhkxHCz9hoLezei+N7Ay6qQgm1VPLRyGQNIY8SDrGVZ9wVkNcxYbNuHt6q/zI+anr+4nneXNiIj9plckVdg9LJoIUZZQdKQ1cTsaegi2IrnFKjZ0pDHQyj4D41xVWOVwJ8p92HLCQ8ykEDr9q6+4gYiO1g37B/ORb0NLgYWWXPHMBtsNjvJ3t8Cf+UFnKtXacuYEhmIaAQV1anB50zr1J8h3j9fPVkxSX4wKM4mj1poc0u2HAVz6Vi9rXBSMFs98zQ+3ThpV46vxKab3baKJOCNkh7Z6S17/KX1LNSlx11dBj2oCpEHcwRvZuEXQZcVDjyg+gyaT1x7+TqrxVLWMwbU=;NnlkacKc6T+72FFflYXgmQ=="
+secured: "IYFoe5Lx9/OJRb8FUYf/6KiuNjuIWmlRCyJ5DFh6g4dJENENqSVhbKH375pPGo/ZJ/eUktWeGR/IuqnQMl36A5WHmqnycwS9Lb9E7d+FDq00IjJQ0awVouX/hwY7M+YQ+rhhCsQYolHrP7dlIfp8DDeNA/HIi1pS5G1kZ/FrfGSfCS81eJTuNjasRYuHAgbEUvHezozvr0Xcg+qzOXKnmB7tiW53ilsZqjurh1LrKIBufUrd8hR6wVFq5JFrGi/xXRu1cmczMkb9EfvxkR7miA6ZspLneIcxFKkk9Lic8IU+TlgAV+V0oa3yZL+qbCe0lfTk9p+EyRwzYigLBJOhXU9vjhl5nibJBvnd/PWOF8U=;rV9tlqUO04Q2vsHXnnA68w=="
 ---
 

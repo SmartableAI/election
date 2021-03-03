@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hawley approves first Biden Cabinet nominee after defending opposition to all prior nominees"
+    excerpt: "Republican Sen. Josh Hawley has voted to confirm Cecilia Rouse as chair of the Council of Economic Advisers on Tuesday, breaking a streak of opposition to Joe Biden's Cabinet nominees.\n    \n"
+    publishedDateTime: 2021-03-03T00:24:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DrlmZ0SuTcM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/josh-hawley-biden-cabinet-opposition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/josh-hawley-biden-cabinet-opposition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119152918-01-hawley-dec2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden and his top officials slammed Trump's lack of action against Saudi Arabia, MBS in years before taking office"
     excerpt: "In the years prior to taking office, President Joe Biden, Vice President Kamala Harris, and many of their administration's top officials harshly criticized President Donald Trump's lack of action against Saudi Arabia and Crown Prince Mohammed bin Salman for the 2018 murder of Saudi journalist and Washington Post columnist Jamal Khashoggi."
     publishedDateTime: 2021-03-02T21:00:00Z

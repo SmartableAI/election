@@ -189,6 +189,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Republicans recommit to Trump after blaming him for the Capitol attack"
+    excerpt: "After condemning former president Donald Trump’s actions around the Jan. 6 Capitol riot, multiple GOP lawmakers have since thrown their support behind him."
+    publishedDateTime: 2021-03-02T23:37:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/republicans-recommit-to-trump-after-blaming-him-for-the-capitol-attack/2021/03/02/62f65e12-dda1-4582-844f-ebb074472225_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_1a30ea49bd984a17a8d8973b6d658c51_name_20210301_GOP_TRUMP_V3.png&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Trump dominant force at conservative conference"
     excerpt: "Trump on Sunday will be making his first post-presidential appearance at the conference, and aides say he will use the speech to reassert his power."
     publishedDateTime: 2021-02-27T13:20:00Z

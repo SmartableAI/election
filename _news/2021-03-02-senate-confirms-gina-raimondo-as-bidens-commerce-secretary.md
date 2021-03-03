@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate confirms Cecilia Rouse to be Biden's top economist"
+    excerpt: "The Senate confirmed President Joe Biden's nomination of Cecilia Rouse to chair the Council of Economic Advisers. The vote on Tuesday was 95-4.\n    \n"
+    publishedDateTime: 2021-03-03T00:09:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_tPlxpGx4ts/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/cecilia-rouse-confirmed-senate-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/cecilia-rouse-confirmed-senate-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201134945-cecilia-rouse-biden-economic-team-1201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Key GOP swing vote undecided on whether to back Biden's imperiled budget pick"
     excerpt: "Republican Sen. Lisa Murkowksi of Alaska had a sit-down meeting on Monday with Neera Tanden, President Joe Biden's nominee to lead the Office of Management and Budget, but has not decided yet if she will provide the crucial vote Tanden likely needs to be confirmed.\n    \n"
     publishedDateTime: 2021-03-02T00:19:30Z
@@ -124,6 +140,38 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/02/27/us/politics/27dc-stimulus-1/27dc-stimulus-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Drops Tanden Nomination Amid Bipartisan Opposition"
+    excerpt: "The White House had insisted that it would stand by Neera Tanden as President Biden’s top budget official, but it became clear that she did not have the Senate votes to be confirmed."
+    publishedDateTime: 2021-03-03T00:00:00Z
+    webUrl: "https://www.nytimes.com/2021/03/02/us/politics/neera-tanden-nomination.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/02/us/politics/neera-tanden-nomination.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/02/us/politics/neera-tanden-nomination.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/24/us/politics/00dc-tanden-hfo/00dc-tanden-hfo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "With Demise of Wage Increase, Biden and Democrats Face Progressive Ire"
+    excerpt: "President Biden and top Democrats are working to ensure that frustration over the exclusion of the minimum wage increase in the stimulus plan does not overshadow the success of the package."
+    publishedDateTime: 2021-03-02T23:10:00Z
+    webUrl: "https://www.nytimes.com/2021/03/02/us/politics/biden-progressives-wage-increase.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/02/us/politics/biden-progressives-wage-increase.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/02/us/politics/biden-progressives-wage-increase.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/01/us/politics/01dc-cong/01dc-cong-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

@@ -289,6 +289,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Kamala Harris’ pathetic dodge on school reopenings"
+    excerpt: "There were two problems with trotting out Kamala Harris to defend the Biden administration’s record on school “reopening.” First, Biden’s record is indefensible. Second, Harris isn’t ..."
+    publishedDateTime: 2021-02-17T00:00:00Z
+    webUrl: "https://www.powerlineblog.com/archives/2021/02/kamala-harris-pathetic-dodge-on-school-reopenings.php"
+    type: article
+    provider:
+      name: Power Line
+      domain: powerlineblog.com
+    quality: 55
+    images:
+      - url: "https://www.powerlineblog.com/ed-assets/2021/02/Savannah-Guthrie-Kamala-Harris-2-17.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lindsey Graham threatens impeachment of Kamala Harris on Fox News appearance"
     excerpt: "Lindsey Graham (R-S.C.) threatened Vice President Kamala Harris with a potential impeachment trial in an appearance on \"Fox News Sunday.\" The interview, conducted one day after President Donald Trump was acquitted by the Senate in his second impeachment proceedings,"
     publishedDateTime: 2021-02-15T19:13:00Z

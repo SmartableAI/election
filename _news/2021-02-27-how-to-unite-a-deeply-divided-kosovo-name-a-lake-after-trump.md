@@ -67,9 +67,9 @@ related:
   - title: "Ambitious Republicans’ Dance: Embrace Trump, but Don’t Try to Be Him"
     excerpt: "As jockeying begins for 2024, rank-and-file Republicans say they are most drawn to leaders who both pledge fealty to the former president and appear to showcase a distinct political identity."
     publishedDateTime: 2021-03-02T22:07:00Z
-    webUrl: "https://www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.amp.html"
+    webUrl: "https://www.nytimes.com/2021/03/02/us/politics/cpac-trump-tom-cotton-kristi-noem.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/02/us/politics/cpac-trump-tom-cotton-kristi-noem.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/02/us/politics/cpac-trump-tom-cotton-kristi-noem.amp.html"
     type: article
     provider:
       name: New York Times

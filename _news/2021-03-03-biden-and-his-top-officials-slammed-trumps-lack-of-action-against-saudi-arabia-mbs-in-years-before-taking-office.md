@@ -80,7 +80,23 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Hawley approves first Biden Cabinet nominee after defending opposition to all prior nominees"
+    excerpt: "Republican Sen. Josh Hawley has voted to confirm Cecilia Rouse as chair of the Council of Economic Advisers on Tuesday, breaking a streak of opposition to Joe Biden's Cabinet nominees.\n    \n"
+    publishedDateTime: 2021-03-03T00:24:04Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DrlmZ0SuTcM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/josh-hawley-biden-cabinet-opposition/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/josh-hawley-biden-cabinet-opposition/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210119152918-01-hawley-dec2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
-secured: "fYwZdkTG2ceWIfGcL1y6yle4w/nhi2tct4oDqey5k6vSZMetuztwjeKIds0orUlgRhwxN6qp2FUUpWombOkWfWC4gmaQ+w2WwRbB8c2I6Ve1VeUtkWQ03WI5sR4fzZjZJw+XfcmrYgDU1KQSVUGVRaM072OBd40nzCq/mfzNhG9mr54w4eZ9RB1OKQ38h3ZGdbUDuHd+LWvMPE193D/6dxlfYV3Yku0qVJA2rOVryip0lYiY+2t+uFkE/UVxbAAeu+66FuzJ2YQQfQf8Bk9VKA9dMWo4XzjVG2hIIUjQ1qO6Mujpj0OLNAyiQYoBihQ1imdheZN3wr/BstJ7oEe9w7/bXMmzIfp2D+NKEILE2YI=;BCl0H2P5ry0yWfErjN9ooQ=="
+secured: "FIlv63elj3Iw/SqYbkYxDI0p0tG7GA5xR801/iS76wRAx82P9Emb481A+K0WB/2M/bntOx7uAKGOQcRADUiuILf2wpkWJzncUEc59nGML+jESQahgZE5ntiSvU/dbartRmNkAx195ljafp0mOxGpkGDCzurfXx7DkL4Ffxg+sZmPAHYsGO1jY24709sg1BYhu8cu77Ne6P4sNuRJZIgLY9K1BAUFbgLrd8o1LTq5GLCJUQFTdQQ4uAU20S7ABPCO2gloq8szvALbLQ8AUuVJifFf2vFNyeSycVFOZ/fbJxnrPRw5ODg6oSqRAxGWhHxZwS7tX0tn1158/FNzKEvYkrXTXVJUVEf9MMjsxwPOcOYrSBRsUiRo+MFDgdis2l8wJLBw6KzSCGosSXaQ7NFhIte+wUSJlHFXmrIwfyFLcQJzje/YKZlLueToNyp7Jb9XwoU2Y8yGkHBKSeviuWbLPKwBVDtq7qkxv2nMp4+zvalxIzMv/HhNzxqFS3EfbqKCj961at6HLUHl7b75CqqDJw==;OBUNLvbyCLf0S3TDH49DEg=="
 ---
 

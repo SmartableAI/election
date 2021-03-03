@@ -31,21 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Homan fires back after Biden DHS secretary slams Trump immigration policies: ‘Don't tell me about compassion’"
-    excerpt: "The Biden administration's immigration policies are not as compassionate as they are making it out to be, former ICE Director Tom Homan said on Tuesday."
-    publishedDateTime: 2021-03-02T14:12:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aTZim8tk9C4/homan-biden-dhs-mayorkas-trump-immigration-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp"
+  - title: "Biden administration argues migrant surge is a 'challenge,' not a 'crisis'"
+    excerpt: "President Biden is declining to call the situation at the southern border a crisis – even amid reports that his administration needs another 20,000 beds at migrant facilities to deal with a surge of unaccompanied minors."
+    publishedDateTime: 2021-03-03T00:40:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gNIwkKkxIzc/biden-migrant-surge-challenge-not-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21061778358268-e1614731162572.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Rand Paul: Lot of ‘hypocrisy’ from Biden admin on immigration, migrant facilities"
+    excerpt: "The Biden administration is showing \"hypocrisy\" by reopening a migrant facility that the Trump administration was criticized for using, Sen. Rand Paul, R-Ky., said on Thursday."
+    publishedDateTime: 2021-02-25T23:29:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/P5CVOwVb1eE/rand-paul-biden-administration-hypocrisy-biden-administration-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/rand-paul-biden-administration-hypocrisy-biden-administration-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rand-paul-biden-administration-hypocrisy-biden-administration-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "AOC tears into Biden admin for reopening child migrant facility: 'This is not okay'"
+    excerpt: "Rep. Alexandria Ocasio-Cortez, D-N.Y., had some strong words for President Biden's administration after news surfaced that it was reopening a child migrant detention facility in Texas."
+    publishedDateTime: 2021-02-24T01:40:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/N131LIzMZO8/aoc-biden-child-migrant-facility"
+    ampWebUrl: "https://www.foxnews.com/politics/aoc-biden-child-migrant-facility.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/aoc-biden-child-migrant-facility.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c344915-8c99-4be2-b518-e14a049426cb/58ebec30-01e6-4e46-b823-b9f83aae2b97/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Texas Democrat lawmaker warns border situation will ‘become a crisis’ without Biden administration action"
+    excerpt: "Rep. Henry Cuellar, , D-Texas, whose district borders Mexico, says he believes the situation at the border will \"become a crisis\" if President Joe Biden’s administration does not take a stronger stance against illegal immigration."
+    publishedDateTime: 2021-03-02T21:31:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dkDvUoZjV0E/henry-cuellar-texas-border-crisis-biden-administration-action"
+    ampWebUrl: "https://www.foxnews.com/politics/henry-cuellar-texas-border-crisis-biden-administration-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/henry-cuellar-texas-border-crisis-biden-administration-action.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/967baea6-efee-4745-967b-7c71937049ac/f6882a97-ccd1-42a7-842b-73d34c571173/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "zD8mQFhDbvSiw/3zB71BcrlAwSnlv1SFkmgOtvXPoYT5n8S0zpKnXgPfCH1CVH0hT1FZTf5dZ5xU5QtQJeZuSQbdnYm9Kk5Qqur95X618wCoGGDK7ic3aOAtzgbEnK4OQbGaNuW8ilKy6kYFQA8IXzuwEGVBGCSASBuS00pTsBLiL4pK6LUHTgEDoAakx3kFvK9InMo4zXN4Hdcm38w0t228SdI5XdC9Hc1Yso3qnE+wTOFAhpXHjek+/lDikHt10BaB/fPHtS4qE+0dllLvWMmT1Rydoc7T6DloJj7oVf0RIcvVR6eKtWFFgBixy5A0VntKvle4y6ER3v3xigQNWCSxPhcrkL5qVOWkP7Av3B4=;N25uZNCEQLt1qRQuc6ruvA=="

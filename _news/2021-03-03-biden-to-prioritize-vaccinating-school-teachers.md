@@ -125,6 +125,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden moves to get all teachers a vaccine shot by the end of March"
+    excerpt: "President Biden said the federal government will use its pharmacy program to get vaccine doses to K-12 teachers and child care workers."
+    publishedDateTime: 2021-03-02T23:25:00Z
+    webUrl: "https://www.washingtonpost.com/education/biden-teacher-vaccine-march-covid/2021/03/02/b4bdec9e-7ba3-11eb-a976-c028a4215c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/education/biden-teacher-vaccine-march-covid/2021/03/02/b4bdec9e-7ba3-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/education/biden-teacher-vaccine-march-covid/2021/03/02/b4bdec9e-7ba3-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KBOWGVD3VII6XKLWYAUKIIK4PA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden plan to distribute virus aid irks some governors"
     excerpt: "The Biden administration’s plan to funnel more coronavirus aid into states with greater unemployment has irked governors with lower jobless rates, even though many have economies that weren’t hit as h"
     publishedDateTime: 2021-03-02T19:52:00Z
@@ -380,6 +396,6 @@ related:
       domain: businessinsider.com
     quality: 99
 
-secured: "gafnUQfmwpCT/9O628/dT7oGEwvxoHByn+SdR/st/7tI7ui2NgCNXdWsWFf+uV+Tx5YzFurgE6AJTgtsxXtDCeLl2CZ3FdVFr5df8CYeTZVg5kal39shJOU6YY0jtTJgVsacow29d+LhWj1/uePQWSLdtpJn9WdEWjsnyfnMciQnNT5JsMQ5STQFUQFRSXWRvAijCdJeuEzt/rKiHWN91B4dgvWod0gftaWkprJz3gy7oMFY+yDL4GvX31kggxC44uZxrQ0a+nPpnvBSuMOLvW8m/yHnOFVmutFIjaCcE2A3IttevpD+xGAcMd9+wDxS07OWSpbWiOswrouMvfIAw5o/eSTNx3CZh0HF7U68Jws=;6/YDUOv5EpNLxFW5kytSuA=="
+secured: "YJNAOcVYfVRnZBy8eRf0UYeXUWqO+b9VDUQMF57+cvBmszb7kAB/1XgIarhfDSbw9tDBI1R2h91cz52CES2xXXfdor8sZct0ygNc8muWWQbfVLNaK8+cewVqQ30mHhnmwrxP9ojvNCeh+ldMslbyVHq4fU6dX2wcJhrHhZfVsriCKwUkggTPj+kL9ASdof/2pTkUoECwRfttsEv+Stkbswfu4JIPXIjXe1ST1oDoEkyZzi8yvJ09KFJViXCoHaYnbuPnMap2UP3oIaygWpdW1trmRw2Q/aYTP3ey53p+ri/Qnug/SGKBFoLoJQgnTPZKUxY4yLnqLgSTKHYCzRK7eThFl7rncFUBCqirvbSJSIp6gNuc/7zESJCDRPn1PchUIM5XLCdhwg0fr050lGheCAUoEn/71TQUbsSfp39/V0jBf7ubWlRBLK1bX3C+M71DAlvGZ5hgeP7ts1XGCJD8FZ1DRGNSSqA7KR8I0TSLWTkTGHXmWg6wK/KaIjUl6+6r/BaKG53ABUst/huNOVnh6Q==;N6qLRjVTN2uRuo1HTDBs2Q=="
 ---
 

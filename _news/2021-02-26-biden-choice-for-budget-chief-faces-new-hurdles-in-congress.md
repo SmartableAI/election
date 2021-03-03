@@ -63,6 +63,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
+    excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
+    publishedDateTime: 2021-03-02T20:13:00Z
+    webUrl: "https://www.cbsnews.com/news/stimulus-check-recurring-covid-19-senate-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/stimulus-check-recurring-covid-19-senate-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stimulus-check-recurring-covid-19-senate-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/18/6137ee8a-ede1-4d3c-acc3-ab8f06fb7a23/thumbnail/1200x630/0b4ab92020d5cf2ba13edd554d5b0df1/ap-20231101371898.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
     excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
     publishedDateTime: 2021-02-24T02:38:00Z

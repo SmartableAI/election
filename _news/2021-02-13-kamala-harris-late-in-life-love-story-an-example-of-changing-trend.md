@@ -9,7 +9,7 @@ ampWebUrl: "https://goodmorningamerica.com/amp/living/story/kamala-harris-late-l
 cdnAmpWebUrl: "https://goodmorningamerica-com.cdn.ampproject.org/c/s/goodmorningamerica.com/amp/living/story/kamala-harris-late-life-love-story-changing-trend-75819461"
 type: article
 quality: 125
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -278,6 +278,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/2eadfb94-3b07-45ae-8292-7ff16c6cb720-ae7b0c28-1b30-4fcd-a11d-3e683655cc83_thumbnail.png?quality=10"
         width: 852
         height: 480
+        isCached: true
+  - title: "Kamala Harris’ pathetic dodge on school reopenings"
+    excerpt: "There were two problems with trotting out Kamala Harris to defend the Biden administration’s record on school “reopening.” First, Biden’s record is indefensible. Second, Harris isn’t ..."
+    publishedDateTime: 2021-02-17T00:00:00Z
+    webUrl: "https://www.powerlineblog.com/archives/2021/02/kamala-harris-pathetic-dodge-on-school-reopenings.php"
+    type: article
+    provider:
+      name: Power Line
+      domain: powerlineblog.com
+    quality: 55
+    images:
+      - url: "https://www.powerlineblog.com/ed-assets/2021/02/Savannah-Guthrie-Kamala-Harris-2-17.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Kamala Harris Sells Her San Francisco Condo for a Big Profit"
     excerpt: "The nation's newest vice president is unloading her San Francisco condo—and she's getting a very good price. Vice President Kamala Harris signed a deal to sell her 1,069-square-foot loft for $799,000,"

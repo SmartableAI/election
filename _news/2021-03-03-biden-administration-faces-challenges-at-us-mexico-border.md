@@ -77,6 +77,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
+    excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
+    publishedDateTime: 2021-03-02T20:13:00Z
+    webUrl: "https://www.cbsnews.com/news/stimulus-check-recurring-covid-19-senate-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/stimulus-check-recurring-covid-19-senate-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stimulus-check-recurring-covid-19-senate-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/18/6137ee8a-ede1-4d3c-acc3-ab8f06fb7a23/thumbnail/1200x630/0b4ab92020d5cf2ba13edd554d5b0df1/ap-20231101371898.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
     excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
     publishedDateTime: 2021-02-24T02:38:00Z
@@ -150,6 +166,6 @@ related:
         height: 600
         isCached: true
 
-secured: "UzVNqt2KQ6BbynwVdxx0RSeAT88wZxNV5U/M3Qey3UboBOzYG2cCYkILYtBa+PFkqzELCrzwP4xDvR51jSinNVEgct7rMzG4FU8u4fj7iDWy0OsXo4OfCf0YNfio6XvqEzTo90TUcncPIK3XlYbAWge/shK4UNtLeJrMoM0+F6hvo5NpIytsLz2kF3XU6FqQo2mupmMQ/74KRWszwp/R1pkhLSUta58PnUjgJ3bgqOkfLH1oJ/hT05FGNK+aRL6lbyok4pGTcPuItnUYLFeml9sjsemk2+Y2wSmdLj63fiCGTsjfIHqm5lKuaJm1sVmycUW2QTKEFG0lm9KsaP09A22jngcZPtmi2w4GSQBPHPc=;ZI4Iql1U+JDfZxe7hlclKw=="
+secured: "kOMBBG2JvPuTMi0cDQUOOMIduC+/XMpNqigias6ZaG9ZsFVoWOZSrK4YuiQ1LpdcUeIiqSEjL/VS1NHQ3jx+Chv2rgrhSJyvyYJfMffSRUxPnCfrM4J2hqEW5eD0nduzqjdYOXJYVK4OWcRVV5CRyF6378jGZaWJlzMH8R2voHmy9F1uRXHZg1z7UVcofhH01OIylEE0cJa91kh4eLJewR7dsTavEa/BpJZLkWciYgOBlRl9gEdcS+8B7tDJvTIoswsC7khGGJvKpZLBGtZtj6JZlEBUVb65POHM3fRD6zzOcQkJ/7Hc+mDe4LfP1tiVC3oSh8f/uazY0HBqQGvQNsvBzzopjK1Iyo4IPCjd1os5KArYZ2qrEWE6WgFskbN0ApvPzk0CfhTSGzpsmp2l0NJ+KzYloK05r5Esb01wPB0NcRj+X0F1hciQKUyHW2v26djJ9HkzHHRQq2Y3rmE/jWHyHQhUBirr5tnUVup9xV9dbPqtS5osLBdeiYPGEA3GgzuIpFA8tzdO82Nxgp6jzw==;1hhK1gayTUGIjFPyM+pOvw=="
 ---
 

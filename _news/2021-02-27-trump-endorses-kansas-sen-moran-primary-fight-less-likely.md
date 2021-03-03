@@ -9,8 +9,8 @@ ampWebUrl: "https://www.usnews.com/news/best-states/kansas/articles/2021-02-26/t
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/kansas/articles/2021-02-26/trump-endorses-kansas-sen-moran-primary-fight-less-likely?context=amp"
 type: article
 quality: 55
-heat: 55
-published: false
+heat: 75
+published: true
 
 provider:
   name: U.S. News & World Report
@@ -23,6 +23,17 @@ provider:
 topics:
   - Election
   - Donald Trump
+
+related:
+  - title: "Trump Endorses SC's Tim Scott in 2022 Senate Reelection Bid"
+    excerpt: "Former President Donald Trump endorsed U.S. Sen. Tim Scott's 2022 reelection bid Tuesday, continuing to make clear his intent to remain a dominant force in Republican Party politics. Trump issued a statement through his Save America PAC,"
+    publishedDateTime: 2021-03-03T00:55:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-02/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
 
 secured: "f4B+bRPgBEnTEwbUNiLu3INGFsnKONmcJT3OtCDLQ3bWHsIjLvImGSkc2iSGEfCpl3+zwek59hEbqz60YV2Sl2xptenZJmApVx1zvoQXMRI12Mi/NvgtxisozW9ghU9C7Vl1HeATz82LhMuGJpPntkY0wUBNzB2eQlxD0V3G2X5GQt81K2M6OOlEIArIZ13PEcoVLTAf2D+uFEB8v0q5YJf/Xq99+jHFJpOk6rilWb2W4b28TP3bZxNLIZn0E387tuf30VjkGFwn8lTSE8nKe4EAr8kqvfx8K9i+1SoSybVc2dvSmFUAZ2lYp5V0scFvU4GCvo51FssGsTOXnSVV5ffOLzwyoXw2wMdQuUrCsPYx4UO1NJ4UmX4Pl5nOGLz8ldTsfbE72vqIahsnBmOivm+qKvjsXZXimmezSTJ2JCc0S1vKwi7/ZwUuT4OFd+wE8jDtXdgmqrWe0kdlSlkBkWYAUzCndStWnX7N8GpHOiBkehyyo6m6TvBR5TfULoA5FMwdnrZt4FStt3Boh5mqCQ==;tP+zbChl72e+QBNUpAIgMw=="
 ---

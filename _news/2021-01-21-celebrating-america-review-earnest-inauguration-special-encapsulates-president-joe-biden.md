@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Mexico says Biden's Central America aid to help southern Mexico"
+    excerpt: "A $4 billion commitment from U.S. President Joe Biden to promote development in Central America will include help for southern Mexico, Mexican President Andres Manuel Lopez Obrador said on Tuesday, after a call with his counterpart."
+    publishedDateTime: 2021-03-02T17:25:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-mexico-central-america/mexico-says-bidens-central-america-aid-to-help-southern-mexico-idUSKCN2AU2BV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AU2BV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AU2BV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210302&t=2&i=1553491215&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH211BH"
+        width: 786
+        height: 545
+        isCached: true
   - title: "Live politics updates: 69% of Americans approve of Biden's plan to tackle pandemic, poll finds"
     excerpt: "Fifty-seven percent of Americans believe Biden can follow-through on his promise to unite a divided America, according to a recent ABC News poll."
     publishedDateTime: 2021-01-24T17:48:00Z

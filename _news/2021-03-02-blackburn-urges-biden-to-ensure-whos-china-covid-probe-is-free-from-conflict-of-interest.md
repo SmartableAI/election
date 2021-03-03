@@ -125,6 +125,15 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden withdrawing nomination of Neera Tanden to be OMB Director"
+    excerpt: "President Biden Tuesday said he is withdrawing the nominatino of Neera Tanden to be director of the Office of Management and Budget."
+    publishedDateTime: 2021-03-02T23:55:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rtmlC-OK-A/neera-tanden-withdraws-nomination-for-omb-director"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
   - title: "Partisanship prevails as Biden pushes agenda with little GOP support"
     excerpt: "For all of Biden’s longtime relationships with Republican lawmakers, he may find that Beltway gridlock is the one beast he cannot slay."
     publishedDateTime: 2021-02-25T08:13:00Z

@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ted Cruz won't travel with Biden on Texas trip following Cancun gaffe"
-    excerpt: "Sen. Ted Cruz, R-TX, will not accompany President Biden on Air Force One during his trip to assist with recovery efforts and survey damage related to destructive winter weather conditions in Texas, White House Press Secretary Jen Psaki said Thursday."
-    publishedDateTime: 2021-02-26T02:44:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnUcFsujNew/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3a9250b-c67e-4fc2-8773-b09a51a26cf2/ac28a3f8-2e0a-4d8e-810a-92aa3e576e37/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "LIVE UPDATES: Biden opening new migrant facility in Texas"
     excerpt: "Follow for updates on the White House."
     publishedDateTime: 2021-02-27T06:10:51Z

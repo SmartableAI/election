@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-01-biden-white-house-not-releasing-virtual-visitor-logs-as-watchdogs-call-for-transparency.md",
+      "title": "Biden White House not releasing virtual visitor logs as watchdogs call for transparency",
+      "excerpt": "The Biden administration will not release White House virtual visitor logs, Fox News has confirmed, as watchdog organizations call on President Biden to do so in the name of transparency.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hp6NiHdtwcU/biden-transparency-virtual-white-house-visitor-logs",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hp6NiHdtwcU/biden-transparency-virtual-white-house-visitor-logs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-transparency-virtual-white-house-visitor-logs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transparency-virtual-white-house-visitor-logs.amp",
+      "publishedDateTime": "2021-03-01T09:18:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-katrina-pierson-trump-presidential-campaign-veteran-moves-toward-congressional-bid-in-texas.md",
       "title": "Katrina Pierson, Trump presidential campaign veteran, moves toward congressional bid in Texas",
       "excerpt": "The field of Republicans running to succeed the late Republican Rep. Ron Wright of Texas is growing. Katrina Pierson, who served as a top adviser on President Trump’s 2016 and 2020 campaigns, is gearing up to launch a campaign, two sources with knowledge of her planning confirmed to Fox News.",
@@ -391,7 +447,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364",
       "featuredContent": null,
       "highlight": null,
-      "heat": 380,
+      "heat": 400,
       "tags": null,
       "images": [
         {
@@ -1294,62 +1350,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-biden-promises-to-help-winter-storm-battered-texas-recover-were-in-it-for-the-long-haul.md",
-      "title": "Biden promises to help winter storm-battered Texas recover: 'We're in it for the long haul'",
-      "excerpt": "President Joe Biden will embrace a familiar role on his trip to Houston Friday as he seeks to offer both comfort and federal support after a severe winter storm-battered Texas and left millions without power, heat or water.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iMIAS5nRgcE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iMIAS5nRgcE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210222181225-03-biden-covid-deaths-0222-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/26/politics/biden-texas-visit/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/biden-texas-visit/index.html",
-      "publishedDateTime": "2021-02-26T16:27:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }
