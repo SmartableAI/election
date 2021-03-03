@@ -1,0 +1,53 @@
+---
+category: news
+title: "Sign-ups for Biden's Obamacare special enrollment period nearly triple"
+excerpt: "More than 206,000 people signed up for Affordable Care Act policies on the federal exchange in the first two weeks of the special enrollment period ordered by President Joe Biden, federal data released Wednesday shows.\n    \n"
+publishedDateTime: 2021-03-03T15:00:21Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L921FMj7zZM/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L921FMj7zZM/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enrollment-period/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enrollment-period/index.html"
+type: article
+quality: 175
+heat: 195
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Biden's special Obamacare enrollment period opens Monday. Here's what you need to know"
+    excerpt: "Uninsured Americans who want to buy Affordable Care Act coverage have another three months to do so, thanks to an executive order President Joe Biden signed last month.\n    \n"
+    publishedDateTime: 2021-02-15T11:02:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3Y_EqdxQ6E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+
+secured: "di5pQ2yWEiqpGG5BmmXFXQseoDcjEAx10Ifxk6cZdFKo3xQO1osCz2IRpQyjSCC2sOPofBrw4m8Xw6eGquZeIOI96SWMEcIna2fgE59mP/LbBhQXOcVeL6rJljxo6KFMkc4w/ErgFJ+0JeE3FboG4gKhCShwfq0TvbWIgg6b6daJ94eHEu1XU/7U4cpoKfLY9a+++slJZuzJB0wilOLNxxKm7LX+hye1TJg14muQUemRnw2oAHQe/B1zH7Cm3ntvZMlRkVjRNi4zBo50Scp+ZWW+jRVMbP/+ejxn6SZCism5aSEspaaA1LwQjbORE2RTpFjc8YWrD1SUBA1TJVS+AnRxNDbiHU91TLHCtUI+lcs=;OwsXgCenNFnJrBNuNI5Ilw=="
+---
+

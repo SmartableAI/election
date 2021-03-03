@@ -127,6 +127,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden’s failure to get Tanden confirmed follows other aborted presidential nominations in history"
+    excerpt: "President Joe Biden suffered his first major setback in confirming his Cabinet after the withdrawal this week of the nomination of Neera Tanden to serve as director of the Office of Management and Budget."
+    publishedDateTime: 2021-03-03T16:41:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OsFd5VRboRY/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "z1NR/TaRAyphn6inHIzK6GnvzJNc0jzjAZLQBVbzjx6BoDZfy/sdvheLPrqtVnGNnS6yQgVRXJbinwDWeyj6EY28c6azh2ynalgmep6TCPGM6QlvDcRXtru8iOyRpRLhG1J+Z57wGWPHfbss4u+XFiJwTvXQAfzF/nmGWHohaOGSQIBX7zuCfqsazWAnjEvxNX2diy64pMO34pgkKYotLhiwrmLvhTXb2ieaXdoBJCnvAPJGF4BuW4hSzugTRGm8JImteah2WkvmUUauykmBMyry/gALKml6qzqvQ92pErvuN0p+x+aBuI7sH1+VUaW8hWmj8izNjPZZQd7aHJ3lZknc2zCn5odOygGxsWcLMBQ=;2jd/lIT7+4C7hCoTE88JuA=="
 ---

@@ -2,6 +2,340 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-16-biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.md",
+      "title": "Biden, Cuomo didn’t discuss COVID nursing home scandal, Psaki says",
+      "excerpt": "It was the elephant in the Oval Office, but somehow, President Biden and Gov. Andrew Cuomo didn’t discuss his COVID-19 nursing home scandal when they met last week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/srKMzc1VH-Y/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/srKMzc1VH-Y/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 355,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Oval2.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp",
+      "publishedDateTime": "2021-02-16T13:37:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-on-trump-michigan-republicans-lean-one-way-fealty-at-all-costs.md",
+      "title": "On Trump, Michigan Republicans Lean One Way: ‘Fealty at All Costs’",
+      "excerpt": "Even after his defeat, Donald Trump is causing fierce infighting among Republicans in a crucial battleground state. Loyalists are rewarded. Dissenters face punishment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/16/us/politics/michigan-republicans-trump.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/16/us/politics/michigan-republicans-trump.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/12/us/politics/00michigan-gop1/00michigan-gop1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/16/us/politics/michigan-republicans-trump.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/16/us/politics/michigan-republicans-trump.amp.html",
+      "publishedDateTime": "2021-02-16T12:43:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.md",
+      "title": "Psaki: Gun control a 'priority,' Biden 'not afraid of standing up' to the NRA",
+      "excerpt": "White House press secretary Jen Psaki on Tuesday said gun control is a \"priority\" for President Biden – and said he is \"not afraid of standing up\" to the National Rifle Association.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KNMXNPtCCYA/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KNMXNPtCCYA/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-gun-control-a-priority-biden-not-afraid-of-standing-up-to-the-nra.amp",
+      "publishedDateTime": "2021-02-16T10:27:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-rep-bennie-thompson-files-civil-lawsuit-against-trump-for-jan-6-riot-we-must-hold-him-accountable.md",
+      "title": "Rep. Bennie Thompson files civil lawsuit against Trump for Jan. 6 riot: 'We must hold him accountable'",
+      "excerpt": "Rep. Bennie Thompson, D-Miss., on Tuesday filed a civil lawsuit against former President Trump, accusing him of inciting the deadly Jan. 6 Capitol riot and conspiring with attorney Rudy Giuliani and extremist groups to stop Congress from certifying President Biden's Electoral College win.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ovgDq_3Xvvs/bennie-thompson-civil-lawsuit-trump-capitol-riot-giuliani",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ovgDq_3Xvvs/bennie-thompson-civil-lawsuit-trump-capitol-riot-giuliani",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/08/640/320/Bennie-Thompson.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bennie-thompson-civil-lawsuit-trump-capitol-riot-giuliani.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bennie-thompson-civil-lawsuit-trump-capitol-riot-giuliani.amp",
+      "publishedDateTime": "2021-02-16T08:49:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-trump-and-giuliani-sued-by-democratic-congressman-over-deadly-capitol-riot-live.md",
+      "title": "Trump and Giuliani sued by Democratic congressman over deadly Capitol riot – live",
+      "excerpt": "Bennie Thompson accuses Trump and allies of violating 1871 act that prohibits violence that disrupts work of Congress – follow all the latest",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 410,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/af1d76d3db59aaf37cdf030c990b71e6d58dc183/0_39_4393_2635/master/4393.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=506d4603234fc6be44766f4013f3d6ce",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates",
+      "publishedDateTime": "2021-02-16T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-16-lincoln-projects-rick-wilson-raised-64g-for-anti-trump-film-that-was-never-released.md",
+      "title": "Lincoln Project's Rick Wilson raised $64G for anti-Trump film that was never released",
+      "excerpt": "Rick Wilson, co-founder of the anti-Trump Lincoln Project PAC, raised nearly $65,000 for an in-production film called \"Everything Trump Touches Dies\" that has yet to be released.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMh8b_NuMDI/lincoln-project-rick-wilson-anti-trump-film-donations",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MMh8b_NuMDI/lincoln-project-rick-wilson-anti-trump-film-donations",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 228,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Capture2.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lincoln-project-rick-wilson-anti-trump-film-donations.amp",
+      "publishedDateTime": "2021-02-16T07:28:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-op-ed-pence-was-a-potential-victim-on-jan-6-that-doesnt-make-him-a-hero.md",
       "title": "OP-ED: Pence was a potential victim on Jan. 6. That doesn't make him a hero",
       "excerpt": "When he issued a statement early on Jan. 6 indicating that he lacked the unilateral authority to determine which electoral votes should be counted, Vice President Mike Pence was stating the obvious. It was a \"Profiles in Courage\" moment only by the low standards of the Trump administration.",
@@ -534,62 +868,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-15-bidens-special-obamacare-enrollment-period-opens-monday-heres-what-you-need-to-know.md",
-      "title": "Biden's special Obamacare enrollment period opens Monday. Here's what you need to know",
-      "excerpt": "Uninsured Americans who want to buy Affordable Care Act coverage have another three months to do so, thanks to an executive order President Joe Biden signed last month.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3Y_EqdxQ6E/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3Y_EqdxQ6E/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/15/politics/obamacare-open-enrollment-information/index.html",
-      "publishedDateTime": "2021-02-15T03:02:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-15-kamala-harris-said-parts-of-the-trump-administrations-pandemic-response-left-biden-starting-from-scratch.md",
       "title": "Kamala Harris said parts of the Trump administration's pandemic response left Biden 'starting from scratch'",
       "excerpt": "Harris told \"Axios on HBO\" that the Trump administration left the country with no vaccine stockpile and no national strategy.",
@@ -1059,271 +1337,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-black-immigrant-advocates-praise-biden-for-reinstating-deportation-protections-for-liberians-who-fled-civil-war.md",
-      "title": "Black immigrant advocates praise Biden for reinstating deportation protections for Liberians who fled civil war",
-      "excerpt": "More than 10,000 Liberians, who have been living in the U.S. without legal status since fleeing a civil war decades ago, will get to stay for now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/immigration/2021/02/14/biden-reinstates-liberian-deportation-protections-deferred-enforced-departure/4363464001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/immigration/2021/02/14/biden-reinstates-liberian-deportation-protections-deferred-enforced-departure/4363464001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/13/PPHX/1819eeaa-f11b-4bfe-b928-b8528de1689d-cent02-7ehm9g0a3a14erj5hle_original.jpg?auto=webp&crop=5183,2916,x0,y263&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4363464001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4363464001",
-      "publishedDateTime": "2021-02-14T07:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-rep-marjorie-taylor-greene-accused-of-threatening-gop-colleague-with-warning-that-millions-of-trump-supporters-are-watching-her.md",
-      "title": "Rep. Marjorie Taylor Greene accused of threatening GOP colleague with warning that millions of Trump supporters 'are watching' her",
-      "excerpt": "\"The Trump loyal 75 million are watching\" Rep. Greene tweeted about Rep. Herrera Beutler after it emerged she had evidence damaging to Trump's defense.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
-      "originalUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602909702edd0f001a8d5ba4?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impeachment-rep-greene-accused-of-menacing-gop-colleague-in-tweet-2021-2?amp",
-      "publishedDateTime": "2021-02-14T04:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-it-just-symbolizes-everything-in-joe-and-jill-biden-presidential-pda-makes-a-comeback.md",
-      "title": "‘It just symbolizes everything’: In Joe and Jill Biden, presidential PDA makes a comeback",
-      "excerpt": "First lady Jill Biden places her hands on President Joe Biden after he is sworn in as 46th president of the United States on Jan. 20, 2021. | Kevin Dietsch/Pool Photo via AP On a mission to rebuild institutional norms and help heal a hurting nation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/02/14/joe-biden-jill-pda-468831",
-      "originalUrl": "https://www.politico.com/news/2021/02/14/joe-biden-jill-pda-468831",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/b0/e8/c9ad0a0b4464b57b0b196784eca4/ap21020618014402.JPG",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-14T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial.md",
-      "title": "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial",
-      "excerpt": "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 889,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c680f2571d7f60e33c3235b84bc24d5e5c969590/0_84_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9ca49357272737d2ff54874ce241fed9",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
-      "publishedDateTime": "2021-02-14T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-the-latest-biden-says-all-americans-must-defend-the-truth.md",
-      "title": "The Latest: Biden says all Americans must 'defend the truth'",
-      "excerpt": "President Joe Biden is responding to the acquittal of Donald Trump by stating that all Americans, especially the nation’s leaders, have a duty and responsibility “to defend the truth and to defeat the lies.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_99e21b56053e49638943ddca30fd3b15_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/latest-senators-await-closing-arguments-trump-trial-75871314",
-      "publishedDateTime": "2021-02-14T00:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

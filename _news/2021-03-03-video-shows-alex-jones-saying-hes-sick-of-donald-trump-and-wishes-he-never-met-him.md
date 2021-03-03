@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Republicans condemned Trump after the Capitol attack. Now they are opening the door to him as the future of the party."
+    excerpt: "Less than an hour after voting to acquit former president Donald Trump for his role in the Jan. 6 storming of the U.S. Capitol, the Senate minority leader condemned Trump for the role that he played in the attack."
+    publishedDateTime: 2021-03-03T15:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_1a30ea49bd984a17a8d8973b6d658c51_name_20210301_GOP_TRUMP_V3.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "3xLjM+oeNbNn9Ktw/bmE4ii1gzCDijGQyVaJi21lhcleGrIW96hcBYd+4Zriba4SUGG95rzeoLKfh7BuzRc2Va7fK5OQUP2zgBxDP3EZoDZZQh1qRIsAFnQp30lXahQ/G/wV9+r7aikx3OsKRFbFXgpQR3kPl0F/mRYhcBRobPH3lRMxzNsLrjpZDTdnf/mYqK0X6Y3HnrN2cejDHO5CkJD0CQPtmzqqHLvqk14o2kPR/eNTgROmXOMDBrV9CbPdVmO6gjTSuSvlO2XgeviiSMY+bRNtW0pVIqGszst1lnagh0NB4Pg0Pjsg+38+/Bi7BnGscUkkE2bGds+t9DhuqGenWGWV0X/Vgln3+o//UZdmZaD9ZNj2dVNH6MU2c5ge+fSsPLnGFkrJgWi5coBIGMA0gTmMeqeclW071PQg8kgR++lOsESsijoQC7Uw0++xNOyRfgZp2zs7rg9K2UiFvUc+xwvUXw+GVM02VAJsnvCGRnyp37mf+f/+DuhEF6vqVoBQNqBojl5qUFJCvncWvw==;Us5+4P6lI3c8i5EDAX5AZg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-dail
 webUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference"
 type: article
 quality: 105
-heat: 445
+heat: 465
 published: true
 
 provider:
@@ -178,6 +178,22 @@ related:
       - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1296&h=648&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F08%2F11%2Fkamala-harris-7.jpg"
         width: 1296
         height: 648
+        isCached: true
+  - title: "LI parents are teaching daughters the power of possibility. Kamala Harris is strengthening that narrative."
+    excerpt: "Chloe Williams, 8, and her mom, Selina, 39, a nurse practitioner from Wheatley Heights, joined women and girls nationwide in putting on pearls the morning of Kamala Harris’ inauguration to celebrate t"
+    publishedDateTime: 2021-03-03T09:00:00Z
+    webUrl: "https://www.newsday.com/lifestyle/family/kamala-harris-long-island-families-1.50166453"
+    ampWebUrl: "https://www.newsday.com/amp/lifestyle/family/kamala-harris-long-island-families-1.50166453"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/lifestyle/family/kamala-harris-long-island-families-1.50166453"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 57
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.50166457.1614620228!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
         isCached: true
   - title: "Unpacking What It Means To Call Kamala Harris A 'Jezebel'"
     excerpt: "Two Texas pastors who referred to Kamala Harris as a \"Jezebel\" are facing backlash. The trope has become shorthand for a woman who is manipulative, seductive and wicked."

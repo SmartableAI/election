@@ -2,6 +2,284 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-12-biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.md",
+      "title": "Biden to get another judicial appointment to a key federal appeals court",
+      "excerpt": "President Biden will get another opportunity to make a key judicial appointment on what is considered the second most important federal court.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d06VaoBxLzA/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/d06VaoBxLzA/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/acdfe773-2342-4e03-86f0-af48ae93a0fb/de44e5ec-8943-4b86-8e01-6092c29e3016/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-get-another-judicial-appointment-to-a-key-federal-appeals-court.amp",
+      "publishedDateTime": "2021-02-12T09:53:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.md",
+      "title": "Hannity: Democrats never had problem with violent rhetoric towards Trump",
+      "excerpt": "HANNITY: Welcome to \"Hannity\". Tonight, we are tracking multiple breaking stories. These are huge, including day three of the Senate's impeachment, Schiff charade show that they got going on. We have tonight just breaking,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump",
+      "originalUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b74aca57-89b4-4917-be5d-9cda2a808143/d2443711-cc03-478d-8929-2163d8c15843/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/hannity-democrats-never-had-problem-with-violent-rhetoric-towards-trump.amp",
+      "publishedDateTime": "2021-02-12T08:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-the-daily-202-trump-said-the-system-is-rigged-democrats-say-his-acquittal-will-prove-it.md",
+      "title": "The Daily 202: Trump said the system is ‘rigged.’ Democrats say his acquittal will prove it.",
+      "excerpt": "Donald Trump used popular resentment against elites as political rocket fuel to propel his unlikely 2016 presidential campaign, describing America’s economy and politics as “rigged” against the middle class and railing against a “rigged system” of justice in favor of the powerful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/02/12/daily-202-trump-said-system-is-rigged-democrats-say-his-acquittal-will-prove-it/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/12/daily-202-trump-said-system-is-rigged-democrats-say-his-acquittal-will-prove-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZREF5QDNH4I6XJTO4JYEN2PITA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/12/daily-202-trump-said-system-is-rigged-democrats-say-his-acquittal-will-prove-it/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/12/daily-202-trump-said-system-is-rigged-democrats-say-his-acquittal-will-prove-it/?outputType=amp",
+      "publishedDateTime": "2021-02-12T08:27:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-biden-anxious-to-see-if-gop-senators-stand-up-on-impeachment-vote.md",
+      "title": "Biden ‘anxious to see’ if GOP senators ‘stand up’ on impeachment vote",
+      "excerpt": "Biden has commented only sparingly on the trial in recent days, repeatedly declining to say whether he believes Trump should be convicted of inciting an insurrection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/12/biden-gop-impeachment-vote-468826",
+      "originalUrl": "https://www.politico.com/news/2021/02/12/biden-gop-impeachment-vote-468826",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/c3/ef/775646e04dbc8bdcfa7ee6c00434/ap21042794074020-c.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/02/12/biden-gop-impeachment-vote-468826",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/12/biden-gop-impeachment-vote-468826",
+      "publishedDateTime": "2021-02-12T07:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-biden-says-almost-everybody-could-have-covid-19-vaccines-by-the-end-of-summer.md",
+      "title": "Biden says 'almost everybody' could have COVID-19 vaccines by 'the end of summer'",
+      "excerpt": "President Biden said Friday that it is his hope that by “the end of summer almost everybody” will have received a COVID-19 vaccine.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/twM_smKjuJI/biden-almost-everybody-covid-19-vaccine-summer",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/twM_smKjuJI/biden-almost-everybody-covid-19-vaccine-summer",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-almost-everybody-covid-19-vaccine-summer.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-almost-everybody-covid-19-vaccine-summer.amp",
+      "publishedDateTime": "2021-02-12T07:17:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-12-bidens-infrastructure-plan-renews-interest-in-nyc-boston-rail-tunnel-under-long-island-sound.md",
       "title": "Biden's infrastructure plan renews interest in NYC-Boston rail tunnel under Long Island Sound",
       "excerpt": "The estimated cost of the 20-year project is over $100 billion, a figure proponents say is not outrageous, given Biden’s promise to invest $2 trillion on clean energy infrastructure.",
@@ -1085,283 +1363,6 @@
         "Election",
         "Republican Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-biden-took-away-tools-border-patrol-needs-to-keep-americans-safe-stephen-miller.md",
-      "title": "Biden took away 'tools' Border Patrol needs to keep Americans safe: Stephen Miller",
-      "excerpt": "Former White House advisor Stephen Miller on Wednesday warned that the Biden administration is causing a “self-inflicted” public health crisis at the US-Mexico Border after new policies have allowed potentially COVID-positive migrants into the American population.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JJmpV2c8EWc/biden-border-patrol-stephen-miller-illegal-immigration",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JJmpV2c8EWc/biden-border-patrol-stephen-miller-illegal-immigration",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fcec3f7e-bf95-42c6-b8db-83449de800b1/2df88edc-1ed4-4a71-a456-6b170859e738/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-patrol-stephen-miller-illegal-immigration.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-patrol-stephen-miller-illegal-immigration.amp",
-      "publishedDateTime": "2021-02-11T06:49:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-bidens-keystone-pipeline-cancellation-was-political-reward-for-left-wing-supporters-georgia-ag.md",
-      "title": "Biden's Keystone pipeline cancellation was 'political reward' for left-wing supporters: Georgia AG",
-      "excerpt": "Georgia Attorney General Chris Carr argued on “Fox & Friends” on Thursday that President Biden's move to cancel the Keystone XL oil pipeline project was a “political reward for those that supported the Biden-Harris administration.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DvxBr8346i8/biden-keystone-xl-cancellation-real-world-impact-georgia-ag",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DvxBr8346i8/biden-keystone-xl-cancellation-real-world-impact-georgia-ag",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-keystone-xl-cancellation-real-world-impact-georgia-ag.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keystone-xl-cancellation-real-world-impact-georgia-ag.amp",
-      "publishedDateTime": "2021-02-11T06:41:58-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful-conduct.md",
-      "title": "Wall Street Journal: Trump might be acquitted, but won't live down 'disgraceful conduct'",
-      "excerpt": "The Wall Street Journal’s editorial board wrote that while the Senate may acquit former President Trump over the deadly riot at the U.S. Capitol, “he won’t live down his disgraceful conduct.”",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/538390-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful",
-      "originalUrl": "https://thehill.com/homenews/media/538390-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_01202021_getty_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/538390-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/538390-wall-street-journal-trump-might-be-acquitted-but-wont-live-down-disgraceful?amp",
-      "publishedDateTime": "2021-02-11T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-rep-nunes-republicans-could-possibly-face-pressure-to-impeach-biden-if-they-take-back-house-in-2022.md",
-      "title": "Rep. Nunes: Republicans could possibly face 'pressure' to impeach Biden if they take back House in 2022",
-      "excerpt": "California Rep. Devin Nunes, R-Calif., believes that Republicans might face pressure to impeach President Biden should the party gain control of the House in the 2022 midterms.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlHLh_q5c6g/nunes-republicans-pressure-impeach-biden-house-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xlHLh_q5c6g/nunes-republicans-pressure-impeach-biden-house-2022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/devin-nunes.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nunes-republicans-pressure-impeach-biden-house-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nunes-republicans-pressure-impeach-biden-house-2022.amp",
-      "publishedDateTime": "2021-02-11T05:13:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.md",
-      "title": "Trump team fires back at Dems, claims they too have used ‘fight like hell’ rhetoric",
-      "excerpt": "The Trump team turned the tables on the Democratic Party’s impeachment managers on Wednesday, after they claimed once again that the former president’s \"fight like hell\" rhetoric at a Jan. 6 rally in Washington helped spark the riot at the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric",
-      "originalUrl": "https://www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Raskin-Neguse-Swallwell-Lieu-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-team-fires-back-at-dems-claims-they-too-have-used-fight-like-hell-rhetoric.amp",
-      "publishedDateTime": "2021-02-11T02:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

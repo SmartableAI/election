@@ -2,6 +2,167 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-04-tim-allen-says-he-liked-that-president-trump-pissed-people-off.md",
+      "title": "Tim Allen says he 'liked' that President Trump 'pissed people off'",
+      "excerpt": "Tim Allen makes a living making people laugh but one person who's apparently made the funnyman chuckle himself is former President Donald Trump. The \" Last Man Standing \" star appeared on the \"WTF with Marc Maron\" podcast this week where he was asked about whether he views himself as an \"old school conservative\" as opposed to a \"right-wing wack job.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/tim-allen-liked-president-trump-pissed-people-off",
+      "originalUrl": "https://www.foxnews.com/entertainment/tim-allen-liked-president-trump-pissed-people-off",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Tim-Allen-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/entertainment/tim-allen-liked-president-trump-pissed-people-off.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/tim-allen-liked-president-trump-pissed-people-off.amp",
+      "publishedDateTime": "2021-03-03T08:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-rep-crenshaw-slams-bidens-border-policy-prioritizing-illegal-immigrants-over-us-citizens.md",
+      "title": "Rep. Crenshaw slams Biden's border policy: 'Prioritizing illegal immigrants over US citizens’",
+      "excerpt": "Rep. Dan Crenshaw, R-Texas, says he believes the Biden administration’s immigration policies are \"prioritizing illegal immigrants over U.S. citizens.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1IwasZaMGy4/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1IwasZaMGy4/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20c1dab4-23d3-4f92-9b10-5cc6de6b6d12/3cafb7e6-7288-4d4c-a054-39509edb909a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp",
+      "publishedDateTime": "2021-03-03T07:26:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-kamala-harris-tweet-about-dr-seuss-resurfaces-amid-racial-controversy.md",
+      "title": "Kamala Harris’ tweet about Dr. Seuss resurfaces amid racial controversy",
+      "excerpt": "Harris was a senator when she sent out the tweet, dated March 2, 2017, in which she wished the famed children’s book author a happy birthday.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/",
+      "originalUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-seuss-02.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/",
+      "publishedDateTime": "2021-03-03T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-hunter-biden-probe-active-and-ongoing-without-white-house-interference-sources.md",
       "title": "Hunter Biden probe 'active and ongoing' without White House interference: sources",
       "excerpt": "The federal investigation into Hunter Biden’s “tax affairs” is “active and ongoing,” two sources familiar with the status of the probe told Fox News.",
@@ -1505,166 +1666,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-corey-lewandowski-likely-to-lead-new-trump-political-action-committee.md",
-      "title": "Corey Lewandowski likely to lead new Trump political action committee",
-      "excerpt": "Former President Trump is starting up a new political action committee and is eyeing longtime top political adviser and aide Corey Lewandowski to head up the new super PAC, multiple people with knowledge of the conversations confirmed to Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVvQtrx3mn0/trump-political-action-committee-corey-lewandowski",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVvQtrx3mn0/trump-political-action-committee-corey-lewandowski",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-political-action-committee-corey-lewandowski.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-political-action-committee-corey-lewandowski.amp",
-      "publishedDateTime": "2021-02-26T07:14:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-biden-administration-and-democrats-do-not-care-about-american-jobs-sen-scott.md",
-      "title": "Biden administration and Democrats 'do not care' about American jobs: Sen. Scott",
-      "excerpt": "Sen. Rick Scott R-Fla. said Friday that the Biden administration and Democrats \"don't care about jobs\" and that the attempted inclusion of a $15 minimum wage in the latest coronavirus stimulus bill is just \"payback\" to liberal Democrats. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZkTrFGm5qc/minimum-wage-hike-biden-democrats-jobs-scott",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZkTrFGm5qc/minimum-wage-hike-biden-democrats-jobs-scott",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1d9959d-2022-46fc-865c-355a8970d8a6/0494ea3a-053d-4d59-b663-2a432ef7a084/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp",
-      "publishedDateTime": "2021-02-26T05:49:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-trump-vs-desantis-2024-clash-of-heavyweights-starts-early.md",
-      "title": "Trump vs. DeSantis: 2024 Clash of Heavyweights Starts Early",
-      "excerpt": "Politically speaking, this is the best and worst of times to be Florida Gov. Ron DeSantis. Lets start with best: Midway through his first term, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.realclearpolitics.com/articles/2021/02/26/trump_vs_desantis_2024_clash_of_heavyweights_starts_early_145307.html#!",
-      "originalUrl": "https://www.realclearpolitics.com/articles/2021/02/26/trump_vs_desantis_2024_clash_of_heavyweights_starts_early_145307.html#!",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.realclear.com/images/53/536304_5_.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.realclearpolitics.com/articles/2021/02/26/trump_vs_desantis_2024_clash_of_heavyweights_starts_early_145307.amp.html",
-      "cdnAmpWebUrl": "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/02/26/trump_vs_desantis_2024_clash_of_heavyweights_starts_early_145307.amp.html",
-      "publishedDateTime": "2021-02-26T05:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RealClearPolitics",
-        "domain": "realclearpolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

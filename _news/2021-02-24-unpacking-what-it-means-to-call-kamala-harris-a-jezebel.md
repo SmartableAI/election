@@ -189,6 +189,22 @@ related:
         width: 1296
         height: 648
         isCached: true
+  - title: "LI parents are teaching daughters the power of possibility. Kamala Harris is strengthening that narrative."
+    excerpt: "Chloe Williams, 8, and her mom, Selina, 39, a nurse practitioner from Wheatley Heights, joined women and girls nationwide in putting on pearls the morning of Kamala Harris’ inauguration to celebrate t"
+    publishedDateTime: 2021-03-03T09:00:00Z
+    webUrl: "https://www.newsday.com/lifestyle/family/kamala-harris-long-island-families-1.50166453"
+    ampWebUrl: "https://www.newsday.com/amp/lifestyle/family/kamala-harris-long-island-families-1.50166453"
+    cdnAmpWebUrl: "https://www-newsday-com.cdn.ampproject.org/c/s/www.newsday.com/amp/lifestyle/family/kamala-harris-long-island-families-1.50166453"
+    type: article
+    provider:
+      name: Newsday
+      domain: newsday.com
+    quality: 57
+    images:
+      - url: "https://cdn.newsday.com/polopoly_fs/1.50166457.1614620228!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
+        width: 1280
+        height: 719
+        isCached: true
   - title: "Harris Participates in the House Democratic Issues Conference Virtually"
     excerpt: "United States Vice President Kamala Harris participates virtually in the House Democratic Issues Conference from the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Tuesday,"
     publishedDateTime: 2021-03-03T02:23:00Z

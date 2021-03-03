@@ -173,6 +173,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Capitol Police chief faces questions about security plans after pro-Trump riot"
+    excerpt: "The acting chief is expected to ask for more funding to pay for physical barriers and additional deployment of law enforcement, as lawmakers worry about turning the Capitol into a fortress."
+    publishedDateTime: 2021-03-03T14:58:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/capitol-police-congress-security-riot/2021/03/03/8885eb26-7c26-11eb-85cd-9b7fa90c8873_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/capitol-police-congress-security-riot/2021/03/03/8885eb26-7c26-11eb-85cd-9b7fa90c8873_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/capitol-police-congress-security-riot/2021/03/03/8885eb26-7c26-11eb-85cd-9b7fa90c8873_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4QKMAJT4F4I6XBONTN72SDEIOM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Nine months later, fencing comes down around the church where Trump stood with a Bible"
     excerpt: "The elite, Episcopal congregation found itself at the center of anti-racism protests and wrestled with the way the fence changed it"
     publishedDateTime: 2021-03-01T23:08:00Z

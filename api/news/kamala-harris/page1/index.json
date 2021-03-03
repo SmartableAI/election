@@ -2,6 +2,54 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-03-kamala-harris-tweet-about-dr-seuss-resurfaces-amid-racial-controversy.md",
+      "title": "Kamala Harris’ tweet about Dr. Seuss resurfaces amid racial controversy",
+      "excerpt": "Harris was a senator when she sent out the tweet, dated March 2, 2017, in which she wished the famed children’s book author a happy birthday.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/",
+      "originalUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-seuss-02.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/",
+      "publishedDateTime": "2021-03-03T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-kayleigh-mcenany-tells-harris-faulkner-of-shock-and-disbelief-at-deadly-capitol-riot.md",
       "title": "Kayleigh McEnany tells Harris Faulkner of 'shock' and 'disbelief' at deadly Capitol riot",
       "excerpt": "Former Trump press secretary Kayleigh McEnany has described her emotions during the Jan. 6 attack on the U.S. Capitol in her first interview since leaving the White House.",
@@ -124,7 +172,7 @@
       "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1582,63 +1630,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.md",
-      "title": "Kamala Harris, Doug Emhoff will stay in Blair House while VP residence undergoes repairs",
-      "excerpt": "This is the house where history will be made. Vice President Kamala Harris will soon be residing on the grounds of the Naval Observatory in northwestern Washington, D.C., in a home occupied by several of her predecessors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs",
-      "originalUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/residence-of-the-Vice-President-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.amp",
-      "publishedDateTime": "2021-01-22T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
       ]
     }
   ],

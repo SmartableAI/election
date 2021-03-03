@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/pences-post-trump-administration-pl
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/pences-post-trump-administration-plans-take-shape/"
 type: article
 quality: 150
-heat: 4810
+heat: 4830
 published: true
 
 provider:
@@ -3164,6 +3164,20 @@ related:
       - url: "https://media.nbcnewyork.com/2021/01/GettyImages-1230692263-edited.jpg?resize=1200%2C675"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Mike Pence breaks silence to nod towards Trump's election lies"
+    excerpt: "Former Vice President Mike Pence broke his silence Wednesday with an op-ed in The Daily Signal, criticizing congressional Democrats for their voter reform push and giving new life to former President Donald Trump's baseless claims that the 2020 presidential election was stolen."
+    publishedDateTime: 2021-03-03T16:00:00Z
+    webUrl: "https://theweek.com/5things/969986/mike-pence-breaks-silence-nod-towards-trumps-election-lies"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 85
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/sbr022821dapr.jpg?itok=TdjDdBA5&resize=400x267"
+        width: 400
+        height: 267
         isCached: true
   - title: "As Trump's impeachment trial nears, Republicans mull questions on party's future"
     excerpt: "As former president Donald Trump’s second impeachment nears, lawmakers discussed on Jan. 31 whether he should be held accountable for the Capitol breach."

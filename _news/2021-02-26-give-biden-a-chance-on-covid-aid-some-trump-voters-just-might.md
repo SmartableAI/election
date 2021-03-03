@@ -128,22 +128,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden still working through Tanden replacement options as Hill Democrats push Young"
-    excerpt: "President Joe Biden is still working through the process of replacing Neera Tanden's failed Office of Management and Budget director nomination, as congressional Democrats ramp up pressure for Shalanda Young, a well-respected congressional staffer, according to multiple officials.\n    \n"
-    publishedDateTime: 2021-03-03T14:23:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wzo6LxVIrfo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/shalanda-young-neera-tanden-omb/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/shalanda-young-neera-tanden-omb/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303090438-split-neera-tanden-shalanda-young-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden sends letter to congressional leadership explaining justification for Syria strike"
     excerpt: "President Joe Biden sent a letter to congressional leadership Saturday explaining the reasoning behind Thursday's airstrike in Syria, which has been criticized by some Democrats in the latest fight between the executive and legislative branches over war powers.\n    \n"
     publishedDateTime: 2021-02-27T23:12:47Z
@@ -189,6 +173,22 @@ related:
     quality: 159
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/160620175138-mitch-mcconnell-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate Democrats still finishing their Covid relief bill as Biden signs off on more targeted stimulus checks"
+    excerpt: "Senate Democrats are down to the wire.\n    \n"
+    publishedDateTime: 2021-03-03T16:45:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FP7PU7n3mvo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/congress-stimulus-negotiations-latest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/congress-stimulus-negotiations-latest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 156
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210106120930-01-chuck-schumer-0106-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
