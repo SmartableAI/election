@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to begin bipartisan work to 'end cancer as we know it,' Psaki says, calling it a 'priority' for admin"
+    excerpt: "President Biden and Vice President Kamala Harris are set to meet with a bipartisan group of lawmakers in the Oval Office on Wednesday afternoon on the work to begin \"end cancer as we know it,\" White House press secretary Jen Psaki said."
+    publishedDateTime: 2021-03-03T18:34:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMuDiezVOpc/biden-cancer-research"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cancer-research.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancer-research.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's release of report on Khashoggi killing shows difference from Trump's approach, experts say"
     excerpt: "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge,"
     publishedDateTime: 2021-03-02T13:30:00Z

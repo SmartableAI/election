@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/591844ce-5d5e-482b-9a60-9a86ceb8f2cd_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Tim Allen Slammed After Saying This About Donald Trump"
+    excerpt: "Tim Allen faced swift backlash after revealing he liked former President Donald Trump because of the effect he had on people."
+    publishedDateTime: 2021-03-03T17:40:00Z
+    webUrl: "https://www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666"
+    ampWebUrl: "https://www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/22/tim-allen.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump Endorses Kansas Sen. Moran; Primary Fight Less Likely"
     excerpt: "Former President Donald Trump has endorsed Kansas Sen. Jerry Moran for reelection in 2022, early backing that makes it unlikely the two-term Republican will face a serious challenge in the GOP primary."

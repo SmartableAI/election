@@ -69,6 +69,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tim Allen Slammed After Saying This About Donald Trump"
+    excerpt: "Tim Allen faced swift backlash after revealing he liked former President Donald Trump because of the effect he had on people."
+    publishedDateTime: 2021-03-03T17:40:00Z
+    webUrl: "https://www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666"
+    ampWebUrl: "https://www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/22/tim-allen.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "f4B+bRPgBEnTEwbUNiLu3INGFsnKONmcJT3OtCDLQ3bWHsIjLvImGSkc2iSGEfCpl3+zwek59hEbqz60YV2Sl2xptenZJmApVx1zvoQXMRI12Mi/NvgtxisozW9ghU9C7Vl1HeATz82LhMuGJpPntkY0wUBNzB2eQlxD0V3G2X5GQt81K2M6OOlEIArIZ13PEcoVLTAf2D+uFEB8v0q5YJf/Xq99+jHFJpOk6rilWb2W4b28TP3bZxNLIZn0E387tuf30VjkGFwn8lTSE8nKe4EAr8kqvfx8K9i+1SoSybVc2dvSmFUAZ2lYp5V0scFvU4GCvo51FssGsTOXnSVV5ffOLzwyoXw2wMdQuUrCsPYx4UO1NJ4UmX4Pl5nOGLz8ldTsfbE72vqIahsnBmOivm+qKvjsXZXimmezSTJ2JCc0S1vKwi7/ZwUuT4OFd+wE8jDtXdgmqrWe0kdlSlkBkWYAUzCndStWnX7N8GpHOiBkehyyo6m6TvBR5TfULoA5FMwdnrZt4FStt3Boh5mqCQ==;tP+zbChl72e+QBNUpAIgMw=="
 ---

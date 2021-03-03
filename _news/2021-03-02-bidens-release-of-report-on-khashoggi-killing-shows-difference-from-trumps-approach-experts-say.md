@@ -192,6 +192,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to begin bipartisan work to 'end cancer as we know it,' Psaki says, calling it a 'priority' for admin"
+    excerpt: "President Biden and Vice President Kamala Harris are set to meet with a bipartisan group of lawmakers in the Oval Office on Wednesday afternoon on the work to begin \"end cancer as we know it,\" White House press secretary Jen Psaki said."
+    publishedDateTime: 2021-03-03T18:34:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMuDiezVOpc/biden-cancer-research"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cancer-research.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancer-research.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "u/leAbhV86LjyZu062vqj5yww4G/9IytBfjpuf8vvGrkP1dMuDZnPeab4Xn9PX8gPv870v6hlyIEnr3XT4jpuynurrYWxJqe9ML4BhyKOzYGUnnzq6DAbR+sDVvHExMti3PQrc+Zec/r/KMfRQd0P0OvfmbhAwOHVSuUlmQplQojqn8UFZQKijkZABL3RlDVCFh1MCQ5n7otUTP5VUSlyE5290mJRfCeL/8+peXKQ6wIeyMrhgtTaHE+8VygA7ZadqXx3+0UmVtykUhZJHtw0wSr3IOE6LiEWxeTa9fL+INnI7IwJpu6wkGosNSs4OiY5SrbBwjyC+5USpKMCQ6QK2WT4zgBEh0j9AUjQRogV1I=;iQbRseJNMUXhhOeXNltK9A=="
 ---

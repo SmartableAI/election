@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -138,6 +138,20 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/02/b0504ed4-43cc-4b7e-bde3-afc518b468fe/thumbnail/1200x630/85dc02ce52753c528a2105f98e175758/0302-cbsn-afx-bidensouthernborder-657142-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Which senators have been voting against Biden Cabinet nominees?"
+    excerpt: "The most frequent votes against Biden’s nominees thus far — no surprise — have in most cases come from ambitious Republicans thought to be potential 2024 presidential candidates."
+    publishedDateTime: 2021-03-03T17:33:00Z
+    webUrl: "https://www.washingtonpost.com/graphics/2021/politics/cabinet-no-votes/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUF7X4KT2ZATLAAB23DZNQARWM.png&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden nominates three to USPS board of governors as DeJoy testifies on mail crises"
     excerpt: "The White House moves to reassert control of the U.S. Postal Service as the postmaster general brushes off lawmakers’ calls to resign."

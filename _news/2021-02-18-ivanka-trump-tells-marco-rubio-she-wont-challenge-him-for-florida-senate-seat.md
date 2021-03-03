@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "NRCC chief to Trump: Please don’t"
+    excerpt: "Kyle Cheney and Andrew Desiderio EMMER MAKES 2022 PRIMARY PLEA TO TRUMP — At a POLITICO Live event this morning, NRCC Chair TOM EMMER (R-Minn.) told us that former President DONALD TRUMP getting involved in House primaries is “not gonna be helpful” to their effort to retake the House."
+    publishedDateTime: 2021-03-03T18:40:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/03/03/nrcc-chief-to-trump-please-dont-491977"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/8c/5e/adf89d0840808fade585cfda7fb3/gettyimages-643949018.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "EFiI4+HOz2217h+lvyf1Ca9VjaB6stpcivwiy77AMhiXqEZTiElcWaDt7zv6xYArQSc4oqGIItHDR3CkADaw8QRyeJOf/tzOL9SJzYlqHP1r0RrsWQp1tQsVXoE8GqWiNenWILqmUE8mJ6j+wNNLRaJ3tzlRozAnfsjpNdaAw5Hw1oM7nkK/kSTChpCq+efDZZ7bbY18sAP0/YNW0H7dV9lmQjhlWuigTZluFBLnmdJiB8dUoavsySFF+jUZ7saLH1sY4OfFcaKxqRgCk2nohCXo4RDdaWRwZWMKvRglKtgn7M3kB8UH8EI2Q6Q3dTKqOPvSQyBXr/qXMkl8RtpExacyCBed3JibyC10PntyU8o=;iJ6uXyU0/EKtYalqD7219g=="
 ---

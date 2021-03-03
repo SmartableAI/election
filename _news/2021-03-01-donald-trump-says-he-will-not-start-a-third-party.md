@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tim Allen Slammed After Saying This About Donald Trump"
+    excerpt: "Tim Allen faced swift backlash after revealing he liked former President Donald Trump because of the effect he had on people."
+    publishedDateTime: 2021-03-03T17:40:00Z
+    webUrl: "https://www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666"
+    ampWebUrl: "https://www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/22/tim-allen.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Endorses Kansas Sen. Moran; Primary Fight Less Likely"
     excerpt: "Former President Donald Trump has endorsed Kansas Sen. Jerry Moran for reelection in 2022, early backing that makes it unlikely the two-term Republican will face a serious challenge in the GOP primary."
     publishedDateTime: 2021-02-26T16:55:00Z

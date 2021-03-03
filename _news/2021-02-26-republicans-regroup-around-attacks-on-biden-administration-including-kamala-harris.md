@@ -59,6 +59,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Harris meets with Small Business Owners in Alexandria, Virginia"
+    excerpt: "Vice President Kamala Harris (C) speaks at a small business roundtable at Fiber Space, a woman-owned boutique yarn and fabric store, with small business employees and community leaders to talk about the impacts of the Biden Administration's American Rescue Plan,"
+    publishedDateTime: 2021-03-03T18:39:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e2fce5cdcd2731613a8edecd078ff778/Vice-President-Harris-meets-with-Small-Business-Owners-in-Alexandria-Virginia/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/e2fce5cdcd2731613a8edecd078ff778/HARRIS-SMBUISINESS.jpg"
+        width: 650
+        height: 430
+        isCached: true
 
 secured: "fgZ4jk1d3X3K3vs8O4Pu9lHwCuDDCnrVDl2bEC6rv+37bmFkK8KWhh31shQQj283AZOvSQsIaFiGXpm+szLIykhijWGT8r3KYR48oC0lbruAnRTuOLAH1EJjxsVsJgXT0jYFppONmz7+DaiAU0jN7rxcPpuJmEGM6Jsj5358hcthUfFwuWVj4WKi2UvljcoUQlgp5qldAcRsfKg0y43uwbR1FDyrHUaFn1hY/oQidcG7hfJf2hg8Mj+qUhkyr9MDQrcTXTeWgWdfCtXt2+uxM1TDGyRFz1conM+vEIZ0MjTnDDVrsZ4ZOosTG/X3tasHKDCJRWBlftoSAJ3vnxpNTKIyoB0p+oiKGXFK6jUn/qNcocBR6xHLQsqDyQENhCSiHLHwDjWhdO7EUwrOR9swmprBA9551IRmvHuqHeCctMxF/HySLqAXDfdfHtcj/S/2qmsNLvyO71/knyfZpJVYlhbnavagOhm776Ce/L9LvDcfmCHOpQ3o6vm05Q6QuXKSKikZZ8ubRuopM+s/Fl8+wg==;lGED4jmcrs3n9N2qj0pw/g=="
 ---

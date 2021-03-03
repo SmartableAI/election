@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/technology/2021/02/24/parler-relaunch
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Democrats snipe on policy, GOP brawls over Trump"
+    excerpt: "Newly empowered Democrats are split over a $15 minimum wage hike, the president’s war powers and other policy issues, while distracted by New York Gov. Andrew Cuomo’s (D) harassment scandal, which worsens by the day."
+    publishedDateTime: 2021-03-03T13:58:00Z
+    webUrl: "https://thehill.com/homenews/house/541326-democrats-snipe-on-policy-gop-brawls-over-trump"
+    ampWebUrl: "https://thehill.com/homenews/house/541326-democrats-snipe-on-policy-gop-brawls-over-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/541326-democrats-snipe-on-policy-gop-brawls-over-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/pelosimccarthyschumer.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Rep. Herrera Beutler Censured Over Trump Impeachment Vote"
     excerpt: "Members of the Washington's Clark County Republican Party have voted to formally censure Rep. Jaime Herrera Beutler, of Battle Ground, over her vote to impeach former President Donald Trump."
     publishedDateTime: 2021-02-26T02:05:00Z

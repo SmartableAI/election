@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-100-day-deportation-moratori
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp"
 type: article
 quality: 175
-heat: 315
+heat: 355
 published: true
 
 provider:
@@ -47,21 +47,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Jill Biden stiff-armed protester at campaign rally one year ago"
-    excerpt: "Super Tuesday was then-candidate Joe Biden's chance at a Hail Mary pass to revive his presidential campaign -- but it was his wife, Jill, who drew praise for playing NFL-style defense that night."
-    publishedDateTime: 2021-03-03T11:42:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/un9MG1Oqnow/jill-biden-stiff-armed-protester"
-    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-stiff-armed-protester.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-stiff-armed-protester.amp"
+  - title: "Biden’s post-inauguration honeymoon appears to be over, new poll suggests"
+    excerpt: "A new national poll indicates that President Joe Biden’s approval rating has slipped during his first month in the White House."
+    publishedDateTime: 2021-03-03T17:46:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/99jrd216VxA/biden-post-inauguration-honeymoon-over-new-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-post-inauguration-honeymoon-over-new-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-post-inauguration-honeymoon-over-new-poll.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jill-Biden-Protestor-Getty.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "ACLU calls Biden guidance on ICE arrests, deportations 'disappointing step backward'"
     excerpt: "The American Civil Liberties Union (ACLU) is criticizing the Biden administration’s new guidance for arrests and deportations under Immigration and Customs Enforcement (ICE) -- calling it a “disappointing step backward” and telling the new administration it expects “better.”"
@@ -78,6 +78,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1afb723c-6431-4ce5-bea8-c93398d5b403/6ac0fdd4-ffcc-4654-840f-4ac9bc82d527/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Shalanda Young pushed by House Dem leaders for Biden budget director after Tanden defeat"
+    excerpt: "House Democratic leaders on Wednesday are pushing President Biden to tap Shalanda Young – his current pick for deputy director of the Office of Management and Budget – for director, after he withdrew the nomination of Neera Tanden for the post amid controversy over her past statements."
+    publishedDateTime: 2021-03-03T17:40:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vy_niGSZ-34/shalanda-young-pushed-by-house-dem-leaders-for-biden-budget-director-after-tanden-defeat"
+    ampWebUrl: "https://www.foxnews.com/politics/shalanda-young-pushed-by-house-dem-leaders-for-biden-budget-director-after-tanden-defeat.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/shalanda-young-pushed-by-house-dem-leaders-for-biden-budget-director-after-tanden-defeat.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden HHS pick Xavier Becerra refuses to say whether he supports any restrictions on abortion"
     excerpt: "Xavier Becerra, President Biden’s nominee to head the Department of Health and Human Services, declined to name a restriction on abortion that he would support when rigorously pressed on the issue during testimony before Senators on Wednesday."
@@ -142,6 +158,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3c304f65-5ab7-4479-956c-7e98494b3a80/f388db24-0b09-46dd-9026-61c04741124e/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Jill Biden stiff-armed protester at campaign rally one year ago"
+    excerpt: "Super Tuesday was then-candidate Joe Biden's chance at a Hail Mary pass to revive his presidential campaign -- but it was his wife, Jill, who drew praise for playing NFL-style defense that night."
+    publishedDateTime: 2021-03-03T11:48:00Z
+    webUrl: "https://www.foxnews.com/politics/jill-biden-stiff-armed-protester"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-stiff-armed-protester.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-stiff-armed-protester.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jill-Biden-Protestor-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "cm4ZTARCGnEBn75lA3b7pyJgbEoLg/KvbH8ZEOFfYjKvV34OHN+iR9cr0P+6m2FLY5z57AN15cQl8jQaO3wM2o0qcKXARB5ydNcuet+xGRZ+UKJnf4SKPBuelLHaiIwmI+HSlN9rzQEsjJga7WDS7A9uhVuBnPcjMRDxqh9XLFYrYMKM5Uz4WiwIB/fVk66nxM+ziHCtM1/uwS5TyJ/UgWpLmT32k7RBUwKNg8kGg0kDXMVtznQkiEzwJIpWkn8Oz+aBUh7XblDzGN+0TXVFZjN7+Q62SGU6pRp0PTeZa4BwMvD6BGphsmIK5WD9kuNz30n/BIAfr14sLJ4xLwW+9HCPbhW5v3WJ+wlFkkshBes=;28AHJisVHVB8bvSUtacCkA=="

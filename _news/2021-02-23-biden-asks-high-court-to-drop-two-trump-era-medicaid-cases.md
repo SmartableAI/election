@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-asks-high-court-to-drop-2-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp"
 type: article
 quality: 190
-heat: 1390
+heat: 1410
 published: true
 
 provider:
@@ -890,6 +890,22 @@ related:
     quality: 144
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5dd5016-e973-406e-aca3-a67d4fa2408e/60e2794a-cd23-476f-aed8-5df466d4b73d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "CNN called out for tone shift on Biden reopening schools, compared to Trump coverage"
+    excerpt: "CNN's tone on school reopening appears to have taken a different tone with President Biden leading the call for it instead of former President Trump."
+    publishedDateTime: 2021-03-03T18:07:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-biden-trump-tone-shift-fight-reopen-schools"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-biden-trump-tone-shift-fight-reopen-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-biden-trump-tone-shift-fight-reopen-schools.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6da5436-14fc-4a8c-9703-311415df80f9/c55f3a7b-2dbd-40dc-a11e-38ce22cf1748/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

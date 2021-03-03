@@ -910,6 +910,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "CNN called out for tone shift on Biden reopening schools, compared to Trump coverage"
+    excerpt: "CNN's tone on school reopening appears to have taken a different tone with President Biden leading the call for it instead of former President Trump."
+    publishedDateTime: 2021-03-03T18:07:00Z
+    webUrl: "https://www.foxnews.com/media/cnn-biden-trump-tone-shift-fight-reopen-schools"
+    ampWebUrl: "https://www.foxnews.com/media/cnn-biden-trump-tone-shift-fight-reopen-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/cnn-biden-trump-tone-shift-fight-reopen-schools.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b6da5436-14fc-4a8c-9703-311415df80f9/c55f3a7b-2dbd-40dc-a11e-38ce22cf1748/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Citizens United rolls out anti-Biden campaign to 'fight back' against agenda, defend Trump's record"
     excerpt: "The conservative Citizens United group on Thursday rolled out a new anti-Biden campaign in an effort to \"fight back\" against President Biden's agenda and defend the \"successful America first policies\" of former President Trump."
     publishedDateTime: 2021-02-25T12:16:00Z

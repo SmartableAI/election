@@ -153,6 +153,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Which senators have been voting against Biden Cabinet nominees?"
+    excerpt: "The most frequent votes against Biden’s nominees thus far — no surprise — have in most cases come from ambitious Republicans thought to be potential 2024 presidential candidates."
+    publishedDateTime: 2021-03-03T17:33:00Z
+    webUrl: "https://www.washingtonpost.com/graphics/2021/politics/cabinet-no-votes/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUF7X4KT2ZATLAAB23DZNQARWM.png&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Joe Biden's support for unions sends a strong message to Amazon and employers across the country"
     excerpt: "Biden clarified his administration's stance on existing labor laws, which experts say have been enforced lightly by previous administrations."
     publishedDateTime: 2021-03-02T18:16:00Z

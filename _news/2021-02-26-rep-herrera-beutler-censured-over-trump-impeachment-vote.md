@@ -39,6 +39,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Democrats snipe on policy, GOP brawls over Trump"
+    excerpt: "Newly empowered Democrats are split over a $15 minimum wage hike, the president’s war powers and other policy issues, while distracted by New York Gov. Andrew Cuomo’s (D) harassment scandal, which worsens by the day."
+    publishedDateTime: 2021-03-03T13:58:00Z
+    webUrl: "https://thehill.com/homenews/house/541326-democrats-snipe-on-policy-gop-brawls-over-trump"
+    ampWebUrl: "https://thehill.com/homenews/house/541326-democrats-snipe-on-policy-gop-brawls-over-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/house/541326-democrats-snipe-on-policy-gop-brawls-over-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/pelosimccarthyschumer.jpg"
+        width: 980
+        height: 551
+        isCached: true
 
 secured: "D3aBQ0SoMIOCHZACSrXithHCHgP2vGwNadLIbRrm5LHuiuVs970oISFt0RChnVIPrwlsfNWhMXWGQBBS6h6rjKdo97TQeph2RTWsJ5KNTkVvFH/G7uIJpKbpPEbEKENSg5Zy7dcEFgAhJhtADCgjnH5i6e7RBOKw6cAdHjjfqQSBCktlwVXG68Ikgwyo1NTWkDinFrqOinvtSZTcQNgveoiYlwGOeN9q7WaYSFTksd4WKZgdBERWSkZoUiDo3B/sluibRMlXci56K6PQEUlNTrorS/yr9Kn8QYXboVHmGEDzrHu2Kr7LaKz5mQsrX5yEUVvC4dOfUcmibfRxZ+N+Kct9hfdtfe3Gj34jE/zrUPk=;K39olHyTmtUD1mf71FQKFQ=="
 ---
