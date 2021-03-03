@@ -2,62 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2021-02-18-scalise-rips-biden-school-reopening-goal-youre-afraid-of-standing-up-to-the-teachers-union.md",
-      "title": "Scalise rips Biden school-reopening goal: 'You're afraid of standing up to the teachers union'",
-      "excerpt": "Rep. Steve Scalise, R-La., said President Biden's goal to open the majority of K-8 schools by April 30 falls way short of what school children need, and the Republican Whip urged Biden to choose science over teacher unions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p_vSPVbXqeo/rep-scalise-rips-bidens-school-reopening-goal",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/p_vSPVbXqeo/rep-scalise-rips-bidens-school-reopening-goal",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Steve-Scalise-headshot.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-scalise-rips-bidens-school-reopening-goal.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-scalise-rips-bidens-school-reopening-goal.amp",
-      "publishedDateTime": "2021-02-18T15:43:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-18-members-of-maine-gop-state-committee-condemn-sen-susan-collins-vote-to-convict-trump.md",
       "title": "Members of Maine GOP state committee condemn Sen. Susan Collins' vote to convict Trump",
       "excerpt": "Members of the Maine Republican Party state committee are condemning \"in the strongest possible terms\" Republican Sen. Susan Collins' vote to convict former President Donald Trump in his impeachment trial this month -- another sign of the backlash against lawmakers who bucked Trump, but one that may",
@@ -1362,6 +1306,62 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-17-trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.md",
+      "title": "Trump impeachment manager says she's filled with 'glee' at prospect of questioning McCarthy about Capitol riot",
+      "excerpt": "Del. Stacey Plaskett said she is filled with \"glee\" at the prospect of questioning House Minority Leader Kevin McCarthy regarding a phone call between him and former President Donald Trump during the Capitol riot in January.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vuq7MKJnsmw/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vuq7MKJnsmw/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/Vandana-Rambaran.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-manager-says-shes-filled-with-glee-at-prospect-of-questioning-mccarthy-about-capitol-riot.amp",
+      "publishedDateTime": "2021-02-17T11:57:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
       ]
     }
   ],

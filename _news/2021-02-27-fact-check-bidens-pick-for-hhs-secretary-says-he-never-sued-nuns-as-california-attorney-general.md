@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "From confidence to a distraction: Inside Biden's failed push for Neera Tanden"
+    excerpt: "Standing onstage in December at the Queen Theater in Wilmington, Delaware, Joe Biden described his freshly nominated pick to run the White House budget office, Neera Tanden, as \"brilliant.\" He cited her hardscrabble upbringing. And he even quoted his father to emphasize her set of values.\n    \n"
+    publishedDateTime: 2021-03-03T04:52:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WZfv52PUgPU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/neera-tanden-failed-push/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/neera-tanden-failed-push/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201134328-neera-tanden-biden-economic-team-1201-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact check: Jim Jordan falsely claims Biden ordered the release of all undocumented immigrants "
     excerpt: "President Joe Biden has already ordered significant changes to US immigration policy. But he has not issued an order that Republican Ohio Rep. Jim Jordan claims he did.\n    \n"
     publishedDateTime: 2021-01-27T19:38:41Z

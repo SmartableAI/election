@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Two senators join Manchin in opposing Biden budget pick Neera Tanden, putting nomination in peril"
-excerpt: "Neera Tanden has come under fire during the confirmation process for her past tweets and statements criticizing lawmakers on both sides of the aisle."
-publishedDateTime: 2021-02-22T16:47:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/02/22/mitt-romney-susan-collins-oppose-biden-budget-nominee-neera-tanden/4539982001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/02/22/mitt-romney-susan-collins-oppose-biden-budget-nominee-neera-tanden/4539982001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4539982001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4539982001"
+title: "Biden health pick taking heat for support of abortion rights"
+excerpt: "President Joe Biden’s pick for health secretary is taking heat for his defense of abortion rights from a tag team of Republicans looking to define him — and the new administration — as out of the main"
+publishedDateTime: 2021-03-03T05:13:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
-quality: 112
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/e38a4941-b873-41d2-9d50-a260b8e1231e-Double_masking_09.JPG?auto=webp&crop=5746,3232,x1,y237&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -79,22 +79,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden health pick taking heat for support of abortion rights"
-    excerpt: "President Joe Biden’s pick for health secretary is taking heat for his defense of abortion rights from a tag team of Republicans looking to define him — and the new administration — as out of the main"
-    publishedDateTime: 2021-03-03T05:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
     excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
     publishedDateTime: 2021-03-02T20:13:00Z
@@ -124,6 +108,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/96903ded-b1a9-4d84-a15f-ea2e517a2a36/thumbnail/1200x630/c99acd2afef2a814aa9ae8a306570843/cbsn-fusion-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count-thumbnail-621736-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Two senators join Manchin in opposing Biden budget pick Neera Tanden, putting nomination in peril"
+    excerpt: "Neera Tanden has come under fire during the confirmation process for her past tweets and statements criticizing lawmakers on both sides of the aisle."
+    publishedDateTime: 2021-02-22T16:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/22/mitt-romney-susan-collins-oppose-biden-budget-nominee-neera-tanden/4539982001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4539982001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4539982001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/e38a4941-b873-41d2-9d50-a260b8e1231e-Double_masking_09.JPG?auto=webp&crop=5746,3232,x1,y237&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden administration faces challenges at U.S.-Mexico border"
     excerpt: "As the number of migrants and asylum seekers at the U.S.-Mexico border increases, the Biden administration must find ways to safely house them amid the coronavirus pandemic. Washington Post immigration reporter Nick Miroff joined CBSN to discuss the situation."
@@ -182,6 +182,6 @@ related:
         height: 600
         isCached: true
 
-secured: "Eu4ZR10oIIuUF/+hSPCUPCZtxWnCPC5clj5SCX4pVn8q25RiLCYKLpHuTHUGflbtBUpCblfjKy3h7zRYZK/rbT9Wkz3zQw9yW/oG5Mf3noK0fjVCI0efD47fEkxyf10EpOFwrehA6qK0SxUguZtIKFgjndOfzaxE608sUVoq57bu0+ioSNhYqlSB4sRHe7PcHXj4w32qMGXglizE3T5QgKNjaL1vSADUHnndRptV6RvXPDtgpAkr3rDAzku5zuUR1PW7UfkNDLduEXAROLDrvFRY6QEjDARpUHNtqELb8cbMU5AZ6YLD9NRT80JrZ4Fgt006qnIdeUDJg8CL2L8dm2MCj5krgZOewORComeG1C+3XXNK1wf/HxuID66pPCfL8NQgbqOdHJV2JUTbdZ8wzD+I7quG3L0+JIVJShCVXMArlAVjoxKdakCCweeTlXaIe08klesW1Syo6OaAIg87zeHyJxTTUKowkXecIjvgi3A8GFR0vadTrdNNJeoXaGHr+PpgMa8WeGiwn+uOOYm1MA==;QyzkdhOg3yUcJAxNsm9qTg=="
+secured: "u5u6uHoRVJRT9i5izQ298MhqMuzED01GVEntmDirgkbMZVxWRs9xfF+d8wYv+s05dAfmqliejCA8nDywmDc2uHDX4mVaJWUlRdyR/FPpWsAE4s4MokaPGW1VLvARDEb1wqR9bitOKhAm+0ZLYh7bs7/dgAG1k7rqrgMz3YHmmwIzwpWGIknu26fkAJk4ujCZwTx0M+RgPNfygXc8/l1lpU4CGGo9E/pSTsv26N2W00Nd2HCnHzGWQ62gxMmYF7h7ONJr6KucQNRM3fw6UrlC10JWAxGF8gZSw/mZv62DkUCBqR0iRAr73arx0uK3pF1Xo7p+pzvzkTAAyoJaDJdOj4cDbIqwElEnKfj69MYhYVo=;Xh6/Rc2HwBX9XsXZbhifFA=="
 ---
 

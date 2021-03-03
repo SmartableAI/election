@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-26-trumps-pardon-of-lil-wayne-said-to-be-the-breaking-point-for-qanon-shaman-in-new-court-documents-filled-with-bizarre-anecdotes.md",
+      "title": "Trump's pardon of Lil Wayne said to be the breaking point for 'QAnon Shaman' in new court documents filled with bizarre anecdotes",
+      "excerpt": "An attorney for Jacob Chansley, the \"QAnon Shaman,\" filed a pretrial release motion Tuesday, weeks after he charged in the Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest",
+      "originalUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60359633d920880018591ad4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest?amp",
+      "publishedDateTime": "2021-02-25T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-biden-should-not-give-up-his-sole-nuclear-authority-gop-lawmakers-say.md",
       "title": "Biden should not give up his sole nuclear authority, GOP lawmakers say",
       "excerpt": "Three Republican members of the House Armed Services Committee on Wednesday issued a statement pushing back on Democrats' letter to President Biden urging him to give up his sole nuclear authority.",
@@ -317,62 +369,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-25-house-freedom-caucus-members-question-liz-cheneys-leadership-again-after-her-latest-trump-comments.md",
-      "title": "House Freedom Caucus members question Liz Cheney's leadership again after her latest Trump comments",
-      "excerpt": "House Freedom Caucus members questioned GOP conference chairwoman Liz Cheney's leadership — again — at a news conference Thursday after the Wyoming Republican congresswoman's comments that she believes former President Donald Trump shouldn't play a role in the Republican Party.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OM80qsrIyrQ/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OM80qsrIyrQ/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205160111-01-liz-cheney-0203-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/25/politics/liz-cheney-house-freedom-caucus/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/liz-cheney-house-freedom-caucus/index.html",
-      "publishedDateTime": "2021-02-25T09:21:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-26-manhattan-district-attorney-obtains-trumps-long-sought-tax-records.md",
       "title": "Manhattan district attorney obtains Trump's long-sought tax records",
       "excerpt": "The Manhattan District Attorney's Office has obtained former President Donald Trump's tax records, executing a subpoena for the long-sought documents after the Supreme Court declined to shield them from investigators earlier this week.",
@@ -603,7 +599,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -856,62 +852,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-white-house-lifts-trump-order-that-temporarily-banned-certain-immigrant-visas-during-pandemic.md",
-      "title": "White House lifts Trump order that temporarily banned certain immigrant visas during pandemic",
-      "excerpt": "President Joe Biden on Wednesday revoked a Trump-era executive order that temporarily banned some immigrant visas during the coronavirus pandemic\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WOfcu_s3qGI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WOfcu_s3qGI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210114132612-file-02-joe-biden-november-2020-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/24/politics/biden-immigration-coronavirus-pandemic/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/biden-immigration-coronavirus-pandemic/index.html",
-      "publishedDateTime": "2021-02-24T20:29:40-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1344,6 +1284,62 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-trump-stacked-his-cabinet-with-climate-skeptics-now-republicans-are-piling-on-bidens-climate-activist-nominee.md",
+      "title": "Trump stacked his Cabinet with climate skeptics. Now Republicans are piling on Biden's climate activist nominee",
+      "excerpt": "President Joe Biden nominated the most diverse Cabinet in history, but the Senate, which gets to offer \"advice and consent,\" is suddenly full of members -- mostly Republicans -- who are critical of partisan tweets and are carefully scrutinizing nominees' job qualifications.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kvTeKFzFC4E/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kvTeKFzFC4E/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 250,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210224070026-02-deb-haaland-confirmation-hearing-0223-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/24/politics/what-matters-february-23/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/what-matters-february-23/index.html",
+      "publishedDateTime": "2021-02-24T04:09:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
       ]
     }
   ],

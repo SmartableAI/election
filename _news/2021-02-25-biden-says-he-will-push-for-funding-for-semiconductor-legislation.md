@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden health pick taking heat for support of abortion rights"
+    excerpt: "President Joe Biden’s pick for health secretary is taking heat for his defense of abortion rights from a tag team of Republicans looking to define him — and the new administration — as out of the main"
+    publishedDateTime: 2021-03-03T05:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
     excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
     publishedDateTime: 2021-03-02T20:13:00Z

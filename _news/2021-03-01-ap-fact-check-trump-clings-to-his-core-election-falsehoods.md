@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-cl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
 type: article
 quality: 140
-heat: 400
+heat: 420
 published: true
 
 provider:
@@ -233,6 +233,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump's Cash Plea Could Complicate GOP Fundraising Efforts"
+    excerpt: "Former President Donald Trump called on his supporters to send their contributions directly to his own committees in his first speech since leaving office."
+    publishedDateTime: 2021-03-03T05:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-03/trumps-cash-plea-could-complicate-gop-fundraising-efforts"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "lcWM4fc9yuYWk5EYqLphoThwud16YlKY9wQhYxwZDHgZh8N0zMWZQkRdZLr07LgLxW+z3m9BnuA3JVgVf1YATtTlWvNgQyT3dre21cI9yTibmYx7BWw8LwQ/j0YRnF/fAsh2U4db9SFWTVLW6TNstth+mRRqJZhV36jE1ObGp1hfkrIDCS6D8I145Fy1TAhIIYM4tRmPcJunjyn8dzj7qV+9u+/bgmnezBnqCM+4Z6PaE03UFSe1c+ElmHSsEkIzM2w5JU6pME//vDb8RyjzHORZeHVQ3QDXuqhOIH8s9YG8hxFSYcGWr6D6ocKmAZLvSRzP2mzfaZDR1NDBk4zHlUP8IwefabL2iZBZp392hRs=;7REJovmHU1Ew/FllqiFkVg=="
 ---

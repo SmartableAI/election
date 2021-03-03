@@ -1,34 +1,33 @@
 ---
 category: news
-title: "Biden Agenda Faces Difficult Test as Stimulus Measure Heads to Senate"
-excerpt: "The $1.9 trillion pandemic aid bill narrowly passed the House, but now must maneuver through a procedural and political thicket in the Senate."
-publishedDateTime: 2021-02-27T17:49:00Z
-originalUrl: "https://www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.html"
-webUrl: "https://www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.html"
-ampWebUrl: "https://www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.amp.html"
+title: "From confidence to a distraction: Inside Biden's failed push for Neera Tanden"
+excerpt: "Standing onstage in December at the Queen Theater in Wilmington, Delaware, Joe Biden described his freshly nominated pick to run the White House budget office, Neera Tanden, as \"brilliant.\" He cited her hardscrabble upbringing. And he even quoted his father to emphasize her set of values.\n    \n"
+publishedDateTime: 2021-03-03T04:52:41Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WZfv52PUgPU/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WZfv52PUgPU/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/neera-tanden-failed-push/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/neera-tanden-failed-push/index.html"
 type: article
-quality: 135
+quality: 172
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/02/27/us/politics/27dc-stimulus-1/27dc-stimulus-1-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201134328-neera-tanden-biden-economic-team-1201-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -112,22 +111,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "From confidence to a distraction: Inside Biden's failed push for Neera Tanden"
-    excerpt: "Standing onstage in December at the Queen Theater in Wilmington, Delaware, Joe Biden described his freshly nominated pick to run the White House budget office, Neera Tanden, as \"brilliant.\" He cited her hardscrabble upbringing. And he even quoted his father to emphasize her set of values.\n    \n"
-    publishedDateTime: 2021-03-03T04:52:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WZfv52PUgPU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/neera-tanden-failed-push/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/neera-tanden-failed-push/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201201134328-neera-tanden-biden-economic-team-1201-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Fact check: Jim Jordan falsely claims Biden ordered the release of all undocumented immigrants "
     excerpt: "President Joe Biden has already ordered significant changes to US immigration policy. But he has not issued an order that Republican Ohio Rep. Jim Jordan claims he did.\n    \n"
     publishedDateTime: 2021-01-27T19:38:41Z
@@ -159,6 +142,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225141715-01-becerra-nomination-hearing-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden Agenda Faces Difficult Test as Stimulus Measure Heads to Senate"
+    excerpt: "The $1.9 trillion pandemic aid bill narrowly passed the House, but now must maneuver through a procedural and political thicket in the Senate."
+    publishedDateTime: 2021-02-27T17:49:00Z
+    webUrl: "https://www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/us/politics/stimulus-biden-senate-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/27/us/politics/27dc-stimulus-1/27dc-stimulus-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Biden Drops Tanden Nomination Amid Bipartisan Opposition"
     excerpt: "The White House had insisted that it would stand by Neera Tanden as President Biden’s top budget official, but it became clear that she did not have the Senate votes to be confirmed."
@@ -207,6 +206,6 @@ related:
         height: 630
         isCached: true
 
-secured: "/HLaRE5UUnMHSvEExqjKEJb1TIRaMDzb310j0IrjCXmV68PbHyY6whN4MKo/gRH2beyl/yRChR3s4ktnMdM6+avClpPf9ebis2p4sBNxqr0I+vtj3aoRikhODmOy1/U3VFepNpOUw2fx9N3/20+9SBHjJiMO2/OSRzGdMZPI45VVpq8RHpTNmyQenkL4tKsg3QYijOxHE6p8rFO8xublVbQupB9EsvFfS8+m77IEKRecFaXYnXdPE5Mf6wHT+sZOjz4D5xdLNiQAsNiozQ3Rnr+DbZtLroWMlqCjG13H9fDwGNJlAiPPWhm7vcPlHcdi4wZGLxmb5vLyJJyzvBUMzyjMCNasGqAZVwTWtfH8Ias7JOS3Eqx358GzkUCnntqAxlGbVYL5x3lSYJThOCPLdof9p1etRZnOd7eptn5He4PiMpR8r1DzjkZX/w5oBWegNXILGL17BPYKc43Gq36CDxHNHRqqqPLrniMrb3eipP/2eFfUxEot3nP4KpMsqBTc3KgohpF2qMxFsBiY+neTqA==;U7PYJFvplCWlWUUvMYtlxQ=="
+secured: "HTIkKEwcHK2658tm+oOYxxNxQHOSVwmbqhvXydAwnGzmI6rHgh0N/Gq65rMXmvIjhiSlL9mcuK4wvWTVknJyHRcY1WZR8MNFw4wRZhXpjRD7elJM9kFk6hWbVRWS/vk1ecm/wWE00d7n5q9QaecGmWCsA2+0brjwQBxupsbqclDfA9MAAgTPyOwC8eaV317zgV65X8aK+xxndr2lvzyqpDdMSrrr6vCBzAuqG1F415I9l9HgF68JiH35kDATdq+qt6nUK5l6n8BaMg5T+H2ITymXoSmrd00or/SU+NVmuKsTk0qpw2VZQ/nMmOm+G1r/g3jdobicrgsker1NqLhGEcFhPcCXxHajvFfWo1ND204=;cB643CcqwQMC1pgExzm6xg=="
 ---
 

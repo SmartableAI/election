@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Biden plan to distribute virus aid irks some governors"
-excerpt: "The Biden administration’s plan to funnel more coronavirus aid into states with greater unemployment has irked governors with lower jobless rates, even though many have economies that weren’t hit as h"
-publishedDateTime: 2021-03-02T19:52:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-plan-to-distribute-virus-aid-irks-some-governors/2021/03/02/c7d4bf6e-7b90-11eb-8c5e-32e47b42b51b_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-plan-to-distribute-virus-aid-irks-some-governors/2021/03/02/c7d4bf6e-7b90-11eb-8c5e-32e47b42b51b_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-plan-to-distribute-virus-aid-irks-some-governors/2021/03/02/c7d4bf6e-7b90-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-plan-to-distribute-virus-aid-irks-some-governors/2021/03/02/c7d4bf6e-7b90-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+excerpt: "The Biden administration's plan to funnel more coronavirus aid into states with greater unemployment has irked governors with lower jobless rates, even though many have economies that weren't hit as hard by the pandemic."
+publishedDateTime: 2021-03-03T01:59:00Z
+originalUrl: "https://www.businessinsider.com/biden-plan-to-distribute-virus-aid-irks-some-governors-2021-3"
+webUrl: "https://www.businessinsider.com/biden-plan-to-distribute-virus-aid-irks-some-governors-2021-3"
+ampWebUrl: "https://www.businessinsider.com/biden-plan-to-distribute-virus-aid-irks-some-governors-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plan-to-distribute-virus-aid-irks-some-governors-2021-3?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Biden to visit storm-ravaged Texas Friday"
@@ -428,6 +422,6 @@ related:
       domain: businessinsider.com
     quality: 99
 
-secured: "WT7FQjM3ItY5AaNFJQxyrk9bJbCIN1695OGvCbCwWcNhtGcn8Gt4YW6na6iZTGI3ozDtjLCGdNv5YCzKAxPWNe+mhbaw2iY4WXVm2641kp9anebHROK+Xi8i7MEu+RGR8697Ebco9wM76pAxp7YgoMoA1WHTLNze49mpZp8xahK7QFZVhwbvnzpqZFW5FZZJYST4AlHThuiI3Tv8Cp6FSGIbAYbSm9SrnCGLFVnrMRacStS3BwkidJfNtBzv+Iw4TpUDZg1sxYNbGqy7KV2bO4DbaMzRTVskNijvGxV02a4HkcnRKVJV5yDuh3dz6bblaIjBBaCROBjHyQ3QYQ9P8JumvUlTqpKzVGexXIm5Tgw=;eUeBpI81Xo0AaiaiAY2WBg=="
+secured: "KaqXh+Ryg/u7mMOaK5CSFSDMRzp6ciP9oIVq7Whd+J49/XCbWso19KfrpbmxtZtuUK3ee64CQBhvhNLq8aHs+dATNC5Q94DTBb99B1EUBdL+SQQ3jheCqJTtZqfLPDwT2dD95WnDX6735rGW02lfy/D79gZ3xHIBd9O5ADyi8XRV4sWPF0sCZLa6nVvv25Enx6shp5EPB+mxpxk2gqRIdFkPRrcO2ypUCCEoxWhg9jlW96g/WUnQ+OEcMXPh+Bo2JdwkLLKFnYgDxkdzYJfS5/RmCqCmNxgPbFXMyqueHs73kxuXwL4GT1GHSeLtWehuAouWLwiT2FzjaEQ19mdfsnOEriIIco2mPhuqzqFFMyI=;9lVdZT3LexBoPVQaQxJp8g=="
 ---
 

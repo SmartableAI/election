@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Trump’s Republican Hit List at CPAC Is a Warning Shot to His Party"
+    excerpt: "In his first public appearance since leaving office, Donald J. Trump also planned to assert that there were no divisions in his party, according to excerpts of his speech, even as he plotted vindication against his enemies."
+    publishedDateTime: 2021-03-03T05:16:00Z
+    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-republicans.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-republicans.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/trump-cpac-republicans.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-trump0/28cpac-trump0-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Cheney and McCarthy At Odds Over Trump Role in Republican Party"
     excerpt: "Representative Kevin McCarthy of California and Representative Liz Cheney of Wyoming disagreed on whether former President Donald J. Trump should speak at a conservative event this week."
     publishedDateTime: 2021-02-24T19:51:00Z

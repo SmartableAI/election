@@ -141,22 +141,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden plan to distribute virus aid irks some governors"
-    excerpt: "The Biden administration’s plan to funnel more coronavirus aid into states with greater unemployment has irked governors with lower jobless rates, even though many have economies that weren’t hit as h"
-    publishedDateTime: 2021-03-02T19:52:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-plan-to-distribute-virus-aid-irks-some-governors/2021/03/02/c7d4bf6e-7b90-11eb-8c5e-32e47b42b51b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-plan-to-distribute-virus-aid-irks-some-governors/2021/03/02/c7d4bf6e-7b90-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-plan-to-distribute-virus-aid-irks-some-governors/2021/03/02/c7d4bf6e-7b90-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Biden urges Senate Dems to rally behind $1.9T virus bill"
     excerpt: "President Joe Biden urged Senate Democrats on Tuesday to rally behind a $1.9 trillion COVID-relief bill and stood by his proposed $1,400 payments to individuals, eve"
     publishedDateTime: 2021-03-03T02:11:00Z
@@ -386,6 +370,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden plan to distribute virus aid irks some governors"
+    excerpt: "The Biden administration's plan to funnel more coronavirus aid into states with greater unemployment has irked governors with lower jobless rates, even though many have economies that weren't hit as hard by the pandemic."
+    publishedDateTime: 2021-03-03T01:59:00Z
+    webUrl: "https://www.businessinsider.com/biden-plan-to-distribute-virus-aid-irks-some-governors-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-plan-to-distribute-virus-aid-irks-some-governors-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-plan-to-distribute-virus-aid-irks-some-governors-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden to prioritize vaccinating school teachers"
     excerpt: "President Joe Biden is directing states to prioritize vaccinating all teachers during the month of March, and announced that the federal government will help in the effort through its partnership with retail pharmacies."
     publishedDateTime: 2021-03-02T22:49:00Z

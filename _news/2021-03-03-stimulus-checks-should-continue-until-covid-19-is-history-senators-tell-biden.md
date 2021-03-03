@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden health pick taking heat for support of abortion rights"
+    excerpt: "President Joe Biden’s pick for health secretary is taking heat for his defense of abortion rights from a tag team of Republicans looking to define him — and the new administration — as out of the main"
+    publishedDateTime: 2021-03-03T05:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
     excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
     publishedDateTime: 2021-02-24T02:38:00Z

@@ -1,34 +1,26 @@
 ---
 category: news
-title: "Vegas is betting on Trump announcing his 2024 reelection bid during highly-anticipated CPAC speech"
-excerpt: "Trump is expected to use his Florida speech to talk about the future of the Republican Party and the conservative movement."
-publishedDateTime: 2021-02-28T16:36:00Z
-originalUrl: "https://www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2"
-webUrl: "https://www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2"
-ampWebUrl: "https://www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2?amp"
+title: "Trump's Cash Plea Could Complicate GOP Fundraising Efforts"
+excerpt: "Former President Donald Trump called on his supporters to send their contributions directly to his own committees in his first speech since leaving office."
+publishedDateTime: 2021-03-03T05:09:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-03-03/trumps-cash-plea-could-complicate-gop-fundraising-efforts"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-03-03/trumps-cash-plea-could-complicate-gop-fundraising-efforts"
 type: article
-quality: 126
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
-
-images:
-  - url: "https://i.insider.com/603b7de287d37600190d0476?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    isCached: true
 
 related:
   - title: "AP FACT CHECK: Trump clings to his core election falsehoods"
@@ -62,6 +54,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_36ba0ee76f4744d98443ee52fd4c3bbf_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Vegas is betting on Trump announcing his 2024 reelection bid during highly-anticipated CPAC speech"
+    excerpt: "Trump is expected to use his Florida speech to talk about the future of the Republican Party and the conservative movement."
+    publishedDateTime: 2021-02-28T16:36:00Z
+    webUrl: "https://www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/vegas-betting-on-trump-declaring-2024-election-bid-cpac-speech-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 126
+    images:
+      - url: "https://i.insider.com/603b7de287d37600190d0476?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fact Check: Did Trump Family Hold a Capitol Riot Watch Party?"
     excerpt: "A video purportedly showing President Donald Trump and members of his family and administration celebrating the riot at the Capitol on Wednesday by some of his supporters has spread rapidly online. The riot left five people dead,"
@@ -233,16 +241,7 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Trump's Cash Plea Could Complicate GOP Fundraising Efforts"
-    excerpt: "Former President Donald Trump called on his supporters to send their contributions directly to his own committees in his first speech since leaving office."
-    publishedDateTime: 2021-03-03T05:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-03/trumps-cash-plea-could-complicate-gop-fundraising-efforts"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
-secured: "cMc606enjVeeXnvEbPvYUVFrY/eF9wHaYF1lFystvLD/6vK6fjw5K1GeZa7evEcRkOkgfuLjQEREp1BgolotQSFp6I/I1xdUNZt9eWM/5GNuqIU/0B/BZBDNsOvXRKJ0x3JDwUVX0zrAWpwUsJySNS+O4ZRDhaCzsX6f0n5eYWP6IK4HDs9c1vYj5iWk2GcDPNosXUpoAMewQsgeRnQyWB3rRf3MoMgQr0JeA3cwW8QmnWdoH2YrYZByXMiZ7IAQ6ZB/NsICtEcEkE96JYA5r7J0McBdBgwN97HVnt+37mc0dwIVgctvznvOPGn5JbOnft9Ob2+j/7FshDap6hlqyQaFmOxCoYGF5f7smmwNjAiqO+MYd/Gn4/7JPr5DiX1Bjvq0UQoZe35dhJAtTgcuJn5IND7IkT84wsesy4oHnCD+j5LqjLPC9KnA2cNf6VCkiuqhBk6fJ9M5F/LUHfQt/Rt47jTRrif15Hwoj59ZpVEXQo8srwga/I9WAclbb868btJAUa6k7/m2jGd0Oyc03A==;tjgWX+sLKHw5lmPBJqQUWw=="
+secured: "BPYDH3Z5NI1sjSw9ysuEmwU6SRiTmyex40ugC4/3WdsJz8WUPYj8Z03fPRsJ8H40dDFC5O6LyaDkuMH1bslGE9qK6KhPrfDMGrNMq8lwjVM5q2vjgegOElWA4wNb8mtxp3GUuRZaeNtdBZe/FQ48mOqlkqEC3BjHvt9AZ9wrAk1pFFq9We9MdgnTYtwYrNe1F+ZGK6kXmejgPPqLYSC0njt6rZ8Vq9G7qeDg98JRgaVbq1ZRuExgFstxpX2JyBZr8OorJwOGnBAwpjkq41cUKT+hrON6iNPWok+YsH6ab35lie/oFbe/Nhykzuu6CAdEdU9O18zuaY4cpZOzWcdwlXW9AhCwD4GF84dAkO+uC1oZIqx5n3iUEkdNYVbsgrq1Ju+Sl1cRTMiZUwKfyG3pCirDnNCI1Z2xzx5SL+90X8Gx4Y4kMYspvlNvRHWBrhHukvF3NgeBeAFMLuO0vbABXHKvFQbuCqNzh+QKaxxNG/4pjKIPZyWrrl5I3idDMidHlPMFyZgEQVM0JbqdkNsdhA==;N4q43lcPlok3okolNX1M6Q=="
 ---
 

@@ -233,6 +233,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump's Cash Plea Could Complicate GOP Fundraising Efforts"
+    excerpt: "Former President Donald Trump called on his supporters to send their contributions directly to his own committees in his first speech since leaving office."
+    publishedDateTime: 2021-03-03T05:09:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-03/trumps-cash-plea-could-complicate-gop-fundraising-efforts"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "y1Qgt40+zZraknfPdO9PI+NmtdT+sX3nKm+0QTaqYtkrl1EhL2BH2niLtWLC4/CdazZqMLSf8wFnksY5Sry1paGoyOhBOWfpnHGqWaQiDmb9twyYMHmG0yh5oZ7Dw5M/CaBQaV32xbcLjgyvSwNOWgEQ9XSARB84cw3mF6kGs7izBN8qDymeY2db6xcqa5Ph7biAbPZtQ/32uzucPFzmetNGUAjBnKmTlLfeQz+xFFZVRsJI7Zrc1W6YrzSAYZriKf1cnjRB6RiEyT1t36pnB2cLZaDVuEIfBal5j1fhriRFpg0zdzjg2QsuAbNc1+nZMz65oOqPumd9bNr2lvrvtZNJZpOeZaYne/iIoFX7DjMTyzx2U796+FoHQF+HX5bI+Q73Y2uOZ5xZ+/aaVwaZT6O7HUKwOR9qfhGPeiLaRWVuZXmiNXnLVMWg7iwxNZqrMo0NptaBh1I0B+6vcTA6ENdrCp+3uYzEW2Hlt+UmryyHFiGvueQi3S7L+gnZu8tsL1cdPSH6nflO2PRkswMi/Q==;iS0Ewunz5q/MfhFM2MxK3A=="
 ---

@@ -63,19 +63,19 @@ related:
         isCached: true
   - title: "Senate confirms Raimondo as Biden commerce secretary"
     excerpt: "The Senate has voted overwhelmingly to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy’s recovery during and after the coronavir"
-    publishedDateTime: 2021-03-02T22:20:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76208463"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76208463"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76208463"
+    publishedDateTime: 2021-03-03T01:39:00Z
+    webUrl: "https://www.washingtonpost.com/business/senate-confirms-raimondo-as-biden-commerce-secretary/2021/03/02/440ef524-7bc1-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/senate-confirms-raimondo-as-biden-commerce-secretary/2021/03/02/440ef524-7bc1-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/senate-confirms-raimondo-as-biden-commerce-secretary/2021/03/02/440ef524-7bc1-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_ddb641a2762c416386fbe70ab1587352_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden to nominate Rhode Island Governor Gina Raimondo to be commerce secretary"
     excerpt: "President-elect Joe Biden intends to nominate Rhode Island Governor Gina Raimondo to serve as commerce secretary and Boston Mayor Marty Walsh to lead the Labor Department, CBS News confirmed Thursday,"

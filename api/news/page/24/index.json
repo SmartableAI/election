@@ -2,58 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2021-01-24-donald-trump-is-gone-but-his-big-lie-is-a-rallying-call-for-rightwing-extremists.md",
-      "title": "Donald Trump is gone but his big lie is a rallying call for rightwing extremists",
-      "excerpt": "The myth of the ‘stolen election’ – simple and endlessly repeated – is likely to be a rallying call for far-right terrorists",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/99bba16b7535882a7c3c741b8089b0c34f1fc2ce/0_0_4000_2667/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=dc52c78261d8aa66c1bd5b6e412311f9",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/donald-trump-big-lie-american-democracy",
-      "publishedDateTime": "2021-01-24T03:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-24-arizona-republicans-censure-mccain-flake-and-ducey-over-trump-split.md",
       "title": "Arizona Republicans censure McCain, Flake and Ducey over Trump split",
       "excerpt": "Pro-Trump party chair Kelli Ward wins another term but Cindy McCain, widow of John, sees censure as ‘a badge of honor’",
@@ -1366,6 +1314,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.md",
+      "title": "Kamala Harris, Doug Emhoff will stay in Blair House while VP residence undergoes repairs",
+      "excerpt": "This is the house where history will be made. Vice President Kamala Harris will soon be residing on the grounds of the Naval Observatory in northwestern Washington, D.C., in a home occupied by several of her predecessors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs",
+      "originalUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/residence-of-the-Vice-President-1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/real-estate/kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.amp",
+      "publishedDateTime": "2021-01-22T00:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
       ]
     }
   ],

@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Senate votes to confirm Biden pick as commerce secretary"
+    excerpt: "The Senate has voted overwhelmingly to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy’s recovery during and after the coronavir"
+    publishedDateTime: 2021-03-02T20:22:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76209102"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76209102"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76209102"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_ddb641a2762c416386fbe70ab1587352_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "U.S. Senate panel sets hearing for Biden's No. 2 and No. 3 Justice Department picks"
     excerpt: "The U.S. Senate Judiciary Committee on Thursday announced it will hold a confirmation hearing on March 9 for President Joe Biden's nominees to serve in the No. 2 and No. 3 top jobs at the U.S. Justice Department."
     publishedDateTime: 2021-02-26T03:55:00Z
@@ -63,17 +79,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Senate votes to confirm Biden pick as commerce secretary"
-    excerpt: "The Senate voted overwhelmingly Tuesday to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy's recovery during and after the coronavirus pandemic."
-    publishedDateTime: 2021-03-03T01:59:00Z
-    webUrl: "https://www.businessinsider.com/senate-votes-to-confirm-biden-pick-as-commerce-secretary-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/senate-votes-to-confirm-biden-pick-as-commerce-secretary-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-votes-to-confirm-biden-pick-as-commerce-secretary-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Biden revokes Trump orders on ‘anarchist’ cities, restores New York City’s funding"
     excerpt: "President Joe Biden on Wednesday formally revoked a series of presidential orders and memorandum signed by Donald Trump, including one that sought to cut funding from several cities the 45th president deemed “anarchist” havens and another mandating that federal buildings should be designed in a classical aesthetic."
     publishedDateTime: 2021-02-25T12:16:00Z

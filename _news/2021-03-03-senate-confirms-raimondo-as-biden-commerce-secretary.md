@@ -2,21 +2,21 @@
 category: news
 title: "Senate confirms Raimondo as Biden commerce secretary"
 excerpt: "The Senate has voted overwhelmingly to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy’s recovery during and after the coronavir"
-publishedDateTime: 2021-03-02T22:20:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76208463"
-webUrl: "https://abcnews.go.com/Politics/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76208463"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76208463"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76208463"
+publishedDateTime: 2021-03-03T01:39:00Z
+originalUrl: "https://www.washingtonpost.com/business/senate-confirms-raimondo-as-biden-commerce-secretary/2021/03/02/440ef524-7bc1-11eb-8c5e-32e47b42b51b_story.html"
+webUrl: "https://www.washingtonpost.com/business/senate-confirms-raimondo-as-biden-commerce-secretary/2021/03/02/440ef524-7bc1-11eb-8c5e-32e47b42b51b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/senate-confirms-raimondo-as-biden-commerce-secretary/2021/03/02/440ef524-7bc1-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/senate-confirms-raimondo-as-biden-commerce-secretary/2021/03/02/440ef524-7bc1-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_ddb641a2762c416386fbe70ab1587352_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -165,6 +165,6 @@ related:
       domain: bostonglobe.com
     quality: 55
 
-secured: "zCAl0hGxntdWCoYtlwrJ/A6dwSS49xw43VF1TSEPmF/4wY/RBl8FOJ1Y2yDNnPTPp8uHM1hSnkoiwXQ78G2QJtHeaqARW3j4nx0veG3EYDC9eIs5XlSFi5kbxH4H697h/oisf/a0CxRWmKQlBWFalrALmp1ofjn5gjb9jxV8IqVqk7WiZOViZCORtXL3KT9oJCplm7ac2GoQGRzXASbAWiUzxefXrVuGtlAgmEi+IQFGPUqv3roGj7pJnpMY6PrraeLY72/u2xJr3pk94vooWx+ubs8JILxktQNYWf3UbVyuCK12RYcPuAYehhxPjzEIzuWWmmgsQiizxXv+O9OYWFY3va0pNri5JxhL1TFJBE77V8HgXnnUsFnJNaTu1ybzlIFYSjEG+hSl8JPswunvkT54APr0ipf24BkFnk2cwPNexCwQCFPIqvjxiavy+WloJ7IicG3XU5X5QWcbGE/Z5qrbJtw4D5gUoo+4DJiRuYBHsP1EsVxaTlc7Dv7TQ6ULXiCjO8kWUPPLKlefOdEaRQ==;qfKAHGGIWiB9hQ+j71OImw=="
+secured: "oR6uZzQfr6fjNPxzsBgKMoJw98SooIw9QEPmUCvA/qWxYrZhuzhQGduKf71TaZnwDVISh4NpNHtVqLGxP52ec4FqB4m73bZz4qa+sQ1SWg2a2y2NN747LcskajPOlnQdtMejwF/j8f9L+hnn+mM2qeRxWbbQ2Wy7W9i6ZeuNBhRYjrnsYlN6Llgw0udYQe2vi3UhSJ6i64Jfmn0KtGsfONMi1f7tmxjs3NqR1esA3MiUxQPle9nbqR3eoEq3ixXq9YTlF81KTPQaZRJTMfC4vGE566IDpvG1gLxmHZmxH4E6d7FinOHGJ0BvXrVkMIu6gC+VQofYfiztfrZiKXQ6yrLWUeGVSHWkpxK8Ao5oNtk=;gp6YSXarPvMosY6X7d4QVw=="
 ---
 
