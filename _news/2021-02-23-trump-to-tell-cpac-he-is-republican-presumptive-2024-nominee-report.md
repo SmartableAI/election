@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republica
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/22/trump-cpac-republican-presumptive-2024-nominee"
 type: article
 quality: 125
-heat: 305
+heat: 285
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/09/03/NPPP/d26f6e2d-4671-4c8e-99ad-4e9347c67ad3-Trump_Speech_86105.jpg-dcd1.JPG?auto=webp&crop=5471,3078,x0,y182&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Donald Trump hints at run for president in 2024 – video"
-    excerpt: "Former US president Donald Trump has hinted at a possible run for president again in 2024 during a speech at the Conservative Political Action Conference [CPAC] in Florida."
-    publishedDateTime: 2021-03-01T00:44:00Z
-    webUrl: "https://www.theguardian.com/global/video/2021/mar/01/donald-trump-hints-at-run-for-president-in-2024-video?share=facebook"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/273b47d4d8dd0d749a4bb4de4da0b1ee1d57e9bd/0_139_3374_2025/master/3374.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a543c13dc8e7dd495bd45a3051168af"
-        width: 1200
-        height: 630
         isCached: true
   - title: "QAnon followers read the tea leaves in Donald Trump's CPAC speech"
     excerpt: "The QAnon netherworld was abuzz with excitement after former President Donald Trump spoke Sunday at the Conservative Political Action Conference in Orlando, Florida. The movement devoted to a variety of conspiracy theories is spreading the notion that Trump will be reinstated as president on March 4 — this Thursday."

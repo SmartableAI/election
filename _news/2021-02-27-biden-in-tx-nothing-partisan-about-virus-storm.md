@@ -159,10 +159,10 @@ related:
         isCached: true
   - title: "Biden withdraws Tanden's nomination to be White House budget chief"
     excerpt: "President Joe Biden on Tuesday withdrew the nomination of Neera Tanden to be his budget director after she ran into stiff opposition over tweets that upset lawmakers, in the first Capitol Hill rebuff of one of his nominees."
-    publishedDateTime: 2021-03-03T01:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idINKCN2AU2TL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN2AU2TL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN2AU2TL"
+    publishedDateTime: 2021-03-03T05:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKCN2AU2TL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AU2TL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AU2TL"
     type: article
     provider:
       name: Reuters

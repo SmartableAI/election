@@ -2,11 +2,11 @@
 category: news
 title: "Biden withdraws Tanden's nomination to be White House budget chief"
 excerpt: "President Joe Biden on Tuesday withdrew the nomination of Neera Tanden to be his budget director after she ran into stiff opposition over tweets that upset lawmakers, in the first Capitol Hill rebuff of one of his nominees."
-publishedDateTime: 2021-03-03T01:48:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-omb-idINKCN2AU2TL"
-webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idINKCN2AU2TL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN2AU2TL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN2AU2TL"
+publishedDateTime: 2021-03-03T05:23:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKCN2AU2TL"
+webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKCN2AU2TL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AU2TL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AU2TL"
 type: article
 quality: 125
 heat: -1
@@ -423,6 +423,6 @@ related:
       domain: businessinsider.com
     quality: 99
 
-secured: "TvoyB4n8Czn8T6nvVkHqp7PwnY00PFdWWLtlVPSQXdwhICypW3xrEYJarVy4iOEWTWtdbhMVloUaFyHXO7g6Q/J4f/p5iRGV4YIXH/E9w6RjfZEoW/Tlk6mr8S3XzyWjjaRmQYy9HsdDMt7ELO4LjgBQzaXE1RzSzbLHaY2dotqP2HvjjazQSeYfv+CZfXBxvg6wtpSSUE39N/HVHx2s2ax4+MkF1VUJWZ+nK8qwP25xuQdfwVyivShMfe2HnOdNX3gKZihRwf/3Xaxw+0+F+90FDQ6BRTMdODbcS1mo+wHvh/5JaBTU/SUgN+B5Yo0dzWMpZYvmxicGo8R2CBD8oIqJ0RBsu1vr7TvuePE/AgiDpkrinbCVlVjLUjCyOHveCPwKnUTg8gbIHOvMPQGTHICC1NL4KJqeoXdBoRoUjIBnpSZNoSS42kBi6cYmYtvXlFu5dioD2BR6lIII4dUt6nx7lDBnLCULf0xzYp7FFdVBEkK96M3ycVosCNtqr51FzOHo4kZzYlz1lvCZdrBC6Q==;JH+LUDqueJVYqUZFB3P8Gg=="
+secured: "V6xWijQWeV7/2WCv7/YDl6BPhaOupeohXaAZg9kZ1z2319yRw8rZstNEEMVYjS8e3tD1F6V9rJaVhF+pBX1IGfVhVBgcgbDZa4AifPzxC/75oeQrAjrr3DrCuZ/aLwtY1dJo1kq9J7Q68fHYVsj/Z71nyud0yHGf8ZvGPRsyeTZ1yYjcLVPUmOvl8VvfcrpIrDEPD6AHw17v1ZECSOHpVzbdtapGI+dx9Y5JHDxutCYTjbR4vWEes1HneG8TH/bQJ24baDD1hnPxcIq6ipedtJDf85Sj72umx6sZvqaixFSvZsomWCNhD+EsVYDINPRPFm7lkkDGafgc5lv37Z79/57sgUrqCsdEViELNMSjr/g=;2QMqAse9HSNsNTLvqwshxQ=="
 ---
 

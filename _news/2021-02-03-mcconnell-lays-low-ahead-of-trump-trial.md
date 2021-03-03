@@ -90,6 +90,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "The real post-Trump GOP divide: House vs. Senate"
+    excerpt: "House and Senate Republicans are taking divergent stances toward President Joe Biden, even as they unite in opposition to his coronavirus bill."
+    publishedDateTime: 2021-03-03T10:35:00Z
+    webUrl: "https://www.politico.com/news/2021/03/03/post-trump-gop-divide-house-senate-472858"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/90/50/8fe9532445a8a995c2acab03eb77/210302-donald-trump-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "qMsru4dwnKzus4pdyFieq5IsUjoysVciR1ygjkcfOAiXk1FVGQt+8IWvrEZmQM1bq7+XQraSfn/c9qr8GV5/VCbSy7Yy1ds7Y3Qm03g1wTMY68ZaZN2gGv/Vs8H9+wNyBD7QrUz1PxAKmUuRBETTjS9Ya0S3iZQuxH+q1V8tNIN/WOJbFkBvvq2VQZTZdXCRQUfMYXCeTzIKSVSAnSKKyM96LfbDgS+GCaA2VI7zlLAbf1JmkkJq3Fod8fdThITeMQ0HOpTYJ7og4q/NX3lDUTclVRv5Q3ixufQLZ6ZfJ11laUfkyDDT+lZlFAnkuQC1leZTi4ZDyR/KS3ESgX6/BdQ4BV4RjX6yA0BNlt9Kxuo=;ZkpiV2xUZ+GjAh8MzQPJtw=="
 ---

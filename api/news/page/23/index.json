@@ -2,6 +2,58 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-01-26-twitters-misinformation-problem-is-much-bigger-than-trump-the-crowd-may-help-solve-it.md",
+      "title": "Twitter’s misinformation problem is much bigger than Trump. The crowd may help solve it.",
+      "excerpt": "Twitter's Birdwatch pilot lets selected users write corrections and fact checks on potentially misleading tweets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IA4PZSC7IMI6XILXO5S7FGUVEQ.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/01/25/twitter-birdwatch-misinformation/?outputType=amp",
+      "publishedDateTime": "2021-01-25T19:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-biden-declines-to-tell-chicago-teachers-refusing-to-teach-in-person-to-go-back-to-work.md",
       "title": "Biden declines to tell Chicago teachers refusing to teach in-person to go back to work",
       "excerpt": "President Biden declined to tell Chicago teachers on Monday to return to school following a union vote over the weekend to defy a district order for educators to return to campuses in order to prepare to resume in-person classroom instruction. ",
@@ -1293,63 +1345,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-inside-kamala-harris-historic-first-days.md",
-      "title": "Inside Kamala Harris' historic first days",
-      "excerpt": "(CNN)In the hours after her historic inauguration, Kamala Harris beamed into televisions across the country, delivering her first speech as vice president just steps beyond the sitting relic of ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html",
-      "originalUrl": "https://edition.cnn.com/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210120130215-harris-emhoff-lincoln-memorial-0120-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/24/politics/kamala-harris-vice-president-first-days/index.html",
-      "publishedDateTime": "2021-01-24T03:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
       ]
     }
   ],

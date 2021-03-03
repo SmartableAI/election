@@ -1,34 +1,28 @@
 ---
 category: news
 title: "Senate votes to confirm Biden pick as commerce secretary"
-excerpt: "The Senate has voted overwhelmingly to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy’s recovery during and after the coronavir"
-publishedDateTime: 2021-03-02T20:22:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76209102"
-webUrl: "https://abcnews.go.com/Business/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76209102"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76209102"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-votes-confirm-biden-pick-commerce-secretary-76209102"
+excerpt: "The Senate voted overwhelmingly Tuesday to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy's recovery during and after the coronavirus pandemic."
+publishedDateTime: 2021-03-03T01:59:00Z
+originalUrl: "https://www.businessinsider.com/senate-votes-to-confirm-biden-pick-as-commerce-secretary-2021-3"
+webUrl: "https://www.businessinsider.com/senate-votes-to-confirm-biden-pick-as-commerce-secretary-2021-3"
+ampWebUrl: "https://www.businessinsider.com/senate-votes-to-confirm-biden-pick-as-commerce-secretary-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-votes-to-confirm-biden-pick-as-commerce-secretary-2021-3?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_ddb641a2762c416386fbe70ab1587352_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Anti-Trump conservatives rally to back Vanita Gupta, Biden’s pick for key Justice Dept. post"
@@ -110,6 +104,6 @@ related:
         height: 644
         isCached: true
 
-secured: "AeKKAghnnd9SbOqJsdrZPlYi4FrX/yA0FEbLV+tGQcXM7U5SVZjCm207honBxWwavA4ORG3I8mBxNnvuEVveZrtorbXpT61Mq6XofoS+zAWGSEA7riGh921vWRVfCd7wAEws54/4oGlfERFYWlxkzCzLWMAahzNfzaWZ0ok0Z8624ATFUL4vN2FpT3kI/M1Z1KM8FcCA6Ib6inwWQnrFfKJN6rso5uEzZFHSyoPw+/TcKqJEEBJK53cIsdtOT4tsIWAb+LXPouRUG84knsz3AoARo3E8Y+NjD3a881Hm5WcR07EKsZNcPWHI/oMMQbnzVQJpcAhlosjPDOt7EU8P40dRWF67vBeTTyFzTbctUF4xu5T0v4gW1tenhDXLO+M8mqLpWC7X1SiqyehoAPDQZAWT6i9OyM8nGBCD85oRV9jgtlrxpkHKby5qhj/t6IEpP8HECNLdn+vacq51j1h0eDg4YNeyi2i2D0b9j8A9HAYAdTgiC9b3Bmy/HFIvTFkZiwifXTz0vMtcRqh6OSz4aw==;IEGQQHvl7mOnjOwCch+mng=="
+secured: "XvjbSnUHdRMxRnwZ6DabYCA6HJ3OXR3RdQIVGtmEcL3oONl5U5tAgPOabDbDBcBCTKwTk3EBpF0piNaBCA758yxZ9xGe4D4iHcDn+8nJQ/A18N+7Ku8iAMa4z+FlGgvbVrYyMhszkGDjWyt5R2iCn2JGAKh0U5R/ogR5KZc00ytG76IVBHRGX09+WBkRTDPgYVGL/dn1e2qjjPXcqxW+TIx7f+uZc2YTKZftc/NaWEaCi7Pb2xLaAqYfp0x/44skw9A4ev26B2kdXNDXgTINuMpuNTvgiUYotAzMOhL24J586N7FONCzoEWF1m95vkzQIORH7y5G48GB1W4FQ6M+Zuxb9lRENzAYMMOltTP4+WA=;IqY2b9wC8g2YUz5rQVwasA=="
 ---
 

@@ -1,36 +1,51 @@
 ---
 category: news
-title: "McConnell says the GOP will back Murkowski's reelection despite Trump threat"
-excerpt: "Senate Minority Leader Mitch McConnell committed on Monday that Senate Republicans will support GOP Sen. Lisa Murkowski's reelection bid in 2022 despite former President Donald Trump advocating that the GOP \"get rid of\" the 17 Republicans in Congress who voted against him during his second impeachment.\n"
-publishedDateTime: 2021-03-01T21:46:29Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I-nhc-Lo2LM/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I-nhc-Lo2LM/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html"
+title: "The real post-Trump GOP divide: House vs. Senate"
+excerpt: "House and Senate Republicans are taking divergent stances toward President Joe Biden, even as they unite in opposition to his coronavirus bill."
+publishedDateTime: 2021-03-03T10:35:00Z
+originalUrl: "https://www.politico.com/news/2021/03/03/post-trump-gop-divide-house-senate-472858"
+webUrl: "https://www.politico.com/news/2021/03/03/post-trump-gop-divide-house-senate-472858"
 type: article
-quality: 187
-heat: 287
-published: true
+quality: 115
+heat: -1
+published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/160214125939-mitch-mcconnell-jan-27-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/90/50/8fe9532445a8a995c2acab03eb77/210302-donald-trump-getty-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
+  - title: "McConnell says the GOP will back Murkowski's reelection despite Trump threat"
+    excerpt: "Senate Minority Leader Mitch McConnell committed on Monday that Senate Republicans will support GOP Sen. Lisa Murkowski's reelection bid in 2022 despite former President Donald Trump advocating that the GOP \"get rid of\" the 17 Republicans in Congress who voted against him during his second impeachment.\n"
+    publishedDateTime: 2021-03-01T21:46:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I-nhc-Lo2LM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 187
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160214125939-mitch-mcconnell-jan-27-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict"
     excerpt: "Senate Majority Leader Mitch McConnell has told associates that he thinks President Donald Trump committed impeachable offenses when he incited a deadly mob to attack the US Capitol last week and that he's \"pleased\" Democrats are working to impeach the President, The New York Times reported Tuesday.\n"
     publishedDateTime: 2021-01-12T22:54:21Z
@@ -89,21 +104,7 @@ related:
         width: 1120
         height: 629
         isCached: true
-  - title: "The real post-Trump GOP divide: House vs. Senate"
-    excerpt: "House and Senate Republicans are taking divergent stances toward President Joe Biden, even as they unite in opposition to his coronavirus bill."
-    publishedDateTime: 2021-03-03T10:35:00Z
-    webUrl: "https://www.politico.com/news/2021/03/03/post-trump-gop-divide-house-senate-472858"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/90/50/8fe9532445a8a995c2acab03eb77/210302-donald-trump-getty-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
-secured: "YQ6DNKbeCb5S2XAiU7lNSvAqExkxf6tQSK8A+EEBvORt/zwh0Cuor+v6gnGFP6NXvaM86pkSRDCmvmt063KALMjN5079B3g6p2aXAoJrJRbppkhTPzTlkMSJNWdUswzkwBgFXfdKr2kXzWt1R7cVTvrlJwuqcafTA2Zyk3yhvFJKrPdXZm1fPA71PuF0SGZm8PiML7ADrErTMys3hfbqghHF10DRf3/YwlqdGSQCW1gPuXvnCDQLTGTt7Wu5JnzVdhwZDxnDWAMpGli04eMpw4v1XYuZrtn2KbAqgLgIGQrTvYuwGykjlO12ZwSArUtxbRYuclFMsrT2lD2/AfG2I7ysMD/awYMqhtxIUNarApQ=;R+8/Q0vjpewIyoYEY4bRWQ=="
+secured: "8nevQN7TrK75UKl1xOikFmggcKFEoZRkgVXmqewDIyoB33MRzvHyVnG0IkpxVAXcitug9G9u+JxTmsSJyV+WBZ+2SuzgEHDyNFRuQ1Doft7ZbbzleefoE7ztXSDQurQcL17krnaROQBIT4sG9GJv/SlMkcutpOPt2MbOEGtPazaf4E8fHdzRVbZYXPy3VNXEtPCQJUPi4H9RdxDjLZvg5w02v5Kh1z1RFgowuPYZ8953K/lnXgoOOgXfPIyv8RkgFDIEFz59LcmU8vuvUzLxbtVZyekDbRoP5C/5aBBDBwssoKXUYxSpUME4MEu9id6dxTalsH0p7c7Asa0atAg7aDRSSKvkr1Y17zwpN6MBwq0=;QBXZ8SW0isp38fJo79V0fg=="
 ---
 

@@ -29,70 +29,47 @@ images:
     isCached: true
 
 related:
-  - title: "Alex Jones seen on leaked video saying he's 'sick' of Donald Trump"
-    excerpt: "Prominent conspiracy theorist and far-right media personality Alex Jones is seen in a newly-revealed video complaining about former President Trump and exclaiming that he wished he had never met him."
-    publishedDateTime: 2021-03-02T20:04:00Z
-    webUrl: "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump"
-    ampWebUrl: "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/jones_alex_trump_donald030221.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Video Shows Alex Jones Saying He's 'Sick' of Donald Trump and Wishes He Never Met Him"
-    excerpt: "Infowars host Alex Jones can be heard saying that he is \"sick\" of former President Donald Trump in a newly unearthed video. Jones made the remarks while filming an interview for the documentary You Can't Watch This in January 2019."
-    publishedDateTime: 2021-03-02T23:16:00Z
-    webUrl: "https://www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310"
-    ampWebUrl: "https://www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1746760/alex-jones-donald-trump-leaked-video.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "FBI focuses on video of Capitol Police officer being sprayed with chemicals before he died in pro-Trump riot"
-    excerpt: "The video could offer investigators a path to holding someone accountable in connection with Officer Brian Sicknick’s death."
-    publishedDateTime: 2021-02-27T00:47:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
+  - title: "Trump endorses SC’s Tim Scott in 2022 Senate reelection bid"
+    excerpt: "Former President Donald Trump endorsed U.S. Sen. Tim Scott’s 2022 reelection bid Tuesday, continuing to make clear his intent to remain a dominant force in Republican Party politics. Trump issued a statement through his Save America PAC,"
+    publishedDateTime: 2021-03-03T00:52:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 106
+    quality: 140
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5JFKUDGJEI6XOVYOB7YO2OXQU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump at CPAC called out his GOP critics and again claimed he won the 2020 election, showing he's still determined to undermine US democracy"
-    excerpt: "Former President Donald Trump's false claim that the 2020 election was stolen from him was at the heart of his Sunday-night speech at CPAC."
-    publishedDateTime: 2021-03-02T14:36:00Z
-    webUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3?amp"
+  - title: "Donald Trump hints at run for president in 2024 – video"
+    excerpt: "Former US president Donald Trump has hinted at a possible run for president again in 2024 during a speech at the Conservative Political Action Conference [CPAC] in Florida."
+    publishedDateTime: 2021-03-01T00:44:00Z
+    webUrl: "https://www.theguardian.com/global/video/2021/mar/01/donald-trump-hints-at-run-for-president-in-2024-video?share=facebook"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 105
     images:
-      - url: "https://i.insider.com/603cc94387d37600190d0564?width=1200&format=jpeg"
+      - url: "https://i.guim.co.uk/img/media/273b47d4d8dd0d749a4bb4de4da0b1ee1d57e9bd/0_139_3374_2025/master/3374.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a543c13dc8e7dd495bd45a3051168af"
         width: 1200
-        height: 600
+        height: 630
         isCached: true
+  - title: "Trump Endorses Kansas Sen. Moran; Primary Fight Less Likely"
+    excerpt: "Former President Donald Trump has endorsed Kansas Sen. Jerry Moran for reelection in 2022, early backing that makes it unlikely the two-term Republican will face a serious challenge in the GOP primary."
+    publishedDateTime: 2021-02-26T16:55:00Z
+    webUrl: "https://www.usnews.com/news/best-states/kansas/articles/2021-02-26/trump-endorses-kansas-sen-moran-primary-fight-less-likely"
+    ampWebUrl: "https://www.usnews.com/news/best-states/kansas/articles/2021-02-26/trump-endorses-kansas-sen-moran-primary-fight-less-likely?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/best-states/kansas/articles/2021-02-26/trump-endorses-kansas-sen-moran-primary-fight-less-likely?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "vEDCxyZ8E7CUxrUIvHWgvryRKYIqnmUz7pWN5PBBLYxKpc7bTOc6ci3Jl0gCFJxrYzFWhJWzzRZxVZbtFDJjfwBNw8q8lrwB1CASuBK+kJucZoGbAL+EIIOW5BxnZt1UTZxsFA6VuzAxUWjJDqzCKNMVMvnNNX0MK85cF/kfgz+oO1twdk9TgUROkfQhvda6KPA0qDVc+OWq9KdqK1+1okU0w4MtG1ZRzcvfDFvPzkmH8qNEWhWyWKIpGiiKY/8LkhOTkRVn/HBpe3U4oCVZ8fxwyh+pig3Mh+LxFusig0uKJ0sEqTGoi45+DnqGJKX2FyiAXUVtDVF7muSHMHhqgynK5H5och7eAnaZokfxayHG5wskOwXeaCUFg6PRNNJCaZ+qK5pV7Tfqoh70c1P3jK2Bf3rWNcVN7rYw3fEr9Mr7l7Pu11J+Jq5N4CdpX2IjgpMl2KbiAlWfmIj5pgJ5wmsgx+9mx06PaYqURHGLB3MmIv9kIW0lj58YMZrMrArMHxVKyP576ISamSSDMkvIew==;a1AFSKYGw0/MXFMtnRqOPQ=="
 ---

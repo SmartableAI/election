@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden urges patience on Covid as Republican governors go rogue on reopenings"
+    excerpt: "President Joe Biden is barreling into his first science-vs.-politics showdown with powerful Southern Republican governors, one that could define the outcome of the race to vaccinate enough Americans before variants take hold.\n    \n"
+    publishedDateTime: 2021-03-03T10:56:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NhXx8iCgwJ0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/president-joe-biden-coronavirus-texas-donald-trump-virus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/president-joe-biden-coronavirus-texas-donald-trump-virus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302162802-01-biden-pandemic-0302-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Refugees are being removed from flights to the US as they await Biden's signature"
     excerpt: "Hundreds of refugees who had been approved -- and booked -- to come to the United States are being taken off flights, according to resettlement agencies who work directly with refugees.\n    \n"
     publishedDateTime: 2021-03-02T00:43:07Z
