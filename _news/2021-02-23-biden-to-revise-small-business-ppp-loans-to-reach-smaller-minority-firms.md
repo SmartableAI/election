@@ -175,6 +175,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden withdraws Tanden's nomination to be White House budget chief"
+    excerpt: "President Joe Biden on Tuesday withdrew the nomination of Neera Tanden to be his budget director after she ran into stiff opposition over tweets that upset lawmakers, in the first Capitol Hill rebuff of one of his nominees."
+    publishedDateTime: 2021-03-03T01:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idINKCN2AU2TL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN2AU2TL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN2AU2TL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553524481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH211LT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden to declare major disaster in Texas as millions hit by water shortages"
     excerpt: "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages"
     publishedDateTime: 2021-02-19T20:19:00Z

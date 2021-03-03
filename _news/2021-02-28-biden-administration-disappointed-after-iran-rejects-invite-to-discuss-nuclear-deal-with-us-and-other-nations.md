@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration unveils raft of sanctions on Russia over Navalny poisoning and imprisonment"
+    excerpt: "The Biden administration has slapped sanctions on seven Russian officials in response to the poisoning and imprisonment of opposition leader Alexey Navalny.\n    \n"
+    publishedDateTime: 2021-03-03T02:54:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b3p19VbY8Io/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/biden-russia-sanctions-alexey-navalny/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/biden-russia-sanctions-alexey-navalny/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221132025-01-alexey-navalny-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "OppoKxRXtchlN6dd0OAhxJGlZm0cP3xhZw28y+p9Oa5str61tBq0c8Ya+r1Gxj5hXli7un0OMU18WSULnUugUS5u/AqqtwOAmbpdcwzVsmXdLd3MWdcAJvNGiv3fRV/cJeubte/0bZlxGIAx6HzEqnMoYQo0veJVEosjOeqFzFdH6SnMT3d7/vCZnIumX+KIINpJkUuXXF/sM6iuvdHkhwJ5d91e8ZHs5PXg5W3q68YCCnV7/9kOb5nHLdYFHu9LlX7FHNmzbO3TbpkF3RGfVx1wavWR5O9C1v4xTJnQjgeBVl30VXRXW75ulqS30JJR3NuN2teKCTXMopvymWxluIRv3oim4xUWfMyCnILrvXs=;ozEvRk5l9/sOwC4NMfvvzg=="
 ---

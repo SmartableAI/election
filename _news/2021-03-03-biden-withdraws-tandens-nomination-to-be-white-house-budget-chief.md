@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Lawmakers plan to meet with Biden Wednesday on supply chain-source"
-excerpt: "A bipartisan group of lawmakers plans to meet with U.S. President Joe Biden on Wednesday to discuss supply chain issues, including semiconductor chips, a congressional source said on Tuesday."
-publishedDateTime: 2021-02-23T18:33:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-meeting-idUSW1N2HK04Q"
-webUrl: "https://www.reuters.com/article/usa-biden-meeting-idUSW1N2HK04Q"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HK04Q"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HK04Q"
+title: "Biden withdraws Tanden's nomination to be White House budget chief"
+excerpt: "President Joe Biden on Tuesday withdrew the nomination of Neera Tanden to be his budget director after she ran into stiff opposition over tweets that upset lawmakers, in the first Capitol Hill rebuff of one of his nominees."
+publishedDateTime: 2021-03-03T01:48:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-omb-idINKCN2AU2TL"
+webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idINKCN2AU2TL"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN2AU2TL"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN2AU2TL"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
@@ -23,6 +23,12 @@ provider:
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553524481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH211LT"
+    width: 817
+    height: 545
+    isCached: true
 
 related:
   - title: "Biden to visit storm-ravaged Texas Friday"
@@ -168,22 +174,6 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_ef64a54f85974b1c8cf4c3fc44fe0639_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden withdraws Tanden's nomination to be White House budget chief"
-    excerpt: "President Joe Biden on Tuesday withdrew the nomination of Neera Tanden to be his budget director after she ran into stiff opposition over tweets that upset lawmakers, in the first Capitol Hill rebuff of one of his nominees."
-    publishedDateTime: 2021-03-03T01:48:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idINKCN2AU2TL"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN2AU2TL"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN2AU2TL"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553524481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH211LT"
-        width: 817
-        height: 545
         isCached: true
   - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
     excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."
@@ -343,6 +333,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Lawmakers plan to meet with Biden Wednesday on supply chain-source"
+    excerpt: "A bipartisan group of lawmakers plans to meet with U.S. President Joe Biden on Wednesday to discuss supply chain issues, including semiconductor chips, a congressional source said on Tuesday."
+    publishedDateTime: 2021-02-23T18:33:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-meeting-idUSW1N2HK04Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2HK04Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2HK04Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Vilsack sworn in as Biden's agriculture secretary"
     excerpt: "One day after the Senate confirmed Tom Vilsack as agriculture secretary, the former Iowa governor has been sworn in to head the department for a second time. (Feb. 25)"
     publishedDateTime: 2021-02-25T00:34:00Z
@@ -427,6 +428,6 @@ related:
       domain: businessinsider.com
     quality: 99
 
-secured: "C6PeO15v4gaE7yfgWweseQC+qZtMr14ah0sMhH5XoPskhB5qtTu84zr7fPuVk9IWn5QFba9EOGULXlwKjVFgGfQaYlZVkl/v2id5PgOxjpkejzLXpbozVeO4/wuCMUwkJV7gSxscP529laX3ik4xjGZEGRDuXTUoyjkdGaZindyiBrqXAAqG1OfvsyAkQ0W6t5QqrjvN05oajIF50iuGvLGhEaFRQa10BCs5VG+z3gsCwi4w/i/cdN77XXBNpehhXzx7ol4xfWyRU4RZuNeCRI0N78g2u8nx79VBYZrFWFhAoFGcvQKOtV8Tq5MpeoVQhgLRZ2BXWZShihmTR2uAPrNAmhpaGA9BerK4GXPtI0s=;BN4hb9aOWCQuImHQ2sk70A=="
+secured: "JCYAteJ483goYLCsGJncw9oHAfUn5WQdVn98lalm2pmL09TjgsoW83BfYPFSGy2XxV8+J7VFvybizSN5iY13wB3/vXjndIlxxZjBVZdomeCkkbVPTRpX4EUQdA75851/T8ubwhgSfjVQNMTnndJWVCLD/WLBzDOWdZWy0ALHVyjPQJFMLeukbfzg7DX8mrzpcSzVPZHIxN3v4IZJ/s734+9ut75DLefCFSkflc6DNR7Vbs2Fo2o/oEtmNxfbRbT2MR0bzQqoI27xNLZDaBK5zXVuyZL7UPx6+k3wgj2EtI+VBs6S4aR4Q4G1/3UzyADd1uurz2vWfY8uVYKgDiBwDtvXni972mLcY25koPWpYHU=;xIisL32YyEzEzA8vnm7Utw=="
 ---
 

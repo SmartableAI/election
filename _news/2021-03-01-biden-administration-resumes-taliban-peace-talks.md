@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/biden-taliban-peace-talk
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/biden-taliban-peace-talks/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
       name: CNN
       domain: cnn.com
     quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221132025-01-alexey-navalny-file-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration unveils raft of sanctions on Russia over Navalny poisoning and imprisonment"
+    excerpt: "The Biden administration has slapped sanctions on seven Russian officials in response to the poisoning and imprisonment of opposition leader Alexey Navalny.\n    \n"
+    publishedDateTime: 2021-03-03T02:54:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b3p19VbY8Io/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/biden-russia-sanctions-alexey-navalny/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/biden-russia-sanctions-alexey-navalny/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221132025-01-alexey-navalny-file-2019-super-tease.jpg"
         width: 1100

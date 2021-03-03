@@ -173,6 +173,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden withdraws Tanden's nomination to be White House budget chief"
+    excerpt: "President Joe Biden on Tuesday withdrew the nomination of Neera Tanden to be his budget director after she ran into stiff opposition over tweets that upset lawmakers, in the first Capitol Hill rebuff of one of his nominees."
+    publishedDateTime: 2021-03-03T01:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idINKCN2AU2TL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN2AU2TL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN2AU2TL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553524481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH211LT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
     excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."
     publishedDateTime: 2021-02-22T18:32:00Z

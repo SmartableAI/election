@@ -957,6 +957,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Kamala Harris silent on Cuomo sexual harassment scandal as ex-Biden campaign aide speaks up"
+    excerpt: "Vice President Kamala Harris, who has been a champion of the #MeToo movement, isn’t saying anything about the increasing number of women accusing New York Gov. Andrew Cuomo of sexual harassment."
+    publishedDateTime: 2021-03-02T00:00:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/2/kamala-harris-silent-andrew-cuomo-scandal-anna-ruc/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/2/kamala-harris-silent-andrew-cuomo-scandal-anna-ruc/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/2/kamala-harris-silent-andrew-cuomo-scandal-anna-ruc/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 80
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/02/Biden_67808.jpg-9c7f2_c0-224-5387-3366_s1200x700.jpg?ddbb62ee2f04d549ee54ae79e4c3270b2873a3b3"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "The Kamala Harris-Joe Manchin dust-up explained - and why it matters to the Biden administration"
     excerpt: "Vice President Kamala Harris' media appearances in West Virginia didn't go over well with the state's longtime moderate senator, Joe Manchin."
     publishedDateTime: 2021-02-04T03:29:00Z

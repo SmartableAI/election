@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden says administration will 'probably' mail out millions of masks soon"
-excerpt: "President Joe Biden said Tuesday the White House will \"probably\" move to send face masks directly to Americans as the country continues to grapple with the coronavirus pandemic. It's a plan originally proposed by health officials during the Trump administration but was blocked by the former President.\n"
-publishedDateTime: 2021-02-23T20:39:18Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONiUqXYU7rQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONiUqXYU7rQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
+title: "Biden administration unveils raft of sanctions on Russia over Navalny poisoning and imprisonment"
+excerpt: "The Biden administration has slapped sanctions on seven Russian officials in response to the poisoning and imprisonment of opposition leader Alexey Navalny.\n    \n"
+publishedDateTime: 2021-03-03T02:54:51Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b3p19VbY8Io/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b3p19VbY8Io/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/biden-russia-sanctions-alexey-navalny/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/biden-russia-sanctions-alexey-navalny/index.html"
 type: article
-quality: 174
+quality: 162
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221115959-anthony-fauci-mask-210121-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221132025-01-alexey-navalny-file-2019-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180823092036-zalmay-khalilzad-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says administration will 'probably' mail out millions of masks soon"
+    excerpt: "President Joe Biden said Tuesday the White House will \"probably\" move to send face masks directly to Americans as the country continues to grapple with the coronavirus pandemic. It's a plan originally proposed by health officials during the Trump administration but was blocked by the former President.\n"
+    publishedDateTime: 2021-02-23T20:39:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONiUqXYU7rQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221115959-anthony-fauci-mask-210121-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden administration unveils raft of sanctions on Russia over Navalny poisoning and imprisonment"
-    excerpt: "The Biden administration has slapped sanctions on seven Russian officials in response to the poisoning and imprisonment of opposition leader Alexey Navalny.\n    \n"
-    publishedDateTime: 2021-03-03T02:54:51Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b3p19VbY8Io/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/02/politics/biden-russia-sanctions-alexey-navalny/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/biden-russia-sanctions-alexey-navalny/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 162
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221132025-01-alexey-navalny-file-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration disappointed after Iran rejects invite to discuss nuclear deal with US and other nations "
     excerpt: "The Biden administration is disappointed after Iran rejected an offer by the European Union to partake in nuclear talks with the US and the other signatories of the nuclear deal on Sunday, but said they remain open to diplomacy with Iran.\n    \n"
     publishedDateTime: 2021-02-28T23:04:30Z
@@ -144,6 +144,6 @@ related:
         height: 619
         isCached: true
 
-secured: "AG4K0KR/SusnrLqHkQjBzGLoDZ+ajPMZPUCBhLP3WXmw6pLtaCJFF+G2TVg4Bf29q/4uHEureUJjmCg8oLCJK440XJBkignMDIwPt8Ww0uC3x655wMvxb8duvbfCxGIamZ3CTyX1gjBe31vyGRiWjYanolDBqdJ/MycHPcktx0zLO4SM6UneRFxb5zHsRN5u9CICU4AThkOEhFISMu1i6S/tUd3Wbogbyz3eEShRFd9KsjXRHr1Wh1rsRnHJ7EN01dqM6LQuFJc2XNFTVBruiWD5LQZKDbYnyAqgIKpAVMDhY7wGsSWhsLC1/3ySt8IusHnTxpGQ+ipWM/pJc5A3YLEis0HS9Q0bmwS6BXmoArU=;Wym7zIkSSZSZ8xoXGq9iMg=="
+secured: "U5UhyfVibr/L0Ne/rwev4tV6/0QS1TV2FLbn0kvZLJTXpTo6yqTaTe7mKMhBd8+T4mTpZ1ExdH2rN4HMAsZmEZixyfCr6jd32AT8fmcbR0IhWkOTTNUuBbZ+5wk+VQxYa8vWfHFd0DEoxV5tXs6H0Y7/L3FjGGzZyZZPgvdzKjtFDyIXDUv4jK/YrOf831Sb4epOSTit53xSfg3Q++zMN7iwwn9LqKhKF25OyPmDdyldLIgs0du1SjHN05ttnMLhJnRoVsMM9Z5ssdT/q3bdzyBvN++HHYo3EOdACLToYzb97VzkYkypbOo+pPthsxU00s3/hfmC8ofJR5qZdXXBJaJVmj5DAlpZ/mYyqUCcjG8=;AvCFhxD3BmW8xYVwKzrUjA=="
 ---
 

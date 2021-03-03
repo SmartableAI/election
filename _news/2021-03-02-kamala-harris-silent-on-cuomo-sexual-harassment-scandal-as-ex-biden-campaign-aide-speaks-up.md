@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Biden revokes terrorist designation for Yemen's Houthis"
-excerpt: "President Joe Biden’s administration is moving to revoke the designation of Yemen’s Houthis as a terrorist group, citing the need to mitigate one of the world’s worst humanitarian disasters"
-publishedDateTime: 2021-02-06T02:04:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
+title: "Kamala Harris silent on Cuomo sexual harassment scandal as ex-Biden campaign aide speaks up"
+excerpt: "Vice President Kamala Harris, who has been a champion of the #MeToo movement, isn’t saying anything about the increasing number of women accusing New York Gov. Andrew Cuomo of sexual harassment."
+publishedDateTime: 2021-03-02T00:00:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/mar/2/kamala-harris-silent-andrew-cuomo-scandal-anna-ruc/"
+webUrl: "https://www.washingtontimes.com/news/2021/mar/2/kamala-harris-silent-andrew-cuomo-scandal-anna-ruc/"
+ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/2/kamala-harris-silent-andrew-cuomo-scandal-anna-ruc/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/2/kamala-harris-silent-andrew-cuomo-scandal-anna-ruc/"
 type: article
-quality: 125
+quality: 80
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_37b6acc1052844c7ba525490a12fa156_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/02/Biden_67808.jpg-9c7f2_c0-224-5387-3366_s1200x700.jpg?ddbb62ee2f04d549ee54ae79e4c3270b2873a3b3"
+    width: 1200
+    height: 700
     isCached: true
 
 related:
@@ -414,6 +410,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/6811ad30035b29631a76bf3087a6b7653b35f39a/0_24_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=04bdc94c39390add53a64b6178e180bf"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden revokes terrorist designation for Yemen's Houthis"
+    excerpt: "President Joe Biden’s administration is moving to revoke the designation of Yemen’s Houthis as a terrorist group, citing the need to mitigate one of the world’s worst humanitarian disasters"
+    publishedDateTime: 2021-02-06T02:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-revokes-terrorist-designation-yemens-houthis-75719656"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_37b6acc1052844c7ba525490a12fa156_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "How President Biden can hit a home run"
     excerpt: "It’s time for President Biden to step up to the plate and seize every opportunity to build consensus and mend the ill will that divides us."
@@ -944,22 +956,6 @@ related:
       - url: "https://i.insider.com/60133e001d2df20018b717a3?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Kamala Harris silent on Cuomo sexual harassment scandal as ex-Biden campaign aide speaks up"
-    excerpt: "Vice President Kamala Harris, who has been a champion of the #MeToo movement, isn’t saying anything about the increasing number of women accusing New York Gov. Andrew Cuomo of sexual harassment."
-    publishedDateTime: 2021-03-02T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/mar/2/kamala-harris-silent-andrew-cuomo-scandal-anna-ruc/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/2/kamala-harris-silent-andrew-cuomo-scandal-anna-ruc/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/2/kamala-harris-silent-andrew-cuomo-scandal-anna-ruc/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 80
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/02/Biden_67808.jpg-9c7f2_c0-224-5387-3366_s1200x700.jpg?ddbb62ee2f04d549ee54ae79e4c3270b2873a3b3"
-        width: 1200
-        height: 700
         isCached: true
   - title: "The Kamala Harris-Joe Manchin dust-up explained - and why it matters to the Biden administration"
     excerpt: "Vice President Kamala Harris' media appearances in West Virginia didn't go over well with the state's longtime moderate senator, Joe Manchin."
@@ -1612,6 +1608,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "CED2opPyheNs6KtsfgYAwk8SJtPeVmb5FKlzaQ+hc2J1Odybe/ZGAP0sUKedo5llZw5jMDOMQKwgAvMGMLBbj3ZV2nX8D9JYVoxPZYn1UETk+5U4FnrNul3oNklQyZa/hn7rIvSYucgvFnXBQSE9Qr9sB+369Ado/iuE4u2Cp5jtjWAt3mi4pF/B6Txn5qFg4NrkO7QdNasp6v1sTpdEjDZS92PaFb6+rCUe6ofmgeBQpZXjZJf/lE2/SVsZIS9H6YxlsNPn6I7JKzUHTBsCOHeuqwYc6bwIjAGQ85OGbEhlXXRX1pKc8na/XDvI/ptBkSu1My7WIjypQkXyahCSHEPr0w/gaRppCeoRg0DmrZ9BfyE6Cig5AkFeB/wTOP8Y2SkzKql6ECE8rOWruatw+FVLP3BeAa+SToMazODAwwMRmEKzhyKQ5Khs5uEA9fMYXDZfxWrRcVR/wdVjXbvTbVkF09kFMifbFCql/0d3M8J72otUTtK5ybkywjz1yKpYnrDa7lp/Dqj9lp7GYZuBmQ==;pG68i9OC5VmubaS1SA6ztw=="
+secured: "jxo2wxpOTHDOKu/TVF0RMmY4rAwLhfS9nf4QK/loYWOq/SSoPSBcgzXwQv2Z3LlO0eMVNDzKDdhdcLYA2v0pOUVb97Ql1xvBqV3vqtXvuI1nivB+ZV9862mvf+WyM9NOUh17088MHJWeu575Vr8kODWWI3d/ifU8XRdx0gE7gksL0WVIKeCmspEI8/MnUXsPtyOSbaNGCw2x7Ow1wG+hh5q5MIav2YlFRRaWB7DIINVx437Go8piyUIf84tIdqXO+xfowlE9Rif9KlcHwa7rokkKQJTYzyBLPnfqXD2thXy9VF7z2ZpEZIYUxNi9wTAP/KYTBG3kbpcyQAUNaKAtcaHUXwiZmylFPfZl6UsDago=;a8OO0i/staj7gVjWQwtPhg=="
 ---
 

@@ -159,6 +159,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden withdraws Tanden's nomination to be White House budget chief"
+    excerpt: "President Joe Biden on Tuesday withdrew the nomination of Neera Tanden to be his budget director after she ran into stiff opposition over tweets that upset lawmakers, in the first Capitol Hill rebuff of one of his nominees."
+    publishedDateTime: 2021-03-03T01:48:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idINKCN2AU2TL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKCN2AU2TL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKCN2AU2TL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553524481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH211LT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
     excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."
     publishedDateTime: 2021-02-22T18:32:00Z
@@ -412,6 +428,6 @@ related:
       domain: businessinsider.com
     quality: 99
 
-secured: "A4wMs60a1P6/zRmlzQUJ7qRRmmAMGfnsLXDP1l7JbiDq9+hRsHb8EklyHLJWteGZkTcAroqtXgdyUHuMGFux9wqGbrFWyfk9UecfQA/FBuTO2CA0IhceQD17iPhLEClp3KqnfNx3NXlMZPLH6Pvhiylk/fqsKtfjYcFHPqKEfExit5bHLIiPpdFZ2HtD84P6TnA/jyQ8jUwa3lhX/leHOEBkabIRJNUkxppio5xoW0ouBgr8odJ5UAtwBUYcDk2/+z1gyxfFzyxNLv1yEQfVOaWr7XX9xhBsevu0wQq3cSPLj2PlvbW5Bbca/fDT5XEs4tljsxmECU5+OJ+vQHLc3+8gsHMqAXoAi1cSuNciVKM=;FBfRkDVk1WfWiLaIrf8oLQ=="
+secured: "Xw++uYPyt/9XP8RXw4GwsdfuMFZLbFFLSeYSnBj159D6YndG3KE6v/ZXt5b5C5W3epfgUASXIRmuQuLz+NL9udrlyo6pEaZJv5FJNE46NF86JHHZVDk2Jt+XfMYonqAX8lirOanYvYrFfDhJQym/4sGBuqhtavZWGCDsz06DOJGy8w66tZZr+knt5V5V1RovwzFcgmhmjzCHJIQ1QqgidBzJPS2ppg5Uo5XKv/qdQzHmnijzWwp8CdtGonDgE5N1k3dHOlCiXeR0i4q+LcF5RrPmrkP2S4mwDumuk2DEGVucKf856anbJWrxMZQkQq71TzZ9kBC3cAv1Zd3XtozIhsXDl44SRiye13RHeAo5hvw2wIQpNLf8kW4O9iFVAg4v5u/zu47nbjmhy05awRVMwqhiKD/M0vEs7u+NDktX8yrp0opvTOzCpXQBwIvyq2zg68YoMBJmtJ42q+tYG30oKD2A/1qrrNhJ5g5Qm414wNPdo6ly7uOrn4sOJeGBpq/C9XhR5WlFFALhrcb0o+18FQ==;ngBNHyzAKlznpsciyBYfrg=="
 ---
 
