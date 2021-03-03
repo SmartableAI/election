@@ -98,6 +98,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden agrees to curb stimulus check eligibility as he seeks Senate votes -Washington Post"
+    excerpt: "U.S. President Joe Biden has agreed to phase out the planned $1,400 stimulus payments for higher-income payments under his coronavirus relief proposal, a bid to gain votes after moderate Senate Democrats issued a call for more targeted spending,"
+    publishedDateTime: 2021-03-03T15:18:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-checks/biden-agrees-to-curb-stimulus-check-eligibility-as-he-seeks-senate-votes-washington-post-idUSW1N2KA05Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KA05Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KA05Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
 
 secured: "HWVrWg8rslDEyEE/LEBaPo6jDlUXFslk3aqFQl6ZbB19Ey9AviX/IrOhbz3MB8Kap920gKW7c+zBTRHxwSZLmKe88Jj9Y7oFlCdVZIedpCpuS2biiql0CUXgN1s0XGGcpxr/3Pho6JVQAfV0S/as/XgWN8At2Ls2acQ9UQWvz8SaNTwEWnzch6cZl3PoAbRuQTffygB0xCFSXvOiMvE2tJzq6dOOpcq3AkH2vXElvjNXwokB663KDaP3LCobsiy4D+vSUWpUwZHSVdCOwKiOEcCpHwrEOlm+DmzMCBFyjgD3+9bX+nG+xah1DFq8/5iLlegHWvWx/mrMYDfPHEVorPvQhUg28XA8ZAKWHh0OQ58Mmh6lolThxlNtNs7e+ae8V+6wxbJV/1akRCrfzxEb6MtpStyxBmSTKwrcggoMwlr6JDKGWlwGQl7yYeJOkAcpsM+e/gImbFmYY+knts3jQlEgaiLLTIGmN4kWjREzlQk0f7KU4AvVElC86LWqBPy53xhl9lsJUSeZKfL9HhZCHg==;gULWF6eKQFYLvlzpXhC5yw=="
 ---

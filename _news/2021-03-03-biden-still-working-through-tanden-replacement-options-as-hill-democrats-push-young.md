@@ -33,7 +33,7 @@ images:
 related:
   - title: "Pence pushes false election fraud claims in denouncing Democratic reform bill"
     excerpt: "Former Vice President Mike Pence is seizing on a Democratic-led initiative to streamline election standards to again push false claims of voting irregularities in one of his first public statements since leaving office.\n    \n"
-    publishedDateTime: 2021-03-03T15:16:57Z
+    publishedDateTime: 2021-03-03T19:52:32Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KdQK7O8QdDs/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/mike-pence-false-claims-voter-fraud/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/mike-pence-false-claims-voter-fraud/index.html"

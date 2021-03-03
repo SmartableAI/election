@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y1FB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y1FB"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -88,6 +88,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden agrees to curb stimulus check eligibility as he seeks Senate votes -Washington Post"
+    excerpt: "U.S. President Joe Biden has agreed to phase out the planned $1,400 stimulus payments for higher-income payments under his coronavirus relief proposal, a bid to gain votes after moderate Senate Democrats issued a call for more targeted spending,"
+    publishedDateTime: 2021-03-03T15:18:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-checks/biden-agrees-to-curb-stimulus-check-eligibility-as-he-seeks-senate-votes-washington-post-idUSW1N2KA05Q"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KA05Q"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KA05Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 96
   - title: "Mike Pence forced to wander the streets of Washington after coming out as un-reelected"
     excerpt: "HUMOR: “Don’t get me wrong, I don’t hate people who lose elections but watching it grosses me out. I like lots of election losers. My cousin lost an election once in college!"
     publishedDateTime: 2021-02-05T04:53:00Z

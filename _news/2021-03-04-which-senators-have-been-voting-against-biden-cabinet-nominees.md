@@ -93,6 +93,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Senators grill Biden nominee as proxy for wider Iran deal debate"
+    excerpt: "The deputy secretary of state nominee, Wendy Sherman, faces a difficult confirmation process over concerns about reentering the nuclear deal."
+    publishedDateTime: 2021-03-03T20:35:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/wendy-sherman-biden-state-department/2021/03/03/26f6ad80-7c50-11eb-b0fc-83144c02d676_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/wendy-sherman-biden-state-department/2021/03/03/26f6ad80-7c50-11eb-b0fc-83144c02d676_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/wendy-sherman-biden-state-department/2021/03/03/26f6ad80-7c50-11eb-b0fc-83144c02d676_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7E7FIFD4LII6XBONTN72SDEIOM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
     excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
     publishedDateTime: 2021-03-02T20:13:00Z
@@ -196,6 +212,6 @@ related:
         height: 600
         isCached: true
 
-secured: "WWOaAOUprMHTPLlqFVsVkFIYoDQ8PkpkvA29f+cm1Rq2NtBPc5skIIw7C0DZMC8YCisUkzwhdAND77sNpDJDBIoJLbv4WmEnR+5TgVa7PlZy9AHfyXGaagS9dHTUondFk83g5tZA82beqJaynkOLWLFru7W3lvJ8Z2ea3bZ+eruklF1ayRFkp8VJFagNv24jztpFrSyQ358yktLjFvBSCZyvfBW3TfwhyXcmhjxRSGPVHcoc17ymD2Rx8oU9I/v0VYHNJ7uZ/9bGMIzw1ojsSQFWY1dYXDP4je6eJuzwUW4uiVTS9fRh94Vp+LKL6IPNpY3ZisMPuli+UqjJhxv9p21MDPDqsCN1b4MTJQs+/I0=;keHX7C2KhrtoCdE0NDMDoQ=="
+secured: "2phfQ05FXOMVnLt4A4YWA8gsXuRuYqZYh+iW4foYxBkRX+SkT/kqd35KiREz+8EMisUFKjZaAnOgjpMiKE2N53gIxj3mwJCwIpUAZMPci8U/z4DC6l2bjy6N6wP9IsYFUOLe6txC+ZbwXblpj2ObC3/xWEUZaH+rzxWNmYeO5okit3Za9/ZCgHSMGVqkyAR/iNMMdgbzec77aaUjYA9IR+sMQqAMBJewjCnYiPOfmYN7Lb596+SW6uYyIzRAZ2JsgEBlRNYY8nuXxmQ/tX1qIep0nGJ2FxnQ5VAzVUTYOJT0MO3Qx09yUk1fmVBq20DhdRuuGduja+PVS7xJrSgh0l25BqZGC6DeUfhaitbFzCVFDWxynAyBDUx+LGdFfn+uTm/9bSfKdSs7Ex/jeOs0+cptXoQ3xdnFQzCeMI8uVkEEtpAh5HYEzWPQfzmgzXql1VhJpbUSUWdjn/5j9jOLtQYiKC9Vz/XvzyRZkaOKUfYfWRlDmfQspQcR+2I5x4RRgbycygR82N9evNZyyMyk4w==;XW7SowGmRdnD0e7h7Pngqw=="
 ---
 

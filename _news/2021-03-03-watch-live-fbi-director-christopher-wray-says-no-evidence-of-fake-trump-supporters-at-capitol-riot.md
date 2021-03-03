@@ -41,19 +41,21 @@ related:
         width: 960
         height: 540
         isCached: true
-  - title: "Wray: No evidence of fake Trump supporters at Capitol riot"
-    excerpt: "FBI Director Christopher A. Wray on March 2 said that there was no evidence of fake Trump supporters who stormed the Capitol on Jan. 6."
-    publishedDateTime: 2021-03-02T16:15:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/wray-no-evidence-of-fake-trump-supporters-at-capitol-riot/2021/03/02/11111ee8-eec3-44ba-93a6-917203f7c210_video.html"
+  - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
+    excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
+    publishedDateTime: 2021-03-03T14:55:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 65
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_947d83b1b70a4643b78d5adc36f48592_name_e99b3644_7b6f_11eb_8c5e_32e47b42b51b_scaled.jpg&w=1080"
-        width: 1080
-        height: 608
+      - url: "https://www.nydailynews.com/resizer/yuTJIk6BTNwaF9BNID10TYhi_7M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BLICB6OH4VGBVNGAJUGRJLOXSU.jpg"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Oz2fLtGZxZnJKFqp5UMlspGq9a8J31K7VLO3KWb0HVe5SbfqrdWbOZ+IxpVV5JG6ESumgsme0HtyEhrWBYCCSiTY9WIKa8z7rZly3EiBW6b682fVx2KZKKPXl9kY1EIPcr8t80OwGwdEPRf+Us21G9KMLxk8iizAq2RCYK7ggtsMr9qo3NRLneZj8Ou8t4o9bH9+0xfrX1Qo1f/oPbF0G3QJzwG5Gbhwef/wPRrq8NTw6FOm4YKS4V09RBifeycNqzAE5pEmcsljkM043sCkSlqlVxQLqD7iAuzCpvO76G735FpnMzLdBg9A1VMF1Njr2JHcRXBWD2zwDvxZV4j+BCyG01qNO1bkQp2ecT+84rI=;Qp1o+t49/DKXaskPsCQpCg=="

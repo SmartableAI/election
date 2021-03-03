@@ -2,7 +2,7 @@
 category: news
 title: "Pence pushes false election fraud claims in denouncing Democratic reform bill"
 excerpt: "Former Vice President Mike Pence is seizing on a Democratic-led initiative to streamline election standards to again push false claims of voting irregularities in one of his first public statements since leaving office.\n    \n"
-publishedDateTime: 2021-03-03T15:16:57Z
+publishedDateTime: 2021-03-03T19:52:32Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KdQK7O8QdDs/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KdQK7O8QdDs/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/mike-pence-false-claims-voter-fraud/index.html"
@@ -49,6 +49,6 @@ related:
         height: 619
         isCached: true
 
-secured: "fph6AIFl2ik0NNDg3JGOIx2Cudp82teBvGb3mUXCEGX3T00cCq7iEwEuFfX1HlflumdXFDHQE2BYT59WaLYvR0RIBUCDk0bwLGUQKZ3TqhvlKusc7cMqHkAAK8EHLB6BCw9cl0yYoHrDHrj/K808+b5ieRMD82V6DT+vojY4ntundlGK8da77ogmSCVswSV/Cd4oebZQv28tgL/AlzO7lXNde3RJn3sV3RW5W8BROqyXScZHD/+3S5iGhACYW3q+5ljrWPKAeINM17VGVShMp5MPpNp7YqPLMHGhXQ1Bdpz0jVqT7QbK71esPNik5i+bWGq00JFUIGpO0pHHOlyORqcD4RmDNTdbEeW9mAtHwrc=;nlo4IEhRMBwjrVJvXpSS/Q=="
+secured: "rfcmZTRhlGqqiCLaNnU04FXHkjZHOvnB3/bOOM3uKcQA11OAP7+tl32vA9/hwhQBmsTg8w3q6tOcwfiOOQkvEfvnN2X7GEwVfJ2zf2zguGz7wFtzIdMO9EdoZIzBXxLFOBeJ64iWIFHk3nPaCEfWMVpztgTkH00hkBOfMmzoLjiIMgtBDZgq643FsZrnmcr6WFBSb2cNjPTqXgJ59lWrwmYX/H14HAqb/vMQVha5bfBdHZiFz8yIO3OTa0SdKLixc52v2GR4TEKOd/nzpxA0C8JkB4upPxkm5H9MmgSH8ZVF2awGkVL/5ZiEFfZktddbSzVF8UdRaIdREnR6V1zSG5HXQR7NHNnhSOVSl0pcnXw=;cKKHKRdr5UbIEVNuQcb5ng=="
 ---
 

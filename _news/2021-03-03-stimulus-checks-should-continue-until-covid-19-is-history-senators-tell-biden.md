@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Senators grill Biden nominee as proxy for wider Iran deal debate"
+    excerpt: "The deputy secretary of state nominee, Wendy Sherman, faces a difficult confirmation process over concerns about reentering the nuclear deal."
+    publishedDateTime: 2021-03-03T20:35:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/wendy-sherman-biden-state-department/2021/03/03/26f6ad80-7c50-11eb-b0fc-83144c02d676_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/wendy-sherman-biden-state-department/2021/03/03/26f6ad80-7c50-11eb-b0fc-83144c02d676_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/wendy-sherman-biden-state-department/2021/03/03/26f6ad80-7c50-11eb-b0fc-83144c02d676_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7E7FIFD4LII6XBONTN72SDEIOM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
     excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
     publishedDateTime: 2021-02-24T02:38:00Z

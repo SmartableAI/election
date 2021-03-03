@@ -111,6 +111,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden won't deliver speech to Congress until after vote on coronavirus bill, Psaki says"
+    excerpt: "White House press secretary Jen Psaki said President Biden will wait to address a joint session of Congress until after Congress decides on the American Rescue Plan, his coronavirus relief package."
+    publishedDateTime: 2021-03-03T20:00:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drcOHAb5y6o/biden-no-speech-to-congress-until-coronavirus-bill-passes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-speech-to-congress-until-coronavirus-bill-passes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-speech-to-congress-until-coronavirus-bill-passes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki: Biden admin 'committed to fighting our hearts out' for Tanden, raising minimum wage"
     excerpt: "The Biden administration remains committed to \"fighting our hearts out\" for Budget Director pick Neera Tanden, Biden's press secrestary said Sunday."
     publishedDateTime: 2021-02-28T15:10:39Z

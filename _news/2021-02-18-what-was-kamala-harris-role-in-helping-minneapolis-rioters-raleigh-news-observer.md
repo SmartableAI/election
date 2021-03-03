@@ -59,19 +59,33 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Harris meets with Small Employees in Alexandria, Virginia"
+    excerpt: "Vice President Kamala Harris participates in a small business roundtable at Fiber Space, a woman-owned boutique yarn and fabric store, with small business employees and community leaders to talk about the impacts of the Biden Administration's American Rescue Plan,"
+    publishedDateTime: 2021-03-03T20:46:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b17511dd5aa690cdc15158568c2bb0be/Vice-President-Harris-meets-with-Small-Employees-in-Alexandria-Virginia/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/b17511dd5aa690cdc15158568c2bb0be/HARRIS-SMBUSINESS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Vice President Harris meets with Small Business Owners in Alexandria, Virginia"
-    excerpt: "Vice President Kamala Harris (C) speaks at a small business roundtable at Fiber Space, a woman-owned boutique yarn and fabric store, with small business employees and community leaders to talk about the impacts of the Biden Administration's American Rescue Plan,"
+    excerpt: "Vice President Kamala Harris leaves Fiber Space, a woman-owned boutique yarn and fabric store, after holding a roundtable with small business employees and community leaders to talk about the impacts of the Biden Administration's American Rescue Plan,"
     publishedDateTime: 2021-03-03T18:39:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/e2fce5cdcd2731613a8edecd078ff778/Vice-President-Harris-meets-with-Small-Business-Owners-in-Alexandria-Virginia/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c3b832e06b83c1e4c3ab0078505e9217/Vice-President-Harris-meets-with-Small-Business-Owners-in-Alexandria-Virginia/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 51
     images:
-      - url: "https://cdnph.upi.com/pv/upi/e2fce5cdcd2731613a8edecd078ff778/HARRIS-SMBUISINESS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/c3b832e06b83c1e4c3ab0078505e9217/HARRIS-SMBUISINESS.jpg"
         width: 650
-        height: 430
+        height: 427
         isCached: true
 
 secured: "EFwNpIocDIXGQ26BPz2/mSlSq85KnSIFxF3Z6TkDDYEQnK6KP9XdybJk+OuyRobRj5tVN2Eq1CugPGT8kzNlSzYSbVsgUQZ7lwQcKDvD1yG7vyS93K7FqB5VC5jFUo2VgZ3TFk0UDAsvCSnSSMH5OZWfZMXqNqO45Iep7vxLb4VIfzb/ngyorCHM8nHe64PtVI+k41jzwaWjsGwIA97kLli2aLR8nloKnG0RI7c+di6ZaoVIVh6Ew6+1Ool3p1GamaT6k59otZ61Pnxyv/unK62A5GHYXy2Qvg6PyiNQFnquDQq8CIAJJ2dGiTq3xeiL2d67LXPxsbljUzKrFFMfiRxdVlvSHFLM3p1U6uy3oDXAgayfxqDZ6aCIUVb9+js721dFtInk2P/oqLkCt53r4sdS7P/7eO+3/jY6IESbd5FM9phTfqLZCcTbbTtT111xsSUO20W1jpHwqQy+RP7FMrNA15LV9bmcx000dzD+R8GWUiiTBYzg2xrYfs8ToC633m9s8ujLY2FidxKbvTeUeg==;lmxTmkP2KjJaDTH7N1oEuQ=="

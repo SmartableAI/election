@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Senators grill Biden nominee as proxy for wider Iran deal debate"
+    excerpt: "The deputy secretary of state nominee, Wendy Sherman, faces a difficult confirmation process over concerns about reentering the nuclear deal."
+    publishedDateTime: 2021-03-03T20:35:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/wendy-sherman-biden-state-department/2021/03/03/26f6ad80-7c50-11eb-b0fc-83144c02d676_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/wendy-sherman-biden-state-department/2021/03/03/26f6ad80-7c50-11eb-b0fc-83144c02d676_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/wendy-sherman-biden-state-department/2021/03/03/26f6ad80-7c50-11eb-b0fc-83144c02d676_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7E7FIFD4LII6XBONTN72SDEIOM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
     excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
     publishedDateTime: 2021-03-02T20:13:00Z

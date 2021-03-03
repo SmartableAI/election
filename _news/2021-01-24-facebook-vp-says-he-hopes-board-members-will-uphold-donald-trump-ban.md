@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/facebook-vp-hopes-board-uphold-donald-trump-ban-1563958?amp=1"
 type: article
 quality: 125
-heat: 205
+heat: 185
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_99dde2878a054f718926d2e0a62bcdf9_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "The Hill's Morning Report - Presented by Facebook - Trump teases on 2024 run"
-    excerpt: "Welcome to The Hill’s Morning Report. Today is Monday, the start of Women’s History Month! Happy March! We get you up to speed on the most important developments in politics and policy, plus trends to watch."
-    publishedDateTime: 2021-03-01T11:28:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/540950-the-hills-morning-report"
-    ampWebUrl: "https://thehill.com/homenews/morning-report/540950-the-hills-morning-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/540950-the-hills-morning-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/newsletter-open_030121getty.jpg"
-        width: 580
-        height: 387
         isCached: true
   - title: "Trump taps Huntsville lawyer for international agriculture board"
     excerpt: "In one of his final acts in office, President Donald Trump has appointed Huntsville lawyer Mark McDaniel to a prominent international agricultural food board. U.S. Rep. Mo Brooks announced the appointment Monday of McDaniel The board,"

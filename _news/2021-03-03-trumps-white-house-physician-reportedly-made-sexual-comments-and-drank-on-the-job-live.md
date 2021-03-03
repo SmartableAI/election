@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates"
 type: article
 quality: 116
-heat: 136
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -31,22 +31,31 @@ images:
     isCached: true
 
 related:
-  - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
-    excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
-    publishedDateTime: 2021-03-03T14:55:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
+  - title: "Huawei CFO lawyer says Trump comments a 'salvo' in trade war"
+    excerpt: "A lawyer for a senior executive for Chinese communications giant Huawei Technologies says comments by former U_S_ President Donald Trump turned her into a “bargaining chip” and “co-opted the extradition process."
+    publishedDateTime: 2021-03-03T20:18:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/huawei-cfo-lawyer-trump-comments-salvo-trade-war-76233111"
+    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/huawei-cfo-lawyer-trump-comments-salvo-trade-war-76233111"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/huawei-cfo-lawyer-trump-comments-salvo-trade-war-76233111"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 65
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.nydailynews.com/resizer/yuTJIk6BTNwaF9BNID10TYhi_7M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BLICB6OH4VGBVNGAJUGRJLOXSU.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s.abcnews.com/images/International/WireAP_b44a5ba6da25450cb5d32d444193699f_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
+  - title: "Bergdahl Appeals Court-Martial Over Trump, McCain Comments"
+    excerpt: "A former U.S. Army soldier who was court martialed after he left his post and was captured by the Taliban is asking a federal judge to overturn his military conviction, saying his trial was unduly influenced when former President Donald Trump repeatedly made disparaging comments about him and called for his execution."
+    publishedDateTime: 2021-03-02T16:27:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-02/bergdahl-appeals-court-martial-over-trump-mccain-comments"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "HCymCo1c21wS89ImBHGQLXRi2Y4yvytEEr+TWLJe4d7MM0+YtmjrU6YfF471sb1rnZQHMUbgef24nKFiWO1VRdl4RKY3eI0Y0TeFVaIQr2GmQ5dMBz8YlqFIlI3ry57LtNztafklSP/EHG9XQLm9uDOrSFTEpQkZ2pgIb2uK4PW9qJZGrjClUhW4qCzl985NfKbnIB6lKB8Zde6uvI9RgXwU0zXmHm2MPZxT1Ky4G0ZViComKg3hw2UyehjkUin9dSI9zlgUB8ty66+0jM9uYhKJKY627+cds0VQt3SeC40DO5HhHl/0mHVybQatFdBrqXIWdCrozc63DHjtIiUKwG91X8/KSAL0GFbaO3o9aFg=;jkXlNCVIo8joJzeXYlasaw=="
 ---

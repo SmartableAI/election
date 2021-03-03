@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 6090
+heat: 6110
 published: true
 
 provider:
@@ -511,6 +511,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1700771/pro-trump-riot.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Donald Trump and Mike Pence Rift Denied, Former Vice President Retains GOP Voter Support"
+    excerpt: "Questions have been raised over the ex-vice president's absence from this week's Conservative Political Action Conference."
+    publishedDateTime: 2021-02-23T13:10:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-mike-pence-rift-denied-former-vice-president-voter-support-1571266"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-mike-pence-rift-denied-former-vice-president-voter-support-1571266?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-pence-rift-denied-former-vice-president-voter-support-1571266?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
+    images:
+      - url: "https://d.newsweek.com/en/full/1740514/donald-trump-mike-pence.jpg"
+        width: 2500
+        height: 1645
         isCached: true
   - title: "Trump attacks Pence for not having the 'courage' to overturn the election as the president's supporters storm the Capitol"
     excerpt: "\"Mike Pence didn't have the courage to do what should have been done to protect our Country and our Constitution,\" Trump said."

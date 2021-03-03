@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-03-biden-says-texas-and-mississippi-over-lifting-covid-restrictions-guilty-of-neanderthal-thinking.md",
+      "title": "Biden says Texas and Mississippi over lifting COVID restrictions, guilty of ‘Neanderthal thinking’",
+      "excerpt": "President Biden took a swipe at Republican governors in Texas and Mississippi Wednesday, accusing them of \"Neanderthal thinking\" following their decision to reverse COVID safety policies, including mask mandates.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvcRq4k7gDM/biden-says-texas-and-miss-guilty-of-neanderthal-thinking",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvcRq4k7gDM/biden-says-texas-and-miss-guilty-of-neanderthal-thinking",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6130b85-52f2-46fc-b88a-dc8fb9055492/5b6acd63-199a-4dfb-bd9d-f105cacbb701/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp",
+      "publishedDateTime": "2021-03-03T12:51:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-pence-rails-against-hr-1-laments-capitol-riot-prevented-substantive-discussion-on-election-integrity.md",
       "title": "Pence rails against HR 1, laments Capitol riot prevented 'substantive discussion' on election integrity",
       "excerpt": "Former Vice President Mike Pence offered harsh criticism for a Democrat-proposed voting reform legislation while condemning the Capitol protest on Jan. 6 that, he said, interrupted what would have been a worthwhile discussion of election integrity.",
@@ -512,7 +568,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 396,
+      "heat": 416,
       "tags": null,
       "images": [
         {
@@ -1612,62 +1668,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-ted-cruz-in-cpac-speech-says-trump-aint-goin-anywhere-jokes-about-cancun-controversy.md",
-      "title": "Ted Cruz in CPAC speech says ‘Trump ain’t goin’ anywhere,’ jokes about Cancun controversy",
-      "excerpt": "Sen. Ted Cruz says the GOP is the party of the working class and vows that former President Trump will remain a power player in the Republican Party.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W421qeGQnHg/cruz-cpac-speech-trump-aint-goin-anywhere",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W421qeGQnHg/cruz-cpac-speech-trump-aint-goin-anywhere",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cruz-cpac-speech-trump-aint-goin-anywhere.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-cpac-speech-trump-aint-goin-anywhere.amp",
-      "publishedDateTime": "2021-02-26T09:13:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

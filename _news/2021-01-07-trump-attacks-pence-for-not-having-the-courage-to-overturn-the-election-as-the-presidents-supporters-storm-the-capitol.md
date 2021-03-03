@@ -527,6 +527,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Donald Trump and Mike Pence Rift Denied, Former Vice President Retains GOP Voter Support"
+    excerpt: "Questions have been raised over the ex-vice president's absence from this week's Conservative Political Action Conference."
+    publishedDateTime: 2021-02-23T13:10:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-mike-pence-rift-denied-former-vice-president-voter-support-1571266"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-mike-pence-rift-denied-former-vice-president-voter-support-1571266?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-mike-pence-rift-denied-former-vice-president-voter-support-1571266?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
+    images:
+      - url: "https://d.newsweek.com/en/full/1740514/donald-trump-mike-pence.jpg"
+        width: 2500
+        height: 1645
+        isCached: true
   - title: "Pence rules out invoking 25th Amendment to remove Trump as House rushes ahead toward impeachment"
     excerpt: "The U.S. House pressed swiftly forward Tuesday toward impeachment or other steps to forcibly remove President Trump from office."
     publishedDateTime: 2021-01-13T01:52:00Z
