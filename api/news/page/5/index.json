@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-26-trumps-pardon-of-lil-wayne-said-to-be-the-breaking-point-for-qanon-shaman-in-new-court-documents-filled-with-bizarre-anecdotes.md",
+      "title": "Trump's pardon of Lil Wayne said to be the breaking point for 'QAnon Shaman' in new court documents filled with bizarre anecdotes",
+      "excerpt": "An attorney for Jacob Chansley, the \"QAnon Shaman,\" filed a pretrial release motion Tuesday, weeks after he charged in the Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest",
+      "originalUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60359633d920880018591ad4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest?amp",
+      "publishedDateTime": "2021-02-25T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-biden-should-not-give-up-his-sole-nuclear-authority-gop-lawmakers-say.md",
       "title": "Biden should not give up his sole nuclear authority, GOP lawmakers say",
       "excerpt": "Three Republican members of the House Armed Services Committee on Wednesday issued a statement pushing back on Democrats' letter to President Biden urging him to give up his sole nuclear authority.",
@@ -1251,7 +1303,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 395,
+      "heat": 415,
       "tags": null,
       "images": [
         {
@@ -1292,58 +1344,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-major-trump-backer-rebekah-mercer-orchestrates-parlers-second-act.md",
-      "title": "Major Trump backer Rebekah Mercer orchestrates Parler’s second act",
-      "excerpt": "Rebekah Mercer, a daughter of a major Republican donor, is a founding investor of Parler, where she reportedly is pulling strings. Mercer holds the majority stake in Parler and controlled two of three board seats as of early February — a board to which she recently appointed allies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/",
-      "originalUrl": "https://www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/W4UB54TWCUI6XFEJR562ZVI6OU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/02/24/parler-relaunch-rebekah-mercer/?outputType=amp",
-      "publishedDateTime": "2021-02-24T03:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

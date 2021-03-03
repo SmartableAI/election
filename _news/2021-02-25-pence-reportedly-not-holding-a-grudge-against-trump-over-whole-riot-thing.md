@@ -151,6 +151,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Mike Pence’s Blueprint for Permanent Authoritarian Rule"
+    excerpt: "Pence’s analysis is worth considering in some detail. As both a faithful servant to Donald Trump and a respected member of the Republican Party’s most ideologically orthodox wing, Pence holds a position that represents a synthesis of Trump’s idiosyncratic personal authoritarianism and his party’s longstanding anti-democratic trend."
+    publishedDateTime: 2021-03-03T21:07:00Z
+    webUrl: "https://nymag.com/intelligencer/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/ea8/553/d0116718e9c50f2729b2e2fbfe13728ebc-pence-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Trump To Make First Post-presidency Speech At Conservative Conference"
     excerpt: "Donald Trump returns to the political spotlight Sunday, determined to regain control of a Republican Party that is out of power and pondering whether the flawed former president can win again in 2024."
     publishedDateTime: 2021-02-28T14:11:00Z

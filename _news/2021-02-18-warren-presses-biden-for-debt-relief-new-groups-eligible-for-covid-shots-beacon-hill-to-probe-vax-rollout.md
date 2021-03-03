@@ -206,6 +206,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Calls Relaxed Covid-19 Restrictions ‘Neanderthal Thinking’"
+    excerpt: "President Biden criticized the governors of Texas and Mississippi on Wednesday, after both states loosened coronavirus restrictions, including mask mandates. He described their response as “Neanderthal thinking."
+    publishedDateTime: 2021-03-03T14:15:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007635004/biden-mask-mandate-texas-mississippi.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/03/us/03virus-briefing-whvirus-3/merlin_184488840_c50979dc-0f51-4cca-aeca-7a33edca2f93-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "b3wbhE/bToQUVUbt8ZVinZVoO35KSrX7TygAumfWFwuMAbBzoTmgbFi2ypA3vOpePA2YY+h1KsC/AAHMStw9pBqmZnwp6x51o4KtKSGbimv9FKkceXOzLrUkpiKDiWYEIWCJ9+iNuG6DJg0m3C24HtUCbWtg9xR8QxFHfisH3kUbG0BfGWgCYReZXH7Er4j0THb8nR+Z6iFY0LXyMwgTCikj6pXvgdPjZM/gt2PRauT+cXTBNbTwrbScUaqoJ7jkfNIGSlByu7lhJG210agOPuzk3nJfbRtmYROpX7TyaeKoIG6GPIQd0yNiLa/8iIEWznLCn6H4Z4Kbr0BXpF8hgPthoBKk3FgO5obSnjA8vlg=;KDqAb7Jo9O/0BsaE1z8+Xw=="
 ---

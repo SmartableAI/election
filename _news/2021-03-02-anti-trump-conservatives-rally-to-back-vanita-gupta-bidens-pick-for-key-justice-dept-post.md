@@ -58,6 +58,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "WH: Biden to find Tanden another administration post"
+    excerpt: "White House Press secretary Jen Psaki says there will be no announcement this week on a new budget nominee after Neera Tanden withdrew her nomination Tuesday. Psaki said President Joe Biden is looking for another administration post for Tanden."
+    publishedDateTime: 2021-03-03T21:20:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/03/wh-biden-find-tanden-another-administration-post/6909944002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/32e994a2-e70e-4dee-9f08-a4971c5bdded_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden revokes Trump orders on ‘anarchist’ cities, restores New York City’s funding"
     excerpt: "President Joe Biden on Wednesday formally revoked a series of presidential orders and memorandum signed by Donald Trump, including one that sought to cut funding from several cities the 45th president deemed “anarchist” havens and another mandating that federal buildings should be designed in a classical aesthetic."
     publishedDateTime: 2021-02-25T12:16:00Z

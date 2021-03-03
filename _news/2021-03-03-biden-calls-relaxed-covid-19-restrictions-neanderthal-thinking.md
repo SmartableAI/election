@@ -1,33 +1,32 @@
 ---
 category: news
-title: "GOP begins new push against Biden's relief plan as Republican leaders expect no defections in the ranks"
-excerpt: "Republican leaders in both chambers are maneuvering to keep all of their members in line against the $1.9 trillion Covid-19 relief plan, a move that would deny President Joe Biden a bipartisan victory and one that could scuttle the bill in the Senate if any Democrat breaks ranks.\n    \n"
-publishedDateTime: 2021-02-23T22:08:37Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6oV-SZyIX2M/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6oV-SZyIX2M/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/republican-opposition-biden-relief-plan/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/republican-opposition-biden-relief-plan/index.html"
+title: "Biden Calls Relaxed Covid-19 Restrictions ‘Neanderthal Thinking’"
+excerpt: "President Biden criticized the governors of Texas and Mississippi on Wednesday, after both states loosened coronavirus restrictions, including mask mandates. He described their response as “Neanderthal thinking."
+publishedDateTime: 2021-03-03T14:15:00Z
+originalUrl: "https://www.nytimes.com/video/us/politics/100000007635004/biden-mask-mandate-texas-mississippi.html"
+webUrl: "https://www.nytimes.com/video/us/politics/100000007635004/biden-mask-mandate-texas-mississippi.html"
 type: article
-quality: 159
+quality: 115
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/160620175138-mitch-mcconnell-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/03/03/us/03virus-briefing-whvirus-3/merlin_184488840_c50979dc-0f51-4cca-aeca-7a33edca2f93-facebookJumbo.jpg?video-overlay"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -159,6 +158,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "GOP begins new push against Biden's relief plan as Republican leaders expect no defections in the ranks"
+    excerpt: "Republican leaders in both chambers are maneuvering to keep all of their members in line against the $1.9 trillion Covid-19 relief plan, a move that would deny President Joe Biden a bipartisan victory and one that could scuttle the bill in the Senate if any Democrat breaks ranks.\n    \n"
+    publishedDateTime: 2021-02-23T22:08:37Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6oV-SZyIX2M/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/republican-opposition-biden-relief-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/republican-opposition-biden-relief-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/160620175138-mitch-mcconnell-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate Democrats still finishing their Covid relief bill as Biden signs off on more targeted stimulus checks"
     excerpt: "Senate Democrats are down to the wire.\n    \n"
     publishedDateTime: 2021-03-03T16:45:38Z
@@ -191,20 +206,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden Calls Relaxed Covid-19 Restrictions ‘Neanderthal Thinking’"
-    excerpt: "President Biden criticized the governors of Texas and Mississippi on Wednesday, after both states loosened coronavirus restrictions, including mask mandates. He described their response as “Neanderthal thinking."
-    publishedDateTime: 2021-03-03T14:15:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007635004/biden-mask-mandate-texas-mississippi.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/03/us/03virus-briefing-whvirus-3/merlin_184488840_c50979dc-0f51-4cca-aeca-7a33edca2f93-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "WARREN presses BIDEN for DEBT RELIEF — NEW GROUPS eligible for COVID SHOTS — BEACON HILL to probe VAX rollout"
     excerpt: "President Joe Biden is pretty blunt about where he stands on canceling $50,000 per borrower in student loan debt. “I will not make that happen,” Biden said during a CNN town hall earlier this week. But Sen."
     publishedDateTime: 2021-02-18T12:23:00Z
@@ -220,6 +221,6 @@ related:
         height: 629
         isCached: true
 
-secured: "H7mpeEStVIkGvgjkPrkFCiUfVXkAnv9QtMgNGaaJG2iM1AyKYRjCMLRoVhFG/1UVJbVwjsvdOssACi0mfpjxAIzYrg1yngWR83Cx9MfJ2+Bitrm1gZ1MycVyFLF3hTDfbIET9nMu68nIprHeMKOMiIET1CFN3WrAzs8aehbMjaYI64ICBTqHKrpeX5P3w4D5xegACVr4IEOagx1cmkuL9ivyJ0V2NKhCV/QOaHfLhl98c0UfgCDYyjlIe2f4Mt+Pv1mujkBoBapLMiEhMnMdvNpNjjIJUHpyeo12/3R8YtjV8GUG3NbvkgxzJB7/VX7BXBmOLAJL9EitlCV4MSNvdt3/2KI1MCvlTLMhrst1Sr0=;LiE/Ul/30ml/2IJNzulsfg=="
+secured: "zBOUlOAwB7QnhTNLRZ2tHlgac3fstuCwQ8JC1z2Kc746+CCxuhmqDHTUhfZ7DEEiJv2IhqnaBdi1wp3XVO/h4uZhIEUusGoKxis0btvTnfeBuOyQjSMqvF8IGzHYDhnnrHIFYYoBY6UB7I0pzuv80GWJwBmnHpfzUY9gVN/YIdw9+hBZRrhHXYzl6lKQqXMnu+Oi9Sr9opewvAXsU3JfsYLCqFiVtJKBocUQMF/jhc5xoLYbHP63Fa/NnVVEcTuGxnOTYuK8EBQ0nCoTyLijfukMWNWTn/vaL/z7nX6qQ+w0uV8N52Bu/4jWmv3Ig1ivGiGHdFzBfVY524BYryDuz7EOVx5mafN78VGUKoDbn94=;VjerYSA/hLZiJ4fcFinyBQ=="
 ---
 

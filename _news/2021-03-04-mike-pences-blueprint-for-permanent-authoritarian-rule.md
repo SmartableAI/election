@@ -1,36 +1,48 @@
 ---
 category: news
-title: "Trump talking to allies about 2024 run without Pence: report"
-excerpt: "Former President Donald Trump is considering running for the presidency again in 2024 without former Vice President Mike Pence as his running mate,"
-publishedDateTime: 2021-03-03T20:33:00Z
-originalUrl: "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report"
-webUrl: "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report"
-ampWebUrl: "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report?amp"
+title: "Mike Pence’s Blueprint for Permanent Authoritarian Rule"
+excerpt: "Pence’s analysis is worth considering in some detail. As both a faithful servant to Donald Trump and a respected member of the Republican Party’s most ideologically orthodox wing, Pence holds a position that represents a synthesis of Trump’s idiosyncratic personal authoritarianism and his party’s longstanding anti-democratic trend."
+publishedDateTime: 2021-03-03T21:07:00Z
+originalUrl: "https://nymag.com/intelligencer/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+webUrl: "https://nymag.com/intelligencer/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+ampWebUrl: "https://nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
 type: article
-quality: 140
-heat: 340
-published: true
+quality: 75
+heat: -1
+published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Magazine
+  domain: nymag.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://thehill.com/sites/default/files/mreportpence_2.jpg"
-    width: 580
-    height: 387
+  - url: "https://pyxis.nymag.com/v1/imgs/ea8/553/d0116718e9c50f2729b2e2fbfe13728ebc-pence-trump.1x.rsocial.w1200.jpg"
+    width: 1200
+    height: 632
     isCached: true
 
 related:
+  - title: "Trump talking to allies about 2024 run without Pence: report"
+    excerpt: "Former President Donald Trump is considering running for the presidency again in 2024 without former Vice President Mike Pence as his running mate,"
+    publishedDateTime: 2021-03-03T20:33:00Z
+    webUrl: "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/mreportpence_2.jpg"
+        width: 580
+        height: 387
+        isCached: true
   - title: "As Trump reemerges, will the GOP find a way to move on without him?"
     excerpt: "The Republican base brooks no dissent about the former president, while others look to a future in which he becomes a diminished force."
     publishedDateTime: 2021-02-27T16:29:00Z
@@ -155,22 +167,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Mike Pence’s Blueprint for Permanent Authoritarian Rule"
-    excerpt: "Pence’s analysis is worth considering in some detail. As both a faithful servant to Donald Trump and a respected member of the Republican Party’s most ideologically orthodox wing, Pence holds a position that represents a synthesis of Trump’s idiosyncratic personal authoritarianism and his party’s longstanding anti-democratic trend."
-    publishedDateTime: 2021-03-03T21:07:00Z
-    webUrl: "https://nymag.com/intelligencer/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/ea8/553/d0116718e9c50f2729b2e2fbfe13728ebc-pence-trump.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
   - title: "Trump To Make First Post-presidency Speech At Conservative Conference"
     excerpt: "Donald Trump returns to the political spotlight Sunday, determined to regain control of a Republican Party that is out of power and pondering whether the flawed former president can win again in 2024."
     publishedDateTime: 2021-02-28T14:11:00Z
@@ -186,6 +182,6 @@ related:
         height: 644
         isCached: true
 
-secured: "aN59TOd75YSWHev935OLB3CRpdhuG1ptt8LMrABqClRLVWjRLsoB1N13uz4iUI5bler/oQaazdJC5okFbGcdhxjbEIkxDbI1KCFiR0ZB79S7EDMJsS3YC6fr/+U3oEItPJzTbaiELtWo7IDV93dnCYakB78rAyogYtCoWRrp7DceRYGAKogU7FrlvfL8ugTVoznhgHeQ8yq4Vyve/0eM0qUH6zOQzFIPkKeFyv5Mm1zJCfQzlJOwIwIObUGW0arP4VTwQs3uVyonGshCqheWaoc/fa36JTlUWXg5E73BmxJQBP4yfZnnBZqrRRYg04w/Guc42AInbz+85FIIuDJ4Jd9/svmBHCzpp6Iey25hma1Q30CgKN8sNZsuXHhIMtp/yMaDBplu6s7JIjgMYBLPSr+KW6ov/b9PWJUAjqGoVdc1kAJVpiO3c9b54uU3ykx78Fg927iWOXw1MGD9y7S+q/v6MtTKBWz4MkfNRZHBLBXp3CMx6NEa7KYYKPQkc29fvJEALdVc0NaYMHBDFI8zYw==;26+amhsNLX+zIIc9XlmRFg=="
+secured: "WWsA+tDA+T6/zYwTuvedCBfgnbuOtWi49ZkbTivFAETGTWH3wZ4EtSnGsJxUlqm2wngN3xPN9Qo7pcfU6B3U12zsDjfvZj9X+gziWuQWTlgLj+CrDf3SHTZDBEUMffapwYvkqcOBqYK56fz0LU0icvTSmrsfgnhK/TWztiaYbJg28/nXHRnYO46nHxDQeG/x1ZNL63N+iG0gA574fluLmbNUMRcUkIdd+vgoqoyHxkWSwkhKeJhX4EYpplW5UzjQi11qxyeVwtHdCahBmT3bchfjCow9ic16V93s1c7xXX3KfyE+E++9QgPqBaQPnV2/412p8GHymsTOQTVJlYO9eGe8jjYN8S3q2yYmoFl38/Q=;0xuB6unt6J+ew3ud6fe4KQ=="
 ---
 

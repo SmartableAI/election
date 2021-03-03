@@ -169,6 +169,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Mike Pence’s Blueprint for Permanent Authoritarian Rule"
+    excerpt: "Pence’s analysis is worth considering in some detail. As both a faithful servant to Donald Trump and a respected member of the Republican Party’s most ideologically orthodox wing, Pence holds a position that represents a synthesis of Trump’s idiosyncratic personal authoritarianism and his party’s longstanding anti-democratic trend."
+    publishedDateTime: 2021-03-03T21:07:00Z
+    webUrl: "https://nymag.com/intelligencer/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/ea8/553/d0116718e9c50f2729b2e2fbfe13728ebc-pence-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
 
 secured: "1QWhhZhzMShfyo7m5LYWzELfO8uuRam13UndDxvOCgj1W1/BI0E22B9nop9iHgolALEsXWX0tOe0uu0IPp35qQfPm71ib+q/7v+J4ZwRbnZf3o5eRMgzRZnC8NymP2Ip8B5Un7jRATkqKJXLASKtU0oWp3MKMmiSR+V7nFERExO8QTQYAksWTGGNImib/cxwTdw2NQRh+Ag49SKaCzLKJuwKBKD1qfkW0Z17M+9Ya8KDnjEWF9839B9abE3aNnlzfYOjEZaCbE5JIBJlIzU3ik6MxJyEhvIDn0W8fHlGXJcvtaxkXiABvpj7X4L0WLWcof376eiSvSwgYenkEW1kwVA/xXxXWzF3IkHYU0Vj7dg=;Llw/iBv/GU74PMoSImJtYQ=="
 ---

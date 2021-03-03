@@ -2,6 +2,62 @@
   "page": 26,
   "value": [
     {
+      "path": "_news/2021-01-22-biden-proposes-extending-nuclear-arms-treaty-with-russia-for-5-years.md",
+      "title": "Biden proposes extending nuclear arms treaty with Russia for 5 years",
+      "excerpt": "President Joe Biden has proposed extending a nuclear arms treaty with Russia before it expires next month, White House press secretary Jen Psaki said during a Thursday press conference.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqVh-Z9v3ws/biden-extending-nuclear-arms-treaty-russia-5-years",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tqVh-Z9v3ws/biden-extending-nuclear-arms-treaty-russia-5-years",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021724549190.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-extending-nuclear-arms-treaty-russia-5-years.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-extending-nuclear-arms-treaty-russia-5-years.amp",
+      "publishedDateTime": "2021-01-21T19:45:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-justice-dept-watchdog-to-examine-abrupt-departure-of-atlanta-us-attorney-whom-trump-appeared-to-criticize.md",
       "title": "Justice Dept. watchdog to examine abrupt departure of Atlanta U.S. attorney whom Trump appeared to criticize",
       "excerpt": "Byung J. “BJay” Pak suddenly stepped down earlier this month as then-President Trump waged a pressure campaign on Georgia officials over the election.",
@@ -1299,49 +1355,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-in-the-end-mike-pence-showed-both-his-guts-and-class.md",
-      "title": "In the end, Mike Pence showed both his guts, and class",
-      "excerpt": "The appalling Jan. 6 insurrection at the Capitol also targeted then-Vice President Mike Pence’s life, yet he still rose to the occasion to fulfill his duty with great courage, and he demonstrated class in attending Wednesday’s inauguration of Joe Biden.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/letters/2021/01/in-the-end-mike-pence-showed-both-his-guts-and-class.html",
-      "originalUrl": "https://www.cleveland.com/letters/2021/01/in-the-end-mike-pence-showed-both-his-guts-and-class.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/Y2S7CU23NZATHL5UBZLO6H5N4Q.jpg",
-          "width": 3794,
-          "height": 2529,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cleveland.com/letters/2021/01/in-the-end-mike-pence-showed-both-his-guts-and-class.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/letters/2021/01/in-the-end-mike-pence-showed-both-his-guts-and-class.html?outputType=amp",
-      "publishedDateTime": "2021-01-21T00:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

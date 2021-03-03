@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/24/politics/business-leaders-biden-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/business-leaders-biden-covid-plan/index.html"
 type: article
 quality: 175
-heat: 395
+heat: 415
 published: true
 
 provider:
@@ -188,6 +188,20 @@ related:
     quality: 150
     images:
       - url: "https://static01.nyt.com/images/2021/02/25/us/politics/25repubs-stimulus/25repubs-stimulus-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Calls Relaxed Covid-19 Restrictions ‘Neanderthal Thinking’"
+    excerpt: "President Biden criticized the governors of Texas and Mississippi on Wednesday, after both states loosened coronavirus restrictions, including mask mandates. He described their response as “Neanderthal thinking."
+    publishedDateTime: 2021-03-03T14:15:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007635004/biden-mask-mandate-texas-mississippi.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/03/us/03virus-briefing-whvirus-3/merlin_184488840_c50979dc-0f51-4cca-aeca-7a33edca2f93-facebookJumbo.jpg?video-overlay"
         width: 1050
         height: 550
         isCached: true

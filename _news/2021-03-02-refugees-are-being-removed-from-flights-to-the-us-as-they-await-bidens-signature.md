@@ -191,6 +191,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Calls Relaxed Covid-19 Restrictions ‘Neanderthal Thinking’"
+    excerpt: "President Biden criticized the governors of Texas and Mississippi on Wednesday, after both states loosened coronavirus restrictions, including mask mandates. He described their response as “Neanderthal thinking."
+    publishedDateTime: 2021-03-03T14:15:00Z
+    webUrl: "https://www.nytimes.com/video/us/politics/100000007635004/biden-mask-mandate-texas-mississippi.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/03/us/03virus-briefing-whvirus-3/merlin_184488840_c50979dc-0f51-4cca-aeca-7a33edca2f93-facebookJumbo.jpg?video-overlay"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "WARREN presses BIDEN for DEBT RELIEF — NEW GROUPS eligible for COVID SHOTS — BEACON HILL to probe VAX rollout"
     excerpt: "President Joe Biden is pretty blunt about where he stands on canceling $50,000 per borrower in student loan debt. “I will not make that happen,” Biden said during a CNN town hall earlier this week. But Sen."
     publishedDateTime: 2021-02-18T12:23:00Z
