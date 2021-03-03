@@ -63,22 +63,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trial Day 3: Democrats to highlight Trump's 'lack of remorse' for Capitol riot"
-    excerpt: "House Democrats prosecuting Donald Trump's impeachment case intend to use the third day of the Senate trial to highlight what they cast as the former president's unabashed reaction to last month's deadly rampage at the Capitol."
-    publishedDateTime: 2021-02-11T16:08:00Z
-    webUrl: "https://thehill.com/homenews/senate/538413-trial-day-3-democrats-to-highlight-trumps-lack-of-remorse-for-capitol-riot"
-    ampWebUrl: "https://thehill.com/homenews/senate/538413-trial-day-3-democrats-to-highlight-trumps-lack-of-remorse-for-capitol-riot?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538413-trial-day-3-democrats-to-highlight-trumps-lack-of-remorse-for-capitol-riot?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
-    images:
-      - url: "https://thehill.com/sites/default/files/senateimpeachmenttrialraskin_020921getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "New video, withdrawn comments: 6 takeaways from Day 2 of Trump's impeachment trial"
     excerpt: "House impeachment managers proceeded with their arguments for convicting former President Donald Trump on the charge of inciting the Capitol riot."
     publishedDateTime: 2021-02-11T02:14:00Z

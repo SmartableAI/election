@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris swears in new Secretary of Energy in Washington"
-excerpt: "Former Michigan Governor Jennifer Granholm reacts next to her husband Dan Mulhern after been sworn in as Secretary of Energy by U.S. Vice President Kamala Harris (R) in the Eisenhower Executive Office Building at the White House in Washington,"
+excerpt: "Former Michigan Governor Jennifer Granholm hugs her husband Dan Mulhern after been sworn in as Secretary of Energy by U.S. Vice President Kamala Harris (R) in the Eisenhower Executive Office Building at the White House in Washington,"
 publishedDateTime: 2021-02-26T01:33:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/5e16e07c8aff826a61ca71d967393675/Kamala-Harris-swears-in-new-Secretary-of-Energy-in-Washington/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/5e16e07c8aff826a61ca71d967393675/Kamala-Harris-swears-in-new-Secretary-of-Energy-in-Washington/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/29aec863ef5d35e7b959993e5568406b/Kamala-Harris-swears-in-new-Secretary-of-Energy-in-Washington/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/29aec863ef5d35e7b959993e5568406b/Kamala-Harris-swears-in-new-Secretary-of-Energy-in-Washington/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/5e16e07c8aff826a61ca71d967393675/GRANHOLM-ENERGY.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/29aec863ef5d35e7b959993e5568406b/GRANHOLM-ENERGY.jpg"
     width: 650
     height: 433
     isCached: true
@@ -3795,6 +3795,6 @@ related:
       domain: seattletimes.com
     quality: 25
 
-secured: "4aekZN+NDt5zehepF9Ko/uxCWphqPcLjwL5w8DjZUj7CPzXS0KmsOAM/7AVKOJQsxd9K+YFmaD/Gbrxg6fxHAsd7XClzvbmSq7lRa5sztlXTkNIyN4HuupPf3o7SDpjULW6SBava6OY/cIsiXZ2Yexs8LOsXfTgmIDA3exgttLTxA/LKYixVku9AQwVRz09kb/7hXP98oPp396fnEO/oGCuq0uPc9EV1LVDwjgbmVApTxZb/Y5bUe9zclSRZbD+JTgCOq2lNIl8Ak80Kura8Hy3+ANboBJdb0czAzHXvkRdHuYe1U4vMqOGhomsyvn+UlT1GRw1mGjXMQ9J7Aatm3nYP23lLxbj7gkNKpdiD1v4XWjhj17wQYuBS+8VPCETOQX6WSg7LkesQBysyOUEbVHnsXwyNfb+C64xO1w0Gyqoms2yXkFX+OgZxIe6hgJXKB47uRhTzcLOazs38gh9xK4eWMOvDdiCj3tNQDQ7enccGDJhgq7j0E3KYS1JgBgSp+MAGu/NSv1H3x1lURjSxcA==;8G9hwN1Hf5Kut9c6uY/bLQ=="
+secured: "EvsYPywAnU74psFYgmOuuVp4BSRjMxs9uNUKW6N+dVuTN02H20u70gWJWA4HXa1uY029DIItdzBUhhxy2j1D5t97NJ18B/1D+CTk8z/uj7SVSaDXaaDKX85Z8SUXGNBpAr7pTxIQCkEBWh8pIw4SCPPv3z4Lbo+mhwA3nB9eO44pdwI+OraycFN1onFuOFoyrhlcz6bJl/n2jPqNOgSWAu8v85wyAmC/Lyfk3QoG7Hy/RIwVVGIephaE2nom5HDGdY40GPz0BBS/5o+695uziIIfYAnCRw5z+HI0SePVvoSMggBTW0E2uKW5lWb3IQM84MoYkxV2tpSv/iXd6hez3SnGGqvVNMazigFCCXCGFb0=;TLn/ZXHLBRjcWmj0Da9aSQ=="
 ---
 

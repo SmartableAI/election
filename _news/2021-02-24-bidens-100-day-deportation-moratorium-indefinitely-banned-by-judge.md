@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/bidens-100-day-deportation-moratori
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d79e6363-51ad-47f1-b9f6-f5a94264370c/062e0e3b-bccb-4311-af68-3bb7a39e436e/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Jill Biden stiff-armed protester at campaign rally one year ago"
+    excerpt: "Super Tuesday was then-candidate Joe Biden's chance at a Hail Mary pass to revive his presidential campaign -- but it was his wife, Jill, who drew praise for playing NFL-style defense that night."
+    publishedDateTime: 2021-03-03T11:42:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/un9MG1Oqnow/jill-biden-stiff-armed-protester"
+    ampWebUrl: "https://www.foxnews.com/politics/jill-biden-stiff-armed-protester.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jill-biden-stiff-armed-protester.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Jill-Biden-Protestor-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "ACLU calls Biden guidance on ICE arrests, deportations 'disappointing step backward'"
     excerpt: "The American Civil Liberties Union (ACLU) is criticizing the Biden administration’s new guidance for arrests and deportations under Immigration and Customs Enforcement (ICE) -- calling it a “disappointing step backward” and telling the new administration it expects “better.”"

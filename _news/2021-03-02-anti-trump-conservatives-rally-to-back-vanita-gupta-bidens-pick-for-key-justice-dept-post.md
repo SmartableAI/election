@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
 type: article
 quality: 129
-heat: 229
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Senate committee vote on Biden budget pick Tanden postponed"
-    excerpt: "A Senate committee postponed the Wednesday hearing for President Joe Biden’s pick to lead the Office of Management and Budget, suggesting further challenges for Neera Tanden."
-    publishedDateTime: 2021-02-24T13:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/senate-committee-vote-on-biden-budget-pick-tanden-postponed-idUSKBN2AO1S4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+  - title: "Kayleigh McEnany Compares Biden Appearances to Donald Trump, Barack Obama: 'Where's Joe?'"
+    excerpt: "The former White House press secretary has questioned President Joe Biden not yet holding a solo press conference, pointing to his two predecessors having done so by this point in their tenures."
+    publishedDateTime: 2021-03-03T12:41:00Z
+    webUrl: "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400"
+    ampWebUrl: "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552752404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "U.S. Senate panel sets hearing for Biden's No. 2 and No. 3 Justice Department picks"
-    excerpt: "The U.S. Senate Judiciary Committee on Thursday announced it will hold a confirmation hearing on March 9 for President Joe Biden's nominees to serve in the No. 2 and No. 3 top jobs at the U.S. Justice Department."
-    publishedDateTime: 2021-02-26T03:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-senate-justice-idUSKBN2AP325"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AP325"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP325"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552951685&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O1R8"
-        width: 817
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1747043/kayleigh-mcenany-press-briefing.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Senate votes to confirm Biden pick as commerce secretary"
     excerpt: "The Senate voted overwhelmingly Tuesday to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy's recovery during and after the coronavirus pandemic."
@@ -89,20 +73,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJAGMVDUCZDAHI6MIHGXAQMAOI.jpg"
         width: 6000
         height: 4000
-        isCached: true
-  - title: "Trump To Make First Post-presidency Speech At Conservative Conference"
-    excerpt: "Donald Trump returns to the political spotlight Sunday, determined to regain control of a Republican Party that is out of power and pondering whether the flawed former president can win again in 2024."
-    publishedDateTime: 2021-02-28T14:11:00Z
-    webUrl: "https://www.ibtimes.com/trump-make-first-post-presidency-speech-conservative-conference-3153624"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/28/former-us-president-donald-trump-will-address-cpac.jpg"
-        width: 1024
-        height: 644
         isCached: true
 
 secured: "M81BiSOPD3Vmkn7nzbeh4psWMpfxjQ/j5y5wR62VoBHsueBwC4Tij+8mRWmrey7l3a5H8hGtcDopaj2/uQeeAvUOfJw3bn2t5bCr3BhictznpV3YcWR9Fpstd6ggr4377Wh7twWIegp/tlE0LHDk/b6yFSPpLI/DZSdk0Jl2TFIhxL7s/hZuH/h5/ekvwLKEt4lsh1uPDJC6Lb3xBEGrFxYfQjedAiLqE7zagbybrCXUzrbl2byN0G9M7jXSFLfr3iV5Zx4mO7+nD4WQSxKFDuqEOH9GzIewLfmNbn8I+PWGX10enzS0cpjjK9vtTQhQTT9y5OvT7vfFaaNyvSy0CzGbeRA8Rt77xCAYgh3QgSI=;HSZhF5lU4GDiJJKHozzvRQ=="

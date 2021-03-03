@@ -31,44 +31,28 @@ images:
     isCached: true
 
 related:
-  - title: "GOP Sen. Richard Burr facing censure at home over vote to convict Trump"
-    excerpt: "The North Carolina GOP is set to vote on a censure on retiring Sen. Richard Burr in an emergency meeting Monday."
-    publishedDateTime: 2021-02-16T02:56:00Z
-    webUrl: "https://abcnews.go.com/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/gop-sen-richard-burr-facing-censure-home-vote/story?id=75905127"
+  - title: "Trump and Giuliani sued by Democratic congressman over deadly Capitol riot – live"
+    excerpt: "Bennie Thompson accuses Trump and allies of violating 1871 act that prohibits violence that disrupts work of Congress – follow all the latest"
+    publishedDateTime: 2021-02-16T16:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
     images:
-      - url: "https://s.abcnews.com/images/Politics/burr-impeachment-5-ap-ps-210213_1613251643612_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/af1d76d3db59aaf37cdf030c990b71e6d58dc183/0_39_4393_2635/master/4393.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=506d4603234fc6be44766f4013f3d6ce"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Utah GOP accepts Romney's vote to convict Trump"
-    excerpt: "Utah's Republican Party on Tuesday accepted Sen. Mitt Romney's vote to convict former President Donald Trump, saying there is \"power\" in difference of opinions."
-    publishedDateTime: 2021-02-16T18:44:00Z
-    webUrl: "https://abcnews.go.com/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/utah-gop-accepts-romneys-vote-convict-trump/story?id=75925858"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/romney-impeachment-5-ap-ps-210213_1613251011089_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "GOP’s Thune says Trump allies engaging in ‘cancel culture’"
-    excerpt: "Republican Sen. John Thune is criticizing activists and party leaders for engaging in “cancel culture” by rushing to censure GOP senators for voting to convict former President Donald Trump at his imp"
-    publishedDateTime: 2021-02-19T06:45:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gops-thune-says-trump-allies-engaging-in-cancel-culture/2021/02/18/1be89eae-7254-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gops-thune-says-trump-allies-engaging-in-cancel-culture/2021/02/18/1be89eae-7254-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gops-thune-says-trump-allies-engaging-in-cancel-culture/2021/02/18/1be89eae-7254-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+  - title: "Dem’s lawsuit accuses Trump of inciting deadly Capitol riot"
+    excerpt: "The House Homeland Security chairman has sued Donald Trump, accusing him of inciting the  deadly insurrection at the Capitol"
+    publishedDateTime: 2021-02-17T06:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -79,154 +63,191 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "GOP infighting in post-Trump era threatens California recall"
-    excerpt: "Republican hopes of ousting Democratic Gov. Gavin Newsom in California could be threatened by bitter infighting within the state GOP"
-    publishedDateTime: 2021-02-20T05:57:00Z
-    webUrl: "https://www.washingtonpost.com/national/gop-infighting-in-post-trump-era-threatens-california-recall/2021/02/19/9a689474-7316-11eb-8651-6d3091eac63f_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/gop-infighting-in-post-trump-era-threatens-california-recall/2021/02/19/9a689474-7316-11eb-8651-6d3091eac63f_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/gop-infighting-in-post-trump-era-threatens-california-recall/2021/02/19/9a689474-7316-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+  - title: "NAACP and Democratic congressman sue Trump, Giuliani over Capitol assault"
+    excerpt: "The lawsuit accuses Trump, Giuliani and two extremist groups of violating a federal Reconstruction-era law known as the Ku Klux Klan Act."
+    publishedDateTime: 2021-02-16T16:47:00Z
+    webUrl: "https://www.cbsnews.com/news/naacp-sues-trump-giuliani-capitol-riot/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/16/0543b3d7-c32a-4b6c-be77-cf5195d911cc/thumbnail/1200x630/e22992a93d9d17f355b7e72a7ada3a8d/gettyimages-1230465123.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Trump-McConnell clash threatens to settle into a cold war as GOP eyes midterms"
-    excerpt: "Republicans said the veteran Senate leader is unlikely to carry on in a back-and-forth with the former president. However, it’s unclear how far Trump will pursue his vendetta."
-    publishedDateTime: 2021-02-18T05:41:00Z
-    webUrl: "https://www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/trump-mcconnell-clash-threatens-to-settle-into-a-cold-war-as-gop-eyes-midterms/2021/02/17/3c156db6-7136-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+  - title: "Trump lashes out after McConnell blames him for Capitol insurrection – live"
+    excerpt: "Senate minority leader has said Trump is ‘practically and morally’ responsible for US Capitol attack"
+    publishedDateTime: 2021-02-17T00:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates?page=with:block-602c3e0f8f08cafb5cc2b40f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/475dbe7596faf3929ebdabf81ba12067019b7079/0_178_5416_3248/master/5416.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d09134bff3768078bd89a05f64340d5"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Trial Day 3: Democrats to highlight Trump's 'lack of remorse' for Capitol riot"
+    excerpt: "House Democrats prosecuting Donald Trump's impeachment case intend to use the third day of the Senate trial to highlight what they cast as the former president's unabashed reaction to last month's deadly rampage at the Capitol."
+    publishedDateTime: 2021-02-11T16:08:00Z
+    webUrl: "https://thehill.com/homenews/senate/538413-trial-day-3-democrats-to-highlight-trumps-lack-of-remorse-for-capitol-riot"
+    ampWebUrl: "https://thehill.com/homenews/senate/538413-trial-day-3-democrats-to-highlight-trumps-lack-of-remorse-for-capitol-riot?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538413-trial-day-3-democrats-to-highlight-trumps-lack-of-remorse-for-capitol-riot?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
     quality: 121
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MBZFJTOF4I6XJTO4JYEN2PITA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://thehill.com/sites/default/files/senateimpeachmenttrialraskin_020921getty.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Maine GOP scolds Susan Collins for her vote to convict Trump on impeachment charge"
-    excerpt: "Maine's GOP condemned \"in the strongest possible terms\" Collins' vote to hold Trump responsible for inciting the deadly insurrection at the Capitol."
-    publishedDateTime: 2021-02-18T18:38:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/18/maine-gop-condemn-republican-susan-collins-vote-convict-trump-impeachment/4492688001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4492688001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4492688001"
+  - title: "Democratic Rep. Bennie Thompson sues Donald Trump over role in U.S. Capitol riot"
+    excerpt: "The lawsuit from the Mississippi Democrat is part of an expected wave of litigation over the Jan. 6 riot at the U.S. Capitol."
+    publishedDateTime: 2021-02-16T16:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/16/bennie-thompson-sues-trump-giuliani-capitol-riot-ku-klux-klan-act/6763594002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6763594002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6763594002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 119
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/23a2d96f-3584-498c-9691-06a03f4f38d8-AP21044789087213.jpg?auto=webp&crop=3193,1797,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/02/16/USAT/4e37de16-1458-45f7-82d0-cdb80204b6c4-AP21047435262826.jpg?auto=webp&crop=1023,576,x0,y74&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Trump incited Capitol riot further after it began, impeachment prosecutors will claim"
+    excerpt: "Ex-President Donald Trump is due to begin his Senate impeachment trial. He is charged with the Capitol riot that sought to undo the election of Joe Biden."
+    publishedDateTime: 2021-02-09T22:14:00Z
+    webUrl: "https://www.cnbc.com/2021/02/09/trump-impeachment-prosecutors-will-use-new-evidence-aides-say.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/09/trump-impeachment-prosecutors-will-use-new-evidence-aides-say.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/09/trump-impeachment-prosecutors-will-use-new-evidence-aides-say.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 118
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106822651-1610409078172-wind.jpg?v=1610409131"
+        width: 3000
+        height: 2043
+        isCached: true
+  - title: "Lawsuit accuses Donald Trump, Giuliani and others of conspiring to incite Capitol riot"
+    excerpt: "Former Trump, his attorney Rudy Giuliani, the Proud Boys and Oath Keepers conspired to violate the 1871 Ku Klux Klan Act, which prohibits any actions designed to prevent"
+    publishedDateTime: 2021-02-16T20:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capitol-siege-ap-ps-210216_1613484545937_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Senate to hold hearing into 6 January Capitol attack by Trump supporters – live updates"
+    excerpt: "Law enforcement officials will give witness testimony about day pro-Trump mob stormed Capitol"
+    publishedDateTime: 2021-02-23T11:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/60ab62fcd73657cd7195c8fd9ca853f1cec615f0/0_99_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f3fc19fd53d0e193fe77fccecb41e7a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Impeachment managers say insurrectionists came to Capitol because Trump 'told them to' – live"
+    excerpt: "Congresswoman Diana DeGette says insurrectionists even questioned why police tried to block them as they followed Trump’s instructions"
+    publishedDateTime: 2021-02-11T20:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6025013c8f083a72e444e293"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 114
+    images:
+      - url: "https://i.guim.co.uk/img/media/7f5733b1fe59734a9c8909c09045f903174195c1/22_0_5330_3199/master/5330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e87baa6bac0701cb8fc8341694b623a3"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "House Homeland Security chairman sues Trump and Giuliani, accusing them of inciting Capitol riot"
+    excerpt: "The lawsuit marks latest legal action challenging former president and invokes the 1871 Ku Klux Klan Act, which bars interference in Congress’ constitutional duties."
+    publishedDateTime: 2021-02-16T20:29:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/lawsuit-trump-capitol-riot/2021/02/16/1695b6b0-6fd6-11eb-b8a9-b9467510f0fe_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/lawsuit-trump-capitol-riot/2021/02/16/1695b6b0-6fd6-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/lawsuit-trump-capitol-riot/2021/02/16/1695b6b0-6fd6-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6E3Y7SRBYI6XPNEMFNK57IFKU.jpg&w=1440"
+        width: 1440
+        height: 1853
+        isCached: true
+  - title: "Donald Trump's former casino in Atlantic City demolished – video"
+    excerpt: "Trump, who opened the building on the oceanfront boardwalk in 1984, lost control of it in a 2009 bankruptcy"
+    publishedDateTime: 2021-02-17T10:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/feb/17/donald-trumps-former-casino-in-atlantic-city-demolished-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/7d6c324dfade67e4e9e038ca4361f81174254402/295_0_2636_1583/master/2636.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9702bf15f1f06d4d84aba6a887f1398"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Democratic Rep. Bennie Thompson sues Donald Trump, accusing him of inciting riot at US Capitol, conspiring with extremists"
+    excerpt: "The lawsuit from Mississippi’s Rep. Bennie Thompson, chairman of the House Homeland Security Committee, is part of an expected wave of litigation over the Jan. 6 riot."
+    publishedDateTime: 2021-02-16T15:21:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-democrat-trump-riot-lawsuit-bennie-thompson-20210216-igcnrw4bqrg7zegyzcpc3ks4sq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-democrat-trump-riot-lawsuit-bennie-thompson-20210216-igcnrw4bqrg7zegyzcpc3ks4sq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-democrat-trump-riot-lawsuit-bennie-thompson-20210216-igcnrw4bqrg7zegyzcpc3ks4sq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 99
+    images:
+      - url: "https://www.chicagotribune.com/resizer/3gm2Cv4MjRWbLjdwqYWpGjMnYIE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E2NVJQHT6JBDLKIOLZAJGLX5H4.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "GOP Gov. Larry Hogan Urges Party to Leave 'Cult of Donald Trump,' Hails Conviction Votes"
-    excerpt: "\"I was very proud of some of the folks who stood up and did the right thing,\" the Maryland governor said Sunday of senators who voted to convict Trump."
-    publishedDateTime: 2021-02-14T16:00:00Z
-    webUrl: "https://www.newsweek.com/gop-gov-larry-hogan-urges-party-leave-cult-donald-trump-hails-conviction-votes-1569213"
-    ampWebUrl: "https://www.newsweek.com/gop-gov-larry-hogan-urges-party-leave-cult-donald-trump-hails-conviction-votes-1569213?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-gov-larry-hogan-urges-party-leave-cult-donald-trump-hails-conviction-votes-1569213?amp=1"
+  - title: "Impeachment managers to demonstrate Trump's 'lack of remorse' over Capitol riot – live"
+    excerpt: "Impeachment managers to conclude prosecution, arguing Trump is guilty of ‘most grievous constitutional crime ever committed’ by a US president"
+    publishedDateTime: 2021-02-11T16:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-60255bc28f08b555964bbae3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1734741/larry-hogan.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Arkansas' GOP governor says he won't back a Trump 2024 bid"
-    excerpt: "Arkansas Gov. Asa Hutchinson said Sunday he will not back Donald Trump if the former president runs for the White House in 2024, saying “it’s time” to move on to different voices in the Republican Party."
-    publishedDateTime: 2021-02-22T18:54:00Z
-    webUrl: "https://www.businessinsider.com/arkansas-gop-governor-says-he-wont-back-a-trump-2024-bid-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/arkansas-gop-governor-says-he-wont-back-a-trump-2024-bid-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/arkansas-gop-governor-says-he-wont-back-a-trump-2024-bid-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "State GOP lawmakers propose flurry of voting restrictions to placate Trump supporters, spurring fears of a backlash"
-    excerpt: "The effort is dividing Republicans, some of whom are trying to head off the measures to prevent being labeled the party of voter suppression."
-    publishedDateTime: 2021-02-20T06:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gop-voting-restrictions/2021/02/19/d1fab224-72ca-11eb-85fa-e0ccb3660358_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 103
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UTJS2GBMHUI6XHBBHTCQDUEYD4.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Sen. Ben Sasse: GOP Must Persuade Voters It Has A Vision Beyond Donald Trump"
-    excerpt: "The Republican from Nebraska speaks with NPR's Steve Inskeep about the impeachment of former President Donald Trump, the future of the GOP and working with the Biden administration."
-    publishedDateTime: 2021-02-16T19:03:00Z
-    webUrl: "https://www.npr.org/2021/02/16/968252516/sen-sasse-votes-to-convict-trump-says-he-voted-his-conscience"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 102
-    images:
-      - url: "https://media.npr.org/assets/img/2021/02/16/gettyimages-1230674721_wide-fcb3d3d610097722a3671aa863340ec9571a9cd2.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "GOP Rep. Adam Kinzinger’s family lashed out at him for voting to impeach Trump: ‘We are thoroughly disgusted with you!’"
-    excerpt: "Rep. Adam Kinzinger faces censure and his family's ire over his vote to impeach former president Donald Trump."
-    publishedDateTime: 2021-02-16T14:47:00Z
-    webUrl: "https://www.washingtonpost.com/nation/2021/02/16/adam-kinzinger-family-impeachment-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/nation/2021/02/16/adam-kinzinger-family-impeachment-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/02/16/adam-kinzinger-family-impeachment-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A7RO4YTEB4I6XOVYOB7YO2OXQU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Nearly 60% of Republican voters think Trump should continue to play 'a major role' in the GOP going forward, new poll shows"
-    excerpt: "The new Politico/Morning Consult poll also found that Trump's support in a hypothetical 2024 GOP primary had returned to pre-insurrection levels."
-    publishedDateTime: 2021-02-16T15:42:00Z
-    webUrl: "https://www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/59-percent-gop-voters-think-trump-major-role-in-gop-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 99
-    images:
-      - url: "https://i.insider.com/6018d8c1d6c5e60019c6e5f4?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trump Rips McConnell as GOP Divide Deepens Post-Capitol Riot"
-    excerpt: "Former President Donald Trump has issued a blistering statement denouncing the top Republican in the Senate, Mitch McConnell, as a “political hack” who will make sure the party “will not win again.\"."
-    publishedDateTime: 2021-02-17T09:10:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-16/trump-slams-mcconnell-as-gop-divide-deepens-post-impeachment?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: The Guardian
+      domain: theguardian.com
+    quality: 97
 
 secured: "ScSWlka8KcxWDttjtFrpS9zQ76t2P74hRX1VClUaSpenMx9HeXcojdthEtgXMMsKtYYKQiE+nOW+QULV58nzq92dDLjMpRlNqdituz43B/St0KOHlL6KpzQU0aH98npXFouQuFVE8Dg6UU7/jCMA8Ua+ORVbVRdsAPlsDnBhKCWE9ANWqg8CcQqXWwsJ6EOeMuebgWGmOhYX8wOSTlftWk04SpOuP0bQy+cvji63WzBlWsIC7LpE+Dy35aa8nq9gFAJEkO9AFDE6mKSqWBXlaKjJxTcli2XUH1F3bCmdRebVDLu0Nv9ADz+vWHmrHuJpymEK8Q6MBwbybCItK408SRpHylwZJcCJlwdGBzvLo4Q=;Xg/gy0IWLGEpazjNzWSI7g=="
 ---

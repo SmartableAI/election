@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-24-georgia-counties-seek-legal-fees-for-frivolous-trump-voter-fraud-lawsuit.md",
+      "title": "Georgia counties seek legal fees for 'frivolous' Trump voter-fraud lawsuit ",
+      "excerpt": "Two counties in Georgia are seeking to recoup attorneys' fees from former President Donald Trump and Georgia Republican Party Chairman David Shafer stemming from their lawsuit that made \"frivolous\" and \"baseless\" claims of voter fraud in Georgia's count during the presidential election, according to",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JjsoBqE3i18/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JjsoBqE3i18/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 173,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210111151027-01-trump-0104-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/24/politics/georgia-counties-trump-legal-fees/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/georgia-counties-trump-legal-fees/index.html",
+      "publishedDateTime": "2021-02-24T12:03:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-bidens-100-day-deportation-moratorium-indefinitely-banned-by-judge.md",
       "title": "Biden’s 100-day deportation moratorium indefinitely banned by judge",
       "excerpt": "The Biden administration’s efforts to impose a 100-day pause on deportations were dealt another blow on Tuesday when a district judge extended a ban on its imposition in response to a lawsuit from Texas.",
@@ -14,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -839,7 +895,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 645,
+      "heat": 665,
       "tags": null,
       "images": [
         {
@@ -1003,7 +1059,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -1156,58 +1212,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-senate-to-hold-hearing-into-6-january-capitol-attack-by-trump-supporters-live-updates.md",
-      "title": "Senate to hold hearing into 6 January Capitol attack by Trump supporters – live updates",
-      "excerpt": "Law enforcement officials will give witness testimony about day pro-Trump mob stormed Capitol",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/60ab62fcd73657cd7195c8fd9ca853f1cec615f0/0_99_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f3fc19fd53d0e193fe77fccecb41e7a",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates",
-      "publishedDateTime": "2021-02-23T03:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

@@ -7,8 +7,8 @@ originalUrl: "https://www.reuters.com/video/watch/idOVE15CYXR"
 webUrl: "https://www.reuters.com/video/watch/idOVE15CYXR"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 145
+published: true
 
 provider:
   name: Reuters
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Senate to hold hearing into 6 January Capitol attack by Trump supporters – live updates"
-    excerpt: "Law enforcement officials will give witness testimony about day pro-Trump mob stormed Capitol"
-    publishedDateTime: 2021-02-23T11:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 117
-    images:
-      - url: "https://i.guim.co.uk/img/media/60ab62fcd73657cd7195c8fd9ca853f1cec615f0/0_99_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f3fc19fd53d0e193fe77fccecb41e7a"
-        width: 600
-        height: 360
-        isCached: true
   - title: "Wray: No evidence of fake Trump supporters at Capitol riot"
     excerpt: "FBI Director Christopher A. Wray on March 2 said that there was no evidence of fake Trump supporters who stormed the Capitol on Jan. 6."
     publishedDateTime: 2021-03-02T16:15:00Z

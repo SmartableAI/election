@@ -239,22 +239,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Trump incited Capitol riot further after it began, impeachment prosecutors will claim"
-    excerpt: "Ex-President Donald Trump is due to begin his Senate impeachment trial. He is charged with the Capitol riot that sought to undo the election of Joe Biden."
-    publishedDateTime: 2021-02-09T22:14:00Z
-    webUrl: "https://www.cnbc.com/2021/02/09/trump-impeachment-prosecutors-will-use-new-evidence-aides-say.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/09/trump-impeachment-prosecutors-will-use-new-evidence-aides-say.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/09/trump-impeachment-prosecutors-will-use-new-evidence-aides-say.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 118
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106822651-1610409078172-wind.jpg?v=1610409131"
-        width: 3000
-        height: 2043
-        isCached: true
   - title: "Trump impeachment: Senate trial to continue after harrowing video evidence – live updates"
     excerpt: "Senate will reconvene at noon for second day of prosecution evidence"
     publishedDateTime: 2021-02-11T07:39:00Z

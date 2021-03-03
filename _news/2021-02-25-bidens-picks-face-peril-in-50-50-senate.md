@@ -431,6 +431,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Senate committee vote on Biden budget pick Tanden postponed"
+    excerpt: "A Senate committee postponed the Wednesday hearing for President Joe Biden’s pick to lead the Office of Management and Budget, suggesting further challenges for Neera Tanden."
+    publishedDateTime: 2021-02-24T13:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/senate-committee-vote-on-biden-budget-pick-tanden-postponed-idUSKBN2AO1S4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552752404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "U.S. senators weigh paring back Biden's $1.9 trillion COVID-19 aid plan"
     excerpt: "U.S. senators on Wednesday were eyeing potentially significant cuts to President Joe Biden's $1.9 trillion COVID-19 relief bill as they awaited a ruling on whether the measure can include raising the federal minimum wage to $15 an hour."
     publishedDateTime: 2021-02-24T21:16:00Z

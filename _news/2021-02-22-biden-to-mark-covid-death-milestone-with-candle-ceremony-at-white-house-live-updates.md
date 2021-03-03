@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1647
+heat: 1667
 published: true
 
 provider:
@@ -415,6 +415,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/05/NAAS/e032a8c3-5730-444c-93b7-0106d65be189-Brooks_column_2-8.jpg?auto=webp&crop=4513,2539,x0,y229&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Senate committee vote on Biden budget pick Tanden postponed"
+    excerpt: "A Senate committee postponed the Wednesday hearing for President Joe Biden’s pick to lead the Office of Management and Budget, suggesting further challenges for Neera Tanden."
+    publishedDateTime: 2021-02-24T13:06:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/senate-committee-vote-on-biden-budget-pick-tanden-postponed-idUSKBN2AO1S4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552752404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden's picks face peril in 50-50 Senate"
     excerpt: "Two of President Biden’s Cabinet nominees are slamming into confirmation hurdles on Capitol Hill, testing the White House’s ability to navigate a tenuous Senate majority amid deep partisan divisions in Washington."

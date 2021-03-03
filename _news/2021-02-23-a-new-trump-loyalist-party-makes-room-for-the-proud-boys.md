@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-pa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-patriot-party-orig-jm.cnn"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://cdn.thewirecutter.com/wp-content/media/2021/03/dishwasher-efficiency-2048px.jpg?auto=webp&quality=60&crop=1.91:1&width=1200"
         width: 1200
         height: 628
+        isCached: true
+  - title: "House Oversight panel reissues subpoena for Trump's tax records"
+    excerpt: "The move comes after the Supreme Court allowed the Manhattan district attorney to get Trump’s financial records."
+    publishedDateTime: 2021-03-03T04:49:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/house-oversight-panel-reissues-subpoena-trump-s-tax-records-n1259431"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1259431"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1259431"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_09/3453997/210303-donald-trump-mc-1142_b1379315bab8aed92d103052ad67dadb.JPG"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Trump’s Republican Hit List at CPAC Is a Warning Shot to His Party"
     excerpt: "In his first public appearance since leaving office, Donald J. Trump also planned to assert that there were no divisions in his party, according to excerpts of his speech, even as he plotted vindication against his enemies."

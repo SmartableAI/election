@@ -422,6 +422,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 99
+  - title: "Biden pledges vaccine for every adult by end of May"
+    excerpt: "Top News Biden pledges vaccine for every adult by end of May. Posted . President Joe Biden on Tuesday ordered U.S. states to prioritize COVID-19 vaccinations for teachers to ensur"
+    publishedDateTime: 2021-03-03T06:10:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE2JA673"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
 
 secured: "FnvHQmi5ULlEZ9eew3Pz4XfyEfrWNofTc0crh1NhdSS/xH45CqFlWxyuUQnP6EXbD/imaSrom6wWFtrBXqAudP4tgOzmXKDg4ae93dSX68A/XRuFuIMs3r0MWMGXNiXrngwTxAzHjveqJ278Dlx3hzLL1jR+8WsD8Ikgd0nJ/KzMO9UL+9/T04YFGYPN1mR7fjHJg2GLFQ8RcJU434s28qHGw2dThsKBNDm/0cvoQ7oswZYafUE5UwZMIYZaajZSbHlMthOkNNSnHXPieFwnUlx1ARBwpiprU8/9SLlUAPo+LV6EpZRds7NqDWn7abv+0KJKUHhn7mAl1LBlZphDDnbvv7SKz3ek64wsutOGu64=;EJH9is5JbBfvZuQahl+rFA=="
 ---

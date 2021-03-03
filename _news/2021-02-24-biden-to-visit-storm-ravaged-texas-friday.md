@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -422,6 +422,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 99
+  - title: "Biden pledges vaccine for every adult by end of May"
+    excerpt: "Top News Biden pledges vaccine for every adult by end of May. Posted . President Joe Biden on Tuesday ordered U.S. states to prioritize COVID-19 vaccinations for teachers to ensur"
+    publishedDateTime: 2021-03-03T06:10:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE2JA673"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
 
 secured: "weGD6YQcA/9uT9z1/KJQihdlyxySWdYu6TvDXCCT/QWicNAETaCbIK8gX3roGrQJX1HeLQ3j1SmV+GAQ2gpYamCsmBfM8iJjINKf8s24O9sJdGEEtgv/HCNGLz+PRwi7YBiZRob/UmV5P4bulXqfK4IRGCcnQHYr5XY7wGtEPmf6YkR/KHe70yzQq9Cs3OVgVwGYELnEaW42p67osS/s4OAuaftqmSbvyQ328mPF5sQ1C8LojUIIfnmt2X9viLqYjkM6lsRYsEbeBm7cIoUzA+mso1qYMr7PNbLpEAqrtwuDdPpTYMbCp3D2dzuM2sGdKTHcU7TX1BJWPmtMinr/xSZvM90UankxTmvInPpbdV0=;8NQCWrSJlsQI8IvvNBJC4A=="
 ---

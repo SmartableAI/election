@@ -79,22 +79,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Impeachment managers say insurrectionists came to Capitol because Trump 'told them to' – live"
-    excerpt: "Congresswoman Diana DeGette says insurrectionists even questioned why police tried to block them as they followed Trump’s instructions"
-    publishedDateTime: 2021-02-11T20:06:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6025013c8f083a72e444e293"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 114
-    images:
-      - url: "https://i.guim.co.uk/img/media/7f5733b1fe59734a9c8909c09045f903174195c1/22_0_5330_3199/master/5330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e87baa6bac0701cb8fc8341694b623a3"
-        width: 600
-        height: 360
-        isCached: true
   - title: "McConnell would have happily considered finding Trump guilty, were it not for Mitch McConnell"
     excerpt: "There’s no question, none, that President Trump is practically and morally responsible for provoking” the attack on the U.S. Capitol on Jan. 6, Senate Minority Leader Mitch McConnell (R-Ky.) said Saturday,"
     publishedDateTime: 2021-02-14T20:23:00Z

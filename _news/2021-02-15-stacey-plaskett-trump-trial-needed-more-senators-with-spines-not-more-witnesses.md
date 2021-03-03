@@ -61,22 +61,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trial Day 3: Democrats to highlight Trump's 'lack of remorse' for Capitol riot"
-    excerpt: "House Democrats prosecuting Donald Trump's impeachment case intend to use the third day of the Senate trial to highlight what they cast as the former president's unabashed reaction to last month's deadly rampage at the Capitol."
-    publishedDateTime: 2021-02-11T16:08:00Z
-    webUrl: "https://thehill.com/homenews/senate/538413-trial-day-3-democrats-to-highlight-trumps-lack-of-remorse-for-capitol-riot"
-    ampWebUrl: "https://thehill.com/homenews/senate/538413-trial-day-3-democrats-to-highlight-trumps-lack-of-remorse-for-capitol-riot?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538413-trial-day-3-democrats-to-highlight-trumps-lack-of-remorse-for-capitol-riot?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 121
-    images:
-      - url: "https://thehill.com/sites/default/files/senateimpeachmenttrialraskin_020921getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Trump impeachment trial live updates: Managers show new security footage of riot"
     excerpt: "Raskin warned that managers would present footage viewers may find disturbing. Trump impeachment trial: Day 2 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
     publishedDateTime: 2021-02-11T02:05:00Z

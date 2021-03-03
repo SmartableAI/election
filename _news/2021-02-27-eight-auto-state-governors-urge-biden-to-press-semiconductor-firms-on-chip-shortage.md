@@ -421,6 +421,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden pledges vaccine for every adult by end of May"
+    excerpt: "Top News Biden pledges vaccine for every adult by end of May. Posted . President Joe Biden on Tuesday ordered U.S. states to prioritize COVID-19 vaccinations for teachers to ensur"
+    publishedDateTime: 2021-03-03T06:10:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE2JA673"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
 
 secured: "u44AYJ0h8DARMIxsGvQbpjC619ptJDgN6Hk7R0XxDpmiIB0IbkgQn6ARZ12QBBbaU0VBawMOoMlDLV5gs6zfzNvc9FAAgIB+p4fC2W5kQa/H4q8zMZa5VjXTZoluhV7Od9TwnzJ13YazsRG8XcnLi0ZCa32S+dIB9x2a089uSi8gZsH1qcka0XvhNzOqQcZ1IaYiYF0Ey6FNSAX9Eo0y8oP89s8ifl0zypNyLUl9Avh1lzntzbrJBPPsSC58rCHxpHKL7o7bo2ta8xJjzptYWeN6fjK6U8n+BjKYvmy/SdyHOnSHCtHIDyVccaXboHw8ysHFyg+uzHn4AfbIloCbYep68m1Ihv82d3kx/XvBsBA=;akofXAuamzHFjwfrJ68zaQ=="
 ---

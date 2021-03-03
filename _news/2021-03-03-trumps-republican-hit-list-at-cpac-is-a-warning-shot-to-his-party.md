@@ -96,6 +96,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "House Oversight panel reissues subpoena for Trump's tax records"
+    excerpt: "The move comes after the Supreme Court allowed the Manhattan district attorney to get Trump’s financial records."
+    publishedDateTime: 2021-03-03T04:49:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/house-oversight-panel-reissues-subpoena-trump-s-tax-records-n1259431"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1259431"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1259431"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_09/3453997/210303-donald-trump-mc-1142_b1379315bab8aed92d103052ad67dadb.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Cheney and McCarthy At Odds Over Trump Role in Republican Party"
     excerpt: "Representative Kevin McCarthy of California and Representative Liz Cheney of Wyoming disagreed on whether former President Donald J. Trump should speak at a conservative event this week."
     publishedDateTime: 2021-02-24T19:51:00Z

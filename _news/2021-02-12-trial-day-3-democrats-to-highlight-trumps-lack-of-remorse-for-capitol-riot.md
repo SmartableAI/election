@@ -31,207 +31,223 @@ images:
     isCached: true
 
 related:
-  - title: "Trial highlights: history lessons, Trump tweets and more"
-    excerpt: "Donald Trump will stand trial for impeachment after the Senate rejected arguments from the former president’s lawyers that the chamber cannot move forward because he is no longer in office"
-    publishedDateTime: 2021-02-10T00:48:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trial-highlights-history-lessons-trump-tweets-75789773"
+  - title: "Trump and Giuliani sued by Democratic congressman over deadly Capitol riot – live"
+    excerpt: "Bennie Thompson accuses Trump and allies of violating 1871 act that prohibits violence that disrupts work of Congress – follow all the latest"
+    publishedDateTime: 2021-02-16T16:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_bb4aff58ec284468b4b027215e10659d_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/af1d76d3db59aaf37cdf030c990b71e6d58dc183/0_39_4393_2635/master/4393.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=506d4603234fc6be44766f4013f3d6ce"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Trump lawyers hit impeachment trial as politically motivated ‘hatred’"
-    excerpt: "The defense team, confident that Trump will not be convicted, used up less than three hours in its arguments to the Senate."
-    publishedDateTime: 2021-02-13T06:33:00Z
-    webUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/12/8f53ceb4-6d3a-11eb-9f80-3d7646ce1bc0_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/12/8f53ceb4-6d3a-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/senate-impeachment-trial-trump/2021/02/12/8f53ceb4-6d3a-11eb-9f80-3d7646ce1bc0_story.html?outputType=amp"
+  - title: "Dem’s lawsuit accuses Trump of inciting deadly Capitol riot"
+    excerpt: "The House Homeland Security chairman has sued Donald Trump, accusing him of inciting the  deadly insurrection at the Capitol"
+    publishedDateTime: 2021-02-17T06:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/dems-lawsuit-accuses-trump-of-inciting-deadly-capitol-riot/2021/02/16/37741c68-70c2-11eb-8651-6d3091eac63f_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2UZOFMTNOEI6XJTO4JYEN2PITA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump impeachment trial live updates: Managers show new security footage of riot"
-    excerpt: "Raskin warned that managers would present footage viewers may find disturbing. Trump impeachment trial: Day 2 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
-    publishedDateTime: 2021-02-11T02:05:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
+  - title: "NAACP and Democratic congressman sue Trump, Giuliani over Capitol assault"
+    excerpt: "The lawsuit accuses Trump, Giuliani and two extremist groups of violating a federal Reconstruction-era law known as the Ku Klux Klan Act."
+    publishedDateTime: 2021-02-16T16:47:00Z
+    webUrl: "https://www.cbsnews.com/news/naacp-sues-trump-giuliani-capitol-riot/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-sues-trump-giuliani-capitol-riot/"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 120
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
     images:
-      - url: "https://s.abcnews.com/images/General/impeachment-donald-trump-25-ap-llr-210210_1612998847095_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 901
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/16/0543b3d7-c32a-4b6c-be77-cf5195d911cc/thumbnail/1200x630/e22992a93d9d17f355b7e72a7ada3a8d/gettyimages-1230465123.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "New video, withdrawn comments: 6 takeaways from Day 2 of Trump's impeachment trial"
-    excerpt: "House impeachment managers proceeded with their arguments for convicting former President Donald Trump on the charge of inciting the Capitol riot."
-    publishedDateTime: 2021-02-11T02:14:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/10/top-takeaways-day-2-donald-trump-impeachment-trial/4459682001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4459682001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4459682001"
+  - title: "Trump lashes out after McConnell blames him for Capitol insurrection – live"
+    excerpt: "Senate minority leader has said Trump is ‘practically and morally’ responsible for US Capitol attack"
+    publishedDateTime: 2021-02-17T00:37:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates?page=with:block-602c3e0f8f08cafb5cc2b40f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/475dbe7596faf3929ebdabf81ba12067019b7079/0_178_5416_3248/master/5416.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d09134bff3768078bd89a05f64340d5"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Democratic Rep. Bennie Thompson sues Donald Trump over role in U.S. Capitol riot"
+    excerpt: "The lawsuit from the Mississippi Democrat is part of an expected wave of litigation over the Jan. 6 riot at the U.S. Capitol."
+    publishedDateTime: 2021-02-16T16:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/16/bennie-thompson-sues-trump-giuliani-capitol-riot-ku-klux-klan-act/6763594002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6763594002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6763594002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 119
+    quality: 120
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/4d9df8b2-c3b1-4595-9989-d82b70132cac-AP21042008403854.jpg?auto=webp&crop=2800,1575,x5,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/02/16/USAT/4e37de16-1458-45f7-82d0-cdb80204b6c4-AP21047435262826.jpg?auto=webp&crop=1023,576,x0,y74&format=pjpg&width=1200"
         width: 1200
-        height: 675
+        height: 676
         isCached: true
-  - title: "Trump impeachment trial live updates: Trump attorney signals trial could end Friday"
-    excerpt: "The House impeachment managers have wrapped up their opening arguments. Trump impeachment trial: Day 3 key moments Former President Donald Trump's historic second impeachment trial is taking place in the Senate."
-    publishedDateTime: 2021-02-12T03:17:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/trump-impeachment-trial-live-updates-senate-debate-constitutionality/?id=75741945"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/Politics/schoen-gty-er-210211_1613092879727_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Power Up: Trump spokesman says move to disqualify him from future office is 'dead on arrival'"
-    excerpt: "This is the Power Up newsletter. Thanks for waking up with us. IMPEACHMENT II: Former president Donald Trump won't be testifying in his second Senate impeachment trial starting today. But that doesn't mean Trump won't be tuning in to the proceedings as House impeachment managers argue he is “singularly responsible” for inciting the Jan."
-    publishedDateTime: 2021-02-09T16:22:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/02/09/power-up-trump-spokesman-says-move-disqualify-him-future-office-is-dead-arrival/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/02/09/power-up-trump-spokesman-says-move-disqualify-him-future-office-is-dead-arrival/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/09/power-up-trump-spokesman-says-move-disqualify-him-future-office-is-dead-arrival/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 114
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2CAUKOTKJII6XJTO4JYEN2PITA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Live impeachment updates: Trump team accuses Democrats of violating due process, threatening free speech"
-    excerpt: "Capitol riots that led to former President Donald Trump’s second impeachment trial, his lawyers took to the floor on Friday to defend him. So far Trump’s legal team, cobbled together less than a week before the Senate trial was set to begin,"
-    publishedDateTime: 2021-02-13T00:55:00Z
-    webUrl: "https://www.cnbc.com/2021/02/12/trump-impeachment-trial-live-updates-video-day-4.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2021/02/12/trump-impeachment-trial-live-updates-video-day-4.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/12/trump-impeachment-trial-live-updates-video-day-4.html"
+  - title: "Trump incited Capitol riot further after it began, impeachment prosecutors will claim"
+    excerpt: "Ex-President Donald Trump is due to begin his Senate impeachment trial. He is charged with the Capitol riot that sought to undo the election of Joe Biden."
+    publishedDateTime: 2021-02-09T22:14:00Z
+    webUrl: "https://www.cnbc.com/2021/02/09/trump-impeachment-prosecutors-will-use-new-evidence-aides-say.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/09/trump-impeachment-prosecutors-will-use-new-evidence-aides-say.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/09/trump-impeachment-prosecutors-will-use-new-evidence-aides-say.html"
     type: article
     provider:
       name: CNBC
       domain: cnbc.com
-    quality: 108
+    quality: 118
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106840137-16131550122021-02-12t183425z_1669069050_rc26rl96hbfp_rtrmadp_0_usa-trump-impeachment.jpeg?v=1613155084"
-        width: 993
-        height: 599
+      - url: "https://image.cnbcfm.com/api/v1/image/106822651-1610409078172-wind.jpg?v=1610409131"
+        width: 3000
+        height: 2043
         isCached: true
-  - title: "Live impeachment updates: Prosecutors end arguments; Trump lawyer calls trial 'weaponization' of impeachment"
-    excerpt: "House prosecutors ended their arguments in the impeachment trial of Donald Trump. The former president's legal team starts Friday."
-    publishedDateTime: 2021-02-12T00:18:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/11/trump-impeachment-trial-house-prosecutors-wrap-up-arguments/4422691001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4422691001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4422691001"
+  - title: "Lawsuit accuses Donald Trump, Giuliani and others of conspiring to incite Capitol riot"
+    excerpt: "Former Trump, his attorney Rudy Giuliani, the Proud Boys and Oath Keepers conspired to violate the 1871 Ku Klux Klan Act, which prohibits any actions designed to prevent"
+    publishedDateTime: 2021-02-16T20:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/lawsuit-accuses-donald-trump-giuliani-conspiring-incite-capitol/story?id=75921776"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 106
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/fbd94518-cc77-4c73-b4c5-65ffc5559fd1-AP21042739498943.jpg?auto=webp&crop=3229,1816,x0,y125&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/capitol-siege-ap-ps-210216_1613484545937_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Live impeachment updates: House prosecutors will wrap up arguments at Trump trial after day of Capitol footage"
-    excerpt: "The nine managers will resume their arguments at noon in their final day of opening arguments. When they're done, Trump's team will begin."
-    publishedDateTime: 2021-02-11T12:10:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/11/trump-impeachment-trial-house-prosecutors-wrap-up-arguments/4422691001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4422691001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4422691001"
+  - title: "Senate to hold hearing into 6 January Capitol attack by Trump supporters – live updates"
+    excerpt: "Law enforcement officials will give witness testimony about day pro-Trump mob stormed Capitol"
+    publishedDateTime: 2021-02-23T11:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/23/joe-biden-donald-trump-capitol-riot-senate-hearing-covid-coronavirus-live-updates"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: The Guardian
+      domain: theguardian.com
+    quality: 117
+    images:
+      - url: "https://i.guim.co.uk/img/media/60ab62fcd73657cd7195c8fd9ca853f1cec615f0/0_99_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=0f3fc19fd53d0e193fe77fccecb41e7a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Senate acquits Trump for inciting Capitol riot even as bipartisan majority votes to convict"
+    excerpt: "The Senate on Saturday acquitted former President Donald Trump in a 57-43 vote on the charge of inciting insurrection for his role in the Jan. 6 Capitol riot. Seven GOP Senators voted guilty in ..."
+    publishedDateTime: 2021-02-13T22:38:00Z
+    webUrl: "https://www.cnbc.com/2021/02/13/senate-acquits-former-president-donald-trump-on-charge-of-inciting-insurrection-at-us-capitol-.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2021/02/13/senate-acquits-former-president-donald-trump-on-charge-of-inciting-insurrection-at-us-capitol-.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2021/02/13/senate-acquits-former-president-donald-trump-on-charge-of-inciting-insurrection-at-us-capitol-.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 115
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106819967-16099540452021-01-06t172608z_985055494_rc2h2l9fywdv_rtrmadp_0_usa-election-trump.jpeg?v=1609954074"
+        width: 3500
+        height: 2333
+        isCached: true
+  - title: "Impeachment managers say insurrectionists came to Capitol because Trump 'told them to' – live"
+    excerpt: "Congresswoman Diana DeGette says insurrectionists even questioned why police tried to block them as they followed Trump’s instructions"
+    publishedDateTime: 2021-02-11T20:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-6025013c8f083a72e444e293"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 114
+    images:
+      - url: "https://i.guim.co.uk/img/media/7f5733b1fe59734a9c8909c09045f903174195c1/22_0_5330_3199/master/5330.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=e87baa6bac0701cb8fc8341694b623a3"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "House Homeland Security chairman sues Trump and Giuliani, accusing them of inciting Capitol riot"
+    excerpt: "The lawsuit marks latest legal action challenging former president and invokes the 1871 Ku Klux Klan Act, which bars interference in Congress’ constitutional duties."
+    publishedDateTime: 2021-02-16T20:29:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/lawsuit-trump-capitol-riot/2021/02/16/1695b6b0-6fd6-11eb-b8a9-b9467510f0fe_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/lawsuit-trump-capitol-riot/2021/02/16/1695b6b0-6fd6-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/lawsuit-trump-capitol-riot/2021/02/16/1695b6b0-6fd6-11eb-b8a9-b9467510f0fe_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6E3Y7SRBYI6XPNEMFNK57IFKU.jpg&w=1440"
+        width: 1440
+        height: 1853
+        isCached: true
+  - title: "Donald Trump's former casino in Atlantic City demolished – video"
+    excerpt: "Trump, who opened the building on the oceanfront boardwalk in 1984, lost control of it in a 2009 bankruptcy"
+    publishedDateTime: 2021-02-17T10:31:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/feb/17/donald-trumps-former-casino-in-atlantic-city-demolished-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/10/USAT/81357ca9-76f8-4a30-8f24-92b1493b443a-AP_Trump_Impeachment_8.jpg?auto=webp&crop=3647,2052,x0,y0&format=pjpg&width=1200"
+      - url: "https://i.guim.co.uk/img/media/7d6c324dfade67e4e9e038ca4361f81174254402/295_0_2636_1583/master/2636.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9702bf15f1f06d4d84aba6a887f1398"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Democratic Rep. Bennie Thompson sues Donald Trump, accusing him of inciting riot at US Capitol, conspiring with extremists"
+    excerpt: "The lawsuit from Mississippi’s Rep. Bennie Thompson, chairman of the House Homeland Security Committee, is part of an expected wave of litigation over the Jan. 6 riot."
+    publishedDateTime: 2021-02-16T15:21:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-democrat-trump-riot-lawsuit-bennie-thompson-20210216-igcnrw4bqrg7zegyzcpc3ks4sq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-democrat-trump-riot-lawsuit-bennie-thompson-20210216-igcnrw4bqrg7zegyzcpc3ks4sq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-democrat-trump-riot-lawsuit-bennie-thompson-20210216-igcnrw4bqrg7zegyzcpc3ks4sq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 99
+    images:
+      - url: "https://www.chicagotribune.com/resizer/3gm2Cv4MjRWbLjdwqYWpGjMnYIE=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/E2NVJQHT6JBDLKIOLZAJGLX5H4.jpg"
         width: 1200
         height: 675
         isCached: true
-  - title: "Stacey Plaskett: Trump Trial Needed 'More Senators With Spines, Not More Witnesses'"
-    excerpt: "Plaskett, a House manager in former President Trump's Senate trial, defends the decision not to call witnesses. \"As all Americans believed at that moment, the evidence was overwhelming,\" she says."
-    publishedDateTime: 2021-02-14T16:29:00Z
-    webUrl: "https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/14/967827857/stacey-plaskett-trump-trial-needed-more-senators-with-spines-not-more-witnesses"
+  - title: "Impeachment managers to demonstrate Trump's 'lack of remorse' over Capitol riot – live"
+    excerpt: "Impeachment managers to conclude prosecution, arguing Trump is guilty of ‘most grievous constitutional crime ever committed’ by a US president"
+    publishedDateTime: 2021-02-11T16:51:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates?page=with:block-60255bc28f08b555964bbae3"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/11/donald-trump-impeachment-senate-trial-live-news-updates"
     type: article
     provider:
-      name: NPR
-      domain: npr.org
-    quality: 99
-    images:
-      - url: "https://media.npr.org/assets/img/2021/02/14/gettyimages-1302002799_wide-4930a5a178ab0d227da0928eff16e717b75d1d16.jpg?s=1400"
-        width: 1400
-        height: 787
-        isCached: true
-  - title: "'This was his state of mind': Impeachment manager highlights Trump's 'pattern and practice' of inciting violence before the Capitol siege"
-    excerpt: "\"Time after time, he encouraged violence, his supporters listened and they got the message,\" impeachment manager Jamie Raskin said."
-    publishedDateTime: 2021-02-11T19:03:00Z
-    webUrl: "https://www.businessinsider.com/impeachment-manager-trump-pattern-practice-inciting-violence-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/impeachment-manager-trump-pattern-practice-inciting-violence-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/impeachment-manager-trump-pattern-practice-inciting-violence-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/60153fc56dfbe10018e00ea3?width=1200&format=jpeg"
-        width: 1200
-        height: 599
-        isCached: true
-  - title: "Marjorie Taylor Greene falsely suggests Trump supporters didn't carry out the Capitol siege days after apologizing for endorsing conspiracy theories"
-    excerpt: "she tweeted. \"The attack RUINED our objection that we spent weeks preparing for, which devastated our efforts on behalf of Trump and his voters.\" Greene's tweet was part of a longer thread about the siege and former President Donald Trump's Senate ..."
-    publishedDateTime: 2021-02-09T14:56:00Z
-    webUrl: "https://www.businessinsider.com/greene-tweet-capitol-siege-after-apologizing-conspiracy-theories-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/greene-tweet-capitol-siege-after-apologizing-conspiracy-theories-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/greene-tweet-capitol-siege-after-apologizing-conspiracy-theories-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 86
-    images:
-      - url: "https://i.insider.com/601c14db01504a00197fb98d?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Trial Highlights: Harrowing Footage, Focus on Trump's Words"
-    excerpt: "House Democrats opened their first day of arguments in former President Donald Trump’s impeachment trial with searing footage of the U.S. Capitol riot."
-    publishedDateTime: 2021-02-11T00:48:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/trial-highlights-harrowing-footage-focus-on-trumps-words"
-    ampWebUrl: "https://www.usnews.com/news/politics/articles/2021-02-10/trial-highlights-harrowing-footage-focus-on-trumps-words?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/politics/articles/2021-02-10/trial-highlights-harrowing-footage-focus-on-trumps-words?context=amp"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 55
+      name: The Guardian
+      domain: theguardian.com
+    quality: 97
 
 secured: "UoOxla6Nxc/KHJDy1+7LUOCnc73h4GhWl6Ao0q5NuIr3l2peHV7FHMM0Wiaf+6gWk1UeWxVX0aKWfrzl/3S4fH1x78WBOZJ+9pit3ttWnOcX+6pDH3V9k7MWm7/9bBDYrfS9vqbCxEpfbDaAJ9WlERpYdQi6uCTF7BLePRNKLIaTrCt0PEo9qk3NOudSa2kG/Br9gQEIljzyl4N1UmOZM2gL7jb1fmo9CCJKXoRZFiLODo2qRz9iuhtrZ0OaxsJKiqbC0q4iqLfLflZL5oJpdtoAlNbJnQmiPHKo55pvY8fOHQez8siBkCfRv1uZA+LJ2G4gUMI2UlduxqxfoV6rSINxQD7N1tZi4HHvp/qvkrY=;0h91O9aZ0LnRz4L//xn7KQ=="
 ---

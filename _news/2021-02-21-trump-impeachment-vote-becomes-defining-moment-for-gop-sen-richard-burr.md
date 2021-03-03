@@ -159,22 +159,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Trump lashes out after McConnell blames him for Capitol insurrection – live"
-    excerpt: "Senate minority leader has said Trump is ‘practically and morally’ responsible for US Capitol attack"
-    publishedDateTime: 2021-02-17T00:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates?page=with:block-602c3e0f8f08cafb5cc2b40f"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/16/joe-biden-covid-coronavirus-economy-andrew-cuomo-donald-trump-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/475dbe7596faf3929ebdabf81ba12067019b7079/0_178_5416_3248/master/5416.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4d09134bff3768078bd89a05f64340d5"
-        width: 600
-        height: 360
-        isCached: true
   - title: "3 charts show where young Republicans are splitting from GOP elders — and from Trump"
     excerpt: "On some foreign policy issues, young Republicans are closer to the Democratic mainstream than to their Republican elders."
     publishedDateTime: 2021-02-16T16:48:00Z
@@ -350,20 +334,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/09/USAT/6aa6963b-4d2b-4679-b15a-6477fc618042-AP21006679639042.jpg?auto=webp&crop=4305,2421,x722,y1081&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Donald Trump's former casino in Atlantic City demolished – video"
-    excerpt: "Trump, who opened the building on the oceanfront boardwalk in 1984, lost control of it in a 2009 bankruptcy"
-    publishedDateTime: 2021-02-17T10:31:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/feb/17/donald-trumps-former-casino-in-atlantic-city-demolished-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 105
-    images:
-      - url: "https://i.guim.co.uk/img/media/7d6c324dfade67e4e9e038ca4361f81174254402/295_0_2636_1583/master/2636.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9702bf15f1f06d4d84aba6a887f1398"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Former Trump casino where stars played going out with a bang"
     excerpt: "By mid-morning Wednesday, a spot on the Atlantic City Boardwalk where movie stars, athletes and rock stars used to party and a future president honed his instincts for bravado and hype will be reduced"
