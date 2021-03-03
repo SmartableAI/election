@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-03-a-reality-check-for-bidens-agenda-more-allegations-against-floyd-officer-and-vaccine-vaccine-for-dolly-parton.md",
+      "title": "A reality check for Biden's agenda, more allegations against Floyd officer and 'vaccine, vaccine' for Dolly Parton",
+      "excerpt": "A reality check for Biden's agenda, more allegations against Floyd officer and 'vaccine, vaccine' for Dolly Parton Good morning, NBC News readers. The Biden administration is beginning to face the harsh realities of a split Senate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/morning-briefing/reality-check-biden-s-agenda-more-allegations-against-floyd-officer-n1259433",
+      "originalUrl": "https://www.nbcnews.com/news/morning-briefing/reality-check-biden-s-agenda-more-allegations-against-floyd-officer-n1259433",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_09/3453524/210301-joe-biden-jm-1444_d38032cdcc81de1e6af02e6768b3ae86.jpg",
+          "width": 2500,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1259433",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1259433",
+      "publishedDateTime": "2021-03-02T21:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-house-oversight-committee-subpoenas-trumps-accounting-firm-mazars-again.md",
       "title": "House Oversight Committee subpoenas Trump's accounting firm Mazars again",
       "excerpt": "The House Oversight Committee has issued a new subpoena to accounting firm Mazars USA for a wide swath of records related to former President Donald Trump, which would likely include the ex-President's tax returns.\n    \n",
@@ -576,7 +633,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 315,
+      "heat": 355,
       "tags": null,
       "images": [
         {
@@ -1419,7 +1476,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 375,
+      "heat": 395,
       "tags": null,
       "images": [
         {
@@ -1605,62 +1662,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-patriot-party-orig-jm.cnn",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/23/proud-boys-and-patriot-party-orig-jm.cnn",
       "publishedDateTime": "2021-02-23T07:24:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-fact-check-breaking-down-bidens-first-month-of-claims.md",
-      "title": "Fact check: Breaking down Biden's first month of claims ",
-      "excerpt": "President Joe Biden was more consistently factual in his first month in office than his predecessor ever was in office. But Biden was not perfect himself.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JbRiqEClkxc/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JbRiqEClkxc/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 395,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210219122934-01-biden-munich-security-conference-0219-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/23/politics/fact-check-biden-first-month-2021/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/fact-check-biden-first-month-2021/index.html",
-      "publishedDateTime": "2021-02-23T07:02:38-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

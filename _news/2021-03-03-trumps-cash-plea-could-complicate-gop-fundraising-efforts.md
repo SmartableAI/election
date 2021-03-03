@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Trump's Cash Plea Could Complicate GOP Fundraising Efforts"
-excerpt: "Former President Donald Trump called on his supporters to send their contributions directly to his own committees in his first speech since leaving office."
-publishedDateTime: 2021-03-03T05:09:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-03-03/trumps-cash-plea-could-complicate-gop-fundraising-efforts"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-03-03/trumps-cash-plea-could-complicate-gop-fundraising-efforts"
+title: "Trump's cash plea could complicate GOP fundraising efforts"
+excerpt: "Former President Donald Trump called on his supporters to send their contributions directly to his own committees in his first speech since leaving office"
+publishedDateTime: 2021-03-03T05:57:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trumps-cash-plea-complicate-gop-fundraising-efforts-76218991"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-cash-plea-complicate-gop-fundraising-efforts-76218991"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-cash-plea-complicate-gop-fundraising-efforts-76218991"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-cash-plea-complicate-gop-fundraising-efforts-76218991"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s.abcnews.com/images/Politics/WireAP_c2bafe5cb5964c1086f5b1764fe72f53_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
 
 related:
   - title: "AP FACT CHECK: Trump clings to his core election falsehoods"
@@ -197,6 +205,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Mike Pence comes out of hiding to nod towards Trump's election lies"
+    excerpt: "Former Vice President Mike Pence broke his silence Wednesday with an op-ed in The Daily Signal, criticizing congressional Democrats for their voter reform push and giving new life to former President Donald Trump's baseless claims that the 2020 presidential election was stolen."
+    publishedDateTime: 2021-03-03T06:32:00Z
+    webUrl: "https://theweek.com/speedreads/969973/mike-pence-comes-hiding-nod-towards-trumps-election-lies"
+    ampWebUrl: "https://theweek.com/speedreads-amp/969973/mike-pence-comes-hiding-nod-towards-trumps-election-lies"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/969973/mike-pence-comes-hiding-nod-towards-trumps-election-lies"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 105
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230695706.jpg?itok=Jee95fAE&resize=450x300"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Republicans recommit to Trump after blaming him for the Capitol attack"
     excerpt: "After condemning former president Donald Trump’s actions around the Jan. 6 Capitol riot, multiple GOP lawmakers have since thrown their support behind him."
     publishedDateTime: 2021-03-02T23:37:00Z
@@ -227,6 +251,22 @@ related:
         width: 4000
         height: 2666
         isCached: true
+  - title: "Donald Trump’s cash plea could complicate GOP fundraising efforts"
+    excerpt: "While Trump left office as a deeply unpopular figure, he remains a powerful draw for small-dollar, grassroots donors"
+    publishedDateTime: 2021-03-03T12:24:00Z
+    webUrl: "https://www.cleveland.com/news/2021/03/donald-trumps-cash-plea-could-complicate-gop-fundraising-efforts.html"
+    ampWebUrl: "https://www.cleveland.com/news/2021/03/donald-trumps-cash-plea-could-complicate-gop-fundraising-efforts.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2021/03/donald-trumps-cash-plea-could-complicate-gop-fundraising-efforts.html?outputType=amp"
+    type: article
+    provider:
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/X5WIWZNZ6RBDJELDMMCBCVLHUU.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Former Trump Press Secretary Joins Fox News"
     excerpt: "Donald Trump's former White House press secretary has been hired by Fox News as an on-air commentator, the network said Tuesday. Kayleigh McEnany, 32, made her television debut in 2016 on CNN before officially joining Trump's team the following year."
     publishedDateTime: 2021-03-02T21:42:00Z
@@ -242,6 +282,6 @@ related:
         height: 682
         isCached: true
 
-secured: "BPYDH3Z5NI1sjSw9ysuEmwU6SRiTmyex40ugC4/3WdsJz8WUPYj8Z03fPRsJ8H40dDFC5O6LyaDkuMH1bslGE9qK6KhPrfDMGrNMq8lwjVM5q2vjgegOElWA4wNb8mtxp3GUuRZaeNtdBZe/FQ48mOqlkqEC3BjHvt9AZ9wrAk1pFFq9We9MdgnTYtwYrNe1F+ZGK6kXmejgPPqLYSC0njt6rZ8Vq9G7qeDg98JRgaVbq1ZRuExgFstxpX2JyBZr8OorJwOGnBAwpjkq41cUKT+hrON6iNPWok+YsH6ab35lie/oFbe/Nhykzuu6CAdEdU9O18zuaY4cpZOzWcdwlXW9AhCwD4GF84dAkO+uC1oZIqx5n3iUEkdNYVbsgrq1Ju+Sl1cRTMiZUwKfyG3pCirDnNCI1Z2xzx5SL+90X8Gx4Y4kMYspvlNvRHWBrhHukvF3NgeBeAFMLuO0vbABXHKvFQbuCqNzh+QKaxxNG/4pjKIPZyWrrl5I3idDMidHlPMFyZgEQVM0JbqdkNsdhA==;N4q43lcPlok3okolNX1M6Q=="
+secured: "SIAIE6kGpj8gl6aY8Dn8X1mHoTEqNrjWQ/EVeHNeG/isUeW1jlMhMugF+xD52XxF8xqvQOA/FEMWxIU5rgrWMOARsnDIMhe75twu52/1lav1uT9MLJ+qzT+OON0OxOxreeTOdH6vRDVqS2pkTAzfSxuoP92qCcOx4K6JrNwlsC1YhpO72uPzYX3izCXD6Lqd3OtkWH5tGeCigkw95aUR1KazCpqwKAr+jzJb4Uyc6deGHMm6h1vY3jv0MFcmoXYuaMqSnKfYq3Ouw4yX0M+CM9d5zc7yEFsGdKBfl0fXd+itGos/p6lOgQyS9gOC/RDDnMC7f8EEATMYwdmIGaR8jIoklClJ1cMvj1N15zxKnao=;TNiE2id0Giag29bEADH2Zw=="
 ---
 

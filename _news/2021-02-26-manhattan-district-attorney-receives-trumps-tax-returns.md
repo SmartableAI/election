@@ -61,6 +61,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Democrats reissue subpoena to Trump's accounting firm for financial records"
+    excerpt: "The House Oversight and Reform Committee is seeking eight years of financial records from former President Trump and other entities affiliated with him."
+    publishedDateTime: 2021-03-03T13:21:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-financial-records-house-subpoena-reissue/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-financial-records-house-subpoena-reissue/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-financial-records-house-subpoena-reissue/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/03/23fda673-2a17-47c4-ba9a-b074c782df27/thumbnail/1200x630g3/1d9ca3752e21543f449330f1a67f6fa8/gettyimages-1304610267.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump Has to Turn Over Tax Returns to Manhattan DA"
     excerpt: "Manhattan District Attorney Cyrus Vance Jr. has obtained copies of Donald Trump’s tax records after the Supreme Court this week rejected the former president’s last-ditch effort to prevent them from being handed over."
     publishedDateTime: 2021-02-25T22:11:00Z

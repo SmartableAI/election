@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Essential Politics: Kamala Harris enters a supermarket — and a security bubble"
+    excerpt: "A press event at a grocery store underscores the new reality of Vice President Kamala Harris' protective bubble."
+    publishedDateTime: 2021-03-03T14:31:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-03-03/kamala-harris-supermarket-coronavirus-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 101
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/04cdae2/2147483647/strip/true/crop/3401x1786+0+241/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa7%2F075fdbcc4db8910446ec56ee751a%2Fgettyimages-1231375480.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon"
     excerpt: "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according"
     publishedDateTime: 2021-02-20T16:02:00Z

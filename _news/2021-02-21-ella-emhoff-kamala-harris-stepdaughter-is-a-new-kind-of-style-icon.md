@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Essential Politics: Kamala Harris enters a supermarket — and a security bubble"
+    excerpt: "A press event at a grocery store underscores the new reality of Vice President Kamala Harris' protective bubble."
+    publishedDateTime: 2021-03-03T14:31:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-03-03/kamala-harris-supermarket-coronavirus-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 101
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/04cdae2/2147483647/strip/true/crop/3401x1786+0+241/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa7%2F075fdbcc4db8910446ec56ee751a%2Fgettyimages-1231375480.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Photos: Vice-President Kamala Harris selling San Francisco loft"
     excerpt: "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco."
     publishedDateTime: 2021-02-22T18:06:00Z

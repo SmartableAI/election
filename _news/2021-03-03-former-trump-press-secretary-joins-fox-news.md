@@ -157,6 +157,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump's cash plea could complicate GOP fundraising efforts"
+    excerpt: "Former President Donald Trump called on his supporters to send their contributions directly to his own committees in his first speech since leaving office"
+    publishedDateTime: 2021-03-03T05:57:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trumps-cash-plea-complicate-gop-fundraising-efforts-76218991"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trumps-cash-plea-complicate-gop-fundraising-efforts-76218991"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trumps-cash-plea-complicate-gop-fundraising-efforts-76218991"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c2bafe5cb5964c1086f5b1764fe72f53_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Nine months later, fencing comes down around the church where Trump stood with a Bible"
     excerpt: "The elite, Episcopal congregation found itself at the center of anti-racism protests and wrestled with the way the fence changed it"
     publishedDateTime: 2021-03-01T23:08:00Z
@@ -203,6 +219,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Mike Pence comes out of hiding to nod towards Trump's election lies"
+    excerpt: "Former Vice President Mike Pence broke his silence Wednesday with an op-ed in The Daily Signal, criticizing congressional Democrats for their voter reform push and giving new life to former President Donald Trump's baseless claims that the 2020 presidential election was stolen."
+    publishedDateTime: 2021-03-03T06:32:00Z
+    webUrl: "https://theweek.com/speedreads/969973/mike-pence-comes-hiding-nod-towards-trumps-election-lies"
+    ampWebUrl: "https://theweek.com/speedreads-amp/969973/mike-pence-comes-hiding-nod-towards-trumps-election-lies"
+    cdnAmpWebUrl: "https://theweek-com.cdn.ampproject.org/c/s/theweek.com/speedreads-amp/969973/mike-pence-comes-hiding-nod-towards-trumps-election-lies"
+    type: article
+    provider:
+      name: THE WEEK
+      domain: theweek.com
+    quality: 105
+    images:
+      - url: "https://images.theweek.com/sites/default/files/styles/tw_image_6_4/public/gettyimages-1230695706.jpg?itok=Jee95fAE&resize=450x300"
+        width: 450
+        height: 300
+        isCached: true
   - title: "Republicans recommit to Trump after blaming him for the Capitol attack"
     excerpt: "After condemning former president Donald Trump’s actions around the Jan. 6 Capitol riot, multiple GOP lawmakers have since thrown their support behind him."
     publishedDateTime: 2021-03-02T23:37:00Z
@@ -233,15 +265,22 @@ related:
         width: 4000
         height: 2666
         isCached: true
-  - title: "Trump's Cash Plea Could Complicate GOP Fundraising Efforts"
-    excerpt: "Former President Donald Trump called on his supporters to send their contributions directly to his own committees in his first speech since leaving office."
-    publishedDateTime: 2021-03-03T05:09:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-03/trumps-cash-plea-could-complicate-gop-fundraising-efforts"
+  - title: "Donald Trump’s cash plea could complicate GOP fundraising efforts"
+    excerpt: "While Trump left office as a deeply unpopular figure, he remains a powerful draw for small-dollar, grassroots donors"
+    publishedDateTime: 2021-03-03T12:24:00Z
+    webUrl: "https://www.cleveland.com/news/2021/03/donald-trumps-cash-plea-could-complicate-gop-fundraising-efforts.html"
+    ampWebUrl: "https://www.cleveland.com/news/2021/03/donald-trumps-cash-plea-could-complicate-gop-fundraising-efforts.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/news/2021/03/donald-trumps-cash-plea-could-complicate-gop-fundraising-efforts.html?outputType=amp"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: Cleveland.com
+      domain: cleveland.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/X5WIWZNZ6RBDJELDMMCBCVLHUU.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "N+osBFOiVapBGnxd+wzC6PqZVNTpZb5ntTuBJKXVbBe7t8oAAiYR4/kZ7UJQ3HXn6+Q/eD5acYM4GsnwdBEQvCGfDWz8sayKtKIMLUQ+EcNHquCqo52f6UEUpZZErPq18Sn6fbll0eC4f0SzhtFVA8ROoJt9Tz0PYEo+86hrzDpxITs7mG6ZrFHAQO8V5uj+s0un60EcwM0mh7fje2OZHzQx4C1BjVIEPgl+ZXRXpOaGGKK8EtHBZt+xFHfzEoRtJXP72MOMaiwePvhwTAo4b77/TRMTSZHmbAJn/j4rGPlbdGWnbSnhRf6v3ValejBHDtt7wNdbSESteCGWsFFkyNQJekefcta87bI//HJboEpOi200PxciSyq5Uqk4L3IVMmIBhsmRriaN+WEM9I0gR4oftIivJ0q6XdtnXjrjLOWAJpLqWcDv5irllXUorFnl16z7Nw5Ao9m/DLe/EWs0/WH8xDsK9S8+GrToLQjrxg1rR8L65q23IVb0qDD/DF5OA69ipGGZqwJsa/8ssFikXA==;OXrFv1cz5xn8sXvKqB5clw=="
 ---

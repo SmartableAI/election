@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecu
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/trump6-gty-ml-210106_1609954173598_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Democrats reissue subpoena to Trump's accounting firm for financial records"
+    excerpt: "The House Oversight and Reform Committee is seeking eight years of financial records from former President Trump and other entities affiliated with him."
+    publishedDateTime: 2021-03-03T13:21:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-financial-records-house-subpoena-reissue/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-financial-records-house-subpoena-reissue/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-financial-records-house-subpoena-reissue/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/03/23fda673-2a17-47c4-ba9a-b074c782df27/thumbnail/1200x630g3/1d9ca3752e21543f449330f1a67f6fa8/gettyimages-1304610267.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Manhattan district attorney receives Trump's tax returns"
     excerpt: "The Manhattan District Attorney's Office has taken possession of former president Donald Trump's tax returns and financial data deemed central to prosecutors' ongoing criminal case, officials said Feb."
