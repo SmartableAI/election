@@ -3,25 +3,25 @@ category: news
 title: "Vice President Kamala Harris talks to Maryland residents on COVID vaccine, stimulus at Black History Month event"
 excerpt: "Vice President Kamala Harris spoke to hundreds of Anne Arundel and Prince George’s County residents Saturday as she joined Rep. Steny Hoyer’s 40th Annual Black History Month Celebration, the first time in its 40 years the event was held online."
 publishedDateTime: 2021-02-27T22:54:00Z
-originalUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
-webUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
-ampWebUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-capitalgazette-com.cdn.ampproject.org/c/s/www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
+originalUrl: "https://www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
+webUrl: "https://www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
+ampWebUrl: "https://www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Capital Gazette
-  domain: capitalgazette.com
+  name: The Baltimore Sun
+  domain: baltimoresun.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.capitalgazette.com/resizer/GnZSS_D_H4PIb8RnycChednIWeM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L24NKVMQ6JC2NKIDR5SQICFGXE.jpg"
+  - url: "https://www.baltimoresun.com/resizer/GnZSS_D_H4PIb8RnycChednIWeM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L24NKVMQ6JC2NKIDR5SQICFGXE.jpg"
     width: 1200
     height: 674
     isCached: true
@@ -191,6 +191,20 @@ related:
         width: 1000
         height: 615
         isCached: true
+  - title: "Harris Participates in the House Democratic Issues Conference Virtually"
+    excerpt: "United States Vice President Kamala Harris participates virtually in the House Democratic Issues Conference from the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Tuesday,"
+    publishedDateTime: 2021-03-03T02:23:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5eccd64bb081a08470baddbe620601df/Harris-Participates-in-the-House-Democratic-Issues-Conference-Virtually/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/5eccd64bb081a08470baddbe620601df/DEMOCRATIC-ISSUES-CONFERENCE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "At Black History Event, Harris Champions COVID-19 Bill For Its Aid To Black Americans"
     excerpt: "One day after the House advanced President Biden's $1.9 trillion COVID-19 relief package, Vice President Kamala Harris championed the proposed round"
     publishedDateTime: 2021-02-27T20:46:00Z
@@ -233,6 +247,6 @@ related:
       domain: newstribune.com
     quality: 26
 
-secured: "bsRDnznPgb3RfXKJGI0T2H1XfxEBZDlTJdNhQy2f2eMjiOAFFE0MZa2E4+4Fb2lZrJEH/cOND32FfgkXfh2aSYhhg+R29LYcdXQ2Hp3iuZewzasv6N8/Jv5hd9mZNTSwym80lm3yPRFKDfziGRShtDlOb8QtagVqDmaGbp5dW9guP1xtMLWZWXXQSXrEgwe/O2qDaAqCecv8d0/cvBItFyszPPOpGGdrodppDwFpg01kmW5/57Rn2pjan3wz2ZZpnZ0JjxoRUu9SMjQ8COjeZfICXEQEXkfJ4ibHGGu7kUoCiTFsefXzhkuDWCxt4Mna59X/m+P6k4cxp0h91KKUTE0qzQ/i66w9r4jwjvTo0byQPnZnQa1wCLWq7qAbmVt9vSRDf1lHN+i+9we9nLlh5RNshpPFRg0CQEwxxRE4GXENQLhR0Y/25ONq0mCp1VnxtCBqeMNhI8d3NgfqxR9XmBg4MK5C/joleVD0lddjwrn4fRjX11N9za4q4gdsyX+tfPuVW53MBjGaR8iUr3e0aQ==;c421zZzz1Y0g4Q6zT3/3WA=="
+secured: "YrvaQ41RlcaVDRO1emfZKhXCP2zx8BK9j+TzRt1Y4PiQMplstYQ1bKZAavf1a3aGtOFNrdLYHEap1xYk5Zl0Zf54XFcaizUat1n24vuRWgtMSLhzwrODBTIYbHWsQMK/pjl/LRfoUr8mcfNyqVoEroHS+dc9ZeoUXCIYqFX6mYUihaVxB9d4Nd77EFdIYFHXjz0uLd1Oxwkt/n8nk4H7AxFHt7TKiYeXTyIjq9iD+x+MNgGb14fGwO6IhYFNQoj638s2ngNWCGeHuxhGoSrghgcn+s1EzMIaZ++AvEQkWm0KFE45YCuxuvZUEOUNR68wSWAAHS/XkoVzByUG6IgzgCtWGYAGatznawW/KxgfOm4=;ovRoDlJe3hhGuRHYw8XNQw=="
 ---
 

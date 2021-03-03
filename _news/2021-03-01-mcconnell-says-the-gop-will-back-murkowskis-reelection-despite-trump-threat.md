@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-mur
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html"
 type: article
 quality: 187
-heat: 247
+heat: 267
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       - url: "https://static.politico.com/ec/23/2d3486ae4d7289b031aea889cc8c/20210202-mitch-mcconnell-gty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "The GOP is the party of half-Trump"
+    excerpt: "Weeks ago, he pinpointed the GOP loss of the Georgia Senate seats on Mitch McConnell’s refusal to consider the measure. Now Biden is pushing a massive stimulus bill of roughly the same size and with similar direct payments."
+    publishedDateTime: 2021-03-03T01:07:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/03/02/the-gop-is-the-party-of-half-trump-491958"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "YQ6DNKbeCb5S2XAiU7lNSvAqExkxf6tQSK8A+EEBvORt/zwh0Cuor+v6gnGFP6NXvaM86pkSRDCmvmt063KALMjN5079B3g6p2aXAoJrJRbppkhTPzTlkMSJNWdUswzkwBgFXfdKr2kXzWt1R7cVTvrlJwuqcafTA2Zyk3yhvFJKrPdXZm1fPA71PuF0SGZm8PiML7ADrErTMys3hfbqghHF10DRf3/YwlqdGSQCW1gPuXvnCDQLTGTt7Wu5JnzVdhwZDxnDWAMpGli04eMpw4v1XYuZrtn2KbAqgLgIGQrTvYuwGykjlO12ZwSArUtxbRYuclFMsrT2lD2/AfG2I7ysMD/awYMqhtxIUNarApQ=;R+8/Q0vjpewIyoYEY4bRWQ=="

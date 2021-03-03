@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Red states abandon mask mandates, Biden says: 'Now is not the time to let up'"
+    excerpt: "President Biden warned against the continued threat of the coronavirus Tuesday, just hours after Republican-controlled states announced a reversal on COVID safety policies."
+    publishedDateTime: 2021-03-03T01:45:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZJPYXvdWzqE/red-states-abandon-mask-mandates-biden-says-now-is-not-the-time-to-let-up"
+    ampWebUrl: "https://www.foxnews.com/politics/red-states-abandon-mask-mandates-biden-says-now-is-not-the-time-to-let-up.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/red-states-abandon-mask-mandates-biden-says-now-is-not-the-time-to-let-up.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5eb29867-5fb8-4824-821c-fbfd4a20a286/fc9aac2e-0599-4135-95b3-1f56dff35c90/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dozens of House Democrats want Biden to give up sole authority to launch nuclear weapons"
     excerpt: "About three dozen House Democrats have signed a letter asking President Biden to renounce his sole authority to launch nuclear weapons, according to reports."
     publishedDateTime: 2021-02-24T15:29:31Z

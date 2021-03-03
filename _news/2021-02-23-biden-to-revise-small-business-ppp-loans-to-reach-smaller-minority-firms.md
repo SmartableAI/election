@@ -159,6 +159,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden urges Senate Dems to rally behind $1.9T virus bill"
+    excerpt: "President Joe Biden urged Senate Democrats on Tuesday to rally behind a $1.9 trillion COVID-relief bill and stood by his proposed $1,400 payments to individuals, eve"
+    publishedDateTime: 2021-03-03T02:11:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/minimum-wage-hike-dead-big-covid-relief-bill-76195601"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/minimum-wage-hike-dead-big-covid-relief-bill-76195601"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/minimum-wage-hike-dead-big-covid-relief-bill-76195601"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_ef64a54f85974b1c8cf4c3fc44fe0639_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden to declare major disaster in Texas as millions hit by water shortages"
     excerpt: "President to travel to Texas ‘if I can do it without creating a burden for folks’ after winter storm disrupts water supplies following power outages"
     publishedDateTime: 2021-02-19T20:19:00Z

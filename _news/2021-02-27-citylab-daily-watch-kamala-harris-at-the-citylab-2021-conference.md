@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-dail
 webUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference"
 type: article
 quality: 105
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -179,19 +179,33 @@ related:
         width: 1000
         height: 615
         isCached: true
+  - title: "Harris Participates in the House Democratic Issues Conference Virtually"
+    excerpt: "United States Vice President Kamala Harris participates virtually in the House Democratic Issues Conference from the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Tuesday,"
+    publishedDateTime: 2021-03-03T02:23:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5eccd64bb081a08470baddbe620601df/Harris-Participates-in-the-House-Democratic-Issues-Conference-Virtually/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/5eccd64bb081a08470baddbe620601df/DEMOCRATIC-ISSUES-CONFERENCE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Vice President Kamala Harris talks to Maryland residents on COVID vaccine, stimulus at Black History Month event"
     excerpt: "Vice President Kamala Harris spoke to hundreds of Anne Arundel and Prince George’s County residents Saturday as she joined Rep. Steny Hoyer’s 40th Annual Black History Month Celebration, the first time in its 40 years the event was held online."
     publishedDateTime: 2021-02-27T22:54:00Z
-    webUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
-    ampWebUrl: "https://www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-capitalgazette-com.cdn.ampproject.org/c/s/www.capitalgazette.com/news/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
+    webUrl: "https://www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html"
+    ampWebUrl: "https://www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-baltimoresun-com.cdn.ampproject.org/c/s/www.baltimoresun.com/maryland/anne-arundel/ac-cn-kamala-harris-black-history-month-address-20210227-o5eniaww6nfulnibmrnmx6n74u-story.html?outputType=amp"
     type: article
     provider:
-      name: Capital Gazette
-      domain: capitalgazette.com
+      name: The Baltimore Sun
+      domain: baltimoresun.com
     quality: 54
     images:
-      - url: "https://www.capitalgazette.com/resizer/GnZSS_D_H4PIb8RnycChednIWeM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L24NKVMQ6JC2NKIDR5SQICFGXE.jpg"
+      - url: "https://www.baltimoresun.com/resizer/GnZSS_D_H4PIb8RnycChednIWeM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L24NKVMQ6JC2NKIDR5SQICFGXE.jpg"
         width: 1200
         height: 674
         isCached: true

@@ -76,6 +76,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "The GOP is the party of half-Trump"
+    excerpt: "Weeks ago, he pinpointed the GOP loss of the Georgia Senate seats on Mitch McConnell’s refusal to consider the measure. Now Biden is pushing a massive stimulus bill of roughly the same size and with similar direct payments."
+    publishedDateTime: 2021-03-03T01:07:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/03/02/the-gop-is-the-party-of-half-trump-491958"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "Pf3pUIN/qQac0Y2TtB2/99MH8h8KZFDdB8a4rlBo28CN0dqfH+G4CtLHReUvbEu0YKArJyAk6V4ozL/HrGIOeEbYmNQW42ylOYxygSNDn4zjqF5sIKHcfmk/MOySTSufzDR3p/Tg5aYfSG9jtHhG2ioWCBEltFWj1fN2fU0vBELPBbSkOSxZ7IY/rD2Y1RyDRZeX3MrtE9Kus4rk6d9tBDLgw5zpy3M2BTUqUyrqUQzK34yE/dLSpM/rBJj47I9Q/QdBCiKTjZNqaHwA0DPx6NhCITBM+Yxdp3HFFb9icP41bflymXXiv+n3UbadRavRuEHotxoB3p8F+H+sKj+A8O8Rpd3yVR5tOZ7jCQQ7Exc=;oXOs8WTkjSoCP/7agLf0Fw=="
 ---
