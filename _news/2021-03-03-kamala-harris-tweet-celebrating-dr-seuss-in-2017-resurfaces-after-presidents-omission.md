@@ -1,30 +1,34 @@
 ---
 category: news
-title: "VP Kamala Harris To Black Americans: \"Let's Not Let COVID Get Us\""
-excerpt: "Vice President Kamala Harris addressed the Black community and encouraged them to take the COVID vaccine in an interview with MSNBC host Rev. Al Sharpton that will air on Thursday and fully on the Saturday broadcast of his show on the news network."
-publishedDateTime: 2021-02-24T00:00:00Z
-originalUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html#!"
-webUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html#!"
-ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
+title: "Kamala Harris tweet celebrating Dr. Seuss in 2017 resurfaces after president's omission"
+excerpt: "A tweet written by Vice President Kamala Harris praising Dr. Seuss four years ago resurfaced Tuesday after President Biden failed to mention the children’s author when making his \"Read Across America Day\" proclamation."
+publishedDateTime: 2021-03-03T08:31:49Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fcCiIqCd-Zc/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fcCiIqCd-Zc/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission"
+ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission.amp"
 type: article
-quality: 85
+quality: 177
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Kamala Harris
   - Republican Voice
+  - Kamala Harris
 
 images:
-  - url: "https://assets.realclear.com/images/53/536177.jpg"
-    width: 1124
-    height: 842
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4f1b86c-28c5-45f6-981d-adc6a8383619/3216f352-6ba6-4bb0-9b2e-fde037b084ed/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -57,22 +61,6 @@ related:
     quality: 181
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ac83c37-360a-4688-9723-235035f9ff46/eb418ed8-fc9d-428b-aa57-4bde06c028ea/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Kamala Harris tweet celebrating Dr. Seuss in 2017 resurfaces after president's omission"
-    excerpt: "A tweet written by Vice President Kamala Harris praising Dr. Seuss four years ago resurfaced Tuesday after President Biden failed to mention the children’s author when making his \"Read Across America Day\" proclamation."
-    publishedDateTime: 2021-03-03T08:31:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fcCiIqCd-Zc/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 177
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4f1b86c-28c5-45f6-981d-adc6a8383619/3216f352-6ba6-4bb0-9b2e-fde037b084ed/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -124,7 +112,23 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "VP Kamala Harris To Black Americans: \"Let's Not Let COVID Get Us\""
+    excerpt: "Vice President Kamala Harris addressed the Black community and encouraged them to take the COVID vaccine in an interview with MSNBC host Rev. Al Sharpton that will air on Thursday and fully on the Saturday broadcast of his show on the news network."
+    publishedDateTime: 2021-02-24T00:00:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html#!"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/536177.jpg"
+        width: 1124
+        height: 842
+        isCached: true
 
-secured: "HMNs7rRIxUck/hi0eDnosWKFk/Vxta+xiDlY6YSkCNAUNOM2c80IRKPSk+SmUezm0dwGyMzM1f6Ph64Hq5dpkVjC7AvIcChHn9IEz8X1hjFDrLMWZ510Y+ZZ18XdwHGz3JW5DCdgkoMOwSHlPyjVLAJvn/OUpkng4itJzrj8RxgPGcsPnBVtUWK2VZO/6yP5TEr23v11snOE0AhNO3xe9AvybTduLWAR+QtdABSXIzH/2YcESMndIhAxqd0IMwVN2RMX9pxAjfN9RzEh3WHT4JMp7ktzLg3/4jvInW/YwHVmx8+E3unUSXMAB5pXhtYnFxQa81crVGV/pHj8SkjntDoE69P9sTaZZLIFJv4zbsJ8M4m/kNbDmEtw1tUdb9uvzgFPD4F/gT7HRm91SiY8wvdQaD6lWAoNGsI1t4gtUOsqfThEa2bvP9UqXR/9QJu7hta0UwwZaXMb0dJGbVjjCzPI5EpmUtfKFMuouQs+EFpbNbDLpB+6kvnyr2aAPQdOuheQj1kdTIU4Kp4VRBVdXg==;WPfhHvclbjDmu21KVSX1qQ=="
+secured: "BVgcuzWGulEtyN27ZI3zuep4hvC4k9SdE40MaTettxzdPS59IqMWKu1YWK42ddX3jEWhZFJsexVwHg6QUY2BbFFjBv4qGORl6ha8p2w8xpTn56IbbQnbk2Gi3NZIbjocWiuTXUkswlFitMjkLEQegHHs7GGOckUctVg7Af0hPRgSEnWrGX3TsGOJk53M0w1WBL7X0BD3BX7xoTFt1+B0jGrpj6Tf3/9QYzSNSUM/ovTMKzNoJ9h6yR/46+qPbcvIn2GFJA3v0iZ95zCpSQhh1NGzRkiT9+CTvxJQPfdq3J8AC+nTANZLIVyPWFLgrI9086hVepGV2D6OcIt///hSoScxj+dIiSfE8DFxec4UpDg=;H4fi23urf/3GcHws9Gnz3w=="
 ---
 

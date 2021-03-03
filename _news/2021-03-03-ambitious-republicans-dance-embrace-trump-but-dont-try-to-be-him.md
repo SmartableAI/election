@@ -3,10 +3,10 @@ category: news
 title: "Ambitious Republicans’ Dance: Embrace Trump, but Don’t Try to Be Him"
 excerpt: "As jockeying begins for 2024, rank-and-file Republicans say they are most drawn to leaders who both pledge fealty to the former president and appear to showcase a distinct political identity."
 publishedDateTime: 2021-03-02T22:07:00Z
-originalUrl: "https://www.nytimes.com/2021/03/02/us/politics/cpac-trump-tom-cotton-kristi-noem.html"
-webUrl: "https://www.nytimes.com/2021/03/02/us/politics/cpac-trump-tom-cotton-kristi-noem.html"
-ampWebUrl: "https://www.nytimes.com/2021/03/02/us/politics/cpac-trump-tom-cotton-kristi-noem.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/02/us/politics/cpac-trump-tom-cotton-kristi-noem.amp.html"
+originalUrl: "https://www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.html"
+webUrl: "https://www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.html"
+ampWebUrl: "https://www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.amp.html"
 type: article
 quality: 135
 heat: -1
@@ -81,6 +81,6 @@ related:
         height: 550
         isCached: true
 
-secured: "gTMga5fBpgmqBrD3P8w8Ppi6/DA7WY5TAsWLejQjq3+Urc65Tdx08YoTVnln+1oqQn6l+wgcK2d/6KGN5byR+IDzTalMykT1wzms0aQeDZ53gXRPfLrPHLx6TDLMPLfBJuvr5As0+FgMoHo9wEBRpZNwfOpdKeIQ0yNCjiIu2z22619dhsjUimLt/OOFSWeak07/8VxHckcEenKHD0p+m1r42c7BFyCHrkq78RP1Zwq6ARl08rj45ogls28nRBAtvcB+uj6LbSI5ebw3/OoReCINIkRYGcuSsllkir/vXbLIwaP54ru14QrBLVkfHiN+Y/m/5HZJDzJPb12qf1ZcpDUBoUtIHdA2OeUeuRjOTQcl56cYLDjxxrbgdJqQ9bCYRhGBHkxv/C8QDsFk8KM3xrZFlWBgZcINNvyGJLTPzK689rJX+6GSn579EI8u/n7sEoW0mBWI4mi8k0DNV1+9lJ0jgRfoaUioA/Z29o3y8Wlo+yIVH4vt7tjxVolrfy4Nv3kRDVgKf2Q8DrNPZm/gWw==;5/hwzg8OtvBe4eechiPb2g=="
+secured: "FTgs2Git2ouxivYgWMIaN2dUWHEJfr4bx/uFER2igLM/u13AcV5fLkMHA6cshInVsan4C8CF7R5KAc/wWf303pj1uunV4pe2vdMkl3lvuof9DdGLpTYuO3f8TeF4hoJhzCEz4mfRrQdJK0FD0Jyda1iMXvp0miB2khDZPFtjU6FpzBwXPTFZayqWOxS8i5FziTNAMo7X5b6N/pR2HEGS45nWZJOcD46AFRTOdwxY5i0m8j2v1ybEKcq5/3XuN5JUQ8C+MZY0fOCZWSkq0RX8zEmrIY3tOT46OVW/xBa/5sYk7FewF5hpoE5cAub2f3oQZ9cfybodNhrthuaKFOVSVccdxCnQip5DchTr8taATC4=;vMVzcWZ4f7cmWloFnxfcuw=="
 ---
 

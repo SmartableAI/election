@@ -2,11 +2,11 @@
 category: news
 title: "Biden urges Senate Dems to rally behind $1.9T virus bill"
 excerpt: "President Joe Biden urged Senate Democrats on Tuesday to rally behind a $1.9 trillion COVID-relief bill and stood by his proposed $1,400 payments to individuals, eve"
-publishedDateTime: 2021-03-03T02:11:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/minimum-wage-hike-dead-big-covid-relief-bill-76195601"
-webUrl: "https://abcnews.go.com/Health/wireStory/minimum-wage-hike-dead-big-covid-relief-bill-76195601"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/minimum-wage-hike-dead-big-covid-relief-bill-76195601"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/minimum-wage-hike-dead-big-covid-relief-bill-76195601"
+publishedDateTime: 2021-03-03T07:16:00Z
+originalUrl: "https://abcnews.go.com/Business/wireStory/minimum-wage-hike-dead-big-covid-relief-bill-76195602"
+webUrl: "https://abcnews.go.com/Business/wireStory/minimum-wage-hike-dead-big-covid-relief-bill-76195602"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/minimum-wage-hike-dead-big-covid-relief-bill-76195602"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/minimum-wage-hike-dead-big-covid-relief-bill-76195602"
 type: article
 quality: 125
 heat: -1
@@ -423,6 +423,6 @@ related:
       domain: businessinsider.com
     quality: 99
 
-secured: "Xw++uYPyt/9XP8RXw4GwsdfuMFZLbFFLSeYSnBj159D6YndG3KE6v/ZXt5b5C5W3epfgUASXIRmuQuLz+NL9udrlyo6pEaZJv5FJNE46NF86JHHZVDk2Jt+XfMYonqAX8lirOanYvYrFfDhJQym/4sGBuqhtavZWGCDsz06DOJGy8w66tZZr+knt5V5V1RovwzFcgmhmjzCHJIQ1QqgidBzJPS2ppg5Uo5XKv/qdQzHmnijzWwp8CdtGonDgE5N1k3dHOlCiXeR0i4q+LcF5RrPmrkP2S4mwDumuk2DEGVucKf856anbJWrxMZQkQq71TzZ9kBC3cAv1Zd3XtozIhsXDl44SRiye13RHeAo5hvw2wIQpNLf8kW4O9iFVAg4v5u/zu47nbjmhy05awRVMwqhiKD/M0vEs7u+NDktX8yrp0opvTOzCpXQBwIvyq2zg68YoMBJmtJ42q+tYG30oKD2A/1qrrNhJ5g5Qm414wNPdo6ly7uOrn4sOJeGBpq/C9XhR5WlFFALhrcb0o+18FQ==;ngBNHyzAKlznpsciyBYfrg=="
+secured: "4CNIByY8eyU3g/UJNG8Bnk+oYXeMetIiArnmpkP0iGNxAYB7nqeqAY26uqSwivX7PfDrB/yC0dngrahq4Pi5uBs1NVyqSg+uV+JbrWyucPWUeYiHrJCg0TaCXNFi+StEXbXCXj6lIzjte8Ew/GjkSOdYQ2PD5BNkRZ54Pjqhz8My/joc20Onu87yB5SxxnEKXAzdpVR5i9vVh/RDBABvM4nzvq9V6HOKJ0VmOouWB8XqULeVUSYJzugTdDTK3AxXKJfuAd5yjO7C79XJrkxs7Jr8agDgHR29ofUQfYtlRvNBt90RMTE0uUUbveI5+bOn8/6rSdoRusXjwZCxH9jOAtWilZh4sZ8i1OV13G4monQ=;br6HYx9KruOfjg3Qrspf7g=="
 ---
 

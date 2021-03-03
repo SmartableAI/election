@@ -3575,16 +3575,16 @@ related:
         height: 433
         isCached: true
   - title: "Kamala Harris swears in new Secretary of Energy in Washington"
-    excerpt: "Former Michigan Governor Jennifer Granholm hugs her husband Dan Mulhern after been sworn in as Secretary of Energy by U.S. Vice President Kamala Harris (R) in the Eisenhower Executive Office Building at the White House in Washington,"
+    excerpt: "Former Michigan Governor Jennifer Granholm reacts next to her husband Dan Mulhern after been sworn in as Secretary of Energy by U.S. Vice President Kamala Harris (R) in the Eisenhower Executive Office Building at the White House in Washington,"
     publishedDateTime: 2021-02-26T01:33:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/29aec863ef5d35e7b959993e5568406b/Kamala-Harris-swears-in-new-Secretary-of-Energy-in-Washington/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/5e16e07c8aff826a61ca71d967393675/Kamala-Harris-swears-in-new-Secretary-of-Energy-in-Washington/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/29aec863ef5d35e7b959993e5568406b/GRANHOLM-ENERGY.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/5e16e07c8aff826a61ca71d967393675/GRANHOLM-ENERGY.jpg"
         width: 650
         height: 433
         isCached: true

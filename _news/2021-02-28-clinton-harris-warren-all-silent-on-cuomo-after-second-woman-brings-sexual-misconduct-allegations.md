@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris tweet celebrating Dr. Seuss in 2017 resurfaces after president's omission"
+    excerpt: "A tweet written by Vice President Kamala Harris praising Dr. Seuss four years ago resurfaced Tuesday after President Biden failed to mention the children’s author when making his \"Read Across America Day\" proclamation."
+    publishedDateTime: 2021-03-03T08:31:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fcCiIqCd-Zc/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-tweet-celebrating-dr-seuss-in-2017-resurfaces-afetr-presidents-omission.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d4f1b86c-28c5-45f6-981d-adc6a8383619/3216f352-6ba6-4bb0-9b2e-fde037b084ed/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Ex-Trump administration HHS official Brian Harrison announces run for Texas House seat"
     excerpt: "Ex-Trump administration HHS official Brian Harrison announces run for Texas House seat"
     publishedDateTime: 2021-03-01T19:34:52Z
