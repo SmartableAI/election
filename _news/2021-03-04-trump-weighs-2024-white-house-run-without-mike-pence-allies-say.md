@@ -1,29 +1,31 @@
 ---
 category: news
-title: "Mike Pence’s Blueprint for Permanent Authoritarian Rule"
-excerpt: "Pence’s analysis is worth considering in some detail. As both a faithful servant to Donald Trump and a respected member of the Republican Party’s most ideologically orthodox wing, Pence holds a position that represents a synthesis of Trump’s idiosyncratic personal authoritarianism and his party’s longstanding anti-democratic trend."
-publishedDateTime: 2021-03-03T21:07:00Z
-originalUrl: "https://nymag.com/intelligencer/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
-webUrl: "https://nymag.com/intelligencer/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
-ampWebUrl: "https://nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
-cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+title: "Trump Weighs 2024 White House Run Without Mike Pence, Allies Say"
+excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 -- and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket,"
+publishedDateTime: 2021-03-03T18:54:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-03-03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say-kltso7ze"
+webUrl: "https://www.bloomberg.com/news/articles/2021-03-03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say-kltso7ze"
 type: article
-quality: 75
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: New York Magazine
-  domain: nymag.com
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://pyxis.nymag.com/v1/imgs/ea8/553/d0116718e9c50f2729b2e2fbfe13728ebc-pence-trump.1x.rsocial.w1200.jpg"
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNrcFREBQ0Qc/v1/1200x800.jpg"
     width: 1200
-    height: 632
+    height: 800
     isCached: true
 
 related:
@@ -90,20 +92,6 @@ related:
       - url: "https://thehill.com/sites/default/files/newsletter-open_030121getty.jpg"
         width: 580
         height: 387
-        isCached: true
-  - title: "Trump Weighs 2024 White House Run Without Mike Pence, Allies Say"
-    excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 -- and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket,"
-    publishedDateTime: 2021-03-03T18:54:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-03-03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say-kltso7ze"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 120
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNrcFREBQ0Qc/v1/1200x800.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "New report says failures at OSHA under Trump could have put more workers at risk during pandemic"
     excerpt: "The agency received more safety complaints during the pandemic than the same period in 2019 yet performed significantly fewer inspections."
@@ -181,6 +169,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Mike Pence’s Blueprint for Permanent Authoritarian Rule"
+    excerpt: "Pence’s analysis is worth considering in some detail. As both a faithful servant to Donald Trump and a respected member of the Republican Party’s most ideologically orthodox wing, Pence holds a position that represents a synthesis of Trump’s idiosyncratic personal authoritarianism and his party’s longstanding anti-democratic trend."
+    publishedDateTime: 2021-03-03T21:07:00Z
+    webUrl: "https://nymag.com/intelligencer/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 75
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/ea8/553/d0116718e9c50f2729b2e2fbfe13728ebc-pence-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 632
+        isCached: true
   - title: "Trump To Make First Post-presidency Speech At Conservative Conference"
     excerpt: "Donald Trump returns to the political spotlight Sunday, determined to regain control of a Republican Party that is out of power and pondering whether the flawed former president can win again in 2024."
     publishedDateTime: 2021-02-28T14:11:00Z
@@ -196,6 +200,6 @@ related:
         height: 644
         isCached: true
 
-secured: "LEtoNp+P+wB5AcSjuuQYAzVdHxIx3R7yUEQy8V7yogBU7nQ0OSzhJnwJkdJOTtpbr/sDY4hx7KW32qqAeS8B+6xZTeMP9W5wcBojRwVzaTWK0oLYGsmQrhq23tBDo7H6Q1kwnybwM9NflipGsZ+u3X85pCif+xsFfSTnUQpN3LysvFDycSYCizJqYJ8sqy2L9lgJrvmBXtSmuITdKdAABfF9eGeqoIaeiyuzLi4Q2qEMQp5fxwOuACKi9s3TFoeryCvwWvtkU9ZcwunuRg7yjbHxz3t2rBr/GdShgUuEBjvGgDH7fK90mYQHzaxFS1DszOph+bvPQD84ZHxtGCTmRjxnB1ascex3jXi0O/0Sb7P1EQu1OhMeHb9T2NHNbsjF/IDbBT7edCdJvZVBWCW46WxDDL6MavD3ZjrwKm04VTY/WYrM8Jdrk4lL4qpIdmjJY4YdDyxB05/NXfIr3n4toui8fzaQu1pxMCCsFD/bWkXN+vHcvma0FUel/MwRd6BbuvBW6r04J4hwZBEgZgWImg==;9Fa2VmogNL7wVTNEuVY9eQ=="
+secured: "zm32Y0zrO9KZhpVhLIWuSMcYMOvCgVFkqc31e+e9UBQWn5Y3GiH/TVhbIBa8F9GpxeVkHliyuNA/fwRm8eLJGj1be3aR+U/H+TiutXACyKcV0RJiUCe1hm6l89z62NEnQaFC0q3LSBlWGCCbPv03OhriK8eHAAdx0fpLE995eU66JWy1N53r42qw3CJWSYQQbwkFDdHECNO7bbq2BmXx/pzV1joDJXm2Oh0R+6gniKM0063uhh+bVqXfXm31Ay3UxsGNsMu0+zzMS8Wdv4grfDwXWlIkH4qYFY5mrr1JWPbA3SUySCYXyKjjOW5hLgUrt2DHq7VBSQ+cLxdT3qElKlsE7LErezSc2E4rz2D420E=;WyKV9I3qUbKuYqY/+tOu9A=="
 ---
 

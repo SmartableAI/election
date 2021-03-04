@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Will Trump Dump Pence If He Runs in 2024?"
+    excerpt: "There are reports Trump won’t forgive Pence his one moment of independence. A fresh start could also give us the spectacle of a Trump-Trump ticket."
+    publishedDateTime: 2021-03-04T03:56:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/03/will-trump-dump-pence-if-he-runs-in-2024.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/will-trump-dump-pence-if-he-runs-in-2024.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/will-trump-dump-pence-if-he-runs-in-2024.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 100
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/150/974/595b63e2e3a526c42fe397ddfff9cf1523-mike-pence-donald-trump.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tim Allen Slammed After Saying This About Donald Trump"
     excerpt: "Tim Allen faced swift backlash after revealing he liked former President Donald Trump because of the effect he had on people."
     publishedDateTime: 2021-03-03T17:40:00Z

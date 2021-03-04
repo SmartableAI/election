@@ -45,15 +45,15 @@ related:
         isCached: true
   - title: "Pence attacks Democratic voting bill, 2020 election integrity in op-ed"
     excerpt: "In an op-ed, the former vice president criticized Democratic efforts to counter voter suppression and echoed Republican anger at the 2020 election."
-    publishedDateTime: 2021-03-03T18:27:00Z
-    webUrl: "https://www.cincinnati.com/story/news/politics/2021/03/03/mike-pence-takes-aim-democrats-election-reform-bill-hr-1/6901534002/"
-    ampWebUrl: "https://amp.cincinnati.com/amp/6901534002"
-    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6901534002"
+    publishedDateTime: 2021-03-03T16:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/03/mike-pence-takes-aim-democrats-election-reform-bill-hr-1/6901534002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6901534002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6901534002"
     type: article
     provider:
-      name: Cincinnati Enquirer
-      domain: cincinnati.com
-    quality: 90
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/57ee0d46-76bb-43da-b45c-a407e61be497-AP_Pence_Inauguration.jpg?auto=webp&crop=5409,3043,x208,y0&format=pjpg&width=1200"
         width: 1200

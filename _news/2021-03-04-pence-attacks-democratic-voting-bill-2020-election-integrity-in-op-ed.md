@@ -2,19 +2,23 @@
 category: news
 title: "Pence attacks Democratic voting bill, 2020 election integrity in op-ed"
 excerpt: "In an op-ed, the former vice president criticized Democratic efforts to counter voter suppression and echoed Republican anger at the 2020 election."
-publishedDateTime: 2021-03-03T18:27:00Z
-originalUrl: "https://www.cincinnati.com/story/news/politics/2021/03/03/mike-pence-takes-aim-democrats-election-reform-bill-hr-1/6901534002/"
-webUrl: "https://www.cincinnati.com/story/news/politics/2021/03/03/mike-pence-takes-aim-democrats-election-reform-bill-hr-1/6901534002/"
-ampWebUrl: "https://amp.cincinnati.com/amp/6901534002"
-cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6901534002"
+publishedDateTime: 2021-03-03T16:34:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/03/mike-pence-takes-aim-democrats-election-reform-bill-hr-1/6901534002/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/03/03/mike-pence-takes-aim-democrats-election-reform-bill-hr-1/6901534002/"
+ampWebUrl: "https://amp.usatoday.com/amp/6901534002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6901534002"
 type: article
-quality: 90
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Cincinnati Enquirer
-  domain: cincinnati.com
+  name: USA Today
+  domain: usatoday.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -60,6 +64,6 @@ related:
         height: 700
         isCached: true
 
-secured: "dpDNl51vaXyvvU8U7VHLHQZfGlZ5B3x5+q+vK01CysXk7VeXJusp2MrlW0BdFzWDVX9Xrw96rv+rqUMAwV7MsODlaDcIodcEdRnIgxXWm3AhBsPdlAhu7fAe1kaJaE1Hs6/eQc3Q+xCbRejArInylHTTmm21d/lzoTyD+fzq13S26Hfb6yVgRX2KDSu8r+O4Qw6eKPd2DaUz741nr2jja50AoVPFf+8a1R6SPsED2iXl0AZe//qmL/RRGrulD+dMFfJTjk/xdapVHUBGy9avVNHUZ15a4WZf3rY2krT5WFDmqhscOe/XARnuJpE6RxEsjGDwZ0ysUtfKBArjmyNP4+lUTxOV44ajGFXf149BLMfCZ0E6r2W3PiOSIui4Xkjqw8o5GIfdg5MKdmjb/GYFnFiabRhMfYhJz9BRQiDd0A9GFVO6o3+gG6Rhczar/sj9hDj2LiKQvwRS4F6JDU0oJDScD3RJP5LUtmXNT5g4sUeCUCEghw6vRgSw4JHly2pNByUvpzIXM/aJ5CKXnMGo+w==;5+ahRHoc+mTzelumGwszTw=="
+secured: "PP48VaOby+0FWghZGxciprWFM6CO1BsFJgIXF1nEHcJveZsJ/MKlvSKhewk1Cpgb1lKj278SGpCIA/50WuasfWxGWtrRzrkyyg6YlOd/tqrWd9bm9SUbyP3FJ37ytpAEikb4G/MNjzlxGCqCskuXbDeSjma4Yoybc7wEmPRNhPXVitoj695C4Z1cv8eFEnvGYu0rE/i8iMyYzyzLQjxNvJNCwH3voPzWe4TJQwNAdTCT8ckSWquDvg0Hpkj8CvjSsl0Nn9xx8niwJ9qfPt5npHHcMmmxeuingiRAs8zeu0WTaX5y9yoofnzJygtupRgSPDAodTVR+QeDRSkKbfpR5mY0NCxOjco21wwFekZtBBs=;I78yFjpKITXQB0bJxrFBWg=="
 ---
 

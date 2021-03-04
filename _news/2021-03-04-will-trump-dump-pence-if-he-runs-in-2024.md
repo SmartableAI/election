@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Tim Allen Slammed After Saying This About Donald Trump"
-excerpt: "Tim Allen faced swift backlash after revealing he liked former President Donald Trump because of the effect he had on people."
-publishedDateTime: 2021-03-03T17:40:00Z
-originalUrl: "https://www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666"
-webUrl: "https://www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666"
-ampWebUrl: "https://www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666?amp=1"
-cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666?amp=1"
+title: "Will Trump Dump Pence If He Runs in 2024?"
+excerpt: "There are reports Trump won’t forgive Pence his one moment of independence. A fresh start could also give us the spectacle of a Trump-Trump ticket."
+publishedDateTime: 2021-03-04T03:56:00Z
+originalUrl: "https://nymag.com/intelligencer/2021/03/will-trump-dump-pence-if-he-runs-in-2024.html"
+webUrl: "https://nymag.com/intelligencer/2021/03/will-trump-dump-pence-if-he-runs-in-2024.html"
+ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/will-trump-dump-pence-if-he-runs-in-2024.html"
+cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/will-trump-dump-pence-if-he-runs-in-2024.html"
 type: article
-quality: 75
+quality: 100
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Magazine
+  domain: nymag.com
 
 topics:
   - Election
   - Donald Trump
+  - Mike Pence
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/22/tim-allen.jpg"
+  - url: "https://pyxis.nymag.com/v1/imgs/150/974/595b63e2e3a526c42fe397ddfff9cf1523-mike-pence-donald-trump.1x.rsocial.w1200.jpg"
     width: 1200
-    height: 800
+    height: 630
     isCached: true
 
 related:
@@ -75,21 +72,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Will Trump Dump Pence If He Runs in 2024?"
-    excerpt: "There are reports Trump won’t forgive Pence his one moment of independence. A fresh start could also give us the spectacle of a Trump-Trump ticket."
-    publishedDateTime: 2021-03-04T03:56:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/03/will-trump-dump-pence-if-he-runs-in-2024.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/will-trump-dump-pence-if-he-runs-in-2024.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/will-trump-dump-pence-if-he-runs-in-2024.html"
+  - title: "Tim Allen Slammed After Saying This About Donald Trump"
+    excerpt: "Tim Allen faced swift backlash after revealing he liked former President Donald Trump because of the effect he had on people."
+    publishedDateTime: 2021-03-03T17:40:00Z
+    webUrl: "https://www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666"
+    ampWebUrl: "https://www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/tim-allen-slammed-after-saying-about-donald-trump-3155666?amp=1"
     type: article
     provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 100
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/150/974/595b63e2e3a526c42fe397ddfff9cf1523-mike-pence-donald-trump.1x.rsocial.w1200.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2017/05/22/tim-allen.jpg"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
   - title: "Trump Endorses Kansas Sen. Moran; Primary Fight Less Likely"
     excerpt: "Former President Donald Trump has endorsed Kansas Sen. Jerry Moran for reelection in 2022, early backing that makes it unlikely the two-term Republican will face a serious challenge in the GOP primary."
@@ -103,6 +100,6 @@ related:
       domain: usnews.com
     quality: 55
 
-secured: "lpWEhZdSmbxcculAgwMBwfyFT21hfzPi7lfOX2mR3S4C8+DXEnbijTgG8/4t9M2mBPUzWtUqj0mCXvaCukEUSAn4hRiECUBSk9MPsf5tl/2WMdFpD3M/vxWLsjVOmKC5mL43knsxncn4YX5gzwowtHp0x32JJmx2U4z8o6dGxHSUxJurrBPO1jTxrrH0vnG+VB+irpjlY4wHM/1OqaKnDYExv1HDmmJViOjIZ5UKv48C11rQF67CKvh6+CdQuQngpvlJ45nQ+sxZStktgHfviczJ+U6XfOI7sBSdidoPn0LDsy+wmgIs/8e/Ukn4Sb7kQhJh+VWp5QbTNBnYhWHghm13xwDtn/8zNl6+KQfWYG0EvZuAVGdKqz1we9cq9lRIuZ9k5KJyByUvJP1u375fpuhXCNF62Tb4mi1RA1SDNGxGUv4bsU0utLepX8TH2sOKHt9fNV/l7rZb/K2fFb0UaidueeILngr528Koy1xElmwB6dP/SsYRSm1iox1tdMXRcw89JJr5v4Nim4me37RLyw==;Wr3pl87V5NOFbNkjBuKKcQ=="
+secured: "fS4+rlmJRmvS3EeVhPxYpcUPM9PiEVfhqBu6TcTXhb6DI6nUjE65XD56Ac62IbQ6mB/AsZoOwJjQj5ekctbCW102lrMjvQLhZkHGgocPMpLxHRARgJl7PpB83dQ4H0tD6K2pynvy35L0EyIKstf09JKQzYGM0LezG6KMwwJ1r1WpHsoAJCRYBh99GYN1OLIxklYXmoILJ4KbKXSWMVYmvSmX2HxrS7+58J4nH1zOPwB7LXcrjPfND7j52twUSISWss/dT/jcSQPPlOvJHPPLNDZR3rLxKi7UAgZ+P8NDLdE7A0jr7hjWHC1AjMUG6UYJWKxNPCoQxresQ3Zb1Ok72qUWxKi7VuLPcY5dBhZtrz4=;cpwRBsbr+m0dztF5wHob7Q=="
 ---
 
