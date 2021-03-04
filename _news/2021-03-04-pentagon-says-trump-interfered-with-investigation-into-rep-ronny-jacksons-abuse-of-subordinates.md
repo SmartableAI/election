@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report"
+    excerpt: "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,"
+    publishedDateTime: 2021-03-04T10:33:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 71
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/4e6/999/6d51cf8fb5705f6e1da184c5903f44cc19-GettyImages-1128135352.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Woqdirf52zyn16nmnzCcu//Zg5pwCrpCGwyGxksLppwFblFjn+tC+NftjGqrlAcUiFzkN8Qsmb8ia51DLvRa+o1Q1bXJ/23imADCKOBsSgw46oEEhQy/lI+5fjR/QhY9FgQF1oqJDXuQ0xa4CB0rofBfJ7S6TXlaQ+rHtpi+9Zz8I2kucYtfeLw+wmzXG9ievT1nT4gLt0iHK1Ije9kGwelramH0dT1c5vr2lv6Oqkqo4vjcP4Z26t38IdSQko2Gwo+2lZdLrFROPn1vWEcEoxyWICMmklzutb9Xr0SQLj2p9YTeJ8lVVxn8q+5qDeA00ud+N7SJrUnRBBwLOjvJsKO5zAaeYK0DFWv0yFeUJAc=;MpG8jfA+11zAkJylTTSw4g=="
 ---

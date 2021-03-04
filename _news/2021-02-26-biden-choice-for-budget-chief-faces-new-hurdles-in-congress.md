@@ -95,22 +95,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "With Biden's backing, Dems revive bill to overhaul policing"
-    excerpt: "House Democrats rushed to pass the most ambitious effort in decades to overhaul policing WASHINGTON -- Cheered on by President Joe Biden, House Democrats hustled to pass the most ambitious effort in decades to overhaul policing nationwide,"
-    publishedDateTime: 2021-03-04T01:11:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76243852"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76243852"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76243852"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_01bd8e23f94d41b0bc3d7b18e654b50a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
     excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
     publishedDateTime: 2021-03-02T20:13:00Z
