@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Justice Dept. Backs Away From Trump Era but Is Still Expected to Test Garland"
+    excerpt: "Several politically charged investigations await Judge Merrick B. Garland, President Biden’s nominee for attorney general."
+    publishedDateTime: 2021-03-04T02:00:00Z
+    webUrl: "https://www.nytimes.com/2021/03/04/us/politics/merrick-garland-justice-department.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/04/us/politics/merrick-garland-justice-department.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/04/us/politics/merrick-garland-justice-department.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 132
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/26/us/politics/26dc-justice1/26dc-justice1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "EFiI4+HOz2217h+lvyf1Ca9VjaB6stpcivwiy77AMhiXqEZTiElcWaDt7zv6xYArQSc4oqGIItHDR3CkADaw8QRyeJOf/tzOL9SJzYlqHP1r0RrsWQp1tQsVXoE8GqWiNenWILqmUE8mJ6j+wNNLRaJ3tzlRozAnfsjpNdaAw5Hw1oM7nkK/kSTChpCq+efDZZ7bbY18sAP0/YNW0H7dV9lmQjhlWuigTZluFBLnmdJiB8dUoavsySFF+jUZ7saLH1sY4OfFcaKxqRgCk2nohCXo4RDdaWRwZWMKvRglKtgn7M3kB8UH8EI2Q6Q3dTKqOPvSQyBXr/qXMkl8RtpExacyCBed3JibyC10PntyU8o=;iJ6uXyU0/EKtYalqD7219g=="
 ---

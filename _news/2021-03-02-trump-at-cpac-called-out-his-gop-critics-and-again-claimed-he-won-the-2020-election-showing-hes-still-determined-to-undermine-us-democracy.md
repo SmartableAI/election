@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "QAnon Already Turning Back on March 4 Theory as Day of Donald Trump Prophecy Arrives"
+    excerpt: "Supporters of the radical conspiracy theory appear hesitant for yet another humiliation when Trump fails to return as president."
+    publishedDateTime: 2021-03-04T09:58:00Z
+    webUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690"
+    ampWebUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1748238/qanon.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "FBI focuses on video of Capitol Police officer being sprayed with chemicals before he died in pro-Trump riot"
     excerpt: "The video could offer investigators a path to holding someone accountable in connection with Officer Brian Sicknick’s death."
     publishedDateTime: 2021-02-27T00:47:00Z

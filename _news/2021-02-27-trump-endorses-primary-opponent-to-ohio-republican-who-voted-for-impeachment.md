@@ -79,20 +79,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump aides build out the MAGA-verse with new groups"
-    excerpt: "A number of Trump's top campaign aides and senior administration officials are launching nonprofits or super PACs."
-    publishedDateTime: 2021-03-03T09:37:00Z
-    webUrl: "https://www.politico.com/news/2021/03/03/trump-aides-super-pacs-472947"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/5b/57/79e8db9540fd98d968215ad7bd33/ap20351767222013-1.jpg"
-        width: 1160
-        height: 773
-        isCached: true
 
 secured: "ramc8nbXUVsL7ws/RUQzbNaiXuckKTzOB8hCd+BBiY9Nf2eogZHXkhAzL7f1lbWSi4ZPk7Xe9XOGJVEoHzJTJdoq9Tkx1bUE69HdsG0ChNnUJTUrwrJc8rJu12LnhBVtQ+AX+oD2x4Vp6In33mNPhcyWNHFhB0nS8XzjKo8WmV1jkUZrxVOlrpqfc+daM4V1CORg0FlXhWPwN9Y13EormZV6iw2qkbUtiiyB9xNj0jbn7+yDX6DynLYNLDeMMnGjBTTnOe4uRqT5C7C5shXn+5vnMr+M0c1QdSMsvLpPi+ASQsQZYpYEmAS/nhcF/V1aj5r8zYIe7A/9WTLbUVh90QfZ0IGqLGzOgup6CLiYxC0=;yu8x3xVDi5xDcKQ0E1Rvkg=="
 ---

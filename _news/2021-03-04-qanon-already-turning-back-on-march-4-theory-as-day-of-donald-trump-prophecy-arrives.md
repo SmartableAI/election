@@ -1,22 +1,22 @@
 ---
 category: news
-title: "FBI focuses on video of Capitol Police officer being sprayed with chemicals before he died in pro-Trump riot"
-excerpt: "The video could offer investigators a path to holding someone accountable in connection with Officer Brian Sicknick’s death."
-publishedDateTime: 2021-02-27T00:47:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
+title: "QAnon Already Turning Back on March 4 Theory as Day of Donald Trump Prophecy Arrives"
+excerpt: "Supporters of the radical conspiracy theory appear hesitant for yet another humiliation when Trump fails to return as president."
+publishedDateTime: 2021-03-04T09:58:00Z
+originalUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690"
+webUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690"
+ampWebUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
 type: article
-quality: 106
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5JFKUDGJEI6XOVYOB7YO2OXQU.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://d.newsweek.com/en/full/1748238/qanon.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "QAnon Already Turning Back on March 4 Theory as Day of Donald Trump Prophecy Arrives"
-    excerpt: "Supporters of the radical conspiracy theory appear hesitant for yet another humiliation when Trump fails to return as president."
-    publishedDateTime: 2021-03-04T09:58:00Z
-    webUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690"
-    ampWebUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
+  - title: "FBI focuses on video of Capitol Police officer being sprayed with chemicals before he died in pro-Trump riot"
+    excerpt: "The video could offer investigators a path to holding someone accountable in connection with Officer Brian Sicknick’s death."
+    publishedDateTime: 2021-02-27T00:47:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
     images:
-      - url: "https://d.newsweek.com/en/full/1748238/qanon.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5JFKUDGJEI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Trump at CPAC called out his GOP critics and again claimed he won the 2020 election, showing he's still determined to undermine US democracy"
     excerpt: "Former President Donald Trump's false claim that the 2020 election was stolen from him was at the heart of his Sunday-night speech at CPAC."
@@ -112,6 +112,6 @@ related:
         height: 810
         isCached: true
 
-secured: "yCB4iHywQq2YkLkr0njtmscrjHAjzDOg7zxUxE7AJR+sp2KlEd59Bb+QH57Tl0mRiNQBGl3noEqFGlaCtwvJ8Abv9C88abux5/h8+lEKFtHD3qrdywXmL+jtQ0DsJDCQsaErUOem3kD59WFDs9CpIAwpGe5QOHgF8rT7OHkmtVn+RPGMojDLHomhzfh4zPLvKtc3nxmUPof6CMPuy25kLY1HGvEAUA0TPuUfJEX0dXU0NouFTaIfNj1s/HhS1rhFPzpfqAbRfkbhbjBcBAnowNR5eG8lx1F2h8kG/TfgXwpdPUhTkUIMb/qIDKuZ0ahyUHUu2EEa9f1eQQ76BKZITZVQuOE+DbrgTiF83I8wT4BZ0Cn0rysxd2I/FIrtA0jQ6RIVE1jO8L9U9ZiO2mJWLa6y8ZXOgnpg3hSXLOBjlhX6BahvUXyv7MLtTvPRJaUWYtd7mMixihDU8PFKXoh4Xk5wG1JJtzB9lDjNO//w2a55APJSAlNovcha4HXmDvJmoYdwfxblmo7aFW6dQTp7CQ==;4EdlxJdOnQtVRVwglAAq/g=="
+secured: "LqwrCANbNnZUdNJB8bd8cAFE6SoUssEMsKZCgHXQbVscBjHIaGrllgK0oayditzntkNuXBQXrUwGI9OR6oplOn8PbqEfLOaMF9N9bRJeHZCU6BNlXs53kq2WgAcOkUOK4QqL1JhpXS2NtE/HPx5Cb9o2l6aAYb2b6iw2c/pjXyw5gwKpTFHo26DwzvP5G5MDeUGiMNFrbHwKOOMX/YkJjsqYKQF4m16T2t3/v3ueVJC1Txs+OIJN+aeoMBGcXTl+92q2KI6AS0LYs+4jMzTyCMT60fV3YntLqTLJUREk9+g0g1kCOIUcjdHAPYI0Kg8bFXKKU0e+Z7uuoa4OtgOM7GOvqpCFTCj35suau3BmdFY=;1OwlVN1+5zJfzy+KV1AEuQ=="
 ---
 

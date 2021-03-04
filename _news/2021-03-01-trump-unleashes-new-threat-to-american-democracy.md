@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/cpac-2021-trump-speech-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/cpac-2021-trump-speech-american-democracy/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 235
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/02/us/politics/02gop-leaders1/02gop-leaders1-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Trump aides build out the MAGA-verse with new groups"
-    excerpt: "A number of Trump's top campaign aides and senior administration officials are launching nonprofits or super PACs."
-    publishedDateTime: 2021-03-03T09:37:00Z
-    webUrl: "https://www.politico.com/news/2021/03/03/trump-aides-super-pacs-472947"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/5b/57/79e8db9540fd98d968215ad7bd33/ap20351767222013-1.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "UkM5VcCH7/6aetvkPayXAwGMHutim14fkDKoxHLt5KYKeEve+EnN/V7drfojvHIsXxBe7p1qH/KP0dKYmZsTAvkODBAqjmAkJQrAtzfODR/QHkzUD2yM/SCw2XThe9KV2kANPMkk0agycllbAZ1ol5AXLCuKXRriXZ0DHPWGpAdZ+3lH+nMJBTXT9XMst/Gzje3LvG8YWEy7cH48+8iSSmom6cuStqJhrnxQOdF4bYFGCi+5j/HKqo3BOirSXJ8JS7bSy89JHd/5opgljPrk+57wtvM0xXOysOdCowDQuGPJoQSzuZBtJQUp+Zny9FT8ZEKXAdp3ceM6gcIcmVK+s7+86/XtrKBJrL5FUMntuno=;JJOWroPdli2cxl1GADQR9w=="
