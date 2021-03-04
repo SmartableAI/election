@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden's COVID-19 relief package slammed by pro-GOP group"
+    excerpt: "EXCLUSIVE: A pro-GOP outside group closely aligned with the Republican Governors Association (RGA) is launching an effort in three states against Democratic governors ‒ who could face challenging reelections next year ‒ over the $1.9 trillion COVID-19 relief package being pushed by President Joe Biden."
+    publishedDateTime: 2021-03-04T15:45:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EFNo-AheViE/bidens-blue-state-bailout-slammed-pro-gop-group"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-blue-state-bailout-slammed-pro-gop-group.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-blue-state-bailout-slammed-pro-gop-group.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "GOP Rep. Lauren Boebert calls on Biden to lower flags in honor of Rush Limbaugh"
     excerpt: "Rep. Lauren Boebert, R-Colo., called on President Biden on Friday night to order flags lowered to half-staff in honor the life of conservative radio legend Rush Limbaugh."
     publishedDateTime: 2021-02-20T02:12:02Z

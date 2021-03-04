@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's $1.9T coronavirus relief bill is 'Trojan horse,' will use as 'slush fund' to buy votes: Rep. Nunes"
-    excerpt: "President Biden’s $1.9 trillion coronavirus relief bill is a Trojan horse that the Democrat will use as a slush fund to buy votes over the next four years, Republican Rep. Devin Nunes said Sunday."
-    publishedDateTime: 2021-02-28T17:32:18Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MXQKubfAGXw/biden-coronavirus-relief-bill-trojan-horse-rep-nunes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-relief-bill-trojan-horse-rep-nunes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-relief-bill-trojan-horse-rep-nunes.amp"
+  - title: "GOP maps out strategy to counter Biden's 'immoral,' 'radical' immigration agenda"
+    excerpt: "Republicans this week circulated a memo on their plan to counter what they describe as a \"radical\" and \"immoral\" immigration agenda from President Biden as the GOP looks to unite against the rolling-back of Trump-era border protections."
+    publishedDateTime: 2021-03-04T15:59:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TIoRakNFDVU/gop-bidens-immoral-immigration-agenda"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-bidens-immoral-immigration-agenda.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-bidens-immoral-immigration-agenda.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 170
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c4a6592-d059-48be-9d60-4a2175e3eb91/85e851b2-86ff-481e-a302-aa8deaa048af/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43c05678-89c2-4f31-97b6-7be17956aedf/4ed54759-c149-42db-9f63-cc018c87c204/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
