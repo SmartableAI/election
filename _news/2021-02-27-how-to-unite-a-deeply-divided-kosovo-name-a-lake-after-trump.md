@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senior diplomatic security official removed from Afghanistan role after declaring 'death of America' when Trump lost election"
+    excerpt: "The top State Department diplomatic security official in Afghanistan was removed from his role for declaring the \"death of America\" and making racist comments about Kamala Harris in a post on his Facebook page when President Donald Trump lost November's presidential election, according to four sources"
+    publishedDateTime: 2021-03-04T13:14:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C3WoiUPkcJw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/diplomatic-security-official-removed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/diplomatic-security-official-removed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130804201221-afghanistan-embassy-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Ambitious Republicans’ Dance: Embrace Trump, but Don’t Try to Be Him"
     excerpt: "As jockeying begins for 2024, rank-and-file Republicans say they are most drawn to leaders who both pledge fealty to the former president and appear to showcase a distinct political identity."
     publishedDateTime: 2021-03-02T22:07:00Z

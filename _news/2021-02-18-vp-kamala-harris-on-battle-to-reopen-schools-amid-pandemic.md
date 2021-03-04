@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101198917708"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101198917708"
 type: article
 quality: 135
-heat: 135
+heat: 155
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Kamala Harris: Who She Is and What She Stands For"
+    excerpt: "Ms. Harris, Joe Biden’s running mate and the first woman of color on a major party ticket, has said she can “prosecute the case” against President Trump. Joe Biden selected Kamala Harris as ..."
+    publishedDateTime: 2021-02-18T06:02:00Z
+    webUrl: "https://www.nytimes.com/interactive/2020/us/elections/kamala-harris.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2019/09/10/us/politics/10-harris-candidatepage/10-harris-candidatepage-facebookJumbo.jpg"
+        width: 800
+        height: 418
+        isCached: true
 
 secured: "A+31fVIypqDOXHRzg5JYvU9S39+SVm5cToiANxEQzAF3c+uEJVWlXnwNn1TzwACtMkWnCyueFHjpdbM5vC+u2UHZKI3DwBPXqIKHa0pLqYgP8MwF1IQ+VmrilleZXtFlECamPffyDECKvX2oUmq6dLHTY4V7hxS9yZWpWAViVHhoSl4weceOL1bN/TZ5hNWGoODziAcasmtCaPaQEz5zmAQqwmA4eUoECYnaOrSdjDNzKH4wtyLcDOD0iA48tnascS+EtfSr5tp1KsdMTvmn6n8AcAdhGPqRX5fCny+reI6Yfzpr9Kiz4+wLTA6M+AYEMVvxkOMXoaaT9nIfYeMOytqsCaYFYE2HTHYW2Ue9pZJE1JeP9tQzplIVVz3Aq0JjhbV92ZriKop6rPxE5xce77nfLDJuhkyvaV7Wq3qSb5rIHgAn5aORAaaDEELt2jNSbpHSOvPcBAsf2Z1liQQZWcUtbMqiHd8SqDGxiyd4Lqv85Ojm/dI56IJDDRcVByT50lLXuziNwjZdZamiL/PiTQ==;kr7LLfjcz0YCsCTtc60mfg=="
 ---

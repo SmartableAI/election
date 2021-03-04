@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senior diplomatic security official removed from Afghanistan role after declaring 'death of America' when Trump lost election"
+    excerpt: "The top State Department diplomatic security official in Afghanistan was removed from his role for declaring the \"death of America\" and making racist comments about Kamala Harris in a post on his Facebook page when President Donald Trump lost November's presidential election, according to four sources"
+    publishedDateTime: 2021-03-04T13:14:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C3WoiUPkcJw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/diplomatic-security-official-removed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/diplomatic-security-official-removed/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130804201221-afghanistan-embassy-story-top.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "How to Unite a Deeply Divided Kosovo? Name a Lake After Trump"
     excerpt: "A lighthearted suggestion by a U.S. envoy hoping to bridge a vast rift between Albanians and Serbs in Kosovo has taken on a life of its own — only to be ridiculed by local residents on both sides."
     publishedDateTime: 2021-02-27T10:05:00Z

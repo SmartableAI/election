@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-01-rep-banks-warns-gop-destined-to-lose-elections-if-it-rejects-trump-and-his-voters.md",
+      "title": "Rep. Banks warns GOP ‘destined’ to lose elections if it rejects Trump and his voters",
+      "excerpt": "Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class",
+      "originalUrl": "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c055ca10-6fad-441b-9b13-bc9cfa464a1a/21f7f894-6377-4ca8-8101-b98ee68f19ac/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp",
+      "publishedDateTime": "2021-02-28T23:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot.md",
+      "title": "Trump says he was not watching live TV coverage of Capital Hill riot",
+      "excerpt": "Former President Donald Trump on Sunday night denied that he was watching live television coverage of the deadly Capitol Hill riot. Trump was responding to a Washington Post story that claimed he",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/",
+      "originalUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-cpac.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/",
+      "publishedDateTime": "2021-02-28T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-28-trump-pays-tribute-to-rush-limbaugh-at-cpac-speech-irreplaceable.md",
       "title": "Trump pays tribute to Rush Limbaugh at CPAC speech: 'Irreplaceable'",
       "excerpt": "Former President Donald Trump on Sunday paid tribute to the late radio legend Rush Limbaugh, who was long considered the voice of the conservative movement and who was one of the first high-profile right-wing media personalities to back Trump's first presidential run. ",
@@ -1530,118 +1635,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominee-tom-vilsack-confirmed-agriculture-secretary.amp",
       "publishedDateTime": "2021-02-23T12:34:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-hillary-clinton-co-writing-international-political-thriller-with-trump-overtones.md",
-      "title": "Hillary Clinton co-writing 'international political thriller' with Trump overtones",
-      "excerpt": "Clinton's novel features a female \"novice Secretary of State'' who seeks to \"unravel a deadly conspiracy.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_wtCzpu7EEU/hillary-clinton-novel-state-of-terror-louise-penny",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_wtCzpu7EEU/hillary-clinton-novel-state-of-terror-louise-penny",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 189,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/47223480-f1f2-47c4-8277-c23d6981805a/8cce2f2b-c200-47a0-a2bd-0763abfbcf6b/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hillary-clinton-novel-state-of-terror-louise-penny.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hillary-clinton-novel-state-of-terror-louise-penny.amp",
-      "publishedDateTime": "2021-02-23T08:42:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-in-virginia-gubernatorial-race-amanda-chase-casts-herself-as-trump-in-heels.md",
-      "title": "In Virginia gubernatorial race, Amanda Chase casts herself as 'Trump in heels'",
-      "excerpt": "Republican Virginia State Sen. Amanda Chase is doing everything she can to present herself as the Donald Trump in a governor's race full of Liz Cheneys and Mitt Romneys.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AKrt_ERGV4o/virginia-governor-race-amanda-chase-trump-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AKrt_ERGV4o/virginia-governor-race-amanda-chase-trump-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Amanda-Chase.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/virginia-governor-race-amanda-chase-trump-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-governor-race-amanda-chase-trump-2021.amp",
-      "publishedDateTime": "2021-02-23T07:23:57-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

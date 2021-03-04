@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump endorses primary opponent to Ohio Republican who voted for impeachment"
-excerpt: "Former President Donald Trump on Friday endorsed a primary challenger running against Ohio's Rep. Anthony Gonzalez, who voted to impeach Trump last month, in an early sign of the former President's plans to exert his influence on Republican primaries ahead of the 2022 midterm elections.\n    \n"
-publishedDateTime: 2021-02-27T02:16:29Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fB92Jy0POdk/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fB92Jy0POdk/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/anthony-gonzalez-trump-max-miller-ohio-16th-district/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/anthony-gonzalez-trump-max-miller-ohio-16th-district/index.html"
+title: "Senior diplomatic security official removed from Afghanistan role after declaring 'death of America' when Trump lost election"
+excerpt: "The top State Department diplomatic security official in Afghanistan was removed from his role for declaring the \"death of America\" and making racist comments about Kamala Harris in a post on his Facebook page when President Donald Trump lost November's presidential election, according to four sources"
+publishedDateTime: 2021-03-04T13:14:13Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C3WoiUPkcJw/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C3WoiUPkcJw/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/diplomatic-security-official-removed/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/diplomatic-security-official-removed/index.html"
 type: article
-quality: 172
+quality: 163
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226193728-trump-gonzalez-split-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/130804201221-afghanistan-embassy-story-top.jpg"
+    width: 640
+    height: 360
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Senior diplomatic security official removed from Afghanistan role after declaring 'death of America' when Trump lost election"
-    excerpt: "The top State Department diplomatic security official in Afghanistan was removed from his role for declaring the \"death of America\" and making racist comments about Kamala Harris in a post on his Facebook page when President Donald Trump lost November's presidential election, according to four sources"
-    publishedDateTime: 2021-03-04T13:14:13Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C3WoiUPkcJw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/diplomatic-security-official-removed/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/diplomatic-security-official-removed/index.html"
+  - title: "Trump endorses primary opponent to Ohio Republican who voted for impeachment"
+    excerpt: "Former President Donald Trump on Friday endorsed a primary challenger running against Ohio's Rep. Anthony Gonzalez, who voted to impeach Trump last month, in an early sign of the former President's plans to exert his influence on Republican primaries ahead of the 2022 midterm elections.\n    \n"
+    publishedDateTime: 2021-02-27T02:16:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fB92Jy0POdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/anthony-gonzalez-trump-max-miller-ohio-16th-district/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/anthony-gonzalez-trump-max-miller-ohio-16th-district/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 163
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130804201221-afghanistan-embassy-story-top.jpg"
-        width: 640
-        height: 360
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226193728-trump-gonzalez-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "How to Unite a Deeply Divided Kosovo? Name a Lake After Trump"
     excerpt: "A lighthearted suggestion by a U.S. envoy hoping to bridge a vast rift between Albanians and Serbs in Kosovo has taken on a life of its own — only to be ridiculed by local residents on both sides."
@@ -96,6 +96,6 @@ related:
         height: 550
         isCached: true
 
-secured: "ramc8nbXUVsL7ws/RUQzbNaiXuckKTzOB8hCd+BBiY9Nf2eogZHXkhAzL7f1lbWSi4ZPk7Xe9XOGJVEoHzJTJdoq9Tkx1bUE69HdsG0ChNnUJTUrwrJc8rJu12LnhBVtQ+AX+oD2x4Vp6In33mNPhcyWNHFhB0nS8XzjKo8WmV1jkUZrxVOlrpqfc+daM4V1CORg0FlXhWPwN9Y13EormZV6iw2qkbUtiiyB9xNj0jbn7+yDX6DynLYNLDeMMnGjBTTnOe4uRqT5C7C5shXn+5vnMr+M0c1QdSMsvLpPi+ASQsQZYpYEmAS/nhcF/V1aj5r8zYIe7A/9WTLbUVh90QfZ0IGqLGzOgup6CLiYxC0=;yu8x3xVDi5xDcKQ0E1Rvkg=="
+secured: "DC3tsGiEkPd/HG3vcgKV65fCBizJVzSTb8InYZKIVd/11Nkv+eK4ByE9vXlWX+QSiiFUpbLGI079dsDBAQ0FZr3+16V5OEjI0kWjPVopw7ZSlhyzvgQXKOjIOPkGDwhCgvkv5cf+w2u60dRnynZyUTaOC+Xq+Fd7xTVyx/AoGkJhis0qnqYvFhwkMDgVAujpabWOTnYehBrVzotnhGiOvVyb5L4sPRGm2ggLwGOSvVB6UtI8CgBG9Cre1IQAdOAYE+gY6Oc84Na0sGXAjXLNWHUAB4ORR0scEoDYLaWWSvI91lgl1DQdHGOq2SLX3CoPgb0m5vglolUCDy6W01iu+7+jvgcKdlEZk/FG1ecHgzQ=;n1UmgtS/d0v/Weq0UspPYg=="
 ---
 

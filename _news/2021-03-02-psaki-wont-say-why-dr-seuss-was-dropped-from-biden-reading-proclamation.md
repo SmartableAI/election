@@ -239,6 +239,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "McEnany on Psaki's performance: I didn't have to 'circle back' because Trump gave me access"
+    excerpt: "Former White House press secretary Kayleigh McEnany said Thursday she didn't need to a \"ton of circling back\" with reporters because of the access afforded her by former President Donald Trump, in a reference to successor Jen Psaki's go-to line when she can't directly answer questions."
+    publishedDateTime: 2021-03-04T14:40:00Z
+    webUrl: "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access"
+    ampWebUrl: "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e464313-ed77-41c9-b931-b2206dfad890/ed9febb7-24a2-4cf4-b2f0-ee81280ac2cc/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "u09J5sXrMROPVP0gu/EHsPtAhOxFOBjLgUwYuhk5OwHDTYsYAu4Qu6eSfBq9+uAB8689Z7DwBtD2karxUoC1af2WBJla7PwsRk6xzSYZWRZDCcbY/iz9D04unFPVUN9B+QHgfFOvT+DK0n3kbOBDXEeCtVRalWdgna29XtH4CnloUCTePVY+QPWO+6mGQPgnOjPF/ygzUnVT3dWJ9yh9litINLZ+vMmIxZR2notEELIsjPy6PUEvQ50FSb1ziZ80iK9cYeEd4Yaw7W4Sn42nO/gZ8KPpcNemNlQVemO2aAr006VMtnV6eSe3xNrvHcdOBkDXLAW8fAvKWluyb7LlzqOewnHFSzjwppsjOAWwQSQ=;itqJeRRPBjnGPd5uFnjeLA=="
 ---

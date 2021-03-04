@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp"
 type: article
 quality: 161
-heat: 161
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,40 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Rep. Waltz hits back at Biden: Keeping schools closed is 'Neanderthal thinking'"
+    excerpt: "Rep. Michael Waltz, R-Fla., pushed back on President Biden for calling out red states for lifting mask mandates."
+    publishedDateTime: 2021-03-04T13:18:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UpQFz1a8sKU/biden-neanderthal-thinking-schools-closed-masks-waltz"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-neanderthal-thinking-schools-closed-masks-waltz.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neanderthal-thinking-schools-closed-masks-waltz.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbfea3cb-0931-4be8-87d5-88bf60102a68/2339f089-d6fc-4338-9f43-5613ef08b741/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hawley slams 'Mr. Unity' Joe Biden for criticism of red states' 'Neanderthal thinking'"
+    excerpt: "Sen. Josh Hawley, R-Mo., slammed \"Mr. Uniter\" Joe Biden's recent criticism of \"Neanderthal thinking\" by red states who have dropped mask mandates."
+    publishedDateTime: 2021-03-04T14:20:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tBcIBfS1cWA/joe-biden-neanderthal-mask-mandate-coronavirus-hawley"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-neanderthal-mask-mandate-coronavirus-hawley.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-neanderthal-mask-mandate-coronavirus-hawley.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aba851b7-a89d-4510-9201-5e5d016e98c4/28dca467-f331-426b-be1f-58a999ff2ae3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "T4iPEsJzBJXUI03P1r4/4AKTSjsjKY+cCspg98CZvPUMGkhQRujQ/uBdyLEvvA6QJP+5E6sPYmIH9YnIJ9w1+Z4Smhx5foJBuFp0+0mCHcOa9swIYjUEj+Vb4Zs1VJ/+N0cdIqVA2URESo5BrTlgyGomMlclFNOfgzRd5CRvTx7yqvBmw93IJDXrZeGLPBTbLqG5x7xTbaxYoLkMebHh+KCU+/ozhyG8K+WJVw7LSdHIZlCd1WK3ll1oZXsg6M9Xybl43EBcJt1QV/HxRGjSYHNg/cf7piEVprsxeohiVLN+RT9zBP78HP7T5h+oZ6Jwotg8QQ3ROoo2me/mCWCZwIaVr6sHIiGkbtfifMTVS4g=;cSriRwaPLlwT0/ec3/Qj6A=="
 ---

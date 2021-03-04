@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Top Biden adviser pushes reparations commission, predicts progress 'breaking down systemic racism'"
-excerpt: "White House adviser Cedric Richmond said it is “doable” for President Biden to make progress in his first term to break down barriers for people of color, as the administration supports a study on potential reparations for Black Americans."
-publishedDateTime: 2021-03-01T20:13:53Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpFWpJ_8yQQ/top-biden-adviser-pushes-reparations-predicting-progress"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpFWpJ_8yQQ/top-biden-adviser-pushes-reparations-predicting-progress"
-ampWebUrl: "https://www.foxnews.com/politics/top-biden-adviser-pushes-reparations-predicting-progress.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-biden-adviser-pushes-reparations-predicting-progress.amp"
+title: "McEnany on Psaki's performance: I didn't have to 'circle back' because Trump gave me access"
+excerpt: "Former White House press secretary Kayleigh McEnany said Thursday she didn't need to a \"ton of circling back\" with reporters because of the access afforded her by former President Donald Trump, in a reference to successor Jen Psaki's go-to line when she can't directly answer questions."
+publishedDateTime: 2021-03-04T14:40:00Z
+originalUrl: "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access"
+webUrl: "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access"
+ampWebUrl: "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access.amp"
 type: article
-quality: 161
+quality: 125
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e464313-ed77-41c9-b931-b2206dfad890/ed9febb7-24a2-4cf4-b2f0-ee81280ac2cc/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -175,6 +176,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Top Biden adviser pushes reparations commission, predicts progress 'breaking down systemic racism'"
+    excerpt: "White House adviser Cedric Richmond said it is “doable” for President Biden to make progress in his first term to break down barriers for people of color, as the administration supports a study on potential reparations for Black Americans."
+    publishedDateTime: 2021-03-01T20:13:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpFWpJ_8yQQ/top-biden-adviser-pushes-reparations-predicting-progress"
+    ampWebUrl: "https://www.foxnews.com/politics/top-biden-adviser-pushes-reparations-predicting-progress.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-biden-adviser-pushes-reparations-predicting-progress.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Not so fast: WH dodges on whether Biden agrees with Kerry nine-year deadline to avert climate catastrophe"
     excerpt: "White House Press Secretary Jen Psaki stopped short of saying President Biden is on board with the idea that there are less than ten years left to thwart the worst consequences of a global climate crisis."
     publishedDateTime: 2021-02-23T21:07:23Z
@@ -239,23 +256,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "McEnany on Psaki's performance: I didn't have to 'circle back' because Trump gave me access"
-    excerpt: "Former White House press secretary Kayleigh McEnany said Thursday she didn't need to a \"ton of circling back\" with reporters because of the access afforded her by former President Donald Trump, in a reference to successor Jen Psaki's go-to line when she can't directly answer questions."
-    publishedDateTime: 2021-03-04T14:40:00Z
-    webUrl: "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access"
-    ampWebUrl: "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e464313-ed77-41c9-b931-b2206dfad890/ed9febb7-24a2-4cf4-b2f0-ee81280ac2cc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "tDK8emHORcSPQgi4oyf/UW34Elwe7+AemZ9qMWy8uY85pq1YtZWv3Uh050mSbihHUTh8hUB/wjHxOzSEMqwbUn0lkxIgEVAIHpSV+hKvi+2bakolbU1qNVAIco9xsqRWp04/aZ7LzOek+C0o61OOlv9MCwquse11hb3vv2wwGg5OgfFEmw5CSAxRGuFgWzTw5mnnWil6jZj1ogrnckRda6rczvZt4clKK8YIqCM56RR7cV3TyhVimoCi8DVrG8iDsYrvedimkZoER3OE3ynBD1mTqdoC5lUlhghB11IspexvCiofFY0JTUcZuRPHxSkhxP6AAqUBM3d0XxRGCJuSc3oURrayDght8hp2JNCZdNM=;sqg9HH2YXJGysUzG4/84mQ=="
+secured: "lyemeXPY/4GvdF5TjIgaBWSUIddOaaiCwb6QoDDNXF7kic3Qc5+PDBgBPcljezRr6iwpNl8FmMSof1WmIqlA/5/4xBZT1i1anAQeTqGhix4jA7ckehSggMPwOBn/nFNo0Vs9LNaUgS1PGnLB46ZUYNsTJtioEp9/ZyZLrN9ks2+dFya+c5f/5huCoTyTm3oWn/W8/MrIhWmaEOF4LhAtTv88hAERC4PN92vhy0mO/vZ6o6xsASgq2DO8TAnGyPtws7IAp3LiHCO6lXvRMa8BSBHXXVMm3i3ttiP5R2+zVUqH/+fXzNAUUx+FWb/9R4I847yZjb7wg7QeYSM2Ed7ccNA67RlJORTIQWweVBYSeuY=;FTg/aUCEdLEBZnuT/qT0sA=="
 ---
 
