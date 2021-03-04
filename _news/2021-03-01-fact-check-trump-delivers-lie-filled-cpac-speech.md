@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump trashed Gov. Kemp after election. Hear what he says about Trump now"
+    excerpt: "CNN's Brianna Keilar says some prominent Republicans lack the courage needed to distance themselves from former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-03-04T19:50:56Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7xJmA2UkZFo/keilar-roll-the-tape-republicans-courage-trump-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/04/keilar-roll-the-tape-republicans-courage-trump-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/04/keilar-roll-the-tape-republicans-courage-trump-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 189
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210304135659-brianna-keilar-03042021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump is facing probes from 5 independently elected investigators"
     excerpt: "Five independently elected investigators have turned their attention to former President Donald Trump, a sign his legal woes are mounting as he no longer enjoys the protections once afforded to him by the Oval Office.\n    \n"
     publishedDateTime: 2021-03-02T02:10:26Z

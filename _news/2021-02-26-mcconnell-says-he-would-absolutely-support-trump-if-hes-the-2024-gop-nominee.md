@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republ
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republican-nominee/"
 type: article
 quality: 121
-heat: 201
+heat: 221
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. Capitol Calm Amid High Security; Trump Supporters Hold Faith He Will Return"
+    excerpt: "Security has been tightened around the U.S. Capitol in Washington - scene of a deadly assault in January - after police warned that a militia group might try to attack it on Thursday, an important day in the calendar for some pro-Trump conspiracy theorists."
+    publishedDateTime: 2021-03-04T22:11:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-03-04/security-tight-at-us-capitol-after-police-warn-of-possible-militia-attack"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 30
 
 secured: "HJpPdH3kV4WtKLWvDOKY5I/DQXLBEInvpvwtf+G+CDO7680TP1f5w1TL2PXTOLtz48VFKuN4Pa5+SLb288O/tUb8ZFBxkM6Xfu9RZlqQ3iTg/3xb4OBtSIfB7/FxcNEKur5RlBo0QGXMNnklnHoFeAHKACnVVdtr3ZDAoScXZGNoAqoWvxodDIxF1//NlrwqcrIaDe6JxL+O1BduSMa/2HDXesh7goXgr6j3PydKXMy2Rr8mp8Egfbp7ksV6Yn3BF7P/7fzY/d2/lf2Zr9HwpcFwjJvAjv3ZIanOvSbfuDZFOIzexHasnGtX4sh6QUCkwEqe30+PamBkkZ0n8CHz+HS+MtSIzaS45NkXqDC8rc8=;DG6s6Qf5sSK6x1mS0klXvg=="
 ---

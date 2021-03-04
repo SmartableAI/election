@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden to meet with U.S. lawmakers on infrastructure push"
+    excerpt: "President Joe Biden will meet Thursday with a bipartisan group of lawmakers on the White House's planned push for a massive jump in spending on projects to restore crumbling infrastructure."
+    publishedDateTime: 2021-03-04T21:33:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-lawmakers/biden-to-meet-with-u-s-lawmakers-on-infrastructure-push-idUSKBN2AW29R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW29R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW29R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553791070&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2319D"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
     excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
     publishedDateTime: 2021-03-02T20:13:00Z

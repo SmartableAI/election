@@ -47,6 +47,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Canada lawyer says Trump comments shouldn't halt extradition"
+    excerpt: "A Canadian justice department lawyer says comments made by former U.S. President Donald Trump do not meet the standard to halt an extradition hearing of a senior executive for Chinese communications g"
+    publishedDateTime: 2021-03-04T22:37:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/canada-lawyer-trump-comments-halt-extradition-76260010"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_8d78345726484b63adfff23683686c45_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Bergdahl Appeals Court-Martial Over Trump, McCain Comments"
     excerpt: "A former U.S. Army soldier who was court martialed after he left his post and was captured by the Taliban is asking a federal judge to overturn his military conviction, saying his trial was unduly influenced when former President Donald Trump repeatedly made disparaging comments about him and called for his execution."
     publishedDateTime: 2021-03-02T16:27:00Z

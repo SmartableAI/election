@@ -95,6 +95,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration 'lied to the American people' about border crisis: Ex-Border chief"
+    excerpt: "President Biden’s Homeland Security Secretary Alejandro Mayorkas \"lied to the American people\" about the growing border crisis, former Acting Customs and Border Protection Commissioner Mark Morgan said Thursday on \"The Faulkner Focus.\""
+    publishedDateTime: 2021-03-04T21:18:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M5wxznfmaNs/bidens-administration-lied-american-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-administration-lied-american-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-administration-lied-american-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden administration facing dramatic surge in unaccompanied children at the border: report"
+    excerpt: "The Biden administration is facing a dramatic surge in unaccompanied children at the border, a sign of how resources have been overwhelmed within just a few months of the new administration."
+    publishedDateTime: 2021-03-04T21:18:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6GqycA7meac/biden-administration-surge-in-unaccompanied-children-at-the-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-surge-in-unaccompanied-children-at-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-surge-in-unaccompanied-children-at-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d29a8fee-9475-4214-a157-4aebea5aafa6/92d864e5-94f1-4bd2-9581-282bad24da87/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "peVq2s1m6KsD41LfHDD/APzr6bOGe58o2EGguObvuNZl9Z8QF5GUC0PQRnFKYaLHIm7iJqJGxMrXR2q4kNukePvF9ejMdKPpjjSvnz9B3EzKZRuolItrVN+uS0wfYZDNPGqdw7eRJ2O7/zTrQ7CA9N4PcV82zpYs1XeYN61OPlZgykqTno9UZQR5thXxlj7IYNnVsqbD4EJ0SBkT1qc8T5+bIMKngRoLAeN2lGdgrBjhy90HaJuvrhtfRdP5QfaXygK691MAG/ulKrRBVDZPjSZ+e9840B9WvlTp1pPPF3QYpqcEyt52ud7fPWbAXywktyde0Zlj+EgJjpCWPnlULYCEG6a8qAb3ZPQVJ0fpVEY=;LYILd/ppVGG9xkf+SojPkw=="
 ---

@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-28-allies-of-rep-adam-kinzinger-launch-new-super-pac-to-support-republicans-who-have-bucked-trump.md",
+      "title": "Allies of Rep. Adam Kinzinger launch new super PAC to support Republicans who have bucked Trump",
+      "excerpt": "The effort will be up against significant head winds, as Trump still holds vast sway over the Republican Party, even after his supporters attacked the U.S. Capitol last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCWAUHTZN4I6XFENDFDS42BVEE.jpg&w=1440",
+          "width": 1440,
+          "height": 968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-28T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-28-biden-will-not-sanction-mbs-over-khashoggis-killing-despite-us-report-implicating-the-saudi-leader.md",
+      "title": "Biden will not sanction MBS over Khashoggi's killing despite US report implicating the Saudi leader",
+      "excerpt": "Other than being downgraded in the eyes of the US under Biden, it's unclear what other consequences, if any, MBS will face over Khashoggi's killing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2",
+      "originalUrl": "https://www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6039520805ddb100195f67da?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-will-not-sanction-saudi-arabia-mbs-over-khashoggi-murder-2021-2?amp",
+      "publishedDateTime": "2021-02-28T03:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-28-pompeo-says-biden-administration-sending-mixed-signals-on-chinas-human-rights-abuses.md",
       "title": "Pompeo says Biden administration sending ‘mixed signals’ on China's human rights abuses",
       "excerpt": "Former Secretary of State Mike Pompeo said on Saturday that the Biden administration has sent \"mixed signals\" on the Chinese persecution of religious minorities in Xinjiang -- and called for the administration to impose \"real costs\" on Beijing.",
@@ -1153,7 +1257,7 @@
       "originalUrl": "https://www.cbsnews.com/news/mcconnell-support-trump-2024-republican-nominee/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -1209,7 +1313,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 323,
+      "heat": 343,
       "tags": null,
       "images": [
         {
@@ -1251,114 +1355,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.md",
-      "title": "Donald Trump Jr.: Donald Trump is ‘still the future of the Republican Party’",
-      "excerpt": "Former President Donald Trump is the future of the Republican Party, his eldest son Donald Trump Jr. argued on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pgbpZAToxZU/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pgbpZAToxZU/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.amp",
-      "publishedDateTime": "2021-02-25T20:20:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-trump-supporters-want-to-blow-up-capitol-police-chief.md",
-      "title": "Trump supporters want to 'blow up' Capitol - police chief",
-      "excerpt": "Top News Trump supporters want to 'blow up' Capitol - police chief. Posted . Acting Chief of the Capitol Police Yogananda Pittman said on Thursday that Donald Trump supporters who",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVE15CYXR",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVE15CYXR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210225&i=OVE15CYXR&r=OVE15CYXR&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

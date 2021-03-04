@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-neanderthal-thinking-schools-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neanderthal-thinking-schools-closed-masks-waltz.amp"
 type: article
 quality: 171
-heat: 271
+heat: 291
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Rubio trolls Biden over 'Neanderthal' comment, tells him to 'seek training on unconscious bias'"
+    excerpt: "The Florida Republican quipped that the president’s \"use of an old stereotype\" when referring to the decision by some conservative states to lift mask mandates and reopen their economies was \"hurtful\" to those who share Neanderthalian genes."
+    publishedDateTime: 2021-03-04T22:00:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BX0at_peSVo/rubio-biden-neanderthal-texas-mississippi-reopening-mask-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/rubio-biden-neanderthal-texas-mississippi-reopening-mask-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rubio-biden-neanderthal-texas-mississippi-reopening-mask-mandate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e4f579c-7ef0-4667-b2fa-148dcc319fff/ea6f8728-4258-454b-b670-fa9b874c5159/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden says Texas and Mississippi over lifting COVID restrictions, guilty of ‘Neanderthal thinking’"
     excerpt: "President Biden took a swipe at Republican governors in Texas and Mississippi Wednesday, accusing them of \"Neanderthal thinking\" following their decision to reverse COVID safety policies, including mask mandates."

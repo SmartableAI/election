@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-rel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Progressives irked by Biden's early deal-making to hold Dems together"
+    excerpt: "Sitting on an empty stage at the White House Wednesday evening, President Joe Biden stared into a camera and made an appeal to House Democrats who, after passing his massive Covid-19 relief package, are worried it is now being watered down.\n    \n"
+    publishedDateTime: 2021-03-04T21:01:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Agrv_NGBWB8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/biden-progressives-covid-19-relief-deal/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/biden-progressives-covid-19-relief-deal/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303124435-biden-0302-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "After Stimulus, Biden to Tackle Another Politically Tricky Issue: Infrastructure"
     excerpt: "Strengthening the country’s highways, bridges and broadband networks has broad popular support, but Washington remains bitterly divided on the details."
     publishedDateTime: 2021-03-02T02:15:00Z

@@ -55,6 +55,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Canada lawyer says Trump comments shouldn't halt extradition"
+    excerpt: "A Canadian justice department lawyer says comments made by former U.S. President Donald Trump do not meet the standard to halt an extradition hearing of a senior executive for Chinese communications g"
+    publishedDateTime: 2021-03-04T22:37:00Z
+    webUrl: "https://abcnews.go.com/International/wireStory/canada-lawyer-trump-comments-halt-extradition-76260010"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/International/WireAP_8d78345726484b63adfff23683686c45_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "DrklGjS420P22oPDf7ipL3EVFyh8IBozRYoh+69mQYYemSx7SrPVDJVNdePvC4nKii3cXZw3kh7GZ2n3oxP+JcdHUypCGFy0/+ejOTUUG6LLWL7Yj6CgjqwfH2IeJf911isULDFtnv1QK54w2hbqWOhGRkwOF8HQvlt8CkovIrvfNiGAn0Oob+LAbPfGOFiECnqsuGOCHyrIGxE0ibdW6+m4ogCbhUaDaq7mFU20W5R7NyHYgQIuJL4xA+HlqFqN+Qmsr1ZZI18QCHjHGjMSsp242cyrhku208PKoVBQkrl2k7Gg1u1eFS5xkOWaySS2uF1ATMeVReT+s0OMAOTmzwBpA6Gj6E6HANX5o6y6nxM=;F2e0G14XaOxiW9RqtgorSQ=="
 ---

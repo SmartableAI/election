@@ -27,8 +27,8 @@ images:
 related:
   - title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – live"
     excerpt: "Vice-President cast tie-breaking vote after Senate deadlocked 50-50"
-    publishedDateTime: 2021-03-04T20:44:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-6041239a8f08d01b68d70e01"
+    publishedDateTime: 2021-03-04T22:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-604145318f08d01b68d70fcb"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
     type: article

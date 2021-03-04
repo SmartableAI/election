@@ -76,6 +76,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris casts tie-breaking vote to launch debate over $1.9 trillion COVID-19 bill"
+    excerpt: "Vice President Kamala Harris came to the rescue of Senate Democrats Thursday afternoon by breaking a 50-50 logjam over whether to advance President Biden's $1.9 trillion coronavirus legislation."
+    publishedDateTime: 2021-03-04T21:18:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U9mBDvCBCQg/vp-harris-casts-tie-breaking-vote-to-debate-1-9t-coronavirus-bill-gop-forces-full-reading-of-628-page-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/vp-harris-casts-tie-breaking-vote-to-debate-1-9t-coronavirus-bill-gop-forces-full-reading-of-628-page-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vp-harris-casts-tie-breaking-vote-to-debate-1-9t-coronavirus-bill-gop-forces-full-reading-of-628-page-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21036028847140.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Clinton, Harris, Warren all silent on Cuomo after second woman brings sexual misconduct allegations"
     excerpt: "Multiple high-profile Democratic women have yet to publicly comment on sexual harassment allegations against New York Gov. Andrew Cuomo despite having fervently objected to the nomination of Brett Kavanaugh to the U.S. Supreme Court over decades-old allegations of sexual harassment."
     publishedDateTime: 2021-02-28T22:09:28Z
@@ -141,6 +157,6 @@ related:
         height: 842
         isCached: true
 
-secured: "+PoJYlCFjWFJTf6sbEmFCB5bUKbdbog25UJ+wmtzUa2ph+viPlxeswjkPI6kjORdAsA4YaxyqzA43NTLYjTYrWmphyWT618rRuAcxt/C9HU6wZhDDwiPddUlxsGPuRVM6+wOmyzCh41Cd/Pt9T5yQ+CAUV5wir0LPA7ek7PVlxFgnoo5kdvLrUiVGWi2LqNkyGKO+4Xit5bse6GALgUE0fBiftXqS991W1Oqo8xyXauc1JiuC0vjaqze0bBiguN7ySdyBmUNEEBxgfxygfd2mBa57Nt3g31aeFbFytuvXFN1ZV9I4J5wB7dmvDjiq2RKgdF4jI7NBqw3tdBuDd0ROLjuNCgOnuDTTfblbqqsCFM=;2EiYNXOB5d2/9J6LnBOv+w=="
+secured: "eAhftu3VeZNjJMfhO4k4obw0dr/E+Gkbp5WMer/veBvStg/ALVxdyhJLJPfQ4l+hUxc5hJPmOYwmnsCH9Yhqu13YiM/8383tQCr86BERMJHgczFKmjuMLD8pjWn5RZ97z+pSeBHt2hMRabEpcXrF3qHTKaXhk2wCN17Q0DhlL4pyIR3ONBlTxbH9N0vMhCRWIIul+P5RZ1C5PdN/1yzz0mkmiZJg261B2Ka+edAo/gSiWD/XCt6s7UY05K2sPlZ/ig6gWlTG+Xr0mme/HRmiyR30LTpjhmTONQtvjJ9IO8LXeGroFb5tzdtV+WIvg/EmABdMd6xJKSZfiF+fwc//1W+Yn4rhene7SoSQAiHhlW3YrMXdlJ9eZ4YQfVNa1GmNA0zB5Yk4bwfNuCutIye60lnZ8ag5yWtcaVM8xuoWPLuofBokfKA5MkPBJt4lyFURZrk0lmVlwotOZcnwqVpehzPgzmL8L1JT6yN0RSNvdNrsYD4UK9RGJsT70VF6zMS+ue/GApTAjr6tLgeOO3mCKg==;AJgI3zuQLkOCw3yHpG1SIg=="
 ---
 

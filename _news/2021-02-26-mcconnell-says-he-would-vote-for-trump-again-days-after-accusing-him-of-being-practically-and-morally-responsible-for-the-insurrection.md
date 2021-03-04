@@ -95,6 +95,15 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "U.S. Capitol Calm Amid High Security; Trump Supporters Hold Faith He Will Return"
+    excerpt: "Security has been tightened around the U.S. Capitol in Washington - scene of a deadly assault in January - after police warned that a militia group might try to attack it on Thursday, an important day in the calendar for some pro-Trump conspiracy theorists."
+    publishedDateTime: 2021-03-04T22:11:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-03-04/security-tight-at-us-capitol-after-police-warn-of-possible-militia-attack"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 30
 
 secured: "a48O5KswXjU6daVIzYERv+6DN+XJNLjUUxsctZRy4I8GYbcmRhUXsR/b1Rd6Tv90Z+Sr1JsYp1Ys2xaKEb6iwiHc+gzJ3bx/XW3xlC74zx2Thsj5zCGv5+RirDoQ7Omb/HExh22v9jpxAXTW9qVMAfHdU0lV8ABTaYcQDZV9+GfYiINQ/cDexg/zkeRGC/awLbFYBb307YR00BXWxtvhI6/oyrrNWbEWrB0kVJA8tf3A1uovVxk2xDfrYOiXZgTclUZT1oLTApBbgiiQfRChVjIwqtU76oX67s57vJp2HoeyWUxupVtrpDZ8u7EpUyvf5q+oDxIB6u4nzO8ANqIu8g2yc82JPBtIHNuPSOh4mCc=;1kn9JRu+ZSPpyj9VRSobIg=="
 ---

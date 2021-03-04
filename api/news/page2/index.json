@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-04-watchdog-asked-trump-doj-to-criminally-investigate-elaine-chao-for-misuse-of-office-as-transportation-secretary-but-was-rebuffed.md",
+      "title": "Watchdog asked Trump DOJ to criminally investigate Elaine Chao for misuse of office as transportation secretary but was rebuffed",
+      "excerpt": "The inspector general found that Chao inappropriately used her staff and office for personal tasks and to promote a shipping business owned by Chao’s father and sisters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/RdT_akvV2w0WrLwyYv4kInG3D0k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BKO37XXJSYJYQQVJQKSAEDBFXA.aspx",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp",
+      "publishedDateTime": "2021-03-03T18:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-florida-gov-desantis-slams-biden-over-pace-of-school-reopenings-pathetic-failure-of-leadership.md",
+      "title": "Florida Gov. DeSantis slams Biden over pace of school reopenings: 'Pathetic failure of leadership'",
+      "excerpt": "Florida Gov. Ron DeSantis accused President Biden on Sunday of a “pathetic failure of leadership” for the current pace of his nationwide push to reopen schools during the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/43gEXuuz_ZU/florida-gov-desantis-slams-biden-pace-school-reopenings-pathetic-failure-of-leadership",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/43gEXuuz_ZU/florida-gov-desantis-slams-biden-pace-school-reopenings-pathetic-failure-of-leadership",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9652425-8393-46ba-9eea-41330bea0b60/e1a047d8-c720-4590-886c-32e53aa063dc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/florida-gov-desantis-slams-biden-pace-school-reopenings-pathetic-failure-of-leadership.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-gov-desantis-slams-biden-pace-school-reopenings-pathetic-failure-of-leadership.amp",
+      "publishedDateTime": "2021-03-03T18:04:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-back-to-school-for-first-lady-jill-biden-theres-light-at-end-of-tunnel-for-reopening-schools.md",
       "title": "Back to school for first lady Jill Biden: There's 'light at end of tunnel' for reopening schools",
       "excerpt": "First lady Jill Biden and the new education secretary visited schools in Connecticut and Pennsylvania to talk about safely returning to classrooms.",
@@ -66,7 +174,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 492,
+      "heat": 512,
       "tags": null,
       "images": [
         {
@@ -382,7 +490,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 360,
+      "heat": 380,
       "tags": null,
       "images": [
         {
@@ -490,7 +598,7 @@
       "originalUrl": "https://abcnews.go.com/International/wireStory/huawei-cfo-lawyer-trump-comments-salvo-trade-war-76233111",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1215,114 +1323,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp",
       "publishedDateTime": "2021-03-03T05:43:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-kayleigh-mcenany-compares-biden-appearances-to-donald-trump-barack-obama-wheres-joe.md",
-      "title": "Kayleigh McEnany Compares Biden Appearances to Donald Trump, Barack Obama: 'Where's Joe?'",
-      "excerpt": "The former White House press secretary has questioned President Joe Biden not yet holding a solo press conference, pointing to his two predecessors having done so by this point in their tenures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400",
-      "originalUrl": "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 231,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1747043/kayleigh-mcenany-press-briefing.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1",
-      "publishedDateTime": "2021-03-03T04:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-flashback-gov-cuomo-in-2018-assailed-disrespect-for-women-by-sexist-and-disgusting-trump-administration.md",
-      "title": "Flashback: Gov. Cuomo in 2018 assailed 'disrespect for women' by 'sexist and disgusting' Trump administration",
-      "excerpt": "New York Gov. Andrew Cuomo has encountered a wave of criticism as multiple allegations that he made unwanted sexual advances have surfaced in recent days. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUskt_v7Sq0/flashback-gov-cuomo-trump-disrespect-women",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUskt_v7Sq0/flashback-gov-cuomo-trump-disrespect-women",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cee078-4cf1-4f71-b6c7-8a1e5d1a3233/21f457fd-bc4f-4d32-a8ba-e6c17d461d40/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/flashback-gov-cuomo-trump-disrespect-women.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-gov-cuomo-trump-disrespect-women.amp",
-      "publishedDateTime": "2021-03-03T02:03:33-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

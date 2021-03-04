@@ -6,8 +6,8 @@
       "title": "Kamala Harris breaks Senate tie to begin Covid relief package debate – live",
       "excerpt": "Vice-President cast tie-breaking vote after Senate deadlocked 50-50",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-6041239a8f08d01b68d70e01",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-6041239a8f08d01b68d70e01",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-604145318f08d01b68d70fcb",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-604145318f08d01b68d70fcb",
       "featuredContent": null,
       "highlight": null,
       "heat": 423,
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live",
-      "publishedDateTime": "2021-03-04T12:44:00-08:00",
+      "publishedDateTime": "2021-03-04T14:18:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -54,6 +54,114 @@
       ]
     },
     {
+      "path": "_news/2021-03-04-biden-pentagon-pick-faces-questions-over-ties-to-group-that-helped-create-iran-deal-echo-chamber.md",
+      "title": "Biden Pentagon pick faces questions over ties to group that helped create Iran deal 'echo chamber'",
+      "excerpt": "One of President Biden's top Pentagon picks is facing concern from Republicans about his views on Iran and his ties to a group that helped create an \"echo chamber\" to sell the Iran nuclear deal to the public.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2guRl2zshQc/biden-pentagon-ploughshares-fund-iran-colin-kahl",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2guRl2zshQc/biden-pentagon-ploughshares-fund-iran-colin-kahl",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Colin-Kahl-GETTY.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp",
+      "publishedDateTime": "2021-03-04T13:53:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-qanon-shaman-still-feels-sympathy-for-former-president-donald-trump.md",
+      "title": "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump",
+      "excerpt": "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
+      "originalUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-heres-what-a-vote-a-rama-is-and-what-it-means-for-bidens-stimulus.md",
       "title": "Here's what a 'vote-a-rama' is (and what it means for Biden's stimulus)",
       "excerpt": "Senate Democrats' push to quickly pass President Joe Biden's Covid-19 relief package is about to meet a time-consuming and stamina-challenging speed bump known as a \"vote-a-rama.\"\n    \n",
@@ -66,7 +174,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -771,7 +879,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 271,
+      "heat": 291,
       "tags": null,
       "images": [
         {
@@ -1233,114 +1341,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp",
       "publishedDateTime": "2021-03-03T18:20:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-watchdog-asked-trump-doj-to-criminally-investigate-elaine-chao-for-misuse-of-office-as-transportation-secretary-but-was-rebuffed.md",
-      "title": "Watchdog asked Trump DOJ to criminally investigate Elaine Chao for misuse of office as transportation secretary but was rebuffed",
-      "excerpt": "The inspector general found that Chao inappropriately used her staff and office for personal tasks and to promote a shipping business owned by Chao’s father and sisters.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/RdT_akvV2w0WrLwyYv4kInG3D0k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BKO37XXJSYJYQQVJQKSAEDBFXA.aspx",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp",
-      "publishedDateTime": "2021-03-03T18:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-florida-gov-desantis-slams-biden-over-pace-of-school-reopenings-pathetic-failure-of-leadership.md",
-      "title": "Florida Gov. DeSantis slams Biden over pace of school reopenings: 'Pathetic failure of leadership'",
-      "excerpt": "Florida Gov. Ron DeSantis accused President Biden on Sunday of a “pathetic failure of leadership” for the current pace of his nationwide push to reopen schools during the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/43gEXuuz_ZU/florida-gov-desantis-slams-biden-pace-school-reopenings-pathetic-failure-of-leadership",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/43gEXuuz_ZU/florida-gov-desantis-slams-biden-pace-school-reopenings-pathetic-failure-of-leadership",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9652425-8393-46ba-9eea-41330bea0b60/e1a047d8-c720-4590-886c-32e53aa063dc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-gov-desantis-slams-biden-pace-school-reopenings-pathetic-failure-of-leadership.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-gov-desantis-slams-biden-pace-school-reopenings-pathetic-failure-of-leadership.amp",
-      "publishedDateTime": "2021-03-03T18:04:52-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
