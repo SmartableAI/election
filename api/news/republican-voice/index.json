@@ -2,6 +2,231 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-04-kimmel-warns-canceling-dr-seuss-is-how-trump-gets-reelected-cancel-culture-is-his-path-to-victory.md",
+      "title": "Kimmel warns 'canceling' Dr. Seuss is 'how Trump gets reelected': Cancel culture is 'his path to victory'",
+      "excerpt": "ABC late-night host Jimmy Kimmel sounded the alarm on cancel culture Tuesday and how it could help former President Donald Trump get elected again in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/jimmy-kimmel-dr-seuss-cancel-culture-trump",
+      "originalUrl": "https://www.foxnews.com/entertainment/jimmy-kimmel-dr-seuss-cancel-culture-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/01/Jimmy-Kimmel.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T18:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-georgia-gov-kemp-says-he-would-absolutely-back-trump-2024-despite-trumps-calls-for-his-resignation.md",
+      "title": "Georgia Gov. Kemp says he would 'absolutely' back Trump 2024, despite Trumps' calls for his resignation",
+      "excerpt": "Georgia Gov. Brian Kemp said he would \"absolutely\" back Donald Trump in a bid for the presidency in 2024, despite Trump’s recent criticism of the Republican governor.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ycXXSg0fYQ4/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ycXXSg0fYQ4/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6afddb1-7574-4ce5-a3f9-dfc745f8508f/0cca49e0-9bd0-4822-a5cf-ad62dc7c2a7c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp",
+      "publishedDateTime": "2021-03-03T18:20:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-florida-gov-desantis-slams-biden-over-pace-of-school-reopenings-pathetic-failure-of-leadership.md",
+      "title": "Florida Gov. DeSantis slams Biden over pace of school reopenings: 'Pathetic failure of leadership'",
+      "excerpt": "Florida Gov. Ron DeSantis accused President Biden on Sunday of a “pathetic failure of leadership” for the current pace of his nationwide push to reopen schools during the coronavirus pandemic.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/43gEXuuz_ZU/florida-gov-desantis-slams-biden-pace-school-reopenings-pathetic-failure-of-leadership",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/43gEXuuz_ZU/florida-gov-desantis-slams-biden-pace-school-reopenings-pathetic-failure-of-leadership",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f9652425-8393-46ba-9eea-41330bea0b60/e1a047d8-c720-4590-886c-32e53aa063dc/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/florida-gov-desantis-slams-biden-pace-school-reopenings-pathetic-failure-of-leadership.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-gov-desantis-slams-biden-pace-school-reopenings-pathetic-failure-of-leadership.amp",
+      "publishedDateTime": "2021-03-03T18:04:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-kissinger-says-trump-nixon-foreign-policies-similar-warns-biden-on-iran.md",
+      "title": "Kissinger says Trump, Nixon foreign policies similar, warns Biden on Iran",
+      "excerpt": "Dr. Henry Kissinger, the former secretary of state for both Presidents Richard Nixon and Gerald Ford, likened President Donald Trump's Middle East diplomatic achievements to Nixon's opening of China in 1972.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SSg7NZsPHtQ/kissinger-trump-nixon-foreign-policies-similar",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SSg7NZsPHtQ/kissinger-trump-nixon-foreign-policies-similar",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 389,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4ce8712-c550-4132-901c-bcfbd56c9541/40c34bf2-87b8-4fe1-af83-c111b185dbe9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar.amp",
+      "publishedDateTime": "2021-03-03T17:13:27-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-mcconnell-blames-bidens-sweeping-left-wing-amnesty-plan-for-fueling-border-surge.md",
       "title": "McConnell blames Biden’s ‘sweeping left-wing amnesty plan' for fueling border surge",
       "excerpt": "Senate GOP Leader Mitch McConnell on Wednesday blamed President Biden’s “sweeping left-wing amnesty plan” for fueling the escalating migrant crisis on the southern border -- and said it sidelined the interests of American workers.",
@@ -568,7 +793,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 253,
+      "heat": 233,
       "tags": null,
       "images": [
         {
@@ -585,62 +810,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp",
       "publishedDateTime": "2021-03-02T16:40:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-psaki-pressed-on-whether-biden-admin-taking-credit-for-trump-accomplishments-on-vaccine-partnership.md",
-      "title": "Psaki pressed on whether Biden admin taking credit for Trump accomplishments on vaccine partnership",
-      "excerpt": "White House press secretary Jen Psaki was pressed about the Biden administration's taking credit for a partnership between Johnson & Johnson and Merck.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 416,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp",
-      "publishedDateTime": "2021-03-02T15:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -753,6 +922,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
       "publishedDateTime": "2021-03-02T14:50:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.md",
+      "title": "Psaki won’t say why Dr. Seuss was dropped from Biden reading proclamation",
+      "excerpt": "White House press secretary Jen Psaki wouldn’t say why President Biden dropped Dr. Seuss from \"Read Across America Day,\" the annual celebration of reading in honor of the legendary children’s author.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ofhqkJyczYE/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ofhqkJyczYE/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp",
+      "publishedDateTime": "2021-03-02T12:13:19-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1173,19 +1398,19 @@
       ]
     },
     {
-      "path": "_news/2021-03-01-katrina-pierson-trump-presidential-campaign-veteran-moves-toward-congressional-bid-in-texas.md",
+      "path": "_news/2021-03-02-katrina-pierson-trump-presidential-campaign-veteran-moves-toward-congressional-bid-in-texas.md",
       "title": "Katrina Pierson, Trump presidential campaign veteran, moves toward congressional bid in Texas",
-      "excerpt": "The field of Republicans running to succeed the late Republican Rep. Ron Wright of Texas is growing. Katrina Pierson, who served as a top adviser on President Trump’s 2016 and 2020 campaigns, is gearing up to launch a campaign, two sources with knowledge of her planning confirmed to Fox News.",
+      "excerpt": "The field of Republicans running to succeed the late Republican Rep. Ron Wright of Texas is growing. Katrina Pierson, who served as a top adviser on President Trump’s 2016 and 2020 campaigns, is gearing up to launch a campaign,",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PhrGzptxaGQ/katrina-pierson-run-for-congress-texas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PhrGzptxaGQ/katrina-pierson-run-for-congress-texas",
+      "webUrl": "https://www.foxnews.com/politics/katrina-pierson-run-for-congress-texas",
+      "originalUrl": "https://www.foxnews.com/politics/katrina-pierson-run-for-congress-texas",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 184,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1201,7 +1426,7 @@
       "type": "article",
       "ampWebUrl": "https://www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp",
-      "publishedDateTime": "2021-03-01T08:16:15-08:00",
+      "publishedDateTime": "2021-03-01T08:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1225,6 +1450,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1297,7 +1523,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 163,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1419,230 +1645,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-pays-tribute-to-rush-limbaugh-at-cpac-speech.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pays-tribute-to-rush-limbaugh-at-cpac-speech.amp",
       "publishedDateTime": "2021-02-28T15:40:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-28-bidens-19t-coronavirus-relief-bill-is-trojan-horse-will-use-as-slush-fund-to-buy-votes-rep-nunes.md",
-      "title": "Biden's $1.9T coronavirus relief bill is 'Trojan horse,' will use as 'slush fund' to buy votes: Rep. Nunes",
-      "excerpt": "President Biden’s $1.9 trillion coronavirus relief bill is a Trojan horse that the Democrat will use as a slush fund to buy votes over the next four years, Republican Rep. Devin Nunes said Sunday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MXQKubfAGXw/biden-coronavirus-relief-bill-trojan-horse-rep-nunes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MXQKubfAGXw/biden-coronavirus-relief-bill-trojan-horse-rep-nunes",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 177,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8c4a6592-d059-48be-9d60-4a2175e3eb91/85e851b2-86ff-481e-a302-aa8deaa048af/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-coronavirus-relief-bill-trojan-horse-rep-nunes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-relief-bill-trojan-horse-rep-nunes.amp",
-      "publishedDateTime": "2021-02-28T09:32:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-28-pompeo-says-biden-administration-sending-mixed-signals-on-chinas-human-rights-abuses.md",
-      "title": "Pompeo says Biden administration sending ‘mixed signals’ on China's human rights abuses",
-      "excerpt": "Former Secretary of State Mike Pompeo said on Saturday that the Biden administration has sent \"mixed signals\" on the Chinese persecution of religious minorities in Xinjiang -- and called for the administration to impose \"real costs\" on Beijing.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa_WjtosXlc/pompeo-biden-mixed-signals-chinas-human-rights-abuses",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa_WjtosXlc/pompeo-biden-mixed-signals-chinas-human-rights-abuses",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4390b48-7d19-4e62-b1c3-bf5adacaa001/436db621-11ed-418d-9084-282486783be2/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-mixed-signals-chinas-human-rights-abuses.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-mixed-signals-chinas-human-rights-abuses.amp",
-      "publishedDateTime": "2021-02-27T19:09:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-who-voted-for-impeachment.md",
-      "title": "Trump endorses Max Miller over GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment",
-      "excerpt": "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xl_Ogo2zTWM/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xl_Ogo2zTWM/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 266,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp",
-      "publishedDateTime": "2021-02-26T14:46:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-donald-trump-jr-slams-blindly-supporting-gop-incumbents-says-theres-plenty-of-gop-senators-to-primary.md",
-      "title": "Donald Trump Jr. slams 'blindly' supporting GOP incumbents, says 'there's plenty' of GOP senators to primary",
-      "excerpt": "Donald Trump Jr., said on Friday that there are \"plenty\" of Senate Republicans who he might support primary challenges against, while slamming the idea of \"blindly\" supporting incumbents. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VyZ7-z_-p0Q/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VyZ7-z_-p0Q/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp",
-      "publishedDateTime": "2021-02-26T14:45:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

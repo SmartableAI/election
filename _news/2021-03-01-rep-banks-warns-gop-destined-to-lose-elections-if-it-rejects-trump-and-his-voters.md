@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp"
 type: article
 quality: 143
-heat: 163
+heat: 143
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Mitt Romney says Trump would win 2024 GOP nomination if he ran for president again"
-    excerpt: "Senator Mitt Romney said that President Donald Trump would win the GOP nomination “in a landslide” if he decided to make a run for The White House again in 2024. Romney (R –"
-    publishedDateTime: 2021-02-24T09:16:00Z
-    webUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/"
-    ampWebUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 129
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-romney.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "z5idzK4ueTPXlaj8MpBrI9TqAnRTrq0/NpkelXd2UGoInFKKqpplSMrJESFUwD2dCCAE3NmJ4RdUONl6FzfY/XCP6lxTCL9dNb6VqbhfrMZwbAskW93OStg1bt5nqoMgU+VarVxoKc0CJ1TgH7380y4IH0YNI6ijxcAllRsQORCgA2N8yFlBJ4v8nCvgzz0c6Bnw2GNu4Sn2aI/2mxjWKqdu5VB23mmoBtwroBGhvZ+4l0Ep22sWWeOLAZIyqg0AwzC0HrXhRSMh5U+cnP1eNZ6Faajv+IhNM8D5x/WFm/CQ8vQhsFQX94XDeprmohtuKHydvYpo4afpgS0bNPQNKeyK45x+wpPt5/3RRpwCONA=;a8q5Mr6QsEJ14tWAufdLCw=="
 ---

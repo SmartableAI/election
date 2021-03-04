@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Psaki pressed on whether Biden admin taking credit for Trump accomplishments on vaccine partnership"
-    excerpt: "White House press secretary Jen Psaki was pressed about the Biden administration's taking credit for a partnership between Johnson & Johnson and Merck."
-    publishedDateTime: 2021-03-02T23:52:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Ted Cruz won't travel with Biden on Texas trip following Cancun gaffe"
-    excerpt: "Sen. Ted Cruz, R-TX, will not accompany President Biden on Air Force One during his trip to assist with recovery efforts and survey damage related to destructive winter weather conditions in Texas, White House Press Secretary Jen Psaki said Thursday."
-    publishedDateTime: 2021-02-26T02:44:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnUcFsujNew/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3a9250b-c67e-4fc2-8773-b09a51a26cf2/ac28a3f8-2e0a-4d8e-810a-92aa3e576e37/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Psaki won’t say why Dr. Seuss was dropped from Biden reading proclamation"
     excerpt: "White House press secretary Jen Psaki wouldn’t say why President Biden dropped Dr. Seuss from \"Read Across America Day,\" the annual celebration of reading in honor of the legendary children’s author."
     publishedDateTime: 2021-03-02T20:13:19Z
@@ -74,38 +42,6 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Homan fires back after Biden DHS secretary slams Trump immigration policies: ‘Don't tell me about compassion’"
-    excerpt: "The Biden administration's immigration policies are not as compassionate as they are making it out to be, former ICE Director Tom Homan said on Tuesday."
-    publishedDateTime: 2021-03-02T14:12:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aTZim8tk9C4/homan-biden-dhs-mayorkas-trump-immigration-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Psaki says Biden backs probe of Cuomo harassment allegations, accusers deserve respect"
-    excerpt: "White House press secretary Jen Psaki on Monday said President Biden supports the investigation into the sexual harassment allegations leveled against New York Gov. Andrew Cuomo, maintaining that \"every woman\" who comes forward be treated with \"respect.\""
-    publishedDateTime: 2021-03-01T19:39:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0KO4gLzTomE/biden-cuomo-harassment-allegations-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-harassment-allegations-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-harassment-allegations-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
@@ -159,38 +95,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Psaki defends Biden's Syria airstrike decision as progressives push back, some Republicans applaud"
-    excerpt: "White House press secretary Jen Psaki defended President Biden’s decision to issue an airstrike against Iranian-backed forces in Syria in retaliation for recent attacks on American service members, saying it was a \"proportional military response.\""
-    publishedDateTime: 2021-02-26T20:08:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i8MjENiC2Rw/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Not so fast: WH dodges on whether Biden agrees with Kerry nine-year deadline to avert climate catastrophe"
-    excerpt: "White House Press Secretary Jen Psaki stopped short of saying President Biden is on board with the idea that there are less than ten years left to thwart the worst consequences of a global climate crisis."
-    publishedDateTime: 2021-02-23T21:07:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPLFWBexWwo/psaki-biden-kerry-climate-prediction"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-kerry-climate-prediction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-kerry-climate-prediction.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden to begin bipartisan work to 'end cancer as we know it,' Psaki says, calling it a 'priority' for admin"
     excerpt: "President Biden and Vice President Kamala Harris are set to meet with a bipartisan group of lawmakers in the Oval Office on Wednesday afternoon on the work to begin \"end cancer as we know it,\" White House press secretary Jen Psaki said."
     publishedDateTime: 2021-03-03T18:34:17Z
@@ -207,19 +111,19 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden's release of report on Khashoggi killing shows difference from Trump's approach, experts say"
-    excerpt: "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge,"
-    publishedDateTime: 2021-03-02T13:30:00Z
-    webUrl: "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump.amp"
+  - title: "Biden erases Dr. Seuss from 'Read Across America' proclamation as progressives seek to cancel beloved author"
+    excerpt: "President Biden appears to have erased Dr. Seuss from Read Across America Day."
+    publishedDateTime: 2021-03-01T23:27:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6unV8cqv3OQ/biden-erases-dr-seuss-read-across-america-proclamation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-erases-dr-seuss-read-across-america-proclamation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-erases-dr-seuss-read-across-america-proclamation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 136
+    quality: 156
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6135620-aa93-4f89-89c8-d3f90db43495/edbfa245-82dc-4205-9d6f-f6a77fc1d355/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e52474ef-0dd1-426d-9941-16c16e97c6ce/aa0ba86f-4bb1-48db-a4f6-3e9aaf9f50e0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

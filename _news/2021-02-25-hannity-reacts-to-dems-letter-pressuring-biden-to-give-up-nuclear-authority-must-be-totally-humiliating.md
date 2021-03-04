@@ -64,6 +64,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Lawmakers introduce bill to repeal Biden's war powers following Syria strike"
+    excerpt: "A bipartisan group of senators Wednesday called for the repeal of presidential war powers granted by Congress in 1991 and 2002, which would revoke authorization for military force in the Middle East, as tensions rise between the U.S. and Iran."
+    publishedDateTime: 2021-03-04T01:24:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NdHLmCHONI/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike"
+    ampWebUrl: "https://www.foxnews.com/politics/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76745ea9-cf7e-44fd-ba02-dae99ba4c924/c8528226-5005-4c08-b212-417f33fd5788/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "GOP Rep. Lauren Boebert calls on Biden to lower flags in honor of Rush Limbaugh"
     excerpt: "Rep. Lauren Boebert, R-Colo., called on President Biden on Friday night to order flags lowered to half-staff in honor the life of conservative radio legend Rush Limbaugh."
     publishedDateTime: 2021-02-20T02:12:02Z

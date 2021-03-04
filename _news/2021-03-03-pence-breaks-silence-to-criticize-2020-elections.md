@@ -1,0 +1,69 @@
+---
+category: news
+title: "Pence breaks silence to criticize 2020 elections"
+excerpt: "Former Vice President Mike Pence on Wednesday criticized the 2020 elections in his his first extended written comments since leaving office in January."
+publishedDateTime: 2021-03-03T15:23:00Z
+originalUrl: "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections"
+webUrl: "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections"
+ampWebUrl: "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp"
+type: article
+quality: 140
+heat: 180
+published: true
+
+provider:
+  name: The Hill
+  domain: thehill.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Mike Pence
+
+images:
+  - url: "https://thehill.com/sites/default/files/pence_010621getty.jpg"
+    width: 980
+    height: 551
+    isCached: true
+
+related:
+  - title: "Pence all-in on 'election integrity' push"
+    excerpt: "Former Vice President Mike Pence on Wednesday said he shares the concerns of voters over the “significant voting irregularities and numerous instances of officials setting aside state election law” in the 2020 presidential election."
+    publishedDateTime: 2021-03-03T17:08:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/3/mike-pence-all-election-integrity-push/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/3/mike-pence-all-election-integrity-push/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/3/mike-pence-all-election-integrity-push/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/23/Biden_Inauguration_37524.jpg-f8f0a_c0-0-4032-2352_s1200x700.jpg?8f933bd9b70838c61c890c09c299727f73238683"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Pence attacks Democratic voting bill, 2020 election integrity in op-ed"
+    excerpt: "In an op-ed, the former vice president criticized Democratic efforts to counter voter suppression and echoed Republican anger at the 2020 election."
+    publishedDateTime: 2021-03-03T18:27:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/03/03/mike-pence-takes-aim-democrats-election-reform-bill-hr-1/6901534002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/6901534002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6901534002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/57ee0d46-76bb-43da-b45c-a407e61be497-AP_Pence_Inauguration.jpg?auto=webp&crop=5409,3043,x208,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "ChMvyef/5IibOt3qBp6IOptUKeU4KJerqGsD0DHWch3nUbtlsPIl/wqjLpOwkdo7neJRCPRBLQbPAzTTsQER6JT0Zyz09G7bhFcRw8XWYbO92d951KVror4Bc9ZvEhxM8PjN571UftObza+Zripc0WgWoU2+gunJEiFC6+RLf0srT7H3S3t3eGSkjfm7mU4SPGrHtpQlqLf4goeroznyzI5GWFGMqyclzViau9w3sPb5fq7nq58nFtXW9gxz3ZuNxyZjY4Nefca6TWC7lOtB0O/KB0IdOArHgTYN1b5zOf51ld+kItpSYOTxeU3R8XUBrqKbbqjg7+6mbyYlbkG+0+MeUJMB1jEf2OeNlgs1uUk=;QF5NrVrlbM1+L87u5ntEZg=="
+---
+

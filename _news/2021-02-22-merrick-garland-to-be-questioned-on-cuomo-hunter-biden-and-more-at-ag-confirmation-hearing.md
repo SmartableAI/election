@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Psaki says Biden backs probe of Cuomo harassment allegations, accusers deserve respect"
+    excerpt: "White House press secretary Jen Psaki on Monday said President Biden supports the investigation into the sexual harassment allegations leveled against New York Gov. Andrew Cuomo, maintaining that \"every woman\" who comes forward be treated with \"respect.\""
+    publishedDateTime: 2021-03-01T19:39:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0KO4gLzTomE/biden-cuomo-harassment-allegations-investigation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-harassment-allegations-investigation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-harassment-allegations-investigation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden COVID adviser can't explain why closed California isn't doing better than open Florida"
     excerpt: "White House COVID-19 adviser Andy Slavitt appeared stumped Wednesday when asked on MSNBC to explain California and Florida’s similar COVID-19 trends, despite having wildly different responses to the pandemic."
     publishedDateTime: 2021-02-18T01:03:56Z

@@ -2,6 +2,378 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-03-kamala-harris-tweet-about-dr-seuss-resurfaces-amid-racial-controversy.md",
+      "title": "Kamala Harris’ tweet about Dr. Seuss resurfaces amid racial controversy",
+      "excerpt": "Harris was a senator when she sent out the tweet, dated March 2, 2017, in which she wished the famed children’s book author a happy birthday.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/",
+      "originalUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-seuss-02.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/",
+      "publishedDateTime": "2021-03-03T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-sign-ups-for-bidens-obamacare-special-enrollment-period-nearly-triple.md",
+      "title": "Sign-ups for Biden's Obamacare special enrollment period nearly triple",
+      "excerpt": "More than 206,000 people signed up for Affordable Care Act policies on the federal exchange in the first two weeks of the special enrollment period ordered by President Joe Biden, federal data released Wednesday shows.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L921FMj7zZM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L921FMj7zZM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enrollment-period/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enrollment-period/index.html",
+      "publishedDateTime": "2021-03-03T07:00:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-hunter-biden-probe-active-and-ongoing-without-white-house-interference-sources.md",
+      "title": "Hunter Biden probe 'active and ongoing' without White House interference: sources",
+      "excerpt": "The federal investigation into Hunter Biden’s “tax affairs” is “active and ongoing,” two sources familiar with the status of the probe told Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBi-2viDn9I/hunter-biden-probe-active-ongoing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBi-2viDn9I/hunter-biden-probe-active-ongoing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp",
+      "publishedDateTime": "2021-03-03T05:43:48-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-kayleigh-mcenany-compares-biden-appearances-to-donald-trump-barack-obama-wheres-joe.md",
+      "title": "Kayleigh McEnany Compares Biden Appearances to Donald Trump, Barack Obama: 'Where's Joe?'",
+      "excerpt": "The former White House press secretary has questioned President Joe Biden not yet holding a solo press conference, pointing to his two predecessors having done so by this point in their tenures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400",
+      "originalUrl": "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1747043/kayleigh-mcenany-press-briefing.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1",
+      "publishedDateTime": "2021-03-03T04:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-flashback-gov-cuomo-in-2018-assailed-disrespect-for-women-by-sexist-and-disgusting-trump-administration.md",
+      "title": "Flashback: Gov. Cuomo in 2018 assailed 'disrespect for women' by 'sexist and disgusting' Trump administration",
+      "excerpt": "New York Gov. Andrew Cuomo has encountered a wave of criticism as multiple allegations that he made unwanted sexual advances have surfaced in recent days. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUskt_v7Sq0/flashback-gov-cuomo-trump-disrespect-women",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUskt_v7Sq0/flashback-gov-cuomo-trump-disrespect-women",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cee078-4cf1-4f71-b6c7-8a1e5d1a3233/21f457fd-bc4f-4d32-a8ba-e6c17d461d40/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flashback-gov-cuomo-trump-disrespect-women.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-gov-cuomo-trump-disrespect-women.amp",
+      "publishedDateTime": "2021-03-03T02:03:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-biden-in-vaccine-rollout-push-as-states-rush-to-reopen-live-updates.md",
+      "title": "Biden in vaccine rollout push as states rush to reopen – live updates",
+      "excerpt": "Promised increase in vaccine supply comes as Republican Governors drop Covid restrictions",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates?page=with:block-603f372d8f08be9d080d97cd",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates?page=with:block-603f372d8f08be9d080d97cd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0d374997ea15d3d82e0e9cc669c176a17b2f06bd/0_99_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1231205c6cf2cf6d1ad5813d6d260444",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates",
+      "publishedDateTime": "2021-03-03T01:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-covid-joe-biden-promises-vaccines-will-be-available-for-every-us-adult-by-end-of-may.md",
+      "title": "Covid: Joe Biden promises vaccines will be available for every US adult by end of May",
+      "excerpt": "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-us-canada-56262687",
+      "originalUrl": "https://www.bbc.com/news/world-us-canada-56262687",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15DCA/production/_117364598_mediaitem117364597.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/amp/world-us-canada-56262687",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56262687",
+      "publishedDateTime": "2021-03-03T00:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-poisoning-nearly-killed-alexei-navalny-now-biden-is-sanctioning-putin-allies-in-russia.md",
       "title": "Poisoning nearly killed Alexei Navalny. Now, Biden is sanctioning Putin allies in Russia",
       "excerpt": "The Biden administration is sanctioning seven Russians allied with Vladimir Putin after the attempted murder of Alexei Nalvany.",
@@ -343,7 +715,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 253,
+      "heat": 233,
       "tags": null,
       "images": [
         {
@@ -360,62 +732,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp",
       "publishedDateTime": "2021-03-02T16:40:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-psaki-pressed-on-whether-biden-admin-taking-credit-for-trump-accomplishments-on-vaccine-partnership.md",
-      "title": "Psaki pressed on whether Biden admin taking credit for Trump accomplishments on vaccine partnership",
-      "excerpt": "White House press secretary Jen Psaki was pressed about the Biden administration's taking credit for a partnership between Johnson & Johnson and Merck.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 416,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp",
-      "publishedDateTime": "2021-03-02T15:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -528,6 +844,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
       "publishedDateTime": "2021-03-02T14:50:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.md",
+      "title": "Psaki won’t say why Dr. Seuss was dropped from Biden reading proclamation",
+      "excerpt": "White House press secretary Jen Psaki wouldn’t say why President Biden dropped Dr. Seuss from \"Read Across America Day,\" the annual celebration of reading in honor of the legendary children’s author.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ofhqkJyczYE/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ofhqkJyczYE/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 294,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp",
+      "publishedDateTime": "2021-03-02T12:13:19-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -985,383 +1357,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-biden-to-announce-merck-will-work-with-johnson-johnson-to-manufacture-coronavirus-vaccine.md",
-      "title": "Biden to announce Merck will work with Johnson & Johnson to manufacture coronavirus vaccine",
-      "excerpt": "President Joe Biden is expected to announce Tuesday that Merck & Co. will partner with Johnson & Johnson to help manufacture the company's coronavirus vaccine, administration officials familiar with the matter confirmed to CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qnkKriE8GOI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qnkKriE8GOI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301193858-biden-meeting-0301-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/02/politics/biden-merck-johnson--johnson-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/biden-merck-johnson--johnson-vaccine/index.html",
-      "publishedDateTime": "2021-03-02T06:16:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-jimmy-kimmel-compares-donald-trump-to-dr-pimple-popper-show.md",
-      "title": "Jimmy Kimmel Compares Donald Trump to 'Dr. Pimple Popper' Show",
-      "excerpt": "\"All this disgusting stuff keeps coming out and you're like 'Oh my god when is this going to end?' Kimmel said, mocking Trump's CPAC speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/jimmy-kimmel-compares-donald-trump-dr-pimple-popper-1573141",
-      "originalUrl": "https://www.newsweek.com/jimmy-kimmel-compares-donald-trump-dr-pimple-popper-1573141",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1745937/fox-news-doocy-hegseth-trump-stolen-election.jpg",
-          "width": 3000,
-          "height": 2031,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/jimmy-kimmel-compares-donald-trump-dr-pimple-popper-1573141?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jimmy-kimmel-compares-donald-trump-dr-pimple-popper-1573141?amp=1",
-      "publishedDateTime": "2021-03-02T06:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-trumps-received-covid-19-vaccines-at-white-house-in-january.md",
-      "title": "Trumps received COVID-19 vaccines at White House in January",
-      "excerpt": "Former President Donald Trump and former first lady Melania Trump received their COVID-19 vaccines in January at the White House, Fox News confirmed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RC60pQ9lG0o/trumps-coronavirus-vaccines-white-house-in-january",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RC60pQ9lG0o/trumps-coronavirus-vaccines-white-house-in-january",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-coronavirus-vaccines-white-house-in-january.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-coronavirus-vaccines-white-house-in-january.amp",
-      "publishedDateTime": "2021-03-02T05:33:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-elizabeth-warrens-wealth-tax-plan-is-back-but-is-joe-biden-on-board.md",
-      "title": "Elizabeth Warren's wealth tax plan is back. But is Joe Biden on board?",
-      "excerpt": "\"He has a lot of respect for Senator Warren and is aligned on the goal of ensuring the ultra-wealthy and big corporations finally pay their fair share.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden",
-      "originalUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.boston.com/wp-content/uploads/2021/03/USUQ37BEHVNAMO2EOJ7Z5COMHM-603d71faeee5a-850x478.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden/amp",
-      "cdnAmpWebUrl": "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/politics/2021/03/01/elizabeth-warren-wealth-tax-biden/amp",
-      "publishedDateTime": "2021-03-01T19:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Boston.com",
-        "domain": "boston.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-after-stimulus-biden-to-tackle-another-politically-tricky-issue-infrastructure.md",
-      "title": "After Stimulus, Biden to Tackle Another Politically Tricky Issue: Infrastructure",
-      "excerpt": "Strengthening the country’s highways, bridges and broadband networks has broad popular support, but Washington remains bitterly divided on the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/01/business/infrastructure-biden-stimulus.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/01/business/infrastructure-biden-stimulus.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/19/us/politics/00DC-INFRASTRUCTURE1/00DC-INFRASTRUCTURE1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/01/business/infrastructure-biden-stimulus.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/01/business/infrastructure-biden-stimulus.amp.html",
-      "publishedDateTime": "2021-03-01T18:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-the-point-beware-false-trump-idols.md",
-      "title": "The Point: Beware false (Trump) idols!",
-      "excerpt": "On Sunday morning, Republican Sen. Bill Cassidy of Louisiana told CNN's Dana Bash something very important about the future of his party.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MjX8YwpuUqw/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MjX8YwpuUqw/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210226130555-01-golden-trump-statue-cpac-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/01/politics/gop-future-trump-cpac-bill-cassidy/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/gop-future-trump-cpac-bill-cassidy/index.html",
-      "publishedDateTime": "2021-03-01T15:35:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-kayleigh-mcenany-tells-harris-faulkner-of-shock-and-disbelief-at-deadly-capitol-riot.md",
-      "title": "Kayleigh McEnany tells Harris Faulkner of 'shock' and 'disbelief' at deadly Capitol riot",
-      "excerpt": "Former Trump press secretary Kayleigh McEnany has described her emotions during the Jan. 6 attack on the U.S. Capitol in her first interview since leaving the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E-D-HF2SU8c/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E-D-HF2SU8c/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04d2b9b6-650e-49fb-897f-b5c0cfa14348/93273dfe-1ab6-428b-9db2-dbe01a569bf9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief.amp",
-      "publishedDateTime": "2021-03-01T14:41:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

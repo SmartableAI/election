@@ -9,8 +9,8 @@ ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/3/mike-pence-all-electi
 cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/3/mike-pence-all-election-integrity-push/"
 type: article
 quality: 90
-heat: 90
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Times
@@ -25,6 +25,40 @@ images:
     width: 1200
     height: 700
     isCached: true
+
+related:
+  - title: "Pence breaks silence to criticize 2020 elections"
+    excerpt: "Former Vice President Mike Pence on Wednesday criticized the 2020 elections in his his first extended written comments since leaving office in January."
+    publishedDateTime: 2021-03-03T15:23:00Z
+    webUrl: "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections"
+    ampWebUrl: "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/pence_010621getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Pence attacks Democratic voting bill, 2020 election integrity in op-ed"
+    excerpt: "In an op-ed, the former vice president criticized Democratic efforts to counter voter suppression and echoed Republican anger at the 2020 election."
+    publishedDateTime: 2021-03-03T18:27:00Z
+    webUrl: "https://www.cincinnati.com/story/news/politics/2021/03/03/mike-pence-takes-aim-democrats-election-reform-bill-hr-1/6901534002/"
+    ampWebUrl: "https://amp.cincinnati.com/amp/6901534002"
+    cdnAmpWebUrl: "https://amp-cincinnati-com.cdn.ampproject.org/c/s/amp.cincinnati.com/amp/6901534002"
+    type: article
+    provider:
+      name: Cincinnati Enquirer
+      domain: cincinnati.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/57ee0d46-76bb-43da-b45c-a407e61be497-AP_Pence_Inauguration.jpg?auto=webp&crop=5409,3043,x208,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Utzum/FWJLtucWuxKR4J75CO8Hoxl42BRKBYpOgAcS3/BbdNF5ygGyIK/ViaT7NpfzolIb4ugTpp2nL7M4WmL4JwbH6b/3GAuCXwBH5qkU9J2eqH8aZJWZimzi2RMopewFcr01Mh4EG2FZNwcVrRSYa89Eo2+LXRA6uGTgSVK+qkq1R2pn40ykub+AhoW9BDHctyEW//stUsNw0bL0C6nH9pF4fBuh+cx9kg/xP8Csnoasg4Pju9Wk3RgUXymL+6H/kp87va8wn0pz0zTIxJenH4MgMf03Zb7178MHwLZZq4hBX41AEb6bnF08pssD+KHPoCU1tWhIUSxMe0LfM3xOGMSskbtjgI5zj94Qu3mh0=;hFM6rWaimZh7bFoRWTgv5A=="
 ---

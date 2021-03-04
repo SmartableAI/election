@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-syria-strike-iran-republicans
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-syria-strike-iran-republicans-praise.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8e533880-ef12-43c0-ab93-12e0ea966ea8/2853468e-c823-4f3d-855d-ddd40cdfbdf3/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Psaki defends Biden's Syria airstrike decision as progressives push back, some Republicans applaud"
+    excerpt: "White House press secretary Jen Psaki defended President Biden’s decision to issue an airstrike against Iranian-backed forces in Syria in retaliation for recent attacks on American service members, saying it was a \"proportional military response.\""
+    publishedDateTime: 2021-02-26T20:08:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i8MjENiC2Rw/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "I+N50i6d2+QCuTsQqa8WHZOgPAr8/+b0kRNCVXtWwto/jJ2UEZalTln/Q1eKx1JaBkPZBWDlhRVcA2uRKLEcRfRnEw2GCJwS51XdSJihW2zhNncBPx1CSuXXMz/MD2A0HWa28LuMRDvUzglvRC0s0UpLH64wsHl+HIUxM8R9Yf4R0PoGmwtfir6BvWfcjSesBq/RfWSdpAEQ3Mj0vMQD0gbZtqGwEXviwL1c/JI0BY97UMw7SMMtQW61PbXTROzrSI+PkVw4dN/sb+XQS2dp2blYdzdd5BK8XvU7WO36FKtikO7Aw1Gvodva4L0goZtfhtKT5Z79HrMCZgdfBR5UUtmlq5TLkX1jKmpx/XMkBAc=;NQIZjEkE4icSwfnpF45wRg=="

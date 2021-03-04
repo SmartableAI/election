@@ -160,6 +160,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Burnett: Pence is back on the wagon. The wagon of the lie"
+    excerpt: "CNN's Erin Burnett reacts to an opinion article published by former Vice President Mike Pence that made claims about what happened in the 2020 election and was filled with attacks on a Democratic elections reform bill known as HR 1."
+    publishedDateTime: 2021-03-04T02:02:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/04/mike-pence-op-ed-election-lie-erin-burnett-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/04/mike-pence-op-ed-election-lie-erin-burnett-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/04/mike-pence-op-ed-election-lie-erin-burnett-ebof-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303205810-pence-burnett-split-vpx-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Thousands of Migrant Children Detained in Resumption of Trump-Era Policies"
     excerpt: "President Biden vowed to create a humane approach to immigration. But thousands of children who crossed the border alone are being confined in government shelters."
     publishedDateTime: 2021-02-26T23:30:00Z

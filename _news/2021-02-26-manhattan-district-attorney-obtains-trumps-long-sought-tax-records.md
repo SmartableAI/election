@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecu
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/03/23fda673-2a17-47c4-ba9a-b074c782df27/thumbnail/1200x630g3/1d9ca3752e21543f449330f1a67f6fa8/gettyimages-1304610267.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "In Trump probe, Manhattan district attorney puts pressure on his longtime chief financial officer"
+    excerpt: "Investigators have asked about Allen Weisselberg’s loyalty and his sons’ business dealings, according to people familiar with the case."
+    publishedDateTime: 2021-03-03T23:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/weisselberg-investigation-vance/2021/03/03/84a9f3d6-7c25-11eb-a976-c028a4215c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/weisselberg-investigation-vance/2021/03/03/84a9f3d6-7c25-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/weisselberg-investigation-vance/2021/03/03/84a9f3d6-7c25-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CQWFAAT3ZUI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 992
         isCached: true
   - title: "Manhattan district attorney receives Trump's tax returns"
     excerpt: "The Manhattan District Attorney's Office has taken possession of former president Donald Trump's tax returns and financial data deemed central to prosecutors' ongoing criminal case, officials said Feb."

@@ -2,6 +2,453 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-08-cotton-bidens-liberal-media-friends-finally-coming-around-to-calling-for-wuhan-lab-investigation.md",
+      "title": "Cotton: Biden's liberal media 'friends' finally coming around to calling for Wuhan lab investigation",
+      "excerpt": "Ark., said Monday that he was \"glad to see Joe Biden singing a different tune\" in regards to the US' foreign policy stance on China, but criticized the President for not outlining what the specifics of his strategy might be.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton",
+      "originalUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f82d77b7-fe6c-4f60-ab9e-a63cff8cef75/1518879f-32d2-4235-8fa1-dcc95e691b26/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-china-wuhan-lab-coronavirus-investigation-cotton.amp",
+      "publishedDateTime": "2021-02-08T06:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr.md",
+      "title": "Tampa Bay Bucs are Super Bowl champs — Major turnover for DeSantis administration — Parscale urges Trump to run again as 'martyr'",
+      "excerpt": "The Tampa Bay Buccaneers won their second Super Bowl in franchise history, following a dominating performance on both sides of the ball. In the quarterback battle of the aging yet savvy veteran vs. the rising superstar,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/08/tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr-491668",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/08/tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr-491668",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-biden-team-says-it-sees-first-signs-of-improvement-in-fight-against-pandemic-but-its-a-daunting-challenge.md",
+      "title": "Biden team says it sees first signs of improvement in fight against pandemic but it's a 'daunting challenge'",
+      "excerpt": "Fully ensconced in the depths of the coronavirus crisis, the Biden administration says it is seeing the first signs of improvement -- though officials say they're far from celebrating.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/enZbbLa5GcU/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/enZbbLa5GcU/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205214008-02-biden-0205-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/08/politics/biden-coronavirus-pandemic/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/biden-coronavirus-pandemic/index.html",
+      "publishedDateTime": "2021-02-08T03:01:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-trump-hotel-in-dc-hikes-up-price-for-significant-qanon-date-of-march-4.md",
+      "title": "Trump Hotel in D.C. Hikes up Price for Significant QAnon Date of March 4",
+      "excerpt": "The cost to rent a room at Trump's hotel in early March is currently $1,331 and is the only one in the area to have raised prices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/qanon-trump-hotel-washington-march-1567489",
+      "originalUrl": "https://www.newsweek.com/qanon-trump-hotel-washington-march-1567489",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1727794/q.jpg",
+          "width": 2500,
+          "height": 1685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/qanon-trump-hotel-washington-march-1567489?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-trump-hotel-washington-march-1567489?amp=1",
+      "publishedDateTime": "2021-02-08T01:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-biden-laments-lack-of-black-nfl-coaches-during-super-bowl-halftime-interview.md",
+      "title": "Biden laments lack of Black NFL coaches during Super Bowl halftime interview",
+      "excerpt": "President Joe Biden lamented the lack of Black coaches in the NFL during a Super Bowl halftime interview Sunday evening, urging teams to emphasize diversity in their hiring process.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEWwVeqQzhk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEWwVeqQzhk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210207183825-04-super-bowl-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/07/politics/super-bowl-nfl-biden-covid-19/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/super-bowl-nfl-biden-covid-19/index.html",
+      "publishedDateTime": "2021-02-07T20:16:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-08-trump-will-have-a-place-in-history-for-capitol-riot-but-remains-most-popular-figure-in-gop-graham.md",
+      "title": "Trump will 'have a place in history' for Capitol riot but remains 'most popular figure' in GOP: Graham",
+      "excerpt": "Former President Donald Trump will \"have a place in history\" for his role leading up to the riot at the U.S. Capitol last month, but he stills remains the \"most popular figure\" in the Republican Party,",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham",
+      "originalUrl": "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ce0ff8aa-4ebc-4f0a-b188-e29d6303380f/f2169d82-7384-44cf-93f0-ae8b40aab209/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-impeachment-capitol-riot-most-popular-figure-gop-lindsey-graham.amp",
+      "publishedDateTime": "2021-02-07T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-meadows-biden-administration-policies-prioritize-america-last.md",
+      "title": "Meadows: Biden administration policies prioritize 'America last'",
+      "excerpt": "President Biden’s record number of executive orders aren’t focused on putting America and the people first, former White House chief of staff Mark Meadows told \"Sunday Morning Futures.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTRURJ54Qr8/meadows-biden-administration-policies-america-last",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/JTRURJ54Qr8/meadows-biden-administration-policies-america-last",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 335,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Biden5.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/meadows-biden-administration-policies-america-last.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/meadows-biden-administration-policies-america-last.amp",
+      "publishedDateTime": "2021-02-07T10:56:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-07-gop-senator-very-unlikely-senate-votes-to-convict-trump-in-impeachment-trial.md",
+      "title": "GOP senator: 'Very unlikely' Senate votes to convict Trump in impeachment trial ",
+      "excerpt": "Republican Sen. Pat Toomey of Pennsylvania said Sunday it's \"very unlikely\" the Senate votes to convict former President Donald Trump in the impeachment trial set to begin Tuesday.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y2hBmRC8mvY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Y2hBmRC8mvY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210207100723-screengrab-pat-toomey-cnn-0207-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/07/politics/pat-toomey-senate-impeachment-trial-cnntv/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/pat-toomey-senate-impeachment-trial-cnntv/index.html",
+      "publishedDateTime": "2021-02-07T10:11:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-mike-pence-to-launch-video-podcast-with-conservative-group.md",
       "title": "Mike Pence to launch 'video podcast' with conservative group",
       "excerpt": "While the Mike Pence Show, which included Pence railing against adultery and “talking about the global warming ‘myth’”, was not the most prominent or gripping of rightwing talk radio ...",
@@ -913,439 +1360,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-biden-administration-likely-going-back-to-good-old-days-of-iran-nuclear-deal-mcfarland.md",
-      "title": "Biden administration likely going back to 'good old days' of Iran nuclear deal: McFarland",
-      "excerpt": "The Biden administration is likely to look to go back to the \"good old days\" by renegotiating the Iran nuclear deal, former Deputy National Security Advisor K.T. McFarland told \"America Reports\" Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jQQbI3Imc10/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jQQbI3Imc10/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e33682c-d50a-4b32-b84a-dcec55be4b1f/b06c3df5-fa23-40e9-b336-0ed9b3260221/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy.amp",
-      "publishedDateTime": "2021-02-05T13:35:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-stunning-hypocrisy-for-biden-administration-to-push-back-against-the-cdcs-approval-to-open-schools-farah.md",
-      "title": "‘Stunning hypocrisy’ for Biden administration to push back against the CDC’s approval to open schools: Farah",
-      "excerpt": "The Biden administration is hypocritical for appearing to dismiss the Center for Disease Control's guidance for reopening schools, former Trump White House Director of Strategic Communications Alyssa Farah said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXmOUjyrUA4/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXmOUjyrUA4/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah.amp",
-      "publishedDateTime": "2021-02-05T13:21:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-biden-rescue-plan-answer-to-crisis-we-are-in.md",
-      "title": "Biden: Rescue plan, 'answer to crisis we are in'",
-      "excerpt": "President Joe Biden says the rescue plan he is pushing forward in Congress is the \"answer to the crisis we are in.\" (Feb. 5)",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/videos/news/nation/2021/02/05/biden-rescue-plan-answer-crisis-we-in/4409846001/",
-      "originalUrl": "https://www.usatoday.com/videos/news/nation/2021/02/05/biden-rescue-plan-answer-crisis-we-in/4409846001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/authoring/video-thumbnails/e9108b67-4d19-4f26-8904-014d5a3ed01e_poster.jpg?quality=10",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-05T12:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-why-joe-bidens-faith-based-equity-agenda-is-getting-pushback-from-religious-conservatives.md",
-      "title": "Why Joe Biden's faith-based 'equity' agenda is getting pushback from religious conservatives",
-      "excerpt": "Joe Biden, only the second Catholic president, has brought to the White House a different approach to faith, personally and politically, than Trump's.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/04/bidens-faith-based-equity-agenda-counters-trumps-religious-freedom-protections/4376093001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/04/bidens-faith-based-equity-agenda-counters-trumps-religious-freedom-protections/4376093001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/09/04/NLED/0b61225d-b199-4f5b-adbd-ff335123872b-AP20247737178499.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4376093001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4376093001",
-      "publishedDateTime": "2021-02-05T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-what-of-individual-1-feds-trump-campaign-case-is-dead.md",
-      "title": "What of ‘Individual-1’? Feds’ Trump campaign case is ‘dead’",
-      "excerpt": "Prosecutors have shown no signs of reopening the campaign finance investigation that sent Donald Trump’s former attorney Michael Cohen to prison even now that Trump has left the White House",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/what-of-individual-1-feds-trump-campaign-case-is-dead/2021/02/05/678965ec-67ea-11eb-bab8-707f8769d785_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/what-of-individual-1-feds-trump-campaign-case-is-dead/2021/02/05/678965ec-67ea-11eb-bab8-707f8769d785_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/what-of-individual-1-feds-trump-campaign-case-is-dead/2021/02/05/678965ec-67ea-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/what-of-individual-1-feds-trump-campaign-case-is-dead/2021/02/05/678965ec-67ea-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-05T11:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-fact-check-letter-thanking-president-trump-was-not-written-by-rush-limbaugh.md",
-      "title": "Fact check: Letter thanking President Trump was not written by Rush Limbaugh",
-      "excerpt": "Social media users have been sharing a letter online attributed to conservative radio personality Rush Limbaugh that thanks former President Donald J. Trump for the past four years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-factcheck-letter-limbaugh-trump-idUSKBN2A51RD",
-      "originalUrl": "https://www.reuters.com/article/uk-factcheck-letter-limbaugh-trump-idUSKBN2A51RD",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550472840&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH14117",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2A51RD",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A51RD",
-      "publishedDateTime": "2021-02-05T11:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-angel-dad-slams-joe-bidens-immigration-orders-insanity-on-steroids.md",
-      "title": "Angel dad slams Joe Biden's immigration orders: 'Insanity on steroids'",
-      "excerpt": "A California father, whose son was killed in a car accident with an illegal immigrant slammed President Joe Biden’s move to halt deportations of undocumented migrants on Friday, calling the administration's actions “insanity on steroids.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqjtEWa62Sg/biden-immigration-insanity-steroids-california-angel-dad",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/YqjtEWa62Sg/biden-immigration-insanity-steroids-california-angel-dad",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9c4487de-9432-4b11-85ec-6465e3cf5347/6b3ff08b-0f57-40d9-b1d2-1ae5bc8eab17/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-insanity-steroids-california-angel-dad.amp",
-      "publishedDateTime": "2021-02-05T10:53:35-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-lawyers-call-trumps-first-amendment-defense-legally-frivolous.md",
-      "title": "Lawyers Call Trump's First Amendment Defense 'Legally Frivolous'",
-      "excerpt": "Taking aim at a key plank of the former president’s impeachment defense, the lawyers argue that the constitutional protections do not apply to an impeachment proceeding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/05/world/05new-washington-briefing-impeach-1stamendment-1/05new-washington-briefing-impeach-1stamendment-1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/05/us/trump-defense-first-amendment.amp.html",
-      "publishedDateTime": "2021-02-05T09:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

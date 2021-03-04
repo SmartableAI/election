@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
 type: article
 quality: 62
-heat: 62
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 594
     height: 396
     isCached: true
+
+related:
+  - title: "Watchdog asked Trump DOJ to criminally investigate Elaine Chao for misuse of office as transportation secretary but was rebuffed"
+    excerpt: "The inspector general found that Chao inappropriately used her staff and office for personal tasks and to promote a shipping business owned by Chao’s father and sisters."
+    publishedDateTime: 2021-03-04T02:12:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 96
+    images:
+      - url: "https://www.chicagotribune.com/resizer/RdT_akvV2w0WrLwyYv4kInG3D0k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BKO37XXJSYJYQQVJQKSAEDBFXA.aspx"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Woqdirf52zyn16nmnzCcu//Zg5pwCrpCGwyGxksLppwFblFjn+tC+NftjGqrlAcUiFzkN8Qsmb8ia51DLvRa+o1Q1bXJ/23imADCKOBsSgw46oEEhQy/lI+5fjR/QhY9FgQF1oqJDXuQ0xa4CB0rofBfJ7S6TXlaQ+rHtpi+9Zz8I2kucYtfeLw+wmzXG9ievT1nT4gLt0iHK1Ije9kGwelramH0dT1c5vr2lv6Oqkqo4vjcP4Z26t38IdSQko2Gwo+2lZdLrFROPn1vWEcEoxyWICMmklzutb9Xr0SQLj2p9YTeJ8lVVxn8q+5qDeA00ud+N7SJrUnRBBwLOjvJsKO5zAaeYK0DFWv0yFeUJAc=;MpG8jfA+11zAkJylTTSw4g=="
 ---

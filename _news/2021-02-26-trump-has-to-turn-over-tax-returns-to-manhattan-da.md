@@ -77,6 +77,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "In Trump probe, Manhattan district attorney puts pressure on his longtime chief financial officer"
+    excerpt: "Investigators have asked about Allen Weisselberg’s loyalty and his sons’ business dealings, according to people familiar with the case."
+    publishedDateTime: 2021-03-03T23:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/weisselberg-investigation-vance/2021/03/03/84a9f3d6-7c25-11eb-a976-c028a4215c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/weisselberg-investigation-vance/2021/03/03/84a9f3d6-7c25-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/weisselberg-investigation-vance/2021/03/03/84a9f3d6-7c25-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CQWFAAT3ZUI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 992
+        isCached: true
   - title: "Manhattan district attorney receives Trump's tax returns"
     excerpt: "The Manhattan District Attorney's Office has taken possession of former president Donald Trump's tax returns and financial data deemed central to prosecutors' ongoing criminal case, officials said Feb."
     publishedDateTime: 2021-02-26T00:18:00Z

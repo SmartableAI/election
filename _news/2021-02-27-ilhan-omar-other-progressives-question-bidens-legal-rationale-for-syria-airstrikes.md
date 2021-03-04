@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Psaki defends Biden's Syria airstrike decision as progressives push back, some Republicans applaud"
+    excerpt: "White House press secretary Jen Psaki defended President Biden’s decision to issue an airstrike against Iranian-backed forces in Syria in retaliation for recent attacks on American service members, saying it was a \"proportional military response.\""
+    publishedDateTime: 2021-02-26T20:08:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i8MjENiC2Rw/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "UZEjtt9Nfx/1ZZxjPNt734Kvqn/1KpXA233Y2wVoTVZRG4hrH04LCS+W3iCcL1hrZPtIo+Pto5j7LnyBw8Zc+9KIEHHxwOP95pfz2ItAqS3j1VfHn3c8Uy5djHQabSLQfjIibzbTO4/O6K8jGJffO5k1kAjbhDQLsfdzJi6Ft4+RlgE6hYdXrGHKNBAJeVMxAkAf7tZOz2QQvwvesbp3lGOFTIQJBtEYxJa56g+bD0Y8dWPA7M4XrFyS9ny2DJxhYP1XQrhSQ6/Ys9PolX98gd7lZ+Zsvph+jXUCuSoTqyoeb1tKVdVboTZkmMoOV14r5Oj95Y9FNhZFwa6vngDfT0GCfS1f1aiZoLPCcULV1hE=;cZvtHVb5F1Q8Ow/ZvPs0iw=="
 ---

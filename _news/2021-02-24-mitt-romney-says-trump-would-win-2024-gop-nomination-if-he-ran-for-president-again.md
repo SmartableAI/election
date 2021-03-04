@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "Rep. Banks warns GOP ‘destined’ to lose elections if it rejects Trump and his voters"
-    excerpt: "Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class."
-    publishedDateTime: 2021-03-01T07:51:00Z
-    webUrl: "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class"
-    ampWebUrl: "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp"
+  - title: "Georgia Gov. Kemp says he would 'absolutely' back Trump 2024, despite Trumps' calls for his resignation"
+    excerpt: "Georgia Gov. Brian Kemp said he would \"absolutely\" back Donald Trump in a bid for the presidency in 2024, despite Trump’s recent criticism of the Republican governor."
+    publishedDateTime: 2021-03-04T02:20:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ycXXSg0fYQ4/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 143
+    quality: 159
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c055ca10-6fad-441b-9b13-bc9cfa464a1a/21f7f894-6377-4ca8-8101-b98ee68f19ac/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6afddb1-7574-4ce5-a3f9-dfc745f8508f/0cca49e0-9bd0-4822-a5cf-ad62dc7c2a7c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

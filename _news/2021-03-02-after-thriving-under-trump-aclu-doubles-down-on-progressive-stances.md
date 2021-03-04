@@ -32,209 +32,147 @@ images:
     isCached: true
 
 related:
-  - title: "Trump wishes Tiger Woods a speedy recovery after LA crash"
-    excerpt: "Former President Trump is wishing golfing legend Tiger Woods well after he experienced a tragic car accident on Tuesday."
-    publishedDateTime: 2021-02-23T20:44:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuPgZsz6pXU/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp"
+  - title: "Kissinger says Trump, Nixon foreign policies similar, warns Biden on Iran"
+    excerpt: "Dr. Henry Kissinger, the former secretary of state for both Presidents Richard Nixon and Gerald Ford, likened President Donald Trump's Middle East diplomatic achievements to Nixon's opening of China in 1972."
+    publishedDateTime: 2021-03-04T01:13:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SSg7NZsPHtQ/kissinger-trump-nixon-foreign-policies-similar"
+    ampWebUrl: "https://www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 189
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4ce8712-c550-4132-901c-bcfbd56c9541/40c34bf2-87b8-4fe1-af83-c111b185dbe9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Psaki pressed on whether Biden admin taking credit for Trump accomplishments on vaccine partnership"
+    excerpt: "White House press secretary Jen Psaki was pressed about the Biden administration's taking credit for a partnership between Johnson & Johnson and Merck."
+    publishedDateTime: 2021-03-02T23:52:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden ignores question on stimulus check promise"
+    excerpt: "President Biden on Thursday ignored a question about the timing of stimulus checks, after promising the American people earlier this year that they would receive $2,000 checks immediately if Democrats won the Senate."
+    publishedDateTime: 2021-02-26T02:02:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/33ZMnKuQDBg/biden-ignores-question-on-stimulus-check-promise"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ignores-question-on-stimulus-check-promise.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ignores-question-on-stimulus-check-promise.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b77fd6d9-01d7-4f05-b55c-46c5036d321e/d1927e9e-87bd-409d-b12b-a3c4ff0a798f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/07bb7d28-6da1-4081-88e6-743e81b940ad/be9f790a-36ed-4c0a-802d-e0157cb656c5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump reacts to Tiger Woods accident: 'He's gonna be back, I have no doubt'"
-    excerpt: "Former President Donald Trump told Fox News Tuesday that he has \"no doubt\" Tiger Woods will make a strong comeback after suffering serious injuries in a car accident in Southern California."
-    publishedDateTime: 2021-02-24T01:17:41Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nUrwYZJ9SCw/trump-tiger-woods-accident-injuries-golf-legend"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-tiger-woods-accident-injuries-golf-legend.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tiger-woods-accident-injuries-golf-legend.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3d2f7fbe-a25c-474d-8f8f-0925a4e8c22e/e132704e-9e40-411a-b057-e50a94ef2efd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump says he requested 10K National Guard troops at Capitol on day of riot"
-    excerpt: "Former President Trump told Fox News late Sunday that he expressed concern over the crowd size near the Capitol days before the deadly riots last month and personally requested 10,000 National Guard troops be deployed."
-    publishedDateTime: 2021-03-01T07:19:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HDDFeV0K3SU/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 173
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Democrats hate filibuster now but used it to block GOP legislation under Trump"
-    excerpt: "Democrats are pushing to eliminate the Senate filibuster, which progressives paint as a tool of racism."
-    publishedDateTime: 2021-03-02T22:18:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/16Tw7VLDUq4/democrats-senate-filibuster-2020-block-gop-legislation"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-senate-filibuster-2020-block-gop-legislation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-senate-filibuster-2020-block-gop-legislation.amp"
+  - title: "Homan fires back after Biden DHS secretary slams Trump immigration policies: ‘Don't tell me about compassion’"
+    excerpt: "The Biden administration's immigration policies are not as compassionate as they are making it out to be, former ICE Director Tom Homan said on Tuesday."
+    publishedDateTime: 2021-03-02T14:12:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aTZim8tk9C4/homan-biden-dhs-mayorkas-trump-immigration-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/13877d8a-AP20365749407878-e1609436276614.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Nikki Haley praises Trump’s ‘strong’ CPAC speech after rebuking him weeks earlier"
-    excerpt: "Former ambassador and former South Carolina Gov. Nikki Haley’s latest comments regarding Donald Trump are raising eyebrows."
-    publishedDateTime: 2021-03-01T18:38:38Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EXQau5fH0j0/nikki-haley-praises-trumps-strong-cpac-speech"
-    ampWebUrl: "https://www.foxnews.com/politics/nikki-haley-praises-trumps-strong-cpac-speech.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nikki-haley-praises-trumps-strong-cpac-speech.amp"
+  - title: "Mexican president should call out Biden for creating new border 'crisis': Mark Morgan"
+    excerpt: "Former Acting Customs and Border Protection Commissioner Mark Morgan said former President Donald Trump’s criticisms of President Joe Biden’s immigration policies at CPAC were “spot on,” arguing that Biden’s “radical, open border policies” have created a “crisis” at the U.S. Southern Border."
+    publishedDateTime: 2021-03-01T15:25:27Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/d01sGtz-P1I/biden-immigration-crisis-southern-border-former-cbp-commissioner"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-crisis-southern-border-former-cbp-commissioner.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-crisis-southern-border-former-cbp-commissioner.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/418fe94b-51ac-40be-af29-f63af8bd00ef/4f3c3e64-8000-41ef-905d-5bebc35010b1/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Pompeo says Biden administration sending ‘mixed signals’ on China's human rights abuses"
+    excerpt: "Former Secretary of State Mike Pompeo said on Saturday that the Biden administration has sent \"mixed signals\" on the Chinese persecution of religious minorities in Xinjiang -- and called for the administration to impose \"real costs\" on Beijing."
+    publishedDateTime: 2021-02-28T03:09:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Oa_WjtosXlc/pompeo-biden-mixed-signals-chinas-human-rights-abuses"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-mixed-signals-chinas-human-rights-abuses.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-mixed-signals-chinas-human-rights-abuses.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f4390b48-7d19-4e62-b1c3-bf5adacaa001/436db621-11ed-418d-9084-282486783be2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Katrina Pierson, Trump presidential campaign veteran, moves toward congressional bid in Texas"
+    excerpt: "The field of Republicans running to succeed the late Republican Rep. Ron Wright of Texas is growing. Katrina Pierson, who served as a top adviser on President Trump’s 2016 and 2020 campaigns, is gearing up to launch a campaign, two sources with knowledge of her planning confirmed to Fox News."
+    publishedDateTime: 2021-03-01T16:16:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PhrGzptxaGQ/katrina-pierson-run-for-congress-texas"
+    ampWebUrl: "https://www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "GOP Rep. Adam Kinzinger receives letter from 11 family members disowning him over Trump opposition"
-    excerpt: "Rep. Adam Kinzinger, a six-term Republican congressman representing Illinois, received a hand-written letter from 11 family members disowning him over his opposition of former President Donald Trump, Fox News has confirmed."
-    publishedDateTime: 2021-02-16T18:47:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4mNSAAX_7ZY/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition"
-    ampWebUrl: "https://www.foxnews.com/politics/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-rep-adam-kinzinger-letter-11-family-disowning-him-trump-opposition.amp"
+  - title: "Roger Stone, at CPAC, says he'd back Trump in 2024 but warns Dems, media will try to 'bury' accomplishments"
+    excerpt: "Political operative Roger Stone told Fox News on Saturday that he would support former President Donald Trump if he decided to run for the White House in 2024 -- but warned that anti-Trump forces would seek to “bury” his accomplishments. "
+    publishedDateTime: 2021-02-27T22:57:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hO2bIaKKQDk/roger-stone-cpac-trump-in-2024-accomplishments"
+    ampWebUrl: "https://www.foxnews.com/politics/roger-stone-cpac-trump-in-2024-accomplishments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-cpac-trump-in-2024-accomplishments.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 157
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Liberal Twitter users apparently fooled by fake image of evangelicals praying over golden Trump statue"
-    excerpt: "Some liberal users on Twitter appeared to be duped by a digitally modified photo depicting evangelicals praying to a golden Trump statue at CPAC this weekend."
-    publishedDateTime: 2021-03-01T19:14:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7fG9nPcSU-U/cpac-trump-golden-statue-praying-photoshop"
-    ampWebUrl: "https://www.foxnews.com/politics/cpac-trump-golden-statue-praying-photoshop.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cpac-trump-golden-statue-praying-photoshop.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/950a44a4-3fe1-462d-bef6-5464ee18a268/7921c393-7fed-4dc2-a634-64b5a6ab730d/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aad1b5c-f865-4a8c-b449-bbe0d5fa0729/41d11d9b-8f05-44ae-934e-82fd8ee44704/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump makes Tiger Woods prediction after golfer’s scary crash"
-    excerpt: "Former President Donald Trump predicted on Tuesday night that Tiger Woods will make a comeback following his devastating car wreck. Trump spoke to Fox News about the golf legend after Woods"
-    publishedDateTime: 2021-02-24T01:01:00Z
-    webUrl: "https://nypost.com/2021/02/23/trump-predicts-tiger-woods-will-make-comeback-after-car-wreck/"
-    ampWebUrl: "https://nypost.com/2021/02/23/trump-predicts-tiger-woods-will-make-comeback-after-car-wreck/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/23/trump-predicts-tiger-woods-will-make-comeback-after-car-wreck/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/TigerWoodsTrump.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump sends well-wishes for ‘true champion’ Tiger Woods after car crash"
-    excerpt: "Former President Donald Trump on Tuesday tweeted through an associate a get-well message for golfer Tiger Woods following a serious car accident in California. “Get well soon, Tiger. You are a"
-    publishedDateTime: 2021-02-23T21:16:00Z
-    webUrl: "https://nypost.com/2021/02/23/trump-sends-well-wishes-for-tiger-woods-after-car-crash/"
-    ampWebUrl: "https://nypost.com/2021/02/23/trump-sends-well-wishes-for-tiger-woods-after-car-crash/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/23/trump-sends-well-wishes-for-tiger-woods-after-car-crash/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/tiger-woods-donald-trump.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "DHS Will Seek to Reunify in U.S. Migrant Families Separated Under Trump"
-    excerpt: "Homeland Security Secretary Alejandro Mayorkas said the Biden administration would seek legal pathways that could allow deported parents to join their children in the country."
-    publishedDateTime: 2021-03-02T00:57:00Z
-    webUrl: "https://www.wsj.com/articles/mayorkas-says-u-s-will-seek-to-reunify-migrant-families-separated-under-trump-policy-11614632727"
-    ampWebUrl: "https://www.wsj.com/amp/articles/mayorkas-says-u-s-will-seek-to-reunify-migrant-families-separated-under-trump-policy-11614632727"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/mayorkas-says-u-s-will-seek-to-reunify-migrant-families-separated-under-trump-policy-11614632727"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-305696/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Trump says he requested 10K National Guard troops at Capitol on day of riot"
-    excerpt: "Former President Trump told Fox News late Sunday that he expressed concern over the crowd size near the Capitol days before the deadly riots last month and personally requested 10,000 National Guard troops be deployed."
-    publishedDateTime: 2021-03-01T18:52:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-says-he-requested-10k-national-guard-troops-at-capitol-on-day-of-riot.amp"
+  - title: "Biden's release of report on Khashoggi killing shows difference from Trump's approach, experts say"
+    excerpt: "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge,"
+    publishedDateTime: 2021-03-02T13:30:00Z
+    webUrl: "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 133
+    quality: 136
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c055ca10-6fad-441b-9b13-bc9cfa464a1a/21f7f894-6377-4ca8-8101-b98ee68f19ac/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Democrats hate filibuster now but used it to block GOP legislation under Trump"
-    excerpt: "Congressional Democrats are pushing to eliminate the Senate filibuster, which progressives paint as a tool of racism, after making liberal use of the filibuster in 2020. \"Understand this: The filibuster gives veto power to Mitch McConnell."
-    publishedDateTime: 2021-03-02T22:23:00Z
-    webUrl: "https://www.foxnews.com/politics/democrats-senate-filibuster-2020-block-gop-legislation"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-senate-filibuster-2020-block-gop-legislation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-senate-filibuster-2020-block-gop-legislation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 131
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/13877d8a-AP20365749407878-e1609436276614.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Trump vacuum puts local officials in media’s harsh glare"
-    excerpt: "Without Trump dominating the news cycle, the media have turned their attention to scandals and controversies like those involving the governor of New York, the governor of California, and a senator fr"
-    publishedDateTime: 2021-02-23T08:14:00Z
-    webUrl: "https://www.foxnews.com/media/trump-vacuum-puts-local-officials-in-medias-harsh-glare"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 115
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Cruz-Cuomo.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6135620-aa93-4f89-89c8-d3f90db43495/edbfa245-82dc-4205-9d6f-f6a77fc1d355/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -251,20 +189,6 @@ related:
     quality: 85
     images:
       - url: "https://assets.realclear.com/images/53/536490_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
-  - title: "Trump Still Standing, Still Greatest Threat to Swamp"
-    excerpt: "Still standing is former President Donald Trump. And he proved this week he aims to get back into the fight and swing away, dangerous as ever."
-    publishedDateTime: 2021-03-02T19:37:00Z
-    webUrl: "https://www.realclearpolitics.com/2021/03/02/trump_still_standing_still_greatest_threat_to_swamp_537217.html#!"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 65
-    images:
-      - url: "https://assets.realclear.com/images/53/536518_5_.jpg"
         width: 750
         height: 500
         isCached: true
