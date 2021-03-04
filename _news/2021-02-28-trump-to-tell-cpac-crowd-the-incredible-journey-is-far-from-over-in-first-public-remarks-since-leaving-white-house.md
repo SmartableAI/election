@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: Trump delivers lie-filled CPAC speech"
-    excerpt: "Former President Donald Trump returned to the public stage on Sunday with a familiar kind of Trump speech -- a speech filled with debunked lies.\n    \n"
-    publishedDateTime: 2021-03-01T03:15:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6OjOpUeNqRo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228165529-02-donald-trump-cpac-0228-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Goya Foods CEO falsely says election was illegitimate, Trump is 'the real, the legitimate, and the still actual president' "
     excerpt: "The chief executive officer of Goya Foods, Robert Unanue, made a series of false claims about the 2020 election at the Conservative Political Action Conference on Sunday -- a little more than a month after the company board took action to limit his polarizing public political remarks.\n    \n"
     publishedDateTime: 2021-03-01T00:39:41Z
@@ -78,22 +62,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126105307-robert-unanue-goya-foods-1221-file-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Fact-checking Trump's CPAC speech on election lies"
-    excerpt: "NBC News’ Jane Timm fact-checks former President Donald Trump’s CPAC speech, where he attempted to relitigate the 2020 election results and take credit for the Pfizer vaccine."
-    publishedDateTime: 2021-03-02T01:16:00Z
-    webUrl: "https://www.nbcnews.com/now/video/fact-checking-trump-s-cpac-speech-on-election-lies-101779525598"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101779525598"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101779525598"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 150
-    images:
-      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/1614618137555_ott_now_am_trump_timm_210301_1920x1080.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Trump CPAC speech revives 'rigged' election lie, declares political journey 'far from over'"
     excerpt: "In a speech here Sunday to close out the Conservative Political Action Conference, former President Donald Trump teased his political future and repeated the lie that he won the 2020 election. “I stand before you today to declare that the incredible journey we began together four years ago is far from over,"

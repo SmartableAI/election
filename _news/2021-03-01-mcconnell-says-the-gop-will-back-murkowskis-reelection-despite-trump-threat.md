@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-mur
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html"
 type: article
 quality: 187
-heat: 287
+heat: 267
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       - url: "https://static.politico.com/ec/23/2d3486ae4d7289b031aea889cc8c/20210202-mitch-mcconnell-gty-773.jpg"
         width: 1160
         height: 773
-        isCached: true
-  - title: "The GOP is the party of half-Trump"
-    excerpt: "Weeks ago, he pinpointed the GOP loss of the Georgia Senate seats on Mitch McConnell’s refusal to consider the measure. Now Biden is pushing a massive stimulus bill of roughly the same size and with similar direct payments."
-    publishedDateTime: 2021-03-03T01:07:00Z
-    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/03/02/the-gop-is-the-party-of-half-trump-491958"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
         isCached: true
   - title: "The real post-Trump GOP divide: House vs. Senate"
     excerpt: "House and Senate Republicans are taking divergent stances toward President Joe Biden, even as they unite in opposition to his coronavirus bill."

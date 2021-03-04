@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-relief-bill-troja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-relief-bill-trojan-horse-rep-nunes.amp"
 type: article
 quality: 157
-heat: 157
+heat: 177
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Senate GOP blasts 'blue state bailout' in Biden's $1.9T coronavirus bill"
+    excerpt: "Senate Republicans railed against President Biden's $1.9 trillion coronavirus legislation as a liberal bailout to blue states as they plan to make passage of the bill as painful as possible for Democrats this week. "
+    publishedDateTime: 2021-03-04T00:03:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gf_-1YBiuZw/senate-gop-rallies-against-bidens-1-9t-coronavirus-bill-blasting-its-blue-state-bailout"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20288801557897.jpg"
+        width: 4000
+        height: 2250
+        isCached: true
 
 secured: "VkY1IAj7IPwnY9kKxHwxZM8kv26xUdK4ksT8lLCrNiAbDRbkcTgAgdmUEnrxGjhdpf5NULQ7vkFeuhO3OPccnqSiWxMQT2/iskJObaRoqoCwoBNfe9x26UZztiDcrydkQKBj09btcdn5kNjYJbwtwvBtDkeqgXPixzVDTuU9sT5UUOA2j0ICUM98/ZJG+I4Oa9ydJhfy7RTbXZY0E0/1YF8IlgkZ8+9DrGkaxtfIbR6TM0emJ9vP+ozhc76lq+7rXDsFfyfV2jQO0+L6ylmhPq0PqD//FEWwdR6OjVFeTEOFlUkuZ4svVVVRPj5pz3NB6Kk1rra9NJd7NOPJESiyOdGfGc3/ZRJFQcQ9uG7hBuc=;3NJCkWwR/BvixG8lRNMbUQ=="
 ---

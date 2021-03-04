@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-legal-problems-pos
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-legal-problems-post-impeachment/index.html"
 type: article
 quality: 175
-heat: 675
+heat: 655
 published: true
 
 provider:
@@ -124,22 +124,6 @@ related:
     quality: 170
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213140031-05-impeachment-sketch-2021-saturday-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Fact check: Trump lawyer closes impeachment defense with a barrage of dishonesty "
-    excerpt: "Former President Donald Trump's impeachment defense was dishonest from start to finish.\n    \n"
-    publishedDateTime: 2021-02-14T00:47:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213210145-michael-van-der-veen-abogado-trump-sot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

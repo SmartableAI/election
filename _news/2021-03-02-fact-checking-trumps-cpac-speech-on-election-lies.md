@@ -32,19 +32,19 @@ images:
     isCached: true
 
 related:
-  - title: "Acosta: Trump opened up 'fire hose of falsehoods' at CPAC"
-    excerpt: "Former President Donald Trump repeated his election lies on stage at the Conservative Political Action Conference in Orlando, Florida, looking to reclaim his role as the Republican Party's kingmaker as he positions himself to play a major role in the 2022 midterm elections.\n    \n"
-    publishedDateTime: 2021-03-01T00:01:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Ab7llD1kfw/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/02/28/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/28/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn"
+  - title: "Fact check: Pence echoes Trump's Big Lie in dishonest op-ed on election rules"
+    excerpt: "In an opinion article published on Wednesday, former Vice President Mike Pence did something he used to do in office: echo a lie from former President Donald Trump in a slightly more sophisticated way.\n    \n"
+    publishedDateTime: 2021-03-04T00:00:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfcK-1gqPKY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 212
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228165529-02-donald-trump-cpac-0228-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210101151233-mike-pence-louie-gohmert-ignore-certify-election-results-dantonio-nr-vpx-00033124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -64,117 +64,173 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Goya Foods CEO falsely says election was illegitimate, Trump is 'the real, the legitimate, and the still actual president' "
-    excerpt: "The chief executive officer of Goya Foods, Robert Unanue, made a series of false claims about the 2020 election at the Conservative Political Action Conference on Sunday -- a little more than a month after the company board took action to limit his polarizing public political remarks.\n    \n"
-    publishedDateTime: 2021-03-01T00:39:41Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hWF_DBr8uP0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/fact-check-goya-unanue-election-cpac/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/fact-check-goya-unanue-election-cpac/index.html"
+  - title: "Trump is facing probes from 5 independently elected investigators"
+    excerpt: "Five independently elected investigators have turned their attention to former President Donald Trump, a sign his legal woes are mounting as he no longer enjoys the protections once afforded to him by the Oval Office.\n    \n"
+    publishedDateTime: 2021-03-02T02:10:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kUUmj19NqjY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/trump-scrutiny-five-investigators/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/trump-scrutiny-five-investigators/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 164
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210126105307-robert-unanue-goya-foods-1221-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301201624-donald-trump-210228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump to tell CPAC crowd the 'incredible journey' is 'far from over' in first public remarks since leaving White House"
-    excerpt: "Former President Donald Trump takes the stage at the Conservative Political Action Conference Sunday, looking to reclaim his role as the Republican Party's kingmaker as he positions himself to play a major role in the 2022 midterm elections.\n    \n"
-    publishedDateTime: 2021-02-28T20:33:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bWKjJG0ZK1M/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/trump-cpac-speech-2021/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/trump-cpac-speech-2021/index.html"
+  - title: "Big Lie? Big Whoop: Many Republicans on Capitol Hill see little reason to bat down Trump's election lies"
+    excerpt: "The deadly January 6 insurrection in the Capitol may have caused many voters to recoil at former President Donald Trump's election lies.\n    \n"
+    publishedDateTime: 2021-02-25T22:00:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RK0vexvHxPE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 151
+    quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212193827-trump-rally-republicano-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump CPAC speech revives 'rigged' election lie, declares political journey 'far from over'"
-    excerpt: "In a speech here Sunday to close out the Conservative Political Action Conference, former President Donald Trump teased his political future and repeated the lie that he won the 2020 election. “I stand before you today to declare that the incredible journey we began together four years ago is far from over,"
-    publishedDateTime: 2021-03-01T00:22:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/trump-cpac-speech-declare-his-political-journey-far-over-n1259093"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1259093"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1259093"
+  - title: "Fact check: Trump lawyer closes impeachment defense with a barrage of dishonesty "
+    excerpt: "Former President Donald Trump's impeachment defense was dishonest from start to finish.\n    \n"
+    publishedDateTime: 2021-02-14T00:47:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 140
+      name: CNN
+      domain: cnn.com
+    quality: 170
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3453288/210228-donald-trump-cpac-jm-1031_05dfd6ca671e285665ddc9bead624b3c.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213210145-michael-van-der-veen-abogado-trump-sot-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "What to Watch For at CPAC: Trump, Cruz, Pompeo and More"
-    excerpt: "Even more than usual, the Conservative Political Action Conference this year will be a barometer for the Republican Party, newly out of power in Washington and trying to chart a way back."
-    publishedDateTime: 2021-02-25T10:08:00Z
-    webUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/us/politics/cpac-guide-speakers-schedule.amp.html"
+  - title: "Late Night Laughs Off Mike Pence’s Renewed Loyalty to Trump"
+    excerpt: "I don’t know where the line is between forgiving and being a doormat, but Mike Pence crossed it a long time ago,” Trevor Noah said."
+    publishedDateTime: 2021-02-25T06:43:00Z
+    webUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 160
     images:
-      - url: "https://static01.nyt.com/images/2021/02/25/us/politics/25cpac-guide/25cpac-guide-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static01.nyt.com/images/2021/02/25/arts/25latenight/25latenight-facebookJumbo.png"
+        width: 851
+        height: 445
         isCached: true
-  - title: "Trump to Dominate CPAC as Activists Assess Potential 2024 Candidates"
-    excerpt: "Day 1 of the Conservative Political Action Conference will include speeches from Senators Tom Cotton, Ted Cruz, Rick Scott and others. Here’s what to expect."
-    publishedDateTime: 2021-02-26T10:33:00Z
-    webUrl: "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-2024-candidates.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-2024-candidates.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/politics/trump-cpac-2024-candidates.amp.html"
+  - title: "The Republican trying to bridge the Trump-Pence divide"
+    excerpt: "Rep. Jim Banks is reshaping the Republican Study Committee to align with the ex-president still ruling the GOP."
+    publishedDateTime: 2021-03-02T06:28:00Z
+    webUrl: "https://www.politico.com/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 160
+    images:
+      - url: "https://static.politico.com/06/b5/fffbc89c42abaaef5ce4dbe28735/210226-jim-banks-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Big Lie? Big Whoop: Many Republicans on Capitol Hill see little reason to bat down Trump's election lies"
+    excerpt: "The deadly January 6 insurrection in the Capitol may have caused many voters to recoil at former President Donald Trump's election lies."
+    publishedDateTime: 2021-02-25T22:00:00Z
+    webUrl: "https://www.cnn.com/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 133
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212193827-trump-rally-republicano-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Thousands of Migrant Children Detained in Resumption of Trump-Era Policies"
+    excerpt: "President Biden vowed to create a humane approach to immigration. But thousands of children who crossed the border alone are being confined in government shelters."
+    publishedDateTime: 2021-02-26T23:30:00Z
+    webUrl: "https://www.nytimes.com/2021/02/26/us/migrant-children-border-detained.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/26/us/migrant-children-border-detained.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/migrant-children-border-detained.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 133
     images:
-      - url: "https://static01.nyt.com/images/2021/02/26/us/politics/26cpac/26cpac-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/26/world/26BORDER-KIDS/26BORDER-KIDS-facebookJumbo.jpg"
         width: 1050
-        height: 550
+        height: 549
         isCached: true
-  - title: "Trump Revives Familiar Falsehoods in CPAC Speech"
-    excerpt: "Trump, in his first public appearance since leaving the White House, mounted inaccurate attacks against his successor and revived familiar falsehoods in a speech on Sunday at the Conservative Political Action Conference."
-    publishedDateTime: 2021-03-01T07:36:00Z
-    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-fact-check.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-fact-check.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/trump-cpac-fact-check.amp.html"
+  - title: "Out with Trump, in with the Senate parliamentarian"
+    excerpt: "Can we take a minute this morning to point out that Washington is totally preoccupied with a wonkish policy matter involving Senate procedure and the latest chatter surrounding a Cabinet nomination? What a change after four years of numbing scandals and Twitter name-calling (though some of those tweets are still making news,"
+    publishedDateTime: 2021-02-25T11:20:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/25/out-with-trump-in-with-the-senate-parliamentarian-491896"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2021/02/28/us/28dc-factcheck-trump/28dc-factcheck-trump-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/d9/99/61a01c334c83a932be21100d2240/210225-macdonough-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
-  - title: "Trump Wins CPAC Straw Poll, but Only 68 Percent Want Him to Run Again"
-    excerpt: "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential straw polls. Gov. Ron DeSantis of Florida won one that did not include Mr. Trump."
-    publishedDateTime: 2021-02-28T21:07:00Z
-    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html"
+  - title: "Fears about Trump out of the cage"
+    excerpt: "There are two months of pent-up tweets Trump could unleash at CPAC today, his first on-stage appearance since Jan. 6. The risk of havoc is higher than going on Fox, which he’s done a few times. Here’s what his aides have been trying to prevail upon Trump to do: — Train his fire on JOE BIDEN."
+    publishedDateTime: 2021-02-28T17:08:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/28/fears-about-trump-out-of-the-cage-491927"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: Politico
+      domain: politico.com
+    quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-strawpollHFO-d/28cpac-strawpollHFO-d-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/27/65/d91c54f44a0ca44ab6d017e832d7/210228-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The GOP is the party of half-Trump"
+    excerpt: "Weeks ago, he pinpointed the GOP loss of the Georgia Senate seats on Mitch McConnell’s refusal to consider the measure. Now Biden is pushing a massive stimulus bill of roughly the same size and with similar direct payments."
+    publishedDateTime: 2021-03-03T01:07:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/03/02/the-gop-is-the-party-of-half-trump-491958"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "NRCC chief to Trump: Please don’t"
+    excerpt: "Kyle Cheney and Andrew Desiderio EMMER MAKES 2022 PRIMARY PLEA TO TRUMP — At a POLITICO Live event this morning, NRCC Chair TOM EMMER (R-Minn.) told us that former President DONALD TRUMP getting involved in House primaries is “not gonna be helpful” to their effort to retake the House."
+    publishedDateTime: 2021-03-03T18:40:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/03/03/nrcc-chief-to-trump-please-dont-491977"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/8c/5e/adf89d0840808fade585cfda7fb3/gettyimages-643949018.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "N9Yv5dGOck2+Q4XvwZhX4gL9AuqoYovxbjDeqDGvGgoF0SwgBW0M9xjJhUqzt05lgj/xsj78veYh3BQG8owZchQsMsNKPd/iYjXJE8VRboLoQX4Lwpkx1uKGJ/i5IKWbE6YxB3S7K086/N+F2WhQ4b0KfBBqMocmm1wFaZOl60fLSvnKr5JS+k2GsT6l+SGSTYPEm4qZ6MijhztqctGrjDmniJLHbRwkZcAyLf0LOiEeWcpxmCSt9MnF22hgPWc8RTYSJHChcs1Sp62clUUuVpWfy+luY0Zj1C0cbBIkm91DbZAbwjvQE0EkQDqdKolVK7PJRRswlB+Qpez2OobCLLbqP5wNS5UHEr+MrlBoeF4=;NSDGOLQzKYig0wDRUL3W5Q=="

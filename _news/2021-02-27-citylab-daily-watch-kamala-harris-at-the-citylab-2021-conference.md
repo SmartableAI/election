@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-dail
 webUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference"
 type: article
 quality: 105
-heat: 465
+heat: 485
 published: true
 
 provider:
@@ -146,6 +146,22 @@ related:
       - url: "https://www.click2houston.com/resizer/yCkAbbLiihh8FDnsVE37-D9KGo0=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/VS7THMGUPNAXXHA3MQSGTYOFZQ.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
+    excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
+    publishedDateTime: 2021-03-03T23:21:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/03/Kamala-Harris-visits-Fibre-Space-discusses-American-Rescue-Plan/9921614809626/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9921614809626/2021/1/737179c4b2717553b05f15134d377fc8/v1.5/Kamala-Harris-visits-woman-owned-yarn-store-to-discuss-American-Rescue-Plan.jpg"
+        width: 800
+        height: 534
         isCached: true
   - title: "Vice President Kamala Harris honors 'visionaries' at Black History Month event"
     excerpt: "Vice President Kamala Harris called Black history makers 'visionaries' Saturday during a virtual celebration of the 40th annual Black History Month."

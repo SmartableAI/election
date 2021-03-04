@@ -32,51 +32,35 @@ images:
     isCached: true
 
 related:
-  - title: "Supreme Court allows release of Trump tax returns to NY prosecutor"
-    excerpt: "The Supreme Court cleared the way for a New York prosecutor to obtain former President Donald Trump's tax returns, dealing a massive loss to Trump who has fiercely fought to shield his financial papers from prosecutors.\n    \n"
-    publishedDateTime: 2021-02-22T14:51:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Mib7JoXI30/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxes-vance/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxes-vance/index.html"
+  - title: "Fact check: Pence echoes Trump's Big Lie in dishonest op-ed on election rules"
+    excerpt: "In an opinion article published on Wednesday, former Vice President Mike Pence did something he used to do in office: echo a lie from former President Donald Trump in a slightly more sophisticated way.\n    \n"
+    publishedDateTime: 2021-03-04T00:00:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfcK-1gqPKY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 212
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200729082623-trump-at-podium-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210101151233-mike-pence-louie-gohmert-ignore-certify-election-results-dantonio-nr-vpx-00033124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "In one morning, the Supreme Court looked to rid itself of the Trump era"
-    excerpt: "Donald Trump took a drubbing at the Supreme Court on Monday, as the justices in a flurry of orders dealt critical blows to his efforts to shield his tax records from a New York prosecutor and his oft-repeated false claims that there was widespread voter fraud during the last election.\n    \n"
-    publishedDateTime: 2021-02-23T00:49:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zWO8MaEjn7A/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-election-taxes-stormy-daniels/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-election-taxes-stormy-daniels/index.html"
+  - title: "Fact check: Trump delivers lie-filled CPAC speech"
+    excerpt: "Former President Donald Trump returned to the public stage on Sunday with a familiar kind of Trump speech -- a speech filled with debunked lies.\n    \n"
+    publishedDateTime: 2021-03-01T03:15:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6OjOpUeNqRo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210209191515-donald-trump-juicio-politico-violencia-capitolio-presidente-eeuu-gobierno-senado-aristegui-mexico-roberto-izurieta-republicanos-democratas-00002909-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Golden Trump statue turns heads at CPAC"
-    excerpt: "With the first full day of the Conservative Political Action Conference underway, there's already an indisputable star: an outrageously golden statue of Donald Trump wearing shorts and flip-flops.\n    \n"
-    publishedDateTime: 2021-02-26T18:36:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LKqak9yC0nw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/trump-gold-statue-cpac-2021/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/trump-gold-statue-cpac-2021/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226130859-02-golden-trump-statue-cpac-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228165529-02-donald-trump-cpac-0228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -96,179 +80,157 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: Why has Donald Trump fought so hard to keep his tax returns secret?"
-    excerpt: "The Supreme Court's rejection Monday of an attempt by Donald Trump to keep Manhattan District Attorney Cyrus Vance from seeing his tax returns (and other financial documents) was rightly cast as a major legal setback for the former President.\n    \n"
-    publishedDateTime: 2021-02-23T15:42:19Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RJDWU7rk_60/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/donald-trump-tax-returns-scotus/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/donald-trump-tax-returns-scotus/index.html"
+  - title: "Big Lie? Big Whoop: Many Republicans on Capitol Hill see little reason to bat down Trump's election lies"
+    excerpt: "The deadly January 6 insurrection in the Capitol may have caused many voters to recoil at former President Donald Trump's election lies.\n    \n"
+    publishedDateTime: 2021-02-25T22:00:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RK0vexvHxPE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 171
+    quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170417184020-cnnmoney-trump-tax-returns-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212193827-trump-rally-republicano-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Supreme Court agrees to hear challenge to Trump administration's public charge rule"
-    excerpt: "The Supreme Court agreed on Monday to take up a case brought by various groups and state and local officials challenging a Trump-era rule that makes it more difficult for immigrants to obtain legal status if they use public benefits, such as Medicaid, food stamps and housing vouchers.\n    \n"
-    publishedDateTime: 2021-02-22T15:53:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V1VF280FP_w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-public-charge-rule/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-public-charge-rule/index.html"
+  - title: "Fact check: Trump lawyer closes impeachment defense with a barrage of dishonesty "
+    excerpt: "Former President Donald Trump's impeachment defense was dishonest from start to finish.\n    \n"
+    publishedDateTime: 2021-02-14T00:47:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 170
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200225125440-02-supreme-court-building-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213210145-michael-van-der-veen-abogado-trump-sot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump's tax returns and related records turned over to Manhattan district attorney"
-    excerpt: "Tax records that former President Donald Trump tried to keep secret for years are now in the hands of the New York district attorney.\n    \n"
-    publishedDateTime: 2021-02-25T14:52:28Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kALnAf8DvY4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-mazars-vance/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-mazars-vance/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113140558-02-trump-impeachment-centered-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump returns and Republican 2024 prospects seek breakout moments at CPAC gathering"
-    excerpt: "Republican politicians, media personalities and activists are gathering this weekend in Florida for the annual Conservative Political Action Conference, an event that could offer an early window into the party's 2024 presidential contest while also amplifying false claims that the 2020 election was stolen.\n"
-    publishedDateTime: 2021-02-26T11:17:32Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z1araHTqzZI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/cpac-2021-trump-schedule-friday/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/cpac-2021-trump-schedule-friday/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225164855-01-cpac-0225-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "What the Supreme Court ruling means for Manhattan DA's Trump criminal investigation "
-    excerpt: "After 17 months and two trips to the US Supreme Court, the Manhattan district attorney's criminal investigation into former President Donald Trump's business has received a significant boost with investigators now able to pour over Trump's tax returns and financial records.\n    \n"
-    publishedDateTime: 2021-02-22T20:16:43Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UdNZ51ZMpls/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-manhattan-da-trump/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 168
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Manhattan DA faces critical decisions in Trump investigation as his time in office runs low"
-    excerpt: "At the helm of the most significant criminal investigation facing Donald Trump, his family and his business, Manhattan's top prosecutor faces a daunting task heading into his final months in office while sifting through millions of newly obtained pages of financial records related to the former President.\n"
-    publishedDateTime: 2021-02-25T23:25:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1fKVj9rqWIc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200221104852-cy-vance-0215-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Parler, a Social Network That Attracted Trump Fans, Returns Online"
-    excerpt: "After being cut off by Amazon and other tech giants, Parler worked for weeks to find a way to get back on the internet."
-    publishedDateTime: 2021-02-15T19:29:00Z
-    webUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/15/technology/parler-back-online.amp.html"
+  - title: "Late Night Laughs Off Mike Pence’s Renewed Loyalty to Trump"
+    excerpt: "I don’t know where the line is between forgiving and being a doormat, but Mike Pence crossed it a long time ago,” Trevor Noah said."
+    publishedDateTime: 2021-02-25T06:43:00Z
+    webUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/arts/television/trevor-noah-mike-pence-donald-trump.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 160
     images:
-      - url: "https://static01.nyt.com/images/2021/02/15/business/15parler1/merlin_182226063_a7a3368d-45c0-4f5c-a7f9-7fc23bfc40d4-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://static01.nyt.com/images/2021/02/25/arts/25latenight/25latenight-facebookJumbo.png"
+        width: 851
+        height: 445
         isCached: true
-  - title: "Trump's tax returns handed over to Manhattan prosecutors"
-    excerpt: "The Supreme Court this week declined to block a New York grand jury from getting Trump's personal and corporate tax returns."
-    publishedDateTime: 2021-02-26T00:16:00Z
-    webUrl: "https://www.nbcnews.com/politics/donald-trump/manhattan-d-vance-possession-trump-s-taxes-n1258834"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258834"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258834"
+  - title: "The Republican trying to bridge the Trump-Pence divide"
+    excerpt: "Rep. Jim Banks is reshaping the Republican Study Committee to align with the ex-president still ruling the GOP."
+    publishedDateTime: 2021-03-02T06:28:00Z
+    webUrl: "https://www.politico.com/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/01/republican-study-committee-jim-banks-trump-471790"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 160
+    images:
+      - url: "https://static.politico.com/06/b5/fffbc89c42abaaef5ce4dbe28735/210226-jim-banks-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Fact-checking Trump's CPAC speech on election lies"
+    excerpt: "NBC News’ Jane Timm fact-checks former President Donald Trump’s CPAC speech, where he attempted to relitigate the 2020 election results and take credit for the Pfizer vaccine."
+    publishedDateTime: 2021-03-02T01:16:00Z
+    webUrl: "https://www.nbcnews.com/now/video/fact-checking-trump-s-cpac-speech-on-election-lies-101779525598"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101779525598"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101779525598"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 150
     images:
-      - url: "https://media4.s-nbcnews.com/i/newscms/2020_22/3372656/200531-donald-trump-cs-611p_e554c90c1572ac84631e4d1731a76b2d.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/1614618137555_ott_now_am_trump_timm_210301_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Trump, Addressing Conservatives, Plans to Claim Leadership of G.O.P."
-    excerpt: "In his first public appearance since leaving office, Donald J. Trump also planned to assert that there were no divisions in his party, according to excerpts of his speech, even as he plotted vindication against his enemies."
-    publishedDateTime: 2021-02-28T19:48:00Z
-    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-republicans.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/trump-cpac-republicans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/trump-cpac-republicans.amp.html"
+  - title: "Big Lie? Big Whoop: Many Republicans on Capitol Hill see little reason to bat down Trump's election lies"
+    excerpt: "The deadly January 6 insurrection in the Capitol may have caused many voters to recoil at former President Donald Trump's election lies."
+    publishedDateTime: 2021-02-25T22:00:00Z
+    webUrl: "https://www.cnn.com/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 133
     images:
-      - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-trump/merlin_184388943_eabe5c31-e90b-4553-b3cc-a3dd9ee86d9f-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212193827-trump-rally-republicano-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Prosecutors just got millions of pages of Trump documents. His taxes are just the beginning."
-    excerpt: "The records are likely to offer New York investigators a revealing look into the former president’s business dealings, experts say."
-    publishedDateTime: 2021-02-25T23:14:00Z
-    webUrl: "https://www.nbcnews.com/politics/politics-news/prosecutors-just-got-millions-trump-documents-his-taxes-are-just-n1258876"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1258876"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258876"
+  - title: "Out with Trump, in with the Senate parliamentarian"
+    excerpt: "Can we take a minute this morning to point out that Washington is totally preoccupied with a wonkish policy matter involving Senate procedure and the latest chatter surrounding a Cabinet nomination? What a change after four years of numbing scandals and Twitter name-calling (though some of those tweets are still making news,"
+    publishedDateTime: 2021-02-25T11:20:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/25/out-with-trump-in-with-the-senate-parliamentarian-491896"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 124
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3452122/210223-donald-trump-jm-1402_dbab2f8aec615a8c581bb5f4ed0c8961.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Mayorkas Vows to Replace Trump-Era Immigration Policies"
-    excerpt: "Homeland Security Secretary Alejandro Mayorkas discussed efforts to revert immigration policies laid out by the Trump administration, including those involving children."
-    publishedDateTime: 2021-03-02T00:31:00Z
-    webUrl: "https://www.nytimes.com/video/us/politics/100000007630715/mayorkas-trump-immigration-family-separation.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
+      name: Politico
+      domain: politico.com
     quality: 115
     images:
-      - url: "https://static01.nyt.com/images/2021/03/01/us/politics/01new-was-mayorkas/01new-was-mayorkas-facebookJumbo.jpg?video-overlay"
-        width: 1050
-        height: 550
+      - url: "https://static.politico.com/d9/99/61a01c334c83a932be21100d2240/210225-macdonough-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Fears about Trump out of the cage"
+    excerpt: "There are two months of pent-up tweets Trump could unleash at CPAC today, his first on-stage appearance since Jan. 6. The risk of havoc is higher than going on Fox, which he’s done a few times. Here’s what his aides have been trying to prevail upon Trump to do: — Train his fire on JOE BIDEN."
+    publishedDateTime: 2021-02-28T17:08:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/02/28/fears-about-trump-out-of-the-cage-491927"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/27/65/d91c54f44a0ca44ab6d017e832d7/210228-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The GOP is the party of half-Trump"
+    excerpt: "Weeks ago, he pinpointed the GOP loss of the Georgia Senate seats on Mitch McConnell’s refusal to consider the measure. Now Biden is pushing a massive stimulus bill of roughly the same size and with similar direct payments."
+    publishedDateTime: 2021-03-03T01:07:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/03/02/the-gop-is-the-party-of-half-trump-491958"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "NRCC chief to Trump: Please don’t"
+    excerpt: "Kyle Cheney and Andrew Desiderio EMMER MAKES 2022 PRIMARY PLEA TO TRUMP — At a POLITICO Live event this morning, NRCC Chair TOM EMMER (R-Minn.) told us that former President DONALD TRUMP getting involved in House primaries is “not gonna be helpful” to their effort to retake the House."
+    publishedDateTime: 2021-03-03T18:40:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/03/03/nrcc-chief-to-trump-please-dont-491977"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/8c/5e/adf89d0840808fade585cfda7fb3/gettyimages-643949018.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "UHUtPLX9eG8gLDJ+XtdyBafCvgC3M+K6Na8G4IhSbxl0+ihYWdv+NvfurQsGKLfZTImFFzL9Uhk8UXGBIuJtN6WAB2gE7TW7YfGlFXQ5NF0OF0lYIXduIDeNPDTVfzjuu9yA8Is/toSqhWLSQrZAozatEMa8ocghtan7xg1yffyccylccMj7RxK+k823OJo5maVu63eH2cPHRRG7Ph25LnMzRs0DxaQxan5xFpdZji78H7ILc1r8e6FCiCMZFE5PRg4ZwVr2AuhuXXgUfZuc3gxN0/ElSXi/YCyN1H4fhnvNDK4S/NQKH05Z5Xap16Ytip4tmWN4wxNFpPWhu3jw8BMIpkJ+ukfYXSCID2+uMhs5Snb6pWXtsJd5d+FNA7IDlI7hfo5doNdziEha7IKtP11knpXsHeQwbxATvHKqzIGmL9t+OgIKP2W8Ybz154lyDuDhjs27mEqOH4td3QUrofp49UhmiivMw2EP7NgyTkrPbF34PmWaDHM7Bs519ZfpgIxNK0coyOtbVtpv8Scksg==;gcirPnudz4C8B7wVrwISTA=="

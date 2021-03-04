@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/story/take-a-look-inside-vice-presiden
 webUrl: "https://www.marketwatch.com/story/take-a-look-inside-vice-president-kamala-harris-san-francisco-condo-that-just-sold-for-a-profit-11614024358?mod=hp_minor_pos19"
 type: article
 quality: 92
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -29,21 +29,51 @@ images:
     isCached: true
 
 related:
-  - title: "Photos: Kamala Harris selling San Francisco loft for $799,000"
-    excerpt: "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco."
-    publishedDateTime: 2021-02-22T17:06:00Z
-    webUrl: "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/"
-    ampWebUrl: "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
+  - title: "Inside the progressives' push to use Kamala Harris' presidential ambitions for policy leverage in the Biden administration"
+    excerpt: "Progressives are pretty sure Kamala Harris will run for president again. Here's how they plan to use it to their advantage."
+    publishedDateTime: 2021-03-01T16:15:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-biden-2024-minimum-wage-white-house-progressives-2021-3"
     type: article
     provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 94
     images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&h=434"
-        width: 700
-        height: 434
+      - url: "https://i.insider.com/603d7f1d87d37600190d08cd?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Republicans tee up attacks on Biden—and Kamala Harris | Raleigh News & Observer"
+    excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
+    publishedDateTime: 2021-02-25T18:11:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article249514215.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article249514215.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article249514215.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 86
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republicans regroup around attacks on Biden administration —including Kamala Harris"
+    excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
+    publishedDateTime: 2021-02-25T18:11:00Z
+    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article249514215.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article249514215.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article249514215.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 84
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "2X4zQhuKuHBvF5v+Zh/vL5CKqRc9nCB9yYmFb5GgcSGb31BeHMKQ2PLBFssCJ0maTms83hWnyOG/mLKIbaEtUJwDJK4a6kEUa7MEg7ECCds9CNya4hRLeHFkwwkPJRwhRC59dK4zi1oAMS/4chFAE643v/botvcw+uPrHSeRmVw/RyOV9tR/2jqbdEKt8Ex8OxTD+cyW/rB6bEhmncuhNuBEUVSPKgt7yd1fzXFqeoGRoQ7rPoEItcGtyqao8KDJMivVNQAK81+fMgQ1ltqhEX29n/Xsj9+E1pZydCs7JzmdzKfMsr1NBdTg+IYsv5T6tmflhc6+3io8iPn1O3BZ0hMt5dKMefG5j5YHziOtiCA=;50RIzKfayx7ug3Kx0m3lWA=="

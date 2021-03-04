@@ -33,115 +33,83 @@ images:
     isCached: true
 
 related:
-  - title: "Pence and Trump's relationship is 'amicable,' source says"
-    excerpt: "Former Vice President Mike Pence and former President Donald Trump have spoken twice since the inauguration last month, according to a knowledgeable source, who described the pair's relationship as \"amicable.\"\n    \n"
-    publishedDateTime: 2021-02-23T03:56:29Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/t5M9omk1nYM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/trump-pence-relationship/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/trump-pence-relationship/index.html"
+  - title: "Fact check: Pence echoes Trump's Big Lie in dishonest op-ed on election rules"
+    excerpt: "In an opinion article published on Wednesday, former Vice President Mike Pence did something he used to do in office: echo a lie from former President Donald Trump in a slightly more sophisticated way.\n    \n"
+    publishedDateTime: 2021-03-04T00:00:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfcK-1gqPKY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 200
+    quality: 212
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105215557-pence-trump-file-2019-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210101151233-mike-pence-louie-gohmert-ignore-certify-election-results-dantonio-nr-vpx-00033124-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Pence speaks highly of Trump in meeting and notes he'll soon launch a political group"
-    excerpt: "Former Vice President Mike Pence told a group of conservative lawmakers on Tuesday that he maintains a close personal friendship with former President Donald Trump, while noting that he plans to launch a political organization that will defend their administration's record over the past four years.\n"
-    publishedDateTime: 2021-02-24T01:43:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sFW2-ve45bs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/trump-pence-congress/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/trump-pence-congress/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 193
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210105143554-01-trump-pence-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Analysis: Republicans acquitted Trump again, but this time is different"
-    excerpt: "Former President Donald Trump's second acquittal by the US Senate proved the enduring power he holds over the Republican Party, with the results Saturday setting the dangerous precedent that even an autocratic leader who violates his oath of office can escape punishment if he bullies enough senators"
-    publishedDateTime: 2021-02-15T19:11:07Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kmdl4bQX1R4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/14/politics/donald-trump-impeachment-republican-vote/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/14/politics/donald-trump-impeachment-republican-vote/index.html"
+  - title: "Fact check: Trump delivers lie-filled CPAC speech"
+    excerpt: "Former President Donald Trump returned to the public stage on Sunday with a familiar kind of Trump speech -- a speech filled with debunked lies.\n    \n"
+    publishedDateTime: 2021-03-01T03:15:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6OjOpUeNqRo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/donald-trump-cpac-speech-fact-check/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211173412-104-trump-impeachment-centered-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228165529-02-donald-trump-cpac-0228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Supreme Court takes up Trump regulation on abortion counseling"
-    excerpt: "The Supreme Court on Monday agreed to hear a challenge to a Trump administration rule barring federally funded health care providers in the Title X family planning program from referring patients for abortions.\n    \n"
-    publishedDateTime: 2021-02-22T15:46:12Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BFsabscF6Yk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-abortion-counseling/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-abortion-counseling/index.html"
+  - title: "Trump is facing probes from 5 independently elected investigators"
+    excerpt: "Five independently elected investigators have turned their attention to former President Donald Trump, a sign his legal woes are mounting as he no longer enjoys the protections once afforded to him by the Oval Office.\n    \n"
+    publishedDateTime: 2021-03-02T02:10:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kUUmj19NqjY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/trump-scrutiny-five-investigators/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/trump-scrutiny-five-investigators/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200629102812-01-scotus-abortion-protest-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301201624-donald-trump-210228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Why the very conservative bloc is so important to Trump"
-    excerpt: "Poll of the week: A new Granite State Poll from the University of New Hampshire finds that 58% of New Hampshire Republicans probably or definitely want former President Donald Trump to run for president in 2024.\n    \n"
-    publishedDateTime: 2021-02-28T11:01:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xAi9cTjKiWo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/conservatives-trump-analysis/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/conservatives-trump-analysis/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211174740-106-trump-impeachment-centered-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "6 takeaways from the Trump-dominated CPAC"
-    excerpt: "Former President Donald Trump turned the Conservative Political Action Conference into his first post-presidential rally Sunday evening, pledging in a speech riddled with falsehoods to purge his enemies from the Republican Party and hinting repeatedly at another run for the White House in 2024.\n    \n"
-    publishedDateTime: 2021-03-01T02:03:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z82kXiicduk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/cpac-2021-takeaways-sunday/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/cpac-2021-takeaways-sunday/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228203004-restricted-04-donald-trump-cpac-0228-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump to speak at CPAC in first public appearance since leaving White House"
-    excerpt: "Former President Donald Trump will speak at the Conservative Political Action Conference in Orlando, Florida, next Sunday, according to a source familiar with the matter.\n    \n"
-    publishedDateTime: 2021-02-20T22:11:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/of9FKdF296c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/20/politics/trump-cpac-republican-party/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/20/politics/trump-cpac-republican-party/index.html"
+  - title: "Big Lie? Big Whoop: Many Republicans on Capitol Hill see little reason to bat down Trump's election lies"
+    excerpt: "The deadly January 6 insurrection in the Capitol may have caused many voters to recoil at former President Donald Trump's election lies.\n    \n"
+    publishedDateTime: 2021-02-25T22:00:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RK0vexvHxPE/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 173
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211185115-donald-trump-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212193827-trump-rally-republicano-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Fact check: Trump lawyer closes impeachment defense with a barrage of dishonesty "
+    excerpt: "Former President Donald Trump's impeachment defense was dishonest from start to finish.\n    \n"
+    publishedDateTime: 2021-02-14T00:47:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213210145-michael-van-der-veen-abogado-trump-sot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -161,165 +129,53 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Trump admin a cautionary tale of nepotism for future generations"
-    excerpt: "Rachel Maddow highlights Donald Trump's tendency to hire people he knows or is related to for White House jobs, and the conflict that creates, particularly in the case of Ivanka Trump and Jared Kushner who continue in senior White House roles despite being unable to to earn a full security clearance."
-    publishedDateTime: 2021-02-15T09:32:00Z
-    webUrl: "https://www.nbcnews.com/video/trump-admin-a-cautionary-tale-of-nepotism-for-future-generations-1171297859780"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo44286533637"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo44286533637"
+  - title: "Fact-checking Trump's CPAC speech on election lies"
+    excerpt: "NBC News’ Jane Timm fact-checks former President Donald Trump’s CPAC speech, where he attempted to relitigate the 2020 election results and take credit for the Pfizer vaccine."
+    publishedDateTime: 2021-03-02T01:16:00Z
+    webUrl: "https://www.nbcnews.com/now/video/fact-checking-trump-s-cpac-speech-on-election-lies-101779525598"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101779525598"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101779525598"
     type: article
     provider:
       name: NBC News
       domain: nbcnews.com
-    quality: 135
+    quality: 150
     images:
-      - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201802/n_maddow_a2nepotism_180226_1920x1080.jpg"
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/1614618137555_ott_now_am_trump_timm_210301_1920x1080.jpg"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Trump Tower’s Neighbors Are Relieved as Barricades Come Down"
-    excerpt: "Donald J. Trump’s presidency meant snarled traffic, blocked sidewalks and frequent protests outside his Manhattan home."
-    publishedDateTime: 2021-02-16T10:00:00Z
-    webUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/16/nyregion/trump-tower-traffic.amp.html"
+  - title: "Big Lie? Big Whoop: Many Republicans on Capitol Hill see little reason to bat down Trump's election lies"
+    excerpt: "The deadly January 6 insurrection in the Capitol may have caused many voters to recoil at former President Donald Trump's election lies."
+    publishedDateTime: 2021-02-25T22:00:00Z
+    webUrl: "https://www.cnn.com/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/republican-reaction-donald-trump-party-future-big-lie/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
+      name: CNN
+      domain: cnn.com
+    quality: 133
     images:
-      - url: "https://static01.nyt.com/images/2021/02/15/nyregion/00nytrump-tower1/00nytrump-tower1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210212193827-trump-rally-republicano-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
-  - title: "Cruz and Cuomo Face Scandal. Trump Can’t Save Them."
-    excerpt: "Without Donald Trump dominating the political conversation, politicians’ audacious behavior isn’t so quickly subsumed."
-    publishedDateTime: 2021-02-20T10:04:00Z
-    webUrl: "https://www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/20/us/politics/cruz-cuomo-scandal.amp.html"
+  - title: "Thousands of Migrant Children Detained in Resumption of Trump-Era Policies"
+    excerpt: "President Biden vowed to create a humane approach to immigration. But thousands of children who crossed the border alone are being confined in government shelters."
+    publishedDateTime: 2021-02-26T23:30:00Z
+    webUrl: "https://www.nytimes.com/2021/02/26/us/migrant-children-border-detained.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/26/us/migrant-children-border-detained.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/migrant-children-border-detained.amp.html"
     type: article
     provider:
       name: New York Times
       domain: nytimes.com
-    quality: 135
+    quality: 133
     images:
-      - url: "https://static01.nyt.com/images/2021/02/21/us/politics/20onpolitics/20onpolitics-facebookJumbo.jpg"
+      - url: "https://static01.nyt.com/images/2021/02/26/world/26BORDER-KIDS/26BORDER-KIDS-facebookJumbo.jpg"
         width: 1050
         height: 549
-        isCached: true
-  - title: "Donor to Trump Inauguration Sentenced to 12 Years in Federal Inquiry"
-    excerpt: "Imaad Zuberi, who donated heavily to Democrats before former President Donald J. Trump’s election, had pleaded guilty to charges related to a $900,000 donation to Mr. Trump’s inaugural committee."
-    publishedDateTime: 2021-02-19T18:50:00Z
-    webUrl: "https://www.nytimes.com/2021/02/19/us/politics/imaad-zuberi-sentence.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/19/us/politics/imaad-zuberi-sentence.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/19/us/politics/imaad-zuberi-sentence.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/19/world/19new-washingtong-briefing-Imaad-Zuberi-1/19new-washingtong-briefing-Imaad-Zuberi-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Here’s What’s Next in the Trump Taxes Investigation"
-    excerpt: "A Supreme Court ruling has paved the way for prosecutors to begin combing through Mr. Trump’s financial records."
-    publishedDateTime: 2021-02-22T19:12:00Z
-    webUrl: "https://www.nytimes.com/2021/02/22/nyregion/trump-taxes-cyrus-vance.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/22/nyregion/trump-taxes-cyrus-vance.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/22/nyregion/trump-taxes-cyrus-vance.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/01/25/nyregion/00NYVANCE/merlin_182604267_e4d70416-6012-4559-80c3-9022be5518cd-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "Gucci is Staying in Trump Tower"
-    excerpt: "Tiffany and other luxury companies have stepped away from deals with the former president’s organization, but not Gucci."
-    publishedDateTime: 2021-02-23T22:29:00Z
-    webUrl: "https://www.nytimes.com/2021/02/23/fashion/trump-gucci.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/23/fashion/trump-gucci.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/23/fashion/trump-gucci.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/25/fashion/24GUCCITRUMP-trump-tower/24GUCCITRUMP-trump-tower-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "At CPAC, a Golden Image, a Magic Wand and Reverence for Trump"
-    excerpt: "The faithful who flocked to the annual conference of conservatives made it clear that their allegiance was to the former president far more than to the Republican Party."
-    publishedDateTime: 2021-02-28T10:04:00Z
-    webUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-trump-statue.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/28/multimedia/28cpac-scene-1-sub/merlin_184356534_81f6f205-4732-40a1-8930-db1dc17dcdaf-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Vaccine, Stimulus, Trump: Your Weekend Briefing"
-    excerpt: "Here are the week’s top stories, and a look ahead. 1. A third Covid-19 vaccine has been approved. The Food and Drug Administration authorized Johnson & Johnson’s one-shot vaccine for emergency use on Saturday,"
-    publishedDateTime: 2021-02-28T11:20:00Z
-    webUrl: "https://www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/briefing/vaccine-stimulus-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/28/lens/28weekend-briefing-promo/28weekend-briefing-vaccine-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "CPAC Starts Tomorrow and Trump Is Still Center of the Republican Universe"
-    excerpt: "Things have been quiet on the Republican front since President Donald Trump left the White House five weeks ago. With Democrats pushing to deliver a widely popular economic-relief package and accelerate the circulation of coronavirus vaccines,"
-    publishedDateTime: 2021-02-26T00:02:00Z
-    webUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-republicans-trump.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/25/us/politics/cpac-republicans-trump.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/25/us/politics/cpac-republicans-trump.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 134
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/25/multimedia/25onpolitics-03/25onpolitics-03-facebookJumbo.jpg"
-        width: 1050
-        height: 549
-        isCached: true
-  - title: "The Relationship Between McConnell and Trump Was Good for Both — Until It Wasn’t"
-    excerpt: "The unlikely alliance delivered results they both wanted but fell apart after the election once their political interests diverged."
-    publishedDateTime: 2021-02-19T23:06:00Z
-    webUrl: "https://www.nytimes.com/2021/02/19/us/trump-mcconnell-republicans.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/19/us/trump-mcconnell-republicans.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/19/us/trump-mcconnell-republicans.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 130
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/19/us/politics/19dc-hulse/19dc-hulse-facebookJumbo.jpg"
-        width: 1050
-        height: 550
         isCached: true
   - title: "Out with Trump, in with the Senate parliamentarian"
     excerpt: "Can we take a minute this morning to point out that Washington is totally preoccupied with a wonkish policy matter involving Senate procedure and the latest chatter surrounding a Cabinet nomination? What a change after four years of numbing scandals and Twitter name-calling (though some of those tweets are still making news,"
@@ -346,6 +202,34 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/27/65/d91c54f44a0ca44ab6d017e832d7/210228-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "The GOP is the party of half-Trump"
+    excerpt: "Weeks ago, he pinpointed the GOP loss of the Georgia Senate seats on Mitch McConnell’s refusal to consider the measure. Now Biden is pushing a massive stimulus bill of roughly the same size and with similar direct payments."
+    publishedDateTime: 2021-03-03T01:07:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-nightly/2021/03/02/the-gop-is-the-party-of-half-trump-491958"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
+  - title: "NRCC chief to Trump: Please don’t"
+    excerpt: "Kyle Cheney and Andrew Desiderio EMMER MAKES 2022 PRIMARY PLEA TO TRUMP — At a POLITICO Live event this morning, NRCC Chair TOM EMMER (R-Minn.) told us that former President DONALD TRUMP getting involved in House primaries is “not gonna be helpful” to their effort to retake the House."
+    publishedDateTime: 2021-03-03T18:40:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/03/03/nrcc-chief-to-trump-please-dont-491977"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/8c/5e/adf89d0840808fade585cfda7fb3/gettyimages-643949018.jpg"
         width: 1160
         height: 773
         isCached: true

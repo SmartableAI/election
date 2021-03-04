@@ -107,6 +107,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-02-inside-the-progressives-push-to-use-kamala-harris-presidential-ambitions-for-policy-leverage-in-the-biden-administration.md",
+      "title": "Inside the progressives' push to use Kamala Harris' presidential ambitions for policy leverage in the Biden administration",
+      "excerpt": "Progressives are pretty sure Kamala Harris will run for president again. Here's how they plan to use it to their advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/kamala-harris-biden-2024-minimum-wage-white-house-progressives-2021-3",
+      "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-2024-minimum-wage-white-house-progressives-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/603d7f1d87d37600190d08cd?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-01T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-steve-hilton-kamala-harris-silent-on-cuomo-allegations-after-grandstanding-at-kavanaugh-hearings.md",
       "title": "Steve Hilton: Kamala Harris silent on Cuomo allegations after ‘grandstanding’ at Kavanaugh hearings",
       "excerpt": "“The focus should be on Vice President Kamala Harris” amid the sexual harassment allegations against N.Y. Gov. Andrew Cuomo, Fox News “The Revolution” host Steve Hilton said on Friday.",
@@ -172,7 +224,7 @@
       "originalUrl": "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference",
       "featuredContent": null,
       "highlight": null,
-      "heat": 465,
+      "heat": 485,
       "tags": null,
       "images": [
         {
@@ -203,6 +255,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-kamala-harris-wont-weigh-in-on-minimum-wage-ruling-from-senate-parliamentarian-deese.md",
+      "title": "Kamala Harris won't weigh in on minimum wage ruling from Senate parliamentarian: Deese",
+      "excerpt": "Brian Deese, a top economic adviser to President Biden, said Friday that Vice President Kamala Harris will not move to overturn a ruling from the Senate parliamentarian that increasing the federal minimum wage to $15 per hour is out of bounds for Democrats’ $1.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/02/25/Harris_Vaccine_23019.jpg-d889b_c0-222-5337-3335_s1200x700.jpg?fc9c632cd81d04c067c203b8e851477caee02e4f",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/",
+      "publishedDateTime": "2021-02-26T09:22:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -269,49 +364,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-republicans-tee-up-attacks-on-bidenand-kamala-harris-raleigh-news-observer.md",
-      "title": "Republicans tee up attacks on Biden—and Kamala Harris | Raleigh News & Observer",
-      "excerpt": "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsobserver.com/news/politics-government/national-politics/article249514215.html",
-      "originalUrl": "https://www.newsobserver.com/news/politics-government/national-politics/article249514215.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.newsobserver.com/news/politics-government/national-politics/article249514215.html",
-      "cdnAmpWebUrl": "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article249514215.html",
-      "publishedDateTime": "2021-02-25T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Raleigh News & Observer",
-        "domain": "newsobserver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Kamala Harris"
       ]
     },
@@ -430,21 +482,21 @@
       ]
     },
     {
-      "path": "_news/2021-02-23-take-a-look-inside-vice-president-kamala-harriss-san-francisco-loft-it-just-sold-for-a-profit.md",
-      "title": "Take a look inside Vice President Kamala Harris’s San Francisco loft — it just sold for a profit",
-      "excerpt": "The nation's newest vice president is unloading her San Francisco condo — and she's getting a very good price.",
+      "path": "_news/2021-02-23-photos-kamala-harris-selling-san-francisco-loft-for-799000.md",
+      "title": "Photos: Kamala Harris selling San Francisco loft for $799,000",
+      "excerpt": "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/take-a-look-inside-vice-president-kamala-harris-san-francisco-condo-that-just-sold-for-a-profit-11614024358?mod=hp_minor_pos19",
-      "originalUrl": "https://www.marketwatch.com/story/take-a-look-inside-vice-president-kamala-harris-san-francisco-condo-that-just-sold-for-a-profit-11614024358?mod=hp_minor_pos19",
+      "webUrl": "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/",
+      "originalUrl": "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 75,
       "tags": null,
       "images": [
         {
-          "url": "https://images.mktw.net/im-302496/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://www.mercurynews.com/wp-content/uploads/2021/02/kam3.jpg?w=700&h=434",
+          "width": 700,
+          "height": 434,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -452,23 +504,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-23T07:37:00-08:00",
+      "ampWebUrl": "https://www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/",
+      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/",
+      "publishedDateTime": "2021-02-22T09:06:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Mercury News",
+        "domain": "mercurynews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -490,7 +533,7 @@
       "originalUrl": "https://www.kansascity.com/news/politics-government/article249293135.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 112,
       "tags": null,
       "images": [
         {
@@ -1578,58 +1621,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-24-immense-sense-of-pride-caribbean-diaspora-celebrates-kamala-harris.md",
-      "title": "'Immense sense of pride': Caribbean diaspora celebrates Kamala Harris",
-      "excerpt": "Some hopeful vice-president could forward the fight for voting rights of the more than 4 million American citizens living in US territories who can’t vote",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7144aee2742df043f4993bea3400e2a699bd1264/0_0_5050_3367/master/5050.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c34e25ce6c4c479e599e24fa93360304",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president",
-      "publishedDateTime": "2021-01-24T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

@@ -79,22 +79,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump is facing probes from 5 independently elected investigators"
-    excerpt: "Five independently elected investigators have turned their attention to former President Donald Trump, a sign his legal woes are mounting as he no longer enjoys the protections once afforded to him by the Oval Office.\n    \n"
-    publishedDateTime: 2021-03-02T02:10:26Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kUUmj19NqjY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/trump-scrutiny-five-investigators/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/trump-scrutiny-five-investigators/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301201624-donald-trump-210228-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Supreme Court agrees to hear challenge to Trump administration's public charge rule"
     excerpt: "The Supreme Court agreed on Monday to take up a case brought by various groups and state and local officials challenging a Trump-era rule that makes it more difficult for immigrants to obtain legal status if they use public benefits, such as Medicaid, food stamps and housing vouchers.\n    \n"
     publishedDateTime: 2021-02-22T15:53:50Z
@@ -222,22 +206,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-trump/merlin_184388943_eabe5c31-e90b-4553-b3cc-a3dd9ee86d9f-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Thousands of Migrant Children Detained in Resumption of Trump-Era Policies"
-    excerpt: "President Biden vowed to create a humane approach to immigration. But thousands of children who crossed the border alone are being confined in government shelters."
-    publishedDateTime: 2021-02-26T23:30:00Z
-    webUrl: "https://www.nytimes.com/2021/02/26/us/migrant-children-border-detained.html"
-    ampWebUrl: "https://www.nytimes.com/2021/02/26/us/migrant-children-border-detained.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/migrant-children-border-detained.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 133
-    images:
-      - url: "https://static01.nyt.com/images/2021/02/26/world/26BORDER-KIDS/26BORDER-KIDS-facebookJumbo.jpg"
-        width: 1050
-        height: 549
         isCached: true
   - title: "Prosecutors just got millions of pages of Trump documents. His taxes are just the beginning."
     excerpt: "The records are likely to offer New York investigators a revealing look into the former president’s business dealings, experts say."

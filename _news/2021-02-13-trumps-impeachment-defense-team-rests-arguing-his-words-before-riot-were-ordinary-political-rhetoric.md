@@ -144,22 +144,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Fact check: Trump lawyer closes impeachment defense with a barrage of dishonesty "
-    excerpt: "Former President Donald Trump's impeachment defense was dishonest from start to finish.\n    \n"
-    publishedDateTime: 2021-02-14T00:47:54Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Bv7gQMkesM/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/fact-check-trump-impeachment-van-der-veen-closing-argument/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 170
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213210145-michael-van-der-veen-abogado-trump-sot-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Georgia secretary of state's office launches investigation into Trump's phone call "
     excerpt: "The office of Georgia Secretary of State Brad Raffensperger confirmed to CNN on Monday that it has started an investigation into former President Donald Trump's attempts to overturn the state's election results, including a phone call the former President made to Raffensperger.\n    \n"
     publishedDateTime: 2021-02-08T23:57:30Z
