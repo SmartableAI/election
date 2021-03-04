@@ -237,6 +237,20 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Grand jury in Georgia expected to convene in probe of Trump's efforts to overturn election"
+    excerpt: "A grand jury is expected to be seated this week in Fulton County, Georgia, to look into efforts by Donald Trump to overturn the 2020 election."
+    publishedDateTime: 2021-03-04T17:41:00Z
+    webUrl: "https://abcnews.go.com/US/grand-jury-georgia-expected-convene-probe-trumps-efforts/story?id=76251330"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-trump-file-rt-jef-210207_1612732019752_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Mike Pence comes out of hiding to nod towards Trump's election lies"
     excerpt: "Former Vice President Mike Pence broke his silence Wednesday with an op-ed in The Daily Signal, criticizing congressional Democrats for their voter reform push and giving new life to former President Donald Trump's baseless claims that the 2020 presidential election was stolen."
     publishedDateTime: 2021-03-03T06:32:00Z

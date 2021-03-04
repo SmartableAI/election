@@ -102,6 +102,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Another Trump on the Ballot? Lara Trump Eyes Senate Seat"
+    excerpt: "The race to replace one of the seven Republican senators who voted to convict former President Donald Trump for inciting the Capitol riot is shaping up to be a key test of Trump’s staying power amid a fierce inter-party debate over how much to embrace him going forward."
+    publishedDateTime: 2021-03-04T17:39:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-04/another-trump-on-the-ballot-lara-trump-eyes-senate-seat"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "i3Emf67L0s0FXBc6akggOXfmRg805u1ao+9FO8+m7Lt55dPbsjNvQ7D168k7Mw5ktQw5YK2/ZuV1xGFacAo31wSkO4zStOBGKmq1b+/6zXwQAKHy4OV/ccx1nRWwPtqwpi+fJ2P8jGElK8EEVBXixu9rsZ/ujChVzFEEO+N45fO8nOqPEXQVcLp/xYj+WvKqyZAXofgrDdTfqIksLMXIVtMiIP2gREBrOnMQPVxrjxpfFPmm3ns6bSJnJI2LkMoZuVeY0kNdULrFaVtkrz9HiJp6vSGH8cOpsLzjBW6dfHF6huk7Qp4pTFIsjW2uEAxwnUS/CXoy2dDRqiPFc+F4jzTR4nV5BhljIg9vuI7+mxoDIH8I5EwqU5f53UnIHC/IsT3wqjNW02X6cHQbmbvSbFZ6uy3RDbP7oCskJrxWk2n4DCxmRpy6QQQg7LGEEBzMbsnHwtIAQ7eHGvLt2BFB9bGBSQ9hGyVn9OYTeQCrLLznEa0+TECKVumjvEPwHnWPdnpKlUQ8tzNYZ+Jc+kZL3A==;BxQmFw5Jdw5q4FvEvQ2sfA=="
 ---

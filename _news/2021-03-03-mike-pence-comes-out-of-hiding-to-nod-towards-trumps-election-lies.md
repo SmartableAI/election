@@ -235,6 +235,20 @@ related:
         width: 1440
         height: 958
         isCached: true
+  - title: "Grand jury in Georgia expected to convene in probe of Trump's efforts to overturn election"
+    excerpt: "A grand jury is expected to be seated this week in Fulton County, Georgia, to look into efforts by Donald Trump to overturn the 2020 election."
+    publishedDateTime: 2021-03-04T17:41:00Z
+    webUrl: "https://abcnews.go.com/US/grand-jury-georgia-expected-convene-probe-trumps-efforts/story?id=76251330"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 110
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-trump-file-rt-jef-210207_1612732019752_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Conservatives have made a gold-colored Trump statue"
     excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"
     publishedDateTime: 2021-02-28T12:46:00Z

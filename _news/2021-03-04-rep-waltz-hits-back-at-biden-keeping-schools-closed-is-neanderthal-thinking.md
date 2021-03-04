@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-neanderthal-thinking-schools-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neanderthal-thinking-schools-closed-masks-waltz.amp"
 type: article
 quality: 171
-heat: 211
+heat: 251
 published: true
 
 provider:
@@ -60,6 +60,38 @@ related:
     quality: 161
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6130b85-52f2-46fc-b88a-dc8fb9055492/5b6acd63-199a-4dfb-bd9d-f105cacbb701/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Gov. Abbott hits back at Biden: Releasing COVID-infected migrants into Texas is 'Neanderthal thinking'"
+    excerpt: "Texas Gov. Greg Abbott on Thursday pushed back against President Biden for saying that red-state governors lifting mask mandates was \"Neanderthal thinking.\""
+    publishedDateTime: 2021-03-04T17:21:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7GZBWZtxwtQ/texas-greg-abbott-biden-neanderthal-mask-mandates-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-greg-abbott-biden-neanderthal-mask-mandates-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-greg-abbott-biden-neanderthal-mask-mandates-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "McEnany rips Biden's 'Neanderthal' remark on 'Fox & Friends,' compares it to Hillary's 'deplorables' insult"
+    excerpt: "Fox News analyst and former White House press secretary Kayleigh McEnany slammed President Biden’s recent swipe at Republican governors, likening them to \"Neanderthals\" after several states, including Texas and Mississippi, reversed their coronavirus mask mandates."
+    publishedDateTime: 2021-03-04T17:09:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cQrIkDUERb4/mcenany-biden-neanderthal-hillary-clinton-deplorables-mask-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/mcenany-biden-neanderthal-hillary-clinton-deplorables-mask-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-biden-neanderthal-hillary-clinton-deplorables-mask-mandate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5250f6cd-a630-422c-b990-58bcb6b3de2c/a5e757cf-f967-45c5-b409-126811f2b472/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

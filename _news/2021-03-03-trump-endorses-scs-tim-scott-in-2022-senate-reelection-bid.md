@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 140
-heat: 240
+heat: 260
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Another Trump on the Ballot? Lara Trump Eyes Senate Seat"
+    excerpt: "The race to replace one of the seven Republican senators who voted to convict former President Donald Trump for inciting the Capitol riot is shaping up to be a key test of Trump’s staying power amid a fierce inter-party debate over how much to embrace him going forward."
+    publishedDateTime: 2021-03-04T17:39:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-04/another-trump-on-the-ballot-lara-trump-eyes-senate-seat"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "G2PfX2yAW3L2tioHBbfpNdragRlGILh12+ejgCwUG0CS9YJ3kc/hcHvmebZT3lkUGeVMPhjU/rFHgbUO4yEjalcwSl2XcNo5JKrLh7mnbUAsILrNIzpQVXRpt6+TsFu+iIZEdZOeqbZT8s5heYipVh2gp2SoDeAFVg5D6MFibksIIHpr5dMfoyi0y1ITRKQUcRbmUYbUxlnSR/pCpFldwTLUktrI8sYOSrIzXIg1zRdl8b4t74uEqpxwTNOKG+XreMknI1p0d3hSvqOF1hXagGgybaj+wyUh/zciHgmLI1G4s3XGsOKLlaPslSXg80H7Karz5iPxySCLs5MeGWoDxDU3sroo/zAGvJtZv/4LLmI=;yMO1obdP9+npT4cq6GbG4w=="
 ---
