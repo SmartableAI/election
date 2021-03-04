@@ -1,22 +1,22 @@
 ---
 category: news
-title: "The Daily 202: Many Republicans don’t want the coronavirus vaccine. Trump could change that."
-excerpt: "Welcome to The Daily 202 newsletter! Today, we look at whether Trump's secret coronavirus vaccination was a missed opportunity. But don’t miss the latest on the rescue package, major nominations, coronavirus vaccines and variants."
-publishedDateTime: 2021-03-02T16:43:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/03/02/daily-202-many-republicans-dont-want-coronavirus-vaccine-trump-could-change-that/"
-webUrl: "https://www.washingtonpost.com/politics/2021/03/02/daily-202-many-republicans-dont-want-coronavirus-vaccine-trump-could-change-that/"
-ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/02/daily-202-many-republicans-dont-want-coronavirus-vaccine-trump-could-change-that/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/02/daily-202-many-republicans-dont-want-coronavirus-vaccine-trump-could-change-that/?outputType=amp"
+title: "Fact check: Altered photo shows religious leaders praying over golden Trump statue"
+excerpt: "A photo showing religious leaders praying over a golden statue of Donald Trump is fake. The original image was altered to insert the statue."
+publishedDateTime: 2021-03-04T00:48:00Z
+originalUrl: "https://www.usatoday.com/story/news/factcheck/2021/03/03/fact-check-photo-evangelicals-praying-over-trump-statue-fake/6903436002/"
+webUrl: "https://www.usatoday.com/story/news/factcheck/2021/03/03/fact-check-photo-evangelicals-praying-over-trump-statue-fake/6903436002/"
+ampWebUrl: "https://amp.usatoday.com/amp/6903436002"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6903436002"
 type: article
-quality: 114
+quality: 119
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3C2WST2UQI6XDC6GLSHWQVVDM.jpg&w=1440"
-    width: 1440
-    height: 958
+  - url: "https://www.gannett-cdn.com/presto/2021/02/26/USAT/f4ba7cdb-aae0-480e-9954-79c279a387db-AP_CPAC_Trump_Statue.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -191,22 +191,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Fact check: Altered photo shows religious leaders praying over golden Trump statue"
-    excerpt: "A photo showing religious leaders praying over a golden statue of Donald Trump is fake. The original image was altered to insert the statue."
-    publishedDateTime: 2021-03-04T00:48:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/03/03/fact-check-photo-evangelicals-praying-over-trump-statue-fake/6903436002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6903436002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6903436002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/26/USAT/f4ba7cdb-aae0-480e-9954-79c279a387db-AP_CPAC_Trump_Statue.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Nine months later, fencing comes down around the church where Trump stood with a Bible"
     excerpt: "The elite, Episcopal congregation found itself at the center of anti-racism protests and wrestled with the way the fence changed it"
     publishedDateTime: 2021-03-01T23:08:00Z
@@ -222,6 +206,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3BJ4KST2ZII6XDC6GLSHWQVVDM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "The Daily 202: Many Republicans don’t want the coronavirus vaccine. Trump could change that."
+    excerpt: "Welcome to The Daily 202 newsletter! Today, we look at whether Trump's secret coronavirus vaccination was a missed opportunity. But don’t miss the latest on the rescue package, major nominations, coronavirus vaccines and variants."
+    publishedDateTime: 2021-03-02T16:43:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/02/daily-202-many-republicans-dont-want-coronavirus-vaccine-trump-could-change-that/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/02/daily-202-many-republicans-dont-want-coronavirus-vaccine-trump-could-change-that/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/02/daily-202-many-republicans-dont-want-coronavirus-vaccine-trump-could-change-that/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 114
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3C2WST2UQI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 958
         isCached: true
   - title: "Conservatives have made a gold-colored Trump statue"
     excerpt: "Rough Cuts Conservatives have made a gold-colored Trump statue. Posted . U.S. conservatives praised Donald Trump at an annual gathering on Friday, even unveiling a golden statue o"
@@ -314,6 +314,6 @@ related:
         height: 682
         isCached: true
 
-secured: "y1Qgt40+zZraknfPdO9PI+NmtdT+sX3nKm+0QTaqYtkrl1EhL2BH2niLtWLC4/CdazZqMLSf8wFnksY5Sry1paGoyOhBOWfpnHGqWaQiDmb9twyYMHmG0yh5oZ7Dw5M/CaBQaV32xbcLjgyvSwNOWgEQ9XSARB84cw3mF6kGs7izBN8qDymeY2db6xcqa5Ph7biAbPZtQ/32uzucPFzmetNGUAjBnKmTlLfeQz+xFFZVRsJI7Zrc1W6YrzSAYZriKf1cnjRB6RiEyT1t36pnB2cLZaDVuEIfBal5j1fhriRFpg0zdzjg2QsuAbNc1+nZMz65oOqPumd9bNr2lvrvtZNJZpOeZaYne/iIoFX7DjMTyzx2U796+FoHQF+HX5bI+Q73Y2uOZ5xZ+/aaVwaZT6O7HUKwOR9qfhGPeiLaRWVuZXmiNXnLVMWg7iwxNZqrMo0NptaBh1I0B+6vcTA6ENdrCp+3uYzEW2Hlt+UmryyHFiGvueQi3S7L+gnZu8tsL1cdPSH6nflO2PRkswMi/Q==;iS0Ewunz5q/MfhFM2MxK3A=="
+secured: "4WDBzqFNBkKvLLc6imUl+NJXuAxF9lXyi2fGDngJvclIfhapKN6e8lab9wbCZV4foovtksLFw1i9FYBU+YIkUmHXlGM3FaVT0dfd9PZfWpZKK+tkmXNRL6Gauhnrb7fPPiKSVMpws6uX+wJxtJQxab9IJqL9WhOZFg3f5JTGk+VEkjBwZWrT+aqqqmDWxfMgEJh1Ji5vp06ppl6+45QMSr3bwcHRhSJTdtn/d3mEx5DgcATcbqMOyo1HnnhfwBlvMwUMDlPPO1udAqvyo7SYhBGpb8dZP7xCgTVadscLjQOOhu6RMRc26mSsHZKVTe1edcUa0VXo7U9WpI8ViI2tYL4BBtKn4pzVBeueEDvstfI=;ubjz//egDZ1i6J38xxiq0Q=="
 ---
 

@@ -268,6 +268,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Roger Stone, at CPAC, says he'd back Trump in 2024 but warns Dems, media will try to 'bury' accomplishments"
+    excerpt: "Political operative Roger Stone told Fox News on Saturday that he would support former President Donald Trump if he decided to run for the White House in 2024 -- but warned that anti-Trump forces would seek to “bury” his accomplishments. "
+    publishedDateTime: 2021-02-27T22:57:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hO2bIaKKQDk/roger-stone-cpac-trump-in-2024-accomplishments"
+    ampWebUrl: "https://www.foxnews.com/politics/roger-stone-cpac-trump-in-2024-accomplishments.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/roger-stone-cpac-trump-in-2024-accomplishments.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3aad1b5c-f865-4a8c-b449-bbe0d5fa0729/41d11d9b-8f05-44ae-934e-82fd8ee44704/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump slams 'establishment' Republicans McConnell, Cheney and others in CPAC speech as some deny GOP civil war"
     excerpt: "Former President Donald Trump attacked a litany of \"establishment\" Republicans in his Sunday keynote address at the Conservative Political Action Conference (CPAC), even as some in the GOP  continue to deny that there is a civil war within the party. "
     publishedDateTime: 2021-03-01T00:27:30Z

@@ -159,6 +159,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "After Thriving Under Trump, ACLU Doubles Down on Progressive Stances"
+    excerpt: "The civil-rights group is trying to stave off a drop in donations, which surged during former President Donald Trump’s term."
+    publishedDateTime: 2021-03-02T14:00:00Z
+    webUrl: "https://www.wsj.com/articles/after-thriving-under-trump-aclu-doubles-down-on-progressive-stances-11614693600"
+    ampWebUrl: "https://www.wsj.com/amp/articles/after-thriving-under-trump-aclu-doubles-down-on-progressive-stances-11614693600"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/after-thriving-under-trump-aclu-doubles-down-on-progressive-stances-11614693600"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-298335/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "DHS Will Seek to Reunify in U.S. Migrant Families Separated Under Trump"
     excerpt: "Homeland Security Secretary Alejandro Mayorkas said the Biden administration would seek legal pathways that could allow deported parents to join their children in the country."
     publishedDateTime: 2021-03-02T00:57:00Z
@@ -220,6 +236,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Cruz-Cuomo.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Donald Trump Finally Makes Me Smile"
+    excerpt: "Donald Trump was never forever. The former president is 74, obese and the subject of serious criminal investigations. Resurfacing after disgracefully"
+    publishedDateTime: 2021-03-02T11:24:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/536490_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "Trump Still Standing, Still Greatest Threat to Swamp"
     excerpt: "Still standing is former President Donald Trump. And he proved this week he aims to get back into the fight and swing away, dangerous as ever."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conference
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1"
 type: article
 quality: 131
-heat: 231
+heat: 211
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WCRZFWTW4QI6XFJXJFQVRTC73E.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "With Biden's backing, Dems revive bill to overhaul policing"
-    excerpt: "Cheered on by President Joe Biden, House Democrats are hustling to pass the most ambitious effort in decades to overhaul policing nationwide, confident they can avoid clashing with moderates in their own party who are wary of reigniting a debate they say hurt them during last fall's election."
-    publishedDateTime: 2021-03-04T01:11:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76237294"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76237294"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76237294"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_01bd8e23f94d41b0bc3d7b18e654b50a_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Senate votes to confirm Biden pick as commerce secretary"
     excerpt: "The Senate voted overwhelmingly Tuesday to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy's recovery during and after the coronavirus pandemic."

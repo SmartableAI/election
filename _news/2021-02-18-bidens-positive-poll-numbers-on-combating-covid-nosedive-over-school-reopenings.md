@@ -79,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Psaki says Biden backs probe of Cuomo harassment allegations, accusers deserve respect"
-    excerpt: "White House press secretary Jen Psaki on Monday said President Biden supports the investigation into the sexual harassment allegations leveled against New York Gov. Andrew Cuomo, maintaining that \"every woman\" who comes forward be treated with \"respect.\""
-    publishedDateTime: 2021-03-01T19:39:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0KO4gLzTomE/biden-cuomo-harassment-allegations-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-harassment-allegations-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-harassment-allegations-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Merrick Garland to be questioned on Cuomo, Hunter Biden and more at AG confirmation hearing"
     excerpt: "Judge Merrick Garland, President Biden's pick to be the next attorney general of the United States, is likely to be grilled by Senate Republicans Monday on hot-button issues, including the Cuomo nursing home scandal, concerns about Hunter Biden and more. "
     publishedDateTime: 2021-02-22T12:29:47Z

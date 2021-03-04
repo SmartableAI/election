@@ -57,22 +57,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "With Biden's backing, Dems revive bill to overhaul policing"
-    excerpt: "Cheered on by President Joe Biden, House Democrats are hustling to pass the most ambitious effort in decades to overhaul policing nationwide, confident they can avoid clashing with moderates in their own party who are wary of reigniting a debate they say hurt them during last fall's election."
-    publishedDateTime: 2021-03-04T01:11:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76237294"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76237294"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76237294"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_01bd8e23f94d41b0bc3d7b18e654b50a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "WH: Biden to find Tanden another administration post"
     excerpt: "White House Press secretary Jen Psaki says there will be no announcement this week on a new budget nominee after Neera Tanden withdrew her nomination Tuesday. Psaki said President Joe Biden is looking for another administration post for Tanden."
     publishedDateTime: 2021-03-03T21:20:00Z

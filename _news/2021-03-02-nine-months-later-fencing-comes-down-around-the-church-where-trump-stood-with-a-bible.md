@@ -191,6 +191,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Fact check: Altered photo shows religious leaders praying over golden Trump statue"
+    excerpt: "A photo showing religious leaders praying over a golden statue of Donald Trump is fake. The original image was altered to insert the statue."
+    publishedDateTime: 2021-03-04T00:48:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/03/03/fact-check-photo-evangelicals-praying-over-trump-statue-fake/6903436002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6903436002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6903436002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/26/USAT/f4ba7cdb-aae0-480e-9954-79c279a387db-AP_CPAC_Trump_Statue.jpg?auto=webp&crop=3999,2250,x0,y203&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Daily 202: Many Republicans don’t want the coronavirus vaccine. Trump could change that."
     excerpt: "Welcome to The Daily 202 newsletter! Today, we look at whether Trump's secret coronavirus vaccination was a missed opportunity. But don’t miss the latest on the rescue package, major nominations, coronavirus vaccines and variants."
     publishedDateTime: 2021-03-02T16:43:00Z

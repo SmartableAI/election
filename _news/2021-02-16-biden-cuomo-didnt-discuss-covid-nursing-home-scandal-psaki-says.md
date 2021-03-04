@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nur
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
 type: article
 quality: 175
-heat: 375
+heat: 355
 published: true
 
 provider:
@@ -76,22 +76,6 @@ related:
     quality: 170
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Psaki says Biden backs probe of Cuomo harassment allegations, accusers deserve respect"
-    excerpt: "White House press secretary Jen Psaki on Monday said President Biden supports the investigation into the sexual harassment allegations leveled against New York Gov. Andrew Cuomo, maintaining that \"every woman\" who comes forward be treated with \"respect.\""
-    publishedDateTime: 2021-03-01T19:39:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0KO4gLzTomE/biden-cuomo-harassment-allegations-investigation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-harassment-allegations-investigation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-harassment-allegations-investigation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
