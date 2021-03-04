@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-dail
 webUrl: "https://www.bloomberg.com/news/newsletters/2021-02-26/citylab-daily-watch-kamala-harris-at-the-citylab-2021-conference"
 type: article
 quality: 105
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/04cdae2/2147483647/strip/true/crop/3401x1786+0+241/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa7%2F075fdbcc4db8910446ec56ee751a%2Fgettyimages-1231375480.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "U.S. Vice President Kamala Harris is Keynote Speaker at NOBLE Annual Executive Symposium, March 8"
+    excerpt: "NOBLE, an organization at the forefront of providing solutions to law enforcement issues and concerns, excitedly announces Vice President Kamala Harris as the keynote speaker for its 2021 William R. Bracey Winter CEO Symposium."
+    publishedDateTime: 2021-03-03T07:02:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/north-america-police-law-enforcement-agencies-government-and-politics-kamala-harris-40ccdb729d7a6c53f95cbf5b270d3774"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 92
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon"
     excerpt: "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according"

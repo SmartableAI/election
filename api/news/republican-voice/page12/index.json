@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-11-right-back-to-where-we-were-last-year-dems-seek-trump-impeachment.md",
+      "title": "Right back to where we were last year: Dems seek Trump impeachment",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/piuxTC5hNWc/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/piuxTC5hNWc/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/PergramNewPic-e1538074445253.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/right-back-to-where-we-were-last-year-dems-want-to-impeach-trump.amp",
+      "publishedDateTime": "2021-01-10T21:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-pelosi-says-lawmakers-moving-forward-with-impeachment-calls-trump-imminent-threat-to-our-democracy.md",
       "title": "Pelosi says lawmakers moving forward with impeachment, calls Trump 'imminent threat' to 'our Democracy'",
       "excerpt": "House Speaker Nancy Pelosi on Sunday said the House will be moving forward with a resolution to impeach Donald Trump, whom she referred to in a letter to her colleagues as an “imminent threat” to both the U.S. Constitution and Democracy.",
@@ -1609,63 +1665,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-biden-quiet-on-25th-amendment-calls-tells-pence-cabinet-congress-to-act-as-they-see-fit.md",
-      "title": "Biden quiet on 25th Amendment calls; tells Pence, Cabinet, Congress to 'act as they see fit'",
-      "excerpt": "President-elect Joe Biden has stayed mum amid calls from Democrats to invoke the 25th Amendment or pursue articles of impeachment to thwart the last two weeks of the Trump presidency. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/I7d3a75mKe8/biden-quiet-25th-amendment-calls-pence-cabinet-congress",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/I7d3a75mKe8/biden-quiet-25th-amendment-calls-pence-cabinet-congress",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 309,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21006772770151.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-quiet-25th-amendment-calls-pence-cabinet-congress.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-quiet-25th-amendment-calls-pence-cabinet-congress.amp",
-      "publishedDateTime": "2021-01-07T17:05:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

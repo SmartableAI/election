@@ -94,7 +94,7 @@ related:
   - title: "Trump Weighs 2024 White House Run Without Mike Pence, Allies Say"
     excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 -- and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket,"
     publishedDateTime: 2021-03-03T18:54:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-03-03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say-kltso7ze"
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say"
     type: article
     provider:
       name: Bloomberg

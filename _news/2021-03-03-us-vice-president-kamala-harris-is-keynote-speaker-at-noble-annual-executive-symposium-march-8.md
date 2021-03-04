@@ -1,31 +1,27 @@
 ---
 category: news
-title: "Kamala Harris Pushes Plan to Strengthen City Infrastructure"
-excerpt: "The Biden administration is preparing a new stimulus proposal for Congress that would follow its coronavirus relief plan."
-publishedDateTime: 2021-03-02T08:15:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-03-01/kamala-harris-on-stimulus-plan-for-cities"
-webUrl: "https://www.bloomberg.com/news/articles/2021-03-01/kamala-harris-on-stimulus-plan-for-cities"
+title: "U.S. Vice President Kamala Harris is Keynote Speaker at NOBLE Annual Executive Symposium, March 8"
+excerpt: "NOBLE, an organization at the forefront of providing solutions to law enforcement issues and concerns, excitedly announces Vice President Kamala Harris as the keynote speaker for its 2021 William R. Bracey Winter CEO Symposium."
+publishedDateTime: 2021-03-03T07:02:00Z
+originalUrl: "https://apnews.com/press-release/globenewswire-mobile/north-america-police-law-enforcement-agencies-government-and-politics-kamala-harris-40ccdb729d7a6c53f95cbf5b270d3774"
+webUrl: "https://apnews.com/press-release/globenewswire-mobile/north-america-police-law-enforcement-agencies-government-and-politics-kamala-harris-40ccdb729d7a6c53f95cbf5b270d3774"
 type: article
-quality: 105
+quality: 92
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEdUCPOZx.G0/v1/1200x675.jpg"
-    width: 1200
-    height: 675
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
     isCached: true
 
 related:
@@ -85,6 +81,20 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Kamala Harris Pushes Plan to Strengthen City Infrastructure"
+    excerpt: "The Biden administration is preparing a new stimulus proposal for Congress that would follow its coronavirus relief plan."
+    publishedDateTime: 2021-03-02T08:15:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-01/kamala-harris-on-stimulus-plan-for-cities"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iEdUCPOZx.G0/v1/1200x675.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Essential Politics: Kamala Harris enters a supermarket — and a security bubble"
     excerpt: "A press event at a grocery store underscores the new reality of Vice President Kamala Harris' protective bubble."
     publishedDateTime: 2021-03-03T14:31:00Z
@@ -98,20 +108,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/04cdae2/2147483647/strip/true/crop/3401x1786+0+241/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa7%2F075fdbcc4db8910446ec56ee751a%2Fgettyimages-1231375480.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "U.S. Vice President Kamala Harris is Keynote Speaker at NOBLE Annual Executive Symposium, March 8"
-    excerpt: "NOBLE, an organization at the forefront of providing solutions to law enforcement issues and concerns, excitedly announces Vice President Kamala Harris as the keynote speaker for its 2021 William R. Bracey Winter CEO Symposium."
-    publishedDateTime: 2021-03-03T07:02:00Z
-    webUrl: "https://apnews.com/press-release/globenewswire-mobile/north-america-police-law-enforcement-agencies-government-and-politics-kamala-harris-40ccdb729d7a6c53f95cbf5b270d3774"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 92
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon"
     excerpt: "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according"
@@ -311,6 +307,6 @@ related:
       domain: newstribune.com
     quality: 26
 
-secured: "z9D52lER6t6sE6axTBiLr2pneXu4aVfj9/G4WgVWajMjItdm5mmKQVrQuMlFwSTWoc2OuWZM6//F77eiqmUDxGhVRApkAbUJhFoBqvaA4PAxUilEn0mukbaP9D+acgZ3UEyXGx+gj7qNEQG5pf8HLkSYO2l5KRIpCVVCQ/KyyyIm2fOIOOKxG6SiuPsWvP3XdMwjpQEt7FD05DRhNiMPDchVIVCNtAmbbWoXSK4H4UseLdS/QCSxbvSKIs/o68+laCaGmoQ96TyPTLJeFMVn4nB12/voc0KG/DWuPQHl5xcQ393MvMWrtGoua8Xbe2JrLNzGTsSWWONM6YHOvNPvCXmZnWAGJcNY2+/PJS7Ffnd6wIVPGydOfG2/bFY6FaM/wMY5f7T37M79yUaE8RUIKFgtAARZ3Wuc0PgJg+arZxjafyQhZP47OUr9FLoe53h9kfL9hf0o+q0pjvaFcCLQCEsFYQ8U+yxiX6wNrjgOxaLaagEN6qDpmwYIzLoveaCr68nQ2at6UEkZWESS+J0CXg==;5Qm24G3gsrbDqcNfd6VOxQ=="
+secured: "G84PByPRFxIRYpOA9eWsN174DQdHvxDhQ2Vh4Xv1CReokP6T+IY5UUOSEfxNlgKeWVy6RYi1mbM9phgr/WrVFoovLvdEq9C5Ga124bmPRDcWM+ek7+M0Yk/gKqx9Bw9TvUJLVmYypT4xZDBjGEsyWjU4yvreeNjB4hQ0TG05dp6uXaIt277VQA6ZwB2HPLLPdMpo2GQtDy5VDz9mWimGDscWMw9h2OIxxLPoqR3KPxA1aNyTJ2FL5v1tgEOoC7CTzDV3WHGYwWzhsBOel3mdSt6Boac8HKBCf4izdmnDnr7nOFqvxfKDBmCu3bLJCqtHwDvVeBIlqSiJz8FNGFlgBJMUHq/MXfPafmC1BDr3m30=;jF3vRe4XCqQiXDGcWN9Rnw=="
 ---
 
