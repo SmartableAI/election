@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Jen Psaki defends Biden 'Neanderthal' reopening quip targeting Texas and Mississippi"
+    excerpt: "White House press secretary Jen Psaki said President Biden’s “neanderthal thinking” quip about states removing their mask mandates was an expression of his “frustration and exasperation.” "
+    publishedDateTime: 2021-03-04T19:27:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5-q5Q7GqrE/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden won't deliver speech to Congress until after vote on coronavirus bill, Psaki says"
     excerpt: "White House press secretary Jen Psaki said President Biden will wait to address a joint session of Congress until after Congress decides on the American Rescue Plan, his coronavirus relief package."
     publishedDateTime: 2021-03-03T20:00:43Z

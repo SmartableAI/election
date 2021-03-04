@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's pick for top Pentagon policy job apologizes for past tweets at confirmation hearing"
+    excerpt: "President Joe Biden's nominee to become the top policy official at the Pentagon, Colin Kahl, apologized to Republican senators for using \"sometimes disrespectful\" language in tweets criticizing several Trump administration defense policy decisions after he was grilled in his confirmation hearing on Thursday.\n"
+    publishedDateTime: 2021-03-04T20:23:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LC9AzDfSlrg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/defense-policy-nom-tweets/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/defense-policy-nom-tweets/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201230112442-colin-kahl-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration sanctions senior Russian officials over Navalny poisoning and imprisonment"
     excerpt: "The Biden administration has slapped sanctions on seven Russian officials in response to the poisoning and imprisonment of opposition leader Alexey Navalny.\n    \n"
     publishedDateTime: 2021-03-02T14:18:39Z

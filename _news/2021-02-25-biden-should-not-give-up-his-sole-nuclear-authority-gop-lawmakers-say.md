@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-nuclear-authority
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-nuclear-authority.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63a7afd9-a51a-4f00-91e3-c8786f9cf099/9d76ec8a-b441-45c7-94ee-88ec24e0820e/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Potential 2024 GOP hopefuls top list of Senate Republicans opposing Biden nominees"
+    excerpt: "Four Republican senators most likely to vote against President Biden's nominees all may harbor national ambitions and are considered potential 2024 presidential contenders."
+    publishedDateTime: 2021-03-04T19:37:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IcFK4N2ebnA/potential-2024-gop-hopefuls-senate-republicans-opposing-biden-nominees"
+    ampWebUrl: "https://www.foxnews.com/politics/potential-2024-gop-hopefuls-senate-republicans-opposing-biden-nominees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/potential-2024-gop-hopefuls-senate-republicans-opposing-biden-nominees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "House Homeland Republicans urge Biden to reconsider lifting sanctions on Iran, warn of a 'historic mistake'"
     excerpt: "Republicans on the House Homeland Security Committee this week urged President Biden to reconsider lifting sanctions on Iran."

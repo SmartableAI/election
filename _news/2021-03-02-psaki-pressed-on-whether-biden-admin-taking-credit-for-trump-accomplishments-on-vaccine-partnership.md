@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johns
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
 type: article
 quality: 176
-heat: 456
+heat: 476
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Jen Psaki defends Biden 'Neanderthal' reopening quip targeting Texas and Mississippi"
+    excerpt: "White House press secretary Jen Psaki said President Biden’s “neanderthal thinking” quip about states removing their mask mandates was an expression of his “frustration and exasperation.” "
+    publishedDateTime: 2021-03-04T19:27:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5-q5Q7GqrE/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Psaki says Biden backs probe of Cuomo harassment allegations, accusers deserve respect"
     excerpt: "White House press secretary Jen Psaki on Monday said President Biden supports the investigation into the sexual harassment allegations leveled against New York Gov. Andrew Cuomo, maintaining that \"every woman\" who comes forward be treated with \"respect.\""

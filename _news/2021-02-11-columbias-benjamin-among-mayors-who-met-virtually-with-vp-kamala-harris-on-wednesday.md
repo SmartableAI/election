@@ -50,6 +50,31 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 85
+  - title: "Remembering Kamala Harris’ visit to TSU"
+    excerpt: "Kamala Harris’ campaign stump speech mesmerized Houston’s Harris supporters. What the audience didn’t know at the time was that this would become a historic moment in Harris County history; they were in the presence of the future first female vice president of the United States."
+    publishedDateTime: 2021-02-23T12:00:00Z
+    webUrl: "https://www.click2houston.com/features/2021/02/23/remembering-kamala-harris-visit-to-tsu/"
+    ampWebUrl: "https://www.click2houston.com/features/2021/02/23/remembering-kamala-harris-visit-to-tsu/?outputType=amp"
+    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/features/2021/02/23/remembering-kamala-harris-visit-to-tsu/?outputType=amp"
+    type: article
+    provider:
+      name: Click2Houston
+      domain: click2houston.com
+    quality: 75
+    images:
+      - url: "https://www.click2houston.com/resizer/yCkAbbLiihh8FDnsVE37-D9KGo0=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/VS7THMGUPNAXXHA3MQSGTYOFZQ.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Where slaves once toiled, Vice President Kamala Harris will soon call home"
+    excerpt: "The vice president’s residence, soon to be home to Kamala Harris, stands on land once owned by D.C.’s second-largest slave owner."
+    publishedDateTime: 2021-02-23T13:33:00Z
+    webUrl: "https://www.rollcall.com/2021/02/23/where-slaves-once-toiled-vice-president-kamala-harris-will-soon-call-home/"
+    type: article
+    provider:
+      name: Roll Call
+      domain: rollcall.com
+    quality: 33
 
 secured: "H/J1KnyAFZQMFJY++65bDcReTVrLNcZ07B78btRBR2QAgWhxB9bEEIpKWD+GiVICElIYOHpnEENR6t9oaz4wb7NOQriwtiuX5oSbDDfwQmkWrKgY7G3XRW+GQ1roxDSxCSOLYO3LeFZF1epmsSTAUVtw9rh5v7wlRaAnhIZe6gjEti0lf656dmjTxMzK+hRNfwihWhfHTPspNgVH5bbsvCjUjqQiA8T2RVqVkApExVxS0IRM6HKbscYZ1hehhQTuVUzebBvSSqCgZeMRTPWb9NnAts8o7BxARj/4rL+A5djAS99eN5/dIDmyVN4keKqZDL/UKKB5iFcA3ig/FGP8QsNwFZ7dOfnNZLyFHgijB4wd5YJUMvy8FzhiNp0eXYz9fZ+517FPdUI2vPQu62+Iyx7M3nOhSH5SEw5cVoPbSUm2NraqtliG62PiRS9jRLca8VdllNoD/kQwB7Avs3m/tMq7bvi7zPLXnCWk5/m7JhsN3qhMQze7ZibINQ+xI2D2QKm94dJV9Hl379LKngNXpQ==;HtV58TQNazQWnxS4acDtLg=="
 ---

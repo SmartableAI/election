@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/georgia-gov-kemp-says-he-would-abso
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp"
 type: article
 quality: 159
-heat: 179
+heat: 199
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump blames McConnell, Gov. Kemp for losing GOP Senate seats in Georgia"
+    excerpt: "Former President Donald Trump lashed out at Georgia Gov. Brian Kemp and Senate Minority Leader Mitch McConnell, blaming them Thursday for the loss of two Republican Senate seats to Democrats."
+    publishedDateTime: 2021-03-04T18:59:00Z
+    webUrl: "https://nypost.com/2021/03/04/trump-blames-mcconnell-gov-kemp-for-losing-gop-senate-seats/"
+    ampWebUrl: "https://nypost.com/2021/03/04/trump-blames-mcconnell-gov-kemp-for-losing-gop-senate-seats/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/trump-blames-mcconnell-gov-kemp-for-losing-gop-senate-seats/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/donald-trump-mitch-mcconnell-getty-ap-001.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Mitt Romney says Trump would win 2024 GOP nomination if he ran for president again"
     excerpt: "Senator Mitt Romney said that President Donald Trump would win the GOP nomination “in a landslide” if he decided to make a run for The White House again in 2024. Romney (R –"
     publishedDateTime: 2021-02-24T09:16:00Z

@@ -124,6 +124,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris breaks 50-50 tie to begin Senate debate on $1.9T stimulus"
+    excerpt: "Vice President Kamala Harris on Thursday broke a 50-50 tie to begin debate on President Biden’s $1.9 trillion COVID-19 relief bill. Debate on the bill, which would grant $1,400 stimulus checks ..."
+    publishedDateTime: 2021-03-04T20:42:00Z
+    webUrl: "https://nypost.com/2021/03/04/kamala-harris-breaks-tie-to-begin-senate-stimulus-debate/"
+    ampWebUrl: "https://nypost.com/2021/03/04/kamala-harris-breaks-tie-to-begin-senate-stimulus-debate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/kamala-harris-breaks-tie-to-begin-senate-stimulus-debate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "HMNs7rRIxUck/hi0eDnosWKFk/Vxta+xiDlY6YSkCNAUNOM2c80IRKPSk+SmUezm0dwGyMzM1f6Ph64Hq5dpkVjC7AvIcChHn9IEz8X1hjFDrLMWZ510Y+ZZ18XdwHGz3JW5DCdgkoMOwSHlPyjVLAJvn/OUpkng4itJzrj8RxgPGcsPnBVtUWK2VZO/6yP5TEr23v11snOE0AhNO3xe9AvybTduLWAR+QtdABSXIzH/2YcESMndIhAxqd0IMwVN2RMX9pxAjfN9RzEh3WHT4JMp7ktzLg3/4jvInW/YwHVmx8+E3unUSXMAB5pXhtYnFxQa81crVGV/pHj8SkjntDoE69P9sTaZZLIFJv4zbsJ8M4m/kNbDmEtw1tUdb9uvzgFPD4F/gT7HRm91SiY8wvdQaD6lWAoNGsI1t4gtUOsqfThEa2bvP9UqXR/9QJu7hta0UwwZaXMb0dJGbVjjCzPI5EpmUtfKFMuouQs+EFpbNbDLpB+6kvnyr2aAPQdOuheQj1kdTIU4Kp4VRBVdXg==;WPfhHvclbjDmu21KVSX1qQ=="
 ---

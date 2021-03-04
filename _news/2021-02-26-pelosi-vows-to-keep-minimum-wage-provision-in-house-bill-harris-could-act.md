@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-pr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp"
 type: article
 quality: 183
-heat: 303
+heat: 323
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/white-house-reporter-covid.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris breaks 50-50 tie to begin Senate debate on $1.9T stimulus"
+    excerpt: "Vice President Kamala Harris on Thursday broke a 50-50 tie to begin debate on President Biden’s $1.9 trillion COVID-19 relief bill. Debate on the bill, which would grant $1,400 stimulus checks ..."
+    publishedDateTime: 2021-03-04T20:42:00Z
+    webUrl: "https://nypost.com/2021/03/04/kamala-harris-breaks-tie-to-begin-senate-stimulus-debate/"
+    ampWebUrl: "https://nypost.com/2021/03/04/kamala-harris-breaks-tie-to-begin-senate-stimulus-debate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/kamala-harris-breaks-tie-to-begin-senate-stimulus-debate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

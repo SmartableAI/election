@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Potential 2024 GOP hopefuls top list of Senate Republicans opposing Biden nominees"
+    excerpt: "Four Republican senators most likely to vote against President Biden's nominees all may harbor national ambitions and are considered potential 2024 presidential contenders."
+    publishedDateTime: 2021-03-04T19:37:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IcFK4N2ebnA/potential-2024-gop-hopefuls-senate-republicans-opposing-biden-nominees"
+    ampWebUrl: "https://www.foxnews.com/politics/potential-2024-gop-hopefuls-senate-republicans-opposing-biden-nominees.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/potential-2024-gop-hopefuls-senate-republicans-opposing-biden-nominees.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "House Homeland Republicans urge Biden to reconsider lifting sanctions on Iran, warn of a 'historic mistake'"
     excerpt: "Republicans on the House Homeland Security Committee this week urged President Biden to reconsider lifting sanctions on Iran."
     publishedDateTime: 2021-02-23T17:05:34Z

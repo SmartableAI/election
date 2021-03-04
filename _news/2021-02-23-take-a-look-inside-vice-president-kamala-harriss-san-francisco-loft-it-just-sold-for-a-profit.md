@@ -75,6 +75,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Vice President Kamala Harris honors 'visionaries' at Black History Month event"
+    excerpt: "Vice President Kamala Harris called Black history makers 'visionaries' Saturday during a virtual celebration of the 40th annual Black History Month."
+    publishedDateTime: 2021-02-27T21:57:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 71
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3951614453259/2021/1/4e1c9803ceb7d94f3642d013fb8a5d21/v1.5/Vice-President-Kamala-Harris-honors-visionaries-at-Black-History-Month-event.jpg"
+        width: 800
+        height: 532
+        isCached: true
 
 secured: "2X4zQhuKuHBvF5v+Zh/vL5CKqRc9nCB9yYmFb5GgcSGb31BeHMKQ2PLBFssCJ0maTms83hWnyOG/mLKIbaEtUJwDJK4a6kEUa7MEg7ECCds9CNya4hRLeHFkwwkPJRwhRC59dK4zi1oAMS/4chFAE643v/botvcw+uPrHSeRmVw/RyOV9tR/2jqbdEKt8Ex8OxTD+cyW/rB6bEhmncuhNuBEUVSPKgt7yd1fzXFqeoGRoQ7rPoEItcGtyqao8KDJMivVNQAK81+fMgQ1ltqhEX29n/Xsj9+E1pZydCs7JzmdzKfMsr1NBdTg+IYsv5T6tmflhc6+3io8iPn1O3BZ0hMt5dKMefG5j5YHziOtiCA=;50RIzKfayx7ug3Kx0m3lWA=="
 ---

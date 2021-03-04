@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kamala Harris breaks 50-50 tie to begin Senate debate on $1.9T stimulus"
+    excerpt: "Vice President Kamala Harris on Thursday broke a 50-50 tie to begin debate on President Biden’s $1.9 trillion COVID-19 relief bill. Debate on the bill, which would grant $1,400 stimulus checks ..."
+    publishedDateTime: 2021-03-04T20:42:00Z
+    webUrl: "https://nypost.com/2021/03/04/kamala-harris-breaks-tie-to-begin-senate-stimulus-debate/"
+    ampWebUrl: "https://nypost.com/2021/03/04/kamala-harris-breaks-tie-to-begin-senate-stimulus-debate/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/kamala-harris-breaks-tie-to-begin-senate-stimulus-debate/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "VP Kamala Harris To Black Americans: \"Let's Not Let COVID Get Us\""
     excerpt: "Vice President Kamala Harris addressed the Black community and encouraged them to take the COVID vaccine in an interview with MSNBC host Rev. Al Sharpton that will air on Thursday and fully on the Saturday broadcast of his show on the news network."
     publishedDateTime: 2021-02-24T00:00:00Z

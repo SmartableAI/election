@@ -19,6 +19,22 @@ topics:
   - Kamala Harris
 
 related:
+  - title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – live"
+    excerpt: "Vice-President cast tie-breaking vote after Senate deadlocked 50-50"
+    publishedDateTime: 2021-03-04T20:44:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-6041239a8f08d01b68d70e01"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/134c519394440450a7f7a12d428244410189fea5/0_2_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a317c70618b167c39a465a419299a17c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "CityLab Daily: Watch Kamala Harris at the CityLab 2021 Conference"
     excerpt: "A virtual edition of the annual CityLab conference starts Monday, and it includes some pretty impressive speakers. Vice President Kamala Harris will give the keynote address, and U.S. Secretary of Transportation Pete Buttigieg will be interviewed by Bloomberg CityLab’s Laura Bliss."
     publishedDateTime: 2021-02-26T19:01:00Z
@@ -117,54 +133,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Ella Emhoff, Kamala Harris’ stepdaughter, is a new kind of style icon"
-    excerpt: "The young designer’s outfit at the inauguration shows she won’t be ‘hewing to any outdated notions of what a White House-adjacent young woman should dress like,’ according"
-    publishedDateTime: 2021-02-20T16:02:00Z
-    webUrl: "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/"
-    ampWebUrl: "https://www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/"
-    cdnAmpWebUrl: "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/02/20/ella-emhoff-kamala-harriss-stepdaughter-is-a-new-kind-of-style-icon/amp/"
-    type: article
-    provider:
-      name: Mercury News
-      domain: mercurynews.com
-    quality: 75
-    images:
-      - url: "https://www.mercurynews.com/wp-content/uploads/2021/02/Emhoff1.jpg?w=1024&h=771"
-        width: 1024
-        height: 771
-        isCached: true
-  - title: "Photos: Vice-President Kamala Harris selling San Francisco loft"
-    excerpt: "Vice-President Kamala Harris is selling her SoMa loft in San Francisco for $799,000, reports the Wall Street Journal. Click here if viewing from a mobile device. Vice-President Kamala Harris is selling her SoMa loft in San Francisco."
-    publishedDateTime: 2021-02-22T18:06:00Z
-    webUrl: "https://www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/"
-    ampWebUrl: "https://www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2021/02/22/photos-vice-president-kamala-harris-selling-san-francisco-loft/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 75
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2021/02/kam3-1.jpg?w=700&h=434"
-        width: 700
-        height: 434
-        isCached: true
-  - title: "Remembering Kamala Harris’ visit to TSU"
-    excerpt: "Kamala Harris’ campaign stump speech mesmerized Houston’s Harris supporters. What the audience didn’t know at the time was that this would become a historic moment in Harris County history; they were in the presence of the future first female vice president of the United States."
-    publishedDateTime: 2021-02-23T12:00:00Z
-    webUrl: "https://www.click2houston.com/features/2021/02/23/remembering-kamala-harris-visit-to-tsu/"
-    ampWebUrl: "https://www.click2houston.com/features/2021/02/23/remembering-kamala-harris-visit-to-tsu/?outputType=amp"
-    cdnAmpWebUrl: "https://www-click2houston-com.cdn.ampproject.org/c/s/www.click2houston.com/features/2021/02/23/remembering-kamala-harris-visit-to-tsu/?outputType=amp"
-    type: article
-    provider:
-      name: Click2Houston
-      domain: click2houston.com
-    quality: 75
-    images:
-      - url: "https://www.click2houston.com/resizer/yCkAbbLiihh8FDnsVE37-D9KGo0=/1280x720/smart/cloudfront-us-east-1.images.arcpublishing.com/gmg/VS7THMGUPNAXXHA3MQSGTYOFZQ.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
     excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
     publishedDateTime: 2021-03-03T23:21:00Z
@@ -181,37 +149,21 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Vice President Kamala Harris honors 'visionaries' at Black History Month event"
-    excerpt: "Vice President Kamala Harris called Black history makers 'visionaries' Saturday during a virtual celebration of the 40th annual Black History Month."
-    publishedDateTime: 2021-02-27T21:57:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
+  - title: "Kamala Harris won't weigh in on minimum wage ruling from Senate parliamentarian: Deese"
+    excerpt: "Brian Deese, a top economic adviser to President Biden, said Friday that Vice President Kamala Harris will not move to overturn a ruling from the Senate parliamentarian that increasing the federal minimum wage to $15 per hour is out of bounds for Democrats’ $1."
+    publishedDateTime: 2021-02-26T17:22:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 71
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 67
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3951614453259/2021/1/4e1c9803ceb7d94f3642d013fb8a5d21/v1.5/Vice-President-Kamala-Harris-honors-visionaries-at-Black-History-Month-event.jpg"
-        width: 800
-        height: 532
-        isCached: true
-  - title: "Vice President Kamala Harris's Longtime San Francisco Condo Has Found a Buyer for $799,000"
-    excerpt: "Vice President Kamala Harris is settling down in Washington, D.C., and saying goodbye to her San Francisco condo. The one-bedroom, two-bathroom apartment, located in the city's trendy SoMa neighborhood,"
-    publishedDateTime: 2021-02-23T00:29:00Z
-    webUrl: "https://people.com/home/vice-president-kamala-harriss-longtime-san-francisco-condo-has-found-a-buyer-for-799k/"
-    ampWebUrl: "https://people.com/home/vice-president-kamala-harriss-longtime-san-francisco-condo-has-found-a-buyer-for-799k/?amp=true"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/home/vice-president-kamala-harriss-longtime-san-francisco-condo-has-found-a-buyer-for-799k/?amp=true"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 65
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=face&w=1296&h=648&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2020%2F08%2F11%2Fkamala-harris-7.jpg"
-        width: 1296
-        height: 648
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/25/Harris_Vaccine_23019.jpg-d889b_c0-222-5337-3335_s1200x700.jpg?fc9c632cd81d04c067c203b8e851477caee02e4f"
+        width: 1200
+        height: 700
         isCached: true
   - title: "LI parents are teaching daughters the power of possibility. Kamala Harris is strengthening that narrative."
     excerpt: "Chloe Williams, 8, and her mom, Selina, 39, a nurse practitioner from Wheatley Heights, joined women and girls nationwide in putting on pearls the morning of Kamala Harris’ inauguration to celebrate t"
@@ -228,20 +180,6 @@ related:
       - url: "https://cdn.newsday.com/polopoly_fs/1.50166457.1614620228!/httpImage/image.jpg_gen/derivatives/landscape_1280/image.jpg"
         width: 1280
         height: 719
-        isCached: true
-  - title: "Unpacking What It Means To Call Kamala Harris A 'Jezebel'"
-    excerpt: "Two Texas pastors who referred to Kamala Harris as a \"Jezebel\" are facing backlash. The trope has become shorthand for a woman who is manipulative, seductive and wicked."
-    publishedDateTime: 2021-02-23T16:38:00Z
-    webUrl: "https://www.wbur.org/hereandnow/2021/02/23/jezebel-trope-black-women"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 55
-    images:
-      - url: "http://d279m997dpfwgl.cloudfront.net/wp/2021/02/GettyImages-1145518960-1000x615.jpg"
-        width: 1000
-        height: 615
         isCached: true
   - title: "Harris Participates in the House Democratic Issues Conference Virtually"
     excerpt: "United States Vice President Kamala Harris participates virtually in the House Democratic Issues Conference from the South Court Auditorium of the Eisenhower Executive Office Building in Washington, DC on Tuesday,"
@@ -273,24 +211,31 @@ related:
         width: 1200
         height: 674
         isCached: true
-  - title: "Where slaves once toiled, Vice President Kamala Harris will soon call home"
-    excerpt: "The vice president’s residence, soon to be home to Kamala Harris, stands on land once owned by D.C.’s second-largest slave owner."
-    publishedDateTime: 2021-02-23T13:33:00Z
-    webUrl: "https://www.rollcall.com/2021/02/23/where-slaves-once-toiled-vice-president-kamala-harris-will-soon-call-home/"
+  - title: "At Black History Event, Harris Champions COVID-19 Bill For Its Aid To Black Americans"
+    excerpt: "One day after the House advanced President Biden's $1.9 trillion COVID-19 relief package, Vice President Kamala Harris championed the proposed round"
+    publishedDateTime: 2021-02-27T20:46:00Z
+    webUrl: "https://www.nhpr.org/post/black-history-event-harris-champions-covid-19-bill-its-aid-black-americans"
     type: article
     provider:
-      name: Roll Call
-      domain: rollcall.com
-    quality: 33
-  - title: "Jefferson City NAACP event to celebrate ‘historic first’ of Vice President Kamala Harris"
-    excerpt: "Jefferson City NAACP event to celebrate ‘historic first’ of VP HarrisThe Jefferson City NAACP is joining with several community organizations to recognize the historic election of Vice President Kamala Harris at its “Celebrating a Legacy of Firsts” event."
-    publishedDateTime: 2021-02-24T06:16:00Z
-    webUrl: "https://www.newstribune.com/news/local/story/2021/feb/24/jefferson-city-naacp-event-to-celebrate-historic-first-of-vice-president-kamala-harris/861276/"
+      name: New Hampshire Public Radio
+      domain: nhpr.org
+    quality: 48
+    images:
+      - url: "https://mediad.publicbroadcasting.net/p/shared/npr/styles/placed_wide/nprshared/202102/972120026.jpg"
+        width: 600
+        height: 450
+        isCached: true
+  - title: "Vice President Harris Breaks Tie on Proceeding to COVID Relief Bill, Senator Johnson Objects to Waiving Reading of Bill"
+    excerpt: "Vice President Kamala Harris casts the tie-breaking vote on proceeding to $1.9 trillion COVID-19 relief bill. Senator Ron Johnson (R-WI) then objects to waiving the reading of the 628-page bill. The reading is expected to last several hours."
+    publishedDateTime: 2021-03-04T20:52:00Z
+    webUrl: "https://www.c-span.org/video/?c4950002/vice-president-harris-breaks-tie-proceeding-covid-relief-bill-senator-johnson-objects-waiving"
+    ampWebUrl: "https://www.c-span.org/amp/video/?c4950002"
+    cdnAmpWebUrl: "https://www-c--span-org.cdn.ampproject.org/c/s/www.c-span.org/amp/video/?c4950002"
     type: article
     provider:
-      name: News Tribune
-      domain: newstribune.com
-    quality: 26
+      name: C-SPAN
+      domain: c-span.org
+    quality: 31
 
 secured: "184tr4D4yTfogKWfbC9yaSKrWqBaZt4JnqySX0/6I3JCgEERNzmgk4SDddrgVCt8/NJygKsMcBsEFaOHFr5kWTPk5+bfpHgwNVExOOeIGewy4dxtsX29fIoA+s8Ueg1PHXubnb2sfBkF8i/gBL7Nt1UDFN/PGDNM2PU5+k+w9j5j59W8Q6KtWJHXqSCBsa9L0znhAnnzhkQw9rylfYzeAvl297QZRhQ2n9OXqYf5+xPxaDFPSSlrCWAP5frRjDhwkQ8LFHqoMEaJrZKahws9zpGszw2QxWL/DEYTNvL426yobrBRDgo5wJwp62D9PGFv+ZUohMra+yHmMstbKAYp/HOqpu8o7jn+8GeodzA0FoBFQwi5RnbRlFtzSGqVSJYy2i9KAp341p6Q0AU2N3q/1Cj/aN4kKfJiQxkf30ySFObTzmEC3J+oFcVEtmOzNvRWsPefBpfDikqg57zI6OELeUZMNRV4y81/XZFuuWrtJSTm9XxqkWlE2Uw688y5eUsTi75xjclyPIv+KcK6PC8abA==;8MncVu3sC+pAIKYzl55hRA=="
 ---

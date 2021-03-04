@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-exclusive-intervie
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief.amp"
 type: article
 quality: 176
-heat: 176
+heat: 196
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Cuomo won't be getting Emmy for apology 'performance,' GOP assemblyman tells Harris Faulkner"
+    excerpt: "New York lawmakers \"must act\" to impeach Gov. Andrew Cuomo, a New York State Assemblyman Doug Smith said on Thursday."
+    publishedDateTime: 2021-03-04T20:38:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iJPqXU--9FM/andrew-cuomo-apology-performance-faulkner-focus"
+    ampWebUrl: "https://www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "N2lkcryYqIFaBkgMq8fkKTRUgtDZzicpTANXp09htMMQim4sapFxHU4MbI0KalioC5XlTn5a9YduQwuOg4hD1mu9Ay2i5QmQdyOMUasHKo0tR8moreHvYLojVsIncqUBD0EdV4GXk1NxfMKdcBb/4XryD17E1yUGohuRlG21nckWSgSa4U99L/fIAEgjKL8LTCBg0xGHxPNZV3uQjH+BtT/4hWgJasxe/sJCDH4m656N/eN8PqmD2maRSpQ/SGx/aAAoswZpYFwBYEUE7Fxqk/v2bOEqZU1dISod95blbSwUJas/TpuBUyACgzn5+KR99VqT4oXpVW30lL30ziQwxteSjiaV0lD/fyck2roGXzQ=;BpT3tNanJHXjROlIdT4FIA=="
 ---

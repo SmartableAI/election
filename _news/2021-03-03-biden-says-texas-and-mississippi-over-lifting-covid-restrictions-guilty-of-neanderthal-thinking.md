@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas Lt. Gov slams Biden's ‘Neanderthal thinking’ comment on lifting COVID restrictions"
+    excerpt: "Texas Lt. Gov Dan Patrick, R., slammed Joe Biden's \"Neanderthal thinking\" comment on lifting COVID-19 restrictions Thursday, calling the president a \"hypocrite.\""
+    publishedDateTime: 2021-03-04T20:18:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r4WuBdmB5zo/texas-bidens-neanderthal-covid-restrictions"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-bidens-neanderthal-covid-restrictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-bidens-neanderthal-covid-restrictions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Gov. Abbott hits back at Biden: Releasing COVID-infected migrants into Texas is 'Neanderthal thinking'"
     excerpt: "Texas Gov. Greg Abbott on Thursday pushed back against President Biden for saying that red-state governors lifting mask mandates was \"Neanderthal thinking.\""
     publishedDateTime: 2021-03-04T17:21:36Z
