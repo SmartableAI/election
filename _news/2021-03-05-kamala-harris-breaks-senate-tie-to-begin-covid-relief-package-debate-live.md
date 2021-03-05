@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-p
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
 type: article
 quality: 123
-heat: 443
+heat: 463
 published: true
 
 provider:
@@ -160,6 +160,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/9921614809626/2021/1/737179c4b2717553b05f15134d377fc8/v1.5/Kamala-Harris-visits-woman-owned-yarn-store-to-discuss-American-Rescue-Plan.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "US Vice President Salary 2021: Here's How Much Kamala Harris Will Earn This Year"
+    excerpt: "Kamala Harris became the first woman to hold the second-highest public office in American history, but will she be compensated the same as her male predecessors?"
+    publishedDateTime: 2021-03-05T06:01:00Z
+    webUrl: "https://www.ibtimes.com/us-vice-president-salary-2021-heres-how-much-kamala-harris-will-earn-year-3156870"
+    ampWebUrl: "https://www.ibtimes.com/us-vice-president-salary-2021-heres-how-much-kamala-harris-will-earn-year-3156870?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-vice-president-salary-2021-heres-how-much-kamala-harris-will-earn-year-3156870?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
         isCached: true
   - title: "Kamala Harris won't weigh in on minimum wage ruling from Senate parliamentarian: Deese"
     excerpt: "Brian Deese, a top economic adviser to President Biden, said Friday that Vice President Kamala Harris will not move to overturn a ruling from the Senate parliamentarian that increasing the federal minimum wage to $15 per hour is out of bounds for Democrats’ $1."

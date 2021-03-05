@@ -173,6 +173,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "US Vice President Salary 2021: Here's How Much Kamala Harris Will Earn This Year"
+    excerpt: "Kamala Harris became the first woman to hold the second-highest public office in American history, but will she be compensated the same as her male predecessors?"
+    publishedDateTime: 2021-03-05T06:01:00Z
+    webUrl: "https://www.ibtimes.com/us-vice-president-salary-2021-heres-how-much-kamala-harris-will-earn-year-3156870"
+    ampWebUrl: "https://www.ibtimes.com/us-vice-president-salary-2021-heres-how-much-kamala-harris-will-earn-year-3156870?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/us-vice-president-salary-2021-heres-how-much-kamala-harris-will-earn-year-3156870?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
+        width: 1024
+        height: 736
+        isCached: true
   - title: "LI parents are teaching daughters the power of possibility. Kamala Harris is strengthening that narrative."
     excerpt: "Chloe Williams, 8, and her mom, Selina, 39, a nurse practitioner from Wheatley Heights, joined women and girls nationwide in putting on pearls the morning of Kamala Harris’ inauguration to celebrate t"
     publishedDateTime: 2021-03-03T09:00:00Z

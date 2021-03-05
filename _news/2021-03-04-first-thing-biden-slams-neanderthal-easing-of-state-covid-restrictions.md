@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-sl
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
 type: article
 quality: 124
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553587655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH220LL"
         width: 822
         height: 545
+        isCached: true
+  - title: "'Neanderthal thinking' for states to lift mask mandate -Biden"
+    excerpt: "News Agency 'Neanderthal thinking' for states to lift mask mandate -Biden. Posted . U.S. President Joe Biden on Wednesday said decisions to end the required wearing of masks - suc"
+    publishedDateTime: 2021-03-04T10:05:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE2JAZFJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210303&i=OVE2JAZFJ&r=OVE2JAZFJ&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Joe Biden 'neanderthal' comment a reflection of frustration, says White House – video"
     excerpt: "White House press secretary Jen Psaki defended Joe Biden’s comments comparing Republican governors to Nearnderthals for lifting mask mandates in Mississippi and Texas"

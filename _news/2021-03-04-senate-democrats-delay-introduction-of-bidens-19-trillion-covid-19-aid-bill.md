@@ -47,6 +47,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "'Neanderthal thinking' for states to lift mask mandate -Biden"
+    excerpt: "News Agency 'Neanderthal thinking' for states to lift mask mandate -Biden. Posted . U.S. President Joe Biden on Wednesday said decisions to end the required wearing of masks - suc"
+    publishedDateTime: 2021-03-04T10:05:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE2JAZFJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210303&i=OVE2JAZFJ&r=OVE2JAZFJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Joe Biden 'neanderthal' comment a reflection of frustration, says White House – video"
     excerpt: "White House press secretary Jen Psaki defended Joe Biden’s comments comparing Republican governors to Nearnderthals for lifting mask mandates in Mississippi and Texas"
     publishedDateTime: 2021-03-04T20:54:00Z

@@ -61,7 +61,21 @@ related:
         width: 822
         height: 545
         isCached: true
+  - title: "'Neanderthal thinking' for states to lift mask mandate -Biden"
+    excerpt: "News Agency 'Neanderthal thinking' for states to lift mask mandate -Biden. Posted . U.S. President Joe Biden on Wednesday said decisions to end the required wearing of masks - suc"
+    publishedDateTime: 2021-03-04T10:05:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE2JAZFJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210303&i=OVE2JAZFJ&r=OVE2JAZFJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
 
-secured: "fVLAWnCRNqAe9JXRO0WH3d21/N8s+bEfAKCRVsTwiEOts8RGsA1pJGwuVDuCldUBRmlvMTgfBjyFVCShp0j4J8rN6ZbunBqFkZ31+1NWoLsjTAnA4tPPJqNN9FxDXXLOk6sPFu3dw38geieSmcD1SA1YtcIr1ztgna35liiV9cuE385U2tELE22F73xrjGyzntVXj/l/U506OfWJff4zDMYM8QmCsE7fngwLK1EM9+j6TJdPFRJrbCKpKR+ewA4vXReGlBmCTi/7bu8zmbjqByEt3v+2tMK4353o+/iGiEiwLqGHPjctVJcDwMdSaJD71mEyqNVN/ifiMs1jr8og7w5kLoKviIyMhiHmj/lA80E=;WNdUlko/ltKk0XZh3FM4+w=="
+secured: "Ox31WhqW0LSvE899Tj4ugVd0HHcypGONnX6NwKgnJkiOBGziNZl7qeQ9jdcorXNjtLplld1ui1kd5yp9UYzD2wmGUv/dZCDeNwNM6lVeqnYgFtU2/UKooGR6obvMErJspvBCUgExpHFswia40YtZxZFOESuAtm6sgYc2XDcEejXjC2CIlfdV+LCpegsf7OTwsYEcPhzWyU5IMp+w9pvdztkHD6tVVbUsaW9f9K4S77311xZQZB9im13BV4Jll6fDHm0i5GHZAf+yhtgtja6ia3HTUHMHhGM0NSsLLwbxc0Kmh+MDDGNSDCHmLNVcRCn8wTLmat6fMSvJvcbp1xLrS4jZW+Lb6RvzjDKPRS/ACXY/JU9H8UQkvB93WZgURJVCW2mznnZh3iXyyObujM8bGhpypMsCXi2m+RRTrsV+q1B6NHI+S+3C1ceIYrXaE2AKlVgijn58FDLZrYR5tpV0775QwKsaV34/HLHvr6ui8wIVXDFdD/0utboLv9LIvEONgkvPd6etSLUwvw5D3IH1oA==;GjFdjaMA6JstUUpyPCS6ZQ=="
 ---
 

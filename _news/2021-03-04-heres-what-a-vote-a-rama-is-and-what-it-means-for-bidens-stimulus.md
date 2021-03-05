@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-rel
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303124435-biden-0302-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Here's what a 'vote-a-rama' is (and what it means for Biden's stimulus)"
+    excerpt: "Senate Democrats' push to quickly pass President Joe Biden's Covid-19 relief package is about to meet a time-consuming and stamina-challenging speed bump known as a \"vote-a-rama.\""
+    publishedDateTime: 2021-03-04T20:40:00Z
+    webUrl: "https://www.cnn.com/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301111918-01-us-capitol-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

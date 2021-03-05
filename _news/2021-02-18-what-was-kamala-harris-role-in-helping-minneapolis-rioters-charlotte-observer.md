@@ -183,6 +183,22 @@ related:
         width: 1024
         height: 736
         isCached: true
+  - title: "Kamala Harris’ stepdaughter Ella Emhoff makes edgy modelling debut in Vogue"
+    excerpt: "February 18, 2021 - 20:42 GMT Rebecca Lewis Vice-President Kamala Harris’s stepdaughter Ella Emhoff made her modeling debut with Proenza Schouler Vice-President Kamala Harris’s stepdaughter ..."
+    publishedDateTime: 2021-02-18T23:01:00Z
+    webUrl: "https://www.hellomagazine.com/celebrities/20210218107227/kamala-harris-stepdaughter-ella-emhoff-modelling-vogue/"
+    ampWebUrl: "https://www.hellomagazine.com/celebrities/20210218107227/kamala-harris-stepdaughter-ella-emhoff-modelling-vogue/?viewas=amp"
+    cdnAmpWebUrl: "https://www-hellomagazine-com.cdn.ampproject.org/c/s/www.hellomagazine.com/celebrities/20210218107227/kamala-harris-stepdaughter-ella-emhoff-modelling-vogue/?viewas=amp"
+    type: article
+    provider:
+      name: HELLO! Magazine
+      domain: hellomagazine.com
+    quality: 73
+    images:
+      - url: "https://www.hellomagazine.com/imagenes/celebrities/20210218107227/kamala-harris-stepdaughter-ella-emhoff-modelling-vogue/0-517-403/ella-emhoff-t.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Kamala Harris selling condo in San Francisco's SOMA neighborhood, report says"
     excerpt: "Vice President Kamala Harris is giving up her San Francisco home, according to a new report. Harris has sold the South of Market condominium that she bought in 2004, the year she became the San Francisco district attorney."
     publishedDateTime: 2021-02-19T09:41:00Z
@@ -214,6 +230,22 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vice-president-kamala-harris-attends-a-virtual-roundtable-news-photo-1612978106.?crop=1.00xw:0.753xh;0,0.0671xh&resize=1200:*"
         width: 1024
         height: 514
+        isCached: true
+  - title: "Kamala Harris' Stepdaughter Ella Emhoff Makes Runway Debut at New York Fashion Week"
+    excerpt: "Ella signed with IMG Models in late January. \"I was pretty surprised when everything with IMG was happening,\" she told The New York Times, \"because when I was younger, I never saw that as being ..."
+    publishedDateTime: 2021-02-18T22:55:00Z
+    webUrl: "https://www.eonline.com/news/1239631/kamala-harris-stepdaughter-ella-emhoff-makes-runway-debut-at-new-york-fashion-week"
+    ampWebUrl: "https://www.eonline.com/amp/news/1239631/kamala-harris-stepdaughter-ella-emhoff-makes-runway-debut-at-new-york-fashion-week"
+    cdnAmpWebUrl: "https://www-eonline-com.cdn.ampproject.org/c/s/www.eonline.com/amp/news/1239631/kamala-harris-stepdaughter-ella-emhoff-makes-runway-debut-at-new-york-fashion-week"
+    type: article
+    provider:
+      name: E News
+      domain: eonline.com
+    quality: 69
+    images:
+      - url: "https://akns-images.eonline.com/eol_images/Entire_Site/202124/rs_1200x1200-210304175111-1200-Lindsay-Roth-mp.jpg?fit=around%7C300:300&output-quality=90&crop=300:300;center,top"
+        width: 300
+        height: 300
         isCached: true
   - title: "Kamala Harris, Husband Doug Emhoff Give Healthcare Workers A Valentine's Day Surprise"
     excerpt: "Kamala Harris and her husband, Doug Emhoff, handed out cookies to essential healthcare workers for Valentine's Day."

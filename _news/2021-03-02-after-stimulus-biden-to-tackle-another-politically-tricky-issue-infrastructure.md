@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Here's what a 'vote-a-rama' is (and what it means for Biden's stimulus)"
+    excerpt: "Senate Democrats' push to quickly pass President Joe Biden's Covid-19 relief package is about to meet a time-consuming and stamina-challenging speed bump known as a \"vote-a-rama.\""
+    publishedDateTime: 2021-03-04T20:40:00Z
+    webUrl: "https://www.cnn.com/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301111918-01-us-capitol-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "7ij7US5oNdr3BYWh9kX25F7ApiLFY43JeOIKaxtE+RRrvOZsoNdNGavhGvWi7DO1/yrOea/slz99px13Q9U3DW2B5blUuY7VlsR99PhFLcJY42FFWksAlp0Aa1GntHJFz979bcYt62cn+Dfzk4I+vmH/V1R9BbO3MotHwRhpnRtsHxZ+3XKnFji+/8x3icerMUxkfPPMBlm7itAWoThSnPCN8f1p8amcNvc5zQ90xcef3wW+q4V9wndcezpg/JiVXSxbQNGbFAwDwL5bZaYJtmXi3GTlEpVhxpZSUk+NKbdhW4lhmrJ6gaitww8PFdUTiBa60q5O5JH6bM4fan1Pj2RcYPLogdSSu1LnF7Fs5oll5aYiQX1BRQ2wPPwOWCj8A9+4XZosmJ03sboYyf8Szom48o7WmvPndKtfAn6qM7wfmKlGN74SI6IPekGHlnmw/yCxvcEm/NGpKf0H8sZfacsJ+3W/OnfW01D2e2dZXISmQXQGSHas12K8w5yqNvnj2wtzFFqVk0uVsNqF3VWaaw==;xK4OS8Ewai1dAXJCFlykVQ=="
 ---

@@ -199,6 +199,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden meets with bipartisan House members on infrastructure"
+    excerpt: "CBS News transportation correspondent Errol Barnett joined Elaine Quijano on \"Red and Blue\" to discuss what came out of President Biden's meeting on infrastructure with Vice President Harris, Transportation Secretary Pete Buttigieg and a bipartisan group of House members."
+    publishedDateTime: 2021-03-05T05:40:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-bipartisan-house-members-infrastructure-plan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/05/ae58d479-eead-4cb3-8ba6-b1491fd29a69/thumbnail/1200x630/3e16cfe97f5efe56e1b7955b78bfe7cf/cbsn-fusion-the-biden-administration-remaining-hopeful-that-both-parties-can-work-together-to-fix-and-improve-aging-u-s-infrastructure-thumbnail-661042-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden to meet with U.S. lawmakers on infrastructure push"
     excerpt: "President Joe Biden will meet Thursday with a bipartisan group of lawmakers on the White House's planned push for a massive jump in spending on projects to restore crumbling infrastructure."
     publishedDateTime: 2021-03-05T02:12:00Z

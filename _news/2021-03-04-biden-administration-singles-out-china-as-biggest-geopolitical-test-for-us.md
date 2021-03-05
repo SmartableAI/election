@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV28C"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV28C"
 type: article
 quality: 122
-heat: 122
+heat: 142
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 824
     height: 545
     isCached: true
+
+related:
+  - title: "Biden makes friends with 'the west': Politics Weekly Extra"
+    excerpt: "This week, guest host Rafael Behr puts some epoch-defining questions to the former US ambassador to Nato Nicholas Burns. How does the president convince the Europeans that America is reliable? How does Washington begin to engage with Vladimir Putin’s Russia?"
+    publishedDateTime: 2021-03-05T05:00:00Z
+    webUrl: "https://www.theguardian.com/politics/audio/2021/mar/05/biden-makes-friends-with-the-west-politics-weekly-extra"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/1256cbb5fd66ab069c344a721442ef5c533cfd96/0_0_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87a81e6c84fa1587f991ccafd8891ddc"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "I5IXKVB553dVU47+ehIYDRn742GN74xTPTUJwmJqybGJD3PkomkXKd5s7HzG4X4498T4SS+Y2Lu8DuyZRjz6XrHwi/5aDEghYE9n4IgNoSmP1b3ERIOdTUjSOZp4bbihpnlCooDX5QnVIRUY2mBXHEuOb1p6y0CksTtvymWCuI0Wt7Ma7XKWE/Wj51HZhj34OnbdZsKov8k3a7//vtPrLKPb81BsrBW8j6CxRbV28sePOe+ONgv4ZHki9PaPhvCMqaPjxfBPJ2NcVxBvlJ07IquqTP0vcd/KbR6Bs1pITyHexMgqMyUagzo1CQqHKMU/tOL9TMzFq1UPlSTABsycOhHpjbaqIFc1dVA1JLZQCC4=;Wo1Tul+nY7WHU24MeJSRFA=="
 ---
