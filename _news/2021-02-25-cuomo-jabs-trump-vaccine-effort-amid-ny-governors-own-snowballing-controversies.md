@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ex-State Department Trump Appointee Arrested in Connection with Jan. 6 Attack"
+    excerpt: "Federico Klein, a former midlevel administration official who also worked on the 2016 Trump campaign, was arrested on charges of assaulting police during the Capitol riot."
+    publishedDateTime: 2021-03-05T09:43:00Z
+    webUrl: "https://www.wsj.com/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-308038/social"
+        width: 1280
+        height: 640
+        isCached: true
 
 secured: "DN/qHgfW2EmJHHtf3F2CrFwx8KAEtRTpmvSO9jlxrry5uJj8RSXct2XE2GjKZVIL54OfvRxMUxjExjQskfB4XtykuwQ3dipMrmGPMmMxxHppY0vmNG2Q4cpl2yzWJMpisNKDuV2UQEtXm2GuVHxyz16AgUr8shChqWuLWSjCrd0ykXNQWPZVLpd7N2J8i84Vd8lL4mJX8Pxd8hG2U3TaHhI5Sk/9jIPjqGWmhH3N6T7XSHicUdinuJ3P0x+ugLHq9FNXVf+subxiYilQRW1iJTYo+tm2oRnjVAhYCI9x5uMc1rzdCXC8rZEJIjx6xUbmiou86NpDUT3mUQ+VSMFBVWCSwHzZz8gCyGYrSau3mQE=;a1Musd56OsTLEgSZD864Pw=="
 ---

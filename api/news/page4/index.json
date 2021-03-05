@@ -2,6 +2,387 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-03-flashback-gov-cuomo-in-2018-assailed-disrespect-for-women-by-sexist-and-disgusting-trump-administration.md",
+      "title": "Flashback: Gov. Cuomo in 2018 assailed 'disrespect for women' by 'sexist and disgusting' Trump administration",
+      "excerpt": "New York Gov. Andrew Cuomo has encountered a wave of criticism as multiple allegations that he made unwanted sexual advances have surfaced in recent days. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUskt_v7Sq0/flashback-gov-cuomo-trump-disrespect-women",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUskt_v7Sq0/flashback-gov-cuomo-trump-disrespect-women",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cee078-4cf1-4f71-b6c7-8a1e5d1a3233/21f457fd-bc4f-4d32-a8ba-e6c17d461d40/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flashback-gov-cuomo-trump-disrespect-women.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-gov-cuomo-trump-disrespect-women.amp",
+      "publishedDateTime": "2021-03-03T02:03:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-biden-in-vaccine-rollout-push-as-states-rush-to-reopen-live-updates.md",
+      "title": "Biden in vaccine rollout push as states rush to reopen – live updates",
+      "excerpt": "Promised increase in vaccine supply comes as Republican Governors drop Covid restrictions",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates?page=with:block-603f372d8f08be9d080d97cd",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates?page=with:block-603f372d8f08be9d080d97cd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0d374997ea15d3d82e0e9cc669c176a17b2f06bd/0_99_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1231205c6cf2cf6d1ad5813d6d260444",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates",
+      "publishedDateTime": "2021-03-03T01:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-poisoning-nearly-killed-alexei-navalny-now-biden-is-sanctioning-putin-allies-in-russia.md",
+      "title": "Poisoning nearly killed Alexei Navalny. Now, Biden is sanctioning Putin allies in Russia",
+      "excerpt": "The Biden administration is sanctioning seven Russians allied with Vladimir Putin after the attempted murder of Alexei Nalvany.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/02/alexei-navalny-poisoning-leads-us-sanction-putin-allies-russia/6883733002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/02/alexei-navalny-poisoning-leads-us-sanction-putin-allies-russia/6883733002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/08/20/USAT/d8dd50e1-8d20-45a6-ad96-4e3580080056-AP_Russia_Navalny.jpg?auto=webp&crop=3199,1799,x1,y449&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6883733002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6883733002",
+      "publishedDateTime": "2021-03-02T22:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-a-reality-check-for-bidens-agenda-more-allegations-against-floyd-officer-and-vaccine-vaccine-for-dolly-parton.md",
+      "title": "A reality check for Biden's agenda, more allegations against Floyd officer and 'vaccine, vaccine' for Dolly Parton",
+      "excerpt": "A reality check for Biden's agenda, more allegations against Floyd officer and 'vaccine, vaccine' for Dolly Parton Good morning, NBC News readers. The Biden administration is beginning to face the harsh realities of a split Senate,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/morning-briefing/reality-check-biden-s-agenda-more-allegations-against-floyd-officer-n1259433",
+      "originalUrl": "https://www.nbcnews.com/news/morning-briefing/reality-check-biden-s-agenda-more-allegations-against-floyd-officer-n1259433",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_09/3453524/210301-joe-biden-jm-1444_d38032cdcc81de1e6af02e6768b3ae86.jpg",
+          "width": 2500,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1259433",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1259433",
+      "publishedDateTime": "2021-03-02T21:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-house-oversight-committee-subpoenas-trumps-accounting-firm-mazars-again.md",
+      "title": "House Oversight Committee subpoenas Trump's accounting firm Mazars again",
+      "excerpt": "The House Oversight Committee has issued a new subpoena to accounting firm Mazars USA for a wide swath of records related to former President Donald Trump, which would likely include the ex-President's tax returns.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BAOmvarZPks/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BAOmvarZPks/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210302134454-04-trump-cpac-0228-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/03/politics/house-oversight-committee-subpoenas-trump-mazars/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/house-oversight-committee-subpoenas-trump-mazars/index.html",
+      "publishedDateTime": "2021-03-02T21:07:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-biden-won-white-house-with-put-your-dumb-uncle-in-the-basement-strategy-new-book-says.md",
+      "title": "Biden won White House with ‘put your dumb uncle in the basement’ strategy, new book says",
+      "excerpt": "President Biden won the White House because the coronavirus let him stay hidden in his basement, protecting his campaign from its biggest liability — the candidate himself, a new book says.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZHgjoN7dPBs/biden-won-white-house-put-dumb-uncle-in-basement-strategy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZHgjoN7dPBs/biden-won-white-house-put-dumb-uncle-in-basement-strategy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21061782817925.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-won-white-house-put-dumb-uncle-in-basement-strategy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-won-white-house-put-dumb-uncle-in-basement-strategy.amp",
+      "publishedDateTime": "2021-03-02T18:36:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid.md",
+      "title": "Trump endorses SC’s Tim Scott in 2022 Senate reelection bid",
+      "excerpt": "Former President Donald Trump endorsed U.S. Sen. Tim Scott’s 2022 reelection bid Tuesday, continuing to make clear his intent to remain a dominant force in Republican Party politics. Trump issued a statement through his Save America PAC,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 280,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-02T16:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-biden-administration-argues-migrant-surge-is-a-challenge-not-a-crisis.md",
       "title": "Biden administration argues migrant surge is a 'challenge,' not a 'crisis'",
       "excerpt": "President Biden is declining to call the situation at the southern border a crisis – even amid reports that his administration needs another 20,000 beds at migrant facilities to deal with a surge of unaccompanied minors.",
@@ -31,62 +412,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp",
       "publishedDateTime": "2021-03-02T16:40:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-psaki-pressed-on-whether-biden-admin-taking-credit-for-trump-accomplishments-on-vaccine-partnership.md",
-      "title": "Psaki pressed on whether Biden admin taking credit for Trump accomplishments on vaccine partnership",
-      "excerpt": "White House press secretary Jen Psaki was pressed about the Biden administration's taking credit for a partnership between Johnson & Johnson and Merck.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 496,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp",
-      "publishedDateTime": "2021-03-02T15:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -199,6 +524,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
       "publishedDateTime": "2021-03-02T14:50:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.md",
+      "title": "Psaki won’t say why Dr. Seuss was dropped from Biden reading proclamation",
+      "excerpt": "White House press secretary Jen Psaki wouldn’t say why President Biden dropped Dr. Seuss from \"Read Across America Day,\" the annual celebration of reading in honor of the legendary children’s author.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ofhqkJyczYE/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ofhqkJyczYE/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 334,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp",
+      "publishedDateTime": "2021-03-02T12:13:19-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -715,6 +1096,62 @@
       ]
     },
     {
+      "path": "_news/2021-03-02-homan-fires-back-after-biden-dhs-secretary-slams-trump-immigration-policies-dont-tell-me-about-compassion.md",
+      "title": "Homan fires back after Biden DHS secretary slams Trump immigration policies: ‘Don't tell me about compassion’",
+      "excerpt": "The Biden administration's immigration policies are not as compassionate as they are making it out to be, former ICE Director Tom Homan said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aTZim8tk9C4/homan-biden-dhs-mayorkas-trump-immigration-border-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aTZim8tk9C4/homan-biden-dhs-mayorkas-trump-immigration-border-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp",
+      "publishedDateTime": "2021-03-02T06:12:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-jimmy-kimmel-compares-donald-trump-to-dr-pimple-popper-show.md",
       "title": "Jimmy Kimmel Compares Donald Trump to 'Dr. Pimple Popper' Show",
       "excerpt": "\"All this disgusting stuff keeps coming out and you're like 'Oh my god when is this going to end?' Kimmel said, mocking Trump's CPAC speech.",
@@ -779,7 +1216,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -919,442 +1356,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-kayleigh-mcenany-tells-harris-faulkner-of-shock-and-disbelief-at-deadly-capitol-riot.md",
-      "title": "Kayleigh McEnany tells Harris Faulkner of 'shock' and 'disbelief' at deadly Capitol riot",
-      "excerpt": "Former Trump press secretary Kayleigh McEnany has described her emotions during the Jan. 6 attack on the U.S. Capitol in her first interview since leaving the White House.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E-D-HF2SU8c/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/E-D-HF2SU8c/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04d2b9b6-650e-49fb-897f-b5c0cfa14348/93273dfe-1ab6-428b-9db2-dbe01a569bf9/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief.amp",
-      "publishedDateTime": "2021-03-01T14:41:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-maccallum-presses-buttigieg-as-a-responsible-person-how-could-you-support-biden-covid-relief-plan.md",
-      "title": "MacCallum presses Buttigieg: 'As a responsible person,' how could you support Biden COVID relief plan?",
-      "excerpt": "Transportation Secretary Pete Buttigieg defended his support of President Biden’s $1.9 trillion COVID-19 relief plan on Monday, dismissing Republican complaints over Democratic pet projects and unrelated items included in the legislation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MneA_m61o9E/pete-buttigieg-biden-covid-relief-spending-martha-maccallum",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MneA_m61o9E/pete-buttigieg-biden-covid-relief-spending-martha-maccallum",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43a783a4-a7d3-40c4-86a3-585d95322bf7/5cf9f052-c462-428e-add5-8cb7e5b298c7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pete-buttigieg-biden-covid-relief-spending-martha-maccallum.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pete-buttigieg-biden-covid-relief-spending-martha-maccallum.amp",
-      "publishedDateTime": "2021-03-01T14:27:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-donald-and-melania-trump-received-covid-vaccine-at-the-white-house-in-january.md",
-      "title": "Donald and Melania Trump received Covid vaccine at the White House in January",
-      "excerpt": "Former President Donald Trump and former first lady Melania Trump received the Covid-19 vaccine at the White House in January, a Trump adviser told CNN on Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tGRfT0yCCDg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tGRfT0yCCDg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301152606-01-donald-melania-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/01/politics/trump-melania-vaccinated-white-house/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/trump-melania-vaccinated-white-house/index.html",
-      "publishedDateTime": "2021-03-01T14:04:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-mcconnell-says-the-gop-will-back-murkowskis-reelection-despite-trump-threat.md",
-      "title": "McConnell says the GOP will back Murkowski's reelection despite Trump threat",
-      "excerpt": "Senate Minority Leader Mitch McConnell committed on Monday that Senate Republicans will support GOP Sen. Lisa Murkowski's reelection bid in 2022 despite former President Donald Trump advocating that the GOP \"get rid of\" the 17 Republicans in Congress who voted against him during his second impeachment.\n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I-nhc-Lo2LM/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I-nhc-Lo2LM/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 267,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160214125939-mitch-mcconnell-jan-27-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html",
-      "publishedDateTime": "2021-03-01T13:46:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-laid-off-pipeline-worker-the-biden-administration-has-taken-my-livelihood-from-me.md",
-      "title": "Laid-off pipeline worker: The Biden administration ‘has taken my livelihood from me’",
-      "excerpt": "Jason Jernigan, a laid-off Keystone XL Pipeline worker, told \"America’s Newsroom\" on Monday that he doesn’t know how he is going to make a living now, saying, \"This is all I know how to do.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXpdatjt7Jw/laid-off-pipeline-worker-biden-administration-livelihood",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXpdatjt7Jw/laid-off-pipeline-worker-biden-administration-livelihood",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/laid-off-pipeline-worker-biden-administration-livelihood.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/laid-off-pipeline-worker-biden-administration-livelihood.amp",
-      "publishedDateTime": "2021-03-01T13:04:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-biden-supports-independent-review-of-cuomo-sexual-harassment-claims-something-tara-reade-never-got.md",
-      "title": "Biden supports 'independent review' of Cuomo sexual harassment claims ‒ something Tara Reade never got",
-      "excerpt": "Gov. Cuomo's office denied Lindsey Boylan's harassment claims, calling them \"simply false.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NnMw0ol5EZA/biden-independent-review-cuomo-sexual-harassment-tara-reade",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NnMw0ol5EZA/biden-independent-review-cuomo-sexual-harassment-tara-reade",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20348652112849.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-independent-review-cuomo-sexual-harassment-tara-reade.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-independent-review-cuomo-sexual-harassment-tara-reade.amp",
-      "publishedDateTime": "2021-03-01T11:03:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-is-mike-pence-finished-in-maga-land.md",
-      "title": "Is Mike Pence Finished in MAGA-Land?",
-      "excerpt": "Trump repeatedly warned Pence against the “betrayal” involved in refusing POTUS’s demand that he exceed the purely clerical vice-presidential powers laid out in the Electoral Count Act of 1887. And when Pence made it official,",
-      "sourceUrl": null,
-      "webUrl": "https://nymag.com/intelligencer/2021/03/is-mike-pence-finished-in-maga-land.html",
-      "originalUrl": "https://nymag.com/intelligencer/2021/03/is-mike-pence-finished-in-maga-land.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://pyxis.nymag.com/v1/imgs/8e9/0a3/1960cc03f240a7f3ab5dcb9cdd54a7f037-mike-pence.1x.rsocial.w1200.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/03/is-mike-pence-finished-in-maga-land.html",
-      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/is-mike-pence-finished-in-maga-land.html",
-      "publishedDateTime": "2021-03-01T10:55:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Magazine",
-        "domain": "nymag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-katrina-pierson-trump-presidential-campaign-veteran-moves-toward-congressional-bid-in-texas.md",
-      "title": "Katrina Pierson, Trump presidential campaign veteran, moves toward congressional bid in Texas",
-      "excerpt": "The field of Republicans running to succeed the late Republican Rep. Ron Wright of Texas is growing. Katrina Pierson, who served as a top adviser on President Trump’s 2016 and 2020 campaigns, is gearing up to launch a campaign, two sources with knowledge of her planning confirmed to Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PhrGzptxaGQ/katrina-pierson-run-for-congress-texas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/PhrGzptxaGQ/katrina-pierson-run-for-congress-texas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 224,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp",
-      "publishedDateTime": "2021-03-01T08:16:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

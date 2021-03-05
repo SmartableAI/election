@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-mee
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/27/politics/kevin-mccarthy-trump-meeting/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
     quality: 132
     images:
       - url: "https://static.politico.com/ba/54/a2db9c9e48f48ef5db6a7cf7bbc2/ap21012842712411-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "McCarthy struggles to manage Trump"
+    excerpt: "Sources tell Playbook that McCarthy has been trying to persuade Trump not to seek revenge against 10 Republicans who voted to impeach the former president — members who could be critical to McCarthy’s bid to retake the House and become speaker."
+    publishedDateTime: 2021-03-05T11:16:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/03/05/mccarthy-struggles-to-manage-trump-492003"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/bd/e8/8bf3a22247ed9ed9cbb485ee0641/210304-trump-mccarthy-ap-773.jpg"
         width: 1160
         height: 773
         isCached: true

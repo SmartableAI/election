@@ -1237,6 +1237,20 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Joe Biden exaggerates support among economists for his $1.9 trillion COVID-19 relief plan"
+    excerpt: "See the sources for this fact-check President Joe Biden has made beating the coronavirus and repairing the economic damage it unleashed his defining priorities. The central pillar of his strategy ..."
+    publishedDateTime: 2021-02-18T19:07:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/feb/18/joe-biden/joe-biden-exaggerates-support-among-economists-his/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 46
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-mostly-false.jpg"
+        width: 438
+        height: 392
+        isCached: true
 
 secured: "Ba7uCaaSu78O7jiY/Q16jhgVB+zfnFJqzT2PynRnXSAXf/9jz7JgEuyODyg8vz1PPiRMSwxbycMBAFV1G7p5WAo9ABZDSB2v+Pj7qJVEbvhcGrukTQQbSnFC6wOJeofScK0OS2DKf2dZbANC3WK8nWY5SloHu1cg6kFmrqKfItEmJYtw1uHskN2ybn9a/VJHorDsgmYnYlYFh5phwdgbqxOw11iPcS25/M8xt5yMwibMVR7sgYpWvmIhkFrHkMLRkAySRh3dTzl/oecA6ZWgJSflaXf0EzfExSTY3BVUM/CuCqIGHv5KPjvpyDmk2hEB6M/UNF1Mn4Z6ZnxgEMjzJH1azBProCWhfNqO/yIP5bhxApKR3V/oS9nRs+VpY1Hb3T8nQNxLDI7mgR5z0Jz4y0FYD/UHmJDTx0XXM70IIvTJ9HXgXYmshAujbuWSofp6wsmOwqtoDvq9/havtF80x7f9rBCkm0Q0qMIR35UgtyJ3FOqoHR53A/LdE+zWb8Dwc7jNNix4F3CZrfl68RSdpw==;wjzmkrPMcOFm1wf1thjSIQ=="
 ---

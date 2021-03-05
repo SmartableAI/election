@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-05-desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.md",
+      "title": "DeSantis, Pence top 2024 Republican primary surveys – if Trump doesn’t run",
+      "excerpt": "DeSantis, Pence top 2024 Republican primary surveys – if Trump doesn’t run",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uevIlvGvjww/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uevIlvGvjww/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 358,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.amp",
+      "publishedDateTime": "2021-03-05T10:09:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-mike-pence-breaks-silence-in-op-ed-slamming-house-dems-voting-reform-bill.md",
       "title": "Mike Pence breaks silence in op-ed slamming House Dems’ voting reform bill",
       "excerpt": "Pence made his feelings known in an op-ed published Wednesday by The Daily Signal, a blog run by the conservative Heritage Foundation, where the former VP is a fellow.",
@@ -1523,54 +1580,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney.md",
-      "title": "New Capitol riot footage shows cop Eugene Goodman protect Pence, Romney",
-      "excerpt": "Security footage broadcast for the first time Wednesday at former President Donald Trump’s impeachment trial shows how close Capitol rioters got to officials on Jan. 6 — with a sole police",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/",
-      "originalUrl": "https://nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/capitol-stills-2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/amp/",
-      "publishedDateTime": "2021-02-10T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

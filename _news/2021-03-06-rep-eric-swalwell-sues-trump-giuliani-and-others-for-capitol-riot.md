@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Capitol Hill riot arrest: Trump-era aide 'physically' engaged police during chaos, FBI says"
+    excerpt: "A former Trump-era State Department aide has been arrested in connection to the Capitol Hill riot, the FBI confirmed to Fox News on Friday."
+    publishedDateTime: 2021-03-05T18:49:00Z
+    webUrl: "https://www.foxnews.com/us/former-trump-aide-arrested-capitol-hill-riot-fbi-says"
+    ampWebUrl: "https://www.foxnews.com/us/former-trump-aide-arrested-capitol-hill-riot-fbi-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/former-trump-aide-arrested-capitol-hill-riot-fbi-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/MAGA-FBI.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "MSNBC contributor: 'My gut's telling me' Trump White House behind lack of Capitol protection on Jan. 6"
     excerpt: "MSNBC contributor Frank Figliuzzi speculated Wednesday that the Trump White House delayed sending military assets as the Capitol building was stormed by pro-Trump rioters during the certification of President Biden's election victory."
     publishedDateTime: 2021-03-04T00:47:00Z

@@ -1230,6 +1230,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "CNN town hall with President Biden"
+    excerpt: "President Joe Biden described his life in the White House this evening, saying so far it still feels surprising every day. \"I wake up in the morning and ask Jill, 'Where the hell are we,\" he ..."
+    publishedDateTime: 2021-02-17T00:58:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/joe-biden-town-hall-02-16-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/joe-biden-town-hall-02-16-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/joe-biden-town-hall-02-16-21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_600/de01e600-a675-472c-ba55-0fba0594f40c.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Vice President Mike Pence ensures 'safe inauguration' after Capitol riot"
     excerpt: "During a briefing at FEMA headquarters, Vice President Mike Pence addressed the Capitol riot and ensured an “orderly transition into a safe inauguration.”"
     publishedDateTime: 2021-01-14T22:56:00Z

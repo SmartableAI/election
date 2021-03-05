@@ -31,53 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden should not give up his sole nuclear authority, GOP lawmakers say"
-    excerpt: "Three Republican members of the House Armed Services Committee on Wednesday issued a statement pushing back on Democrats' letter to President Biden urging him to give up his sole nuclear authority."
-    publishedDateTime: 2021-02-25T20:18:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_ao_yWQyWO0/republicans-biden-nuclear-authority"
-    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-nuclear-authority.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-nuclear-authority.amp"
+  - title: "Trump tears into Biden for 'spiraling tsunami' at the border, amid spike in migrant numbers"
+    excerpt: "Former President Donald Trump on Friday tore into President Biden for what he described as a \"spiralling tsunami\" at the border, just as the administration stares down a spike in migrant families and unaccompanied children."
+    publishedDateTime: 2021-03-05T18:13:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e3ZByn2wu_U/trump-biden-spiraling-tsunami-border-migrant-numbers"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-spiraling-tsunami-border-migrant-numbers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-spiraling-tsunami-border-migrant-numbers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 180
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/military-aide-carries.jpg?ve=1&tl=1"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23788a05-0e07-4eaa-b65f-7d1ff708a21d/ab917b1d-3466-4312-a322-dec6fb5f9b34/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Psaki pressed on whether Biden admin taking credit for Trump accomplishments on vaccine partnership"
+    excerpt: "White House press secretary Jen Psaki was pressed about the Biden administration's taking credit for a partnership between Johnson & Johnson and Merck."
+    publishedDateTime: 2021-03-02T23:52:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Louisiana GOP Rep. Higgins challenges Biden 'to live without oil & gas'"
-    excerpt: "Louisiana Republican Rep. Clay Higgins floated an environmental challenge to President Biden Tuesday – introducing a House resolution calling on the commander-in-chief to live without any petroleum products."
-    publishedDateTime: 2021-02-25T01:00:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U7Cz6YZ-hZg/louisiana-higgins-biden-live-without-oil"
-    ampWebUrl: "https://www.foxnews.com/politics/louisiana-higgins-biden-live-without-oil.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/louisiana-higgins-biden-live-without-oil.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Higgins-Biden-GETTY-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden's COVID-19 relief package slammed by pro-GOP group"
-    excerpt: "EXCLUSIVE: A pro-GOP outside group closely aligned with the Republican Governors Association (RGA) is launching an effort in three states against Democratic governors ‒ who could face challenging reelections next year ‒ over the $1.9 trillion COVID-19 relief package being pushed by President Joe Biden."
-    publishedDateTime: 2021-03-04T15:45:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EFNo-AheViE/bidens-blue-state-bailout-slammed-pro-gop-group"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-blue-state-bailout-slammed-pro-gop-group.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-blue-state-bailout-slammed-pro-gop-group.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden forced to send team to the border as child migrant influx escalates"
     excerpt: "President Biden has ordered senior members of his team to visit the southern border and report back to him on how to handle the recent influx of migrant children, a White House spokesman said Thursday."
@@ -95,83 +79,51 @@ related:
         width: 1080
         height: 720
         isCached: true
-  - title: "GOP Rep. Lauren Boebert calls on Biden to lower flags in honor of Rush Limbaugh"
-    excerpt: "Rep. Lauren Boebert, R-Colo., called on President Biden on Friday night to order flags lowered to half-staff in honor the life of conservative radio legend Rush Limbaugh."
-    publishedDateTime: 2021-02-20T02:12:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUXL4ysyf_Y/boebert-flags-half-staff-limbaugh"
-    ampWebUrl: "https://www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp"
+  - title: "Biden administration considers sending child migrants to Virginia military base as numbers surge"
+    excerpt: "The Biden administration is considering housing unaccompanied migrant children in a military base in Virginia as officials scramble to deal with a dramatic surge in child migrants at the southern border."
+    publishedDateTime: 2021-03-05T17:54:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FrvszOKPopc/biden-child-migrants-virginia-military-base-numbers-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 171
+    quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63a7afd9-a51a-4f00-91e3-c8786f9cf099/9d76ec8a-b441-45c7-94ee-88ec24e0820e/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f2b4c4-a545-4eac-a9b5-6ba620d77cd2/fef6984b-0908-4abe-82a0-1b7e2bfd5733/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Potential 2024 GOP hopefuls top list of Senate Republicans opposing Biden nominees"
-    excerpt: "Four Republican senators most likely to vote against President Biden's nominees all may harbor national ambitions and are considered potential 2024 presidential contenders."
-    publishedDateTime: 2021-03-04T19:37:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IcFK4N2ebnA/potential-2024-gop-hopefuls-senate-republicans-opposing-biden-nominees"
-    ampWebUrl: "https://www.foxnews.com/politics/potential-2024-gop-hopefuls-senate-republicans-opposing-biden-nominees.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/potential-2024-gop-hopefuls-senate-republicans-opposing-biden-nominees.amp"
+  - title: "Kissinger says Trump, Nixon foreign policies similar, warns Biden on Iran"
+    excerpt: "Dr. Henry Kissinger, the former secretary of state for both Presidents Richard Nixon and Gerald Ford, likened President Donald Trump's Middle East diplomatic achievements to Nixon's opening of China in 1972."
+    publishedDateTime: 2021-03-04T01:17:00Z
+    webUrl: "https://www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar"
+    ampWebUrl: "https://www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 149
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4ce8712-c550-4132-901c-bcfbd56c9541/40c34bf2-87b8-4fe1-af83-c111b185dbe9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "New Iran headache for Biden as dissident group claims to have uncovered another nuclear site"
-    excerpt: "An Iranian opposition group that first exposed Iran’s nuclear weapons ambitions in 2002 claimed this week to have uncovered new evidence of yet another undeclared nuclear site that has since been scrubbed clean.  "
-    publishedDateTime: 2021-03-04T21:43:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nntaZTzHVZU/iran-biden-dissident-group-nuclear-site"
-    ampWebUrl: "https://www.foxnews.com/politics/iran-biden-dissident-group-nuclear-site.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-biden-dissident-group-nuclear-site.amp"
+  - title: "Biden's release of report on Khashoggi killing shows difference from Trump's approach, experts say"
+    excerpt: "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge,"
+    publishedDateTime: 2021-03-02T13:30:00Z
+    webUrl: "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 136
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Iran1.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "House Homeland Republicans urge Biden to reconsider lifting sanctions on Iran, warn of a 'historic mistake'"
-    excerpt: "Republicans on the House Homeland Security Committee this week urged President Biden to reconsider lifting sanctions on Iran."
-    publishedDateTime: 2021-02-23T17:05:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UagrZC-YCiw/house-homeland-republicans-biden-reconsider-lifting-sanctions-iran"
-    ampWebUrl: "https://www.foxnews.com/politics/house-homeland-republicans-biden-reconsider-lifting-sanctions-iran.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-homeland-republicans-biden-reconsider-lifting-sanctions-iran.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Hannity reacts to Dems' letter pressuring Biden to give up nuclear authority: 'Must be totally humiliating'"
-    excerpt: "Fox News host Sean Hannity reacted Wednesday night to the reports suggesting House Democrats were urging President Biden to relinquish his nuclear authority."
-    publishedDateTime: 2021-02-25T04:10:00Z
-    webUrl: "https://www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating"
-    ampWebUrl: "https://www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-reacts-to-dems-letter-pressuring-biden-to-give-up-nuclear-authority-must-be-totally-humiliating.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7d0ca450-9410-4c83-9026-009225ad95fb/1d38c7d9-a3cc-4aaf-98e7-dbf68cf495c4/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6135620-aa93-4f89-89c8-d3f90db43495/edbfa245-82dc-4205-9d6f-f6a77fc1d355/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

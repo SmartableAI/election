@@ -27,93 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration"
-    excerpt: "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4."
-    publishedDateTime: 2021-03-05T12:35:00Z
-    webUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028"
-    ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
+  - title: "Watchdog asked Trump DOJ to criminally investigate Elaine Chao for misuse of office as transportation secretary but was rebuffed"
+    excerpt: "The inspector general found that Chao inappropriately used her staff and office for personal tasks and to promote a shipping business owned by Chao’s father and sisters."
+    publishedDateTime: 2021-03-04T02:12:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 96
     images:
-      - url: "https://d.newsweek.com/en/full/1750168/q.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
-    excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
-    publishedDateTime: 2021-03-05T02:45:00Z
-    webUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/"
-    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump"
-    excerpt: "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,"
-    publishedDateTime: 2021-03-04T21:28:00Z
-    webUrl: "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
-    excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
-    publishedDateTime: 2021-03-03T14:55:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 65
-    images:
-      - url: "https://www.nydailynews.com/resizer/yuTJIk6BTNwaF9BNID10TYhi_7M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BLICB6OH4VGBVNGAJUGRJLOXSU.jpg"
+      - url: "https://www.chicagotribune.com/resizer/RdT_akvV2w0WrLwyYv4kInG3D0k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BKO37XXJSYJYQQVJQKSAEDBFXA.aspx"
         width: 1200
         height: 800
         isCached: true
-  - title: "Pentagon Says Trump Interfered With Investigation Into Rep. Ronny Jackson's Abuse Of Subordinates"
-    excerpt: "Jackson is accused of dozens of improprieties, including commenting on a female subordinate's body and drunkenly harassing her."
-    publishedDateTime: 2021-03-03T22:02:00Z
-    webUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764"
-    ampWebUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/03/29/ronny-jackson.jpg"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "U.S. Representative Swalwell Sues Trump Over Jan. 6 Insurrection"
-    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
-    publishedDateTime: 2021-03-05T14:00:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-05/us-representative-swalwell-sues-trump-over-jan-6-insurrection"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "AG53D+wtAELvyONT7MaglOTqNdzwpibdfvY3M7HGNF4On1Qid33kkvmW/zmopNqqoUNYOKArny2RQnN2ef1o3hlameiXF1CEB/bEEJOHel4/X6ujdmhSmsX0wGUbRAfA8MObBDs+KKPJ/62/zayzxq4eAMVWcWyiHwjZSO+tw8i95WwcBrVpWZtihj/KjarDj1b3K4kSGRdtwXSiAxgwIizNSeP0I2b/Kve5UQoEfQ23poBo4mFYckB2npqDx3pyw+PQJr2UNyfaG662XhHV1LYXobxo5vWtRbfIsgFnn1wGZAUGKagYvQiy25/sbN5Xsfsn8n4HI10+f0mFYhXgWW8T6m6T850CvCCAXRVh6l9T76cAab4w9rMrHUk8e1tsf61Tg9CQncku/W3nTGVN0KjzNoGszrUJLObK0xP/CeRdzuWOIJQa5BXShQVoQbJzSEhwygM+VzqP4O3pS8qZkt4dBvxVXB11TvTtwzc/S2RqYZ1X8Qkqgy4NyhUFSUYzNNEJ7bZuLM1YYFh3mYuVpw==;VZDAoTq5fQ+3NGP6FQcOQg=="
 ---

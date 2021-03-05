@@ -468,22 +468,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Confessions of a Trump Republican"
-    excerpt: "Over at MSNBC, they are calling those who think like me Dead-Enders, people who will follow Donald Trump into the bunker and die with him."
-    publishedDateTime: 2021-03-01T10:39:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/03/01/confessions_of_a_trump_republican_145316.html"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/01/confessions_of_a_trump_republican_145316.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/01/confessions_of_a_trump_republican_145316.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/536369_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Why Are Democrats Still So Scared of Trump?"
     excerpt: "So why are the Democrats still afraid of him? Acco"
     publishedDateTime: 2021-02-05T12:46:00Z

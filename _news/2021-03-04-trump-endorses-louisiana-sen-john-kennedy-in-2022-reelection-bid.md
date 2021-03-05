@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-louisiana-sen-john-k
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-louisiana-sen-john-kennedy-2022-reelection-bid.amp"
 type: article
 quality: 190
-heat: 350
+heat: 330
 published: true
 
 provider:
@@ -142,22 +142,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Donald Trump Finally Makes Me Smile"
-    excerpt: "Donald Trump was never forever. The former president is 74, obese and the subject of serious criminal investigations. Resurfacing after disgracefully"
-    publishedDateTime: 2021-03-02T11:24:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/536490_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "mn4frf2FYs6YD5+favWrBZn+UrINaodP95vCbtYVm8JdBYNXK4xydM7CMy29ckgUEINJzVQG9VMIF2QgTfOYMsoHWKXf8yqryrlHKtyrV2lwshi6eIUQj9Co37EAARqGqGOyxmjYfoU2uQhQ9K5keGV5XkPid7/0FMzvCD45T9Rf7YM10NtSuYsZPo0YpeIdXVwu1PJCrDnAieYAy61EmiYvWg3UNLA/PvqoNZ8q725CPanZBzaXvkfseTSANqEZotO6IvLp7FN4zfiIT2WCujZcN8wWpB62Rwo4tQ7qsEneOJB7gNquBDLVW9GW+qR7qJIqUVpdECZIYF7Q0pjAbwUbidM62PM1561BdCe2jt8=;81Quz2lqkKQGR9Wx3nnwbA=="

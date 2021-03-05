@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-cl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
 type: article
 quality: 140
-heat: 520
+heat: 560
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_c2bafe5cb5964c1086f5b1764fe72f53_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Fact Check: Did YouTube Ban All Copies of Donald Trump's CPAC Speech?"
+    excerpt: "Following Donald Trump's speech at the Conservative Political Action Conference (CPAC) in Orlando, Florida, on Sunday, social media users have expressed concerns that it is being banned by YouTube."
+    publishedDateTime: 2021-03-05T18:37:00Z
+    webUrl: "https://www.newsweek.com/fact-check-did-youtube-ban-all-copies-donald-trumps-cpac-speech-1574133"
+    ampWebUrl: "https://www.newsweek.com/fact-check-did-youtube-ban-all-copies-donald-trumps-cpac-speech-1574133?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-did-youtube-ban-all-copies-donald-trumps-cpac-speech-1574133?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1749777/president-donald-trump-speaks-2021-cpac.jpg"
+        width: 3000
+        height: 1945
         isCached: true
   - title: "Capitol Police chief faces questions about security plans after pro-Trump riot"
     excerpt: "The acting chief is expected to ask for more funding to pay for physical barriers and additional deployment of law enforcement, as lawmakers worry about turning the Capitol into a fortress."
@@ -327,6 +343,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump Faces New Lawsuit Over Capitol Insurrection"
+    excerpt: "The lawsuit, which claims that former President Donald Trump and his allies incited the mob that attacked the Capitol, is the second major legal action against Trump in connection to the riot."
+    publishedDateTime: 2021-03-05T18:19:00Z
+    webUrl: "https://www.usnews.com/news/national-news/articles/2021-03-05/rep-eric-swalwell-sues-trump-and-allies-over-capitol-insurrection"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "lcWM4fc9yuYWk5EYqLphoThwud16YlKY9wQhYxwZDHgZh8N0zMWZQkRdZLr07LgLxW+z3m9BnuA3JVgVf1YATtTlWvNgQyT3dre21cI9yTibmYx7BWw8LwQ/j0YRnF/fAsh2U4db9SFWTVLW6TNstth+mRRqJZhV36jE1ObGp1hfkrIDCS6D8I145Fy1TAhIIYM4tRmPcJunjyn8dzj7qV+9u+/bgmnezBnqCM+4Z6PaE03UFSe1c+ElmHSsEkIzM2w5JU6pME//vDb8RyjzHORZeHVQ3QDXuqhOIH8s9YG8hxFSYcGWr6D6ocKmAZLvSRzP2mzfaZDR1NDBk4zHlUP8IwefabL2iZBZp392hRs=;7REJovmHU1Ew/FllqiFkVg=="
 ---

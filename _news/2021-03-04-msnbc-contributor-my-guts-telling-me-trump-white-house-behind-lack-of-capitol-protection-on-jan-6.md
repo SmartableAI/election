@@ -64,6 +64,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Capitol Hill riot arrest: Trump-era aide 'physically' engaged police during chaos, FBI says"
+    excerpt: "A former Trump-era State Department aide has been arrested in connection to the Capitol Hill riot, the FBI confirmed to Fox News on Friday."
+    publishedDateTime: 2021-03-05T18:49:00Z
+    webUrl: "https://www.foxnews.com/us/former-trump-aide-arrested-capitol-hill-riot-fbi-says"
+    ampWebUrl: "https://www.foxnews.com/us/former-trump-aide-arrested-capitol-hill-riot-fbi-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/former-trump-aide-arrested-capitol-hill-riot-fbi-says.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/MAGA-FBI.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "Z8+Qiwy0Q8IwWLyY4imEihg7qM8pM9pYCHGndzqOEdEcBsY4N5Bir6AwygFpExSY9g5UBusLAkQ4KEQOCX+8KEE7cUxXdr/73pyvQxQIhfR6qGBmwTzz0ozO9bFVO6FEI1RoMLpiiC2QHlGvC1AkcMcpfPnupDtkDwQLDhijJEPSVyxBmssvyqC6Kifvz98maqLuxcT8W3MZriV4R5nlHLdIbknNrKBc0OfzgzmQn/gYmjt93UvrdntICW86RBvcUTr4cLwKBSbRVaKnUdgVRttAPs0Kpbr/05W3Q1Itbd1lO1fH92ARSfs4MXe3RKuu/4AAgzLOFW4VeBkDGUs1cCHkAQGoTEk7m9WrxZ40BXc=;LmITHhRRlgtPK4M/ccwVfg=="
 ---

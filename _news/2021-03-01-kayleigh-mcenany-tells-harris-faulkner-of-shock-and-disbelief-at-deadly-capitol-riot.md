@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-exclusive-intervie
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief.amp"
 type: article
 quality: 176
-heat: 196
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -32,21 +32,53 @@ images:
     isCached: true
 
 related:
-  - title: "Cuomo won't be getting Emmy for apology 'performance,' GOP assemblyman tells Harris Faulkner"
-    excerpt: "New York lawmakers \"must act\" to impeach Gov. Andrew Cuomo, a New York State Assemblyman Doug Smith said on Thursday."
-    publishedDateTime: 2021-03-04T20:38:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iJPqXU--9FM/andrew-cuomo-apology-performance-faulkner-focus"
-    ampWebUrl: "https://www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp"
+  - title: "Sen. Johnson to Harris Faulkner: Biden's open-border policies creating 'disaster'"
+    excerpt: "Sen. Ron Johnson, R-Wis., says he believes the migrant surge at the U.S.-Mexico border is a “disaster” created by the Biden administration’s policies."
+    publishedDateTime: 2021-03-05T18:03:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/siK_mDXG2ws/biden-immigration-policies-crisis-disaster-border-sen-johnson"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 195
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/829450ef-575e-47e0-9c15-f53da93367fa/62fb6c22-123b-4d4d-8e08-bea04dd2b512/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration to open new tent facility in Texas amid surge in migrants at border"
+    excerpt: "The Biden administration is preparing to open a new tent facility in Texas to hold migrants crossing the border, as officials scramble to deal with the combination of a surge in numbers and the challenges of COVID-19."
+    publishedDateTime: 2021-02-27T00:34:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cfqi7DKJuzM/biden-tent-facility-texas-migrant-border-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tent-facility-texas-migrant-border-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tent-facility-texas-migrant-border-surge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b48a47cd-3183-4996-949f-3e4f4c601453/7ed4b063-ff82-46c7-981a-7ed5e85dc5ab/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden administration facing dramatic surge in unaccompanied children at the border: report"
+    excerpt: "The Biden administration is facing a dramatic surge in unaccompanied children at the border, a sign of how resources have been overwhelmed within just a few months of the new administration."
+    publishedDateTime: 2021-03-04T21:18:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6GqycA7meac/biden-administration-surge-in-unaccompanied-children-at-the-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-surge-in-unaccompanied-children-at-the-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-surge-in-unaccompanied-children-at-the-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d29a8fee-9475-4214-a157-4aebea5aafa6/92d864e5-94f1-4bd2-9581-282bad24da87/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "N2lkcryYqIFaBkgMq8fkKTRUgtDZzicpTANXp09htMMQim4sapFxHU4MbI0KalioC5XlTn5a9YduQwuOg4hD1mu9Ay2i5QmQdyOMUasHKo0tR8moreHvYLojVsIncqUBD0EdV4GXk1NxfMKdcBb/4XryD17E1yUGohuRlG21nckWSgSa4U99L/fIAEgjKL8LTCBg0xGHxPNZV3uQjH+BtT/4hWgJasxe/sJCDH4m656N/eN8PqmD2maRSpQ/SGx/aAAoswZpYFwBYEUE7Fxqk/v2bOEqZU1dISod95blbSwUJas/TpuBUyACgzn5+KR99VqT4oXpVW30lL30ziQwxteSjiaV0lD/fyck2roGXzQ=;BpT3tNanJHXjROlIdT4FIA=="

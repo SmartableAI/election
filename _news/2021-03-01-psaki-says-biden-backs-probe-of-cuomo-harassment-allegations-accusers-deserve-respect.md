@@ -31,156 +31,108 @@ images:
     isCached: true
 
 related:
-  - title: "Psaki pressed on whether Biden admin taking credit for Trump accomplishments on vaccine partnership"
-    excerpt: "White House press secretary Jen Psaki was pressed about the Biden administration's taking credit for a partnership between Johnson & Johnson and Merck."
-    publishedDateTime: 2021-03-02T23:52:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 176
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Ted Cruz won't travel with Biden on Texas trip following Cancun gaffe"
-    excerpt: "Sen. Ted Cruz, R-TX, will not accompany President Biden on Air Force One during his trip to assist with recovery efforts and survey damage related to destructive winter weather conditions in Texas, White House Press Secretary Jen Psaki said Thursday."
-    publishedDateTime: 2021-02-26T02:44:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rnUcFsujNew/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe"
-    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-wont-travel-biden-texas-trip-following-cancun-gaffe.amp"
+  - title: "Biden, Cuomo didn’t discuss COVID nursing home scandal, Psaki says"
+    excerpt: "It was the elephant in the Oval Office, but somehow, President Biden and Gov. Andrew Cuomo didn’t discuss his COVID-19 nursing home scandal when they met last week."
+    publishedDateTime: 2021-02-16T21:37:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/srKMzc1VH-Y/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cuomo-didnt-discuss-covid-nursing-home-scandal-psaki-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3a9250b-c67e-4fc2-8773-b09a51a26cf2/ac28a3f8-2e0a-4d8e-810a-92aa3e576e37/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Oval2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Haley slams media, Biden for Cuomo praise amid nursing home scandal"
+    excerpt: "Nikki Haley on Wednesday ripped into media outlets and President Biden for praising New York Gov. Andrew Cuomo’s handling of the pandemic response -- as the Democratic governor faces renewed scrutiny of his nursing home policies."
+    publishedDateTime: 2021-02-18T03:23:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ts94TZbx29E/haley-media-biden-cuomo-praise"
+    ampWebUrl: "https://www.foxnews.com/politics/haley-media-biden-cuomo-praise.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-media-biden-cuomo-praise.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4f8e7427-4d69-4533-a736-d7151e217b10/5054fe18-4741-4167-8a75-983f033a5534/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Psaki won’t say why Dr. Seuss was dropped from Biden reading proclamation"
-    excerpt: "White House press secretary Jen Psaki wouldn’t say why President Biden dropped Dr. Seuss from \"Read Across America Day,\" the annual celebration of reading in honor of the legendary children’s author."
-    publishedDateTime: 2021-03-02T20:13:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ofhqkJyczYE/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp"
+  - title: "Republicans say Biden COVID package pays off teachers union ‘ransom note’"
+    excerpt: "Senate Republicans condemned President Biden’s latest COVID relief package as a partisan \"liberal wish list\" during Tuesday’s press conference, but school funding is receiving the most backlash. "
+    publishedDateTime: 2021-02-23T21:26:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ylfeu5d4rZY/gop-says-bidens-covid-package-is-a-payoff-to-the-teachers-union-ransom-note"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-says-bidens-covid-package-is-a-payoff-to-the-teachers-union-ransom-note.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-says-bidens-covid-package-is-a-payoff-to-the-teachers-union-ransom-note.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Homan fires back after Biden DHS secretary slams Trump immigration policies: ‘Don't tell me about compassion’"
-    excerpt: "The Biden administration's immigration policies are not as compassionate as they are making it out to be, former ICE Director Tom Homan said on Tuesday."
-    publishedDateTime: 2021-03-02T14:12:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aTZim8tk9C4/homan-biden-dhs-mayorkas-trump-immigration-border-crisis"
-    ampWebUrl: "https://www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Jen Psaki defends Biden 'Neanderthal' reopening quip targeting Texas and Mississippi"
-    excerpt: "White House press secretary Jen Psaki said President Biden’s “neanderthal thinking” quip about states removing their mask mandates was an expression of his “frustration and exasperation.” "
-    publishedDateTime: 2021-03-04T19:27:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5-q5Q7GqrE/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4e6ba441-6c4c-4109-a2bc-0b9e22da9c6f/99201b4f-f627-459a-a870-4444f62d790b/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden won't deliver speech to Congress until after vote on coronavirus bill, Psaki says"
-    excerpt: "White House press secretary Jen Psaki said President Biden will wait to address a joint session of Congress until after Congress decides on the American Rescue Plan, his coronavirus relief package."
-    publishedDateTime: 2021-03-03T20:00:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drcOHAb5y6o/biden-no-speech-to-congress-until-coronavirus-bill-passes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-speech-to-congress-until-coronavirus-bill-passes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-speech-to-congress-until-coronavirus-bill-passes.amp"
+  - title: "Biden's positive poll numbers on combating COVID nosedive over school reopenings"
+    excerpt: "Fifty-eight percent of Americans approve of the job President Biden’s doing handling the federal government’s response to the coronavirus pandemic. But the same survey from Quinnipiac University also shows that when it comes to the president’s handling of the reopening of schools amid the COVID crisis,"
+    publishedDateTime: 2021-02-18T03:19:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CcAapVAvT0k/bidens-positive-poll-numbers-on-combating-covid-nosedive-on-school-reopenings"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-positive-poll-numbers-on-combating-covid-nosedive-on-school-reopenings.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-positive-poll-numbers-on-combating-covid-nosedive-on-school-reopenings.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 170
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Psaki: Biden admin 'committed to fighting our hearts out' for Tanden, raising minimum wage"
-    excerpt: "The Biden administration remains committed to \"fighting our hearts out\" for Budget Director pick Neera Tanden, Biden's press secrestary said Sunday."
-    publishedDateTime: 2021-02-28T15:10:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToK0jmcWdGc/biden-neera-tanden-omb-minimum-wage-jen-psaki"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-neera-tanden-omb-minimum-wage-jen-psaki.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neera-tanden-omb-minimum-wage-jen-psaki.amp"
+  - title: "Merrick Garland to be questioned on Cuomo, Hunter Biden and more at AG confirmation hearing"
+    excerpt: "Judge Merrick Garland, President Biden's pick to be the next attorney general of the United States, is likely to be grilled by Senate Republicans Monday on hot-button issues, including the Cuomo nursing home scandal, concerns about Hunter Biden and more. "
+    publishedDateTime: 2021-02-22T12:29:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gOYGTw5zcIA/biden-ag-pick-merrick-garland-cuomo-hunter-biden-hearing"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ag-pick-merrick-garland-cuomo-hunter-biden-hearing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ag-pick-merrick-garland-cuomo-hunter-biden-hearing.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 165
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/neera-tanden.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Biden focused on COVID vaccines for 'every American' before aiding other nations, Psaki says"
-    excerpt: "White House press secretary Jen Psaki on Monday said President Biden's focus is making sure \"every American\" is vaccinated before discussing helping other nations with their COVID-19 vaccination process."
-    publishedDateTime: 2021-03-01T19:26:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rNnAKyaLtEQ/white-house-biden-focus-americans-vaccinated-foreign-aid"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-focus-americans-vaccinated-foreign-aid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-focus-americans-vaccinated-foreign-aid.amp"
+  - title: "Biden COVID adviser can't explain why closed California isn't doing better than open Florida"
+    excerpt: "White House COVID-19 adviser Andy Slavitt appeared stumped Wednesday when asked on MSNBC to explain California and Florida’s similar COVID-19 trends, despite having wildly different responses to the pandemic."
+    publishedDateTime: 2021-02-18T01:03:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yl5oqK3rHHE/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-california-floridas-similar-covid-numbers-beyond-explanation.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/92e33c48-a88b-4023-8a75-9948aa3420a8/e2ac6695-f16c-45b7-93aa-f7b786b163e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden wants new war powers vote in Congress for authorizing America's foreign wars, Psaki says"
-    excerpt: "The White House on Friday said it is \"committed\" to working with Congress on new legislation to repeal current presidential war powers to be replaced with a \"narrow and specific framework\" to protect U.S. national security, while \"ending the forever wars.\""
-    publishedDateTime: 2021-03-05T16:16:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bBbZA3LIPAk/biden-powers-vote-congress-psaki"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-powers-vote-congress-psaki.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-powers-vote-congress-psaki.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Psaki defends Biden's Syria airstrike decision as progressives push back, some Republicans applaud"
-    excerpt: "White House press secretary Jen Psaki defended President Biden’s decision to issue an airstrike against Iranian-backed forces in Syria in retaliation for recent attacks on American service members, saying it was a \"proportional military response.\""
-    publishedDateTime: 2021-02-26T20:08:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/i8MjENiC2Rw/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-defends-bidens-syria-airstrike-decision-as-progressives-push-back-some-republicans-applaud.amp"
+  - title: "Psaki won’t say if Biden has confidence in Cuomo amid nursing home controversy, despite past praise"
+    excerpt: "White House press secretary Jen Psaki on Friday dodged a question about whether President Trump has confidence in New York Gov. Andrew Cuomo amid the controversy surrounding underreported COVID-19 nursing home deaths in the state."
+    publishedDateTime: 2021-02-12T19:37:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DJYVipWGfqw/psaki-dodges-question-on-cuomo-performance-amid-nursing-home-controversy"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dodges-question-on-cuomo-performance-amid-nursing-home-controversy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dodges-question-on-cuomo-performance-amid-nursing-home-controversy.amp"
     type: article
     provider:
       name: Fox News
@@ -191,101 +143,53 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Top Biden adviser pushes reparations commission, predicts progress 'breaking down systemic racism'"
-    excerpt: "White House adviser Cedric Richmond said it is “doable” for President Biden to make progress in his first term to break down barriers for people of color, as the administration supports a study on potential reparations for Black Americans."
-    publishedDateTime: 2021-03-01T20:13:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpFWpJ_8yQQ/top-biden-adviser-pushes-reparations-predicting-progress"
-    ampWebUrl: "https://www.foxnews.com/politics/top-biden-adviser-pushes-reparations-predicting-progress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-biden-adviser-pushes-reparations-predicting-progress.amp"
+  - title: "Psaki says Biden 'respects this kind of protest' as Mark Cuban stops playing anthem at Mavericks games"
+    excerpt: "White House press secretary Jen Psaki said she hadn’t spoken to President Biden about Mark Cuban’s decision to stop playing the national anthem before Mavericks’ games, but believes he respects this kind of peaceful protest at sporting events.  "
+    publishedDateTime: 2021-02-10T19:50:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GekeFAYbQE4/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-great-respect-anthem-respects-peaceful-protest-psaki-says-mavericks.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 159
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Psaki2.jpg"
+        width: 1280
+        height: 721
         isCached: true
-  - title: "Not so fast: WH dodges on whether Biden agrees with Kerry nine-year deadline to avert climate catastrophe"
-    excerpt: "White House Press Secretary Jen Psaki stopped short of saying President Biden is on board with the idea that there are less than ten years left to thwart the worst consequences of a global climate crisis."
-    publishedDateTime: 2021-02-23T21:07:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xPLFWBexWwo/psaki-biden-kerry-climate-prediction"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-kerry-climate-prediction.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-kerry-climate-prediction.amp"
+  - title: "Biden distances from Psaki comments on schools being open 1 day a week: ‘A mistake in the communication’"
+    excerpt: "President Biden on Tuesday night distanced himself from previous comments by White House press secretary Jen Psaki that the administration's goal for its first 100 days was to have more than 50% of schools open at least one day per week."
+    publishedDateTime: 2021-02-17T14:21:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PnxxNnO4wWg/biden-distances-from-psaki-comments-on-schools-being-open-one-day-a-week-a-mistake-in-the-communication"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-distances-from-psaki-comments-on-schools-being-open-one-day-a-week-a-mistake-in-the-communication.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-distances-from-psaki-comments-on-schools-being-open-one-day-a-week-a-mistake-in-the-communication.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2948c6c3-ebed-4fa1-b506-498478699919/13ae4fb4-3aad-4947-bbe5-bd6a698c6e05/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden to begin bipartisan work to 'end cancer as we know it,' Psaki says, calling it a 'priority' for admin"
-    excerpt: "President Biden and Vice President Kamala Harris are set to meet with a bipartisan group of lawmakers in the Oval Office on Wednesday afternoon on the work to begin \"end cancer as we know it,\" White House press secretary Jen Psaki said."
-    publishedDateTime: 2021-03-03T18:34:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMuDiezVOpc/biden-cancer-research"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cancer-research.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancer-research.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Kissinger says Trump, Nixon foreign policies similar, warns Biden on Iran"
-    excerpt: "Dr. Henry Kissinger, the former secretary of state for both Presidents Richard Nixon and Gerald Ford, likened President Donald Trump's Middle East diplomatic achievements to Nixon's opening of China in 1972."
-    publishedDateTime: 2021-03-04T01:17:00Z
-    webUrl: "https://www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar"
-    ampWebUrl: "https://www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kissinger-trump-nixon-foreign-policies-similar.amp"
+  - title: "Psaki dodges question of whether Biden still considers Cuomo 'the gold standard' for COVID-19 leadership"
+    excerpt: "White House press secretary Jen Psaki dodged a question on Sunday regarding whether President Biden still considers New York Gov. Andrew Cuomo “the gold standard” for leadership during the coronavirus pandemic."
+    publishedDateTime: 2021-02-21T17:26:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MyXfuRFS1to/psaki-dodges-question-of-whether-biden-still-considers-cuomo-the-gold-standard-for-covid-19-leadership"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-dodges-question-of-whether-biden-still-considers-cuomo-the-gold-standard-for-covid-19-leadership.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-dodges-question-of-whether-biden-still-considers-cuomo-the-gold-standard-for-covid-19-leadership.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 149
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4ce8712-c550-4132-901c-bcfbd56c9541/40c34bf2-87b8-4fe1-af83-c111b185dbe9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden's release of report on Khashoggi killing shows difference from Trump's approach, experts say"
-    excerpt: "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge,"
-    publishedDateTime: 2021-03-02T13:30:00Z
-    webUrl: "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-release-khashoggi-killing-report-difference-approach-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 136
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6135620-aa93-4f89-89c8-d3f90db43495/edbfa245-82dc-4205-9d6f-f6a77fc1d355/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "McEnany on Psaki's performance: I didn't have to 'circle back' because Trump gave me access"
-    excerpt: "Former White House press secretary Kayleigh McEnany said Thursday she didn't need to a \"ton of circling back\" with reporters because of the access afforded her by former President Donald Trump, in a reference to successor Jen Psaki's go-to line when she can't directly answer questions."
-    publishedDateTime: 2021-03-04T14:40:00Z
-    webUrl: "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access"
-    ampWebUrl: "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e464313-ed77-41c9-b931-b2206dfad890/ed9febb7-24a2-4cf4-b2f0-ee81280ac2cc/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "oqRkcVt2b/wivCZQnt4Zb8qGbbyXuFv4yDxtZG7ug85JoKrX0U27djdtY9QNZNtA7mhIDmhX/SjQBy3WNjOm7+wVWv7yThdZWNZYjAL31xmLGXYCx3x8Ux0eozysrW6QCGN++zGyhh3y0zKKbyxAAMRdfPAmNWXHIKilMOpDeFwdcy6dPxMf/HI4GWKlAreVTFARmJN12tX43dVd/GucpfhKA1ERiI7ITBOKNjdLnbxqcH4k0pNDkWpdhx1OozVXbTOHvJKomRlj2+oi/9ZgRKJPTq6ZLE23iEOM/p5hie6P7nj48yl1eTahpSx07s1wZkQTBJZqpZBLvvwZKcCSe/BLsWa2WVlg+HVKUtS/B5Y=;BSyddJYPkeqzPP3y7GP2VQ=="

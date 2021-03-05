@@ -173,6 +173,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Fact Check: Did YouTube Ban All Copies of Donald Trump's CPAC Speech?"
+    excerpt: "Following Donald Trump's speech at the Conservative Political Action Conference (CPAC) in Orlando, Florida, on Sunday, social media users have expressed concerns that it is being banned by YouTube."
+    publishedDateTime: 2021-03-05T18:37:00Z
+    webUrl: "https://www.newsweek.com/fact-check-did-youtube-ban-all-copies-donald-trumps-cpac-speech-1574133"
+    ampWebUrl: "https://www.newsweek.com/fact-check-did-youtube-ban-all-copies-donald-trumps-cpac-speech-1574133?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fact-check-did-youtube-ban-all-copies-donald-trumps-cpac-speech-1574133?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1749777/president-donald-trump-speaks-2021-cpac.jpg"
+        width: 3000
+        height: 1945
+        isCached: true
   - title: "Capitol Police chief faces questions about security plans after pro-Trump riot"
     excerpt: "The acting chief is expected to ask for more funding to pay for physical barriers and additional deployment of law enforcement, as lawmakers worry about turning the Capitol into a fortress."
     publishedDateTime: 2021-03-03T14:58:00Z
@@ -327,6 +343,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump Faces New Lawsuit Over Capitol Insurrection"
+    excerpt: "The lawsuit, which claims that former President Donald Trump and his allies incited the mob that attacked the Capitol, is the second major legal action against Trump in connection to the riot."
+    publishedDateTime: 2021-03-05T18:19:00Z
+    webUrl: "https://www.usnews.com/news/national-news/articles/2021-03-05/rep-eric-swalwell-sues-trump-and-allies-over-capitol-insurrection"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "laWmU3UhxdqL0B9zUanC+W4CgtbMs62ceeC3GV5+tO0tiQC/AFXeGyXvlHCrYzOGpx+POiefrZaKU8OH3LzUOf8E2jEUq0i+JteZOf4NnSctE6QTzh2ouGvKsa0Y5DWN1Hn65w5+MlV91oOiveyj27HXYADm6WDuvEnQ/AVDsD1ftPkbCz0iLnkNIHFMGF/43UtY7krjGtJaybWJDQ9Asa0lMFEobVoa5vDA4gua/qbt6iyr0v4ilB8Iz0v9CxX8vMiPJex4OTME53pCl0LlQUbjzwiAB+JF+Ahy3Y2BIhsaqtPxFaxYwEkQvzQ7a8Q3XrN5CYJTtenXs/AbzQ0Q1XVm6AbgxyeLF5+L//A31GLMzXo+YfEkplMsh0BDHcod2gF0jAkrCSDYjBLAG19SHcFVZRvIzd2DmTHi5HNHaGHiTNugMeQmCSALZbVWFYvsTkY9Lgz975WQteaEzNSwTqNWD1i2ZfYY4NuW0KONYGUBZTX4nmqn6f5eUndt4p9zxYyGrahAuLRbIRfoETnZdQ==;1aBNcUe+Y+6maZO4fmWw1Q=="
 ---

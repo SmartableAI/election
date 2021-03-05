@@ -143,6 +143,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "McCarthy struggles to manage Trump"
+    excerpt: "Sources tell Playbook that McCarthy has been trying to persuade Trump not to seek revenge against 10 Republicans who voted to impeach the former president — members who could be critical to McCarthy’s bid to retake the House and become speaker."
+    publishedDateTime: 2021-03-05T11:16:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/03/05/mccarthy-struggles-to-manage-trump-492003"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/bd/e8/8bf3a22247ed9ed9cbb485ee0641/210304-trump-mccarthy-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "mJqPfkt8/+897ajNwGnE/ieXQTrQ8Gkp+IhxRWeIkIAdFdVPo0e3KYTiND95p2FLXz7ZJ7VL1nsxVa6hurbOl7cMsB0RP9KnFVipTrQRHnvrS07lJT1HQUTf/FCzkh3t3siC/J0/2W25XvpKITJUqjq5Pj7i0Z3MK8jr3bHn2pyFF9D4lKmhE4oEdseEgd+Ffv+Nibr2XiA7RjC1Uiws7cC7F6Ge7d7UVWIgqUhhLwdnlTIdgeb3YSARPhXbgp2CdJ0v3fKohSbb+TVaz0EsVFSLEDAiZufG3PA93CZMfbK4ytw3upZqlb5ZCJKkpEIKCNMOwIBfapQNrRngYVQTkcJdK/hkbTDXHN3fVLJ0qbA=;0kBXekq0jdaWSru4TyofBw=="
 ---

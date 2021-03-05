@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trumps-coronavirus-vaccines-white-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-coronavirus-vaccines-white-house-in-january.amp"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c1825e5-665b-4d6e-bdd9-e3620f0df14c/006cbacc-2b51-4eab-b974-d936fecaf019/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Ex-State Department Trump Appointee Arrested in Connection with Jan. 6 Attack"
+    excerpt: "Federico Klein, a former midlevel administration official who also worked on the 2016 Trump campaign, was arrested on charges of assaulting police during the Capitol riot."
+    publishedDateTime: 2021-03-05T09:43:00Z
+    webUrl: "https://www.wsj.com/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 132
+    images:
+      - url: "https://images.wsj.net/im-308038/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "Nuz121seKVfG/Z+XhdtWo3wtERpXe+ba1Zazgm/lHEcIA34K7BmSjt3oeMX/LoTiREWiZWRoebX3Mfn9C7X/FmewYksXTrfFFpOvz64otms0b69wK6gALafCdFkcA6OzVYd9lyLpVLhq8chvbhwM8jt2CR6uRwrDRIsfzTLFy80QJOWQaFnsITVJVPc4qOtEJSGAiXkgQ9LoASX04vklN+nQF9aUNF2z2uXbuTM0ymYwR3E+Cc5uB9/VBHJH02vw2GF79VN850TtWYc/ILwdZJ/ZxT2mnJUafj+JcneSdJoZqcFCGUSHeapJAf7cXqELOFYDCUWS/knusil7rLzh055cogfu/sRANF1+/IZ6m8g=;5+aVbwXhBoeQBJeHLMckiA=="

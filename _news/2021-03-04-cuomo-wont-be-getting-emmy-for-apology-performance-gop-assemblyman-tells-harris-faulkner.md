@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/andrew-cuomo-apology-performance-fa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp"
 type: article
 quality: 174
-heat: -1
-published: false
+heat: 194
+published: true
 
 provider:
   name: Fox News
@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Kayleigh McEnany tells Harris Faulkner of 'shock' and 'disbelief' at deadly Capitol riot"
-    excerpt: "Former Trump press secretary Kayleigh McEnany has described her emotions during the Jan. 6 attack on the U.S. Capitol in her first interview since leaving the White House."
-    publishedDateTime: 2021-03-01T22:41:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E-D-HF2SU8c/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief"
-    ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-exclusive-interview-capitol-riot-shock-disbelief.amp"
+  - title: "Kamala Harris silent on mounting Cuomo allegations after Kavanaugh crusade, #MeToo support"
+    excerpt: "While more and more members of both parties are weighing in on the sexual harassment allegations brought by multiple women against New York Gov. Andrew Cuomo, one voice absent in the conversation has been Vice President '."
+    publishedDateTime: 2021-03-02T15:36:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 176
+    quality: 125
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04d2b9b6-650e-49fb-897f-b5c0cfa14348/93273dfe-1ab6-428b-9db2-dbe01a569bf9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "glI1g83CFUe8vKZFHOxRtN8ttp8kBzM7RhkfjYqWoAbLh6aK5btjxlx/2weq+yjLnBw0acmmdoVsQzBeATH4Y5oP/hiz3ztR5+pUWTADTH5wYMnFo8diO8ddF6VryLxh4zNB9lqjgUyOQPGZIOs0BKVy66rxPBJEuZKGCvvordNYtLDAwp/5vilO6Dv5ezwr2mzXes5v0hrQR/blzBCaoxA6VctWGo2PtJAgrSy+disjrpLyXplRwcJPL9iqpVN/zHum9cQk6q2cidXYCMysHhdD3vhPmBwtyEH5KZgSqCeItAdWq/QNkCOjLcJj4Xyo2Tr0C7s5Hn9OqASGAOO8mjEZTy+47lDc9jCGYeFjILQ=;3oTSdgVW4f9BnjMeR+4VWg=="

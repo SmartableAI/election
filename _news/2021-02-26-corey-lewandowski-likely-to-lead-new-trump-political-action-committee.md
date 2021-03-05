@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-political-action-committee-co
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-political-action-committee-corey-lewandowski.amp"
 type: article
 quality: 175
-heat: 235
+heat: 215
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055611217771.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "How Mike Lee Ditched Constitutional Conservatism for Trump"
-    excerpt: "I didn't watch much of this year's CPAC. My digestion is sound, but there's no point in taking unnecessary risks. Still, I did note the presence of Sen."
-    publishedDateTime: 2021-03-05T12:35:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/03/05/how_mike_lee_ditched_constitutional_conservatism_for_trump_145353.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/05/how_mike_lee_ditched_constitutional_conservatism_for_trump_145353.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/05/how_mike_lee_ditched_constitutional_conservatism_for_trump_145353.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/536919_5_.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "7/EFSvkUAGzmIK+hg9ua8FZnSo+815ZlMGMR3TWkf+2D2wcviH6c9hhrT09Q8ih6u7iwuURsn5yA4UBvkiKnEiVvSLMCn6aKC8uPwfWClFlcKThzSF0ULTAOxlQVEX6f+lC8tkTtjVtmlCXteeZo4b5jgXgDQuhE5rlfAoeY6QWIirWadGo9lzviPXnuEb7oEu27hTPopeJwnLExlZwKpb+LwCJeYTjsYoUkVhFiEEgNVJP4ecsRsJRJ4csbJxYc8zKSh8eVhsH6BXRC8lHh7WuJgPxOLfVelaVtUS+PpCtDhMJL1Cvj/2mlsZ4waTxNNzOdqBXtc50kBuvotm9sq90XFDLTGm2N2/0bahkwAJ0=;OEmEvfRFeysj8SudPNuUoA=="

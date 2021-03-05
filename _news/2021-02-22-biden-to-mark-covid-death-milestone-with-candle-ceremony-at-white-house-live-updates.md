@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1687
+heat: 1707
 published: true
 
 provider:
@@ -1237,6 +1237,20 @@ related:
       - url: "https://c.ndtvimg.com/2021-01/r04g56a_joe-biden-650_625x300_25_January_21.jpg"
         width: 650
         height: 400
+        isCached: true
+  - title: "Joe Biden exaggerates support among economists for his $1.9 trillion COVID-19 relief plan"
+    excerpt: "See the sources for this fact-check President Joe Biden has made beating the coronavirus and repairing the economic damage it unleashed his defining priorities. The central pillar of his strategy ..."
+    publishedDateTime: 2021-02-18T19:07:00Z
+    webUrl: "https://www.politifact.com/factchecks/2021/feb/18/joe-biden/joe-biden-exaggerates-support-among-economists-his/"
+    type: article
+    provider:
+      name: Politifact
+      domain: politifact.com
+    quality: 46
+    images:
+      - url: "https://static.politifact.com/politifact/rulings/meter-mostly-false.jpg"
+        width: 438
+        height: 392
         isCached: true
 
 secured: "HQWq0XqYSvF5/SlB6ELxVlGNDqDvaeU1XKQF1rvA5nrVQ1VJmjsyDPfETWbsD3ZxTjhGLiJiJheh3Bs01QYer2WqN0GXWcYzQM2sVbrQaz/KciVv61MCp0JndqM7gBOnsv/HBE99E6acNGkMg9P2QBYp6hi+8Wxa0DDBr23AypvTo3IVq9fwChBTyeq4zRaOp8/pDypxaPV8DBexYgugKJnpAYvSYVYY0UltzQsYPj88tOtBKbbIbWXpMEPSSPZIw4tYySlpbD0F6g25W8tludLwaPrFFP+xeGij0Aay0coOW9nfqQpdKs2wXJ1ADiLSlyrBxaaFJrkJsrBW6d2Ye5t0y4DWmAMm77LoK11g9WvLFPBm4IMF0PxOwaAJjLyGgAA0nJKPFdRlsDtYsJ6ICWiZLdBT/LQ0HoCAJv4iJLJERD19P04y8KbdJpsvmFigIQ6bHAxyoEwgBFJ8X+ktqQm/Pettgyi42KrnX6ilqwn3cuK27o5KCT7SxtSEOTUkti2MdJTt7YnpmrMS6hO8uw==;TAs0YPP41IsvYB3xmirWbA=="
