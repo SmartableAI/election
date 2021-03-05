@@ -109,6 +109,15 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "U.S. Representative Swalwell Sues Trump Over Jan. 6 Insurrection"
+    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
+    publishedDateTime: 2021-03-05T14:00:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-05/us-representative-swalwell-sues-trump-over-jan-6-insurrection"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "3XXdej8YHG/w3Fk2PX7aQlCH4JJv+BxbPM+MjqnNBZk6oIMHrhYg8mNhnc9ZkuADeuZzDo0mEN36GjDOSm+xC3lrJIqzB9LQvDzCv3kMnaVNwwFKuivXoKZFWicoUoyT+i66f/PX5l5NieMbKQtb4QtKbzQaWUB2HrDKrsB8PTV2u2sCtl7f50JmydyfR0DHkFWof3fHZ9/jFrf6RzESYaT0vyFonCP9tcn+NxrhpZTyrpfa4CqO5BK8SNJYguFNnZHef0WLbn+zH9WpML5zR2ysfGqNCUME2rVo4NoRqEQ17SqXITCpaLl8i3DSW1myZvojF8XU6G3tHvJ6XmSF37j4y+kGJLuxPahySTEPIYYzzRGHM/r8BA8ugNH9sokw2yqpwGc0xXrITv0YWdRDyZ6gCpOM49Q6FSVR3EfM7keFZw+HT3TULvauKxKCXOwz3pW4kP5cXzOceWBWbqBJn+JZpRJxJD23yBtlGYWEyEz0zRnMSVmGV0TUEZPlUsUvxiVwIhYlQNygkHSj+HNf2Q==;FnsM9r8ySshqn0B7NScWrw=="
 ---

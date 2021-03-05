@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Georgia GOP Leaders Who Stood up to Trump Back Voting Bills"
-excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud."
-publishedDateTime: 2021-03-05T05:28:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-03-05/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-03-05/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills"
+title: "Georgia GOP leaders who stood up to Trump back voting bills"
+excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud"
+publishedDateTime: 2021-03-05T10:21:00Z
+originalUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html"
+webUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
-quality: 35
-heat: 35
-published: false
+quality: 125
+heat: 145
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +24,30 @@ topics:
   - Election
   - Donald Trump
 
-secured: "R1cyMGlUXTVgYvxm9f/na9uDNj88M5v6/Jx01ByzWF1m+YVdVK0MsTwQWKZtooR9Pxs2pCQVVQklcWOOhNgIw9JgYF4vbmLvfuyfSJI6upV+FsVoiGKbYrQX5lcIb4ZhctPCAduWC/bxONO4GJUm5Ck1WrRKHtqnjM6WHKxZpQXdnBa1w3MndSwL8LIrhXJcr9o2uMzsHSRhxB/uPczHZ/UnMRAPOcUkXv0aM9lVzx6Gk5LymkrM8Mxdd/xz1Nab5ooVoC27a6bGdR4h8DZKzCzG5V9dpaAc0PKPU5BsomwuWU3l3/IKvJKw4orhfDko2o160eYNA+8FxQTumLPCm0z4Fr9Q3ly2uodXoCxLAh3k7h7Kebkfo2VY4ozvsscu4Mp+Ep8VycpwUwgAOah9rn5FEwwPe3q89TURqUD6Jhd7ZouvntlxtDT/A0fFhsxzAww0JSKmOMELMs+Rrt92SkCEW/E85v71eZW8kQj2PZuSEte46toC+h21EZ0fQlFFvU87BCjj/iiZNiM9I0/jLw==;snME3HLK0um6rmmfBqthyQ=="
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
+
+related:
+  - title: "Donald Trump Rebukes WSJ After Editorial Board Suggests the GOP Look Past His Presidency"
+    excerpt: "\"Fortunately, nobody cares much about The Wall Street Journal editorial anymore. They have lost great credibility,\" the former president said in a statement."
+    publishedDateTime: 2021-03-04T18:30:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1749736/donald-trump-cpac-appearance-2021.jpg"
+        width: 3000
+        height: 2364
+        isCached: true
+
+secured: "4jnDlaaAP/pW8ThTk9O1v5xyzIqbmMbMI/3i+aNtxf+vOAqjq3dGwsc7TWeyHBDQRTd6VqlSIdmvnfMDoMnbr70m3wKwPuvrmaXzAMWdX8j+kYahEC6lbiUYvnf6AKBT4EEHUkvvW++ofdS9c0Rs//KKXOq01Op482X6adk2ldGTmWw0o103CGH/zGy7BuVvN2J+GzcFnCDUTD1XZyrtfYIehq2WGI//QKqnVzNY/SEZIt6VN+wlDmG6Ej02OAo5QAZM4LDJcsPGO5VA+pKyp8vPRvb2ODrYQX3spyToLENoGAA+7GB3K13Gi8HZklFLAoPmk+Tg70PbL/+I/lq+o7GFhJ1BgOHXzjXeEeM/rWE=;Ni7U3e14utxxW/W1A93C/Q=="
 ---
 

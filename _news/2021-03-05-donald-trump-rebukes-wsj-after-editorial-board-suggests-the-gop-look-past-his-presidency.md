@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Donald Trump Jr. Suggests 'RINO Policies' Part of What Led to Trump Presidency"
-    excerpt: "The former president's son delivered his remarks at CPAC during a scheduled \"Reigniting the Spirit of the American Dream\" speech."
-    publishedDateTime: 2021-02-26T21:51:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-jr-suggests-rino-policies-part-what-led-trump-presidency-1572518"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-jr-suggests-rino-policies-part-what-led-trump-presidency-1572518?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-suggests-rino-policies-part-what-led-trump-presidency-1572518?amp=1"
+  - title: "Georgia GOP leaders who stood up to Trump back voting bills"
+    excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud"
+    publishedDateTime: 2021-03-05T10:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 121
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1744585/donald-trump-jr-cpac.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
 
 secured: "KNkrfttQd/JN1vYM81UvJOObuXfrkjm61WmXzyJQ28qSaiBmSNAz0M1AHQI9UPOv2NXTUBeUG2+iuLxe+b9O6u/r3R69aUsmtPr52pNISxl+qX3dY2Q8nqQj/mOltGjQ53XjKJ0UJuKDZh2ReexKQAGeFwa6k+GV+eaB77t6x0Sprkf8gCbnaSa2LdkxnPa6TNkmwvoDPq16yVbazgBbv164dqMlDH8d/ehh2NwaD0SBazSJKNCP2HNADsWm0+4e08z0L6uUM0FSjtLujG7N5YEGvNubrBcnuR0OHNr9JCONyZq/7j/B1fotxFtnG/JVf7s7wA/NpyBA/rb2Z0Fgvfc+c0PcUtjfGNY9IKakkiI=;wpPK3RG1OaQ8Yh/yaiwOWA=="

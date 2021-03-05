@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-sup
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-supporters-not-antifa/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former impeachment manager files federal lawsuit against Trump for the Capitol riot."
+    excerpt: "The suit from Representative Eric Swalwell accuses Mr. Trump and several allies of inciting the attack and conspiring with rioters to try to prevent Congress from formalizing President Biden’s victory."
+    publishedDateTime: 2021-03-05T05:28:00Z
+    webUrl: "https://www.nytimes.com/2021/03/05/us/trump-sued-capitol-riot.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/05/us/trump-sued-capitol-riot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/05/us/trump-sued-capitol-riot.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 128
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/04/us/politics/04new-washington-briefing-swalwell/04new-washington-briefing-swalwell-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump supporters are still pushing false claims that antifa was behind the Capitol riot."
     excerpt: "Brown wrote on Twitter that rioters had breached the United States Capitol — and immediately speculated about who was really to blame. “Antifa or BLM or other insurgents could be doing it disguised as Trump supporters,"
     publishedDateTime: 2021-03-02T02:42:00Z

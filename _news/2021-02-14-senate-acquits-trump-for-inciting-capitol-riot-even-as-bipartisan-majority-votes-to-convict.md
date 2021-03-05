@@ -175,6 +175,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Eric Swalwell Sues Donald Trump, Don Jr, Rudy Giuliani and Mo Brooks Over Capitol Riot"
+    excerpt: "The Democratic congressman, one of the House managers during President Donald Trump's impeachment trial, filed a civil claim against them."
+    publishedDateTime: 2021-03-05T14:47:00Z
+    webUrl: "https://www.newsweek.com/eric-swalwell-sues-donald-trump-don-jr-rudy-giuliani-mo-brooks-after-capitol-riot-1574056"
+    ampWebUrl: "https://www.newsweek.com/eric-swalwell-sues-donald-trump-don-jr-rudy-giuliani-mo-brooks-after-capitol-riot-1574056?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/eric-swalwell-sues-donald-trump-don-jr-rudy-giuliani-mo-brooks-after-capitol-riot-1574056?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1750222/eric-swalwell.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Impeachment managers say insurrectionists came to Capitol because Trump 'told them to' – live"
     excerpt: "Congresswoman Diana DeGette says insurrectionists even questioned why police tried to block them as they followed Trump’s instructions"
     publishedDateTime: 2021-02-11T20:06:00Z

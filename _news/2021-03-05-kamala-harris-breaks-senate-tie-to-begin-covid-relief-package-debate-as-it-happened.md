@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – as it happened"
 excerpt: "Vice-president cast tie-breaking vote after Senate deadlocked 50-50"
 publishedDateTime: 2021-03-05T01:36:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-604145318f08d01b68d70fcb"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-604145318f08d01b68d70fcb"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-6041418c8f08acb794a3792a"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-6041418c8f08acb794a3792a"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
 type: article
@@ -366,6 +366,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "BoUCJ4bLxOUKK4azrUdOIGaF3HTkJ0kE7W05W7Fhqf65690m8XM/Rr0iuCZ2+M3o08dRIxTlz1FvbGCAzWHlWVq+Iw1u5sxS8MX5UMGP2DPx3BGW0tQqgnejs0N9ZkAjzyqhxd+kciLtbWSjm6mpEXiruJpo+VFp4zTb/SkRwWTOjat0IrO1atpYe2zNHOr6goumFawpVft7Vpw87RgrEmTtVJmnEQjS6WDBkjTRcOCE6w9WRs1A8hnz+N8/McXJm4zV1UGXxmXI5ASHEzt7o/jVDf1ABn40oH5OkaQ99W5J+W7Wmwm4SO+s6ZngE2jL8CPJ7V9qnZsiRpg7Jl3VIvE24RcM9hKz1TntJbg++TblbgU++6n4yn7igN2QfMrhSy1tmuEjDhum40UV1xAScd69L7y4mYl+WCDaq+u1s4nRBED0cUMZGc9Qa392hK1KSQBhfDoxlREa30pWHlk8rGk7UsLGQlBM99Hff3Uln8DQkp8fTzeG+W8Nv5MExPOsaIiTcDHLNuqku3pT0MybrQ==;Aml51oUwlqznbyHM1ox3yg=="
+secured: "ogxAcnBbA0AzjpIlAAstrzhzWWKsaJOU1wfU6BpMldJby4YQo/x1JIaoL7f1iB5cv9L0kJlU5wT1FctJqfQoOnnFamaDrL/0cTIhb3OpPAwyoZCmLhT8t4xjCtvxl/kAnIQqqeSxF2x4IQ1UGJ8wii5YkdSxdsa/4cnLksd7+FCkBBaDGlYoml8+rgxcr2LBgQmIQAsqvi0xyz3H4V1kb5vEtArPV7jqvjmlwlOFfaXpTopCYESJKAMumGZwpBgjetSZEKY2AFJM7lelLPGAzuHK6PGKK/WiqOz4Kv7fskV7sgQMJP7btfBlB9dkjZ5TNTdTfU5tXgp6LbDGxAqCKEHT3wWT91/8/9RCBjxFCZg=;AGTJvazPJv1cHazda6/LWg=="
 ---
 

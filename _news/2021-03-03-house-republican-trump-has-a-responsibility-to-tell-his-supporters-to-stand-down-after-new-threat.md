@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/march-4-capitol-threat-m
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/march-4-capitol-threat-michael-mccaul-cnntv/index.html"
 type: article
 quality: 159
-heat: 159
+heat: 179
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "READ: Rep. Eric Swalwell's lawsuit against Trump, Trump Jr., Giuliani and Mo Brooks"
+    excerpt: "Democratic Rep. Eric Swalwell has sued former President Donald Trump, his son Donald Trump, Jr., Rudy Giuliani and Republican Rep. Mo Brooks in a second major lawsuit seeking to hold Trump and his allies accountable for inciting the insurrection at the US Capitol on January 6."
+    publishedDateTime: 2021-03-05T13:15:00Z
+    webUrl: "https://www.cnn.com/2021/03/05/politics/swalwell-trump-giuliani-brooks-lawsuit/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/swalwell-trump-giuliani-brooks-lawsuit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/swalwell-trump-giuliani-brooks-lawsuit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 129
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191113151716-eric-swalwell-impeachment-inquiry-hearing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "+e86/mIHge67BMgTDuyoil4SuKM6wsxYtvmX/3B/Nk9PYvSOEdXThxPcyAEH15DIg1yJMuF4nVrA0DQbqSrOb5lOBilWRqmvG4SxMEWYEKS8PLv9oi99TmOoj5X3PDP7atKTAGr/w22VSKly/mSXMPYtXOMPg0o8WmIwPPJBeIo3VZGeT5tB5OZyFOqOm5PPQ1naIx0Ge3hmy4ygYtGlwFih6geS8JqoCbjKxufH6RFgUs5GSlw8acr2WuAv+cwYiIZTPpUTBWV2zg8rUEvMiEklYIPsCsni/Ssi6q340U5W+r0CSyAZNzQnP1ETFkyuvwCL090mNcxk2P6L/So5LicQUXscgdKx6sodxz6nJGA=;88+omUDjiarAHidztaLx9Q=="
 ---

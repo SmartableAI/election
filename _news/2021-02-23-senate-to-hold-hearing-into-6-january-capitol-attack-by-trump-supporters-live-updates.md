@@ -159,6 +159,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Eric Swalwell Sues Donald Trump, Don Jr, Rudy Giuliani and Mo Brooks Over Capitol Riot"
+    excerpt: "The Democratic congressman, one of the House managers during President Donald Trump's impeachment trial, filed a civil claim against them."
+    publishedDateTime: 2021-03-05T14:47:00Z
+    webUrl: "https://www.newsweek.com/eric-swalwell-sues-donald-trump-don-jr-rudy-giuliani-mo-brooks-after-capitol-riot-1574056"
+    ampWebUrl: "https://www.newsweek.com/eric-swalwell-sues-donald-trump-don-jr-rudy-giuliani-mo-brooks-after-capitol-riot-1574056?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/eric-swalwell-sues-donald-trump-don-jr-rudy-giuliani-mo-brooks-after-capitol-riot-1574056?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1750222/eric-swalwell.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Senate acquits Trump for inciting Capitol riot even as bipartisan majority votes to convict"
     excerpt: "The Senate on Saturday acquitted former President Donald Trump in a 57-43 vote on the charge of inciting insurrection for his role in the Jan. 6 Capitol riot. Seven GOP Senators voted guilty in ..."
     publishedDateTime: 2021-02-13T22:38:00Z

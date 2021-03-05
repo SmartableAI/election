@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Montana governor says Biden 'degraded' himself with 'Neanderthal' comment about red-state governors"
+    excerpt: "Montana Gov. Greg Gianforte said President Biden “degraded” himself, following comments he made comparing red-state governors to Neanderthal’s."
+    publishedDateTime: 2021-03-05T13:42:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jBJACsWWSf8/gianforte-biden-neanderthal-coronavirus-red-state"
+    ampWebUrl: "https://www.foxnews.com/politics/gianforte-biden-neanderthal-coronavirus-red-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gianforte-biden-neanderthal-coronavirus-red-state.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f40284ca-4127-4a04-8060-d08bcc986d72/7baf10ee-c1d3-4e41-a92f-99df32d2f66f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "McEnany rips Biden's 'Neanderthal' remark on 'Fox & Friends,' compares it to Hillary's 'deplorables' insult"
     excerpt: "Fox News analyst and former White House press secretary Kayleigh McEnany slammed President Biden’s recent swipe at Republican governors, likening them to \"Neanderthals\" after several states, including Texas and Mississippi, reversed their coronavirus mask mandates."
     publishedDateTime: 2021-03-04T17:09:21Z
