@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-05-tiny-group-of-qanon-supporters-spotted-in-dc-awaiting-trump-inauguration.md",
+      "title": "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration",
+      "excerpt": "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
+      "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1750168/q.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
+      "publishedDateTime": "2021-03-05T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-refugees-flights-cancelled-as-trump-policy-remains.md",
       "title": "Refugees’ flights cancelled as Trump policy remains",
       "excerpt": "Refugee resettlement agencies say more than 260 refugees who were vetted, approved and booked to come to the United States have had their flights canceled by the State Department over the past two wee",
@@ -106,58 +158,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-05-at-the-capitol-a-march-4-threat-from-militant-trump-supporters-proves-a-mirage.md",
-      "title": "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage",
-      "excerpt": "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/",
-      "originalUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp",
-      "publishedDateTime": "2021-03-04T18:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-05-youtube-will-lift-ban-on-trump-channel-when-risk-of-violence-decreases-ceo.md",
       "title": "YouTube will lift ban on Trump channel when risk of violence decreases: CEO",
       "excerpt": "Alphabet Inc's YouTube will lift its suspension on former U.S. President Donald Trump's channel when it determines the risk of real-world violence has decreased, the company's CEO, Susan Wojcicki, said on Thursday.",
@@ -190,58 +190,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-qanon-shaman-still-feels-sympathy-for-former-president-donald-trump.md",
-      "title": "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump",
-      "excerpt": "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
-      "originalUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -588,7 +536,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1572,6 +1520,63 @@
         "Election",
         "Donald Trump",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-trump-loyalists-spurn-failed-republican-establishment-of-yesteryear.md",
+      "title": "Trump Loyalists Spurn ‘Failed Republican Establishment of Yesteryear’",
+      "excerpt": "At an annual gathering of conservatives, devotees of Donald J. Trump pledged their fealty to him and issued grave warnings about the political left.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/26/us/politics/26cpac-repubs1/26cpac-repubs1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.amp.html",
+      "publishedDateTime": "2021-02-26T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/13/politics/trump-legal-problems-pos
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/trump-legal-problems-post-impeachment/index.html"
 type: article
 quality: 175
-heat: 635
+heat: 655
 published: true
 
 provider:
@@ -302,6 +302,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/14/us/politics/14nc-trump/14nc-trump-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Reminder: Donald Trump's legal and financial problems are still very serious"
+    excerpt: "(CNN)When people talk about Donald Trump's future, they almost always focus on whether or not he will run for president in 2024. That's the wrong question to ask. The right question is this ..."
+    publishedDateTime: 2021-02-19T03:25:00Z
+    webUrl: "https://www.cnn.com/2021/02/18/politics/donald-trump-tax-returns-finances/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/donald-trump-tax-returns-finances/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/donald-trump-tax-returns-finances/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 132
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200709234650-trump-impuestos-corte-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "House Democrats and White House Split Over Lawsuit for Ex-Trump Aide’s Testimony"
     excerpt: "President Biden has inherited litigation over a subpoena to Donald F. McGahn II, President Donald J. Trump’s former lawyer, about the Russia investigation."

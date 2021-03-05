@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-05-tiny-group-of-qanon-supporters-spotted-in-dc-awaiting-trump-inauguration.md",
+      "title": "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration",
+      "excerpt": "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
+      "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1750168/q.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
+      "publishedDateTime": "2021-03-05T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.md",
+      "title": "Supreme Court drops 'sanctuary city' cases following Biden DOJ request",
+      "excerpt": "The Supreme Court on Thursday dismissed a number of cases testing the Trump administration’s plan to withhold law-enforcement grants from cities that refused to cooperate with Department of Homeland Security efforts to deport noncitizens arrested by local police.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bt_Pwo4TdGQ/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bt_Pwo4TdGQ/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73a31f1b-5496-4fac-92aa-f14680e8400e/00b723da-5a8b-4620-9849-ab36e52a42dd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.amp",
+      "publishedDateTime": "2021-03-05T04:05:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-refugees-flights-cancelled-as-trump-policy-remains.md",
       "title": "Refugees’ flights cancelled as Trump policy remains",
       "excerpt": "Refugee resettlement agencies say more than 260 refugees who were vetted, approved and booked to come to the United States have had their flights canceled by the State Department over the past two wee",
@@ -54,6 +162,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-05-veep-with-a-pearl-earring-kamala-harris-ignites-a-jewelry-trend.md",
+      "title": "Veep with a pearl earring: Kamala Harris ignites a jewelry trend",
+      "excerpt": "Fashion insiders credit Vice President Kamala Harris with single-handedly bringing back a bygone trend: pearls. When she was sworn in as our country’s first woman, first Black and first South Asian vice president,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/lifestyle/thepage/article/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
+      "originalUrl": "https://www.houstonchronicle.com/lifestyle/thepage/article/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 585,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/16/76/12/20701837/3/375x250.jpg",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
+      "publishedDateTime": "2021-03-04T20:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-where-are-ivanka-trump-and-jared-kushner-donald-angry-at-son-in-law-report.md",
       "title": "Where Are Ivanka Trump And Jared Kushner? Donald Angry At Son-In-Law: Report",
       "excerpt": "There may be contention brewing between former President Donald Trump and Jared Kushner after his son-in-law was not seen at the Conservative Political Action Conference last week. Jared Kushner, husband of Trump’s daughter Ivanka,",
@@ -86,58 +246,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-at-the-capitol-a-march-4-threat-from-militant-trump-supporters-proves-a-mirage.md",
-      "title": "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage",
-      "excerpt": "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/",
-      "originalUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp",
-      "publishedDateTime": "2021-03-04T18:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -263,58 +371,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-kamala-harris-breaks-senate-tie-to-begin-covid-relief-package-debate-live.md",
-      "title": "Kamala Harris breaks Senate tie to begin Covid relief package debate – live",
-      "excerpt": "Vice-President cast tie-breaking vote after Senate deadlocked 50-50",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413a7c8f08d01b68d70f40",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413a7c8f08d01b68d70f40",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 463,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/134c519394440450a7f7a12d428244410189fea5/0_2_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a317c70618b167c39a465a419299a17c",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live",
-      "publishedDateTime": "2021-03-04T17:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     },
     {
@@ -643,58 +699,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-qanon-shaman-still-feels-sympathy-for-former-president-donald-trump.md",
-      "title": "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump",
-      "excerpt": "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
-      "originalUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {

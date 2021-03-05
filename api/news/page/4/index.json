@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-03-03-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump.md",
-      "title": "Alex Jones seen on leaked video saying he's 'sick' of Donald Trump",
-      "excerpt": "Prominent conspiracy theorist and far-right media personality Alex Jones is seen in a newly-revealed video complaining about former President Trump and exclaiming that he wished he had never met him.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump",
-      "originalUrl": "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 245,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/jones_alex_trump_donald030221.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp",
-      "publishedDateTime": "2021-03-02T12:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-biden-plans-to-name-veteran-prosecutor-channing-phillips-as-acting-us-attorney-prosecuting-the-capitol-riot-cases-sources-say.md",
       "title": "Biden plans to name veteran prosecutor Channing Phillips as acting US attorney prosecuting the Capitol riot cases, sources say",
       "excerpt": "Channing Phillips is expected to be named acting chief of the US attorney's office in DC that is in charge of spearheading cases against accused participants in the January 6 rioting at the Capitol.",
@@ -1090,7 +1038,7 @@
       "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-2024-minimum-wage-white-house-progressives-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1347,6 +1295,54 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-01-trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot.md",
+      "title": "Trump says he was not watching live TV coverage of Capital Hill riot",
+      "excerpt": "Former President Donald Trump on Sunday night denied that he was watching live television coverage of the deadly Capitol Hill riot. Trump was responding to a Washington Post story that claimed he",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/",
+      "originalUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-cpac.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/",
+      "publishedDateTime": "2021-02-28T21:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
       ]
     }
   ],

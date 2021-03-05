@@ -615,7 +615,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1044,49 +1044,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-04-vice-president-harris-meets-with-small-employees-in-alexandria-virginia.md",
-      "title": "Vice President Harris meets with Small Employees in Alexandria, Virginia",
-      "excerpt": "Vice President Kamala Harris participates in a small business roundtable at Fiber Space, a woman-owned boutique yarn and fabric store, with small business employees and community leaders to talk about the impacts of the Biden Administration's American Rescue Plan,",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/News_Photos/view/upi/b17511dd5aa690cdc15158568c2bb0be/Vice-President-Harris-meets-with-Small-Employees-in-Alexandria-Virginia/",
-      "originalUrl": "https://www.upi.com/News_Photos/view/upi/b17511dd5aa690cdc15158568c2bb0be/Vice-President-Harris-meets-with-Small-Employees-in-Alexandria-Virginia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/pv/upi/b17511dd5aa690cdc15158568c2bb0be/HARRIS-SMBUSINESS.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-03-04-trump-talking-to-allies-about-2024-run-without-pence-report.md",
       "title": "Trump talking to allies about 2024 run without Pence: report",
       "excerpt": "Former President Donald Trump is considering running for the presidency again in 2024 without former Vice President Mike Pence as his running mate,",
@@ -1353,6 +1310,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-03-pence-rails-against-hr-1-laments-capitol-riot-prevented-substantive-discussion-on-election-integrity.md",
+      "title": "Pence rails against HR 1, laments Capitol riot prevented 'substantive discussion' on election integrity",
+      "excerpt": "Former Vice President Mike Pence offered harsh criticism for a Democrat-proposed voting reform legislation while condemning the Capitol protest on Jan. 6 that, he said, interrupted what would have been a worthwhile discussion of election integrity.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZio7sFblnc/pence-election-bill-hr1-capitol-riots-election-integrity",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZio7sFblnc/pence-election-bill-hr1-capitol-riots-election-integrity",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-election-bill-hr1-capitol-riots-election-integrity.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-election-bill-hr1-capitol-riots-election-integrity.amp",
+      "publishedDateTime": "2021-03-03T09:19:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
       ]
     }
   ],

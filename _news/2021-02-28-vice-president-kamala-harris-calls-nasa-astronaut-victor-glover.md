@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Veep with a pearl earring: Kamala Harris ignites a jewelry trend"
+    excerpt: "Fashion insiders credit Vice President Kamala Harris with single-handedly bringing back a bygone trend: pearls. When she was sworn in as our country’s first woman, first Black and first South Asian vice president,"
+    publishedDateTime: 2021-03-05T04:00:00Z
+    webUrl: "https://www.houstonchronicle.com/lifestyle/thepage/article/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php"
+    ampWebUrl: "https://www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/76/12/20701837/3/375x250.jpg"
+        width: 374
+        height: 250
+        isCached: true
   - title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – live"
     excerpt: "Vice-President cast tie-breaking vote after Senate deadlocked 50-50"
     publishedDateTime: 2021-03-05T01:05:00Z
@@ -141,6 +157,38 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Republicans tee up attacks on Biden—and Kamala Harris | Raleigh News & Observer"
+    excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
+    publishedDateTime: 2021-02-25T18:11:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article249514215.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article249514215.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article249514215.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 86
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republicans regroup around attacks on Biden administration —including Kamala Harris"
+    excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
+    publishedDateTime: 2021-02-25T18:11:00Z
+    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article249514215.html"
+    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article249514215.html"
+    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article249514215.html"
+    type: article
+    provider:
+      name: Kansas City Star
+      domain: kansascity.com
+    quality: 84
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
     excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
     publishedDateTime: 2021-03-03T23:21:00Z
@@ -156,6 +204,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/9921614809626/2021/1/737179c4b2717553b05f15134d377fc8/v1.5/Kamala-Harris-visits-woman-owned-yarn-store-to-discuss-American-Rescue-Plan.jpg"
         width: 800
         height: 534
+        isCached: true
+  - title: "Vice President Kamala Harris honors 'visionaries' at Black History Month event"
+    excerpt: "Vice President Kamala Harris called Black history makers 'visionaries' Saturday during a virtual celebration of the 40th annual Black History Month."
+    publishedDateTime: 2021-02-27T21:57:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 71
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/3951614453259/2021/1/4e1c9803ceb7d94f3642d013fb8a5d21/v1.5/Vice-President-Kamala-Harris-honors-visionaries-at-Black-History-Month-event.jpg"
+        width: 800
+        height: 532
         isCached: true
   - title: "US Vice President Salary 2021: Here's How Much Kamala Harris Will Earn This Year"
     excerpt: "Kamala Harris became the first woman to hold the second-highest public office in American history, but will she be compensated the same as her male predecessors?"
@@ -234,6 +298,34 @@ related:
       - url: "https://www.capitalgazette.com/resizer/GnZSS_D_H4PIb8RnycChednIWeM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/L24NKVMQ6JC2NKIDR5SQICFGXE.jpg"
         width: 1200
         height: 674
+        isCached: true
+  - title: "Vice President Harris meets with Small Employees in Alexandria, Virginia"
+    excerpt: "Vice President Kamala Harris participates in a small business roundtable at Fiber Space, a woman-owned boutique yarn and fabric store, with small business employees and community leaders to talk about the impacts of the Biden Administration's American Rescue Plan,"
+    publishedDateTime: 2021-03-03T20:46:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/b17511dd5aa690cdc15158568c2bb0be/Vice-President-Harris-meets-with-Small-Employees-in-Alexandria-Virginia/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 54
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/b17511dd5aa690cdc15158568c2bb0be/HARRIS-SMBUSINESS.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Vice President Harris meets with Small Business Owners in Alexandria, Virginia"
+    excerpt: "Vice President Kamala Harris leaves Fiber Space, a woman-owned boutique yarn and fabric store, after holding a roundtable with small business employees and community leaders to talk about the impacts of the Biden Administration's American Rescue Plan,"
+    publishedDateTime: 2021-03-03T18:39:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/c3b832e06b83c1e4c3ab0078505e9217/Vice-President-Harris-meets-with-Small-Business-Owners-in-Alexandria-Virginia/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 51
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/c3b832e06b83c1e4c3ab0078505e9217/HARRIS-SMBUISINESS.jpg"
+        width: 650
+        height: 427
         isCached: true
   - title: "At Black History Event, Harris Champions COVID-19 Bill For Its Aid To Black Americans"
     excerpt: "One day after the House advanced President Biden's $1.9 trillion COVID-19 relief package, Vice President Kamala Harris championed the proposed round"

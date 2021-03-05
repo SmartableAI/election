@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration"
+    excerpt: "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4."
+    publishedDateTime: 2021-03-05T12:35:00Z
+    webUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028"
+    ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1750168/q.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
     excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
     publishedDateTime: 2021-03-05T02:45:00Z
@@ -43,35 +59,51 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump supporters want to 'blow up' Capitol - police chief"
-    excerpt: "Top News Trump supporters want to 'blow up' Capitol - police chief. Posted . Acting Chief of the Capitol Police Yogananda Pittman said on Thursday that Donald Trump supporters who"
-    publishedDateTime: 2021-02-25T22:45:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE15CYXR"
+  - title: "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump"
+    excerpt: "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,"
+    publishedDateTime: 2021-03-04T21:28:00Z
+    webUrl: "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210225&i=OVE15CYXR&r=OVE15CYXR&t=2"
-        width: 960
-        height: 540
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "WATCH LIVE: FBI Director Christopher Wray says no evidence of ‘fake Trump supporters’ at Capitol riot"
-    excerpt: "The top law enforcement official, in an opening statement to the Senate Judiciary Committee, said he was “appalled” by the deadly Jan. 6 attack that killed five people."
-    publishedDateTime: 2021-03-02T17:06:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html?outputType=amp"
+  - title: "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report"
+    excerpt: "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,"
+    publishedDateTime: 2021-03-04T10:33:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 60
+      name: New York Magazine
+      domain: nymag.com
+    quality: 71
     images:
-      - url: "https://www.nydailynews.com/resizer/OX_M-cGRSh6r1Cc24GbTvCtdB9A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PB3B3FBBN5AOVMBXSS7BYMDAPY.jpg"
+      - url: "https://pyxis.nymag.com/v1/imgs/4e6/999/6d51cf8fb5705f6e1da184c5903f44cc19-GettyImages-1128135352.1x.rsocial.w1200.jpg"
         width: 1200
-        height: 800
+        height: 630
+        isCached: true
+  - title: "Pentagon Says Trump Interfered With Investigation Into Rep. Ronny Jackson's Abuse Of Subordinates"
+    excerpt: "Jackson is accused of dozens of improprieties, including commenting on a female subordinate's body and drunkenly harassing her."
+    publishedDateTime: 2021-03-03T22:02:00Z
+    webUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764"
+    ampWebUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/03/29/ronny-jackson.jpg"
+        width: 594
+        height: 396
         isCached: true
 
 secured: "nUdiRmiwyM4X+hyIZfcFNAsKNrf8TZak4NGogNwqpHluJAwB1xy60AnLtNlt9qn8MWDF/9n94ecmB8aFmKa+dOhTtxARmZHVBEtC9UbLaF/HhaRRb6uZ5SiMDBh5KHuOZgzP9Gfp66xkRvPURabn/ffy0w6u1KRImUlcDZ7q5mCNyCUb7cf5wn/MF7KE7YGpOEGs+bMQg1JCVBJE1JsF/ts1kSfnH5Ox6fMTqYd7gckIajsefCDNUI99oGrk+CEzLRwZsSY7XEw4y3FkBWNQSYMWUfualOIn6z6VlXHCk/zz/fewrFnkXB59iYFLrVPr8AHiEMT63e3ID8OJFey1yQr8GeE4F8bQgVTnldK9hE0=;JurPkpgAUrkqPVcLWLdq9g=="

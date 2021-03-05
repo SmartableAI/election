@@ -1221,6 +1221,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Joe Biden To Debut At G7; Vaccines, Economy And China In Focus"
+    excerpt: "Joe Biden will attend his first meeting as U.S. president with Group of Seven leaders on Friday to discuss plans to defeat the novel coronavirus, reopen the battered world economy and counter the ..."
+    publishedDateTime: 2021-02-19T06:15:00Z
+    webUrl: "https://www.ndtv.com/world-news/us-president-joe-biden-to-debut-at-g7-vaccines-economy-and-china-in-focus-2373742"
+    ampWebUrl: "https://www.ndtv.com/world-news/us-president-joe-biden-to-debut-at-g7-vaccines-economy-and-china-in-focus-2373742?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-president-joe-biden-to-debut-at-g7-vaccines-economy-and-china-in-focus-2373742?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 75
+    images:
+      - url: "https://c.ndtvimg.com/2021-01/r04g56a_joe-biden-650_625x300_25_January_21.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "glhaXTU2w+b1cwQtyCCo+Nh2W+fXnYUBlP45gbg0D3bR9K3no3ZCVoEiasH8qX2FrVGNAtKikK+bZVG8H4Fq/R1hBsCwTnZe/KLTVvXmQIA0xvGDTkqzqBCLBdtLvnRJTCRcdJ5J3HYEMnLEs7Wsexx46sPz215Jl/IxAJ02vMXnYlU/cfUxD96Qw1tZHbQ+4/CrJclfhNIM594GP2hHdcB3iZsNiLXwyLvAdxJNQ3UJILUPvKBbVl6HMq4J6TErWCW6Ae0wEYkvU3BLWRldZZ/gxhMrvORnVZtze3Rrg5Mp42WQr+yOqp0uPZQtejI3Rdv+bEHYsWIKk/uEPYaZr/6HAR1Bhr3u1l6uB9d66BU=;QnyrDIDYPdrREa4BAILFdg=="
 ---

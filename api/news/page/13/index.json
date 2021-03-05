@@ -2,6 +2,58 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-02-14-trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial.md",
+      "title": "Trump acquittal: Biden urges vigilance to defend 'fragile' democracy after impeachment trial",
+      "excerpt": "President says the substance of the charge against Donald Trump over the January attack on US Capitol is not in dispute",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 889,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/c680f2571d7f60e33c3235b84bc24d5e5c969590/0_84_5472_3283/master/5472.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9ca49357272737d2ff54874ce241fed9",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/14/trump-acquittal-biden-urges-vigilance-to-defend-fragile-democracy-after-impeachment-trial",
+      "publishedDateTime": "2021-02-14T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-the-latest-biden-says-all-americans-must-defend-the-truth.md",
       "title": "The Latest: Biden says all Americans must 'defend the truth'",
       "excerpt": "President Joe Biden is responding to the acquittal of Donald Trump by stating that all Americans, especially the nation’s leaders, have a duty and responsibility “to defend the truth and to defeat the lies.",
@@ -287,7 +339,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 635,
+      "heat": 655,
       "tags": null,
       "images": [
         {
@@ -1312,63 +1364,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-biden-anxious-to-see-if-gop-senators-stand-up-on-impeachment-vote.md",
-      "title": "Biden ‘anxious to see’ if GOP senators ‘stand up’ on impeachment vote",
-      "excerpt": "Biden has commented only sparingly on the trial in recent days, repeatedly declining to say whether he believes Trump should be convicted of inciting an insurrection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/02/12/biden-gop-impeachment-vote-468826",
-      "originalUrl": "https://www.politico.com/news/2021/02/12/biden-gop-impeachment-vote-468826",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c3/ef/775646e04dbc8bdcfa7ee6c00434/ap21042794074020-c.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/02/12/biden-gop-impeachment-vote-468826",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/02/12/biden-gop-impeachment-vote-468826",
-      "publishedDateTime": "2021-02-12T07:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

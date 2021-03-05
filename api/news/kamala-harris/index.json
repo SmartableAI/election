@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-05-kamala-harris-breaks-senate-tie-to-begin-covid-relief-package-debate-live.md",
-      "title": "Kamala Harris breaks Senate tie to begin Covid relief package debate – live",
-      "excerpt": "Vice-President cast tie-breaking vote after Senate deadlocked 50-50",
+      "path": "_news/2021-03-05-veep-with-a-pearl-earring-kamala-harris-ignites-a-jewelry-trend.md",
+      "title": "Veep with a pearl earring: Kamala Harris ignites a jewelry trend",
+      "excerpt": "Fashion insiders credit Vice President Kamala Harris with single-handedly bringing back a bygone trend: pearls. When she was sworn in as our country’s first woman, first Black and first South Asian vice president,",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413a7c8f08d01b68d70f40",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413a7c8f08d01b68d70f40",
+      "webUrl": "https://www.houstonchronicle.com/lifestyle/thepage/article/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
+      "originalUrl": "https://www.houstonchronicle.com/lifestyle/thepage/article/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 463,
+      "heat": 585,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/134c519394440450a7f7a12d428244410189fea5/0_2_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a317c70618b167c39a465a419299a17c",
-          "width": 600,
-          "height": 360,
+          "url": "https://s.hdnux.com/photos/01/16/76/12/20701837/3/375x250.jpg",
+          "width": 374,
+          "height": 250,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live",
-      "publishedDateTime": "2021-03-04T17:05:00-08:00",
+      "ampWebUrl": "https://www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
+      "publishedDateTime": "2021-03-04T20:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,49 +41,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-vice-president-harris-meets-with-small-employees-in-alexandria-virginia.md",
-      "title": "Vice President Harris meets with Small Employees in Alexandria, Virginia",
-      "excerpt": "Vice President Kamala Harris participates in a small business roundtable at Fiber Space, a woman-owned boutique yarn and fabric store, with small business employees and community leaders to talk about the impacts of the Biden Administration's American Rescue Plan,",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/News_Photos/view/upi/b17511dd5aa690cdc15158568c2bb0be/Vice-President-Harris-meets-with-Small-Employees-in-Alexandria-Virginia/",
-      "originalUrl": "https://www.upi.com/News_Photos/view/upi/b17511dd5aa690cdc15158568c2bb0be/Vice-President-Harris-meets-with-Small-Employees-in-Alexandria-Virginia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/pv/upi/b17511dd5aa690cdc15158568c2bb0be/HARRIS-SMBUSINESS.jpg",
-          "width": 650,
-          "height": 433,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T12:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -210,7 +167,7 @@
       "originalUrl": "https://www.businessinsider.com/kamala-harris-biden-2024-minimum-wage-white-house-progressives-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 174,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1612,6 +1569,58 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-24-immense-sense-of-pride-caribbean-diaspora-celebrates-kamala-harris.md",
+      "title": "'Immense sense of pride': Caribbean diaspora celebrates Kamala Harris",
+      "excerpt": "Some hopeful vice-president could forward the fight for voting rights of the more than 4 million American citizens living in US territories who can’t vote",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/7144aee2742df043f4993bea3400e2a699bd1264/0_0_5050_3367/master/5050.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c34e25ce6c4c479e599e24fa93360304",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president",
+      "publishedDateTime": "2021-01-24T01:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
       ]
     }
   ],

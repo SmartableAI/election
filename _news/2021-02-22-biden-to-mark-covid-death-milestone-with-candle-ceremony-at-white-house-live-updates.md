@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1667
+heat: 1687
 published: true
 
 provider:
@@ -1221,6 +1221,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/11/USAT/63d1b5c5-73f6-4739-ac74-d67db56a30d0-AFP_AFP_92J4ZY.jpg?auto=webp&crop=4999,2812,x1,y508&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Joe Biden To Debut At G7; Vaccines, Economy And China In Focus"
+    excerpt: "Joe Biden will attend his first meeting as U.S. president with Group of Seven leaders on Friday to discuss plans to defeat the novel coronavirus, reopen the battered world economy and counter the ..."
+    publishedDateTime: 2021-02-19T06:15:00Z
+    webUrl: "https://www.ndtv.com/world-news/us-president-joe-biden-to-debut-at-g7-vaccines-economy-and-china-in-focus-2373742"
+    ampWebUrl: "https://www.ndtv.com/world-news/us-president-joe-biden-to-debut-at-g7-vaccines-economy-and-china-in-focus-2373742?amp=1&akamai-rum=off"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/us-president-joe-biden-to-debut-at-g7-vaccines-economy-and-china-in-focus-2373742?amp=1&akamai-rum=off"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 75
+    images:
+      - url: "https://c.ndtvimg.com/2021-01/r04g56a_joe-biden-650_625x300_25_January_21.jpg"
+        width: 650
+        height: 400
         isCached: true
 
 secured: "HQWq0XqYSvF5/SlB6ELxVlGNDqDvaeU1XKQF1rvA5nrVQ1VJmjsyDPfETWbsD3ZxTjhGLiJiJheh3Bs01QYer2WqN0GXWcYzQM2sVbrQaz/KciVv61MCp0JndqM7gBOnsv/HBE99E6acNGkMg9P2QBYp6hi+8Wxa0DDBr23AypvTo3IVq9fwChBTyeq4zRaOp8/pDypxaPV8DBexYgugKJnpAYvSYVYY0UltzQsYPj88tOtBKbbIbWXpMEPSSPZIw4tYySlpbD0F6g25W8tludLwaPrFFP+xeGij0Aay0coOW9nfqQpdKs2wXJ1ADiLSlyrBxaaFJrkJsrBW6d2Ye5t0y4DWmAMm77LoK11g9WvLFPBm4IMF0PxOwaAJjLyGgAA0nJKPFdRlsDtYsJ6ICWiZLdBT/LQ0HoCAJv4iJLJERD19P04y8KbdJpsvmFigIQ6bHAxyoEwgBFJ8X+ktqQm/Pettgyi42KrnX6ilqwn3cuK27o5KCT7SxtSEOTUkti2MdJTt7YnpmrMS6hO8uw==;TAs0YPP41IsvYB3xmirWbA=="

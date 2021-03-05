@@ -2,6 +2,58 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2021-01-10-twitter-confirms-it-halted-hang-mike-pence-as-a-trending-topic.md",
+      "title": "Twitter Confirms It Halted 'Hang Mike Pence' as a Trending Topic",
+      "excerpt": "The topic trended briefly, with many people quoting Trump supporters who invaded the Capitol Wednesday chanting the phrase, as a noose awaited outside.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253",
+      "originalUrl": "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 185,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1702324/twitter-suspended-trump-trending-topic-pence.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/twitter-stops-hang-mike-pence-trending-1560253?amp=1",
+      "publishedDateTime": "2021-01-09T11:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-brit-hume-twitters-reasons-for-banning-trump-are-pure-editorial-judgments.md",
       "title": "Brit Hume: Twitter's reasons for banning Trump are 'pure editorial judgments'",
       "excerpt": "Fox News Senior Political Analyst Brit Hume is calling out big social media companies for making the decision to ban President Trump's accounts based on what he says are \"pure editorial judgments.\" ",
@@ -1286,62 +1338,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-trumps-failure-to-call-off-mob-at-capitol-riots-was-breaking-point-alyssa-farah.md",
-      "title": "Trump's failure to 'call off mob' at Capitol riots was 'breaking point': Alyssa Farah",
-      "excerpt": "Former White House communications director Alyssa Farah criticized President Trump for his actions Wednesday amid the \"heartbreaking\" Capitol Hill riots that \"crossed a line.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aKzFrbVaWcU/trumps-failure-to-call-off-mob-was-breaking-point-alyssa-farah",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/aKzFrbVaWcU/trumps-failure-to-call-off-mob-was-breaking-point-alyssa-farah",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-failure-to-call-off-mob-was-breaking-point-alyssa-farah.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-failure-to-call-off-mob-was-breaking-point-alyssa-farah.amp",
-      "publishedDateTime": "2021-01-08T08:24:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

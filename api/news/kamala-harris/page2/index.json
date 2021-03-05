@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-01-24-immense-sense-of-pride-caribbean-diaspora-celebrates-kamala-harris.md",
-      "title": "'Immense sense of pride': Caribbean diaspora celebrates Kamala Harris",
-      "excerpt": "Some hopeful vice-president could forward the fight for voting rights of the more than 4 million American citizens living in US territories who can’t vote",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president?share=facebook",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/7144aee2742df043f4993bea3400e2a699bd1264/0_0_5050_3367/master/5050.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c34e25ce6c4c479e599e24fa93360304",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/24/kamala-harris-caribbean-diaspora-celebrates-vice-president",
-      "publishedDateTime": "2021-01-24T01:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-01-22-kamala-harris-doug-emhoff-will-stay-in-blair-house-while-vp-residence-undergoes-repairs.md",
       "title": "Kamala Harris, Doug Emhoff will stay in Blair House while VP residence undergoes repairs",
       "excerpt": "This is the house where history will be made. Vice President Kamala Harris will soon be residing on the grounds of the Naval Observatory in northwestern Washington, D.C., in a home occupied by several of her predecessors.",

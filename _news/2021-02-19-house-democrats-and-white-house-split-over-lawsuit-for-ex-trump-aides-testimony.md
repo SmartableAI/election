@@ -320,6 +320,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Reminder: Donald Trump's legal and financial problems are still very serious"
+    excerpt: "(CNN)When people talk about Donald Trump's future, they almost always focus on whether or not he will run for president in 2024. That's the wrong question to ask. The right question is this ..."
+    publishedDateTime: 2021-02-19T03:25:00Z
+    webUrl: "https://www.cnn.com/2021/02/18/politics/donald-trump-tax-returns-finances/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/18/politics/donald-trump-tax-returns-finances/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/18/politics/donald-trump-tax-returns-finances/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 132
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200709234650-trump-impuestos-corte-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump is on trial for inciting an insurrection. What about the 12 people who spoke before him?"
     excerpt: "Rioters heard from others besides Trump on Jan. 6. As the former president confronts a Senate impeachment trial, 12 other notable “Stop the Steal” speakers have faced few, if any, consequences."
     publishedDateTime: 2021-02-10T09:36:00Z

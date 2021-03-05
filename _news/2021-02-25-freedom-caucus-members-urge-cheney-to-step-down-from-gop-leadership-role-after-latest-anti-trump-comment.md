@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "How Mike Lee Ditched Constitutional Conservatism for Trump"
+    excerpt: "I didn't watch much of this year's CPAC. My digestion is sound, but there's no point in taking unnecessary risks. Still, I did note the presence of Sen."
+    publishedDateTime: 2021-03-05T12:35:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/05/how_mike_lee_ditched_constitutional_conservatism_for_trump_145353.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/05/how_mike_lee_ditched_constitutional_conservatism_for_trump_145353.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/05/how_mike_lee_ditched_constitutional_conservatism_for_trump_145353.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/536919_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "diS8r4rb5heHGLxXJgrsEC5cQyJxBkR2CTUF9g8QkqpmD0fP2dbw7VKX+9ROo3dG7Qr17/Y4+Wm3xiiKJYguzmsmvrKfCTjz98Jw+tQRO8TQMipmCfFx+DA2qud6no9xHP1CJnvMxJBN62D2b+VTsUqP9qSYdDuBbbWVwMSjoVF3otsbgqx9h13H/dj1gfqpR565IVcLgMR4lFb3U88V0FUue+Q0W3KpT2ZyVfAbsT3YxhA5aGzV2KdUacG4d93edToS8tmWSgiv1vIz4+/iEHN/l2gbRxi5lAQ7Zx0rrE38jielbPHx67vo1PYdjPbUE55/HjRW3dQ+bmFI8FRcQI4d6sZsscpOsvMhEpnueLM=;cH6Ss+IfJeVu6Qxf+MTJcQ=="
 ---

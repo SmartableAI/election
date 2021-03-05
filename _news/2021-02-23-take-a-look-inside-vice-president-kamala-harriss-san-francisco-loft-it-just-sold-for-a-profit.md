@@ -43,54 +43,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Republicans tee up attacks on Biden—and Kamala Harris | Raleigh News & Observer"
-    excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
-    publishedDateTime: 2021-02-25T18:11:00Z
-    webUrl: "https://www.newsobserver.com/news/politics-government/national-politics/article249514215.html"
-    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/national-politics/article249514215.html"
-    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/national-politics/article249514215.html"
-    type: article
-    provider:
-      name: Raleigh News & Observer
-      domain: newsobserver.com
-    quality: 86
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Republicans regroup around attacks on Biden administration —including Kamala Harris"
-    excerpt: "Republicans are planning to make Vice President Kamala Harris and the Biden administration a focus of political attacks in the lead-up to the 2022 midterm elections."
-    publishedDateTime: 2021-02-25T18:11:00Z
-    webUrl: "https://www.kansascity.com/news/politics-government/national-politics/article249514215.html"
-    ampWebUrl: "https://amp.kansascity.com/news/politics-government/national-politics/article249514215.html"
-    cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article249514215.html"
-    type: article
-    provider:
-      name: Kansas City Star
-      domain: kansascity.com
-    quality: 84
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Vice President Kamala Harris honors 'visionaries' at Black History Month event"
-    excerpt: "Vice President Kamala Harris called Black history makers 'visionaries' Saturday during a virtual celebration of the 40th annual Black History Month."
-    publishedDateTime: 2021-02-27T21:57:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/02/27/vice-president-kamala-harris-black-history-month-speech/3951614453259/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 71
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/3951614453259/2021/1/4e1c9803ceb7d94f3642d013fb8a5d21/v1.5/Vice-President-Kamala-Harris-honors-visionaries-at-Black-History-Month-event.jpg"
-        width: 800
-        height: 532
-        isCached: true
 
 secured: "2X4zQhuKuHBvF5v+Zh/vL5CKqRc9nCB9yYmFb5GgcSGb31BeHMKQ2PLBFssCJ0maTms83hWnyOG/mLKIbaEtUJwDJK4a6kEUa7MEg7ECCds9CNya4hRLeHFkwwkPJRwhRC59dK4zi1oAMS/4chFAE643v/botvcw+uPrHSeRmVw/RyOV9tR/2jqbdEKt8Ex8OxTD+cyW/rB6bEhmncuhNuBEUVSPKgt7yd1fzXFqeoGRoQ7rPoEItcGtyqao8KDJMivVNQAK81+fMgQ1ltqhEX29n/Xsj9+E1pZydCs7JzmdzKfMsr1NBdTg+IYsv5T6tmflhc6+3io8iPn1O3BZ0hMt5dKMefG5j5YHziOtiCA=;50RIzKfayx7ug3Kx0m3lWA=="
 ---
