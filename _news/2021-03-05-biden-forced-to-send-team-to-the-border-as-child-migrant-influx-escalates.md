@@ -1,14 +1,14 @@
 ---
 category: news
-title: "GOP Rep. Lauren Boebert calls on Biden to lower flags in honor of Rush Limbaugh"
-excerpt: "Rep. Lauren Boebert, R-Colo., called on President Biden on Friday night to order flags lowered to half-staff in honor the life of conservative radio legend Rush Limbaugh."
-publishedDateTime: 2021-02-20T02:12:02Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUXL4ysyf_Y/boebert-flags-half-staff-limbaugh"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUXL4ysyf_Y/boebert-flags-half-staff-limbaugh"
-ampWebUrl: "https://www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp"
+title: "Biden forced to send team to the border as child migrant influx escalates"
+excerpt: "President Biden has ordered senior members of his team to visit the southern border and report back to him on how to handle the recent influx of migrant children, a White House spokesman said Thursday."
+publishedDateTime: 2021-03-05T01:50:23Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PV_RKcHhnPc/biden-team-visit-border-child-migrants"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PV_RKcHhnPc/biden-team-visit-border-child-migrants"
+ampWebUrl: "https://www.foxnews.com/politics/biden-team-visit-border-child-migrants.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-visit-border-child-migrants.amp"
 type: article
-quality: 171
+quality: 174
 heat: -1
 published: false
 
@@ -25,8 +25,8 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63a7afd9-a51a-4f00-91e3-c8786f9cf099/9d76ec8a-b441-45c7-94ee-88ec24e0820e/1280x720/match/image.jpg"
-    width: 1280
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f8ec101-a92e-4f14-b5cb-1f21b35eafe7/f159409f-403b-4361-b9fc-1b1ea6bc9bb1/1280x720/match/image.jpg"
+    width: 1080
     height: 720
     isCached: true
 
@@ -79,22 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden forced to send team to the border as child migrant influx escalates"
-    excerpt: "President Biden has ordered senior members of his team to visit the southern border and report back to him on how to handle the recent influx of migrant children, a White House spokesman said Thursday."
-    publishedDateTime: 2021-03-05T01:50:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PV_RKcHhnPc/biden-team-visit-border-child-migrants"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-team-visit-border-child-migrants.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-visit-border-child-migrants.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f8ec101-a92e-4f14-b5cb-1f21b35eafe7/f159409f-403b-4361-b9fc-1b1ea6bc9bb1/1280x720/match/image.jpg"
-        width: 1080
-        height: 720
-        isCached: true
   - title: "Lawmakers introduce bill to repeal Biden's war powers following Syria strike"
     excerpt: "A bipartisan group of senators Wednesday called for the repeal of presidential war powers granted by Congress in 1991 and 2002, which would revoke authorization for military force in the Middle East, as tensions rise between the U.S. and Iran."
     publishedDateTime: 2021-03-04T01:24:17Z
@@ -108,6 +92,22 @@ related:
     quality: 172
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76745ea9-cf7e-44fd-ba02-dae99ba4c924/c8528226-5005-4c08-b212-417f33fd5788/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "GOP Rep. Lauren Boebert calls on Biden to lower flags in honor of Rush Limbaugh"
+    excerpt: "Rep. Lauren Boebert, R-Colo., called on President Biden on Friday night to order flags lowered to half-staff in honor the life of conservative radio legend Rush Limbaugh."
+    publishedDateTime: 2021-02-20T02:12:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bUXL4ysyf_Y/boebert-flags-half-staff-limbaugh"
+    ampWebUrl: "https://www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/boebert-flags-half-staff-limbaugh.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63a7afd9-a51a-4f00-91e3-c8786f9cf099/9d76ec8a-b441-45c7-94ee-88ec24e0820e/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -176,6 +176,6 @@ related:
         height: 720
         isCached: true
 
-secured: "HJjI2A0E3UOOv5YD7MsQBlU0zQp9y536g+Bp3BVlMOU1UOgx/pG6dE5ZYXtAyEzT8ntDjFFGfGed3CMfZBaoJtkf+IdHN4t18hpbPtvW1rj1oY+V9XP1MULWLSWAyYrrbRsNYHzFaBg+eEmq0m4osu4+Q48x9oXH0cDHYmdKwW/fRccUX94tYvBUWXkIJhC4uHbDCMY1xmsV/rhtTRYfFIKqP3vsoq08w0BKonUCE3+SUAkVBxhsNpukHGzOgKOxrnOOu0cY/YUaYQW4jgRri8tLmw0+t91Yhb3EJtkolTwbwgoWKdXE9zWSa8qxL4I12Pgg/c9rqu8O4yYUy+EB2DFQfj9RCCAdSj1J0zs4p54=;tMf8++Q+YI1AP31gyqUrLQ=="
+secured: "eWJg5dz5yEsV9AfBD48zZkRsfxIcZL9s5LPo0x7lF+xUE0Lnt5zQOV9qC8Gi/3pS9BXXckyZp4G9hXVeo1fJCEpzj+TEv3SG6pdnQlnuN9GTAuyliDf4qBpiRdNZSI+rFA32kYlMvgVsMHZeA5MTr+ChMDsNmaI21RrZUvuDyz0cgQ2GMWV9n2suR91PCBRWB1WOfn5t61B5vkT2OZ412ERWHg2bos87T3C85W89dQNypOArW97KVsqoEmIVZa2hdM80VmCNG3pWc8PapoHYcrP6MBIhky7qv4hKy/bANyVMMALRiTKqMKI7PMcLAHsMJr3KINFSt/C4sn2u+kD4XeRT4M1+NH5l/O85fT+HVwM=;LpXYX8ogQ+KWn0/owL2wtQ=="
 ---
 

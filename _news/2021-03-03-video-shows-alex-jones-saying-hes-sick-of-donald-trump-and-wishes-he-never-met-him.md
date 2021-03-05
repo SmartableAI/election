@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "U.S. Capitol calm amid high security; Trump supporters hold faith he will return"
+    excerpt: "A smattering of followers of the QAnon conspiracy theory gathered near the U.S. Capitol on Thursday, the day the movement had predicted former President Donald Trump's return to office, but they were far outnumbered by security forces deployed to deter any possible attack."
+    publishedDateTime: 2021-03-05T01:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-capitol-security-idUSKBN2AW19M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW19M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW19M"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553733527&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NY"
+        width: 802
+        height: 545
+        isCached: true
   - title: "QAnon Already Turning Back on March 4 Theory as Day of Donald Trump Prophecy Arrives"
     excerpt: "Supporters of the radical conspiracy theory appear hesitant for yet another humiliation when Trump fails to return as president."
     publishedDateTime: 2021-03-04T09:58:00Z

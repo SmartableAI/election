@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Trump Weighs 2024 White House Run Without Mike Pence, Allies Say"
-excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 -- and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket,"
-publishedDateTime: 2021-03-03T18:54:00Z
-originalUrl: "https://www.bloomberg.com/news/articles/2021-03-03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say"
-webUrl: "https://www.bloomberg.com/news/articles/2021-03-03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say"
+title: "Trump weighs 2024 White House run without Mike Pence, allies say"
+excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 – and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket, according to people familiar with the discussions."
+publishedDateTime: 2021-03-03T20:22:00Z
+originalUrl: "https://www.detroitnews.com/story/news/politics/2021/03/03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say/6907944002/"
+webUrl: "https://www.detroitnews.com/story/news/politics/2021/03/03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say/6907944002/"
+ampWebUrl: "https://amp.detroitnews.com/amp/6907944002"
+cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6907944002"
 type: article
-quality: 120
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Bloomberg
-  domain: bloomberg.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Detroit News
+  domain: detroitnews.com
 
 topics:
   - Election
   - Mike Pence
 
 images:
-  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNrcFREBQ0Qc/v1/1200x800.jpg"
+  - url: "https://www.gannett-cdn.com/presto/2021/03/03/PDTN/34ca3f4b-0302-4b92-81a5-506ed210864b-AP21059813576403.jpg?auto=webp&crop=684,385,x237,y298&format=pjpg&width=1200"
     width: 1200
-    height: 800
+    height: 675
     isCached: true
 
 related:
@@ -214,6 +212,6 @@ related:
         height: 669
         isCached: true
 
-secured: "GVz2r+AVcgs7TvVx6IXhrpctvu5c6J89JviSmfuFPFjqith6iSOMOrKXscDK58Lzm68vrKGpRqG4TwA6/xmf7lmCmVy/36ozOuInzj1deEajbRFyQT+r+T3jpWEfioQvd76LTagJ6lXljwe/17iKLHXhlgGaU/dU0mCWhoss6oB6/cV1uaJ9q+vzfp0/gFsdA640b943LMojxNrJDOHdOPlSeyqkeit9WRW+UFQeya3Idwx114IeljXJE/J5whFW7WkYsOYSIqnau3OcuzH5s7TFzbrje6YKxHFsMrgjyJ4O5Z4JGxHtipeYClzsj/eetU1lwEguF4MK8DTubjFTP6DoUlL2/k8XBPaMABpAPo3xmH8gSr+XD/5gSYbJEQ+f9umaCGNBFredzx32EY0ONxGRSaRtSYv/NWZLuLb5KrNrADd/wOQgZCMiDFgZr/6HUYUTHnJN2B+Z4mNnKm7hw6gAPFH9ocYWp+u44yWNmMgBp4p+a2Wmaqra21vNGuXQ6kp8Qw9glCRtOHZRtr8DIQ==;ud5FnNHlfxjWqoX6AGXNGA=="
+secured: "J/vjQqD/OPbIYfwh/4nNStGvu6XsSFbv7R0aS8vIk3fZINfOQxvjNPKEwCEbuvsQuKIFS6aL7B9XwW19/nHGiYVf8R9/nrrUUcTOsmHb+oSC9EgDUur+aF6uI+2WIdmYjNPQ7KM47zSdL2JNgDn+cMmBJA9CP9qKLpvZlem/9K3BJiiD/h6M+QObofYN7Iai/PmgB/WGyrR3d2uWBCvr0vyqhxT2ywiYiiO+PsH0UXubldbCg1QGVOBc6qxA3raawyQt3MRXnoZvqwENYlb2b83SvARtkW4+85hThCj+2JTzHdH0P29NbHRL3nTubpWOW40NTaKSNCv2ZEL1CsUMPFIJxakHOQT940uJNjJR4xY=;q2LoIve8OemGrpdX+QHfjA=="
 ---
 

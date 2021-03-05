@@ -2,33 +2,27 @@
 category: news
 title: "Biden to meet with U.S. lawmakers on infrastructure push"
 excerpt: "President Joe Biden will meet Thursday with a bipartisan group of lawmakers on the White House's planned push for a massive jump in spending on projects to restore crumbling infrastructure."
-publishedDateTime: 2021-03-04T21:33:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-lawmakers/biden-to-meet-with-u-s-lawmakers-on-infrastructure-push-idUSKBN2AW29R"
-webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-lawmakers/biden-to-meet-with-u-s-lawmakers-on-infrastructure-push-idUSKBN2AW29R"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW29R"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW29R"
+publishedDateTime: 2021-03-05T02:12:00Z
+originalUrl: "https://www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3"
+webUrl: "https://www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3"
+ampWebUrl: "https://www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553791070&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2319D"
-    width: 816
-    height: 545
-    isCached: true
 
 related:
   - title: "Biden, facing resistance in Congress, courts GOP governors"
@@ -228,6 +222,6 @@ related:
         height: 600
         isCached: true
 
-secured: "bEbJ8bHyfEn18JS6ofLOq8Zb97SH9daCzqUUXIxLcX/Zdyx/SlNMSUWc5TdiB6TdkQXD9rUwVHSMqzAusplAfx2LOE6G3uXY5ku9vkJWkQkzN2NMNrcnFioWnio4S6hPmxGszryhEZkM2ohZG1tTMxLPTAge101TqawPlrsBhMZheQ4xgVNPUBo2hZ3JBQC8Wsp8S5zZg/1eZaMvevF2yzyFiHfRWWhdO5ceMeWqIbQ9IB0b0xgW9BtyFfnuMn5889y5g8+KfyVjF6TXWzvF03pALCXFd+3kRp78EmziQ0gRy81ax40Uar1gD0kwUZ77PuriC7MZePTwBQHXRujBw3Nmyutyx9KK0E+PbrgoG4E=;90VmXgwuZpfwBGi76muciA=="
+secured: "lZsUHZCKdYPDDGfXsUPbpYUXijt97nHULPmy23D1wusXC0kZQ7jCOG9f0gOYqVOyL6pUTct/b1Rf7OqgERaYGvSGbI4XMEXTuY1Hq0Xsh0VojxKKIJkhddyAtscfugC/FNqthEmR5J7Kr7DCNiqOl3ChecDeA/wiRQExkWSi8iJiF0aekhIlJ2/CMjVh3zzii7K8y6IUSGcCncN7oNu0UcNCNNo+t907l0jLhAxYOXsbRIhMZ31dhU48Y9VwkrRsX5wL7RbxWZrYPnTWwjrDoxQF8kh7g6sk924GLNhIKGwz8sayDeF9QsbPV6m5/WQhQSm5q3e4QyIAfRBAcKsEJkV43asrUUr9ctutMKolxcA=;aEuLnjllOf9M37MDdzoAjQ=="
 ---
 

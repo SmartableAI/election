@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Biden considering \"range of individuals\" for budget chief, as top Democrats tout Shalanda Young"
+    excerpt: "Democratic leaders have pushed for Tanden's proposed deputy, Shalanda Young, to be considered for the top job."
+    publishedDateTime: 2021-03-05T02:00:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-omb-shalanda-young/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-omb-shalanda-young/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-omb-shalanda-young/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 113
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/03/6e1af44e-c45c-4aa2-962f-3c81c8197c8a/thumbnail/1200x630/405cc78bccbeb9053a5a3eeb409bd8df/shalanda-young.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "House passes Democrats’ $1.9T virus relief bill, setting stage for Senate fight over Biden vision for battling pandemic"
     excerpt: "House passes Democrats’ $1.9T virus relief bill, setting stage for Senate fight over Biden vision for battling pandemic"
     publishedDateTime: 2021-02-27T07:07:00Z

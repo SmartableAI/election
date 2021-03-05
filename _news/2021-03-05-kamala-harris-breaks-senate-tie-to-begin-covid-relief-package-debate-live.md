@@ -2,14 +2,14 @@
 category: news
 title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – live"
 excerpt: "Vice-President cast tie-breaking vote after Senate deadlocked 50-50"
-publishedDateTime: 2021-03-05T00:26:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60416dfa8f0871da4b7d07ed"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60416dfa8f0871da4b7d07ed"
+publishedDateTime: 2021-03-05T01:05:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413a7c8f08d01b68d70f40"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413a7c8f08d01b68d70f40"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
 type: article
 quality: 123
-heat: 423
+heat: 443
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – as it happened"
+    excerpt: "Vice-president cast tie-breaking vote after Senate deadlocked 50-50"
+    publishedDateTime: 2021-03-05T01:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60417f428f08acb794a37bdf"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 118
+    images:
+      - url: "https://i.guim.co.uk/img/media/134c519394440450a7f7a12d428244410189fea5/0_2_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a317c70618b167c39a465a419299a17c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "CityLab Daily: Watch Kamala Harris at the CityLab 2021 Conference"
     excerpt: "A virtual edition of the annual CityLab conference starts Monday, and it includes some pretty impressive speakers. Vice President Kamala Harris will give the keynote address, and U.S. Secretary of Transportation Pete Buttigieg will be interviewed by Bloomberg CityLab’s Laura Bliss."
     publishedDateTime: 2021-02-26T19:01:00Z
@@ -242,6 +258,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "22g8eGiANeiSDKcFfyaAPMZBy7wYU2uZqWu9vHVD9oungDmSumzqK3gq6uaiKaNsKe4EBvmCaoZmZR4tIJpITqDAkQ1DaCbofLUqJrtREeUSy4k0xDftxd7wN6b+fwr3kYQr2RFxJ6FhmkAP2NthLKgnJd8hZ+7rjlUdeH4av8OUKCVFHzrhdUbvwcFOdOkNqPfqDCgNOO5D8KOT6v+peyaIPS/i5RUVam0dI/0zQL84hKItZ3ztefxYxJzGY+mGNQH1EJQYR7DMqalzzhZ2xgAEDeNU7158PmicrP790ImtBeMWJpCr74spfYH4nwpNkhNoNl+YTu6b5jybXgi0wiZy1aQv7tHrAME3xMyp8/g=;/UPoENjAIcSSk2aCqK56zw=="
+secured: "Qstw+qoiW03F1Htzef4/Vbt5D60qUtFsFpoyOJ7GTCPadc/jr0e8mHmj40e1WhTNP4KmGA+kSp3SIsncy8efKAXQTpK4XHLbgTKsBTVdlD9hngnSApGwLySgCONCkvx7zh5iDk3jHjFfBvHGw348TEzy7fZRjef4wL8qZSdH17HBMhTx+A1e+dUrusKdzDHvTNv5mYe4MgHWfeRhdK0vKfnLZVl2xOMJ8Y6lbXlC+CBtFkRB44Wl+7EOEYLtPf2zzJcvQ3CNbI7JrejkzCJlvJCFpcEgB6rOQWuqbYeDqqekQp6j3ThTBePtMVgrWU8JlxKjZJsSyTVuiNGrPmpxm/eZ04lQhw5BHLbgj38X7ss=;r5PKwWjmXJ2Ej9xGEKrlbg=="
 ---
 

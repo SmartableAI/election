@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden forced to send team to the border as child migrant influx escalates"
+    excerpt: "President Biden has ordered senior members of his team to visit the southern border and report back to him on how to handle the recent influx of migrant children, a White House spokesman said Thursday."
+    publishedDateTime: 2021-03-05T01:50:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PV_RKcHhnPc/biden-team-visit-border-child-migrants"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-team-visit-border-child-migrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-visit-border-child-migrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f8ec101-a92e-4f14-b5cb-1f21b35eafe7/f159409f-403b-4361-b9fc-1b1ea6bc9bb1/1280x720/match/image.jpg"
+        width: 1080
+        height: 720
+        isCached: true
   - title: "Lawmakers introduce bill to repeal Biden's war powers following Syria strike"
     excerpt: "A bipartisan group of senators Wednesday called for the repeal of presidential war powers granted by Congress in 1991 and 2002, which would revoke authorization for military force in the Middle East, as tensions rise between the U.S. and Iran."
     publishedDateTime: 2021-03-04T01:24:17Z

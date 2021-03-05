@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
-excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
-publishedDateTime: 2021-03-04T04:53:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV15L"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV15L"
+title: "Biden considering \"range of individuals\" for budget chief, as top Democrats tout Shalanda Young"
+excerpt: "Democratic leaders have pushed for Tanden's proposed deputy, Shalanda Young, to be considered for the top job."
+publishedDateTime: 2021-03-05T02:00:00Z
+originalUrl: "https://www.cbsnews.com/news/biden-omb-shalanda-young/"
+webUrl: "https://www.cbsnews.com/news/biden-omb-shalanda-young/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/biden-omb-shalanda-young/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-omb-shalanda-young/"
 type: article
-quality: 121
-heat: 201
-published: true
+quality: 113
+heat: -1
+published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553587655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH220LL"
-    width: 822
-    height: 545
+  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/03/6e1af44e-c45c-4aa2-962f-3c81c8197c8a/thumbnail/1200x630/405cc78bccbeb9053a5a3eeb409bd8df/shalanda-young.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
+  - title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
+    excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
+    publishedDateTime: 2021-03-04T04:53:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV15L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV15L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553587655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH220LL"
+        width: 822
+        height: 545
+        isCached: true
   - title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
     excerpt: "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,"
     publishedDateTime: 2021-03-03T08:23:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15DCA/production/_117364598_mediaitem117364597.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "Biden considering \"range of individuals\" for budget chief, as top Democrats tout Shalanda Young"
-    excerpt: "Democratic leaders have pushed for Tanden's proposed deputy, Shalanda Young, to be considered for the top job."
-    publishedDateTime: 2021-03-05T02:00:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-omb-shalanda-young/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-omb-shalanda-young/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-omb-shalanda-young/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 113
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/03/6e1af44e-c45c-4aa2-962f-3c81c8197c8a/thumbnail/1200x630/405cc78bccbeb9053a5a3eeb409bd8df/shalanda-young.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "AP source: Biden, Senate Democrats agree to tighten income limits for receiving $1,400-per-person stimulus checks"
     excerpt: "Biden, Senate Democrats agree to tighten income limits for receiving $1,400-per-person stimulus checks. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast,"
@@ -96,6 +96,6 @@ related:
         height: 779
         isCached: true
 
-secured: "wrmn0VQ9vfejfbp2Pl+QYZrD+nIdRzMBJludJwT5sCM9lIf6oac20X9raNlxdDxa305dV8kugcEfCbVK/UvlyETocqXb9tsRBQJ8dDm2DIr1LX4A8rGnggta5axr0PypfneEo8bHkjxJ3kJCs91APxKQAncqHfMwA/RPyyJCBBR8Xyx0/Rfm7Slq+fq+SUDzpPIvx/877uBB4EAyaIUxAm2VGwoBM0lzdFAimKegfO1wN3mnMDEdsuj1IjJz8Tb1l6zvD1shOig779ro8xlWgFfiVhRwGFO8UTSvI4skeNylUuyLovmi60J+VLHY0nNxq6U9/Cl/tFZCbzP1XrfYNGfrWtTgnANWaf3BQeWmfvBTd0GQn1GYSwl37l8sHHi9ARqbN12BvdcHQ0uc1Vwk6KiLvHsFHJYIktLhxx5A2cAcZIiVDgsBdD4sJlbpw/OEMONMrwwEniPyiXcbpwtU0O55Rmqas8iUr7BQTHAvdkdqipOFfR8Vb6UJBdblU4h/W2jhboQx2UkGtqMyjbzNJQ==;udvo1Z42GfbMy8IBl9MdlA=="
+secured: "7YA+0xyocttbtBZRxnDBolLhzwmta+k/mzNifuslLjvGPbSpYc1mdPv0E3dlljq5aM1Vh6ilw/pGXWIRKd3iQTGPZeWQKj7728qa2OoddmKT44p3dRI/THuYwe7eXd/Iz8hnLJenVnGGxthY0OO2PXmotsyEUY5XdtCMnzXmTa+HActlLFS2OwR6cWUzgWIW8dCU5Pjq+GASf4xrs06ZKxr0I4JTu00WDlu/CfPhm6nXam0my2nEBMNEiZwDoQIXjG8VEzihmTkI5lR8Z2nKj0PV03c+zY3kHTrkxgtaKyiVH4bz/KTyKjek5zwnuV3UCbA89Tz4Rudxt5c0b+MKZ3OyFqiewp684pjwlACv//w=;z3mIuB8p7TYgJeOVA8ChLQ=="
 ---
 

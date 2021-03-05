@@ -111,22 +111,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden to meet with U.S. lawmakers on infrastructure push"
-    excerpt: "President Joe Biden will meet Thursday with a bipartisan group of lawmakers on the White House's planned push for a massive jump in spending on projects to restore crumbling infrastructure."
-    publishedDateTime: 2021-03-04T21:33:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-lawmakers/biden-to-meet-with-u-s-lawmakers-on-infrastructure-push-idUSKBN2AW29R"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW29R"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW29R"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553791070&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2319D"
-        width: 816
-        height: 545
-        isCached: true
   - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
     excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
     publishedDateTime: 2021-02-24T02:38:00Z
@@ -185,6 +169,17 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden to meet with U.S. lawmakers on infrastructure push"
+    excerpt: "President Joe Biden will meet Thursday with a bipartisan group of lawmakers on the White House's planned push for a massive jump in spending on projects to restore crumbling infrastructure."
+    publishedDateTime: 2021-03-05T02:12:00Z
+    webUrl: "https://www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden nominates three to USPS board of governors as DeJoy testifies on mail crises"
     excerpt: "The White House moves to reassert control of the U.S. Postal Service as the postmaster general brushes off lawmakers’ calls to resign."
     publishedDateTime: 2021-02-24T23:26:00Z

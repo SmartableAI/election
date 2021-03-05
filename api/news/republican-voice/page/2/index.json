@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-02-trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.md",
+      "title": "Trump ally Rep. Lee Zeldin exploring NY governor bid amid Cuomo controversies",
+      "excerpt": "Republican Rep. Lee Zeldin of New York says he’s “actively exploring” a run for governor next year as embattled Democratic Gov. Andrew Cuomo faces multiple allegations of sexual harassment as well as a federal probe into the state’s handling of COVID deaths at nursing homes amid the coronavirus pandemic",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAVmxHPCx14/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZAVmxHPCx14/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 212,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
+      "publishedDateTime": "2021-03-02T14:50:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-bergdahl-appeals-court-martial-over-trump-mccain-comments.md",
       "title": "Bergdahl appeals court-martial over Trump, McCain comments",
       "excerpt": "A former U.S. Army soldier who was court martialed after he left his post in Afghanistan and was captured by the Taliban is asking a federal judge to overturn his military conviction, saying his trial was unduly influenced when former President Donald Trump repeatedly made disparaging comments about",
@@ -312,62 +368,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-independent-review-cuomo-sexual-harassment-tara-reade.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-independent-review-cuomo-sexual-harassment-tara-reade.amp",
       "publishedDateTime": "2021-03-01T11:03:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-biden-white-house-not-releasing-virtual-visitor-logs-as-watchdogs-call-for-transparency.md",
-      "title": "Biden White House not releasing virtual visitor logs as watchdogs call for transparency",
-      "excerpt": "The Biden administration will not release White House virtual visitor logs, Fox News has confirmed, as watchdog organizations call on President Biden to do so in the name of transparency.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hp6NiHdtwcU/biden-transparency-virtual-white-house-visitor-logs",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hp6NiHdtwcU/biden-transparency-virtual-white-house-visitor-logs",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-transparency-virtual-white-house-visitor-logs.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-transparency-virtual-white-house-visitor-logs.amp",
-      "publishedDateTime": "2021-03-01T09:18:35-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1177,7 +1177,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 335,
+      "heat": 355,
       "tags": null,
       "images": [
         {

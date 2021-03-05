@@ -95,22 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden administration facing dramatic surge in unaccompanied children at the border: report"
-    excerpt: "The Biden administration is facing a dramatic surge in unaccompanied children at the border, a sign of how resources have been overwhelmed within just a few months of the new administration."
-    publishedDateTime: 2021-03-04T21:18:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6GqycA7meac/biden-administration-surge-in-unaccompanied-children-at-the-border"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-surge-in-unaccompanied-children-at-the-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-surge-in-unaccompanied-children-at-the-border.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d29a8fee-9475-4214-a157-4aebea5aafa6/92d864e5-94f1-4bd2-9581-282bad24da87/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Texas Democrat lawmaker warns border situation will ‘become a crisis’ without Biden administration action"
     excerpt: "Rep. Henry Cuellar, , D-Texas, whose district borders Mexico, says he believes the situation at the border will \"become a crisis\" if President Joe Biden’s administration does not take a stronger stance against illegal immigration."
     publishedDateTime: 2021-03-02T21:31:41Z

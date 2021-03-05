@@ -1,27 +1,33 @@
 ---
 category: news
-title: "U.S. Vice President Kamala Harris is Keynote Speaker at NOBLE Annual Executive Symposium, March 8"
-excerpt: "NOBLE, an organization at the forefront of providing solutions to law enforcement issues and concerns, excitedly announces Vice President Kamala Harris as the keynote speaker for its 2021 William R. Bracey Winter CEO Symposium."
-publishedDateTime: 2021-03-03T07:02:00Z
-originalUrl: "https://apnews.com/press-release/globenewswire-mobile/north-america-police-law-enforcement-agencies-government-and-politics-kamala-harris-40ccdb729d7a6c53f95cbf5b270d3774"
-webUrl: "https://apnews.com/press-release/globenewswire-mobile/north-america-police-law-enforcement-agencies-government-and-politics-kamala-harris-40ccdb729d7a6c53f95cbf5b270d3774"
+title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – as it happened"
+excerpt: "Vice-president cast tie-breaking vote after Senate deadlocked 50-50"
+publishedDateTime: 2021-03-05T01:36:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60417f428f08acb794a37bdf"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60417f428f08acb794a37bdf"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
 type: article
-quality: 92
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://i.guim.co.uk/img/media/134c519394440450a7f7a12d428244410189fea5/0_2_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a317c70618b167c39a465a419299a17c"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -36,22 +42,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 123
-    images:
-      - url: "https://i.guim.co.uk/img/media/134c519394440450a7f7a12d428244410189fea5/0_2_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a317c70618b167c39a465a419299a17c"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – as it happened"
-    excerpt: "Vice-president cast tie-breaking vote after Senate deadlocked 50-50"
-    publishedDateTime: 2021-03-05T01:36:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60417f428f08acb794a37bdf"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 118
     images:
       - url: "https://i.guim.co.uk/img/media/134c519394440450a7f7a12d428244410189fea5/0_2_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a317c70618b167c39a465a419299a17c"
         width: 600
@@ -140,6 +130,20 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/04cdae2/2147483647/strip/true/crop/3401x1786+0+241/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F18%2Fa7%2F075fdbcc4db8910446ec56ee751a%2Fgettyimages-1231375480.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "U.S. Vice President Kamala Harris is Keynote Speaker at NOBLE Annual Executive Symposium, March 8"
+    excerpt: "NOBLE, an organization at the forefront of providing solutions to law enforcement issues and concerns, excitedly announces Vice President Kamala Harris as the keynote speaker for its 2021 William R. Bracey Winter CEO Symposium."
+    publishedDateTime: 2021-03-03T07:02:00Z
+    webUrl: "https://apnews.com/press-release/globenewswire-mobile/north-america-police-law-enforcement-agencies-government-and-politics-kamala-harris-40ccdb729d7a6c53f95cbf5b270d3774"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 92
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
   - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
     excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
@@ -254,6 +258,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "G84PByPRFxIRYpOA9eWsN174DQdHvxDhQ2Vh4Xv1CReokP6T+IY5UUOSEfxNlgKeWVy6RYi1mbM9phgr/WrVFoovLvdEq9C5Ga124bmPRDcWM+ek7+M0Yk/gKqx9Bw9TvUJLVmYypT4xZDBjGEsyWjU4yvreeNjB4hQ0TG05dp6uXaIt277VQA6ZwB2HPLLPdMpo2GQtDy5VDz9mWimGDscWMw9h2OIxxLPoqR3KPxA1aNyTJ2FL5v1tgEOoC7CTzDV3WHGYwWzhsBOel3mdSt6Boac8HKBCf4izdmnDnr7nOFqvxfKDBmCu3bLJCqtHwDvVeBIlqSiJz8FNGFlgBJMUHq/MXfPafmC1BDr3m30=;jF3vRe4XCqQiXDGcWN9Rnw=="
+secured: "1XmO/lJ1DEcDKrj1jmZWvYSy0ZkqhGAlZ9dVIKrUlCkNYeae9YszBecIHgS6pSqMmup5lwa5p8g8jQg+fIugH72dzfKbTfYq5AXlm+edMjud8uX2ILpyuE6gSpvEIS0GzgwITP++QzgADR74N1Ec387BlId7DpEx4ECbOrNkMV/3cXLFtkno67CteLkaoCl6G9+cTbZszUMWqITfeACaXeoTRHskKsTEKZB73iHIqfTBUMxHDnwFKgAfH+wSvvQVlusm3ENAzHBvgzrsVoK4UCKndCxwPknwtap+VexlTMcio3Ew0wCdUd0lI3oG6eD7DA31jQcFqyYV+/Jeby/1t3wMVzVSLSVljuK1lSUoLio=;jA4wup+kQmChFRZT9t9QCQ=="
 ---
 

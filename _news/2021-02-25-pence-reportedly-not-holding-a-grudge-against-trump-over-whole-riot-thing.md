@@ -91,20 +91,6 @@ related:
         width: 580
         height: 387
         isCached: true
-  - title: "Trump Weighs 2024 White House Run Without Mike Pence, Allies Say"
-    excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 -- and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket,"
-    publishedDateTime: 2021-03-03T18:54:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-03-03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 120
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNrcFREBQ0Qc/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "New report says failures at OSHA under Trump could have put more workers at risk during pandemic"
     excerpt: "The agency received more safety complaints during the pandemic than the same period in 2019 yet performed significantly fewer inspections."
     publishedDateTime: 2021-03-02T19:20:00Z
@@ -148,6 +134,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_947d83b1b70a4643b78d5adc36f48592_name_e99b3644_7b6f_11eb_8c5e_32e47b42b51b_scaled.jpg&w=1080"
         width: 1080
         height: 608
+        isCached: true
+  - title: "Trump weighs 2024 White House run without Mike Pence, allies say"
+    excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 – and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket, according to people familiar with the discussions."
+    publishedDateTime: 2021-03-03T20:22:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/03/03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say/6907944002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/6907944002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6907944002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/03/PDTN/34ca3f4b-0302-4b92-81a5-506ed210864b-AP21059813576403.jpg?auto=webp&crop=684,385,x237,y298&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Political purgatory: Mike Pence missing in action as Trump makes triumphant return"
     excerpt: "As former President Donald Trump teased his political comeback to conservatives this weekend, his one-time wingman, ex-Vice President Mike Pence, was nowhere to be found."
