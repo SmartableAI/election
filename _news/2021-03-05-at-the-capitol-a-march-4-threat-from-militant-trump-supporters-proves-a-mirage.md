@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Trump supporters want to 'blow up' Capitol - police chief"
-excerpt: "Top News Trump supporters want to 'blow up' Capitol - police chief. Posted . Acting Chief of the Capitol Police Yogananda Pittman said on Thursday that Donald Trump supporters who"
-publishedDateTime: 2021-02-25T22:45:00Z
-originalUrl: "https://www.reuters.com/video/watch/idOVE15CYXR"
-webUrl: "https://www.reuters.com/video/watch/idOVE15CYXR"
+title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
+excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
+publishedDateTime: 2021-03-05T02:45:00Z
+originalUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/"
+webUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/"
+ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
 type: article
-quality: 105
-heat: -1
-published: false
+quality: 121
+heat: 181
+published: true
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,27 +25,25 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?d=20210225&i=OVE15CYXR&r=OVE15CYXR&t=2"
-    width: 960
-    height: 540
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440"
+    width: 1440
+    height: 960
     isCached: true
 
 related:
-  - title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
-    excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
-    publishedDateTime: 2021-03-05T02:45:00Z
-    webUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/"
-    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
+  - title: "Trump supporters want to 'blow up' Capitol - police chief"
+    excerpt: "Top News Trump supporters want to 'blow up' Capitol - police chief. Posted . Acting Chief of the Capitol Police Yogananda Pittman said on Thursday that Donald Trump supporters who"
+    publishedDateTime: 2021-02-25T22:45:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE15CYXR"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
+      name: Reuters
+      domain: reuters.com
+    quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://static.reuters.com/resources/r/?d=20210225&i=OVE15CYXR&r=OVE15CYXR&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
     excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
@@ -78,6 +78,6 @@ related:
         height: 800
         isCached: true
 
-secured: "SjaYMLPfeOsGcgcvBf1IM1kzy5p/DeLRh7huYIFv5aVoE7D6Q3qw7k3ap8cBxEc+DUm3TgkPk4bmvXJxsgvpWI38oX7cDIhobOdozNaxGF3pCPl+2xpINQjz+qjKR5EyfwhhpMGA7WJL0QwMOvBfd4EZO3hjMCybtwCsYYGeZpQsFPDSoc9bSiASYxQxiuwXF4ql40Xl/szTTWAiBkBzIZU9vOHdj1BGulM4/u04WDDDVvfhBTBUY+101SLYyxcsVYiJ9p2G1wnRAdT7NrwAyE2JXGWhB0FtXO4XYed8t56Hm4Q9KbN4jJBPIvSZm/BndMTrO+MVJBVB2PRqYFiSQmuT6/QGANZMeheTYDTQbyg=;QW6lsbmGbsqQiNqJrWSYgg=="
+secured: "KVCYebe12qJi4jJyKdRFhX7P/S++gQrDaIgGmiRHHCicIft0kTwd7e25wb6RsCZx7BXD8eyKZpfj9aV/7TWkH4BiOw8vZIOI0nAV4+eNQ+2uZ4cpQkRMICXrOm2/soJD55FRDPjf83Ja5SwPUxRpLAPhu1epxMKwE8JTO0ZitVvfBNhVzt4564eyXhuW91wQCjiAlGjt4c+wbwEwbcQUlTz56bVRhDdm3d8B1kwwlwoKditXj1Lg78CIvLMP/N1erQ+IN7Y3wGyZF1qnpZveXP0z9pLOBGCdoNe1ZPFmFgIyjCjewLuoWtqbP++IAUwaOG1/j0GlqMBMVE1RXukaN1G/es86g1nnb4y5IWBs8pU=;QY07JrjE7pm1FCikzdC7oA=="
 ---
 

@@ -45,6 +45,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Lara Trump Reportedly Considering 2022 Senate Bid in North Carolina"
+    excerpt: "Republican Senator Richard Burr will retire after the 2022 election and his seat is expected to be hotly contested."
+    publishedDateTime: 2021-03-05T10:53:00Z
+    webUrl: "https://www.newsweek.com/lara-trump-reportedly-considering-2022-senate-bid-north-carolina-1573998"
+    ampWebUrl: "https://www.newsweek.com/lara-trump-reportedly-considering-2022-senate-bid-north-carolina-1573998?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-reportedly-considering-2022-senate-bid-north-carolina-1573998?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1750123/lara-trump-records-her-2020-rnc-address.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Donald Trump says he will not start a third party"
     excerpt: "President Donald Trump calls for Republican Party unity in a speech at a conservative political conference. Tries to cement his status as the party’s undisputed leader (Mar. 1)"
     publishedDateTime: 2021-03-01T01:14:00Z

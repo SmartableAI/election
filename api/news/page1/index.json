@@ -106,6 +106,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-05-at-the-capitol-a-march-4-threat-from-militant-trump-supporters-proves-a-mirage.md",
+      "title": "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage",
+      "excerpt": "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/",
+      "originalUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp",
+      "publishedDateTime": "2021-03-04T18:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-biden-considering-range-of-individuals-for-budget-chief-as-top-democrats-tout-shalanda-young.md",
       "title": "Biden considering \"range of individuals\" for budget chief, as top Democrats tout Shalanda Young",
       "excerpt": "Democratic leaders have pushed for Tanden's proposed deputy, Shalanda Young, to be considered for the top job.",
@@ -218,8 +270,8 @@
       "title": "Kamala Harris breaks Senate tie to begin Covid relief package debate – live",
       "excerpt": "Vice-President cast tie-breaking vote after Senate deadlocked 50-50",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60415b998f0871da4b7d072a",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60415b998f0871da4b7d072a",
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413a7c8f08d01b68d70f40",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413a7c8f08d01b68d70f40",
       "featuredContent": null,
       "highlight": null,
       "heat": 463,
@@ -1296,54 +1348,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-mike-pence-breaks-silence-in-op-ed-slamming-house-dems-voting-reform-bill.md",
-      "title": "Mike Pence breaks silence in op-ed slamming House Dems’ voting reform bill",
-      "excerpt": "Pence made his feelings known in an op-ed published Wednesday by The Daily Signal, a blog run by the conservative Heritage Foundation, where the former VP is a fellow.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/04/mike-pence-breaks-silence-to-slam-house-dems-voting-reform-bill/",
-      "originalUrl": "https://nypost.com/2021/03/04/mike-pence-breaks-silence-to-slam-house-dems-voting-reform-bill/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/pence-op-ed-lede.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/04/mike-pence-breaks-silence-to-slam-house-dems-voting-reform-bill/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/mike-pence-breaks-silence-to-slam-house-dems-voting-reform-bill/amp/",
-      "publishedDateTime": "2021-03-04T06:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
       ]
     }
   ],

@@ -63,6 +63,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Civil War: Trump attacks Republican strategist Rove, who fires back"
+    excerpt: "Former President Donald Trump intensified his war with the Republican establishment on Thursday by attacking Karl Rove, a longtime Republican strategist who criticized Trump's first speech since leaving office for being long on grievances but short on vision."
+    publishedDateTime: 2021-03-05T07:58:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-rove-idUSKBN2AX089"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX089"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX089"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553812757&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2405D"
+        width: 825
+        height: 545
+        isCached: true
   - title: "In Trump probe, Manhattan district attorney puts pressure on his longtime chief financial officer"
     excerpt: "Investigators have asked about Allen Weisselberg’s loyalty and his sons’ business dealings, according to people familiar with the case."
     publishedDateTime: 2021-03-03T23:46:00Z

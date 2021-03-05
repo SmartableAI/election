@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Fact-checking Trump's CPAC speech on election lies"
-excerpt: "NBC News’ Jane Timm fact-checks former President Donald Trump’s CPAC speech, where he attempted to relitigate the 2020 election results and take credit for the Pfizer vaccine."
-publishedDateTime: 2021-03-02T01:16:00Z
-originalUrl: "https://www.nbcnews.com/now/video/fact-checking-trump-s-cpac-speech-on-election-lies-101779525598"
-webUrl: "https://www.nbcnews.com/now/video/fact-checking-trump-s-cpac-speech-on-election-lies-101779525598"
-ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101779525598"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101779525598"
+title: "DeSantis and Pence tied in new poll of Trump voters"
+excerpt: "If President Trump chose not to run, it’s clear his supporters are already gravitating towards VP Mike Pence, FL. Gov. Ron DeSantis and Sen. Ted Cruz,” said GOP pollster Tony Fabrizio."
+publishedDateTime: 2021-03-05T10:25:00Z
+originalUrl: "https://www.politico.com/states/florida/story/2021/03/05/desantis-and-pence-tied-in-new-poll-of-trump-voters-1366958"
+webUrl: "https://www.politico.com/states/florida/story/2021/03/05/desantis-and-pence-tied-in-new-poll-of-trump-voters-1366958"
 type: article
-quality: 150
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,11 +22,12 @@ topics:
   - Election
   - Donald Trump
   - Democratic Voice
+  - Mike Pence
 
 images:
-  - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/1614618137555_ott_now_am_trump_timm_210301_1920x1080.jpg"
-    width: 1920
-    height: 1080
+  - url: "https://static.politico.com/44/d1/7163eebe481ea4b05427b62a51c6/210304-desantis-getty-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -160,19 +159,21 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "DeSantis and Pence tied in new poll of Trump voters"
-    excerpt: "If President Trump chose not to run, it’s clear his supporters are already gravitating towards VP Mike Pence, FL. Gov. Ron DeSantis and Sen. Ted Cruz,” said GOP pollster Tony Fabrizio."
-    publishedDateTime: 2021-03-05T10:25:00Z
-    webUrl: "https://www.politico.com/states/florida/story/2021/03/05/desantis-and-pence-tied-in-new-poll-of-trump-voters-1366958"
+  - title: "Fact-checking Trump's CPAC speech on election lies"
+    excerpt: "NBC News’ Jane Timm fact-checks former President Donald Trump’s CPAC speech, where he attempted to relitigate the 2020 election results and take credit for the Pfizer vaccine."
+    publishedDateTime: 2021-03-02T01:16:00Z
+    webUrl: "https://www.nbcnews.com/now/video/fact-checking-trump-s-cpac-speech-on-election-lies-101779525598"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo101779525598"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101779525598"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 140
+      name: NBC News
+      domain: nbcnews.com
+    quality: 150
     images:
-      - url: "https://static.politico.com/44/d1/7163eebe481ea4b05427b62a51c6/210304-desantis-getty-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/1614618137555_ott_now_am_trump_timm_210301_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Burnett: Pence is back on the wagon. The wagon of the lie"
     excerpt: "CNN's Erin Burnett reacts to an opinion article published by former Vice President Mike Pence that made claims about what happened in the 2020 election and was filled with attacks on a Democratic elections reform bill known as HR 1."
@@ -279,6 +280,6 @@ related:
         height: 773
         isCached: true
 
-secured: "N9Yv5dGOck2+Q4XvwZhX4gL9AuqoYovxbjDeqDGvGgoF0SwgBW0M9xjJhUqzt05lgj/xsj78veYh3BQG8owZchQsMsNKPd/iYjXJE8VRboLoQX4Lwpkx1uKGJ/i5IKWbE6YxB3S7K086/N+F2WhQ4b0KfBBqMocmm1wFaZOl60fLSvnKr5JS+k2GsT6l+SGSTYPEm4qZ6MijhztqctGrjDmniJLHbRwkZcAyLf0LOiEeWcpxmCSt9MnF22hgPWc8RTYSJHChcs1Sp62clUUuVpWfy+luY0Zj1C0cbBIkm91DbZAbwjvQE0EkQDqdKolVK7PJRRswlB+Qpez2OobCLLbqP5wNS5UHEr+MrlBoeF4=;NSDGOLQzKYig0wDRUL3W5Q=="
+secured: "lbB2STMHLNqVCnEIo5SPS1ALts5N3soc6ThvFDaj9BYrKb8krIri7WYhObQWpIukVVXSkyk7dMRxMKI2u3h8q9U2SO8SKqeLdT0aoVI+mMxSs+DlWO/O1DUdeK7zeKJlrvzNGAIiYaj4DO4Q6M2HDj4R6S+W5XVW3nFaP3PxK0HjF4uP2IK3O/JPGaPeuYgXjlD0iSkGC7izVLeasy7XoQQQi5AuZaMDAGZ30Eo7wBvprpphWhmj0EE02CgNlfZP9IeV++55ZeCFqPyeWxvwPFefZakzrD8acNwmFzwN0DAgHCxJ/wL1zNb9B/5j4kg/WEe6jh7orv3b479rM/+bIqgMwjhSSZjeoL2alFW40Do=;bzmD93hU5BtTmCRuqLqKSw=="
 ---
 

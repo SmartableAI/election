@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Donald Trump says he will not start a third party"
-excerpt: "President Donald Trump calls for Republican Party unity in a speech at a conservative political conference. Tries to cement his status as the party’s undisputed leader (Mar. 1)"
-publishedDateTime: 2021-03-01T01:14:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/01/donald-trump-says-he-not-start-third-party/6864626002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/01/donald-trump-says-he-not-start-third-party/6864626002/"
+title: "Lara Trump Reportedly Considering 2022 Senate Bid in North Carolina"
+excerpt: "Republican Senator Richard Burr will retire after the 2022 election and his seat is expected to be hotly contested."
+publishedDateTime: 2021-03-05T10:53:00Z
+originalUrl: "https://www.newsweek.com/lara-trump-reportedly-considering-2022-senate-bid-north-carolina-1573998"
+webUrl: "https://www.newsweek.com/lara-trump-reportedly-considering-2022-senate-bid-north-carolina-1573998"
+ampWebUrl: "https://www.newsweek.com/lara-trump-reportedly-considering-2022-senate-bid-north-carolina-1573998?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-reportedly-considering-2022-senate-bid-north-carolina-1573998?amp=1"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/591844ce-5d5e-482b-9a60-9a86ceb8f2cd_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://d.newsweek.com/en/full/1750123/lara-trump-records-her-2020-rnc-address.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -45,22 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Lara Trump Reportedly Considering 2022 Senate Bid in North Carolina"
-    excerpt: "Republican Senator Richard Burr will retire after the 2022 election and his seat is expected to be hotly contested."
-    publishedDateTime: 2021-03-05T10:53:00Z
-    webUrl: "https://www.newsweek.com/lara-trump-reportedly-considering-2022-senate-bid-north-carolina-1573998"
-    ampWebUrl: "https://www.newsweek.com/lara-trump-reportedly-considering-2022-senate-bid-north-carolina-1573998?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lara-trump-reportedly-considering-2022-senate-bid-north-carolina-1573998?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1750123/lara-trump-records-her-2020-rnc-address.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Donald Trump hints at run for president in 2024 – video"
     excerpt: "Former US president Donald Trump has hinted at a possible run for president again in 2024 during a speech at the Conservative Political Action Conference [CPAC] in Florida."
     publishedDateTime: 2021-03-01T00:44:00Z
@@ -74,6 +60,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/273b47d4d8dd0d749a4bb4de4da0b1ee1d57e9bd/0_139_3374_2025/master/3374.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a543c13dc8e7dd495bd45a3051168af"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Donald Trump says he will not start a third party"
+    excerpt: "President Donald Trump calls for Republican Party unity in a speech at a conservative political conference. Tries to cement his status as the party’s undisputed leader (Mar. 1)"
+    publishedDateTime: 2021-03-01T01:14:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/01/donald-trump-says-he-not-start-third-party/6864626002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/591844ce-5d5e-482b-9a60-9a86ceb8f2cd_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Will Trump Dump Pence If He Runs in 2024?"
     excerpt: "There are reports Trump won’t forgive Pence his one moment of independence. A fresh start could also give us the spectacle of a Trump-Trump ticket."
@@ -128,6 +128,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "vEDCxyZ8E7CUxrUIvHWgvryRKYIqnmUz7pWN5PBBLYxKpc7bTOc6ci3Jl0gCFJxrYzFWhJWzzRZxVZbtFDJjfwBNw8q8lrwB1CASuBK+kJucZoGbAL+EIIOW5BxnZt1UTZxsFA6VuzAxUWjJDqzCKNMVMvnNNX0MK85cF/kfgz+oO1twdk9TgUROkfQhvda6KPA0qDVc+OWq9KdqK1+1okU0w4MtG1ZRzcvfDFvPzkmH8qNEWhWyWKIpGiiKY/8LkhOTkRVn/HBpe3U4oCVZ8fxwyh+pig3Mh+LxFusig0uKJ0sEqTGoi45+DnqGJKX2FyiAXUVtDVF7muSHMHhqgynK5H5och7eAnaZokfxayHG5wskOwXeaCUFg6PRNNJCaZ+qK5pV7Tfqoh70c1P3jK2Bf3rWNcVN7rYw3fEr9Mr7l7Pu11J+Jq5N4CdpX2IjgpMl2KbiAlWfmIj5pgJ5wmsgx+9mx06PaYqURHGLB3MmIv9kIW0lj58YMZrMrArMHxVKyP576ISamSSDMkvIew==;a1AFSKYGw0/MXFMtnRqOPQ=="
+secured: "3ZeEhj4BBc20YakiPBLC8jAVTfCFGuOpxzWoSJRCMakGayLZm0sJkCWcPU/Qr6d1N2V2KEVS9c1zAunD2dZRCPvFwZW1wCtKs5CsCNS8pPbwsVM9auZS73kXI3ZBm1iRhjyVQwrZ94HM4NdNnyM0MlnN/p12HQOSDjgPUQMioiMurOQY9MYLRTC3dF2Ey6Vw8LkRWMi0PEyxNVt4ZJ3zkrybp8rfrEFU5B9CtSOzrjNJO9Rgdqfc7j1KYyrzUnoIVQp73hnkdVGbcAiFjfW5qMp2lfxcmMfG9iW9Mx0isMIYIAQNtqaYfzkouru6+zHviqIiffKRdjF1lZqyEktT27AK+Ky2HuBhjPeZtk2sKMY=;S+Oec2oVjCB5O0YzcMF+hg=="
 ---
 

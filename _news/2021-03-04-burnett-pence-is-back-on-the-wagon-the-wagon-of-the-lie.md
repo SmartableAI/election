@@ -176,6 +176,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "DeSantis and Pence tied in new poll of Trump voters"
+    excerpt: "If President Trump chose not to run, it’s clear his supporters are already gravitating towards VP Mike Pence, FL. Gov. Ron DeSantis and Sen. Ted Cruz,” said GOP pollster Tony Fabrizio."
+    publishedDateTime: 2021-03-05T10:25:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/03/05/desantis-and-pence-tied-in-new-poll-of-trump-voters-1366958"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 140
+    images:
+      - url: "https://static.politico.com/44/d1/7163eebe481ea4b05427b62a51c6/210304-desantis-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Big Lie? Big Whoop: Many Republicans on Capitol Hill see little reason to bat down Trump's election lies"
     excerpt: "The deadly January 6 insurrection in the Capitol may have caused many voters to recoil at former President Donald Trump's election lies."
     publishedDateTime: 2021-02-25T22:00:00Z

@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-27-trump-loyalists-spurn-failed-republican-establishment-of-yesteryear.md",
+      "title": "Trump Loyalists Spurn ‘Failed Republican Establishment of Yesteryear’",
+      "excerpt": "At an annual gathering of conservatives, devotees of Donald J. Trump pledged their fealty to him and issued grave warnings about the political left.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.html",
+      "originalUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/02/26/us/politics/26cpac-repubs1/26cpac-repubs1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.amp.html",
+      "publishedDateTime": "2021-02-26T17:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-donald-trump-jr-suggests-rino-policies-part-of-what-led-to-trump-presidency.md",
       "title": "Donald Trump Jr. Suggests 'RINO Policies' Part of What Led to Trump Presidency",
       "excerpt": "The former president's son delivered his remarks at CPAC during a scheduled \"Reigniting the Spirit of the American Dream\" speech.",
@@ -310,58 +367,6 @@
       ]
     },
     {
-      "path": "_news/2021-02-26-trump-supporters-want-to-blow-up-capitol-police-chief.md",
-      "title": "Trump supporters want to 'blow up' Capitol - police chief",
-      "excerpt": "Top News Trump supporters want to 'blow up' Capitol - police chief. Posted . Acting Chief of the Capitol Police Yogananda Pittman said on Thursday that Donald Trump supporters who",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/idOVE15CYXR",
-      "originalUrl": "https://www.reuters.com/video/watch/idOVE15CYXR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210225&i=OVE15CYXR&r=OVE15CYXR&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-25T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-26-nikki-haley-iced-out-of-cpac-after-underestimating-donald-trumps-influence.md",
       "title": "Nikki Haley Iced Out Of CPAC After Underestimating Donald Trump's Influence",
       "excerpt": "The former ambassador hasn't been invited to speak, another blow to any presidential ambitions she may harbor.",
@@ -470,7 +475,7 @@
       "originalUrl": "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
