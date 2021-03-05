@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden seeks dismissal of 'sanctuary' funding dispute at Supreme Court"
+    excerpt: "President Joe Biden's administration on Thursday asked the U.S. Supreme Court to dismiss three pending appeals on former President Donald Trump's effort to withhold millions of dollars in law enforcement funds from states and cities that refused to cooperate with"
+    publishedDateTime: 2021-03-05T03:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-immigration-idUSKCN2AW2WN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AW2WN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AW2WN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553795696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH231L3"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
     excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
     publishedDateTime: 2021-02-24T02:38:00Z

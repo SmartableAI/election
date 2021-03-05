@@ -2,9 +2,9 @@
 category: news
 title: "Iran looms over Senate hearing for Biden nominee for senior U.S. State post"
 excerpt: "U.S. senators peppered President Joe Biden's nominee to be the No. 2 official at the State Department with questions about Iran on Wednesday, a sign she could face difficulty winning support from Republicans even as she warned against \"nostalgia\" for the Iran nuclear"
-publishedDateTime: 2021-03-03T23:00:00Z
-originalUrl: "https://www.reuters.com/article/usa-biden-diplomacy-int-idUSKCN2AV2J5"
-webUrl: "https://www.reuters.com/article/usa-biden-diplomacy-int-idUSKCN2AV2J5"
+publishedDateTime: 2021-03-04T05:00:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-diplomacy/iran-looms-over-senate-hearing-for-biden-nominee-for-senior-u-s-state-post-idUSKCN2AV2JD?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/us-usa-biden-diplomacy/iran-looms-over-senate-hearing-for-biden-nominee-for-senior-u-s-state-post-idUSKCN2AV2JD?edition-redirect=uk"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AV2J5"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AV2J5"
 type: article
@@ -64,6 +64,6 @@ related:
         height: 545
         isCached: true
 
-secured: "vr77Rdu2Icw3NLmPz2rRG5rAy5tiaMybtFt/0DtRQOUzvUAS0ipNzUKG6gK5WkA7HZNe4o6oSzIr9ef0+rp8NzgJu/Kc4dtjz+lZB1TFkPctKvSX7RY6m9BhwuesNxv5WcBv9VSxUzZr55qg3C5uBzBDQuySZ3hZZ10wVMkbozy7BbOYV1NpqWD2s0C47fBIqe2jXAwzK9lDsiWF47o35E9vcjGwtUv/LC++UxGC5AGzyzpLZXvm8L0k5xklkEtwVTIb7at8p9Zfu0+oFeY/eVkJty1s0TQ4bfMqxk4Ah2UJj5svMD6EaU7itUDLiIOEukDlXnfeEUgLXyM0k4viR1a/7S5UNU0Nw1C7BTP9lfc=;k129Z8yPKpSqjK5HGUz5gA=="
+secured: "3+Hq3/iO2nxAjtMLh2y/4WaVJEBM1aVIdTbzMqpsU1ZWsZHMhhAq1MIlZeH3nAZ4BvSd8OO71c06T856AToiNw3IjFiDmK0Zi0+mzuAF7xfaxjTwUG5cw9zSicmhBfGVKiIR8OjkS6fSGebEzqNER/EcNmcuUbFUHPeT+9xRWKyCSIixnOHZEeA8TsX5A31BVLIM6suobS/MKFgmozoWcLqKgARz8F1d2bUzDiJ54kjib5FoYk05zK7LJox+n60Q6WALQCqWCZKCeP/Wpco7RI1azlytKGUUipdmSWrbDC0bXHBAXs2ARiR6l3mklTXTR3xnpxR4sWBIDLXr2OaARxaW5E7NPyK2hYzlZwfA48Q=;qSjiyNlGeY7Li700H9vvow=="
 ---
 

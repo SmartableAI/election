@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "A midlevel member of the Trump State Dept. has been arrested on charges related to the Capitol attack."
+    excerpt: "Federico G. Klein is the first member of the Trump administration to face criminal charges in connection with the storming of the Capitol."
+    publishedDateTime: 2021-03-04T20:46:00Z
+    webUrl: "https://www.nytimes.com/2021/03/04/us/trump-federico-klein-capitol-attack.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/04/us/trump-federico-klein-capitol-attack.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/04/us/trump-federico-klein-capitol-attack.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 119
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/05/us/05new-washington-brief-arrest/05new-washington-brief-arrest-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Oath Keeper claims she was VIP security at Trump rally before riot and says she met with Secret Service agents"
     excerpt: "A leader in an alleged Oath Keepers conspiracy in the US Capitol insurrection claims she was given a VIP pass to the pro-Trump rally on January 6, had met with Secret Service agents and was providing security for legislators and others,"
     publishedDateTime: 2021-02-21T16:42:00Z

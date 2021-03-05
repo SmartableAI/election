@@ -91,6 +91,20 @@ related:
         width: 580
         height: 387
         isCached: true
+  - title: "Trump Weighs 2024 Run Without Mike Pence, Allies Say"
+    excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 -- and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket,"
+    publishedDateTime: 2021-03-04T15:43:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 120
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNrcFREBQ0Qc/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "New report says failures at OSHA under Trump could have put more workers at risk during pandemic"
     excerpt: "The agency received more safety complaints during the pandemic than the same period in 2019 yet performed significantly fewer inspections."
     publishedDateTime: 2021-03-02T19:20:00Z

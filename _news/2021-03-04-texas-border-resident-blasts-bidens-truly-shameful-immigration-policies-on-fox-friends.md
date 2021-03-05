@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/texas-border-covid-buses-migrants-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies.amp"
 type: article
 quality: 164
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 133
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Texas border resident blasts Biden's 'truly shameful' immigration policies on 'Fox & Friends'"
+    excerpt: "Biden’s immigration policies are “truly shameful,” a Texas resident who lives near the border said on Thursday."
+    publishedDateTime: 2021-03-04T20:19:00Z
+    webUrl: "https://www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340

@@ -416,6 +416,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "U.S. Senate votes to begin debate on Biden COVID-19 relief bill"
+    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, setting up what is likely to be a contentious, days-long debate over the merits of the sweeping package."
+    publishedDateTime: 2021-03-04T12:35:00Z
+    webUrl: "https://www.businessinsider.com/us-senate-votes-to-begin-debate-on-biden-covid-19-relief-bill-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/us-senate-votes-to-begin-debate-on-biden-covid-19-relief-bill-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-senate-votes-to-begin-debate-on-biden-covid-19-relief-bill-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden says covid relief bill 'has to pass' with or without Republican support"
     excerpt: "President Joe Biden on Jan. 29 said the covid relief bill “has to pass” but did not say whether he is for budget reconciliation."
     publishedDateTime: 2021-01-29T19:53:00Z

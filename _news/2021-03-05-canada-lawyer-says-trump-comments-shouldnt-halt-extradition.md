@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Canada lawyer says Trump comments shouldn't halt extradition"
+title: "Canada lawyer says Trump comments shouldn’t halt extradition"
 excerpt: "A Canadian justice department lawyer says comments made by former U.S. President Donald Trump do not meet the standard to halt an extradition hearing of a senior executive for Chinese communications g"
-publishedDateTime: 2021-03-04T22:37:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/canada-lawyer-trump-comments-halt-extradition-76260010"
-webUrl: "https://abcnews.go.com/International/wireStory/canada-lawyer-trump-comments-halt-extradition-76260010"
+publishedDateTime: 2021-03-05T03:28:00Z
+originalUrl: "https://www.washingtonpost.com/world/the_americas/canada-lawyer-says-trump-comments-shouldnt-halt-extradition/2021/03/04/f7270502-7d38-11eb-8c5e-32e47b42b51b_story.html"
+webUrl: "https://www.washingtonpost.com/world/the_americas/canada-lawyer-says-trump-comments-shouldnt-halt-extradition/2021/03/04/f7270502-7d38-11eb-8c5e-32e47b42b51b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/world/the_americas/canada-lawyer-says-trump-comments-shouldnt-halt-extradition/2021/03/04/f7270502-7d38-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/canada-lawyer-says-trump-comments-shouldnt-halt-extradition/2021/03/04/f7270502-7d38-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/International/WireAP_8d78345726484b63adfff23683686c45_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -71,6 +73,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "ncTEiyrf1x8pKEdHcRercTsVqNAv9lRb6JNUxLXUn/CT53E/jxvW5+Ji8dQSw6RVVe06MMX+BB4vJupengbNeVwHr/ISdLtICpFPYtDq7OpU4Jhi6Rvbq/41O40U8/OOns1cITS1H/HjiqWqBPPotJ0m+CsxD+nlO1DKe50OoO0RATrHBJjvtb6FJLeXi4rqr3Mh5imEGDFpixzxBmzlE738Z+Qprz/U3F1suiAnGyAPZQ1xrrmvTYXmWLWLumnGekHKqHqOvKGz+2NvqaI0MSKoKfhFNt7Xx4mzLWn1dcmeOP2wCcUGu1a5L+CQlqJaQrTnffyqvRJEhkIYPZjbxQg/VsSH/YR7Hh1ZWfaLimdZiAwXl2BPFzQ/Yw/ek5VHhALsU2B9he1hg8PZ/xVN4/teLnwzhCewyXaxb4mFNismgxQssvN3tZUw0jJJCiMb/PT2t0ZjEoRa3PI1MvQeTNVbJ1/xcw36ZIOTCDhlC6xF69+Ay2b5q5ujCSwmQR3A5AlBinh/suXrvVAei9Bl3w==;ja+nKde+LCGUU38MkW5ZEQ=="
+secured: "UcNhnXCdBSomjZo81oUxGUS1xIlMLRadwkM30VFfX+J8V8DirWm2re5z++9pEUTTOsBnKI/fIL7bs5RbP253Gvq2vwsWPL4Xl6e0csY7q83VLkwu+0TJRz3So4Xo2PB4qvuR+8Jl95I01F0WppNRiCzs0dFD2dGloUqBO4RPzA5Bb/Kgva71k00flCNDXAx0hgoojN5johWXhOJ9z51xNr5a6p0fug25EaFL5CEOGroFtwQYGibjxHT3NgrwTyHan9NnMJYxhN0PhOtaXS1rAWNkCqsa/hIrdJ/n1F47BlpSb90iDkX8fMMxDuD+GvyFwT8zCH1SfAzBe9fEqEiNfKoUZxyq6rxQ0eynh+qp9WI=;0WrZ97Z8VcWrg+n432oCHw=="
 ---
 

@@ -49,8 +49,8 @@ related:
         isCached: true
   - title: "Iran looms over Senate hearing for Biden nominee for senior U.S. State post"
     excerpt: "U.S. senators peppered President Joe Biden's nominee to be the No. 2 official at the State Department with questions about Iran on Wednesday, a sign she could face difficulty winning support from Republicans even as she warned against \"nostalgia\" for the Iran nuclear"
-    publishedDateTime: 2021-03-03T23:00:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-diplomacy-int-idUSKCN2AV2J5"
+    publishedDateTime: 2021-03-04T05:00:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-diplomacy/iran-looms-over-senate-hearing-for-biden-nominee-for-senior-u-s-state-post-idUSKCN2AV2JD?edition-redirect=uk"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AV2J5"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AV2J5"
     type: article

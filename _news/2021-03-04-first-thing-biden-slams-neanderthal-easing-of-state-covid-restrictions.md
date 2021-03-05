@@ -1,0 +1,67 @@
+---
+category: news
+title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
+excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
+publishedDateTime: 2021-03-04T12:33:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
+webUrl: "https://www.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
+type: article
+quality: 124
+heat: 164
+published: true
+
+provider:
+  name: The Guardian
+  domain: theguardian.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://i.guim.co.uk/img/media/7871561baf29d41f794c57e18dbc46cc9e3cb8c9/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4fe8abbe3d64db734907fbdda6dc55a9"
+    width: 600
+    height: 360
+    isCached: true
+
+related:
+  - title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
+    excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
+    publishedDateTime: 2021-03-04T04:53:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV15L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV15L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553587655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH220LL"
+        width: 822
+        height: 545
+        isCached: true
+  - title: "Joe Biden 'neanderthal' comment a reflection of frustration, says White House – video"
+    excerpt: "White House press secretary Jen Psaki defended Joe Biden’s comments comparing Republican governors to Nearnderthals for lifting mask mandates in Mississippi and Texas"
+    publishedDateTime: 2021-03-04T20:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/04/joe-biden-neanderthal-comment-a-reflection-of-frustration-says-white-house-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/fecd8fbdb567d855960ec043c8f0c666c19c628a/325_0_3843_2305/master/3843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad7b0648ea431f588c666aba13d80d94"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "tPSY1/hcsVvxYrlyfdyp262ZAUI3oKU1CHhhleV19T6Bpk7EW9f88pDZd2/0GAx+exlnQF5mDnWbaoR5v61ZmUh9ojczi8ae3gZddfxePWtYrcmtbd0oOedjAeyCl3LK7ixyTYlpW+4fLR3Y5ZDuEBq2+MzazGLqDWC2KWKRKuAg6FYUT3jy/KR8xAC71bkTJAUMWjty5GJjoio0ro2DMVK+aWRAnpBDNgJXHdv5roWjwWXetVzUzIn9llvBDgxmVqmAGPA2PwdgjmeogQ5MUaVSLCT1xcI/bUxzRkMwDT+pWmK7i3rU/RZH0JfttrjJSaA6El9KMB7Wvo5AMD5c8crHGhmNz0hB77YNZ2/w/3c=;yM9TZrnh6rmR5FRbyx41AA=="
+---
+

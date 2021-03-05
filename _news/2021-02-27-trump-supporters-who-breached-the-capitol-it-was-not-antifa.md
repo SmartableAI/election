@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-sup
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-supporters-not-antifa/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 126
     images:
       - url: "https://static01.nyt.com/images/2021/03/02/us/politics/28antifa-lie-promo/28antifa-lie-promo-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "A midlevel member of the Trump State Dept. has been arrested on charges related to the Capitol attack."
+    excerpt: "Federico G. Klein is the first member of the Trump administration to face criminal charges in connection with the storming of the Capitol."
+    publishedDateTime: 2021-03-04T20:46:00Z
+    webUrl: "https://www.nytimes.com/2021/03/04/us/trump-federico-klein-capitol-attack.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/04/us/trump-federico-klein-capitol-attack.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/04/us/trump-federico-klein-capitol-attack.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 119
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/05/us/05new-washington-brief-arrest/05new-washington-brief-arrest-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

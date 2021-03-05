@@ -47,19 +47,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Canada lawyer says Trump comments shouldn't halt extradition"
+  - title: "Canada lawyer says Trump comments shouldn’t halt extradition"
     excerpt: "A Canadian justice department lawyer says comments made by former U.S. President Donald Trump do not meet the standard to halt an extradition hearing of a senior executive for Chinese communications g"
-    publishedDateTime: 2021-03-04T22:37:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/canada-lawyer-trump-comments-halt-extradition-76260010"
+    publishedDateTime: 2021-03-05T03:28:00Z
+    webUrl: "https://www.washingtonpost.com/world/the_americas/canada-lawyer-says-trump-comments-shouldnt-halt-extradition/2021/03/04/f7270502-7d38-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/the_americas/canada-lawyer-says-trump-comments-shouldnt-halt-extradition/2021/03/04/f7270502-7d38-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/the_americas/canada-lawyer-says-trump-comments-shouldnt-halt-extradition/2021/03/04/f7270502-7d38-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 105
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/International/WireAP_8d78345726484b63adfff23683686c45_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Bergdahl Appeals Court-Martial Over Trump, McCain Comments"
     excerpt: "A former U.S. Army soldier who was court martialed after he left his post and was captured by the Taliban is asking a federal judge to overturn his military conviction, saying his trial was unduly influenced when former President Donald Trump repeatedly made disparaging comments about him and called for his execution."

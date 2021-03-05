@@ -406,6 +406,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "U.S. Senate votes to begin debate on Biden COVID-19 relief bill"
+    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, setting up what is likely to be a contentious, days-long debate over the merits of the sweeping package."
+    publishedDateTime: 2021-03-04T12:35:00Z
+    webUrl: "https://www.businessinsider.com/us-senate-votes-to-begin-debate-on-biden-covid-19-relief-bill-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/us-senate-votes-to-begin-debate-on-biden-covid-19-relief-bill-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-senate-votes-to-begin-debate-on-biden-covid-19-relief-bill-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z

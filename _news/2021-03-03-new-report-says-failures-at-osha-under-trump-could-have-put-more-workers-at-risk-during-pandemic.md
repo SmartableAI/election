@@ -95,6 +95,20 @@ related:
         width: 580
         height: 387
         isCached: true
+  - title: "Trump Weighs 2024 Run Without Mike Pence, Allies Say"
+    excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 -- and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket,"
+    publishedDateTime: 2021-03-04T15:43:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 120
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNrcFREBQ0Qc/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump names Republican impeachment supporters"
     excerpt: "Former President Donald Trump called for GOP unity at a conservative convention in Orlando, Florida and then called out by name the 17 Republican House and Senate members who voted to impeach or convict him. (March 1)"
     publishedDateTime: 2021-03-01T20:26:00Z

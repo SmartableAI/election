@@ -64,6 +64,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "A midlevel member of the Trump State Dept. has been arrested on charges related to the Capitol attack."
+    excerpt: "Federico G. Klein is the first member of the Trump administration to face criminal charges in connection with the storming of the Capitol."
+    publishedDateTime: 2021-03-04T20:46:00Z
+    webUrl: "https://www.nytimes.com/2021/03/04/us/trump-federico-klein-capitol-attack.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/04/us/trump-federico-klein-capitol-attack.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/04/us/trump-federico-klein-capitol-attack.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 119
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/05/us/05new-washington-brief-arrest/05new-washington-brief-arrest-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "y40YOptJij0p2cfMByPFOMUKbbwEcWzZIinaT2CnfD6fSKZYBEie1uGpLdXQ2fJQ7yodS16Ben7udaey8bNkqMOqQRh+E9TceVe0rUm9mBeGb2Qjb0P6VUpeT4yojdswLl39meTmrHACG+YhBgHPxeMXAFjsHGRp8D+vHi+9AZ0Q3IhExJ9ymPaKhE8ZzdAU6KyRDa0glTfHHSP/TYNPkyHkx7n2C5sOiQclZNLmMzBrFBGuaJU4S/rHD0P1m3DRmlUW6BeRQYo3TaBbmNWp3sCAWNbySWBO5a2aYPJ/7sQpGbTXZHLVrI1N4SUBX5f7Dyf2kwkRlig+402YMXHDGYzTBcGnPzd4c3R33Kv1TGw=;oGvrmUWCvNCGtyOKJpHlsQ=="
 ---

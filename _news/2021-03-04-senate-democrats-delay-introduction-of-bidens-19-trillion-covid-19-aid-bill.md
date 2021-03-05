@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV15L"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV15L"
 type: article
 quality: 121
-heat: 201
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,69 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
-    excerpt: "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,"
-    publishedDateTime: 2021-03-03T08:23:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-56262687"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56262687"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56262687"
+  - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
+    excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
+    publishedDateTime: 2021-03-04T12:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 118
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15DCA/production/_117364598_mediaitem117364597.jpg"
-        width: 1024
-        height: 576
+      - url: "https://i.guim.co.uk/img/media/7871561baf29d41f794c57e18dbc46cc9e3cb8c9/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4fe8abbe3d64db734907fbdda6dc55a9"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Biden considering \"range of individuals\" for budget chief, as top Democrats tout Shalanda Young"
-    excerpt: "Democratic leaders have pushed for Tanden's proposed deputy, Shalanda Young, to be considered for the top job."
-    publishedDateTime: 2021-03-05T02:00:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-omb-shalanda-young/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-omb-shalanda-young/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-omb-shalanda-young/"
+  - title: "Joe Biden 'neanderthal' comment a reflection of frustration, says White House – video"
+    excerpt: "White House press secretary Jen Psaki defended Joe Biden’s comments comparing Republican governors to Nearnderthals for lifting mask mandates in Mississippi and Texas"
+    publishedDateTime: 2021-03-04T20:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/04/joe-biden-neanderthal-comment-a-reflection-of-frustration-says-white-house-video"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 113
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/03/6e1af44e-c45c-4aa2-962f-3c81c8197c8a/thumbnail/1200x630/405cc78bccbeb9053a5a3eeb409bd8df/shalanda-young.jpg"
+      - url: "https://i.guim.co.uk/img/media/fecd8fbdb567d855960ec043c8f0c666c19c628a/325_0_3843_2305/master/3843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad7b0648ea431f588c666aba13d80d94"
         width: 1200
         height: 630
-        isCached: true
-  - title: "AP source: Biden, Senate Democrats agree to tighten income limits for receiving $1,400-per-person stimulus checks"
-    excerpt: "Biden, Senate Democrats agree to tighten income limits for receiving $1,400-per-person stimulus checks. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast,"
-    publishedDateTime: 2021-03-03T15:42:00Z
-    webUrl: "https://www.washingtonpost.com/politics/ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks/2021/03/03/06086aa0-7c37-11eb-8c5e-32e47b42b51b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks/2021/03/03/06086aa0-7c37-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks/2021/03/03/06086aa0-7c37-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 104
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "House passes Democrats’ $1.9T virus relief bill, setting stage for Senate fight over Biden vision for battling pandemic"
-    excerpt: "House passes Democrats’ $1.9T virus relief bill, setting stage for Senate fight over Biden vision for battling pandemic"
-    publishedDateTime: 2021-02-27T07:07:00Z
-    webUrl: "https://www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/house-passes-democrats-19t-virus-relief-bill-setting-stage-for-senate-fight-over-biden-vision-for-battling-pandemic/2021/02/27/67ae3a98-78ca-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
 
 secured: "wrmn0VQ9vfejfbp2Pl+QYZrD+nIdRzMBJludJwT5sCM9lIf6oac20X9raNlxdDxa305dV8kugcEfCbVK/UvlyETocqXb9tsRBQJ8dDm2DIr1LX4A8rGnggta5axr0PypfneEo8bHkjxJ3kJCs91APxKQAncqHfMwA/RPyyJCBBR8Xyx0/Rfm7Slq+fq+SUDzpPIvx/877uBB4EAyaIUxAm2VGwoBM0lzdFAimKegfO1wN3mnMDEdsuj1IjJz8Tb1l6zvD1shOig779ro8xlWgFfiVhRwGFO8UTSvI4skeNylUuyLovmi60J+VLHY0nNxq6U9/Cl/tFZCbzP1XrfYNGfrWtTgnANWaf3BQeWmfvBTd0GQn1GYSwl37l8sHHi9ARqbN12BvdcHQ0uc1Vwk6KiLvHsFHJYIktLhxx5A2cAcZIiVDgsBdD4sJlbpw/OEMONMrwwEniPyiXcbpwtU0O55Rmqas8iUr7BQTHAvdkdqipOFfR8Vb6UJBdblU4h/W2jhboQx2UkGtqMyjbzNJQ==;udvo1Z42GfbMy8IBl9MdlA=="

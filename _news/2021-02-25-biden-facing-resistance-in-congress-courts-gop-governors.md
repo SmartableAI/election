@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 385
+heat: 405
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7E7FIFD4LII6XBONTN72SDEIOM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Biden seeks dismissal of 'sanctuary' funding dispute at Supreme Court"
+    excerpt: "President Joe Biden's administration on Thursday asked the U.S. Supreme Court to dismiss three pending appeals on former President Donald Trump's effort to withhold millions of dollars in law enforcement funds from states and cities that refused to cooperate with"
+    publishedDateTime: 2021-03-05T03:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-court-immigration-idUSKCN2AW2WN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AW2WN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AW2WN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553795696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH231L3"
+        width: 817
+        height: 545
         isCached: true
   - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
     excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
