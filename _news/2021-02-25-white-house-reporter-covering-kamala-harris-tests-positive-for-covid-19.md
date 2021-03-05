@@ -44,6 +44,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Kamala Harris speaks with Netanyahu in latest talk with a major world leader"
+    excerpt: "Vice President Kamala Harris and Israeli Prime Minister Benjamin Netanyahu had a call Thursday amid the Middle Eastern ally's growing tension with Iran."
+    publishedDateTime: 2021-03-05T00:27:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uar-fidAJDA/kamala-harris-netanyahu-call"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-netanyahu-call.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-netanyahu-call.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 182
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7750b86-b666-441d-ad85-e004befe43e3/3f70789c-8232-4f13-a178-f669a03f6443/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Psaki won't say if Harris will speak out on Cuomo sexual misconduct allegations"
     excerpt: "White House press secretary Jen Psaki did not have an answer as to if or when Vice President Kamala Harris might speak out on the sexual misconduct allegations against New York Gov. Andrew Cuomo."
     publishedDateTime: 2021-03-02T19:41:19Z

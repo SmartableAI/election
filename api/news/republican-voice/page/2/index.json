@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-02-bergdahl-appeals-court-martial-over-trump-mccain-comments.md",
+      "title": "Bergdahl appeals court-martial over Trump, McCain comments",
+      "excerpt": "A former U.S. Army soldier who was court martialed after he left his post in Afghanistan and was captured by the Taliban is asking a federal judge to overturn his military conviction, saying his trial was unduly influenced when former President Donald Trump repeatedly made disparaging comments about",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1c71e0-hN9c/bergdahl-appeals-court-martial-trump-mccain-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1c71e0-hN9c/bergdahl-appeals-court-martial-trump-mccain-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Bowe-Bergdahl-Court-Martial-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bergdahl-appeals-court-martial-trump-mccain-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bergdahl-appeals-court-martial-trump-mccain-comments.amp",
+      "publishedDateTime": "2021-03-02T10:16:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-trumps-received-covid-19-vaccines-at-white-house-in-january.md",
       "title": "Trumps received COVID-19 vaccines at White House in January",
       "excerpt": "Former President Donald Trump and former first lady Melania Trump received their COVID-19 vaccines in January at the White House, Fox News confirmed.",
@@ -351,7 +407,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 184,
+      "heat": 224,
       "tags": null,
       "images": [
         {
@@ -407,7 +463,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -447,63 +503,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-rep-banks-warns-gop-destined-to-lose-elections-if-it-rejects-trump-and-his-voters.md",
-      "title": "Rep. Banks warns GOP ‘destined’ to lose elections if it rejects Trump and his voters",
-      "excerpt": "Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class",
-      "originalUrl": "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c055ca10-6fad-441b-9b13-bc9cfa464a1a/21f7f894-6377-4ca8-8101-b98ee68f19ac/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp",
-      "publishedDateTime": "2021-02-28T23:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -612,6 +611,62 @@
       ]
     },
     {
+      "path": "_news/2021-02-28-sen-scott-says-he-will-support-incumbent-gop-senators-over-trump-backed-primary-challengers.md",
+      "title": "Sen. Scott says he will support incumbent GOP senators over Trump-backed primary challengers",
+      "excerpt": "Sen. Rick Scott, R-Fl., chair of the National Republican Senatorial Committee, told \"Fox News Sunday\" that he will support any incumbent Republican senator against primary challengers, even if that challenge is supported by former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SrdREIvNP3E/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SrdREIvNP3E/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60882bba-ad86-452b-beef-b07964f6391f/34dc9eed-02bc-4f87-8cdd-58592c1f82b4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers.amp",
+      "publishedDateTime": "2021-02-28T07:00:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-28-pompeo-says-biden-administration-sending-mixed-signals-on-chinas-human-rights-abuses.md",
       "title": "Pompeo says Biden administration sending ‘mixed signals’ on China's human rights abuses",
       "excerpt": "Former Secretary of State Mike Pompeo said on Saturday that the Biden administration has sent \"mixed signals\" on the Chinese persecution of religious minorities in Xinjiang -- and called for the administration to impose \"real costs\" on Beijing.",
@@ -641,118 +696,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/pompeo-biden-mixed-signals-chinas-human-rights-abuses.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-mixed-signals-chinas-human-rights-abuses.amp",
       "publishedDateTime": "2021-02-27T19:09:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-who-voted-for-impeachment.md",
-      "title": "Trump endorses Max Miller over GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment",
-      "excerpt": "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xl_Ogo2zTWM/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xl_Ogo2zTWM/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 266,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp",
-      "publishedDateTime": "2021-02-26T14:46:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-donald-trump-jr-slams-blindly-supporting-gop-incumbents-says-theres-plenty-of-gop-senators-to-primary.md",
-      "title": "Donald Trump Jr. slams 'blindly' supporting GOP incumbents, says 'there's plenty' of GOP senators to primary",
-      "excerpt": "Donald Trump Jr., said on Friday that there are \"plenty\" of Senate Republicans who he might support primary challenges against, while slamming the idea of \"blindly\" supporting incumbents. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VyZ7-z_-p0Q/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VyZ7-z_-p0Q/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp",
-      "publishedDateTime": "2021-02-26T14:45:16-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1121,7 +1064,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 343,
+      "heat": 363,
       "tags": null,
       "images": [
         {
@@ -1636,6 +1579,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp",
       "publishedDateTime": "2021-02-24T05:53:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-24-live-updates-joe-biden-has-yet-to-declare-uighur-abuses-genocide.md",
+      "title": "LIVE UPDATES: Joe Biden has yet to declare Uighur abuses genocide",
+      "excerpt": "Biden, who vowed to be tough on China while on the campaign trail, has been careful not to classify the human rights abuses against the Uighurs since entering office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoyIs4V3eBk/joe-biden-live-updates-2-24-2021",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OoyIs4V3eBk/joe-biden-live-updates-2-24-2021",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ed2437fa-70d3-41a2-8d07-4137f509e27b/5acdfa3d-92b5-4388-ad1b-51ef27135a52/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-biden-live-updates-2-24-2021.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-live-updates-2-24-2021.amp",
+      "publishedDateTime": "2021-02-23T22:13:21-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

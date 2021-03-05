@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/former-trump-campaign-communication
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-campaign-communications-director-tim-murtaugh-heritage-foundation.amp"
 type: article
 quality: 169
-heat: 189
+heat: 169
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Mitch McConnell laughs off Trump taking credit for his reelection"
-    excerpt: "Senate Minority Leader Mitch McConnell on Tuesday laughed off former President Donald Trump’s claim of credit for his 2020 re-election. The Kentucky Republican chuckled to reporters in"
-    publishedDateTime: 2021-03-02T22:22:00Z
-    webUrl: "https://nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/"
-    ampWebUrl: "https://nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 150
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/mitch-mcconell.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "qUL9ehFOBapKJ3dZCbul/crmCKOxHmkLHAyW6uXzx8sDfIsuvl6Eq5vJ2l4pNsCXV/xkm8oPergwFSJzMDa12HvAvO83uQIfxhgzvNVSsv3gwNCD7F/deSxTqkGvS5zTOUupkXnQlwVNdUF9VYEln74T8ADeGwpa90KkXYG2an+J6yRQ93ogtKHQcQlnhClnT5Hw5uW80YGu86PMnEyI7v4C3/Q6Ex3Lvnbc//tVPIiANcatJC0FKvT1kWbRaQbHAkFkRENnLKj8H8Ieqed7Umy22xaburqlbOwVEJVUoQry+JdFWRU37PglVdQTCe9ZxLDsbHIKPd3x1nDeKcPSIqnPaYJOLTMGn61vzgNv6fk=;bDAarLN5azWxkFcVA0eRaA=="
 ---

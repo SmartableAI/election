@@ -1523,21 +1523,25 @@
       ]
     },
     {
-      "path": "_news/2021-02-17-biden-dismisses-a-democratic-plan-to-wipe-out-50000-in-federal-student-loan-debt.md",
-      "title": "Biden dismisses a Democratic plan to wipe out $50,000 in federal student-loan debt",
-      "excerpt": "President Joe Biden supports $10,000 in loan forgiveness, far less than Sens. Elizabeth Warren and Chuck Schumer proposed earlier this year.",
+      "path": "_news/2021-02-18-i-will-not-make-that-happen-biden-declines-democrats-call-to-cancel-50k-in-student-debt.md",
+      "title": "'I will not make that happen': Biden declines Democrats' call to cancel $50K in student debt",
+      "excerpt": "WASHINGTON — President Joe Biden said Tuesday that he would not eliminate $50,000 in student debt, shooting down a proposal that prominent Democrats introduced this month, but that he is open to ...",
       "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2",
-      "originalUrl": "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2",
+      "webUrl": "https://www.nbcnews.com/politics/joe-biden/i-will-not-make-happen-biden-declines-democrats-call-cancel-n1258069",
+      "originalUrl": "https://www.nbcnews.com/politics/joe-biden/i-will-not-make-happen-biden-declines-democrats-call-cancel-n1258069",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://i.insider.com/602c8abf2edd0f001a8d60be?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
+          "url": "https://media3.s-nbcnews.com/i/newscms/2021_07/3450546/210216-joe-biden-cnn-town-hall-ac-1026p_a3bbf6d5fe12321c1a27ed7d23419eec.jpg",
+          "width": 2500,
+          "height": 1680,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1545,16 +1549,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T02:41:00-08:00",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1258069",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1258069",
+      "publishedDateTime": "2021-02-17T09:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1571,7 +1575,8 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Joe Biden",
+        "Democratic Voice"
       ]
     }
   ],

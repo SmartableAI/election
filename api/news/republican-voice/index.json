@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-04-trump-endorses-louisiana-sen-john-kennedy-in-2022-reelection-bid.md",
+      "title": "Trump endorses Louisiana Sen. John Kennedy in 2022 reelection bid",
+      "excerpt": "Former President Donald Trump endorsed Republican Louisiana Sen. John Kennedy for reelection on Thursday as GOP leadership begins preparations for the 2020 midterm races.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pp0Dn5584YE/trump-endorses-louisiana-sen-john-kennedy-2022-reelection-bid",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pp0Dn5584YE/trump-endorses-louisiana-sen-john-kennedy-2022-reelection-bid",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 350,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a3891e2-9726-4728-82e7-f0625b636c26/8e1a1e97-8f08-4aff-9531-1b6a7ea1fbc2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-louisiana-sen-john-kennedy-2022-reelection-bid.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-louisiana-sen-john-kennedy-2022-reelection-bid.amp",
+      "publishedDateTime": "2021-03-04T15:59:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-abbott-rejects-biden-proposal-for-migrant-testing-at-border-says-it-will-create-magnet.md",
+      "title": "Abbott rejects Biden proposal for migrant testing at border, says it will create ‘magnet’",
+      "excerpt": "Texas Gov. Greg Abbott said Thursday that he had rejected a Biden administration proposal for the Federal Emergency Management Agency (FEMA) to partner with Texas to test and potentially quarantine migrant adults and children surging across the border -- amid a controversy over the release of COVID-positive",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TCvc0WqGUlM/abbott-biden-proposal-migrant-testing-border",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TCvc0WqGUlM/abbott-biden-proposal-migrant-testing-border",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be124b17-abf9-40a5-a3a5-d63a18f360c1/6cfa531f-c5a7-4d39-aa45-c8a36aa0b86c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/abbott-biden-proposal-migrant-testing-border.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/abbott-biden-proposal-migrant-testing-border.amp",
+      "publishedDateTime": "2021-03-04T15:43:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-biden-pentagon-pick-faces-questions-over-ties-to-group-that-helped-create-iran-deal-echo-chamber.md",
       "title": "Biden Pentagon pick faces questions over ties to group that helped create Iran deal 'echo chamber'",
       "excerpt": "One of President Biden's top Pentagon picks is facing concern from Republicans about his views on Iran and his ties to a group that helped create an \"echo chamber\" to sell the Iran nuclear deal to the public.",
@@ -783,7 +895,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 199,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -1325,62 +1437,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-trump-endorses-south-carolinas-tim-scott.md",
-      "title": "Trump endorses South Carolina's Tim Scott",
-      "excerpt": "Former President Trump endorsed Sen. Tim Scott’s, R-S.C., bid for reelection Wednesday. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TT8L-GN2zFI/trump-endorses-south-carolinas-tim-scott",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TT8L-GN2zFI/trump-endorses-south-carolinas-tim-scott",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20162604417055.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-endorses-south-carolinas-tim-scott.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-south-carolinas-tim-scott.amp",
-      "publishedDateTime": "2021-03-02T17:42:36-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-biden-administration-argues-migrant-surge-is-a-challenge-not-a-crisis.md",
       "title": "Biden administration argues migrant surge is a 'challenge,' not a 'crisis'",
       "excerpt": "President Biden is declining to call the situation at the southern border a crisis – even amid reports that his administration needs another 20,000 beds at migrant facilities to deal with a surge of unaccompanied minors.",
@@ -1578,62 +1634,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
       "publishedDateTime": "2021-03-02T14:50:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-bergdahl-appeals-court-martial-over-trump-mccain-comments.md",
-      "title": "Bergdahl appeals court-martial over Trump, McCain comments",
-      "excerpt": "A former U.S. Army soldier who was court martialed after he left his post in Afghanistan and was captured by the Taliban is asking a federal judge to overturn his military conviction, saying his trial was unduly influenced when former President Donald Trump repeatedly made disparaging comments about",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1c71e0-hN9c/bergdahl-appeals-court-martial-trump-mccain-comments",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1c71e0-hN9c/bergdahl-appeals-court-martial-trump-mccain-comments",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Bowe-Bergdahl-Court-Martial-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bergdahl-appeals-court-martial-trump-mccain-comments.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bergdahl-appeals-court-martial-trump-mccain-comments.amp",
-      "publishedDateTime": "2021-03-02T10:16:37-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

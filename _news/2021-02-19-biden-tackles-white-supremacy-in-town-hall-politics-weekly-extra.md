@@ -564,6 +564,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden's Presidents' Day \"Swag\" From His Family Is a Must-See"
+    excerpt: "Joe Biden is dressed up and ready for Presidents' Day. \"We bought him some swag since it's Presidents' Day weekend and he's 'literally' President,\" his granddaughter Naomi Biden, 27 ..."
+    publishedDateTime: 2021-02-15T22:06:00Z
+    webUrl: "https://www.eonline.com/news/1238455/joe-bidens-presidents-day-swag-from-his-family-is-a-must-see"
+    ampWebUrl: "https://www.eonline.com/amp/news/1238455/joe-bidens-presidents-day-swag-from-his-family-is-a-must-see"
+    cdnAmpWebUrl: "https://www-eonline-com.cdn.ampproject.org/c/s/www.eonline.com/amp/news/1238455/joe-bidens-presidents-day-swag-from-his-family-is-a-must-see"
+    type: article
+    provider:
+      name: E News
+      domain: eonline.com
+    quality: 75
+    images:
+      - url: "https://eonlinethumbs-a.akamaihd.net/images/572/499/wochit_20201107_biden_315426_560x315_1816941123524.jpg"
+        width: 560
+        height: 315
+        isCached: true
   - title: "Washington moves of the week: Here's who's landing at the Biden White House, federal agencies, Capitol Hill and elsewhere in Washington"
     excerpt: "Joe Biden made a ton of healthcare hires this week, a former top government ethics official has a new gig, and Capitol Hill staffers are making moves."
     publishedDateTime: 2021-02-19T09:01:00Z

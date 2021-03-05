@@ -1,20 +1,22 @@
 ---
 category: news
-title: "YouTube Will Lift Ban on Trump Channel When Risk of Violence Decreases: CEO"
-excerpt: "YouTube suspended Trump's channel for violating policies against inciting violence after the assault on the U.S. Capitol by the former president's supporters in January. \"The channel remains suspended due to the risk of incitement to violence,"
-publishedDateTime: 2021-03-04T19:19:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2021-03-04/youtube-will-lift-ban-on-trump-channel-when-risk-of-violence-decreases-ceo"
-webUrl: "https://www.usnews.com/news/technology/articles/2021-03-04/youtube-will-lift-ban-on-trump-channel-when-risk-of-violence-decreases-ceo"
+title: "YouTube will lift ban on Trump channel when risk of violence decreases: CEO"
+excerpt: "Alphabet Inc's YouTube will lift its suspension on former U.S. President Donald Trump's channel when it determines the risk of real-world violence has decreased, the company's CEO, Susan Wojcicki, said on Thursday."
+publishedDateTime: 2021-03-05T00:49:00Z
+originalUrl: "https://www.reuters.com/article/us-youtube-trump-suspension-idCAKBN2AW2LI"
+webUrl: "https://www.reuters.com/article/us-youtube-trump-suspension-idCAKBN2AW2LI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2AW2LI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2AW2LI"
 type: article
-quality: 33
-heat: 33
-published: false
+quality: 123
+heat: 123
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,6 +24,12 @@ topics:
   - Election
   - Donald Trump
 
-secured: "gbnZoS4nbkgtS8e72LNet7sCsAgnSFhTBbVc4NlF/tT2SxZt6MWtEgKeovXtWUUlzfE52tInwwMAXWJStvcSRF01DpW52vf1f2AkcgaoW37fn8cOGFMbftkgGpNw9kt1FfqoJvr7rGIpKecobXHPzefCrCwGI60cpnBbYFqUmI6Fn8nQN7eqFpH4jNHaLfferjOcY3L3hAb93kMZ/Q2kveLelExGse0yzngdr7Xss+Uo4lloSBgF8bmGfyob7OUkZi96sd3ETYElZTd12/JJobiI9gXzw6xJ/rUjco69Zh/uj86ggMT7cqTCWn1HRXjqHIHl8nP45CY2rBmcxwVZ7kY6whkdrU4DD/Rf24aRfNNm8Q6sXdFrqPuXLyuIbMVQGkLbxR7dK1/mcoY1xpq9aiPplHRFgJuX3Bp7XvFyFtFGOAZU7WVg5qk5mWL0V4sTFPuA8xQOBxsz9YWe50lymiQmwLaIkZT7lIEVERYtPYFC1EzKU8CYT4+5PHXrAD8afGU3174YMaTqA54MfYjefw==;iHCfDsr0uV0vs59sB+68+A=="
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH231FS"
+    width: 817
+    height: 545
+    isCached: true
+
+secured: "CPUjab+wcgARZJ87rEpehPhLLD6XkTRNZ4S822obqqvYkTzlJ3IEcw1JKerlje/75SIeeD1w7LJoT+SD39DLO8TqZZIicD2LMVn9zt1gSXuGyWfPVX8XhPT48Ao1H8k4ywSLTBMXh+QO0bHwel/HcPO6NX3xAk9DzfEXXhh9Yd2BxGFtZl+PuSo5HuxnDaJby90rvpJTxqvJIImJ98IqTYgG65TmqjuQaSuSlYTVP3m38GWhlziY5o7zxthgD+vNZKrHGatYbmy8kRL4Swjkf7FVNIMJzrsKCt+99yVDxdLjbe9dmsQvR5i/922OXkl0+kprm9YAG/tqVMy8hy+jiFqFQpE6cb+NBa7SXluDduE=;4W9i4hZNPbzGS9Rng0QTuA=="
 ---
 

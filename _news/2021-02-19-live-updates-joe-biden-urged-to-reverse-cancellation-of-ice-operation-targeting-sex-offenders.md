@@ -271,22 +271,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Snubbed by Obama? Joe Biden says White House ‘residence’ was unseen by him – until he moved in"
-    excerpt: "President Joe Biden served in the U.S. Senate for more than 30 years, and then served eight years as Barack Obama’s vice president. But until he moved in last month, he said Tuesday night, he’d never been inside the presidential \"residence\" area of the White House."
-    publishedDateTime: 2021-02-17T06:05:35Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Mk4fARJE9c/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
-    ampWebUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/biden-obama-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Eighteen state AGs urge Biden to reverse cancellation of ICE operation targeting sex offenders"
     excerpt: "Eighteen state attorney generals pleaded with President Biden Thursday, to reverse a recent decision by Immigration and Customs Enforcement (ICE) to shelve an operation that targeted illegal immigrants with sex crime convictions."
     publishedDateTime: 2021-02-19T01:35:56Z
@@ -444,6 +428,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6554f8d4-65cb-4edb-bf38-d438ab82a7bc/83c50f56-1be3-4049-8b93-4a4d75b030fa/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Snubbed by Obama? Joe Biden says White House ‘residence’ was unseen by him – until he moved in"
+    excerpt: "President Joe Biden served in the U.S. Senate for more than 30 years, and then served eight years as Barack Obama’s vice president. But until he moved in last month, he said Tuesday night ..."
+    publishedDateTime: 2021-02-17T08:03:00Z
+    webUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
+    ampWebUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/04/640/320/biden-obama-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden faces bipartisan backlash after firing prosecutor probing corruption among Illinois Democrats"
     excerpt: "President Biden triggered outcries from Illinois lawmakers on both sides of the aisle after he fired a prosecutor overseeing corruption probes of Democrats in the state."

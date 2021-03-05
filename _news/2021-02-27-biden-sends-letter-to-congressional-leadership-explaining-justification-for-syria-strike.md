@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden still working through Tanden replacement options as Hill Democrats push Young"
+    excerpt: "President Joe Biden is still working through the process of replacing Neera Tanden's failed Office of Management and Budget director nomination, as congressional Democrats ramp up pressure for Shalanda Young, a well-respected congressional staffer, according to multiple officials.\n    \n"
+    publishedDateTime: 2021-03-03T14:23:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wzo6LxVIrfo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/shalanda-young-neera-tanden-omb/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/shalanda-young-neera-tanden-omb/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303090438-split-neera-tanden-shalanda-young-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP irked after last-ditch attempt fails to deter Biden push for quick passage of Covid relief plan "
     excerpt: "It was Super Bowl Sunday -- and President Joe Biden was on the phone with Sen. Susan Collins.\n    \n"
     publishedDateTime: 2021-02-22T11:01:14Z

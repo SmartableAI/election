@@ -28,37 +28,133 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia Gov. Kemp says he would 'absolutely' back Trump 2024, despite Trumps' calls for his resignation"
-    excerpt: "Georgia Gov. Brian Kemp said he would \"absolutely\" back Donald Trump in a bid for the presidency in 2024, despite Trump’s recent criticism of the Republican governor."
-    publishedDateTime: 2021-03-04T02:20:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ycXXSg0fYQ4/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp"
+  - title: "Trump endorses Louisiana Sen. John Kennedy in 2022 reelection bid"
+    excerpt: "Former President Donald Trump endorsed Republican Louisiana Sen. John Kennedy for reelection on Thursday as GOP leadership begins preparations for the 2020 midterm races."
+    publishedDateTime: 2021-03-04T23:59:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Pp0Dn5584YE/trump-endorses-louisiana-sen-john-kennedy-2022-reelection-bid"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-louisiana-sen-john-kennedy-2022-reelection-bid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-louisiana-sen-john-kennedy-2022-reelection-bid.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 190
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6afddb1-7574-4ce5-a3f9-dfc745f8508f/0cca49e0-9bd0-4822-a5cf-ad62dc7c2a7c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a3891e2-9726-4728-82e7-f0625b636c26/8e1a1e97-8f08-4aff-9531-1b6a7ea1fbc2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Mitt Romney says Trump would win 2024 GOP nomination if he ran for president again"
-    excerpt: "Senator Mitt Romney said that President Donald Trump would win the GOP nomination “in a landslide” if he decided to make a run for The White House again in 2024. Romney (R –"
-    publishedDateTime: 2021-02-24T09:16:00Z
-    webUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/"
-    ampWebUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
+  - title: "Trump endorses South Carolina's Tim Scott"
+    excerpt: "Former President Trump endorsed Sen. Tim Scott’s, R-S.C., bid for reelection Wednesday. "
+    publishedDateTime: 2021-03-03T01:42:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TT8L-GN2zFI/trump-endorses-south-carolinas-tim-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-south-carolinas-tim-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-south-carolinas-tim-scott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20162604417055.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Trump endorses Max Miller over GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment"
+    excerpt: "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district."
+    publishedDateTime: 2021-02-26T22:46:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xl_Ogo2zTWM/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mitch McConnell laughs off Trump taking credit for his reelection"
+    excerpt: "Senate Minority Leader Mitch McConnell on Tuesday laughed off former President Donald Trump’s claim of credit for his 2020 re-election. The Kentucky Republican chuckled to reporters in"
+    publishedDateTime: 2021-03-02T22:22:00Z
+    webUrl: "https://nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/"
+    ampWebUrl: "https://nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
-    quality: 129
+    quality: 150
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-romney.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/mitch-mcconell.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Rep. Banks warns GOP ‘destined’ to lose elections if it rejects Trump and his voters"
+    excerpt: "Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class."
+    publishedDateTime: 2021-03-01T07:51:00Z
+    webUrl: "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class"
+    ampWebUrl: "https://www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rep-banks-gop-lose-elections-trumps-working-class.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c055ca10-6fad-441b-9b13-bc9cfa464a1a/21f7f894-6377-4ca8-8101-b98ee68f19ac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump endorses Max Miller over GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment"
+    excerpt: "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district."
+    publishedDateTime: 2021-02-26T22:48:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 126
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump endorses Max Miller in primary against GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment"
+    excerpt: "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district."
+    publishedDateTime: 2021-02-28T08:15:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 119
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Donald Trump Finally Makes Me Smile"
+    excerpt: "Donald Trump was never forever. The former president is 74, obese and the subject of serious criminal investigations. Resurfacing after disgracefully"
+    publishedDateTime: 2021-03-02T11:24:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/536490_5_.jpg"
+        width: 750
+        height: 500
         isCached: true
 
 secured: "ejIjheTzRKT/Msfz0O7EBmwj+DlACyTZv9IxQifIgL6JwZTzELZE72XF8/G3QKR18m9tWlE5f55bcKvRVWlMZHCWu9529mnC2kGUYIaCLRKkXrNnaM3sDmxAZYI0woApqvjOgvHqmuwqHdSG/HL+73CBAjhSgWXF1UCVtCl6+UwK5nUtJbXB1SYh2j4jqvljCK8wo82ey2NIoi9q+ErJwXbIst1nxFKKJ3vFwtS/YKSzvyAQjSrJeYXAXx5cB7DqlVpzvhQLbLogpsyO6nwE2sIaWHFavNqEmDPpZrBNWCRjIelX9IVMoRVx28ZkXIIRAVonBMPyho07yL8XeB42L9azsE51fzj+Lvrog/gEQtY=;H5bSGMy3utPka/CXhQfe9A=="

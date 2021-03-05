@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-26-bidens-message-to-iran-with-missile-strikes-you-cant-act-with-impunity-be-careful.md",
+      "title": "Biden's message to Iran with missile strikes: 'You can't act with impunity, be careful'",
+      "excerpt": "President Joe Biden looked to send a simple message to Iran by authorizing air strikes in Syria on Thursday: \"You can't act with impunity, be careful.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6qvcSH5ctHY/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6qvcSH5ctHY/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210226182332-03a-biden-houston-0226-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/26/politics/biden-syrian-missile-strikes-iran/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/biden-syrian-missile-strikes-iran/index.html",
+      "publishedDateTime": "2021-02-26T15:35:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-biden-doesnt-penalize-crown-prince-despite-promise-to-punish-senior-saudi-leaders.md",
       "title": "Biden doesn't penalize crown prince despite promise to punish senior Saudi leaders",
       "excerpt": "Despite promising to punish senior Saudi leaders while on the campaign trail, President Joe Biden declined to apply sanctions to the one the US intelligence community determined is responsible for the death of journalist Jamal Khashoggi: Crown Prince Mohammed bin Salman.\n    \n",
@@ -407,7 +463,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 415,
+      "heat": 435,
       "tags": null,
       "images": [
         {
@@ -1631,63 +1687,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-rush-limbaughs-legacy-of-venom-as-trump-rose-it-all-sounded-familiar.md",
-      "title": "Rush Limbaugh’s Legacy of Venom: As Trump Rose, ‘It All Sounded Familiar’",
-      "excerpt": "Weaponizing conspiracy theories and bigotry long before Donald Trump’s ascent, the radio giant helped usher in the political style that came to dominate the Republican Party.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/17/us/politics/17limbaugh-politics1/17limbaugh-politics1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/17/us/politics/limbaugh-death.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/17/us/politics/limbaugh-death.amp.html",
-      "publishedDateTime": "2021-02-17T16:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

@@ -2,62 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2021-02-18-bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.md",
-      "title": "Bill Gates says Trump should 'probably' be allowed to return to social media",
-      "excerpt": "Microsoft co-founder Bill Gates said Thursday that social media companies should let President Trump back on their platforms, despite his \"corrosive\" election fraud claims. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N5_MoNGs7yU/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/N5_MoNGs7yU/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/293bed5e-ef2c-4f3b-a18d-a7c565bbef69/1133c664-0b35-4f1f-9163-666f52e5e1dd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bill-gates-says-trump-should-probably-be-allowed-to-return-to-social-media.amp",
-      "publishedDateTime": "2021-02-18T11:39:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-18-biden-white-houses-planned-200m-who-payment-slammed-by-republicans-their-credibility-has-been-tarnished.md",
       "title": "Biden White House's planned $200M WHO payment slammed by Republicans: 'Their credibility has been tarnished'",
       "excerpt": "Republicans hit the White House’s plan to shell out $200 million to the World Health Organization (WHO) by the end of the month, arguing the organization should first take steps to commit to greater transparency.  ",
@@ -1676,6 +1620,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-strange-new-respect-for-mike-pence.md",
+      "title": "Strange New Respect for Mike Pence",
+      "excerpt": "One novel, even astonishing, spectacle in President Trump’s impeachment trial has been progressive Democrats singing the praises of Mike Pence. “The Vice President and I don’t agree on too ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/strange-new-respect-for-mike-pence-11613086666",
+      "originalUrl": "https://www.wsj.com/articles/strange-new-respect-for-mike-pence-11613086666",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-298363/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/strange-new-respect-for-mike-pence-11613086666",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/strange-new-respect-for-mike-pence-11613086666",
+      "publishedDateTime": "2021-02-12T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
         "Republican Voice"
       ]
     }

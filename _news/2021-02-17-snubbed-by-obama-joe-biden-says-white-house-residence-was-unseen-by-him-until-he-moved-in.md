@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Snubbed by Obama? Joe Biden says White House ‘residence’ was unseen by him – until he moved in"
-excerpt: "President Joe Biden served in the U.S. Senate for more than 30 years, and then served eight years as Barack Obama’s vice president. But until he moved in last month, he said Tuesday night, he’d never been inside the presidential \"residence\" area of the White House."
-publishedDateTime: 2021-02-17T06:05:35Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Mk4fARJE9c/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6Mk4fARJE9c/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
+excerpt: "President Joe Biden served in the U.S. Senate for more than 30 years, and then served eight years as Barack Obama’s vice president. But until he moved in last month, he said Tuesday night ..."
+publishedDateTime: 2021-02-17T08:03:00Z
+originalUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
+webUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in"
 ampWebUrl: "https://www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/snubbed-by-obama-joe-biden-says-white-house-residence-was-unseen-by-him-until-he-moved-in.amp"
 type: article
-quality: 163
+quality: 123
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -476,6 +477,6 @@ related:
         height: 3480
         isCached: true
 
-secured: "2ryuwpCcFJGgbyxBK7nsjavk/Ecx/oK2Xc3LZwuUWEvebY47MNeThb71eVJngfBurQ/gMZqEaR4aiDGooHwZB2Wc44yz/FxB9qwslk0OVUK/t7utSVAVz+gv1DY3zUOBxryNxEFqEndrens4eOvSingPZ0X3PT7gEv7DwlxCN8GJifbQ//MpiIe7ylx1mNS0uUePazSeVjLaGutZ2ZINmhRfL8J/JfnluP5YFV6dNG1bCAeF2WA5MgEjbpN48r5t/wmH2/rKw9V3NCV+jOi/mk3IG9e7zbKLJ8Q7SnSIWu2S0bwAnAzlXQzI/1fbmDiYDMe1gqUHl499s1k8S+odztASXOOA/tDTvFS256NY14E=;Eu6+gDM9fIOYXtSmZqvHFQ=="
+secured: "V1G9RAV+kFqFN5B4GSYilULC1JqfOSKgPuAHHuHCNj7o6l/k2SwmTrvRws1VtOPCL8ROg548jZDI7Ib0Fqa7lXAF57LhviWCPmSnyTx4PUfQ+aBbM6nZ/5omjkirB5naFfCkINc4NAFSFqBhQEHjZv1x3kv1GAOXmklwh6t6ROnBDnH0GY+2aOcWnMiGXGXeUbSaDxKIblukcRmLe42njdTH6YmF+fc5aiGvaEJMtotj6bkXfHa0fcEQ44QXeWx3T8MtyUQG+DYjUXYaTUJM0fKubviibXEG1znq+z2VzxGvWUpjJlKdSKdUfT5jiXqsqiYmFjHiEsZvcamxs13o5JEzejDmcehKQp+EbHjVj94=;Ne9AYkG5KMrmsMhV7Jg+KA=="
 ---
 

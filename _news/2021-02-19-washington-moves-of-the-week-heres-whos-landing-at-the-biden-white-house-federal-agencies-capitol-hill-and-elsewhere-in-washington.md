@@ -578,6 +578,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Joe Biden's Presidents' Day \"Swag\" From His Family Is a Must-See"
+    excerpt: "Joe Biden is dressed up and ready for Presidents' Day. \"We bought him some swag since it's Presidents' Day weekend and he's 'literally' President,\" his granddaughter Naomi Biden, 27 ..."
+    publishedDateTime: 2021-02-15T22:06:00Z
+    webUrl: "https://www.eonline.com/news/1238455/joe-bidens-presidents-day-swag-from-his-family-is-a-must-see"
+    ampWebUrl: "https://www.eonline.com/amp/news/1238455/joe-bidens-presidents-day-swag-from-his-family-is-a-must-see"
+    cdnAmpWebUrl: "https://www-eonline-com.cdn.ampproject.org/c/s/www.eonline.com/amp/news/1238455/joe-bidens-presidents-day-swag-from-his-family-is-a-must-see"
+    type: article
+    provider:
+      name: E News
+      domain: eonline.com
+    quality: 75
+    images:
+      - url: "https://eonlinethumbs-a.akamaihd.net/images/572/499/wochit_20201107_biden_315426_560x315_1816941123524.jpg"
+        width: 560
+        height: 315
+        isCached: true
 
 secured: "vkm1+RJ3+PcQCs9HPRfQuI+IsxVJT3PnDh2ocsj6nXvfNB6O+u/91bDd2jkk8QxF0Tm4KmaAK7PPJ5M3QUWMkQTe1p0ZZpqexDEtVabHAWMYxgnLYo+SKbXCGz2hLztwCGTkRBZP1meOzxrY8iDzBZq4YR2szonYJtGWCZ6e7bveB4ewdLjDrrWFQsOSi4T3d5ohWuE9l3GoLajWmhZX4BXEj8yBgKvKtSdJ/O9fQDMG8Walf9SAK3mKAK7/tK5SDx4V90Sl8rPt5icAMVS2L5B3Q+avdYG12iTHWtl0tSuXdB9Ygzlctx+vqv81KaVTp+vS402H/XWJJllQEnSwFLB51KZLSDc3a2HLR6rMTiL6r/o3SEwtw9ukh5jx42Y0mnv+xoHvn4lsWdMST3IcFJ1GwoWCEZryj/XfRVr4XGOAOlr3sASxJS59+sCiHH+Oqz3ANHWPn0XzhblwClhsr8g0iXFDUB2tWWf4VCg3aFg+I8NZKH5qf+4GcRXMKPk2vfiRZh52U1svDLEY4Bknag==;lr7Spg32VQBMSIjCus6p5g=="
 ---

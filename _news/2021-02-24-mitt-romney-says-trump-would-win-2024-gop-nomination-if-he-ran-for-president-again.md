@@ -28,37 +28,53 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia Gov. Kemp says he would 'absolutely' back Trump 2024, despite Trumps' calls for his resignation"
-    excerpt: "Georgia Gov. Brian Kemp said he would \"absolutely\" back Donald Trump in a bid for the presidency in 2024, despite Trump’s recent criticism of the Republican governor."
-    publishedDateTime: 2021-03-04T02:20:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ycXXSg0fYQ4/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024"
-    ampWebUrl: "https://www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp"
+  - title: "Sen. Scott says he will support incumbent GOP senators over Trump-backed primary challengers"
+    excerpt: "Sen. Rick Scott, R-Fl., chair of the National Republican Senatorial Committee, told \"Fox News Sunday\" that he will support any incumbent Republican senator against primary challengers, even if that challenge is supported by former President Donald Trump."
+    publishedDateTime: 2021-02-28T15:00:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SrdREIvNP3E/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6afddb1-7574-4ce5-a3f9-dfc745f8508f/0cca49e0-9bd0-4822-a5cf-ad62dc7c2a7c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60882bba-ad86-452b-beef-b07964f6391f/34dc9eed-02bc-4f87-8cdd-58592c1f82b4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump blames McConnell, Gov. Kemp for losing GOP Senate seats in Georgia"
-    excerpt: "Former President Donald Trump lashed out at Georgia Gov. Brian Kemp and Senate Minority Leader Mitch McConnell, blaming them Thursday for the loss of two Republican Senate seats to Democrats."
-    publishedDateTime: 2021-03-04T18:59:00Z
-    webUrl: "https://nypost.com/2021/03/04/trump-blames-mcconnell-gov-kemp-for-losing-gop-senate-seats/"
-    ampWebUrl: "https://nypost.com/2021/03/04/trump-blames-mcconnell-gov-kemp-for-losing-gop-senate-seats/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/trump-blames-mcconnell-gov-kemp-for-losing-gop-senate-seats/amp/"
+  - title: "Trump aide, 27, launches GOP primary bid against Kinzinger, blasts 'Fake Republican' incumbent"
+    excerpt: "Just weeks after voting in support of the second impeachment of former President Donald Trump, U.S. Rep. Adam Kinzinger, R-Ill., is already facing a pro-Trump GOP primary challenger."
+    publishedDateTime: 2021-02-25T04:16:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/krycsEqgbSA/adam-kinzinger-catalina-lauf-gop-primary-challenge"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-kinzinger-catalina-lauf-gop-primary-challenge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-kinzinger-catalina-lauf-gop-primary-challenge.amp"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/donald-trump-mitch-mcconnell-getty-ap-001.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20b30800-df63-48ce-9d88-bf71e25343ce/ee6bcfcf-a2bb-4aaa-88b8-3f9b9cda3e48/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Donald Trump Jr. slams 'blindly' supporting GOP incumbents, says 'there's plenty' of GOP senators to primary"
+    excerpt: "Donald Trump Jr., said on Friday that there are \"plenty\" of Senate Republicans who he might support primary challenges against, while slamming the idea of \"blindly\" supporting incumbents. "
+    publishedDateTime: 2021-02-26T22:45:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VyZ7-z_-p0Q/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "8/bk//spdpZtOPtu0x0tNkdIRgiwTfikrIAtzk95BJh+GuKg0pdkdbFcNtdJdpFDi9sfJGoT7wSv3WZ7Yw5q7WNH8dz/bAP0orS2z4yB67s5U9ArAZzARwzjWb1sCRLeVaar5CcpmqSxdhOE1oIL7+G22/FO0O7XR1RdpSuH7gxtL3/RPnj0FWvxvEV+iFRhIBrKmPgGQTidwZhs3yGg7N5aebriSlX3Iqr6Zx5G/+Tnh324vcsQ4Ni4hd1T4XxhDuVz9LLwm4TSpMQh9+iN5JpL0GmXcn0FN1fz2XbGkQdl+V1KJGaXw3soAy+SeNk4+wpXQDVjBsT7zHmHFC8HfChAeQMARovOKhs2w3o2neDm0gx4/Kg0JOrmA4Eol3CCO+7OrPkKdgeojIP5jDMtCy6RLGkLrWyodQhRm+O3Y4M9+0Zpv+VS8Kx4ICsTxavlV8Jkqw/WQTFesEWHGc+RwE7kxrFrwQatjsuFQurlLfCx+CR73HdRYeOVMEXO51jFDVuVzovOy3YnSIqc3DaV0Q==;w0EJKgUkZysl72sU59TtOw=="

@@ -31,85 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Trump endorses Max Miller over GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment"
-    excerpt: "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district."
-    publishedDateTime: 2021-02-26T22:46:29Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xl_Ogo2zTWM/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
+  - title: "Sen. Scott says he will support incumbent GOP senators over Trump-backed primary challengers"
+    excerpt: "Sen. Rick Scott, R-Fl., chair of the National Republican Senatorial Committee, told \"Fox News Sunday\" that he will support any incumbent Republican senator against primary challengers, even if that challenge is supported by former President Donald Trump."
+    publishedDateTime: 2021-02-28T15:00:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SrdREIvNP3E/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60882bba-ad86-452b-beef-b07964f6391f/34dc9eed-02bc-4f87-8cdd-58592c1f82b4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
-    excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
-    publishedDateTime: 2021-03-01T18:43:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XXKJAJF5-TY/jane-timken-gonzalez-resign-impeachment-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+  - title: "Donald Trump Jr. slams 'blindly' supporting GOP incumbents, says 'there's plenty' of GOP senators to primary"
+    excerpt: "Donald Trump Jr., said on Friday that there are \"plenty\" of Senate Republicans who he might support primary challenges against, while slamming the idea of \"blindly\" supporting incumbents. "
+    publishedDateTime: 2021-02-26T22:45:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VyZ7-z_-p0Q/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 157
+    quality: 156
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Trump endorses Max Miller over GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment"
-    excerpt: "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district."
-    publishedDateTime: 2021-02-26T22:48:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
+  - title: "Mitt Romney says Trump would win 2024 GOP nomination if he ran for president again"
+    excerpt: "Senator Mitt Romney said that President Donald Trump would win the GOP nomination “in a landslide” if he decided to make a run for The White House again in 2024. Romney (R –"
+    publishedDateTime: 2021-02-24T09:16:00Z
+    webUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/"
+    ampWebUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 126
+      name: New York Post
+      domain: nypost.com
+    quality: 129
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Trump endorses Max Miller in primary against GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment"
-    excerpt: "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district."
-    publishedDateTime: 2021-02-28T08:15:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-max-miller-over-gop-ohio-rep-anthony-gonzalez-voted-for-impeachment.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2161af24-fb58-485d-aee9-dc51a69e66fb/b3433837-657e-4e14-b0da-f3884da86fd3/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
-    excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
-    publishedDateTime: 2021-03-01T18:48:00Z
-    webUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote"
-    ampWebUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 117
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jane-Timken.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-romney.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "Xw2IJksv+fJpd0QpvCPQks+D4as4TzB5yg+8o1AI7maLwMkRCn+PtbXI23INbsxq0oFVBZgZhz2Anr0fAvZcuDI0Egl+BJMgkj1CM9qzzuIdzT/IW5Dkl+DIKCoVx2aFwUZBo+zTXc4WzjjjrpUk20PvYL9KU5G1xH+ljotfbQB2jGsvmCbY6rMgcu1UG6iOjOIQm53FIvOg0aa7Au1fQO/8oIgVNFY43JZncTJmZHQFIOZ8cySxq2mbx+J+Ch0BWa/aykylPhyYrRStOsaBeeqTIn+wwFxPYIE/3Zf7HaROROfEvoaPWIMq9/2wH/YFSdlEFqT0lXcVplAUuK3PFju5sy8hokGExr16DhQbd+g=;ZtJxXMxX+lvInl/EyV5SJg=="

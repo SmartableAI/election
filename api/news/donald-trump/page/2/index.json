@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-27-liberal-privilege-donald-trump-jr-criticizes-bruce-springsteen-dwi-charge-dismissal.md",
+      "title": "'Liberal privilege': Donald Trump Jr. criticizes Bruce Springsteen DWI charge dismissal",
+      "excerpt": "Donald Trump Jr., who had an alcohol related charge against him dismissed, rails against Bruce Springsteen's DWI dismissal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/2021/02/26/donald-trump-jr-says-bruce-springsteens-dwi-dismissal-privilege/6834089002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/2021/02/26/donald-trump-jr-says-bruce-springsteens-dwi-dismissal-privilege/6834089002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/25/PAPP/58002f0e-27f7-4ae9-8050-a62dd39d801d-TrumpBoss.jpeg?auto=webp&crop=623,350,x29,y2&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6834089002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6834089002",
+      "publishedDateTime": "2021-02-26T10:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-donald-trump-jr-gives-fiery-cpac-speech-railing-against-republicans-who-opposed-his-father-and-snatched-defeat-from-the-jaws-of-victory.md",
       "title": "Donald Trump Jr. gives fiery CPAC speech railing against Republicans who opposed his father and snatched 'defeat from the jaws of victory'",
       "excerpt": "Trump Jr. ranted about Wyoming Rep. Liz Cheney, saying her \"politics are only slightly less popular than her father is at a quail hunt.\"",
@@ -1530,58 +1582,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-20-trump-repeats-election-claims-in-interviews-is-unchallenged.md",
-      "title": "Trump repeats election claims in interviews, is unchallenged",
-      "excerpt": "Former President Donald Trump repeated false claims that the election was stolen from him 10 times during interviews this week on Fox News Channel, Newsmax and One America News Networks",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
-      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2260,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Entertainment/WireAP_797a515557004f9aae322fd80b74b431_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
-      "publishedDateTime": "2021-02-19T11:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

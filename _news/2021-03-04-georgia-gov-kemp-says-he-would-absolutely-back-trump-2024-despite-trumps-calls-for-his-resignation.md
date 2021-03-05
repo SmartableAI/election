@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/georgia-gov-kemp-says-he-would-abso
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp"
 type: article
 quality: 159
-heat: 199
+heat: 159
 published: true
 
 provider:
@@ -29,40 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Trump blames McConnell, Gov. Kemp for losing GOP Senate seats in Georgia"
-    excerpt: "Former President Donald Trump lashed out at Georgia Gov. Brian Kemp and Senate Minority Leader Mitch McConnell, blaming them Thursday for the loss of two Republican Senate seats to Democrats."
-    publishedDateTime: 2021-03-04T18:59:00Z
-    webUrl: "https://nypost.com/2021/03/04/trump-blames-mcconnell-gov-kemp-for-losing-gop-senate-seats/"
-    ampWebUrl: "https://nypost.com/2021/03/04/trump-blames-mcconnell-gov-kemp-for-losing-gop-senate-seats/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/trump-blames-mcconnell-gov-kemp-for-losing-gop-senate-seats/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 134
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/donald-trump-mitch-mcconnell-getty-ap-001.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Mitt Romney says Trump would win 2024 GOP nomination if he ran for president again"
-    excerpt: "Senator Mitt Romney said that President Donald Trump would win the GOP nomination “in a landslide” if he decided to make a run for The White House again in 2024. Romney (R –"
-    publishedDateTime: 2021-02-24T09:16:00Z
-    webUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/"
-    ampWebUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 129
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-romney.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "dmMzxkS89wF3arl+omclqP9QeUPiaKNs00aZihborWbmVfw8BT06R02TSugz5W5Eg1z/hbvVPmFH6UZe7W+oka75jW1ffUyVyZA3kJPYPr9y8zB06/XsPc86gBvZivTmCWIeZU3N1Mv13V7RWAVYlGEYttC2QDFT6dGQyhf0VLNsvtR+85GciYtA/K6pkaDypb/d8vio9XKxeoxIf6upoRk/ODjI4CKT6fUyQ9+k/lQFgGS/eIp+CjV30f6+4ek2zUvVGZ+Lz15/fN0kyTZI89wKcDDorlpSUrwwruAeA8T6n2ISL4F4qvXA3LrBMvXD6O2CgZwKvxREOqtM2xxTKiGnnP7KnHnKQzhM2YKcr7o=;stro/SV1EuGQGqHMdP7sEg=="
 ---

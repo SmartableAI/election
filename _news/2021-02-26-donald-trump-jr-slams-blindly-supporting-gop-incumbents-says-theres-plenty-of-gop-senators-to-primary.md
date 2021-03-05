@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/donald-trump-jr-slams-supporting-go
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-slams-supporting-gop-incumbents-plenty-gop-senators-primary.amp"
 type: article
 quality: 156
-heat: 156
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,56 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Sen. Scott says he will support incumbent GOP senators over Trump-backed primary challengers"
+    excerpt: "Sen. Rick Scott, R-Fl., chair of the National Republican Senatorial Committee, told \"Fox News Sunday\" that he will support any incumbent Republican senator against primary challengers, even if that challenge is supported by former President Donald Trump."
+    publishedDateTime: 2021-02-28T15:00:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SrdREIvNP3E/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers"
+    ampWebUrl: "https://www.foxnews.com/politics/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60882bba-ad86-452b-beef-b07964f6391f/34dc9eed-02bc-4f87-8cdd-58592c1f82b4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump aide, 27, launches GOP primary bid against Kinzinger, blasts 'Fake Republican' incumbent"
+    excerpt: "Just weeks after voting in support of the second impeachment of former President Donald Trump, U.S. Rep. Adam Kinzinger, R-Ill., is already facing a pro-Trump GOP primary challenger."
+    publishedDateTime: 2021-02-25T04:16:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/krycsEqgbSA/adam-kinzinger-catalina-lauf-gop-primary-challenge"
+    ampWebUrl: "https://www.foxnews.com/politics/adam-kinzinger-catalina-lauf-gop-primary-challenge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/adam-kinzinger-catalina-lauf-gop-primary-challenge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20b30800-df63-48ce-9d88-bf71e25343ce/ee6bcfcf-a2bb-4aaa-88b8-3f9b9cda3e48/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mitt Romney says Trump would win 2024 GOP nomination if he ran for president again"
+    excerpt: "Senator Mitt Romney said that President Donald Trump would win the GOP nomination “in a landslide” if he decided to make a run for The White House again in 2024. Romney (R –"
+    publishedDateTime: 2021-02-24T09:16:00Z
+    webUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/"
+    ampWebUrl: "https://nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/mitt-romney-says-trump-would-win-gop-nomination-in-2024/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 129
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-romney.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "a+v+IUqYXw9E88m0yYhtP1TqlXFB0R19IeeorLROR2Q3QoEFC4okuGCN43/ip+rkR67LMI+U8TxVgHCLUzy8nV+qAjLHCtCoppSEmxlPgozwPyV311Qx6M9hHBWyk5rOZ7wuG3T+ClSYxRPWcl+fXAX6A+pe2kiDoVPUEILV9y62lDiiclU+98cd2c3cCN1IrZGm+g2S/lmAlpF5Yaq+kGp3cY9NZ7AxD3t95I5aediB30QvReLdP2Vwbl7efN36gVn5xXW0abjGUojHAFbLkO/rJSa57Xx3O44eMeg8AFr4h+XiLq6IWEYaPbjasBLsxi3meZcxXXlTy0Sta1LInAs1zSjX2Tl/sroFO4GJSYI=;GPlSlOLPAdZ2cFiBKaE2+g=="
 ---

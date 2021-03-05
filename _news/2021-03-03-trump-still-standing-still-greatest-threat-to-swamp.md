@@ -248,22 +248,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Donald Trump Finally Makes Me Smile"
-    excerpt: "Donald Trump was never forever. The former president is 74, obese and the subject of serious criminal investigations. Resurfacing after disgracefully"
-    publishedDateTime: 2021-03-02T11:24:00Z
-    webUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.html#!"
-    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/02/donald_trump_finally_makes_me_smile_145329.amp.html"
-    type: article
-    provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
-    images:
-      - url: "https://assets.realclear.com/images/53/536490_5_.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "wLXl5zl6iLBIR9d+uCFMH5/4bxRY4ThzxTdgjwyOiXChW481teB/Mo91UlOQaBPpwc1edIq7eaUx4G/t6KONd6aDV5jCONnOK5wPvcXpldZPlyPx1hYEfouNj/AYhBYsUSL2tyDTxcOivZAwHuz0qPr7Q6W994rjwG+71qv1U6BYW91VCkJdH+urRTGzoJ1Cm4B+YbGIg4Jhg3RIKuamD1Nt9uZq849FdenSN06TJ/tS83MOomPkFtqiql4FfDe1lZkyzswtxR0XWYFBpUUtthJlzgA71DAMASfBs3QiQH7dSOnVrvuktlcRszXzpWOBpJpV0g88KRiPYz9nRDkhAl7Fjyf6yy48l2QCJ9hXDtM=;4p2ah3t0Prnb762mhbQYqg=="
 ---
