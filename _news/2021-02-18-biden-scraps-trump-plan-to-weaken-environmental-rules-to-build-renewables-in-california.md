@@ -700,6 +700,22 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
+  - title: "Kamala Harris Talks Vaccines, School Reopenings — but Not Trump — in First Network Interview as Vice President"
+    excerpt: "Vice President Kamala Harris appeared on the Today show Wednesday for her first network TV interview since taking office last month. Harris, 56, spoke with anchor Savannah Guthrie about the COVID ..."
+    publishedDateTime: 2021-02-18T02:34:00Z
+    webUrl: "https://people.com/politics/kamala-harris-first-network-interview-as-vice-president/"
+    ampWebUrl: "https://people.com/politics/kamala-harris-first-network-interview-as-vice-president/"
+    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/kamala-harris-first-network-interview-as-vice-president/"
+    type: article
+    provider:
+      name: People
+      domain: people.com
+    quality: 70
+    images:
+      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B831%2C504%5D&w=1733&h=867&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F02%2F17%2Fkamala-harris.jpg"
+        width: 1733
+        height: 867
+        isCached: true
   - title: "Biden Withdraws Trump's Restoration of UN Sanctions on Iran"
     excerpt: "The Biden administration is withdrawing former president Donald Trump’s restoration of U.N. sanctions on Iran."
     publishedDateTime: 2021-02-18T23:44:00Z

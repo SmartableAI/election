@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden health pick taking heat for support of abortion rights"
-excerpt: "President Joe Biden’s pick for health secretary is taking heat for his defense of abortion rights from a tag team of Republicans looking to define him — and the new administration — as out of the main"
-publishedDateTime: 2021-03-03T05:13:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+title: "Hours-long reading of legislation delays debate on Biden's $1.9 trillion COVID-19 bill"
+excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill was read aloud."
+publishedDateTime: 2021-03-04T23:32:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/senate-delays-debate-on-bidens-1-9-trillion-covid-19-bill-while-it-is-read-aloud-idUSKBN2AW18U"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/senate-delays-debate-on-bidens-1-9-trillion-covid-19-bill-while-it-is-read-aloud-idUSKBN2AW18U"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
 type: article
-quality: 125
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -78,6 +78,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_1cb6fdeffac84dd6b4179796077178c8_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden health pick taking heat for support of abortion rights"
+    excerpt: "President Joe Biden’s pick for health secretary is taking heat for his defense of abortion rights from a tag team of Republicans looking to define him — and the new administration — as out of the main"
+    publishedDateTime: 2021-03-03T05:13:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Senators grill Biden nominee as proxy for wider Iran deal debate"
     excerpt: "The deputy secretary of state nominee, Wendy Sherman, faces a difficult confirmation process over concerns about reentering the nuclear deal."
@@ -140,22 +156,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/96903ded-b1a9-4d84-a15f-ea2e517a2a36/thumbnail/1200x630/c99acd2afef2a814aa9ae8a306570843/cbsn-fusion-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count-thumbnail-621736-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Hours-long reading of legislation delays debate on Biden's $1.9 trillion COVID-19 bill"
-    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill was read aloud."
-    publishedDateTime: 2021-03-04T23:32:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/senate-delays-debate-on-bidens-1-9-trillion-covid-19-bill-while-it-is-read-aloud-idUSKBN2AW18U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
-        width: 817
-        height: 545
         isCached: true
   - title: "Two senators join Manchin in opposing Biden budget pick Neera Tanden, putting nomination in peril"
     excerpt: "Neera Tanden has come under fire during the confirmation process for her past tweets and statements criticizing lawmakers on both sides of the aisle."
@@ -269,6 +269,6 @@ related:
         height: 600
         isCached: true
 
-secured: "u5u6uHoRVJRT9i5izQ298MhqMuzED01GVEntmDirgkbMZVxWRs9xfF+d8wYv+s05dAfmqliejCA8nDywmDc2uHDX4mVaJWUlRdyR/FPpWsAE4s4MokaPGW1VLvARDEb1wqR9bitOKhAm+0ZLYh7bs7/dgAG1k7rqrgMz3YHmmwIzwpWGIknu26fkAJk4ujCZwTx0M+RgPNfygXc8/l1lpU4CGGo9E/pSTsv26N2W00Nd2HCnHzGWQ62gxMmYF7h7ONJr6KucQNRM3fw6UrlC10JWAxGF8gZSw/mZv62DkUCBqR0iRAr73arx0uK3pF1Xo7p+pzvzkTAAyoJaDJdOj4cDbIqwElEnKfj69MYhYVo=;Xh6/Rc2HwBX9XsXZbhifFA=="
+secured: "hO/Kjw5mVKt530B+x+Qmvp3ejpxLdifduhfXWxnVbBZGOOAvspvx1Ga89h1UDeBRyFwfOzw1CX6Y3mhuGk1dH36EL+HDjxUE7wq58PwwZkocdvbhTr3zDjyeziYwEsSN1FgTiX5oLdRERf0YoFIJAOseoU3nNGO5HPh0gxVB2sfKqwfsFCbCHsg3n2i2lD0rcNMER7PgfkUu0kWGADv4pL7B6fqKgUzev2sxtmptzQvZRFZdzsuHds+97QkPNXviCeXBfgdJ6WGF9e91bxJ/4nkBm5XVuhPZ64ZLg5x5whkw2hXtj+A9uOqHj/BATHEWHl1dunJ6iatgYcFiJ/U/s7Hk/41FgPv3TaTDwK2nt38=;w0fuFwSs5XA2ICmP7cV7SA=="
 ---
 

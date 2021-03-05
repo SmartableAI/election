@@ -1,33 +1,29 @@
 ---
 category: news
-title: "How Kamala Harris made wearing pearls cool"
-excerpt: "As the pearl’s standing increases alongside that of women, a progressive new generation is rediscovering Margaret Thatcher’s one-time trademark"
-publishedDateTime: 2021-02-12T16:14:00Z
-originalUrl: "https://www.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
-webUrl: "https://www.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
-ampWebUrl: "https://amp.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+title: "Kamala Harris Talks Vaccines, School Reopenings — but Not Trump — in First Network Interview as Vice President"
+excerpt: "Vice President Kamala Harris appeared on the Today show Wednesday for her first network TV interview since taking office last month. Harris, 56, spoke with anchor Savannah Guthrie about the COVID ..."
+publishedDateTime: 2021-02-18T02:34:00Z
+originalUrl: "https://people.com/politics/kamala-harris-first-network-interview-as-vice-president/"
+webUrl: "https://people.com/politics/kamala-harris-first-network-interview-as-vice-president/"
+ampWebUrl: "https://people.com/politics/kamala-harris-first-network-interview-as-vice-president/"
+cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/kamala-harris-first-network-interview-as-vice-president/"
 type: article
-quality: 125
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: People
+  domain: people.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://i.guim.co.uk/img/media/bb11ce65ca7bc3d31c1deab990f87472f33d1531/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad4e8d9e8da6990e75475493d8e4324c"
-    width: 600
-    height: 360
+  - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B831%2C504%5D&w=1733&h=867&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F02%2F17%2Fkamala-harris.jpg"
+    width: 1733
+    height: 867
     isCached: true
 
 related:
@@ -383,6 +379,22 @@ related:
         width: 2500
         height: 1665
         isCached: true
+  - title: "How Kamala Harris made wearing pearls cool"
+    excerpt: "As the pearl’s standing increases alongside that of women, a progressive new generation is rediscovering Margaret Thatcher’s one-time trademark"
+    publishedDateTime: 2021-02-12T16:14:00Z
+    webUrl: "https://www.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+    ampWebUrl: "https://amp.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/fashion/2021/feb/12/how-kamala-harris-made-wearing-pearls-cool"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/bb11ce65ca7bc3d31c1deab990f87472f33d1531/0_0_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ad4e8d9e8da6990e75475493d8e4324c"
+        width: 600
+        height: 360
+        isCached: true
   - title: "The Latest: Biden administration increasing vaccine supplies"
     excerpt: "President Joe Biden’s administration is increasing coronavirus vaccine supplies sent to states to 13.5 million doses per week"
     publishedDateTime: 2021-02-16T11:51:00Z
@@ -690,22 +702,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 70
-  - title: "Kamala Harris Talks Vaccines, School Reopenings — but Not Trump — in First Network Interview as Vice President"
-    excerpt: "Vice President Kamala Harris appeared on the Today show Wednesday for her first network TV interview since taking office last month. Harris, 56, spoke with anchor Savannah Guthrie about the COVID ..."
-    publishedDateTime: 2021-02-18T02:34:00Z
-    webUrl: "https://people.com/politics/kamala-harris-first-network-interview-as-vice-president/"
-    ampWebUrl: "https://people.com/politics/kamala-harris-first-network-interview-as-vice-president/"
-    cdnAmpWebUrl: "https://people-com.cdn.ampproject.org/c/s/people.com/politics/kamala-harris-first-network-interview-as-vice-president/"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 70
-    images:
-      - url: "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&poi=%5B831%2C504%5D&w=1733&h=867&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F20%2F2021%2F02%2F17%2Fkamala-harris.jpg"
-        width: 1733
-        height: 867
-        isCached: true
   - title: "Biden Withdraws Trump's Restoration of UN Sanctions on Iran"
     excerpt: "The Biden administration is withdrawing former president Donald Trump’s restoration of U.N. sanctions on Iran."
     publishedDateTime: 2021-02-18T23:44:00Z
@@ -759,6 +755,6 @@ related:
         height: 400
         isCached: true
 
-secured: "uVyKNADv9gkurcl8Jy1HZiZgk07SgU21PkOP5RHldJaIP8tZAnlBhxEUNiW8VrH57JyPFkWa384Pzutcgku13Vb5PWkK6CcV0P2Gtj1G8RZ2ow0GpZioio8zqUJwTPPYcCNvLKeZJigzjzHn1NUcDASeL/P8pn1ZWx/qZPw9AKNwlmc4s2bVGKSB//fLxaH1RKaHx6ncBFc9Lvl8PbD+H+2lTP5W3TKAXFKJQtLI1D5KpBx479gSN5ezY7PGcGW19YT7nrwQlCQfMup5biHML9jpB/56JZhhUfjoZGXOlp9ty7CoKVXO6fi42XRfwRXhtKsDlRGOFPSQJWOikCexGWLrdgc5CctGn7VY48vfo8RiXxiSC0/qYY4HLfpE/h+tg6HIGWefnkz2HkMNxH33VcedW3Zpz5a0ggJzZvJu6f89GfaSeFbIuXt6TtAScjAkvKU5cU0r7Z5t7TYp+8IM1B6YBl34f4D7JiQBrI/JdWgwEcTM85I+Uo861tGPgmXGt3si6kJhZ2fbynPDPGiIOg==;VGnOWpCaBrSr41EG8sx3UA=="
+secured: "xACoMMHgdKzDmJ7Y7XEAeoh3ksLMRoSdvQOkk/faCUXrkTeYCNdyd6U3z/1DHA3gRq9v3vfD3yfj6qSQEAnefsKSqZS2dcJk0Vgm3ylrVXOQ8Tk3GfLwdtESenREpIkRpKZYK26eJaYGl+we9px2O4kPs21O+g4JvH5OZpWMFlsR6Vqqg+8lXwjwjUGU9gzMl9DkL9Q6a73Ikh4QloLFwX818TgDntYCy1SKBCP2Do2MZ3l4gxFJPAG3qHDY0v2uKYPgCnXhfIQEkOhidXX04zMmgXXfJPp8OTm5MvoOJdh2j5ewnaVfYk9n7fjUf+8JkJu5sRKbkLXmXkF1xMQtzlWOtg+8FE8m1RJ+WiUxvO0=;kvcoZbUFVAmq27x1uomutA=="
 ---
 

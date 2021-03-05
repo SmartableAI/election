@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-sl
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
 type: article
 quality: 124
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
         width: 822
         height: 545
         isCached: true
+  - title: "Senate delays debate on Biden's $1.9 trillion COVID-19 bill while it is read aloud"
+    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill is read aloud."
+    publishedDateTime: 2021-03-04T21:00:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-6-senate-delays-debate-on-bidens-19-trillion-covid-19-bill-while-it-is-read-aloud-idUSL2N2L21QX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
+        width: 817
+        height: 545
+        isCached: true
   - title: "'Neanderthal thinking' for states to lift mask mandate -Biden"
     excerpt: "News Agency 'Neanderthal thinking' for states to lift mask mandate -Biden. Posted . U.S. President Joe Biden on Wednesday said decisions to end the required wearing of masks - suc"
     publishedDateTime: 2021-03-04T10:05:00Z
@@ -76,6 +92,6 @@ related:
         height: 630
         isCached: true
 
-secured: "tPSY1/hcsVvxYrlyfdyp262ZAUI3oKU1CHhhleV19T6Bpk7EW9f88pDZd2/0GAx+exlnQF5mDnWbaoR5v61ZmUh9ojczi8ae3gZddfxePWtYrcmtbd0oOedjAeyCl3LK7ixyTYlpW+4fLR3Y5ZDuEBq2+MzazGLqDWC2KWKRKuAg6FYUT3jy/KR8xAC71bkTJAUMWjty5GJjoio0ro2DMVK+aWRAnpBDNgJXHdv5roWjwWXetVzUzIn9llvBDgxmVqmAGPA2PwdgjmeogQ5MUaVSLCT1xcI/bUxzRkMwDT+pWmK7i3rU/RZH0JfttrjJSaA6El9KMB7Wvo5AMD5c8crHGhmNz0hB77YNZ2/w/3c=;yM9TZrnh6rmR5FRbyx41AA=="
+secured: "dJKeVnbSYRiFWlLUhd7wGkTqc0q7bsaNBBCjP0xkcja8RVFf+tsNBf3RIO+dl5IOUF1IUUcCIM7xHhecf4uq/LAmbst8vqksUI6/kN09oSINCnALHXA9xBMFxqA9+9VeqdqarDlrrrQT60PBn3Kxi7HGdByQQu5yOFXStOCl/cd7W0odI1DwJxFB5sEi+gbtXMLZE2ENOeqCa6XScCm0ImLekqEp2Oqret7ypcDU9/4emvZdSriVvVIWB8Amjstji99ABQZc/RwotXdMXarxxdJNEZneHTemjIS7jkiX0kO5410bs1N2lYlUUxHSxttbA+r7/cntH9xkQcF5yZwtVFDAToS0hjf3F6dqYKgW2+nU+kllQaOTu24lBPM/TesI/tYGSazUXZDxi3CV4hxkFMTtPtYgHC4NWZpOSjE+BZTsZnsKdL6lRueln0F/xxgthPvRjl7S7sM7DUq4143fmkEe6jVd7v2sPJti7GwECuSb6kU31q+sY57jx9NcWh1Lxy+dyIYUVZvXmAc9kldULQ==;h2GxYHjH2DaOR6oI1nWc/g=="
 ---
 

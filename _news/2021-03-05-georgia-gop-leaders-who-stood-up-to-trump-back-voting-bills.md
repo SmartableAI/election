@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Georgia GOP leaders who stood up to Trump back voting bills"
-excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud"
-publishedDateTime: 2021-03-05T05:51:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/georgia-gop-leaders-stood-trump-back-voting-bills-76269120"
-webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-gop-leaders-stood-trump-back-voting-bills-76269120"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-gop-leaders-stood-trump-back-voting-bills-76269120"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-gop-leaders-stood-trump-back-voting-bills-76269120"
+title: "Georgia GOP Leaders Who Stood up to Trump Back Voting Bills"
+excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud."
+publishedDateTime: 2021-03-05T05:28:00Z
+originalUrl: "https://www.usnews.com/news/politics/articles/2021-03-05/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills"
+webUrl: "https://www.usnews.com/news/politics/articles/2021-03-05/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills"
 type: article
-quality: 125
-heat: 145
-published: true
+quality: 35
+heat: 35
+published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,30 +22,6 @@ topics:
   - Election
   - Donald Trump
 
-images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_fda6421a208a4dce9ffa411ad276c21c_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-related:
-  - title: "Donald Trump Rebukes WSJ After Editorial Board Suggests the GOP Look Past His Presidency"
-    excerpt: "\"Fortunately, nobody cares much about The Wall Street Journal editorial anymore. They have lost great credibility,\" the former president said in a statement."
-    publishedDateTime: 2021-03-04T18:30:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1749736/donald-trump-cpac-appearance-2021.jpg"
-        width: 3000
-        height: 2364
-        isCached: true
-
-secured: "xk5agNDDlU611G0ZX9rKFEZlDWp4T3GnRiBFgP0ONq5fzu+ouJFoSka2qd6E9EqZ2Cni2P/1PISBg7CUpMqYlggSfKgO3MExvq7Frak0aXoJI/kq+nFiKXrYjNMBjXOdo0aPnuVwHb7KO52MQHhOe6AdslzIz0216fxjvW3oDse8g/RLt6bVweUUvFL7h00CnQHPtOiJRipmwy94IFIo2XcDE8gMSHJ9X+eIKNXKRfo+dZLCGvNXbXGJSgQe575UxYpQCdGr9H9A7JnBB9Pa1Gi8sFhbCwyIKOuwsI2HOURbGnoe7NYC0gxmpHTUB1wg8m3BcxxHa5I8Qam15L2whE8eSNLXrlTdX5SirQysD7g=;0N6L1G0ioWD5CdXHNR4vJg=="
+secured: "R1cyMGlUXTVgYvxm9f/na9uDNj88M5v6/Jx01ByzWF1m+YVdVK0MsTwQWKZtooR9Pxs2pCQVVQklcWOOhNgIw9JgYF4vbmLvfuyfSJI6upV+FsVoiGKbYrQX5lcIb4ZhctPCAduWC/bxONO4GJUm5Ck1WrRKHtqnjM6WHKxZpQXdnBa1w3MndSwL8LIrhXJcr9o2uMzsHSRhxB/uPczHZ/UnMRAPOcUkXv0aM9lVzx6Gk5LymkrM8Mxdd/xz1Nab5ooVoC27a6bGdR4h8DZKzCzG5V9dpaAc0PKPU5BsomwuWU3l3/IKvJKw4orhfDko2o160eYNA+8FxQTumLPCm0z4Fr9Q3ly2uodXoCxLAh3k7h7Kebkfo2VY4ozvsscu4Mp+Ep8VycpwUwgAOah9rn5FEwwPe3q89TURqUD6Jhd7ZouvntlxtDT/A0fFhsxzAww0JSKmOMELMs+Rrt92SkCEW/E85v71eZW8kQj2PZuSEte46toC+h21EZ0fQlFFvU87BCjj/iiZNiM9I0/jLw==;snME3HLK0um6rmmfBqthyQ=="
 ---
 
