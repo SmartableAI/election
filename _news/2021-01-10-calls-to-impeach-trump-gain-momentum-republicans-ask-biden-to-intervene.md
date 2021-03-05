@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden limits drone strikes outside war zones, rolling back Trump policy"
+    excerpt: "The Biden administration ordered temporary limits on drone strikes outside war zones, rolling back a Trump-era policy, as President Biden reviews \"legal and policy frameworks governing these matters,\" the National Security Council told Fox News."
+    publishedDateTime: 2021-03-05T15:59:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FDQd1DzR9rQ/biden-limits-drone-strikes-outside-war-zones-rolling-back-trump-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-limits-drone-strikes-outside-war-zones-rolling-back-trump-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-limits-drone-strikes-outside-war-zones-rolling-back-trump-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden says Mexico an 'equal' as he dismantles Trump immigration policies"
     excerpt: "President Biden assured Mexico’s President Andrés Manuel López Obrador that he considers the country “an equal” during a virtual meeting on Monday, as his administration works to unravel some of President Donald Trump’s immigration policies."
     publishedDateTime: 2021-03-02T00:37:03Z

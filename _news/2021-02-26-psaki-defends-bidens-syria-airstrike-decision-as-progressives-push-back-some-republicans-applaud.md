@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden wants new war powers vote in Congress for authorizing America's foreign wars, Psaki says"
+    excerpt: "The White House on Friday said it is \"committed\" to working with Congress on new legislation to repeal current presidential war powers to be replaced with a \"narrow and specific framework\" to protect U.S. national security, while \"ending the forever wars.\""
+    publishedDateTime: 2021-03-05T16:16:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bBbZA3LIPAk/biden-powers-vote-congress-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-powers-vote-congress-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-powers-vote-congress-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Top Biden adviser pushes reparations commission, predicts progress 'breaking down systemic racism'"
     excerpt: "White House adviser Cedric Richmond said it is “doable” for President Biden to make progress in his first term to break down barriers for people of color, as the administration supports a study on potential reparations for Black Americans."
     publishedDateTime: 2021-03-01T20:13:53Z

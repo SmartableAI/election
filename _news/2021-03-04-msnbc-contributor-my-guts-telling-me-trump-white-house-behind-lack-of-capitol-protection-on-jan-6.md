@@ -48,6 +48,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Rep. Eric Swalwell sues Trump, Giuliani and others for Capitol riot"
+    excerpt: "Democratic Rep. Eric Swalwell is suing former President Donald Trump, his son Donald Trump Jr., Rudy Giuliani and Rep. Mo Brooks, claiming they incited the Jan. 6 Capitol riot and violated civil"
+    publishedDateTime: 2021-03-05T16:00:00Z
+    webUrl: "https://nypost.com/2021/03/05/rep-eric-swalwell-sues-trump-giuliani-for-capitol-riot/"
+    ampWebUrl: "https://nypost.com/2021/03/05/rep-eric-swalwell-sues-trump-giuliani-for-capitol-riot/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/05/rep-eric-swalwell-sues-trump-giuliani-for-capitol-riot/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-swal-rudy.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "Z8+Qiwy0Q8IwWLyY4imEihg7qM8pM9pYCHGndzqOEdEcBsY4N5Bir6AwygFpExSY9g5UBusLAkQ4KEQOCX+8KEE7cUxXdr/73pyvQxQIhfR6qGBmwTzz0ozO9bFVO6FEI1RoMLpiiC2QHlGvC1AkcMcpfPnupDtkDwQLDhijJEPSVyxBmssvyqC6Kifvz98maqLuxcT8W3MZriV4R5nlHLdIbknNrKBc0OfzgzmQn/gYmjt93UvrdntICW86RBvcUTr4cLwKBSbRVaKnUdgVRttAPs0Kpbr/05W3Q1Itbd1lO1fH92ARSfs4MXe3RKuu/4AAgzLOFW4VeBkDGUs1cCHkAQGoTEk7m9WrxZ40BXc=;LmITHhRRlgtPK4M/ccwVfg=="
 ---

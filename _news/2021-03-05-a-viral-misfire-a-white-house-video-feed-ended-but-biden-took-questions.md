@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-whi
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/?outputType=amp"
 type: article
 quality: 124
-heat: 144
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hiring surged in February, the first full month of Biden's presidency"
+    excerpt: "Hiring around the U.S. sped up in February, the first full month of the Biden presidency, in a sign that the labor market is gathering strength. Employers added 379,000 jobs last month, the Labor Department said Friday,"
+    publishedDateTime: 2021-03-05T13:44:00Z
+    webUrl: "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/04/bc169c75-f742-42c5-b2a8-649e4a44e148/thumbnail/1200x630/ec0c83d0aabe7014635179e56c95ef66/hiring-gettyimages-1229892232.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
     excerpt: "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,"
     publishedDateTime: 2021-03-03T08:23:00Z

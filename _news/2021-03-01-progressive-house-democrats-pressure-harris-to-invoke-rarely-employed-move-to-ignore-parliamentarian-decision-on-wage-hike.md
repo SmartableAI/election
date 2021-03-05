@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "2.5 Million Women Left the Work Force During the Pandemic. Harris Sees a ‘National Emergency.’"
+    excerpt: "“In one year,” Vice President Kamala Harris said, “the pandemic has put decades of the progress we have collectively made for women workers at risk.” On a video call with women’s ..."
+    publishedDateTime: 2021-02-19T11:26:00Z
+    webUrl: "https://www.nytimes.com/2021/02/18/us/politics/women-pandemic-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/politics/women-pandemic-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/politics/women-pandemic-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 123
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/18/us/politics/18dc-harris/18dc-harris-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "OjfdDwXxgTUMDWDiJJ8mn8xvICKhMb/WuzUo4lHcuDV3TkGNZDFznNHPW28h+YHEMQFeH2dcxGh90d6Ks499Jg3dV8qRUEH9OL0FHJLAELrZxxIU16EHDtRE6h4x3w44VwAn90wtK7NUiFXN58NFlYTmdSvAmEGsKffpJeROZVdYn8T9Rw2juwle961980SNwGI1IJ+iERaIZkP6Asc+i0tMtqfUWA+wYQ+u/Rp2kcNmt9Uwl9Nyzq9nhMs0yhwzMuNihpPHMHHkwzPEYWvWpqFAgrEKL64XwVmyswNuHZvUaRw59ukAQ+kHMjVOmtsO+Sy+MJ7VQ07dO8UVSjfO8Fh5CAHX+hQlg6W5OBp0TQU=;1iHuRljtSjsZkzixxcBOQg=="
 ---

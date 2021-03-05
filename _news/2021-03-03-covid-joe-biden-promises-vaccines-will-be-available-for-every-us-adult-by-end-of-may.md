@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Hiring surged in February, the first full month of Biden's presidency"
+    excerpt: "Hiring around the U.S. sped up in February, the first full month of the Biden presidency, in a sign that the labor market is gathering strength. Employers added 379,000 jobs last month, the Labor Department said Friday,"
+    publishedDateTime: 2021-03-05T13:44:00Z
+    webUrl: "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/04/bc169c75-f742-42c5-b2a8-649e4a44e148/thumbnail/1200x630/ec0c83d0aabe7014635179e56c95ef66/hiring-gettyimages-1229892232.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "A viral misfire: A White House video feed ended but Biden took questions"
     excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
     publishedDateTime: 2021-03-05T00:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johns
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
 type: article
 quality: 176
-heat: 476
+heat: 496
 published: true
 
 provider:
@@ -154,6 +154,22 @@ related:
       name: Fox News
       domain: foxnews.com
     quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden wants new war powers vote in Congress for authorizing America's foreign wars, Psaki says"
+    excerpt: "The White House on Friday said it is \"committed\" to working with Congress on new legislation to repeal current presidential war powers to be replaced with a \"narrow and specific framework\" to protect U.S. national security, while \"ending the forever wars.\""
+    publishedDateTime: 2021-03-05T16:16:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bBbZA3LIPAk/biden-powers-vote-congress-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-powers-vote-congress-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-powers-vote-congress-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340

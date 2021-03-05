@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/harris-dc-pharmacy/index
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/harris-dc-pharmacy/index.html"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180208235003-capitol-exterior-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "2.5 Million Women Left the Work Force During the Pandemic. Harris Sees a ‘National Emergency.’"
+    excerpt: "“In one year,” Vice President Kamala Harris said, “the pandemic has put decades of the progress we have collectively made for women workers at risk.” On a video call with women’s ..."
+    publishedDateTime: 2021-02-19T11:26:00Z
+    webUrl: "https://www.nytimes.com/2021/02/18/us/politics/women-pandemic-harris.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/18/us/politics/women-pandemic-harris.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/18/us/politics/women-pandemic-harris.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 123
+    images:
+      - url: "https://static01.nyt.com/images/2021/02/18/us/politics/18dc-harris/18dc-harris-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "Am8aGMufAa1H8DRR2xedvRi34T4AqI+RnrDPSAyjUIE8lKY+O3rV1TYP1hViBKkRRRZnL3V1gfWMUt2jPZ2HEPDqu1uJ/U+zsbIBj03JHmY6oSZRxKlncdr3fDl48eXDQ1ExM4wv9d++KRYdrrrZWI+pmMwEEfrthR0S1o3WNH11OUEf7WPvOU4/9JaZcIXjwDZcZ0/AlGoDrJ/OP4o8kkY2iOsWHzggIfDW1TOSqMYL9eC1G+mxWgtxHfzM3PjlcXsKFv5tO+H32+QrH8xfbFeIz9CrFo8KTtAjrarriGnEqgq2yFXaWQoo+W70vl6D5NM7uOJY4anvIfyJfVnUg5AVnmZ+aYic4x/rr2/vvEk=;EVRqU9KCI9WADV7ngQJXmQ=="

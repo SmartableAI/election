@@ -229,6 +229,15 @@ related:
         width: 1024
         height: 669
         isCached: true
+  - title: "House Impeachment Manager Sues Trump, Allies Over Riot"
+    excerpt: "Rep. Eric Swalwell, who served as a House manager in Donald Trump’s last impeachment, has filed a lawsuit against the former president, his son, lawyer and a Republican congressman whose actions he charges led to January’s insurrection."
+    publishedDateTime: 2021-03-05T14:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-05/house-impeachment-manager-sues-trump-allies-over-riot"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "5B1Q/uputSLmIFaAcI0WIHtv9b/hCgpBvxiDQo0uB+FOh04PPlqf0K4PGIK3f2Jv+JmU4NJkNIJa9GPx1SEqKypguwb7YwZkA3CdCry2LxUNXCJlRtd+1N/CFpp23+h0eF+1xBx7FFEwuMakiJrd18G9Vke+9Y0vlDYTwK7NzLyxGixCJhdZPFEoO4/98I3b7TpFlzS+g7NvVsRITbTFY6PHN1G32C4hDsqYATFhF9064xq4rX2xGdX50bP8vF020/HJcVxP1JjZPycY7wG57wr5XoL1l9nxcZPd1xt8os/7jWKx8PHqAZ5ta4DKGEAIo4v2uAzmwYNNUQOg2SCAx4U/vaLPpZh6FyA6b0q8bWfs51Ig70mRo8J1Wkxupo50H6mrayMafKvyobvEdQQIiuvSnNrWdqKPcexuUSdZmFMaPTwxWyrI32gyQ4Mg7x/BbQL4bAe72DLQIVJuQkep2XX0/u/5t6o6urt4VD/l5gs5i2dX/w5r89/+OgJJwtvARRydnmih5PHHQXt9/O4QcQ==;QYr1KCWwKAo08rsCC40Qqg=="
 ---

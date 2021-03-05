@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report?amp"
 type: article
 quality: 140
-heat: 400
+heat: 420
 published: true
 
 provider:
@@ -229,6 +229,15 @@ related:
         width: 1024
         height: 669
         isCached: true
+  - title: "House Impeachment Manager Sues Trump, Allies Over Riot"
+    excerpt: "Rep. Eric Swalwell, who served as a House manager in Donald Trump’s last impeachment, has filed a lawsuit against the former president, his son, lawyer and a Republican congressman whose actions he charges led to January’s insurrection."
+    publishedDateTime: 2021-03-05T14:32:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-05/house-impeachment-manager-sues-trump-allies-over-riot"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "aN59TOd75YSWHev935OLB3CRpdhuG1ptt8LMrABqClRLVWjRLsoB1N13uz4iUI5bler/oQaazdJC5okFbGcdhxjbEIkxDbI1KCFiR0ZB79S7EDMJsS3YC6fr/+U3oEItPJzTbaiELtWo7IDV93dnCYakB78rAyogYtCoWRrp7DceRYGAKogU7FrlvfL8ugTVoznhgHeQ8yq4Vyve/0eM0qUH6zOQzFIPkKeFyv5Mm1zJCfQzlJOwIwIObUGW0arP4VTwQs3uVyonGshCqheWaoc/fa36JTlUWXg5E73BmxJQBP4yfZnnBZqrRRYg04w/Guc42AInbz+85FIIuDJ4Jd9/svmBHCzpp6Iey25hma1Q30CgKN8sNZsuXHhIMtp/yMaDBplu6s7JIjgMYBLPSr+KW6ov/b9PWJUAjqGoVdc1kAJVpiO3c9b54uU3ykx78Fg927iWOXw1MGD9y7S+q/v6MtTKBWz4MkfNRZHBLBXp3CMx6NEa7KYYKPQkc29fvJEALdVc0NaYMHBDFI8zYw==;26+amhsNLX+zIIc9XlmRFg=="
 ---
