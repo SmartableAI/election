@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Vice President Kamala Harris steps into new foreign policy role"
-excerpt: "White House officials say Vice President Kamala Harris will prioritize cybersecurity and global health as part of her foreign policy role. CBS News White House reporter Tim Perry joins CBSN to explain."
-publishedDateTime: 2021-02-26T18:29:00Z
-originalUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-foreign-policy-role/"
-webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-foreign-policy-role/"
+title: "Democrats tussle over minimum wage. Kamala Harris is caught in the middle"
+excerpt: "Kamala Harris emerges as the focal point of the White House's intra-party tussle over minimum wage. How she handles this first tussle will be telling."
+publishedDateTime: 2021-03-05T00:59:00Z
+originalUrl: "https://www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house"
+webUrl: "https://www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house"
+ampWebUrl: "https://www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house?_amp=true"
 type: article
-quality: 105
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/26/2a8ccff5-f44e-487b-8f91-742e85cb1eab/thumbnail/1200x630/5c1316e4da52862bb493217fb7fb9010/cbsn-fusion-vice-president-kamala-harris-steps-into-new-foreign-policy-role-thumbnail-654395-640x360.jpg"
-    width: 1200
-    height: 630
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/5b5a885/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb5%2F04%2F56a81f2b47b8a28f0140637d45b9%2Fbiden-92981.jpg"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -44,22 +46,6 @@ related:
       - url: "https://s.hdnux.com/photos/01/16/76/12/20701837/3/375x250.jpg"
         width: 374
         height: 250
-        isCached: true
-  - title: "Democrats tussle over minimum wage. Kamala Harris is caught in the middle"
-    excerpt: "Kamala Harris emerges as the focal point of the White House's intra-party tussle over minimum wage. How she handles this first tussle will be telling."
-    publishedDateTime: 2021-03-05T00:59:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/5b5a885/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb5%2F04%2F56a81f2b47b8a28f0140637d45b9%2Fbiden-92981.jpg"
-        width: 320
-        height: 209
         isCached: true
   - title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – live"
     excerpt: "Vice-President cast tie-breaking vote after Senate deadlocked 50-50"
@@ -120,6 +106,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/02-27-2021/t_06aede71413242389b5cb300208ca5ba_name_202102_kamalaharris_reuters_thumbnail.jpg&w=1080"
         width: 1080
         height: 608
+        isCached: true
+  - title: "Vice President Kamala Harris steps into new foreign policy role"
+    excerpt: "White House officials say Vice President Kamala Harris will prioritize cybersecurity and global health as part of her foreign policy role. CBS News White House reporter Tim Perry joins CBSN to explain."
+    publishedDateTime: 2021-02-26T18:29:00Z
+    webUrl: "https://www.cbsnews.com/video/vice-president-kamala-harris-foreign-policy-role/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/26/2a8ccff5-f44e-487b-8f91-742e85cb1eab/thumbnail/1200x630/5c1316e4da52862bb493217fb7fb9010/cbsn-fusion-vice-president-kamala-harris-steps-into-new-foreign-policy-role-thumbnail-654395-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Kamala Harris Calls NASA Astronaut Victor Glover"
     excerpt: "In celebration of Black History Month, NASA astronaut Victor Glover welcomed Vice President Kamala Harris to the International Space Station for a virtual chat. In the video recorded Feb. 24 and shared Saturday,"
@@ -382,6 +382,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "feurjjSUOyoAl7eGRa4I0PxzX41pqeFaaDqMtApUjejC0Xc3uIDZpT0h5dF7k9uC7ccVFHQsp1K+NRgT1OZh+ODCjgLviHvV1i8pgfjrhkNpYXRYGcFs3kyMffGnTBi26FQdogERlM2OhA6PxySR4SJYhwkPwc2tYP0qo4+6OzC5goVmzC9CkvWO6PniICxfd0kWmI65XcOCtxUpslxEtoqDb8TQ1/LPvwfK5J1+2k1zfrmujeZn9xd5ts92FMNy4T8habh2pjhyK8Ly+48l6zkH7jo7ydZmKPsZV1z7zIvdJLRGZZZCApycPBY9sSVJIZbTc/DAe6lMVigLPB00Js+xxNpJMu2fKlDQXNJecXI=;H/YevDjKPPoI6Ph9FPVnRA=="
+secured: "SsdPDzNZKezlHETjzNXhzfaq5exSVImYBPjxDKE/dRtLL8jy93b3r8KrY8AgJW+hGL+8f/PngrPYxGRuA0L+F6VvUD44iMHjXZfBJVfHArm/klB4j6D27kB7PuQlJoDJN7gj91Hckokz8vTq84DlcARrfX/dRHoJ8pzZq7E2D5ziNfPDJ/TT+1cV/D1myTemkNaa4qeATM4jSkrUIjTVnMF6WBr4A9Q1kIbzSVbdRiSP8Pj5Iqj2K3YGtAdCsUcq0MgXQ27MQmateGkvHCLdvwZU5om5PPMR39rr81MMmzG/i2fonctMJRPK/DfYcSmFz5xMfW0Y+xLgMECasiSZ+QohHO6Cf2Fae2u+NwS8Ioc=;8+WMY+iPzejrLY0KYcQjYA=="
 ---
 

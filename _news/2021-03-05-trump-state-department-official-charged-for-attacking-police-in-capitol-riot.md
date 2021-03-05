@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump supporters who breached the Capitol: 'It was not Antifa'"
-excerpt: "Nearly a dozen Trump supporters charged in connection with the US Capitol insurrection have said that Antifa and other left-wing groups weren't involved in the attack, debunking a false-flag conspiracy theory that is gaining popularity in the pro-Trump orbit.\n    \n"
-publishedDateTime: 2021-02-27T14:01:11Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONjE18kvPbY/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONjE18kvPbY/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-supporters-not-antifa/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-supporters-not-antifa/index.html"
+title: "Trump State Department official charged for attacking police in Capitol riot"
+excerpt: "A former Trump State Department political appointee appeared in Washington, DC, federal court Friday after being charged for pushing against police in the Capitol building during the January 6 insurrection.\n    \n"
+publishedDateTime: 2021-03-05T21:49:10Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yF7wSP2-YB4/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yF7wSP2-YB4/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/state-department-capitol-riot-federico-klein/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/state-department-capitol-riot-federico-klein/index.html"
 type: article
-quality: 175
-heat: 275
-published: true
+quality: 172
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -25,25 +25,25 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205104923-104-january-6-capitol-riots-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305141522-frederico-klein-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
 
 related:
-  - title: "Trump State Department official charged for attacking police in Capitol riot"
-    excerpt: "A former Trump State Department political appointee appeared in Washington, DC, federal court Friday after being charged for pushing against police in the Capitol building during the January 6 insurrection.\n    \n"
-    publishedDateTime: 2021-03-05T21:49:10Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yF7wSP2-YB4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/state-department-capitol-riot-federico-klein/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/state-department-capitol-riot-federico-klein/index.html"
+  - title: "Trump supporters who breached the Capitol: 'It was not Antifa'"
+    excerpt: "Nearly a dozen Trump supporters charged in connection with the US Capitol insurrection have said that Antifa and other left-wing groups weren't involved in the attack, debunking a false-flag conspiracy theory that is gaining popularity in the pro-Trump orbit.\n    \n"
+    publishedDateTime: 2021-02-27T14:01:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONjE18kvPbY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-supporters-not-antifa/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/27/politics/capitol-attack-trump-supporters-not-antifa/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 172
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305141522-frederico-klein-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205104923-104-january-6-capitol-riots-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -112,6 +112,6 @@ related:
         height: 619
         isCached: true
 
-secured: "YfV/G+1pYoS1AZLm7CZWV604y64K6bnzk4J686vDJCI43zaSB3KoPpqQoVDs/h4k8vyFJL9xJggGOhUgXYeIie2v6X7NEph/6SE4gHM8EDGkwJ90ApJEIbzpSKXostsabRiJ0xzL0oUHWoAr+vZHXDn7AjFBeF2j+Ug5fK+6gR1xBUmSD8N8XZGWwwItB5RcyHTwTRyDsZH176+jWWgoTBqFNV6RpXeMU66Kqn0hShms3VJu+AE1mOApEB25Kz19sIm1yr04B3RHzG54Xi8Z45fKuPfmbfL94ZjogtvzJShIiLYGl+KRCdtP5V7HABGQfWU87sXe9e+pF8slLaGZ07mYaMAHnw0BPmWNp394Jjo=;J1DIfYF9Ne2Ahu0ZkWGdQg=="
+secured: "BIN7E/idEq3dqtYjRJJTXb6EM3dgrF2R+MCrYn3CZLn54UtVD4hLX4zdxN6U2YTLGEdib1luo7PeNiduPT/x0O9/wjSKr2W2kiV3f8Ppxfb2YIwg/wn2xsuHRZFVuyN6qxOLNfcb/5Tsv5mfWAmX+Tg1Zyp7zADZ1tDWXpyq8aIsZgfX5iutmNOfK5KH7uDY/E2d3dm3Qs7SBIfaNM0wYLlV/HRdYmG/0szHhj4riknCDQc3mX7HAyfGCMETI8rd09tSqyDtDk2lHy7NNcI8x+hnila7wFwqoxKfVqut3mI3H/ZBG9njHGjTdiBZwYWXlXHdI/A/iIAV19E3eWy4QPpvGtVuta5PdnVXT74XGl0=;/kaOD5IKTbFnJU0EuQ9q6Q=="
 ---
 

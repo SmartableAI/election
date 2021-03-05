@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-p
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php"
 type: article
 quality: 125
-heat: 585
+heat: 605
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Democrats tussle over minimum wage. Kamala Harris is caught in the middle"
+    excerpt: "Kamala Harris emerges as the focal point of the White House's intra-party tussle over minimum wage. How she handles this first tussle will be telling."
+    publishedDateTime: 2021-03-05T00:59:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-04/harris-emerging-as-magnet-for-progressive-pressure-on-the-white-house?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/5b5a885/2147483647/strip/true/crop/6000x3919+0+41/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb5%2F04%2F56a81f2b47b8a28f0140637d45b9%2Fbiden-92981.jpg"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – live"
     excerpt: "Vice-President cast tie-breaking vote after Senate deadlocked 50-50"
     publishedDateTime: 2021-03-05T01:05:00Z

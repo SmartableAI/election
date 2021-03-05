@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump State Department official charged for attacking police in Capitol riot"
+    excerpt: "A former Trump State Department political appointee appeared in Washington, DC, federal court Friday after being charged for pushing against police in the Capitol building during the January 6 insurrection.\n    \n"
+    publishedDateTime: 2021-03-05T21:49:10Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yF7wSP2-YB4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/state-department-capitol-riot-federico-klein/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/state-department-capitol-riot-federico-klein/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305141522-frederico-klein-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump supporters are still pushing false claims that antifa was behind the Capitol riot."
     excerpt: "Brown wrote on Twitter that rioters had breached the United States Capitol — and immediately speculated about who was really to blame. “Antifa or BLM or other insurgents could be doing it disguised as Trump supporters,"
     publishedDateTime: 2021-03-02T02:42:00Z
