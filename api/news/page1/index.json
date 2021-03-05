@@ -2,21 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-06-update-1-us-representative-swalwell-sues-trump-over-jan-6-insurrection.md",
-      "title": "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection",
-      "excerpt": "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots.",
+      "path": "_news/2021-03-05-swalwell-files-lawsuit-against-trump-over-capitol-riots.md",
+      "title": "Swalwell files lawsuit against Trump over Capitol riots",
+      "excerpt": "Rep. Eric Swalwell, one of the House impeachment managers, filed a lawsuit against former President Trump saying he must be held financially responsible for destruction on Jan. 6 when a pro-Trump mob stormed the Capitol.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-trump-swalwell-idUSL2N2L314I",
-      "originalUrl": "https://www.reuters.com/article/usa-trump-swalwell-idUSL2N2L314I",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zloDBq5sHQk/swalwell-lawsuit-against-trump-republicans-capitol-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zloDBq5sHQk/swalwell-lawsuit-against-trump-republicans-capitol-riots",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
       "tags": null,
       "images": [
         {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3",
-          "width": 947,
-          "height": 545,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc4e6da5-3c10-4062-a7aa-5b61dd7b3a97/34ddb130-8200-47fc-b4bd-3d32c1cb6d83/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +28,232 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP",
-      "publishedDateTime": "2021-03-05T10:29:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp",
+      "publishedDateTime": "2021-03-05T12:37:51-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "Fox News",
+        "domain": "foxnews.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-trump-state-department-aide-charged-with-assault-at-capitol.md",
+      "title": "Trump State Department aide charged with assault at Capitol",
+      "excerpt": "A former State Department aide in President Donald Trump’s administration has been charged with participating in the deadly Capitol siege and assaulting officers",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-05T12:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-tom-cotton-slams-top-biden-pentagon-nominee-for-vicious-tweets-weak-israel-iran-policies.md",
+      "title": "Tom Cotton slams top Biden Pentagon nominee for 'vicious' tweets, 'weak' Israel, Iran policies",
+      "excerpt": "Sen. Tom Cotton R-Ark. said Friday that President Joe Biden’s nominee for the No. 3 civilian position at the Pentagon doesn’t have the \"temperament\" for the job, citing \"vicious\" verbal attacks against people criticizing his position on the Iran nuclear deal and past tweets about Republicans.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/consSGRk2ww/biden-pentagon-nominee-colin-kahl-cotton",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/consSGRk2ww/biden-pentagon-nominee-colin-kahl-cotton",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2229b2f1-24c2-4122-ae85-34c31c7b489b/c3a87125-f980-46d4-8319-88e455416533/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp",
+      "publishedDateTime": "2021-03-05T11:50:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-psaki-says-biden-isnt-snubbing-congress-by-postponing-joint-address.md",
+      "title": "Psaki says Biden isn't 'snubbing' Congress by postponing joint address",
+      "excerpt": "White House press secretary Jen Psaki on Friday said President Biden is not \"snubbing\" Congress by delaying his joint address, pointing to the coronavirus pandemic and saying the administration has been \"engaged closely\" with congressional leadership regarding their plans.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UIlkIJqHs5c/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UIlkIJqHs5c/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp",
+      "publishedDateTime": "2021-03-05T11:44:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-rep-eric-swalwell-sues-trump-over-jan-6-riot-alleging-he-poses-risk-of-inciting-future-political-violence.md",
+      "title": "Rep. Eric Swalwell sues Trump over Jan. 6 riot, alleging he poses risk of ‘inciting future political violence’",
+      "excerpt": "California representative, a House impeachment manager and Democratic leader, files suit against Trump, Trump Jr., Giuliani and Rep. Mo Brooks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6E3Y7SRBYI6XPNEMFNK57IFKU.jpg&w=1440",
+          "width": 1440,
+          "height": 1853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-05T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -66,7 +286,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 300,
+      "heat": 320,
       "tags": null,
       "images": [
         {
@@ -280,58 +500,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-05-fbi-arrests-trump-appointee-federico-klein-in-connection-with-capitol-riot.md",
-      "title": "FBI arrests Trump appointee Federico Klein in connection with Capitol riot",
-      "excerpt": "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003",
-      "originalUrl": "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003",
-      "publishedDateTime": "2021-03-05T07:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-05-house-impeachment-manager-eric-swalwell-sues-trump-and-close-allies-over-capitol-riot-in-second-major-insurrection-lawsuit.md",
       "title": "House impeachment manager Eric Swalwell sues Trump and close allies over Capitol riot in second major insurrection lawsuit",
       "excerpt": "Former House impeachment manager Eric Swalwell has sued former President Donald Trump, his son Donald Trump Jr., Rudy Giuliani and Republican Rep. Mo Brooks in a second major lawsuit seeking to hold Trump and his allies accountable for inciting the insurrection at the US Capitol on January 6.\n    \n",
@@ -494,6 +662,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-tiny-group-of-qanon-supporters-spotted-in-dc-awaiting-trump-inauguration.md",
+      "title": "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration",
+      "excerpt": "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
+      "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1750168/q.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
+      "publishedDateTime": "2021-03-05T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -793,58 +1013,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-at-the-capitol-a-march-4-threat-from-militant-trump-supporters-proves-a-mirage.md",
-      "title": "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage",
-      "excerpt": "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/",
-      "originalUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp",
-      "publishedDateTime": "2021-03-04T18:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1166,170 +1334,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/04/politics/biden-doj-supreme-court-dismiss-sanctuary-cities/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/biden-doj-supreme-court-dismiss-sanctuary-cities/index.html",
       "publishedDateTime": "2021-03-04T15:22:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-biden-pentagon-pick-faces-questions-over-ties-to-group-that-helped-create-iran-deal-echo-chamber.md",
-      "title": "Biden Pentagon pick faces questions over ties to group that helped create Iran deal 'echo chamber'",
-      "excerpt": "One of President Biden's top Pentagon picks is facing concern from Republicans about his views on Iran and his ties to a group that helped create an \"echo chamber\" to sell the Iran nuclear deal to the public.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2guRl2zshQc/biden-pentagon-ploughshares-fund-iran-colin-kahl",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2guRl2zshQc/biden-pentagon-ploughshares-fund-iran-colin-kahl",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Colin-Kahl-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp",
-      "publishedDateTime": "2021-03-04T13:53:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-qanon-shaman-still-feels-sympathy-for-former-president-donald-trump.md",
-      "title": "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump",
-      "excerpt": "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
-      "originalUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-heres-what-a-vote-a-rama-is-and-what-it-means-for-bidens-stimulus.md",
-      "title": "Here's what a 'vote-a-rama' is (and what it means for Biden's stimulus)",
-      "excerpt": "Senate Democrats' push to quickly pass President Joe Biden's Covid-19 relief package is about to meet a time-consuming and stamina-challenging speed bump known as a \"vote-a-rama.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7sDNdSWi1ic/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7sDNdSWi1ic/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301111918-01-us-capitol-2021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html",
-      "publishedDateTime": "2021-03-04T12:40:45-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

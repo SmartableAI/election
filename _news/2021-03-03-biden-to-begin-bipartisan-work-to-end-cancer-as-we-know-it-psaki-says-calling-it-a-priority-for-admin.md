@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Psaki says Biden isn't 'snubbing' Congress by postponing joint address"
+    excerpt: "White House press secretary Jen Psaki on Friday said President Biden is not \"snubbing\" Congress by delaying his joint address, pointing to the coronavirus pandemic and saying the administration has been \"engaged closely\" with congressional leadership regarding their plans."
+    publishedDateTime: 2021-03-05T19:44:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UIlkIJqHs5c/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki won’t say why Dr. Seuss was dropped from Biden reading proclamation"
     excerpt: "White House press secretary Jen Psaki wouldn’t say why President Biden dropped Dr. Seuss from \"Read Across America Day,\" the annual celebration of reading in honor of the legendary children’s author."
     publishedDateTime: 2021-03-02T20:13:19Z
@@ -47,6 +63,38 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Psaki says Biden will hold press conference ‘before the end of the month’"
+    excerpt: "White House press secretary Jen Psaki said Thursday President Biden will hold a press conference before the end of the month. "
+    publishedDateTime: 2021-03-05T19:28:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bkWu30_QLxg/psaki-biden-press-conference-before-end-month"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-press-conference-before-end-month.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-press-conference-before-end-month.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "McConnell blames Biden’s ‘sweeping left-wing amnesty plan' for fueling border surge"
+    excerpt: "Senate GOP Leader Mitch McConnell on Wednesday blamed President Biden’s “sweeping left-wing amnesty plan” for fueling the escalating migrant crisis on the southern border -- and said it sidelined the interests of American workers."
+    publishedDateTime: 2021-03-03T21:08:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CEGeOSBi0ok/mcconnell-bidens-amnesty-plan-border-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-bidens-amnesty-plan-border-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-bidens-amnesty-plan-border-surge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66bd0867-734c-4d23-ab91-7e89c506b1f4/bc3cc15b-261f-4b24-a65d-992f22b4a0b0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Jen Psaki defends Biden 'Neanderthal' reopening quip targeting Texas and Mississippi"
     excerpt: "White House press secretary Jen Psaki said President Biden’s “neanderthal thinking” quip about states removing their mask mandates was an expression of his “frustration and exasperation.” "
     publishedDateTime: 2021-03-04T19:27:23Z
@@ -62,6 +110,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Ronna McDaniel: Biden seems more concerned with opening borders than opening schools"
+    excerpt: "The media needs to start probing President Biden the same way they would former President Trump, Republican National Committee Chairwoman Ronna McDaniel said on Friday, reacting to the commander-in-chief facing growing criticism for not holding a formal press conference in the six weeks since taking"
+    publishedDateTime: 2021-03-05T18:08:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e9skWQUfYq0/ronna-mcdaniel-media-biden-open-borders-schools"
+    ampWebUrl: "https://www.foxnews.com/politics/ronna-mcdaniel-media-biden-open-borders-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronna-mcdaniel-media-biden-open-borders-schools.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden won't deliver speech to Congress until after vote on coronavirus bill, Psaki says"
     excerpt: "White House press secretary Jen Psaki said President Biden will wait to address a joint session of Congress until after Congress decides on the American Rescue Plan, his coronavirus relief package."
@@ -127,6 +191,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McCarthy requests meeting with Biden on immigration, Psaki says president would welcome dialogue"
+    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., requested a meeting with President Biden Friday to talk about the surge in migrants at the southern border."
+    publishedDateTime: 2021-03-05T19:05:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDbC9Q3VuJ0/mccarthy-meeting-biden-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-meeting-biden-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-meeting-biden-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cca20d6f-bb28-4389-8746-9334007a2c3e/a8557a36-9eeb-4bed-8bec-f990a28aa8f9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Top Biden adviser pushes reparations commission, predicts progress 'breaking down systemic racism'"
     excerpt: "White House adviser Cedric Richmond said it is “doable” for President Biden to make progress in his first term to break down barriers for people of color, as the administration supports a study on potential reparations for Black Americans."
     publishedDateTime: 2021-03-01T20:13:53Z
@@ -142,22 +222,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden erases Dr. Seuss from 'Read Across America' proclamation as progressives seek to cancel beloved author"
-    excerpt: "President Biden appears to have erased Dr. Seuss from Read Across America Day."
-    publishedDateTime: 2021-03-01T23:27:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6unV8cqv3OQ/biden-erases-dr-seuss-read-across-america-proclamation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-erases-dr-seuss-read-across-america-proclamation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-erases-dr-seuss-read-across-america-proclamation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 156
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e52474ef-0dd1-426d-9941-16c16e97c6ce/aa0ba86f-4bb1-48db-a4f6-3e9aaf9f50e0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "HQX4NQyYKWgDf2vxx8ks/lCFfORWFeikE42Cc7rs/gPZxTAD5b5ITX3LSlwEmG2+J0E6SkyTimIUV3z5EzT9zAnKxL77FMuNzwxGbIbBWj5jiDxgar4pX4yAB+3r6en8joFb/aagoK4imIAMtSQJXi4kCMfJMM9ixAv+j67FALvEqrFfE2YUsFAzkRT2+vKNa22euEdTLrbQqB+esrvUv/el1BW/fGDTBl9la4xXypdEEr0sw5goZmumydMxPYjgrAcp94mbJOEAWteZO3nZJ5uK9zl9qYSkUulM+yYhSS3ug66sUqCTzeTiXKWjSOgknRKbZUuO9eOtod24ZDPQzdeoszpIRf9J7HAfrQfykrg=;8egs8fFVp0/5YEKHW1duCA=="

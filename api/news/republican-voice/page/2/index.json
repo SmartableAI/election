@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-03-rep-crenshaw-slams-bidens-border-policy-prioritizing-illegal-immigrants-over-us-citizens.md",
+      "title": "Rep. Crenshaw slams Biden's border policy: 'Prioritizing illegal immigrants over US citizens’",
+      "excerpt": "Rep. Dan Crenshaw, R-Texas, says he believes the Biden administration’s immigration policies are \"prioritizing illegal immigrants over U.S. citizens.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1IwasZaMGy4/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1IwasZaMGy4/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20c1dab4-23d3-4f92-9b10-5cc6de6b6d12/3cafb7e6-7288-4d4c-a054-39509edb909a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp",
+      "publishedDateTime": "2021-03-03T07:26:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-kamala-harris-tweet-about-dr-seuss-resurfaces-amid-racial-controversy.md",
       "title": "Kamala Harris’ tweet about Dr. Seuss resurfaces amid racial controversy",
       "excerpt": "Harris was a senator when she sent out the tweet, dated March 2, 2017, in which she wished the famed children’s book author a happy birthday.",
@@ -359,62 +415,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.amp",
       "publishedDateTime": "2021-03-02T14:50:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.md",
-      "title": "Psaki won’t say why Dr. Seuss was dropped from Biden reading proclamation",
-      "excerpt": "White House press secretary Jen Psaki wouldn’t say why President Biden dropped Dr. Seuss from \"Read Across America Day,\" the annual celebration of reading in honor of the legendary children’s author.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ofhqkJyczYE/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ofhqkJyczYE/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 334,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp",
-      "publishedDateTime": "2021-03-02T12:13:19-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -890,54 +890,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-01-trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot.md",
-      "title": "Trump says he was not watching live TV coverage of Capital Hill riot",
-      "excerpt": "Former President Donald Trump on Sunday night denied that he was watching live television coverage of the deadly Capitol Hill riot. Trump was responding to a Washington Post story that claimed he",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/",
-      "originalUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-cpac.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/",
-      "publishedDateTime": "2021-02-28T21:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-28-trump-pays-tribute-to-rush-limbaugh-at-cpac-speech-irreplaceable.md",
       "title": "Trump pays tribute to Rush Limbaugh at CPAC speech: 'Irreplaceable'",
       "excerpt": "Former President Donald Trump on Sunday paid tribute to the late radio legend Rush Limbaugh, who was long considered the voice of the conservative movement and who was one of the first high-profile right-wing media personalities to back Trump's first presidential run. ",
@@ -1343,7 +1295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 170,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -1656,6 +1608,62 @@
       "topics": [
         "Election",
         "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-25-blackburn-warns-biden-admin-china-is-our-adversary-threatens-supply-chain.md",
+      "title": "Blackburn warns Biden admin China is 'our adversary,' threatens supply chain",
+      "excerpt": "EXCLUSIVE: Republican Sen. Marsha Blackburn is warning the Biden administration that China is \"our adversary,\" saying Beijing threatens our supply chain and urging the White House to \"step up their game.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/To5htOdlxYQ/blackburn-china-our-adversary-threatens-supply-chain-biden",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/To5htOdlxYQ/blackburn-china-our-adversary-threatens-supply-chain-biden",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blackburn-china-our-adversary-threatens-supply-chain-biden.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blackburn-china-our-adversary-threatens-supply-chain-biden.amp",
+      "publishedDateTime": "2021-02-25T10:27:43-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     }

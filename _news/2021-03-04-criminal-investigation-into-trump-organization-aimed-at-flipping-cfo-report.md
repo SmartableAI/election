@@ -27,21 +27,51 @@ images:
     isCached: true
 
 related:
-  - title: "Watchdog asked Trump DOJ to criminally investigate Elaine Chao for misuse of office as transportation secretary but was rebuffed"
-    excerpt: "The inspector general found that Chao inappropriately used her staff and office for personal tasks and to promote a shipping business owned by Chao’s father and sisters."
-    publishedDateTime: 2021-03-04T02:12:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp"
+  - title: "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration"
+    excerpt: "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4."
+    publishedDateTime: 2021-03-05T12:35:00Z
+    webUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028"
+    ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
     type: article
     provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 96
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
     images:
-      - url: "https://www.chicagotribune.com/resizer/RdT_akvV2w0WrLwyYv4kInG3D0k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BKO37XXJSYJYQQVJQKSAEDBFXA.aspx"
+      - url: "https://d.newsweek.com/en/full/1750168/q.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump"
+    excerpt: "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,"
+    publishedDateTime: 2021-03-04T21:28:00Z
+    webUrl: "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg"
         width: 1200
-        height: 800
+        height: 630
+        isCached: true
+  - title: "Pentagon Says Trump Interfered With Investigation Into Rep. Ronny Jackson's Abuse Of Subordinates"
+    excerpt: "Jackson is accused of dozens of improprieties, including commenting on a female subordinate's body and drunkenly harassing her."
+    publishedDateTime: 2021-03-03T22:02:00Z
+    webUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764"
+    ampWebUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/03/29/ronny-jackson.jpg"
+        width: 594
+        height: 396
         isCached: true
 
 secured: "AG53D+wtAELvyONT7MaglOTqNdzwpibdfvY3M7HGNF4On1Qid33kkvmW/zmopNqqoUNYOKArny2RQnN2ef1o3hlameiXF1CEB/bEEJOHel4/X6ujdmhSmsX0wGUbRAfA8MObBDs+KKPJ/62/zayzxq4eAMVWcWyiHwjZSO+tw8i95WwcBrVpWZtihj/KjarDj1b3K4kSGRdtwXSiAxgwIizNSeP0I2b/Kve5UQoEfQ23poBo4mFYckB2npqDx3pyw+PQJr2UNyfaG662XhHV1LYXobxo5vWtRbfIsgFnn1wGZAUGKagYvQiy25/sbN5Xsfsn8n4HI10+f0mFYhXgWW8T6m6T850CvCCAXRVh6l9T76cAab4w9rMrHUk8e1tsf61Tg9CQncku/W3nTGVN0KjzNoGszrUJLObK0xP/CeRdzuWOIJQa5BXShQVoQbJzSEhwygM+VzqP4O3pS8qZkt4dBvxVXB11TvTtwzc/S2RqYZ1X8Qkqgy4NyhUFSUYzNNEJ7bZuLM1YYFh3mYuVpw==;VZDAoTq5fQ+3NGP6FQcOQg=="

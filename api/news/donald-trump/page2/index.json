@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-03-01-neera-tandens-confirmation-fight-is-the-first-morality-play-of-post-trump-washington.md",
-      "title": "Neera Tanden’s confirmation fight is the first morality play of post-Trump Washington",
-      "excerpt": "The White House is still backing her, despite old posts that have upset many across the aisle. But there’s more to this drama than tweets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6OW7BYTXR4I6XFJXJFQVRTC73E.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-28T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-01-trump-wins-cpac-straw-poll-with-ron-desantis-winning-a-second-one.md",
       "title": "Trump Wins CPAC Straw Poll, with Ron DeSantis Winning a Second One",
       "excerpt": "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential polls: One with a potential field that included Mr. Trump, and one without him.",
@@ -585,6 +533,58 @@
       ]
     },
     {
+      "path": "_news/2021-02-26-trump-supporters-want-to-blow-up-capitol-police-chief.md",
+      "title": "Trump supporters want to 'blow up' Capitol - police chief",
+      "excerpt": "Top News Trump supporters want to 'blow up' Capitol - police chief. Posted . Acting Chief of the Capitol Police Yogananda Pittman said on Thursday that Donald Trump supporters who",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/idOVE15CYXR",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVE15CYXR",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210225&i=OVE15CYXR&r=OVE15CYXR&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-25T14:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-nikki-haley-iced-out-of-cpac-after-underestimating-donald-trumps-influence.md",
       "title": "Nikki Haley Iced Out Of CPAC After Underestimating Donald Trump's Influence",
       "excerpt": "The former ambassador hasn't been invited to speak, another blow to any presidential ambitions she may harbor.",
@@ -617,6 +617,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-trumps-pardon-of-lil-wayne-said-to-be-the-breaking-point-for-qanon-shaman-in-new-court-documents-filled-with-bizarre-anecdotes.md",
+      "title": "Trump's pardon of Lil Wayne said to be the breaking point for 'QAnon Shaman' in new court documents filled with bizarre anecdotes",
+      "excerpt": "An attorney for Jacob Chansley, the \"QAnon Shaman,\" filed a pretrial release motion Tuesday, weeks after he charged in the Capitol riot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest",
+      "originalUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60359633d920880018591ad4?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/new-court-records-detail-qanon-shamans-life-before-and-after-arrest?amp",
+      "publishedDateTime": "2021-02-25T12:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1535,58 +1587,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-for-mexican-ambassador-who-survived-trump-washington-was-last-stop.md",
-      "title": "For Mexican ambassador who survived Trump, Washington was last stop",
-      "excerpt": "Martha Bárcena, the first woman to serve as Mexican ambassador to the United States, retired this month after a 42-year career.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/national/mexican-ambassador-martha-barcena-retires/2021/02/20/a65eb048-715d-11eb-a4eb-44012a612cf9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/national/mexican-ambassador-martha-barcena-retires/2021/02/20/a65eb048-715d-11eb-a4eb-44012a612cf9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2KSZ55TT2II6XBSRNUYJD2WGH4.jpg&w=1440",
-          "width": 1440,
-          "height": 959,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/national/mexican-ambassador-martha-barcena-retires/2021/02/20/a65eb048-715d-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/mexican-ambassador-martha-barcena-retires/2021/02/20/a65eb048-715d-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-20T16:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

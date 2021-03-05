@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration tells facilities for migrant children to reopen to pre-pandemic levels"
+    excerpt: "The Biden administration has notified facilities caring for migrant children that they can open back up to pre-Covid-19 levels, acknowledging \"extraordinary circumstances\" due to a rising number of minors crossing the US-Mexico border, according to a memo obtained by CNN.\n    \n"
+    publishedDateTime: 2021-03-05T20:10:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VfNvFyhkEmY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/immigration-border-crowding-covid/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/immigration-border-crowding-covid/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210304183516-32-week-in-photos-0305-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration to send 25 million masks to community health centers and food pantries "
     excerpt: "The Biden administration said Wednesday it would send more than 25 million masks to community health centers, food pantries and soup kitchens across the country in order to reach some of the nation's most vulnerable populations.\n    \n"
     publishedDateTime: 2021-02-24T16:38:01Z

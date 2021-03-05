@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qa
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
 type: article
 quality: 121
-heat: 181
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,19 +31,69 @@ images:
     isCached: true
 
 related:
-  - title: "Trump supporters want to 'blow up' Capitol - police chief"
-    excerpt: "Top News Trump supporters want to 'blow up' Capitol - police chief. Posted . Acting Chief of the Capitol Police Yogananda Pittman said on Thursday that Donald Trump supporters who"
-    publishedDateTime: 2021-02-25T22:45:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE15CYXR"
+  - title: "Trump State Department aide charged with assault at Capitol"
+    excerpt: "A former State Department aide in President Donald Trump’s administration has been charged with participating in the deadly Capitol siege and assaulting officers"
+    publishedDateTime: 2021-03-05T20:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
+    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
+    publishedDateTime: 2021-03-05T18:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-swalwell-idUSL2N2L314I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
+    quality: 124
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210225&i=OVE15CYXR&r=OVE15CYXR&t=2"
-        width: 960
-        height: 540
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
+        width: 947
+        height: 545
+        isCached: true
+  - title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
+    excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-03-05T15:04:00Z
+    webUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    ampWebUrl: "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
+    excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
+    publishedDateTime: 2021-03-05T18:14:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5831614965407/2021/1/c5fd2e5c49d18744c2e0217abed09170/v1.5/Rep-Eric-Swalwell-sues-Donald-Trump-3-others-for-inciting-Capitol-attack.jpg"
+        width: 800
+        height: 533
         isCached: true
   - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
     excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
@@ -61,22 +111,15 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "WATCH LIVE: FBI Director Christopher Wray says no evidence of ‘fake Trump supporters’ at Capitol riot"
-    excerpt: "The top law enforcement official, in an opening statement to the Senate Judiciary Committee, said he was “appalled” by the deadly Jan. 6 attack that killed five people."
-    publishedDateTime: 2021-03-02T17:06:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html?outputType=amp"
+  - title: "U.S. Representative Swalwell Sues Trump Over Jan. 6 Insurrection"
+    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
+    publishedDateTime: 2021-03-05T14:00:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-05/us-representative-swalwell-sues-trump-over-jan-6-insurrection"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 60
-    images:
-      - url: "https://www.nydailynews.com/resizer/OX_M-cGRSh6r1Cc24GbTvCtdB9A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PB3B3FBBN5AOVMBXSS7BYMDAPY.jpg"
-        width: 1200
-        height: 800
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "xnRMxzEys5E5uNDgHC/S7SSYwS80tqvJg3mPIoByXKj6dG66FijJoIyfpNsYNRYUUCST5aQ6EBugn0W5Fq3DciDLCq2/p0Q+IFxh356uZfbcVhBWao//5vXLyYcxt+lcRVD5eLQHPyTUeP2DT89YzVfOd5M7+TBdO8r4NFqAfhYONLGanQ7cw0Dsy09wqqsBkau+J9kwg9F1HXP9/8clV+ty3oCsPfWwMI5myobghtYEzR2wc1BQhWTxJb/karxDe/DcNkmLxqo3jvWgytekNkS8CHTT8YU9/1jf3NlIeZj4xI+ESaNZTkQvsS69dhHV4DyiJKM2K4DtxmGqqEn/hdxmQSUmvOwcM29ovK8Yd2Q=;cwKOyPzyVtriMsTpbRWpvg=="
 ---

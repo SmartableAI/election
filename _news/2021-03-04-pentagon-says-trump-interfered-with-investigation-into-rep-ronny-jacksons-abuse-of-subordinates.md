@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
-    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
-    publishedDateTime: 2021-03-05T18:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-swalwell-idUSL2N2L314I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
-        width: 947
-        height: 545
-        isCached: true
   - title: "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration"
     excerpt: "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4."
     publishedDateTime: 2021-03-05T12:35:00Z
@@ -63,58 +47,36 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Rep. Eric Swalwell sues Trump over Jan. 6 riot, alleging he poses risk of ‘inciting future political violence’"
-    excerpt: "California representative, a House impeachment manager and Democratic leader, files suit against Trump, Trump Jr., Giuliani and Rep. Mo Brooks."
-    publishedDateTime: 2021-03-05T18:45:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp"
+  - title: "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump"
+    excerpt: "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,"
+    publishedDateTime: 2021-03-04T21:28:00Z
+    webUrl: "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6E3Y7SRBYI6XPNEMFNK57IFKU.jpg&w=1440"
-        width: 1440
-        height: 1853
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "U.S. Representative Swalwell sues Trump over Jan. 6 insurrection - CNN"
-    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
-    publishedDateTime: 2021-03-05T18:20:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-swalwell-idUSW1N2IU00U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2IU00U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2IU00U"
+  - title: "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report"
+    excerpt: "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,"
+    publishedDateTime: 2021-03-04T10:33:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-  - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
-    excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
-    publishedDateTime: 2021-03-05T18:14:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 73
+      name: New York Magazine
+      domain: nymag.com
+    quality: 71
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5831614965407/2021/1/c5fd2e5c49d18744c2e0217abed09170/v1.5/Rep-Eric-Swalwell-sues-Donald-Trump-3-others-for-inciting-Capitol-attack.jpg"
-        width: 800
-        height: 533
+      - url: "https://pyxis.nymag.com/v1/imgs/4e6/999/6d51cf8fb5705f6e1da184c5903f44cc19-GettyImages-1128135352.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "U.S. Representative Swalwell Sues Trump Over Jan. 6 Insurrection"
-    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
-    publishedDateTime: 2021-03-05T14:00:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-05/us-representative-swalwell-sues-trump-over-jan-6-insurrection"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "Woqdirf52zyn16nmnzCcu//Zg5pwCrpCGwyGxksLppwFblFjn+tC+NftjGqrlAcUiFzkN8Qsmb8ia51DLvRa+o1Q1bXJ/23imADCKOBsSgw46oEEhQy/lI+5fjR/QhY9FgQF1oqJDXuQ0xa4CB0rofBfJ7S6TXlaQ+rHtpi+9Zz8I2kucYtfeLw+wmzXG9ievT1nT4gLt0iHK1Ije9kGwelramH0dT1c5vr2lv6Oqkqo4vjcP4Z26t38IdSQko2Gwo+2lZdLrFROPn1vWEcEoxyWICMmklzutb9Xr0SQLj2p9YTeJ8lVVxn8q+5qDeA00ud+N7SJrUnRBBwLOjvJsKO5zAaeYK0DFWv0yFeUJAc=;MpG8jfA+11zAkJylTTSw4g=="
 ---

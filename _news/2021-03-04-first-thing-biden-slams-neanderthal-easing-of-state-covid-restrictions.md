@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-sl
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
 type: article
 quality: 124
-heat: 204
+heat: 224
 published: true
 
 provider:
@@ -58,6 +58,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Hours-long reading of legislation delays debate on Biden's $1.9 trillion COVID-19 bill"
+    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill was read aloud."
+    publishedDateTime: 2021-03-05T12:32:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AW18U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
         width: 817

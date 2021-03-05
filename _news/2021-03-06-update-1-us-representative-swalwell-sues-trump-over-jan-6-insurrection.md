@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP"
 type: article
 quality: 124
-heat: 244
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,49 +31,54 @@ images:
     isCached: true
 
 related:
-  - title: "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration"
-    excerpt: "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4."
-    publishedDateTime: 2021-03-05T12:35:00Z
-    webUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028"
-    ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1750168/q.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Rep. Eric Swalwell sues Trump over Jan. 6 riot, alleging he poses risk of ‘inciting future political violence’"
-    excerpt: "California representative, a House impeachment manager and Democratic leader, files suit against Trump, Trump Jr., Giuliani and Rep. Mo Brooks."
-    publishedDateTime: 2021-03-05T18:45:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp"
+  - title: "Trump State Department aide charged with assault at Capitol"
+    excerpt: "A former State Department aide in President Donald Trump’s administration has been charged with participating in the deadly Capitol siege and assaulting officers"
+    publishedDateTime: 2021-03-05T20:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 105
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6E3Y7SRBYI6XPNEMFNK57IFKU.jpg&w=1440"
-        width: 1440
-        height: 1853
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "U.S. Representative Swalwell sues Trump over Jan. 6 insurrection - CNN"
-    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
-    publishedDateTime: 2021-03-05T18:20:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-swalwell-idUSW1N2IU00U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2IU00U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2IU00U"
+  - title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
+    excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-03-05T15:04:00Z
+    webUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    ampWebUrl: "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
+    excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
+    publishedDateTime: 2021-03-05T02:45:00Z
+    webUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/"
+    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
     excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
     publishedDateTime: 2021-03-05T18:14:00Z
@@ -90,21 +95,21 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Pentagon Says Trump Interfered With Investigation Into Rep. Ronny Jackson's Abuse Of Subordinates"
-    excerpt: "Jackson is accused of dozens of improprieties, including commenting on a female subordinate's body and drunkenly harassing her."
-    publishedDateTime: 2021-03-03T22:02:00Z
-    webUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764"
-    ampWebUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
+  - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
+    excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
+    publishedDateTime: 2021-03-03T14:55:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 65
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/03/29/ronny-jackson.jpg"
-        width: 594
-        height: 396
+      - url: "https://www.nydailynews.com/resizer/yuTJIk6BTNwaF9BNID10TYhi_7M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BLICB6OH4VGBVNGAJUGRJLOXSU.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "U.S. Representative Swalwell Sues Trump Over Jan. 6 Insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."

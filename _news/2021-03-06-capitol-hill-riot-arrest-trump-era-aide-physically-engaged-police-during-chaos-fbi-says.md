@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Swalwell files lawsuit against Trump over Capitol riots"
+    excerpt: "Rep. Eric Swalwell, one of the House impeachment managers, filed a lawsuit against former President Trump saying he must be held financially responsible for destruction on Jan. 6 when a pro-Trump mob stormed the Capitol."
+    publishedDateTime: 2021-03-05T20:37:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zloDBq5sHQk/swalwell-lawsuit-against-trump-republicans-capitol-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc4e6da5-3c10-4062-a7aa-5b61dd7b3a97/34ddb130-8200-47fc-b4bd-3d32c1cb6d83/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump says he was not watching live TV coverage of Capital Hill riot"
     excerpt: "Former President Donald Trump on Sunday night denied that he was watching live television coverage of the deadly Capitol Hill riot. Trump was responding to a Washington Post story that claimed he"
     publishedDateTime: 2021-03-01T05:28:00Z
@@ -63,22 +79,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-swal-rudy.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "MSNBC contributor: 'My gut's telling me' Trump White House behind lack of Capitol protection on Jan. 6"
-    excerpt: "MSNBC contributor Frank Figliuzzi speculated Wednesday that the Trump White House delayed sending military assets as the Capitol building was stormed by pro-Trump rioters during the certification of President Biden's election victory."
-    publishedDateTime: 2021-03-04T00:47:00Z
-    webUrl: "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots"
-    ampWebUrl: "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 119
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dceb1775-5059-410a-b2fa-59a4aa6a6de4/35762ff5-24b7-42c7-b4c0-e4c4511f85cd/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "xTqDUd2rD+5bNM2efCuZl/TvI03wqt68BWyFC2INQULZloZXaLJKyA0QCHgY9KjQfse09eJurJgm0LjfWbj8hSUEukwjV0XA7PE1UR7/6OihUjhYNs+tsx4KBXFO4rdnnMU76nHUnhPCoMAiTmajm2jE6dStP95aG9uS0AkKYBMe1/nOdvKww+iOQHSoCX1G0sKFLYmfuYcrg09fZ7bCS9E3GMvfMvzuCOL9FTrC4zgwMF2j7/JKfXUYTJGX1NgpARIxLfxWuXlfapyUXMZjMqXlcMwmjVDKYRyD83M8GVVEqM6FUevEpD9Toc3q+JbKCwl0ZRFFf7NAry7OcPgz3c7LmfOAOv6KKi78RtYwXyY=;13Le/2cmEAW30t6oK9B3Rg=="

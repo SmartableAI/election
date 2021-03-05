@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-spiraling-tsunami-borde
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-spiraling-tsunami-border-migrant-numbers.amp"
 type: article
 quality: 180
-heat: 300
+heat: 320
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f2b4c4-a545-4eac-a9b5-6ba620d77cd2/fef6984b-0908-4abe-82a0-1b7e2bfd5733/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump slams Biden for migrant ‘tsunami’ at Mexican border"
+    excerpt: "Trump fired off a 428-word emailed attack pinning responsibility on Biden for the border surge that’s already required the opening of two overflow facilities for unaccompanied minors."
+    publishedDateTime: 2021-03-05T19:16:00Z
+    webUrl: "https://nypost.com/2021/03/05/trump-slams-biden-for-migrant-tsunami-at-mexican-border/"
+    ampWebUrl: "https://nypost.com/2021/03/05/trump-slams-biden-for-migrant-tsunami-at-mexican-border/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/05/trump-slams-biden-for-migrant-tsunami-at-mexican-border/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kissinger says Trump, Nixon foreign policies similar, warns Biden on Iran"
     excerpt: "Dr. Henry Kissinger, the former secretary of state for both Presidents Richard Nixon and Gerald Ford, likened President Donald Trump's Middle East diplomatic achievements to Nixon's opening of China in 1972."

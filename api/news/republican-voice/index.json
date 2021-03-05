@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-05-swalwell-files-lawsuit-against-trump-over-capitol-riots.md",
+      "title": "Swalwell files lawsuit against Trump over Capitol riots",
+      "excerpt": "Rep. Eric Swalwell, one of the House impeachment managers, filed a lawsuit against former President Trump saying he must be held financially responsible for destruction on Jan. 6 when a pro-Trump mob stormed the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zloDBq5sHQk/swalwell-lawsuit-against-trump-republicans-capitol-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zloDBq5sHQk/swalwell-lawsuit-against-trump-republicans-capitol-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc4e6da5-3c10-4062-a7aa-5b61dd7b3a97/34ddb130-8200-47fc-b4bd-3d32c1cb6d83/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp",
+      "publishedDateTime": "2021-03-05T12:37:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-tom-cotton-slams-top-biden-pentagon-nominee-for-vicious-tweets-weak-israel-iran-policies.md",
+      "title": "Tom Cotton slams top Biden Pentagon nominee for 'vicious' tweets, 'weak' Israel, Iran policies",
+      "excerpt": "Sen. Tom Cotton R-Ark. said Friday that President Joe Biden’s nominee for the No. 3 civilian position at the Pentagon doesn’t have the \"temperament\" for the job, citing \"vicious\" verbal attacks against people criticizing his position on the Iran nuclear deal and past tweets about Republicans.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/consSGRk2ww/biden-pentagon-nominee-colin-kahl-cotton",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/consSGRk2ww/biden-pentagon-nominee-colin-kahl-cotton",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2229b2f1-24c2-4122-ae85-34c31c7b489b/c3a87125-f980-46d4-8319-88e455416533/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp",
+      "publishedDateTime": "2021-03-05T11:50:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-psaki-says-biden-isnt-snubbing-congress-by-postponing-joint-address.md",
+      "title": "Psaki says Biden isn't 'snubbing' Congress by postponing joint address",
+      "excerpt": "White House press secretary Jen Psaki on Friday said President Biden is not \"snubbing\" Congress by delaying his joint address, pointing to the coronavirus pandemic and saying the administration has been \"engaged closely\" with congressional leadership regarding their plans.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UIlkIJqHs5c/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UIlkIJqHs5c/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 415,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp",
+      "publishedDateTime": "2021-03-05T11:44:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-trump-tears-into-biden-for-spiraling-tsunami-at-the-border-amid-spike-in-migrant-numbers.md",
       "title": "Trump tears into Biden for 'spiraling tsunami' at the border, amid spike in migrant numbers",
       "excerpt": "Former President Donald Trump on Friday tore into President Biden for what he described as a \"spiralling tsunami\" at the border, just as the administration stares down a spike in migrant families and unaccompanied children.",
@@ -14,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 300,
+      "heat": 320,
       "tags": null,
       "images": [
         {
@@ -452,62 +620,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-04-biden-pentagon-pick-faces-questions-over-ties-to-group-that-helped-create-iran-deal-echo-chamber.md",
-      "title": "Biden Pentagon pick faces questions over ties to group that helped create Iran deal 'echo chamber'",
-      "excerpt": "One of President Biden's top Pentagon picks is facing concern from Republicans about his views on Iran and his ties to a group that helped create an \"echo chamber\" to sell the Iran nuclear deal to the public.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2guRl2zshQc/biden-pentagon-ploughshares-fund-iran-colin-kahl",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2guRl2zshQc/biden-pentagon-ploughshares-fund-iran-colin-kahl",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Colin-Kahl-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp",
-      "publishedDateTime": "2021-03-04T13:53:50-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-04-cuomo-wont-be-getting-emmy-for-apology-performance-gop-assemblyman-tells-harris-faulkner.md",
       "title": "Cuomo won't be getting Emmy for apology 'performance,' GOP assemblyman tells Harris Faulkner",
       "excerpt": "New York lawmakers \"must act\" to impeach Gov. Andrew Cuomo, a New York State Assemblyman Doug Smith said on Thursday.",
@@ -650,62 +762,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/alcee-hastings-impeached-from-bench-biden-judicial-appointments.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alcee-hastings-impeached-from-bench-biden-judicial-appointments.amp",
       "publishedDateTime": "2021-03-04T11:16:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-cotton-grills-biden-pentagon-nominee-on-volatile-outbursts-almost-always-wrong-foreign-policy-judgments.md",
-      "title": "Cotton grills Biden Pentagon nominee on 'volatile outbursts,' 'almost always wrong' foreign policy judgments",
-      "excerpt": "Sen. Tom Cotton, R-Ark., accused one of President Biden's top Pentagon picks of having a \"long record of volatile outbursts.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BGwXIMUElSA/cotton-grills-biden-pentagon-nominee-colin-kahl-twitter-foreign-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BGwXIMUElSA/cotton-grills-biden-pentagon-nominee-colin-kahl-twitter-foreign-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Colin-Kahl-GETTY.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cotton-grills-biden-pentagon-nominee-colin-kahl-twitter-foreign-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-grills-biden-pentagon-nominee-colin-kahl-twitter-foreign-policy.amp",
-      "publishedDateTime": "2021-03-04T10:05:55-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1447,23 +1503,23 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-mcconnell-blames-bidens-sweeping-left-wing-amnesty-plan-for-fueling-border-surge.md",
-      "title": "McConnell blames Biden’s ‘sweeping left-wing amnesty plan' for fueling border surge",
-      "excerpt": "Senate GOP Leader Mitch McConnell on Wednesday blamed President Biden’s “sweeping left-wing amnesty plan” for fueling the escalating migrant crisis on the southern border -- and said it sidelined the interests of American workers.",
+      "path": "_news/2021-03-04-msnbc-contributor-my-guts-telling-me-trump-white-house-behind-lack-of-capitol-protection-on-jan-6.md",
+      "title": "MSNBC contributor: 'My gut's telling me' Trump White House behind lack of Capitol protection on Jan. 6",
+      "excerpt": "MSNBC contributor Frank Figliuzzi speculated Wednesday that the Trump White House delayed sending military assets as the Capitol building was stormed by pro-Trump rioters during the certification of President Biden's election victory.",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CEGeOSBi0ok/mcconnell-bidens-amnesty-plan-border-surge",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CEGeOSBi0ok/mcconnell-bidens-amnesty-plan-border-surge",
+      "webUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 189,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66bd0867-734c-4d23-ab91-7e89c506b1f4/bc3cc15b-261f-4b24-a65d-992f22b4a0b0/1280x720/match/image.jpg",
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dceb1775-5059-410a-b2fa-59a4aa6a6de4/35762ff5-24b7-42c7-b4c0-e4c4511f85cd/1280x720/match/image.jpg",
           "width": 1280,
           "height": 720,
           "title": null,
@@ -1473,9 +1529,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-bidens-amnesty-plan-border-surge.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-bidens-amnesty-plan-border-surge.amp",
-      "publishedDateTime": "2021-03-03T13:08:15-08:00",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp",
+      "publishedDateTime": "2021-03-03T16:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1499,6 +1555,7 @@
       ],
       "topics": [
         "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -1613,62 +1670,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-rep-crenshaw-slams-bidens-border-policy-prioritizing-illegal-immigrants-over-us-citizens.md",
-      "title": "Rep. Crenshaw slams Biden's border policy: 'Prioritizing illegal immigrants over US citizens’",
-      "excerpt": "Rep. Dan Crenshaw, R-Texas, says he believes the Biden administration’s immigration policies are \"prioritizing illegal immigrants over U.S. citizens.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1IwasZaMGy4/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1IwasZaMGy4/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/20c1dab4-23d3-4f92-9b10-5cc6de6b6d12/3cafb7e6-7288-4d4c-a054-39509edb909a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp",
-      "publishedDateTime": "2021-03-03T07:26:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

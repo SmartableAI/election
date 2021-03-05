@@ -2,9 +2,9 @@
 category: news
 title: "Hours-long reading of legislation delays debate on Biden's $1.9 trillion COVID-19 bill"
 excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill was read aloud."
-publishedDateTime: 2021-03-04T23:32:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/senate-delays-debate-on-bidens-1-9-trillion-covid-19-bill-while-it-is-read-aloud-idUSKBN2AW18U"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/senate-delays-debate-on-bidens-1-9-trillion-covid-19-bill-while-it-is-read-aloud-idUSKBN2AW18U"
+publishedDateTime: 2021-03-05T12:32:00Z
+originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AW18U"
+webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AW18U"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
 type: article
@@ -31,244 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Biden, facing resistance in Congress, courts GOP governors"
-    excerpt: "Biden is spending at least as much time courting Republican governors as he is wooing the senators he needs to pass legislation in Washington."
-    publishedDateTime: 2021-02-25T13:14:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
+  - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
+    excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
+    publishedDateTime: 2021-03-04T12:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: The Guardian
+      domain: theguardian.com
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R3R4GDTW3II6XFJXJFQVRTC73E.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://i.guim.co.uk/img/media/7871561baf29d41f794c57e18dbc46cc9e3cb8c9/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4fe8abbe3d64db734907fbdda6dc55a9"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Biden says he will push for funding for semiconductor legislation"
-    excerpt: "U.S. President Joe Biden said on Wednesday he will push for funding for semiconductor legislation following a meeting with bipartisan group of lawmakers about supply chain issues."
-    publishedDateTime: 2021-02-24T21:09:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-semiconductors-idUSW1N2KA060"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KA060"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KA060"
+  - title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
+    excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
+    publishedDateTime: 2021-03-04T04:53:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV15L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV15L"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 121
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552798506&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N1LM"
-        width: 816
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553587655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH220LL"
+        width: 822
         height: 545
         isCached: true
-  - title: "Biden choice for budget chief faces new hurdles in Congress"
-    excerpt: "The increasingly slim odds — and surprisingly thin outreach from the White House — for Neera Tanden’s nomination as head of the Office of Management and Budget are raising growing questions about how"
-    publishedDateTime: 2021-02-26T04:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1cb6fdeffac84dd6b4179796077178c8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden health pick taking heat for support of abortion rights"
-    excerpt: "President Joe Biden’s pick for health secretary is taking heat for his defense of abortion rights from a tag team of Republicans looking to define him — and the new administration — as out of the main"
-    publishedDateTime: 2021-03-03T05:13:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-health-pick-taking-heat-for-support-of-abortion-rights/2021/03/03/2653fc00-7bdf-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Senators grill Biden nominee as proxy for wider Iran deal debate"
-    excerpt: "The deputy secretary of state nominee, Wendy Sherman, faces a difficult confirmation process over concerns about reentering the nuclear deal."
-    publishedDateTime: 2021-03-03T20:35:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/wendy-sherman-biden-state-department/2021/03/03/26f6ad80-7c50-11eb-b0fc-83144c02d676_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/wendy-sherman-biden-state-department/2021/03/03/26f6ad80-7c50-11eb-b0fc-83144c02d676_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/wendy-sherman-biden-state-department/2021/03/03/26f6ad80-7c50-11eb-b0fc-83144c02d676_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7E7FIFD4LII6XBONTN72SDEIOM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Biden seeks dismissal of 'sanctuary' funding dispute at Supreme Court"
-    excerpt: "President Joe Biden's administration on Thursday asked the U.S. Supreme Court to dismiss three pending appeals on former President Donald Trump's effort to withhold millions of dollars in law enforcement funds from states and cities that refused to cooperate with"
-    publishedDateTime: 2021-03-05T03:47:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-court-immigration-idUSKCN2AW2WN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AW2WN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AW2WN"
+  - title: "Senate delays debate on Biden's $1.9 trillion COVID-19 bill while it is read aloud"
+    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill is read aloud."
+    publishedDateTime: 2021-03-04T21:00:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-6-senate-delays-debate-on-bidens-19-trillion-covid-19-bill-while-it-is-read-aloud-idUSL2N2L21QX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 125
+    quality: 119
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553795696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH231L3"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
         width: 817
         height: 545
         isCached: true
-  - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
-    excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
-    publishedDateTime: 2021-03-02T20:13:00Z
-    webUrl: "https://www.cbsnews.com/news/stimulus-check-recurring-covid-19-senate-biden/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/stimulus-check-recurring-covid-19-senate-biden/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stimulus-check-recurring-covid-19-senate-biden/"
+  - title: "'Neanderthal thinking' for states to lift mask mandate -Biden"
+    excerpt: "News Agency 'Neanderthal thinking' for states to lift mask mandate -Biden. Posted . U.S. President Joe Biden on Wednesday said decisions to end the required wearing of masks - suc"
+    publishedDateTime: 2021-03-04T10:05:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE2JAZFJ"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 121
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/18/6137ee8a-ede1-4d3c-acc3-ab8f06fb7a23/thumbnail/1200x630/0b4ab92020d5cf2ba13edd554d5b0df1/ap-20231101371898.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
-    excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
-    publishedDateTime: 2021-02-24T02:38:00Z
-    webUrl: "https://www.cbsnews.com/video/pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 117
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/96903ded-b1a9-4d84-a15f-ea2e517a2a36/thumbnail/1200x630/c99acd2afef2a814aa9ae8a306570843/cbsn-fusion-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count-thumbnail-621736-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Two senators join Manchin in opposing Biden budget pick Neera Tanden, putting nomination in peril"
-    excerpt: "Neera Tanden has come under fire during the confirmation process for her past tweets and statements criticizing lawmakers on both sides of the aisle."
-    publishedDateTime: 2021-02-22T16:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/22/mitt-romney-susan-collins-oppose-biden-budget-nominee-neera-tanden/4539982001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4539982001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4539982001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/e38a4941-b873-41d2-9d50-a260b8e1231e-Double_masking_09.JPG?auto=webp&crop=5746,3232,x1,y237&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Biden administration faces challenges at U.S.-Mexico border"
-    excerpt: "As the number of migrants and asylum seekers at the U.S.-Mexico border increases, the Biden administration must find ways to safely house them amid the coronavirus pandemic. Washington Post immigration reporter Nick Miroff joined CBSN to discuss the situation."
-    publishedDateTime: 2021-03-02T18:02:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-administration-faces-challenges-at-u-s-mexico-border/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/02/b0504ed4-43cc-4b7e-bde3-afc518b468fe/thumbnail/1200x630/85dc02ce52753c528a2105f98e175758/0302-cbsn-afx-bidensouthernborder-657142-640x360.jpg"
+      - url: "https://static.reuters.com/resources/r/?d=20210303&i=OVE2JAZFJ&r=OVE2JAZFJ&t=2"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Joe Biden 'neanderthal' comment a reflection of frustration, says White House – video"
+    excerpt: "White House press secretary Jen Psaki defended Joe Biden’s comments comparing Republican governors to Nearnderthals for lifting mask mandates in Mississippi and Texas"
+    publishedDateTime: 2021-03-04T20:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/04/joe-biden-neanderthal-comment-a-reflection-of-frustration-says-white-house-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/fecd8fbdb567d855960ec043c8f0c666c19c628a/325_0_3843_2305/master/3843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad7b0648ea431f588c666aba13d80d94"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Which senators have been voting against Biden Cabinet nominees?"
-    excerpt: "The most frequent votes against Biden’s nominees thus far — no surprise — have in most cases come from ambitious Republicans thought to be potential 2024 presidential candidates."
-    publishedDateTime: 2021-03-03T17:33:00Z
-    webUrl: "https://www.washingtonpost.com/graphics/2021/politics/cabinet-no-votes/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TUF7X4KT2ZATLAAB23DZNQARWM.png&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden meets with bipartisan House members on infrastructure"
-    excerpt: "CBS News transportation correspondent Errol Barnett joined Elaine Quijano on \"Red and Blue\" to discuss what came out of President Biden's meeting on infrastructure with Vice President Harris, Transportation Secretary Pete Buttigieg and a bipartisan group of House members."
-    publishedDateTime: 2021-03-05T05:40:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-bipartisan-house-members-infrastructure-plan/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/05/ae58d479-eead-4cb3-8ba6-b1491fd29a69/thumbnail/1200x630/3e16cfe97f5efe56e1b7955b78bfe7cf/cbsn-fusion-the-biden-administration-remaining-hopeful-that-both-parties-can-work-together-to-fix-and-improve-aging-u-s-infrastructure-thumbnail-661042-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden to meet with U.S. lawmakers on infrastructure push"
-    excerpt: "President Joe Biden will meet Thursday with a bipartisan group of lawmakers on the White House's planned push for a massive jump in spending on projects to restore crumbling infrastructure."
-    publishedDateTime: 2021-03-05T02:12:00Z
-    webUrl: "https://www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden nominates three to USPS board of governors as DeJoy testifies on mail crises"
-    excerpt: "The White House moves to reassert control of the U.S. Postal Service as the postmaster general brushes off lawmakers’ calls to resign."
-    publishedDateTime: 2021-02-24T23:26:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/02/24/dejoy-hearing-usps-live-updates/"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 99
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BUWJEQDW2YI6XFEJR562ZVI6OU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Joe Biden's support for unions sends a strong message to Amazon and employers across the country"
-    excerpt: "Biden clarified his administration's stance on existing labor laws, which experts say have been enforced lightly by previous administrations."
-    publishedDateTime: 2021-03-02T18:16:00Z
-    webUrl: "https://www.businessinsider.com/joe-biden-supports-unions-sends-message-to-us-employers-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 92
-    images:
-      - url: "https://i.insider.com/603e60e487d37600190d0a0a?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Biden and the Democrats have a rare opening to try passing long-sought gun reform laws. Here's a look at the bills they're proposing."
-    excerpt: "Democrats think they have a stronger chance of passing gun legislation this year while they control Congress and the White House."
-    publishedDateTime: 2021-03-01T01:01:00Z
-    webUrl: "https://www.businessinsider.com/gun-control-democrats-background-checks-biden-pelosi-mcbath-murphy-2021-2"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://i.insider.com/6039431105ddb100195f6788?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
 
-secured: "tDtaUBd8WcOnKIEE9dHlQ3q3GFg+pIEvrjpgLQLJuoysfwsZT30i/JZm+dAIGfJn6Hhn2Jg7edJUHFSgDZjrs0CUkJO2K6LrONpbgdxoeHZonhxs7ZPoNtqLcEugYQIArGZ/jFudrpDkujWDPYO/59J/rdqGy6UL6J6g5BZ2Hf+xw50rbILLYoBP13DmElOpvBAoWmvSUO/Pel8ZSiCJTiuNH6QM1W1gY6jjac9CgKDms6Kv1OZvohl3rwrOHSFh9ZonRsZbMMWPSlPoK0F3LHDoE8jHJU3g+XHYkv9+HERmISTYoaMYIb+pV3L41/NLvaQD7Hnmh91ZVNak0OsJzELf8AQhWHHjKqmSpF1Z20csvX2ztFc1Vc7EA0S4ASxjQIgXFwA8DJKsNc/xR/wySDk13a2r1lL9EuEaCs5IA3dOXK5kXbFYnEd1HrP9FbolHU1J75KHWcSrxbz4iM3nMcNmaGXfpyQS1SiU+1OH4Imb6NQRUsQPVbd3QzGdlqsYWkIbTBYashZthYKcNbRRiw==;SPmgcAAvrOyvHNW96cNCCw=="
+secured: "MyFsJueOMwxDuayWKQFKIfArgyDCf/U7Idb62Vl38w2ekS8ThU1EPTMVrJ1Db3UXMpIShnkP1bY9B7jsWZvjaPO2dLenFIQKFZ+ikVygy23ffle4E2c1zfN8ORr6y4lAiSkHxL9jeTo8EhyClaJx2c2NfX4JSjPiUkpVtf/697ydRu5oJdwCVbWOP7OH/dF6yCXimIWYgKksjTeu/yf9W25MhP1Q8AiGRzwt875ic4xzC5k9LZM+Xf740iWElHZC/glvscYM70UZ/VJqOwml3QUliuC+4D+46vOMEKlPwf8yTF48A2LJDajyAC/39J+vnPfWNOw3fBt8ruWyKFfy2lnhpgw4fA4DILHbMuL6fhE=;MPml3wsRSTMlAm/qjUNAcg=="
 ---
 

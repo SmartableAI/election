@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/house-members-sue-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp"
 type: article
 quality: 105
-heat: -1
-published: false
+heat: 125
+published: true
 
 provider:
   name: Washington Post
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
-    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
-    publishedDateTime: 2021-03-05T18:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-swalwell-idUSL2N2L314I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
-        width: 947
-        height: 545
-        isCached: true
-  - title: "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration"
-    excerpt: "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4."
-    publishedDateTime: 2021-03-05T12:35:00Z
-    webUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028"
-    ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1750168/q.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "U.S. Representative Swalwell sues Trump over Jan. 6 insurrection - CNN"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
     publishedDateTime: 2021-03-05T18:20:00Z
@@ -74,47 +42,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
-    excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
-    publishedDateTime: 2021-03-05T18:14:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 73
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5831614965407/2021/1/c5fd2e5c49d18744c2e0217abed09170/v1.5/Rep-Eric-Swalwell-sues-Donald-Trump-3-others-for-inciting-Capitol-attack.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Pentagon Says Trump Interfered With Investigation Into Rep. Ronny Jackson's Abuse Of Subordinates"
-    excerpt: "Jackson is accused of dozens of improprieties, including commenting on a female subordinate's body and drunkenly harassing her."
-    publishedDateTime: 2021-03-03T22:02:00Z
-    webUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764"
-    ampWebUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/03/29/ronny-jackson.jpg"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "U.S. Representative Swalwell Sues Trump Over Jan. 6 Insurrection"
-    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
-    publishedDateTime: 2021-03-05T14:00:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-05/us-representative-swalwell-sues-trump-over-jan-6-insurrection"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "CBzbuSX4RVLjsl4ObjrcD5z8uorWQ1t+PTNn+mxmFWMLWG2xqp/614pex4yZD//CZ8Ux1ay5SOAliNIQfkdxhP3g4u1MM/fnFRrzGoRPDgvx5rUJ43klLXyvdmtXrsQWL+iy+2VF2mClrCG+jpPT/zTkaNISu+2IVxGy/9ynwrnOPkkf1EkWJ0fCXuzmJpFUb2OAJkBS2zlLq02pO7fystPMf+A7ccLO+n7Lc+W8Q7HV0Z1mFZ28XjNFUfjWSFvJfq1r6UwoTR64l7lkEtP/JtwfLM3mMoms79nLf2Nbr8UAjU7MbuIhpftYvVCpefklZMgULyI866pZ2inAGsferJM0Y6ED+5YEffUj7lVzVrw=;DdV58g46VM/pfl78D+xnxg=="
 ---

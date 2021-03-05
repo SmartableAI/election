@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 445
+heat: 425
 published: true
 
 provider:
@@ -140,22 +140,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/07/96903ded-b1a9-4d84-a15f-ea2e517a2a36/thumbnail/1200x630/c99acd2afef2a814aa9ae8a306570843/cbsn-fusion-pence-announces-biden-as-winner-after-congress-finishes-electoral-vote-count-thumbnail-621736-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Hours-long reading of legislation delays debate on Biden's $1.9 trillion COVID-19 bill"
-    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill was read aloud."
-    publishedDateTime: 2021-03-04T23:32:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/senate-delays-debate-on-bidens-1-9-trillion-covid-19-bill-while-it-is-read-aloud-idUSKBN2AW18U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
-        width: 817
-        height: 545
         isCached: true
   - title: "Two senators join Manchin in opposing Biden budget pick Neera Tanden, putting nomination in peril"
     excerpt: "Neera Tanden has come under fire during the confirmation process for her past tweets and statements criticizing lawmakers on both sides of the aisle."

@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump slams Biden for migrant ‘tsunami’ at Mexican border"
+    excerpt: "Trump fired off a 428-word emailed attack pinning responsibility on Biden for the border surge that’s already required the opening of two overflow facilities for unaccompanied minors."
+    publishedDateTime: 2021-03-05T19:16:00Z
+    webUrl: "https://nypost.com/2021/03/05/trump-slams-biden-for-migrant-tsunami-at-mexican-border/"
+    ampWebUrl: "https://nypost.com/2021/03/05/trump-slams-biden-for-migrant-tsunami-at-mexican-border/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/05/trump-slams-biden-for-migrant-tsunami-at-mexican-border/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden's release of report on Khashoggi killing shows difference from Trump's approach, experts say"
     excerpt: "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge,"
     publishedDateTime: 2021-03-02T13:30:00Z
