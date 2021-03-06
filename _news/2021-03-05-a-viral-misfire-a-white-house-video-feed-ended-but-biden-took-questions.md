@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "White House: Biden believes U.S. authorizations for military force need updating"
+    excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
+    publishedDateTime: 2021-03-06T01:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241F1"
+        width: 735
+        height: 545
+        isCached: true
   - title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
     excerpt: "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,"
     publishedDateTime: 2021-03-03T08:23:00Z

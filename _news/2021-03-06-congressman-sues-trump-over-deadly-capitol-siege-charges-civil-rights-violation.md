@@ -1,22 +1,22 @@
 ---
 category: news
-title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
-excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
-publishedDateTime: 2021-03-05T15:04:00Z
-originalUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-webUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-ampWebUrl: "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+title: "Congressman sues Trump over deadly Capitol siege, charges civil rights violation"
+excerpt: "A Democratic congressman has sued Donald Trump, his lawyer Rudy Giuliani and other allies of the former president over the deadly attack on the U.S. Capitol when violent Trump supporters tried to stop the certification of Trump's election defeat."
+publishedDateTime: 2021-03-05T23:52:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-swalwell-idUSKBN2AX1JP"
+webUrl: "https://www.reuters.com/article/us-usa-trump-swalwell-idUSKBN2AX1JP"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP"
 type: article
-quality: 123
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
+    width: 947
+    height: 545
     isCached: true
 
 related:
@@ -63,6 +63,22 @@ related:
         width: 947
         height: 545
         isCached: true
+  - title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
+    excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-03-05T15:04:00Z
+    webUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    ampWebUrl: "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
     excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
     publishedDateTime: 2021-03-05T02:45:00Z
@@ -78,22 +94,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Congressman sues Trump over deadly Capitol siege, charges civil rights violation"
-    excerpt: "A Democratic congressman has sued Donald Trump, his lawyer Rudy Giuliani and other allies of the former president over the deadly attack on the U.S. Capitol when violent Trump supporters tried to stop the certification of Trump's election defeat."
-    publishedDateTime: 2021-03-05T23:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-swalwell-idUSKBN2AX1JP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
-        width: 947
-        height: 545
         isCached: true
   - title: "Ex-Trump appointee arrested in Capitol riot complains he won't be able to sleep in jail"
     excerpt: "Federico Guillermo Klein, a former State Department staff assistant who was arrested Thursday for his role in the Jan. 6 Capitol insurrection, has reportedly complained that he won't be able to sleep in prison."
@@ -153,6 +153,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "tqjCzTcGD5MvyGMOpwT6DKPwfnyvdwq9/wYbDahIuYMBnSRdsxhdJl1uEw6zX4/mcyyd/oYgjVzoze5O/qGpiyUBPbFfLD74UjNlielnbOnZ18sqT+6pk1c3dM4uW3iWtDbC9cm/IDqPnLXq2XYWIGlsYwTHTI9F2GrKGZPyDsV911oStho9n8XiG19zSzL5Wmdvw8N+5d7LUYsjd20ZPOiwOoUKkFaDgdSpLI/GSI2Tfr+llwiEsBIyTOxq+Xe4vCrRkNaeJSpUhRO6Ub6bpuCVei8UDWlwbagStz+yWz74JaFeqiXJJnKtIgrNj0EgVSpG5lmoHujOCm+aVEXoRqW3jMpj6uTIVHptHZq4IMmuSAiffSY5lLYTljyji68V8dGRCxIxmJI7jv5nmVWucSMNLM84MRrA5F9ZFq9WwLypk/gTzVKpovHB8HwQaYrb91HAqbqa0B0OT2pqUQiXlXDVtPZKBEMjeDyluJlpfe/p++dFxq4LYNJNvvXYOIkABqskOBdEf/zx60bOINkNow==;Igp83vMHpDcHpNGffLifRg=="
+secured: "EmIlCcMP+zpfnPSiYSmg+RzObB7lNs4ptBoWBwkC4tH9S7YAMRibDIDAwU3LfrOUncizHa3VR1HithmRcPNuZOCEkWlMIl+haeqzqBpfPOY57EVJGEaKmpSyUAJYtOifcPd41fmK1trW0ece2zj3+3nMEEtTbcdqp8FJQCzSD7sYEGAN7qlBlhSDDdeEmrGBAy+uHT95px+FcjPqVy+fljrqdqB/6OeJ5I8Jy+NXmLi2j7LJ1Z7c++PRNW5TYZwy3PkeA/qC99y0APTvi2Y4F5hkNNxS7B8c0n2oBbr8CbGgZsHadBQm1SDtJ1HdjE2XCdpcg/+WvbU5CvLJzO/LEi6HpT+5qLDWVKscYL1RpK0=;fAhEtf+nbXfuLmS7Nu837A=="
 ---
 

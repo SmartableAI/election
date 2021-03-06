@@ -2,9 +2,9 @@
 category: news
 title: "Trump State Department Official Charged in Connection With Capitol Riot"
 excerpt: "Federico Klein, a former midlevel administration official who also worked on the 2016 Trump campaign, was arrested on charges of assaulting police during the Jan. 6 attack."
-publishedDateTime: 2021-03-05T22:43:00Z
-originalUrl: "https://www.wsj.com/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215?mod=hp_lead_pos3"
-webUrl: "https://www.wsj.com/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215?mod=hp_lead_pos3"
+publishedDateTime: 2021-03-06T01:34:00Z
+originalUrl: "https://www.wsj.com/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215?mod=business_minor_pos4"
+webUrl: "https://www.wsj.com/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215?mod=business_minor_pos4"
 ampWebUrl: "https://www.wsj.com/amp/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
 type: article
@@ -97,6 +97,6 @@ related:
         height: 320
         isCached: true
 
-secured: "sIP8Md2PeNrAAC6ARbpW94Q7AbDq8+x9rCzlxvGcx/9n9ta85w5W8XHI7XB+BJ0zMILl05D1/bnQJXnNxv7TNCFL3vp7LxP5qH5OnV91VO7IrmwHVaPIyYVLShdQZNufrKKiGCsKg0CvXB4Ka6lwesud219+BFZLHhm5cBnMwNR0EY1/bJXCSqwxOzGKFL/2HjAQ8Kx6uE98vOj4WWK/0vIfLn0AVhzQZiJNb4UVxcXAJeAaRa1c86zRWkkXBvQjd8GuPRUyHmeMXWCjQY6IX/DgW5tiewo3JMAJKZksmJ0Ce6q11gmfrQ5e6l8L6Lgj+qeexEA+/bhJmQum8neXjUFeyqDxAlna1DRTKaUaAT4=;FHFomvceo4SBJJBrxM/1og=="
+secured: "WAsy3e02dfoMH/Z1/ugsxRoAPmK/5VyCWvafWoRC2aOlz0N6ELw7u5yB/F+C5DSSGmwIsPXNPvjMhAuN50ZL6HwWZDOStPF6lFAwS4HMmAXwi7Woam43FRP3S/DkueAjDctPJ2WqL6VCiNTCa87EsWcXhGSAHMtEww5bEJ/Dfjj5EnfhdjNXE5EBHQDzkx+Xxy/mRs87YRstNH31ee4JhT/rlieCi79UWixIkPajJH4jmdLYXTmnFAfn1ZD7pKXufpilMKhKzgRJOZi2bfAJPnWVzb/blnLbkNbcjHABr+NPMYXAOGpuiR7UWpjAZBakEv1ObJbCahBfLtP/LytXuBP9WUp9Mqnb93fXliDB7UM=;04qoJQ6efKIkOuGxqNa+mg=="
 ---
 

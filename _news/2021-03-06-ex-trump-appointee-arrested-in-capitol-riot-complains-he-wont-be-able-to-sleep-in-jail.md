@@ -1,22 +1,22 @@
 ---
 category: news
-title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
-excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
-publishedDateTime: 2021-03-05T15:04:00Z
-originalUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-webUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-ampWebUrl: "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+title: "Ex-Trump appointee arrested in Capitol riot complains he won't be able to sleep in jail"
+excerpt: "Federico Guillermo Klein, a former State Department staff assistant who was arrested Thursday for his role in the Jan. 6 Capitol insurrection, has reportedly complained that he won't be able to sleep in prison."
+publishedDateTime: 2021-03-06T02:45:00Z
+originalUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep"
+webUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep"
+ampWebUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
 type: article
-quality: 123
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Hill
+  domain: thehill.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
+    width: 979
+    height: 551
     isCached: true
 
 related:
@@ -63,6 +63,22 @@ related:
         width: 947
         height: 545
         isCached: true
+  - title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
+    excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-03-05T15:04:00Z
+    webUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    ampWebUrl: "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
     excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
     publishedDateTime: 2021-03-05T02:45:00Z
@@ -94,22 +110,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
         width: 947
         height: 545
-        isCached: true
-  - title: "Ex-Trump appointee arrested in Capitol riot complains he won't be able to sleep in jail"
-    excerpt: "Federico Guillermo Klein, a former State Department staff assistant who was arrested Thursday for his role in the Jan. 6 Capitol insurrection, has reportedly complained that he won't be able to sleep in prison."
-    publishedDateTime: 2021-03-06T02:45:00Z
-    webUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep"
-    ampWebUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 117
-    images:
-      - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
-        width: 979
-        height: 551
         isCached: true
   - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
     excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
@@ -153,6 +153,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "tqjCzTcGD5MvyGMOpwT6DKPwfnyvdwq9/wYbDahIuYMBnSRdsxhdJl1uEw6zX4/mcyyd/oYgjVzoze5O/qGpiyUBPbFfLD74UjNlielnbOnZ18sqT+6pk1c3dM4uW3iWtDbC9cm/IDqPnLXq2XYWIGlsYwTHTI9F2GrKGZPyDsV911oStho9n8XiG19zSzL5Wmdvw8N+5d7LUYsjd20ZPOiwOoUKkFaDgdSpLI/GSI2Tfr+llwiEsBIyTOxq+Xe4vCrRkNaeJSpUhRO6Ub6bpuCVei8UDWlwbagStz+yWz74JaFeqiXJJnKtIgrNj0EgVSpG5lmoHujOCm+aVEXoRqW3jMpj6uTIVHptHZq4IMmuSAiffSY5lLYTljyji68V8dGRCxIxmJI7jv5nmVWucSMNLM84MRrA5F9ZFq9WwLypk/gTzVKpovHB8HwQaYrb91HAqbqa0B0OT2pqUQiXlXDVtPZKBEMjeDyluJlpfe/p++dFxq4LYNJNvvXYOIkABqskOBdEf/zx60bOINkNow==;Igp83vMHpDcHpNGffLifRg=="
+secured: "KfoqgTlA5PiOuHjh3RH+KkKFCscK+BhWTR4xxQgWVIx+cfB1gnxfoc2iGdkjrtqfqLHbLpXQRj9gI168Ho+znq8uA75W1hRzdShxDadVaDEy6uHi3/JBdXLt2HZEl+M8IdYynDD+nAdnYxKvZR+PtDDf3DzTQaBHyEu1Wm7qWI6/pCzmPIBlL8vfhDTM4PRWbVBJV3NYJ7SwjKvA5ymMZsnpv14rdTB7MCKajbu8ztyIdnVROUXRKG8bWHd54/4VlvY/QMo4SCIWkezbDX8XyTTewibBYcrOn3lesSFsQ24z7qhSDg/M/33scB5b0++9ImBRtfkyffTrDhBeureJUEl62TfnIShzb8vYrD/GUIM=;/LgbPB4l8GXhX3weuQzcFw=="
 ---
 

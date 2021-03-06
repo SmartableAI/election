@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
-excerpt: "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,"
-publishedDateTime: 2021-03-03T08:23:00Z
-originalUrl: "https://www.bbc.com/news/world-us-canada-56262687"
-webUrl: "https://www.bbc.com/news/world-us-canada-56262687"
-ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56262687"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56262687"
+title: "White House: Biden believes U.S. authorizations for military force need updating"
+excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
+publishedDateTime: 2021-03-06T01:39:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=ca"
+webUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=ca"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2ET"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2ET"
 type: article
-quality: 118
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15DCA/production/_117364598_mediaitem117364597.jpg"
-    width: 1024
-    height: 576
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241F1"
+    width: 735
+    height: 545
     isCached: true
 
 related:
@@ -63,23 +63,23 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "White House: Biden believes U.S. authorizations for military force need updating"
-    excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
-    publishedDateTime: 2021-03-06T01:39:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=ca"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2ET"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2ET"
+  - title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
+    excerpt: "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,"
+    publishedDateTime: 2021-03-03T08:23:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56262687"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56262687"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56262687"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
+      name: BBC
+      domain: bbc.com
+    quality: 118
     images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241F1"
-        width: 735
-        height: 545
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15DCA/production/_117364598_mediaitem117364597.jpg"
+        width: 1024
+        height: 576
         isCached: true
 
-secured: "lwlccUa7hoaFfx8OboKEOrvSsZ3w2xOyfsNfhHpq1L5tP4YgEdoLSM9zc1vJ0CgmkSeIvC0Juloa+bQJZEZDW/bz01ddQLVCCt1OEvAr/92S6GBSVfY1UvgMn27jxukz7Ht0UST9PD4+IGLz4GhcKntL1sPE5LsHrh+L45gZNAPL2109Tz0031oOwljj4DZVbVWcScs6caV+Q5huwF0GXORajnkOQyDhWWnTh2q3fCtNYT0L1hmhJUVagUpoKoNkqrFZNF/sMmupAKV78MSxMwa6P/2ekRJFHr58+vZtLsNdIc4xzVVlwSBoZdbkb2+lHWfqhD98ciz7MRDdfvA7CIrlwFDi30BNjIVNuTd+xJ8=;6XYaiwY/QEhTs1AjY5T1aQ=="
+secured: "DeMi6pIKpy4mkqg1XBjeWFDLDePEdYHviFS2muhapE4Q5gJgd6JY7JrS4EiIhgEweCbmdyDxdo1jb0QkDEuCkTHHkVwqJ9PIGGHdrPUJljHvpJlm26WaYhNsX6Jz1lqPWWee+XhkgCjIA5AtGW+O7pgTf6MSVgPSr8hOUaiEgkcrzHd1kwyXEt9thBjLYBdM1Hnmm2+mBaX1nr/9KLzNddc7v7KXyebvJj6BfN6GDN87S7AXUEwWDrSpOzfAziEiHHcB6M/ihAbFBSQMFwV5UCWzM6LNaa8GXBGlGpWpagQgSbq9Nb/3nNDxwysveKn0QMCiEWNl5gYLgfi+FAAobcthncuICcfpU4uJdb7jbR8=;gtJLkU1dNNSRybuZF5cnSA=="
 ---
 

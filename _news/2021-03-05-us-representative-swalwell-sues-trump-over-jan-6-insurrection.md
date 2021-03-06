@@ -87,6 +87,38 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Congressman sues Trump over deadly Capitol siege, charges civil rights violation"
+    excerpt: "A Democratic congressman has sued Donald Trump, his lawyer Rudy Giuliani and other allies of the former president over the deadly attack on the U.S. Capitol when violent Trump supporters tried to stop the certification of Trump's election defeat."
+    publishedDateTime: 2021-03-05T23:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-swalwell-idUSKBN2AX1JP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
+        width: 947
+        height: 545
+        isCached: true
+  - title: "Ex-Trump appointee arrested in Capitol riot complains he won't be able to sleep in jail"
+    excerpt: "Federico Guillermo Klein, a former State Department staff assistant who was arrested Thursday for his role in the Jan. 6 Capitol insurrection, has reportedly complained that he won't be able to sleep in prison."
+    publishedDateTime: 2021-03-06T02:45:00Z
+    webUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep"
+    ampWebUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 117
+    images:
+      - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
+        width: 979
+        height: 551
+        isCached: true
   - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
     excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
     publishedDateTime: 2021-03-05T18:14:00Z

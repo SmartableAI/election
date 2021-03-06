@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Hours-long reading of legislation delays debate on Biden's $1.9 trillion COVID-19 bill"
-excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill was read aloud."
-publishedDateTime: 2021-03-05T12:32:00Z
-originalUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AW18U"
-webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AW18U"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
+title: "Senate rejects minimum wage hike in Biden's $1.9 trillion COVID-19 aid bill"
+excerpt: "The U.S. Senate on Friday rejected an amendment to more than double the federal minimum wage over five years, as it launched what is expected to be a long debate over President Joe Biden's $1.9 trillion COVID-19 relief bill."
+publishedDateTime: 2021-03-05T22:28:00Z
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idINKBN2AX147"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idINKBN2AX147"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AX147"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AX147"
 type: article
-quality: 117
+quality: 123
 heat: -1
 published: false
 
@@ -25,8 +25,8 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
-    width: 817
+  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241FA"
+    width: 777
     height: 545
     isCached: true
 
@@ -46,22 +46,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/7871561baf29d41f794c57e18dbc46cc9e3cb8c9/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4fe8abbe3d64db734907fbdda6dc55a9"
         width: 600
         height: 360
-        isCached: true
-  - title: "Senate rejects minimum wage hike in Biden's $1.9 trillion COVID-19 aid bill"
-    excerpt: "The U.S. Senate on Friday rejected an amendment to more than double the federal minimum wage over five years, as it launched what is expected to be a long debate over President Joe Biden's $1.9 trillion COVID-19 relief bill."
-    publishedDateTime: 2021-03-05T22:28:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idINKBN2AX147"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AX147"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AX147"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241FA"
-        width: 777
-        height: 545
         isCached: true
   - title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
     excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
@@ -90,6 +74,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Hours-long reading of legislation delays debate on Biden's $1.9 trillion COVID-19 bill"
+    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill was read aloud."
+    publishedDateTime: 2021-03-05T12:32:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AW18U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
         width: 817
@@ -124,6 +124,6 @@ related:
         height: 630
         isCached: true
 
-secured: "MyFsJueOMwxDuayWKQFKIfArgyDCf/U7Idb62Vl38w2ekS8ThU1EPTMVrJ1Db3UXMpIShnkP1bY9B7jsWZvjaPO2dLenFIQKFZ+ikVygy23ffle4E2c1zfN8ORr6y4lAiSkHxL9jeTo8EhyClaJx2c2NfX4JSjPiUkpVtf/697ydRu5oJdwCVbWOP7OH/dF6yCXimIWYgKksjTeu/yf9W25MhP1Q8AiGRzwt875ic4xzC5k9LZM+Xf740iWElHZC/glvscYM70UZ/VJqOwml3QUliuC+4D+46vOMEKlPwf8yTF48A2LJDajyAC/39J+vnPfWNOw3fBt8ruWyKFfy2lnhpgw4fA4DILHbMuL6fhE=;MPml3wsRSTMlAm/qjUNAcg=="
+secured: "A5EbGl0IOu499W+zLf2hJcfGb/0IEtRdiMPrybChKCwckRp07TF8LTuzC6O6crOllxh8n8oaMaOYd5eREtOQ5lDXEKemK+l3zwjjbQycMS5dUgowKqW7jIoPJ3rNzBObHWKCeasdIBVsmSkUTWo1WzBgQGoBISk9t4GTOCCjSVzPMOYRigIu4iqmKLnkeQP0m38u8Yt61uvpFESVB7dKAQaNWIzPDQUZsORxClbZ7tiMOq8fEkzVeiHZMirRgierWEHu7dFqcLAteO5m/YQHHDLq0HLqXpeJo7UhCoge4H+0tTtjT1h1AICWUoiTXFMry8Gv6CymMXa3k9jqXFlvOMPOO59mh+J+WE220kr8ewg=;j57jcAF8wLxt1piiJIkmnA=="
 ---
 
