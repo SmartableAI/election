@@ -81,8 +81,8 @@ related:
         isCached: true
   - title: "White House: Biden believes U.S. authorizations for military force need updating"
     excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
-    publishedDateTime: 2021-03-06T01:39:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=ca"
+    publishedDateTime: 2021-03-06T01:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=uk"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2ET"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2ET"
     type: article

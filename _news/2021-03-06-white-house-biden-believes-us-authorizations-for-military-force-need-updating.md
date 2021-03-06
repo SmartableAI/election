@@ -2,9 +2,9 @@
 category: news
 title: "White House: Biden believes U.S. authorizations for military force need updating"
 excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
-publishedDateTime: 2021-03-06T01:39:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=ca"
+publishedDateTime: 2021-03-06T01:26:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=uk"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2ET"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2ET"
 type: article
@@ -96,6 +96,6 @@ related:
         height: 576
         isCached: true
 
-secured: "DeMi6pIKpy4mkqg1XBjeWFDLDePEdYHviFS2muhapE4Q5gJgd6JY7JrS4EiIhgEweCbmdyDxdo1jb0QkDEuCkTHHkVwqJ9PIGGHdrPUJljHvpJlm26WaYhNsX6Jz1lqPWWee+XhkgCjIA5AtGW+O7pgTf6MSVgPSr8hOUaiEgkcrzHd1kwyXEt9thBjLYBdM1Hnmm2+mBaX1nr/9KLzNddc7v7KXyebvJj6BfN6GDN87S7AXUEwWDrSpOzfAziEiHHcB6M/ihAbFBSQMFwV5UCWzM6LNaa8GXBGlGpWpagQgSbq9Nb/3nNDxwysveKn0QMCiEWNl5gYLgfi+FAAobcthncuICcfpU4uJdb7jbR8=;gtJLkU1dNNSRybuZF5cnSA=="
+secured: "FpzSURh72tqnLr4wAY9hSuefPoORhKyc/wJvuncAto77OTeh/gvQwOpvVV+xqHA1Q/u2446tquXXMWed5KzgsC3XOBJMCiYj6Sgb8xbQsBg1XUuZI8QOFIMVsTnZPjqcimgyhUojl/kdy11wZB0JYurWdK+PKWrLVcV3cfFxnW78wJp5b+U0lx0rKcXhWJbmO9mdxtJbsagTXtWIIL3jWQ1k1xhlRzhS/7IC3aqoFh/qzW7O8O31vFR+k2eKC4gI8t5TX859vBOYOzdwXlkHeIAa4iKdA7fCqtlI7Rsdr9VhvIQfYJiWYvXYrtl+ArIzjEiOHpR03y8lJ6JR9xbypTtLhHL13/B7v2A0u5Kir/o=;tVT5QWIpD852hZqFLYcWlA=="
 ---
 
