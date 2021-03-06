@@ -59,6 +59,63 @@
       ]
     },
     {
+      "path": "_news/2021-03-06-microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees.md",
+      "title": "Microsoft, Wells Fargo Satisfied Trump Labor Department on Hiring More Black Employees",
+      "excerpt": "The Labor Department under the Trump administration closed inquiries last year after the two companies responded to questions about their plans to hire more Black staff.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees-11615035602",
+      "originalUrl": "https://www.wsj.com/articles/microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees-11615035602",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-307730/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees-11615035602",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees-11615035602",
+      "publishedDateTime": "2021-03-05T21:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-lincoln-projection-former-adviser-to-disgraced-anti-trump-pac-calls-gop-the-ultimate-grift.md",
       "title": "Lincoln Projection: Former adviser to disgraced anti-Trump PAC calls GOP 'the ultimate grift'",
       "excerpt": "Former Lincoln Project senior adviser Kurt Bardella appears to have no issue with throwing stones from glass houses, as he recently accused the Republican Party of becoming the \"ultimate grift.\"",
@@ -1613,63 +1670,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-msnbc-contributor-my-guts-telling-me-trump-white-house-behind-lack-of-capitol-protection-on-jan-6.md",
-      "title": "MSNBC contributor: 'My gut's telling me' Trump White House behind lack of Capitol protection on Jan. 6",
-      "excerpt": "MSNBC contributor Frank Figliuzzi speculated Wednesday that the Trump White House delayed sending military assets as the Capitol building was stormed by pro-Trump rioters during the certification of President Biden's election victory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots",
-      "originalUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dceb1775-5059-410a-b2fa-59a4aa6a6de4/35762ff5-24b7-42c7-b4c0-e4c4511f85cd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp",
-      "publishedDateTime": "2021-03-03T16:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }
