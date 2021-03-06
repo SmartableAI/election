@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
-excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
-publishedDateTime: 2021-03-04T04:53:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV15L"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV15L"
+title: "Biden administration and Texas governor battle over COVID testing and treatment of migrants at border"
+excerpt: "The administration said it would reimburse local officials for COVID testing and shelter for asylum seekers. Governor Abbott said \"no.\""
+publishedDateTime: 2021-03-05T22:24:00Z
+originalUrl: "https://www.cbsnews.com/news/covid-migrants-testing-treatment-texas-biden-administration/"
+webUrl: "https://www.cbsnews.com/news/covid-migrants-testing-treatment-texas-biden-administration/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/covid-migrants-testing-treatment-texas-biden-administration/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-migrants-testing-treatment-texas-biden-administration/"
 type: article
-quality: 121
+quality: 110
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553587655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH220LL"
-    width: 822
-    height: 545
+  - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/05/d91c28fc-46de-4969-8666-b3dd9f6fd058/thumbnail/1200x630/0991716f0dd8f34963de0bff94bf3745/gettyimages-1231479467.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -63,6 +63,22 @@ related:
         width: 777
         height: 545
         isCached: true
+  - title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
+    excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
+    publishedDateTime: 2021-03-04T04:53:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV15L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV15L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553587655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH220LL"
+        width: 822
+        height: 545
+        isCached: true
   - title: "Senate delays debate on Biden's $1.9 trillion COVID-19 bill while it is read aloud"
     excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill is read aloud."
     publishedDateTime: 2021-03-04T21:00:00Z
@@ -95,22 +111,6 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden administration and Texas governor battle over COVID testing and treatment of migrants at border"
-    excerpt: "The administration said it would reimburse local officials for COVID testing and shelter for asylum seekers. Governor Abbott said \"no.\""
-    publishedDateTime: 2021-03-05T22:24:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-migrants-testing-treatment-texas-biden-administration/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-migrants-testing-treatment-texas-biden-administration/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-migrants-testing-treatment-texas-biden-administration/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 110
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/05/d91c28fc-46de-4969-8666-b3dd9f6fd058/thumbnail/1200x630/0991716f0dd8f34963de0bff94bf3745/gettyimages-1231479467.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "'Neanderthal thinking' for states to lift mask mandate -Biden"
     excerpt: "News Agency 'Neanderthal thinking' for states to lift mask mandate -Biden. Posted . U.S. President Joe Biden on Wednesday said decisions to end the required wearing of masks - suc"
     publishedDateTime: 2021-03-04T10:05:00Z
@@ -140,6 +140,6 @@ related:
         height: 630
         isCached: true
 
-secured: "wrmn0VQ9vfejfbp2Pl+QYZrD+nIdRzMBJludJwT5sCM9lIf6oac20X9raNlxdDxa305dV8kugcEfCbVK/UvlyETocqXb9tsRBQJ8dDm2DIr1LX4A8rGnggta5axr0PypfneEo8bHkjxJ3kJCs91APxKQAncqHfMwA/RPyyJCBBR8Xyx0/Rfm7Slq+fq+SUDzpPIvx/877uBB4EAyaIUxAm2VGwoBM0lzdFAimKegfO1wN3mnMDEdsuj1IjJz8Tb1l6zvD1shOig779ro8xlWgFfiVhRwGFO8UTSvI4skeNylUuyLovmi60J+VLHY0nNxq6U9/Cl/tFZCbzP1XrfYNGfrWtTgnANWaf3BQeWmfvBTd0GQn1GYSwl37l8sHHi9ARqbN12BvdcHQ0uc1Vwk6KiLvHsFHJYIktLhxx5A2cAcZIiVDgsBdD4sJlbpw/OEMONMrwwEniPyiXcbpwtU0O55Rmqas8iUr7BQTHAvdkdqipOFfR8Vb6UJBdblU4h/W2jhboQx2UkGtqMyjbzNJQ==;udvo1Z42GfbMy8IBl9MdlA=="
+secured: "GguSRLFzGonhqzg3SPDe1DN8osZK/Wo5eX1TOD/2a8s3lHnQ1jyPheUQui3nk4jbIc9rvL9Koy1lJsf02Qtqmv5GCWzlXUTf01FR8V3S9CM46cZtBySSHZZz2G9gJrl/R8Ejm3Y4Z02NVkKJqzNlHfVEGGeNrGZecoLSRombKhAAmS0hBORfCAalwWqtp1phsC/3O4SGH2kom4dkIiNuHL+9QzykB2vrV6/TQ/IrywLdioLPMHSWxXuyVGxpW2KH2ZhTVGtu/9koC/pQlcMbuUwKVyGkLwcbBeM9p2pi8qIxxcANrlYOT9ce1A/N8c093WtzGJsKvFUQl1iZXo0afgHXZ3DF/m9TGowxjIUpSOM=;RPHjhTFabetZl56RXJbWgA=="
 ---
 

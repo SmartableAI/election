@@ -109,6 +109,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Biden administration and Texas governor battle over COVID testing and treatment of migrants at border"
+    excerpt: "The administration said it would reimburse local officials for COVID testing and shelter for asylum seekers. Governor Abbott said \"no.\""
+    publishedDateTime: 2021-03-05T22:24:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-migrants-testing-treatment-texas-biden-administration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-migrants-testing-treatment-texas-biden-administration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-migrants-testing-treatment-texas-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 110
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/05/d91c28fc-46de-4969-8666-b3dd9f6fd058/thumbnail/1200x630/0991716f0dd8f34963de0bff94bf3745/gettyimages-1231479467.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'Neanderthal thinking' for states to lift mask mandate -Biden"
     excerpt: "News Agency 'Neanderthal thinking' for states to lift mask mandate -Biden. Posted . U.S. President Joe Biden on Wednesday said decisions to end the required wearing of masks - suc"
     publishedDateTime: 2021-03-04T10:05:00Z
