@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-st
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
 type: article
 quality: 125
-heat: 705
+heat: 725
 published: true
 
 provider:
@@ -431,6 +431,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
+    excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."
+    publishedDateTime: 2021-03-06T16:27:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate/u-s-senate-passes-bidens-covid-19-relief-bill-sending-it-back-to-house-idUSL1N2L4083"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2L4083"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2L4083"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z

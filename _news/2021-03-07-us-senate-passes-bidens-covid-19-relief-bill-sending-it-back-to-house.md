@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Despite 'productive' Republican meeting, Biden will not accept a scaled-down COVID-19 bill -White House"
-excerpt: "After meeting with Republican senators at the White House on Monday, President Joe Biden appeared poised to push forward with his $1.9 trillion COVID-19 relief plan even if it fails to draw Republican support."
-publishedDateTime: 2021-02-02T17:03:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A12TV"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A12TV"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A12TV"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A12TV"
+title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
+excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."
+publishedDateTime: 2021-03-06T16:27:00Z
+originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate/u-s-senate-passes-bidens-covid-19-relief-bill-sending-it-back-to-house-idUSL1N2L4083"
+webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate/u-s-senate-passes-bidens-covid-19-relief-bill-sending-it-back-to-house-idUSL1N2L4083"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2L4083"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2L4083"
 type: article
-quality: 109
+quality: 104
 heat: -1
 published: false
 
@@ -23,12 +23,6 @@ provider:
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550004131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1112L"
-    width: 817
-    height: 545
-    isCached: true
 
 related:
   - title: "Watch Live: Biden to deliver remarks on COVID-19 response"
@@ -367,6 +361,22 @@ related:
         width: 824
         height: 545
         isCached: true
+  - title: "Despite 'productive' Republican meeting, Biden will not accept a scaled-down COVID-19 bill -White House"
+    excerpt: "After meeting with Republican senators at the White House on Monday, President Joe Biden appeared poised to push forward with his $1.9 trillion COVID-19 relief plan even if it fails to draw Republican support."
+    publishedDateTime: 2021-02-02T17:03:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A12TV"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A12TV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A12TV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 109
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550004131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1112L"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden hopes U.S. reaches 1.5 million COVID-19 vaccinations a day"
     excerpt: "President Joe Biden has set a goal that the U.S. will eventually roll out 1.5 million COVID-19 vaccines a day, rather than 1 million a day, as previously suggested. Ed O'Keefe reports"
     publishedDateTime: 2021-01-28T01:33:00Z
@@ -431,17 +441,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
-    excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."
-    publishedDateTime: 2021-03-06T16:27:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate/u-s-senate-passes-bidens-covid-19-relief-bill-sending-it-back-to-house-idUSL1N2L4083"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2L4083"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2L4083"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z
@@ -479,6 +478,6 @@ related:
         height: 683
         isCached: true
 
-secured: "7Y3DHup1ppV+z2RgcwPsa1KV7dZpC5ugejlvLsuyCrOL4AdlYIWq6T1aKrnRc3LxcW7084pTQpymJFSVx5cwvAml7M4jlU5CK5h3NT4LUSqV4lLPhYIihE61vp9x8tlwmOicLWsU15NOrzHBwkhgCBOZ+Mdv7+hhT6islihmQh16HJaHEX9rxHGP5BGg7d6g1twLMhV4+Zi5WgmX+uUxatNaQuRtgUkqL4wucLG5z3UTXLWe6yUeFxbTeM+/xWLX4WGIfSpHwH9QUK+Weyxr97Ufjh/gSIOACxb04G7XZfOk//AvZ+BNNb9PiF4Yj9d10uuJ6/Lup/+6XXJ9DsWqmGI5TXrtxUexHLgUTy6yoyhM99hLsVsfyNZZc6muUwwGkMGQC45DUD2IDzIMVCK2EB8AmBvpxljpQR3GMvAmKR1vig7O8cGPhqgjjGirIpMSu4CyodWBVuI+XomoCoCzLP88vDPsXz6P5nvvSQlWV9bYgrFKlWTgjg7CYxE9XEZDl+tMdOMVrajlnHrW38J6VA==;M50yyRM0o1/pS5BEgBPkQw=="
+secured: "WnCa7ruGHy7wkPPCwjU66YY9ytADXoKahhi2cr4zEWUvTiCbE7ti97AqjuxQ4I/FuzwWOVJpVIHIJ7cXCQDm/G6S8YNhXmD2sGtCYwtUYUZTMsga6B4egqvo9DhH212WM+iGPvmT2Hp/P0CAE7IQTVLL1ktdkjVpodnhSN1hqjmlbdmL5otQ4pYziw4KG7TjH2At2oLLCVvv3Fas8MJ9SCV7CexzPRZldCs3YlOX9G3Y5CThqzPLx0gBa7IqaMdetlTLIM0ggkyWTQe3FHX1aU3Lw7nakY3XhCoXCm5aOMFk0d+J+aiVlOuI3I1MEPnSVkElpPYuMcj7ftiF+b6j7AIy7yrE+81grVYzkeARY/E=;umJxUE4Qg2m0mHYVbH7R+A=="
 ---
 

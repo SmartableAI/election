@@ -112,6 +112,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Trump warns GOP allies against using his name for fundraising"
+    excerpt: "Former President Trump has warned GOP groups to stop using his name and likeness for fundraising, a source confirmed to The Post. Trump’s attorneys fired off a letter Friday to the"
+    publishedDateTime: 2021-03-06T18:36:00Z
+    webUrl: "https://nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/"
+    ampWebUrl: "https://nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-3.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "xTqDUd2rD+5bNM2efCuZl/TvI03wqt68BWyFC2INQULZloZXaLJKyA0QCHgY9KjQfse09eJurJgm0LjfWbj8hSUEukwjV0XA7PE1UR7/6OihUjhYNs+tsx4KBXFO4rdnnMU76nHUnhPCoMAiTmajm2jE6dStP95aG9uS0AkKYBMe1/nOdvKww+iOQHSoCX1G0sKFLYmfuYcrg09fZ7bCS9E3GMvfMvzuCOL9FTrC4zgwMF2j7/JKfXUYTJGX1NgpARIxLfxWuXlfapyUXMZjMqXlcMwmjVDKYRyD83M8GVVEqM6FUevEpD9Toc3q+JbKCwl0ZRFFf7NAry7OcPgz3c7LmfOAOv6KKi78RtYwXyY=;13Le/2cmEAW30t6oK9B3Rg=="
 ---

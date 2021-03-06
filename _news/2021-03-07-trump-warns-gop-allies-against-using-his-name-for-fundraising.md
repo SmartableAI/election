@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Trump Faces New Lawsuit Alleging Incitement of Capitol Riot"
-excerpt: "Rep. Eric Swalwell (D. Calif.) sued former President Donald Trump, Donald Trump Jr., Rudy Giuliani and Rep. Mo Brooks (R., Ala.) on allegations they conspired to incite the Capitol riot on Jan. 6."
-publishedDateTime: 2021-03-05T23:43:00Z
-originalUrl: "https://www.wsj.com/articles/trump-faces-new-lawsuit-alleging-incitement-of-capitol-riot-11614965456"
-webUrl: "https://www.wsj.com/articles/trump-faces-new-lawsuit-alleging-incitement-of-capitol-riot-11614965456"
-ampWebUrl: "https://www.wsj.com/amp/articles/trump-faces-new-lawsuit-alleging-incitement-of-capitol-riot-11614965456"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-faces-new-lawsuit-alleging-incitement-of-capitol-riot-11614965456"
+title: "Trump warns GOP allies against using his name for fundraising"
+excerpt: "Former President Trump has warned GOP groups to stop using his name and likeness for fundraising, a source confirmed to The Post. Trump’s attorneys fired off a letter Friday to the"
+publishedDateTime: 2021-03-06T18:36:00Z
+originalUrl: "https://nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/"
+webUrl: "https://nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/"
+ampWebUrl: "https://nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/amp/"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Wall Street Journal
-  domain: wsj.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://images.wsj.net/im-307886/social"
-    width: 1280
-    height: 640
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-3.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -96,21 +92,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump warns GOP allies against using his name for fundraising"
-    excerpt: "Former President Trump has warned GOP groups to stop using his name and likeness for fundraising, a source confirmed to The Post. Trump’s attorneys fired off a letter Friday to the"
-    publishedDateTime: 2021-03-06T18:36:00Z
-    webUrl: "https://nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/"
-    ampWebUrl: "https://nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/amp/"
+  - title: "Trump Faces New Lawsuit Alleging Incitement of Capitol Riot"
+    excerpt: "Rep. Eric Swalwell (D. Calif.) sued former President Donald Trump, Donald Trump Jr., Rudy Giuliani and Rep. Mo Brooks (R., Ala.) on allegations they conspired to incite the Capitol riot on Jan. 6."
+    publishedDateTime: 2021-03-05T23:43:00Z
+    webUrl: "https://www.wsj.com/articles/trump-faces-new-lawsuit-alleging-incitement-of-capitol-riot-11614965456"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-faces-new-lawsuit-alleging-incitement-of-capitol-riot-11614965456"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-faces-new-lawsuit-alleging-incitement-of-capitol-riot-11614965456"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: Wall Street Journal
+      domain: wsj.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-3.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
+      - url: "https://images.wsj.net/im-307886/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Capitol Hill riot arrest: Trump-era aide 'physically' engaged police during chaos, FBI says"
     excerpt: "A former Trump-era State Department aide has been arrested in connection to the Capitol Hill riot, the FBI confirmed to Fox News on Friday."
@@ -129,6 +125,6 @@ related:
         height: 320
         isCached: true
 
-secured: "MBdPIO36V1/1N+H9Ni+4hNm8w1F4LxNmT7M4m3xIrIkmflLI2DCKnyoF8dx++6hfVDr1IJopqgT8e1Jr1xY1fPQ0HluSVgsgc5XAtdT/oXpTTFFn2Pd0tMga+AJIRgqLmvOcl7UUmdeJ87JHCsyVx1VepMP3ativw3U9Nm/KKwkzdiikN9KR6LG0bhIu2sUjxvX7SOyqf5Aw3RlWDuX75XkZ7u2KbbT6BYK2nQoUnrEBKubZYl16b4g3DON5vDUR7jWIOunFICk9pJFqAgZPFBhUewIdCZfSXEqsZJFZEZPZMUSSMfB8ohFN2Aujv3yd8sdnvxwjrmU1QRV7/oCnd3ZuE1pOaNkBO2N1V675NHqvm1GP/0Y3/Q9onnhhSbIc9M1j+O2TSZ2yPYpGPp0I2OTjFs6Z0spZJAKLonztmPHhZsLfyUrR7l4jvlHWCKjdrNBE+Ei89yaEaNXGKJCe4qYJNzbgcdZKnHn7D1fwJ+7XvgMUsO/wgpwTv5cccCCPfIZ6euqy+ArSVQhLBWJgpQ==;YcDtGMmtJpbXSKN+Kers2Q=="
+secured: "oiW45EXoDOOkty/PuIUVNsIs6EscHxoNPhM8mROKsTMC9Ba6KS/1MY98Xnrdh+T+l/DYQBAE/IMNZV7HwJZuYalARwzfgkk0JbyQrt8NOo18zYX1/7pJbEZ2uCBIv8i+XuYD81SfdQ8pYme+8RlHoC/umEXb4bePBUQcdoYZWp/G2BQtcYSw/z82o6JWLk22srPVySJIhhr99wz2oDeFwPU4v6U9p/PzSvRuqM9pAjRjirOoAF2WkqfwpIa9ok5mlTs8CfL2nBcE0Vdrt3GbIrC2DOPK1UnJ+Wo9pByGG7EXu0BDgLlu09DA7AecQeTdfE5jLLSFjWC6PiLCXoCCbw9RYjwwBLn78UFYmZd/3g0=;IlHzQjcOVchrjw3VL8Od3A=="
 ---
 

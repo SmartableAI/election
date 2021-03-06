@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-repu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://images.wsj.net/im-307886/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Trump warns GOP allies against using his name for fundraising"
+    excerpt: "Former President Trump has warned GOP groups to stop using his name and likeness for fundraising, a source confirmed to The Post. Trump’s attorneys fired off a letter Friday to the"
+    publishedDateTime: 2021-03-06T18:36:00Z
+    webUrl: "https://nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/"
+    ampWebUrl: "https://nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/06/trump-warns-gop-allies-against-using-his-name-for-fundraising/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-3.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Capitol Hill riot arrest: Trump-era aide 'physically' engaged police during chaos, FBI says"
     excerpt: "A former Trump-era State Department aide has been arrested in connection to the Capitol Hill riot, the FBI confirmed to Fox News on Friday."

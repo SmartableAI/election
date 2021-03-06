@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump wants top Republican fundraising organizations to stop using his likeness"
+    excerpt: "Lawyers for former President Donald Trump sent out cease-and-desist letters Friday to the Republican National Committee, the National Republican Congressional Committee, and the National Republican Senatorial Committee for using his name and likeness on fundraising emails and merchandise, a Trump adviser"
+    publishedDateTime: 2021-03-06T17:44:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/agww6XNhsQs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/trump-cease-desist-name-likeness-rnc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/trump-cease-desist-name-likeness-rnc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How to Unite a Deeply Divided Kosovo? Name a Lake After Trump"
     excerpt: "A lighthearted suggestion by a U.S. envoy hoping to bridge a vast rift between Albanians and Serbs in Kosovo has taken on a life of its own — only to be ridiculed by local residents on both sides."
     publishedDateTime: 2021-02-27T10:05:00Z

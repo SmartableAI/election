@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/cpac-2021-trump-speech-a
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/cpac-2021-trump-speech-american-democracy/index.html"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226193728-trump-gonzalez-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump wants top Republican fundraising organizations to stop using his likeness"
+    excerpt: "Lawyers for former President Donald Trump sent out cease-and-desist letters Friday to the Republican National Committee, the National Republican Congressional Committee, and the National Republican Senatorial Committee for using his name and likeness on fundraising emails and merchandise, a Trump adviser"
+    publishedDateTime: 2021-03-06T17:44:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/agww6XNhsQs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/trump-cease-desist-name-likeness-rnc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/trump-cease-desist-name-likeness-rnc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
