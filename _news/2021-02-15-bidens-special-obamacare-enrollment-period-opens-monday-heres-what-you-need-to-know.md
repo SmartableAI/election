@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Obama congratulates Biden on Senate passage of his Covid relief bill "
+    excerpt: "Former President Barack Obama on Saturday congratulated President Joe Biden on the successful passage of the Covid-19 relief bill through the Senate, the administration's top legislative priority as millions of Americans continue to struggle financially amid the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-03-06T21:12:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kBw4drea8MM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/obama-biden-covid-relief-package/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/obama-biden-covid-relief-package/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306155705-file-barack-obama-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "fYLAZg6/NwXZffo3oqTaB0tc1eCkM0B34bgBW1sLdtKUmgMOSGj16XZ1Nlg0Bi5CIpJll16MSMaokrDYFIDydYVBoHDj1HvT/4ROZLbb5D3cVT76vTAoUO2kpS8vkXt4L5JRqxyBULF4hseElQV+XDjp7GyjGWxas2kkxE7icOAWPPkxpiyrB/3Bb6Qtwr2iVyCJk5bmPt8CVUx/wCMgyIncQLfA2FAa250Dp7d7aioFrkWxlNGeeTI46+S+/7ctPP1BGL8xUH+lUeVEzW64zsv1m1MUDyID3eL75k0B97UYqYucN9xfCKMydHZY9skXPp9W+PC1whsAUeiEGjjj+dZ2Cbg+etBjOMEJBwcjvhI=;pDkyypnhWKW1Fn3INj9Zeg=="
 ---

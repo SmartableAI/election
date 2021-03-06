@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enroll
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enrollment-period/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Obama congratulates Biden on Senate passage of his Covid relief bill "
+    excerpt: "Former President Barack Obama on Saturday congratulated President Joe Biden on the successful passage of the Covid-19 relief bill through the Senate, the administration's top legislative priority as millions of Americans continue to struggle financially amid the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-03-06T21:12:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kBw4drea8MM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/obama-biden-covid-relief-package/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/obama-biden-covid-relief-package/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306155705-file-barack-obama-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's special Obamacare enrollment period opens Monday. Here's what you need to know"
     excerpt: "Uninsured Americans who want to buy Affordable Care Act coverage have another three months to do so, thanks to an executive order President Joe Biden signed last month.\n    \n"
     publishedDateTime: 2021-02-15T11:02:54Z
