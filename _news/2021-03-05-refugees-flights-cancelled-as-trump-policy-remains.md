@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/refugees-flights-cancelled-a
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Rep. Swalwell sues Trump over alleged role in Capitol assault"
+    excerpt: "Democratic Rep. Eric Swalwell has sued former President Donald Trump over his alleged role in the Capitol assault."
+    publishedDateTime: 2021-03-05T20:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/swalwell-sues-trump-alleged-role-capitol-assault/story?id=76275852"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/swalwell-sues-trump-alleged-role-capitol-assault/story?id=76275852"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/swalwell-sues-trump-alleged-role-capitol-assault/story?id=76275852"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capitol-siege-ap-ps-210216_1613484545937_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "State Department aide appointed by Trump stormed the Capitol, beat police with a riot shield, FBI says"
     excerpt: "The FBI arrested Trump appointee Federico G. Klein, a former State Department aide, on charges related to the Jan. 6 Capitol riot, the agency said."
     publishedDateTime: 2021-03-05T03:01:00Z

@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration considers opening additional tent facilities in Arizona amid influx of migrants"
+    excerpt: "The Biden administration is considering opening additional temporary border facilities in Arizona to manage the influx of migrants arriving at the US-Mexico border, marking the latest move to address capacity issues that have been exacerbated because of the Covid-19 pandemic.\n    \n"
+    publishedDateTime: 2021-03-06T00:29:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I9P_udnceLk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/tent-facilities-arizona-migrants/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/tent-facilities-arizona-migrants/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305191033-joe-biden-030221-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration disappointed after Iran rejects invite to discuss nuclear deal with US and other nations "
     excerpt: "The Biden administration is disappointed after Iran rejected an offer by the European Union to partake in nuclear talks with the US and the other signatories of the nuclear deal on Sunday, but said they remain open to diplomacy with Iran.\n    \n"
     publishedDateTime: 2021-02-28T23:04:30Z

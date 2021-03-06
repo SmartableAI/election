@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Rep. Swalwell sues Trump over alleged role in Capitol assault"
+    excerpt: "Democratic Rep. Eric Swalwell has sued former President Donald Trump over his alleged role in the Capitol assault."
+    publishedDateTime: 2021-03-05T20:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/swalwell-sues-trump-alleged-role-capitol-assault/story?id=76275852"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/swalwell-sues-trump-alleged-role-capitol-assault/story?id=76275852"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/swalwell-sues-trump-alleged-role-capitol-assault/story?id=76275852"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/capitol-siege-ap-ps-210216_1613484545937_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
 
 secured: "G6ltYMbVyc+JutQUaUHXPKbCzojTpORc4cF44Iv/DOsbiaCHyov494v1uSIPeU0WUhqOo4MRKcOR7JhMPrf5Na1vhzVQXHNoAcDkp9Bh3apdxSaefrPBDdHSgAzZdwLd2Jn6gU3DuadxtnIPnwwuRlFZQtMW5xrChZ590Y4d3VjG0OIiIKRiBwpx/Qxttkup2675ZCz1HvNvEWlrNqASgNL3btTj8Vs8w6nwpyLTdJDW0/uuCFnTpf7RHjZuAbHryLewZE3yNyjGyCVzxJRAo0mip1y0J4m8HZohNfBABCnw+4HEZHlFbyEVpyvFVuHcpJ5bYMj6c1xle+68rYyAIJzudNIiAqSenpQo9tbIaXM=;fbaOh4Z8DmeUGJJ51pTJvw=="
 ---

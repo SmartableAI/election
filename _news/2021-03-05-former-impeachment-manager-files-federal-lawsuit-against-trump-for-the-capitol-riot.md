@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former Impeachment Manager Sues Trump Over Capitol Riot"
+    excerpt: "The suit by Representative Eric Swalwell accuses Donald J. Trump of inciting the Jan. 6 attack and conspiring to prevent Congress from formalizing President Biden’s victory."
+    publishedDateTime: 2021-03-05T14:35:00Z
+    webUrl: "https://www.nytimes.com/2021/03/05/us/politics/eric-swalwell-trump-capitol-riot.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/05/us/politics/eric-swalwell-trump-capitol-riot.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/05/us/politics/eric-swalwell-trump-capitol-riot.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/05/us/politics/05dc-lawsuit/05dc-lawsuit-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Trump supporters are still pushing false claims that antifa was behind the Capitol riot."
     excerpt: "Brown wrote on Twitter that rioters had breached the United States Capitol — and immediately speculated about who was really to blame. “Antifa or BLM or other insurgents could be doing it disguised as Trump supporters,"
     publishedDateTime: 2021-03-02T02:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-repu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-swal-rudy.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump Faces New Lawsuit Alleging Incitement of Capitol Riot"
+    excerpt: "Rep. Eric Swalwell (D. Calif.) sued former President Donald Trump, Donald Trump Jr., Rudy Giuliani and Rep. Mo Brooks (R., Ala.) on allegations they conspired to incite the Capitol riot on Jan. 6."
+    publishedDateTime: 2021-03-05T23:43:00Z
+    webUrl: "https://www.wsj.com/articles/trump-faces-new-lawsuit-alleging-incitement-of-capitol-riot-11614965456"
+    ampWebUrl: "https://www.wsj.com/amp/articles/trump-faces-new-lawsuit-alleging-incitement-of-capitol-riot-11614965456"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-faces-new-lawsuit-alleging-incitement-of-capitol-riot-11614965456"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-307886/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Capitol Hill riot arrest: Trump-era aide 'physically' engaged police during chaos, FBI says"
     excerpt: "A former Trump-era State Department aide has been arrested in connection to the Capitol Hill riot, the FBI confirmed to Fox News on Friday."

@@ -187,6 +187,38 @@ related:
         width: 3000
         height: 1945
         isCached: true
+  - title: "How the Capitol riot has been linked to Trump and the GOP"
+    excerpt: "The first Trump administration official has been arrested. Here are the other ways in which the events of the day have been linked to Trump and the GOP."
+    publishedDateTime: 2021-03-05T21:55:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/05/how-capitol-riot-has-been-linked-trump-gop/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/05/how-capitol-riot-has-been-linked-trump-gop/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/05/how-capitol-riot-has-been-linked-trump-gop/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_947d83b1b70a4643b78d5adc36f48592_name_e99b3644_7b6f_11eb_8c5e_32e47b42b51b_scaled.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "US Capitol attack: former Trump state department aide charged"
+    excerpt: "Federico Klein, who allegedly ‘assaulted officers with dangerous weapon’, held top secret security clearance but quit on 19 January"
+    publishedDateTime: 2021-03-05T20:42:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/05/us-capitol-attack-federico-klein-former-trump-state-department-aide-charged"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/05/us-capitol-attack-federico-klein-former-trump-state-department-aide-charged"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/05/us-capitol-attack-federico-klein-former-trump-state-department-aide-charged"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/ee9be612ac714545c4896cdff94b233017b8a2a6/0_200_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8de7835329ba2cb2862cd91af52fc762"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Capitol Police chief faces questions about security plans after pro-Trump riot"
     excerpt: "The acting chief is expected to ask for more funding to pay for physical barriers and additional deployment of law enforcement, as lawmakers worry about turning the Capitol into a fortress."
     publishedDateTime: 2021-03-03T14:58:00Z
