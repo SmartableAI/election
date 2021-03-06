@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Trump says he was not watching live TV coverage of Capital Hill riot"
-excerpt: "Former President Donald Trump on Sunday night denied that he was watching live television coverage of the deadly Capitol Hill riot. Trump was responding to a Washington Post story that claimed he"
-publishedDateTime: 2021-03-01T05:28:00Z
-originalUrl: "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/"
-webUrl: "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/"
-ampWebUrl: "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/"
+title: "Swalwell files lawsuit against Trump over Capitol riots"
+excerpt: "Rep. Eric Swalwell, one of the House impeachment managers, filed a lawsuit against former President Trump saying he must be held financially responsible for destruction on Jan. 6 when a pro-Trump mob stormed the Capitol."
+publishedDateTime: 2021-03-05T20:43:00Z
+originalUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots"
+webUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots"
+ampWebUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-cpac.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc4e6da5-3c10-4062-a7aa-5b61dd7b3a97/34ddb130-8200-47fc-b4bd-3d32c1cb6d83/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -44,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump says he was not watching live TV coverage of Capital Hill riot"
+    excerpt: "Former President Donald Trump on Sunday night denied that he was watching live television coverage of the deadly Capitol Hill riot. Trump was responding to a Washington Post story that claimed he"
+    publishedDateTime: 2021-03-01T05:28:00Z
+    webUrl: "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/"
+    ampWebUrl: "https://nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/01/trump-says-he-was-not-watching-live-tv-coverage-of-capital-hill-riot/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-cpac.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Rep. Eric Swalwell sues Trump, Giuliani and others for Capitol riot"
     excerpt: "Democratic Rep. Eric Swalwell is suing former President Donald Trump, his son Donald Trump Jr., Rudy Giuliani and Rep. Mo Brooks, claiming they incited the Jan. 6 Capitol riot and violated civil"
     publishedDateTime: 2021-03-05T16:00:00Z
@@ -59,22 +79,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-swal-rudy.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Swalwell files lawsuit against Trump over Capitol riots"
-    excerpt: "Rep. Eric Swalwell, one of the House impeachment managers, filed a lawsuit against former President Trump saying he must be held financially responsible for destruction on Jan. 6 when a pro-Trump mob stormed the Capitol."
-    publishedDateTime: 2021-03-05T20:43:00Z
-    webUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots"
-    ampWebUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 135
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc4e6da5-3c10-4062-a7aa-5b61dd7b3a97/34ddb130-8200-47fc-b4bd-3d32c1cb6d83/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump Faces New Lawsuit Alleging Incitement of Capitol Riot"
     excerpt: "Rep. Eric Swalwell (D. Calif.) sued former President Donald Trump, Donald Trump Jr., Rudy Giuliani and Rep. Mo Brooks (R., Ala.) on allegations they conspired to incite the Capitol riot on Jan. 6."
@@ -109,6 +113,6 @@ related:
         height: 320
         isCached: true
 
-secured: "fRTIJ4YWOOqTZN9XJOoR+LLHb8+/e6WZynVh471TzvnRgZfg+AAbndt9eNVCtyKDSrbXODip5906aXUNZa1gen+ot7SoUTyX07aHRQxGS5IA6UmsildrN3eqmM7Q0+dlYDzQUq7L3rgn/lXPwloxgcrRVV1l7pW/+T5gMNWT1cDKgWHHttzFuMCkG4PtRMbluAft0UdAp4FSQ40MB7efzFTnkJftGjMMNwFx0CKOYH6/NH8yXlM3GFMB/zpEXlsW4yFspM+XotHRJ4WpQxrLIeKSviL6FR1RGl6o1C2HGqVU4fUMwHhTx4pgPaXtHPhQYh4AEAkxdWkF5umXuKr6QGFErc8VEpvYZlN+BSsFWFM=;vO89g8Ksvm5xilqLbx+9Vg=="
+secured: "p2pPLerHZIOPNPmlS1szLGkqL/uJAN9kZPIUyr+uJZD5k/RA2vAwCeoTv7A2bpxq38rw4PRMZO1PEo2HXhyjnB6nY4mPWGOlJAGDm4qe8QlTQq4fJ0StrpuHLzyEfQk86mOT/gWaGuzxpqvmh/DUH1BiGAy89SUgz6JFC9dgJfraJ0/sm+wHpHspyMJTIUfBAlQNUdGktsXS6Pr0o11A/hxr4kl2zKJxircDzx0i/GZjX3T1bHV0i8ZaCAeuEzTgvGwI4rKjW8NNbW+c4jL9T/I1M8tjZGOzKzh0Tai60ipI0yNQyAMAeg/RcwT6IWXoTsryx0sWBoHTKEnP8h2sououk0CYXzzq4qVTqWToFRs=;NOHse/OqikK2ho+9elkI4A=="
 ---
 

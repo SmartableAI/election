@@ -109,6 +109,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Black, female and high-profile, Kamala Harris is a top target in online fever swamps"
+    excerpt: "Research shows that Kamala Harris may be the most targeted American politician on the internet, one who checks every box for the haters of the fever swamps: She’s a woman, she’s a person of ..."
+    publishedDateTime: 2021-02-20T05:14:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 118
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/8cf30fa/2147483647/strip/true/crop/2785x1819+257+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F40%2F994364d548b08462c3fb66d7369e%2Fla-na-meena-harris02.JPG"
+        width: 320
+        height: 209
+        isCached: true
   - title: "Fact check: Kamala Harris quote about shutting down Veterans Affairs originated from satire website"
     excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that veterans should learn to support themselves and she plans to shut down the Department of Veterans Affairs (VA) and take away soldier welfare,"
     publishedDateTime: 2021-02-16T15:48:00Z
@@ -170,6 +186,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
         width: 1024
         height: 736
+        isCached: true
+  - title: "Does Kamala Harris Have Children? Get To Know The Vice President’s Family"
+    excerpt: "What a difference a month makes. Since the presidential inauguration, Vice President Kamala Harris and her family have adjusted to life in the White House—her husband Doug Emhoff has embraced ..."
+    publishedDateTime: 2021-02-19T17:06:00Z
+    webUrl: "https://www.womenshealthmag.com/life/a33577322/kamala-harris-children/"
+    ampWebUrl: "https://www.womenshealthmag.com/life/amp33577322/kamala-harris-children/"
+    cdnAmpWebUrl: "https://www-womenshealthmag-com.cdn.ampproject.org/c/s/www.womenshealthmag.com/life/amp33577322/kamala-harris-children/"
+    type: article
+    provider:
+      name: Women's Health
+      domain: womenshealthmag.com
+    quality: 74
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vice-president-elect-kamala-harris-delivers-remarks-at-the-news-photo-1604938776.?crop=1.00xw:0.753xh;0,0.161xh&resize=1200:*"
+        width: 1200
+        height: 602
         isCached: true
   - title: "Kamala Harris’ stepdaughter Ella Emhoff makes edgy modelling debut in Vogue"
     excerpt: "February 18, 2021 - 20:42 GMT Rebecca Lewis Vice-President Kamala Harris’s stepdaughter Ella Emhoff made her modeling debut with Proenza Schouler Vice-President Kamala Harris’s stepdaughter ..."
@@ -266,22 +298,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/26/kamala-harris.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Black, female and high-profile, Kamala Harris is a top target in online fever swamps"
-    excerpt: "The vice president's high profile, race and gender have made her a target of some of the worst internet smears. The problem is only getting worse."
-    publishedDateTime: 2021-02-19T17:42:00Z
-    webUrl: "https://www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow"
-    ampWebUrl: "https://www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
-    type: article
-    provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 68
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/8cf30fa/2147483647/strip/true/crop/2785x1819+257+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa0%2F40%2F994364d548b08462c3fb66d7369e%2Fla-na-meena-harris02.JPG"
-        width: 320
-        height: 209
         isCached: true
   - title: "Vice President Kamala Harris delivers cookies to essential workers"
     excerpt: "U.S. Vice President Kamala Harris and her husband delivered two baskets of cookies to essential healthcare workers at the VA Medical Center in Washington on Saturday. (Feb. 13)"

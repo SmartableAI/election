@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Fact check: Kamala Harris quote about shutting down Veterans Affairs originated from satire website"
-excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that veterans should learn to support themselves and she plans to shut down the Department of Veterans Affairs (VA) and take away soldier welfare,"
-publishedDateTime: 2021-02-16T15:48:00Z
-originalUrl: "https://www.reuters.com/article/uk-factcheck-harris-va-quote-idUSKBN2AG1XL"
-webUrl: "https://www.reuters.com/article/uk-factcheck-harris-va-quote-idUSKBN2AG1XL"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG1XL"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG1XL"
+title: "Does Kamala Harris Have Children? Get To Know The Vice President’s Family"
+excerpt: "What a difference a month makes. Since the presidential inauguration, Vice President Kamala Harris and her family have adjusted to life in the White House—her husband Doug Emhoff has embraced ..."
+publishedDateTime: 2021-02-19T17:06:00Z
+originalUrl: "https://www.womenshealthmag.com/life/a33577322/kamala-harris-children/"
+webUrl: "https://www.womenshealthmag.com/life/a33577322/kamala-harris-children/"
+ampWebUrl: "https://www.womenshealthmag.com/life/amp33577322/kamala-harris-children/"
+cdnAmpWebUrl: "https://www-womenshealthmag-com.cdn.ampproject.org/c/s/www.womenshealthmag.com/life/amp33577322/kamala-harris-children/"
 type: article
-quality: 111
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Women's Health
+  domain: womenshealthmag.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551730882&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F172"
-    width: 816
-    height: 545
+  - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vice-president-elect-kamala-harris-delivers-remarks-at-the-news-photo-1604938776.?crop=1.00xw:0.753xh;0,0.161xh&resize=1200:*"
+    width: 1200
+    height: 602
     isCached: true
 
 related:
@@ -129,6 +125,22 @@ related:
         isCached: true
   - title: "Fact check: Kamala Harris quote about shutting down Veterans Affairs originated from satire website"
     excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that veterans should learn to support themselves and she plans to shut down the Department of Veterans Affairs (VA) and take away soldier welfare,"
+    publishedDateTime: 2021-02-16T15:48:00Z
+    webUrl: "https://www.reuters.com/article/uk-factcheck-harris-va-quote-idUSKBN2AG1XL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG1XL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AG1XL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 111
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210216&t=2&i=1551730882&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1F172"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Fact check: Kamala Harris quote about shutting down Veterans Affairs originated from satire website"
+    excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that veterans should learn to support themselves and she plans to shut down the Department of Veterans Affairs (VA) and take away soldier welfare,"
     publishedDateTime: 2021-02-16T20:48:00Z
     webUrl: "https://www.reuters.com/article/uk-factcheck-harris-va-quote/fact-check-kamala-harris-quote-about-shutting-down-veterans-affairs-originated-from-satire-website-idUSKBN2AG1XL"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AG1XL"
@@ -186,22 +198,6 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
         width: 1024
         height: 736
-        isCached: true
-  - title: "Does Kamala Harris Have Children? Get To Know The Vice President’s Family"
-    excerpt: "What a difference a month makes. Since the presidential inauguration, Vice President Kamala Harris and her family have adjusted to life in the White House—her husband Doug Emhoff has embraced ..."
-    publishedDateTime: 2021-02-19T17:06:00Z
-    webUrl: "https://www.womenshealthmag.com/life/a33577322/kamala-harris-children/"
-    ampWebUrl: "https://www.womenshealthmag.com/life/amp33577322/kamala-harris-children/"
-    cdnAmpWebUrl: "https://www-womenshealthmag-com.cdn.ampproject.org/c/s/www.womenshealthmag.com/life/amp33577322/kamala-harris-children/"
-    type: article
-    provider:
-      name: Women's Health
-      domain: womenshealthmag.com
-    quality: 74
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vice-president-elect-kamala-harris-delivers-remarks-at-the-news-photo-1604938776.?crop=1.00xw:0.753xh;0,0.161xh&resize=1200:*"
-        width: 1200
-        height: 602
         isCached: true
   - title: "Kamala Harris’ stepdaughter Ella Emhoff makes edgy modelling debut in Vogue"
     excerpt: "February 18, 2021 - 20:42 GMT Rebecca Lewis Vice-President Kamala Harris’s stepdaughter Ella Emhoff made her modeling debut with Proenza Schouler Vice-President Kamala Harris’s stepdaughter ..."
@@ -370,6 +366,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "3r4j5CFSyjS1xL2LsxGQ+hbmD1QRRtmoCP5kNs/HHrvQLpj9b8gB0ZbTgG08c0qlMKpYLRYkJ1mFjttiPweTSqz1WfU8arPYtYIrkIfQ6oWvNWJT133dUEVwC9s6Qxys+bCHIc6RUyoqp/GousTWx+b5s6haXaDQao0GLiBRe4M3WHj5StAKr+WWvztrccPdt1Sp4qGIOq3q1d8bmRyO/JRULqPbLfYkgrIncA6YP4YIhy+MtSEmFTCiB8NXo0mweSIPj0CxHfskuz+2xKO9Sc5MIJZGn+luvyR1ffq+22pSEPo8E+ZLLa5+Aw4rew+AFzyXnJFidIJpazjCja0aXFnp0ocrikTUTZpiaJ2pk00=;XUbFe47+2sjBrSB3E5FnqA=="
+secured: "BquVJs9jGPItYOq3yLsMfrEdnxQDZ3l35XDmWqEJn1vxfnYiiqVeEWrKPTG9sHGEEy7EuaAJEk9l5uTDJnFJ6E+VxMAzOyxgaZ3QbEaQU5Xct55KIZBF2kBnj4RslVYRIYJEm4V5rgNuzO5GHkPk0gf9hIzTkMD6QcqWYFt+p0fcdYiw7tgT5eJNIJ/dM1MazlALeXidLzn7BrOCOHay9IM+P1QiqAg+BmMKL1Exk1lhTbgxqorxjGmARQdpEFVirxUUHemgyPfU5wzfoolAG0LaLuyc+Mefzl8tgYwNWmalxjwHFVzZ2rsLr/s0HNwJsZtyheEnai72WECNu9CDNKu2VJvaagbQuGa4IKHLLPI=;IZvaBObMvI3tj6FuE+dBIQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/february-job-report-employment-unem
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden White House: keeping control of the daily message"
+    excerpt: "President Joe Biden is the first executive in four decades to reach this point in his term without holding a formal question and answer session. It reflects a White House media strategy meant both to reserve major media set-pieces for the celebration of a legislative victory and to limit unforced errors from a historically gaffe-prone politician."
+    publishedDateTime: 2021-03-06T05:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c65781c446834dc2ac6f68478659c640_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "A viral misfire: A White House video feed ended but Biden took questions"
     excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
     publishedDateTime: 2021-03-05T00:00:00Z

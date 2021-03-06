@@ -3,8 +3,8 @@ category: news
 title: "Trump State Department Official Charged in Connection With Capitol Riot"
 excerpt: "Federico Klein, a former midlevel administration official who also worked on the 2016 Trump campaign, was arrested on charges of assaulting police during the Jan. 6 attack."
 publishedDateTime: 2021-03-06T01:34:00Z
-originalUrl: "https://www.wsj.com/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215?mod=business_minor_pos4"
-webUrl: "https://www.wsj.com/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215?mod=business_minor_pos4"
+originalUrl: "https://www.wsj.com/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
+webUrl: "https://www.wsj.com/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
 ampWebUrl: "https://www.wsj.com/amp/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
 type: article
@@ -97,6 +97,6 @@ related:
         height: 320
         isCached: true
 
-secured: "KZCjgVocQiG3N1sXQslR+Dc4KnoQXVi0E89lo8kCgQQmc0rRkEZYHmYXTRcC0zHHCH9PwyXm0CDo9R1/EmZcgPMfzRqhTDe7e515vzKiAx9gc+vgHUQejWLf0vW0uJ8gyqsu5xF//CwX2YMzzlhHSKaU348qnu3Dsp46L+nt2qnH25SWrscje4ltkYNlUr6ouqQ/zc2jXzX91ABGdiZqhyiUIfySOwPDRH8T3NWw/i4/CllVaCbATTZaRQWOUaNoqngIh7tHqosY+wlXVuhUXvzSUIGWnzi9px59yuv5RWsEHCz8HBOCFdyXdT/B0sAB3gyLrsz++MMTTH98s///yz/99q15emLlMJzzRJv0NF8PLzpioGtEmcvEa0V0SWxarOUTnX5Y4VPOr6eJ3x30z8tPUrSNz3IQaHyiqdv8KfBVNzeggris66NEf7/aujhd5SxPDyspZJmsCzrKB6y3kGqO260FGPmR41Mfl9a0ss0oDfneAXV/v9rNibxjgydjCd40pvXHHsuw9NlEtBPm7A==;6Ph9BLV95v9gM6wnz7YCTg=="
+secured: "MDzIPMg06F/CIMdOg+QGOa16HK4eSMxY2HwuJoP4OocK/fQAXLBHpbzMST39jjloPW8w6GXhG7sYEA+hbX7/RLSp3d0cmS+PxtuZDkvLxS0IDjeWrsgPX4rf4sJq/tbVSt+DRF9iTjc9Ew/CRFdbgaMuwPtqgrT9YumwynF3zSJcZ2VqJW3q2M3oaDA2m6Udits9Kmnw/toxIP+MDNkP/gmrFWpmxT8mKTTk0TokJFsvX/bw878xtZxt7+EUjSnVS62qzCWTuijQuz5pXljQq68vRBdn6oS4jJ4rS6/Q2pEvmluA4ZHna+7ZiPPnT3ffg5NoCXHS8oRoT+qMFgeMSlEOismQQlDOAkYnEwRyXo8=;8YSB6JU9qWuX5+0yih9FjQ=="
 ---
 

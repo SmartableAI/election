@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Swalwell files lawsuit against Trump over Capitol riots"
+    excerpt: "Rep. Eric Swalwell, one of the House impeachment managers, filed a lawsuit against former President Trump saying he must be held financially responsible for destruction on Jan. 6 when a pro-Trump mob stormed the Capitol."
+    publishedDateTime: 2021-03-05T20:43:00Z
+    webUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots"
+    ampWebUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc4e6da5-3c10-4062-a7aa-5b61dd7b3a97/34ddb130-8200-47fc-b4bd-3d32c1cb6d83/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump Faces New Lawsuit Alleging Incitement of Capitol Riot"
     excerpt: "Rep. Eric Swalwell (D. Calif.) sued former President Donald Trump, Donald Trump Jr., Rudy Giuliani and Rep. Mo Brooks (R., Ala.) on allegations they conspired to incite the Capitol riot on Jan. 6."
     publishedDateTime: 2021-03-05T23:43:00Z

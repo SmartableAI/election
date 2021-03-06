@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden White House: keeping control of the daily message"
+    excerpt: "President Joe Biden is the first executive in four decades to reach this point in his term without holding a formal question and answer session. It reflects a White House media strategy meant both to reserve major media set-pieces for the celebration of a legislative victory and to limit unforced errors from a historically gaffe-prone politician."
+    publishedDateTime: 2021-03-06T05:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c65781c446834dc2ac6f68478659c640_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "White House: Biden believes U.S. authorizations for military force need updating"
     excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
     publishedDateTime: 2021-03-06T01:39:00Z

@@ -50,7 +50,7 @@ related:
   - title: "Trump State Department Official Charged in Connection With Capitol Riot"
     excerpt: "Federico Klein, a former midlevel administration official who also worked on the 2016 Trump campaign, was arrested on charges of assaulting police during the Jan. 6 attack."
     publishedDateTime: 2021-03-06T01:34:00Z
-    webUrl: "https://www.wsj.com/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215?mod=business_minor_pos4"
+    webUrl: "https://www.wsj.com/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
     ampWebUrl: "https://www.wsj.com/amp/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ex-state-department-trump-appointee-arrested-in-connection-with-jan-6-attack-11614966215"
     type: article

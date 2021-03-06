@@ -63,6 +63,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Senate grinds toward passage of $1.9 trillion Biden relief plan"
+    excerpt: "In early morning hours, the Senate on Saturday inched toward approving President Biden’s $1.9 trillion stimulus plan, as Democrats pressed forward with their major economic and public health relief package."
+    publishedDateTime: 2021-03-05T22:09:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOYMSCS4ZII6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 930
+        isCached: true
   - title: "Joe Biden to focus on economic recovery after Covid as 17.5m vaccine shots given in US - live updates"
     excerpt: "Calls to delay Donald Trump impeachment trial as former president appoints defense lawyer Bowers"
     publishedDateTime: 2021-01-22T10:48:00Z

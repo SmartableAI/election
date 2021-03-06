@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Black, female and high-profile, Kamala Harris is a top target in online fever swamps"
-excerpt: "The vice president's high profile, race and gender have made her a target of some of the worst internet smears. The problem is only getting worse."
-publishedDateTime: 2021-02-19T17:42:00Z
-originalUrl: "https://www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow"
-webUrl: "https://www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow"
-ampWebUrl: "https://www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
-cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/news/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
+excerpt: "Research shows that Kamala Harris may be the most targeted American politician on the internet, one who checks every box for the haters of the fever swamps: She’s a woman, she’s a person of ..."
+publishedDateTime: 2021-02-20T05:14:00Z
+originalUrl: "https://www.latimes.com/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow"
+webUrl: "https://www.latimes.com/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow"
+ampWebUrl: "https://www.latimes.com/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-19/kamala-harris-is-the-top-target-of-online-harassment-as-fears-of-political-violence-grow?_amp=true"
 type: article
-quality: 68
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: San Diego Union-Tribune
-  domain: sandiegouniontribune.com
+  name: Los Angeles Times
+  domain: latimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -183,6 +187,22 @@ related:
         width: 1024
         height: 736
         isCached: true
+  - title: "Does Kamala Harris Have Children? Get To Know The Vice President’s Family"
+    excerpt: "What a difference a month makes. Since the presidential inauguration, Vice President Kamala Harris and her family have adjusted to life in the White House—her husband Doug Emhoff has embraced ..."
+    publishedDateTime: 2021-02-19T17:06:00Z
+    webUrl: "https://www.womenshealthmag.com/life/a33577322/kamala-harris-children/"
+    ampWebUrl: "https://www.womenshealthmag.com/life/amp33577322/kamala-harris-children/"
+    cdnAmpWebUrl: "https://www-womenshealthmag-com.cdn.ampproject.org/c/s/www.womenshealthmag.com/life/amp33577322/kamala-harris-children/"
+    type: article
+    provider:
+      name: Women's Health
+      domain: womenshealthmag.com
+    quality: 74
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/vice-president-elect-kamala-harris-delivers-remarks-at-the-news-photo-1604938776.?crop=1.00xw:0.753xh;0,0.161xh&resize=1200:*"
+        width: 1200
+        height: 602
+        isCached: true
   - title: "Kamala Harris’ stepdaughter Ella Emhoff makes edgy modelling debut in Vogue"
     excerpt: "February 18, 2021 - 20:42 GMT Rebecca Lewis Vice-President Kamala Harris’s stepdaughter Ella Emhoff made her modeling debut with Proenza Schouler Vice-President Kamala Harris’s stepdaughter ..."
     publishedDateTime: 2021-02-18T23:01:00Z
@@ -350,6 +370,6 @@ related:
         height: 1365
         isCached: true
 
-secured: "BBKunmKd1GcWpWYW3bU+ElSj6I/GAt9DnqvHlIMbjUtzojlV6IAjeFTSd9mi8hxOYzpXxLWZ/42w2u58hUx/NyTrT95jc97HtW7jfcI6ljK1RxlgdB9U2zx7b3IJ8Pe2hXVCFehRoiN8KcosGequwspdN813oNwYwxVTpeL9jKIAgkG4eNNwp9i4X1TGNN2GLA2y7NFKZgSTzqZOwAVu7cxVGPDpsRqSelXOLvxssR8sXdkVdx/lRiHlyX85+yvY0yLythHMJyBIB9UFkFl92EVIQcVCCS6En5Xul4FKBNlRyDykh6fappBOkpe2CQ1ODDUORHX6Jb607UtXXFYPeJXhnnYzXpd9zULMyT31y+4=;pHktBygMonhWKQGIVrS9qA=="
+secured: "znMslbBA+O6BOLEOUgfkUz8MT7A0B6sJOYKDavj2GwP+VbYHDFgZd5fuoRbHYyc/1rw0gUIq20RnmtvNqbwWsc4DRhS3h4UNDIx/CPiRVkDA0Prh7Kr6ma6+nrVZz6XidklnrnYyQ9QotNGaQB/jN6Vsb2OaXJ+qb8mhVGm7Jv7pA5mnVZIB8eyE8YdkPJ7zDvt71KyHz2v4KV/fuKqdxcGL4SptJNi7Btzl8RJGauU2xGGZeXEdup6hKVa7worJOqV4Eg520DQfXClZXGYTRkOSv3iEZD5cFoTYifNyHD5sHc72A24RBx58+fUVrRRqZAb9xVH/3ic5rBu/Yz5DNvFGzprPjvuFR1oliPkNEKE=;5NcK7qgHBWWJNGV719SocQ=="
 ---
 

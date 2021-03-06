@@ -3,8 +3,8 @@ category: news
 title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – as it happened"
 excerpt: "Vice-president cast tie-breaking vote after Senate deadlocked 50-50"
 publishedDateTime: 2021-03-05T01:36:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-6041418c8f08acb794a3792a"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-6041418c8f08acb794a3792a"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-604154ef8f08d01b68d71076"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-604154ef8f08d01b68d71076"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
 type: article
@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – live"
     excerpt: "Vice-President cast tie-breaking vote after Senate deadlocked 50-50"
-    publishedDateTime: 2021-03-04T22:41:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413e438f08acb794a37903"
+    publishedDateTime: 2021-03-04T21:04:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-604120278f08d01b68d70dd8"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
     type: article
@@ -382,6 +382,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "Okp4LkvTCuhsBaPEEg5drHUs/Yl+gdp8tbqT685VBdQ1/BjHDytM4x4AEaTjtcycUkEHMMk/kSp1xUXvl5Lu3O9w2eBlLfGivA7/6n4PsNWPILwTRVnXNbwvL7GPnGaIp+/REV90XG5I0z7PgqoB5sM9RXWZB4v5JIuze0xV4J65Y9MPUf1WZiYFQfhg3cabgeH/xfC4QZTypK7NSQ4TXEG0S4D3UlW7XY4anRh2zELJB2NLsSj5BXr0nnKx8eHZNr/RLlQck8GLGQ/fXVrJluZkh2LJi+pwvIOrlq6KimygOJcnU22Q2wEm6Xg/iIKqx9bul37z0OhXWWrzgjFE9cxONtiyAjP1du85cOaQcZ83lEiE7TuMpMG6GRZk+gtkj2L2hZ9/tMWXauGNJn7SVeQGkO2y27ryrMSMneYKAl+I8ApiE1T+1hu0DG6W5H8p6zHvFjFuPsY1s3UvNtO6eiFlJabgDQvV/eTi8xUqDb8yqJ3LblZjWXbVY9Xe4l8o06xdqeVJCaQQqzD7FcOVCA==;VAxF2odd4WgLVmd78bfOOw=="
+secured: "fBWbJLKTKkAabBb0PPoYw10C7M9yGpPk/wCDhUjj88UzQIrYXwUMhTFkc9ILNNPoU0NELFypaauW7neYZLZYlwv8xyfMHGUKl1llhOaQxg0oWGaO5lTk2cF+CvQ/XdIqEFzQEygtb9kuWTn8JyhwncOMNM2NOeLZddlJeKmShw8qveA8bN/QQwGX1qoZn16ngG4S0E3C5qHU1TxNF4NXfvmLxOPoMuhJLLP4XO8EDz5BPEAm966VVumKYZU0RjK74Le7oh4w1/5w2FdtPzXSLOcx0nEtE2cLBOyXILvOAU2bdexLkIIbPA6EPc5+O7Hf3rooBjwjgWsCxRHiEE2lmiEnptSMVej5jwu2Qe2KdUg=;YVVtAsvvAZCVrditK9hXsw=="
 ---
 

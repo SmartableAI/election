@@ -1,28 +1,34 @@
 ---
 category: news
-title: "Analysis: Biden's $1.9 trillion rescue package offers bridge for hard-hit economy"
-excerpt: "(Reuters) - U.S. President-elect Joe Biden's proposal to pour $1.9 trillion into a hobbled economy could lay the foundation for a surge in jobs and spending that many economists say is needed to avoid long-term damage from a record-breaking pandemic recession."
-publishedDateTime: 2021-01-15T07:41:00Z
-originalUrl: "https://www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1"
-webUrl: "https://www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1"
-ampWebUrl: "https://www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1?amp"
+title: "Senate grinds toward passage of $1.9 trillion Biden relief plan"
+excerpt: "In early morning hours, the Senate on Saturday inched toward approving President Biden’s $1.9 trillion stimulus plan, as Democrats pressed forward with their major economic and public health relief package."
+publishedDateTime: 2021-03-05T22:09:00Z
+originalUrl: "https://www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/"
+webUrl: "https://www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/"
+ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/?outputType=amp"
 type: article
-quality: 100
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOYMSCS4ZII6XKCJN6KCHJ277U.jpg&w=1440"
+    width: 1440
+    height: 930
+    isCached: true
 
 related:
   - title: "Joe Biden unveils $1.9tn US economic relief package"
@@ -56,22 +62,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548740866&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L19Y"
         width: 817
         height: 545
-        isCached: true
-  - title: "Senate grinds toward passage of $1.9 trillion Biden relief plan"
-    excerpt: "In early morning hours, the Senate on Saturday inched toward approving President Biden’s $1.9 trillion stimulus plan, as Democrats pressed forward with their major economic and public health relief package."
-    publishedDateTime: 2021-03-05T22:09:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOYMSCS4ZII6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 930
         isCached: true
   - title: "Joe Biden to focus on economic recovery after Covid as 17.5m vaccine shots given in US - live updates"
     excerpt: "Calls to delay Donald Trump impeachment trial as former president appoints defense lawyer Bowers"
@@ -119,6 +109,17 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Analysis: Biden's $1.9 trillion rescue package offers bridge for hard-hit economy"
+    excerpt: "(Reuters) - U.S. President-elect Joe Biden's proposal to pour $1.9 trillion into a hobbled economy could lay the foundation for a surge in jobs and spending that many economists say is needed to avoid long-term damage from a record-breaking pandemic recession."
+    publishedDateTime: 2021-01-15T07:41:00Z
+    webUrl: "https://www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/analysis-bidens-19-trillion-rescue-package-offers-bridge-for-hard-hit-economy-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 100
   - title: "Biden proposes $1,400 payments and $15 minimum wage in coronavirus relief proposal"
     excerpt: "Biden proposes $1,400 payments and $15 minimum wage in coronavirus relief proposal President-elect Joe Biden released a comprehensive economic relief bill to help the country dig out of the hard times brought on by the pandemic."
     publishedDateTime: 2021-01-17T08:13:00Z
@@ -159,6 +160,6 @@ related:
       domain: businessinsider.com
     quality: 55
 
-secured: "84xMYaROkx1o4mcUAtxRTO9DjqwYU5YL0pkW/As8n7N6Veiw7Qe8gVF4/5gSMPLg9J9VOu43/usZ8aXjVzt4tbZy9ho2NFUxHBBA9eqZ3uOV+JGaPWMvj4s1oXQAgxmwttJeWIuapZrFkFrp/qGWYko4mWBNhRwoglqL7HLLGVY0NiX+YtEjQTO80idLVilnBIR2ff1Bm6K7iLwQhKwPs2F3MibAG1KkDPbJXUCn/hlKjn2TnjqJnxbT1odnAZJCNNXuER2y+U676PPmUxvLjPM2TK9BFKMeRJtQYk/e8Phkgq1WUARR2DMFSzmeBuRIhKL0UQ02E14Ek63LRjvgV6DPayrelPznLIiphFaRowg=;1Xnw4y7+NdtAm3GlIpudcQ=="
+secured: "kcwTwB8DaAaOgMWbH4BLG3tZWeahhC6ezaRkvrLPHWmEnv0Z1Y9gaxfRPqmvFIYTA1pp9K4B9YNwVaNtd40R0eC8/cBSa9G/DbG6VHlz77fAyBK2of+zc3+NZU3LPQ1H7ioFndee2FQhqE+zKqjXmRBMOvlepfgWt97FZ2cd263T8WlQD+VTtp8RYD40PU/9ba8+B9rMfFajsUNcS9hMCeGAgJLN3aBKN+3bLNXdJv900GqyIgJoKdi0A4Skx8o51iCmnT15SL9mUBzihbkJjnaaW0DQvN5IGoYgTaviQ+CjRJDBeKrp4CTc8fpWYp7RcTnyos5nLg31hyFENs8VThiLku1qHMJAzFxA1CSA8NM=;M9SyLwHxrS9rKdi27FzjEw=="
 ---
 

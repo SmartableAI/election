@@ -1,22 +1,22 @@
 ---
 category: news
-title: "White House: Biden believes U.S. authorizations for military force need updating"
-excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
-publishedDateTime: 2021-03-06T01:39:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=ca"
-webUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=ca"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2ET"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2ET"
+title: "Biden White House: keeping control of the daily message"
+excerpt: "President Joe Biden is the first executive in four decades to reach this point in his term without holding a formal question and answer session. It reflects a White House media strategy meant both to reserve major media set-pieces for the celebration of a legislative victory and to limit unforced errors from a historically gaffe-prone politician."
+publishedDateTime: 2021-03-06T05:53:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
 type: article
-quality: 120
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241F1"
-    width: 735
-    height: 545
+  - url: "https://s.abcnews.com/images/Politics/WireAP_c65781c446834dc2ac6f68478659c640_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden White House: keeping control of the daily message"
-    excerpt: "President Joe Biden is the first executive in four decades to reach this point in his term without holding a formal question and answer session. It reflects a White House media strategy meant both to reserve major media set-pieces for the celebration of a legislative victory and to limit unforced errors from a historically gaffe-prone politician."
-    publishedDateTime: 2021-03-06T05:53:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c65781c446834dc2ac6f68478659c640_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "A viral misfire: A White House video feed ended but Biden took questions"
     excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
     publishedDateTime: 2021-03-05T00:00:00Z
@@ -78,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRZS52D4OII6XDC6GLSHWQVVDM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "White House: Biden believes U.S. authorizations for military force need updating"
+    excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
+    publishedDateTime: 2021-03-06T01:39:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241F1"
+        width: 735
+        height: 545
         isCached: true
   - title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
     excerpt: "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,"
@@ -96,6 +96,6 @@ related:
         height: 576
         isCached: true
 
-secured: "DeMi6pIKpy4mkqg1XBjeWFDLDePEdYHviFS2muhapE4Q5gJgd6JY7JrS4EiIhgEweCbmdyDxdo1jb0QkDEuCkTHHkVwqJ9PIGGHdrPUJljHvpJlm26WaYhNsX6Jz1lqPWWee+XhkgCjIA5AtGW+O7pgTf6MSVgPSr8hOUaiEgkcrzHd1kwyXEt9thBjLYBdM1Hnmm2+mBaX1nr/9KLzNddc7v7KXyebvJj6BfN6GDN87S7AXUEwWDrSpOzfAziEiHHcB6M/ihAbFBSQMFwV5UCWzM6LNaa8GXBGlGpWpagQgSbq9Nb/3nNDxwysveKn0QMCiEWNl5gYLgfi+FAAobcthncuICcfpU4uJdb7jbR8=;gtJLkU1dNNSRybuZF5cnSA=="
+secured: "v5D7WcDTjKtaA+2GnywQdXM7bSfCV6Bh/12NA/jrRVzOOMPA30lf7BW5k6u7xg4aNfCB+Zim4XRSoqykEaEQS+V8SKP3vT8xiahaMqzV3c5I1HRVp8dE9rnzh40l5yMZm4P5oi5qklAABB9dk4YIbWCeFil51BAz0DyIMa9MeS0n/YTaPFDRUJhBu257ExZ+F4j+A84+CQHS3k12Vht/b6jEBMevdTVMPVPlPJxOxW33y7VDWZEF2V0N72MuEAYNQuE+xzpiO3LjMh0fSJPRWqOgcwEHgjitXSVcGQRGivS9qJpiSTu4KZW0A9byOjpXxXQtljfXsdEqDymHoxij0yCFSrh2dv4OqoIiv3+hzcI=;21cpwDwvLLU7BwYbqPa2hg=="
 ---
 
