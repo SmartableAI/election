@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden gives premature pat on the back to Democrats on COVID bill, ignores progressives"
+    excerpt: "President Biden cheered the passage Saturday of his $1.9 trillion coronavirus relief bill in the Senate and said the massive stimulus is the key to ending the suffering caused by the yearlong pandemic. "
+    publishedDateTime: 2021-03-06T20:16:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-xBJ4oQwpXo/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Psaki: Biden admin 'committed to fighting our hearts out' for Tanden, raising minimum wage"
     excerpt: "The Biden administration remains committed to \"fighting our hearts out\" for Budget Director pick Neera Tanden, Biden's press secrestary said Sunday."
     publishedDateTime: 2021-02-28T15:10:39Z

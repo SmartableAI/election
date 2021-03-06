@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Republicans squeeze Biden on schools"
-excerpt: "Republicans are pressing ahead against the Biden administration as they seek to contrast their party’s calls for schools to reopening against that of a reluctant White House. More on that in a minute,"
-publishedDateTime: 2021-02-18T13:06:00Z
-originalUrl: "https://www.politico.com/newsletters/huddle/2021/02/18/republicans-squeeze-biden-on-schools-491801"
-webUrl: "https://www.politico.com/newsletters/huddle/2021/02/18/republicans-squeeze-biden-on-schools-491801"
+title: "Senate passes Biden's $1.9 trillion Covid relief bill"
+excerpt: "The Senate passes its massive Covid relief bill after an overnight session. It includes checks for many Americans and now goes to the House for a vote. Follow here for the latest from Capitol Hill."
+publishedDateTime: 2021-03-06T17:46:00Z
+originalUrl: "https://www.cnn.com/politics/live-news/stimulus-update-us-relief-bill-03-06-21/index.html"
+webUrl: "https://www.cnn.com/politics/live-news/stimulus-update-us-relief-bill-03-06-21/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/stimulus-update-us-relief-bill-03-06-21/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/stimulus-update-us-relief-bill-03-06-21/index.html"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-    width: 1120
-    height: 629
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305130539-02-us-capitol-0305-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -647,22 +649,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Senate passes Biden's $1.9 trillion Covid relief bill"
-    excerpt: "The Senate passes its massive Covid relief bill after an overnight session. It includes checks for many Americans and now goes to the House for a vote. Follow here for the latest from Capitol Hill."
-    publishedDateTime: 2021-03-06T17:46:00Z
-    webUrl: "https://www.cnn.com/politics/live-news/stimulus-update-us-relief-bill-03-06-21/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/stimulus-update-us-relief-bill-03-06-21/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/stimulus-update-us-relief-bill-03-06-21/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305130539-02-us-capitol-0305-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden raises concerns with Chinese president in first official phone call"
     excerpt: "WASHINGTON — President Joe Biden spoke with Chinese President Xi Jinping by phone Wednesday evening for the first time since he took office, the White House said. The White House said in a ..."
     publishedDateTime: 2021-02-12T10:24:00Z
@@ -765,6 +751,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Republicans squeeze Biden on schools"
+    excerpt: "Republicans are pressing ahead against the Biden administration as they seek to contrast their party’s calls for schools to reopening against that of a reluctant White House. More on that in a minute,"
+    publishedDateTime: 2021-02-18T13:06:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/02/18/republicans-squeeze-biden-on-schools-491801"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
   - title: "A trio of conservative groups tries to torpedo two top Biden nominees"
     excerpt: "A trio of conservative organizations are launching a multimillion dollar advertising blitz aimed at undermining two of President Joe Biden’s high-profile nominees. The ad buy, first reported by POLITICO,"
     publishedDateTime: 2021-02-18T17:21:00Z
@@ -808,6 +808,6 @@ related:
         height: 773
         isCached: true
 
-secured: "06NZYcULjQyWiKPztztnsY3+7aC+Fe8N4Qi6f5T5SP8YFo8VGjCuVXDfLIXtW5iHbkLzUqfpCl91o2rSY9FOlEH/FHnCD/dbcRltwL8a2eFhLJKEiHzv4s0ITvTt5WQ0lChguc9THVbcbndyIzJncotNaR9cC3hXMYpkbJoPKHk5mt8qS8Yv5+2dySwDnK6nEt6hPi6k+SmA2H8KmrZPB+xsAIOc0arCPKFTmHoe7JKookgGGmOqcKjHHd6xG4ncHeH3P42NeVV1UfKtSbL6+eJv60OGOnD6QL0kloXOuL6+uQn2FQwfbJm2BkULp5xwlMmheAgaoY01Lr5d4/O2X6HKauwmWnECr9PX7kxcT6A=;w15xi87cbRD024okacN4Rw=="
+secured: "1V3//eShZrpZrTpiwa5KhbFrfPyLKxH3CSn1a7aN4DEnpCL7Ky5a9x2o1h1LgKnrbm8aBBbGixfN7v2ffbgvVu97uzqmdaG0l6yRNTdHo3hPYim/1lSuSiqvk03o3vfiLzbHA3B1f3q9plpmorQWVeIS3gX7ZF3a+jk/Ht4zcVkWcXd57PoNx9QvlfP8S5YhfFPDallqM9Mydjqrud2lKFSfYQ2dfNXt/DmWqSVg9MvbAfK9tA/TO9aeS4fCsCUf1KnCDjJckKNrWOZaGjvqhpKrDohBPcosaf1qQi0IM7Kii8aucA10b+dm8Gt+upK63IbrmPK7jNRfxmfwKDVOpH9JxUHX3w0AK4o4uT6B4ck=;AylvM5Yodd9mLfxIBRwLRg=="
 ---
 

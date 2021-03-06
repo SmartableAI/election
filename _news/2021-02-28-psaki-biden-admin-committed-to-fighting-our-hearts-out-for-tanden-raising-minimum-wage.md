@@ -143,6 +143,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden gives premature pat on the back to Democrats on COVID bill, ignores progressives"
+    excerpt: "President Biden cheered the passage Saturday of his $1.9 trillion coronavirus relief bill in the Senate and said the massive stimulus is the key to ending the suffering caused by the yearlong pandemic. "
+    publishedDateTime: 2021-03-06T20:16:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-xBJ4oQwpXo/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden focused on COVID vaccines for 'every American' before aiding other nations, Psaki says"
     excerpt: "White House press secretary Jen Psaki on Monday said President Biden's focus is making sure \"every American\" is vaccinated before discussing helping other nations with their COVID-19 vaccination process."
     publishedDateTime: 2021-03-01T19:26:54Z

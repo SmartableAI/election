@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/a0c8c1fb919e1a34a50c6f70c0d44f33a68f41d8/0_271_8640_5184/master/8640.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4862e19c7ca10db602745e920a9bb730"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden hails Senate passage of virus aid bill"
+    excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
+    publishedDateTime: 2021-03-06T20:13:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d63f00a-78e5-4d4d-ba91-c6e5c3186299_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "2UpV018mdG5VbAzLfJIf7/+higtetJksfTfy+GNYWOM9dhW0pjDP1YBvvaSeHkuHBS4+CGs7HHQdLDfKuvS+RyAY2nXPuAyEuDLlsWE0lSWQ9y5tQjQQ/6Hv3FzQUOfJKqerWwo6h/0i3sQwA9AhJPXJyOdDGqfKLRZAjLN7hybsZn+ncyzk8H32/zSNl2NhgOcI9tSpOg20ZfZg18F5qf2sSp7S5PJ4xFqLCXyqMxE4NL58Y2fEpkPkKUF5KbAGRCmgiGFbrCcRSHZk299xLIPWY6sGm0elgGOprFs14C4t6+LncdJNGp4egRX9DmqwQTACT0clh4vSNiFS5/ZcotYccnDjOHuwQfz7YJjrIWxgFIIAoj31IrUt49jETolATUoakD2VJqYKy+OlEKBJPqyD42icolNEs4frzM3v/NxF1h65up9hX/lV1wMicQ8dopuCmU66vQZlYFyHRq//7Sp8zlmATCPT1SOrxwwkOKSnduS8HHgMUVEnmAKE1B+32lKAlbqtnkJA+biWpfQAnQ==;Y6KzdUikcttfg8/wOweZBQ=="

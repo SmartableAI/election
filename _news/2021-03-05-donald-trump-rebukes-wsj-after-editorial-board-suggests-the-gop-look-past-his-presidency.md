@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump sends cease-and-desist letter to GOP organizations to stop fundraising off his name"
+    excerpt: "The letter was sent to the Republican National Committee, the National Republican Congressional Committee and the National Republican Senatorial Committee, Trump advisers confirmed."
+    publishedDateTime: 2021-03-06T20:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6AIMSXT6TUI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "GOP governors scorn pandemic restrictions as they compete for primacy in a pro-Trump party"
     excerpt: "Texas Gov. Greg Abbott’s move this week to end the state’s mask mandate channeled the party’s rage against government restrictions."
     publishedDateTime: 2021-03-05T15:00:00Z
@@ -63,6 +79,15 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Exclusive: Georgia Prosecutor Probing Trump Taps Leading Racketeering Attorney"
+    excerpt: "The district attorney investigating whether former U.S. President Donald Trump illegally interfered with Georgia’s 2020 election has hired an outside lawyer who is a national authority on racketeering,"
+    publishedDateTime: 2021-03-06T18:04:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-06/exclusive-georgia-prosecutor-probing-trump-taps-leading-racketeering-attorney"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 31
 
 secured: "KNkrfttQd/JN1vYM81UvJOObuXfrkjm61WmXzyJQ28qSaiBmSNAz0M1AHQI9UPOv2NXTUBeUG2+iuLxe+b9O6u/r3R69aUsmtPr52pNISxl+qX3dY2Q8nqQj/mOltGjQ53XjKJ0UJuKDZh2ReexKQAGeFwa6k+GV+eaB77t6x0Sprkf8gCbnaSa2LdkxnPa6TNkmwvoDPq16yVbazgBbv164dqMlDH8d/ehh2NwaD0SBazSJKNCP2HNADsWm0+4e08z0L6uUM0FSjtLujG7N5YEGvNubrBcnuR0OHNr9JCONyZq/7j/B1fotxFtnG/JVf7s7wA/NpyBA/rb2Z0Fgvfc+c0PcUtjfGNY9IKakkiI=;wpPK3RG1OaQ8Yh/yaiwOWA=="
 ---

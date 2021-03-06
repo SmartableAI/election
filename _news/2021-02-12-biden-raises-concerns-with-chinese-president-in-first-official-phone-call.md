@@ -649,6 +649,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Senate passes Biden's $1.9 trillion Covid relief bill"
+    excerpt: "The Senate passes its massive Covid relief bill after an overnight session. It includes checks for many Americans and now goes to the House for a vote. Follow here for the latest from Capitol Hill."
+    publishedDateTime: 2021-03-06T17:46:00Z
+    webUrl: "https://www.cnn.com/politics/live-news/stimulus-update-us-relief-bill-03-06-21/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/politics/live-news/stimulus-update-us-relief-bill-03-06-21/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/politics/live-news/stimulus-update-us-relief-bill-03-06-21/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305130539-02-us-capitol-0305-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's meeting with CEOs focused on equalizing economic recovery, skills training, wage gap"
     excerpt: "President Joe Biden met with the heads of some of America's biggest companies on Tuesday as part of his push for a $1.9 trillion economic relief package. The Oval Office meeting included Vice President Kamala Harris and Treasury Secretary Janet Yellen,"
     publishedDateTime: 2021-02-10T21:14:00Z

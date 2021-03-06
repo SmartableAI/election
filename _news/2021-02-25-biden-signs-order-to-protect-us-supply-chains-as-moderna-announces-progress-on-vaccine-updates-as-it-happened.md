@@ -47,6 +47,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden hails Senate passage of virus aid bill"
+    excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
+    publishedDateTime: 2021-03-06T20:13:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d63f00a-78e5-4d4d-ba91-c6e5c3186299_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "s4jwtvuzN7us+HdnF6c1D6/JnswWuGE2j9+iJUbVUnNZNLs/49Hs7sf1yhBfJmni0/4Cw+oQe0s1yBiAMdXb1MH5XslPfaXZVc8gwbnMNbDgTegRp70LNEwu8sBPL4I9qWK7wauysTFwAFS5EegxnhiZYcKgjvAByAgK06LRbVaWTFJiVlrEbv1Y5VcO7VwaS4yOmwbdV54IVobjOo3bUN2JUBnBhX5Kwc47Ed9+8aYcmiRgD+g+v3cr/rERUoUsyrITqKd3lbB55CgFNZ88v6t0w4RFzYTMq9o4zguKNQUTCax2oZWhGZlgDDupotQriibThOcRQMq1qMIsi2JQK3TWUWL0TNZJW2Qd1nn5NHc=;731kSJbFbPM2J6m7CA7O5Q=="
 ---

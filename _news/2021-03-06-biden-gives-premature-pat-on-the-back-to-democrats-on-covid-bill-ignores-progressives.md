@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to begin bipartisan work to 'end cancer as we know it,' Psaki says, calling it a 'priority' for admin"
-excerpt: "President Biden and Vice President Kamala Harris are set to meet with a bipartisan group of lawmakers in the Oval Office on Wednesday afternoon on the work to begin \"end cancer as we know it,\" White House press secretary Jen Psaki said."
-publishedDateTime: 2021-03-03T18:34:17Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMuDiezVOpc/biden-cancer-research"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMuDiezVOpc/biden-cancer-research"
-ampWebUrl: "https://www.foxnews.com/politics/biden-cancer-research.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancer-research.amp"
+title: "Biden gives premature pat on the back to Democrats on COVID bill, ignores progressives"
+excerpt: "President Biden cheered the passage Saturday of his $1.9 trillion coronavirus relief bill in the Senate and said the massive stimulus is the key to ending the suffering caused by the yearlong pandemic. "
+publishedDateTime: 2021-03-06T20:16:14Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-xBJ4oQwpXo/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-xBJ4oQwpXo/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package"
+ampWebUrl: "https://www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
 type: article
-quality: 157
+quality: 167
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -143,22 +143,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden gives premature pat on the back to Democrats on COVID bill, ignores progressives"
-    excerpt: "President Biden cheered the passage Saturday of his $1.9 trillion coronavirus relief bill in the Senate and said the massive stimulus is the key to ending the suffering caused by the yearlong pandemic. "
-    publishedDateTime: 2021-03-06T20:16:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-xBJ4oQwpXo/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Psaki: Biden admin 'committed to fighting our hearts out' for Tanden, raising minimum wage"
     excerpt: "The Biden administration remains committed to \"fighting our hearts out\" for Budget Director pick Neera Tanden, Biden's press secrestary said Sunday."
     publishedDateTime: 2021-02-28T15:10:39Z
@@ -239,7 +223,23 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to begin bipartisan work to 'end cancer as we know it,' Psaki says, calling it a 'priority' for admin"
+    excerpt: "President Biden and Vice President Kamala Harris are set to meet with a bipartisan group of lawmakers in the Oval Office on Wednesday afternoon on the work to begin \"end cancer as we know it,\" White House press secretary Jen Psaki said."
+    publishedDateTime: 2021-03-03T18:34:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMuDiezVOpc/biden-cancer-research"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-cancer-research.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancer-research.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
-secured: "HQX4NQyYKWgDf2vxx8ks/lCFfORWFeikE42Cc7rs/gPZxTAD5b5ITX3LSlwEmG2+J0E6SkyTimIUV3z5EzT9zAnKxL77FMuNzwxGbIbBWj5jiDxgar4pX4yAB+3r6en8joFb/aagoK4imIAMtSQJXi4kCMfJMM9ixAv+j67FALvEqrFfE2YUsFAzkRT2+vKNa22euEdTLrbQqB+esrvUv/el1BW/fGDTBl9la4xXypdEEr0sw5goZmumydMxPYjgrAcp94mbJOEAWteZO3nZJ5uK9zl9qYSkUulM+yYhSS3ug66sUqCTzeTiXKWjSOgknRKbZUuO9eOtod24ZDPQzdeoszpIRf9J7HAfrQfykrg=;8egs8fFVp0/5YEKHW1duCA=="
+secured: "WWDZ7OTKZz2Z/r1y7BrysFV0XtDcGeMH0vu/Kjb/0i6Y21YDIxv2XTka6xktKEdSYoeLPG8rvbfz65kGnJoNGZIiZC7AH0rNI4ouJJv7j1M9FRXWiow5sIF4G+jaXLK39n2QSlIVOZuwOmvlVPFG070bfAQY4s9ejsy2rLty0Hv7yFKmkKRrvESKHjKtS9JxwxOrfXMp9gMnnmkFR6nHZ9DFnOev+GadvmrJjw986E3kr5ZCM/Kdnpe17YOwDmLdBAOhTuFAdue8qgseRP6BES3+SwZj1YKO1Chz8QbTAJ3lKDTOA3wfX4/8GMislFJEKlo8AZSYBRzQ8Jw1b22Fq29xcsxwTO7cC+naI5wDM64=;bvw3OBYiEOCuvfM3bYzubQ=="
 ---
 

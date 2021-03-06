@@ -1,14 +1,14 @@
 ---
 category: news
-title: "GOP governors scorn pandemic restrictions as they compete for primacy in a pro-Trump party"
-excerpt: "Texas Gov. Greg Abbott’s move this week to end the state’s mask mandate channeled the party’s rage against government restrictions."
-publishedDateTime: 2021-03-05T15:00:00Z
-originalUrl: "https://www.washingtonpost.com/politics/texas-mask-mandate-abbott/2021/03/04/ceec92bc-7d12-11eb-b3d1-9e5aa3d5220c_story.html"
-webUrl: "https://www.washingtonpost.com/politics/texas-mask-mandate-abbott/2021/03/04/ceec92bc-7d12-11eb-b3d1-9e5aa3d5220c_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/texas-mask-mandate-abbott/2021/03/04/ceec92bc-7d12-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-mask-mandate-abbott/2021/03/04/ceec92bc-7d12-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
+title: "Trump sends cease-and-desist letter to GOP organizations to stop fundraising off his name"
+excerpt: "The letter was sent to the Republican National Committee, the National Republican Congressional Committee and the National Republican Senatorial Committee, Trump advisers confirmed."
+publishedDateTime: 2021-03-06T20:16:00Z
+originalUrl: "https://www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/"
+webUrl: "https://www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/"
+ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/?outputType=amp"
 type: article
-quality: 115
+quality: 116
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GGCHKGT5FAI6XKLWYAUKIIK4PA.jpg&w=1440"
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6AIMSXT6TUI6XDC6GLSHWQVVDM.jpg&w=1440"
     width: 1440
-    height: 960
+    height: 961
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 3000
         height: 2364
         isCached: true
-  - title: "Trump sends cease-and-desist letter to GOP organizations to stop fundraising off his name"
-    excerpt: "The letter was sent to the Republican National Committee, the National Republican Congressional Committee and the National Republican Senatorial Committee, Trump advisers confirmed."
-    publishedDateTime: 2021-03-06T20:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/?outputType=amp"
+  - title: "GOP governors scorn pandemic restrictions as they compete for primacy in a pro-Trump party"
+    excerpt: "Texas Gov. Greg Abbott’s move this week to end the state’s mask mandate channeled the party’s rage against government restrictions."
+    publishedDateTime: 2021-03-05T15:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/texas-mask-mandate-abbott/2021/03/04/ceec92bc-7d12-11eb-b3d1-9e5aa3d5220c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/texas-mask-mandate-abbott/2021/03/04/ceec92bc-7d12-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-mask-mandate-abbott/2021/03/04/ceec92bc-7d12-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 116
+    quality: 115
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6AIMSXT6TUI6XDC6GLSHWQVVDM.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GGCHKGT5FAI6XKLWYAUKIIK4PA.jpg&w=1440"
         width: 1440
-        height: 961
+        height: 960
         isCached: true
   - title: "Exclusive: Georgia Prosecutor Probing Trump Taps Leading Racketeering Attorney"
     excerpt: "The district attorney investigating whether former U.S. President Donald Trump illegally interfered with Georgia’s 2020 election has hired an outside lawyer who is a national authority on racketeering,"
@@ -89,6 +89,6 @@ related:
       domain: usnews.com
     quality: 31
 
-secured: "dIfQZSGF0VYcgDyfqEuV+4WKPVDV2dKCRWE9o7gJEvf9D1Ut9W1ehJ27U3WMUss20YfR9hemjFe9kBPyHshQbwe1XGRtAbY/p3/9SokwpfpZXFwfsswvkeEkjtVGa/EvmqV5jwmGE+CHwMYQM5g+ZLV0cZ4YRQjsqUn7VCrJbY4kFw8UMTTS7R9Ux8O30zH52ihnG9KSx0Qx42n6/OsZBgLQ6Kpl49O5Ks6mBtjjwozPdtZvuhlYhiRLSCFFSy3DCKxjB8UpFwwc7DK16UMuSLgux2lOOsX1/x8R9BLEWhCnUkZG1cg0+u+veRohZy+jkGREhg8bgsnGPIzGxnF+2T5Jqfv42RtHRrg/yWBu0/o=;ItyPNw1QNdzq9cHxp8flXw=="
+secured: "l7WQB7ZdAdjQ2ENEVnlMQPEwqUmeohYDw3QJPpbfhsa8YxMas7Xz3qXv5v2qeT128s5+76yIcT8owbRmkF2z6iRWcSd6vRIlDj240IU7BiD/fh59gupKKEwzmqNNhB/931xyf1Q8Uu3ilhS4mCuG3b+wz4V9BR+OB/kxPRf/pcHhzRpU5qJ9iRXP31tuVwfL5+wDhDyDi7f9qnXQUoN2NBmV9l4fza4qb0PDElV7M6wJjOFaOdTKOZj8T4lnk+hNCVMtpGEtSqi3ZZP3BmVvvDjzwvt/iohkUNQZWOVCQBYXYWtjkdHgA0ZY4eUUxhTsOG3QfGHksgmOcBhdWdQBVPp0HKyPd+5oF/I8Y0tQmc4=;OtEBn7D8/t17SN2JVgLCrg=="
 ---
 
