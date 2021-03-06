@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden hosts Republican senators as part of Covid-19 stimulus outreach"
-excerpt: "White House spokeswoman Jen Psaki defended the size of the administration's $1.9 trillion Covid-19 relief proposal, calling it \"incredibly urgent\" ahead of a meeting with Republican senators on Monday.\n    \n"
-publishedDateTime: 2021-02-02T01:26:59Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DAE4F-B04sU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DAE4F-B04sU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
+title: "Democratic senator slows progress on Biden's Covid-19 bill"
+excerpt: "Sen. Joe Manchin (D-WV) has stalled progress on President Biden's $1.9 trillion Covid-19 relief bill over unemployment benefits. CNN's Manu Raju reports."
+publishedDateTime: 2021-03-05T22:15:00Z
+originalUrl: "https://www.cnn.com/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
+webUrl: "https://www.cnn.com/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
 type: article
-quality: 175
+quality: 135
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224154431-01-manchin-haaland-0223-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -34,6 +35,22 @@ related:
   - title: "Biden hosts GOP senators as part of Covid-19 stimulus outreach"
     excerpt: "White House spokeswoman Jen Psaki defended the size of the administration's $1.9 trillion Covid-19 relief proposal, calling it \"incredibly urgent\" ahead of a meeting with Republican senators on Monday.\n    \n"
     publishedDateTime: 2021-02-01T22:41:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DAE4F-B04sU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210129183519-01-joe-biden-eo-lifts-transgender-ban-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden hosts Republican senators as part of Covid-19 stimulus outreach"
+    excerpt: "White House spokeswoman Jen Psaki defended the size of the administration's $1.9 trillion Covid-19 relief proposal, calling it \"incredibly urgent\" ahead of a meeting with Republican senators on Monday.\n    \n"
+    publishedDateTime: 2021-02-02T01:26:59Z
     webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DAE4F-B04sU/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
@@ -511,22 +528,6 @@ related:
         width: 1160
         height: 773
         isCached: true
-  - title: "Democratic senator slows progress on Biden's Covid-19 bill"
-    excerpt: "Sen. Joe Manchin (D-WV) has stalled progress on President Biden's $1.9 trillion Covid-19 relief bill over unemployment benefits. CNN's Manu Raju reports."
-    publishedDateTime: 2021-03-05T22:15:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224154431-01-manchin-haaland-0223-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "On executive actions, Biden is blowing his predecessors out of the water"
     excerpt: "It's the frustration of presidents from the beginning of the republic: how to get anything done when Congress gets stuck."
     publishedDateTime: 2021-02-06T13:00:00Z
@@ -620,6 +621,6 @@ related:
         height: 630
         isCached: true
 
-secured: "uijTpCYZhkMsTrSi5F6xvJCYbmX5EiTs+B3XEHdQfhBo99bJmJ6ezKlIdGmksY+z/7fpO1GiWfhgprkNqdpe8M/WWIhNp+xynfhUU+fYy4PIlyQ4yY4oB2sTEw8Q1/jCulL1eM7D66GxSyp6WSFs5deVEKEbnCGDCUkxjvJ/c9q51L6CNwWMN7QCyn3w7MN4qR1BF6duU1aF6jsqZKd2y+JmxvsayCB2eyy0Odg/3io3XJ0cL56fFp7+CnTNw/TaWqqLedWStdJDgWfVH3pMoRT5Scncs3koD0xBmBhdIS8yzmOlckFhzv4TXVU8i2jFC1UDsdp8C/TtETO7dylczPp9kuNefhY7AbByHHjGn/A=;9LASfBL4oiiw+7hbJ7aiaQ=="
+secured: "epu0KlY9bKYkA0pYcVcKa76gNacmvR9mdISYOPJggZQXlbC1TLcObqdqoaRp0JU5mzTby4nsQ5r8io3XJAAANHCt7L9h4S2yIXNmu4h0Jmh7oFvenOWkPuYRzJJO5u0/wDbMi0knDA/P9nRFZ3fX3JPMZ0UlVS//S5MC9rnCH9hjqZ1I2GZPTfyKIBK1jnqUITaaTu6tVUGbE3Kcu33AKqye4TKjyVQ2DAibMp5DIlMebEeZHACluSmG2Ozujae+hCBq3g0kZ7zHGy9hkPlQ1bXloAhw0oP88ffVa1VNKZlbQB2mOjyx8i6aoRaoJq3qg90u2Y41tBJqgKj/wzUwEl+iivRRJZ6d/G6ZGC35C/c=;sXxfGR50Jojxyt+EBsyHtQ=="
 ---
 

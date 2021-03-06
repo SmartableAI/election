@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump endorses SC’s Tim Scott in 2022 Senate reelection bid"
-excerpt: "Former President Donald Trump endorsed U.S. Sen. Tim Scott’s 2022 reelection bid Tuesday, continuing to make clear his intent to remain a dominant force in Republican Party politics. Trump issued a statement through his Save America PAC,"
-publishedDateTime: 2021-03-03T00:52:00Z
-originalUrl: "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html"
-webUrl: "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+title: "Trump offers early endorsement for loyal SC governor"
+excerpt: "Former President Donald Trump has endorsed South Carolina Gov. Henry McMaster’s bid for a second full term in 2022"
+publishedDateTime: 2021-03-06T03:00:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-offers-early-endorsement-loyal-sc-governor-76289671"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-offers-early-endorsement-loyal-sc-governor-76289671"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-offers-early-endorsement-loyal-sc-governor-76289671"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-offers-early-endorsement-loyal-sc-governor-76289671"
 type: article
-quality: 140
-heat: 300
-published: true
+quality: 125
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_31f651200c8f4a3bb964e48ca4938ccd_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
+  - title: "Trump endorses SC’s Tim Scott in 2022 Senate reelection bid"
+    excerpt: "Former President Donald Trump endorsed U.S. Sen. Tim Scott’s 2022 reelection bid Tuesday, continuing to make clear his intent to remain a dominant force in Republican Party politics. Trump issued a statement through his Save America PAC,"
+    publishedDateTime: 2021-03-03T00:52:00Z
+    webUrl: "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Lara Trump Reportedly Considering 2022 Senate Bid in North Carolina"
     excerpt: "Republican Senator Richard Burr will retire after the 2022 election and his seat is expected to be hotly contested."
     publishedDateTime: 2021-03-05T10:53:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1750123/lara-trump-records-her-2020-rnc-address.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Trump offers early endorsement for loyal SC governor"
-    excerpt: "Former President Donald Trump has endorsed South Carolina Gov. Henry McMaster’s bid for a second full term in 2022"
-    publishedDateTime: 2021-03-06T03:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-offers-early-endorsement-loyal-sc-governor-76289671"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-offers-early-endorsement-loyal-sc-governor-76289671"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-offers-early-endorsement-loyal-sc-governor-76289671"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_31f651200c8f4a3bb964e48ca4938ccd_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Donald Trump hints at run for president in 2024 – video"
     excerpt: "Former US president Donald Trump has hinted at a possible run for president again in 2024 during a speech at the Conservative Political Action Conference [CPAC] in Florida."
@@ -144,6 +144,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "G2PfX2yAW3L2tioHBbfpNdragRlGILh12+ejgCwUG0CS9YJ3kc/hcHvmebZT3lkUGeVMPhjU/rFHgbUO4yEjalcwSl2XcNo5JKrLh7mnbUAsILrNIzpQVXRpt6+TsFu+iIZEdZOeqbZT8s5heYipVh2gp2SoDeAFVg5D6MFibksIIHpr5dMfoyi0y1ITRKQUcRbmUYbUxlnSR/pCpFldwTLUktrI8sYOSrIzXIg1zRdl8b4t74uEqpxwTNOKG+XreMknI1p0d3hSvqOF1hXagGgybaj+wyUh/zciHgmLI1G4s3XGsOKLlaPslSXg80H7Karz5iPxySCLs5MeGWoDxDU3sroo/zAGvJtZv/4LLmI=;yMO1obdP9+npT4cq6GbG4w=="
+secured: "99NWHPemW3VtkxR5G03hUGZF/eFBZIy4HsMkhH4rDci4imPkjkA0nH/8dQCL33laFzdsDFS5EZoKCnQDWiMDK70ERclHoBs+9dmtsrpE3pnZn8S30O3G0gINRIsPFxuySsM4lsbQUQurAo9K8TYTiXz4mC11PKgj4qkVVqZ8Mz5H9++63gjWWYb7cBPkcVpyAZdl4s22lwvHYEn2CswAOY2sA5qLjxfk9SalFhGAYXRL3kxVA6FTGDLF2u316xcKvE6BAOHoUCJd1925AmpJZfaZ0M1EcETqj8Z9O3XwvsXBhcKbFhexcT5dXQE9pfj3JkSX6n4ugVz7ypB4ZiUGhN6FBonRe13VabSJG8/2fqg=;GJmxBwl0pieidnrq9XBkRA=="
 ---
 

@@ -65,8 +65,8 @@ related:
         isCached: true
   - title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – live"
     excerpt: "Vice-President cast tie-breaking vote after Senate deadlocked 50-50"
-    publishedDateTime: 2021-03-05T00:26:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60416dfa8f0871da4b7d07ed"
+    publishedDateTime: 2021-03-04T22:41:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413e438f08acb794a37903"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
     type: article
@@ -382,6 +382,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "KLTV6i9S1kHfHFspW3/C672uZRjAt26v7G8Ht9IOp0TK/mBbEjcGAqZ2y1uXDMB4lN859wd4aQg6zOo+9AnaYXGBefUpl3szwGegUvZQn+C9obPkFL5JkCq1smZlloMaspN+95YPL+2wobwVB1M7Maxkax6KhpXC7ROWaiox/gOV0qWXqnV6Lq7yG87HnEKiOXhD8edNr2uxNV930SdcuR3kdzKhUGbZtZIp57tiJVo0fDYwGRXV2bJ6ycvm7v9l5O3cIXeTBUuGMhHeQ7nyznS/iwGeBpbeJjJUd/KRvJhCJmG0alltzD+hbcpKxqkpJou09m23g6fEq2bsZCTlsmhN9IpV21MOz9tutDsrFqQ=;H8UhG6e96Amkr5SWb/asqw=="
+secured: "Okp4LkvTCuhsBaPEEg5drHUs/Yl+gdp8tbqT685VBdQ1/BjHDytM4x4AEaTjtcycUkEHMMk/kSp1xUXvl5Lu3O9w2eBlLfGivA7/6n4PsNWPILwTRVnXNbwvL7GPnGaIp+/REV90XG5I0z7PgqoB5sM9RXWZB4v5JIuze0xV4J65Y9MPUf1WZiYFQfhg3cabgeH/xfC4QZTypK7NSQ4TXEG0S4D3UlW7XY4anRh2zELJB2NLsSj5BXr0nnKx8eHZNr/RLlQck8GLGQ/fXVrJluZkh2LJi+pwvIOrlq6KimygOJcnU22Q2wEm6Xg/iIKqx9bul37z0OhXWWrzgjFE9cxONtiyAjP1du85cOaQcZ83lEiE7TuMpMG6GRZk+gtkj2L2hZ9/tMWXauGNJn7SVeQGkO2y27ryrMSMneYKAl+I8ApiE1T+1hu0DG6W5H8p6zHvFjFuPsY1s3UvNtO6eiFlJabgDQvV/eTi8xUqDb8yqJ3LblZjWXbVY9Xe4l8o06xdqeVJCaQQqzD7FcOVCA==;VAxF2odd4WgLVmd78bfOOw=="
 ---
 

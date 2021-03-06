@@ -528,6 +528,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Democratic senator slows progress on Biden's Covid-19 bill"
+    excerpt: "Sen. Joe Manchin (D-WV) has stalled progress on President Biden's $1.9 trillion Covid-19 relief bill over unemployment benefits. CNN's Manu Raju reports."
+    publishedDateTime: 2021-03-05T22:15:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224154431-01-manchin-haaland-0223-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's first big Covid test: Keeping parents of school kids from losing it"
     excerpt: "President Joe Biden’s vow to reopen most schools during his first 100 days is crashing into demands of one of his party’s most powerful constituencies: teachers’ unions. And the friction is ..."
     publishedDateTime: 2021-01-28T19:27:00Z

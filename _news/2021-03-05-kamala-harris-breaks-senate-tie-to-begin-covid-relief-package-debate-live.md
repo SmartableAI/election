@@ -2,9 +2,9 @@
 category: news
 title: "Kamala Harris breaks Senate tie to begin Covid relief package debate – live"
 excerpt: "Vice-President cast tie-breaking vote after Senate deadlocked 50-50"
-publishedDateTime: 2021-03-05T00:26:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60416dfa8f0871da4b7d07ed"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60416dfa8f0871da4b7d07ed"
+publishedDateTime: 2021-03-04T22:41:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413e438f08acb794a37903"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live?page=with:block-60413e438f08acb794a37903"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/04/voting-rights-police-reform-george-floyd-for-the-people-joe-biden-covid-coronavirus-live"
 type: article
@@ -382,6 +382,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "p/fv2f1S95iTRpisKvb8t6BNkXhdYq8gZcncY7vukJiYKWCjkfkfyiKIHgktdq0Vsjby38ClZg/VE68Iw+OY7ukFChJDvUoTOct0NJUOl6Lk9dshVRGITyl1c753bHLSlw+igN0nakRhIItt2+6tXePbKs4VEzHBO7dZh0RZZffSOAyoC3G4fD6uWFVVb7pg44QmxeAUAigWwgnymXwjrjU8Bkczc0ifWJA49Nr1Rx7bGNTUTNxfiFdo+ECsBrCghfwC/pG8sFkJ64SEARu8kAbZljUZt1Xh1lCR2q76iS89E2mMEQBXoUqmh+Jv9NioZMf0YmlFR6mUxb3nkeVh61d4BIVX4KwE5ltt6+p4otU=;r1f1THScBxDtgGY6C+TPjw=="
+secured: "shAqv+/7L8pQpzCBCEu4Y2xvS3lwlWDMo2v84SH6gWACj4d86H0YTXgV4nMn6j3YtYeI0ZhaQdkIgrn2t7pG4Mc8wBXLpSwC3oXSGoAiVe09TMqOc2AMDjL1bi6vNN5YRNZ8LaUI8XRx+fJPT1j4u9D5WM+SSNL6RmDv3GFoX2aOVb8ioYfvLNTKT+9kg49IqARIfcByro0208ftSFGkwRVpGeTpXetYDlMYbvCBnlsQdy4zyy/n1la035k8pYdMwNXPb/v+b5VR8nRKvMQS4gDHTNOerVDBD0bJLws2b2tpMAdK9aZvBFVeXg2/rUZk6dvOqGIdvzGNoEgo0J3VjipRANs7DlqZb6U7pCMIbmE=;1ysey7H4N/cn3AWlk0XH3g=="
 ---
 

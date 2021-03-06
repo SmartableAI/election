@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-louisiana-sen-john-k
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-louisiana-sen-john-kennedy-2022-reelection-bid.amp"
 type: article
 quality: 190
-heat: 330
+heat: 350
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/donald-trump-mitch-mcconnell-getty-ap-001.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump issues GOP endorsements in latest sign he is reentering political arena"
+    excerpt: "In an unexpected show of support Friday night, Donald Trump endorsed three Republican officials running for public office."
+    publishedDateTime: 2021-03-06T03:19:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-issues-gop-endorsements-latest-sign-of-re-entering-political-arena"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-issues-gop-endorsements-latest-sign-of-re-entering-political-arena.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-gop-endorsements-latest-sign-of-re-entering-political-arena.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73af8f27-5b6a-48b3-a9af-27a89fafba88/25f74579-cd8a-47d3-9203-3d8d6a8e205b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Trump endorses Max Miller over GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment"
     excerpt: "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district."

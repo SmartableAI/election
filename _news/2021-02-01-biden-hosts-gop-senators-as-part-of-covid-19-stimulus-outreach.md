@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/01/politics/joe-biden-stimulus-negotiations-coronavirus/index.html"
 type: article
 quality: 175
-heat: 895
+heat: 915
 published: true
 
 provider:
@@ -510,6 +510,22 @@ related:
       - url: "https://static.politico.com/85/2c/d46390eb4e08b927aeebe4c7431f/ap21021450187389-c.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Democratic senator slows progress on Biden's Covid-19 bill"
+    excerpt: "Sen. Joe Manchin (D-WV) has stalled progress on President Biden's $1.9 trillion Covid-19 relief bill over unemployment benefits. CNN's Manu Raju reports."
+    publishedDateTime: 2021-03-05T22:15:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/05/stimulus-bill-checks-senate-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224154431-01-manchin-haaland-0223-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "On executive actions, Biden is blowing his predecessors out of the water"
     excerpt: "It's the frustration of presidents from the beginning of the republic: how to get anything done when Congress gets stuck."

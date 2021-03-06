@@ -61,6 +61,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Trump offers early endorsement for loyal SC governor"
+    excerpt: "Former President Donald Trump has endorsed South Carolina Gov. Henry McMaster’s bid for a second full term in 2022"
+    publishedDateTime: 2021-03-06T03:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-offers-early-endorsement-loyal-sc-governor-76289671"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-offers-early-endorsement-loyal-sc-governor-76289671"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-offers-early-endorsement-loyal-sc-governor-76289671"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_31f651200c8f4a3bb964e48ca4938ccd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Donald Trump says he will not start a third party"
     excerpt: "President Donald Trump calls for Republican Party unity in a speech at a conservative political conference. Tries to cement his status as the party’s undisputed leader (Mar. 1)"
     publishedDateTime: 2021-03-01T01:14:00Z

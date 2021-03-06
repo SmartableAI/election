@@ -1,20 +1,24 @@
 ---
 category: news
-title: "Mitch McConnell laughs off Trump taking credit for his reelection"
-excerpt: "Senate Minority Leader Mitch McConnell on Tuesday laughed off former President Donald Trump’s claim of credit for his 2020 re-election. The Kentucky Republican chuckled to reporters in"
-publishedDateTime: 2021-03-02T22:22:00Z
-originalUrl: "https://nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/"
-webUrl: "https://nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/"
-ampWebUrl: "https://nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/amp/"
+title: "Trump issues GOP endorsements in latest sign he is reentering political arena"
+excerpt: "In an unexpected show of support Friday night, Donald Trump endorsed three Republican officials running for public office."
+publishedDateTime: 2021-03-06T03:19:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-issues-gop-endorsements-latest-sign-of-re-entering-political-arena"
+webUrl: "https://www.foxnews.com/politics/trump-issues-gop-endorsements-latest-sign-of-re-entering-political-arena"
+ampWebUrl: "https://www.foxnews.com/politics/trump-issues-gop-endorsements-latest-sign-of-re-entering-political-arena.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-gop-endorsements-latest-sign-of-re-entering-political-arena.amp"
 type: article
-quality: 150
+quality: 132
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
@@ -22,9 +26,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/mitch-mcconell.jpg?quality=90&strip=all&w=1200"
-    width: 1200
-    height: 800
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73af8f27-5b6a-48b3-a9af-27a89fafba88/25f74579-cd8a-47d3-9203-3d8d6a8e205b/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -76,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mitch McConnell laughs off Trump taking credit for his reelection"
+    excerpt: "Senate Minority Leader Mitch McConnell on Tuesday laughed off former President Donald Trump’s claim of credit for his 2020 re-election. The Kentucky Republican chuckled to reporters in"
+    publishedDateTime: 2021-03-02T22:22:00Z
+    webUrl: "https://nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/"
+    ampWebUrl: "https://nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/02/mitch-mcconnell-laughs-off-trump-taking-credit-for-his-reelection/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 150
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/mitch-mcconell.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Rep. Banks warns GOP ‘destined’ to lose elections if it rejects Trump and his voters"
     excerpt: "Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class."
     publishedDateTime: 2021-03-01T07:51:00Z
@@ -107,22 +127,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/donald-trump-mitch-mcconnell-getty-ap-001.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Trump issues GOP endorsements in latest sign he is reentering political arena"
-    excerpt: "In an unexpected show of support Friday night, Donald Trump endorsed three Republican officials running for public office."
-    publishedDateTime: 2021-03-06T03:19:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-issues-gop-endorsements-latest-sign-of-re-entering-political-arena"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-issues-gop-endorsements-latest-sign-of-re-entering-political-arena.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-issues-gop-endorsements-latest-sign-of-re-entering-political-arena.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 132
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73af8f27-5b6a-48b3-a9af-27a89fafba88/25f74579-cd8a-47d3-9203-3d8d6a8e205b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump endorses Max Miller over GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment"
     excerpt: "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district."
@@ -157,6 +161,6 @@ related:
         height: 720
         isCached: true
 
-secured: "HQpYXLVJaGvqZWDb8Mrm12an0vyC5cgQB5h8KU1g6JwHsGLBvga355UF/zBIxxysoG6jdfZWqt/NVORn+ua797JBnKVtNuKdw6j3Dtbi6rhWUjqlDmDRMB/M/dnif2W+aPQRc6ofE74JS7H8BjmHl1SoSX5GOrRNmpjzSyOd3Ao6ixqO7QpsMSpJIPOOPRoS6KJTWsAKycyKyc1Nz+eB3zrOACPNCJUzsQyplFjCSQJJDQZU3ZJc78oNR0lcmkDFyHSFjpCMJlALf30Utl8khOsnVj/bPnhS3lucQBJkj4kTMBcW4hBLPHTFYOg0j58eVBopsH2l6yghbS690gY7yhYs046qxCeQn7UwvBc4Vg2XmRb3SRjLdrzLezPv4I3KmgZN0MSrzfzDjMDatPXhFfqmMSL6ciql3C9v8rn4ibQ5v4NRe7Kxkby4DTEj9Cvk+FsE23yKwYJND/FcfDcfUr61quUJuKgaf/o/xFT5njt+9reEKspuyvtDyx+MTdqdVYp4oRj9oLyqi1jqn8hhrw==;QCqGAn0nW+tH/hW+Daafxw=="
+secured: "msNfb+iQpU/zcvSny3zUY2Y53I/u7sPHgXR8b9ZW+aPe6+oGKu3C0p8lnaPSWqH2LB7pnup4SEgPNZZHkrkEJEFAVIwVpTVA8ly0p+KTi5kGu2NxDmVMzhRuaEZ/xj+Au2iz5V07ysv8+DEaq6Y04NTW/oVw6AGLDDAd92XVylNxnqbfWRGJ+OHe1MKXJVhSWEuN7zlaJXkzLTPoNoy9qIyZv+BE5m2e4d5dIH8iGTaNevLlpWbFRqw4HpASZ33l3FR6Juv0TQrSvA5Dbj4dqSbPypJE8g/YdcrvFmKCIl8Z0QaXmaL852xr1BYmeje8AqnMfFIqfbdMsEt3tiTsyDXObbgICgK3Rk7ZIXjcxMc=;Rp+p1jRup4LxRjlHCzSnsw=="
 ---
 
