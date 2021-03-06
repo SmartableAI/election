@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden getting 1st shot at making mark on federal judiciary"
+    excerpt: "President Joe Biden has two seats to fill on the influential appeals court in the nation’s capital that regularly feeds judges to the Supreme Court"
+    publishedDateTime: 2021-03-06T05:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "A viral misfire: A White House video feed ended but Biden took questions"
     excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
     publishedDateTime: 2021-03-05T00:00:00Z

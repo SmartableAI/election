@@ -781,6 +781,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden Fires EEOC’s Trump-Appointed General Counsel"
+    excerpt: "Sharon Gustafson declined to resign from her position at Equal Employment Opportunity Commission as requested by the White House."
+    publishedDateTime: 2021-03-06T03:37:00Z
+    webUrl: "https://www.wsj.com/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-308331/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Biden says Mexico an 'equal' has he dismantles Trump immigration policies"
     excerpt: "President Biden assured Mexico’s President Andrés Manuel López Obrador that he considers the country “an equal” during a virtual meeting on Monday, as his administration works to unravel some of President Donald Trump’s immigration policies."
     publishedDateTime: 2021-03-02T00:37:00Z

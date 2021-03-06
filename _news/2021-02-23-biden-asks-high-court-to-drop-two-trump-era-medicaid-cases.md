@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-asks-high-court-to-drop-2-tru
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-asks-high-court-to-drop-2-trump-era-medicaid-cases.amp"
 type: article
 quality: 190
-heat: 1430
+heat: 1450
 published: true
 
 provider:
@@ -780,6 +780,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5dd5016-e973-406e-aca3-a67d4fa2408e/60e2794a-cd23-476f-aed8-5df466d4b73d/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden Fires EEOC’s Trump-Appointed General Counsel"
+    excerpt: "Sharon Gustafson declined to resign from her position at Equal Employment Opportunity Commission as requested by the White House."
+    publishedDateTime: 2021-03-06T03:37:00Z
+    webUrl: "https://www.wsj.com/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
+    ampWebUrl: "https://www.wsj.com/amp/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 150
+    images:
+      - url: "https://images.wsj.net/im-308331/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Biden says Mexico an 'equal' has he dismantles Trump immigration policies"
     excerpt: "President Biden assured Mexico’s President Andrés Manuel López Obrador that he considers the country “an equal” during a virtual meeting on Monday, as his administration works to unravel some of President Donald Trump’s immigration policies."

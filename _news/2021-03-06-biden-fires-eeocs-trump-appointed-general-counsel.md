@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden to issue new immigration orders as part of push to roll back Trump-era policies"
-excerpt: "President Biden on Tuesday will sign three executive orders on illegal and legal immigration -- as part of an aggressive push in the early days of his presidency to roll back many of his predecessor’s policies."
-publishedDateTime: 2021-02-02T14:07:13Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6r006QvMSJg/biden-immigration-orders-trump-era-policies"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6r006QvMSJg/biden-immigration-orders-trump-era-policies"
-ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-orders-trump-era-policies.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-orders-trump-era-policies.amp"
+title: "Biden Fires EEOC’s Trump-Appointed General Counsel"
+excerpt: "Sharon Gustafson declined to resign from her position at Equal Employment Opportunity Commission as requested by the White House."
+publishedDateTime: 2021-03-06T03:37:00Z
+originalUrl: "https://www.wsj.com/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
+webUrl: "https://www.wsj.com/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
+ampWebUrl: "https://www.wsj.com/amp/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
 type: article
-quality: 183
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6423eb4b-2774-420f-84fe-d9dfac3316b6/5db3f176-689a-4bd2-99ce-1b4d762459d8/1280x720/match/image.jpg"
+  - url: "https://images.wsj.net/im-308331/social"
     width: 1280
-    height: 720
+    height: 640
     isCached: true
 
 related:
@@ -204,6 +205,22 @@ related:
     quality: 184
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d5dd5016-e973-406e-aca3-a67d4fa2408e/60e2794a-cd23-476f-aed8-5df466d4b73d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to issue new immigration orders as part of push to roll back Trump-era policies"
+    excerpt: "President Biden on Tuesday will sign three executive orders on illegal and legal immigration -- as part of an aggressive push in the early days of his presidency to roll back many of his predecessor’s policies."
+    publishedDateTime: 2021-02-02T14:07:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6r006QvMSJg/biden-immigration-orders-trump-era-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-orders-trump-era-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-orders-trump-era-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6423eb4b-2774-420f-84fe-d9dfac3316b6/5db3f176-689a-4bd2-99ce-1b4d762459d8/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -781,22 +798,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Fires EEOC’s Trump-Appointed General Counsel"
-    excerpt: "Sharon Gustafson declined to resign from her position at Equal Employment Opportunity Commission as requested by the White House."
-    publishedDateTime: 2021-03-06T03:37:00Z
-    webUrl: "https://www.wsj.com/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
-    ampWebUrl: "https://www.wsj.com/amp/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/biden-fires-eeocs-trump-appointed-general-counsel-11614983850"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 150
-    images:
-      - url: "https://images.wsj.net/im-308331/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Biden says Mexico an 'equal' has he dismantles Trump immigration policies"
     excerpt: "President Biden assured Mexico’s President Andrés Manuel López Obrador that he considers the country “an equal” during a virtual meeting on Monday, as his administration works to unravel some of President Donald Trump’s immigration policies."
     publishedDateTime: 2021-03-02T00:37:00Z
@@ -1036,6 +1037,6 @@ related:
         height: 500
         isCached: true
 
-secured: "XqcTCXUrL1IdTwJrHUWCCmpQMce/MaVsSOV8XkFCmzRWVMnT18i049yoQVRv1ULsVVPJikAVjI9FPPueLcx/S7G37qY76YnNylUhm5erTPwtVoPN0/JSNVh9dzttIGEfulA7bqg77zi6PVs1karZRv1p2ZSNaWfgBNteCKlglif6w8yUCfMiJUSws+03WmdvBq6JleVUKXvV42EzvGv2sJ/o7wDhBws036tigAd9OpN59ZARwgJUFUpIAknx190aPB70T20K1wAbzFrGWE6Vny+3sn+LyUkM1aR+W65E/nFQd6FaBFHta6y+s5Z7rJJROIBfB1KMqdkSKk5QXjeI3TyscN7Ve8qOUV3mXJnC1zo=;y1HtcHLjAGo5mTVzSjqGuw=="
+secured: "WizUL1PYX+z/GYYcz7ceshcmCbWQ8jqahQ/YWBtOPPwYL3FkzKCBGqKzQTB4kQmZ6lwoR/3eqYTcPQVA9iP7RVs+T8STOlG+30/57qRKxA3ahICAVFW5FtqiiQjmk5ot4CLJjAse+SMs6iOgPvENwG0KMjQhJwhLnJHYT35Q8Xnx396m/OOdeXiOqp/0CeejOp06q8TffKxgcCP9rPI/zq010nb2lwch5GFWf9Yk/+V/6jqmZyf6ZSIBspS8IBiraoxYYUrAlYOEihoWC0ctGthhMaDxntqY55JRyIPA/q0EoJAphxGWuF8jW5e+GwjsFCZ16GQO/2tjLKG3Uz0Nsne3hXJupl5vys9lM46hqBU=;y7wLD7ts88vkRtR93ubCHg=="
 ---
 
