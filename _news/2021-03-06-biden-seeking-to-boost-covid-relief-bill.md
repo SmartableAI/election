@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts"
-excerpt: "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said."
-publishedDateTime: 2021-01-23T18:57:00Z
-originalUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912"
-webUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912"
-ampWebUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
+title: "Biden seeking to boost COVID relief bill"
+excerpt: "President Joe Biden convenes a White House round table, aiming to strike a \"conversation\" with people who would benefit from his $1.9 trillion COVID-19 relief package. \"People in the country are hurting right now,"
+publishedDateTime: 2021-03-05T22:17:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/05/biden-seeking-boost-covid-relief-bill/4601482001/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/05/biden-seeking-boost-covid-relief-bill/4601482001/"
 type: article
-quality: 113
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg"
-    width: 2500
-    height: 1668
+  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08f90f58-185b-4e02-ae08-a97d8115f362_poster.jpg?quality=10"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -335,6 +333,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts"
+    excerpt: "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said."
+    publishedDateTime: 2021-01-23T18:57:00Z
+    webUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912"
+    ampWebUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Biden says he won't settle for COVID-19 aid package that 'fails to meet the moment': White House"
     excerpt: "U.S. President Joe Biden told a group of Republican senators on Monday he hoped his proposed $1.9 trillion COVID-19 relief package could pass with bipartisan support in the U.S. Congress, but he \"will not settle for a package that fails to meet the moment,"
     publishedDateTime: 2021-02-02T01:53:00Z
@@ -417,20 +431,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
-  - title: "Biden seeking to boost COVID relief bill"
-    excerpt: "President Joe Biden convenes a White House round table, aiming to strike a \"conversation\" with people who would benefit from his $1.9 trillion COVID-19 relief package. \"People in the country are hurting right now,"
-    publishedDateTime: 2021-03-05T22:17:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/05/biden-seeking-boost-covid-relief-bill/4601482001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08f90f58-185b-4e02-ae08-a97d8115f362_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z
@@ -468,6 +468,6 @@ related:
         height: 683
         isCached: true
 
-secured: "kysPjqg0u4CCTN49uTUEo5KvWiBqWFEPcG3iy6eap1gH4tU47IWMne7Bj3nFRTSop/rCptJ3pB2o8SaC7vVO/8bcCKM1Pn+MXThRooxnN+avLPK7FSX6RWpXiV76NZOBAW7C+zA2f5yVpDjGu0tnggE20vrlQ12VRmB/iMrkrOCfGEscr9elP7tQW8ohuBw6TsAQQDXjbuvfowUZ88QhThwYn+bX7PujRkGPqEb8CG+OEru6C4uJMuqyzQqC983ywRWJu22NKf9tdMOj2AhYIDB1kK6eJ0aKF3rAFRw0NNOCVCjawPq2Vs1xUgKXFxvsazzkYm9Q5UajoGtnt23nBIpr7XSHJrylLNaYYLEiPgA=;LdfkOJo9zZhKAAxHbp7d4w=="
+secured: "HjVqbHr3+5cFeJH2YXRxph8mz2q7eOhcRj5qPh8ELm4y04mYRgvP9xhGCd8lUmK3A2po5qdCLIPWlSGmO55FWc9kYzpUVf8kNJcfl1kNFAvBxPDGhrOT4sIZ4X0F5rXj1YjkTFef36dKlbRF/VcU/7SSeIL0gnnVMQRcovBV8cqFCOZbWo/rFBzMpwmnQN3szXxpDp0O8EQ6mJuVdxjWPdzQQjf3F1hA55n4PMamTAlQpEsBO2nhKuZMyGTiJHL0/h4C7/j9y554NCtU0e09s8Qot/f/gbUDRB6Nk8q3owXNVXquqRxc7knMbqg1xzcYW/D1pZ95NyH+S+OIY+FuUgB5xJxVpn9J9MNeIK1JO/Y=;F10s9/ah1wSKczyMWYtZ5Q=="
 ---
 

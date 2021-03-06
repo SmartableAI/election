@@ -427,6 +427,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden seeking to boost COVID relief bill"
+    excerpt: "President Joe Biden convenes a White House round table, aiming to strike a \"conversation\" with people who would benefit from his $1.9 trillion COVID-19 relief package. \"People in the country are hurting right now,"
+    publishedDateTime: 2021-03-05T22:17:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/05/biden-seeking-boost-covid-relief-bill/4601482001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08f90f58-185b-4e02-ae08-a97d8115f362_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden says covid relief bill 'has to pass' with or without Republican support"
     excerpt: "President Joe Biden on Jan. 29 said the covid relief bill “has to pass” but did not say whether he is for budget reconciliation."
     publishedDateTime: 2021-01-29T19:53:00Z

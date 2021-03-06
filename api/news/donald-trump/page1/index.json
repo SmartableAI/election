@@ -59,6 +59,63 @@
       ]
     },
     {
+      "path": "_news/2021-03-06-does-bidens-normal-foreign-policy-need-a-dash-of-trump.md",
+      "title": "Does Biden’s 'normal’ foreign policy need a dash of Trump?",
+      "excerpt": "The administration has ambitious goals and a deliberate process. But it might need to get a little unconventional to see results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/03/05/biden-foreign-policy-trump-473919",
+      "originalUrl": "https://www.politico.com/news/2021/03/05/biden-foreign-policy-trump-473919",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/0c/d0/8e8949274a15961ca5be48edd33c/210305-joe-biden-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/05/biden-foreign-policy-trump-473919",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/05/biden-foreign-policy-trump-473919",
+      "publishedDateTime": "2021-03-05T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-trump-state-department-aide-charged-with-assault-at-capitol.md",
       "title": "Trump State Department aide charged with assault at Capitol",
       "excerpt": "A former State Department aide in President Donald Trump’s administration has been charged with participating in the deadly Capitol siege and assaulting officers",
@@ -384,7 +441,7 @@
       "originalUrl": "https://www.ibtimes.com/where-are-ivanka-trump-jared-kushner-donald-angry-son-law-report-3156764",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1521,58 +1578,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-trump-gives-first-public-speech-since-leaving-office-and-declares-journey-is-not-over.md",
-      "title": "Trump gives first public speech since leaving office and declares \"journey\" is not over",
-      "excerpt": "Former President Trump on Sunday gave his first public speech since he left office and was acquitted in his second Senate impeachment trial. CBS News political reporter Adam Brewster, CBSN political contributor and Democratic strategist Antjuan Seawright and Maggie's List spokeswoman Lauren Zelt join CBSN's Lana Zak to discuss the former president's speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/trump-gives-first-public-speech-since-leaving-office/",
-      "originalUrl": "https://www.cbsnews.com/video/trump-gives-first-public-speech-since-leaving-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/01/a09adc24-151c-414a-ae32-bc1db7b22730/thumbnail/1200x630/560ad0560a0efccd593d15e1c163f727/cbsn-fusion-trump-gives-first-public-speech-since-leaving-office-and-declares-journey-is-not-over-thumbnail-655544-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-28T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

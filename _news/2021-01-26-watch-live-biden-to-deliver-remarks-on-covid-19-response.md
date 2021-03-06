@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-st
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
 type: article
 quality: 125
-heat: 685
+heat: 705
 published: true
 
 provider:
@@ -417,6 +417,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "Biden seeking to boost COVID relief bill"
+    excerpt: "President Joe Biden convenes a White House round table, aiming to strike a \"conversation\" with people who would benefit from his $1.9 trillion COVID-19 relief package. \"People in the country are hurting right now,"
+    publishedDateTime: 2021-03-05T22:17:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/05/biden-seeking-boost-covid-relief-bill/4601482001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08f90f58-185b-4e02-ae08-a97d8115f362_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z
