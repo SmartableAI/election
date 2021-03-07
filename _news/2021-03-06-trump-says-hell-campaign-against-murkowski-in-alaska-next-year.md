@@ -1,14 +1,14 @@
 ---
 category: news
-title: "McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict"
-excerpt: "Senate Majority Leader Mitch McConnell has told associates that he thinks President Donald Trump committed impeachable offenses when he incited a deadly mob to attack the US Capitol last week and that he's \"pleased\" Democrats are working to impeach the President, The New York Times reported Tuesday.\n"
-publishedDateTime: 2021-01-12T22:54:21Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rHZZFgzp_XU/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rHZZFgzp_XU/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
+title: "Trump says he'll campaign against Murkowski in Alaska next year "
+excerpt: "Former President Donald Trump said Saturday he plans to campaign against GOP Sen. Lisa Murkowski in Alaska next year when she's up for reelection, intensifying his pledges to oppose GOP lawmakers who have bucked him.\n    \n"
+publishedDateTime: 2021-03-06T22:41:14Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NYjpwCZLGlA/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NYjpwCZLGlA/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/murkowski-trump-endorsement-alaska-senate-race-2022/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/murkowski-trump-endorsement-alaska-senate-race-2022/index.html"
 type: article
-quality: 154
+quality: 175
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208095505-lisa-murkowski-0204-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -47,19 +47,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump says he'll campaign against Murkowski in Alaska next year "
-    excerpt: "Former President Donald Trump said Saturday he plans to campaign against GOP Sen. Lisa Murkowski in Alaska next year when she's up for reelection, intensifying his pledges to oppose GOP lawmakers who have bucked him.\n    \n"
-    publishedDateTime: 2021-03-06T22:41:14Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NYjpwCZLGlA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/murkowski-trump-endorsement-alaska-senate-race-2022/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/murkowski-trump-endorsement-alaska-senate-race-2022/index.html"
+  - title: "McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict"
+    excerpt: "Senate Majority Leader Mitch McConnell has told associates that he thinks President Donald Trump committed impeachable offenses when he incited a deadly mob to attack the US Capitol last week and that he's \"pleased\" Democrats are working to impeach the President, The New York Times reported Tuesday.\n"
+    publishedDateTime: 2021-01-12T22:54:21Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rHZZFgzp_XU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/12/politics/mcconnell-impeachment-trump-capitol-riot/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 154
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208095505-lisa-murkowski-0204-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -106,6 +106,6 @@ related:
         height: 773
         isCached: true
 
-secured: "GYDRuDwdBdf1fQkqAx4oFUNwnyWKereunEDdZRUCOF9Bhqly8rgDrMyPinerTC6Rfm0Yok1rQERCmSeC9i3L4A74MUD0N7GuE3Vhs0XHBPei5FMHQy+QEbtdoYWMXPOl/9OYCST7+NW+K22W5YvXtQC8JTjc2A7qMV4WYT2jGhwq4ufaiDdHP1nKHriZYZw0EFdbUPrVS+nCkeLvDKcHzg4bFsxIt/FEPnhldn0hTRZNhwesQanDhas1A5rgJ8dcRw4vXWhSjEiEhWHrI78yw4cPfmYrDW8nNe7H6EQn8nsOhWMkYqBZuIZ745IiD3MTUKs7CJLlJF7bQXfeQi2A6mhguOFoxOOd2o9GFdgioVw=;JRa//E2dcf92UnipVJMgrQ=="
+secured: "xf1uJtgYI+kwcqVlboSeMsW+UN6o4YKhLZXUd9C1ImiWZdGfR75ex7sHI1EfsH0frEmS+qeMdH67K/YMkVdsEVUnWNKN1M8ykM4RspMgOZMsShJhbXFKKKaVztMjZeikSJl9KH+WmcGrlWCACWW2vAW4Z/qBo6/+T7BgZNnUS5LWFvkpQHKONU26T9rqinO5oVcq+h9PWcePYPHK6ec1RGhA19By0xMErldMd2d5yqX1U9zV+5+807lsyhVNP+maeQBkdnh7a8coz6haFBRX/rppjbnZ8SOtMRDVXhGs7xp1KlJU5gPTn5Af2JDvXdi4nwVvaxTYDnpzqVVbBCPaXVP589/7SO0Mzr7HucTFZFE=;fZAskGiUGxvKmdz66JkDPQ=="
 ---
 

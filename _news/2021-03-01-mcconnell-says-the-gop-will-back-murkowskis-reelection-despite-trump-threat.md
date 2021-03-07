@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-mur
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html"
 type: article
 quality: 187
-heat: 267
+heat: 287
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump says he'll campaign against Murkowski in Alaska next year "
+    excerpt: "Former President Donald Trump said Saturday he plans to campaign against GOP Sen. Lisa Murkowski in Alaska next year when she's up for reelection, intensifying his pledges to oppose GOP lawmakers who have bucked him.\n    \n"
+    publishedDateTime: 2021-03-06T22:41:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NYjpwCZLGlA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/murkowski-trump-endorsement-alaska-senate-race-2022/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/murkowski-trump-endorsement-alaska-senate-race-2022/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210208095505-lisa-murkowski-0204-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "McConnell believes impeachment push will help rid Trump from the GOP, but has not said if he will vote to convict"
     excerpt: "Senate Majority Leader Mitch McConnell has told associates that he thinks President Donald Trump committed impeachable offenses when he incited a deadly mob to attack the US Capitol last week and that he's \"pleased\" Democrats are working to impeach the President, The New York Times reported Tuesday.\n"
     publishedDateTime: 2021-01-12T22:54:21Z

@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden administration fires Trump-appointed lawyer who refused to resign"
+    excerpt: "The White House fired the Trump-appointed General Counsel of the U.S. Equal Employment Opportunity Commission (EEOC) Friday evening, following her refusal to step down."
+    publishedDateTime: 2021-03-07T00:15:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/75unv9xGvgk/biden-administration-fires-trump-appointed-lawyer-who-refused-to-resign"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-fires-trump-appointed-lawyer-who-refused-to-resign.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-fires-trump-appointed-lawyer-who-refused-to-resign.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c656c674-2564-4f6f-b575-d34870356e69/19881b2f-c075-47e8-b76b-c09ed84360f5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Calls to impeach Trump gain momentum, Republicans ask Biden to intervene"
     excerpt: "Congressional calls for the impeachment of President Trump are gaining traction on both sides of the aisle, as lawmakers announced Saturday that impeachment would be introduced in the House Monday."
     publishedDateTime: 2021-01-10T02:28:02Z

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Psaki pressed to explain difference between Trump and Biden migrant facilities for children"
-excerpt: "Amid criticism for the reopening of a Trump-era child migrant facility, White House press secretary Jen Psaki said it was a “difficult choice” to reopen the Carrizo Springs, Texas facility, but the best option available. "
-publishedDateTime: 2021-02-24T19:57:59Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jBCtAuYqyTg/psaki-difference-trump-biden-migrant-facilities-children"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jBCtAuYqyTg/psaki-difference-trump-biden-migrant-facilities-children"
-ampWebUrl: "https://www.foxnews.com/politics/psaki-difference-trump-biden-migrant-facilities-children.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-difference-trump-biden-migrant-facilities-children.amp"
+title: "Biden administration fires Trump-appointed lawyer who refused to resign"
+excerpt: "The White House fired the Trump-appointed General Counsel of the U.S. Equal Employment Opportunity Commission (EEOC) Friday evening, following her refusal to step down."
+publishedDateTime: 2021-03-07T00:15:08Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/75unv9xGvgk/biden-administration-fires-trump-appointed-lawyer-who-refused-to-resign"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/75unv9xGvgk/biden-administration-fires-trump-appointed-lawyer-who-refused-to-resign"
+ampWebUrl: "https://www.foxnews.com/politics/biden-administration-fires-trump-appointed-lawyer-who-refused-to-resign.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-fires-trump-appointed-lawyer-who-refused-to-resign.amp"
 type: article
-quality: 180
+quality: 190
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://amp.spot.im/loader.png"
-    width: 375
-    height: 815
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c656c674-2564-4f6f-b575-d34870356e69/19881b2f-c075-47e8-b76b-c09ed84360f5/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -94,22 +94,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden administration fires Trump-appointed lawyer who refused to resign"
-    excerpt: "The White House fired the Trump-appointed General Counsel of the U.S. Equal Employment Opportunity Commission (EEOC) Friday evening, following her refusal to step down."
-    publishedDateTime: 2021-03-07T00:15:08Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/75unv9xGvgk/biden-administration-fires-trump-appointed-lawyer-who-refused-to-resign"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-fires-trump-appointed-lawyer-who-refused-to-resign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-fires-trump-appointed-lawyer-who-refused-to-resign.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c656c674-2564-4f6f-b575-d34870356e69/19881b2f-c075-47e8-b76b-c09ed84360f5/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Calls to impeach Trump gain momentum, Republicans ask Biden to intervene"
     excerpt: "Congressional calls for the impeachment of President Trump are gaining traction on both sides of the aisle, as lawmakers announced Saturday that impeachment would be introduced in the House Monday."
@@ -286,6 +270,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Psaki pressed to explain difference between Trump and Biden migrant facilities for children"
+    excerpt: "Amid criticism for the reopening of a Trump-era child migrant facility, White House press secretary Jen Psaki said it was a “difficult choice” to reopen the Carrizo Springs, Texas facility, but the best option available. "
+    publishedDateTime: 2021-02-24T19:57:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jBCtAuYqyTg/psaki-difference-trump-biden-migrant-facilities-children"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-difference-trump-biden-migrant-facilities-children.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-difference-trump-biden-migrant-facilities-children.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
   - title: "Donald Trump Jr. hits Biden, Cuomo, CNN, 'Lincoln Project Liz' Cheney in fiery CPAC speech"
     excerpt: "Donald Trump Jr. made a splash at this year's Conservative Political Action Conference (CPAC) by knocking a slew of political foes, including President Biden, New York Gov. Andrew Cuomo, and Rep. Liz Cheney, R-Wy., in a fiery speech on Friday. "
@@ -1052,6 +1052,6 @@ related:
         height: 500
         isCached: true
 
-secured: "QQFP9Tlii1c/MWOm5+F0yUXEeQRiTgD2PRjVmmQN3uFk9obJKHn5QUPuy1ajHlEAYav5l2scWzpjTwiRtOdFbf0sF5cLSlfqPL8qvGS9JDAcYy3NZbtRgbSVZ7e8tSYlat7nRmfvvS0D3upwTx/IT9U7i1CWdZLFl/ptrIB8Fq0jGIyuMGDpsVfsv/0BRkIP15ETQZmhYY7axEOWjcgUn2w4+iVZP5CAxi8D1ivpbJ5Vy+hWYMdi/+lP3UNsG6bNWCNVcJPTxda8vDCZd8QHSyc/6Epvw2CO5JmnUYl5ZbX8PApDUCH0v3LOO8uEx+Ke5UIem3j5KygLkaK39LuneM4tu6dtjHsYo9zVhX6PtmY=;hKssGjXerh5eFqcpoS5A0Q=="
+secured: "WXN2vGkRjP5WMLjuA8wzYmZBgdFi4org+5b/RdpYUU03YMrH3r84v0Awz1SbvcYDVpGEwlvymtlmJtdCcUJ3gPyFOz+/QvZbVBDymAwTg9blJi78tvheefgvfYG1G+rzxxCNNRz0pjwoUtx4wQfc20+HR1VRWCUgtsGjLSmvP/ZL0LrSAbfPfL+nlEGRcvTT7HIzRHGuj7a+Czh0VLMtsAchZXsSlmF8XE0dBj309e2i9c6QOjPFAFrHPRLgfJ2jEbqAx3ARyfqESPpHims/1DYWLdV/zgcNbT/5Ou6aff2mATILfOBa2YVsNT5vWkLY1BgHAqG+dizg6q427ZbRJ0cpUsabBebv4cw8DFFelVM=;BpM20705vdSLskG1iO5FaQ=="
 ---
 
