@@ -78,6 +78,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia district attorney investigating Trump hires lawyer with expertise in racketeering cases"
+    excerpt: "A lawyer with deep expertise in racketeering cases has been retained by the Atlanta-area district attorney's office investigating former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-03-07T00:47:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mkP1toe70iI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224952-fani-willis-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "TGFOu3vgjI7Gd0eUa6sA1ozxGQg2VS7tmgzq6Lrox6Je7OySv0tW5Ti4Mx2fT43t8QAGq8HPYcGVoBG9IfLPSfYW6c5VkVKM11h1K6q6HAgYeJy5rLHPlVpyenxge/ElF6Jo65A1OaaSl47IS0mgDnTyMXA+W7OrCa0w23u/UCJhD4xSWr3X4WEbmDpl0pqEL9LYni8AV/w/jlXUvFMFp8GZDmaHOpXD5Ug86maI3hlI9eMu6oTBGtKB3hzA/72bnCChOzFla1Lb3uWvYJnjZIe4P/zcZa6lOdk32XhmyqcaV5LPplmeTVbZ9bv2cilF4Qr+hkY/5uyEjbfiVZfebX2AGjILHJhZJLpwQfKuKpY=;RsTadHKeq6cgbtB0eLaVgw=="
 ---

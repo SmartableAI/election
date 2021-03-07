@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden meets with U.S. lawmakers on infrastructure push"
+    excerpt: "President Joe Biden met on Thursday for more than an hour with a bipartisan group of lawmakers on the White House's planned pursuit of a massive jump in spending on projects to restore crumbling U.S."
+    publishedDateTime: 2021-03-07T01:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-lawmakers-idUSKBN2AW29R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW29R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW29R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553791070&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2319D"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Biden hails Senate passage of virus aid bill"
     excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
     publishedDateTime: 2021-03-06T20:13:00Z

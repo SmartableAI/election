@@ -2,6 +2,62 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-01-27-trumps-youtube-channel-to-remain-suspended-after-capitol-riot-due-to-ongoing-potential-for-violence.md",
+      "title": "Trump's YouTube channel to 'remain suspended' after Capitol riot due to 'ongoing potential for violence'",
+      "excerpt": "Former President Donald Trump's YouTube channel will \"remain suspended,\" the company said Wednesday, pointing to an \"ongoing potential for violence\" in the wake of the Capitol riot on Jan. 6.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqJGzoF9Mys/trump-youtube-channel-remain-suspended-potential-for-violence-capitol-riot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqJGzoF9Mys/trump-youtube-channel-remain-suspended-potential-for-violence-capitol-riot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 198,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-youtube-channel-remain-suspended-potential-for-violence-capitol-riot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-youtube-channel-remain-suspended-potential-for-violence-capitol-riot.amp",
+      "publishedDateTime": "2021-01-27T07:30:52-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-mike-pence-is-homeless.md",
       "title": "Mike Pence Is Homeless",
       "excerpt": "Pastor Crockett: I would like to welcome everyone to Lovejoy’s Church of Spirits and Blessings, which, as you all know, is a Pentecostal, Baptist, Catholic, atheist, Muslim, trap house for the lord.",
@@ -1157,7 +1213,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 475,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -1306,62 +1362,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-hannity-says-bidens-policies-will-fail-while-media-takes-sycophantic-vacation.md",
-      "title": "Hannity says Biden’s policies will 'fail’ while media takes ‘sycophantic vacation’",
-      "excerpt": "\"Hannity\" host Sean Hannity criticizes President Biden's beginnings in office and forecasts a disastrous end.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H9xJIy4mBMA/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/H9xJIy4mBMA/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/41141ae6-77e2-4f49-b7e0-2669ff9cbe70/a12142e6-4d90-4d19-98c7-5e790e97839a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hannity-bidens-policies-will-always-fail-while-media-taking-sycophantic-vacation.amp",
-      "publishedDateTime": "2021-01-26T01:55:18-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

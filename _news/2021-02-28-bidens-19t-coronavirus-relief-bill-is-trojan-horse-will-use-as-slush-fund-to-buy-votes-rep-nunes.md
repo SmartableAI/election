@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to sign voter registration executive order as he pushes Senate to pass sweeping HR 1 bill"
+    excerpt: "President Biden is scheduled to sign an executive order designed to increase voter access on Sunday as he pushes the Senate to pass H.R. 1, House Democrats' sweeping voting rights package."
+    publishedDateTime: 2021-03-07T13:44:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IE-fnE_wPkc/biden-voter-registration-executive-order-senate-hr-1"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-voter-registration-executive-order-senate-hr-1.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voter-registration-executive-order-senate-hr-1.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Biden-Voting-Executive-Order-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "VkY1IAj7IPwnY9kKxHwxZM8kv26xUdK4ksT8lLCrNiAbDRbkcTgAgdmUEnrxGjhdpf5NULQ7vkFeuhO3OPccnqSiWxMQT2/iskJObaRoqoCwoBNfe9x26UZztiDcrydkQKBj09btcdn5kNjYJbwtwvBtDkeqgXPixzVDTuU9sT5UUOA2j0ICUM98/ZJG+I4Oa9ydJhfy7RTbXZY0E0/1YF8IlgkZ8+9DrGkaxtfIbR6TM0emJ9vP+ozhc76lq+7rXDsFfyfV2jQO0+L6ylmhPq0PqD//FEWwdR6OjVFeTEOFlUkuZ4svVVVRPj5pz3NB6Kk1rra9NJd7NOPJESiyOdGfGc3/ZRJFQcQ9uG7hBuc=;3NJCkWwR/BvixG8lRNMbUQ=="
 ---

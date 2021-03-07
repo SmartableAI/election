@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-02-murkowski-seeks-white-houses-attention-on-alaskas-economic-concerns-as-she-weighs-biden-budget-pick.md",
+      "title": "Murkowski seeks White House's 'attention' on Alaska's economic concerns as she weighs Biden budget pick",
+      "excerpt": "Republican Sen. Lisa Murkowski, who holds the key to President Joe Biden's nominee for budget director, is pushing the White House about some of the new administration's policies that have a direct impact on Alaska's economy, namely on energy matters, according to the second-ranking Senate Republican",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tp8QBsys7qA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tp8QBsys7qA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210208095505-lisa-murkowski-0204-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/02/politics/lisa-murkowski-tanden-nomination-latest/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/lisa-murkowski-tanden-nomination-latest/index.html",
+      "publishedDateTime": "2021-03-02T09:20:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-a-closely-reported-look-at-joe-bidens-lucky-path-to-the-white-house.md",
       "title": "A Closely Reported Look at Joe Biden’s ‘Lucky’ Path to the White House",
       "excerpt": "In their new book, the journalists Jonathan Allen and Amie Parnes recount how Biden’s campaign overcame a number of moments when its chances were nearly sunk.",
@@ -1290,62 +1346,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-acosta-trump-opened-up-fire-hose-of-falsehoods-at-cpac.md",
-      "title": "Acosta: Trump opened up 'fire hose of falsehoods' at CPAC",
-      "excerpt": "Former President Donald Trump repeated his election lies on stage at the Conservative Political Action Conference in Orlando, Florida, looking to reclaim his role as the Republican Party's kingmaker as he positions himself to play a major role in the 2022 midterm elections.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Ab7llD1kfw/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1Ab7llD1kfw/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210228165529-02-donald-trump-cpac-0228-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/28/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/28/trump-cpac-speech-election-lies-acosta-nr-sot-vpx.cnn",
-      "publishedDateTime": "2021-02-28T16:01:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

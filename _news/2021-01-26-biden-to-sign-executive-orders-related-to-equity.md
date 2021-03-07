@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html"
 type: article
 quality: 175
-heat: 475
+heat: 495
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127161713-biden-signs-executive-actions-climate-crisis-coronavirus-collins-dnt-lead-vpx-00005210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to sign executive order expanding voting access"
+    excerpt: "President Joe Biden is expected to sign an executive order Sunday expanding voting access in what the White House calls \"an initial step in this Administration's efforts to protect the right to vote and ensure all eligible citizens can freely participate in the electoral process.\"\n    \n"
+    publishedDateTime: 2021-03-07T13:37:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LMW_OHGWQec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/voting-access-executive-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/voting-access-executive-order/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301153953-03-voting-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia district attorney investigating Trump hires lawyer with expertise in racketeering cases"
+    excerpt: "A lawyer with deep expertise in racketeering cases has been retained by the Atlanta-area district attorney's office investigating former President Donald Trump.\n    \n"
+    publishedDateTime: 2021-03-07T00:47:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mkP1toe70iI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224952-fani-willis-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump aides build out the MAGA-verse with new groups"
     excerpt: "A number of Trump's top campaign aides and senior administration officials are launching nonprofits or super PACs."
     publishedDateTime: 2021-03-03T09:37:00Z

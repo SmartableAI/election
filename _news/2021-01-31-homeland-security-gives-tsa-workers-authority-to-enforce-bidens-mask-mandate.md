@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to sign executive order expanding voting access"
+    excerpt: "President Joe Biden is expected to sign an executive order Sunday expanding voting access in what the White House calls \"an initial step in this Administration's efforts to protect the right to vote and ensure all eligible citizens can freely participate in the electoral process.\"\n    \n"
+    publishedDateTime: 2021-03-07T13:37:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LMW_OHGWQec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/voting-access-executive-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/voting-access-executive-order/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301153953-03-voting-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration prepares to open overflow facility for migrant children"
     excerpt: "The Biden administration is opening an overflow facility for unaccompanied migrant children apprehended at the US-Mexico border, the federal agency tasked with the children's care told CNN in a statement.\n    \n"
     publishedDateTime: 2021-02-02T21:59:25Z

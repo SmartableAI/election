@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to sign executive order expanding voting access"
+    excerpt: "President Joe Biden is expected to sign an executive order Sunday expanding voting access in what the White House calls \"an initial step in this Administration's efforts to protect the right to vote and ensure all eligible citizens can freely participate in the electoral process.\"\n    \n"
+    publishedDateTime: 2021-03-07T13:37:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LMW_OHGWQec/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/voting-access-executive-order/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/voting-access-executive-order/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301153953-03-voting-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Homeland Security gives TSA workers authority to enforce Biden's mask mandate"
     excerpt: "The Department of Homeland Security said Sunday that Transportation Security Administration workers now have the authority to enforce President Joe Biden's transportation mask mandate \"at TSA screening checkpoints and throughout the commercial and public transportation system.\"\n    \n"
     publishedDateTime: 2021-01-31T19:44:16Z
