@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "With Covid relief and stimulus checks in sight, Biden asks for faith in US democracy"
+    excerpt: "Democrats muscled past unified Republican opposition, resolved their own last-minute identity crisis and are on the cusp of delivering a massive Covid relief bill that will put $1,400 checks in the pockets of millions of Americans, shore up unemployment for the millions still out of work and notch the"
+    publishedDateTime: 2021-03-07T05:05:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UZ3TVQpDej0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/biden-covid-relief-stimulus-checks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/biden-covid-relief-stimulus-checks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 168
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306205527-01-joe-biden-0305-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Here's what a 'vote-a-rama' is (and what it means for Biden's stimulus)"
     excerpt: "Senate Democrats' push to quickly pass President Joe Biden's Covid-19 relief package is about to meet a time-consuming and stamina-challenging speed bump known as a \"vote-a-rama.\""
     publishedDateTime: 2021-03-04T20:40:00Z

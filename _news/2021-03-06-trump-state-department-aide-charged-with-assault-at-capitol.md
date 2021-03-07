@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-depar
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 285
+heat: 305
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
         width: 979
         height: 551
+        isCached: true
+  - title: "Trump appointee to State Dept. Federico Klein arrested in Capitol attack; stunned mom says he was 'Boy Scout type'"
+    excerpt: "Federico Klein was seen on camera violently shoving a riot shield into an officer during the Jan. 6 Capitol siege, according to court documents."
+    publishedDateTime: 2021-03-07T05:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/05/trump-appointee-state-dept-federico-klein-charged-capitol-riots/4593783001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4593783001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4593783001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/a2dac800-51ec-458f-9e34-02191eb985bd-Capitol_Police.jpg?auto=webp&crop=4999,2812,x1,y753&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
     excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."

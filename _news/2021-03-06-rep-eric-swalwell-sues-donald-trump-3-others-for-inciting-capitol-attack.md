@@ -123,6 +123,22 @@ related:
         width: 979
         height: 551
         isCached: true
+  - title: "Trump appointee to State Dept. Federico Klein arrested in Capitol attack; stunned mom says he was 'Boy Scout type'"
+    excerpt: "Federico Klein was seen on camera violently shoving a riot shield into an officer during the Jan. 6 Capitol siege, according to court documents."
+    publishedDateTime: 2021-03-07T05:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/05/trump-appointee-state-dept-federico-klein-charged-capitol-riots/4593783001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4593783001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4593783001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/a2dac800-51ec-458f-9e34-02191eb985bd-Capitol_Police.jpg?auto=webp&crop=4999,2812,x1,y753&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
     excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
     publishedDateTime: 2021-03-03T14:55:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trum
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561?amp=1"
 type: article
 quality: 145
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -79,6 +79,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/27/f6ac56df-c1c4-4517-97b7-4a9d4432c6cc/thumbnail/1200x630/72421f3248e10fdac7e53c8e4aaea53f/gettyimages-1304272594.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Lucky review: how Biden beat Trump – and doubters like Obama and Hillary"
+    excerpt: "Jonathan Allen and Amie Parnes deliver a clear-eyed account of an election which could not cure a country’s wounds"
+    publishedDateTime: 2021-03-07T05:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/2c7fcf5a2f1313f8aa336c4fa2504fdf6743d221/0_126_4831_2899/master/4831.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ee28447913645e84fd822afb3fef60c2"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden raises social cost of carbon, restoring key climate policy tool slashed by Trump"
     excerpt: "The social cost of carbon is an estimate of the long-term damage, in dollars, of carbon on our environment. Former President Trump disbanded the interagency working group (IWG) that determined the number in 2017,"

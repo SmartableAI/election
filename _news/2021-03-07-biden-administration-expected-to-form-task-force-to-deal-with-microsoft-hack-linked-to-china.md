@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden says administration will 'probably' mail out millions of masks soon"
-excerpt: "President Joe Biden said Tuesday the White House will \"probably\" move to send face masks directly to Americans as the country continues to grapple with the coronavirus pandemic. It's a plan originally proposed by health officials during the Trump administration but was blocked by the former President.\n"
-publishedDateTime: 2021-02-23T20:39:18Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONiUqXYU7rQ/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONiUqXYU7rQ/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
+title: "Biden administration expected to form task force to deal with Microsoft hack linked to China"
+excerpt: "The Biden administration is expected to put together a task force to deal with major cyber intrusions that Microsoft said this week were linked to China, according to a US official.\n    \n"
+publishedDateTime: 2021-03-07T00:04:35Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-6VknEZ-2Ew/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-6VknEZ-2Ew/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/microsoft-hack-task-force/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/microsoft-hack-task-force/index.html"
 type: article
-quality: 174
+quality: 164
 heat: -1
 published: false
 
@@ -25,7 +25,7 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221115959-anthony-fauci-mask-210121-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303120438-microsoft-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303231938-joe-biden-210303-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says administration will 'probably' mail out millions of masks soon"
+    excerpt: "President Joe Biden said Tuesday the White House will \"probably\" move to send face masks directly to Americans as the country continues to grapple with the coronavirus pandemic. It's a plan originally proposed by health officials during the Trump administration but was blocked by the former President.\n"
+    publishedDateTime: 2021-02-23T20:39:18Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ONiUqXYU7rQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/23/politics/biden-masks-coronavirus/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210221115959-anthony-fauci-mask-210121-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -156,22 +172,6 @@ related:
     quality: 164
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210222181225-03-biden-covid-deaths-0222-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration expected to form task force to deal with Microsoft hack linked to China"
-    excerpt: "The Biden administration is expected to put together a task force to deal with major cyber intrusions that Microsoft said this week were linked to China, according to a US official.\n    \n"
-    publishedDateTime: 2021-03-07T00:04:35Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-6VknEZ-2Ew/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/microsoft-hack-task-force/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/microsoft-hack-task-force/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303120438-microsoft-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -256,6 +256,6 @@ related:
         height: 619
         isCached: true
 
-secured: "AG4K0KR/SusnrLqHkQjBzGLoDZ+ajPMZPUCBhLP3WXmw6pLtaCJFF+G2TVg4Bf29q/4uHEureUJjmCg8oLCJK440XJBkignMDIwPt8Ww0uC3x655wMvxb8duvbfCxGIamZ3CTyX1gjBe31vyGRiWjYanolDBqdJ/MycHPcktx0zLO4SM6UneRFxb5zHsRN5u9CICU4AThkOEhFISMu1i6S/tUd3Wbogbyz3eEShRFd9KsjXRHr1Wh1rsRnHJ7EN01dqM6LQuFJc2XNFTVBruiWD5LQZKDbYnyAqgIKpAVMDhY7wGsSWhsLC1/3ySt8IusHnTxpGQ+ipWM/pJc5A3YLEis0HS9Q0bmwS6BXmoArU=;Wym7zIkSSZSZ8xoXGq9iMg=="
+secured: "TEnt8gvywSD0tAM+iWeMSE1+EbAQCXOhpLXh2ctDLcWk+1/ItsGi6/l11yLEyeZ7GAy+p9y/Hdivu/S90iNQV8KahTwTBW/XtraMfSX4isqPmPrvpeQ2EMJq+kjTD5/tL6/o2WRq1jQ09usbPefaed3XIyC6gNSWwEtp9kbQk+KDI+q/WLsi9PIkOtmCKZ4SYqQi3YrlZiFZhdqIRmF4oK++6J/lMwsuypO5mo7krHtC/Q6tjf38uOdptbptlVDf1zLCkhcZg4cmUoYejyn8Hl7gkfzRfYtgHkZ728ekjSH9q/TMA6VZ1pn70JSWV1HmUyLWW8Z93PnUNtyXBdFdj5YSso8/T1gQ8s0EDck+aAo=;RfpFf7bKPYWAsxU2QTwJDQ=="
 ---
 

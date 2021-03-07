@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Here's what a 'vote-a-rama' is (and what it means for Biden's stimulus)"
-excerpt: "Senate Democrats' push to quickly pass President Joe Biden's Covid-19 relief package is about to meet a time-consuming and stamina-challenging speed bump known as a \"vote-a-rama.\""
-publishedDateTime: 2021-03-04T20:40:00Z
-originalUrl: "https://www.cnn.com/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
-webUrl: "https://www.cnn.com/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
+title: "With Covid relief and stimulus checks in sight, Biden asks for faith in US democracy"
+excerpt: "Democrats muscled past unified Republican opposition, resolved their own last-minute identity crisis and are on the cusp of delivering a massive Covid relief bill that will put $1,400 checks in the pockets of millions of Americans, shore up unemployment for the millions still out of work and notch the"
+publishedDateTime: 2021-03-07T05:05:50Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UZ3TVQpDej0/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UZ3TVQpDej0/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/biden-covid-relief-stimulus-checks/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/biden-covid-relief-stimulus-checks/index.html"
 type: article
-quality: 135
+quality: 168
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301111918-01-us-capitol-2021-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306205527-01-joe-biden-0305-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -64,19 +63,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "With Covid relief and stimulus checks in sight, Biden asks for faith in US democracy"
-    excerpt: "Democrats muscled past unified Republican opposition, resolved their own last-minute identity crisis and are on the cusp of delivering a massive Covid relief bill that will put $1,400 checks in the pockets of millions of Americans, shore up unemployment for the millions still out of work and notch the"
-    publishedDateTime: 2021-03-07T05:05:50Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UZ3TVQpDej0/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/biden-covid-relief-stimulus-checks/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/biden-covid-relief-stimulus-checks/index.html"
+  - title: "Here's what a 'vote-a-rama' is (and what it means for Biden's stimulus)"
+    excerpt: "Senate Democrats' push to quickly pass President Joe Biden's Covid-19 relief package is about to meet a time-consuming and stamina-challenging speed bump known as a \"vote-a-rama.\""
+    publishedDateTime: 2021-03-04T20:40:00Z
+    webUrl: "https://www.cnn.com/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/vote-a-rama-covid-19-relief/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 168
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306205527-01-joe-biden-0305-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301111918-01-us-capitol-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -97,6 +96,6 @@ related:
         height: 550
         isCached: true
 
-secured: "IBiEDqXILj1TVx46AS8ujbv5ICycOaEBSoi2L90svEYXOQs24VkKCszS2Ub71E/DkyTo00ERsmaD69gSp1RSGjspm2eKJwbd+DSX45OnnISuIb8OIFn2aKCKC8KIbeGm3vbQhW79ZQXm1/1ddC6BOskmp6iQueAblMKnQVvUSWyJStTb8iFTa1HkieqkhKJYtkkynYJ7cQd/pyLP7UzybJHP72N/IdsyM6F7wvmZbjWqQgtYxBTgP7N+/Pk54vsNoF9qTRhjcOTwN73MwVpqYa1Ngp70j+jjD9iGmY1bwG7eo6XgNre+ZcIA+ea3+5fx1BPCaQACM9aE+XZsoEaMk3tC76FUOYP5yHw+tl72pRQ=;JMXwToN9gUxG8rbJKE+khQ=="
+secured: "rIE9kxVJDzORqgyDcYBzQ2fPSN/7o8lDVtLYrTpHY2vB8ax3xlsphquSgo41Elv0cIGh7iB48jMoD8uIBzqOZaR0ITOHjWPUovhvr+DhPPUykl9TTLi+mzD221/rRiSssKQB9TcIEaoNy8GfoTVN0Oj49tNi2ftSDFgLir1MZb40OgLRiVGI2Cv78KCcgfPi9xMEHH0h+VxgWeGTBEQ4soKIgZhqIvgI4/Fb/+SQAoQg2+98KKL82O62mXxuRRQa2ekfD11XzijBsaPpJVd1XixeoR/8uGOOvVaYwBV8pGA3muU2xiE/1piIKckYxINwQi1/wf/uEumj8ZVc+a71J4XLXyTnco9Grdd4Oh4lCxE=;ApO/YckFvvRKfefFbKmsxA=="
 ---
 

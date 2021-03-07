@@ -159,6 +159,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration expected to form task force to deal with Microsoft hack linked to China"
+    excerpt: "The Biden administration is expected to put together a task force to deal with major cyber intrusions that Microsoft said this week were linked to China, according to a US official.\n    \n"
+    publishedDateTime: 2021-03-07T00:04:35Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-6VknEZ-2Ew/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/microsoft-hack-task-force/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/microsoft-hack-task-force/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303120438-microsoft-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration sanctions senior Russian officials over Navalny poisoning and imprisonment"
     excerpt: "The Biden administration has slapped sanctions on seven Russian officials in response to the poisoning and imprisonment of opposition leader Alexey Navalny.\n    \n"
     publishedDateTime: 2021-03-02T14:18:39Z

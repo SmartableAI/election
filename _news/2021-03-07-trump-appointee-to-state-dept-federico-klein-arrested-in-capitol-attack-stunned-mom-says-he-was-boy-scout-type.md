@@ -1,22 +1,22 @@
 ---
 category: news
-title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
-excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
-publishedDateTime: 2021-03-05T02:45:00Z
-originalUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/"
-webUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/"
-ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
+title: "Trump appointee to State Dept. Federico Klein arrested in Capitol attack; stunned mom says he was 'Boy Scout type'"
+excerpt: "Federico Klein was seen on camera violently shoving a riot shield into an officer during the Jan. 6 Capitol siege, according to court documents."
+publishedDateTime: 2021-03-07T05:00:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/05/trump-appointee-state-dept-federico-klein-charged-capitol-riots/4593783001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/03/05/trump-appointee-state-dept-federico-klein-charged-capitol-riots/4593783001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4593783001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4593783001"
 type: article
-quality: 121
+quality: 103
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/a2dac800-51ec-458f-9e34-02191eb985bd-Capitol_Police.jpg?auto=webp&crop=4999,2812,x1,y753&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -79,6 +79,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
+    excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
+    publishedDateTime: 2021-03-05T02:45:00Z
+    webUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/"
+    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Congressman sues Trump over deadly Capitol siege, charges civil rights violation"
     excerpt: "A Democratic congressman has sued Donald Trump, his lawyer Rudy Giuliani and other allies of the former president over the deadly attack on the U.S. Capitol when violent Trump supporters tried to stop the certification of Trump's election defeat."
     publishedDateTime: 2021-03-05T23:52:00Z
@@ -110,22 +126,6 @@ related:
       - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
         width: 979
         height: 551
-        isCached: true
-  - title: "Trump appointee to State Dept. Federico Klein arrested in Capitol attack; stunned mom says he was 'Boy Scout type'"
-    excerpt: "Federico Klein was seen on camera violently shoving a riot shield into an officer during the Jan. 6 Capitol siege, according to court documents."
-    publishedDateTime: 2021-03-07T05:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/05/trump-appointee-state-dept-federico-klein-charged-capitol-riots/4593783001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4593783001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4593783001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 103
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/a2dac800-51ec-458f-9e34-02191eb985bd-Capitol_Police.jpg?auto=webp&crop=4999,2812,x1,y753&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
     excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
@@ -169,6 +169,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "xnRMxzEys5E5uNDgHC/S7SSYwS80tqvJg3mPIoByXKj6dG66FijJoIyfpNsYNRYUUCST5aQ6EBugn0W5Fq3DciDLCq2/p0Q+IFxh356uZfbcVhBWao//5vXLyYcxt+lcRVD5eLQHPyTUeP2DT89YzVfOd5M7+TBdO8r4NFqAfhYONLGanQ7cw0Dsy09wqqsBkau+J9kwg9F1HXP9/8clV+ty3oCsPfWwMI5myobghtYEzR2wc1BQhWTxJb/karxDe/DcNkmLxqo3jvWgytekNkS8CHTT8YU9/1jf3NlIeZj4xI+ESaNZTkQvsS69dhHV4DyiJKM2K4DtxmGqqEn/hdxmQSUmvOwcM29ovK8Yd2Q=;cwKOyPzyVtriMsTpbRWpvg=="
+secured: "psCPquHanzkdLw8I/OTKu9UZrPui+JOwMDyci08d36vVWxFULMB4gsYivsvPGMt4ZIQYTuOo5l9Vjcmhwf/ROwov9MgDk8Z+Q2GIISwo4nipY9TpOxGfJ31IAR6HfCTJJRinSmJVKsdJ1+y3BpQhgoIUhUyHi22jbLnaSayLKxf9i7AzBLeiVhmUkhEmnc2em83Klpz2ctFQWyJ8RsZmM5jgqbuGC8DV5+j9j8o0t8P9Xf8X8lNH4OiJSnEKdqJJwHf7WtdHSz5uJB4J3Bl+LNwSnekRDnF7FmHFOPXi3xZt4B7Nvqx21VVwa++cP2FLmPxw3p8kZoMVjqR710oDubUT1PX/yV548nVktTxnM70=;TWlZHXaITyYaENiUauYC8A=="
 ---
 

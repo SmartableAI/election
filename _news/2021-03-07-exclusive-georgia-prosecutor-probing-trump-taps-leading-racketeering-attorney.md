@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Exclusive: Georgia Prosecutor Probing Trump Taps Leading Racketeering Attorney"
+title: "Exclusive: Georgia prosecutor probing Trump taps leading racketeering attorney"
 excerpt: "The district attorney investigating whether former U.S. President Donald Trump illegally interfered with Georgia’s 2020 election has hired an outside lawyer who is a national authority on racketeering,"
-publishedDateTime: 2021-03-06T18:04:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-03-06/exclusive-georgia-prosecutor-probing-trump-taps-leading-racketeering-attorney"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-06/exclusive-georgia-prosecutor-probing-trump-taps-leading-racketeering-attorney"
+publishedDateTime: 2021-03-07T00:56:00Z
+originalUrl: "https://www.reuters.com/article/usa-election-georgia-racketeering-exclus-idINKBN2AZ01E"
+webUrl: "https://www.reuters.com/article/usa-election-georgia-racketeering-exclus-idINKBN2AZ01E"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AZ01E"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AZ01E"
 type: article
-quality: 31
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553979283&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FB"
+    width: 816
+    height: 545
+    isCached: true
 
 related:
   - title: "Georgia GOP leaders who stood up to Trump back voting bills"
@@ -88,6 +96,6 @@ related:
         height: 960
         isCached: true
 
-secured: "XRslz3EqaYLRqbdUqM1VfEAVuuNTF1YdKZfYf7N8p7Zlfjdg0/rZDrm3D5CY2KdVBG/JeghStk2hHEo/6SvGheVVyroH2EURTMqJpA6PULwhsKdjdT8srPJbqgytIlgt4TfuAsW8HUXtbuw3iE7dC1nfQJmz85f8/17rPefncEU5tIVtlUZ3y5INBIj6fG2vLjf2Kp4DJp9aQuxvvQMRBwuCyURTIyyQ6EHMs8kK2pAfwKFGVIfgNP2+mU9n1eIDbTr0+i8iGMmuUeUYdgEG7WNzBstF45y6mkkwVh5083ZJiRi0/VF/QHUe17vE2KZoAlTUpWIf4B47f9uoXIE17KD40vgJzTmCcAOcYxuee/8+9KkMbNxaj+8290BXoilb1AGGNQNpiFfN4kSdoBh58mgGXs+Kug0k6zIKQBMtTyuQntTaIt/WGNZchzpaDdTcDXR5wOCDv7kx8ExJGUfCCppAQmREdhIXkn8fUvRSkEZ5g7CCDzNldkCLwHHf/6ml2Uv04Tw+zHpFyzK5Tu2zTg==;jHoZhTNfXPTeO2/zvnIcUg=="
+secured: "O6wCQay3aUCcDZRNAYsQPbA+/5X46qw5SAxWo7UHbxLj8iAyQ4KJEWQ7CV4PXvobAX2G2m4UHB/lJqvYHN4WO5CTj8eUtY4tcwOuSf2gaiXvrx+fPpxdf4s7eZ9zQdNSFjSDUiQp8l7+KHEXvEHKollq53ddzFOgmJy2JxXegYS5a46YTJ6d+S4v3qxv/0diR2liqBhsP0pCwMh5FrxozQU9aCd1m7cJ5Hs8cHXttRUe7IsQsaNByoc2RuWCP+iQoqMge0xbHCpVzgAOaTifG0JwRmehgMwgA9XDqovaKNvPuFdvzkKqR9ZuvQdXiZB7Gs1wv67Caw7ZmoiepOfquvywHdmiNq6tzLq/zN4MjQw=;iDIrUwN02xpo4qAhQ9Jvbw=="
 ---
 

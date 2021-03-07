@@ -1,31 +1,33 @@
 ---
 category: news
-title: "Biden: A statement on Saudi Arabia coming Monday"
-excerpt: "US President Joe Biden on Saturday answered a single question about whether he will punish the Saudi crown prince following the Khashoggi report. (Feb. 27)"
-publishedDateTime: 2021-02-27T21:54:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/02/27/biden-statement-saudi-arabia-coming-monday/6854324002/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/27/biden-statement-saudi-arabia-coming-monday/6854324002/"
+title: "Lucky review: how Biden beat Trump – and doubters like Obama and Hillary"
+excerpt: "Jonathan Allen and Amie Parnes deliver a clear-eyed account of an election which could not cure a country’s wounds"
+publishedDateTime: 2021-03-07T05:02:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
+webUrl: "https://www.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
 type: article
-quality: 105
+quality: 139
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/65d8b199-88e3-4103-8af9-7e1a6fe98d85_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://i.guim.co.uk/img/media/2c7fcf5a2f1313f8aa336c4fa2504fdf6743d221/0_126_4831_2899/master/4831.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ee28447913645e84fd822afb3fef60c2"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -92,22 +94,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/02/27/f6ac56df-c1c4-4517-97b7-4a9d4432c6cc/thumbnail/1200x630/72421f3248e10fdac7e53c8e4aaea53f/gettyimages-1304272594.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Lucky review: how Biden beat Trump – and doubters like Obama and Hillary"
-    excerpt: "Jonathan Allen and Amie Parnes deliver a clear-eyed account of an election which could not cure a country’s wounds"
-    publishedDateTime: 2021-03-07T05:02:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 139
-    images:
-      - url: "https://i.guim.co.uk/img/media/2c7fcf5a2f1313f8aa336c4fa2504fdf6743d221/0_126_4831_2899/master/4831.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ee28447913645e84fd822afb3fef60c2"
-        width: 600
-        height: 360
         isCached: true
   - title: "Biden raises social cost of carbon, restoring key climate policy tool slashed by Trump"
     excerpt: "The social cost of carbon is an estimate of the long-term damage, in dollars, of carbon on our environment. Former President Trump disbanded the interagency working group (IWG) that determined the number in 2017,"
@@ -293,6 +279,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Biden: A statement on Saudi Arabia coming Monday"
+    excerpt: "US President Joe Biden on Saturday answered a single question about whether he will punish the Saudi crown prince following the Khashoggi report. (Feb. 27)"
+    publishedDateTime: 2021-02-27T21:54:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/27/biden-statement-saudi-arabia-coming-monday/6854324002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/65d8b199-88e3-4103-8af9-7e1a6fe98d85_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden holds high-stakes call with Saudi King Salman ahead of new intel report on Khashoggi"
     excerpt: "The Biden administration is set to release an intelligence report on the 2018 murder of journalist Jamal Khashoggi. This latest summary is expected to blame Saudi Crown Prince Mohammed Bin Salman for Khashoggi's killing."
     publishedDateTime: 2021-02-26T16:13:00Z
@@ -319,6 +319,6 @@ related:
       domain: usnews.com
     quality: 70
 
-secured: "ph9gCph0ES982DPrRHN8vrXbZlATD+mTcFxASMoRG3DWu3XoxP6a6C5JplryO9oYG2c5U/wfXKeAnnJdT9ima/mY3vajuoo0mm/ny9Nso4AxzN/mrLyi6opkTAJYZ+0NZhmu1BIJDFVEBKxvR5780hWRqzDvCi+IT1eolTWlrchnrrMm7IolBO7FyXhAFOFY22HwAyfC1jeVg/b5vq5zkhpQ2f76RQ8ggGRLMDqSiBi9QhuhzNTR8U7QzoT6aZzg7lM/6eEK5zV6AL96JCzOoi+vnzdTHRgJfct6k2UulcvCOqiWOWhBN3qlru20yJ+ujcWbihJAR7kkcSzhuLanzxIRQ1h8FkiWbJJNK84atdj9C1DEFB0AqXaE2LJkcBP+lX8AtN/u03g7ALew3uY/1W0vyGVXJhIzG9TMqrg0OLJrEmLVMDzS5xaBAEqpwyQ3eqn+DwwfOmthtIJ1gf5H2gSmHxf+eZWn05UJQ8wGOck/qkU7Yuwwt4w32Bn1wBQdXAH3C0Zh9kesV47l2ydGJA==;7IsZZGAdUEy7voYDnkHzFA=="
+secured: "OE3X+rvhJhtVDSwaaHSxhCubfWGGVLfotfyGdG4yFIkP1d+XT03BrRitEr/EOavsvCYNmn255ybvFR52t2SDCMnVA2mVZtJvqq7TNLnf28e3RR8F8BQrisDexNfi6eJm/kEc9U9NyQelvtv3xr8G5xbiGrSlni9HSYzP/oBK3bsJBwIT4rBktfy0QK5KJMlaMenFz5nTKD67MwWFGKNKfZWjfqZfrzufmg8LO5qeWeWOLSFJsNfy9RxTKj7ex+frl8pCvYirzRVXqt6C/UC3Ow8ZJFwM3GZpxTncQmOgZPKz43+IxN9VOLgEBDUKiOsnkaCmjvFXV+I34XlsQnQ400iqkKct50Pm8jTYolN2+IQ=;Jb+o+3SsFFr/uVr41+OCmw=="
 ---
 

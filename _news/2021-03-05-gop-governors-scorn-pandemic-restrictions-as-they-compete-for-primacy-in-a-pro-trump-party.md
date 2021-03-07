@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Exclusive: Georgia prosecutor probing Trump taps leading racketeering attorney"
+    excerpt: "The district attorney investigating whether former U.S. President Donald Trump illegally interfered with Georgia’s 2020 election has hired an outside lawyer who is a national authority on racketeering,"
+    publishedDateTime: 2021-03-07T00:56:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-racketeering-exclus-idINKBN2AZ01E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AZ01E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AZ01E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553979283&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FB"
+        width: 816
+        height: 545
+        isCached: true
   - title: "Donald Trump Rebukes WSJ After Editorial Board Suggests the GOP Look Past His Presidency"
     excerpt: "\"Fortunately, nobody cares much about The Wall Street Journal editorial anymore. They have lost great credibility,\" the former president said in a statement."
     publishedDateTime: 2021-03-04T18:30:00Z
@@ -79,15 +95,6 @@ related:
         width: 1440
         height: 961
         isCached: true
-  - title: "Exclusive: Georgia Prosecutor Probing Trump Taps Leading Racketeering Attorney"
-    excerpt: "The district attorney investigating whether former U.S. President Donald Trump illegally interfered with Georgia’s 2020 election has hired an outside lawyer who is a national authority on racketeering,"
-    publishedDateTime: 2021-03-06T18:04:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-06/exclusive-georgia-prosecutor-probing-trump-taps-leading-racketeering-attorney"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 31
 
 secured: "dIfQZSGF0VYcgDyfqEuV+4WKPVDV2dKCRWE9o7gJEvf9D1Ut9W1ehJ27U3WMUss20YfR9hemjFe9kBPyHshQbwe1XGRtAbY/p3/9SokwpfpZXFwfsswvkeEkjtVGa/EvmqV5jwmGE+CHwMYQM5g+ZLV0cZ4YRQjsqUn7VCrJbY4kFw8UMTTS7R9Ux8O30zH52ihnG9KSx0Qx42n6/OsZBgLQ6Kpl49O5Ks6mBtjjwozPdtZvuhlYhiRLSCFFSy3DCKxjB8UpFwwc7DK16UMuSLgux2lOOsX1/x8R9BLEWhCnUkZG1cg0+u+veRohZy+jkGREhg8bgsnGPIzGxnF+2T5Jqfv42RtHRrg/yWBu0/o=;ItyPNw1QNdzq9cHxp8flXw=="
 ---
