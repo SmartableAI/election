@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Arkansas gov responds to Biden 'Neanderthal thinking' comment: 'Common sense' over 'mandates'"
+    excerpt: "Republican Arkansas Gov. Asa Hutchinson hit back after President Biden's \"Neanderthal thinking\" comment aimed at Republicans."
+    publishedDateTime: 2021-03-07T15:22:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LC-Yrn-xdPc/arkansas-governor-biden-neanderthal-thinking-hutchinson"
+    ampWebUrl: "https://www.foxnews.com/politics/arkansas-governor-biden-neanderthal-thinking-hutchinson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arkansas-governor-biden-neanderthal-thinking-hutchinson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21052687694067.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden says Texas and Mississippi over lifting COVID restrictions, guilty of ‘Neanderthal thinking’"
     excerpt: "President Biden took a swipe at Republican governors in Texas and Mississippi Wednesday, accusing them of \"Neanderthal thinking\" following their decision to reverse COVID safety policies, including mask mandates."
     publishedDateTime: 2021-03-03T20:51:16Z

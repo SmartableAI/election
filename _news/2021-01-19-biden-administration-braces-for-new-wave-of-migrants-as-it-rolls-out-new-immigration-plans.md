@@ -1679,6 +1679,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Infamous tent camp on US-Mexico border drawn down after Biden ends Trump policy"
+    excerpt: "A tent camp in Matamoros, Mexico, where hundreds of migrants stayed in deplorable conditions after being subject to a Trump-era policy requiring they stay in Mexico until their immigration court date in the US, has been drawn down, a Department of Homeland Security spokesperson told CNN.\n    \n"
+    publishedDateTime: 2021-03-07T15:41:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0AXh7MifGkI/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127171917-migrant-tents-mexico-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden starts fast on immigration by halting border wall and travel ban while embracing DACA"
     excerpt: "President-elect Joe Biden will kick off his term by rolling out a series of immigration executive actions, moving swiftly to undo many Trump administration policies.\n    \n"
     publishedDateTime: 2021-01-21T02:39:05Z

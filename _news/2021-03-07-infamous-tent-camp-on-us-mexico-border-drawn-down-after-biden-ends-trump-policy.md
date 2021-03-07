@@ -1,32 +1,31 @@
 ---
 category: news
-title: "Trump left Biden a $30 billion fund used for trade wars. Biden has other plans for it."
-excerpt: "A Depression-era financial institution was used by the Trump administration to dole out billions to farmers. Now the Biden team has their own ideas about how the money should be spent."
-publishedDateTime: 2021-01-31T16:26:00Z
-originalUrl: "https://www.politico.com/news/2021/01/31/usda-agriculture-tug-of-war-463843"
-webUrl: "https://www.politico.com/news/2021/01/31/usda-agriculture-tug-of-war-463843"
+title: "Infamous tent camp on US-Mexico border drawn down after Biden ends Trump policy"
+excerpt: "A tent camp in Matamoros, Mexico, where hundreds of migrants stayed in deplorable conditions after being subject to a Trump-era policy requiring they stay in Mexico until their immigration court date in the US, has been drawn down, a Department of Homeland Security spokesperson told CNN.\n    \n"
+publishedDateTime: 2021-03-07T15:41:05Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0AXh7MifGkI/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0AXh7MifGkI/index.html"
 type: article
-quality: 122
+quality: 166
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/72/4e/41eac7394847ac4de7421290a136/210129-vilsack-ap-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127171917-migrant-tents-mexico-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -1678,20 +1677,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Infamous tent camp on US-Mexico border drawn down after Biden ends Trump policy"
-    excerpt: "A tent camp in Matamoros, Mexico, where hundreds of migrants stayed in deplorable conditions after being subject to a Trump-era policy requiring they stay in Mexico until their immigration court date in the US, has been drawn down, a Department of Homeland Security spokesperson told CNN.\n    \n"
-    publishedDateTime: 2021-03-07T15:41:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0AXh7MifGkI/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127171917-migrant-tents-mexico-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden administration braces for new wave of migrants as it rolls out new immigration plans"
     excerpt: "President-elect Joe Biden plans to immediately begin the rollout of his immigration agenda upon taking office Wednesday, but the new administration will also have to contend with migrants already on the US-Mexico border, as well as those on their way.\n    \n"
     publishedDateTime: 2021-01-19T00:37:20Z
@@ -2900,6 +2885,20 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump left Biden a $30 billion fund used for trade wars. Biden has other plans for it."
+    excerpt: "A Depression-era financial institution was used by the Trump administration to dole out billions to farmers. Now the Biden team has their own ideas about how the money should be spent."
+    publishedDateTime: 2021-01-31T16:26:00Z
+    webUrl: "https://www.politico.com/news/2021/01/31/usda-agriculture-tug-of-war-463843"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 122
+    images:
+      - url: "https://static.politico.com/72/4e/41eac7394847ac4de7421290a136/210129-vilsack-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden admin targets Trump's let-the-water-flow legacy and other energy efficiency rules"
     excerpt: "Former President Donald Trump's effort to loosen regulations dictating the water-flow levels of many household appliances and fixtures is under threat with the Biden administration announcing it will launch a federal review of several Trump-era rules and regulations governing the topic,"
     publishedDateTime: 2021-02-19T19:29:00Z
@@ -2943,6 +2942,6 @@ related:
         height: 773
         isCached: true
 
-secured: "0qr0pnAQZHB899xDJSFrx21xZq3iOG/JokhLRVB/5WOdKYw61UQasGiRnRbAsMsgldUXYBFIK0cK2vcueqCnX+359UEQuf7go/jbtKX4kac7QbAu+iwxWjHvdbqkss91Gea+wSjFttJKFj9IuJ6pduNFyI1qIEYZYl0gl3NZlCQztKnCJtz9baxhB+Z1/zxCRyga2eene928nAFTivzCmiGBN0hz7DDI5KWcB0gXyfhc5M2iRJfnaFGeoJWXy+NMOCgxWZAhIPdjUD5gt7pQ1zTMx9yNsJYa86xxVSF2WPh9LfJbu2EFhWCwCN7zEzNrLCwMWbpOZTzLm80l7iNa6ewRxBGyVU09T/KuW9uPXs0NSf7dsWQaAkhirP8wMnQGEuHIKdNxFBP0AMymLUTXUVvpiQLzvBYP11zCQfrJCL76GkoahGrKXcOJ4RSK4SPsagIJ1nS2+U3r0gOxlRpwbT2kanQeXkbvr5W86cXVuShORo5divvlOM/ryh4B8WmnXKIbZKsvpzkVBo63uACNtw==;brZFpqzIxWkJmfEP/IgaKQ=="
+secured: "xEOzizScbCmVe73aM3tQu6mj1A1o4Bw0WrBJAeym0EsoHaTvzkWt/xdAsWWOWByZJ1BjwlZEWxbAQxC6X7JpxtiVX+zGqJXI12ON9Q/6BikMg4s322/HVD1PWN724tty0PqICyRqmOm1CNekoWBSUeULusHMvwjPrlHgXLkEDhvjaWOvllkKFeR7k8XPA12pPijl6nO+zUSnYB+mWF0FS6D8PB0aQN6UtF74rEF5ut3XlWkb/XUaxMMzebvSvxOeZqwdKubOMN6zH8ksK5/CDzn8wo+kOS5PERbMRL3jzHX35lR5Ca/FLzHhv7VdjqjJCD5oR9RHyEXJb0n3/iRpiYlSbHvzvbYX9ubv+HHNTco=;V8hfFKDcNxefcC6fdkRrCg=="
 ---
 

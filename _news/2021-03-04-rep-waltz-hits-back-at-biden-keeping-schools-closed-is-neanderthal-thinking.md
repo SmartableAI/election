@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-neanderthal-thinking-schools-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neanderthal-thinking-schools-closed-masks-waltz.amp"
 type: article
 quality: 171
-heat: 311
+heat: 331
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Arkansas gov responds to Biden 'Neanderthal thinking' comment: 'Common sense' over 'mandates'"
+    excerpt: "Republican Arkansas Gov. Asa Hutchinson hit back after President Biden's \"Neanderthal thinking\" comment aimed at Republicans."
+    publishedDateTime: 2021-03-07T15:22:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LC-Yrn-xdPc/arkansas-governor-biden-neanderthal-thinking-hutchinson"
+    ampWebUrl: "https://www.foxnews.com/politics/arkansas-governor-biden-neanderthal-thinking-hutchinson.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arkansas-governor-biden-neanderthal-thinking-hutchinson.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21052687694067.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Rubio trolls Biden over 'Neanderthal' comment, tells him to 'seek training on unconscious bias'"
     excerpt: "The Florida Republican quipped that the president’s \"use of an old stereotype\" when referring to the decision by some conservative states to lift mask mandates and reopen their economies was \"hurtful\" to those who share Neanderthalian genes."

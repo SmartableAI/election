@@ -1,20 +1,22 @@
 ---
 category: news
-title: "McConnell lays low ahead of Trump trial"
-excerpt: "Kevin McCarthy is hugging former President Donald Trump as tightly as he can. Liz Cheney voted to impeach him. But Mitch McConnell isn’t making any sudden movements as House Republicans tear each other apart in Trump's wake."
-publishedDateTime: 2021-02-03T09:33:00Z
-originalUrl: "https://www.politico.com/news/2021/02/03/mitch-mcconnell-impeachment-trump-trial-465188"
-webUrl: "https://www.politico.com/news/2021/02/03/mitch-mcconnell-impeachment-trump-trial-465188"
+title: "Trump sends cease-and-desist letters to GOP campaign committees"
+excerpt: "The former president has asked the committees, including the RNC, to stop using his name and likeness in fundraising appeals, a Trump adviser said."
+publishedDateTime: 2021-03-06T20:37:00Z
+originalUrl: "https://www.nbcnews.com/politics/elections/trump-sent-cease-desist-letters-gop-campaign-committees-n1259824"
+webUrl: "https://www.nbcnews.com/politics/elections/trump-sent-cease-desist-letters-gop-campaign-committees-n1259824"
+ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1259824"
+cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1259824"
 type: article
-quality: 115
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: NBC News
+  domain: nbcnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -24,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/ec/23/2d3486ae4d7289b031aea889cc8c/20210202-mitch-mcconnell-gty-773.jpg"
-    width: 1160
-    height: 773
+  - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3451770/210222-donald-trump-jm-1025_7e9f0f9d9f9821cb64d240ae7a1aa8b8.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -78,22 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump sends cease-and-desist letters to GOP campaign committees"
-    excerpt: "The former president has asked the committees, including the RNC, to stop using his name and likeness in fundraising appeals, a Trump adviser said."
-    publishedDateTime: 2021-03-06T20:37:00Z
-    webUrl: "https://www.nbcnews.com/politics/elections/trump-sent-cease-desist-letters-gop-campaign-committees-n1259824"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1259824"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1259824"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3451770/210222-donald-trump-jm-1025_7e9f0f9d9f9821cb64d240ae7a1aa8b8.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "McConnell retreats as Trump dominates the GOP civil war"
     excerpt: "Mitch McConnell! — suggested he’d finally had enough when, in his words, a “mob” of protesters that “was fed lies” stormed Congress after “they were provoked by the president.” McConnell, the NYT reported,"
     publishedDateTime: 2021-01-27T11:14:00Z
@@ -105,6 +91,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/58/de/b0653d484332b42ce97b3255aab1/210127-mcconnell-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "McConnell lays low ahead of Trump trial"
+    excerpt: "Kevin McCarthy is hugging former President Donald Trump as tightly as he can. Liz Cheney voted to impeach him. But Mitch McConnell isn’t making any sudden movements as House Republicans tear each other apart in Trump's wake."
+    publishedDateTime: 2021-02-03T09:33:00Z
+    webUrl: "https://www.politico.com/news/2021/02/03/mitch-mcconnell-impeachment-trump-trial-465188"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ec/23/2d3486ae4d7289b031aea889cc8c/20210202-mitch-mcconnell-gty-773.jpg"
         width: 1160
         height: 773
         isCached: true
@@ -123,6 +123,6 @@ related:
         height: 773
         isCached: true
 
-secured: "qMsru4dwnKzus4pdyFieq5IsUjoysVciR1ygjkcfOAiXk1FVGQt+8IWvrEZmQM1bq7+XQraSfn/c9qr8GV5/VCbSy7Yy1ds7Y3Qm03g1wTMY68ZaZN2gGv/Vs8H9+wNyBD7QrUz1PxAKmUuRBETTjS9Ya0S3iZQuxH+q1V8tNIN/WOJbFkBvvq2VQZTZdXCRQUfMYXCeTzIKSVSAnSKKyM96LfbDgS+GCaA2VI7zlLAbf1JmkkJq3Fod8fdThITeMQ0HOpTYJ7og4q/NX3lDUTclVRv5Q3ixufQLZ6ZfJ11laUfkyDDT+lZlFAnkuQC1leZTi4ZDyR/KS3ESgX6/BdQ4BV4RjX6yA0BNlt9Kxuo=;ZkpiV2xUZ+GjAh8MzQPJtw=="
+secured: "gImd+IAtYLdDx5NUjsg3zSQboZ7ut0yewuBJYtTu+TvW3DngU0nbmpiBhPqiXMXLvBWIgQm79RrqfXnlfvOqlf2/+E9eSweiRDb8mMgpFTzuX6OXYygg99Z4ws8XFm2vVIADTQFO75dSf3nV5kb0rMnsRfH61KKPs4w7GHOoFRfxUNhxMmjTHaW6h5k4KkWROdRsYrEQCFKZMDZW+z3z8g31zjNBvvKQjS/71zaJYNW9EfOWY5hrf72eNhRokZz1ogyxS5hrKwKKHkzVoca4hqOg4ULpUBA5mhn1EuYno1+p5688ourBgNd+IssudADPfJK0EqkhAfheQ2rafv0bf/VevK7AOVRzO4A/ZSb5m2w=;ujgZfdlksCYcg8RbeZrSzA=="
 ---
 

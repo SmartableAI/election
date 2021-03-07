@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-mur
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html"
 type: article
 quality: 187
-heat: 287
+heat: 307
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/191210122028-01-mcconnell-trump-file-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Trump sends cease-and-desist letters to GOP campaign committees"
+    excerpt: "The former president has asked the committees, including the RNC, to stop using his name and likeness in fundraising appeals, a Trump adviser said."
+    publishedDateTime: 2021-03-06T20:37:00Z
+    webUrl: "https://www.nbcnews.com/politics/elections/trump-sent-cease-desist-letters-gop-campaign-committees-n1259824"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1259824"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1259824"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_08/3451770/210222-donald-trump-jm-1025_7e9f0f9d9f9821cb64d240ae7a1aa8b8.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "McConnell retreats as Trump dominates the GOP civil war"
     excerpt: "Mitch McConnell! — suggested he’d finally had enough when, in his words, a “mob” of protesters that “was fed lies” stormed Congress after “they were provoked by the president.” McConnell, the NYT reported,"

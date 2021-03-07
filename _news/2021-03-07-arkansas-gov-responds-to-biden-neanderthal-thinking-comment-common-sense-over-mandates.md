@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden says Texas and Mississippi over lifting COVID restrictions, guilty of ‘Neanderthal thinking’"
-excerpt: "President Biden took a swipe at Republican governors in Texas and Mississippi Wednesday, accusing them of \"Neanderthal thinking\" following their decision to reverse COVID safety policies, including mask mandates."
-publishedDateTime: 2021-03-03T20:51:16Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvcRq4k7gDM/biden-says-texas-and-miss-guilty-of-neanderthal-thinking"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvcRq4k7gDM/biden-says-texas-and-miss-guilty-of-neanderthal-thinking"
-ampWebUrl: "https://www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp"
+title: "Arkansas gov responds to Biden 'Neanderthal thinking' comment: 'Common sense' over 'mandates'"
+excerpt: "Republican Arkansas Gov. Asa Hutchinson hit back after President Biden's \"Neanderthal thinking\" comment aimed at Republicans."
+publishedDateTime: 2021-03-07T15:22:46Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LC-Yrn-xdPc/arkansas-governor-biden-neanderthal-thinking-hutchinson"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LC-Yrn-xdPc/arkansas-governor-biden-neanderthal-thinking-hutchinson"
+ampWebUrl: "https://www.foxnews.com/politics/arkansas-governor-biden-neanderthal-thinking-hutchinson.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arkansas-governor-biden-neanderthal-thinking-hutchinson.amp"
 type: article
-quality: 161
+quality: 164
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6130b85-52f2-46fc-b88a-dc8fb9055492/5b6acd63-199a-4dfb-bd9d-f105cacbb701/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21052687694067.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -79,22 +79,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Arkansas gov responds to Biden 'Neanderthal thinking' comment: 'Common sense' over 'mandates'"
-    excerpt: "Republican Arkansas Gov. Asa Hutchinson hit back after President Biden's \"Neanderthal thinking\" comment aimed at Republicans."
-    publishedDateTime: 2021-03-07T15:22:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LC-Yrn-xdPc/arkansas-governor-biden-neanderthal-thinking-hutchinson"
-    ampWebUrl: "https://www.foxnews.com/politics/arkansas-governor-biden-neanderthal-thinking-hutchinson.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arkansas-governor-biden-neanderthal-thinking-hutchinson.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21052687694067.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Rubio trolls Biden over 'Neanderthal' comment, tells him to 'seek training on unconscious bias'"
     excerpt: "The Florida Republican quipped that the president’s \"use of an old stereotype\" when referring to the decision by some conservative states to lift mask mandates and reopen their economies was \"hurtful\" to those who share Neanderthalian genes."
     publishedDateTime: 2021-03-04T22:00:56Z
@@ -108,6 +92,22 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1e4f579c-7ef0-4667-b2fa-148dcc319fff/ea6f8728-4258-454b-b670-fa9b874c5159/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says Texas and Mississippi over lifting COVID restrictions, guilty of ‘Neanderthal thinking’"
+    excerpt: "President Biden took a swipe at Republican governors in Texas and Mississippi Wednesday, accusing them of \"Neanderthal thinking\" following their decision to reverse COVID safety policies, including mask mandates."
+    publishedDateTime: 2021-03-03T20:51:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvcRq4k7gDM/biden-says-texas-and-miss-guilty-of-neanderthal-thinking"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6130b85-52f2-46fc-b88a-dc8fb9055492/5b6acd63-199a-4dfb-bd9d-f105cacbb701/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -160,6 +160,6 @@ related:
         height: 720
         isCached: true
 
-secured: "T4iPEsJzBJXUI03P1r4/4AKTSjsjKY+cCspg98CZvPUMGkhQRujQ/uBdyLEvvA6QJP+5E6sPYmIH9YnIJ9w1+Z4Smhx5foJBuFp0+0mCHcOa9swIYjUEj+Vb4Zs1VJ/+N0cdIqVA2URESo5BrTlgyGomMlclFNOfgzRd5CRvTx7yqvBmw93IJDXrZeGLPBTbLqG5x7xTbaxYoLkMebHh+KCU+/ozhyG8K+WJVw7LSdHIZlCd1WK3ll1oZXsg6M9Xybl43EBcJt1QV/HxRGjSYHNg/cf7piEVprsxeohiVLN+RT9zBP78HP7T5h+oZ6Jwotg8QQ3ROoo2me/mCWCZwIaVr6sHIiGkbtfifMTVS4g=;cSriRwaPLlwT0/ec3/Qj6A=="
+secured: "J2NRe4UtO96xrJfeEoT4fogHv9cFWl/73oS1APcMCaSOx/3Sg2X4CcZFW9R2BBVe7vhL9X5zbPvMcQRYElR3n7WtqLybt9jCLE14CbMDDHzKIjWpx6DD6BWKHMEPwDfHMAllnabSnE/PGAQ7VjeZsXczIinJ17pnWxxALPr3hTWuEH7Gl05HJoWAz20Be/2G09/hPZad6HRf2As+L08nsyDqWABdxIDArWAGNkCXKlkOTItA5JbdshEsfNBDmE81wdYZVgM2vqVLtk590eZsQHWMCmR7slak6jyFCJ71j10nsSwAt9V75csySjT0NKgJXxlU7P2AU/utd4N7bqlj9cA1FJ/hl4fQX3fMQhWFtIM=;V/yNK2yzpdnUzsoXfv/5uQ=="
 ---
 
