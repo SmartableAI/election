@@ -45,6 +45,22 @@ related:
         width: 824
         height: 545
         isCached: true
+  - title: "Biden administration to wind down long-term detention of migrant families — for now"
+    excerpt: "ICE has begun releasing migrant parents and children from three family detention facilities in Texas and Pennsylvania."
+    publishedDateTime: 2021-03-07T12:00:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-migrant-families-detention-long-term-biden-administration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-migrant-families-detention-long-term-biden-administration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-migrant-families-detention-long-term-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/06/59bef9f5-5f0f-4b76-8439-613f2f4e559c/thumbnail/1200x630/222839373f0bdbbf7500be4dea48d398/gettyimages-1231480277.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "ckxvGPXF2BpyjiyLcVwW/fsTgTWiPvhr+k9dRVo0R9hoCsOligPk6M44thHYP1VwnTJZ8G9exdeBrbo+75SMZXn0DUYUOO3ifo7dbTY5rNsocxtivFQrxLwZ7Kzi+c4s+cBaLjo+gjo1pzi+P5RmXEVbhywQ3L1bkS+5jr4PyUDqkX17XQtEZb1DITdFWW6va9vpMYDDKc+trGcjIfFr3PAkOtZn13I1KhWgWOrbbs2KwrOeD4CoZDi3nJTfZeEeFM+K2oKYgsF3DOY/yF45fe070j4nCb04QglY3ZjGq9bk+4Txy2uGZGFpqePQUumLQajN4i8ulBdnnVuaBhBLW49nm47cyzZjqqhRrDxIhYZmGeSk24ZIWpbMFdshej4kAjDJd6tJ6IiXN3YSyUlw9J29BUi3+7lLhYJd3HgbMUBLaHVudP2MLB8rwDz1+9b2vtBb+FmwVTHJvo1/w6M9iECCqtn19o2TvtpXgH0B11ylITi4hq0/yRFijaTh1lSX8D8I5KQ7bhfcOclakVtufw==;WUDRTKWcWi+P92SvAw+h2w=="
 ---
