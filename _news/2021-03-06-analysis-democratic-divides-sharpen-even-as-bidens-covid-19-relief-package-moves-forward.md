@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/democratic-divides-senat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/democratic-divides-senate-biden-covid-relief/index.html"
 type: article
 quality: 165
-heat: 185
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analysis: Why Biden's next legislative push might be much harder than Covid relief"
+    excerpt: "President Joe Biden and fellow Democrats are racing to prove a counterintuitive lesson: with congressional majorities, sometimes less can be more.\n    \n"
+    publishedDateTime: 2021-03-07T14:01:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hAubWKgDRA0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/biden-democrats-slim-majority/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/biden-democrats-slim-majority/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210304180339-biden-roosevelt-room-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top Biden advisers tell staff there's 'no room for complacency' as Covid relief bill nears completion"
     excerpt: "The message to White House senior staff as President Joe Biden's cornerstone legislative proposal nears completion is simple, if blunt: there is \"absolutely no room for complacency.\"\n    \n"
     publishedDateTime: 2021-03-07T13:02:13Z

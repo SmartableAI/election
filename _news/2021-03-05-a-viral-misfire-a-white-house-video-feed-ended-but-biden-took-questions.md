@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden poised to sign executive order aimed at promoting voting rights"
+    excerpt: "President Biden is set to take unilateral action Sunday focused on voting rights and using the tools of the federal government to boost access for Americans to voter registration services. Mr. Biden will sign the executive order on the 56th anniversary of \"Bloody Sunday,"
+    publishedDateTime: 2021-03-07T14:13:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-executive-order-voting-rights/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-executive-order-voting-rights/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-executive-order-voting-rights/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/07/ba8b5c5d-eac0-422c-a0f9-13778acf391d/thumbnail/1200x630/54661ece71c4daa8d9093d107aa10ca3/gettyimages-1231558643.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "White House: Biden believes U.S. authorizations for military force need updating"
     excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
     publishedDateTime: 2021-03-06T01:26:00Z

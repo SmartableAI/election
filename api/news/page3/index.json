@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-04-a-pennsylvania-man-said-he-would-find-a-local-democratic-party-office-and-shoot-it-up-for-donald-trump-and-then-he-did-authorities-say.md",
+      "title": "A Pennsylvania man said he would find a local Democratic Party office and \"shoot it up\" for Donald Trump. And then he did, authorities say.",
+      "excerpt": "Anthony Nero is accused firing his handgun at the Montgomery County Democratic Party's office in Norristown, Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pennsylvania-man-faces-federal-charges-for-shooting-dem-party-office-2021-3",
+      "originalUrl": "https://www.businessinsider.com/pennsylvania-man-faces-federal-charges-for-shooting-dem-party-office-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60414fe92dc90100183557d5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pennsylvania-man-faces-federal-charges-for-shooting-dem-party-office-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-man-faces-federal-charges-for-shooting-dem-party-office-2021-3?amp",
+      "publishedDateTime": "2021-03-04T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-mike-pence-breaks-silence-in-op-ed-slamming-house-dems-voting-reform-bill.md",
       "title": "Mike Pence breaks silence in op-ed slamming House Dems’ voting reform bill",
       "excerpt": "Pence made his feelings known in an op-ed published Wednesday by The Daily Signal, a blog run by the conservative Heritage Foundation, where the former VP is a fellow.",
@@ -1316,58 +1368,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-mike-pences-remarkable-op-ed-highlights-the-gops-choice-on-voting-rights-and-where-it-will-probably-land.md",
-      "title": "Mike Pence’s remarkable op-ed highlights the GOP’s choice on voting rights — and where it will probably land",
-      "excerpt": "Alleged voting problems in 2020. In an op-ed for the Daily Signal, Pence details his opposition to a voting rights bill spearheaded by House Democrats. He begins, “After an election marked by significant voting irregularities and numerous instances of officials setting aside state election law,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZ2TGE7SNZAB5G4LNTLM5HF5SI.jpg&w=1440",
-          "width": 1440,
-          "height": 1053,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
-      "publishedDateTime": "2021-03-03T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

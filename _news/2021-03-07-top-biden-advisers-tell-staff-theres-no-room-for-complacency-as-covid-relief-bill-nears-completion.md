@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Analysis: Why Biden's next legislative push might be much harder than Covid relief"
+    excerpt: "President Joe Biden and fellow Democrats are racing to prove a counterintuitive lesson: with congressional majorities, sometimes less can be more.\n    \n"
+    publishedDateTime: 2021-03-07T14:01:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hAubWKgDRA0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/biden-democrats-slim-majority/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/biden-democrats-slim-majority/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210304180339-biden-roosevelt-room-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Democratic divides sharpen even as Biden's Covid-19 relief package moves forward "
     excerpt: "The honeymoon is over for President Joe Biden and Senate Democrats, whose unified front has been thrown into doubt during the final stages of negotiations on the White House's $1.9 trillion Covid-19 relief bill.\n    \n"
     publishedDateTime: 2021-03-06T11:16:53Z

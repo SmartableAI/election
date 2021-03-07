@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-cl
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364"
 type: article
 quality: 140
-heat: 600
+heat: 620
 published: true
 
 provider:
@@ -379,6 +379,15 @@ related:
     excerpt: "The lawsuit, which claims that former President Donald Trump and his allies incited the mob that attacked the Capitol, is the second major legal action against Trump in connection to the riot."
     publishedDateTime: 2021-03-05T18:19:00Z
     webUrl: "https://www.usnews.com/news/national-news/articles/2021-03-05/rep-eric-swalwell-sues-trump-and-allies-over-capitol-insurrection"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Accountant Faces Pressure to Turn on Trump in Criminal Probe"
+    excerpt: "The Manhattan district attorney said in an August filing that the office is investigating “possibly extensive and protracted criminal conduct” at the Trump Organization, thoug"
+    publishedDateTime: 2021-03-07T16:53:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-07/accountant-faces-pressure-to-turn-on-trump-in-criminal-probe"
     type: article
     provider:
       name: U.S. News & World Report

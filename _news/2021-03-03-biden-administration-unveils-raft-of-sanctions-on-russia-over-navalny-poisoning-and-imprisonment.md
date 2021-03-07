@@ -207,6 +207,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden opposes gutting filibuster despite tough path for some legislative priorities in Senate "
+    excerpt: "President Joe Biden opposes ending the legislative filibuster despite a slim Democratic majority in the Senate, White House communications director Kate Bedingfield said Sunday, as the administration faces hurdles in pushing the President's priorities through Congress.\n    \n"
+    publishedDateTime: 2021-03-07T17:55:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LjbOIMbW0q0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/kate-bedingfield-biden-filibuster-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/kate-bedingfield-biden-filibuster-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 163
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210307094926-joe-biden-210306-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration never considered MBS sanctions a viable option in response to Khashoggi report"
     excerpt: "The Biden administration never considered sanctions as a viable option against the powerful Saudi crown prince named as responsible for the murder of journalist Jamal Khashoggi, even though the new President promised to punish senior Saudi leaders during the election.\n    \n"
     publishedDateTime: 2021-03-03T12:49:03Z
@@ -252,6 +268,22 @@ related:
     quality: 155
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227211535-01-joe-biden-0227-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'Help is on the way': Biden speaks after Senate passes relief plan"
+    excerpt: "President Joe Biden gives remarks after the Senate passed his $1.9 trillion Covid relief plan by a 50-49 vote."
+    publishedDateTime: 2021-03-06T20:02:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/06/biden-speaks-after-senate-votes-to-pass-covid-19-relief-bill-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/06/biden-speaks-after-senate-votes-to-pass-covid-19-relief-bill-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/06/biden-speaks-after-senate-votes-to-pass-covid-19-relief-bill-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306143728-biden-03062021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

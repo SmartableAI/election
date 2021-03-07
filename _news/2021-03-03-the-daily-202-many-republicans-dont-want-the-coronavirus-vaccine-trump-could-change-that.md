@@ -384,6 +384,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "Accountant Faces Pressure to Turn on Trump in Criminal Probe"
+    excerpt: "The Manhattan district attorney said in an August filing that the office is investigating “possibly extensive and protracted criminal conduct” at the Trump Organization, thoug"
+    publishedDateTime: 2021-03-07T16:53:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-07/accountant-faces-pressure-to-turn-on-trump-in-criminal-probe"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "y1Qgt40+zZraknfPdO9PI+NmtdT+sX3nKm+0QTaqYtkrl1EhL2BH2niLtWLC4/CdazZqMLSf8wFnksY5Sry1paGoyOhBOWfpnHGqWaQiDmb9twyYMHmG0yh5oZ7Dw5M/CaBQaV32xbcLjgyvSwNOWgEQ9XSARB84cw3mF6kGs7izBN8qDymeY2db6xcqa5Ph7biAbPZtQ/32uzucPFzmetNGUAjBnKmTlLfeQz+xFFZVRsJI7Zrc1W6YrzSAYZriKf1cnjRB6RiEyT1t36pnB2cLZaDVuEIfBal5j1fhriRFpg0zdzjg2QsuAbNc1+nZMz65oOqPumd9bNr2lvrvtZNJZpOeZaYne/iIoFX7DjMTyzx2U796+FoHQF+HX5bI+Q73Y2uOZ5xZ+/aaVwaZT6O7HUKwOR9qfhGPeiLaRWVuZXmiNXnLVMWg7iwxNZqrMo0NptaBh1I0B+6vcTA6ENdrCp+3uYzEW2Hlt+UmryyHFiGvueQi3S7L+gnZu8tsL1cdPSH6nflO2PRkswMi/Q==;iS0Ewunz5q/MfhFM2MxK3A=="
 ---

@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-02-bergdahl-appeals-court-martial-over-trump-mccain-comments.md",
+      "title": "Bergdahl appeals court-martial over Trump, McCain comments",
+      "excerpt": "A former U.S. Army soldier who was court martialed after he left his post in Afghanistan and was captured by the Taliban is asking a federal judge to overturn his military conviction, saying his trial was unduly influenced when former President Donald Trump repeatedly made disparaging comments about",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1c71e0-hN9c/bergdahl-appeals-court-martial-trump-mccain-comments",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/1c71e0-hN9c/bergdahl-appeals-court-martial-trump-mccain-comments",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Bowe-Bergdahl-Court-Martial-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bergdahl-appeals-court-martial-trump-mccain-comments.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bergdahl-appeals-court-martial-trump-mccain-comments.amp",
+      "publishedDateTime": "2021-03-02T10:16:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-murkowski-seeks-white-houses-attention-on-alaskas-economic-concerns-as-she-weighs-biden-budget-pick.md",
       "title": "Murkowski seeks White House's 'attention' on Alaska's economic concerns as she weighs Biden budget pick",
       "excerpt": "Republican Sen. Lisa Murkowski, who holds the key to President Joe Biden's nominee for budget director, is pushing the White House about some of the new administration's policies that have a direct impact on Alaska's economy, namely on energy matters, according to the second-ranking Senate Republican",
@@ -1201,7 +1257,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 455,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -1253,7 +1309,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364",
       "featuredContent": null,
       "highlight": null,
-      "heat": 600,
+      "heat": 620,
       "tags": null,
       "images": [
         {
@@ -1277,58 +1333,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-trump-gives-first-public-speech-since-leaving-office-and-declares-journey-is-not-over.md",
-      "title": "Trump gives first public speech since leaving office and declares \"journey\" is not over",
-      "excerpt": "Former President Trump on Sunday gave his first public speech since he left office and was acquitted in his second Senate impeachment trial. CBS News political reporter Adam Brewster, CBSN political contributor and Democratic strategist Antjuan Seawright and Maggie's List spokeswoman Lauren Zelt join CBSN's Lana Zak to discuss the former president's speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/trump-gives-first-public-speech-since-leaving-office/",
-      "originalUrl": "https://www.cbsnews.com/video/trump-gives-first-public-speech-since-leaving-office/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/01/a09adc24-151c-414a-ae32-bc1db7b22730/thumbnail/1200x630/560ad0560a0efccd593d15e1c163f727/cbsn-fusion-trump-gives-first-public-speech-since-leaving-office-and-declares-journey-is-not-over-thumbnail-655544-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-28T16:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

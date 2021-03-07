@@ -2,23 +2,23 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-06-analysis-democratic-divides-sharpen-even-as-bidens-covid-19-relief-package-moves-forward.md",
-      "title": "Analysis: Democratic divides sharpen even as Biden's Covid-19 relief package moves forward ",
-      "excerpt": "The honeymoon is over for President Joe Biden and Senate Democrats, whose unified front has been thrown into doubt during the final stages of negotiations on the White House's $1.9 trillion Covid-19 relief bill.\n    \n",
+      "path": "_news/2021-03-07-analysis-why-bidens-next-legislative-push-might-be-much-harder-than-covid-relief.md",
+      "title": "Analysis: Why Biden's next legislative push might be much harder than Covid relief",
+      "excerpt": "President Joe Biden and fellow Democrats are racing to prove a counterintuitive lesson: with congressional majorities, sometimes less can be more.\n    \n",
       "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3e-NpW707BA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3e-NpW707BA/index.html",
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hAubWKgDRA0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hAubWKgDRA0/index.html",
       "featuredContent": null,
       "highlight": {
         "text": "Democratic Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 185,
+      "heat": 209,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210305210809-02-manchinn-0305-restricted-super-tease.jpg",
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210304180339-biden-roosevelt-room-0304-super-tease.jpg",
           "width": 1100,
           "height": 619,
           "title": null,
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/06/politics/democratic-divides-senate-biden-covid-relief/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/democratic-divides-senate-biden-covid-relief/index.html",
-      "publishedDateTime": "2021-03-06T03:16:53-08:00",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/07/politics/biden-democrats-slim-majority/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/biden-democrats-slim-majority/index.html",
+      "publishedDateTime": "2021-03-07T06:01:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1647,7 +1647,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 455,
+      "heat": 495,
       "tags": null,
       "images": [
         {

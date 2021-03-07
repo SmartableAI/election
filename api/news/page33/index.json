@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2021-01-16-pence-speaks-at-memorial-service-for-yeager-in-west-virginia.md",
+      "title": "Pence speaks at memorial service for Yeager in West Virginia",
+      "excerpt": "Retired Air Force Brig. Gen. Chuck Yeager was remembered at a memorial service Friday as a hero, legend and friend who would go out of his way to help others.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/b078c8d59eda2acc799d06c48fc71a2e",
+      "originalUrl": "https://apnews.com/b078c8d59eda2acc799d06c48fc71a2e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/afs-prod/media/5d3b66fe19a346e8afdfbcb1cd0aac41/3000.jpeg",
+          "width": 3000,
+          "height": 2001,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-15T22:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-16-police-man-charged-after-displaying-kill-biden-sign.md",
       "title": "Police: Man charged after displaying ‘KILL BIDEN’ sign",
       "excerpt": "A Virginia man has been arrested for having a “KILL BIDEN” sign. WWBT in Richmond reported Thursday that Kenneth Kraig Thomas of Goochland County was arrested and is facing a charge of threatening a person in writing.",
@@ -1302,58 +1345,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years.md",
-      "title": "Trump extends 'safeguard' tariffs on large washer imports for two years",
-      "excerpt": "President Donald Trump on Thursday extended \"safeguard\" tariffs on large residential washers for another two years in a move that further shields domestic manufacturers such as Whirlpool Corp from import competition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trade-washers/trump-extends-safeguard-tariffs-on-large-washer-imports-for-two-years-idUSKBN29J2SD?edition-redirect=ca",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547836161&r=LYNXMPEH0D1KA&w=800",
-          "width": 800,
-          "height": 564,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-14T20:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
