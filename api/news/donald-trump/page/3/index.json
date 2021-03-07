@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-23-the-hills-1230-report-presented-by-facebook-supreme-courts-blow-to-trump.md",
+      "title": "The Hill's 12:30 Report - Presented by Facebook - Supreme Court's blow to Trump",
+      "excerpt": "Donald Trump Donald Trump Former Florida officer arrested after live streaming from inside US Capitol during breach, FBI says Schumer says he's working to find votes to confirm Biden's OMB pick Pence declined invitation to attend CPAC: reports MORE\" height=\"326\" width=\"580\" class=\"media-element file-original-image\" data-delta=\"2\" typeof=\"foaf:Image\" src=\" /> To view past editions of The Hill's 12:30 Report,",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals",
+      "originalUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_7_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/1230-report/539878-the-hills-1230-report-supreme-court-blow-to-trump-financial-records-to-be-handed-over-to-prosecutors-national-margarita-day-deals?amp",
+      "publishedDateTime": "2021-02-22T09:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-23-trump-administration-deserves-credit-for-breathtaking-operation-warp-speed-success-nih-director.md",
       "title": "Trump administration deserves credit for 'breathtaking' Operation Warp Speed success: NIH director",
       "excerpt": "National Institutes of Health director Dr. Francis Collins praised the Trump administration on Sunday for the \"breathtaking\" success of Operation Warp Speed in getting multiple effective coronavirus vaccines developed and tested within one year of the virus outbreak.",
@@ -1559,49 +1611,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-15-boris-johnson-calls-trump-impeachment-over-capitol-attack-kerfuffle.md",
-      "title": "Boris Johnson calls Trump impeachment over Capitol attack 'kerfuffle'",
-      "excerpt": "Prime minister touts Covid co-operation with Biden, who once called him a ‘clone of Donald Trump’",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/politics/2021/feb/14/boris-johnson-capitol-attack-trump-impeachment-kerfuffle-joe-biden-clone",
-      "originalUrl": "https://www.theguardian.com/politics/2021/feb/14/boris-johnson-capitol-attack-trump-impeachment-kerfuffle-joe-biden-clone",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/politics/2021/feb/14/boris-johnson-capitol-attack-trump-impeachment-kerfuffle-joe-biden-clone",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2021/feb/14/boris-johnson-capitol-attack-trump-impeachment-kerfuffle-joe-biden-clone",
-      "publishedDateTime": "2021-02-14T14:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Donald Trump"
       ]
     }

@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Alaska Sen. Lisa Murkowski calls on Trump to resign, questions her future with GOP"
-excerpt: "Alaska Sen. Lisa Murkowski, R, called on President Trump to resign Friday, and questioned her future within the Republican Party. "
-publishedDateTime: 2021-01-08T23:47:30Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ou3t1ilr-dk/alaska-sen-lisa-murkowski-trump-resign-future-as-republican"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ou3t1ilr-dk/alaska-sen-lisa-murkowski-trump-resign-future-as-republican"
-ampWebUrl: "https://www.foxnews.com/politics/alaska-sen-lisa-murkowski-trump-resign-future-as-republican.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alaska-sen-lisa-murkowski-trump-resign-future-as-republican.amp"
+title: "Trump says he'll work to unseat Alaska's Murkowski, calling her 'disloyal'"
+excerpt: "Former President Donald Trump said he would campaign against Sen. Lisa Murkowski, R-Alaska, and blasted her as a \"disloyal and very bad Senator\" in a statement this weekend."
+publishedDateTime: 2021-03-07T20:27:02Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EqNJ88B_6js/trump-murkowski-senate-alaska-campaign-2022"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EqNJ88B_6js/trump-murkowski-senate-alaska-campaign-2022"
+ampWebUrl: "https://www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp"
 type: article
-quality: 169
-heat: -1
-published: false
+quality: 173
+heat: 233
+published: true
 
 provider:
   name: Fox News
@@ -25,27 +25,27 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63c0d67f-9beb-4ad1-a95c-7ce746a286e7/ce4afb25-2597-47c5-a094-26d7a3943683/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/rts18vzv.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
-  - title: "Trump says he'll work to unseat Alaska's Murkowski, calling her 'disloyal'"
-    excerpt: "Former President Donald Trump said he would campaign against Sen. Lisa Murkowski, R-Alaska, and blasted her as a \"disloyal and very bad Senator\" in a statement this weekend."
-    publishedDateTime: 2021-03-07T20:27:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EqNJ88B_6js/trump-murkowski-senate-alaska-campaign-2022"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp"
+  - title: "Alaska Sen. Lisa Murkowski calls on Trump to resign, questions her future with GOP"
+    excerpt: "Alaska Sen. Lisa Murkowski, R, called on President Trump to resign Friday, and questioned her future within the Republican Party. "
+    publishedDateTime: 2021-01-08T23:47:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ou3t1ilr-dk/alaska-sen-lisa-murkowski-trump-resign-future-as-republican"
+    ampWebUrl: "https://www.foxnews.com/politics/alaska-sen-lisa-murkowski-trump-resign-future-as-republican.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alaska-sen-lisa-murkowski-trump-resign-future-as-republican.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/rts18vzv.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/63c0d67f-9beb-4ad1-a95c-7ce746a286e7/ce4afb25-2597-47c5-a094-26d7a3943683/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Alaska's Murkowski pledges to stay with Senate Republicans despite issues with Trump"
     excerpt: "Moderate GOP Sen. Lisa Murkowski has been very vocal for years that she’s no fan of Donald Trump’s takeover of the Republican Party."
@@ -80,6 +80,6 @@ related:
         height: 320
         isCached: true
 
-secured: "2EBMl/cpCBDEDyhieR+0LLXMebC5kW4flxBK+VeMDMb6bAMR1li1t3hk8nJ1oxppy17WdoY8U94YHC3ib4z2Z/2yf4ajgDOsyGFSGoRZWKm9BqwySROzkwU3vZ9/qocW0twa/47p/ZBubnA6yJ8cotDqt0rhv2xPh3uDauFuOlnvYUi/3BbKZ8EqylzbxKakdAFIil7YEsAc/N3hKpTnAZFUxuMctODrVks6byz9uaJ48lZdG46vaDjViZW/2sphOu74l+X8kC7eVxlOOLr8G9u+ETN8GDcq3Dtb1RG2j1xT8NgxasGp0POCoU53BEW8MyhV+l+Wv6QeLrOipmHIfZcIuQuxo/gwnaGzhjUBoQM=;VdCtLXWXRwNOw65r7weCMg=="
+secured: "se95czxSufZ3iNkKkrJQwGXEYHs5WIx3dKCwn7K2bQNmJYZK/8z4pTBrUgekEZT3kGQ5YX264LCbK9JMEcNbgaa1xYTRUxDWoeV9gnMvnYXFJqe1AJY9znSMK3vbHL/XFUTithQXjBjIF/fQp5aYDEozjxbogY9xi/mWrnV5kMVWaJUZm/UgyfqjE5FTPbTty6v0frOYNCHcenczCej2u3gD7WlvnadIwtObuZ6psnYJfXuXZnWhjeK5KH8CTPVRM9NsUzWZtI0lKjJ3Lwa4LWW+EJzlILi8ywkoA+hfURbOWuqWmP2o99MQ7OmPSAqbJoN9UQ9Ed/ukQm37OWJyTXGeOt9+KMpqMRBWVz2/Xw0=;qs0liMXJfrcPtF2or8v16Q=="
 ---
 

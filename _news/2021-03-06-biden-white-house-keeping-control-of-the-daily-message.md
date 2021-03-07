@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden officials visit US-Mexico border to monitor increase in crossings"
+    excerpt: "Alejandro Mayorkas and Susan Rice in White House delegation as Republicans seek to make immigration central electoral issue"
+    publishedDateTime: 2021-03-07T12:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a781cba07bd450a169afecf73368213bb77d4f4a/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5a89ad2aba0ecfee1a4a7259c005b38a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden poised to sign executive order aimed at promoting voting rights"
     excerpt: "President Biden is set to take unilateral action Sunday focused on voting rights and using the tools of the federal government to boost access for Americans to voter registration services. Mr. Biden will sign the executive order on the 56th anniversary of \"Bloody Sunday,"
     publishedDateTime: 2021-03-07T14:13:00Z

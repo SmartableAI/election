@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Trump weighs 2024 White House run without Mike Pence, allies say"
-excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 – and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket, according to people familiar with the discussions."
-publishedDateTime: 2021-03-03T20:22:00Z
-originalUrl: "https://www.detroitnews.com/story/news/politics/2021/03/03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say/6907944002/"
-webUrl: "https://www.detroitnews.com/story/news/politics/2021/03/03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say/6907944002/"
-ampWebUrl: "https://amp.detroitnews.com/amp/6907944002"
-cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6907944002"
+title: "Ivanka Trump For Vice President? Donald Trump Would Consider Daughter As 2024 Running Mate"
+excerpt: "After former President Donald Trump hinted at last week's Conservative Political Action Conference about a potential White House run in 2024, there was chatter that his eldest daughter Ivanka Trump or another family member could serve as his running mate."
+publishedDateTime: 2021-03-07T18:08:00Z
+originalUrl: "https://www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990"
+webUrl: "https://www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990"
+ampWebUrl: "https://www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990?amp=1"
+cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990?amp=1"
 type: article
-quality: 90
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: Detroit News
-  domain: detroitnews.com
+  name: International Business Times
+  domain: ibtimes.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Mike Pence
+  - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/03/03/PDTN/34ca3f4b-0302-4b92-81a5-506ed210864b-AP21059813576403.jpg?auto=webp&crop=684,385,x237,y298&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -149,6 +153,22 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "Trump weighs 2024 White House run without Mike Pence, allies say"
+    excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 – and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket, according to people familiar with the discussions."
+    publishedDateTime: 2021-03-03T20:22:00Z
+    webUrl: "https://www.detroitnews.com/story/news/politics/2021/03/03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say/6907944002/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/6907944002"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6907944002"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 90
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/03/PDTN/34ca3f4b-0302-4b92-81a5-506ed210864b-AP21059813576403.jpg?auto=webp&crop=684,385,x237,y298&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Pence Reportedly Not Holding a Grudge Against Trump Over Whole Riot Thing"
     excerpt: "It took a few weeks, but Pence seems to be over it — at least publicly. CNN reports that Pence told a group of Republican lawmakers on Tuesday that not only does he remain close friends with Trump, but that he has plans to launch a political action organization defending the administration’s record."
     publishedDateTime: 2021-02-24T17:03:00Z
@@ -197,22 +217,6 @@ related:
         width: 1200
         height: 632
         isCached: true
-  - title: "Ivanka Trump For Vice President? Donald Trump Would Consider Daughter As 2024 Running Mate"
-    excerpt: "After former President Donald Trump hinted at last week's Conservative Political Action Conference about a potential White House run in 2024, there was chatter that his eldest daughter Ivanka Trump or another family member could serve as his running mate."
-    publishedDateTime: 2021-03-07T18:08:00Z
-    webUrl: "https://www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990"
-    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Trump To Make First Post-presidency Speech At Conservative Conference"
     excerpt: "Donald Trump returns to the political spotlight Sunday, determined to regain control of a Republican Party that is out of power and pondering whether the flawed former president can win again in 2024."
     publishedDateTime: 2021-02-28T14:11:00Z
@@ -251,6 +255,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "J/vjQqD/OPbIYfwh/4nNStGvu6XsSFbv7R0aS8vIk3fZINfOQxvjNPKEwCEbuvsQuKIFS6aL7B9XwW19/nHGiYVf8R9/nrrUUcTOsmHb+oSC9EgDUur+aF6uI+2WIdmYjNPQ7KM47zSdL2JNgDn+cMmBJA9CP9qKLpvZlem/9K3BJiiD/h6M+QObofYN7Iai/PmgB/WGyrR3d2uWBCvr0vyqhxT2ywiYiiO+PsH0UXubldbCg1QGVOBc6qxA3raawyQt3MRXnoZvqwENYlb2b83SvARtkW4+85hThCj+2JTzHdH0P29NbHRL3nTubpWOW40NTaKSNCv2ZEL1CsUMPFIJxakHOQT940uJNjJR4xY=;q2LoIve8OemGrpdX+QHfjA=="
+secured: "4arBiYqD1dVGMCcQ+qYaw8gH49q1zdMutuA6do3AAkv9T12/aBuQi4JmPKmlTSxq+FXle7Zr/DmLxN6tWydBiPMfvNkcwA6o1TWzTcNVBT+jrLzckZNrKtE/Y+yMRPrXc5EQX//sQ0pQsAx19Oo41HbeakkGDC+pTI7rPMTtKsl1uuSWjrAobJiBy+NBKgQyoyDazS7xh+//cvHC78wczX51V9WtYlvRvCp8/oCJjilOd3S/q15ZqUxd2BTgKJehyz+Cdf6nmq0M9loHpCbr4Wed2XnfT8zpHG9J+yQscyIgqbHB/zv7/+pCY8kpZvAasm4mBnhgmMyMGNKP1JHB2H7nJ6NuZo5BHiM8Y1qbenk=;YVoyr+F+zrOWGXmQzkVNIg=="
 ---
 

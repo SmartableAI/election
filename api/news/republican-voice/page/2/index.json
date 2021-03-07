@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-04-kimmel-warns-canceling-dr-seuss-is-how-trump-gets-reelected-cancel-culture-is-his-path-to-victory.md",
+      "title": "Kimmel warns 'canceling' Dr. Seuss is 'how Trump gets reelected': Cancel culture is 'his path to victory'",
+      "excerpt": "ABC late-night host Jimmy Kimmel sounded the alarm on cancel culture Tuesday and how it could help former President Donald Trump get elected again in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/jimmy-kimmel-dr-seuss-cancel-culture-trump",
+      "originalUrl": "https://www.foxnews.com/entertainment/jimmy-kimmel-dr-seuss-cancel-culture-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/01/Jimmy-Kimmel.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T18:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-georgia-gov-kemp-says-he-would-absolutely-back-trump-2024-despite-trumps-calls-for-his-resignation.md",
       "title": "Georgia Gov. Kemp says he would 'absolutely' back Trump 2024, despite Trumps' calls for his resignation",
       "excerpt": "Georgia Gov. Brian Kemp said he would \"absolutely\" back Donald Trump in a bid for the presidency in 2024, despite Trump’s recent criticism of the Republican governor.",
@@ -1619,63 +1676,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.md",
-      "title": "Pelosi vows to keep minimum wage provision in House bill; Harris could act",
-      "excerpt": "The Senate's chief parliamentarian ruled Thursday that a federal minimum wage hike should not be included in the $1.9 trillion COVID-19 relief package, but that seemed to do little to deter House Democrats from pursuing the plan — against impossible odds.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wV7eyEm-PCI/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wV7eyEm-PCI/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 363,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp",
-      "publishedDateTime": "2021-02-25T23:30:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     }
   ],

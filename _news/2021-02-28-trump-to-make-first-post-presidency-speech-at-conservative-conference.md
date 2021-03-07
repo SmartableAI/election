@@ -215,6 +215,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Ivanka Trump For Vice President? Donald Trump Would Consider Daughter As 2024 Running Mate"
+    excerpt: "After former President Donald Trump hinted at last week's Conservative Political Action Conference about a potential White House run in 2024, there was chatter that his eldest daughter Ivanka Trump or another family member could serve as his running mate."
+    publishedDateTime: 2021-03-07T18:08:00Z
+    webUrl: "https://www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990"
+    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Trump To Be Allowed Back On YouTube When 'Risk Of Violence' Falls"
     excerpt: "Former US president Donald Trump will be allowed back on YouTube but only when the threat of his inciting violence abates, the head of the popular online video sharing platform said Thursday. YouTube in late January suspended Trump's channel,"
     publishedDateTime: 2021-03-04T21:16:00Z

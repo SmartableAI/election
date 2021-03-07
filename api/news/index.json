@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-07-trump-says-hell-work-to-unseat-alaskas-murkowski-calling-her-disloyal.md",
+      "title": "Trump says he'll work to unseat Alaska's Murkowski, calling her 'disloyal'",
+      "excerpt": "Former President Donald Trump said he would campaign against Sen. Lisa Murkowski, R-Alaska, and blasted her as a \"disloyal and very bad Senator\" in a statement this weekend.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EqNJ88B_6js/trump-murkowski-senate-alaska-campaign-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EqNJ88B_6js/trump-murkowski-senate-alaska-campaign-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 233,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/rts18vzv.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp",
+      "publishedDateTime": "2021-03-07T12:27:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-07-trump-expected-to-make-first-visit-to-nyc-since-leaving-office.md",
       "title": "Trump expected to make first visit to NYC since leaving office",
       "excerpt": "Former President Donald Trump is expected to make his first trip to New York City since leaving office in the coming days.",
@@ -114,6 +170,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-07-china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying.md",
+      "title": "China calls on US to drop Trump-era sanctions and warns against 'bullying'",
+      "excerpt": "Foreign minister Wang Yi calls for cooperation and signals that Beijing will stand firm against criticism",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying?share=twitter",
+      "originalUrl": "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying?share=twitter",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/1460603f607965dd4feb714bb0cba76fa5e4a045/643_571_6904_4144/master/6904.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c281ae1e3c17d59475ec3266852594f7",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
+      "publishedDateTime": "2021-03-07T05:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-07-china-tells-biden-to-reverse-dangerous-practice-on-taiwan.md",
       "title": "China tells Biden to reverse ‘dangerous practice’ on Taiwan",
       "excerpt": "China’s foreign minister has warned the Biden administration to roll back former President Donald Trump’s “dangerous practice” of showing support for Taiwan, the island democracy Beijing claims as its",
@@ -174,7 +282,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1254,118 +1362,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-biden-wants-to-negotiate-with-gop-but-outside-forces-holding-him-back-sen-capito.md",
-      "title": "Biden wants to negotiate with GOP but outside 'forces' holding him back: Sen. Capito",
-      "excerpt": "Sen. Shelley Moore Capito, R-W. Va., said the Democratic coronavirus stimulus bill was a \"non-starter\" on Friday, calling it \"bloated\" and a wasted opportunity to work across the aisle.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nmWiXPUpXko/biden-coronavirus-bill-bloated-wasted-opportunity-capito",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nmWiXPUpXko/biden-coronavirus-bill-bloated-wasted-opportunity-capito",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aea660e1-50db-4302-ab95-32e29d2d4cad/78743621-74f9-4557-a785-713a3cc77c6a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-coronavirus-bill-bloated-wasted-opportunity-capito.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-bill-bloated-wasted-opportunity-capito.amp",
-      "publishedDateTime": "2021-03-05T08:31:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-house-impeachment-manager-eric-swalwell-sues-trump-and-close-allies-over-capitol-riot-in-second-major-insurrection-lawsuit.md",
-      "title": "House impeachment manager Eric Swalwell sues Trump and close allies over Capitol riot in second major insurrection lawsuit",
-      "excerpt": "Former House impeachment manager Eric Swalwell has sued former President Donald Trump, his son Donald Trump Jr., Rudy Giuliani and Republican Rep. Mo Brooks in a second major lawsuit seeking to hold Trump and his allies accountable for inciting the insurrection at the US Capitol on January 6.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ksWyQ9kp_SY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ksWyQ9kp_SY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190708122107-04-eric-swalwell-2019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/05/politics/trump-lawsuit-insurrection-eric-swalwell/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/trump-lawsuit-insurrection-eric-swalwell/index.html",
-      "publishedDateTime": "2021-03-05T06:17:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

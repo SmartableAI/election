@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden getting 1st shot at making mark on federal judiciary"
-excerpt: "President Joe Biden has two seats to fill on the influential appeals court in the nation’s capital that regularly feeds judges to the Supreme Court"
-publishedDateTime: 2021-03-06T14:27:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
-webUrl: "https://abcnews.go.com/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
+title: "Biden officials visit US-Mexico border to monitor increase in crossings"
+excerpt: "Alejandro Mayorkas and Susan Rice in White House delegation as Republicans seek to make immigration central electoral issue"
+publishedDateTime: 2021-03-07T12:32:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+webUrl: "https://www.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_b5cc3da2be59405c8ee6c45a68199c7c_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://i.guim.co.uk/img/media/a781cba07bd450a169afecf73368213bb77d4f4a/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5a89ad2aba0ecfee1a4a7259c005b38a"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/04/bc169c75-f742-42c5-b2a8-649e4a44e148/thumbnail/1200x630/ec0c83d0aabe7014635179e56c95ef66/hiring-gettyimages-1229892232.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden getting 1st shot at making mark on federal judiciary"
+    excerpt: "President Joe Biden has two seats to fill on the influential appeals court in the nation’s capital that regularly feeds judges to the Supreme Court"
+    publishedDateTime: 2021-03-06T14:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b5cc3da2be59405c8ee6c45a68199c7c_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden White House: keeping control of the daily message"
     excerpt: "President Joe Biden is the first executive in four decades to reach this point in his term without holding a formal question and answer session. It reflects a White House media strategy meant both to reserve major media set-pieces for the celebration of a legislative victory and to limit unforced errors from a historically gaffe-prone politician."
@@ -78,22 +94,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Biden officials visit US-Mexico border to monitor increase in crossings"
-    excerpt: "Alejandro Mayorkas and Susan Rice in White House delegation as Republicans seek to make immigration central electoral issue"
-    publishedDateTime: 2021-03-07T12:32:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/a781cba07bd450a169afecf73368213bb77d4f4a/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5a89ad2aba0ecfee1a4a7259c005b38a"
-        width: 600
-        height: 360
         isCached: true
   - title: "Biden poised to sign executive order aimed at promoting voting rights"
     excerpt: "President Biden is set to take unilateral action Sunday focused on voting rights and using the tools of the federal government to boost access for Americans to voter registration services. Mr. Biden will sign the executive order on the 56th anniversary of \"Bloody Sunday,"
@@ -176,6 +176,6 @@ related:
         height: 576
         isCached: true
 
-secured: "lphTgc14ajO7SieocgZn4GXBVMRJ4fjgWqxB9qCg72xtpVZrNjM5O7NtNojKSQ19OhO9NUxIuY0Ey4orRJv6pxT9FAiZScC18/VgA2/lNcti79a9DpE6AjX7dZVTGF30Lc7nRubz+xP9h1SxGvd4QfyCZdIf8AXnDttRNGnglglVlKT7c0aARBoqKn2WYABwYEo4t+cJDzGAkWs/oDCCdnQUjdSM7UM4Esqj39omAl3ElPuUpTBEU76BcZF2L8NBc8sUbysRhIZn3G+4Hqr6YYw1hFMauWGqmddlP9xXzQZcCCddzLq6x4c+6ajyrSKXYlFYms8qSfNYnY4J/8IM22hWLCwJhO1OgXLka31MY80=;zffYU9CEcGXxy418Entpzg=="
+secured: "t1qFIMFu0QIol/gvp8vtIu/Lqoc07ImXh12jtp1a9Cbh1B3Dea2zeEd8y9zi17SWYwLGWL+RN+0mjjlddBYoBvXN+JsXdP7NxUdA43WLnr/CKGghoi4E3X+Eb2A8b2OJn84nKk2gahHaWr2Hch5UTmH8A1yuFb9UEFmzm9mMNB8WpXqba0Eei1sO11PL2iTjRa4Dd47w1baNo1K+kzZdaiAAhuO6akxI2ETWO2zs0QYhAuyXDAyT1nQJLDn0sAmvV8pZhnDR7bD/Ggbb2PTDNilq28hiTCQC7SZmEqsb9/aqFaI4zELXcE6Jma4ACVZzRf2i3V7irF6p2jaV3h26yxEr1qoMhH+OmdvE0t1U3vw=;rTTlBEpqQR4h9QHJz996fw=="
 ---
 

@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-05-pence-will-be-very-active-in-2022-elections-amid-new-partnerships-with-conservative-groups-ex-vps-adviser.md",
+      "title": "Pence will be ‘very active’ in 2022 elections amid new partnerships with conservative groups: ex-VP's adviser",
+      "excerpt": "Pence announced he is joining the Heritage Foundation as a distinguished fellow and is also entering into a partnership with the conservative Young America’s Foundation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/05PIau_y4NA/pence-adviser-says-former-vice-president-to-be-very-active-in-2022-elections",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/05PIau_y4NA/pence-adviser-says-former-vice-president-to-be-very-active-in-2022-elections",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pence-adviser-says-former-vice-president-to-be-very-active-in-2022-elections.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-adviser-says-former-vice-president-to-be-very-active-in-2022-elections.amp",
+      "publishedDateTime": "2021-02-05T04:44:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-biden-flying-to-delaware-despite-cdc-warnings-to-avoid-travel.md",
       "title": "Biden flying to Delaware despite CDC warnings to avoid travel",
       "excerpt": "President Biden is expected to travel to Delaware this weekend, in what will be his first out-of-town trip since taking office, despite warnings from the Centers of Disease Control and Prevention to avoid travel.",
@@ -1625,62 +1682,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-nunes-russia-hoaxers-at-top-echelons-of-biden-administration.md",
-      "title": "Nunes: 'Russia hoaxers' at 'top echelons' of Biden administration",
-      "excerpt": "Trump-Russia probe promoters are now being recognized as top Biden administration officials, Rep. Devin Nunes alleged on \"Sunday Morning Futures.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynS2xT5e1IY/nunes-peter-strozk-wife-sec-appointment",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ynS2xT5e1IY/nunes-peter-strozk-wife-sec-appointment",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-book.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/nunes-peter-strozk-wife-sec-appointment.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/nunes-peter-strozk-wife-sec-appointment.amp",
-      "publishedDateTime": "2021-01-31T12:00:42-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

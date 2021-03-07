@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden officials visit US-Mexico border to monitor increase in crossings"
+    excerpt: "Alejandro Mayorkas and Susan Rice in White House delegation as Republicans seek to make immigration central electoral issue"
+    publishedDateTime: 2021-03-07T12:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a781cba07bd450a169afecf73368213bb77d4f4a/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5a89ad2aba0ecfee1a4a7259c005b38a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "A viral misfire: A White House video feed ended but Biden took questions"
     excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
     publishedDateTime: 2021-03-05T00:00:00Z

@@ -209,6 +209,22 @@ related:
         width: 1200
         height: 632
         isCached: true
+  - title: "Ivanka Trump For Vice President? Donald Trump Would Consider Daughter As 2024 Running Mate"
+    excerpt: "After former President Donald Trump hinted at last week's Conservative Political Action Conference about a potential White House run in 2024, there was chatter that his eldest daughter Ivanka Trump or another family member could serve as his running mate."
+    publishedDateTime: 2021-03-07T18:08:00Z
+    webUrl: "https://www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990"
+    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Trump To Make First Post-presidency Speech At Conservative Conference"
     excerpt: "Donald Trump returns to the political spotlight Sunday, determined to regain control of a Republican Party that is out of power and pondering whether the flawed former president can win again in 2024."
     publishedDateTime: 2021-02-28T14:11:00Z

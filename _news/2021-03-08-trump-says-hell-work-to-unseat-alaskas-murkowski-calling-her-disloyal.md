@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Alaska's Murkowski pledges to stay with Senate Republicans despite issues with Trump"
-excerpt: "Moderate GOP Sen. Lisa Murkowski has been very vocal for years that she’s no fan of Donald Trump’s takeover of the Republican Party."
-publishedDateTime: 2021-01-22T21:51:02Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8BRqRHno_1E/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8BRqRHno_1E/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump"
-ampWebUrl: "https://www.foxnews.com/politics/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump.amp"
+title: "Trump says he'll work to unseat Alaska's Murkowski, calling her 'disloyal'"
+excerpt: "Former President Donald Trump said he would campaign against Sen. Lisa Murkowski, R-Alaska, and blasted her as a \"disloyal and very bad Senator\" in a statement this weekend."
+publishedDateTime: 2021-03-07T20:30:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022"
+webUrl: "https://www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022"
+ampWebUrl: "https://www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp"
 type: article
-quality: 168
+quality: 133
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/rts18vzv.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
 related:
@@ -63,23 +64,23 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says he'll work to unseat Alaska's Murkowski, calling her 'disloyal'"
-    excerpt: "Former President Donald Trump said he would campaign against Sen. Lisa Murkowski, R-Alaska, and blasted her as a \"disloyal and very bad Senator\" in a statement this weekend."
-    publishedDateTime: 2021-03-07T20:30:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp"
+  - title: "Alaska's Murkowski pledges to stay with Senate Republicans despite issues with Trump"
+    excerpt: "Moderate GOP Sen. Lisa Murkowski has been very vocal for years that she’s no fan of Donald Trump’s takeover of the Republican Party."
+    publishedDateTime: 2021-01-22T21:51:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8BRqRHno_1E/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump"
+    ampWebUrl: "https://www.foxnews.com/politics/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/alaskas-murkowski-pledges-to-stay-with-senate-gop-despite-issues-with-trump.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 133
+    quality: 168
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/rts18vzv.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
-secured: "1EHDkpl0VZgGxLQpZv89z1Ozv0EN53aQzOPSbmXvtwmrJM3qmQvxgnU5xO5M/KBEPyRY4uCUiMezkzNI6kw4txDvqDEe0pMvw6MU5NMOswAkNwsX0+wA2LVRiaH2yTYGSHPZxWqqx9pe9koZ0+E1X0ZmWpgFziq0kp5VqudeP299TXGRkFR3CEeTGeDCfROFOy9x1XvfbXEc98M/spHySdlWip5l1Qnt9PbauHgiVhpAnMnaI2RMxpUTCEaBtX9AruBlzapO2cWpkZhTRf6VVwkDml1tJvYU8i4sQLyTO9cWk399Ds+bOg6+n7ESyhq3wXUJBwBiT2DPSCBAS6tyIsWp7EcukLJMutU3R+3DcBw=;efwPQ2uEh4c6sHdvL84gtA=="
+secured: "0dQVPC41DESeWpGp/uH56tos9rIqRlmZpTPc5a7Mfyde32mYwOqdI7uOn7+95s/0IusHNEEN20fToiRXoDPLHAKx8cF/siyA+qKCjrMnBok9801UvjLMSTd4TKZIJjlZsHeR0VBVA0SV6k5zo9OdDXE5zfrJKPAhXKNGQxa6lbE3ao6yy6tMMNBfWrIhd7dcbLqSdYqPDl+SvNTF7zRzdES1RKPWoVGLhir0dAXKDH1rCMj+4FwR2mzSJkEb57iiBZ3YlrHVpLKYoAMYLquKtxU6izcmXqiF2YxwZedU2d38ykJNvltiuOlfkxYCP4cu8M8F36uReErcxexCdKT6Nn4LMeWN1mL+lTrKeELEGQI=;AbDd7qcT8fkAm44+zDAc8A=="
 ---
 
