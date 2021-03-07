@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-05-tiny-group-of-qanon-supporters-spotted-in-dc-awaiting-trump-inauguration.md",
+      "title": "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration",
+      "excerpt": "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
+      "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1750168/q.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
+      "publishedDateTime": "2021-03-05T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.md",
       "title": "Supreme Court drops 'sanctuary city' cases following Biden DOJ request",
       "excerpt": "The Supreme Court on Thursday dismissed a number of cases testing the Trump administration’s plan to withhold law-enforcement grants from cities that refused to cooperate with Department of Homeland Security efforts to deport noncitizens arrested by local police.",
@@ -1292,63 +1344,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-mcenany-on-psakis-performance-i-didnt-have-to-circle-back-because-trump-gave-me-access.md",
-      "title": "McEnany on Psaki's performance: I didn't have to 'circle back' because Trump gave me access",
-      "excerpt": "Former White House press secretary Kayleigh McEnany said Thursday she didn't need to a \"ton of circling back\" with reporters because of the access afforded her by former President Donald Trump, in a reference to successor Jen Psaki's go-to line when she can't directly answer questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access",
-      "originalUrl": "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7e464313-ed77-41c9-b931-b2206dfad890/ed9febb7-24a2-4cf4-b2f0-ee81280ac2cc/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/mcenany-psaki-performance-circle-back-trump-access.amp",
-      "publishedDateTime": "2021-03-04T06:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,58 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-10-radioactive-neera-tanden-bidens-pick-for-budget-chief-tries-to-win-over-critics-on-left-and-right.md",
+      "title": "'Radioactive'? Neera Tanden, Biden's pick for budget chief, tries to win over critics on left and right",
+      "excerpt": "Neera Tanden has waged war against the GOP on Twitter, setting up an awkward confrontation during her confirmation hearings as Biden's budget director",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/09/neera-tanden-office-management-budget-nominee-set-senate-grilling/4413702001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/09/neera-tanden-office-management-budget-nominee-set-senate-grilling/4413702001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/08/USAT/b3375d8e-4ef3-44c7-8bb9-6cb14aa1d030-GTY_1288892607.jpg?auto=webp&crop=3104,1746,x0,y158&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4413702001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4413702001",
+      "publishedDateTime": "2021-02-09T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-lin-wood-doubles-down-on-attacking-pence-roberts.md",
       "title": "Lin Wood doubles down on attacking Pence, Roberts",
       "excerpt": "In a court filing, the Atlanta lawyer again brought up bizarre, unsubstantiated allegations amid a bid to drive him off a libel suit.",
@@ -1312,62 +1364,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-biden-laments-lack-of-black-nfl-coaches-during-super-bowl-halftime-interview.md",
-      "title": "Biden laments lack of Black NFL coaches during Super Bowl halftime interview",
-      "excerpt": "President Joe Biden lamented the lack of Black coaches in the NFL during a Super Bowl halftime interview Sunday evening, urging teams to emphasize diversity in their hiring process.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEWwVeqQzhk/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEWwVeqQzhk/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210207183825-04-super-bowl-2021-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/07/politics/super-bowl-nfl-biden-covid-19/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/super-bowl-nfl-biden-covid-19/index.html",
-      "publishedDateTime": "2021-02-07T20:16:34-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

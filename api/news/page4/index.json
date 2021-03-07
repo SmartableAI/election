@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-03-hear-why-qanon-supporters-believe-trump-will-be-president-on-march-4th.md",
+      "title": "Hear why QAnon supporters believe Trump will be president on March 4th",
+      "excerpt": "Some believers of the QAnon conspiracy theory think that former President Trump will become president again on March 4th. CNN's Sara Sidner explains the origin of that belief.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IqMpCDXm_Rk/qanon-march-fourth-beliefs-trump-president-sidner-dnt-nr-vpx.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IqMpCDXm_Rk/qanon-march-fourth-beliefs-trump-president-sidner-dnt-nr-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210205154816-qanon-file-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/media/2021/03/03/qanon-march-fourth-beliefs-trump-president-sidner-dnt-nr-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2021/03/03/qanon-march-fourth-beliefs-trump-president-sidner-dnt-nr-vpx.cnn",
+      "publishedDateTime": "2021-03-03T07:57:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-ap-source-biden-senate-democrats-agree-to-tighten-income-limits-for-receiving-1400-per-person-stimulus-checks.md",
       "title": "AP source: Biden, Senate Democrats agree to tighten income limits for receiving $1,400-per-person stimulus checks",
       "excerpt": "Biden, Senate Democrats agree to tighten income limits for receiving $1,400-per-person stimulus checks. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast,",
@@ -1296,63 +1352,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-a-closely-reported-look-at-joe-bidens-lucky-path-to-the-white-house.md",
-      "title": "A Closely Reported Look at Joe Biden’s ‘Lucky’ Path to the White House",
-      "excerpt": "In their new book, the journalists Jonathan Allen and Amie Parnes recount how Biden’s campaign overcame a number of moments when its chances were nearly sunk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/02/books/review-lucky-joe-biden-jonathan-allen-amie-parnes.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/02/books/review-lucky-joe-biden-jonathan-allen-amie-parnes.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/03/books/03BOOKALLEN-PARNES1b/03BOOKALLEN-PARNES1b-facebookJumbo.png",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/02/books/review-lucky-joe-biden-jonathan-allen-amie-parnes.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/02/books/review-lucky-joe-biden-jonathan-allen-amie-parnes.amp.html",
-      "publishedDateTime": "2021-03-02T08:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Democratic Voice"
       ]
     }

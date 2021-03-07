@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-07-biden-to-mark-bloody-sunday-by-signing-voting-rights-order.md",
+      "title": "Biden to mark ‘Bloody Sunday’ by signing voting-rights order",
+      "excerpt": "President Joe Biden plans to sign an executive order directing federal agencies to take a series of steps to promote voting access",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-07T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-07-arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-in-jail-after-storming-capitol.md",
       "title": "Arrested Trump Appointee Tells Judge 'Cockroaches Crawling Over Me' in Jail After Storming Capitol",
       "excerpt": "Federico Guillermo Klein, 42, became the first Trump administration official to be arrested for taking part in the insurrection.",
@@ -1274,7 +1326,7 @@
       "originalUrl": "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1315,58 +1367,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-tiny-group-of-qanon-supporters-spotted-in-dc-awaiting-trump-inauguration.md",
-      "title": "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration",
-      "excerpt": "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
-      "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1750168/q.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
-      "publishedDateTime": "2021-03-05T04:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-02-sen-kaine-sets-aside-trump-censure-resolution-theres-not-enough-support-on-either-side.md",
+      "title": "Sen. Kaine sets aside Trump censure resolution: 'There's not enough support on either side'",
+      "excerpt": "Sens. Tim Kaine and Susan Collins have set aside the bipartisan effort to censure former President Trump for his role in the Jan. 6 Capitol riot for lack of support from both Democrats and Republicans. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvY2CA5b2j4/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RvY2CA5b2j4/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/COLLINS-KAINE-SPLIT.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-kaine-tables-trump-reasonable-censure-resolution-for-lack-of-support.amp",
+      "publishedDateTime": "2021-02-02T11:48:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-graham-urges-acting-ag-to-refrain-from-interfering-in-durham-hunter-biden-probes-amid-garland-confirmation.md",
       "title": "Graham urges acting AG to 'refrain from interfering' in Durham, Hunter Biden probes amid Garland confirmation",
       "excerpt": "Sen. Lindsey Graham, the top Republican on the Senate Judiciary Committee, on Tuesday urged acting Attorney General Monty Wilkinson to \"refrain from interfering\" in Special Counsel John Durham’s investigation and the federal investigation into Hunter Biden’s \"tax affairs\" while the Senate works to confirm",
@@ -1278,62 +1334,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/ukraine-zelensky-offended-trump-phone-call-pressure.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ukraine-zelensky-offended-trump-phone-call-pressure.amp",
       "publishedDateTime": "2021-02-01T11:49:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-trump-residency-at-mar-a-lago-under-palm-beach-legal-review.md",
-      "title": "Trump residency at Mar-a-Lago under Palm Beach legal review",
-      "excerpt": "Palm Beach, Fla., officials are conducting a legal review into former President Donald Trump's residency at Mar-a-Lago, Fox News confirmed Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/avlCXcjVz-I/florida-palm-beach-legal-review-trump-residency-mar-a-lago",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/avlCXcjVz-I/florida-palm-beach-legal-review-trump-residency-mar-a-lago",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/danielle-wallace-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-palm-beach-legal-review-trump-residency-mar-a-lago.amp",
-      "publishedDateTime": "2021-02-01T10:54:59-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

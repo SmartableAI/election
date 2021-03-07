@@ -1,22 +1,22 @@
 ---
 category: news
-title: "A viral misfire: A White House video feed ended but Biden took questions"
-excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
-publishedDateTime: 2021-03-05T00:00:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/"
-webUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/"
-ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/?outputType=amp"
+title: "White House: Biden believes U.S. authorizations for military force need updating"
+excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
+publishedDateTime: 2021-03-06T17:44:00Z
+originalUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2AX2DI"
+webUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2AX2DI"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2DI"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2DI"
 type: article
-quality: 124
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRZS52D4OII6XDC6GLSHWQVVDM.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553982761&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250G4"
+    width: 817
+    height: 545
     isCached: true
 
 related:
@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "A viral misfire: A White House video feed ended but Biden took questions"
+    excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
+    publishedDateTime: 2021-03-05T00:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRZS52D4OII6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "White House: Biden believes U.S. authorizations for military force need updating"
     excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
     publishedDateTime: 2021-03-06T01:26:00Z
@@ -109,22 +125,6 @@ related:
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241F1"
         width: 735
-        height: 545
-        isCached: true
-  - title: "White House: Biden believes U.S. authorizations for military force need updating"
-    excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
-    publishedDateTime: 2021-03-06T17:44:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2AX2DI"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2DI"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2DI"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553982761&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250G4"
-        width: 817
         height: 545
         isCached: true
   - title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
@@ -144,6 +144,6 @@ related:
         height: 576
         isCached: true
 
-secured: "qh1DQVY/WZitvHjw7eivtYc4vHA+xDGF5FImMxhnxal0CYO65oBo5qxDXkrTmwUpADvMgXO6AbrFmrLXu+IqDGFzbaMVYMH86mvWEz7eDSKO9DiyZgjomF8RCGe0YnFoxbIHYQ+Gxse7XP5VJeWnsgGiqvPdBIppF4tU1CpKfcFVgzO5Eb8KkvNhilU6VU2hG7/qtFgwUBx2TsI8xaJHYUBN7Ehwrwet4pF0oXf7ZQaFfclWdlQNhe708PpwyrZZRRLvrOotaqHny2c9BtSB8MptHYI6iqyxnN3OGP8zkHQxLAiCbPRkPH/ln+QHOd2Elz15yfuneE4vY2Jz8bZR1COyM1J9hdYHId3abe/hPFq0zwWTsobHYQvdVEG/VhI6r6mvnN2gFs6HzL8UrwUgtqp1dnk7Bv/p4uCMCYgXIJDQ417QNinLYSmuXKAbBIcJ1SujxWVuLvW3b6XIzLytrE/eW4RfHBz94sxqIAJJAv+DRsuR2jIAZXbe+lQ9JfJP1hzZUSZPkIJUx352GWAnSg==;HFVgk3jkoDUfHCgV9CkCvA=="
+secured: "j3Fk0bzSGZwLZBU1orArN6HVS9rb/zE5r5WzCOVEykOUvGUvVPg7VV6za/golKpvlGFauWr00XUw8lcN/A5EmdtJM5yFmEMI2EfV5RI1OFFVf1/1CQ21D4ifGwrJZ3vME76re09ZZ+C2+lAIkuk0pe/8DZhdhhat8wOXaWDnqHTNqsjTDLKI0htScGbxf/lBM8tMoVzIKC1v+sasnAfwBj/amEYb7D20BX6wo/Zfv2x5umdMApJxpJ0JqIhz32TN6NJMMcf4cW+T/0b8at0u3K5A8M0p4cBTrgdEr22Kq0L1Z8UyevJ4ZZfq6unjGfuBw+7H/UMhS1ILzGD6k+YIiQpZYMivCRXNU3COS/m9pgA=;nVD6+7OxIciMAgVV5mSGsA=="
 ---
 

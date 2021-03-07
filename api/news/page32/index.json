@@ -2,6 +2,63 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2021-01-18-top-fema-official-attended-trumps-stop-the-steal-rally.md",
+      "title": "Top FEMA official attended Trump's 'Stop the Steal' rally",
+      "excerpt": "A top official at the Federal Emergency Management Agency, which has been assisting in preparations for the Inauguration next week, attended President Donald Trump’s “Stop the Steal” rally on Jan. 6. At that rally, Trump urged his followers to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/01/15/fema-trump-rally-459734",
+      "originalUrl": "https://www.politico.com/news/2021/01/15/fema-trump-rally-459734",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/ad/37/43fd268d42649efd54bf08dfbb90/ap20337786621970-1.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/01/15/fema-trump-rally-459734",
+      "publishedDateTime": "2021-01-17T10:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-17-how-trumps-most-consequential-policies-have-changed-america.md",
       "title": "How Trump's most consequential policies have changed America",
       "excerpt": "Donald Trump's presidency has largely been defined by his disregard for political norms and his historic two impeachments.\n    \n",
@@ -1246,58 +1303,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-capitol-riots-what-are-far-right-trump-supporters-saying.md",
-      "title": "Capitol riots: What are far-right Trump supporters saying?",
-      "excerpt": "Members of the extreme right are searching for new online homes, amid paranoia that they are being ‘set up’ by the authorities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/blogs-trending-55679813",
-      "originalUrl": "https://www.bbc.com/news/blogs-trending-55679813",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/cpsprodpb/754F/production/_116413003_gettyimages-578547390.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/amp/blogs-trending-55679813",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/blogs-trending-55679813",
-      "publishedDateTime": "2021-01-15T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "A viral misfire: A White House video feed ended but Biden took questions"
-excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
-publishedDateTime: 2021-03-05T00:00:00Z
-originalUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/"
-webUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/"
-ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/?outputType=amp"
+title: "Biden getting 1st shot at making mark on federal judiciary"
+excerpt: "President Joe Biden has two seats to fill on the influential appeals court in the nation’s capital that regularly feeds judges to the Supreme Court"
+publishedDateTime: 2021-03-06T18:33:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
-quality: 124
+quality: 125
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRZS52D4OII6XDC6GLSHWQVVDM.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -79,21 +79,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden getting 1st shot at making mark on federal judiciary"
-    excerpt: "President Joe Biden has two seats to fill on the influential appeals court in the nation’s capital that regularly feeds judges to the Supreme Court"
-    publishedDateTime: 2021-03-06T18:33:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+  - title: "A viral misfire: A White House video feed ended but Biden took questions"
+    excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
+    publishedDateTime: 2021-03-05T00:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 124
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRZS52D4OII6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "White House: Biden believes U.S. authorizations for military force need updating"
     excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
@@ -144,6 +144,6 @@ related:
         height: 576
         isCached: true
 
-secured: "qh1DQVY/WZitvHjw7eivtYc4vHA+xDGF5FImMxhnxal0CYO65oBo5qxDXkrTmwUpADvMgXO6AbrFmrLXu+IqDGFzbaMVYMH86mvWEz7eDSKO9DiyZgjomF8RCGe0YnFoxbIHYQ+Gxse7XP5VJeWnsgGiqvPdBIppF4tU1CpKfcFVgzO5Eb8KkvNhilU6VU2hG7/qtFgwUBx2TsI8xaJHYUBN7Ehwrwet4pF0oXf7ZQaFfclWdlQNhe708PpwyrZZRRLvrOotaqHny2c9BtSB8MptHYI6iqyxnN3OGP8zkHQxLAiCbPRkPH/ln+QHOd2Elz15yfuneE4vY2Jz8bZR1COyM1J9hdYHId3abe/hPFq0zwWTsobHYQvdVEG/VhI6r6mvnN2gFs6HzL8UrwUgtqp1dnk7Bv/p4uCMCYgXIJDQ417QNinLYSmuXKAbBIcJ1SujxWVuLvW3b6XIzLytrE/eW4RfHBz94sxqIAJJAv+DRsuR2jIAZXbe+lQ9JfJP1hzZUSZPkIJUx352GWAnSg==;HFVgk3jkoDUfHCgV9CkCvA=="
+secured: "zOFCHimOKueWHcfLZ5Nsckucu6+tgLUbfsiItoM3/NdmyetNjdV/2pJL2iOrS+JeXLQ4xeQussLoKuoL9YqPxMGaH966wqysDlonc0lSI86hDgpmwfBmU7VMUhNZxGgx9hy3rEQamljJiYXQkcTZcuUhcVoOeEgbxWWz7JgPv1FC18RdAEXhnSJAPkpR7O18G/yWqZmiosjX+lsUm1hMs6o3BI1uLDg86zs4B4rmUMBk7+geEHo0rixPV4SterIn7bEPoITFYTaMREG7L08GY6zYV+mlT6DJZXbIFqkVS4roVFPeHn4L0B2tzPW8A2stHPpg3um+sZH1Fdiu2SjvXtZe3vMaaK5clgkjGn1suFA=;7L9MwnJNrJOEF7OKp8i8lg=="
 ---
 
