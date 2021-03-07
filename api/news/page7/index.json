@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-02-26-donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.md",
+      "title": "Donald Trump Jr.: Donald Trump is ‘still the future of the Republican Party’",
+      "excerpt": "Former President Donald Trump is the future of the Republican Party, his eldest son Donald Trump Jr. argued on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pgbpZAToxZU/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/pgbpZAToxZU/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-jr-donald-trump-is-still-the-future-of-the-republican-party.amp",
+      "publishedDateTime": "2021-02-25T20:20:01-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-trump-supporters-want-to-blow-up-capitol-police-chief.md",
       "title": "Trump supporters want to 'blow up' Capitol - police chief",
       "excerpt": "Top News Trump supporters want to 'blow up' Capitol - police chief. Posted . Acting Chief of the Capitol Police Yogananda Pittman said on Thursday that Donald Trump supporters who",
@@ -1293,62 +1349,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-trump-stacked-his-cabinet-with-climate-skeptics-now-republicans-are-piling-on-bidens-climate-activist-nominee.md",
-      "title": "Trump stacked his Cabinet with climate skeptics. Now Republicans are piling on Biden's climate activist nominee",
-      "excerpt": "President Joe Biden nominated the most diverse Cabinet in history, but the Senate, which gets to offer \"advice and consent,\" is suddenly full of members -- mostly Republicans -- who are critical of partisan tweets and are carefully scrutinizing nominees' job qualifications.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kvTeKFzFC4E/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kvTeKFzFC4E/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 250,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210224070026-02-deb-haaland-confirmation-hearing-0223-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/24/politics/what-matters-february-23/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/24/politics/what-matters-february-23/index.html",
-      "publishedDateTime": "2021-02-24T04:09:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

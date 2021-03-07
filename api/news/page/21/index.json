@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-03-trump-previews-impeachment-defense-it-wasnt-incitement-it-was-free-speech.md",
+      "title": "Trump Previews Impeachment Defense: It Wasn’t Incitement, It Was Free Speech",
+      "excerpt": "Donald Trump’s lawyers on Tuesday previewed their defense of the ex-president during next week’s impeachment trial, responding to pre-trial brief filed by House managers accusing him of a “grievous betrayal” of his oath of office for inciting last month’s attack on the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/296/878/25434125e8951267e3143453e27a549073-trump-jan-6.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
+      "publishedDateTime": "2021-02-02T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-whistleblower-accuses-former-trump-official-of-abuse-of-authority-for-last-day-deal-with-ice-union.md",
       "title": "Whistleblower accuses former Trump official of 'abuse of authority' for last day deal with ICE union",
       "excerpt": "Former senior Department of Homeland Security official Ken Cuccinelli is accused in a new whistleblower complaint of mismanagement, waste and abuse of authority over a deal he signed with a union representing Immigration and Customs Enforcement officers that endorsed President Donald Trump.\n    \n",
@@ -1291,62 +1334,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/david-schoen-what-to-know-about-trump-impeachment-defense-attorney.amp",
       "publishedDateTime": "2021-02-01T09:49:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-kudlow-trump-was-consequential-brilliant-president-on-policy.md",
-      "title": "Kudlow: Trump was 'consequential, brilliant' president on policy",
-      "excerpt": "New Fox Business host Larry Kudlow said Monday that former President Donald Trump would go down as a \"brilliant, consequential\" president on policy terms and would have been better served to focus on his achievements instead of fighting the election result in the final weeks of his term.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/chzdNoThrso/kudlow-trump-consequential-brilliant-president-policy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/chzdNoThrso/kudlow-trump-consequential-brilliant-president-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9cd91a2-aabf-4b81-8154-6590a5d4d92c/7a32678c-9e11-4b3a-bb2d-b65a86c8fe20/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kudlow-trump-consequential-brilliant-president-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kudlow-trump-consequential-brilliant-president-policy.amp",
-      "publishedDateTime": "2021-02-01T09:12:02-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

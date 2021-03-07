@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/house-members-sue-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp"
 type: article
 quality: 105
-heat: 125
+heat: 105
 published: true
 
 provider:
@@ -29,19 +29,6 @@ images:
     width: 1440
     height: 1853
     isCached: true
-
-related:
-  - title: "U.S. Representative Swalwell sues Trump over Jan. 6 insurrection - CNN"
-    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
-    publishedDateTime: 2021-03-05T18:20:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-swalwell-idUSW1N2IU00U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2IU00U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2IU00U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
 
 secured: "HwvU1qJhCtDxdYpRmzwgQ8RJpPcze+AwTWN5wlJ3fIwyLJf7/Fc2K6cKEcBCKbAwOYgqqh508o1C4EKrYTFbA3nrpBPCReiM9N6A57MjTRLtVqD4jVwT4JPqXiv6BA7O837izBXPC+/sYJAzI1icHYcjgSNNVBsVlvJDtV0Xwc+brWMgsX5wNZARLrIK8V8P6ySz7uJ5M0DPgyKAz2vA/g9Q9Gm/dm5VtVG6g326tjU20TWZGTYuD/qdhQ3jbBfQvkygkRIaWgSUYMTCMh945tK+x49tsB+46X5CqVhIz+Z8kutg8VUlfnpjYXdNfCQxFN3AE7s6j1rsmfmJLWx6EKtfP5HAccC5Ig2DX+KgfucpZgX52DprCOSjNwz9THcV00PHUOVKZBs/Kw8wV92CvaRM8MKB3RmzgQmD6WlM46Z6vaTajqTR4NDJWMA/dd74hhtoI6THMjJal7SL3z1ELNOxGZ1B+9dp202pE5XL5bwNtNzWUvkBl3F8WEBLW3t5XaSc/+L7fZ3fJduu3Zz9FQ==;Gf8yyei/da+Z6YZ91nVWBg=="
 ---
