@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump at CPAC called out his GOP critics and again claimed he won the 2020 election, showing he's still determined to undermine US democracy"
-excerpt: "Former President Donald Trump's false claim that the 2020 election was stolen from him was at the heart of his Sunday-night speech at CPAC."
-publishedDateTime: 2021-03-02T14:36:00Z
-originalUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3"
-webUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3"
-ampWebUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3?amp"
+title: "Trump demands three Republican groups stop raising money off his name"
+excerpt: "Former President Donald Trump has clashed again with his Republican Party, demanding that three Republican groups stop using his name and likeness for fundraising, a Trump adviser said on Saturday."
+publishedDateTime: 2021-03-06T23:54:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-republicans/trump-demands-three-republican-groups-stop-raising-money-off-his-name-idUSKBN2AY0JK"
+webUrl: "https://www.reuters.com/article/us-usa-trump-republicans/trump-demands-three-republican-groups-stop-raising-money-off-his-name-idUSKBN2AY0JK"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AY0JK"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AY0JK"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/603cc94387d37600190d0564?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553981904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FV"
+    width: 819
+    height: 545
     isCached: true
 
 related:
@@ -46,22 +46,6 @@ related:
       - url: "https://thehill.com/sites/default/files/jones_alex_trump_donald030221.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Trump demands three Republican groups stop raising money off his name"
-    excerpt: "Former President Donald Trump has clashed again with his Republican Party, demanding that three Republican groups stop using his name and likeness for fundraising, a Trump adviser said on Saturday."
-    publishedDateTime: 2021-03-06T23:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-republicans/trump-demands-three-republican-groups-stop-raising-money-off-his-name-idUSKBN2AY0JK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AY0JK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AY0JK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553981904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FV"
-        width: 819
-        height: 545
         isCached: true
   - title: "U.S. Capitol calm amid high security; Trump supporters hold faith he will return"
     excerpt: "A smattering of followers of the QAnon conspiracy theory gathered near the U.S. Capitol on Thursday, the day the movement had predicted former President Donald Trump's return to office, but they were far outnumbered by security forces deployed to deter any possible attack."
@@ -127,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Trump at CPAC called out his GOP critics and again claimed he won the 2020 election, showing he's still determined to undermine US democracy"
+    excerpt: "Former President Donald Trump's false claim that the 2020 election was stolen from him was at the heart of his Sunday-night speech at CPAC."
+    publishedDateTime: 2021-03-02T14:36:00Z
+    webUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+    images:
+      - url: "https://i.insider.com/603cc94387d37600190d0564?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Republicans condemned Trump after the Capitol attack. Now they are opening the door to him as the future of the party."
     excerpt: "Less than an hour after voting to acquit former president Donald Trump for his role in the Jan. 6 storming of the U.S. Capitol, the Senate minority leader condemned Trump for the role that he played in the attack."
     publishedDateTime: 2021-03-03T15:37:00Z
@@ -144,6 +144,6 @@ related:
         height: 810
         isCached: true
 
-secured: "LLX3Z1I88SvwF0rEBYTQvq04KIkXJdRwDen8KzslvvsWQNrQUVx9zDYv0nfANVHpmOKgvaWpXlfjMSjP8fct15aDNEuivhu28Gxs27946s3iVmbUXBbqB0s2RZoJHoR0zZ301snyczSMK1wRaNf7p1HhJ40edEmhb8Z3GxqR6qsf5LT32bobwVSJsIUfgPDlN74tIjl3GaJEra+IiuHTFdVjzQSEJqFc2EdsHT0nVXtXOH9f7eLXMs7XKpXl1xB1W9u2Uc2y5sxIVX2s6VTCFzpbIak8TOqg0BW/RUe+/5vsdmXGka80nPN1txGKGdIIlJPU3sNmWgkhHzMNX/KrAhdmkfDu+FVOv07PLYwtDUU=;FbHEDHTxFTdF8K3czVhQkg=="
+secured: "rH8/DinLyZ3c7IFuHPz9qZxTiTF4tipSrlLbyGtxaayRQbAQgK2Ee21ZLFIqthxEFzwdlXdAjtFwEP9CM/Fzy8h/qCD8joOP7JEsV1BGzQqaB5MJ1OM7/O/xilLdsw0MUaD8pAhq2mXjLUt7cKLT3npLtbujV5pJrorW5Z9an1S3WDgh62zh+vWDAx9Qzzp4EEpoerMb12gjgpNEMeARsEpePhP7ZSeCSNK/S2FqBApiFAk+H05J33SHLgBiGrlttItMfXvCnqtMiseNDzRaJq1Ih5ZmFeNq1KK3OlexCsb/2o1IezLdBsCDOCzk8a+YVQg6ZfY74kKMB65De3bOv5G+ngQu3rCypo1ufD7OPpU=;ht3piWe3VsD2Hm1aXf+iiA=="
 ---
 

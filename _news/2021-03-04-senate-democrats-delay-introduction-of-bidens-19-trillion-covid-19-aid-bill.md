@@ -47,22 +47,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Senate rejects minimum wage hike in Biden's $1.9 trillion COVID-19 aid bill"
-    excerpt: "The U.S. Senate on Friday rejected an amendment to more than double the federal minimum wage over five years, as it launched what is expected to be a long debate over President Joe Biden's $1.9 trillion COVID-19 relief bill."
-    publishedDateTime: 2021-03-05T22:28:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idINKBN2AX147"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AX147"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AX147"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241FA"
-        width: 777
-        height: 545
-        isCached: true
   - title: "Senate delays debate on Biden's $1.9 trillion COVID-19 bill while it is read aloud"
     excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill is read aloud."
     publishedDateTime: 2021-03-04T21:00:00Z
