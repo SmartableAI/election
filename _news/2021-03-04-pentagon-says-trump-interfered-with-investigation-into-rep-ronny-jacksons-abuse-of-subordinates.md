@@ -77,6 +77,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Special Report: How Trump Administration Left Indelible Mark on U.S. Immigration Courts"
+    excerpt: "The Trump administration revised hiring for immigration judges to allow temporary appointments before background investigations were completed and gave the EOIR director more cont"
+    publishedDateTime: 2021-03-08T12:11:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-08/special-report-how-trump-administration-left-indelible-mark-on-us-immigration-courts"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 27
 
 secured: "Woqdirf52zyn16nmnzCcu//Zg5pwCrpCGwyGxksLppwFblFjn+tC+NftjGqrlAcUiFzkN8Qsmb8ia51DLvRa+o1Q1bXJ/23imADCKOBsSgw46oEEhQy/lI+5fjR/QhY9FgQF1oqJDXuQ0xa4CB0rofBfJ7S6TXlaQ+rHtpi+9Zz8I2kucYtfeLw+wmzXG9ievT1nT4gLt0iHK1Ije9kGwelramH0dT1c5vr2lv6Oqkqo4vjcP4Z26t38IdSQko2Gwo+2lZdLrFROPn1vWEcEoxyWICMmklzutb9Xr0SQLj2p9YTeJ8lVVxn8q+5qDeA00ud+N7SJrUnRBBwLOjvJsKO5zAaeYK0DFWv0yFeUJAc=;MpG8jfA+11zAkJylTTSw4g=="
 ---

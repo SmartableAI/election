@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp"
 type: article
 quality: 140
-heat: 200
+heat: 220
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/57ee0d46-76bb-43da-b45c-a407e61be497-AP_Pence_Inauguration.jpg?auto=webp&crop=5409,3043,x208,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Pence to give speech in SC, his 1st since leaving office"
+    excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence is traveling to South Carolina, set to speak to a"
+    publishedDateTime: 2021-03-08T10:00:00Z
+    webUrl: "https://apnews.com/bda56f16bc2655da95c75cf3ae71da37"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/fb0471f6a80f4b2fad1e5fe5012788d9/1698.jpeg"
+        width: 1698
+        height: 1132
         isCached: true
   - title: "Pence all-in on 'election integrity' push"
     excerpt: "Former Vice President Mike Pence on Wednesday said he shares the concerns of voters over the “significant voting irregularities and numerous instances of officials setting aside state election law” in the 2020 presidential election."

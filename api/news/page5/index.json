@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-03-biden-administration-argues-migrant-surge-is-a-challenge-not-a-crisis.md",
+      "title": "Biden administration argues migrant surge is a 'challenge,' not a 'crisis'",
+      "excerpt": "President Biden is declining to call the situation at the southern border a crisis – even amid reports that his administration needs another 20,000 beds at migrant facilities to deal with a surge of unaccompanied minors.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gNIwkKkxIzc/biden-migrant-surge-challenge-not-crisis",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/gNIwkKkxIzc/biden-migrant-surge-challenge-not-crisis",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 273,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21061778358268-e1614731162572.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp",
+      "publishedDateTime": "2021-03-02T16:40:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-biden-directs-states-to-prioritize-educators-in-vaccine-rollouts-as-he-aims-to-reopen-schools.md",
       "title": "Biden directs states to prioritize educators in vaccine rollouts as he aims to reopen schools",
       "excerpt": "President Biden on Tuesday announced a new effort to vaccinate educators and childcare workers as a means to accelerate the safe reopening of schools.",
@@ -1294,58 +1350,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-mike-pence-lags-well-behind-key-gop-contenders-for-a-2024-presidential-run-in-cpac-poll.md",
-      "title": "Mike Pence Lags Well Behind Key GOP Contenders for a 2024 Presidential Run in CPAC Poll",
-      "excerpt": "Only 1 percent of CPAC attendees surveyed said they would vote for Pence if the GOP primary for president were held today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mike-pence-lags-well-behind-key-gop-contenders-2024-presidential-run-cpac-poll-1572842",
-      "originalUrl": "https://www.newsweek.com/mike-pence-lags-well-behind-key-gop-contenders-2024-presidential-run-cpac-poll-1572842",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1745217/mike-pence-joe-bidens-inauguration-2021.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mike-pence-lags-well-behind-key-gop-contenders-2024-presidential-run-cpac-poll-1572842?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mike-pence-lags-well-behind-key-gop-contenders-2024-presidential-run-cpac-poll-1572842?amp=1",
-      "publishedDateTime": "2021-03-01T07:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

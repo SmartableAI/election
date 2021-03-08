@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence to give speech in SC, his 1st since leaving office"
+    excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence is traveling to South Carolina, set to speak to a"
+    publishedDateTime: 2021-03-08T10:00:00Z
+    webUrl: "https://apnews.com/bda56f16bc2655da95c75cf3ae71da37"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/fb0471f6a80f4b2fad1e5fe5012788d9/1698.jpeg"
+        width: 1698
+        height: 1132
+        isCached: true
   - title: "Pence all-in on 'election integrity' push"
     excerpt: "Former Vice President Mike Pence on Wednesday said he shares the concerns of voters over the “significant voting irregularities and numerous instances of officials setting aside state election law” in the 2020 presidential election."
     publishedDateTime: 2021-03-03T17:08:00Z

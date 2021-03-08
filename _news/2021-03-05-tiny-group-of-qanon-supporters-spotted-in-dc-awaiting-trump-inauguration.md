@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-157402
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
 type: article
 quality: 123
-heat: 183
+heat: 203
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "Special Report: How Trump Administration Left Indelible Mark on U.S. Immigration Courts"
+    excerpt: "The Trump administration revised hiring for immigration judges to allow temporary appointments before background investigations were completed and gave the EOIR director more cont"
+    publishedDateTime: 2021-03-08T12:11:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-08/special-report-how-trump-administration-left-indelible-mark-on-us-immigration-courts"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 27
 
 secured: "quHoGi7n9qvC/awPXhKEgHlYa8srZMcfPBYhiB4zciXLxvqSVvoTRYDVNC3be+TZFKEKdduDQaiXIKwE4ElWohpnh3X8Knacu/Gr/QDw38rbAc0ETGzEkKbHTwkq6peN/Q/xYGmbPcV1aJhb3lDJeqEHwG34ZuqziG1YbPoeH3BOWcz6YM81OnbPYFkVpaSn+qmuOSeuzEsyGwPc5ud9HBI6pPWqdeh25dIRj7DoWpGkkaXjsMiZoSxOSA1CmUw4fVQQUg3pilKTEKR63zJvRycQQsaANXMYI7aIUCpIoG4WsOEb/PJp1NCYMmUdD7Cv4DSlqNtwUQrjoZuKISao+1vUVx2ANJh8tdKa/w+xeYI=;ar/Btw5xgYdt6VKuVE9jlA=="
 ---
