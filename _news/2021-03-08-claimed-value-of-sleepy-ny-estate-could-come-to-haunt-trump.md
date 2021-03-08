@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Trump Faces New Lawsuit Over Capitol Insurrection"
-excerpt: "The lawsuit, which claims that former President Donald Trump and his allies incited the mob that attacked the Capitol, is the second major legal action against Trump in connection to the riot."
-publishedDateTime: 2021-03-05T18:19:00Z
-originalUrl: "https://www.usnews.com/news/national-news/articles/2021-03-05/rep-eric-swalwell-sues-trump-and-allies-over-capitol-insurrection"
-webUrl: "https://www.usnews.com/news/national-news/articles/2021-03-05/rep-eric-swalwell-sues-trump-and-allies-over-capitol-insurrection"
+title: "Claimed value of sleepy NY estate could come to haunt Trump"
+excerpt: "A century-old estate that Donald Trump owns in suburban New York is subdued by the former president’s standards, but it could end up being one of his bigger legal nightmares"
+publishedDateTime: 2021-03-08T06:03:00Z
+originalUrl: "https://www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html"
+webUrl: "https://www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html"
+ampWebUrl: "https://www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html?outputType=amp"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "AP FACT CHECK: Trump clings to his core election falsehoods"
@@ -231,22 +239,6 @@ related:
         width: 822
         height: 545
         isCached: true
-  - title: "Claimed value of sleepy NY estate could come to haunt Trump"
-    excerpt: "A century-old estate that Donald Trump owns in suburban New York is subdued by the former president’s standards, but it could end up being one of his bigger legal nightmares"
-    publishedDateTime: 2021-03-08T06:03:00Z
-    webUrl: "https://www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Capitol Police chief faces questions about security plans after pro-Trump riot"
     excerpt: "The acting chief is expected to ask for more funding to pay for physical barriers and additional deployment of law enforcement, as lawmakers worry about turning the Capitol into a fortress."
     publishedDateTime: 2021-03-03T14:58:00Z
@@ -415,7 +407,16 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Trump Faces New Lawsuit Over Capitol Insurrection"
+    excerpt: "The lawsuit, which claims that former President Donald Trump and his allies incited the mob that attacked the Capitol, is the second major legal action against Trump in connection to the riot."
+    publishedDateTime: 2021-03-05T18:19:00Z
+    webUrl: "https://www.usnews.com/news/national-news/articles/2021-03-05/rep-eric-swalwell-sues-trump-and-allies-over-capitol-insurrection"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "2o+Z097ngSzwDn03vPx4e++oZCAH8lVdb8PKLVwyN2ZBryJsyum9Ob4WFQOhm82QI1ph7iBGYzHYVbzWbep/OEjd+lYnASNGri4hWeBACpQtnD355FjyTTAb/nzAwEJE2dmE1M7lB38ph5dFHrNzovmGs3Wped9XOCCvs1jbptsJFwqjevnZom+3ek7sPyYeujdEWPtw+ip5AUTjbeM3xehDUdWaC8rmAQ6acq119BhmD+WcA9mUkg8gHn5F3lBdja8agV8DkXug/kDAqqvlHFS2+/RdCKS8Vtyou2wwMeJfZvV1iAvS9jCSN9XOG0X72DvOAPndbnV1Xu5hL4VQ82kohh1dHd39j1Fjlh8ODiBK+sQsQB0i9RasXhMSoTxCL8aTKdb0mEcMuWSqpebTSyXEBE+KaL3glAw2CwOkgA5pdqBSlD41vZm4453XOVJLA/aLkdOXCXa2bJdZQhX4omke1GflffbNINQwBc6PfGic805AHIbOGxfiBlfBBLvFhJPTQhQ2lkd3rd5FShKphQ==;ZEXe6F28ZBn6xyqsDDG5Zg=="
+secured: "p2nCySYaUPTLKWA9HfEXk8KEh4NtarEaOPX12BIWJ6liTSlew4VNqTZsgVQF5HqjLyhyUGg4wQtxqhwSK3BSAU12nEFUT5A1w9VnGaZ4WgfMB4nKfar4uLH/NFFCyMqmASAY1BeccxQXMlEIhLuLn9MpbpYtjmo8PtJDO+0y1nHOrU6oF4SFWRmHK+N1Y0ueMM0w2qAfbGbtYcrlUeSWS8o2UDh9KOkh+/7ZUvv8WryZsv0+c4n/uNVoRbflcPItfMTbDgBLtivBB4UzNKAJBbBhuF0ho1ZsbgDjLp9v6dkadKz48GXO0XvO/aTgZVf6Vjw6Fqpb5DX4cgG8tPryb22kXd0gnxQAruuOErBNrHs=;925N9Co0NQOf75GXQgBXvw=="
 ---
 

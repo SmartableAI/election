@@ -2,6 +2,54 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-05-donald-trump-lists-oceanfront-palm-beach-mansion-for-49-million.md",
+      "title": "Donald Trump lists oceanfront Palm Beach mansion for $49 million",
+      "excerpt": "A company registered to Donald Trump and his family is selling their Palm Beach oceanfront abode for a whopping $49 million.  The estate sits right next door to Trump’s Mar-a-Lago club,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/",
+      "originalUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/mansion-.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/amp/",
+      "publishedDateTime": "2021-03-04T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-texas-border-resident-blasts-bidens-truly-shameful-immigration-policies-on-fox-friends.md",
       "title": "Texas border resident blasts Biden's 'truly shameful' immigration policies on 'Fox & Friends'",
       "excerpt": "Biden’s immigration policies are “truly shameful,” a Texas resident who lives near the border said on Thursday.",
@@ -1315,63 +1363,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-highly-misleading-at-best-dale-reacts-to-pences-op-ed.md",
-      "title": "'Highly misleading at best': Dale reacts to Pence's op-ed",
-      "excerpt": "CNN's Daniel Dale fact-checks claims former Vice President Mike Pence made in an op-ed, where he alleges that there were \"voting irregularities\" that took place during the 2020 US election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/politics/2021/03/03/mike-pence-voter-fraud-election-claims-fact-check-dale-nr-vpx.cnn",
-      "originalUrl": "https://www.cnn.com/videos/politics/2021/03/03/mike-pence-voter-fraud-election-claims-fact-check-dale-nr-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303144137-pence-dale-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/03/03/mike-pence-voter-fraud-election-claims-fact-check-dale-nr-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/03/mike-pence-voter-fraud-election-claims-fact-check-dale-nr-vpx.cnn",
-      "publishedDateTime": "2021-03-03T11:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
       ]
     }
   ],

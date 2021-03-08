@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/february-job-report-employment-unem
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/07/ba8b5c5d-eac0-422c-a0f9-13778acf391d/thumbnail/1200x630/54661ece71c4daa8d9093d107aa10ca3/gettyimages-1231558643.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Jill Biden sees teachable moment in the depths of a pandemic"
+    excerpt: "Jill Biden sees a teachable moment in the depths of the coronavirus pandemic. The first lady sat in a socially distanced circle in the library at Fort LeBoeuf Middle School in Pennsylvania, listening and taking notes as parents expressed relief that the school had reopened and their kids were back in the classroom."
+    publishedDateTime: 2021-03-08T05:25:00Z
+    webUrl: "https://www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "A viral misfire: A White House video feed ended but Biden took questions"
     excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"

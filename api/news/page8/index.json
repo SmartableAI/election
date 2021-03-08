@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-02-25-jill-biden-says-health-inequities-have-lasted-far-too-long.md",
+      "title": "Jill Biden says health inequities have lasted ‘far too long’",
+      "excerpt": "During a visit to a cancer center Wednesday, first lady Jill Biden said health disparities have hurt communities of color “for far too long” and “it’s about time” the country got serious about ending those inequities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html",
+      "originalUrl": "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/jill-biden-says-health-inequities-have-lasted-far-too-long/2021/02/24/7f20b382-76ee-11eb-9489-8f7dacd51e75_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-24T14:20:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-a-year-after-trump-said-coronavirus-was-under-control-a-look-back-at-the-first-news-stories.md",
       "title": "A year after Trump said coronavirus was ‘under control,’ a look back at the first news stories",
       "excerpt": "Wednesday that then-President Trump offered words of assurance about the coronavirus which had only recently been detected in the United States. “The Coronavirus is very much under control in the USA,",
@@ -1320,62 +1372,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-in-virginia-gubernatorial-race-amanda-chase-casts-herself-as-trump-in-heels.md",
-      "title": "In Virginia gubernatorial race, Amanda Chase casts herself as 'Trump in heels'",
-      "excerpt": "Republican Virginia State Sen. Amanda Chase is doing everything she can to present herself as the Donald Trump in a governor's race full of Liz Cheneys and Mitt Romneys.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AKrt_ERGV4o/virginia-governor-race-amanda-chase-trump-2021",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AKrt_ERGV4o/virginia-governor-race-amanda-chase-trump-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Amanda-Chase.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/virginia-governor-race-amanda-chase-trump-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/virginia-governor-race-amanda-chase-trump-2021.amp",
-      "publishedDateTime": "2021-02-23T07:23:57-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-01-trump-unleashes-new-threat-to-american-democracy.md",
+      "title": "Trump unleashes new threat to American democracy ",
+      "excerpt": "Donald Trump has no remorse about the deadly violence he incited with his lies about a stolen election in his uprising against the US Congress.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iBMxEBJKB5s/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iBMxEBJKB5s/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210228202828-03-donald-trump-cpac-0228-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/01/politics/cpac-2021-trump-speech-american-democracy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/cpac-2021-trump-speech-american-democracy/index.html",
+      "publishedDateTime": "2021-03-01T00:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-biden-administration-resumes-taliban-peace-talks.md",
       "title": "Biden administration resumes Taliban peace talks",
       "excerpt": "The US is sending negotiators to the Middle East to restart peace negotiations with the Taliban for the first time in the Biden administration, the State Department announced Sunday.\n    \n",
@@ -66,7 +122,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364",
       "featuredContent": null,
       "highlight": null,
-      "heat": 620,
+      "heat": 640,
       "tags": null,
       "images": [
         {
@@ -1299,62 +1355,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-ted-cruz-in-cpac-speech-says-trump-aint-goin-anywhere-jokes-about-cancun-controversy.md",
-      "title": "Ted Cruz in CPAC speech says ‘Trump ain’t goin’ anywhere,’ jokes about Cancun controversy",
-      "excerpt": "Sen. Ted Cruz says the GOP is the party of the working class and vows that former President Trump will remain a power player in the Republican Party.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W421qeGQnHg/cruz-cpac-speech-trump-aint-goin-anywhere",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W421qeGQnHg/cruz-cpac-speech-trump-aint-goin-anywhere",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cruz-cpac-speech-trump-aint-goin-anywhere.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-cpac-speech-trump-aint-goin-anywhere.amp",
-      "publishedDateTime": "2021-02-26T09:13:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "White House: Biden believes U.S. authorizations for military force need updating"
-excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
-publishedDateTime: 2021-03-06T01:26:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=uk"
-webUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=uk"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2ET"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2ET"
+title: "Jill Biden sees teachable moment in the depths of a pandemic"
+excerpt: "Jill Biden sees a teachable moment in the depths of the coronavirus pandemic. The first lady sat in a socially distanced circle in the library at Fort LeBoeuf Middle School in Pennsylvania, listening and taking notes as parents expressed relief that the school had reopened and their kids were back in the classroom."
+publishedDateTime: 2021-03-08T05:25:00Z
+originalUrl: "https://www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html"
+webUrl: "https://www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html?outputType=amp"
 type: article
-quality: 120
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241F1"
-    width: 735
-    height: 545
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -127,22 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Jill Biden sees teachable moment in the depths of a pandemic"
-    excerpt: "Jill Biden sees a teachable moment in the depths of the coronavirus pandemic. The first lady sat in a socially distanced circle in the library at Fort LeBoeuf Middle School in Pennsylvania, listening and taking notes as parents expressed relief that the school had reopened and their kids were back in the classroom."
-    publishedDateTime: 2021-03-08T05:25:00Z
-    webUrl: "https://www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "A viral misfire: A White House video feed ended but Biden took questions"
     excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
     publishedDateTime: 2021-03-05T00:00:00Z
@@ -158,6 +142,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRZS52D4OII6XDC6GLSHWQVVDM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "White House: Biden believes U.S. authorizations for military force need updating"
+    excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
+    publishedDateTime: 2021-03-06T01:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2ET"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241F1"
+        width: 735
+        height: 545
         isCached: true
   - title: "White House: Biden believes U.S. authorizations for military force need updating"
     excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
@@ -192,6 +192,6 @@ related:
         height: 576
         isCached: true
 
-secured: "FpzSURh72tqnLr4wAY9hSuefPoORhKyc/wJvuncAto77OTeh/gvQwOpvVV+xqHA1Q/u2446tquXXMWed5KzgsC3XOBJMCiYj6Sgb8xbQsBg1XUuZI8QOFIMVsTnZPjqcimgyhUojl/kdy11wZB0JYurWdK+PKWrLVcV3cfFxnW78wJp5b+U0lx0rKcXhWJbmO9mdxtJbsagTXtWIIL3jWQ1k1xhlRzhS/7IC3aqoFh/qzW7O8O31vFR+k2eKC4gI8t5TX859vBOYOzdwXlkHeIAa4iKdA7fCqtlI7Rsdr9VhvIQfYJiWYvXYrtl+ArIzjEiOHpR03y8lJ6JR9xbypTtLhHL13/B7v2A0u5Kir/o=;tVT5QWIpD852hZqFLYcWlA=="
+secured: "DedNsJmZnb8JdppESKttGe8+8VqD8vwKThHCoy7vAikaj9roBfR+qcB5YRk8sXqIRWVmmI/D5V/E18zqtak96VNetH+tmALn7pTLXc+kSWVbw3L1jPahNquiNeV29cbkModIPoq/8fMdByESN+0aIX0QTrV3xdzlonrO+ypx906+IsthRRBPtyTwwS5ANUsv0VjCsyMW16Dtl1SWEFOWXYEfBYpEVwpH0AFh32o75E0yaK7pAl8C1zBZQ/TlKghWAN1cjoBDwBYvUCgAHmAwS7HG20VxkSdXVo0mwWXozl7Ww5HFCRfbQd8b1VdYbQlTS0OospSjvpvCdV8V7+pAnTtb9hP7Ab3g7I5DyLVlqiA=;/xf06eR5U8GyjuOKM+WB5Q=="
 ---
 

@@ -239,6 +239,22 @@ related:
         width: 822
         height: 545
         isCached: true
+  - title: "Claimed value of sleepy NY estate could come to haunt Trump"
+    excerpt: "A century-old estate that Donald Trump owns in suburban New York is subdued by the former president’s standards, but it could end up being one of his bigger legal nightmares"
+    publishedDateTime: 2021-03-08T06:03:00Z
+    webUrl: "https://www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Fact check: Altered photo shows religious leaders praying over golden Trump statue"
     excerpt: "A photo showing religious leaders praying over a golden statue of Donald Trump is fake. The original image was altered to insert the statue."
     publishedDateTime: 2021-03-04T00:48:00Z
