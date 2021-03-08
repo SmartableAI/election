@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp"
 type: article
 quality: 140
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -63,6 +63,17 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Pence to give speech in SC, his 1st since leaving office | Charlotte Observer"
+    excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office."
+    publishedDateTime: 2021-03-08T10:44:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249773183.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article249773183.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article249773183.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 52
 
 secured: "ChMvyef/5IibOt3qBp6IOptUKeU4KJerqGsD0DHWch3nUbtlsPIl/wqjLpOwkdo7neJRCPRBLQbPAzTTsQER6JT0Zyz09G7bhFcRw8XWYbO92d951KVror4Bc9ZvEhxM8PjN571UftObza+Zripc0WgWoU2+gunJEiFC6+RLf0srT7H3S3t3eGSkjfm7mU4SPGrHtpQlqLf4goeroznyzI5GWFGMqyclzViau9w3sPb5fq7nq58nFtXW9gxz3ZuNxyZjY4Nefca6TWC7lOtB0O/KB0IdOArHgTYN1b5zOf51ld+kItpSYOTxeU3R8XUBrqKbbqjg7+6mbyYlbkG+0+MeUJMB1jEf2OeNlgs1uUk=;QF5NrVrlbM1+L87u5ntEZg=="
 ---

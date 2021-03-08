@@ -60,6 +60,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Graham says Trump can make the Republican Party bigger, or he can destroy it"
+    excerpt: "Sen. Lindsey Graham, R-S.C., said in an interview that aired Sunday that former President Trump is a unique politician and has the ability to widen the Republican Party’s reach, but can also leave the party in his wake."
+    publishedDateTime: 2021-03-08T09:30:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aEz92c1RFgA/graham-says-trump-can-make-the-republican-party-bigger-or-he-can-destroy-it"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-says-trump-can-make-the-republican-party-bigger-or-he-can-destroy-it.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-says-trump-can-make-the-republican-party-bigger-or-he-can-destroy-it.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Republican Civil War Over Trump? Not at CPAC"
     excerpt: "Thousands have flocked to the annual Conservative Political Action Conference to hear from former President Donald Trump and some of his staunchest political disciples."
     publishedDateTime: 2021-02-27T00:14:00Z

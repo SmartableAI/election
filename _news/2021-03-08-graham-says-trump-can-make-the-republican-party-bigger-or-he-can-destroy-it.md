@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Confessions of a Trump Republican"
-excerpt: "Over at MSNBC, they are calling those who think like me Dead-Enders, people who will follow Donald Trump into the bunker and die with him."
-publishedDateTime: 2021-03-01T10:39:00Z
-originalUrl: "https://www.realclearpolitics.com/articles/2021/03/01/confessions_of_a_trump_republican_145316.html"
-webUrl: "https://www.realclearpolitics.com/articles/2021/03/01/confessions_of_a_trump_republican_145316.html"
-ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/01/confessions_of_a_trump_republican_145316.amp.html"
-cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/01/confessions_of_a_trump_republican_145316.amp.html"
+title: "Graham says Trump can make the Republican Party bigger, or he can destroy it"
+excerpt: "Sen. Lindsey Graham, R-S.C., said in an interview that aired Sunday that former President Trump is a unique politician and has the ability to widen the Republican Party’s reach, but can also leave the party in his wake."
+publishedDateTime: 2021-03-08T09:30:16Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aEz92c1RFgA/graham-says-trump-can-make-the-republican-party-bigger-or-he-can-destroy-it"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aEz92c1RFgA/graham-says-trump-can-make-the-republican-party-bigger-or-he-can-destroy-it"
+ampWebUrl: "https://www.foxnews.com/politics/graham-says-trump-can-make-the-republican-party-bigger-or-he-can-destroy-it.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-says-trump-can-make-the-republican-party-bigger-or-he-can-destroy-it.amp"
 type: article
-quality: 85
+quality: 172
 heat: -1
 published: false
 
 provider:
-  name: RealClearPolitics
-  domain: realclearpolitics.com
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://assets.realclear.com/images/53/536369_5_.jpg"
-    width: 750
-    height: 500
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -57,22 +60,6 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Graham says Trump can make the Republican Party bigger, or he can destroy it"
-    excerpt: "Sen. Lindsey Graham, R-S.C., said in an interview that aired Sunday that former President Trump is a unique politician and has the ability to widen the Republican Party’s reach, but can also leave the party in his wake."
-    publishedDateTime: 2021-03-08T09:30:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/aEz92c1RFgA/graham-says-trump-can-make-the-republican-party-bigger-or-he-can-destroy-it"
-    ampWebUrl: "https://www.foxnews.com/politics/graham-says-trump-can-make-the-republican-party-bigger-or-he-can-destroy-it.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-says-trump-can-make-the-republican-party-bigger-or-he-can-destroy-it.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
@@ -140,6 +127,22 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Confessions of a Trump Republican"
+    excerpt: "Over at MSNBC, they are calling those who think like me Dead-Enders, people who will follow Donald Trump into the bunker and die with him."
+    publishedDateTime: 2021-03-01T10:39:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/03/01/confessions_of_a_trump_republican_145316.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/03/01/confessions_of_a_trump_republican_145316.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/03/01/confessions_of_a_trump_republican_145316.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/536369_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Donald Trump Finally Makes Me Smile"
     excerpt: "Donald Trump was never forever. The former president is 74, obese and the subject of serious criminal investigations. Resurfacing after disgracefully"
     publishedDateTime: 2021-03-02T11:24:00Z
@@ -173,6 +176,6 @@ related:
         height: 500
         isCached: true
 
-secured: "mHgiBy0f+6cZjyXLV7o2bhHmiWmYMThEhAD0TOCs53qwIH8pX+KK1WEXcIGXh6R8iBI1aaF9lE5EbvqY/1vbycv8882KBo1/pq1g4GCYhN8fS7dUTRmQSkDYfuaZd+ndvk720o329+SfKd6tKBJNHuMfExRD8hI2b//1nEPcKjD5xP/avc0jzKBKGsodUCjbOHKgzehts8M+UQXZ0KklY5j9hkd+7kh2DlsafWZt1hwdSEf8vYpTk43SPj254Bw4ToJy6ii5mitLO+BnTmJlJ+bRtrtNxndu08bGkHxAkFNUhmN/gCQlWZeEraVQhAOOlk5cqNwd81UexhzP33/EKvaqO3qSnOJJTwPFsKHg8x0XkC2+BMkz6VF5vKoUl6TqpoN9tRGCa072VO/9mKBQSijhfhmUt2TGseEf3FGik2ZWofPMtdRuvGJlhVzrJlDn+uMMXDqBGiRB0qHrFnPrMKA90Aawu+BIxcEhCyCDXTzIRIVx3l50NfWCQALdhdl/IV4GiE85t57vHGLhHgvILg==;DdQafo88DiSsxFkAzv092A=="
+secured: "x0VxEMyDNdKS094DtZd4e1z4StxL2Cztznw9QQ8J6+vysLIqqk+y2z2TP23YY/BgiTD/ILfPkPpvimAr1kZBfVIhK/PwXzc48tfU7A4Y8rU30caNlV4ZJ2F87V/9RdJypTDlgahbFffb55cYA25O/SZLJYKbqVD+me2utEp7ozQ4d35PNGqDPJH3ZN6ctyeZ5EF3yTAeE2LFlFG3BvOtJNqEqcDWdu669DfZZrvzTtvXZF0J9VUNn9ucNuMmMdIjaQ7zOhmnvNyZknh8emt+NqDwSh7TA/ewYUNUAv9rpv08jv9fJ/jqM2/MDSlvoMMx3Ys+eGAVQ0vN6jPFX76W9XeD7lxnRX17NzNiK9tNtU8=;ifIk6fVyFD3cpBXEz+bRxQ=="
 ---
 

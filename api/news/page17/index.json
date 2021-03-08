@@ -2,6 +2,110 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-10-explicit-language-in-footage-shown-at-trumps-impeachment-trial-forces-tv-networks-to-make-a-tough-choice.md",
+      "title": "Explicit language in footage shown at Trump's impeachment trial forces TV networks to make a 'tough choice'",
+      "excerpt": "At the start of Donald Trump’s second impeachment trial, TV’s biggest networks aired footage of the US Capitol siege with unusually explicit language.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/tv/2021/02/10/trump-impeachment-explicit-language-forces-tv-make-tough-calls/4466103001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/tv/2021/02/10/trump-impeachment-explicit-language-forces-tv-make-tough-calls/4466103001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/10/USAT/6cdd7c47-123b-40ec-b80f-aa099d402b22-VPC_TUESDAY_SENATE_IMPEACHMENT_WRAP_DESK.00_01_47_27.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4466103001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4466103001",
+      "publishedDateTime": "2021-02-10T04:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-trump-tried-to-block-her-now-ngozi-okonjo-iweala-is-about-to-make-history.md",
+      "title": "Trump tried to block her. Now Ngozi Okonjo-Iweala is about to make history.",
+      "excerpt": "The Nigerian economist is set to become the first woman and African national in charge of the World Trade Organization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J35WRETKJ4I6XJTO4JYEN2PITA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/africa/ngozi-okonjo-iweala-wto/2021/02/09/99e3b028-67eb-11eb-bab8-707f8769d785_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-10T04:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-10-decision-to-seek-federal-search-warrant-in-rudy-giuliani-probe-could-be-early-test-for-bidens-doj.md",
       "title": "Decision to seek federal search warrant in Rudy Giuliani probe could be early test for Biden's DOJ ",
       "excerpt": "New York federal prosecutors investigating Rudy Giuliani's activities in Ukraine raised the prospect of seeking a search warrant late last year for the lawyer's communications but were met with resistance from Justice Department officials in Washington over the strength of their evidence, people familiar",
@@ -1248,119 +1352,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-politico-playbook-pm-will-the-cbo-help-or-hurt-joe-biden.md",
-      "title": "POLITICO Playbook PM: Will the CBO help or hurt Joe Biden?",
-      "excerpt": "Gary Palmer … Lynda Blanchard THE POWER OF THE CBO — BARACK OBAMA grew so frustrated with the impact of Congressional Budget Office analyses of his health care plan in 2009 that he once banned his senior staffers from mentioning the CBO in meetings.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/08/will-the-cbo-help-or-hurt-joe-biden-491680",
-      "originalUrl": "https://www.politico.com/newsletters/playbook-pm/2021/02/08/will-the-cbo-help-or-hurt-joe-biden-491680",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/c4/d0/e419049d41c5b8e097e3d0f4bfc9/gettyimages-1301023935.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-08T10:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-08-bidens-ban-on-oil-and-gas-leases-on-federal-lands-a-direct-attack-on-wyoming-says-governor.md",
-      "title": "Biden’s ban on oil and gas leases on federal lands a 'direct attack' on Wyoming, says governor",
-      "excerpt": "Wyoming Governor Mark Gordon called President Joe Biden’s executive order restricting the oil and gas industry a \"direct attack\" on Wyoming that will lead to a significant revenue loss for his state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWZdWnRZZC0/biden-order-oil-gas-devastating-wyoming-governor",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/eWZdWnRZZC0/biden-order-oil-gas-devastating-wyoming-governor",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-order-oil-gas-devastating-wyoming-governor.amp",
-      "publishedDateTime": "2021-02-08T09:39:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

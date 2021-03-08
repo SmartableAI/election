@@ -1,0 +1,75 @@
+---
+category: news
+title: "Pence to give speech in SC, his 1st since leaving office | Charlotte Observer"
+excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office."
+publishedDateTime: 2021-03-08T10:44:00Z
+originalUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249773183.html"
+webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249773183.html"
+ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article249773183.html"
+cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article249773183.html"
+type: article
+quality: 52
+heat: -1
+published: false
+
+provider:
+  name: Charlotte Observer
+  domain: charlotteobserver.com
+
+topics:
+  - Election
+  - Mike Pence
+
+related:
+  - title: "Pence breaks silence to criticize 2020 elections"
+    excerpt: "Former Vice President Mike Pence on Wednesday criticized the 2020 elections in his his first extended written comments since leaving office in January."
+    publishedDateTime: 2021-03-03T15:23:00Z
+    webUrl: "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections"
+    ampWebUrl: "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/pence_010621getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Pence attacks Democratic voting bill, 2020 election integrity in op-ed"
+    excerpt: "In an op-ed, the former vice president criticized Democratic efforts to counter voter suppression and echoed Republican anger at the 2020 election."
+    publishedDateTime: 2021-03-03T16:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/03/mike-pence-takes-aim-democrats-election-reform-bill-hr-1/6901534002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6901534002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6901534002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/57ee0d46-76bb-43da-b45c-a407e61be497-AP_Pence_Inauguration.jpg?auto=webp&crop=5409,3043,x208,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Pence all-in on 'election integrity' push"
+    excerpt: "Former Vice President Mike Pence on Wednesday said he shares the concerns of voters over the “significant voting irregularities and numerous instances of officials setting aside state election law” in the 2020 presidential election."
+    publishedDateTime: 2021-03-03T17:08:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/3/mike-pence-all-election-integrity-push/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/3/mike-pence-all-election-integrity-push/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/3/mike-pence-all-election-integrity-push/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/23/Biden_Inauguration_37524.jpg-f8f0a_c0-0-4032-2352_s1200x700.jpg?8f933bd9b70838c61c890c09c299727f73238683"
+        width: 1200
+        height: 700
+        isCached: true
+
+secured: "1OBlfI8452TOS/XCDQ+7/lyX0BgSvgtnncuY12iGaVhCU4DsCg1RED+YKWbVccBtYelke12svto32pG/JbFg30JIPtCD0T4OAn2M0SiN9FdqOCU810NL6CEh+aNSIeqjA4NfxP8aTrEUiwb1++4ZsDCsMdoStlM6Xdsq7ZD8E1snDvyJsEmKRJPl3c56J270E45zTfPUxYuayO8ysJkxNKuLr7NDSDp7siyQqtOrmycFHDuOQ2wYpo7YA2AV8Go9DU287GZTnFlDkTcD46dxJ6C9gDHdcbR3ecWbqgsRSatYEWU05fIgNdFhLkqy7/CIuUyIR77Yp9yoBlYdnBA5MQbxaXVyHsrOqnwQJbc1KmTtGgx8oQjOF0ho9Taa+8pvHjhUdFGA/IJ08tRYN42Lq6h8daf9NPL3EQDSjfVa09p325Emw5gzV8NvehFuY4iUsGsJGLzz34O20e0/qMHBBFspgtOyoM0PNj5Xo5RuF5zxIrRjGdjtp2yoh6OJsVZCglyCEiDX2nHGu0GiyEPhoQ==;BSDQfCtltwa52hsQla9yqA=="
+---
+

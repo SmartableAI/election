@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-08-lindsey-graham-warns-donald-trump-could-destroy-gop-after-combative-cpac-speech.md",
+      "title": "Lindsey Graham Warns Donald Trump Could 'Destroy' GOP After Combative CPAC Speech",
+      "excerpt": "Senator Lindsey Graham has warned that former President Donald Trump could destroy the Republican Party or rebuild it as a bigger and more diverse coalition after his combative speech at the Conservative Political Action Conference.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/lindsey-graham-warns-donald-trump-destroy-gop-cpac-1574411",
+      "originalUrl": "https://www.newsweek.com/lindsey-graham-warns-donald-trump-destroy-gop-cpac-1574411",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1751479/senator-lindsey-graham.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/lindsey-graham-warns-donald-trump-destroy-gop-cpac-1574411?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-warns-donald-trump-destroy-gop-cpac-1574411?amp=1",
+      "publishedDateTime": "2021-03-08T02:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-07-china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying.md",
       "title": "China calls on US to drop Trump-era sanctions and warns against 'bullying'",
       "excerpt": "Foreign minister Wang Yi calls for cooperation and signals that Beijing will stand firm against criticism",
@@ -1534,58 +1586,6 @@
       "ampWebUrl": "https://thehill.com/homenews/media/541263-boehner-book-jacket-teases-slams-against-cruz-trump?amp",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/541263-boehner-book-jacket-teases-slams-against-cruz-trump?amp",
       "publishedDateTime": "2021-03-02T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump.md",
-      "title": "Alex Jones seen on leaked video saying he's 'sick' of Donald Trump",
-      "excerpt": "Prominent conspiracy theorist and far-right media personality Alex Jones is seen in a newly-revealed video complaining about former President Trump and exclaiming that he wished he had never met him.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump",
-      "originalUrl": "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/jones_alex_trump_donald030221.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp",
-      "publishedDateTime": "2021-03-02T12:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",

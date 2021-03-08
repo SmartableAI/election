@@ -63,6 +63,17 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Pence to give speech in SC, his 1st since leaving office | Charlotte Observer"
+    excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office."
+    publishedDateTime: 2021-03-08T10:44:00Z
+    webUrl: "https://www.charlotteobserver.com/news/nation-world/national/article249773183.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/nation-world/national/article249773183.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/nation-world/national/article249773183.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 52
 
 secured: "PP48VaOby+0FWghZGxciprWFM6CO1BsFJgIXF1nEHcJveZsJ/MKlvSKhewk1Cpgb1lKj278SGpCIA/50WuasfWxGWtrRzrkyyg6YlOd/tqrWd9bm9SUbyP3FJ37ytpAEikb4G/MNjzlxGCqCskuXbDeSjma4Yoybc7wEmPRNhPXVitoj695C4Z1cv8eFEnvGYu0rE/i8iMyYzyzLQjxNvJNCwH3voPzWe4TJQwNAdTCT8ckSWquDvg0Hpkj8CvjSsl0Nn9xx8niwJ9qfPt5npHHcMmmxeuingiRAs8zeu0WTaX5y9yoofnzJygtupRgSPDAodTVR+QeDRSkKbfpR5mY0NCxOjco21wwFekZtBBs=;I78yFjpKITXQB0bJxrFBWg=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-08-fact-check-mike-pence-claims-bill-would-force-universal-mail-in-voting.md",
+      "title": "Fact check: Mike Pence claims bill would force universal mail-in voting",
+      "excerpt": "The voting bill known as HR 1 “would force states to adopt universal mail-in ballots.” — Mike Pence, former vice president. Pence, the Republican who was Donald Trump’s vice president, raised multiple objections to the bill in a column that appeared in the Daily Signal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.houstonchronicle.com/politics/texas/politifact/article/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php",
+      "originalUrl": "https://www.houstonchronicle.com/politics/texas/politifact/article/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/16/77/21/20706426/5/rawImage.jpg",
+          "width": 2048,
+          "height": 1375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php",
+      "cdnAmpWebUrl": "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php",
+      "publishedDateTime": "2021-03-08T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "houstonchronicle.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-03-07-fox-nation-to-premiere-new-series-on-rush-limbaugh-narrated-by-mike-pence.md",
       "title": "Fox Nation to premiere new series on Rush Limbaugh, narrated by Mike Pence",
       "excerpt": "It is an ambitious and affectionate salute to a man who regularly drew 15 million talk radio listeners for three hours of conservative thought each day. Fox Nation is set to premiere “The Age of Rush,",
@@ -57,7 +109,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 358,
+      "heat": 378,
       "tags": null,
       "images": [
         {
@@ -433,7 +485,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections",
       "featuredContent": null,
       "highlight": null,
-      "heat": 180,
+      "heat": 200,
       "tags": null,
       "images": [
         {
@@ -1518,58 +1570,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-harrowing-new-footage-shows-how-close-the-mob-got-to-pence-congress-and-staff-during-jan-6-assault.md",
-      "title": "Harrowing new footage shows how close the mob got to Pence, Congress and staff during Jan. 6 assault",
-      "excerpt": "Previously unseen footage at Trump's impeachment trial showed in vivid detail how close the mob came to lawmakers, staffers and Mike Pence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/10/trump-impeachment-trial-capitol-mob-videos-show-violence-jan-6/6712324002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/10/trump-impeachment-trial-capitol-mob-videos-show-violence-jan-6/6712324002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/09/USAT/728f2a02-9d16-43e1-8386-e68430035a42-GettyImages-1230462786.jpg?auto=webp&crop=2999,1687,x0,y300&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6712324002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6712324002",
-      "publishedDateTime": "2021-02-11T00:18:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

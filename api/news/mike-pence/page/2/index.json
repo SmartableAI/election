@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-02-11-harrowing-new-footage-shows-how-close-the-mob-got-to-pence-congress-and-staff-during-jan-6-assault.md",
+      "title": "Harrowing new footage shows how close the mob got to Pence, Congress and staff during Jan. 6 assault",
+      "excerpt": "Previously unseen footage at Trump's impeachment trial showed in vivid detail how close the mob came to lawmakers, staffers and Mike Pence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/10/trump-impeachment-trial-capitol-mob-videos-show-violence-jan-6/6712324002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/10/trump-impeachment-trial-capitol-mob-videos-show-violence-jan-6/6712324002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 150,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/09/USAT/728f2a02-9d16-43e1-8386-e68430035a42-GettyImages-1230462786.jpg?auto=webp&crop=2999,1687,x0,y300&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6712324002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6712324002",
+      "publishedDateTime": "2021-02-11T00:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-impeachment-video-shows-mike-pence-and-mitt-romney-fleeing-capitol-attack-video.md",
       "title": "Impeachment video shows Mike Pence and Mitt Romney fleeing Capitol attack – video",
       "excerpt": "Security footage shows how police officer led Romney away from attackers",
@@ -1455,58 +1507,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-16-proud-boys-intended-to-kill-mike-pence-and-nancy-pelosi-fbi-witness-says.md",
-      "title": "Proud Boys Intended To Kill Mike Pence and Nancy Pelosi, FBI Witness Says",
-      "excerpt": "A group allegedly involved in the violent breach of the U.S. Capitol last week, including at least one self-proclaimed member of the Proud Boys, said that \"they would have killed [Vice President] Mike Pence if given the chance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062",
-      "originalUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1709898/proud-boys-pence-pelosi-capitol-riots.jpg",
-          "width": 2500,
-          "height": 1705,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/proud-boys-intended-kill-mike-pence-nancy-pelosi-fbi-witness-says-1562062?amp=1",
-      "publishedDateTime": "2021-01-15T15:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

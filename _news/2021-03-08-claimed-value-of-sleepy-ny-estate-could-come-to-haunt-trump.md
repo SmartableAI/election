@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Claimed value of sleepy NY estate could come to haunt Trump"
-excerpt: "A century-old estate that Donald Trump owns in suburban New York is subdued by the former president’s standards, but it could end up being one of his bigger legal nightmares"
-publishedDateTime: 2021-03-08T06:03:00Z
-originalUrl: "https://www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html"
-webUrl: "https://www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html"
-ampWebUrl: "https://www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/climate-environment/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump/2021/03/08/fd766fd6-7fd3-11eb-be22-32d331d87530_story.html?outputType=amp"
+excerpt: "A century-old estate that Donald Trump owns in suburban New York is subdued by the former president's standards, but it could end up being one of his bigger legal nightmares"
+publishedDateTime: 2021-03-08T06:36:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/claimed-sleepy-ny-estate-haunt-trump-76316265"
+webUrl: "https://abcnews.go.com/Politics/wireStory/claimed-sleepy-ny-estate-haunt-trump-76316265"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/claimed-sleepy-ny-estate-haunt-trump-76316265"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/claimed-sleepy-ny-estate-haunt-trump-76316265"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_14b250deaa8149a3a613515f2c3e17a7_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -417,6 +417,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "p2nCySYaUPTLKWA9HfEXk8KEh4NtarEaOPX12BIWJ6liTSlew4VNqTZsgVQF5HqjLyhyUGg4wQtxqhwSK3BSAU12nEFUT5A1w9VnGaZ4WgfMB4nKfar4uLH/NFFCyMqmASAY1BeccxQXMlEIhLuLn9MpbpYtjmo8PtJDO+0y1nHOrU6oF4SFWRmHK+N1Y0ueMM0w2qAfbGbtYcrlUeSWS8o2UDh9KOkh+/7ZUvv8WryZsv0+c4n/uNVoRbflcPItfMTbDgBLtivBB4UzNKAJBbBhuF0ho1ZsbgDjLp9v6dkadKz48GXO0XvO/aTgZVf6Vjw6Fqpb5DX4cgG8tPryb22kXd0gnxQAruuOErBNrHs=;925N9Co0NQOf75GXQgBXvw=="
+secured: "ueKRRsryGIXOr1Aa+iqVwsZcQz21pv9lA0I7KwXRySS3fGg9Up/MWAEWJ47h1k9S7V75bzR1ZxqPVOVLdA2ZE5Xgcp4KU87wjTu2XtD4Nxzk3zfvRK6LPyovGlyTtKl8yzpQW2cxEvLXlezye32rIfkGDGfWNZ/F3nkhEE3fQxuOVzzUrYVF/8BobINK6vZybBLCxtUMVAkER4Ld786cCurBR9R9bEPS3tBJQLXnSrHmsHbCSK84waN3Ip7dYLzewulKgEdNqln9vL3IFYV/rlFULs3oTTi8fdXoxJGEQ+rpCkcOQrayqBgVmpIyGATicQ13fmyMJTrsMvsuvtK3AYeUXC31NHV4kx+LAgFiypw=;eqRKu5Up35VFzHek3oTQ1g=="
 ---
 
