@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/huawei-cfo-lawyer
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/huawei-cfo-lawyer-trump-comments-salvo-trade-war-76233111"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0d374997ea15d3d82e0e9cc669c176a17b2f06bd/0_99_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1231205c6cf2cf6d1ad5813d6d260444"
         width: 600
         height: 360
+        isCached: true
+  - title: "Meet Allen Weisselberg, the Trump Organization CFO prosecutors are reportedly trying to flip"
+    excerpt: "Allen Weisselberg may know more about the Trump Organization and family's finances than anyone else, and he's loyally served Donald Trump for decades."
+    publishedDateTime: 2021-03-08T20:27:00Z
+    webUrl: "https://www.businessinsider.com/allen-weisselberg-trump-organization-cfo-investigations-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/allen-weisselberg-trump-organization-cfo-investigations-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/allen-weisselberg-trump-organization-cfo-investigations-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/60463a8e2db4af00117e40e0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Bergdahl Appeals Court-Martial Over Trump, McCain Comments"
     excerpt: "A former U.S. Army soldier who was court martialed after he left his post and was captured by the Taliban is asking a federal judge to overturn his military conviction, saying his trial was unduly influenced when former President Donald Trump repeatedly made disparaging comments about him and called for his execution."

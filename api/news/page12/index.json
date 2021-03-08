@@ -2,6 +2,62 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-02-18-biden-nominees-becerra-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign.md",
+      "title": "Biden nominees Becerra, Gupta targeted by conservative groups with high-dollar ad campaign",
+      "excerpt": "A handful of conservative groups are aiming to block the confirmation of two of President Biden's most controversial nominees, using an ad campaign targeting lawmakers, their staff and their constituents. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IPkvZdzIuc/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8IPkvZdzIuc/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-nominees-becerra-and-gupta-targeted-by-conservative-groups-with-high-dollar-ad-campaign.amp",
+      "publishedDateTime": "2021-02-18T10:23:50-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-trumps-ambassador-to-slovenia-launches-senate-bid-in-alabama.md",
       "title": "Trump’s ambassador to Slovenia launches Senate bid in Alabama",
       "excerpt": "Republican Lynda Blanchard is the first candidate to jump into the race to succeed longtime GOP Sen. Richard Shelby of Alabama.",
@@ -1299,58 +1355,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-biden-dismisses-a-democratic-plan-to-wipe-out-50000-in-federal-student-loan-debt.md",
-      "title": "Biden dismisses a Democratic plan to wipe out $50,000 in federal student-loan debt",
-      "excerpt": "President Joe Biden supports $10,000 in loan forgiveness, far less than Sens. Elizabeth Warren and Chuck Schumer proposed earlier this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2",
-      "originalUrl": "https://www.businessinsider.com/biden-rejects-democratic-plan-student-loan-debt-2021-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/602c8abf2edd0f001a8d60be?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-17T02:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

@@ -516,6 +516,20 @@ related:
         width: 1680
         height: 876
         isCached: true
+  - title: "Vice President Kamala Harris Delivers Virtual Remarks"
+    excerpt: "Vice President Kamala Harris delivers virtual remarks to the National League of Cities' (NLC) Congressional City Conference, at the Eisenhower Executive Office Building at the White House complex in Washington,"
+    publishedDateTime: 2021-03-08T20:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/33530a94bbc693b85317727d09c4eb4d/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/33530a94bbc693b85317727d09c4eb4d/USA-WHITE-HOUSE-HARRIS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "I’m an American teenager of South Indian descent. Here’s what Kamala Harris means to me"
     excerpt: "Seeing Kamala Harris about to become U.S. vice president has largely fulfilled a childhood dream of mine, writes 15-year-old Disha Cattamanchi. \"Although I only see her through a TV screen, I see so much of myself and what I"
     publishedDateTime: 2021-01-14T14:00:00Z

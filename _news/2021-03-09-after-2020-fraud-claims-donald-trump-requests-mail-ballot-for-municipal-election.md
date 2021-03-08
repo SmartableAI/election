@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Supreme Court refuses to take up Trump suit about Wisconsin election results"
+    excerpt: "Trump argued Wisconsin illegally allowed voters to submit their mail ballots via drop boxes because of the coronavirus pandemic."
+    publishedDateTime: 2021-03-08T19:31:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/08/supreme-court-declines-hear-trump-election-claim-wisconsin/4628242001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4628242001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4628242001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 137
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/05/USAT/919ad265-fb75-49fb-97ce-5eaeddec5787-Donald_Trump_at_CPAC_AP_pic.jpg?auto=webp&crop=3661,2060,x0,y186&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump's Election Lawsuit Battles End as Supreme Court Declines to Take Wisconsin Case"
     excerpt: "The former president and his Republican allies have lost dozens of election-related lawsuits filed in the wake of the November race."
     publishedDateTime: 2021-03-08T15:30:00Z
@@ -114,16 +130,16 @@ related:
   - title: "Trump policy that weakened wild bird protections is revoked"
     excerpt: "The Biden administration has reversed a policy imposed under President Donald Trump that drastically weakened the government’s power to enforce a century-old law protecting most U.S. bird species"
     publishedDateTime: 2021-03-08T16:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323684"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323684"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323684"
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_aac90932e5114bd897dd9aab079074cf_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c6372a03f05d48f7a7262753e0b56787_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -208,6 +224,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "j0MDjdy4xeRWRZEH/+9+4tFEyTP8xaHkXvUrhe4F5VKh/mvXZ3h2K6JQKBShkVu1PfbKHjhLn+NqrA9BKp9+QJ2lusUtAhWntJMVFH8vI29vZSsTV39WLGjYHvEzGv0K3wv+UtYsHqmQiVYlZ6Ren22hxYcBEDeL1Hg1hpquBkojMaqLqdl8b727jV08c2h35yOsbDzTOvFJQexK/h/QkhB2vsp3LaiIdY/Zt/jtSWdvUBKvUEKspGqwzjzR4Bu2Iraouv5SmkK7BDx/Y+qXDZxSXNSAr6GBaPtNF3QmoEpA65GAk2m7yYEjStMmhZJ7jGYXwQYz5mE50foayineMyZait1zsnFHLT/gt3MiWso=;YI60vlV7sHlbUYjcYXHWBw=="
+secured: "ASI7ZB/PxChMCiaLn4fnz+ZJqnojG4rzsubwvmo3QqXnTM9ltcuqUK7AUJbJ0H4XjwlW2SdoyhScDmx/vc+McahJJF6lKjI3K4Q5be7EKiWpsCMb07Tvt7g3UvWxYvwSmBIu2wrb7TqBGSM9zOhhEekaFbi+SiVF2Kml1j42q2wRxaTMoRTeCsnhNXJnoJx25FkwU2kx2g0n/ZLWjorvLP0PlbbSDzibZK96hNhcA4an10GbCpSBEHEsXL4ea0cTK/iC34pm4QPH8FUlKFBCBVb7u0fUI7dKs5s/A6M/JY2Sdaj22OZELV9yS8rz/buwiPRNN65FAXXFURjnf4Nvc+wL6trlOaD7GrdNqxVP6dfeA0KQt39+Hgrqtcr7/bzZIiD+j6jlqKFYSkLsafIU9YhGwTXFgJtLdNe0gHoJW0aLU0IxmORLp3zCe2o1z8kT2KFp7jCoCXQInn1qqnWpOwVMomvHkhSBuSM/Tzi/+6E+4H+O/pwCSN7828wAQobomGJdiDiRyrDnSESKGR8Uww==;AajGpVEuYWqiMMMxTVYeyQ=="
 ---
 

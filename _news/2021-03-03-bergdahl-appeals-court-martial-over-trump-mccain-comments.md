@@ -71,6 +71,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Meet Allen Weisselberg, the Trump Organization CFO prosecutors are reportedly trying to flip"
+    excerpt: "Allen Weisselberg may know more about the Trump Organization and family's finances than anyone else, and he's loyally served Donald Trump for decades."
+    publishedDateTime: 2021-03-08T20:27:00Z
+    webUrl: "https://www.businessinsider.com/allen-weisselberg-trump-organization-cfo-investigations-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/allen-weisselberg-trump-organization-cfo-investigations-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/allen-weisselberg-trump-organization-cfo-investigations-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 114
+    images:
+      - url: "https://i.insider.com/60463a8e2db4af00117e40e0?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "DrklGjS420P22oPDf7ipL3EVFyh8IBozRYoh+69mQYYemSx7SrPVDJVNdePvC4nKii3cXZw3kh7GZ2n3oxP+JcdHUypCGFy0/+ejOTUUG6LLWL7Yj6CgjqwfH2IeJf911isULDFtnv1QK54w2hbqWOhGRkwOF8HQvlt8CkovIrvfNiGAn0Oob+LAbPfGOFiECnqsuGOCHyrIGxE0ibdW6+m4ogCbhUaDaq7mFU20W5R7NyHYgQIuJL4xA+HlqFqN+Qmsr1ZZI18QCHjHGjMSsp242cyrhku208PKoVBQkrl2k7Gg1u1eFS5xkOWaySS2uF1ATMeVReT+s0OMAOTmzwBpA6Gj6E6HANX5o6y6nxM=;F2e0G14XaOxiW9RqtgorSQ=="
 ---

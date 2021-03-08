@@ -2,6 +2,58 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2021-02-05-congressional-democrats-propose-up-to-50000-in-debt-cancelation-biden-not-sold.md",
+      "title": "Congressional Democrats propose up to $50,000 in debt cancelation, Biden not sold",
+      "excerpt": "Congressional Democrats renewed calls Thursday for President Joe Biden to cancel up to $50,000 in federal student loans per individual.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608",
+      "originalUrl": "https://abcnews.go.com/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/Warren-gty-er-210204_1612469502494_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608",
+      "publishedDateTime": "2021-02-04T20:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-sen-ben-sasse-slams-nebraska-gop-committees-plans-to-censure-him-for-criticizing-trump.md",
       "title": "Sen. Ben Sasse slams Nebraska GOP committee’s plans to censure him for criticizing Trump",
       "excerpt": "Sasse is the latest Republican to face censure or the threat of it from a state or local GOP for not supporting Trump.",
@@ -1258,62 +1310,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/psakis-resurfaced-tweets-trump-sanders-unity-message.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psakis-resurfaced-tweets-trump-sanders-unity-message.amp",
       "publishedDateTime": "2021-02-03T13:44:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-iranian-resistance-leader-says-regime-at-its-weakest-point-urges-biden-to-hold-it-to-account.md",
-      "title": "Iranian resistance leader says regime 'at its weakest point,' urges Biden to hold it to account",
-      "excerpt": "EXCLUSIVE: The leader of the main Iranian resistance group tells Fox News that the regime in Tehran is at its \"weakest point\" in its history, and is calling on the Biden administration to hold the regime accountable for its human rights violations.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIfzpNIjg7Y/iranian-resistance-leader-regime-weakest-point-biden",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MIfzpNIjg7Y/iranian-resistance-leader-regime-weakest-point-biden",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c52d3d03-5b47-4b7b-a81a-36d41b8f487f/29abb516-f723-4a67-a993-03437bed65cf/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/iranian-resistance-leader-regime-weakest-point-biden.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iranian-resistance-leader-regime-weakest-point-biden.amp",
-      "publishedDateTime": "2021-02-03T11:12:58-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

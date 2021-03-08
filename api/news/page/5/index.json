@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-03-flashback-gov-cuomo-in-2018-assailed-disrespect-for-women-by-sexist-and-disgusting-trump-administration.md",
+      "title": "Flashback: Gov. Cuomo in 2018 assailed 'disrespect for women' by 'sexist and disgusting' Trump administration",
+      "excerpt": "New York Gov. Andrew Cuomo has encountered a wave of criticism as multiple allegations that he made unwanted sexual advances have surfaced in recent days. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUskt_v7Sq0/flashback-gov-cuomo-trump-disrespect-women",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/tUskt_v7Sq0/flashback-gov-cuomo-trump-disrespect-women",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c8cee078-4cf1-4f71-b6c7-8a1e5d1a3233/21f457fd-bc4f-4d32-a8ba-e6c17d461d40/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/flashback-gov-cuomo-trump-disrespect-women.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-gov-cuomo-trump-disrespect-women.amp",
+      "publishedDateTime": "2021-03-03T02:03:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-biden-in-vaccine-rollout-push-as-states-rush-to-reopen-live-updates.md",
       "title": "Biden in vaccine rollout push as states rush to reopen – live updates",
       "excerpt": "Promised increase in vaccine supply comes as Republican Governors drop Covid restrictions",
@@ -283,7 +339,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid/2021/03/02/b9b04bd6-7bba-11eb-8c5e-32e47b42b51b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 380,
+      "heat": 400,
       "tags": null,
       "images": [
         {
@@ -1300,62 +1356,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-donald-and-melania-trump-received-covid-vaccine-at-the-white-house-in-january.md",
-      "title": "Donald and Melania Trump received Covid vaccine at the White House in January",
-      "excerpt": "Former President Donald Trump and former first lady Melania Trump received the Covid-19 vaccine at the White House in January, a Trump adviser told CNN on Monday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tGRfT0yCCDg/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tGRfT0yCCDg/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 212,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301152606-01-donald-melania-trump-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/01/politics/trump-melania-vaccinated-white-house/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/trump-melania-vaccinated-white-house/index.html",
-      "publishedDateTime": "2021-03-01T14:04:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

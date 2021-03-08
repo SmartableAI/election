@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/georgia-gov-kemp-says-he-would-abso
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp"
 type: article
 quality: 159
-heat: 159
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,56 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Trump a likely factor in flurry of Senate GOP retirements"
+    excerpt: "Donald Trump may be gone from the White House, but he still casts a very large shadow over the Republican Party, which he reshaped and ruled over with an iron fist during his four years as president."
+    publishedDateTime: 2021-03-08T19:56:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bGnvFkDGL5U/trump-senate-republican-retirements"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-senate-republican-retirements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-senate-republican-retirements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
+    excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
+    publishedDateTime: 2021-03-01T18:43:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XXKJAJF5-TY/jane-timken-gonzalez-resign-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
+    excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
+    publishedDateTime: 2021-03-01T18:48:00Z
+    webUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jane-Timken.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "dmMzxkS89wF3arl+omclqP9QeUPiaKNs00aZihborWbmVfw8BT06R02TSugz5W5Eg1z/hbvVPmFH6UZe7W+oka75jW1ffUyVyZA3kJPYPr9y8zB06/XsPc86gBvZivTmCWIeZU3N1Mv13V7RWAVYlGEYttC2QDFT6dGQyhf0VLNsvtR+85GciYtA/K6pkaDypb/d8vio9XKxeoxIf6upoRk/ODjI4CKT6fUyQ9+k/lQFgGS/eIp+CjV30f6+4ek2zUvVGZ+Lz15/fN0kyTZI89wKcDDorlpSUrwwruAeA8T6n2ISL4F4qvXA3LrBMvXD6O2CgZwKvxREOqtM2xxTKiGnnP7KnHnKQzhM2YKcr7o=;stro/SV1EuGQGqHMdP7sEg=="
 ---
