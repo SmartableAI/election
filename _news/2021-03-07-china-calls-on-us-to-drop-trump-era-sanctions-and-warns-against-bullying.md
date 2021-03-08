@@ -3,8 +3,8 @@ category: news
 title: "China calls on US to drop Trump-era sanctions and warns against 'bullying'"
 excerpt: "Foreign minister Wang Yi calls for cooperation and signals that Beijing will stand firm against criticism"
 publishedDateTime: 2021-03-07T13:14:00Z
-originalUrl: "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying?share=twitter"
-webUrl: "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying?share=twitter"
+originalUrl: "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying"
+webUrl: "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying"
 ampWebUrl: "https://amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "PZlbVtjVArXY6O/g5P4zbkRvb8hBgC7SK1WKlyc4lDTFrtLaPvwZFeW8al0ALUf1InThde/Us8BNKpU/SHq1wAKRa3KVqU9Gq9tsR1oNe8iWoEL4tBHqMu4A9Crx4FDUtJZmDtTc6GYZIY3mnQNvxZUgvPH57rXjiOw37iCG+djEPGNRXCipREMKEWuIfCb2zZF0FbTDvR6THnrcIr9uPLsPe1zpHF8Dciz6G2DrJePw+3jKdp4G3cRz9pVKJQLNmrlJ3oTtlEaYPKaWMmOcwAK5qnnERLnKLgDMJmAFTC2pb2fJrlfXvMQyH+64TevgbrX9sAgm3XS4UaavGxLLvX0RmGzvRJ7ctz7qGGHFI74=;2hvB7Pg9c7IqEBFoZp2+lA=="
+secured: "he2zbkzcFVuyfTtrvqTRx9y7R5+nF/cmaew+b3GedRef8/oHyDDFSCC5Eg/5JeAtXfM/oWVFAix7bm7xLUMCMCxnSD7YfLmd2+METY9yQ7GvS0/XNykKOM8xpxIinqCKvGq8ap/R9GbGDigCRwfXYy1HLV3K5mIrEC8dK/Jcjhx7L2rJP2Eh5QX0UazXYArrwOfzR+hna6zfxR+IULp3VfitQnulScvBCEjV9yeACu2pEJafq7L/epj55lJv8fTmZCFQSEP6QAQHnqp+de2OS8i46uRy2F6RInQeoNgouXjXPXHJQS1LAcUrHbNtaGt+GMca1tvyES5RR7J6UDjY2auov7atYn5u9fhY3AjHz78=;rzmeiu+ITkoIxp86QN/3Tw=="
 ---
 
