@@ -145,6 +145,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Fact check: Prisoners also got relief checks from the pandemic bills Trump signed and Cotton voted for "
+    excerpt: "Arkansas Sen. Tom Cotton, a Republican, is attacking Democrats for passing a pandemic relief bill that will send money to prisoners.\n    \n"
+    publishedDateTime: 2021-03-08T18:53:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/JjbcPEdKrrk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/fact-check-tom-cotton-prisoners-pandemic-relief-checks-trump-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/fact-check-tom-cotton-prisoners-pandemic-relief-checks-trump-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 159
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308114551-02-sen-tom-cotton-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Fact-checking Trump's CPAC speech on election lies"
     excerpt: "NBC News’ Jane Timm fact-checks former President Donald Trump’s CPAC speech, where he attempted to relitigate the 2020 election results and take credit for the Pfizer vaccine."
     publishedDateTime: 2021-03-02T01:16:00Z

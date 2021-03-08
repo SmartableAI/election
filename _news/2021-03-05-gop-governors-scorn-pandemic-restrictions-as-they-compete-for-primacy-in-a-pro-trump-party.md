@@ -79,6 +79,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Roy Blunt’s exit highlights the Trump wing of the GOP’s big opportunity in 2022"
+    excerpt: "Roy Blunt’s (R-Mo.) surprise retirement announcement Monday means there are now five GOP senators calling it quits ahead of the 2022 midterms. That’s fully one-fourth of all members who were up for reelection,"
+    publishedDateTime: 2021-03-08T17:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUPOLPDLF4I6RIZVYRID2BA6V4.jpg&w=1440"
+        width: 1440
+        height: 943
+        isCached: true
   - title: "Donald Trump Rebukes WSJ After Editorial Board Suggests the GOP Look Past His Presidency"
     excerpt: "\"Fortunately, nobody cares much about The Wall Street Journal editorial anymore. They have lost great credibility,\" the former president said in a statement."
     publishedDateTime: 2021-03-04T18:30:00Z

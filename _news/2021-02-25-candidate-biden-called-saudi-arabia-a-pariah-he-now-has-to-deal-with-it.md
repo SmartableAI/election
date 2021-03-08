@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Senate leaders win over key Democratic holdout as party struggles to push through Biden's Covid relief plan"
-    excerpt: "The Senate is bracing for a series of politically tough amendment votes Friday that could stretch late into the night and into the early hours of Saturday, the last major hurdle senators face before voting on President Joe Biden's sweeping pandemic relief bill.\n    \n"
-    publishedDateTime: 2021-03-06T04:40:23Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DG0C4vk-u-I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/senate-covid-relief-vote-a-rama/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/senate-covid-relief-vote-a-rama/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 157
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223152543-joe-manchin-january-27-2021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden doesn't penalize crown prince despite promise to punish senior Saudi leaders"
     excerpt: "Despite promising to punish senior Saudi leaders while on the campaign trail, President Joe Biden declined to apply sanctions to the one the US intelligence community determined is responsible for the death of journalist Jamal Khashoggi: Crown Prince Mohammed bin Salman."
     publishedDateTime: 2021-02-26T16:38:00Z

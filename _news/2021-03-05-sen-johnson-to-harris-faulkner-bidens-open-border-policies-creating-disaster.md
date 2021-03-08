@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-crisis-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp"
 type: article
 quality: 195
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b911f729-f835-4558-96d8-2b7645c4efcd/2d85ce5b-3e51-49d3-ae90-6666a6a45291/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "NBA All-Star game to open with chat between Michael B. Jordan, Kamala Harris"
+    excerpt: "The NBA All-Star game will open Sunday with a “special conversation” between award-winning actor Michael B. Jordan and Vice President Kamala Harris. The NBA teased the chat in a tweet"
+    publishedDateTime: 2021-03-07T15:38:00Z
+    webUrl: "https://nypost.com/2021/03/07/nba-all-star-game-to-open-with-michael-b-jordan-kamala-harris/"
+    ampWebUrl: "https://nypost.com/2021/03/07/nba-all-star-game-to-open-with-michael-b-jordan-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/07/nba-all-star-game-to-open-with-michael-b-jordan-kamala-harris/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-michael-b-jordan.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "3xJfA7kzHH/vTRK4tjgUj1g/c4acy03zpw9Ic7VNV0BPTFcWEuNM153SQSV/L1gVi/rGxpw1gcrIn3vvWaA7slnfuJctbCATxsW6wSW4DQiPpT/8Hujp76keKt6rWke7mgQkAb2/AOtXsiwOHVBuoCZ1mLxBlHk7cqMBeysOm6LrR0uvUshwoYuiydDJ8QEKVp7xIQakDFPa0wwaGpomqH+923IRlGy23GktO0dNrUIu5ahXpB3gZvayJBlSrbH4y+R1Lum/6eHFwfw5U1eLakN3NxJu/3z8SjdBUzsHiEBpVVA+J4v4Ok/3Wq75gHsTNeBt1FJgPli1IZ18v73lDB8netPr1t3y2hY2lbtiPWI=;EeO1sH5+4nnNxyfYS5QuZA=="

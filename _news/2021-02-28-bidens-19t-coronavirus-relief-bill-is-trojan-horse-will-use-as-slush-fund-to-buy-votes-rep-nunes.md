@@ -63,6 +63,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
+    excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."
+    publishedDateTime: 2021-03-08T17:22:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0k5ZmzU8ZEI/biden-first-primetime-address-anniversary-covid-shutdowns"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "VkY1IAj7IPwnY9kKxHwxZM8kv26xUdK4ksT8lLCrNiAbDRbkcTgAgdmUEnrxGjhdpf5NULQ7vkFeuhO3OPccnqSiWxMQT2/iskJObaRoqoCwoBNfe9x26UZztiDcrydkQKBj09btcdn5kNjYJbwtwvBtDkeqgXPixzVDTuU9sT5UUOA2j0ICUM98/ZJG+I4Oa9ydJhfy7RTbXZY0E0/1YF8IlgkZ8+9DrGkaxtfIbR6TM0emJ9vP+ozhc76lq+7rXDsFfyfV2jQO0+L6ylmhPq0PqD//FEWwdR6OjVFeTEOFlUkuZ4svVVVRPj5pz3NB6Kk1rra9NJd7NOPJESiyOdGfGc3/ZRJFQcQ9uG7hBuc=;3NJCkWwR/BvixG8lRNMbUQ=="
 ---

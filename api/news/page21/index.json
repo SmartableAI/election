@@ -2,6 +2,58 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-04-mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump.md",
+      "title": "Mitt Romney Points Out GOP Wasn't Concerned About Debt, 'Spending Massively' Under Trump",
+      "excerpt": "The Utah Republican highlighted that under GOP leadership the U.S. was \"adding almost a trillion dollars a year to the national debt.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553",
+      "originalUrl": "https://www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1724071/mitt-romney.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mitt-romney-points-out-gop-wasnt-concerned-about-debt-spending-massively-under-trump-1566553?amp=1",
+      "publishedDateTime": "2021-02-03T08:56:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-03-biden-harris-pay-respects-to-capitol-officer-killed-in-riot.md",
       "title": "Biden, Harris pay respects to Capitol officer killed in riot",
       "excerpt": "Vice President Kamala Harris and her husband, Doug Emhoff, have paid their respects to slain Capitol Police Officer Brian Sicknick as he lay in honor in the U.S. Capitol",
@@ -1295,62 +1347,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-new-doj-hire-is-former-colleague-of-hunter-biden-defense-attorney.md",
-      "title": "New DOJ hire is former colleague of Hunter Biden defense attorney",
-      "excerpt": "The newly selected acting head of the Justice Department's criminal division is a former colleague of the attorney now representing Hunter Biden in the face of a DOJ investigation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lqqecc00cx0/doj-official-former-colleague-hunter-biden-defense-attorney",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Lqqecc00cx0/doj-official-former-colleague-hunter-biden-defense-attorney",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 575,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Hunter-Biden-Joe-Biden-Inauguration-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/doj-official-former-colleague-hunter-biden-defense-attorney.amp",
-      "publishedDateTime": "2021-02-02T06:44:56-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

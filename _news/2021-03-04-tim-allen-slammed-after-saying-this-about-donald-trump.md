@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "After 2020 fraud claims, Donald Trump requests mail ballot for municipal election"
+    excerpt: "Following months of baseless claims of rampant voter fraud in the 2020 election, the now-former president has asked to vote by mail in Palm Beach."
+    publishedDateTime: 2021-03-08T18:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/08/former-president-trump-requests-mail-ballot-after-2020-fraud-claims/4631273001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4631273001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4631273001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 135
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/NPPP/d45607af-69a8-4283-b20e-b56168cfb203-WPB_012021_Trump_Return_08A.jpg?auto=webp&crop=1897,1068,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Trump's Election Lawsuit Battles End as Supreme Court Declines to Take Wisconsin Case"
     excerpt: "The former president and his Republican allies have lost dozens of election-related lawsuits filed in the wake of the November race."
     publishedDateTime: 2021-03-08T15:30:00Z
@@ -114,9 +130,9 @@ related:
   - title: "Trump policy that weakened wild bird protections is revoked"
     excerpt: "The Biden administration has reversed a policy imposed under President Donald Trump that drastically weakened the government’s power to enforce a century-old law protecting most U.S. bird species"
     publishedDateTime: 2021-03-08T16:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323684"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323684"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323684"
     type: article
     provider:
       name: ABC

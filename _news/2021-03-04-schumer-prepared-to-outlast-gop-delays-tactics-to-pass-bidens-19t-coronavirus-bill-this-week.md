@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/schumer-prepared-to-outlast-gop-del
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp"
 type: article
 quality: 163
-heat: 203
+heat: 223
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Biden-Voting-Executive-Order-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
+    excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."
+    publishedDateTime: 2021-03-08T17:22:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0k5ZmzU8ZEI/biden-first-primetime-address-anniversary-covid-shutdowns"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden's $1.9T coronavirus relief bill is 'Trojan horse,' will use as 'slush fund' to buy votes: Rep. Nunes"
     excerpt: "President Biden’s $1.9 trillion coronavirus relief bill is a Trojan horse that the Democrat will use as a slush fund to buy votes over the next four years, Republican Rep. Devin Nunes said Sunday."

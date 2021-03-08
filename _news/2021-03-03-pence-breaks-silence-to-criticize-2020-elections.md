@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp"
 type: article
 quality: 140
-heat: 240
+heat: 260
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/15/USAT/57ee0d46-76bb-43da-b45c-a407e61be497-AP_Pence_Inauguration.jpg?auto=webp&crop=5409,3043,x208,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Pence to give speech in SC, his 1st since leaving office"
+    excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office"
+    publishedDateTime: 2021-03-08T10:03:00Z
+    webUrl: "https://www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Pence all-in on 'election integrity' push"
     excerpt: "Former Vice President Mike Pence on Wednesday said he shares the concerns of voters over the “significant voting irregularities and numerous instances of officials setting aside state election law” in the 2020 presidential election."

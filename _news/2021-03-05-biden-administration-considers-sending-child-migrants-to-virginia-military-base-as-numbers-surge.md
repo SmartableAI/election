@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration needs to acknowledge border 'crisis,' former Trump and Obama immigration official warns"
+    excerpt: "Ronald Vitiello, former acting ICE director in the Trump administration and former Border Patrol chief in the Obama administration, says the migrant surge at the border is 'completely predictable.'"
+    publishedDateTime: 2021-03-08T17:15:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_TT5SZSW8-Y/biden-border-crisis-former-trump-obama-immigration-official"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-former-trump-obama-immigration-official.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-former-trump-obama-immigration-official.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ae2f639-3eb0-4acb-9694-7b901cb53c12/9ead1643-4c0e-4d6d-ab38-c2bf0912191c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump slams Biden for migrant ‘tsunami’ at Mexican border"
     excerpt: "Trump fired off a 428-word emailed attack pinning responsibility on Biden for the border surge that’s already required the opening of two overflow facilities for unaccompanied minors."
     publishedDateTime: 2021-03-05T19:16:00Z

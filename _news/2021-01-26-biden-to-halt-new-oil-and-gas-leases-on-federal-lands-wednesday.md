@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/biden-halt-new-oil-gas-l
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/biden-halt-new-oil-gas-leases/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "House likely to vote Wednesday on Biden's Covid relief bill"
+    excerpt: "The House is scheduled to vote Tuesday on the Senate version of President Joe Biden's $1.9 trillion Covid relief bill, a timeline that could see the sweeping legislation signed into law early this week.\n    \n"
+    publishedDateTime: 2021-03-08T18:49:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f6xL_H_iLxM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/stimulus-update-house-vote-tuesday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/stimulus-update-house-vote-tuesday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305120704-02-us-capitol-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Judge likely to extend hold on Biden's deportation pause until late February"
     excerpt: "A federal judge in Texas said Friday that he'll likely extend his hold on the Biden administration's deportation moratorium until February 23.\n    \n"
     publishedDateTime: 2021-01-29T19:24:34Z

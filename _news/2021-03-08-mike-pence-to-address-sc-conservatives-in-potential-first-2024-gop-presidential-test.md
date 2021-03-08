@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence to give speech in SC, his 1st since leaving office"
+    excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office"
+    publishedDateTime: 2021-03-08T10:03:00Z
+    webUrl: "https://www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Pence all-in on 'election integrity' push"
     excerpt: "Former Vice President Mike Pence on Wednesday said he shares the concerns of voters over the “significant voting irregularities and numerous instances of officials setting aside state election law” in the 2020 presidential election."
     publishedDateTime: 2021-03-03T17:08:00Z
@@ -101,6 +117,6 @@ related:
       domain: charlotteobserver.com
     quality: 52
 
-secured: "w7G87APXWpUUOu9xN3MEJ7j6Q6OMCup6il9PN9DJpvrgiaIblx0uLiVf5farcU5hGZSxg4veal3zP5hiN5d5GDZXIS5G42a76vb8Acqc8TFY3NikqpQQjmnKG+I4YgNLLoiMvQITugWiGix9YpSPxS0iT1IaOrnKchEjPlE2L30jrWC4wLJw6ydBR6T932ksrROxV0hvbxOBJ6zsk8HumxzWZt18Jv3UEZFaRk1U0DPQTLqEIARv9vE2W1UK8DKhKBnGNjtoWf2bQ1HRrb2ZS/UhO82WJU3xuApV0tnlCnf9f4yQigdGezeUXI56YjYX6rmr28v0cK/ckUCGe4khF8ecj6fRM88+XbtBdYCbvso=;C6TdL+GUpDUtl3c+diPmhA=="
+secured: "Pb8kEP6jM6sP6cn4Bk7LHjs0z3obw1KiFSzjPNHvPwW9axEafvHjOSZQyqldbSXelfRwp8aQsDe+vjKc8CHeGlC90ahTdoZM0pjBMl8rogBVVU4dtztober3QdqC6rcNzwL+BZF55VA7ZE8R7mV9wZOx9Fs4PLEzHXGG40Y3PtrEALevDK+I0g9Tga9bnCRM/eK8l0Kf7FsnDXq3trpHRPt/2QseUAvH6yVNmoxOfD8g9J1HZAYxhIyNe0mILLIRd4JxgGq6UuM9Oar9s/jICdsBTHhf2gJ/UKPEZ0yVjLSgk/5hjxGRMKGfVmyaoaC3lAS0iByQ38+MQrUkaJ7K0rF6bnnpzy+BUQyrCyroxOhkJg4mHe+eYoN12Pcg+hOh0ScqnOKGIUtt8LTpz295unIQlw3o/C0T0qwegx3mBv6S5Lu3jOP4xnckoaNm0U/brBqZ5D67vIl/2KW7SQQMKTnHxH2MRWkvmYYL9hzqsBLYMWFjSMfXdPtmiU6yhOWwBx/cBG7s/Bfpq++ZMV5ABQ==;Lclt+yOVly1DYVhbDM/0vA=="
 ---
 

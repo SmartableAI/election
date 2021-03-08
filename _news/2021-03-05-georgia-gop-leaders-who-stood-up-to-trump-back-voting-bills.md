@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stoo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553979283&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FB"
         width: 816
         height: 545
+        isCached: true
+  - title: "Roy Blunt’s exit highlights the Trump wing of the GOP’s big opportunity in 2022"
+    excerpt: "Roy Blunt’s (R-Mo.) surprise retirement announcement Monday means there are now five GOP senators calling it quits ahead of the 2022 midterms. That’s fully one-fourth of all members who were up for reelection,"
+    publishedDateTime: 2021-03-08T17:34:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUPOLPDLF4I6RIZVYRID2BA6V4.jpg&w=1440"
+        width: 1440
+        height: 943
         isCached: true
   - title: "Donald Trump Rebukes WSJ After Editorial Board Suggests the GOP Look Past His Presidency"
     excerpt: "\"Fortunately, nobody cares much about The Wall Street Journal editorial anymore. They have lost great credibility,\" the former president said in a statement."

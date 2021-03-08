@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House likely to vote Wednesday on Biden's Covid relief bill"
+    excerpt: "The House is scheduled to vote Tuesday on the Senate version of President Joe Biden's $1.9 trillion Covid relief bill, a timeline that could see the sweeping legislation signed into law early this week.\n    \n"
+    publishedDateTime: 2021-03-08T18:49:26Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/f6xL_H_iLxM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/stimulus-update-house-vote-tuesday/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/stimulus-update-house-vote-tuesday/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305120704-02-us-capitol-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden signed two executive orders and a memorandum Wednesday. Here's what they do"
     excerpt: "President Joe Biden on Wednesday continued his executive action blitz with a package of orders aimed at addressing the climate crisis along with a new memorandum on scientific integrity.\n    \n"
     publishedDateTime: 2021-01-27T21:42:24Z

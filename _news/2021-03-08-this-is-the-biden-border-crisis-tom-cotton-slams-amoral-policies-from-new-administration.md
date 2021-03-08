@@ -109,6 +109,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "NBA All-Star game to open with chat between Michael B. Jordan, Kamala Harris"
+    excerpt: "The NBA All-Star game will open Sunday with a “special conversation” between award-winning actor Michael B. Jordan and Vice President Kamala Harris. The NBA teased the chat in a tweet"
+    publishedDateTime: 2021-03-07T15:38:00Z
+    webUrl: "https://nypost.com/2021/03/07/nba-all-star-game-to-open-with-michael-b-jordan-kamala-harris/"
+    ampWebUrl: "https://nypost.com/2021/03/07/nba-all-star-game-to-open-with-michael-b-jordan-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/07/nba-all-star-game-to-open-with-michael-b-jordan-kamala-harris/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 132
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-michael-b-jordan.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "PamSNcsW0mbi6cGLWeCvPoFQkdd9//xfpsaRu2aK2DVxyZ2uO6+cnuHFUFM3qE3VtXY49BnTfjG67E7usW69lZRJwCJ/RG0iBSFBMT7sChviX2igFSQg0NyelhY7NES41LongONFSrDBDJrp1tnQOgKcHSDSK82XpXXK6kYzl7m4BXocWLUFkxHAOHLeSuDKE2KxSazVYTLg/cLrXZGefJ7cxfKghYoOP8GeOrhTr9sX9dDE9UmWaSmluWs32+0aekSOzgUGuVmAOs558qbiRfNSqLpU5heo9zzfnl8dojRXePbfO6vfknobQTZa/G7t7H53H9LCTEfeIUWPMqV7YQ7gwRN6rNrSrlnCERdL1j4=;0HIK4mU7NoFRy1iAcOPjLw=="
 ---

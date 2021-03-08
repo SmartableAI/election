@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
+    excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
+    publishedDateTime: 2021-03-08T17:50:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U1SHnNmKhqM/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de8bed3d-5a71-4a30-a296-6e3c8fe4ce17/b87eb2de-1125-4105-9348-cbd33a6fe40b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3dIpzJincqNhZBh3ddmfz/qmgsDZ+/4XQiEvjRW0yNlL7bzyXOFnPNOdSlE9AT0eu8i+/6elxBP//6d5auT3bSycihUDeHpaxKyefPBc9b3JYdoM5QgOfzvYiXwObGaMrS9ABZMKJWt99NKRscoWPdXmYWLWCix0kzw+j1yoI0lCN+9w/7I1YdG/TlSp6dxtB6SCyg6/cNYVevRvxXrj1KQ10uOPMsDQ4OLkBIyA7JPDAxQ0L8B41aQAkecImgQRpOCcIQl5+DE5EYBqb82kyN0fNpnowLtjT1BvIjAw6NqkGC1kGq3U9AMUjV9uGR50emJ0pY+bGUwruYaNZtzTE4zkaMQLzntAMMR4IFQB0UU=;ZgD7A29pb7HQGPjOhnIl3A=="
 ---

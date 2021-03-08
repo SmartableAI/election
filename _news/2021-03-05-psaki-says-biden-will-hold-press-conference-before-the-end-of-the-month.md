@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden backs House gun background check bills that would tighten restrictions"
+    excerpt: "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system."
+    publishedDateTime: 2021-03-08T17:31:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_d_Y_MdnyAE/biden-gun-background-check-bills"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-background-check-bills.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-background-check-bills.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "McConnell blames Biden’s ‘sweeping left-wing amnesty plan' for fueling border surge"
     excerpt: "Senate GOP Leader Mitch McConnell on Wednesday blamed President Biden’s “sweeping left-wing amnesty plan” for fueling the escalating migrant crisis on the southern border -- and said it sidelined the interests of American workers."
     publishedDateTime: 2021-03-03T21:08:15Z

@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden backs House gun background check bills that would tighten restrictions"
+    excerpt: "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system."
+    publishedDateTime: 2021-03-08T17:31:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_d_Y_MdnyAE/biden-gun-background-check-bills"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-background-check-bills.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-background-check-bills.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Jen Psaki defends Biden 'Neanderthal' reopening quip targeting Texas and Mississippi"
     excerpt: "White House press secretary Jen Psaki said President Biden’s “neanderthal thinking” quip about states removing their mask mandates was an expression of his “frustration and exasperation.” "
     publishedDateTime: 2021-03-04T19:27:23Z

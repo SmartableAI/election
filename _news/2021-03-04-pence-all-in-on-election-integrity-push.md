@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Pence to give speech in SC, his 1st since leaving office"
+    excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office"
+    publishedDateTime: 2021-03-08T10:03:00Z
+    webUrl: "https://www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/pence-to-give-speech-in-sc-his-1st-since-leaving-office/2021/03/08/81adaf5a-7ff5-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Mike Pence to address SC conservatives in potential first 2024 GOP presidential test"
     excerpt: "This will be the first major speech given by former Vice President Mike Pence since leaving office in January."
     publishedDateTime: 2021-03-08T15:10:00Z

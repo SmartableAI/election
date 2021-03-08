@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-social-media-influencer
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp"
 type: article
 quality: 173
-heat: 213
+heat: 233
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
+    excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
+    publishedDateTime: 2021-03-08T17:50:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U1SHnNmKhqM/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de8bed3d-5a71-4a30-a296-6e3c8fe4ce17/b87eb2de-1125-4105-9348-cbd33a6fe40b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "K7+Nt35okn5Qi3eMtcN9LiCetSaKS+25XAZ1EyvFjC2qy4JWbBDEhrgO373e8bNTw1oO3Ze5cxRknuMgFu35FSjV0okdpse5Fd0PTke4bK2FPBJjMp7Eniwk0YQA//yVVeBmNX7QraagM/m67meaCuWeGmh2N35Gx/LCmnX6u1HOwGgXQobby1djx0aorq7exalpqWgeytBtXxr3+LTC1134f9NSSTPHoPDxrRYoaNIZpom3rUHOD20aZHpOv0HXWr2/LcWNSd/BA6e/CrnLQxFlrtKXx6wIVPRs+tH8prMNPpeU9IIpaNm+ZEE6dRuQKB4s77YGgp/azjqmerXnPwsysjmoAV9ObESG8t8mTAE=;XkB0lQnTD+PwZWbfgXYn8w=="
