@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-crisis-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp"
 type: article
 quality: 195
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -109,6 +109,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b911f729-f835-4558-96d8-2b7645c4efcd/2d85ce5b-3e51-49d3-ae90-6666a6a45291/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden administration leaves border towns on edge"
+    excerpt: "The U.S.-Mexico border remains closed because of the pandemic, but hundreds of migrants are still heading north and it’s leaving several communities, including Nogales, Arizona, on edge."
+    publishedDateTime: 2021-03-08T22:16:00Z
+    webUrl: "https://www.foxnews.com/us/border-towns-feeling-the-impact-of-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/us/border-towns-feeling-the-impact-of-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/border-towns-feeling-the-impact-of-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/nogales-town.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "NBA All-Star game to open with chat between Michael B. Jordan, Kamala Harris"
     excerpt: "The NBA All-Star game will open Sunday with a “special conversation” between award-winning actor Michael B. Jordan and Vice President Kamala Harris. The NBA teased the chat in a tweet"

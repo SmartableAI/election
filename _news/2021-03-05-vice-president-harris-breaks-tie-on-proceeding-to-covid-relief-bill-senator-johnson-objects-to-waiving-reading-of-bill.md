@@ -215,6 +215,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "VP Harris to make her UN debut with March 16 speech"
+    excerpt: "Vice President Kamala Harris will speak at the virtual 65th Commission on the Status of Women on March 16, U.S. Ambassador to the United Nations Linda Thomas-Greenfield said on Monday, adding"
+    publishedDateTime: 2021-03-08T22:40:00Z
+    webUrl: "https://www.ocregister.com/2021/03/08/vp-harris-to-make-her-un-debut-with-march-16-speech/"
+    ampWebUrl: "https://www.ocregister.com/2021/03/08/vp-harris-to-make-her-un-debut-with-march-16-speech/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/03/08/vp-harris-to-make-her-un-debut-with-march-16-speech/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 75
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/03/sjm-15431_83070978-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
     excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
     publishedDateTime: 2021-03-03T23:21:00Z

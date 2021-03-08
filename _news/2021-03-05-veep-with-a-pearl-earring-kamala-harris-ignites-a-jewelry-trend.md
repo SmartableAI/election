@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-p
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php"
 type: article
 quality: 125
-heat: 645
+heat: 665
 published: true
 
 provider:
@@ -208,6 +208,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/454a93cc-5183-41ff-b075-2e1f1b699920/71aa6c24-6160-4e2d-b27d-5c9b12858e9a/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "VP Harris to make her UN debut with March 16 speech"
+    excerpt: "Vice President Kamala Harris will speak at the virtual 65th Commission on the Status of Women on March 16, U.S. Ambassador to the United Nations Linda Thomas-Greenfield said on Monday, adding"
+    publishedDateTime: 2021-03-08T22:40:00Z
+    webUrl: "https://www.ocregister.com/2021/03/08/vp-harris-to-make-her-un-debut-with-march-16-speech/"
+    ampWebUrl: "https://www.ocregister.com/2021/03/08/vp-harris-to-make-her-un-debut-with-march-16-speech/amp/"
+    cdnAmpWebUrl: "https://www-ocregister-com.cdn.ampproject.org/c/s/www.ocregister.com/2021/03/08/vp-harris-to-make-her-un-debut-with-march-16-speech/amp/"
+    type: article
+    provider:
+      name: Orange County Register
+      domain: ocregister.com
+    quality: 75
+    images:
+      - url: "https://www.ocregister.com/wp-content/uploads/2021/03/sjm-15431_83070978-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
         isCached: true
   - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
     excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."

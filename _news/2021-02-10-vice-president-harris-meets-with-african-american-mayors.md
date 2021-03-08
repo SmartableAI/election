@@ -1244,6 +1244,20 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "LIVE: Joe Biden, Kamala Harris deliver remarks on International Women's Day"
+    excerpt: "Biden and Harris will deliver remarks on International Women's Day at 3:20 p.m. Watch a livestream here. WASHINGTON — President Joe Biden, Vice President Kamala Harris and Secretary of Defense Lloyd Austin will deliver remarks on International Women's Day at 3:20 p."
+    publishedDateTime: 2021-03-08T20:50:00Z
+    webUrl: "https://www.postbulletin.com/news/nation/6923318-LIVE-Joe-Biden-Kamala-Harris-deliver-remarks-on-International-Womens-Day"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 68
+    images:
+      - url: "https://www.fccnn.com/incoming/6923414-wo2pj1-U.S.-President-Joe-Biden-makes-remarks-from-the-White-House-after-his-coronavirus-pandemic-relief-legislation-passed-in-the-Senate-in-Washington/alternates/BASE_LANDSCAPE/U.S.%20President%20Joe%20Biden%20makes%20remarks%20from%20the%20White%20House%20after%20his%20coronavirus%20pandemic%20relief%20legislation%20passed%20in%20the%20Senate%2C%20in%20Washington"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "Here's what Vice President Kamala Harris told The Republic about COVID-19 relief plans"
     excerpt: "Vice President Kamala Harris advocated for the Biden administration's American Rescue Plan legislation in a virtual meeting with The Arizona Republic."
     publishedDateTime: 2021-01-28T23:36:00Z

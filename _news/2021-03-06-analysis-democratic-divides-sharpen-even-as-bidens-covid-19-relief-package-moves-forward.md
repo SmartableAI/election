@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration grants humanitarian protections to Venezuelans in the US"
+    excerpt: "The Biden administration on Monday granted humanitarian protection for Venezuelans, allowing an estimated 300,000 people to apply and remain lawfully in the United States, according to senior administration officials.\n    \n"
+    publishedDateTime: 2021-03-08T22:42:32Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hqoUwnnHACw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-administration-tps-venezuela/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-administration-tps-venezuela/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170222175840-state-department-building-sign-photo-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "JlVKgbhp5Tm1dR+TZ4zgylgpC7hvgsuI6B9O/zOqjbnwYD+9kCswLPFNFST9a+q3MbVpsQAGqrkIb5rrBcmQY0RszT0/CfsLGhNaO88rodsfUqGgnvNkooTJ7GjVroxhMkrsIee5VqhGFc4aO7DmWN1ZaCVKkUPNU9KJNhMWgB1U95ote6ebz4mxORKcc2xY96es5iq8CQtWzW4NIZy8m8wnHakr2DbaVWSuQNPqBBSUIS5RTqSiFf/QwktHk2zVM0EPkki5oWDGNUy6p7YsNOnRQkg/WoAeSXEdgoJQ84v44zhO5FqLEC0OMwihbXBGdz9Hp5HecG72XVycJbql9Fojp143tmtynlZzbGbLaEw=;+GAZJCa74dWmMhoZx5svzA=="
 ---

@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "NYC prosecutors' probe into Trump finances expands to include millions loaned for Chicago skyscraper"
+    excerpt: "The Manhattan district attorney's office subpoenaed documents from an investment company that loaned the Trump Organization millions of dollars for its Chicago skyscraper in a sign that the investigation into the former president's finances continues to expand, according to people familiar with the investigation.\n"
+    publishedDateTime: 2021-03-08T22:41:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2B8VyI_E7Zg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/trump-chicago-subpoena/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/trump-chicago-subpoena/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170424100116-trump-chicago-hotel-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "TGFOu3vgjI7Gd0eUa6sA1ozxGQg2VS7tmgzq6Lrox6Je7OySv0tW5Ti4Mx2fT43t8QAGq8HPYcGVoBG9IfLPSfYW6c5VkVKM11h1K6q6HAgYeJy5rLHPlVpyenxge/ElF6Jo65A1OaaSl47IS0mgDnTyMXA+W7OrCa0w23u/UCJhD4xSWr3X4WEbmDpl0pqEL9LYni8AV/w/jlXUvFMFp8GZDmaHOpXD5Ug86maI3hlI9eMu6oTBGtKB3hzA/72bnCChOzFla1Lb3uWvYJnjZIe4P/zcZa6lOdk32XhmyqcaV5LPplmeTVbZ9bv2cilF4Qr+hkY/5uyEjbfiVZfebX2AGjILHJhZJLpwQfKuKpY=;RsTadHKeq6cgbtB0eLaVgw=="
 ---

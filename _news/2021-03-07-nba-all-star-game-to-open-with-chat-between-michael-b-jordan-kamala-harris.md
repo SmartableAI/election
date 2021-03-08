@@ -122,6 +122,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden administration leaves border towns on edge"
+    excerpt: "The U.S.-Mexico border remains closed because of the pandemic, but hundreds of migrants are still heading north and it’s leaving several communities, including Nogales, Arizona, on edge."
+    publishedDateTime: 2021-03-08T22:16:00Z
+    webUrl: "https://www.foxnews.com/us/border-towns-feeling-the-impact-of-biden-administration"
+    ampWebUrl: "https://www.foxnews.com/us/border-towns-feeling-the-impact-of-biden-administration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/border-towns-feeling-the-impact-of-biden-administration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/nogales-town.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "wabxoFaJ2pKr4zLY+taBiQvrfF+NBHk+p2WOY4WJH2Dj+/2/tPMPxVaIq6lLFDpGy7Ym147csaf+QKf7kTDuIaUBziiZGxlt0R3cUvIXvu1j7lKLOpnvrgRY9dJ49kfGR7n6vjJY9z+ZS+1jz/8vNuXuhnJt/cBJvMhi+1ySv2jF7kIEB97LTdefjdaAlKgOaS0547KzPhPRU5lPLyf35ap7IKSQypTIWCV00zVU/6OEPFIBtCT1jWHTWMBlG9autTXQ5yCNtecZqB3iuT3juvcL2+pDtbhmHexC/i0ZClE9yv1zuCbsG0GhgowfZopJaj/yfC7YM5+ip/khLGwBFH6Uy6TqHziz5lyR/tEd6CdcH7bu2MzvQljSyMu5VuZkM04LEaVj76dAqo3JfSm77joW0BpYjPjMpcCmsYpYF4uWt/fWrZdNjc+MRW+U5e0H53F56jl1724lWyvVX6Jv9W5IU7/PUUFs4MKGakIKyOnlzMKWVhmi+7rhI9yIfEkQmSCafh6nM4NG8XiLnWoi9g==;ztM0kphFal5fmuqJSwyHVQ=="
 ---

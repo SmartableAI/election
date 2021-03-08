@@ -130,16 +130,16 @@ related:
   - title: "Trump policy that weakened wild bird protections is revoked"
     excerpt: "The Biden administration has reversed a policy imposed under President Donald Trump that drastically weakened the government’s power to enforce a century-old law protecting most U.S. bird species"
     publishedDateTime: 2021-03-08T16:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c6372a03f05d48f7a7262753e0b56787_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_aac90932e5114bd897dd9aab079074cf_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
@@ -224,6 +224,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "5I8xWlRwlrhDo55WtDv4UrUKRjywrNFpXvWKqzl9VzlYyNCVoFxiumWhARLKI+553pgaxZlKsKmhQw+SzAfi3I6xgkoxOFBwZPQLZa/Yiem8SdYKoZrNJInj6jZ0LeVn4d5Hglr03qUQZpHX7C6Emmj8qF3gQEN/ACGN9tBZNl5FdFQeqtdRwjxsSwWWsGKeCy0Z7eJQeKzWIRr8a0gSX3ZTEJMAPZk7kGsUwak+d+5vfi+p2YPmKAC33zNAwo/uh2JkrHCt2Os5SDMcXnI6qE0dPExCmAiU6/T91MRr/z6TUVXRdBDjwdRl3t4kqhHdrGmpeYT0O7yhSFPFXQ/nnCnbeVfUgi5cB9STpkjpsUI=;ep4V8moVPoE55k6+6uaAzg=="
+secured: "OcsP5P3jP2li295x0g60iyrULgsP2KwjbpKiX9IuOq2zVVbz/UZ5fHBpwMUcGYu9SGECioI7fuHGmuHyE9K7JnF3B+UEWhl0oqIKbPwLPp8QlvAWyp2bRRITQA+cAmaX9NHzsZ12FYfSGRQ2BF6/gzQ7eWA8+6GKX3Ol7Yhcc2O3vZnxamgz13RkejdF0qbFd1COQvXEEO6AocseBn6R96H+TP7lMIvqSz4OeWSZ6GYHf3Fpi1VPeYE8p1s9FoxNGfTSX5TZdcYc6RqoPBMOd3bPD1KrbCSySp/FvwtPAgJimwhXmlpLToih5lTPfG2zJIrTkAnmVDviIijcToZRn4o3n2dfjhJYQImiSRNpmBBwuJGIio2HwnTefoNF/P8C1RJtAn2/x58R72GUs4HIkT9wfbCAGJlkG2n389UQed+X0PIFMiXwfiLbLWUMOiQ6eXl9G0ut9Fbcw+GWD9Nrj/nozgZpvfWDvEJdxOh6EcA7KBaNaHgdI7bWTO40Oy+GfNGEnX7JnLG4VROA9HdGkg==;hrCoYph8DxnKN3wP3HAqTg=="
 ---
 
