@@ -1,26 +1,34 @@
 ---
 category: news
-title: "Accountant Faces Pressure to Turn on Trump in Criminal Probe"
-excerpt: "The Manhattan district attorney said in an August filing that the office is investigating “possibly extensive and protracted criminal conduct” at the Trump Organization, thoug"
-publishedDateTime: 2021-03-07T16:53:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2021-03-07/accountant-faces-pressure-to-turn-on-trump-in-criminal-probe"
-webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-07/accountant-faces-pressure-to-turn-on-trump-in-criminal-probe"
+title: "Accountant faces pressure to turn on Trump in criminal probe"
+excerpt: "When lawyers asked Donald Trump more than a decade ago to identify who estimated values on some of his signature properties, he shrugged and pointed to his longtime accountant, Allen Weisselberg."
+publishedDateTime: 2021-03-07T21:23:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-weisselberg-idUSKBN2AZ0IO"
+webUrl: "https://www.reuters.com/article/us-usa-trump-weisselberg-idUSKBN2AZ0IO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AZ0IO"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AZ0IO"
 type: article
-quality: 35
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210307&t=2&i=1554059857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH260GT"
+    width: 822
+    height: 545
+    isCached: true
 
 related:
   - title: "AP FACT CHECK: Trump clings to his core election falsehoods"
@@ -393,6 +401,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "EVB7KF1sasojyJpUZaTTWVG04ge1sAMwwV1CDi6Da47RZZTsRX+tEuld8KwGrWHTyTwYq4Fwz5G/AR5+OAF0mbSiXLsmAVZxZZUQLVJGs9WQ4/D6AVx3qaVMQ8PP30k0NzSqzpYaaL7BcztAk5JFToLW3hrGqX3IlwgC2EaUaj7DAZdQDJeUSPWuNnyMGq71Nc4sWPvcJ8zmp06/PavhmUiQj8qsHXkfUvwm2pTBxo50mAdTnY3usouS5eQmVyJGHQVWnvvDSPDrm6Go+V/mWVqG7SaNKg5KPEjD+J3uemuHo0C/96iQ73EpR1oXvc1ztuaF32GaDt48OQ2lbmOdCW9/nrpbIk3k6e+4ejbyxncbqBNOL+bYJFHHoCRcdCrNIUZvBnpMoljoaTQ7VfD5lRs1W14cHg9+1V7iHHWNtAIOeiuFpCa0qCxd9dsTzNc2jWPeKYdwpfYIqtAdCBqXWEWbKmOWzzuQ5XJiMwfXIpLEFAktgfhqf2jTpwuFTrr3OTEiDTUAQ6/FIVmIcmO95Q==;ruyQV+IQQ0nTftqksZf14A=="
+secured: "ywdxsREvRuvv9vfMSF2cSZyAXDG1mmb6ZPAieTkWICkFo+DvcYBNJ2JUl4unccSlmTRpAjGPM9GEQpoALLtVjCG1awwzGSvAotewZ+QJAu3fOYIYglnNlD+EoD07i+ihEbeHiF/eqe9g7bRBAoh7Rutr+M4cBOmyaeSDElpSzWfJgSqKSEH+9CudVjyF/QDGonRPW3QkwgQJVToWm97iwmd4wAma/lCUg2ZG0fiZtj38LXz7uGTC8INqPnoOah8TbvRDamQhQZiSFjZulOTcwuIXUgGZ5akGXDhNybG0tkHQh3pDhA9RjtBS9kCVT4Pj7nvSB3zSKvdP3BFxSStUf53WrU2pR3UWWE2yBM51LWw=;gQYAy8LegRw1Jd6KaQVbEA=="
 ---
 

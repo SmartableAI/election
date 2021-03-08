@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to mark ‘Bloody Sunday’ by signing voting-rights order"
-    excerpt: "President Joe Biden plans to sign an executive order directing federal agencies to take a series of steps to promote voting access."
-    publishedDateTime: 2021-03-07T02:19:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-03-07/biden-to-mark-bloody-sunday-by-signing-voting-rights-order"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-07/biden-to-mark-bloody-sunday-by-signing-voting-rights-order?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-07/biden-to-mark-bloody-sunday-by-signing-voting-rights-order?_amp=true"
+  - title: "Biden to mark 'Bloody Sunday' by signing voting-rights order"
+    excerpt: "President Joe Biden plans to sign an executive order directing federal agencies to take a series of steps to promote voting access, a move that comes as congressional Democrats press for a sweeping voting and elections bill to counter efforts to restrict voting access."
+    publishedDateTime: 2021-03-07T10:00:00Z
+    webUrl: "https://www.businessinsider.com/biden-to-mark-bloody-sunday-by-signing-voting-rights-order-2021-3"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 125
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/816bb06/2147483647/strip/true/crop/4292x2803+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa4%2Fc0%2F249caab040bd87237e8dade69bab%2Felection-2020-protests-phoenix-73879.jpg"
-        width: 320
-        height: 209
+      - url: "https://www.businessinsider.com/public/assets/BI/US/og-image-logo-social.png"
+        width: 600
+        height: 315
         isCached: true
   - title: "Biden signs voting rights order on 'Bloody Sunday'"
     excerpt: "A new executive order from President Joe Biden directs federal agencies to take a series of steps to promote voting access. Biden announced the plan in a recorded address on the 56th commemoration of the 1965 incident known as “Bloody Sunday."

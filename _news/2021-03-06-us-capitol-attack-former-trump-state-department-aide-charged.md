@@ -207,6 +207,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Accountant faces pressure to turn on Trump in criminal probe"
+    excerpt: "When lawyers asked Donald Trump more than a decade ago to identify who estimated values on some of his signature properties, he shrugged and pointed to his longtime accountant, Allen Weisselberg."
+    publishedDateTime: 2021-03-07T21:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-weisselberg-idUSKBN2AZ0IO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AZ0IO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AZ0IO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210307&t=2&i=1554059857&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH260GT"
+        width: 822
+        height: 545
+        isCached: true
   - title: "Capitol Police chief faces questions about security plans after pro-Trump riot"
     excerpt: "The acting chief is expected to ask for more funding to pay for physical barriers and additional deployment of law enforcement, as lawmakers worry about turning the Capitol into a fortress."
     publishedDateTime: 2021-03-03T14:58:00Z
@@ -379,15 +395,6 @@ related:
     excerpt: "The lawsuit, which claims that former President Donald Trump and his allies incited the mob that attacked the Capitol, is the second major legal action against Trump in connection to the riot."
     publishedDateTime: 2021-03-05T18:19:00Z
     webUrl: "https://www.usnews.com/news/national-news/articles/2021-03-05/rep-eric-swalwell-sues-trump-and-allies-over-capitol-insurrection"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
-  - title: "Accountant Faces Pressure to Turn on Trump in Criminal Probe"
-    excerpt: "The Manhattan district attorney said in an August filing that the office is investigating “possibly extensive and protracted criminal conduct” at the Trump Organization, thoug"
-    publishedDateTime: 2021-03-07T16:53:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-07/accountant-faces-pressure-to-turn-on-trump-in-criminal-probe"
     type: article
     provider:
       name: U.S. News & World Report

@@ -77,6 +77,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Live stimulus updates: Kamala Harris breaks Senate tie to begin debate on Joe Biden's COVID stimulus bill"
+    excerpt: "It’s time to move forward with this legislation which will be one of the largest antipoverty bills in recent history,” Sen. Chuck Schumer said."
+    publishedDateTime: 2021-03-05T15:44:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/03/04/covid-stimulus-senate-awaits-debate-joe-bidens-1-9-trillion-plan/6902419002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6902419002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6902419002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/04/USAT/b19c4416-5a9e-40a3-8a4e-6b6645c4b9ec-AP_Biden_Congress_Urgency.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "grKT7eBfRBpyRDLlBeVUa1dQL5FP3yyEHkXkD+ezOTkCTsFR7m4aK6muDAOMKAX0e/4hWfSYUIkJP19cPTmhyF3PvQq+6IzH6EJomXAFuNrmUl6LCPhXERO9DdnJrMEcU7fB+V3fpRnMV45sogUGvt5ge6W4Hfblfw5N9ouP09AQR5hrvNyZRcFahfG6szmmvHD+OlMXcnuP9sH/lNYu/lece/B9mhpeQOmp1MNnVF8uVdKzX7WL+Gmm1h/OM8f/LNUwCWa+q63Jyi9mYaqDOatqzJu4NVsIqcnv/JOH1xRiDBQ0g5K0rRzQNIcSbf6y0ga73UJAHmB2KzbMBhc9j2ibjttJgYGpIwycYjxBKC8=;/hRv1K58OtF+F+b4Sjm0tw=="
 ---

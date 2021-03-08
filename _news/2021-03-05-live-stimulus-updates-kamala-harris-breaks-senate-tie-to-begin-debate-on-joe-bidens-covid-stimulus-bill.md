@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Biden hails Senate passage of virus aid bill"
-excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
-publishedDateTime: 2021-03-06T20:13:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
+title: "Live stimulus updates: Kamala Harris breaks Senate tie to begin debate on Joe Biden's COVID stimulus bill"
+excerpt: "It’s time to move forward with this legislation which will be one of the largest antipoverty bills in recent history,” Sen. Chuck Schumer said."
+publishedDateTime: 2021-03-05T15:44:00Z
+originalUrl: "https://www.azcentral.com/story/news/politics/2021/03/04/covid-stimulus-senate-awaits-debate-joe-bidens-1-9-trillion-plan/6902419002/"
+webUrl: "https://www.azcentral.com/story/news/politics/2021/03/04/covid-stimulus-senate-awaits-debate-joe-bidens-1-9-trillion-plan/6902419002/"
+ampWebUrl: "https://amp.azcentral.com/amp/6902419002"
+cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6902419002"
 type: article
-quality: 105
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Arizona Republic
+  domain: azcentral.com
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d63f00a-78e5-4d4d-ba91-c6e5c3186299_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://www.gannett-cdn.com/presto/2021/03/04/USAT/b19c4416-5a9e-40a3-8a4e-6b6645c4b9ec-AP_Biden_Congress_Urgency.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -77,23 +75,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Live stimulus updates: Kamala Harris breaks Senate tie to begin debate on Joe Biden's COVID stimulus bill"
-    excerpt: "It’s time to move forward with this legislation which will be one of the largest antipoverty bills in recent history,” Sen. Chuck Schumer said."
-    publishedDateTime: 2021-03-05T15:44:00Z
-    webUrl: "https://www.azcentral.com/story/news/politics/2021/03/04/covid-stimulus-senate-awaits-debate-joe-bidens-1-9-trillion-plan/6902419002/"
-    ampWebUrl: "https://amp.azcentral.com/amp/6902419002"
-    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6902419002"
+  - title: "Biden hails Senate passage of virus aid bill"
+    excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
+    publishedDateTime: 2021-03-06T20:13:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
     type: article
     provider:
-      name: The Arizona Republic
-      domain: azcentral.com
-    quality: 73
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/04/USAT/b19c4416-5a9e-40a3-8a4e-6b6645c4b9ec-AP_Biden_Congress_Urgency.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
-        width: 1200
-        height: 676
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d63f00a-78e5-4d4d-ba91-c6e5c3186299_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
-secured: "ocqQCJsdciPdoW2y27PlHGx2XXr8+IwumNUK3MDakNqCro0JlNHG2nzuBvQPhFpjFXyKwepeE9GUjWw9iXc7uaJNeA0xdchPR+o2nDhKg/EwxJATQXKDe/QZgpCPGIt+azneNU7AE948Qv4jE8eVPS9wZ+na4x+JlezP4+EWbPCR0PG88noiLjES+WX7rnOwi7TOgRLu4J44ovGWf/cSi+9VUqyIXtsYZO++stcMs75UEwNmFrfnc4GxL1e5nKmg0i/ChrGjh3wzW5t34ssFkGZnzeGwKvUCeeWLfnmPTbEV1vSuKK0YPWCSwnZfHmrWaUJ01MjNCw/JQx0TYVAo5t06nsliDcAC9/bt0p82w27YzOZJoEg6lQj2ZwPfB/AFZh1xlDX/o945CYE+d2eKXfffGYmf91LQQFmb8/VR46SC17ro+XREvVPUf9CBOnSl2CbKDhoaLEGHzpo7WpxjuQEbuLjre8U++IdXdIj6buHBrU5+yGJWz2/vG6rgN5a1RKOCtuXrEC8NdYiQMf7T3A==;Iihy99HNdA6hpibSsMcLJg=="
+secured: "iX6GprGTvSGAtq/9LpPqPB8897Cw/Zmcdxc5ewojg3Nlk4TxHSC4fVqwWSWUHBvoc1ru8iTTItQau9RRW/Qddy0KmsxmzSmmO8xk0Jto2AAQgQ9GiI6XwqD19pWHrbAJ14ti8INKrXvcxLo3kLvYEe4BKLapQDiFVrhEKFaxmQrN6ZddE7O8DaUwxxhyjFmnuxev8jCMIxezoGHx1oYD3tPSQ+RH9SRbYtImKORKIFYGv7GwhlmugLhykvvzFjr3lO2sBG4Jvg2vmCuhp7R8PaG4xT++tGVpb+n6Dns71kSBHEZYQb8Xb8IUItQwMW7cJBdzCmGfciSufRWylqbeqoj9iiOreQKs1fiqMmv7iY0=;0GWeUY6cOpZ4TjfKEB/7iQ=="
 ---
 

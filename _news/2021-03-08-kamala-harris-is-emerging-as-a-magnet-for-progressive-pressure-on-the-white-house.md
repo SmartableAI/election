@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Kamala Harris won't weigh in on minimum wage ruling from Senate parliamentarian: Deese"
-excerpt: "Brian Deese, a top economic adviser to President Biden, said Friday that Vice President Kamala Harris will not move to overturn a ruling from the Senate parliamentarian that increasing the federal minimum wage to $15 per hour is out of bounds for Democrats’ $1."
-publishedDateTime: 2021-02-26T17:22:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
-webUrl: "https://www.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
-ampWebUrl: "http://amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
+title: "Kamala Harris is emerging as a magnet for progressive pressure on the White House"
+excerpt: "The Rev. William Barber II, one of the nation’s leading civil rights activists, defines the brewing fight over raising the national minimum wage as Kamala Harris’ first fork-in-the-road m"
+publishedDateTime: 2021-03-08T01:00:00Z
+originalUrl: "https://www.columbian.com/news/2021/mar/07/kamala-harris-is-emerging-as-a-magnet-for-progressive-pressure-on-the-white-house/"
+webUrl: "https://www.columbian.com/news/2021/mar/07/kamala-harris-is-emerging-as-a-magnet-for-progressive-pressure-on-the-white-house/"
 type: article
-quality: 67
+quality: 50
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: The Columbian
+  domain: columbian.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/25/Harris_Vaccine_23019.jpg-d889b_c0-222-5337-3335_s1200x700.jpg?fc9c632cd81d04c067c203b8e851477caee02e4f"
-    width: 1200
-    height: 700
+  - url: "https://pcdn.columbian.com/wp-content/uploads/2021/03/Biden_78141.jpg-322d0.jpg"
+    width: 900
+    height: 600
     isCached: true
 
 related:
@@ -285,6 +283,22 @@ related:
         width: 1024
         height: 736
         isCached: true
+  - title: "Kamala Harris won't weigh in on minimum wage ruling from Senate parliamentarian: Deese"
+    excerpt: "Brian Deese, a top economic adviser to President Biden, said Friday that Vice President Kamala Harris will not move to overturn a ruling from the Senate parliamentarian that increasing the federal minimum wage to $15 per hour is out of bounds for Democrats’ $1."
+    publishedDateTime: 2021-02-26T17:22:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 67
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/25/Harris_Vaccine_23019.jpg-d889b_c0-222-5337-3335_s1200x700.jpg?fc9c632cd81d04c067c203b8e851477caee02e4f"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "LI parents are teaching daughters the power of possibility. Kamala Harris is strengthening that narrative."
     excerpt: "Chloe Williams, 8, and her mom, Selina, 39, a nurse practitioner from Wheatley Heights, joined women and girls nationwide in putting on pearls the morning of Kamala Harris’ inauguration to celebrate t"
     publishedDateTime: 2021-03-03T09:00:00Z
@@ -359,20 +373,6 @@ related:
         width: 650
         height: 427
         isCached: true
-  - title: "Kamala Harris is emerging as a magnet for progressive pressure on the White House"
-    excerpt: "The Rev. William Barber II, one of the nation’s leading civil rights activists, defines the brewing fight over raising the national minimum wage as Kamala Harris’ first fork-in-the-road m"
-    publishedDateTime: 2021-03-08T01:00:00Z
-    webUrl: "https://www.columbian.com/news/2021/mar/07/kamala-harris-is-emerging-as-a-magnet-for-progressive-pressure-on-the-white-house/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 50
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/03/Biden_78141.jpg-322d0.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "At Black History Event, Harris Champions COVID-19 Bill For Its Aid To Black Americans"
     excerpt: "One day after the House advanced President Biden's $1.9 trillion COVID-19 relief package, Vice President Kamala Harris championed the proposed round"
     publishedDateTime: 2021-02-27T20:46:00Z
@@ -408,6 +408,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "NWtRfGY//RAiruiOxniqJ3U9nxJajnampiFBXVISPeAD7JjkugCnpoH5HcpS1NiYq6gENHEbEnkz9q15CUSXYqldxhGKiWRE2zCiw1RS2mhqnNlsIW5fkS+SzlmjjvpxpocBZe1Uj2SWo+CRY+O2KdhcYPwlja60ymxRJ1iRBgkB2jWFvJf/rJijQ4bYnxITmtoOw89+h8FT4mqn3PqO/iecUVjEfMjxH6Y/PBPZP3mnKDcu9TyGojGAeEwSoHeufnNlPxJ1mG/fZhZAfHVZWgCBEJvy5fsRd2djJcNUcewQf3hDEoZzjeeSY0wv1jXhsarE9+rKlRmvL9v9Mm8rRvNuOvt4K4ZnewkZTgtqan4ugucITyqdA4Cu2At3dV6eHReLq1+On4xD1w/c3jOGbVMfLCtIG75NRjUENH1ARha91iPx8tmT/IZ2M6gll9aDfz1lvQGo2HhDqJdZ0SRHHu5odIgZ49QtGRgjWxH0IBBXSDaqaylsF6CaNlofoX8P1D6KA/H8u7Yq41QKzcUz8w==;lcAyP3J2S0YZ35Xaxt5dfg=="
+secured: "RlJZXcEDw4IV7jW14ccG1Bb+VuL6tgDmKWk7fXQs1bcmiLck2jkEPYGXbPCsl8wqU0SXn6cDUw7ilKhKNBM5QYoiDfRMinwoGnsiLzmJJ7u5czryb9UcV0ul02kpXLjqH7Wd+IEPMLDOGoNuYJtB1TD3HJW+B7ClGRYuB5e6auIfwT22nuaiDquVvWXB/AXR9ay8t7YP+AenBy885bGlCHgFHXw/3f6QbymhxRfPx4WKUua1K5Eeo73BN57TAgWpoFaUssFnF7OADZrO5TcD0lFkJypNwI+B9G8uIOEAQTx0z3l7Xjf1fkl54rLKtYixVnRVKsW6KIiLx32m4MKkbAIKVYBdUMC+XOigHMKVD/M=;Pi3Pzc6qwX6eMUNGVQXP8Q=="
 ---
 

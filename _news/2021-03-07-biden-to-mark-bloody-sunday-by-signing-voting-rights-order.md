@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden to mark ‘Bloody Sunday’ by signing voting-rights order"
-excerpt: "President Joe Biden plans to sign an executive order directing federal agencies to take a series of steps to promote voting access."
-publishedDateTime: 2021-03-07T02:19:00Z
-originalUrl: "https://www.latimes.com/world-nation/story/2021-03-07/biden-to-mark-bloody-sunday-by-signing-voting-rights-order"
-webUrl: "https://www.latimes.com/world-nation/story/2021-03-07/biden-to-mark-bloody-sunday-by-signing-voting-rights-order"
-ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-07/biden-to-mark-bloody-sunday-by-signing-voting-rights-order?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-07/biden-to-mark-bloody-sunday-by-signing-voting-rights-order?_amp=true"
+title: "Biden to mark 'Bloody Sunday' by signing voting-rights order"
+excerpt: "President Joe Biden plans to sign an executive order directing federal agencies to take a series of steps to promote voting access, a move that comes as congressional Democrats press for a sweeping voting and elections bill to counter efforts to restrict voting access."
+publishedDateTime: 2021-03-07T10:00:00Z
+originalUrl: "https://www.businessinsider.com/biden-to-mark-bloody-sunday-by-signing-voting-rights-order-2021-3"
+webUrl: "https://www.businessinsider.com/biden-to-mark-bloody-sunday-by-signing-voting-rights-order-2021-3"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/816bb06/2147483647/strip/true/crop/4292x2803+0+29/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa4%2Fc0%2F249caab040bd87237e8dade69bab%2Felection-2020-protests-phoenix-73879.jpg"
-    width: 320
-    height: 209
+  - url: "https://www.businessinsider.com/public/assets/BI/US/og-image-logo-social.png"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -62,6 +60,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "/bg2gPpQ1vLzG3IiZ6u5cZ9lagBZxWagDAhcaBzestkMu6zsm4yJCi2S4YFHHIfBYkbW8MuN5M1VhAf91x+0DgR28bMsHjRo1fIvJA0abhIT5tId+MgwjMFEXKkd2NdPruixclNVtNc7HuAN6bTZ6SyMQjHCyMQw0qkZZpIx8txXNp6VTt7sMh+lM87g7Jbu0CXI3vCA6duuzf69jGQyvjdTaKkR7Q+YaJDRqh4V5Brby3O0ShETi9gWNukLGCp/7WDs/pRroC62x8anN7Wd0JrJiOopY26AAiY01/HFQOafUqq6NPxooqpBSJggQdHnrDjrIA3IuHlcdQ5FB9/zFimFlTDHqhoNtV68bJt4HgM=;VDmtcNUizhcZZCfc2M/fSw=="
+secured: "VgyyeeFY9dLE1XhdpUnRrCioRY5MKZVbeVvwy7A3in95dfdJZCUR4d+1OwKCCcQVNcBiPYrXT/z23v1VeB0bQJjq3jWXZZzZ4w4Nnqh3p4kXxALHEpUd3VKF5OCHJlRZVjLzVkl87OQYxtN0+b9hJXcl4QX8a3Gl7Yko277s0P04nsiZcxlhwIyTDlT5jKxAOgPa6A+OmZ5yMgq7cq1Ul6HKjpAH3W7IBUmh7R0RZuhUDuqhsNmjMo6MU66bIbhFHCI/ZtwNO+xTa0UR2VpNnaZCks+HxgI+Kkg2V6xA7A5hwtCemML6hpl6BfawiXPC/PfMuFbg1hwY7TZ78XedLw/Y/GCXBf/fE1h5HtUWn6w=;OCNQrTefghznECMdWZ23SQ=="
 ---
 

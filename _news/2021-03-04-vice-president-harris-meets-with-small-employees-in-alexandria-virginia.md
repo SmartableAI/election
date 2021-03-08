@@ -235,6 +235,22 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "VP Kamala Harris' Berkeley childhood home may gain historic landmark status"
+    excerpt: "A pale yellow, two-story duplex in Berkeley with a powerful political connection may soon be eligible to receive historic status. That’s because as a child, Kamala Harris — who is the first woman and first Black and Southeast Asian woman to hold the office of vice president — lived on the top floor of the home on Bancroft Way."
+    publishedDateTime: 2021-03-07T19:46:00Z
+    webUrl: "https://www.sfchronicle.com/local/article/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
+    ampWebUrl: "https://www.sfchronicle.com/local/amp/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/local/amp/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 73
+    images:
+      - url: "https://s.hdnux.com/photos/01/15/12/50/20228649/7/375x250.jpg"
+        width: 361
+        height: 250
+        isCached: true
   - title: "Vice President Kamala Harris honors 'visionaries' at Black History Month event"
     excerpt: "Vice President Kamala Harris called Black history makers 'visionaries' Saturday during a virtual celebration of the 40th annual Black History Month."
     publishedDateTime: 2021-02-27T21:57:00Z
@@ -342,6 +358,20 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/c3b832e06b83c1e4c3ab0078505e9217/HARRIS-SMBUISINESS.jpg"
         width: 650
         height: 427
+        isCached: true
+  - title: "Kamala Harris is emerging as a magnet for progressive pressure on the White House"
+    excerpt: "The Rev. William Barber II, one of the nation’s leading civil rights activists, defines the brewing fight over raising the national minimum wage as Kamala Harris’ first fork-in-the-road m"
+    publishedDateTime: 2021-03-08T01:00:00Z
+    webUrl: "https://www.columbian.com/news/2021/mar/07/kamala-harris-is-emerging-as-a-magnet-for-progressive-pressure-on-the-white-house/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 50
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/03/Biden_78141.jpg-322d0.jpg"
+        width: 900
+        height: 600
         isCached: true
   - title: "At Black History Event, Harris Champions COVID-19 Bill For Its Aid To Black Americans"
     excerpt: "One day after the House advanced President Biden's $1.9 trillion COVID-19 relief package, Vice President Kamala Harris championed the proposed round"

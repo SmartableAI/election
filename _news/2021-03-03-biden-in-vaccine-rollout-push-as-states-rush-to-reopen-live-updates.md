@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d63f00a-78e5-4d4d-ba91-c6e5c3186299_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Live stimulus updates: Kamala Harris breaks Senate tie to begin debate on Joe Biden's COVID stimulus bill"
+    excerpt: "It’s time to move forward with this legislation which will be one of the largest antipoverty bills in recent history,” Sen. Chuck Schumer said."
+    publishedDateTime: 2021-03-05T15:44:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/03/04/covid-stimulus-senate-awaits-debate-joe-bidens-1-9-trillion-plan/6902419002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6902419002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6902419002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/04/USAT/b19c4416-5a9e-40a3-8a4e-6b6645c4b9ec-AP_Biden_Congress_Urgency.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "2UpV018mdG5VbAzLfJIf7/+higtetJksfTfy+GNYWOM9dhW0pjDP1YBvvaSeHkuHBS4+CGs7HHQdLDfKuvS+RyAY2nXPuAyEuDLlsWE0lSWQ9y5tQjQQ/6Hv3FzQUOfJKqerWwo6h/0i3sQwA9AhJPXJyOdDGqfKLRZAjLN7hybsZn+ncyzk8H32/zSNl2NhgOcI9tSpOg20ZfZg18F5qf2sSp7S5PJ4xFqLCXyqMxE4NL58Y2fEpkPkKUF5KbAGRCmgiGFbrCcRSHZk299xLIPWY6sGm0elgGOprFs14C4t6+LncdJNGp4egRX9DmqwQTACT0clh4vSNiFS5/ZcotYccnDjOHuwQfz7YJjrIWxgFIIAoj31IrUt49jETolATUoakD2VJqYKy+OlEKBJPqyD42icolNEs4frzM3v/NxF1h65up9hX/lV1wMicQ8dopuCmU66vQZlYFyHRq//7Sp8zlmATCPT1SOrxwwkOKSnduS8HHgMUVEnmAKE1B+32lKAlbqtnkJA+biWpfQAnQ==;Y6KzdUikcttfg8/wOweZBQ=="

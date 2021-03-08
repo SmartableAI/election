@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Kamala Harris won't weigh in on minimum wage ruling from Senate parliamentarian: Deese"
-excerpt: "Brian Deese, a top economic adviser to President Biden, said Friday that Vice President Kamala Harris will not move to overturn a ruling from the Senate parliamentarian that increasing the federal minimum wage to $15 per hour is out of bounds for Democrats’ $1."
-publishedDateTime: 2021-02-26T17:22:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
-webUrl: "https://www.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
-ampWebUrl: "http://amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
+title: "VP Kamala Harris' Berkeley childhood home may gain historic landmark status"
+excerpt: "A pale yellow, two-story duplex in Berkeley with a powerful political connection may soon be eligible to receive historic status. That’s because as a child, Kamala Harris — who is the first woman and first Black and Southeast Asian woman to hold the office of vice president — lived on the top floor of the home on Bancroft Way."
+publishedDateTime: 2021-03-07T19:46:00Z
+originalUrl: "https://www.sfchronicle.com/local/article/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
+webUrl: "https://www.sfchronicle.com/local/article/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
+ampWebUrl: "https://www.sfchronicle.com/local/amp/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
+cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/local/amp/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
 type: article
-quality: 67
+quality: 73
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: San Francisco Chronicle
+  domain: sfchronicle.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/25/Harris_Vaccine_23019.jpg-d889b_c0-222-5337-3335_s1200x700.jpg?fc9c632cd81d04c067c203b8e851477caee02e4f"
-    width: 1200
-    height: 700
+  - url: "https://s.hdnux.com/photos/01/15/12/50/20228649/7/375x250.jpg"
+    width: 361
+    height: 250
     isCached: true
 
 related:
@@ -237,22 +237,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "VP Kamala Harris' Berkeley childhood home may gain historic landmark status"
-    excerpt: "A pale yellow, two-story duplex in Berkeley with a powerful political connection may soon be eligible to receive historic status. That’s because as a child, Kamala Harris — who is the first woman and first Black and Southeast Asian woman to hold the office of vice president — lived on the top floor of the home on Bancroft Way."
-    publishedDateTime: 2021-03-07T19:46:00Z
-    webUrl: "https://www.sfchronicle.com/local/article/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
-    ampWebUrl: "https://www.sfchronicle.com/local/amp/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
-    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/local/amp/VP-Kamala-Harris-Berkeley-childhood-home-may-16007507.php"
-    type: article
-    provider:
-      name: San Francisco Chronicle
-      domain: sfchronicle.com
-    quality: 73
-    images:
-      - url: "https://s.hdnux.com/photos/01/15/12/50/20228649/7/375x250.jpg"
-        width: 361
-        height: 250
-        isCached: true
   - title: "Vice President Kamala Harris honors 'visionaries' at Black History Month event"
     excerpt: "Vice President Kamala Harris called Black history makers 'visionaries' Saturday during a virtual celebration of the 40th annual Black History Month."
     publishedDateTime: 2021-02-27T21:57:00Z
@@ -284,6 +268,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
         width: 1024
         height: 736
+        isCached: true
+  - title: "Kamala Harris won't weigh in on minimum wage ruling from Senate parliamentarian: Deese"
+    excerpt: "Brian Deese, a top economic adviser to President Biden, said Friday that Vice President Kamala Harris will not move to overturn a ruling from the Senate parliamentarian that increasing the federal minimum wage to $15 per hour is out of bounds for Democrats’ $1."
+    publishedDateTime: 2021-02-26T17:22:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/feb/26/kamala-harris-wont-weigh-minimum-wage-ruling-senat/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 67
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/25/Harris_Vaccine_23019.jpg-d889b_c0-222-5337-3335_s1200x700.jpg?fc9c632cd81d04c067c203b8e851477caee02e4f"
+        width: 1200
+        height: 700
         isCached: true
   - title: "LI parents are teaching daughters the power of possibility. Kamala Harris is strengthening that narrative."
     excerpt: "Chloe Williams, 8, and her mom, Selina, 39, a nurse practitioner from Wheatley Heights, joined women and girls nationwide in putting on pearls the morning of Kamala Harris’ inauguration to celebrate t"
@@ -408,6 +408,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "NWtRfGY//RAiruiOxniqJ3U9nxJajnampiFBXVISPeAD7JjkugCnpoH5HcpS1NiYq6gENHEbEnkz9q15CUSXYqldxhGKiWRE2zCiw1RS2mhqnNlsIW5fkS+SzlmjjvpxpocBZe1Uj2SWo+CRY+O2KdhcYPwlja60ymxRJ1iRBgkB2jWFvJf/rJijQ4bYnxITmtoOw89+h8FT4mqn3PqO/iecUVjEfMjxH6Y/PBPZP3mnKDcu9TyGojGAeEwSoHeufnNlPxJ1mG/fZhZAfHVZWgCBEJvy5fsRd2djJcNUcewQf3hDEoZzjeeSY0wv1jXhsarE9+rKlRmvL9v9Mm8rRvNuOvt4K4ZnewkZTgtqan4ugucITyqdA4Cu2At3dV6eHReLq1+On4xD1w/c3jOGbVMfLCtIG75NRjUENH1ARha91iPx8tmT/IZ2M6gll9aDfz1lvQGo2HhDqJdZ0SRHHu5odIgZ49QtGRgjWxH0IBBXSDaqaylsF6CaNlofoX8P1D6KA/H8u7Yq41QKzcUz8w==;lcAyP3J2S0YZ35Xaxt5dfg=="
+secured: "27d0enwVbrPJZKnfdTIXiMW8xWGgOEgIY7wS9Sq+R/syste0Rl+h/3iXgwxsrNYb9I52owCWkvF6wWBGDEtc1BdHuORSRHxJZ/Ywtnpj5e8aMkhdqwqKVz0nFssMwnXB6HgLrZvcltK+l7HHm98YH7UB4CWMFzp8BOuHHo3iyOnmf4L2SLkrmAJAWWBMI5YQTu/HwwhZJU+m8yi8+mp9rAnZFRLioRTEbAcZDHyRhD5+L/2VgIvMgSbl8E8oh4h1bw1bJ4ZLA1uVjOvoI4GANg4zNFXAQ6C5G8s5N4s2r+nSD+Pep/GVN7Gf8JEZmNh+nDqx7JfTkl3B+eKJQI6ErlZ0KozDPyGrCjSbbcMv4wQ=;nDKzwhJcYd6e5eLk0UPXzQ=="
 ---
 
