@@ -129,19 +129,19 @@ related:
         isCached: true
   - title: "Jill Biden helps honor women from 15 countries for courage"
     excerpt: "First lady Jill Biden says 21 women the State Department is honoring for their courage made an “intentional decision” to persist and demand justice despite their fear"
-    publishedDateTime: 2021-03-08T11:03:00Z
-    webUrl: "https://www.washingtonpost.com/politics/jill-biden-helps-honor-women-from-15-countries-for-courage/2021/03/08/e069e04c-7ffd-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/jill-biden-helps-honor-women-from-15-countries-for-courage/2021/03/08/e069e04c-7ffd-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/jill-biden-helps-honor-women-from-15-countries-for-courage/2021/03/08/e069e04c-7ffd-11eb-be22-32d331d87530_story.html?outputType=amp"
+    publishedDateTime: 2021-03-08T11:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-helps-honor-women-15-countries-courage-76318247"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-helps-honor-women-15-countries-courage-76318247"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-helps-honor-women-15-countries-courage-76318247"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_534156a551c64861906d51b3750532e6_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "A viral misfire: A White House video feed ended but Biden took questions"
     excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"

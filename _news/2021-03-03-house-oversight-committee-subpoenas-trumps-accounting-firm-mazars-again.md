@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/house-oversight-committe
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/house-oversight-committee-subpoenas-trump-mazars/index.html"
 type: article
 quality: 174
-heat: 234
+heat: 254
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/02/27/multimedia/27cpac-1--mcarthy/merlin_184355526_eca39b8c-a3bd-40a2-b43e-8a7d415adc14-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Trump country resists vaccines, frustrating officials"
+    excerpt: "Biden health officials will meet with Republican Ways and Means Committee staff as early as this week to discuss how to improve ways to track nursing home fatalities during the pandemic. Good Monday morning and welcome to PULSE,"
+    publishedDateTime: 2021-03-08T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/03/08/trump-country-resists-vaccines-frustrating-officials-793840"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
 
 secured: "Ix3Ee8OLjp/eL+XtF1R31UZvvYM9OmR0C5vIdzAicD9doDYmb5geXb2XJhnc1NISJu4nZCNVmry9DIczOAUFppYEeCN29OFEyEAifGjVAwCBB36x2Lzd2aEOm2XIJv2opPzmtxxnxuOV9V37wHfmesxW01WcKss4SSAH4D60dwBdJO4zrJ45bgU//+h5mZGTuht7dNDoOdWOMznmSipG9cbl37aGflsDOfPDvZlxI1SWPvm2pn58bmg6vOLobOzEWYltUAaYt/Qb7mmQTePP4ZHyx0TQ0vudYRZ0nGWGkJ9AoV3lKFVB4aGB1LVSYkZyXhToJldRBVjE1DC3lZUHp7sYa0QT/63jic16kogRnG8=;letceCU0t8dEX2fC9c7pcg=="

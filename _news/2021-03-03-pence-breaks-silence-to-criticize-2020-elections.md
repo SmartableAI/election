@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/541376-pence-breaks-silence-to
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541376-pence-breaks-silence-to-criticize-2020-elections?amp"
 type: article
 quality: 140
-heat: 200
+heat: 240
 published: true
 
 provider:
@@ -62,6 +62,36 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/01/23/Biden_Inauguration_37524.jpg-f8f0a_c0-0-4032-2352_s1200x700.jpg?8f933bd9b70838c61c890c09c299727f73238683"
         width: 1200
         height: 700
+        isCached: true
+  - title: "Mike Pence to address SC conservatives in potential first 2024 GOP presidential test"
+    excerpt: "This will be the first major speech given by former Vice President Mike Pence since leaving office in January."
+    publishedDateTime: 2021-03-08T15:10:00Z
+    webUrl: "https://www.thestate.com/news/politics-government/article249774508.html"
+    ampWebUrl: "https://amp.thestate.com/news/politics-government/article249774508.html"
+    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/article249774508.html"
+    type: article
+    provider:
+      name: The State
+      domain: thestate.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/f19cc12d-e58e-4c37-9ff8-1185dc03bca0/caf16d4f-671b-4873-83b0-e47ac0a2cd87/1280x720/match/image.jpg?pubId=5615998031001"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former VP Mike Pence to give speech in SC, his 1st since leaving office"
+    excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence is traveling to South Carolina, set to speak to a conservative Christian nonprofit"
+    publishedDateTime: 2021-03-08T14:52:00Z
+    webUrl: "https://www.postandcourier.com/ap/former-vp-mike-pence-to-give-speech-in-sc-his-1st-since-leaving-office/article_db8d50fc-801d-11eb-8724-cbedefa4f2b2.html"
+    type: article
+    provider:
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/26/82632442-801e-11eb-995c-4bd2288c5389/6036de53078c7.image.jpg?resize=400%2C308"
+        width: 400
+        height: 308
         isCached: true
   - title: "Pence to give speech in SC, his 1st since leaving office | Charlotte Observer"
     excerpt: "Former Vice President Mike Pence is set to travel to South Carolina for his first public comments since leaving office."

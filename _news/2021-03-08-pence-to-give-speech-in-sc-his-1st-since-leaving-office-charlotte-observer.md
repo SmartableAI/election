@@ -69,6 +69,36 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Mike Pence to address SC conservatives in potential first 2024 GOP presidential test"
+    excerpt: "This will be the first major speech given by former Vice President Mike Pence since leaving office in January."
+    publishedDateTime: 2021-03-08T15:10:00Z
+    webUrl: "https://www.thestate.com/news/politics-government/article249774508.html"
+    ampWebUrl: "https://amp.thestate.com/news/politics-government/article249774508.html"
+    cdnAmpWebUrl: "https://amp-thestate-com.cdn.ampproject.org/c/s/amp.thestate.com/news/politics-government/article249774508.html"
+    type: article
+    provider:
+      name: The State
+      domain: thestate.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/f19cc12d-e58e-4c37-9ff8-1185dc03bca0/caf16d4f-671b-4873-83b0-e47ac0a2cd87/1280x720/match/image.jpg?pubId=5615998031001"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former VP Mike Pence to give speech in SC, his 1st since leaving office"
+    excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence is traveling to South Carolina, set to speak to a conservative Christian nonprofit"
+    publishedDateTime: 2021-03-08T14:52:00Z
+    webUrl: "https://www.postandcourier.com/ap/former-vp-mike-pence-to-give-speech-in-sc-his-1st-since-leaving-office/article_db8d50fc-801d-11eb-8724-cbedefa4f2b2.html"
+    type: article
+    provider:
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/8/26/82632442-801e-11eb-995c-4bd2288c5389/6036de53078c7.image.jpg?resize=400%2C308"
+        width: 400
+        height: 308
+        isCached: true
 
 secured: "1OBlfI8452TOS/XCDQ+7/lyX0BgSvgtnncuY12iGaVhCU4DsCg1RED+YKWbVccBtYelke12svto32pG/JbFg30JIPtCD0T4OAn2M0SiN9FdqOCU810NL6CEh+aNSIeqjA4NfxP8aTrEUiwb1++4ZsDCsMdoStlM6Xdsq7ZD8E1snDvyJsEmKRJPl3c56J270E45zTfPUxYuayO8ysJkxNKuLr7NDSDp7siyQqtOrmycFHDuOQ2wYpo7YA2AV8Go9DU287GZTnFlDkTcD46dxJ6C9gDHdcbR3ecWbqgsRSatYEWU05fIgNdFhLkqy7/CIuUyIR77Yp9yoBlYdnBA5MQbxaXVyHsrOqnwQJbc1KmTtGgx8oQjOF0ho9Taa+8pvHjhUdFGA/IJ08tRYN42Lq6h8daf9NPL3EQDSjfVa09p325Emw5gzV8NvehFuY4iUsGsJGLzz34O20e0/qMHBBFspgtOyoM0PNj5Xo5RuF5zxIrRjGdjtp2yoh6OJsVZCglyCEiDX2nHGu0GiyEPhoQ==;BSDQfCtltwa52hsQla9yqA=="
 ---

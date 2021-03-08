@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/desantis-pence-top-2024-republican-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.amp"
 type: article
 quality: 198
-heat: 378
+heat: 418
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Supreme Court rejects Trump's final election challenge"
+    excerpt: "The Supreme Court rejected former President Donald Trump's last remaining challenge of the 2020 presidential election on Monday, denying his request for them to hear his case against the Wisconsin Elections Commission."
+    publishedDateTime: 2021-03-08T16:24:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zrQbIGhQcwE/supreme-court-trump-election-challenge"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-election-challenge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-election-challenge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "DeSantis, Noem are breakout stars at CPAC, but Trump maintains grip on party"
     excerpt: "Former President Trump easily topped the field in the GOP presidential nomination straw poll at the Conservative Political Action Conference, but another big winner at the nation’s largest annual gathering of conservative activist and leaders was Florida Gov. Ron DeSantis."
     publishedDateTime: 2021-03-02T00:05:29Z
@@ -61,6 +77,22 @@ related:
     quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Supreme Court rejects Trump's final election challenge"
+    excerpt: "The Supreme Court rejected former President Donald Trump's last remaining challenge of the 2020 presidential election on Monday, denying his request for them to hear his case against the Wisconsin Elections Commission."
+    publishedDateTime: 2021-03-08T16:29:00Z
+    webUrl: "https://www.foxnews.com/politics/supreme-court-trump-election-challenge"
+    ampWebUrl: "https://www.foxnews.com/politics/supreme-court-trump-election-challenge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-trump-election-challenge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-cong
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/neera-tanden.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden signs executive orders on combating sexual harassment, coinciding with Cuomo scandal"
+    excerpt: "President Biden is taking action with the aim of advancing gender equality and combating sexual harassment, while a prominent member of his party, New York Gov. Andrew Cuomo, finds himself at the center of a growing harassment scandal."
+    publishedDateTime: 2021-03-08T15:02:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vp0fzUOzDo8/biden-executive-orders-sexual-harassment-cuomo-scandal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-orders-sexual-harassment-cuomo-scandal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-sexual-harassment-cuomo-scandal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden focused on COVID vaccines for 'every American' before aiding other nations, Psaki says"
     excerpt: "White House press secretary Jen Psaki on Monday said President Biden's focus is making sure \"every American\" is vaccinated before discussing helping other nations with their COVID-19 vaccination process."

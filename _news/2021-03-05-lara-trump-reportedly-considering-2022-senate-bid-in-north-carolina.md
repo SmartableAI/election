@@ -47,6 +47,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Supreme Court spurns last of Trump's election-related challenges"
+    excerpt: "The Supreme Court on Monday turned away the last of former President Donald Trump's disputes challenging the results of the 2020 election, officially bringing an end to his unsuccessful efforts for the high court to deliver him a second term in office."
+    publishedDateTime: 2021-03-08T16:38:00Z
+    webUrl: "https://www.cbsnews.com/news/supreme-court-drops-last-trump-election-challenge/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/supreme-court-drops-last-trump-election-challenge/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/supreme-court-drops-last-trump-election-challenge/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/5b1e8f42-b16f-4973-86db-12e0779b07d9/thumbnail/1200x630/bae552c838350a8a034212d90e239250/gettyimages-1231365110.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump's Election Lawsuit Battles End as Supreme Court Declines to Take Wisconsin Case"
+    excerpt: "The former president and his Republican allies have lost dozens of election-related lawsuits filed in the wake of the November race."
+    publishedDateTime: 2021-03-08T15:30:00Z
+    webUrl: "https://www.newsweek.com/trumps-election-lawsuit-battles-end-supreme-court-declines-take-wisconsin-case-1574508"
+    ampWebUrl: "https://www.newsweek.com/trumps-election-lawsuit-battles-end-supreme-court-declines-take-wisconsin-case-1574508?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trumps-election-lawsuit-battles-end-supreme-court-declines-take-wisconsin-case-1574508?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1751601/trump-cpac-florida-2021.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Trump offers early endorsement for loyal SC governor"
     excerpt: "Former President Donald Trump has endorsed South Carolina Gov. Henry McMaster’s bid for a second full term in 2022"
     publishedDateTime: 2021-03-06T03:00:00Z
@@ -60,6 +92,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_31f651200c8f4a3bb964e48ca4938ccd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump policy that weakened wild bird protections is revoked"
+    excerpt: "The Biden administration has reversed a policy imposed under President Donald Trump that drastically weakened the government’s power to enforce a century-old law protecting most U.S. bird species"
+    publishedDateTime: 2021-03-08T16:47:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_aac90932e5114bd897dd9aab079074cf_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

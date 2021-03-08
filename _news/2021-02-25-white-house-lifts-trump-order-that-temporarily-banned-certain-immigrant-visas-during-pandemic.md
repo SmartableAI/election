@@ -79,6 +79,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump country resists vaccines, frustrating officials"
+    excerpt: "Biden health officials will meet with Republican Ways and Means Committee staff as early as this week to discuss how to improve ways to track nursing home fatalities during the pandemic. Good Monday morning and welcome to PULSE,"
+    publishedDateTime: 2021-03-08T15:00:00Z
+    webUrl: "https://www.politico.com/newsletters/politico-pulse/2021/03/08/trump-country-resists-vaccines-frustrating-officials-793840"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "w3e+Mq6IXwJEk8LHWcR3BUbz+0aiaAC79ec8dSj8szkfw5lUAlS52TIAoBqYXWy4faS7KQnuMAkN96sXbJi33Z5HLd7ZPGAVP94a7MErXTk4XZ7iKi4YdAPtVbDA0NCprl0LdvXy5z91BwSvuDdMaAPMJk+gxqaaDg6MxvdIA3/JK/QEGtRIqXJhUoeW490PmboV9aUpFVzWPQt6j0zldmbkk8fpGgslE8kxzC5ZqsnnSIA8zBWB0eM5AY6V3tN4I4AZAPYFy64Ejf6WMyL7Sl5OEEaS9PJ1kZLcnhqHxkHgVU009F+cOfyuhFEp4lKsYx6WIx4qIgJRs5jD0dM7xukrOxWR6BORcFSLqv4OvXc=;8eLYMCm6vrYHt5pqOexnYA=="
 ---

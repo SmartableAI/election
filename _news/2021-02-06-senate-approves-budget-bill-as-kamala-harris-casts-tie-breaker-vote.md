@@ -201,6 +201,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "The Daily 202: Kamala Harris is playing an unusually large role in shaping Biden’s foreign policy"
+    excerpt: "Just six weeks since taking office, Vice President Harris is playing an integral role in President Biden’s foreign policy, putting her personal stamp on behind-the-scenes debates and on the world stage as she works to advance Biden’s diplomatic agenda."
+    publishedDateTime: 2021-03-08T16:27:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/08/daily-202-kamala-harris-is-playing-an-unusually-large-role-shaping-bidens-foreign-policy/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/daily-202-kamala-harris-is-playing-an-unusually-large-role-shaping-bidens-foreign-policy/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/daily-202-kamala-harris-is-playing-an-unusually-large-role-shaping-bidens-foreign-policy/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 127
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P33I77D6XII6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "U.S. private prison revenue under pressure from new Biden rules"
     excerpt: "CoreCivic and the GEO Group, two of the largest U.S. private prison companies, could lose as much as a quarter of their revenue, about $1 billion a year between them, under new limits on the sector from President Joe Biden."
     publishedDateTime: 2021-01-27T16:10:00Z

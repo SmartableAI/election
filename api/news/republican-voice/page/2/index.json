@@ -2,6 +2,118 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-04-bidens-us-mexico-border-pullback-creating-roads-for-the-cartels-arizona-sheriff-says-report.md",
+      "title": "Biden’s US-Mexico border pullback creating ‘roads for the cartels,’ Arizona sheriff says: report",
+      "excerpt": "The U.S.-Mexico border region in Arizona is becoming less secure since President Biden took office, a sheriff is alleging, according to a report.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lkkZckdFf34/bidens-us-mexico-border-pullback-creating-roads-for-the-cartels-arizona-sheriff-says-report",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lkkZckdFf34/bidens-us-mexico-border-pullback-creating-roads-for-the-cartels-arizona-sheriff-says-report",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/393abe21-ee23-4eab-94db-2094b7296c74/7df572df-2db6-487c-a85e-16ff67f07932/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-us-mexico-border-pullback-creating-roads-for-the-cartels-arizona-sheriff-says-report.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-us-mexico-border-pullback-creating-roads-for-the-cartels-arizona-sheriff-says-report.amp",
+      "publishedDateTime": "2021-03-04T00:24:15-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-susan-collins-says-shell-back-biden-pick-deb-haaland-for-interior-secretary.md",
+      "title": "Susan Collins says she’ll back Biden pick Deb Haaland for Interior secretary",
+      "excerpt": "U.S. Sen. Susan Collins, R-Maine, said Wednesday that she will vote to confirm U.S. Rep. Deb Haaland of New Mexico to become secretary of the interior.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h1ZRq9tDZr0/susan-collins-says-shell-back-biden-pick-deb-haaland-for-interior-secretary",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/h1ZRq9tDZr0/susan-collins-says-shell-back-biden-pick-deb-haaland-for-interior-secretary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 172,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/susan-collins.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/susan-collins-says-shell-back-biden-pick-deb-haaland-for-interior-secretary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-says-shell-back-biden-pick-deb-haaland-for-interior-secretary.amp",
+      "publishedDateTime": "2021-03-03T21:32:53-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-kimmel-warns-canceling-dr-seuss-is-how-trump-gets-reelected-cancel-culture-is-his-path-to-victory.md",
       "title": "Kimmel warns 'canceling' Dr. Seuss is 'how Trump gets reelected': Cancel culture is 'his path to victory'",
       "excerpt": "ABC late-night host Jimmy Kimmel sounded the alarm on cancel culture Tuesday and how it could help former President Donald Trump get elected again in 2024.",
@@ -442,62 +554,6 @@
       "topics": [
         "Election",
         "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-hunter-biden-probe-active-and-ongoing-without-white-house-interference-sources.md",
-      "title": "Hunter Biden probe 'active and ongoing' without White House interference: sources",
-      "excerpt": "The federal investigation into Hunter Biden’s “tax affairs” is “active and ongoing,” two sources familiar with the status of the probe told Fox News.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBi-2viDn9I/hunter-biden-probe-active-ongoing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBi-2viDn9I/hunter-biden-probe-active-ongoing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp",
-      "publishedDateTime": "2021-03-03T05:43:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -1596,62 +1652,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/trump-political-action-committee-corey-lewandowski.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-political-action-committee-corey-lewandowski.amp",
       "publishedDateTime": "2021-02-26T07:14:46-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-biden-administration-and-democrats-do-not-care-about-american-jobs-sen-scott.md",
-      "title": "Biden administration and Democrats 'do not care' about American jobs: Sen. Scott",
-      "excerpt": "Sen. Rick Scott R-Fla. said Friday that the Biden administration and Democrats \"don't care about jobs\" and that the attempted inclusion of a $15 minimum wage in the latest coronavirus stimulus bill is just \"payback\" to liberal Democrats. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZkTrFGm5qc/minimum-wage-hike-biden-democrats-jobs-scott",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LZkTrFGm5qc/minimum-wage-hike-biden-democrats-jobs-scott",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a1d9959d-2022-46fc-865c-355a8970d8a6/0494ea3a-053d-4d59-b663-2a432ef7a084/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/minimum-wage-hike-biden-democrats-jobs-scott.amp",
-      "publishedDateTime": "2021-02-26T05:49:09-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

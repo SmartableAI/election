@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-crisis-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp"
 type: article
 quality: 195
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
     quality: 164
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dba07ad-5cfe-446a-b3d8-dd20cdd006f4/e04def02-7e05-4c7e-8697-13dcb3d2bea4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Republican Study Committee urges party to zero in on border crisis, link to Biden’s ‘radical’ policies"
+    excerpt: "EXCLUSIVE: An influential Republican caucus is urging the party to zero in on the escalating crisis at the southern border, and link it directly to President Biden’s \"radical\" immigration and border policies he has implemented since being inaugurated."
+    publishedDateTime: 2021-03-08T14:59:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WUeyBnlz56s/republican-study-committee-border-crisis-bidens-radical-policies"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b911f729-f835-4558-96d8-2b7645c4efcd/2d85ce5b-3e51-49d3-ae90-6666a6a45291/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

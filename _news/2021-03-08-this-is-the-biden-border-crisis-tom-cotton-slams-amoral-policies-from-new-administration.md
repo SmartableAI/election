@@ -95,6 +95,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Republican Study Committee urges party to zero in on border crisis, link to Biden’s ‘radical’ policies"
+    excerpt: "EXCLUSIVE: An influential Republican caucus is urging the party to zero in on the escalating crisis at the southern border, and link it directly to President Biden’s \"radical\" immigration and border policies he has implemented since being inaugurated."
+    publishedDateTime: 2021-03-08T14:59:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WUeyBnlz56s/republican-study-committee-border-crisis-bidens-radical-policies"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b911f729-f835-4558-96d8-2b7645c4efcd/2d85ce5b-3e51-49d3-ae90-6666a6a45291/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "PamSNcsW0mbi6cGLWeCvPoFQkdd9//xfpsaRu2aK2DVxyZ2uO6+cnuHFUFM3qE3VtXY49BnTfjG67E7usW69lZRJwCJ/RG0iBSFBMT7sChviX2igFSQg0NyelhY7NES41LongONFSrDBDJrp1tnQOgKcHSDSK82XpXXK6kYzl7m4BXocWLUFkxHAOHLeSuDKE2KxSazVYTLg/cLrXZGefJ7cxfKghYoOP8GeOrhTr9sX9dDE9UmWaSmluWs32+0aekSOzgUGuVmAOs558qbiRfNSqLpU5heo9zzfnl8dojRXePbfO6vfknobQTZa/G7t7H53H9LCTEfeIUWPMqV7YQ7gwRN6rNrSrlnCERdL1j4=;0HIK4mU7NoFRy1iAcOPjLw=="
 ---
