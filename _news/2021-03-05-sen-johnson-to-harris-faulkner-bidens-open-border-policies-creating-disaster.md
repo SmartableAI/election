@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-crisis-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp"
 type: article
 quality: 195
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -77,6 +77,22 @@ related:
     quality: 165
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d29a8fee-9475-4214-a157-4aebea5aafa6/92d864e5-94f1-4bd2-9581-282bad24da87/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "'This is the Biden border crisis': Tom Cotton slams 'amoral' policies from new administration"
+    excerpt: "Sen. Tom Cotton R-Ark. slammed the \"Biden border crisis\" on Monday, saying that \"amoral\" policies put immigrants at risk and continue to build pressure at the border. "
+    publishedDateTime: 2021-03-08T14:01:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ppKWkURG8zg/biden-border-crisis-tom-cotton-immigration-policy-failure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-tom-cotton-immigration-policy-failure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-tom-cotton-immigration-policy-failure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dba07ad-5cfe-446a-b3d8-dd20cdd006f4/e04def02-7e05-4c7e-8697-13dcb3d2bea4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

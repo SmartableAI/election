@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "'This is the Biden border crisis': Tom Cotton slams 'amoral' policies from new administration"
+    excerpt: "Sen. Tom Cotton R-Ark. slammed the \"Biden border crisis\" on Monday, saying that \"amoral\" policies put immigrants at risk and continue to build pressure at the border. "
+    publishedDateTime: 2021-03-08T14:01:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ppKWkURG8zg/biden-border-crisis-tom-cotton-immigration-policy-failure"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-tom-cotton-immigration-policy-failure.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-tom-cotton-immigration-policy-failure.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3dba07ad-5cfe-446a-b3d8-dd20cdd006f4/e04def02-7e05-4c7e-8697-13dcb3d2bea4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "tcFxOkOHphJDeqOCO4AJhVv37bnp1e0VFSq3EIU52MhYKTlNWIFaHPIz6O3yyzobTW2b1NqnFDblmtErjWqwH16fIQSRtodBM5KSCTUwN52Zjpg70JpqOE5uCNvrkyuLRQg8hINVUeD6zseCYIZPe8gnpfY2BI+desAmJQHELLWi+s08FNAruTkCYGrhth49K9x4h6zaNAfut7vH81MFe4+hg8nNZ9LSZ55ZCE0360RrHmv/lRUR/Dr6nCanN6ATh9AJ3rb4j/qooN/dT/ytq93r0ikG+1udnQbnTLYrSzogQSjAMeQ1GjU8sfweNZeAI7OsnkxaokdNCRLVlZCOO8llYrCQv29mm1GRifLeu50=;m1bcYnL8KMOpLOrAF11s9g=="
 ---

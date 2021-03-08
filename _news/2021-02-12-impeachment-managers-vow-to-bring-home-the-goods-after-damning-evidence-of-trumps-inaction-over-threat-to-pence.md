@@ -3331,6 +3331,20 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 70
+  - title: "Pence to make post-Trump debut in South Carolina"
+    excerpt: "In his first public address since the end of the Trump administration, former Vice President Mike Pence is speaking to a conservative Christian nonprofit in in South Carolina."
+    publishedDateTime: 2021-03-08T12:57:00Z
+    webUrl: "https://www.ajc.com/news/nation-world/pence-to-make-post-trump-debut-in-south-carolina/YRNCP5X25RGX3M4D4BLKMAP7YE/"
+    type: article
+    provider:
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 70
+    images:
+      - url: "https://www.ajc.com/resizer/uFZmVf_YLF-dxa2DhhXYCAwISwc=/1200x630/d1fegwn2wjh0cs.cloudfront.net/02-09-2021/t_4fdb7635b61947e9aecc2ca80f04a708_name_da699ebd99784be290d6ab2ac77f11c9.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pence joins Heritage Foundation as visiting fellow to promote conservative policies"
     excerpt: "Former Vice President Mike Pence is joining the conservative Heritage Foundation as a visiting fellow. He and former second lady Karen Pence plan to move back to Indiana this summer."
     publishedDateTime: 2021-02-04T18:41:00Z
