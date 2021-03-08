@@ -63,6 +63,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Claimed value of sleepy New York estate could come to haunt Donald Trump"
+    excerpt: "A century-old estate that Trump owns in suburban New York is subdued by the former president's standards, but it could end up being one of his bigger legal nightmares."
+    publishedDateTime: 2021-03-08T06:56:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6845f39/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2F32%2F450a5624ce3fce6f990f9b8cd698%2F0aa1a54903774f3383ed5e3ceaeaccce"
+        width: 320
+        height: 209
+        isCached: true
   - title: "U.S. Capitol calm amid high security; Trump supporters hold faith he will return"
     excerpt: "A smattering of followers of the QAnon conspiracy theory gathered near the U.S. Capitol on Thursday, the day the movement had predicted former President Donald Trump's return to office, but they were far outnumbered by security forces deployed to deter any possible attack."
     publishedDateTime: 2021-03-05T01:15:00Z

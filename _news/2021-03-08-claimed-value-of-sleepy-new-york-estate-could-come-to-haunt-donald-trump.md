@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump demands three Republican groups stop raising money off his name"
-excerpt: "Former President Donald Trump has clashed again with his Republican Party, demanding that three Republican groups stop using his name and likeness for fundraising, a Trump adviser said on Saturday."
-publishedDateTime: 2021-03-06T23:54:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-republicans/trump-demands-three-republican-groups-stop-raising-money-off-his-name-idUSKBN2AY0JK"
-webUrl: "https://www.reuters.com/article/us-usa-trump-republicans/trump-demands-three-republican-groups-stop-raising-money-off-his-name-idUSKBN2AY0JK"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AY0JK"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AY0JK"
+title: "Claimed value of sleepy New York estate could come to haunt Donald Trump"
+excerpt: "A century-old estate that Trump owns in suburban New York is subdued by the former president's standards, but it could end up being one of his bigger legal nightmares."
+publishedDateTime: 2021-03-08T06:56:00Z
+originalUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump"
+webUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump"
+ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
 type: article
-quality: 125
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553981904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FV"
-    width: 819
-    height: 545
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/6845f39/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2F32%2F450a5624ce3fce6f990f9b8cd698%2F0aa1a54903774f3383ed5e3ceaeaccce"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -47,21 +47,21 @@ related:
         width: 980
         height: 551
         isCached: true
-  - title: "Claimed value of sleepy New York estate could come to haunt Donald Trump"
-    excerpt: "A century-old estate that Trump owns in suburban New York is subdued by the former president's standards, but it could end up being one of his bigger legal nightmares."
-    publishedDateTime: 2021-03-08T06:56:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
+  - title: "Trump demands three Republican groups stop raising money off his name"
+    excerpt: "Former President Donald Trump has clashed again with his Republican Party, demanding that three Republican groups stop using his name and likeness for fundraising, a Trump adviser said on Saturday."
+    publishedDateTime: 2021-03-06T23:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-republicans/trump-demands-three-republican-groups-stop-raising-money-off-his-name-idUSKBN2AY0JK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AY0JK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AY0JK"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6845f39/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2F32%2F450a5624ce3fce6f990f9b8cd698%2F0aa1a54903774f3383ed5e3ceaeaccce"
-        width: 320
-        height: 209
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553981904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FV"
+        width: 819
+        height: 545
         isCached: true
   - title: "U.S. Capitol calm amid high security; Trump supporters hold faith he will return"
     excerpt: "A smattering of followers of the QAnon conspiracy theory gathered near the U.S. Capitol on Thursday, the day the movement had predicted former President Donald Trump's return to office, but they were far outnumbered by security forces deployed to deter any possible attack."
@@ -160,6 +160,6 @@ related:
         height: 810
         isCached: true
 
-secured: "6hD3J0C8aq+6mRRnqdnSHjMgoUZMRdXl67tR1OmmwuGBDwST6VPUlnL1GehEuVAi1pW58eRHwtu4NR5sJ3jrhPzcPswzK6vmTJK6i17V3wend/xklFANXPIY7NIoKiBXO8se2FJU1tXEW/gX7EsizIzrEtN7gq9Bjn5mDsnTjYD1RsSyTFSzTzGNC/Uf3wWJ6D9xzxdG+p9fKbsAPbYA8+YGbh6d7jIvWskPX4KhVPRnM4UYgj2lE+ihEUg1fff9rh2qX4s9lxDHrvn8I5c8XAweUO+hZ0R/OSh+9hBmD7x//Qcceq5GQQ7bZh/llZ1EnaFrjtNZNrR8MpjBEDvm0R1Kq8eVCRiOPgARrkNjixD3ZLX6/PSsXzs5l7oxbqgd2/ddnaviQupoFGMrQTD7708rxV7l3SNSz1E+K020PA3IpvEHzEOj1P45+1Eqq6Mqq3UkI1UNR8gasCwGDYwfNwWYx8HCmtUuxEAGRcHdapRdPCI93ipd8Xrognyk9156zncX2m6++rZXQterMp5pwg==;EY4c25hNYWjXxVLe0SjP4Q=="
+secured: "3Z4iG5tvT/E/TvX7AiMIGG9znh/so9mC6Of2VuEr1/mB1iNcOgMNdh5fN+OM8LOdQRjugHAZReETeHXs03mvDFRqfZtlRfhMme8GkbwiBGWyuWFrAN60pGOfZBiPeCANOHKT0COPIQ4J5Zvq2dxdDcqkh0nfctTyfncbqHywz2Q2IgP6Au4GyjexraOGvOoInwcsi5ky+X9zoqOWiGF2qk23NFElHgChXPm0T+q+u9s9JmR21dTM/Cey7z8EsPNG53LWo93REy4ZDx+wAoV9W5vumc3mTxMFHvUoLw+bdtelpnssfW187Dii/cMfa3bWilQ265OUB62hXyWjqkpP2KnVROEx4ZUf475Qcrz5fY0=;04P/wFeeZAhYYmazcA85JQ=="
 ---
 
