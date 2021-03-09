@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden plans media and travel blitz to sell relief plan -- and make the benefits permanent"
+    excerpt: "After signing a massive but temporary expansion of the social safety net into law this week, President Joe Biden will set about convincing Americans that its benefits -- which amount to a dramatic reshaping of the country's economy -- must be made permanent.\n    \n"
+    publishedDateTime: 2021-03-09T21:15:38Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yRZBTjVcgiY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/joe-biden-coronavirus-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/joe-biden-coronavirus-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210309135206-01-joe-biden-dc-hardware-store-0309-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "JlVKgbhp5Tm1dR+TZ4zgylgpC7hvgsuI6B9O/zOqjbnwYD+9kCswLPFNFST9a+q3MbVpsQAGqrkIb5rrBcmQY0RszT0/CfsLGhNaO88rodsfUqGgnvNkooTJ7GjVroxhMkrsIee5VqhGFc4aO7DmWN1ZaCVKkUPNU9KJNhMWgB1U95ote6ebz4mxORKcc2xY96es5iq8CQtWzW4NIZy8m8wnHakr2DbaVWSuQNPqBBSUIS5RTqSiFf/QwktHk2zVM0EPkki5oWDGNUy6p7YsNOnRQkg/WoAeSXEdgoJQ84v44zhO5FqLEC0OMwihbXBGdz9Hp5HecG72XVycJbql9Fojp143tmtynlZzbGbLaEw=;+GAZJCa74dWmMhoZx5svzA=="
 ---

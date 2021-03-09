@@ -123,6 +123,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "WH: Biden signature won't be on COVID relief check"
+    excerpt: "The White House announces the US is making an additional 900,000 doses of Pfizer and Moderna vaccines available this week. White House press secretary Jen Psaki also says that President Joe Biden's signature will not be on any relief checks,"
+    publishedDateTime: 2021-03-09T21:05:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/09/wh-biden-signature-wont-covid-relief-check/6927981002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a9951c60-0a2b-4258-8681-1301da9ed212_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "Ox31WhqW0LSvE899Tj4ugVd0HHcypGONnX6NwKgnJkiOBGziNZl7qeQ9jdcorXNjtLplld1ui1kd5yp9UYzD2wmGUv/dZCDeNwNM6lVeqnYgFtU2/UKooGR6obvMErJspvBCUgExpHFswia40YtZxZFOESuAtm6sgYc2XDcEejXjC2CIlfdV+LCpegsf7OTwsYEcPhzWyU5IMp+w9pvdztkHD6tVVbUsaW9f9K4S77311xZQZB9im13BV4Jll6fDHm0i5GHZAf+yhtgtja6ia3HTUHMHhGM0NSsLLwbxc0Kmh+MDDGNSDCHmLNVcRCn8wTLmat6fMSvJvcbp1xLrS4jZW+Lb6RvzjDKPRS/ACXY/JU9H8UQkvB93WZgURJVCW2mznnZh3iXyyObujM8bGhpypMsCXi2m+RRTrsV+q1B6NHI+S+3C1ceIYrXaE2AKlVgijn58FDLZrYR5tpV0775QwKsaV34/HLHvr6ui8wIVXDFdD/0utboLv9LIvEONgkvPd6etSLUwvw5D3IH1oA==;GjFdjaMA6JstUUpyPCS6ZQ=="
 ---

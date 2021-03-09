@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-cong
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp"
 type: article
 quality: 175
-heat: 535
+heat: 555
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden’s dog injured someone at the White House, Psaki confirms"
+    excerpt: "The first dog did in fact bite someone at the White House, causing a \"minor injury,\" press secretary Jen Psaki confirmed Tuesday. "
+    publishedDateTime: 2021-03-09T21:16:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIQ2Zagsv00/bidens-dog-injured-someone-white-house-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-dog-injured-someone-white-house-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-dog-injured-someone-white-house-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Psaki won’t say why Dr. Seuss was dropped from Biden reading proclamation"
     excerpt: "White House press secretary Jen Psaki wouldn’t say why President Biden dropped Dr. Seuss from \"Read Across America Day,\" the annual celebration of reading in honor of the legendary children’s author."
     publishedDateTime: 2021-03-02T20:13:19Z

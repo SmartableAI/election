@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WH: Biden signature won't be on COVID relief check"
+    excerpt: "The White House announces the US is making an additional 900,000 doses of Pfizer and Moderna vaccines available this week. White House press secretary Jen Psaki also says that President Joe Biden's signature will not be on any relief checks,"
+    publishedDateTime: 2021-03-09T21:05:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/09/wh-biden-signature-wont-covid-relief-check/6927981002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a9951c60-0a2b-4258-8681-1301da9ed212_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Joe Biden 'neanderthal' comment a reflection of frustration, says White House – video"
     excerpt: "White House press secretary Jen Psaki defended Joe Biden’s comments comparing Republican governors to Nearnderthals for lifting mask mandates in Mississippi and Texas"
     publishedDateTime: 2021-03-04T20:54:00Z

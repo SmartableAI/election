@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Katie Pavlich: Time for Biden to 'take some questions from the press corps about his policies'"
+    excerpt: "President Biden is not fulfilling his promise of transparency to the American people after going his first seven weeks in office without holding a formal press conference, \"Outnumbered\" panelist Katie Pavlich said Tuesday."
+    publishedDateTime: 2021-03-09T21:28:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pQMcmJ-6hGU/katie-pavlich-joe-biden-press-conference"
+    ampWebUrl: "https://www.foxnews.com/politics/katie-pavlich-joe-biden-press-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katie-pavlich-joe-biden-press-conference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "3dIpzJincqNhZBh3ddmfz/qmgsDZ+/4XQiEvjRW0yNlL7bzyXOFnPNOdSlE9AT0eu8i+/6elxBP//6d5auT3bSycihUDeHpaxKyefPBc9b3JYdoM5QgOfzvYiXwObGaMrS9ABZMKJWt99NKRscoWPdXmYWLWCix0kzw+j1yoI0lCN+9w/7I1YdG/TlSp6dxtB6SCyg6/cNYVevRvxXrj1KQ10uOPMsDQ4OLkBIyA7JPDAxQ0L8B41aQAkecImgQRpOCcIQl5+DE5EYBqb82kyN0fNpnowLtjT1BvIjAw6NqkGC1kGq3U9AMUjV9uGR50emJ0pY+bGUwruYaNZtzTE4zkaMQLzntAMMR4IFQB0UU=;ZgD7A29pb7HQGPjOhnIl3A=="
 ---

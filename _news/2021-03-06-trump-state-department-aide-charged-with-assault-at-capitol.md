@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-depar
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
         width: 979
         height: 551
+        isCached: true
+  - title: "Ex-State Department employee appointed by Trump ‘switched sides’ in joining Capitol mob, judge says"
+    excerpt: "A former State Department staffer with a top-secret security clearance betrayed his oath of office when he joined the Capitol mob that attempted to subvert the electoral process on Jan. 6, a federal magistrate judge said Tuesday."
+    publishedDateTime: 2021-03-09T22:12:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/federico-klein-detained-captiol-riot/2021/03/09/c5a76188-8117-11eb-ac37-4383f7709abe_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/federico-klein-detained-captiol-riot/2021/03/09/c5a76188-8117-11eb-ac37-4383f7709abe_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/federico-klein-detained-captiol-riot/2021/03/09/c5a76188-8117-11eb-ac37-4383f7709abe_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KMXGWTUBD4I6XPRCGLJTDWDVGA.jpg&w=1440"
+        width: 380
+        height: 254
         isCached: true
   - title: "Trump appointee to State Dept. Federico Klein arrested in Capitol attack; stunned mom says he was 'Boy Scout type'"
     excerpt: "Federico Klein was seen on camera violently shoving a riot shield into an officer during the Jan. 6 Capitol siege, according to court documents."

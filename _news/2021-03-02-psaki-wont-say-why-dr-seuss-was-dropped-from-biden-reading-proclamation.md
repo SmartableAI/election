@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden’s dog injured someone at the White House, Psaki confirms"
+    excerpt: "The first dog did in fact bite someone at the White House, causing a \"minor injury,\" press secretary Jen Psaki confirmed Tuesday. "
+    publishedDateTime: 2021-03-09T21:16:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIQ2Zagsv00/bidens-dog-injured-someone-white-house-psaki"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-dog-injured-someone-white-house-psaki.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-dog-injured-someone-white-house-psaki.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Psaki says Biden will hold press conference ‘before the end of the month’"
     excerpt: "White House press secretary Jen Psaki said Thursday President Biden will hold a press conference before the end of the month. "
     publishedDateTime: 2021-03-05T19:28:34Z

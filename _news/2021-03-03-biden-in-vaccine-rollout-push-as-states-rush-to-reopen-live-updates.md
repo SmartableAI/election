@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates"
 type: article
 quality: 125
-heat: 245
+heat: 285
 published: true
 
 provider:
@@ -93,6 +93,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden hopes to boost offshore wind as Mass. project advances"
+    excerpt: "A huge wind farm off the Massachusetts coast is edging closer to federal approval, setting up what the Biden administration hopes will be a model for a sharp increase in offshore wind energy development along the East Coast."
+    publishedDateTime: 2021-03-09T05:16:00Z
+    webUrl: "https://www.businessinsider.com/biden-hopes-to-boost-offshore-wind-as-mass-project-advances-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-hopes-to-boost-offshore-wind-as-mass-project-advances-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-hopes-to-boost-offshore-wind-as-mass-project-advances-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden pledges to combat sexual assault in US military – video"
     excerpt: "President makes vow on International Women’s Day after nominating two female officers to become four-star commanders"
     publishedDateTime: 2021-03-09T07:26:00Z
@@ -106,6 +117,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/463e6f962d5d51bd813c6ed9ca7af1f19be0f8b1/0_0_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c58dd4a9f353a3cf05fe2c0cb826b2d2"
         width: 1200
         height: 630
+        isCached: true
+  - title: "What Joe Biden has said about war powers"
+    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
+    publishedDateTime: 2021-03-09T21:01:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/what-joe-biden-has-said-about-war-powers/2021/03/09/0b60fb9b-349a-41e7-a097-26e30c7b0677_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1080"
+        width: 1080
+        height: 608
         isCached: true
   - title: "Live stimulus updates: Kamala Harris breaks Senate tie to begin debate on Joe Biden's COVID stimulus bill"
     excerpt: "It’s time to move forward with this legislation which will be one of the largest antipoverty bills in recent history,” Sen. Chuck Schumer said."

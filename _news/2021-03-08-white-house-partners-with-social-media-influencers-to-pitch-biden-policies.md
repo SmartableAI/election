@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-social-media-influencer
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp"
 type: article
 quality: 173
-heat: 273
+heat: 293
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Katie Pavlich: Time for Biden to 'take some questions from the press corps about his policies'"
+    excerpt: "President Biden is not fulfilling his promise of transparency to the American people after going his first seven weeks in office without holding a formal press conference, \"Outnumbered\" panelist Katie Pavlich said Tuesday."
+    publishedDateTime: 2021-03-09T21:28:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pQMcmJ-6hGU/katie-pavlich-joe-biden-press-conference"
+    ampWebUrl: "https://www.foxnews.com/politics/katie-pavlich-joe-biden-press-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katie-pavlich-joe-biden-press-conference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "K7+Nt35okn5Qi3eMtcN9LiCetSaKS+25XAZ1EyvFjC2qy4JWbBDEhrgO373e8bNTw1oO3Ze5cxRknuMgFu35FSjV0okdpse5Fd0PTke4bK2FPBJjMp7Eniwk0YQA//yVVeBmNX7QraagM/m67meaCuWeGmh2N35Gx/LCmnX6u1HOwGgXQobby1djx0aorq7exalpqWgeytBtXxr3+LTC1134f9NSSTPHoPDxrRYoaNIZpom3rUHOD20aZHpOv0HXWr2/LcWNSd/BA6e/CrnLQxFlrtKXx6wIVPRs+tH8prMNPpeU9IIpaNm+ZEE6dRuQKB4s77YGgp/azjqmerXnPwsysjmoAV9ObESG8t8mTAE=;XkB0lQnTD+PwZWbfgXYn8w=="

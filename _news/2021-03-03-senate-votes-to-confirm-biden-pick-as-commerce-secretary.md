@@ -41,6 +41,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Biden’s Justice Dept. already has split from Trump. Merrick Garland will go even further."
+    excerpt: "Now, with federal appeals court judge Merrick Garland set to take over as attorney general, the thornier work begins. Garland, who is expected to be confirmed by the Senate on Wednesday, will inherit a Justice Department damaged by President Donald Trump’s efforts to use its power to benefit his friends and hurt his enemies."
+    publishedDateTime: 2021-03-09T20:54:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2RBG37UANEI6XAO3WAXQHGHUTI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "'Not about him': Biden's name won't appear on stimulus checks in shift from Donald Trump"
     excerpt: "President Joe Biden's signature won't appear on $1,400 stimulus checks to avoid delays in distributing the money, the White House says."
     publishedDateTime: 2021-03-09T20:46:00Z
