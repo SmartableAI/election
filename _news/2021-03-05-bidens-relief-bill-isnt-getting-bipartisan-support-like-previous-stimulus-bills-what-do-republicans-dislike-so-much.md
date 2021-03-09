@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6889189002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6889189002"
 type: article
 quality: 101
-heat: 101
+heat: 121
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "'Dinner table' politics: Why Joe Biden ditched bipartisan dealmaking to pass his COVID-19 relief bill"
+    excerpt: "President Biden's decision to go it alone on his COVID-19 relief plan could sink any promise of bipartisanship for his next big-ticket proposals."
+    publishedDateTime: 2021-03-07T17:15:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/03/07/covid-19-bill-biden-chooses-dinner-table-politics-over-bipartisanship/6892438002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6892438002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6892438002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/04/USAT/f34c2dbd-39ad-4e86-a788-3f01e5c248f6-GTY_1231494873.jpg?auto=webp&crop=4499,2531,x0,y229&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "il/F8JpgzVrxLqP9iPVevJL+NxYi+qboxueoV3pTM3nBBwzTTaeTy2oznvMWO3Wojay0tjjsNReav0MktQ8ycGTV5uznIHClLB/QxfzP6tAOctPmUSMRYpzzVzHBfElafGeQY3jku2v+H9ouG5kfd/waKgEByYLJEpCntQ389ig5N/cwJ/DYpAc2DR5qtZwtT5sFHJQsXl4fSNI/T44nPITF419bp6c5tVvlMGTtCY+tzAfJmels06n54u+mr5ADYzqkgcKWPTMKVuTq6C1ZLR/axFVTdPtNmOFsT9v3TcwZb39Qna9gRHbN0ndCjVVhrmR8p0t1Bkem9hPra1OdCRkb6e0mG3OmQ4bLOAYVCRk=;1gU8F1HNhfWLYDV5e4JjbA=="
 ---

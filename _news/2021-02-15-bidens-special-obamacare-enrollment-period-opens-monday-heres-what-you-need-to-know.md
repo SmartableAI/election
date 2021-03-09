@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's signature won't appear on third stimulus check, White House says"
+    excerpt: "President Joe Biden's signature will not appear on the stimulus checks expected to be sent to Americans once the Covid stimulus plan is passed, White House press secretary Jen Psaki said Tuesday.\n    \n"
+    publishedDateTime: 2021-03-09T20:21:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/q-B6LXnhdZc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/joe-biden-stimulus-payments-signature/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/joe-biden-stimulus-payments-signature/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200503164542-stimulus-check-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "fYLAZg6/NwXZffo3oqTaB0tc1eCkM0B34bgBW1sLdtKUmgMOSGj16XZ1Nlg0Bi5CIpJll16MSMaokrDYFIDydYVBoHDj1HvT/4ROZLbb5D3cVT76vTAoUO2kpS8vkXt4L5JRqxyBULF4hseElQV+XDjp7GyjGWxas2kkxE7icOAWPPkxpiyrB/3Bb6Qtwr2iVyCJk5bmPt8CVUx/wCMgyIncQLfA2FAa250Dp7d7aioFrkWxlNGeeTI46+S+/7ctPP1BGL8xUH+lUeVEzW64zsv1m1MUDyID3eL75k0B97UYqYucN9xfCKMydHZY9skXPp9W+PC1whsAUeiEGjjj+dZ2Cbg+etBjOMEJBwcjvhI=;pDkyypnhWKW1Fn3INj9Zeg=="
 ---

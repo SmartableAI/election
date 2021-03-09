@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-157402
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
 type: article
 quality: 123
-heat: 203
+heat: 223
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Donald Trump Greeted by Lone Supporter and Angry Protesters As He Returns to New York"
+    excerpt: "Protesters gathered outside the building calling for his arrest on Monday morning with signs that read, \"Florida Man Go Home,\" \"Indict Trump\" and \"Arrest Trump.\""
+    publishedDateTime: 2021-03-08T22:33:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1751781/donald-trump-suv.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump"
     excerpt: "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,"
     publishedDateTime: 2021-03-04T21:28:00Z

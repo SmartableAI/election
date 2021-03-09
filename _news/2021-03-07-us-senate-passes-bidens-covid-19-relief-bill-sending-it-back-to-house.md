@@ -441,6 +441,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden on verge of signing COVID-19 relief package"
+    excerpt: "President Joe Biden could soon sign the $1.9 trillion COVID-19 economic relief package, which passed in the Senate over the weekend. Despite some GOP-approved amendments in the bill, no Republican senator voted for it."
+    publishedDateTime: 2021-03-09T11:21:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-on-verge-of-signing-covid19-relief-package/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/08/0160f15a-1f44-4c9f-9394-53e85bd74f27/thumbnail/1200x630/3f23001384023da87d3b85bcdf1a60bd/biden-replace-663317-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z

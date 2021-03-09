@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-spiraling-tsunami-borde
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-spiraling-tsunami-border-migrant-numbers.amp"
 type: article
 quality: 180
-heat: 360
+heat: 380
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c4ce8712-c550-4132-901c-bcfbd56c9541/40c34bf2-87b8-4fe1-af83-c111b185dbe9/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Texas Gov. Abbott blames migrant border surge on Biden rollback of Trump policies"
+    excerpt: "Texas Gov. Greg Abbott said the surge of migrants at the southern border is a problem the Biden administration has “self-inflicted” on itself by rolling back former President Donald"
+    publishedDateTime: 2021-03-09T20:42:00Z
+    webUrl: "https://nypost.com/2021/03/09/texas-gov-abbott-blames-migrant-border-surge-on-biden-rollback-of-trump-policies/"
+    ampWebUrl: "https://nypost.com/2021/03/09/texas-gov-abbott-blames-migrant-border-surge-on-biden-rollback-of-trump-policies/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/09/texas-gov-abbott-blames-migrant-border-surge-on-biden-rollback-of-trump-policies/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 145
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-gov-border-biden-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Biden's release of report on Khashoggi killing shows difference from Trump's approach, experts say"
     excerpt: "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge,"

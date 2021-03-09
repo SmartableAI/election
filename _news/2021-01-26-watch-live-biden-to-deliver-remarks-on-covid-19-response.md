@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-st
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
 type: article
 quality: 125
-heat: 725
+heat: 745
 published: true
 
 provider:
@@ -430,6 +430,20 @@ related:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08f90f58-185b-4e02-ae08-a97d8115f362_poster.jpg?quality=10"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Biden on verge of signing COVID-19 relief package"
+    excerpt: "President Joe Biden could soon sign the $1.9 trillion COVID-19 economic relief package, which passed in the Senate over the weekend. Despite some GOP-approved amendments in the bill, no Republican senator voted for it."
+    publishedDateTime: 2021-03-09T11:21:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-on-verge-of-signing-covid19-relief-package/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/08/0160f15a-1f44-4c9f-9394-53e85bd74f27/thumbnail/1200x630/3f23001384023da87d3b85bcdf1a60bd/biden-replace-663317-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
     excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."

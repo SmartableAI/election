@@ -439,6 +439,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden on verge of signing COVID-19 relief package"
+    excerpt: "President Joe Biden could soon sign the $1.9 trillion COVID-19 economic relief package, which passed in the Senate over the weekend. Despite some GOP-approved amendments in the bill, no Republican senator voted for it."
+    publishedDateTime: 2021-03-09T11:21:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-on-verge-of-signing-covid19-relief-package/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/08/0160f15a-1f44-4c9f-9394-53e85bd74f27/thumbnail/1200x630/3f23001384023da87d3b85bcdf1a60bd/biden-replace-663317-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
     excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."
     publishedDateTime: 2021-03-06T16:27:00Z

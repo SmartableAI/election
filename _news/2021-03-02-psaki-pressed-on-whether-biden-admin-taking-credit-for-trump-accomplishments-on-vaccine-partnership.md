@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas Gov. Abbott blames migrant border surge on Biden rollback of Trump policies"
+    excerpt: "Texas Gov. Greg Abbott said the surge of migrants at the southern border is a problem the Biden administration has “self-inflicted” on itself by rolling back former President Donald"
+    publishedDateTime: 2021-03-09T20:42:00Z
+    webUrl: "https://nypost.com/2021/03/09/texas-gov-abbott-blames-migrant-border-surge-on-biden-rollback-of-trump-policies/"
+    ampWebUrl: "https://nypost.com/2021/03/09/texas-gov-abbott-blames-migrant-border-surge-on-biden-rollback-of-trump-policies/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/09/texas-gov-abbott-blames-migrant-border-surge-on-biden-rollback-of-trump-policies/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 145
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-gov-border-biden-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden's release of report on Khashoggi killing shows difference from Trump's approach, experts say"
     excerpt: "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge,"
     publishedDateTime: 2021-03-02T13:30:00Z

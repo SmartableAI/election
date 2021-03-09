@@ -2,6 +2,63 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2021-01-15-removing-the-name-trump-wont-save-a-golf-course-in-the-south-bronx.md",
+      "title": "Removing the Name ‘Trump’ Won’t Save a Golf Course in the South Bronx",
+      "excerpt": "As New York City moves to void its contracts with Trump Organization properties, one of them stands out as a problem no matter what name is on the sign.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/15/nyregion/trump-golf-course-ferry-point-bronx.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/15/nyregion/trump-golf-course-ferry-point-bronx.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/17/nyregion/17BIG/17BIG-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/15/nyregion/trump-golf-course-ferry-point-bronx.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/15/nyregion/trump-golf-course-ferry-point-bronx.amp.html",
+      "publishedDateTime": "2021-01-15T02:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-dan-scavino-tells-trump-officials-to-be-proud-of-accomplishments.md",
       "title": "Dan Scavino tells Trump officials to be ‘proud’ of accomplishments",
       "excerpt": "As the Trump administration heads into its final week, White House spokesman Dan Scavino told administration officials Thursday to hold their \"heads high\" and be \"proud\" of their accomplishments\" despite \"cancel culture.\"",
@@ -1254,62 +1311,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/maxine-waters-trump-civil-war.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/maxine-waters-trump-civil-war.amp",
       "publishedDateTime": "2021-01-13T12:45:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.md",
-      "title": "Cindy McCain trades shots with top AZ Republican over Biden endorsement",
-      "excerpt": "Cindy McCain, widow of the late GOP Sen. John McCain, fired back at the state's Republican Party on Tuesday following the announcement of a resolution to censure her over supposed ties to leftist, globalist causes and failure to support President Trump.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4MtFVRz_Zw8/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/4MtFVRz_Zw8/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b15a729f-7e48-4c06-a52d-20c5c73df2fe/be420134-8c4e-47c5-84c3-5b5908bc7c4d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cindy-mccain-trades-shots-with-top-az-republican-over-biden-endorsement.amp",
-      "publishedDateTime": "2021-01-13T12:37:28-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

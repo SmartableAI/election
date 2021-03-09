@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 2020
+heat: 2040
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550527703&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141NW"
         width: 867
         height: 545
+        isCached: true
+  - title: "The difference between the Trump tax cuts and the Biden relief bill, in one chart"
+    excerpt: "The Trump White House had argued that this was simply a side effect of legislation it presented as helpful to Americans generally. There was an effort to present the top-heavy tax cuts as a nonetheless-positive change for the public,"
+    publishedDateTime: 2021-03-09T20:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/difference-between-trump-tax-cuts-biden-relief-bill-one-chart/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/difference-between-trump-tax-cuts-biden-relief-bill-one-chart/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/difference-between-trump-tax-cuts-biden-relief-bill-one-chart/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 135
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SE4CUTHOE5CD3NYQAFTHXMWDJU.png&w=1440"
+        width: 1440
+        height: 1149
         isCached: true
   - title: "Biden: Trump should not receive intelligence briefings due to his 'erratic behavior'"
     excerpt: "Biden says predecessor shouldn’t have access to briefings, which are traditionally offered to presidents even after leaving office"

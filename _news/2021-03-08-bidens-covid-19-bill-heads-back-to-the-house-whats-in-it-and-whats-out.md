@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden admin 'letting everyone in' with catch-and-release policies: Rep. Biggs"
+    excerpt: "On Tuesday, Rep. Andy Biggs R-Ariz., claimed that the Biden administration is \"basically letting everybody in\" at the border and said that they are \"encouraging\" more people to come as immigration continues to surge in the United States."
+    publishedDateTime: 2021-03-09T19:40:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hmj13dvFOi8/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9e41ac5-58cd-4c8d-8149-9a801492bc51/51f9b07e-f976-4081-b4a5-c67a36353512/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter Biden probe 'active and ongoing' without White House interference: sources"
     excerpt: "The federal investigation into Hunter Biden’s “tax affairs” is “active and ongoing,” two sources familiar with the status of the probe told Fox News."
     publishedDateTime: 2021-03-03T13:43:48Z

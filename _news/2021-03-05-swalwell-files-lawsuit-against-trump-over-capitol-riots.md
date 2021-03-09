@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-repu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -143,6 +143,15 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump to Take on Holdouts Out of Step With GOP Voters"
+    excerpt: "Former President Donald Trump has gone on the offensive against the GOP establishment. But will he strike a deathblow during the midterms? Read Full Article »"
+    publishedDateTime: 2021-03-09T20:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/09/trump_to_take_on_holdouts_out_of_step_with_gop_voters_537844.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "a2HQ0uJuEL6gqQqN6lmcjQW6xpKKXmsrHT99n5ly0rOEhBibkKdfHIi53L2ZC/BQe0RQz2iXVAQ1wsabzjZucGCekbqg+fmNCwCqtMSVCgDQotX3t3OIyqFY/NOeeIiQg+z4mYJwltT8rBuE+eHu62G0YM4Xm+dOjuH5lPqnX+rAVFRTdAvSH6/k1S3iQRga5gNIARwDG1/i0Hqvg/X6btgKTYoa9pPNxLebYQisAmhJ6RfOM7DgzU73aJ3hOZFFchDgMba5J5VTmPyjfcti7bh2gLT0SfCbxvcYZiku0OPcEB7DsRz6plXEUE/ijl5aOEn+BqcvGPUT/ETL5bUyATnNlaeBTA7HM7YyiASVR2w=;cNS3+m40Nsg87fR4Jge7nw=="
 ---

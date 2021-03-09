@@ -45,6 +45,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "'Not about him': Biden's name won't appear on stimulus checks in shift from Donald Trump"
+    excerpt: "President Joe Biden's signature won't appear on $1,400 stimulus checks to avoid delays in distributing the money, the White House says."
+    publishedDateTime: 2021-03-09T20:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/09/covid-relief-bidens-signature-wont-appear-stimulus-checks/6926056002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6926056002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6926056002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/96a9f4df6933a6e0c2158220d49f939822c30a25/c=0-69-2189-1300/local/-/media/2021/03/06/USATODAY/usatsports/pile-of-100-dollar-bills_gettyimages-452970107.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Anti-Trump conservatives rally to back Vanita Gupta, Biden’s pick for key Justice Dept. post"
     excerpt: "The effort is aimed at countering attacks from hard-right conservatives who have portrayed the civil rights attorney as a radical progressive."
     publishedDateTime: 2021-03-01T17:21:00Z

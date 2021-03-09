@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Democrats '110%' confident Biden's COVID relief bill will become law this week"
+    excerpt: "House Democrats expressed optimism that they will deliver President Biden an early legislative victory this week by passing his $1.9 trillion coronavirus stimulus legislation and make strides toward erasing poverty in the United States in doing so. "
+    publishedDateTime: 2021-03-09T19:23:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVlq1XouPyY/democrats-confident-biden-coronavirus-bill-law-this-week"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-confident-biden-coronavirus-bill-law-this-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-confident-biden-coronavirus-bill-law-this-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/hakeem-jeffries-ap.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "McConnell blames Biden’s ‘sweeping left-wing amnesty plan' for fueling border surge"
     excerpt: "Senate GOP Leader Mitch McConnell on Wednesday blamed President Biden’s “sweeping left-wing amnesty plan” for fueling the escalating migrant crisis on the southern border -- and said it sidelined the interests of American workers."
     publishedDateTime: 2021-03-03T21:08:15Z
@@ -286,6 +302,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Pete Hegseth: Biden holding press conference would ‘muddy the waters’ on progressive agenda"
+    excerpt: "Pete Hegseth says he believes Biden administration officials are keeping the president from holding a formal press conference because they believe he will “distract away from their highly progressive agenda."
+    publishedDateTime: 2021-03-09T18:42:00Z
+    webUrl: "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging"
+    ampWebUrl: "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30d471bd-c55f-406b-9223-5afee56e6fa6/f100c880-519f-41aa-8f1d-262776cdcd53/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "815gC+7h/8oYqFOCasn71XtUz+d2vF0xsP6ZSyW/dj+Prp1pSwhgRGCifVYV14i9YHYfb2FORuc/A1sdNaqX/mFnQX6j3mkfII0aVh3syTX0l3JtZVDnSnD8ocBGD8xQtqYk63TlT8+rqY0CKbBy0q0KpeghCnbEUCK88mv434JVlDWYotPRTjSTnYulDSdHZx0X6dOLKIQ5MVsG9WvIBUi3vp95QyQPlT0mzi6LW5NJ7gBNT9xzpcbyxzfwj6dNZ3JDE5yunxslnljejMpmXrREEVPPul9epuhYSvECqmd2RWKTzoHctSrBppDCq7EOo5TjjnP+9RjTVCV4180Pfcybp0Aqza/VsQNklgcSS10=;1yljNl8/hqsajhf3WMlAsA=="

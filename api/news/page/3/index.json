@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-05-trump-tears-into-biden-for-spiraling-tsunami-at-the-border-amid-spike-in-migrant-numbers.md",
+      "title": "Trump tears into Biden for 'spiraling tsunami' at the border, amid spike in migrant numbers",
+      "excerpt": "Former President Donald Trump on Friday tore into President Biden for what he described as a \"spiralling tsunami\" at the border, just as the administration stares down a spike in migrant families and unaccompanied children.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e3ZByn2wu_U/trump-biden-spiraling-tsunami-border-migrant-numbers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/e3ZByn2wu_U/trump-biden-spiraling-tsunami-border-migrant-numbers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 380,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23788a05-0e07-4eaa-b65f-7d1ff708a21d/ab917b1d-3466-4312-a322-dec6fb5f9b34/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-biden-spiraling-tsunami-border-migrant-numbers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-spiraling-tsunami-border-migrant-numbers.amp",
+      "publishedDateTime": "2021-03-05T10:13:16-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.md",
       "title": "DeSantis, Pence top 2024 Republican primary surveys – if Trump doesn’t run",
       "excerpt": "DeSantis, Pence top 2024 Republican primary surveys – if Trump doesn’t run",
@@ -293,7 +349,7 @@
       "originalUrl": "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -345,7 +401,7 @@
       "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -505,7 +561,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/05/biden-covid-stimulus-bill-why-relief-legislation-so-partisan/6889189002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1312,58 +1368,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-another-trump-on-the-ballot-lara-trump-eyes-north-carolina-senate-seat.md",
-      "title": "Another Trump on the ballot? Lara Trump eyes North Carolina Senate seat",
-      "excerpt": "A Trump may be on the ballot next year — but not Donald Trump. The former president’ Lara Trump, is eyeing the North Carolina Senate seat being vacated by Republican Richard Burr. While many in the state are skeptical she will move forward,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-lara-trump-north-carolina-senate-20210304-guyqxakcjzh4fcg2zx2s3m45ja-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-lara-trump-north-carolina-senate-20210304-guyqxakcjzh4fcg2zx2s3m45ja-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/idDneA73ULJW6G6I6ckNtkWir9Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PPPMAUZMFSQZJHLWSMEXZ6CRMI.aspx",
-          "width": 1200,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-lara-trump-north-carolina-senate-20210304-guyqxakcjzh4fcg2zx2s3m45ja-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-lara-trump-north-carolina-senate-20210304-guyqxakcjzh4fcg2zx2s3m45ja-story.html?outputType=amp",
-      "publishedDateTime": "2021-03-04T10:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

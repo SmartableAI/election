@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-cong
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp"
 type: article
 quality: 175
-heat: 495
+heat: 535
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Democrats '110%' confident Biden's COVID relief bill will become law this week"
+    excerpt: "House Democrats expressed optimism that they will deliver President Biden an early legislative victory this week by passing his $1.9 trillion coronavirus stimulus legislation and make strides toward erasing poverty in the United States in doing so. "
+    publishedDateTime: 2021-03-09T19:23:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVlq1XouPyY/democrats-confident-biden-coronavirus-bill-law-this-week"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-confident-biden-coronavirus-bill-law-this-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-confident-biden-coronavirus-bill-law-this-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/hakeem-jeffries-ap.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "McConnell blames Biden’s ‘sweeping left-wing amnesty plan' for fueling border surge"
     excerpt: "Senate GOP Leader Mitch McConnell on Wednesday blamed President Biden’s “sweeping left-wing amnesty plan” for fueling the escalating migrant crisis on the southern border -- and said it sidelined the interests of American workers."
@@ -286,6 +302,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Pete Hegseth: Biden holding press conference would ‘muddy the waters’ on progressive agenda"
+    excerpt: "Pete Hegseth says he believes Biden administration officials are keeping the president from holding a formal press conference because they believe he will “distract away from their highly progressive agenda."
+    publishedDateTime: 2021-03-09T18:42:00Z
+    webUrl: "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging"
+    ampWebUrl: "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30d471bd-c55f-406b-9223-5afee56e6fa6/f100c880-519f-41aa-8f1d-262776cdcd53/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "w5raH2wnMPyln/3N0jZz+F5ATaCeSI3GpZwNg5YBXGTJkx4RG3Eh/HN0W47/bx9kMDwA2eJD0Q4sI8MtpgIoDAvHgK3WMPZATM+7RIMuKZonrVfKh6uQm9snrevoR2K37bynWvEoYQqeiRejgMBzSX6H8T7WFyh+gpYXDnbdOSGNHV3AmpfHYB6VYXxEZ6otWHs633DSi7x7E6PvNyrMfkmNKvoSUrIml75a/4YhMgVLA7i4ntqMzsM7+6F8+eJfsD+rJ7oCN+AsXi28/ZOr7Ojys6uNGo8hN3UksMNGO0sfxwyR2f1y6cgsSJs717w+t8xhetXLTZFJbzQTKvjA6uZG8GSzJHQ6kshYcXq+dsY=;d+XWoeYTo77ygGx/6LvZaQ=="

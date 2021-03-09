@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-migrant-surge-challenge-not-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp"
 type: article
 quality: 173
-heat: 293
+heat: 313
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ebf16c6-672f-4976-a8f8-04114e139287/874b2ea1-866b-4a5b-8c73-7dd8fa4162c7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Texas Democrat knocks Biden over immigration policy, sending delegation to the state without notice"
+    excerpt: "Texas Democratic Rep. Henry Cuellar criticized the Biden administration’s handling of the border on Tuesday and said the president sent a delegation without notice to his district to investigate the surge of illegal immigrants into the United States."
+    publishedDateTime: 2021-03-09T20:42:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DggPOH5Pxbw/texas-democrat-biden-border-security-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-democrat-biden-border-security-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-democrat-biden-border-security-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca367615-e9f9-461b-a571-32302858b29d/7d02bbdd-7317-4139-ae68-3b87d71d8e35/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

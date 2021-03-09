@@ -176,6 +176,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas Gov. Abbott blames migrant border surge on Biden rollback of Trump policies"
+    excerpt: "Texas Gov. Greg Abbott said the surge of migrants at the southern border is a problem the Biden administration has “self-inflicted” on itself by rolling back former President Donald"
+    publishedDateTime: 2021-03-09T20:42:00Z
+    webUrl: "https://nypost.com/2021/03/09/texas-gov-abbott-blames-migrant-border-surge-on-biden-rollback-of-trump-policies/"
+    ampWebUrl: "https://nypost.com/2021/03/09/texas-gov-abbott-blames-migrant-border-surge-on-biden-rollback-of-trump-policies/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/09/texas-gov-abbott-blames-migrant-border-surge-on-biden-rollback-of-trump-policies/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 145
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-gov-border-biden-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "u/leAbhV86LjyZu062vqj5yww4G/9IytBfjpuf8vvGrkP1dMuDZnPeab4Xn9PX8gPv870v6hlyIEnr3XT4jpuynurrYWxJqe9ML4BhyKOzYGUnnzq6DAbR+sDVvHExMti3PQrc+Zec/r/KMfRQd0P0OvfmbhAwOHVSuUlmQplQojqn8UFZQKijkZABL3RlDVCFh1MCQ5n7otUTP5VUSlyE5290mJRfCeL/8+peXKQ6wIeyMrhgtTaHE+8VygA7ZadqXx3+0UmVtykUhZJHtw0wSr3IOE6LiEWxeTa9fL+INnI7IwJpu6wkGosNSs4OiY5SrbBwjyC+5USpKMCQ6QK2WT4zgBEh0j9AUjQRogV1I=;iQbRseJNMUXhhOeXNltK9A=="
 ---

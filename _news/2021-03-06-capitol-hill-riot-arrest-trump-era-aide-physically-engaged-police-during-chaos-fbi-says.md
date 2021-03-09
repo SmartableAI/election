@@ -144,6 +144,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump to Take on Holdouts Out of Step With GOP Voters"
+    excerpt: "Former President Donald Trump has gone on the offensive against the GOP establishment. But will he strike a deathblow during the midterms? Read Full Article »"
+    publishedDateTime: 2021-03-09T20:27:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/09/trump_to_take_on_holdouts_out_of_step_with_gop_voters_537844.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 45
 
 secured: "xTqDUd2rD+5bNM2efCuZl/TvI03wqt68BWyFC2INQULZloZXaLJKyA0QCHgY9KjQfse09eJurJgm0LjfWbj8hSUEukwjV0XA7PE1UR7/6OihUjhYNs+tsx4KBXFO4rdnnMU76nHUnhPCoMAiTmajm2jE6dStP95aG9uS0AkKYBMe1/nOdvKww+iOQHSoCX1G0sKFLYmfuYcrg09fZ7bCS9E3GMvfMvzuCOL9FTrC4zgwMF2j7/JKfXUYTJGX1NgpARIxLfxWuXlfapyUXMZjMqXlcMwmjVDKYRyD83M8GVVEqM6FUevEpD9Toc3q+JbKCwl0ZRFFf7NAry7OcPgz3c7LmfOAOv6KKi78RtYwXyY=;13Le/2cmEAW30t6oK9B3Rg=="
 ---

@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas Democrat knocks Biden over immigration policy, sending delegation to the state without notice"
+    excerpt: "Texas Democratic Rep. Henry Cuellar criticized the Biden administration’s handling of the border on Tuesday and said the president sent a delegation without notice to his district to investigate the surge of illegal immigrants into the United States."
+    publishedDateTime: 2021-03-09T20:42:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DggPOH5Pxbw/texas-democrat-biden-border-security-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-democrat-biden-border-security-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-democrat-biden-border-security-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ca367615-e9f9-461b-a571-32302858b29d/7d02bbdd-7317-4139-ae68-3b87d71d8e35/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas Democrat lawmaker warns border situation will ‘become a crisis’ without Biden administration action"
     excerpt: "Rep. Henry Cuellar, , D-Texas, whose district borders Mexico, says he believes the situation at the border will \"become a crisis\" if President Joe Biden’s administration does not take a stronger stance against illegal immigration."
     publishedDateTime: 2021-03-02T21:31:41Z

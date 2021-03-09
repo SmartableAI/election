@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-genera
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/01/efa4137b-1acd-4605-9066-b73af69ae90a/thumbnail/1200x630g2/fadf0b4268b8347dc2c9bdd4f651150f/gettyimages-1231447828.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Twitter sues Texas Attorney General, accusing him of retaliating after it banned Trump"
+    excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, accusing him of targeting the social media firm in retaliation for its suspension of Trump's account."
+    publishedDateTime: 2021-03-09T19:08:00Z
+    webUrl: "https://abcnews.go.com/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/twitter-phone-gty-rc-210111_1613057909611_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "NYC mayor accuses Cuomo of Trump-like tactics"
     excerpt: "The mayor of New York City said Wednesday that Andrew Cuomo was \"trying to distract attention from his own problems\" after the governor made negative comments about the city in a televised address. (M"

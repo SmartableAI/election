@@ -80,6 +80,22 @@ related:
         width: 1440
         height: 930
         isCached: true
+  - title: "$1.9T Biden relief package a bet government can help cure US"
+    excerpt: "But Biden is now staking his presidency on the idea that the government can use his $1.9 trillion coronavirus relief plan not only to stop a pandemic and jobs crisis but also to c"
+    publishedDateTime: 2021-03-09T13:15:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-big-relief-package-bet-govt-cure-america-76334226"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-big-relief-package-bet-govt-cure-america-76334226"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-big-relief-package-bet-govt-cure-america-76334226"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_d1b84eece30f43ef8994ced93098d130_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Senate passes budget plan to allow Biden’s $1.9tn Covid relief package without Republicans – live"
     excerpt: "Kamala Harris broke a 50-50 tie after all-night Senate session by casting a vote in favor of the Democratic measure, sending it to the House for final approval"
     publishedDateTime: 2021-02-05T13:35:00Z
