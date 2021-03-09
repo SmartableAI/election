@@ -107,8 +107,8 @@ related:
         isCached: true
   - title: "Biden pledges to combat sexual assault in US military – video"
     excerpt: "President makes vow on International Women’s Day after nominating two female officers to become four-star commanders"
-    publishedDateTime: 2021-03-08T20:18:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/08/biden-pledges-to-combat-sexual-assault-in-us-military-video"
+    publishedDateTime: 2021-03-09T07:26:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/08/biden-pledges-to-combat-sexual-assault-in-us-military-video?share=facebook"
     type: article
     provider:
       name: The Guardian

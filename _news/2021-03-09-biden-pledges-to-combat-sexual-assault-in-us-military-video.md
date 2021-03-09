@@ -2,9 +2,9 @@
 category: news
 title: "Biden pledges to combat sexual assault in US military – video"
 excerpt: "President makes vow on International Women’s Day after nominating two female officers to become four-star commanders"
-publishedDateTime: 2021-03-08T20:18:00Z
-originalUrl: "https://www.theguardian.com/us-news/video/2021/mar/08/biden-pledges-to-combat-sexual-assault-in-us-military-video"
-webUrl: "https://www.theguardian.com/us-news/video/2021/mar/08/biden-pledges-to-combat-sexual-assault-in-us-military-video"
+publishedDateTime: 2021-03-09T07:26:00Z
+originalUrl: "https://www.theguardian.com/us-news/video/2021/mar/08/biden-pledges-to-combat-sexual-assault-in-us-military-video?share=facebook"
+webUrl: "https://www.theguardian.com/us-news/video/2021/mar/08/biden-pledges-to-combat-sexual-assault-in-us-military-video?share=facebook"
 type: article
 quality: 105
 heat: -1
@@ -124,6 +124,6 @@ related:
         height: 676
         isCached: true
 
-secured: "hnbgdgg6s4Zd4hn5YQR7oH6Cv4rSXRdYsYXriQEAfmQ+dG3N+slrsxCJs/RmxpTq4MShdtqzi4H1L6Bc1W5XOx0rluwFzcQ/BQabxsHr2TeZdLefVszY0gIGlZ4s0c4bKfs544ItFDW8Hbt6ETpJ1IKUpfWRvMz9dlaObtBrg0ZPTVP74tYBtMSrlERT9NBLxcBrpn4BTXdC2OMkndWmrIr0Allmbr77rePcn75GtdYcPIg/r7yFeJU4z4BR+2S8ng0hsxZb8FHRNdueqjk1P4GysP14XLBFnASdI76l4jNwFqQZcwN6htXXS+NJ9QTboBIHtzMFnwBhZBoQq70ju2+kVMMDNuRYSxHeHkeY+8MPULQZx7QQGmjnyZIs7G0e+m3Tfv6vbszThNGZHXGFI3jR0uK0adQHAivfrNoLNJwCCpoAMscAdd4jITocCbFthkgJbDnWUzij3ntsBp6/IoIFwr6TWr/DJHxzAuZqVyvMiXnu/tN8XDrwyU1+CABRolmyQBGaCmaYgyHphKeaDQ==;NLbJVKPzsVWtXBDtZJp/wA=="
+secured: "hrbu1sa2nAr2/Vcu5QjzRwSaij9eEwXWuJ0yeGku+fNQRu8SgIzysMNrvk5gy9wV8Vq1deu3JqTaNjJgxM1/mECaS7OD83Hgw1Y/p5/oB2DMsiv/AtijCschdioAlJA9FBpuPExpIzLVeGOXFFm/9EZHsmQoe2kMcUWW+nJdf4jQ+p8GxLmH0c0mHa+FAvNSqaXOpcdKin1uslYDwsy4C621nChcQtIV5Tc0DUj6uqtf5k1Az9Bv3sS1yz7MwbwNfphHt8kfT0WMkmtlNt6X9iRZz6WYpVY8b5jsY51RxP8eaYgKG7mnUhd6Em5FFkNvN3BaPbraWqraHOBai2MaZZaSYXIgd8/0tJIH8naL0Xg=;ZxjetSyMZ+ihWKNfsqnOpg=="
 ---
 
