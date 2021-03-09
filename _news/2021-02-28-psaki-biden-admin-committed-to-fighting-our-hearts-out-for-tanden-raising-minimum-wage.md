@@ -175,6 +175,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden DOJ nominee Gupta says she doesn't support defunding police despite past comments"
+    excerpt: "Vanita Gupta, President Biden's pick to be the next associate attorney general, stated during her confirmation hearing Tuesday morning that she does not support defunding police, although past remarks have led to claims that she does."
+    publishedDateTime: 2021-03-09T18:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DRbPfTBQo24/biden-doj-nominee-vanita-gupta-defund-police"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-nominee-vanita-gupta-defund-police.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-nominee-vanita-gupta-defund-police.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden signs executive orders on combating sexual harassment, coinciding with Cuomo scandal"
     excerpt: "President Biden is taking action with the aim of advancing gender equality and combating sexual harassment, while a prominent member of his party, New York Gov. Andrew Cuomo, finds himself at the center of a growing harassment scandal."
     publishedDateTime: 2021-03-08T15:02:54Z

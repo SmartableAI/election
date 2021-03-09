@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Trump allies aiming to replace retiring GOP establishment senators"
+    excerpt: "Republican Sen. Roy Blunt of Missouri's announcement that he will retire next year opens the door for former President Donald Trump to further cement his grip on the GOP."
+    publishedDateTime: 2021-03-09T17:19:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CdJ7x0kPgqI/trump-allies-retiring-gop-establishment-senators"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-allies-retiring-gop-establishment-senators.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-allies-retiring-gop-establishment-senators.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Donald Trump reportedly will visit NYC as soon as Sunday"
     excerpt: "Former President Donald Trump will travel to New York City as soon as Sunday, his first visit to the Big Apple since leaving the White House in January, according to a report. Trump Tower, the"
     publishedDateTime: 2021-03-07T14:35:00Z
@@ -76,6 +92,22 @@ related:
     quality: 135
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/Cyrus-Vance-Manhattan-DA-Getty.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Trump allies aiming to replace retiring GOP establishment senators"
+    excerpt: "Republican Sen. Roy Blunt of Missouri's announcement that he will retire next year opens the door for former President Donald Trump to further cement his grip on the GOP."
+    publishedDateTime: 2021-03-09T17:20:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-allies-retiring-gop-establishment-senators"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-allies-retiring-gop-establishment-senators.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-allies-retiring-gop-establishment-senators.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Donald-Trump-CPAC-Speech-Florida-AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-05-weve-learned-to-love-the-guy-how-biden-charmed-the-left.md",
+      "title": "‘We’ve learned to love the guy:’ How Biden charmed the left",
+      "excerpt": "It’s early, but progressive say they’re being included, heard and respected by the Biden White House. But rocky roads are still ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/04/biden-white-house-progressives-466044",
+      "originalUrl": "https://www.politico.com/news/2021/02/04/biden-white-house-progressives-466044",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/57/d3/d68d32e34b518c1e55ce0b85b078/20210204-sanders-biden-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-mike-pence-to-join-heritage-foundation-as-distinguished-visiting-fellow.md",
       "title": "Mike Pence to join Heritage Foundation as distinguished visiting fellow",
       "excerpt": "Former Vice President Mike Pence is joining the Heritage Foundation as a distinguished visiting fellow, according to a press release from the conservative think tank. \n    \n",
@@ -1606,62 +1663,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/executive-orders-equity-joe-biden/index.html",
       "publishedDateTime": "2021-01-26T04:38:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-biden-aims-to-tackle-another-american-crisis-race.md",
-      "title": "Biden aims to tackle another American crisis: Race",
-      "excerpt": "If there was any doubt about the urgency of President Joe Biden's mission to tackle racial inequality, it was erased in the searing moment an insurrectionist rioter brazenly paraded the Confederate flag through the US Capitol.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MDazENa4X-0/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MDazENa4X-0/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 575,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122211659-05-biden-economy-0122-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html",
-      "publishedDateTime": "2021-01-26T04:35:47-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-04-schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-19t-coronavirus-bill-this-week.md",
+      "title": "Schumer prepared to outlast GOP delays tactics to pass Biden's $1.9T coronavirus bill this week",
+      "excerpt": "Senate Democrats are prepared to work long nights and through the weekend to push through President Biden's $1.9 trillion coronavirus relief legislation, determined to outlast an onslaught of expected GOP delay tactics.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 223,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d3342b12-c01b-47c2-8873-0b049df6cfd6/606ea425-b5de-4601-8e55-e4bb1312cc7d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp",
+      "publishedDateTime": "2021-03-04T12:31:12-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-alcee-hastings-once-impeached-from-bench-leads-screening-of-judicial-appointments-to-biden.md",
       "title": "Alcee Hastings, once impeached from bench, leads screening of judicial appointments to Biden",
       "excerpt": "Rep. Alcee Hastings, D-Fla., announced Thursday that he and Rep. Debbie Wasserman Schultz, D-Fla., formed three screening conferences that will recommend candidates to fill federal judicial openings as well as vacant U.S. Attorney and U.S. Marshal positions in their state.",
@@ -503,7 +559,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -1580,62 +1636,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katrina-pierson-run-for-congress-texas.amp",
       "publishedDateTime": "2021-03-01T08:16:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-former-trump-campaign-communications-director-murtaugh-joining-heritage-foundation.md",
-      "title": "Former Trump campaign communications director Murtaugh joining Heritage Foundation",
-      "excerpt": "Former Trump campaign communications director Tim Murtaugh is joining the Heritage Foundation and launching his own public affairs firm, Fox News has learned. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QKAKuUS8C1c/former-trump-campaign-communications-director-tim-murtaugh-heritage-foundation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QKAKuUS8C1c/former-trump-campaign-communications-director-tim-murtaugh-heritage-foundation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-campaign-communications-director-tim-murtaugh-heritage-foundation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-campaign-communications-director-tim-murtaugh-heritage-foundation.amp",
-      "publishedDateTime": "2021-03-01T05:01:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

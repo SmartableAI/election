@@ -128,6 +128,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Twitter sues Texas AG Ken Paxton, claiming retaliation for Trump ban"
+    excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, claiming the Republican used his office to retaliate against it for banning the account of former President Donald Trump"
+    publishedDateTime: 2021-03-09T18:47:00Z
+    webUrl: "https://nypost.com/2021/03/09/twitter-sues-texas-ag-claiming-retaliation-for-trump-ban/"
+    ampWebUrl: "https://nypost.com/2021/03/09/twitter-sues-texas-ag-claiming-retaliation-for-trump-ban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/09/twitter-sues-texas-ag-claiming-retaliation-for-trump-ban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-ken-paxton-003.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "xTqDUd2rD+5bNM2efCuZl/TvI03wqt68BWyFC2INQULZloZXaLJKyA0QCHgY9KjQfse09eJurJgm0LjfWbj8hSUEukwjV0XA7PE1UR7/6OihUjhYNs+tsx4KBXFO4rdnnMU76nHUnhPCoMAiTmajm2jE6dStP95aG9uS0AkKYBMe1/nOdvKww+iOQHSoCX1G0sKFLYmfuYcrg09fZ7bCS9E3GMvfMvzuCOL9FTrC4zgwMF2j7/JKfXUYTJGX1NgpARIxLfxWuXlfapyUXMZjMqXlcMwmjVDKYRyD83M8GVVEqM6FUevEpD9Toc3q+JbKCwl0ZRFFf7NAry7OcPgz3c7LmfOAOv6KKi78RtYwXyY=;13Le/2cmEAW30t6oK9B3Rg=="
 ---

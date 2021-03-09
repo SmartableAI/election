@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-09-biden-doj-nominee-vanita-gupta-expresses-regret-over-anti-gop-remarks-i-apologize.md",
+      "title": "Biden DOJ nominee Vanita Gupta expresses 'regret' over anti-GOP remarks: 'I apologize'",
+      "excerpt": "Senate Judiciary Committee ranking member Sen. Chuck Grassley, R-Iowa, said that while Vanita Gupta, President Biden's nominee for associate attorney general, has performed \"admirable\" work in the past, her past comments about Republicans gave him concerns over whether she could fill a critical Justice",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zoKQi_8YVjg/biden-doj-vanita-gupta-regret-anti-gop-remarks",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zoKQi_8YVjg/biden-doj-vanita-gupta-regret-anti-gop-remarks",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-vanita-gupta-regret-anti-gop-remarks.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-vanita-gupta-regret-anti-gop-remarks.amp",
+      "publishedDateTime": "2021-03-09T09:17:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-trump-rnc-relationship-grows-thorny-with-fundraising-dispute.md",
+      "title": "Trump-RNC Relationship Grows Thorny With Fundraising Dispute",
+      "excerpt": "After telling the Republican Party not to use his name to raise money, ex-president tells people to send donations to his Save America PAC.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/trump-rnc-relationship-grows-thorny-with-fundraising-dispute-11615309418",
+      "originalUrl": "https://www.wsj.com/articles/trump-rnc-relationship-grows-thorny-with-fundraising-dispute-11615309418",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-309225/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-rnc-relationship-grows-thorny-with-fundraising-dispute-11615309418",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-rnc-relationship-grows-thorny-with-fundraising-dispute-11615309418",
+      "publishedDateTime": "2021-03-09T09:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-biden-seems-to-forget-defense-secretarys-name-calls-him-the-guy-who-runs-that-outfit.md",
       "title": "Biden seems to forget defense secretary’s name, calls him ‘the guy who runs that outfit’",
       "excerpt": "President Biden on Monday seemed to forget Defense Secretary Lloyd Austin’s name at a White House event — calling the Pentagon chief \"the guy who runs that outfit over there.\"",
@@ -87,62 +200,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp",
       "publishedDateTime": "2021-03-09T06:19:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-vanita-gupta-associate-ag-nominee-who-faces-hearing-tuesday-is-bidens-wealthiest-nominee.md",
-      "title": "Vanita Gupta, associate AG nominee who faces hearing Tuesday, is Biden's wealthiest nominee",
-      "excerpt": "Vanita Gupta will appear for her confirmation hearing Tuesday as President Biden's nominee for assocate attorney general, but if she misses out on the job she would not exactly have to struggle, according to her financial disclosure form.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ixGKY0uA2SQ/vanita-gupta-associate-ag-nominee-hearing-tuesday-bidens-wealthiest-nominee",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ixGKY0uA2SQ/vanita-gupta-associate-ag-nominee-hearing-tuesday-bidens-wealthiest-nominee",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/vanita-gupta-associate-ag-nominee-hearing-tuesday-bidens-wealthiest-nominee.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-associate-ag-nominee-hearing-tuesday-bidens-wealthiest-nominee.amp",
-      "publishedDateTime": "2021-03-09T05:36:23-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -406,7 +463,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 275,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -462,7 +519,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 233,
+      "heat": 253,
       "tags": null,
       "images": [
         {
@@ -688,7 +745,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 295,
       "tags": null,
       "images": [
         {
@@ -915,7 +972,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1027,7 +1084,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 475,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -1140,7 +1197,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 340,
+      "heat": 360,
       "tags": null,
       "images": [
         {
@@ -1632,62 +1689,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-19t-coronavirus-bill-this-week.md",
-      "title": "Schumer prepared to outlast GOP delays tactics to pass Biden's $1.9T coronavirus bill this week",
-      "excerpt": "Senate Democrats are prepared to work long nights and through the weekend to push through President Biden's $1.9 trillion coronavirus relief legislation, determined to outlast an onslaught of expected GOP delay tactics.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 223,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d3342b12-c01b-47c2-8873-0b049df6cfd6/606ea425-b5de-4601-8e55-e4bb1312cc7d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp",
-      "publishedDateTime": "2021-03-04T12:31:12-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

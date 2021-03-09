@@ -2,6 +2,166 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-04-biden-hhs-pick-refused-request-to-bring-humanitarian-aid-to-cuba-on-infamous-1996-trip-report.md",
+      "title": "Biden HHS pick refused request to bring humanitarian aid to Cuba on infamous 1996 trip: report",
+      "excerpt": "President Biden’s HHS nominee reportedly refused a request to bring humanitarian aid to Cuba while meeting with Fidel Castro.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7E6Dyj1mjs/biden-hhs-xavier-becerra-cuba-fidel-castro",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7E6Dyj1mjs/biden-hhs-xavier-becerra-cuba-fidel-castro",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-hhs-xavier-becerra-cuba-fidel-castro.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-xavier-becerra-cuba-fidel-castro.amp",
+      "publishedDateTime": "2021-03-04T08:45:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-donald-trump-lists-oceanfront-palm-beach-mansion-for-49-million.md",
+      "title": "Donald Trump lists oceanfront Palm Beach mansion for $49 million",
+      "excerpt": "A company registered to Donald Trump and his family is selling their Palm Beach oceanfront abode for a whopping $49 million.  The estate sits right next door to Trump’s Mar-a-Lago club,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/",
+      "originalUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/mansion-.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/amp/",
+      "publishedDateTime": "2021-03-04T08:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-texas-border-resident-blasts-bidens-truly-shameful-immigration-policies-on-fox-friends.md",
+      "title": "Texas border resident blasts Biden's 'truly shameful' immigration policies on 'Fox & Friends'",
+      "excerpt": "Biden’s immigration policies are “truly shameful,” a Texas resident who lives near the border said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qaMVnLFaphM/texas-border-covid-buses-migrants-biden-shameful-immigration-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qaMVnLFaphM/texas-border-covid-buses-migrants-biden-shameful-immigration-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 204,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies.amp",
+      "publishedDateTime": "2021-03-04T08:11:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-gop-maps-out-strategy-to-counter-bidens-immoral-radical-immigration-agenda.md",
       "title": "GOP maps out strategy to counter Biden's 'immoral,' 'radical' immigration agenda",
       "excerpt": "Republicans this week circulated a memo on their plan to counter what they describe as a \"radical\" and \"immoral\" immigration agenda from President Biden as the GOP looks to unite against the rolling-back of Trump-era border protections.",
@@ -503,7 +663,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 172,
+      "heat": 192,
       "tags": null,
       "images": [
         {
@@ -998,7 +1158,7 @@
       "originalUrl": "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report",
       "featuredContent": null,
       "highlight": null,
-      "heat": 500,
+      "heat": 520,
       "tags": null,
       "images": [
         {
@@ -1204,167 +1364,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-tim-allen-says-he-kind-of-liked-when-president-trump-made-people-angry.md",
-      "title": "Tim Allen says he 'kind of liked' when President Trump made people angry",
-      "excerpt": "Tim Allen got political on a podcast, saying he \"realized\" he \"kind of liked\" when President Trump pissed people off.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/03/tim-allen-on-donald-trump-marc-maron-podcast/6905330002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/03/tim-allen-on-donald-trump-marc-maron-podcast/6905330002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2019/11/29/USAT/f5a8c383-6718-4f2d-90c6-eb06d8a86085-USP_NFL-_Chicago_Bears_at_Detroit_Lions.jpg?auto=webp&crop=7036,3958,x1,y733&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6905330002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6905330002",
-      "publishedDateTime": "2021-03-03T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-pence-rails-against-hr-1-laments-capitol-riot-prevented-substantive-discussion-on-election-integrity.md",
-      "title": "Pence rails against HR 1, laments Capitol riot prevented 'substantive discussion' on election integrity",
-      "excerpt": "Former Vice President Mike Pence offered harsh criticism for a Democrat-proposed voting reform legislation while condemning the Capitol protest on Jan. 6 that, he said, interrupted what would have been a worthwhile discussion of election integrity.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZio7sFblnc/pence-election-bill-hr1-capitol-riots-election-integrity",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QZio7sFblnc/pence-election-bill-hr1-capitol-riots-election-integrity",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-election-bill-hr1-capitol-riots-election-integrity.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-election-bill-hr1-capitol-riots-election-integrity.amp",
-      "publishedDateTime": "2021-03-03T09:19:21-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-mike-pences-remarkable-op-ed-highlights-the-gops-choice-on-voting-rights-and-where-it-will-probably-land.md",
-      "title": "Mike Pence’s remarkable op-ed highlights the GOP’s choice on voting rights — and where it will probably land",
-      "excerpt": "Alleged voting problems in 2020. In an op-ed for the Daily Signal, Pence details his opposition to a voting rights bill spearheaded by House Democrats. He begins, “After an election marked by significant voting irregularities and numerous instances of officials setting aside state election law,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZ2TGE7SNZAB5G4LNTLM5HF5SI.jpg&w=1440",
-          "width": 1440,
-          "height": 1053,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
-      "publishedDateTime": "2021-03-03T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
       ]
     }
   ],

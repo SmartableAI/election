@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden visits DC hardware store to highlight Paycheck Protection Program"
+    excerpt: "President Joe Biden on Tuesday visited a hardware store in Washington, DC, to highlight the changes his administration has made to the Paycheck Protection Program to help the smallest of businesses amid the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-03-09T18:41:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0cl-sNht1l8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/biden-hardware-store-ppp/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/biden-hardware-store-ppp/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "fYLAZg6/NwXZffo3oqTaB0tc1eCkM0B34bgBW1sLdtKUmgMOSGj16XZ1Nlg0Bi5CIpJll16MSMaokrDYFIDydYVBoHDj1HvT/4ROZLbb5D3cVT76vTAoUO2kpS8vkXt4L5JRqxyBULF4hseElQV+XDjp7GyjGWxas2kkxE7icOAWPPkxpiyrB/3Bb6Qtwr2iVyCJk5bmPt8CVUx/wCMgyIncQLfA2FAa250Dp7d7aioFrkWxlNGeeTI46+S+/7ctPP1BGL8xUH+lUeVEzW64zsv1m1MUDyID3eL75k0B97UYqYucN9xfCKMydHZY9skXPp9W+PC1whsAUeiEGjjj+dZ2Cbg+etBjOMEJBwcjvhI=;pDkyypnhWKW1Fn3INj9Zeg=="
 ---

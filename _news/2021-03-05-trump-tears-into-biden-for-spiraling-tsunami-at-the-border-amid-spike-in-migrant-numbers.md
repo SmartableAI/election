@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-spiraling-tsunami-borde
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-spiraling-tsunami-border-migrant-numbers.amp"
 type: article
 quality: 180
-heat: 340
+heat: 360
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 162
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f2b4c4-a545-4eac-a9b5-6ba620d77cd2/fef6984b-0908-4abe-82a0-1b7e2bfd5733/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Border numbers expected to show wave as migrant children in custody triples, Biden DHS asks for help"
+    excerpt: "The Biden administration is set to release new border numbers this week, figures expected to show a wave of migration crashing down on the southern border in recent weeks -- just as the Department of Homeland Security  (DHS) is urging its staff to volunteer to help with what it admits are \"overwhelming\""
+    publishedDateTime: 2021-03-09T17:17:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAlSIcjiiDU/border-numbers-wave-migrant-children-triples-biden-dhs"
+    ampWebUrl: "https://www.foxnews.com/politics/border-numbers-wave-migrant-children-triples-biden-dhs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-numbers-wave-migrant-children-triples-biden-dhs.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4394b12e-936e-4fd0-a56a-b3b597c07b47/d65ba80f-6261-4802-8b7c-78ce7d9f54fd/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

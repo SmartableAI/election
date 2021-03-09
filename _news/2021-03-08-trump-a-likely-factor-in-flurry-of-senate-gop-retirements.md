@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-senate-republican-retirements
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-senate-republican-retirements.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jane-Timken.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "GOP Rep. Adam Kinzinger On Taking On Trump: \"It Could Be A Kamikaze Mission\" Or It Could Save The GOP"
+    excerpt: "CNN's Jeff Zeleny speaks to Rep. Adam Kinzinger, an outspoken critic of former President Trump, about some of the backlash he has received since voting to impeach Trump and his political future. \"It could be a kamikaze mission,"
+    publishedDateTime: 2021-03-09T18:12:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/09/gop_rep_adam_kinzinger_on_taking_on_trump_it_could_be_a_kamikaze_mission_or_it_could_save_the_gop.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 50
+    images:
+      - url: "https://assets.realclear.com/images/53/534209.jpg"
+        width: 750
+        height: 562
         isCached: true
 
 secured: "aMOdzKno39Dv3zwkLEqeu7sOQWI5wqblk+LrWjaSs8G2DTwO+yh0IpO5GFns3HT+WTPB7GRJv+xg/Eg3pK8XRLChrD+8x8bdOfiDSVkEQp/5sqG72ZhGFC02q0DiB5BpkZpQoGyqaR/aWlhuNOI29v6JkkuZG6D5vNbQkSdgyKklcoHC3YmQ0ZG9zlUe4I5XLEsWCGuN6ZNklXqe/Ri0X4edrj6oNPEHeQeWK3D9hGVKsjGB8VI/3e3g3MW3QRPlU0MonjH9dUjsVTOrq4isWsn8nSNhe588qsWcIJAsTCKgP1yCXO89Eq/8qEgHqocSs7+2ClU20h5zrWR+eRipMLyfYzRanIw5KjC+e1XhCrc=;WbZxdWiyGe4PqwfnxSinbg=="

@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden has struggled with names of Cabinet members, lawmakers and other politicians"
+    excerpt: "President Biden seems to have a spotty memory when it comes to names and details. "
+    publishedDateTime: 2021-03-09T18:49:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8rArtnOACzg/biden-names-cabinet-members-lawmakers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-names-cabinet-members-lawmakers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-names-cabinet-members-lawmakers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "3dIpzJincqNhZBh3ddmfz/qmgsDZ+/4XQiEvjRW0yNlL7bzyXOFnPNOdSlE9AT0eu8i+/6elxBP//6d5auT3bSycihUDeHpaxKyefPBc9b3JYdoM5QgOfzvYiXwObGaMrS9ABZMKJWt99NKRscoWPdXmYWLWCix0kzw+j1yoI0lCN+9w/7I1YdG/TlSp6dxtB6SCyg6/cNYVevRvxXrj1KQ10uOPMsDQ4OLkBIyA7JPDAxQ0L8B41aQAkecImgQRpOCcIQl5+DE5EYBqb82kyN0fNpnowLtjT1BvIjAw6NqkGC1kGq3U9AMUjV9uGR50emJ0pY+bGUwruYaNZtzTE4zkaMQLzntAMMR4IFQB0UU=;ZgD7A29pb7HQGPjOhnIl3A=="
 ---

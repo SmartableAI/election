@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/vanita-gupta-associate-ag-nominee-h
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/vanita-gupta-associate-ag-nominee-hearing-tuesday-bidens-wealthiest-nominee.amp"
 type: article
 quality: 165
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden DOJ nominee Vanita Gupta expresses 'regret' over anti-GOP remarks: 'I apologize'"
+    excerpt: "Senate Judiciary Committee ranking member Sen. Chuck Grassley, R-Iowa, said that while Vanita Gupta, President Biden's nominee for associate attorney general, has performed \"admirable\" work in the past, her past comments about Republicans gave him concerns over whether she could fill a critical Justice"
+    publishedDateTime: 2021-03-09T17:17:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zoKQi_8YVjg/biden-doj-vanita-gupta-regret-anti-gop-remarks"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-vanita-gupta-regret-anti-gop-remarks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-vanita-gupta-regret-anti-gop-remarks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "KeN4UjRGJ0KHvzILsgWoLkQPoqkiGwd2N2cH7IiSCHsmA6L7zEcnlbmQwdDBY8dpEFZMhq3mcrqAsLL1P/Oh4LaULVYkRy4Hoju1g5/hCKPWd9NJGtyq8VbhBb36z+oBXLv7Hx+twxg2ICodRGcRflBU02MU8Utr1zXQufXVvVmsqogWpG02czQ21HbvQ0a0wZRJbpPOUoe5HcfCiSRy8vUOVAkq2eV0lnVAJQB2ZToG0d14lAevXzuGSfBklhh6wvW4mTlE+ycGS91y75RJ+D0aF2m5eEGHuE4Om7fj+qvQXdApG5RPvT1C2C0zBO5+aIDuK+2BzRv+ofvSdKgQimzSDQOfsUV8qZkm/tdJlj0=;Xihi19g2xD43tBaSrStD8Q=="
 ---

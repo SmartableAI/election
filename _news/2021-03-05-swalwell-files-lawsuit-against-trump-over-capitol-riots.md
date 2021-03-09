@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-repu
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-3.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Twitter sues Texas AG Ken Paxton, claiming retaliation for Trump ban"
+    excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, claiming the Republican used his office to retaliate against it for banning the account of former President Donald Trump"
+    publishedDateTime: 2021-03-09T18:47:00Z
+    webUrl: "https://nypost.com/2021/03/09/twitter-sues-texas-ag-claiming-retaliation-for-trump-ban/"
+    ampWebUrl: "https://nypost.com/2021/03/09/twitter-sues-texas-ag-claiming-retaliation-for-trump-ban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/09/twitter-sues-texas-ag-claiming-retaliation-for-trump-ban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-ken-paxton-003.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

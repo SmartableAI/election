@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enroll
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enrollment-period/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302095327-biden-obrador-meeting-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden visits DC hardware store to highlight Paycheck Protection Program"
+    excerpt: "President Joe Biden on Tuesday visited a hardware store in Washington, DC, to highlight the changes his administration has made to the Paycheck Protection Program to help the smallest of businesses amid the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-03-09T18:41:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0cl-sNht1l8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/biden-hardware-store-ppp/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/biden-hardware-store-ppp/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

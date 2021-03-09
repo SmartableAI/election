@@ -111,6 +111,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "GOP Rep. Adam Kinzinger On Taking On Trump: \"It Could Be A Kamikaze Mission\" Or It Could Save The GOP"
+    excerpt: "CNN's Jeff Zeleny speaks to Rep. Adam Kinzinger, an outspoken critic of former President Trump, about some of the backlash he has received since voting to impeach Trump and his political future. \"It could be a kamikaze mission,"
+    publishedDateTime: 2021-03-09T18:12:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/09/gop_rep_adam_kinzinger_on_taking_on_trump_it_could_be_a_kamikaze_mission_or_it_could_save_the_gop.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 50
+    images:
+      - url: "https://assets.realclear.com/images/53/534209.jpg"
+        width: 750
+        height: 562
+        isCached: true
 
 secured: "dmMzxkS89wF3arl+omclqP9QeUPiaKNs00aZihborWbmVfw8BT06R02TSugz5W5Eg1z/hbvVPmFH6UZe7W+oka75jW1ffUyVyZA3kJPYPr9y8zB06/XsPc86gBvZivTmCWIeZU3N1Mv13V7RWAVYlGEYttC2QDFT6dGQyhf0VLNsvtR+85GciYtA/K6pkaDypb/d8vio9XKxeoxIf6upoRk/ODjI4CKT6fUyQ9+k/lQFgGS/eIp+CjV30f6+4ek2zUvVGZ+Lz15/fN0kyTZI89wKcDDorlpSUrwwruAeA8T6n2ISL4F4qvXA3LrBMvXD6O2CgZwKvxREOqtM2xxTKiGnnP7KnHnKQzhM2YKcr7o=;stro/SV1EuGQGqHMdP7sEg=="
 ---

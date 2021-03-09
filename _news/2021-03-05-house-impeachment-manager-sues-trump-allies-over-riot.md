@@ -119,6 +119,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Trump accelerates his effort to wring power from the Republican Party"
+    excerpt: "In the weeks after President Donald Trump lost the 2020 election, he and his team flooded email and text-message inboxes with false claims that the results of the contest were illegitimate. The messages were almost panicky: The Democrats were committing a crime on a historic scale and the guileless victim of that dishonesty — your favorite president — needed every able-bodied American to take to the ramparts."
+    publishedDateTime: 2021-03-09T18:05:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/trump-accelerates-his-effort-wring-power-republican-party/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/trump-accelerates-his-effort-wring-power-republican-party/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/trump-accelerates-his-effort-wring-power-republican-party/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MMS3VAFBII6XOJOAKLHN6PL5Q.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Facebook - Trump teases on 2024 run"
     excerpt: "Welcome to The Hill’s Morning Report. Today is Monday, the start of Women’s History Month! Happy March! We get you up to speed on the most important developments in politics and policy, plus trends to watch."
     publishedDateTime: 2021-03-01T11:28:00Z

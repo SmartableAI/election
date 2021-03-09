@@ -2,6 +2,120 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-04-kimmel-warns-canceling-dr-seuss-is-how-trump-gets-reelected-cancel-culture-is-his-path-to-victory.md",
+      "title": "Kimmel warns 'canceling' Dr. Seuss is 'how Trump gets reelected': Cancel culture is 'his path to victory'",
+      "excerpt": "ABC late-night host Jimmy Kimmel sounded the alarm on cancel culture Tuesday and how it could help former President Donald Trump get elected again in 2024.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/entertainment/jimmy-kimmel-dr-seuss-cancel-culture-trump",
+      "originalUrl": "https://www.foxnews.com/entertainment/jimmy-kimmel-dr-seuss-cancel-culture-trump",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/01/Jimmy-Kimmel.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-03T18:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-msnbc-contributor-my-guts-telling-me-trump-white-house-behind-lack-of-capitol-protection-on-jan-6.md",
+      "title": "MSNBC contributor: 'My gut's telling me' Trump White House behind lack of Capitol protection on Jan. 6",
+      "excerpt": "MSNBC contributor Frank Figliuzzi speculated Wednesday that the Trump White House delayed sending military assets as the Capitol building was stormed by pro-Trump rioters during the certification of President Biden's election victory.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots",
+      "originalUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dceb1775-5059-410a-b2fa-59a4aa6a6de4/35762ff5-24b7-42c7-b4c0-e4c4511f85cd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp",
+      "publishedDateTime": "2021-03-03T16:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-huawei-cfo-lawyer-says-trump-comments-a-salvo-in-trade-war.md",
       "title": "Huawei CFO lawyer says Trump comments a 'salvo' in trade war",
       "excerpt": "A lawyer for a senior executive for Chinese communications giant Huawei Technologies says comments by former U_S_ President Donald Trump turned her into a “bargaining chip” and “co-opted the extradition process.",
@@ -1450,110 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-what-happened-must-never-happen-again-rep-liz-cheney-a-top-house-republican-again-hits-trump-over-capitol-riots.md",
-      "title": "'What happened ... must never happen again': Rep. Liz Cheney, a top House Republican, again hits Trump over Capitol riots",
-      "excerpt": "Despite threats to her re-election, Republican Rep. Liz Cheney did not back down from criticism of Donald Trump over the Jan. 6 insurrection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/23/liz-cheney-again-hits-president-donald-trump-over-jan-6-insurrection/4559614001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/23/liz-cheney-again-hits-president-donald-trump-over-jan-6-insurrection/4559614001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/-mm-/17ab0a832cd78ecc70cb4b93786a0d088066895f/c=0-292-5465-3380/local/-/media/2018/07/17/USATODAY/USATODAY/636674189159039396-AP-17086712547630.jpg?auto=webp&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 678,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4559614001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4559614001",
-      "publishedDateTime": "2021-02-24T22:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-a-year-after-trump-said-coronavirus-was-under-control-a-look-back-at-the-first-news-stories.md",
-      "title": "A year after Trump said coronavirus was ‘under control,’ a look back at the first news stories",
-      "excerpt": "Wednesday that then-President Trump offered words of assurance about the coronavirus which had only recently been detected in the United States. “The Coronavirus is very much under control in the USA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3JNHGTAAII6VLCQDBYB4FHANU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/?outputType=amp",
-      "publishedDateTime": "2021-02-24T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

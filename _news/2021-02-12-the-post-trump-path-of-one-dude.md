@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Why Donald Trump is fighting Republicans over his name"
+    excerpt: "While Donald Trump has long championed himself as a master real estate tycoon, talk to anyone familiar with how he built his fortune and they will tell you that the key to his success wasn't buying buildings. It was in agreeing to license his name -- literally -- to a variety of buildings, reality TV"
+    publishedDateTime: 2021-03-09T17:24:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/woURNoUhP74/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/donald-trump-name-rnc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/donald-trump-name-rnc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302134454-04-trump-cpac-0228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Arkansas Lt. Gov. Tim Griffin exits governor's race in a sign of Trump-backed Huckabee Sanders' strength"
     excerpt: "Arkansas Lt. Gov. Tim Griffin departed the 2022 governor's race Monday, opting instead to run for attorney general, in a move that signals former White House press secretary Sarah Huckabee Sanders' strength just two weeks after she announced her campaign.\n    \n"
     publishedDateTime: 2021-02-08T18:36:11Z

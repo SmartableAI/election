@@ -108,6 +108,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Twitter sues Texas AG Ken Paxton, claiming retaliation for Trump ban"
+    excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, claiming the Republican used his office to retaliate against it for banning the account of former President Donald Trump"
+    publishedDateTime: 2021-03-09T18:47:00Z
+    webUrl: "https://nypost.com/2021/03/09/twitter-sues-texas-ag-claiming-retaliation-for-trump-ban/"
+    ampWebUrl: "https://nypost.com/2021/03/09/twitter-sues-texas-ag-claiming-retaliation-for-trump-ban/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/09/twitter-sues-texas-ag-claiming-retaliation-for-trump-ban/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/texas-ken-paxton-003.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Capitol Hill riot arrest: Trump-era aide 'physically' engaged police during chaos, FBI says"
     excerpt: "A former Trump-era State Department aide has been arrested in connection to the Capitol Hill riot, the FBI confirmed to Fox News on Friday."
     publishedDateTime: 2021-03-05T18:49:00Z
