@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-senate-republican-retirements
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-senate-republican-retirements.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 159
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6afddb1-7574-4ce5-a3f9-dfc745f8508f/0cca49e0-9bd0-4822-a5cf-ad62dc7c2a7c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "White House returns Bush, Clinton portraits to prominent display after Trump admin hid them away: Report"
+    excerpt: "The official portraits of former Presidents Bill Clinton and George W. Bush returned to prominent display in the White House after both were relegated to a little-used area in the final months of Donald Trump’s presidency, according to a report Monday."
+    publishedDateTime: 2021-03-09T00:02:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vQV-rCy4wzo/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/fcaaa105-67b3-4ec9-a3b0-dacfaa031001/e4b00e39-162a-4a3a-b1d7-a82da094d666/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

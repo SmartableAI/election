@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stoo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -126,6 +126,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GGCHKGT5FAI6XKLWYAUKIIK4PA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Georgia criminal investigation into former President Trump reaches grand jury phase"
+    excerpt: "A criminal investigation in Georgia is looking into former President Trump's alleged attempt to overturn the state's election results, and last week two grand juries convened in Fulton County, potentially giving prosecutors the opportunity to issue subpoenas for documents and witnesses."
+    publishedDateTime: 2021-03-09T00:38:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-criminal-investigation-former-president-trump-grand-jury/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/09/154eeb3b-1d5e-4ec1-bd1a-9d8cb6c931a6/thumbnail/1200x630/83434c3e370309035494b98f0d80c2a5/cbsn-fusion-georgia-criminal-investigation-into-former-president-trump-reaches-grand-jury-phase-thumbnail-663449-640x360.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "4jnDlaaAP/pW8ThTk9O1v5xyzIqbmMbMI/3i+aNtxf+vOAqjq3dGwsc7TWeyHBDQRTd6VqlSIdmvnfMDoMnbr70m3wKwPuvrmaXzAMWdX8j+kYahEC6lbiUYvnf6AKBT4EEHUkvvW++ofdS9c0Rs//KKXOq01Op482X6adk2ldGTmWw0o103CGH/zGy7BuVvN2J+GzcFnCDUTD1XZyrtfYIehq2WGI//QKqnVzNY/SEZIt6VN+wlDmG6Ej02OAo5QAZM4LDJcsPGO5VA+pKyp8vPRvb2ODrYQX3spyToLENoGAA+7GB3K13Gi8HZklFLAoPmk+Tg70PbL/+I/lq+o7GFhJ1BgOHXzjXeEeM/rWE=;Ni7U3e14utxxW/W1A93C/Q=="

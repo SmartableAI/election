@@ -1,0 +1,101 @@
+---
+category: news
+title: "White House returns Bush, Clinton portraits to prominent display after Trump admin hid them away: Report"
+excerpt: "The official portraits of former Presidents Bill Clinton and George W. Bush returned to prominent display in the White House after both were relegated to a little-used area in the final months of Donald Trump’s presidency, according to a report Monday."
+publishedDateTime: 2021-03-09T00:02:22Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vQV-rCy4wzo/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vQV-rCy4wzo/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin"
+ampWebUrl: "https://www.foxnews.com/politics/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin.amp"
+type: article
+quality: 158
+heat: -1
+published: false
+
+provider:
+  name: Fox News
+  domain: foxnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Republican Voice
+
+images:
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/fcaaa105-67b3-4ec9-a3b0-dacfaa031001/e4b00e39-162a-4a3a-b1d7-a82da094d666/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "Trump a likely factor in flurry of Senate GOP retirements"
+    excerpt: "Donald Trump may be gone from the White House, but he still casts a very large shadow over the Republican Party, which he reshaped and ruled over with an iron fist during his four years as president."
+    publishedDateTime: 2021-03-08T19:56:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bGnvFkDGL5U/trump-senate-republican-retirements"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-senate-republican-retirements.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-senate-republican-retirements.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Georgia Gov. Kemp says he would 'absolutely' back Trump 2024, despite Trumps' calls for his resignation"
+    excerpt: "Georgia Gov. Brian Kemp said he would \"absolutely\" back Donald Trump in a bid for the presidency in 2024, despite Trump’s recent criticism of the Republican governor."
+    publishedDateTime: 2021-03-04T02:20:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ycXXSg0fYQ4/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024"
+    ampWebUrl: "https://www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/georgia-gov-kemp-says-he-would-absolutely-back-trump-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6afddb1-7574-4ce5-a3f9-dfc745f8508f/0cca49e0-9bd0-4822-a5cf-ad62dc7c2a7c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
+    excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
+    publishedDateTime: 2021-03-01T18:43:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XXKJAJF5-TY/jane-timken-gonzalez-resign-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
+    excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
+    publishedDateTime: 2021-03-01T18:48:00Z
+    webUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote"
+    ampWebUrl: "https://www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jane-timken-gonzalez-resign-impeachment-vote.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 117
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jane-Timken.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+
+secured: "wpYoplYoWvc0JqBifzhhz9IWZRf4GROrCITRIgzqnnBRrNRB9a3CtcXZPV6Q3Dwzl/MAlCU61tjyeE2tWF70DLFKy+IlrWjeyngQWsS9FNZsa5TiJ8fbJUmfnzTK67W/YFynTav+O0xU7fNw8NZi7G+urfX/ui8/gRhr6e9GdWUyZ/aHjTbslxhVTITMBea97JUd/+2Mp7i+kwjsgsMDVRofQO+oEIGq8YfG7QS2qmS+U9Q8tX+t2ff/nGd2jEv60Omgc0nW0Izb+RnLlsBSVWbKPipztXakufSXLpFshgcxSI0rQKf/2pBpjdSeIwVqCpeUnFM4sN0vtAuwBQ+4mgEiVLxuOZMmzv/H8YHxznc=;oHQBclJHeHPho8aQ9XiOVQ=="
+---
+

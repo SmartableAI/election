@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden pledges 'all-hands-on-deck effort' to end sexual assault in military"
+    excerpt: "President Biden Monday underscored his administration's effort to end sexual assault in the military Monday."
+    publishedDateTime: 2021-03-09T00:12:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0VS9d_sWOg4/biden-sexual-assault-military"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sexual-assault-military.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sexual-assault-military.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/35c7198a-c0b5-485b-849d-d5cdea1d6fdc/f4265492-4ea9-49de-9dd8-6caabe2e00fa/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "/IbbCOgjYPGqgpceNN40SpNDaCCx+rptQKz7YQPOL13eM2wIUkqus1oB9qdRa9jKBlkr0ktjDw7lDWL0rAgMqaKJ9Gmr+8X7M9vO0JQDI46NBWByGwwGaw4VXP6vtmOqgZd9EkWq6uY54nZ20HUjCEu3Sz4WSP1yeGANi5JsUBHVnyAdNA2juJZfdPFxmKs9egNV5clnozcDGAT+7nFotfLHqkU6f4xbs93MrK5pg/hUs1ykvD1nhdzWrykhL/ZKiOGQK648d7jz0lqeINrfx3lWqOq7oklMfqHNwsXbSjYeAEYkB4wT8dPdys8/OrXL5hsVwIB4J6jVHzwJiiwbk3wXpTC9bcKh+SLnWPGcVJE=;+MwKFnkuTLwosdpTj8vmqQ=="
 ---

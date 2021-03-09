@@ -3,10 +3,10 @@ category: news
 title: "Trump policy that weakened wild bird protections is revoked"
 excerpt: "The Biden administration has reversed a policy imposed under President Donald Trump that drastically weakened the government’s power to enforce a century-old law protecting most U.S. bird species"
 publishedDateTime: 2021-03-08T16:47:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
-webUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323685"
+originalUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
+webUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
 type: article
 quality: 125
 heat: -1
@@ -25,7 +25,7 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_aac90932e5114bd897dd9aab079074cf_16x9_992.jpg"
+  - url: "https://s.abcnews.com/images/Politics/WireAP_c6372a03f05d48f7a7262753e0b56787_16x9_992.jpg"
     width: 992
     height: 558
     isCached: true
@@ -224,6 +224,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "Nql4H7cjsFbrIlqCrCrd6nvif3+kzHoyngEGQYlAVVj/EhZlHC3F17FNUJsIiH43UIMMteaIGi76UEFOHyUeAdNsUnrqxFP4a1+t/5d9rzYwHZ/f0DUYcn16AKIxdQ/527kebSvQf7xmyrUmq3WEu8ZdUohGeX0YfQKP+FWuVClBBMt5h1e0dD5yJEQXM25vuWbreLlCxU4SU/V51o8djZjia4ZXcevgBcEdbCFFj0auGnnYKm03Rcw6yHuqQFrM0L3JWE0zMLG7AI4Fa4+UQ/6CdzN8LAurYrEcmoR4GqDyWZd09UGpy61NTS6SrWP8ws+7fjWnSU5Cz8y3G82h5SNs2AsfKKp8tchoHirkEaA=;kHzS+QgBSv83eX4I6PIwPw=="
+secured: "TVAJN9mRIWKLbo7clSc+jYSQY0VG5VFghbPQw0QlfhCMbltRFzfbPIHAgsAof6tn7GekkLpDtJq4en6Go5jR7S0IMP78132O3oziVQTOiHUB3dxMtPOrhG0VoxQ454n2z/OUrpP1ycSUaZ9+NaH0uHrUd4v0GLagWo94CKGe9/79lnMXUUveX6eiJLqdDJ83drCnHUrRuo3ZzBOxjS2pvjCrdbEdwR/bfe8nh4NN5XR/qR3nGptc4uR/ubc7SYKxD9dalIle9oh9AszpVfI/5TsiJEpgmUwnIm2SiLjLo5ZVrDL2o3fgq5VMk1MX0962yqDUoHGBplaBxCf2mBZ6mdUI4i1A0A2lqjfQhGh83Kw=;sxhP3DpKFdMaeieFwTI3Bw=="
 ---
 

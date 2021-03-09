@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White House returns Bush, Clinton portraits to prominent display after Trump admin hid them away: Report"
+    excerpt: "The official portraits of former Presidents Bill Clinton and George W. Bush returned to prominent display in the White House after both were relegated to a little-used area in the final months of Donald Trump’s presidency, according to a report Monday."
+    publishedDateTime: 2021-03-09T00:02:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vQV-rCy4wzo/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/fcaaa105-67b3-4ec9-a3b0-dacfaa031001/e4b00e39-162a-4a3a-b1d7-a82da094d666/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
     excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
     publishedDateTime: 2021-03-01T18:43:17Z

@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 1440
         isCached: true
+  - title: "RNC maintains right to use Trump's name in fundraising"
+    excerpt: "The Republican National Committee is defending its right to use former President Donald Trump’s name in its fundraising appeals after he demanded they put an end to the practice"
+    publishedDateTime: 2021-03-08T23:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/rnc-maintains-trumps-fundraising-76330769"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/rnc-maintains-trumps-fundraising-76330769"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/rnc-maintains-trumps-fundraising-76330769"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1903d792220e4a1b8f5ac60306aa12d6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump Weighs 2024 Run Without Mike Pence, Allies Say"
     excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 -- and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket,"
     publishedDateTime: 2021-03-04T15:43:00Z

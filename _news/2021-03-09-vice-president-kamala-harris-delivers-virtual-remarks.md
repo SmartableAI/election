@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Delivers Virtual Remarks"
 excerpt: "Vice President Kamala Harris delivers virtual remarks to the National League of Cities' (NLC) Congressional City Conference, at the Eisenhower Executive Office Building at the White House complex in Washington,"
 publishedDateTime: 2021-03-08T20:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/d127ce12eb6bb31eb579d66777d0a5a5/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/d127ce12eb6bb31eb579d66777d0a5a5/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/33530a94bbc693b85317727d09c4eb4d/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/33530a94bbc693b85317727d09c4eb4d/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/d127ce12eb6bb31eb579d66777d0a5a5/USA-WHITE-HOUSE-HARRIS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/33530a94bbc693b85317727d09c4eb4d/USA-WHITE-HOUSE-HARRIS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -579,6 +579,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "0LshRy30E7Ja2Ie5Lb+hM7FqaS1nenQZ6rfz5pQMsETyazXFUU/RzLgLM9tmvS0RtEQ93okRa/dyJP6zzG7LAlTSNXBsXoxd0ZmgGG8D7tyKBSmRGo4WRNLXW3409xmvBtawq0YqoHxH3bx2eOoNfZT40Fsag2bW+yvYzSfWcWkc1wrAFULTV0WKUlgDsFk33W9yIkziwuFONRVL6DAGsC+smTWvHvFGnC27oIW9tjnpZ34cxsmXI9tHUI2+w0pBlR8Dh1/VzWdYIcTm9If0syZUVz5pSydT6DCIVSZ79m5OFVlpC26MPR4RiBPKakW+x7Sicv/zRrx7AgF6LCLbxP+9ly8i85a8d4l4G2EY+Dc=;F3qJkksYwOv5wi4m/hIcgQ=="
+secured: "Dgq7fFtto3MaNZRXdu4Ecn40uH4tdLinTXUFh6a7Cgm294v3cpMSYOZ44cFntxI9AY+nM5PP+bDpz5hpUpgcwbm/bWyWMkZIpl9cI5XM+yPTeuwPGrLz/y4vUx4E9Y/duLZuhzVkzq3hxNt9mDrt4K5+v8jf4CYfHGu65bZ3XGeuxT004n6VcsbPBOeg5zA6aTll0UW2PfFu8skP/f2uf352UfldDxUoT5QuXn1m3NMtQbXhFmvSCwFtc3SsMuNxxlt3MIFKaxAImsBQxdxFKHIl/2gzUnS8nYt2h+M4qpwDfnzOtNXsDPhH1g3i2+67xIieCsrvnlKJy0QykdVXUu1m+xAb97dUNyaf8h26d80=;TU81gE8U35ryOlCfFqY8Cw=="
 ---
 

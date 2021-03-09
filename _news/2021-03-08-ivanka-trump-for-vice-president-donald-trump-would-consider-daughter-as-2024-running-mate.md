@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 1440
         isCached: true
+  - title: "RNC maintains right to use Trump's name in fundraising"
+    excerpt: "The Republican National Committee is defending its right to use former President Donald Trump’s name in its fundraising appeals after he demanded they put an end to the practice"
+    publishedDateTime: 2021-03-08T23:52:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/rnc-maintains-trumps-fundraising-76330769"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/rnc-maintains-trumps-fundraising-76330769"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/rnc-maintains-trumps-fundraising-76330769"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1903d792220e4a1b8f5ac60306aa12d6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Facebook - Trump teases on 2024 run"
     excerpt: "Welcome to The Hill’s Morning Report. Today is Monday, the start of Women’s History Month! Happy March! We get you up to speed on the most important developments in politics and policy, plus trends to watch."
     publishedDateTime: 2021-03-01T11:28:00Z

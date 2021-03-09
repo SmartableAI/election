@@ -191,6 +191,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden Will Revisit Trump Rules on Campus Sexual Assault"
+    excerpt: "The Biden administration will examine regulations by Betsy DeVos that gave the force of law to rules that granted more due-process rights to students accused of sexual assault."
+    publishedDateTime: 2021-03-08T23:40:00Z
+    webUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-campus-sexual-assault-title-ix.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-campus-sexual-assault-title-ix.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/biden-campus-sexual-assault-title-ix.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/08/us/politics/08dc-BIDEN-TITLEIX-2/08dc-BIDEN-TITLEIX-2-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Burnett: Pence is back on the wagon. The wagon of the lie"
     excerpt: "CNN's Erin Burnett reacts to an opinion article published by former Vice President Mike Pence that made claims about what happened in the 2020 election and was filled with attacks on a Democratic elections reform bill known as HR 1."
     publishedDateTime: 2021-03-04T02:02:00Z

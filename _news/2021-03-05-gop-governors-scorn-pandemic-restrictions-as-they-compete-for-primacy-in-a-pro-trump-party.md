@@ -127,6 +127,20 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Georgia criminal investigation into former President Trump reaches grand jury phase"
+    excerpt: "A criminal investigation in Georgia is looking into former President Trump's alleged attempt to overturn the state's election results, and last week two grand juries convened in Fulton County, potentially giving prosecutors the opportunity to issue subpoenas for documents and witnesses."
+    publishedDateTime: 2021-03-09T00:38:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-criminal-investigation-former-president-trump-grand-jury/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/09/154eeb3b-1d5e-4ec1-bd1a-9d8cb6c931a6/thumbnail/1200x630/83434c3e370309035494b98f0d80c2a5/cbsn-fusion-georgia-criminal-investigation-into-former-president-trump-reaches-grand-jury-phase-thumbnail-663449-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dIfQZSGF0VYcgDyfqEuV+4WKPVDV2dKCRWE9o7gJEvf9D1Ut9W1ehJ27U3WMUss20YfR9hemjFe9kBPyHshQbwe1XGRtAbY/p3/9SokwpfpZXFwfsswvkeEkjtVGa/EvmqV5jwmGE+CHwMYQM5g+ZLV0cZ4YRQjsqUn7VCrJbY4kFw8UMTTS7R9Ux8O30zH52ihnG9KSx0Qx42n6/OsZBgLQ6Kpl49O5Ks6mBtjjwozPdtZvuhlYhiRLSCFFSy3DCKxjB8UpFwwc7DK16UMuSLgux2lOOsX1/x8R9BLEWhCnUkZG1cg0+u+veRohZy+jkGREhg8bgsnGPIzGxnF+2T5Jqfv42RtHRrg/yWBu0/o=;ItyPNw1QNdzq9cHxp8flXw=="
 ---

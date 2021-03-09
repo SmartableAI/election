@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-03-a-closely-reported-look-at-joe-bidens-lucky-path-to-the-white-house.md",
+      "title": "A Closely Reported Look at Joe Biden’s ‘Lucky’ Path to the White House",
+      "excerpt": "In their new book, the journalists Jonathan Allen and Amie Parnes recount how Biden’s campaign overcame a number of moments when its chances were nearly sunk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/02/books/review-lucky-joe-biden-jonathan-allen-amie-parnes.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/02/books/review-lucky-joe-biden-jonathan-allen-amie-parnes.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/03/books/03BOOKALLEN-PARNES1b/03BOOKALLEN-PARNES1b-facebookJumbo.png",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/02/books/review-lucky-joe-biden-jonathan-allen-amie-parnes.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/02/books/review-lucky-joe-biden-jonathan-allen-amie-parnes.amp.html",
+      "publishedDateTime": "2021-03-02T08:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-fbi-director-wray-knocks-down-conspiracy-theory-that-january-6-rioters-were-fake-trump-protesters.md",
       "title": "FBI Director Wray knocks down conspiracy theory that January 6 rioters were 'fake Trump protesters'",
       "excerpt": "FBI Director Chris Wray will finally have to answer questions about the January 6 insurrection when he appears before the Senate Judiciary Committee Tuesday, his first public testimony since the deadly riot occurred nearly two months ago.\n    \n",
@@ -1605,62 +1662,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/22/politics/trump-kim-jong-un-air-force-one-vietnam-summit/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/trump-kim-jong-un-air-force-one-vietnam-summit/index.html",
       "publishedDateTime": "2021-02-22T14:13:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-supreme-court-allows-release-of-trump-tax-returns-to-ny-prosecutor.md",
-      "title": "Supreme Court allows release of Trump tax returns to NY prosecutor",
-      "excerpt": "The Supreme Court cleared the way for a New York prosecutor to obtain former President Donald Trump's tax returns, dealing a massive loss to Trump who has fiercely fought to shield his financial papers from prosecutors.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Mib7JoXI30/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-Mib7JoXI30/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 415,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200729082623-trump-at-podium-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxes-vance/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxes-vance/index.html",
-      "publishedDateTime": "2021-02-22T06:51:30-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

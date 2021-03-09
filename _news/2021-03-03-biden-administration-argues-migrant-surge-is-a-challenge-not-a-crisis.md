@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-migrant-surge-challenge-not-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp"
 type: article
 quality: 173
-heat: 273
+heat: 293
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Mexico migrant camp 'ground zero' for border surge greeting Biden administration: Griff Jenkins"
+    excerpt: "Fox News correspondent Griff Jenkins got a close look at \"ground zero\" for the border surge greeting the Biden administration in its early weeks, showing viewers a crowded migrant camp just over the southern border in Matamoros, Mexico."
+    publishedDateTime: 2021-03-08T23:13:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JCEHquf-7JM/mexico-migrant-camp-ground-zero-for-border-surge-greeting-biden-administration-griff-jenkins"
+    ampWebUrl: "https://www.foxnews.com/politics/mexico-migrant-camp-ground-zero-for-border-surge-greeting-biden-administration-griff-jenkins.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mexico-migrant-camp-ground-zero-for-border-surge-greeting-biden-administration-griff-jenkins.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ebf16c6-672f-4976-a8f8-04114e139287/874b2ea1-866b-4a5b-8c73-7dd8fa4162c7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Texas Democrat lawmaker warns border situation will ‘become a crisis’ without Biden administration action"
     excerpt: "Rep. Henry Cuellar, , D-Texas, whose district borders Mexico, says he believes the situation at the border will \"become a crisis\" if President Joe Biden’s administration does not take a stronger stance against illegal immigration."

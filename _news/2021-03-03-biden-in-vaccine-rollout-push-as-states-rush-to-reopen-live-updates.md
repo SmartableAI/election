@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553791070&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2319D"
         width: 816
         height: 545
+        isCached: true
+  - title: "Cuomo accusations test Biden as he unveils women’s rights measures"
+    excerpt: "Biden acted Monday to advance women’s rights and status, part of a raft of such policies in his first weeks in office. But he now finds himself tested by complaints against a friend and fellow Democrat."
+    publishedDateTime: 2021-03-09T00:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-cuomo-accusations-women/2021/03/08/b7f2baca-8035-11eb-81db-b02f0398f49a_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-cuomo-accusations-women/2021/03/08/b7f2baca-8035-11eb-81db-b02f0398f49a_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-cuomo-accusations-women/2021/03/08/b7f2baca-8035-11eb-81db-b02f0398f49a_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJZ43ZEAMQI6XAO3WAXQHGHUTI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates – as it happened"
     excerpt: "Biden order aims to prepare for future crises similar to pandemic"

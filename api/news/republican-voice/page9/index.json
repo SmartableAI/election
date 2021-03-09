@@ -2,6 +2,62 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2021-01-27-biden-commerce-nominees-huawei-answer-shows-admin-rushing-to-embrace-chinese-communist-party-cruz-says.md",
+      "title": "Biden commerce nominee's Huawei answer shows admin 'rushing to embrace' Chinese Communist Party, Cruz says",
+      "excerpt": "Sen. Ted Cruz, R-Texas, said he is \"dismayed\" by a Biden nominee's refusal to commit to blacklisting Chinese telecommunications company Huawei as former President Donald Trump had done out of concern that the company was a security threat.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u-YowgIyeVg/biden-commerce-nominee-huawei-answer-chinese-communist-party-cruz",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u-YowgIyeVg/biden-commerce-nominee-huawei-answer-chinese-communist-party-cruz",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Ted-Cruz-Gina-Raimondo-Commerce-Secretary-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-commerce-nominee-huawei-answer-chinese-communist-party-cruz.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-commerce-nominee-huawei-answer-chinese-communist-party-cruz.amp",
+      "publishedDateTime": "2021-01-27T11:42:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-biden-uses-swat-team-to-take-out-jobs-cassidy-says.md",
       "title": "Biden uses 'SWAT team' to take out jobs, Cassidy says",
       "excerpt": "Sen. Bill Cassidy, R-La., accused the Biden administration of being unsympathetic toward the thousands of Americans whose jobs were lost due to new policies put into effect in the first days of the new presidency.",
@@ -1595,62 +1651,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/reince-priebus-tough-time-republican-party.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/reince-priebus-tough-time-republican-party.amp",
       "publishedDateTime": "2021-01-22T14:20:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-22-biden-suggests-delayed-impeachment-timeline-may-be-better.md",
-      "title": "Biden suggests delayed impeachment timeline may be 'better'",
-      "excerpt": "Biden suggested having more time to get his Cabinet nominees confirmed may help jumpstart his policy agenda.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/DoBRsQcHzBk/biden-delayed-impeachment-timeline-standoff-congress",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6f7deab-50b8-4854-a772-08d24f875fa1/65962725-c64c-4736-8a52-88203251a4ed/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-delayed-impeachment-timeline-standoff-congress.amp",
-      "publishedDateTime": "2021-01-22T13:38:05-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
