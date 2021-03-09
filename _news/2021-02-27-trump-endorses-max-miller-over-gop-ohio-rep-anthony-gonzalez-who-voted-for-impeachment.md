@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump endorses Arkansas Sen. John Boozman for reelection"
+    excerpt: "Former President Trump has thrown his weight behind Republican Sen. John Boozman, Ark., who recently announced a 2022 reelection bid."
+    publishedDateTime: 2021-03-09T02:31:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Wt1Gxw11RXU/trump-endorses-boozman-2022-reelection"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-boozman-2022-reelection.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-boozman-2022-reelection.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/979c769a-bf43-4d76-b1a4-d870ac2cf8d6/9dc7a917-81c7-44e9-bf64-babe3a58ec2f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump endorses South Carolina's Tim Scott"
     excerpt: "Former President Trump endorsed Sen. Tim Scott’s, R-S.C., bid for reelection Wednesday. "
     publishedDateTime: 2021-03-03T01:42:36Z
@@ -95,6 +111,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/mitch-mcconell.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump endorses Sen. Boozman of Arkansas for re-election"
+    excerpt: "Former President Trump has thrown his weight behind Republican Sen. John Boozman, Ark., who recently announced a 2022 re-election bid."
+    publishedDateTime: 2021-03-09T02:32:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-endorses-boozman-2022-reelection"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-boozman-2022-reelection.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-boozman-2022-reelection.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 150
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/979c769a-bf43-4d76-b1a4-d870ac2cf8d6/9dc7a917-81c7-44e9-bf64-babe3a58ec2f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Rep. Banks warns GOP ‘destined’ to lose elections if it rejects Trump and his voters"
     excerpt: "Ind., said on Saturday that Republicans are \"destined\" to lose in 2022 and 2024 if it rejects former President Donald Trump, his voters and an agenda he said makes the GOP the \"party of the working class."

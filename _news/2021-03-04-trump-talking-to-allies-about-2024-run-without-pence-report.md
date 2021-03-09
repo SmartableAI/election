@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report?amp"
 type: article
 quality: 140
-heat: 460
+heat: 500
 published: true
 
 provider:
@@ -78,6 +78,38 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_1903d792220e4a1b8f5ac60306aa12d6_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump, RNC clash over using his name in fundraising"
+    excerpt: "The Republican National Committee is defending its right to use former President Donald Trump’s name in its fundraising appeals after he demanded they put an end to the practice"
+    publishedDateTime: 2021-03-09T02:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-rnc-clash-over-using-his-name-in-fundraising/2021/03/08/e9949c92-8080-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-rnc-clash-over-using-his-name-in-fundraising/2021/03/08/e9949c92-8080-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-rnc-clash-over-using-his-name-in-fundraising/2021/03/08/e9949c92-8080-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Twitter sues Texas AG, claiming retaliation for Trump ban"
+    excerpt: "Twitter has filed a lawsuit against Texas Attorney General Ken Paxton, claiming the Republican used his office to retaliate against it for banning the account of former President Donald Trump following the riot at the U."
+    publishedDateTime: 2021-03-09T02:13:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "The Hill's Morning Report - Presented by Facebook - Trump teases on 2024 run"
     excerpt: "Welcome to The Hill’s Morning Report. Today is Monday, the start of Women’s History Month! Happy March! We get you up to speed on the most important developments in politics and policy, plus trends to watch."

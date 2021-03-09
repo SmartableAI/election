@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Analysis: How Dr. Seuss explains Biden's big win on Covid bill"
+    excerpt: "The Republican Party's inability to ignite a grassroots backlash against the $1.9 trillion Democratic Covid relief bill moving toward final passage underscores the GOP's transformation into a coalition energized primarily by cultural and racial grievance -- and the opportunity that opens for President"
+    publishedDateTime: 2021-03-09T02:01:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aY5jactlh2Y/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-covid-relief-bill-republicans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-covid-relief-bill-republicans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Democratic divides sharpen even as Biden's Covid-19 relief package moves forward "
     excerpt: "The honeymoon is over for President Joe Biden and Senate Democrats, whose unified front has been thrown into doubt during the final stages of negotiations on the White House's $1.9 trillion Covid-19 relief bill.\n    \n"
     publishedDateTime: 2021-03-06T11:16:53Z

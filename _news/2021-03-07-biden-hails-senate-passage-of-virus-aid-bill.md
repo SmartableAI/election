@@ -93,6 +93,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden pledges to combat sexual assault in US military – video"
+    excerpt: "President makes vow on International Women’s Day after nominating two female officers to become four-star commanders"
+    publishedDateTime: 2021-03-08T20:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/08/biden-pledges-to-combat-sexual-assault-in-us-military-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/463e6f962d5d51bd813c6ed9ca7af1f19be0f8b1/0_0_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c58dd4a9f353a3cf05fe2c0cb826b2d2"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Live stimulus updates: Kamala Harris breaks Senate tie to begin debate on Joe Biden's COVID stimulus bill"
     excerpt: "It’s time to move forward with this legislation which will be one of the largest antipoverty bills in recent history,” Sen. Chuck Schumer said."
     publishedDateTime: 2021-03-05T15:44:00Z

@@ -2,6 +2,118 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-26-sarah-sanders-run-for-arkansas-governor-to-test-value-of-ties-to-trump.md",
+      "title": "Sarah Sanders' run for Arkansas governor to test value of ties to Trump ",
+      "excerpt": "Sarah Huckabee Sanders on Monday became the first of what could be a wave of Republicans from former President Donald Trump's inner circle to chart a political future, launching her bid for Arkansas governor.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCEpHgUFbXo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qCEpHgUFbXo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190613195905-10-sarah-sanders-gallery-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/sarah-huckabee-sanders-trump-arkansas-governor-race/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/sarah-huckabee-sanders-trump-arkansas-governor-race/index.html",
+      "publishedDateTime": "2021-01-25T18:43:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-26-airport-police-officer-identifies-man-charged-in-capitol-riot-after-he-was-kicked-off-flight-for-continuously-yelling-trump-2020.md",
+      "title": "Airport police officer identifies man charged in Capitol riot after he was kicked off flight for 'continuously' yelling 'Trump 2020'",
+      "excerpt": "Federal prosecutors have charged a man in connection to the riot and insurrection at the Capitol on January 6, after a Washington, DC, airport police officer helped identify him.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tYKKMHA0hC4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tYKKMHA0hC4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201117121332-file-airplane-ronald-reagan-airport-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/25/politics/capitol-hill-rioter-kicked-off-plane-trnd/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/25/politics/capitol-hill-rioter-kicked-off-plane-trnd/index.html",
+      "publishedDateTime": "2021-01-25T17:56:34-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-john-roberts-ducks-the-spotlight-by-skipping-the-second-trump-impeachment-trial.md",
       "title": "John Roberts ducks the spotlight by skipping the second Trump impeachment trial",
       "excerpt": "Chief Justice John Roberts has long been a student of history, but this is one part of history -- presiding at the second trial of Donald Trump -- he can do without.\n    \n",
@@ -1576,120 +1688,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-when-joe-biden-takes-the-white-house-hell-also-take-whitehouse.md",
-      "title": "When Joe Biden Takes the White House, He’ll Also Take @WhiteHouse",
-      "excerpt": "Biden Jr. completes his transition into the White House, several social media companies will be completing their own transitions of highly followed official accounts. But the handoff won’t be as seamless as it was four years ago,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/19/technology/biden-white-house-twitter-account.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/19/technology/biden-white-house-twitter-account.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/19/multimedia/19xp-socialmedia-image/19xp-socialmedia-image-facebookJumbo.png",
-          "width": 812,
-          "height": 425,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/19/technology/biden-white-house-twitter-account.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/19/technology/biden-white-house-twitter-account.amp.html",
-      "publishedDateTime": "2021-01-19T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-18-capitol-riot-exposed-flaws-of-trumps-dhs-focused-on-immigration-and-not-extremists-say-ex-officials.md",
-      "title": "Capitol riot exposed flaws of Trump's DHS, focused on immigration and not extremists, say ex-officials",
-      "excerpt": "Trump's DHS staffers \"tend to be younger, with not as much experience,\" says an ex-Trump DHS official. \"So many protocols were not followed\" on Jan. 6. WASHINGTON — Former Department of Homeland Security officials spanning the Bush, Obama and Trump ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/national-security/capitol-riot-exposed-flaws-trump-s-dhs-focused-immigration-not-n1254464",
-      "originalUrl": "https://www.nbcnews.com/politics/national-security/capitol-riot-exposed-flaws-trump-s-dhs-focused-immigration-not-n1254464",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_02/3442750/210117-capitol-riot-jm-1414_cb4c7340b61a4548b7f460613dde2235.jpg",
-          "width": 2500,
-          "height": 1636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254464",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254464",
-      "publishedDateTime": "2021-01-18T03:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

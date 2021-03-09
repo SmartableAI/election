@@ -93,6 +93,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden pledges to combat sexual assault in US military – video"
+    excerpt: "President makes vow on International Women’s Day after nominating two female officers to become four-star commanders"
+    publishedDateTime: 2021-03-08T20:18:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/08/biden-pledges-to-combat-sexual-assault-in-us-military-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/463e6f962d5d51bd813c6ed9ca7af1f19be0f8b1/0_0_4000_2401/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c58dd4a9f353a3cf05fe2c0cb826b2d2"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Live stimulus updates: Kamala Harris breaks Senate tie to begin debate on Joe Biden's COVID stimulus bill"
     excerpt: "It’s time to move forward with this legislation which will be one of the largest antipoverty bills in recent history,” Sen. Chuck Schumer said."
     publishedDateTime: 2021-03-05T15:44:00Z
@@ -110,6 +124,6 @@ related:
         height: 676
         isCached: true
 
-secured: "lKkzJqvRs+vHak/pkoOkjnQ2QPOXx04lMmu3mCtqB5yXri9/xPb3pZeGpOvxf/aUPN4vboh7VYFAuHCV378bk4yA8w3Vis9uqHh1cqOLsp+ZGm57WWftlVat6b7WTMdkYAmGBxxzYld1pmB8+yK21qwU8/9XtIgBTABLqtyR+4XQPgk+uITEaHzVYWbTqrxCslRF0/v/kKM6zWgErX1TVLBQvoWN4fzM0dffbqG57zR6hXkpKN6JGHU7mYgH8ykVf/2WFt/RMImT/wjizlxNVzr+q7yWhnA3fYQbehgDv3htR2KSsIZOrLgYrghK9X1pu7WHJeBxWu4YC3qDlL57Gp3ohEv78e5XHRLk0VonMxI=;h3/kdF9rXbEhpdaAHxb81w=="
+secured: "DYs5zMqb0KCo6rXIsXmGz8eLEfHU5tbAyn+e0fQb6Ezieswm+fRLZ68/f9DpuinTWJV4zhLEUq1pOBmT0aJAcBENAJ9JrMrN3lsK4G5p3IFZ8i0aZ7lEe2kyg8jxqAMNvX2UIkJI7GnaHOF5alpJLLMjD/bfaGqXUfD8jTIvCHJDGjzrc7W/bnz1XB85+Ec5I0O/MTfJ4RaK8mnPRw4bwHIzQ32e7/tMLLHz5BPwZFKIEwM6nLTebfFqsWNz6oZvflgjgljcC/wFRDW5w1eGIUkr4SEagYevdaUKyRyPXj7fBzkJ4zEyFrrQoIfE/5gHK0bdvSw49KAMR4uijlDgTxUjonWyaw13aaFKQhzQcXu+Kqd/xhEAzTczoA20fjJBGuQ8P2an6r7INmeqmTP4DtypG3pBA+CaMfcciQUp5UatoT7ZScW0JUY5mBySJjBKz+XSx/JsOXT/uUbZL5a+XFJz330dgNFx0eyQ+AYJIYJ6dP7R5kEjnvYrFq3JVRAvhv8w9zKooLf8wObGMxbatA==;GLPObTDbo8CQpPLkxoQkOw=="
 ---
 

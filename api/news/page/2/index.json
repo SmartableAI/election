@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-07-arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-in-jail-after-storming-capitol.md",
+      "title": "Arrested Trump Appointee Tells Judge 'Cockroaches Crawling Over Me' in Jail After Storming Capitol",
+      "excerpt": "Federico Guillermo Klein, 42, became the first Trump administration official to be arrested for taking part in the insurrection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295",
+      "originalUrl": "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1751340/capitol-riot-stock-photo.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295?amp=1",
+      "publishedDateTime": "2021-03-06T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-07-fox-nation-to-premiere-new-series-on-rush-limbaugh-narrated-by-mike-pence.md",
+      "title": "Fox Nation to premiere new series on Rush Limbaugh, narrated by Mike Pence",
+      "excerpt": "It is an ambitious and affectionate salute to a man who regularly drew 15 million talk radio listeners for three hours of conservative thought each day. Fox Nation is set to premiere “The Age of Rush,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtontimes.com/news/2021/mar/6/fox-nation-premiere-new-series-rush-limbaugh-narra/",
+      "originalUrl": "https://www.washingtontimes.com/news/2021/mar/6/fox-nation-premiere-new-series-rush-limbaugh-narra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://twt-thumbs.washtimes.com/media/image/2021/01/04/1_4_2021_beltway8202_c0-0-2500-1458_s1200x700.jpg?99c7ae3bdbf327c408533720fb3c8c1f3a8a793f",
+          "width": 1200,
+          "height": 700,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "http://amp.washingtontimes.com/news/2021/mar/6/fox-nation-premiere-new-series-rush-limbaugh-narra/",
+      "cdnAmpWebUrl": "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/6/fox-nation-premiere-new-series-rush-limbaugh-narra/",
+      "publishedDateTime": "2021-03-06T15:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Times",
+        "domain": "washingtontimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-03-07-cruz-puts-hold-on-bidens-cia-pick-burns-over-nord-stream-2-pipeline.md",
+      "title": "Cruz puts hold on Biden's CIA pick Burns over Nord Stream 2 pipeline",
+      "excerpt": "Republican Senator Ted Cruz put a hold late on Friday on President Joe Biden's pick to lead the Central Intelligence Agency to pressure the administration to put tough sanctions on Russia's Nord Stream 2 natural gas pipeline project.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-nord-stream-2-cruz-idINKBN2AY0FI",
+      "originalUrl": "https://www.reuters.com/article/usa-nord-stream-2-cruz-idINKBN2AY0FI",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553982286&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250C2",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2AY0FI",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AY0FI",
+      "publishedDateTime": "2021-03-06T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-white-house-fires-trump-eeoc-official-after-she-refuses-to-step-down.md",
       "title": "White House fires Trump EEOC official after she refuses to step down",
       "excerpt": "The move is part of a push to oust controversial Trump appointees who were seen by some Democrats as hostile to the mission of the agencies they served.",
@@ -10,7 +157,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -1220,162 +1367,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills.md",
-      "title": "Georgia GOP leaders who stood up to Trump back voting bills",
-      "excerpt": "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-05T02:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-bidens-relief-bill-isnt-getting-bipartisan-support-like-previous-stimulus-bills-what-do-republicans-dislike-so-much.md",
-      "title": "Biden's relief bill isn't getting bipartisan support like previous stimulus bills. What do Republicans dislike so much?",
-      "excerpt": "Republican Senators have described President Joe Biden's COVID-19 stimulus plan as a \"clunker,\" \"bad politics\" and “wildly expensive.\" The legislation, dubbedthe",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/05/biden-covid-stimulus-bill-why-relief-legislation-so-partisan/6889189002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/05/biden-covid-stimulus-bill-why-relief-legislation-so-partisan/6889189002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/04/USAT/05978c65-180a-48f4-b571-fa12d578336e-GTY_1231477838.jpg?auto=webp&crop=4499,2531,x0,y229&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6889189002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6889189002",
-      "publishedDateTime": "2021-03-05T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-refugees-flights-cancelled-as-trump-policy-remains.md",
-      "title": "Refugees’ flights cancelled as Trump policy remains",
-      "excerpt": "Refugee resettlement agencies say more than 260 refugees who were vetted, approved and booked to come to the United States have had their flights canceled by the State Department over the past two wee",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-04T20:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],
