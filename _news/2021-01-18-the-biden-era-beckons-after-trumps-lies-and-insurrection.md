@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3870
+heat: 3890
 published: true
 
 provider:
@@ -1388,6 +1388,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201216092212-01-christopher-wray-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden nominates two female generals to 4-star commands after promotions delayed under Trump administration"
+    excerpt: "President Joe Biden on Monday announced he has nominated two female generals to positions as 4-star combatant commanders after their promotions had been delayed under the Trump administration.\n    \n"
+    publishedDateTime: 2021-03-09T04:56:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_HnP8OxWhtc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/female-generals-nominations-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/female-generals-nominations-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308221513-female-generals-nominations-biden-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

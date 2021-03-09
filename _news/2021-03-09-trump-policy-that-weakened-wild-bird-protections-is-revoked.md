@@ -2,21 +2,21 @@
 category: news
 title: "Trump policy that weakened wild bird protections is revoked"
 excerpt: "The Biden administration has reversed a policy imposed under President Donald Trump that drastically weakened the government’s power to enforce a century-old law protecting most U.S. bird species"
-publishedDateTime: 2021-03-08T16:47:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
-webUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
+publishedDateTime: 2021-03-09T04:28:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/trump-policy-that-weakened-wild-bird-protections-is-revoked/2021/03/08/dea8adc8-808f-11eb-be22-32d331d87530_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-policy-that-weakened-wild-bird-protections-is-revoked/2021/03/08/dea8adc8-808f-11eb-be22-32d331d87530_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-policy-that-weakened-wild-bird-protections-is-revoked/2021/03/08/dea8adc8-808f-11eb-be22-32d331d87530_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-policy-that-weakened-wild-bird-protections-is-revoked/2021/03/08/dea8adc8-808f-11eb-be22-32d331d87530_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_c6372a03f05d48f7a7262753e0b56787_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -224,6 +224,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "yx6nyzRSECASPRo+WJzRqZCXsUMxA0jYpUZ/ZmyXR0O48yq6zZx8KXy3M2ntvnv26yREqsJmIANEDTmOtzoINmnn0gua0hamJ7DfBxnmrmbfnXsbgP3KBRkWTTioFNbUj8BRo5r9PQx4PFUNVU9LwuY5yjDAcxRkunEZjFSzAIb3RBRP3hI1I5YsjK1jzFs0JPUhKReil4CTd+61ep7un5jl39PhjabEoMqhfvV790GJy6s1SPs2gQhQTsrPMO0LyNk+1Twc+ufq+eT08I/p8tI+uHxdTkEGQpza02vs7kWpOZIn2Ly3obkkyINBQTmhasMwhWx92Ml7PD1r6PeFN127ZCKKwl9/LJxCtV1y8BmA2ung5dj354K8+GeFQjfUFnj8C7G67SgvDflm3Pug/eZNnkcyHSpf4s81PYmsWfmFVIFI8T7s7Gf/Ov9O2b90b/J57fy6Hvru8tyleM8k7Lv7cz4q10JcnUeAKfNqblwlQR+GAg6JOmEWmYLcQ/3cbqWOShi5tjlhjHcfsKuo+g==;GuanWrPycfrw+GivIAxKLw=="
+secured: "Dbi/Lulm45ykBNVSlvVOVLKnH+3iDQLlUUB6lrBF/6oSLRv+8O2s4gWPtS47ATtbrX9oNENeIMIkY92zAaj2Xsk3XwPmcHYFxZDO6UXxscTjtMUV5aEN2jeK2uZAPG0x3pxH9zThk7g2y1oVs4Fkgg6tIP5QJ4RymxhYno94os5fuiFB5Me7hynnBvnQLenmRtx1QohOLTNokZJvq7ilCiqKdzq7KJyUVGNEqGi0sSNL5uNfIYJUN8hck7wfCeDo4TOkvzr21gW6+LaBPxq1DDiqNFIyuIUAy0+IqY23rjJlek91RKQWf0zBGEDQH+uj0eyydOwVODOzv03IDx8CqY7XRfXxKjCUq4luuQOaSmI=;WLVz8luh8JyA/YxxS7C/zw=="
 ---
 

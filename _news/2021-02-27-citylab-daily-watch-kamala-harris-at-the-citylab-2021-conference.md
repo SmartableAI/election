@@ -93,6 +93,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Kamala Harris announces $250 million in funding to help address COVID response inequities"
+    excerpt: "The grants will go to to community organizations that work to address gaps in the response to COVID-19, according to a government official."
+    publishedDateTime: 2021-03-09T01:49:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Kamala Harris to speak at Black History Month event"
     excerpt: "House Majority Leader Steny H. Hoyer (D-Md.) is expected to introduce Vice President Harris at a virtual event marking the 40th Black History Month on Feb. 27."
     publishedDateTime: 2021-02-27T15:24:00Z

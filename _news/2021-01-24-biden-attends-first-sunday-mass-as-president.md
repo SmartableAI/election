@@ -1391,6 +1391,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden nominates two female generals to 4-star commands after promotions delayed under Trump administration"
+    excerpt: "President Joe Biden on Monday announced he has nominated two female generals to positions as 4-star combatant commanders after their promotions had been delayed under the Trump administration.\n    \n"
+    publishedDateTime: 2021-03-09T04:56:17Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_HnP8OxWhtc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/female-generals-nominations-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/female-generals-nominations-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308221513-female-generals-nominations-biden-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Biden prepares to conjure hope and bear pain for a grieving nation  "
     excerpt: "Joe Biden's life of resilience in the face of unbearable loss will take on new meaning when he steps up to deliver his inaugural address Wednesday as the nation's 46th President.\n    \n"
     publishedDateTime: 2021-01-20T11:56:54Z

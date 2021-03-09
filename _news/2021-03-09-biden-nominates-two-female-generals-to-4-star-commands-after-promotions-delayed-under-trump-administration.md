@@ -1,34 +1,33 @@
 ---
 category: news
-title: "House poised to impeach Trump for second time: 'Incitement of insurrection'"
-excerpt: "The House is expected to impeach  Wednesday afternoon for a second time, charging the president with \"incitement of insurrection\" for his role in the violent takeover by a pro-Trump mob of the U.S. Capitol that left five people dead and terrorized lawmakers as they sought to affirm President-elect Joe Biden's victory."
-publishedDateTime: 2021-01-13T18:01:00Z
-originalUrl: "https://www.nbcnews.com/politics/congress/house-poised-impeach-trump-second-time-incitement-insurrection-n1254051"
-webUrl: "https://www.nbcnews.com/politics/congress/house-poised-impeach-trump-second-time-incitement-insurrection-n1254051"
-ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254051"
-cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254051"
+title: "Biden nominates two female generals to 4-star commands after promotions delayed under Trump administration"
+excerpt: "President Joe Biden on Monday announced he has nominated two female generals to positions as 4-star combatant commanders after their promotions had been delayed under the Trump administration.\n    \n"
+publishedDateTime: 2021-03-09T04:56:17Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_HnP8OxWhtc/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_HnP8OxWhtc/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/female-generals-nominations-biden/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/female-generals-nominations-biden/index.html"
 type: article
-quality: 133
+quality: 172
 heat: -1
 published: false
 
 provider:
-  name: NBC News
-  domain: nbcnews.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3441711/210113-donald-trump-mc-1144_a534ace83ed9834fb73d0c7b10bf5b7a.JPG"
-    width: 2500
-    height: 1667
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308221513-female-generals-nominations-biden-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -1408,22 +1407,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden nominates two female generals to 4-star commands after promotions delayed under Trump administration"
-    excerpt: "President Joe Biden on Monday announced he has nominated two female generals to positions as 4-star combatant commanders after their promotions had been delayed under the Trump administration.\n    \n"
-    publishedDateTime: 2021-03-09T04:56:17Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_HnP8OxWhtc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/female-generals-nominations-biden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/female-generals-nominations-biden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 172
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308221513-female-generals-nominations-biden-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Analysis: Biden prepares to conjure hope and bear pain for a grieving nation  "
     excerpt: "Joe Biden's life of resilience in the face of unbearable loss will take on new meaning when he steps up to deliver his inaugural address Wednesday as the nation's 46th President.\n    \n"
     publishedDateTime: 2021-01-20T11:56:54Z
@@ -2734,6 +2717,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "House poised to impeach Trump for second time: 'Incitement of insurrection'"
+    excerpt: "The House is expected to impeach  Wednesday afternoon for a second time, charging the president with \"incitement of insurrection\" for his role in the violent takeover by a pro-Trump mob of the U.S. Capitol that left five people dead and terrorized lawmakers as they sought to affirm President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-13T18:01:00Z
+    webUrl: "https://www.nbcnews.com/politics/congress/house-poised-impeach-trump-second-time-incitement-insurrection-n1254051"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1254051"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254051"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 133
+    images:
+      - url: "https://media1.s-nbcnews.com/i/newscms/2021_02/3441711/210113-donald-trump-mc-1144_a534ace83ed9834fb73d0c7b10bf5b7a.JPG"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "With Hours Left in Office, Trump Grants Clemency to Bannon and Other Allies"
     excerpt: "The president continued using his power to help his supporters, including his former chief strategist and one of his top 2016 fund-raisers."
     publishedDateTime: 2021-01-20T05:59:00Z
@@ -2975,6 +2974,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Ej+eyBtDDe4JfwhMFmr67IgDz8Cryxur8ln2RwxU5epNvFLLYTPbLxUHLC0xwRljzMQ8jfz430eBQZeX0H0kFL5GLkHOoVJHD6sMvCEsQRjmDfDN5rvbLE/mcMx8t9/BpG1d/EjNDU31pWOj7lK07hkp9nokfoFD0UzOuNN3D1lthNjNmkaoaUNWNWiqpdk5qH13VlWlpQluBAfoaRVcgwEyuOpCp6oL+U7Gl5DvCoB9dUjFgFIEksU5nOzUi5vpHjv1/qcnjkchmHm99r4cSeQPxS9RDPiwKoziQQRYE2aXQfBPLP9BQBmn6842MellwnKyTpiq5lbaZOegg/TmAQ5qfecQDRIHVAbeY58ts0d7ntfsoku0J6/cwY5/S/4QskXyl1GGTPcIDPI5RXQEGX+mAtSYGxW/kj/+UZr5niw9L7CBaV4kj2QCnAkOyoMJcyzUlwsaulj6Kg/D/696RDGzR5P0CryLYMm6Ve3uT709jzdHZNeQblPmwcpZxPdBC0vTTkFVJ+kQqJ8BFjOVog==;k1U5og4mkWttmU5yBVJPZg=="
+secured: "vUECIus6//Js7VoMPotaM+jGQ8N+5fg7+FDfEzjB9RNq1A03E6dNtpLxCO1Dhw/dAqzPwlM3jTd26L08fOSMpFeXaYLuKqIdN7svDUGktJC1YT9UxIsHwi8pdEERo2CxByyISIU+0KW5WSZvQlN+P0+7L50TVDA05xz6FIp3WPtJcSgBDdZeJcATbizPQ5IoEAyUhEqbUmKR2AIUNzzTY5xXKBFjWbElnop7iW5by1/1ofyCieUfX9Q98TBfDHo5L4w+zN5/CQuWwB38bdHJ7xbj9Oe8F3N88Pr5HcjzKnLzGCD6zsUqvz7DYYTiqo/epdGGxJQOJpNkpSq/kRm/B+YJf0XmL7NwAEOpvGL8lqc=;2e1b8SDdX+Np27DrTPJ+cg=="
 ---
 

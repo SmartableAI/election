@@ -143,19 +143,19 @@ related:
         isCached: true
   - title: "Trump policy that weakened wild bird protections is revoked"
     excerpt: "The Biden administration has reversed a policy imposed under President Donald Trump that drastically weakened the government’s power to enforce a century-old law protecting most U.S. bird species"
-    publishedDateTime: 2021-03-08T16:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/trump-policy-weakened-wild-bird-protections-revoked-76323686"
+    publishedDateTime: 2021-03-09T04:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-policy-that-weakened-wild-bird-protections-is-revoked/2021/03/08/dea8adc8-808f-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-policy-that-weakened-wild-bird-protections-is-revoked/2021/03/08/dea8adc8-808f-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-policy-that-weakened-wild-bird-protections-is-revoked/2021/03/08/dea8adc8-808f-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_c6372a03f05d48f7a7262753e0b56787_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Donald Trump says he will not start a third party"
     excerpt: "President Donald Trump calls for Republican Party unity in a speech at a conservative political conference. Tries to cement his status as the party’s undisputed leader (Mar. 1)"

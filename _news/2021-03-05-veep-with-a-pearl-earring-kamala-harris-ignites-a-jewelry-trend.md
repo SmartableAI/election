@@ -9,7 +9,7 @@ ampWebUrl: "https://www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-p
 cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/lifestyle/thepage/amp/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php"
 type: article
 quality: 125
-heat: 665
+heat: 685
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/134c519394440450a7f7a12d428244410189fea5/0_2_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a317c70618b167c39a465a419299a17c"
         width: 600
         height: 360
+        isCached: true
+  - title: "Kamala Harris announces $250 million in funding to help address COVID response inequities"
+    excerpt: "The grants will go to to community organizations that work to address gaps in the response to COVID-19, according to a government official."
+    publishedDateTime: 2021-03-09T01:49:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "CityLab Daily: Watch Kamala Harris at the CityLab 2021 Conference"
     excerpt: "A virtual edition of the annual CityLab conference starts Monday, and it includes some pretty impressive speakers. Vice President Kamala Harris will give the keynote address, and U.S. Secretary of Transportation Pete Buttigieg will be interviewed by Bloomberg CityLab’s Laura Bliss."

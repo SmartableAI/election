@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Kamala Harris is emerging as a magnet for progressive pressure on the White House"
-excerpt: "The Rev. William Barber II, one of the nation’s leading civil rights activists, defines the brewing fight over raising the national minimum wage as Kamala Harris’ first fork-in-the-road m"
-publishedDateTime: 2021-03-08T01:00:00Z
-originalUrl: "https://www.columbian.com/news/2021/mar/07/kamala-harris-is-emerging-as-a-magnet-for-progressive-pressure-on-the-white-house/"
-webUrl: "https://www.columbian.com/news/2021/mar/07/kamala-harris-is-emerging-as-a-magnet-for-progressive-pressure-on-the-white-house/"
+title: "Kamala Harris announces $250 million in funding to help address COVID response inequities"
+excerpt: "The grants will go to to community organizations that work to address gaps in the response to COVID-19, according to a government official."
+publishedDateTime: 2021-03-09T01:49:00Z
+originalUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
 type: article
-quality: 50
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: The Columbian
-  domain: columbian.com
+  name: CBS News
+  domain: cbsnews.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://pcdn.columbian.com/wp-content/uploads/2021/03/Biden_78141.jpg-322d0.jpg"
-    width: 900
-    height: 600
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -88,22 +94,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/134c519394440450a7f7a12d428244410189fea5/0_2_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a317c70618b167c39a465a419299a17c"
         width: 600
         height: 360
-        isCached: true
-  - title: "Kamala Harris announces $250 million in funding to help address COVID response inequities"
-    excerpt: "The grants will go to to community organizations that work to address gaps in the response to COVID-19, according to a government official."
-    publishedDateTime: 2021-03-09T01:49:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 116
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "CityLab Daily: Watch Kamala Harris at the CityLab 2021 Conference"
     excerpt: "A virtual edition of the annual CityLab conference starts Monday, and it includes some pretty impressive speakers. Vice President Kamala Harris will give the keynote address, and U.S. Secretary of Transportation Pete Buttigieg will be interviewed by Bloomberg CityLab’s Laura Bliss."
@@ -405,6 +395,20 @@ related:
         width: 650
         height: 427
         isCached: true
+  - title: "Kamala Harris is emerging as a magnet for progressive pressure on the White House"
+    excerpt: "The Rev. William Barber II, one of the nation’s leading civil rights activists, defines the brewing fight over raising the national minimum wage as Kamala Harris’ first fork-in-the-road m"
+    publishedDateTime: 2021-03-08T01:00:00Z
+    webUrl: "https://www.columbian.com/news/2021/mar/07/kamala-harris-is-emerging-as-a-magnet-for-progressive-pressure-on-the-white-house/"
+    type: article
+    provider:
+      name: The Columbian
+      domain: columbian.com
+    quality: 50
+    images:
+      - url: "https://pcdn.columbian.com/wp-content/uploads/2021/03/Biden_78141.jpg-322d0.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "At Black History Event, Harris Champions COVID-19 Bill For Its Aid To Black Americans"
     excerpt: "One day after the House advanced President Biden's $1.9 trillion COVID-19 relief package, Vice President Kamala Harris championed the proposed round"
     publishedDateTime: 2021-02-27T20:46:00Z
@@ -440,6 +444,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "QAB7AJSxH/nNWjTqMB3rqo30m3gzitDqc95KjEa5p4nvIBm7SBoMrJS0UkaE8mrs7zGBx97zZCdF8BunE3KFltolnwAwx1yyHqkPr3G99Mob3KeGGgRLeaLibodSWSPDQKTaLValdto2S4TsJZ4J71QHXZ/oK1CitGo2awQnenWJvMGGy/yA1MGl1nrGOqSws94vCFHeAqCh/6Ldy9SgtTg5d/uwS8KzJbOEP1OT0+WD1dTqqVEjPyZgf5sOuxNPZtNKor0B2KRNBOQMB7DzSSLIzsKVPVE0t/i5vmzh2rVAFlI8V9MgHBR76beek0Q1HxwIImTovXxm4OohcvFO5dyM6YG9RoREOudmBmXWcz+9Stmr02R2lEQbFHtdhgc55ZR2X+UpN7AyLdr9rW69XItXBqWl0lJDJbDGBj6j8OWPT0VHiksAzLhi4pkgviSTx5pHf6pC79fpk5ZmTkKH70Ycv9lFCx8Q+b9HWu9FZTU4TPdALfWw8Aov3ynv7jSKsg5bUwTJHjggk35/TmH1oA==;ceQ4t2qmeDHhXpykO0q4iA=="
+secured: "9wIBDiLSjxAUmpFxDicJPKQmEsk1t4cOZfbCqJjyGyl+Jp2+Wb4q8j+yuYTn/hNPglIF4+nkhZPfr0DFYugjqVdxHiBay215Fuj6ppH82pLuRZGknl2m/J1Pwhp8RiKLAUd7MmwryBg2GTkY5+mH/qQKkMpmiQSPkjtp1I1ueZUQXcj86TBWJEJtNgJdvuNPHYISNbW0eksjdwvLkm00z1VoGZsoaIHLLcCaSxSwixrKJxIXle6QlG+rBc4Ux1toiUmsilfdT5O+pP1yme0uqOUr2QsepOYBAZYTZ3sMgiNn934sNafEr25DzRHTxMCwq+ydRSPlowYoaU4uvSmEv+OvQRYjbnzJDuPqWTMI/w8=;1XTgbyHnh/qhD1KQs/J1NA=="
 ---
 
