@@ -48,6 +48,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden Gives Venezuelans Reprieve to Remain in U.S. Trump Had Rejected"
+    excerpt: "Hundreds of thousands of Venezuelans can temporarily continue to live and work in the United States as the administration considers its next steps in the effort to force out Venezuela’s president."
+    publishedDateTime: 2021-03-08T23:52:00Z
+    webUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-venezuela-maduro.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-venezuela-maduro.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/biden-venezuela-maduro.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/08/us/politics/08dc-diplo-venezuela/08dc-diplo-venezuela-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "x7n0CLRtpKV6F6xzA6iCT9aab7lK5CXrTtcB6OdmaP54hYAPJJ19ni9pildQtUw4rf6dMtLwatfJDHCMwCmIUf+19hFgQ1bIz7RjemSrWVl6yVRAucOVj8ecNIcpCSiOsAK9+w+DbQrGlvMeaL2RV96aH4IUBowxmkzHbPKrcIr+NU/kaXVOd5hrmnivlLdlBoD+bzRXqCX8gU86UyMs4iqmjf8Y5WOKjgBvWbVveko755yyye4r9lywJgbvPjifsihk+cow+Re+J27chbpaZ+uF7CKwOPOJmPkQ1I2AW29f6QcVFwOBLZThcOrLbB+eEldOwSuYIFn25X0p1oDDfwIXk484AbKClhcnwFWtPgJ3L8HtQCortYmHkaY2Q2Ye5bAdLcYcTIoNhSK1w3V8LDs/Eirwwzs3KnhnLwvne/AeLDsJFpPYlxVfHa20G6V9bXfwOj4dnaiyI+KNA1eruYPSXyHJuP7V+3IpBAgajqWNY/uou5FJ8pAmz+q4P6dIJQWEL3V10vrszUQjBTho9g==;kW5y8hHCOSm2EhHpXSGEaw=="
 ---

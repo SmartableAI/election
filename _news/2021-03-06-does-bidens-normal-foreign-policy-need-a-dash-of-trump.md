@@ -9,7 +9,7 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/03/05/biden-foreign-policy-tr
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/05/biden-foreign-policy-trump-473919"
 type: article
 quality: 150
-heat: 170
+heat: 190
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden Gives Venezuelans Reprieve to Remain in U.S. Trump Had Rejected"
+    excerpt: "Hundreds of thousands of Venezuelans can temporarily continue to live and work in the United States as the administration considers its next steps in the effort to force out Venezuela’s president."
+    publishedDateTime: 2021-03-08T23:52:00Z
+    webUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-venezuela-maduro.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-venezuela-maduro.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/biden-venezuela-maduro.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/08/us/politics/08dc-diplo-venezuela/08dc-diplo-venezuela-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Live Updates: Biden to Begin Dismantling Trump-Era Title IX Rules on Campus Sexual Misconduct"
     excerpt: "The president has long vowed to dismantle rules that afforded greater protections to students accused of sexual assault. On Capitol Hill, House members will get an update from a task force examining the failures that allowed the breach of the Capitol."
     publishedDateTime: 2021-03-08T14:25:00Z
