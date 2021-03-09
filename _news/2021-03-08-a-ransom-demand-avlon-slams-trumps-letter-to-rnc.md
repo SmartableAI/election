@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/08/trump-cease-desis
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/08/trump-cease-desist-letter-gop-avlon-reality-check-newday-vpx.cnn"
 type: article
 quality: 135
-heat: 155
+heat: 175
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "R.N.C. Won't Use Trump's Name to Raise Money Without His OK"
+    excerpt: "Lawyers for Mr. Trump had sent cease-and-desist letters to the Republican National Committee and other groups, warning them to stop relying on him in their fund-raising appeals."
+    publishedDateTime: 2021-03-09T16:40:00Z
+    webUrl: "https://www.nytimes.com/2021/03/09/us/trump-rnc.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/09/us/trump-rnc.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/09/us/trump-rnc.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09new-washington-briefing-trump-rnc/merlin_184403487_6b8cca1e-60bf-49e5-a8af-0ea53ab2e771-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "RNC brushes back Trump team on 'cease-and-desist' demand"
     excerpt: "The committee's top lawyer says in a letter to Trump's attorney that the ex-president signed off on the RNC's activities in a conversation with chair Ronna McDaniel."
     publishedDateTime: 2021-03-09T06:17:00Z

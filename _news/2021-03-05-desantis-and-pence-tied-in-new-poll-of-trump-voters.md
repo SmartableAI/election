@@ -207,6 +207,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden administration ditches Trump plan to limit immigration for financially dependent"
+    excerpt: "The Department of Justice told the Supreme Court on Tuesday that it was dropping its defense of the Trump-era expansion of the \"public charge\" rule."
+    publishedDateTime: 2021-03-09T16:44:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/biden-administration-ditches-trump-plan-limit-immigration-financially-dependent-n1260239"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1260239"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1260239"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_10/3455439/210309-immigration-office-jm-1120_de1ca3fbabeedb941a844d1d9b6266b9.jpg"
+        width: 2500
+        height: 1608
+        isCached: true
   - title: "Burnett: Pence is back on the wagon. The wagon of the lie"
     excerpt: "CNN's Erin Burnett reacts to an opinion article published by former Vice President Mike Pence that made claims about what happened in the 2020 election and was filled with attacks on a Democratic elections reform bill known as HR 1."
     publishedDateTime: 2021-03-04T02:02:00Z

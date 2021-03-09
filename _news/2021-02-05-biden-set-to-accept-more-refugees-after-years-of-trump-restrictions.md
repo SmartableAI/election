@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 2000
+heat: 2020
 published: true
 
 provider:
@@ -1431,6 +1431,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden Seeks U.S. Supreme Court Dismissal of Trump Immigration Rule Dispute"
+    excerpt: "Biden, who has criticized Trump's immigration approach, is widely expected to dump the policy known as the \"public charge\" rule. The justices on Feb. 22 had agreed to hear an appeal filed by Trump's administration of a lower court ruling that found the rule likely violated federal immigration and administrative law by impermissibly expanding the definition of who counts as a \"public charge\" and greatly increasing the number of people who would be rejected for residency."
+    publishedDateTime: 2021-03-09T11:37:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-03-09/biden-seeks-us-supreme-court-dismissal-of-trump-immigration-rule-dispute"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
   - title: "President Joe Biden meets with Governors and Mayors on a Recovery Plan at the White House"
     excerpt: "President Joe Biden and Vice President Kamala Harris meet with governors and mayors to discuss the American Rescue Plan, which will provide aid to fight against COVID-19, in the Oval Office in Washington,"
     publishedDateTime: 2021-02-12T17:34:00Z

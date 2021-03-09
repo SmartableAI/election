@@ -1296,6 +1296,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Watch: Joe Biden, Kamala Harris deliver remarks on International Women's Day"
+    excerpt: "President Joe Biden, Vice President Kamala Harris and Secretary of Defense Lloyd Austin delivered remarks on International Women's Day on Monday, March 8. Watch a video below and read the latest national news here."
+    publishedDateTime: 2021-03-08T20:50:00Z
+    webUrl: "https://www.postbulletin.com/news/nation/6923318-Watch-Joe-Biden-Kamala-Harris-deliver-remarks-on-International-Womens-Day"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 67
+    images:
+      - url: "https://www.fccnn.com/incoming/6923414-wo2pj1-U.S.-President-Joe-Biden-makes-remarks-from-the-White-House-after-his-coronavirus-pandemic-relief-legislation-passed-in-the-Senate-in-Washington/alternates/BASE_LANDSCAPE/U.S.%20President%20Joe%20Biden%20makes%20remarks%20from%20the%20White%20House%20after%20his%20coronavirus%20pandemic%20relief%20legislation%20passed%20in%20the%20Senate%2C%20in%20Washington"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "President Joe Biden and Vice President Kamala Harris Meet on U.S. Supply Chains"
     excerpt: "President Joe Biden and Vice President Kamala Harris attend a meeting with a bipartisan group of House and Senate members on U.S. supply chains in the Oval Office on Wednesday, Febuary 24, 2021 in Washington,"
     publishedDateTime: 2021-02-24T19:40:00Z

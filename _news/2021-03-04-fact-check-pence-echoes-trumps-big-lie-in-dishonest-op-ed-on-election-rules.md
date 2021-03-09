@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/fact-check-pence-electio
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html"
 type: article
 quality: 212
-heat: 572
+heat: 592
 published: true
 
 provider:
@@ -191,6 +191,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/08/us/politics/08dc-BIDEN-TITLEIX-2/08dc-BIDEN-TITLEIX-2-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden administration ditches Trump plan to limit immigration for financially dependent"
+    excerpt: "The Department of Justice told the Supreme Court on Tuesday that it was dropping its defense of the Trump-era expansion of the \"public charge\" rule."
+    publishedDateTime: 2021-03-09T16:44:00Z
+    webUrl: "https://www.nbcnews.com/politics/supreme-court/biden-administration-ditches-trump-plan-limit-immigration-financially-dependent-n1260239"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1260239"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1260239"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 142
+    images:
+      - url: "https://media4.s-nbcnews.com/i/newscms/2021_10/3455439/210309-immigration-office-jm-1120_de1ca3fbabeedb941a844d1d9b6266b9.jpg"
+        width: 2500
+        height: 1608
         isCached: true
   - title: "DeSantis and Pence tied in new poll of Trump voters"
     excerpt: "If President Trump chose not to run, it’s clear his supporters are already gravitating towards VP Mike Pence, FL. Gov. Ron DeSantis and Sen. Ted Cruz,” said GOP pollster Tony Fabrizio."

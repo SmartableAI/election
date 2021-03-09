@@ -1280,6 +1280,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Watch: Joe Biden, Kamala Harris deliver remarks on International Women's Day"
+    excerpt: "President Joe Biden, Vice President Kamala Harris and Secretary of Defense Lloyd Austin delivered remarks on International Women's Day on Monday, March 8. Watch a video below and read the latest national news here."
+    publishedDateTime: 2021-03-08T20:50:00Z
+    webUrl: "https://www.postbulletin.com/news/nation/6923318-Watch-Joe-Biden-Kamala-Harris-deliver-remarks-on-International-Womens-Day"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 67
+    images:
+      - url: "https://www.fccnn.com/incoming/6923414-wo2pj1-U.S.-President-Joe-Biden-makes-remarks-from-the-White-House-after-his-coronavirus-pandemic-relief-legislation-passed-in-the-Senate-in-Washington/alternates/BASE_LANDSCAPE/U.S.%20President%20Joe%20Biden%20makes%20remarks%20from%20the%20White%20House%20after%20his%20coronavirus%20pandemic%20relief%20legislation%20passed%20in%20the%20Senate%2C%20in%20Washington"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "Vice President Kamala Harris looks to Arizona for public support on coronavirus aid bill"
     excerpt: "\"If we don't pass this bill ... we know more people are going to die in our country,\" Vice President Kamala Harris told The Arizona Republic."
     publishedDateTime: 2021-01-28T22:33:00Z

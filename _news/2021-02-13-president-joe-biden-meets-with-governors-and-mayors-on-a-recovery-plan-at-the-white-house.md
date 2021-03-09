@@ -1441,6 +1441,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden Seeks U.S. Supreme Court Dismissal of Trump Immigration Rule Dispute"
+    excerpt: "Biden, who has criticized Trump's immigration approach, is widely expected to dump the policy known as the \"public charge\" rule. The justices on Feb. 22 had agreed to hear an appeal filed by Trump's administration of a lower court ruling that found the rule likely violated federal immigration and administrative law by impermissibly expanding the definition of who counts as a \"public charge\" and greatly increasing the number of people who would be rejected for residency."
+    publishedDateTime: 2021-03-09T11:37:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-03-09/biden-seeks-us-supreme-court-dismissal-of-trump-immigration-rule-dispute"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 48
 
 secured: "KNvZ6di77Md4UJqEnJm9Yl9jLqVpJyCh1ILPS6KZW8sVj/h8SVCPQIyZraL06+Z/JGZhi/0mRT744FNKF2sfXGoljheI9m6qb+9f7gPvOXu140n3yq4ob+fqT5D/Q+qz4gDKHDWPDP0Tnp+D2NcSdaL0ph2A/2L6bdlsvInMETwMIFiurec/3MTmFF0v1FfTjOtf8nuNlLLHwT9i0Ont4c3vLqxH1mU8IJ8ZPCnRZ8e+Vhqwq+sXl17O9dlJ6n71shga5gmqr3NrzhwANsJIOFHSp+E5nTiKRcZrX5jNg/txdfrmfNtpd5S1YPtjox1CtI2PDufJLJvEudr/bfV45TLZOzwEmSINu9MlvkG6xzg=;OfhdYcgevgnnPyK2V9rL9g=="
 ---

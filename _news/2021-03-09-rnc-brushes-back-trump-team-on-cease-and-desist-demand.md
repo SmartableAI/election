@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "R.N.C. Won't Use Trump's Name to Raise Money Without His OK"
+    excerpt: "Lawyers for Mr. Trump had sent cease-and-desist letters to the Republican National Committee and other groups, warning them to stop relying on him in their fund-raising appeals."
+    publishedDateTime: 2021-03-09T16:40:00Z
+    webUrl: "https://www.nytimes.com/2021/03/09/us/trump-rnc.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/09/us/trump-rnc.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/09/us/trump-rnc.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09new-washington-briefing-trump-rnc/merlin_184403487_6b8cca1e-60bf-49e5-a8af-0ea53ab2e771-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
 
 secured: "dXGowdB6CHN5Lm4fmYIxP1QyEKRywkr4aiVmiEDRQsyE1g4Juda6kcV96FYpOS8kjg2PB67PE1ErupHlMV+Y1pMEgCvqBpP07UpYbTGNcgouXJFz1rCiJLmPYe/W9I+34X/WUAQZoXdI2ek9fgMssPWKsA6zTMFOtNLhwyw0HIxY/32wwju74ZO1oc/btgvWbobZ5njAbLTxe+W9IETvDsan/M/9n6iuUq/i0dy/TQsEwOuTMFO8SmMOXGyb6gpXhAuj4HuY9ZRLdikJ+zM0RCL43dMxZ6VrC7T0h9Bp4h5iUU42+fml7H9lmZ2RWLdqfcAgjmtOvJFb/ej7WiRQTUV8PVEGr95mXZUxzpnvSQjdDAVTCBY+Qu2IJlQGN9V6PRDiSJiwej5AYt7VCeUQ8h3lsOtC2PwVfmLrLfvv5Aa1h1MU3/wIRUg1Aq06UzJqHiT5/CRuuUxFWOR3/A8B7zz0dZPZg8PHI1N3z3i+HCdLsTioyQInCMeUZ66TbOA8nxOH0zp/x5U6lAMPyDw0NA==;Uc4Tj4R2Lax6TFYroaIaYw=="
 ---
