@@ -1,12 +1,12 @@
 ---
 category: news
 title: "Biden order could change how colleges handle sex misconduct"
-excerpt: "Administration officials say President Joe Biden is rethinking Trump administration policies that weakened how colleges and universities that get federal dollars handle sexual assault accusations on c"
-publishedDateTime: 2021-03-08T14:28:00Z
-originalUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html"
-webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
+excerpt: "President Joe Biden has ordered his administration to review federal rules guiding colleges in their handling of campus sexual assaults"
+publishedDateTime: 2021-03-09T00:48:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
@@ -48,11 +48,11 @@ related:
         height: 545
         isCached: true
   - title: "Biden order could change how colleges handle sex misconduct"
-    excerpt: "President Joe Biden has ordered his administration to review federal rules guiding colleges in their handling of campus sexual assaults"
-    publishedDateTime: 2021-03-09T00:48:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html?outputType=amp"
+    excerpt: "Administration officials say President Joe Biden is rethinking Trump administration policies that weakened how colleges and universities that get federal dollars handle sexual assault accusations on c"
+    publishedDateTime: 2021-03-08T14:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -80,6 +80,6 @@ related:
         height: 545
         isCached: true
 
-secured: "9lctuJAqq6hKOhgy8Ug7jQADw0RFAypgFTgwUz10MRJ2ocJox/O8nu5GwygUIDqST9YzS136lpXV/7fAIdSDuUnGvizWQ+ne6lPhX9WO+JXLXPkj49446PZnLdd3WuJBinZoOc2c2xlDFoc4wJhRseO6GA3Lqdb7z/qxvAXrt9j4U6JavsZwe74gbHHoussyM/6uyjXdPQqu1dYjDefqutZMS1HIM3HuJEbHtRnFfE8QfD/hdepQb1VkOWQ1PczcfioWI8zHXMrNHMuGAB7jBx0FRoUFDvFQ9Jr+Gl+nJGzHQ7i7Q1kOjJzTKq8IujBHj02pINFZj0LlIuEbx2jN0o/r/K8FfHBOseaAe1Gpu1s=;01olijkbf9Txh2ppmUmOEA=="
+secured: "rcCs5kJCniQ3z5S19DPaU/xVg5EoNBCirYx1WZd/C5zuym1fjX+diZXBpRwhauW6tPL2m8H7LIb61HYM1GrB+L+9PGvnOJJAApBOpsEyU+AWp7PzdX88T+UCtxBatwkSOurbsDRkuDv6jzNdmsyMEu+V9c0Q1mHtevleju+jCAxROZzYmqsJCn0fvFOanuf5KaKBuaM7Lg3GgvXN+dhPNxTO3TvcMS36S0Zh0zlSE4tN8Hosdmmni3EQa8j42Zgc+qXNHFU8etgpOEb5pY44BUdA+XfLpZpfl8F5aCT83N9VRNnIU/5PBGAvK1U6cicrIVMlQooMBygY4ctJGO104EM05CHW/F8++KYwLmZ481w=;oAtsLbghtC8EyuPhOlVAmA=="
 ---
 

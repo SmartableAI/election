@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump tells supporters 'No more money for RINOS' as he battles GOP over fundraising with his likeness"
+    excerpt: "Former President Donald Trump is trying to squeeze money away from three of the most integral fundraising and electoral organizations in Republican politics as he aims to ensure Republican donors' money doesn't go to candidates who are disloyal to him. "
+    publishedDateTime: 2021-03-09T12:50:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QuUeaq5zvaw/trump-tells-supporters-no-more-money-for-rinos-as-he-battles-gop-over-fundraising-with-his-likeness"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tells-supporters-no-more-money-for-rinos-as-he-battles-gop-over-fundraising-with-his-likeness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tells-supporters-no-more-money-for-rinos-as-he-battles-gop-over-fundraising-with-his-likeness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "White House returns Bush, Clinton portraits to prominent display after Trump admin hid them away: Report"
     excerpt: "The official portraits of former Presidents Bill Clinton and George W. Bush returned to prominent display in the White House after both were relegated to a little-used area in the final months of Donald Trump’s presidency, according to a report Monday."
     publishedDateTime: 2021-03-09T00:02:22Z

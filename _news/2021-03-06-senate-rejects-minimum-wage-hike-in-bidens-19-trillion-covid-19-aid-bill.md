@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden order could change how colleges handle sex misconduct"
+    excerpt: "President Joe Biden has ordered his administration to review federal rules guiding colleges in their handling of campus sexual assaults"
+    publishedDateTime: 2021-03-09T00:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "ltDwOB5asBKYpYui68Zdx9lSraoNPwPQpeJUvomEdy2jGaYGsShlAO2jCm5SwbV7PXxLZzrCW2boENHuVFbf5TtrGQAgcicYA9hc6043gN6FdXFlpwbP9RhR7h91z/mstf+6RkopuMzSGLm2I4GHP/j4sd6a/ANeBFF4llQ5JLZmqI98ujuLK5mgaTjtD35BhaFTEL9NWYeF64XVZKriJHDoILXKW3PBxU76oFB+u6MsH01rFuty1j5TbTw4CThkgOcMIAyW8rZRgxt33o8H1j74fw2un2TuB8rLZ2W7cAEb/Qo01I/D2GsAnC6Le10zBiYw4ER/3e4V9wwh49DZq/YDjLhOzR0XkL+w3rFt+l1hjvKAgxRAxY/Big76MwFJXYxxmsBAti5oFXJoOHZdBqLrYkWQJMTMsFEeKLN++KIUfagSbzfvqi6T6gQMnngfpz2vNaPu7EXsjEr92FpFmm9x3ywyjOIt+BxSMqrTA9tL3cmqZDha+cwCC8qTvzCjGOK7EJYosFP2dJgvXYbLhA==;BtzEALqMqMRWqfisOfjUZA=="
 ---

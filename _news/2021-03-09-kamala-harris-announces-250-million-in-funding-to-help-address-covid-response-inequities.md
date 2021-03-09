@@ -2,11 +2,11 @@
 category: news
 title: "Kamala Harris announces $250 million in funding to help address COVID response inequities"
 excerpt: "The grants will go to to community organizations that work to address gaps in the response to COVID-19, according to a government official."
-publishedDateTime: 2021-03-09T01:49:00Z
-originalUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
-webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+publishedDateTime: 2021-03-09T12:06:00Z
+originalUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-inequities-funding-250-million/"
+webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-inequities-funding-250-million/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-inequities-funding-250-million/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-inequities-funding-250-million/"
 type: article
 quality: 116
 heat: -1
@@ -444,6 +444,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "9wIBDiLSjxAUmpFxDicJPKQmEsk1t4cOZfbCqJjyGyl+Jp2+Wb4q8j+yuYTn/hNPglIF4+nkhZPfr0DFYugjqVdxHiBay215Fuj6ppH82pLuRZGknl2m/J1Pwhp8RiKLAUd7MmwryBg2GTkY5+mH/qQKkMpmiQSPkjtp1I1ueZUQXcj86TBWJEJtNgJdvuNPHYISNbW0eksjdwvLkm00z1VoGZsoaIHLLcCaSxSwixrKJxIXle6QlG+rBc4Ux1toiUmsilfdT5O+pP1yme0uqOUr2QsepOYBAZYTZ3sMgiNn934sNafEr25DzRHTxMCwq+ydRSPlowYoaU4uvSmEv+OvQRYjbnzJDuPqWTMI/w8=;1XTgbyHnh/qhD1KQs/J1NA=="
+secured: "iogQwzKU/mxQuoHdeuJgvcP8BcNwavCQKadTCvtc71+yX7wJRegiDw0RW+fXQLtaHKWydqXCwfa7AqGBYdX6E/mhp+xylwcHWZeIGFTWF9yCNGd2GDpJZ5CTZbdc+VdnfavjfYDSaMtiOE1vW/40PgfWam4+oTCV2QgSmop/WYwdo5zIcsi1eECdz/G7Gkj9ZQeT2HAiuCJzdpT4dLvHalV0BPuC+mgU/VaDvoTF8qWJW6RkuduaG9uYxZ1iMvBJuvF+3O50fsn67q/5ETXvyxYjIhwz3ynP+LYcb2eexdaHOKk2idJ1+88P/zQ5Sjw1lwfVkxPCmHZa4ee/FOzdYUULsGmxiVQ37rzsvjk4OkE=;kE6I6JjKDC+NCCJMx7zFVA=="
 ---
 

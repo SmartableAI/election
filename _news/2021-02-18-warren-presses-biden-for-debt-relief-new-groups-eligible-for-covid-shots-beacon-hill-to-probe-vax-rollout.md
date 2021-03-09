@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "House gears up for vote on Biden's Covid relief plan"
+    excerpt: "The US House of Representatives is gearing up for a final vote on President Joe Biden's $1.9 trillion Covid relief plan in an effort to send it to the White House to be signed into law later this week.\n    \n"
+    publishedDateTime: 2021-03-09T10:08:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qFjX27LGrfg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/house-stimulus-latest/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/house-stimulus-latest/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226065852-nancy-pelosi-022521-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration changes PPP rules to help reach the smallest businesses"
     excerpt: "The Biden administration announced several changes Monday to the Paycheck Protection Program in an effort to reach minority-owned and very small businesses that may have previously missed out on accessing loans to help weather the coronavirus pandemic.\n    \n"
     publishedDateTime: 2021-02-22T12:23:44Z

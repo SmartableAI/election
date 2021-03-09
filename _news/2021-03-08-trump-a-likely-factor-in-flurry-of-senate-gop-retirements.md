@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-senate-republican-retirements
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-senate-republican-retirements.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump tells supporters 'No more money for RINOS' as he battles GOP over fundraising with his likeness"
+    excerpt: "Former President Donald Trump is trying to squeeze money away from three of the most integral fundraising and electoral organizations in Republican politics as he aims to ensure Republican donors' money doesn't go to candidates who are disloyal to him. "
+    publishedDateTime: 2021-03-09T12:50:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QuUeaq5zvaw/trump-tells-supporters-no-more-money-for-rinos-as-he-battles-gop-over-fundraising-with-his-likeness"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-tells-supporters-no-more-money-for-rinos-as-he-battles-gop-over-fundraising-with-his-likeness.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-tells-supporters-no-more-money-for-rinos-as-he-battles-gop-over-fundraising-with-his-likeness.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Georgia Gov. Kemp says he would 'absolutely' back Trump 2024, despite Trumps' calls for his resignation"
     excerpt: "Georgia Gov. Brian Kemp said he would \"absolutely\" back Donald Trump in a bid for the presidency in 2024, despite Trump’s recent criticism of the Republican governor."
     publishedDateTime: 2021-03-04T02:20:57Z
