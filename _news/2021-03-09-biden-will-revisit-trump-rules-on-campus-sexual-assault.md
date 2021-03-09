@@ -3,10 +3,10 @@ category: news
 title: "Biden Will Revisit Trump Rules on Campus Sexual Assault"
 excerpt: "The Biden administration will examine regulations by Betsy DeVos that gave the force of law to rules that granted more due-process rights to students accused of sexual assault."
 publishedDateTime: 2021-03-08T23:40:00Z
-originalUrl: "https://www.nytimes.com/2021/03/08/us/politics/joe-biden-title-ix.html"
-webUrl: "https://www.nytimes.com/2021/03/08/us/politics/joe-biden-title-ix.html"
-ampWebUrl: "https://www.nytimes.com/2021/03/08/us/politics/joe-biden-title-ix.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/joe-biden-title-ix.amp.html"
+originalUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-campus-sexual-assault-title-ix.html"
+webUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-campus-sexual-assault-title-ix.html"
+ampWebUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-campus-sexual-assault-title-ix.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/biden-campus-sexual-assault-title-ix.amp.html"
 type: article
 quality: 150
 heat: -1
@@ -311,6 +311,6 @@ related:
         height: 773
         isCached: true
 
-secured: "UnDFcofDNjohCv1iFWMPQGBWlvSeRZt09cjNTeLYwaIeg3LKqXLisSCeZgvJi2UPa6xp1ZBJj9n3JABOiEJoRqQI70WC3+Bm8F1JtYPPQpeBEybu3s/AwWmHE0Tv0YomNgg/GLJwecBU3fegois+/UcM1yQ4c7RSc6a8aB+gT3W06ankNBz07cONb99OzC7dROd7VX3YsDmeCuRtjEChE37fA1aQumt4mMqzFSndSdz49BSpJAaKsm/zw6GUVypnVf9KSsxUZLKzfmyVbkZyQ3g3BHLDIEskQZAfeceJOc9nttM9VlfBb6XdY97LQsiivB9WokQP1qeN0F3CFob8Cbokkd4OyxJjOlML/Gc6FZAelOXhzcjocV1TMXEZYfj7oelm1jc4e2uI8SXvwXqqABMoHZaQQv5o9RcK/nysQ3qSIHm8YlMTEpQq2bTjf9Ic/dRL29fFlBaiDRodbye/DtZG7G1P00zxv1JJ/kw9efrOMt8yXuRAbKqh4/dGu0J0I93g7kxNjnbL+k3WEmi59A==;2OOjeeJx7UsFGs2pX34QWw=="
+secured: "xzCNW6ig/0zfaJ1AQ5HB4GFcTEGR4FrRR6jm6ZthsbT+bXToD2gQjEmifWkNw5v5Llhz0uNmJVse/IL8Mdr4LQ/eWFJcvLhYZy/LV2HebVtG9nzCb3j+ED6HwaDNihUdHQPbq922mjNwQpCHTfA4+u3QcIQBePfg/C4PmBtT/mrDYFPhIocO37jmz/QL6Q6FYK6OsOfE4BvGxlljzZAAndwUgMXWHLsCstFLmju/mtJKYKdKOZNgF3WNgkflMZDfBHTJFoRPShhYFjYxLUofuzYAqCzKYRITpt5ciJ/nNiUHy9LjdkqvWGrSW15uVkPYzY5g5Ia0uL6JLFom05ll4w4eKGkSvv+Bi5D1L6hvOCQ=;3AHX2ahzIU0fi3ftTshUJw=="
 ---
 

@@ -180,9 +180,9 @@ related:
   - title: "Biden Will Revisit Trump Rules on Campus Sexual Assault"
     excerpt: "The Biden administration will examine regulations by Betsy DeVos that gave the force of law to rules that granted more due-process rights to students accused of sexual assault."
     publishedDateTime: 2021-03-08T23:40:00Z
-    webUrl: "https://www.nytimes.com/2021/03/08/us/politics/joe-biden-title-ix.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/08/us/politics/joe-biden-title-ix.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/joe-biden-title-ix.amp.html"
+    webUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-campus-sexual-assault-title-ix.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-campus-sexual-assault-title-ix.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/biden-campus-sexual-assault-title-ix.amp.html"
     type: article
     provider:
       name: New York Times
