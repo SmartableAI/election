@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Rudy Giuliani's Twitter Following Drops by Tens of Thousands After Joe Biden Inauguration"
-excerpt: "Giuliani, personal attorney to Donald Trump, has remained an active Twitter user since the former president was suspended from the platform."
-publishedDateTime: 2021-02-10T12:47:00Z
-originalUrl: "https://www.newsweek.com/rudy-giuliani-twitter-account-following-drops-thousands-joe-biden-inauguration-1568183"
-webUrl: "https://www.newsweek.com/rudy-giuliani-twitter-account-following-drops-thousands-joe-biden-inauguration-1568183"
-ampWebUrl: "https://www.newsweek.com/rudy-giuliani-twitter-account-following-drops-thousands-joe-biden-inauguration-1568183?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rudy-giuliani-twitter-account-following-drops-thousands-joe-biden-inauguration-1568183?amp=1"
+title: "Biden administration stops enforcing Trump-era green card restrictions following court order"
+excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
+publishedDateTime: 2021-03-10T05:43:00Z
+originalUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
+webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
 type: article
-quality: 116
+quality: 129
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1730504/rudy-giuliani-michigan-house-oversight-committee.jpg"
-    width: 2500
-    height: 1746
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -174,22 +174,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/0c62bd0c2e1cf5df8c5a11d9dcba4bb0f73cf035/0_0_4325_2594/master/4325.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b7b5bc628e54a9b51e5d464c0473d97d"
         width: 600
         height: 360
-        isCached: true
-  - title: "Biden administration stops enforcing Trump-era green card restrictions following court order"
-    excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
-    publishedDateTime: 2021-03-10T05:43:00Z
-    webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 129
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
     excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"
@@ -1049,6 +1033,22 @@ related:
         width: 3000
         height: 2003
         isCached: true
+  - title: "Rudy Giuliani's Twitter Following Drops by Tens of Thousands After Joe Biden Inauguration"
+    excerpt: "Giuliani, personal attorney to Donald Trump, has remained an active Twitter user since the former president was suspended from the platform."
+    publishedDateTime: 2021-02-10T12:47:00Z
+    webUrl: "https://www.newsweek.com/rudy-giuliani-twitter-account-following-drops-thousands-joe-biden-inauguration-1568183"
+    ampWebUrl: "https://www.newsweek.com/rudy-giuliani-twitter-account-following-drops-thousands-joe-biden-inauguration-1568183?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/rudy-giuliani-twitter-account-following-drops-thousands-joe-biden-inauguration-1568183?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1730504/rudy-giuliani-michigan-house-oversight-committee.jpg"
+        width: 2500
+        height: 1746
+        isCached: true
   - title: "US officials: Biden administration moves to rejoin UN Human Rights Council in another reversal of Trump foreign policies"
     excerpt: "Biden administration moves to rejoin UN Human Rights Council in another reversal of Trump foreign policies. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
     publishedDateTime: 2021-02-08T06:03:00Z
@@ -1487,6 +1487,6 @@ related:
         height: 433
         isCached: true
 
-secured: "MmCKwHWctFTH5KwftUX7PdaXU+d7Aamy6kpaTO3jqtVgEatuj+9BHSmyD9yd10ea2mkWwvadYKp60VcfxN656T00r+OfhqOZAOJwkmtsCsBSguf2+THeefw3ids7JX5dSrijMFtCm7YJSOOXj+qzpT9DY0nPOaj8Oo/nc/8LXCZaVRNArgNHRIx4yYV9oS3QqyX9ZEQ7D8FgEHqsOrfE5T3gBUdGBrnu+edUBBVKluxcAr6e6Nqxu/8vwwfK1ubq//ScJygFhGJd+Z9Fv3Ml/VpRK53Y6jHsVDK7FLAclFm2QFDvJsw4H0HYs5R55RrULmdXpf5XE4VIp4p0+EWetFv9KoH/1ggNK5yOpDwNYnA=;ykCoInAjrJM8v7m3ZEDFLQ=="
+secured: "TeX+uwMKUR3doSdQ8a/goR1CcrZevkZo9HyqQXpUMhCLPkaLD+pIGanoclIkQ4YeTeouvDVM6R4Vcb1oN7PTYtt+6Lt5/r6dcJ6P/JCmKCp2IWSwNlhzoXMRZTo9SpkcNs+GXZ89PQMGcmWONB/Vlu+JxoexRcKs/KxKiB9uPgNeFFtZast/8nHvl064HLWvxg8mIvtiiv1txEbs/oSuQ+l8f4ZZU8Y9N+3nZiS/8NZ6kDVnr//AkeM+8S4OEDbm7fm+44/md7WrrgwhDsdOnNO6znokqODT0wfVR4EuVEclMJ5UyNMth/UuhZzY1IFiRmb8Hk3QGnU4cD+45+2UEivcig+MXzZaZWhKouNeMuw=;sfwFwAITJQtz0fdnnOG5Zw=="
 ---
 

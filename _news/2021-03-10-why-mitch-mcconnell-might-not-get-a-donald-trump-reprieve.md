@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump attacks McConnell as ‘political hack,’ says he will back pro-Trump candidates"
-excerpt: "The lengthy and personal diatribe escalated a growing rift in the GOP about whether it will be controlled by pro-Trump forces or those viewed as more traditional Republicans."
-publishedDateTime: 2021-02-17T07:51:00Z
-originalUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html"
-webUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html?outputType=amp"
+title: "Why Mitch McConnell Might Not Get a Donald Trump Reprieve"
+excerpt: "with some already campaigning in the style of former President Donald Trump. Just when Senate Minority Leader Mitch McConnell thought himself finally rid of the 45th President, Trump and his image ..."
+publishedDateTime: 2021-03-09T19:27:00Z
+originalUrl: "https://time.com/5945252/republican-senators-retiring-trump/"
+webUrl: "https://time.com/5945252/republican-senators-retiring-trump/"
 type: article
-quality: 119
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Time
+  domain: time.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/55AQ3LDOJMI6XHVNM4YWRVNYOQ.jpg&w=1440"
-    width: 1072
-    height: 667
+  - url: "https://api.time.com/wp-content/uploads/2021/03/senator-roy-blunt.jpg"
+    width: 2400
+    height: 1600
     isCached: true
 
 related:
@@ -79,6 +77,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Trump attacks McConnell as ‘political hack,’ says he will back pro-Trump candidates"
+    excerpt: "The lengthy and personal diatribe escalated a growing rift in the GOP about whether it will be controlled by pro-Trump forces or those viewed as more traditional Republicans."
+    publishedDateTime: 2021-02-17T07:51:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-mcconnell-republican-primaries/2021/02/16/2e37b07e-7072-11eb-93be-c10813e358a2_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 119
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/55AQ3LDOJMI6XHVNM4YWRVNYOQ.jpg&w=1440"
+        width: 1072
+        height: 667
+        isCached: true
   - title: "RNC Chairwoman Ronna McDaniel is trying to hold together a party that Donald Trump might want to tear up"
     excerpt: "McDaniel, the unfailingly amiable chairwoman of the Republican National Committee, had stood by Trump, even as a trickle of GOP luminaries abandoned him. She had been Trump’s ha"
     publishedDateTime: 2021-01-29T16:12:00Z
@@ -95,21 +109,7 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Why Mitch McConnell Might Not Get a Donald Trump Reprieve"
-    excerpt: "with some already campaigning in the style of former President Donald Trump. Just when Senate Minority Leader Mitch McConnell thought himself finally rid of the 45th President, Trump and his image ..."
-    publishedDateTime: 2021-03-09T19:27:00Z
-    webUrl: "https://time.com/5945252/republican-senators-retiring-trump/"
-    type: article
-    provider:
-      name: Time
-      domain: time.com
-    quality: 105
-    images:
-      - url: "https://api.time.com/wp-content/uploads/2021/03/senator-roy-blunt.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
 
-secured: "vOmIL4mFb/mYJjDB3FRtIlNHYTfOqHlTdG+908cn/ZSTaNgsXVjTWZ3UfoqStMGOiWnG2X/yqL/QbX6WNkHkgLc6kebWdVSvW5WG88sJ9cq/YKqdetEzQQsdnzdI33hbl6G/+14MbOTFdwC5sKty1eSndmTvDyQWmo5E4Pa3JeBd+ySaO0KEGoAaawbXmI5EWFVVXr4eniujxZmAvgFnln2p97F01MZgsqY883QnSKy/M896gtCYvpOu+SANQp6KyN7kwD58Ko0rlXqzEmXCLI4o51OfXQrQ4Fts467y+0ucOgJwWOknMlTnsNu4Hdws0U4WaKc1uOHd447pOWdaCiK0pSMNsPDInz3UhoxvyM0=;HXQolQEJV/xrdtUG87EugQ=="
+secured: "45N2J1RoyhA/jUxlDNBgmJc1bvErhaAnJzKJ6Y9HmJG1TjdS/LVISqKxLC0gAXMa9JZSepFdUU7WrEbx5NYiRAuWUp67AorHycqnCl/Fy8P5vbBB2XGa+XpOC5QryOKN5yv2J1mswDN+oBSwmFySAcccCAj2Xo8s3yrkI37z/pNvL6MBj1J7+qFlxyglhrXqWJcSzmX1E5bi9afHv5cUp4fpTgS2FeUM7ADOMu3AOF/LgwvUkxRx8DhChHf90fdfXT8Gj81MlctiRuCMSpnQOXcsnlGpHplgFKa81NSm4gc8Js8HuJ+aVClOKtqq6zh1dxNpSxx/R6itkP10z208suniQQc9wMZFWdk6J8z2NU4=;JGflp39jJ/DDNGkIZQLMvw=="
 ---
 

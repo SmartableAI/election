@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 2040
+heat: 2060
 published: true
 
 provider:
@@ -158,6 +158,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0c62bd0c2e1cf5df8c5a11d9dcba4bb0f73cf035/0_0_4325_2594/master/4325.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=b7b5bc628e54a9b51e5d464c0473d97d"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden administration stops enforcing Trump-era green card restrictions following court order"
+    excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
+    publishedDateTime: 2021-03-10T05:43:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 129
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
     excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"

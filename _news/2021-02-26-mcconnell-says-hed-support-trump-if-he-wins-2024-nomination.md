@@ -95,6 +95,20 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Why Mitch McConnell Might Not Get a Donald Trump Reprieve"
+    excerpt: "with some already campaigning in the style of former President Donald Trump. Just when Senate Minority Leader Mitch McConnell thought himself finally rid of the 45th President, Trump and his image ..."
+    publishedDateTime: 2021-03-09T19:27:00Z
+    webUrl: "https://time.com/5945252/republican-senators-retiring-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/03/senator-roy-blunt.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
 
 secured: "7TBQ979P+MIxjbhuESw++JPbQXQynMiCJLSba5z+/flGIvFMa/V5NNTdgDaaqjfnt5XwrCGrhmMMjWfGMdyRzdm3RoNsgeB4V40vgwkW69h81COLQImWNLkmaKW7fKJqm2KKYqc3nnvPn2GtzfK7gExVS06pQyGvYJvq99e4PJ2y8/fX9DB2ZvRwkMSfOoiE3P5CvWmDkK4l8zGLzShEWXql9G74B8CGGbHM+N1usHRF1ijugTpGVDTXUR8hmPRuNRFwhW8klZawRIaO8wwIzXh2upGWLVNB0hTJcHVNh8euZi0+4s3/O6wHTRV5SX97i++KDS8L43BglSBS6ExlS9/RkAgRqqaws+5FYxqzrbcXXsFKGf/6RLk/Kb9qR4+yuOJw5p/oFZJqerqr/+Dt542o7En8frQ+nUpOSS3CrCgS6oHftSVxEoFi2spI9iml8yLVr4PWKBUIJ1OLmNGKS8EVIh5mcIc37imLtsoevZc0nybu68N9emg6szlv+b0s4lxQLZY3y826HTuVB8WP2Q==;18y6yDeA2GKMZlqXCU28lw=="
 ---

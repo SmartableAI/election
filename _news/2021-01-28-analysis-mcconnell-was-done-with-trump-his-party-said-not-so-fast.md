@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trum
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-mcconnell-trump-gop-analysis-20210128-vxxphlpmkbfyjegkowvustfb6i-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DOVI3HS75EI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Why Mitch McConnell Might Not Get a Donald Trump Reprieve"
+    excerpt: "with some already campaigning in the style of former President Donald Trump. Just when Senate Minority Leader Mitch McConnell thought himself finally rid of the 45th President, Trump and his image ..."
+    publishedDateTime: 2021-03-09T19:27:00Z
+    webUrl: "https://time.com/5945252/republican-senators-retiring-trump/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/03/senator-roy-blunt.jpg"
+        width: 2400
+        height: 1600
         isCached: true
 
 secured: "9z443Rx6INUiT5UUrRkhrCsW6elW4LO4J2EKUrmMU/R8tFB5ObVKGSRcn4r1N+FLCVPuPJRD7n0QVyYKLzTZjUoElMZWCbd/V+Z0pLcNHp1RBXlW6BTVD5a5AJx/MyUBo0DE+DoTtekVkZm6UbAm+IqnhSwvFyd/J3+QcCsVnT12RdDHu7qEv2gaOdTnfM57Zv7Iz7pT6+l+ziSOHQEJPOl+rjZyIi96ecuXxfefSWeOrO9da66N7WKP7pyp65WXcU7Bi3Bx+ngmPX2xp4ZCQAPubmnQ8xxRTB6MXiQJJjCgB/LcC9BE+pq14KiT1eOvKb5JY7iW8UXvg3Q00g99uUCJeZHte2QaObba+I1f3zY=;x2MomvpGou7ECCZ1rfg2/g=="

@@ -171,6 +171,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden administration stops enforcing Trump-era green card restrictions following court order"
+    excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
+    publishedDateTime: 2021-03-10T05:43:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 129
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden to visit wounded soldiers at Walter Reed Hospital"
     excerpt: "President Joe Biden is making his first major foray outside the White House, to visit wounded soldiers at Walter Reed Hospital, just outside Washington"
     publishedDateTime: 2021-01-29T15:36:00Z
