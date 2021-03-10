@@ -159,6 +159,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Correction: AP Poll-Biden story"
+    excerpt: "In a story published March 5, 2021, about President Joe Biden’s approval rating, The Associated Press erroneously reported the start date of a poll by The AP-NORC Center for Public Affairs Research"
+    publishedDateTime: 2021-03-09T15:46:00Z
+    webUrl: "https://www.washingtonpost.com/business/correction-ap-poll-biden-story/2021/03/09/93ebd198-80ee-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/correction-ap-poll-biden-story/2021/03/09/93ebd198-80ee-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/correction-ap-poll-biden-story/2021/03/09/93ebd198-80ee-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "A viral misfire: A White House video feed ended but Biden took questions"
     excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
     publishedDateTime: 2021-03-05T00:00:00Z
@@ -206,6 +222,22 @@ related:
       - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15DCA/production/_117364598_mediaitem117364597.jpg"
         width: 1024
         height: 576
+        isCached: true
+  - title: "On war powers, Biden has pushed for both more congressional oversight and broad presidential authority"
+    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
+    publishedDateTime: 2021-03-09T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "President Joe Biden to make first prime-time address to nation Thursday"
     excerpt: "The president will look forward, highlighting the role that Americans will play in beating the virus,' the White House said."

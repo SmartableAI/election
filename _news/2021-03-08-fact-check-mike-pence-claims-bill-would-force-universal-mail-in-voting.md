@@ -3,22 +3,16 @@ category: news
 title: "Fact check: Mike Pence claims bill would force universal mail-in voting"
 excerpt: "The voting bill known as HR 1 “would force states to adopt universal mail-in ballots.” — Mike Pence, former vice president. Pence, the Republican who was Donald Trump’s vice president, raised multiple objections to the bill in a column that appeared in the Daily Signal,"
 publishedDateTime: 2021-03-08T10:00:00Z
-originalUrl: "https://www.houstonchronicle.com/politics/texas/politifact/article/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php"
-webUrl: "https://www.houstonchronicle.com/politics/texas/politifact/article/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php"
-ampWebUrl: "https://www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php"
-cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php"
+originalUrl: "https://www.expressnews.com/politics/texas/politifact/article/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php"
+webUrl: "https://www.expressnews.com/politics/texas/politifact/article/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php"
 type: article
-quality: 125
-heat: 145
+quality: 55
+heat: 75
 published: true
 
 provider:
-  name: Houston Chronicle
-  domain: houstonchronicle.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/houstonchronicle.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Antonio Express-News
+  domain: expressnews.com
 
 topics:
   - Election
@@ -46,6 +40,6 @@ related:
         height: 392
         isCached: true
 
-secured: "C2QrvmlVdlbMakueo6qCFBSgndHx/W3zAi+idOAUQhQrNVhjVYhBvQY4sjCQtQjrozwvD8gwYIPnGPfJIt6tuevdDOyrnGY8+xgFJglM+ZZsHrXu0SDLZ9mtMcyDdrkdffRUgCHwAuE8HEg+YeUjmsVLV1/tnupDPXk86DSlZrTCUmEwJVntvbkzvvtJfWR/LgAW9+g20tp8ENuSo3QLFK4QtiHqiyWfGpLJupYrKqhebKzL+rxov4OlIAAl63RLcwIWlhFTQgW7fAMxyhHV+2xf/GP07Sp4GttvCWXeYK97RR9ASi4dRl9rPw6l7gW+p3YYR2FdNUosilQ4v0S+ZsYgmwpYdzLbuCcxvcHr3fRpnrh/8IembHiGgS4stBFBppJ7Tu5Hh38Abun13kw22zmwARRTNGpQU8lGHfpEw7um4ljgIkkHLFgGh7GMb6QrIAJqDiyrvuC+vUoE8hgHpQNexcTq20InlBE4er1FA63lBDXqiCFjiIZqw4axA7/AdSVo7JuAybjiEKQme1Q16w==;boBona8fgnOx9ULfiWNrRQ=="
+secured: "yY2RzairCnY1kQb6jOVJaLjdT03Z5N/HFhA/ldEKaiQNmpjn6KplASMftuhfo+F6rKUa+66XjIx9CRKQZXh7wBYoTNoCBq8eLCfpQZ/ZQ5cJvJD19mYuub/7x3rYZupV3vqUsSuPMXytotkAtlqY3D5UMWx+utRsl2prVfEi48dNtICx+42aKLdccsn5MRQMU/UIOtZmOlw89psl0Eh35nsCbKRoS+6VgCrkl1H8qOa3g7N8GxZtvBd5vM4oBsMj7eUzjGkBvhmCZSuR00v4oIKnzMKqrYN14s/FwktW5DzvtNRy34kqKPQ2KCwUFxyB9rOXbB3PeWfusdnWb4YZqD8HfTJUeHMD04ezM/ple3E=;+qQQUFfZv6kKTTgXjZ0lzg=="
 ---
 

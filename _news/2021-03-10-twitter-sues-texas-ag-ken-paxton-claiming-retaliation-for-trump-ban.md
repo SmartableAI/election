@@ -124,6 +124,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Judge tosses Trump campaign’s defamation suit against The New York Times"
+    excerpt: "A Manhattan judge on Tuesday tossed a defamation suit filed by former President Donald Trump’s campaign against The New York Times. Trump’s campaign filed the lawsuit against the paper in February"
+    publishedDateTime: 2021-03-10T00:46:00Z
+    webUrl: "https://nypost.com/2021/03/09/judge-tosses-trump-campaigns-defamation-suit-vs-new-york-times/"
+    ampWebUrl: "https://nypost.com/2021/03/09/judge-tosses-trump-campaigns-defamation-suit-vs-new-york-times/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/09/judge-tosses-trump-campaigns-defamation-suit-vs-new-york-times/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Donald-trump-cpac.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Capitol Hill riot arrest: Trump-era aide 'physically' engaged police during chaos, FBI says"
     excerpt: "A former Trump-era State Department aide has been arrested in connection to the Capitol Hill riot, the FBI confirmed to Fox News on Friday."
     publishedDateTime: 2021-03-05T18:49:00Z

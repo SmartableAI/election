@@ -45,6 +45,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden's $1.9 trillion COVID-19 package clears procedural vote in U.S. House"
+    excerpt: "The U.S. House of Representatives voted on Tuesday to advance President Joe Biden's $1.9 trillion COVID-19 relief bill, clearing the way for the measure to be considered on Wednesday, when it is expected to pass."
+    publishedDateTime: 2021-03-09T22:40:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-3-us-house-to-vote-wednesday-on-bidens-19-trillion-covid-19-package-idUSL1N2L71KM"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B11PO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B11PO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210309&t=2&i=1554270389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH280VT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
     excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
     publishedDateTime: 2021-03-04T04:53:00Z

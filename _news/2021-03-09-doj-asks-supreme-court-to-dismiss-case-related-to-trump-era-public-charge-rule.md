@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/doj-dismiss-case-public-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/doj-dismiss-case-public-charge-rule/index.html"
 type: article
 quality: 170
-heat: 190
+heat: 170
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "Trump State Department appointee violated his oath of office at Capitol riot, DOJ says"
-    excerpt: "The Justice Department says a former Trump State Department official violated his oath of office when he allegedly pushed against a police line in storming the US Capitol on January 6.\n    \n"
-    publishedDateTime: 2021-03-09T18:47:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yWlwG-9doAo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/federico-klein-trump-state-department-capitol-riot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/federico-klein-trump-state-department-capitol-riot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 167
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305141522-frederico-klein-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "88Mo8JNM3lvom52o+Zbo949s6chIGtyAml6UzSsmihq784fD2QVV6mzjQ947FNdT2CpsuWEr+oDB95y0IjLMEyhYes2bz/EskvL/0VsRQv2w+ZOc7MipHo+0Mx/IVZn1LXLLG6nv7WoepSPBojxXfgZu6zupfKyiYhsCdqtRJGlwpLcMlA/Ngy+uxZs2T43qo8zGM8d9tuQoO0s36bC70R1W3Hmhi7pbrLUzX8q9/0g3C7Q+T4WnbAK4i5hlFom5RskgJSqwnU7Ir9RH0gH65KOZCfdhWsU+PusllbUc9vpssqZAfi15aSgmWFXnj7EwEMKBIJa21+mszk35vKPYDNrLIOMEnrPjXc3JcWwwO0Y=;M/KmGct+x5/bVXx8l9JFVw=="
 ---

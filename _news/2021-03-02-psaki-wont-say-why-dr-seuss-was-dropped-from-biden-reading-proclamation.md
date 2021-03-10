@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Clyburn: Concerns over Biden mental state 'much ado about nothing'"
+    excerpt: "House Majority Whip Jim Clyburn of South Carolina told Fox News on Tuesday he hopes to see federal checks from the coronavirus relief bill be sent out to Americans \"next week,\" before dispelling rumors of the president having any type of acuity-related shortcomings after he appeared to forget Defense"
+    publishedDateTime: 2021-03-09T23:29:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XCqL1n7u7vU/clyburn-biden-checks-hopefully-out-next-week-dismisses-critics-concerns-of-acuity"
+    ampWebUrl: "https://www.foxnews.com/politics/clyburn-biden-checks-hopefully-out-next-week-dismisses-critics-concerns-of-acuity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-biden-checks-hopefully-out-next-week-dismisses-critics-concerns-of-acuity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki says Biden will hold press conference ‘before the end of the month’"
     excerpt: "White House press secretary Jen Psaki said Thursday President Biden will hold a press conference before the end of the month. "
     publishedDateTime: 2021-03-05T19:28:34Z
@@ -110,22 +126,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/hakeem-jeffries-ap.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "McConnell blames Biden’s ‘sweeping left-wing amnesty plan' for fueling border surge"
-    excerpt: "Senate GOP Leader Mitch McConnell on Wednesday blamed President Biden’s “sweeping left-wing amnesty plan” for fueling the escalating migrant crisis on the southern border -- and said it sidelined the interests of American workers."
-    publishedDateTime: 2021-03-03T21:08:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CEGeOSBi0ok/mcconnell-bidens-amnesty-plan-border-surge"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-bidens-amnesty-plan-border-surge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-bidens-amnesty-plan-border-surge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 169
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66bd0867-734c-4d23-ab91-7e89c506b1f4/bc3cc15b-261f-4b24-a65d-992f22b4a0b0/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Jen Psaki defends Biden 'Neanderthal' reopening quip targeting Texas and Mississippi"
     excerpt: "White House press secretary Jen Psaki said President Biden’s “neanderthal thinking” quip about states removing their mask mandates was an expression of his “frustration and exasperation.” "

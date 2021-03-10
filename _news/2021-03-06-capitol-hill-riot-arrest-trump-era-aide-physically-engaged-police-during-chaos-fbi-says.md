@@ -144,6 +144,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Judge tosses Trump campaign’s defamation suit against The New York Times"
+    excerpt: "A Manhattan judge on Tuesday tossed a defamation suit filed by former President Donald Trump’s campaign against The New York Times. Trump’s campaign filed the lawsuit against the paper in February"
+    publishedDateTime: 2021-03-10T00:46:00Z
+    webUrl: "https://nypost.com/2021/03/09/judge-tosses-trump-campaigns-defamation-suit-vs-new-york-times/"
+    ampWebUrl: "https://nypost.com/2021/03/09/judge-tosses-trump-campaigns-defamation-suit-vs-new-york-times/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/09/judge-tosses-trump-campaigns-defamation-suit-vs-new-york-times/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 134
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Donald-trump-cpac.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump to Take on Holdouts Out of Step With GOP Voters"
     excerpt: "Former President Donald Trump has gone on the offensive against the GOP establishment. But will he strike a deathblow during the midterms? Read Full Article »"
     publishedDateTime: 2021-03-09T20:27:00Z

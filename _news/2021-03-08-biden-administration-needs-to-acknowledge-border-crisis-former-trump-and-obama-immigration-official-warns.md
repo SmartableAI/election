@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump blasts Biden's handling of border crisis: 'Our country is being destroyed'"
+    excerpt: "Former President Donald Trump blasted President Biden's handling of the border crisis, saying the country is being \"destroyed\" by the recent surge of illegal migrants at the border"
+    publishedDateTime: 2021-03-09T23:14:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ky85XhcX09U/trump-biden-border-crisis-immigration-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4c7eed-17f3-4a11-b656-8f6b7b68295f/da644133-079a-4496-9cc5-4b9dd6a4fdc6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump tears into Biden for 'spiraling tsunami' at the border, amid spike in migrant numbers"
     excerpt: "Former President Donald Trump on Friday tore into President Biden for what he described as a \"spiralling tsunami\" at the border, just as the administration stares down a spike in migrant families and unaccompanied children."
     publishedDateTime: 2021-03-05T18:13:16Z
@@ -63,67 +79,67 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden forced to send team to the border as child migrant influx escalates"
-    excerpt: "President Biden has ordered senior members of his team to visit the southern border and report back to him on how to handle the recent influx of migrant children, a White House spokesman said Thursday."
-    publishedDateTime: 2021-03-05T01:50:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PV_RKcHhnPc/biden-team-visit-border-child-migrants"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-team-visit-border-child-migrants.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-team-visit-border-child-migrants.amp"
+  - title: "Texas Gov. Abbott blames Biden reversal of Trump policies for 'self-inflicted' migrant surge at border"
+    excerpt: "Texas Republican Gov. Greg Abbott blamed the Biden administration for what he called a \"self-inflicted\" influx of migrants at the southern border by reversing the immigration policies implemented under former President Donald Trump."
+    publishedDateTime: 2021-03-09T23:20:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fh2sQQIQcJg/greg-abbott-biden-border-surge-self-inflicted"
+    ampWebUrl: "https://www.foxnews.com/politics/greg-abbott-biden-border-surge-self-inflicted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-biden-border-surge-self-inflicted.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f8ec101-a92e-4f14-b5cb-1f21b35eafe7/f159409f-403b-4361-b9fc-1b1ea6bc9bb1/1280x720/match/image.jpg"
-        width: 1080
-        height: 720
-        isCached: true
-  - title: "Lawmakers introduce bill to repeal Biden's war powers following Syria strike"
-    excerpt: "A bipartisan group of senators Wednesday called for the repeal of presidential war powers granted by Congress in 1991 and 2002, which would revoke authorization for military force in the Middle East, as tensions rise between the U.S. and Iran."
-    publishedDateTime: 2021-03-04T01:24:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NdHLmCHONI/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike"
-    ampWebUrl: "https://www.foxnews.com/politics/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76745ea9-cf7e-44fd-ba02-dae99ba4c924/c8528226-5005-4c08-b212-417f33fd5788/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4c7eed-17f3-4a11-b656-8f6b7b68295f/da644133-079a-4496-9cc5-4b9dd6a4fdc6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden administration considers sending child migrants to Virginia military base as numbers surge"
-    excerpt: "The Biden administration is considering housing unaccompanied migrant children in a military base in Virginia as officials scramble to deal with a dramatic surge in child migrants at the southern border."
-    publishedDateTime: 2021-03-05T17:54:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FrvszOKPopc/biden-child-migrants-virginia-military-base-numbers-surge"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
+  - title: "McConnell blames Biden’s ‘sweeping left-wing amnesty plan' for fueling border surge"
+    excerpt: "Senate GOP Leader Mitch McConnell on Wednesday blamed President Biden’s “sweeping left-wing amnesty plan” for fueling the escalating migrant crisis on the southern border -- and said it sidelined the interests of American workers."
+    publishedDateTime: 2021-03-03T21:08:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CEGeOSBi0ok/mcconnell-bidens-amnesty-plan-border-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-bidens-amnesty-plan-border-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-bidens-amnesty-plan-border-surge.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 162
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f2b4c4-a545-4eac-a9b5-6ba620d77cd2/fef6984b-0908-4abe-82a0-1b7e2bfd5733/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66bd0867-734c-4d23-ab91-7e89c506b1f4/bc3cc15b-261f-4b24-a65d-992f22b4a0b0/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Border numbers expected to show wave as migrant children in custody triples, Biden DHS asks for help"
-    excerpt: "The Biden administration is set to release new border numbers this week, figures expected to show a wave of migration crashing down on the southern border in recent weeks -- just as the Department of Homeland Security  (DHS) is urging its staff to volunteer to help with what it admits are \"overwhelming\""
-    publishedDateTime: 2021-03-09T17:17:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAlSIcjiiDU/border-numbers-wave-migrant-children-triples-biden-dhs"
-    ampWebUrl: "https://www.foxnews.com/politics/border-numbers-wave-migrant-children-triples-biden-dhs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-numbers-wave-migrant-children-triples-biden-dhs.amp"
+  - title: "Biden administration 'lied to the American people' about border crisis: Ex-Border chief"
+    excerpt: "President Biden’s Homeland Security Secretary Alejandro Mayorkas \"lied to the American people\" about the growing border crisis, former Acting Customs and Border Protection Commissioner Mark Morgan said Thursday on \"The Faulkner Focus.\""
+    publishedDateTime: 2021-03-04T21:18:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M5wxznfmaNs/bidens-administration-lied-american-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-administration-lied-american-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-administration-lied-american-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4394b12e-936e-4fd0-a56a-b3b597c07b47/d65ba80f-6261-4802-8b7c-78ce7d9f54fd/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Texas Democrat lawmaker warns border situation will ‘become a crisis’ without Biden administration action"
+    excerpt: "Rep. Henry Cuellar, , D-Texas, whose district borders Mexico, says he believes the situation at the border will \"become a crisis\" if President Joe Biden’s administration does not take a stronger stance against illegal immigration."
+    publishedDateTime: 2021-03-02T21:31:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dkDvUoZjV0E/henry-cuellar-texas-border-crisis-biden-administration-action"
+    ampWebUrl: "https://www.foxnews.com/politics/henry-cuellar-texas-border-crisis-biden-administration-action.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/henry-cuellar-texas-border-crisis-biden-administration-action.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/967baea6-efee-4745-967b-7c71937049ac/f6882a97-ccd1-42a7-842b-73d34c571173/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
