@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/supreme-court-drops-sanctuary-city-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "ICE arrests plummet in February as Biden administration tightens rules"
+    excerpt: "Immigration and Customs Enforcement (ICE) arrests plummeted in February, just as the Biden administration imposed stricter rules on the agency as to which categories of illegal immigrants it can arrest and deport."
+    publishedDateTime: 2021-03-10T17:32:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HpOR3SuEhd0/ice-arrests-plummet-february-biden-rules"
+    ampWebUrl: "https://www.foxnews.com/politics/ice-arrests-plummet-february-biden-rules.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ice-arrests-plummet-february-biden-rules.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a3c40c60-719c-46f7-a0f9-29b50b1d2a64/d1e28c4b-7390-42c8-8e8e-06ae3501f147/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "c2nd1odjTf+tmEQz+R7ydy+dQficHJFnciMY8OtzazOkLypDNT9ykpszTYaqkkdERvh30g7UjV3l+7U+75mSjeE6VMWTXgvTI9HB03FPAPOjNjEgB6PJm1SVKYQuJOpoVAj6IJ2fw4C3JHkpvuazM2t0dT2zwjLDnUsOqMQb8OghrSkInbv+BCtD9VZsaM+5PRY0nxO7VDLGrfWBjnkazlySCyuYYZutHY1W9/lxMqRqNk2EFVDMrMN7+RxsX1gXnT+UmCeta9PSC6zRkPzRr1+EDFLmLBGx6UNAWBpPIuFvwG4xFBiJtqs6M00ILrGwoI3OgD8dVqND2l4ws9UN3T9bu5sXUyEHEBvtYveEp2o=;XrL7bly7OJarBF9PpHRDaw=="
 ---

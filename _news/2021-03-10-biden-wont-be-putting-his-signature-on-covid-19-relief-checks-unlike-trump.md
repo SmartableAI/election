@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
 type: article
 quality: 137
-heat: 1017
+heat: 1037
 published: true
 
 provider:
@@ -676,6 +676,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."
+    publishedDateTime: 2021-03-10T12:13:00Z
+    webUrl: "https://www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
   - title: "Live stimulus updates: Kamala Harris breaks Senate tie to begin debate on Joe Biden's COVID stimulus bill"
     excerpt: "It’s time to move forward with this legislation which will be one of the largest antipoverty bills in recent history,” Sen. Chuck Schumer said."
     publishedDateTime: 2021-03-05T15:44:00Z

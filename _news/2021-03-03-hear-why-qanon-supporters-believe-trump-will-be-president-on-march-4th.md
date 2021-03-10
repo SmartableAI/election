@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2021/03/03/qanon-march-fourth-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2021/03/03/qanon-march-fourth-beliefs-trump-president-sidner-dnt-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 195
+heat: 215
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump asks supporters to send money to his PAC instead of GOP"
+    excerpt: "Former President Donald Trump is asking his supporters to donate money through his own political apparatus rather than traditional Republican campaign committees.\n    \n"
+    publishedDateTime: 2021-03-10T13:11:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nYu5dF-8oAU/trump-asks-supporters-to-donate-to-him-instead-of-gop-haberman-sot-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/10/trump-asks-supporters-to-donate-to-him-instead-of-gop-haberman-sot-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/10/trump-asks-supporters-to-donate-to-him-instead-of-gop-haberman-sot-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301201624-donald-trump-210228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Why Donald Trump is fighting Republicans over his name"
     excerpt: "While Donald Trump has long championed himself as a master real estate tycoon, talk to anyone familiar with how he built his fortune and they will tell you that the key to his success wasn't buying buildings."
     publishedDateTime: 2021-03-09T22:18:00Z

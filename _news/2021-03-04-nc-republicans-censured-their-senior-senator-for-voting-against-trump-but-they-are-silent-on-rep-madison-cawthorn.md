@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 766
         isCached: true
+  - title: "Trump requests a mail-in ballot after months of falsely crying ‘fraud’ on mail-in ballots"
+    excerpt: "Records from the Palm Beach County Supervisor of Elections show that a mail-in ballot for the town’s local election this week was requested on Friday and cast on Monday."
+    publishedDateTime: 2021-03-10T17:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/10/trump-mail-voting-ballot-palmbeach/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/10/trump-mail-voting-ballot-palmbeach/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/10/trump-mail-voting-ballot-palmbeach/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UL34SQUANEI6XPRCGLJTDWDVGA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "GRMutD5703CSrV+VmZ4C5ElxMSOiixU7PNnxRoLXsky+6xbRV1fXTD0LqgRAmxC2Qh/bRdo5Yk6qhWaDpAIEAuReaJ9nYhHN/OotRGtKuES11n5R2FHu0/Cjv6NQtce3aCzJYBduTDTR14Uhj5Nq++rnahiNbrWe+8FuzgoEIjaXItIooQw7QRYjI2Infd0IsLZwv8wbJrrOfbNPr3AqX+YUUnMknNQ/LzT5GeOg7o5d6DOGJQR+KKnBPv3xQUrhujGSJ/ztlnac/cNGNEhKMfR6I1wWmP4DsDWg+kZ+OlOzWEJmyU/bFOJ8VXcUjsoSh3xWO1fvluJ/kf4rcVuP5jsUIH7hMsv7i7tJtunzqgzKaYnCr8wZCvzSJUEQC/Kqi36dHS0MPeRwqXd5+Ap9lwLtUpwPcH3CHV/RVUjK+//pOk5k1DiZODKhTNwne9uHrxUQV4aFzqTHYbRcd3kzw69QloE9nYTA0Azb4nZvVxG6B6oVCwuKQzY3nzgC6Nru22vAY1it6eDNkf8XLHSdew==;B/SsmOPh+/hii+3TV4lxoA=="
 ---

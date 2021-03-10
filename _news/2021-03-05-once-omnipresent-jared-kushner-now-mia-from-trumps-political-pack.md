@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "POLITICO Playbook PM: Trump position against transgender athletes draws broad support"
+    excerpt: "Former President DONALD TRUMP railed against transgender athletes in female sports in his CPAC speech a few weeks ago. Other prominent voices on the right have joined in, calling it an example of political correctness having a real-world impact."
+    publishedDateTime: 2021-03-10T18:23:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/03/10/trump-position-against-transgender-athletes-draws-broad-support-492061"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 108
+    images:
+      - url: "https://static.politico.com/7e/2d/81f6769b4222911256b7ff9671a7/gettyimages-1304610268.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "OofA+Yd/hyxLDYpUq6XT1pH2rL1LI6JID3DEhW/y2VXtksoP8mcY2aRKUU3lflsI/PJFmBxGogLhgyuXtvjPdn71Ui8MRMu37RNsT3bpduMJnHE4Tkq/89RTpQcnkbaFvOsisMxKIzEQG1cus6Aq2i+LW56+A8YBXGgV5IV8oMBkW9bG9xG6RKUA6LYK5NKxwGBCH0YD2UmSqLL4oJOEWYpP4qeznqKGUAnURKImcTNHP6Qjgu/OIfHhICo1HDzwy26KHepkcce2bGqivKPdR1WILnz1DnnC2W0XFvOJvBvYvvTiO9VVj8IpW3attQ5tlv8rzJNNl6DDAtbNvZxO3YIZNITGQNF3OAFDrrG7gIo=;8Lh28ZMKtIEBJXkTLdkbzA=="
 ---

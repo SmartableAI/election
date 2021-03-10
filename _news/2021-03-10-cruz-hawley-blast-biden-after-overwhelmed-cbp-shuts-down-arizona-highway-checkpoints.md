@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Arizona AG: Biden border policy 'one of the dumbest things' to ever come from DC"
+    excerpt: "Arizona’s attorney general says he believes the Biden administration’s immigration policies are “encouraging more illegal immigration.”"
+    publishedDateTime: 2021-03-10T18:10:08Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/KV3XlX3BaF4/arizona-bidens-immigration-rules-humanitarian-crisis-border"
+    ampWebUrl: "https://www.foxnews.com/politics/arizona-bidens-immigration-rules-humanitarian-crisis-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-bidens-immigration-rules-humanitarian-crisis-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6b1a0334-bb50-4a97-b7a0-3c2e73d3e40b/3fe8caa5-d41c-4211-9300-881be2091f35/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s US-Mexico border pullback creating ‘roads for the cartels,’ Arizona sheriff says: report"
     excerpt: "The U.S.-Mexico border region in Arizona is becoming less secure since President Biden took office, a sheriff is alleging, according to a report."
     publishedDateTime: 2021-03-04T08:24:15Z

@@ -688,6 +688,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."
+    publishedDateTime: 2021-03-10T12:13:00Z
+    webUrl: "https://www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
   - title: "'Dinner table' politics: Why Joe Biden ditched bipartisan dealmaking to pass his COVID-19 relief bill"
     excerpt: "President Biden's decision to go it alone on his COVID-19 relief plan could sink any promise of bipartisanship for his next big-ticket proposals."
     publishedDateTime: 2021-03-07T17:15:00Z

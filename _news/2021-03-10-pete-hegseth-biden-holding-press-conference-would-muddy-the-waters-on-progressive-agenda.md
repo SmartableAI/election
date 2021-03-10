@@ -80,6 +80,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Marcia Fudge confirmed as Biden's HUD secretary"
+    excerpt: "The Senate on Wednesday confirmed Marcia Fudge to be President Biden's new secretary of Housing and Urban Development (HUD)."
+    publishedDateTime: 2021-03-10T17:39:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NB-3hIYgcwU/marcia-fudge-confirmed-to-be-hud-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki won’t say why Dr. Seuss was dropped from Biden reading proclamation"
     excerpt: "White House press secretary Jen Psaki wouldn’t say why President Biden dropped Dr. Seuss from \"Read Across America Day,\" the annual celebration of reading in honor of the legendary children’s author."
     publishedDateTime: 2021-03-02T20:13:19Z

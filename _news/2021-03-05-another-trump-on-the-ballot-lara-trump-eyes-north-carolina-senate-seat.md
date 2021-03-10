@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-lara-trump-nor
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-lara-trump-north-carolina-senate-20210304-guyqxakcjzh4fcg2zx2s3m45ja-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump requests a mail-in ballot after months of falsely crying ‘fraud’ on mail-in ballots"
+    excerpt: "Records from the Palm Beach County Supervisor of Elections show that a mail-in ballot for the town’s local election this week was requested on Friday and cast on Monday."
+    publishedDateTime: 2021-03-10T17:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/10/trump-mail-voting-ballot-palmbeach/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/10/trump-mail-voting-ballot-palmbeach/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/10/trump-mail-voting-ballot-palmbeach/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 116
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UL34SQUANEI6XPRCGLJTDWDVGA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "N.C. Republicans censured their senior senator for voting against Trump. But they are silent on Rep. Madison Cawthorn."
     excerpt: "The contrasting approach to Sen. Richard Burr and Cawthorn, a pro-Trump freshman, starkly illustrates the dichotomy within the Republican Party."
     publishedDateTime: 2021-03-04T03:04:00Z

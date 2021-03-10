@@ -159,6 +159,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's border crisis complicates coronavirus fight, Homan says: 'The president is putting America at risk'"
+    excerpt: "The crisis at the border continues to worsen as a growing number of unaccompanied migrant children remain in Border Patrol custody this week — and critics fear the situation will \"greatly complicate\" the spread of COVID-19."
+    publishedDateTime: 2021-03-10T17:44:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GIoqQXLWGcA/border-crisis-covid-crisis-president-america-risk-com"
+    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-covid-crisis-president-america-risk-com.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-covid-crisis-president-america-risk-com.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Mexico-migrants-Biden-sign.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Trump slams Biden for migrant ‘tsunami’ at Mexican border"
     excerpt: "Trump fired off a 428-word emailed attack pinning responsibility on Biden for the border surge that’s already required the opening of two overflow facilities for unaccompanied minors."
     publishedDateTime: 2021-03-05T19:16:00Z

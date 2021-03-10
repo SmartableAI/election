@@ -75,6 +75,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "RICO expert hired by prosecutor investigating Trump call"
+    excerpt: "An expert on Georgia’s racketeering law was set to be sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year"
+    publishedDateTime: 2021-03-10T16:30:00Z
+    webUrl: "https://www.washingtonpost.com/national/rico-expert-hired-by-prosecutor-investigating-trump-call/2021/03/10/e8424ec8-81bd-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/rico-expert-hired-by-prosecutor-investigating-trump-call/2021/03/10/e8424ec8-81bd-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/rico-expert-hired-by-prosecutor-investigating-trump-call/2021/03/10/e8424ec8-81bd-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
     publishedDateTime: 2021-03-05T18:29:00Z
