@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
 type: article
 quality: 137
-heat: 1037
+heat: 1137
 published: true
 
 provider:
@@ -271,6 +271,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "House approves $1.9 trillion COVID relief package, sending bill to Biden"
+    excerpt: "Mr. Biden celebrated the passage of his plan in the wake of the ... These compromises were negotiated to satisfy moderate Democrats in the Senate, particularly Senator Joe Manchin. As Democrats have a 50-seat majority in the Senate, they require support ..."
+    publishedDateTime: 2021-03-10T19:19:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-american-rescue-plan-passes-house-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-passes-house-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-passes-house-biden/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 124
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/10/461fb591-be60-4a58-bebb-c908871d9234/thumbnail/1200x630/1950d4fb8ac3c83f3784c1f47ab20b14/2021-03-10t191936z-1953990643-rc2j8m915qnv-rtrmadp-3-health-coronavirus-usa-congress.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Senate rejects minimum wage hike in Biden's $1.9 trillion COVID-19 aid bill"
     excerpt: "The U.S. Senate on Friday rejected an amendment to more than double the federal minimum wage over five years, as it launched what is expected to be a long debate over President Joe Biden's $1.9 trillion COVID-19 relief bill."
     publishedDateTime: 2021-03-05T22:28:00Z
@@ -300,6 +316,22 @@ related:
     quality: 123
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210309&t=2&i=1554270389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH280VT"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden's $1.9 trillion coronavirus aid bill gets enough votes to pass House"
+    excerpt: "WASHINGTON, March 10 (Reuters) - President Joe Biden’s $1.9 trillion COVID-19 relief bill secured enough votes in the U.S. House of Representatives to pass on Wednesday. The Senate has already approved the legislation. The next step will be the White ..."
+    publishedDateTime: 2021-03-10T18:07:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B22IG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22IG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554436201&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291I2"
         width: 817
         height: 545
         isCached: true
@@ -415,6 +447,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "House Democrats pass $1.9 trillion COVID-19 relief bill, handing Biden major victory"
+    excerpt: "Texas businesses reopen amid COVID concerns House Democrats on Wednesday passed a massive $1.9 trillion COVID-19 relief bill with the goal of having it on President Joe Biden’s desk by the end ..."
+    publishedDateTime: 2021-03-10T19:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/house-vote-19-trillion-covid-19-relief-bill/story?id=76327205"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/house-vote-19-trillion-covid-19-relief-bill/story?id=76327205"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/house-vote-19-trillion-covid-19-relief-bill/story?id=76327205"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 118
+    images:
+      - url: "https://s.abcnews.com/images/Politics/pelosi-relief-vote-gty-ps-210310_1615404007615_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Hours-long reading of legislation delays debate on Biden's $1.9 trillion COVID-19 bill"
     excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill was read aloud."
     publishedDateTime: 2021-03-05T12:32:00Z
@@ -494,6 +542,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/9f5e7e43926723c85f4f28f3cb46d46e3e17c560/0_326_4896_2938/master/4896.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4a94294c36c72c3edd021e1967335d3"
         width: 600
         height: 360
+        isCached: true
+  - title: "Watch Live: House to vote on $1.9 trillion COVID relief bill, handing Biden major legislative win"
+    excerpt: "The $1.9 trillion aid plan is expected to pass along party lines and will head to Mr. Biden's desk before key unemployment programs ... particularly Senator Joe Manchin. As Democrats have a 50-seat majority in the Senate, they require support from all ..."
+    publishedDateTime: 2021-03-10T15:01:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-american-rescue-plan-house-vote-watch-live-stream-today-2021-03-10/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-house-vote-watch-live-stream-today-2021-03-10/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-house-vote-watch-live-stream-today-2021-03-10/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/10/461fb591-be60-4a58-bebb-c908871d9234/thumbnail/1200x630/1950d4fb8ac3c83f3784c1f47ab20b14/2021-03-10t191936z-1953990643-rc2j8m915qnv-rtrmadp-3-health-coronavirus-usa-congress.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden's 1st 100 days live updates: Biden to make final push for COVID relief as Senate debates bill"
     excerpt: "The Senate is getting closer to a vote on the $1.9 trillion measure. ABC News Live Update: US Capitol on high alert for possible threat Today is Day 45 of the administration of President Joe Biden and Vice President Kamala Harris."
@@ -660,6 +724,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "$1.9 trillion COVID-19 relief bill with $1,400 stimulus checks passes House, heads to President Biden for signature"
+    excerpt: "President Biden will sign the bill into law Friday, the White House said. He started pushing the measure in January before he took office."
+    publishedDateTime: 2021-03-10T20:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/10/covid-stimulus-bill-passes-house-heads-joe-biden-signature/4622954001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4622954001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4622954001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/1f775faf-6422-400a-83cb-a6800ed38546-GTY_1306363694.jpg?auto=webp&crop=6889,3876,x0,y350&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden's relief bill isn't getting bipartisan support like previous stimulus bills. What do Republicans dislike so much?"
     excerpt: "Republican Senators have described President Joe Biden's COVID-19 stimulus plan as a \"clunker,\" \"bad politics\" and “wildly expensive.\" The legislation, dubbedthe"
     publishedDateTime: 2021-03-05T10:12:00Z

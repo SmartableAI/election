@@ -95,22 +95,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden administration considers sending child migrants to Virginia military base as numbers surge"
-    excerpt: "The Biden administration is considering housing unaccompanied migrant children in a military base in Virginia as officials scramble to deal with a dramatic surge in child migrants at the southern border."
-    publishedDateTime: 2021-03-05T17:54:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FrvszOKPopc/biden-child-migrants-virginia-military-base-numbers-surge"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f2b4c4-a545-4eac-a9b5-6ba620d77cd2/fef6984b-0908-4abe-82a0-1b7e2bfd5733/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Texas Democrat knocks Biden over immigration policy, sending delegation to the state without notice"
     excerpt: "Texas Democratic Rep. Henry Cuellar criticized the Biden administration’s handling of the border on Tuesday and said the president sent a delegation without notice to his district to investigate the surge of illegal immigrants into the United States."
     publishedDateTime: 2021-03-09T20:42:41Z

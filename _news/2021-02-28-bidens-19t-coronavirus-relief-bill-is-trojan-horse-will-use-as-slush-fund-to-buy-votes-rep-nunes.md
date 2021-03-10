@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-relief-bill-troja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-relief-bill-trojan-horse-rep-nunes.amp"
 type: article
 quality: 157
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: Fox News
@@ -29,40 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Schumer prepared to outlast GOP delays tactics to pass Biden's $1.9T coronavirus bill this week"
-    excerpt: "Senate Democrats are prepared to work long nights and through the weekend to push through President Biden's $1.9 trillion coronavirus relief legislation, determined to outlast an onslaught of expected GOP delay tactics."
-    publishedDateTime: 2021-03-04T20:31:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week"
-    ampWebUrl: "https://www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d3342b12-c01b-47c2-8873-0b049df6cfd6/606ea425-b5de-4601-8e55-e4bb1312cc7d/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
-    excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."
-    publishedDateTime: 2021-03-08T17:22:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0k5ZmzU8ZEI/biden-first-primetime-address-anniversary-covid-shutdowns"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "VkY1IAj7IPwnY9kKxHwxZM8kv26xUdK4ksT8lLCrNiAbDRbkcTgAgdmUEnrxGjhdpf5NULQ7vkFeuhO3OPccnqSiWxMQT2/iskJObaRoqoCwoBNfe9x26UZztiDcrydkQKBj09btcdn5kNjYJbwtwvBtDkeqgXPixzVDTuU9sT5UUOA2j0ICUM98/ZJG+I4Oa9ydJhfy7RTbXZY0E0/1YF8IlgkZ8+9DrGkaxtfIbR6TM0emJ9vP+ozhc76lq+7rXDsFfyfV2jQO0+L6ylmhPq0PqD//FEWwdR6OjVFeTEOFlUkuZ4svVVVRPj5pz3NB6Kk1rra9NJd7NOPJESiyOdGfGc3/ZRJFQcQ9uG7hBuc=;3NJCkWwR/BvixG8lRNMbUQ=="
 ---

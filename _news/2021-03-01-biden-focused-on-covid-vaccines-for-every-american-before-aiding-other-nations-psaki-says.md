@@ -127,54 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "White House press corps ushered away after asking Biden questions — again"
-    excerpt: "Aides to President Biden hurried the traveling press corps away as they shouted questions at an unresponsive commander in chief in Washington Tuesday -- his 48th day in office without holding a solo press conference. "
-    publishedDateTime: 2021-03-10T16:30:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1D4HyQNkCw/white-house-press-corps-ushered-away-asking-biden-questions-again"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden backs House gun background check bills that would tighten restrictions"
-    excerpt: "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system."
-    publishedDateTime: 2021-03-08T17:31:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_d_Y_MdnyAE/biden-gun-background-check-bills"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-background-check-bills.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-background-check-bills.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Democrats '110%' confident Biden's COVID relief bill will become law this week"
-    excerpt: "House Democrats expressed optimism that they will deliver President Biden an early legislative victory this week by passing his $1.9 trillion coronavirus stimulus legislation and make strides toward erasing poverty in the United States in doing so. "
-    publishedDateTime: 2021-03-09T19:23:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVlq1XouPyY/democrats-confident-biden-coronavirus-bill-law-this-week"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-confident-biden-coronavirus-bill-law-this-week.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-confident-biden-coronavirus-bill-law-this-week.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/hakeem-jeffries-ap.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Jen Psaki defends Biden 'Neanderthal' reopening quip targeting Texas and Mississippi"
     excerpt: "White House press secretary Jen Psaki said President Biden’s “neanderthal thinking” quip about states removing their mask mandates was an expression of his “frustration and exasperation.” "
     publishedDateTime: 2021-03-04T19:27:23Z
@@ -207,54 +159,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden won't deliver speech to Congress until after vote on coronavirus bill, Psaki says"
-    excerpt: "White House press secretary Jen Psaki said President Biden will wait to address a joint session of Congress until after Congress decides on the American Rescue Plan, his coronavirus relief package."
-    publishedDateTime: 2021-03-03T20:00:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drcOHAb5y6o/biden-no-speech-to-congress-until-coronavirus-bill-passes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-speech-to-congress-until-coronavirus-bill-passes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-speech-to-congress-until-coronavirus-bill-passes.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden gives premature pat on the back to Democrats on COVID bill, ignores progressives"
-    excerpt: "President Biden cheered the passage Saturday of his $1.9 trillion coronavirus relief bill in the Senate and said the massive stimulus is the key to ending the suffering caused by the yearlong pandemic. "
-    publishedDateTime: 2021-03-06T20:16:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-xBJ4oQwpXo/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden DOJ nominee Gupta says she doesn't support defunding police despite past comments"
-    excerpt: "Vanita Gupta, President Biden's pick to be the next associate attorney general, stated during her confirmation hearing Tuesday morning that she does not support defunding police, although past remarks have led to claims that she does."
-    publishedDateTime: 2021-03-09T18:19:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DRbPfTBQo24/biden-doj-nominee-vanita-gupta-defund-police"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-nominee-vanita-gupta-defund-police.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-nominee-vanita-gupta-defund-police.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Psaki: Biden admin 'committed to fighting our hearts out' for Tanden, raising minimum wage"
     excerpt: "The Biden administration remains committed to \"fighting our hearts out\" for Budget Director pick Neera Tanden, Biden's press secrestary said Sunday."
     publishedDateTime: 2021-02-28T15:10:39Z
@@ -270,22 +174,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/neera-tanden.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "Biden signs executive orders on combating sexual harassment, coinciding with Cuomo scandal"
-    excerpt: "President Biden is taking action with the aim of advancing gender equality and combating sexual harassment, while a prominent member of his party, New York Gov. Andrew Cuomo, finds himself at the center of a growing harassment scandal."
-    publishedDateTime: 2021-03-08T15:02:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vp0fzUOzDo8/biden-executive-orders-sexual-harassment-cuomo-scandal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-orders-sexual-harassment-cuomo-scandal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-sexual-harassment-cuomo-scandal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "Biden wants new war powers vote in Congress for authorizing America's foreign wars, Psaki says"
     excerpt: "The White House on Friday said it is \"committed\" to working with Congress on new legislation to repeal current presidential war powers to be replaced with a \"narrow and specific framework\" to protect U.S. national security, while \"ending the forever wars.\""

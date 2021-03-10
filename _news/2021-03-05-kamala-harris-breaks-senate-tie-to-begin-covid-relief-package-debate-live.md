@@ -81,10 +81,10 @@ related:
         isCached: true
   - title: "Kamala Harris announces $250 million in funding to help address COVID response inequities"
     excerpt: "The grants will go to to community organizations that work to address gaps in the response to COVID-19, according to a government official."
-    publishedDateTime: 2021-03-09T12:06:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-inequities-funding-250-million/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-inequities-funding-250-million/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-inequities-funding-250-million/"
+    publishedDateTime: 2021-03-09T01:49:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
     type: article
     provider:
       name: CBS News

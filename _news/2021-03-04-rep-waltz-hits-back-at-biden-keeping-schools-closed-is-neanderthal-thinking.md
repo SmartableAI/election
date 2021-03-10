@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-neanderthal-thinking-schools-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neanderthal-thinking-schools-closed-masks-waltz.amp"
 type: article
 quality: 171
-heat: 331
+heat: 271
 published: true
 
 provider:
@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Texas Lt. Gov slams Biden's ‘Neanderthal thinking’ comment on lifting COVID restrictions"
-    excerpt: "Texas Lt. Gov Dan Patrick, R., slammed Joe Biden's \"Neanderthal thinking\" comment on lifting COVID-19 restrictions Thursday, calling the president a \"hypocrite.\""
-    publishedDateTime: 2021-03-04T20:18:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r4WuBdmB5zo/texas-bidens-neanderthal-covid-restrictions"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-bidens-neanderthal-covid-restrictions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-bidens-neanderthal-covid-restrictions.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 166
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Arkansas gov responds to Biden 'Neanderthal thinking' comment: 'Common sense' over 'mandates'"
     excerpt: "Republican Arkansas Gov. Asa Hutchinson hit back after President Biden's \"Neanderthal thinking\" comment aimed at Republicans."
     publishedDateTime: 2021-03-07T15:22:46Z
@@ -95,22 +79,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden says Texas and Mississippi over lifting COVID restrictions, guilty of ‘Neanderthal thinking’"
-    excerpt: "President Biden took a swipe at Republican governors in Texas and Mississippi Wednesday, accusing them of \"Neanderthal thinking\" following their decision to reverse COVID safety policies, including mask mandates."
-    publishedDateTime: 2021-03-03T20:51:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvcRq4k7gDM/biden-says-texas-and-miss-guilty-of-neanderthal-thinking"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6130b85-52f2-46fc-b88a-dc8fb9055492/5b6acd63-199a-4dfb-bd9d-f105cacbb701/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Montana governor says Biden 'degraded' himself with 'Neanderthal' comment about red-state governors"
     excerpt: "Montana Gov. Greg Gianforte said President Biden “degraded” himself, following comments he made comparing red-state governors to Neanderthal’s."
     publishedDateTime: 2021-03-05T13:42:43Z
@@ -126,22 +94,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f40284ca-4127-4a04-8060-d08bcc986d72/7baf10ee-c1d3-4e41-a92f-99df32d2f66f/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Gov. Abbott hits back at Biden: Releasing COVID-infected migrants into Texas is 'Neanderthal thinking'"
-    excerpt: "Texas Gov. Greg Abbott on Thursday pushed back against President Biden for saying that red-state governors lifting mask mandates was \"Neanderthal thinking.\""
-    publishedDateTime: 2021-03-04T17:21:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7GZBWZtxwtQ/texas-greg-abbott-biden-neanderthal-mask-mandates-covid"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-greg-abbott-biden-neanderthal-mask-mandates-covid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-greg-abbott-biden-neanderthal-mask-mandates-covid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 159
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
   - title: "McEnany rips Biden's 'Neanderthal' remark on 'Fox & Friends,' compares it to Hillary's 'deplorables' insult"
     excerpt: "Fox News analyst and former White House press secretary Kayleigh McEnany slammed President Biden’s recent swipe at Republican governors, likening them to \"Neanderthals\" after several states, including Texas and Mississippi, reversed their coronavirus mask mandates."

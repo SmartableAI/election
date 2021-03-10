@@ -111,22 +111,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden administration considers sending child migrants to Virginia military base as numbers surge"
-    excerpt: "The Biden administration is considering housing unaccompanied migrant children in a military base in Virginia as officials scramble to deal with a dramatic surge in child migrants at the southern border."
-    publishedDateTime: 2021-03-05T17:54:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FrvszOKPopc/biden-child-migrants-virginia-military-base-numbers-surge"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f2b4c4-a545-4eac-a9b5-6ba620d77cd2/fef6984b-0908-4abe-82a0-1b7e2bfd5733/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "MLNAKc5fyoXFc/UXiyGyOoYWY5IQbripczrTEsKLSbFXR2pfw7lEL/HCAfz3aqUcPfZ117CQNObUHa8fSfwUciRoTKJIJjnZ5gJK08RRdo0z44vr1rHK8tMmqepz8hlBEHpYwaLPFy5Rn58deO6ExL2o9Vp8uLLl/s3HMechgsv8PBxKs3RPBTFKarX+4FDDR9+yCol5Kj4lTvoMG16GeRIYWl5pOS+7kR1xZ6cEMafedGIJj10JIzSpOWAlZJ8Gn3omewANWyBfjgCLVwTJ8eW1JJ1qV5I+OJLw9tDKOgps9LuL4OqWwu66rs1rVGyEPBz/pnEnoRbWt6kOrqZZFOS8uyL+5YXURSIBHYgnP7U=;Sz3BfWmqhdgzcXZ+7Auv6g=="
 ---

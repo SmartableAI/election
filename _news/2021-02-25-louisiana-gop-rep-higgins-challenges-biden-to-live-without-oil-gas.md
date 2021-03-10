@@ -47,22 +47,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden's COVID-19 relief package slammed by pro-GOP group"
-    excerpt: "EXCLUSIVE: A pro-GOP outside group closely aligned with the Republican Governors Association (RGA) is launching an effort in three states against Democratic governors ‒ who could face challenging reelections next year ‒ over the $1.9 trillion COVID-19 relief package being pushed by President Joe Biden."
-    publishedDateTime: 2021-03-04T15:45:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EFNo-AheViE/bidens-blue-state-bailout-slammed-pro-gop-group"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-blue-state-bailout-slammed-pro-gop-group.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-blue-state-bailout-slammed-pro-gop-group.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Biden forced to send team to the border as child migrant influx escalates"
     excerpt: "President Biden has ordered senior members of his team to visit the southern border and report back to him on how to handle the recent influx of migrant children, a White House spokesman said Thursday."
     publishedDateTime: 2021-03-05T01:50:23Z
@@ -77,22 +61,6 @@ related:
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7f8ec101-a92e-4f14-b5cb-1f21b35eafe7/f159409f-403b-4361-b9fc-1b1ea6bc9bb1/1280x720/match/image.jpg"
         width: 1080
-        height: 720
-        isCached: true
-  - title: "Lawmakers introduce bill to repeal Biden's war powers following Syria strike"
-    excerpt: "A bipartisan group of senators Wednesday called for the repeal of presidential war powers granted by Congress in 1991 and 2002, which would revoke authorization for military force in the Middle East, as tensions rise between the U.S. and Iran."
-    publishedDateTime: 2021-03-04T01:24:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NdHLmCHONI/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike"
-    ampWebUrl: "https://www.foxnews.com/politics/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76745ea9-cf7e-44fd-ba02-dae99ba4c924/c8528226-5005-4c08-b212-417f33fd5788/1280x720/match/image.jpg"
-        width: 1280
         height: 720
         isCached: true
   - title: "GOP Rep. Lauren Boebert calls on Biden to lower flags in honor of Rush Limbaugh"

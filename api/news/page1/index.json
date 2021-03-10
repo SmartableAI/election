@@ -2,6 +2,226 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-10-bidens-covid-bill-could-be-defining-political-issue-in-midterm-elections.md",
+      "title": "Biden’s COVID bill could be defining political issue in midterm elections",
+      "excerpt": "With the $1.9 trillion COVID-19 relief bill headed the President Biden’s desk, the legislative battle over the massive measure’s over, but the PR and political fights are only beginning.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uMoIORqgGXM/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uMoIORqgGXM/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 749,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package.amp",
+      "publishedDateTime": "2021-03-10T12:40:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-biden-adviser-admits-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.md",
+      "title": "Biden adviser admits immigration policy 'may have driven' migrant surge, encouraged 'smugglers'",
+      "excerpt": "Southern Border Coordinator Roberta Jacobson said Wednesday that it was not a “coincidence” border crossing attempts spiked after President Biden took office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T0a6dR5VEtQ/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T0a6dR5VEtQ/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/ap18060626927363.jpg",
+          "width": 1920,
+          "height": 1301,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
+      "publishedDateTime": "2021-03-10T11:28:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-trumps-tax-records-holy-grail-to-probe-cohen.md",
+      "title": "Trump's tax records 'holy grail' to probe -Cohen",
+      "excerpt": "In a brief video interview with Reuters on Wednesday, Donald Trump's former lawyer and fixer, Michael Cohen, said he'll go in for a seventh interview with the Manhattan district attorney's office as prosecutors step up the criminal investigation into the former U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/trumps-tax-records-holy-grail-to-probe-c-idOVE3I9IOV?chan=6g5ka85",
+      "originalUrl": "https://www.reuters.com/video/watch/trumps-tax-records-holy-grail-to-probe-c-idOVE3I9IOV?chan=6g5ka85",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210310&i=OVE3I9IOV&r=OVE3I9IOV&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-to-punish-saudi-arabia-with-the-khashoggi-ban-biden-mirrored-a-plan-developed-under-trump.md",
+      "title": "To punish Saudi Arabia with the \"Khashoggi Ban,\" Biden mirrored a plan developed under Trump ",
+      "excerpt": "When the Biden administration announced a ban on dozens of Saudis from traveling to the US in response to intelligence that the kingdom's powerful crown prince, Mohammed bin Salman, had approved the murder of journalist Jamal Khashoggi, it was rolling out a plan that had been spiked by the Trump administration",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7nRwjqVyixQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7nRwjqVyixQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210226161958-khashoggi-october-2018-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/10/politics/biden-khashoggi-ban-mirrored-trump-plan/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-khashoggi-ban-mirrored-trump-plan/index.html",
+      "publishedDateTime": "2021-03-10T10:40:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-gillibrands-stance-on-cuomo-allegations-contrast-with-past-comments-about-trump-clinton-kavanaugh-franken.md",
       "title": "Gillibrand's stance on Cuomo allegations contrast with past comments about Trump, Clinton, Kavanaugh, Franken",
       "excerpt": "Sen. Kirsten Gillibrand, D-N.Y., appears to have departed from her previous stances on sexual misconduct allegations with her current stance on the accusations against New York Gov. Andrew Cuomo.",
@@ -447,7 +667,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 230,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -555,7 +775,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1037,
+      "heat": 1137,
       "tags": null,
       "images": [
         {
@@ -596,62 +816,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-scalise-demands-biden-rescind-praise-of-cuomo-as-gold-standard-of-covid-19-leadership.md",
-      "title": "Scalise demands Biden rescind praise of Cuomo as 'gold standard' of COVID-19 leadership",
-      "excerpt": "House Minority Whip Steve Scalise, R-LA, called Tuesday for President Biden to rescind his past praise of New York Gov. Andrew Cuomo’s handling of the coronavirus pandemic amid the state’s burgeoning nursing home scandal.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lD2LCh2m7KA/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lD2LCh2m7KA/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3e1cffe-3f2e-46da-9d2a-2253b8b8f0c3/c79509db-18f2-48be-b6f7-0e17e1a528a6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership.amp",
-      "publishedDateTime": "2021-03-09T16:46:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     },
     {
@@ -1173,175 +1337,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-vanita-gupta-regret-anti-gop-remarks.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-vanita-gupta-regret-anti-gop-remarks.amp",
       "publishedDateTime": "2021-03-09T09:17:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-trump-rnc-relationship-grows-thorny-with-fundraising-dispute.md",
-      "title": "Trump-RNC Relationship Grows Thorny With Fundraising Dispute",
-      "excerpt": "After telling the Republican Party not to use his name to raise money, ex-president tells people to send donations to his Save America PAC.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/trump-rnc-relationship-grows-thorny-with-fundraising-dispute-11615309418",
-      "originalUrl": "https://www.wsj.com/articles/trump-rnc-relationship-grows-thorny-with-fundraising-dispute-11615309418",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-309225/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/trump-rnc-relationship-grows-thorny-with-fundraising-dispute-11615309418",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/trump-rnc-relationship-grows-thorny-with-fundraising-dispute-11615309418",
-      "publishedDateTime": "2021-03-09T09:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-biden-seems-to-forget-defense-secretarys-name-calls-him-the-guy-who-runs-that-outfit.md",
-      "title": "Biden seems to forget defense secretary’s name, calls him ‘the guy who runs that outfit’",
-      "excerpt": "President Biden on Monday seemed to forget Defense Secretary Lloyd Austin’s name at a White House event — calling the Pentagon chief \"the guy who runs that outfit over there.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HBN4kMkPzmQ/biden-seems-to-forget-defense-secretarys-name-calls-him-the-guy-who-runs-that-outfit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/HBN4kMkPzmQ/biden-seems-to-forget-defense-secretarys-name-calls-him-the-guy-who-runs-that-outfit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Lloyd-Austin.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-seems-to-forget-defense-secretarys-name-calls-him-the-guy-who-runs-that-outfit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-seems-to-forget-defense-secretarys-name-calls-him-the-guy-who-runs-that-outfit.amp",
-      "publishedDateTime": "2021-03-09T07:07:10-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-arizona-rancher-slams-biden-border-policy-shift-theyre-letting-everybody-come.md",
-      "title": "Arizona rancher slams Biden border policy shift: They're ‘letting everybody come'",
-      "excerpt": "Arizona rancher John Ladd warned on Tuesday that U.S. Border Patrol agents and communities are “overwhelmed” by the surge of migrants, who he noted are “busting” into their towns.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uf4gxycNjh8/arizona-rancher-biden-administration-letting-everybody-come-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uf4gxycNjh8/arizona-rancher-biden-administration-letting-everybody-come-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp",
-      "publishedDateTime": "2021-03-09T06:19:11-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

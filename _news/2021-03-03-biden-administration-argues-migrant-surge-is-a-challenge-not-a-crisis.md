@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-migrant-surge-challenge-not-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-migrant-surge-challenge-not-crisis.amp"
 type: article
 quality: 173
-heat: 293
+heat: 273
 published: true
 
 provider:
@@ -92,22 +92,6 @@ related:
     quality: 163
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ebf16c6-672f-4976-a8f8-04114e139287/874b2ea1-866b-4a5b-8c73-7dd8fa4162c7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden administration considers sending child migrants to Virginia military base as numbers surge"
-    excerpt: "The Biden administration is considering housing unaccompanied migrant children in a military base in Virginia as officials scramble to deal with a dramatic surge in child migrants at the southern border."
-    publishedDateTime: 2021-03-05T17:54:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FrvszOKPopc/biden-child-migrants-virginia-military-base-numbers-surge"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f2b4c4-a545-4eac-a9b5-6ba620d77cd2/fef6984b-0908-4abe-82a0-1b7e2bfd5733/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

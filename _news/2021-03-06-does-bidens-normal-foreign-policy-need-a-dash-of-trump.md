@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2021/03/05/biden-foreign-policy-tr
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/05/biden-foreign-policy-trump-473919"
 type: article
 quality: 150
-heat: 190
-published: true
+heat: -1
+published: false
 
 provider:
   name: Politico
@@ -32,6 +32,38 @@ images:
     isCached: true
 
 related:
+  - title: "To punish Saudi Arabia with the \"Khashoggi Ban,\" Biden mirrored a plan developed under Trump "
+    excerpt: "When the Biden administration announced a ban on dozens of Saudis from traveling to the US in response to intelligence that the kingdom's powerful crown prince, Mohammed bin Salman, had approved the murder of journalist Jamal Khashoggi, it was rolling out a plan that had been spiked by the Trump administration"
+    publishedDateTime: 2021-03-10T18:40:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7nRwjqVyixQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-khashoggi-ban-mirrored-trump-plan/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-khashoggi-ban-mirrored-trump-plan/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 179
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226161958-khashoggi-october-2018-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration never considered MBS sanctions a viable option in response to Khashoggi report"
+    excerpt: "The Biden administration never considered sanctions as a viable option against the powerful Saudi crown prince named as responsible for the murder of journalist Jamal Khashoggi, even though the new President promised to punish senior Saudi leaders during the election.\n    \n"
+    publishedDateTime: 2021-03-03T12:49:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L6MzO_QJ54c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/biden-administration-mbs-sanction-never-a-viable-option/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/biden-administration-mbs-sanction-never-a-viable-option/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200422091533-mohammed-bin-salman-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Gives Venezuelans Reprieve to Remain in U.S. Trump Had Rejected"
     excerpt: "Hundreds of thousands of Venezuelans can temporarily continue to live and work in the United States as the administration considers its next steps in the effort to force out Venezuela’s president."
     publishedDateTime: 2021-03-08T23:52:00Z
@@ -63,6 +95,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/08/world/08new-washington-briefing-title-ix-1/08new-washington-briefing-title-ix-1-facebookJumbo.jpg"
         width: 1050
         height: 549
+        isCached: true
+  - title: "Sanctions Are Reimposed on Israeli Billionaire Granted Relief Under Trump"
+    excerpt: "The Biden administration moved to reverse an action that had benefited Dan Gertler, who has been accused of corruption over mining deals in the Democratic Republic of Congo."
+    publishedDateTime: 2021-03-09T00:47:00Z
+    webUrl: "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/09/us/politics/08dc-gertler-print/08dc-gertler-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "x+GnqSbfh5Q18+yWaLWLgrrvJzSKLpK9pe8KaTsacRq+byCHcZjILG3/WR7F+gBeeSUpoIRz2evGlB5/s5pUxudc1yFtTk70aq3hv/2w7Vbliza/A0ETLNj7FlUKcXRsqSYzchb9ud3d9XEcLQhbX28oKLwMB4u/uX3qaIruaqbJao8e69yHYTNmFUImjCEtvAg3VoT3HZiTnsobcX1j5FmiShhCfADT5FgNlZT959PhlZgmd+TBGHcVDOE4CRGHimneMwxtk8C79GqV+EBs2iRreo5xrjCzI+S2ZNE5gIR/KDNWsqPFR14ED+5KLHatH1qwvgJfcUXIRduqSXVkeaaDnm1+inLN+jAJN4uabeo=;0QW/bkPmdfnyUUKjXa/EyA=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/28/politics/biden-taliban-peace-talk
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/28/politics/biden-taliban-peace-talks/index.html"
 type: article
 quality: 175
-heat: 495
+heat: 475
 published: true
 
 provider:
@@ -220,22 +220,6 @@ related:
     quality: 162
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201221132025-01-alexey-navalny-file-2019-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden administration never considered MBS sanctions a viable option in response to Khashoggi report"
-    excerpt: "The Biden administration never considered sanctions as a viable option against the powerful Saudi crown prince named as responsible for the murder of journalist Jamal Khashoggi, even though the new President promised to punish senior Saudi leaders during the election.\n    \n"
-    publishedDateTime: 2021-03-03T12:49:03Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L6MzO_QJ54c/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/biden-administration-mbs-sanction-never-a-viable-option/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/biden-administration-mbs-sanction-never-a-viable-option/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 161
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200422091533-mohammed-bin-salman-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

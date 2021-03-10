@@ -2,11 +2,11 @@
 category: news
 title: "Kamala Harris announces $250 million in funding to help address COVID response inequities"
 excerpt: "The grants will go to to community organizations that work to address gaps in the response to COVID-19, according to a government official."
-publishedDateTime: 2021-03-09T12:06:00Z
-originalUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-inequities-funding-250-million/"
-webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-inequities-funding-250-million/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-inequities-funding-250-million/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-inequities-funding-250-million/"
+publishedDateTime: 2021-03-09T01:49:00Z
+originalUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
 type: article
 quality: 116
 heat: -1
@@ -460,6 +460,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "OrXMLoTtDknG3Z0QArV5iU9houFww+yg6lEQTDuxauClBgNjQXNaJFmMVVyHXy6uHDg1eQ3BAKa95wQcU3iOQpwuAbkzLR/jSOiRXZZ5ORtavQp30Po01x6rw3yhI9fI2N+S59usqBgocrN0beGRXmvcETFhec3m2g8+kZmLICZVqgXGG55RLp8v6lgDIwRw285XF7lFCBCJ2BJB+KVv/FLyq+GXUfYzFOqB3mJBj2YOq0GpD3xq8J97AqR/2oIQROmQrQ2YCVGkiJIypFkU9gkPODS9tsi4BRlUOh4RCJCeC/5pNDmv55gTqHjyth2PJv1AEADuoePKrfndJNoCKCIXIInqtQWzjJNs/Pkt2hC1xwtgXkixWoGD9RAigxAakCG/Ofc6/AX828uDD+9piVW3yaM76Sh/DhaHqq3JuQXrzS1Nkx4cEiSY1cmSEWls7ZqRFPXft8Bk6mJhxJeYpqQTa4CVnNnWPKY+NxbgcWf6HNpBMsiLRvmwEu7n015xWn+UXELBxMvIlviRAnsjHw==;blWcR+/PC6b83126t0sIMg=="
+secured: "BSSJFXyflfxZ7ZDjFroyEpxh89qNMilBx6EoDGEYEptYnmXaPrGs9sURoYVo9cLEvaO+87MZN5rvsWZohcDZSw2RdGsEMW+B/pCJzo6FV9+Norx5klF1eGXP4kmVg9XX6QYKFMbUDpVcGx5kofHgbX64GPfYgjqymu9pX/43yuLXmG7KckmwcsyyJiSHy/Fq3a7xDX/uoKr2WpqtEgKWq+KjMILNTPIW/jYVI3zBPfrNd+X4d+Uv2plCzjYv6Ag+aM+CN3szBtxh6oJk2A5A/oD2IijRP2CA/8oAJysjEYMnqvexZ/utGnr95wYHCv55lTnqBVtMNsPpojdTE/NV2sbT2QrWmz1JwWalx3EqOq0=;OX7eKw4trmI5QSmu2LwVpg=="
 ---
 

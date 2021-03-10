@@ -31,17 +31,113 @@ images:
     isCached: true
 
 related:
-  - title: "White House partners with social media influencers to pitch Biden policies"
-    excerpt: "The White House is partnering with social media influences to pitch President Biden's policies and proposals, including the American Rescue Plan, pioneering what officials are calling a \"digital media tour\" amid the coronavirus pandemic."
-    publishedDateTime: 2021-03-08T16:51:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lJmh6DwrM_o/white-house-social-media-influencers-biden-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp"
+  - title: "Biden’s COVID bill could be defining political issue in midterm elections"
+    excerpt: "With the $1.9 trillion COVID-19 relief bill headed the President Biden’s desk, the legislative battle over the massive measure’s over, but the PR and political fights are only beginning."
+    publishedDateTime: 2021-03-10T20:40:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uMoIORqgGXM/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package"
+    ampWebUrl: "https://www.foxnews.com/politics/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 189
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's COVID-19 relief package slammed by pro-GOP group"
+    excerpt: "EXCLUSIVE: A pro-GOP outside group closely aligned with the Republican Governors Association (RGA) is launching an effort in three states against Democratic governors ‒ who could face challenging reelections next year ‒ over the $1.9 trillion COVID-19 relief package being pushed by President Joe Biden."
+    publishedDateTime: 2021-03-04T15:45:33Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EFNo-AheViE/bidens-blue-state-bailout-slammed-pro-gop-group"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-blue-state-bailout-slammed-pro-gop-group.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-blue-state-bailout-slammed-pro-gop-group.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden has gone 48 days as president without formal news conference"
+    excerpt: "President Biden was sworn into office as the 46th president of the United States 48 days ago — but he has yet to schedule a formal press conference."
+    publishedDateTime: 2021-03-09T13:51:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WJ06nnQ8u2M/biden-no-news-conference"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-news-conference.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-news-conference.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden’s post-inauguration honeymoon appears to be over, new poll suggests"
+    excerpt: "A new national poll indicates that President Joe Biden’s approval rating has slipped during his first month in the White House."
+    publishedDateTime: 2021-03-03T17:46:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/99jrd216VxA/biden-post-inauguration-honeymoon-over-new-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-post-inauguration-honeymoon-over-new-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-post-inauguration-honeymoon-over-new-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "White House press corps ushered away after asking Biden questions — again"
+    excerpt: "Aides to President Biden hurried the traveling press corps away as they shouted questions at an unresponsive commander in chief in Washington Tuesday -- his 48th day in office without holding a solo press conference. "
+    publishedDateTime: 2021-03-10T16:30:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1D4HyQNkCw/white-house-press-corps-ushered-away-asking-biden-questions-again"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Lawmakers introduce bill to repeal Biden's war powers following Syria strike"
+    excerpt: "A bipartisan group of senators Wednesday called for the repeal of presidential war powers granted by Congress in 1991 and 2002, which would revoke authorization for military force in the Middle East, as tensions rise between the U.S. and Iran."
+    publishedDateTime: 2021-03-04T01:24:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NdHLmCHONI/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike"
+    ampWebUrl: "https://www.foxnews.com/politics/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76745ea9-cf7e-44fd-ba02-dae99ba4c924/c8528226-5005-4c08-b212-417f33fd5788/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden backs House gun background check bills that would tighten restrictions"
+    excerpt: "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system."
+    publishedDateTime: 2021-03-08T17:31:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_d_Y_MdnyAE/biden-gun-background-check-bills"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-background-check-bills.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-background-check-bills.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
@@ -79,53 +175,307 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Hunter Biden probe 'active and ongoing' without White House interference: sources"
-    excerpt: "The federal investigation into Hunter Biden’s “tax affairs” is “active and ongoing,” two sources familiar with the status of the probe told Fox News."
-    publishedDateTime: 2021-03-03T13:43:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XBi-2viDn9I/hunter-biden-probe-active-ongoing"
-    ampWebUrl: "https://www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hunter-biden-probe-active-ongoing.amp"
+  - title: "House passes landmark $1.9T COVID bill, delivers Biden first legislative win"
+    excerpt: "The House of Representatives Wednesday finalized a massive $1.9 trillion coronavirus relief bill that will head to President Biden's desk for his first legislative victory."
+    publishedDateTime: 2021-03-10T19:11:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cfbSukO4lR0/house-passes-landmark-coronavirus-bill-biden-first-legislative-win"
+    ampWebUrl: "https://www.foxnews.com/politics/house-passes-landmark-coronavirus-bill-biden-first-legislative-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-passes-landmark-coronavirus-bill-biden-first-legislative-win.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Bill-Ceremony-AP-2.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Senate confirms Merrick Garland as Biden attorney general in bipartisan vote"
+    excerpt: "Judge Merrick Garland will be the next U.S. attorney general after the Senate confirmed him with a vote of 70 to 30."
+    publishedDateTime: 2021-03-10T19:48:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Yo_gQBKyOE/merrick-garland-confirmed-biden-attorney-general"
+    ampWebUrl: "https://www.foxnews.com/politics/merrick-garland-confirmed-biden-attorney-general.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merrick-garland-confirmed-biden-attorney-general.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Democrats '110%' confident Biden's COVID relief bill will become law this week"
+    excerpt: "House Democrats expressed optimism that they will deliver President Biden an early legislative victory this week by passing his $1.9 trillion coronavirus stimulus legislation and make strides toward erasing poverty in the United States in doing so. "
+    publishedDateTime: 2021-03-09T19:23:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVlq1XouPyY/democrats-confident-biden-coronavirus-bill-law-this-week"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-confident-biden-coronavirus-bill-law-this-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-confident-biden-coronavirus-bill-law-this-week.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/hakeem-jeffries-ap.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden won't deliver speech to Congress until after vote on coronavirus bill, Psaki says"
+    excerpt: "White House press secretary Jen Psaki said President Biden will wait to address a joint session of Congress until after Congress decides on the American Rescue Plan, his coronavirus relief package."
+    publishedDateTime: 2021-03-03T20:00:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drcOHAb5y6o/biden-no-speech-to-congress-until-coronavirus-bill-passes"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-no-speech-to-congress-until-coronavirus-bill-passes.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-speech-to-congress-until-coronavirus-bill-passes.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden has struggled with names of Cabinet members, lawmakers and other politicians"
-    excerpt: "President Biden seems to have a spotty memory when it comes to names and details. "
-    publishedDateTime: 2021-03-09T18:49:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8rArtnOACzg/biden-names-cabinet-members-lawmakers"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-names-cabinet-members-lawmakers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-names-cabinet-members-lawmakers.amp"
+  - title: "Biden gives premature pat on the back to Democrats on COVID bill, ignores progressives"
+    excerpt: "President Biden cheered the passage Saturday of his $1.9 trillion coronavirus relief bill in the Senate and said the massive stimulus is the key to ending the suffering caused by the yearlong pandemic. "
+    publishedDateTime: 2021-03-06T20:16:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-xBJ4oQwpXo/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 167
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden DOJ nominee Gupta says she doesn't support defunding police despite past comments"
+    excerpt: "Vanita Gupta, President Biden's pick to be the next associate attorney general, stated during her confirmation hearing Tuesday morning that she does not support defunding police, although past remarks have led to claims that she does."
+    publishedDateTime: 2021-03-09T18:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DRbPfTBQo24/biden-doj-nominee-vanita-gupta-defund-police"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-nominee-vanita-gupta-defund-police.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-nominee-vanita-gupta-defund-police.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Scalise demands Biden rescind praise of Cuomo as 'gold standard' of COVID-19 leadership"
+    excerpt: "House Minority Whip Steve Scalise, R-LA, called Tuesday for President Biden to rescind his past praise of New York Gov. Andrew Cuomo’s handling of the coronavirus pandemic amid the state’s burgeoning nursing home scandal."
+    publishedDateTime: 2021-03-10T00:46:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lD2LCh2m7KA/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership"
+    ampWebUrl: "https://www.foxnews.com/politics/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3e1cffe-3f2e-46da-9d2a-2253b8b8f0c3/c79509db-18f2-48be-b6f7-0e17e1a528a6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Katie Pavlich: Time for Biden to 'take some questions from the press corps about his policies'"
-    excerpt: "President Biden is not fulfilling his promise of transparency to the American people after going his first seven weeks in office without holding a formal press conference, \"Outnumbered\" panelist Katie Pavlich said Tuesday."
-    publishedDateTime: 2021-03-09T21:28:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pQMcmJ-6hGU/katie-pavlich-joe-biden-press-conference"
-    ampWebUrl: "https://www.foxnews.com/politics/katie-pavlich-joe-biden-press-conference.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/katie-pavlich-joe-biden-press-conference.amp"
+  - title: "Texas Lt. Gov slams Biden's ‘Neanderthal thinking’ comment on lifting COVID restrictions"
+    excerpt: "Texas Lt. Gov Dan Patrick, R., slammed Joe Biden's \"Neanderthal thinking\" comment on lifting COVID-19 restrictions Thursday, calling the president a \"hypocrite.\""
+    publishedDateTime: 2021-03-04T20:18:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r4WuBdmB5zo/texas-bidens-neanderthal-covid-restrictions"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-bidens-neanderthal-covid-restrictions.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-bidens-neanderthal-covid-restrictions.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden signs executive orders on combating sexual harassment, coinciding with Cuomo scandal"
+    excerpt: "President Biden is taking action with the aim of advancing gender equality and combating sexual harassment, while a prominent member of his party, New York Gov. Andrew Cuomo, finds himself at the center of a growing harassment scandal."
+    publishedDateTime: 2021-03-08T15:02:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vp0fzUOzDo8/biden-executive-orders-sexual-harassment-cuomo-scandal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-orders-sexual-harassment-cuomo-scandal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-sexual-harassment-cuomo-scandal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Schumer prepared to outlast GOP delays tactics to pass Biden's $1.9T coronavirus bill this week"
+    excerpt: "Senate Democrats are prepared to work long nights and through the weekend to push through President Biden's $1.9 trillion coronavirus relief legislation, determined to outlast an onslaught of expected GOP delay tactics."
+    publishedDateTime: 2021-03-04T20:31:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week"
+    ampWebUrl: "https://www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 163
     images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d3342b12-c01b-47c2-8873-0b049df6cfd6/606ea425-b5de-4601-8e55-e4bb1312cc7d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to sign voter registration executive order as he pushes Senate to pass sweeping HR 1 bill"
+    excerpt: "President Biden is scheduled to sign an executive order designed to increase voter access on Sunday as he pushes the Senate to pass H.R. 1, House Democrats' sweeping voting rights package."
+    publishedDateTime: 2021-03-07T13:44:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IE-fnE_wPkc/biden-voter-registration-executive-order-senate-hr-1"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-voter-registration-executive-order-senate-hr-1.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voter-registration-executive-order-senate-hr-1.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Biden-Voting-Executive-Order-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden’s failure to get Tanden confirmed follows other aborted presidential nominations in history"
+    excerpt: "President Joe Biden suffered his first major setback in confirming his Cabinet after the withdrawal this week of the nomination of Neera Tanden to serve as director of the Office of Management and Budget."
+    publishedDateTime: 2021-03-03T16:41:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OsFd5VRboRY/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden administration considers sending child migrants to Virginia military base as numbers surge"
+    excerpt: "The Biden administration is considering housing unaccompanied migrant children in a military base in Virginia as officials scramble to deal with a dramatic surge in child migrants at the southern border."
+    publishedDateTime: 2021-03-05T17:54:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FrvszOKPopc/biden-child-migrants-virginia-military-base-numbers-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f2b4c4-a545-4eac-a9b5-6ba620d77cd2/fef6984b-0908-4abe-82a0-1b7e2bfd5733/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says Texas and Mississippi over lifting COVID restrictions, guilty of ‘Neanderthal thinking’"
+    excerpt: "President Biden took a swipe at Republican governors in Texas and Mississippi Wednesday, accusing them of \"Neanderthal thinking\" following their decision to reverse COVID safety policies, including mask mandates."
+    publishedDateTime: 2021-03-03T20:51:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvcRq4k7gDM/biden-says-texas-and-miss-guilty-of-neanderthal-thinking"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6130b85-52f2-46fc-b88a-dc8fb9055492/5b6acd63-199a-4dfb-bd9d-f105cacbb701/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Psaki says Biden will sign COVID measure Friday, calls it 'most progressive bill in American history'"
+    excerpt: "President Biden will sign the $1.9 trillion coronavirus relief bill on Friday afternoon, White House press secretary Jen Psaki announced, calling it the “most progressive bill in American history.” "
+    publishedDateTime: 2021-03-10T20:02:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tnr_2iMTGic/biden-sign-covid-legislation-friday-most-progressive-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sign-covid-legislation-friday-most-progressive-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sign-covid-legislation-friday-most-progressive-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/biden_doublemask_ap.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Gov. Abbott hits back at Biden: Releasing COVID-infected migrants into Texas is 'Neanderthal thinking'"
+    excerpt: "Texas Gov. Greg Abbott on Thursday pushed back against President Biden for saying that red-state governors lifting mask mandates was \"Neanderthal thinking.\""
+    publishedDateTime: 2021-03-04T17:21:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7GZBWZtxwtQ/texas-greg-abbott-biden-neanderthal-mask-mandates-covid"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-greg-abbott-biden-neanderthal-mask-mandates-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-greg-abbott-biden-neanderthal-mask-mandates-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Senate GOP blasts 'blue state bailout' in Biden's $1.9T coronavirus bill"
+    excerpt: "Senate Republicans railed against President Biden's $1.9 trillion coronavirus legislation as a liberal bailout to blue states as they plan to make passage of the bill as painful as possible for Democrats this week. "
+    publishedDateTime: 2021-03-04T00:03:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gf_-1YBiuZw/senate-gop-rallies-against-bidens-1-9t-coronavirus-bill-blasting-its-blue-state-bailout"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 154
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20288801557897.jpg"
+        width: 4000
+        height: 2250
+        isCached: true
+  - title: "Biden's Timid Plan to Fight COVID-19"
+    excerpt: "As COVID-19 mutates, it's becoming more contagious than the virus that invaded the U.S. about a year ago. A trip to the grocery with a mask on, which used"
+    publishedDateTime: 2021-01-20T10:48:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/20/bidens_timid_plan_to_fight_covid-19_145073.html"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/20/bidens_timid_plan_to_fight_covid-19_145073.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/20/bidens_timid_plan_to_fight_covid-19_145073.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/532822_5_.jpg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Bill Kristol: COVID Relief Bill A \"Big Achievement\" For Biden, Biggest Piece Of Domestic Spending Since LBJ"
+    excerpt: "Republican commentator Bill Kristol said America \"needs\" a successful Biden administration and praised Biden for a \"big achievement\" with the COVID relief bill on Saturday, calling it the \"biggest piece of domestic spending since LBJ."
+    publishedDateTime: 2021-03-09T00:05:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/06/bill_kristol_covid_relief_bill_a_big_achievement_for_biden_biggest_piece_of_domestic_spending_since_lbj.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/06/bill_kristol_covid_relief_bill_a_big_achievement_for_biden_biggest_piece_of_domestic_spending_since_lbj.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/06/bill_kristol_covid_relief_bill_a_big_achievement_for_biden_biggest_piece_of_domestic_spending_since_lbj.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 67
+    images:
+      - url: "https://assets.realclear.com/images/49/499409.jpg"
+        width: 1100
+        height: 824
         isCached: true
 
 secured: "dKQ/xCGdCq2dy2RLjRSvFkfP4GEUVqaPyC5xOKOJN8gcP9ZEpx1T2CUjRwc2iZ+LwPs6mVDXxc2i6keFamkl9g+hhzHBRwySoRmCqLcXK9NGei8OQaCRA39qyhZFiKrVErwU9mXJiP6L8iRLvSW6U0merZ+WVoJEtuDJ4tMv3PDwhRTXcAJTvq3wAj+AeiuUtJqoXOqvd4AhMb7BmOLwIBDsoLArbv6N5mwGDvwZDG40q+2uvJA7MKIhoj/AkvsFkJnjCF1xtL3GiEs75+mzd2XFYxHuazDMHc5zMmD5Vm9pRIX6r+NjAS1wB+ThsQd/sMOMgUpakPntK3NkH19RPUoPapWvARFtZm2Nx7dyI6c=;7iD7HkQiGB/HNF3atcTplQ=="

@@ -1,0 +1,117 @@
+---
+category: news
+title: "To punish Saudi Arabia with the \"Khashoggi Ban,\" Biden mirrored a plan developed under Trump "
+excerpt: "When the Biden administration announced a ban on dozens of Saudis from traveling to the US in response to intelligence that the kingdom's powerful crown prince, Mohammed bin Salman, had approved the murder of journalist Jamal Khashoggi, it was rolling out a plan that had been spiked by the Trump administration"
+publishedDateTime: 2021-03-10T18:40:31Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7nRwjqVyixQ/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7nRwjqVyixQ/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-khashoggi-ban-mirrored-trump-plan/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-khashoggi-ban-mirrored-trump-plan/index.html"
+type: article
+quality: 179
+heat: 279
+published: true
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Democratic Voice
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226161958-khashoggi-october-2018-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Biden administration never considered MBS sanctions a viable option in response to Khashoggi report"
+    excerpt: "The Biden administration never considered sanctions as a viable option against the powerful Saudi crown prince named as responsible for the murder of journalist Jamal Khashoggi, even though the new President promised to punish senior Saudi leaders during the election.\n    \n"
+    publishedDateTime: 2021-03-03T12:49:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L6MzO_QJ54c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/biden-administration-mbs-sanction-never-a-viable-option/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/biden-administration-mbs-sanction-never-a-viable-option/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200422091533-mohammed-bin-salman-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Does Biden’s 'normal’ foreign policy need a dash of Trump?"
+    excerpt: "The administration has ambitious goals and a deliberate process. But it might need to get a little unconventional to see results."
+    publishedDateTime: 2021-03-05T23:59:00Z
+    webUrl: "https://www.politico.com/news/2021/03/05/biden-foreign-policy-trump-473919"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/05/biden-foreign-policy-trump-473919"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/05/biden-foreign-policy-trump-473919"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/0c/d0/8e8949274a15961ca5be48edd33c/210305-joe-biden-getty-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Biden Gives Venezuelans Reprieve to Remain in U.S. Trump Had Rejected"
+    excerpt: "Hundreds of thousands of Venezuelans can temporarily continue to live and work in the United States as the administration considers its next steps in the effort to force out Venezuela’s president."
+    publishedDateTime: 2021-03-08T23:52:00Z
+    webUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-venezuela-maduro.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/08/us/politics/biden-venezuela-maduro.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/biden-venezuela-maduro.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/08/us/politics/08dc-diplo-venezuela/08dc-diplo-venezuela-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Live Updates: Biden to Begin Dismantling Trump-Era Title IX Rules on Campus Sexual Misconduct"
+    excerpt: "The president has long vowed to dismantle rules that afforded greater protections to students accused of sexual assault. On Capitol Hill, House members will get an update from a task force examining the failures that allowed the breach of the Capitol."
+    publishedDateTime: 2021-03-08T14:25:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/08/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/08/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/08/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 139
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/08/world/08new-washington-briefing-title-ix-1/08new-washington-briefing-title-ix-1-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
+  - title: "Sanctions Are Reimposed on Israeli Billionaire Granted Relief Under Trump"
+    excerpt: "The Biden administration moved to reverse an action that had benefited Dan Gertler, who has been accused of corruption over mining deals in the Democratic Republic of Congo."
+    publishedDateTime: 2021-03-09T00:47:00Z
+    webUrl: "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 134
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/09/us/politics/08dc-gertler-print/08dc-gertler-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+
+secured: "FLkiiF0iRz2vbk/iMO6dcUybyOgEA1rR9d5P2W6yqnAgrnhAjG3rVLolSQeMnLyyKJDzv83LVZrv4qZ9euOC8uFA34RX4gX5XT6eOLQUBZt5vNsrobJiX52/NjJuN7IpgqfJfZ6tlmbpGh3V2fb629rYZvcwZam7XsJQDTo9Dkb2ReXk/pqTCcoAGVP82V5GWMtNG+LhLlLS0TGVGZZ/ZTxuBmptClKVGoUntbk9fqgF5nn6fMdJ9e7ckE8ZItvDnL5HFJTb1/Yfo9zYo5MYqgm/9aBKv9/E6fXqFNdun4tS8qV8bJaHni1FBhBGrRgTZihFfVSgjBFH566c+jLnlA8QOzplN4lX9gWrcshBPUA=;XeQYHpfazhnAyKWuoIX+vg=="
+---
+

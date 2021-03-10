@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-10-bidens-covid-bill-could-be-defining-political-issue-in-midterm-elections.md",
+      "title": "Biden’s COVID bill could be defining political issue in midterm elections",
+      "excerpt": "With the $1.9 trillion COVID-19 relief bill headed the President Biden’s desk, the legislative battle over the massive measure’s over, but the PR and political fights are only beginning.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uMoIORqgGXM/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uMoIORqgGXM/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 749,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package.amp",
+      "publishedDateTime": "2021-03-10T12:40:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-biden-adviser-admits-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.md",
+      "title": "Biden adviser admits immigration policy 'may have driven' migrant surge, encouraged 'smugglers'",
+      "excerpt": "Southern Border Coordinator Roberta Jacobson said Wednesday that it was not a “coincidence” border crossing attempts spiked after President Biden took office.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T0a6dR5VEtQ/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/T0a6dR5VEtQ/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/ap18060626927363.jpg",
+          "width": 1920,
+          "height": 1301,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
+      "publishedDateTime": "2021-03-10T11:28:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-gillibrands-stance-on-cuomo-allegations-contrast-with-past-comments-about-trump-clinton-kavanaugh-franken.md",
       "title": "Gillibrand's stance on Cuomo allegations contrast with past comments about Trump, Clinton, Kavanaugh, Franken",
       "excerpt": "Sen. Kirsten Gillibrand, D-N.Y., appears to have departed from her previous stances on sexual misconduct allegations with her current stance on the accusations against New York Gov. Andrew Cuomo.",
@@ -183,7 +295,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 230,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -256,62 +368,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp",
       "publishedDateTime": "2021-03-09T18:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-scalise-demands-biden-rescind-praise-of-cuomo-as-gold-standard-of-covid-19-leadership.md",
-      "title": "Scalise demands Biden rescind praise of Cuomo as 'gold standard' of COVID-19 leadership",
-      "excerpt": "House Minority Whip Steve Scalise, R-LA, called Tuesday for President Biden to rescind his past praise of New York Gov. Andrew Cuomo’s handling of the coronavirus pandemic amid the state’s burgeoning nursing home scandal.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lD2LCh2m7KA/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lD2LCh2m7KA/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3e1cffe-3f2e-46da-9d2a-2253b8b8f0c3/c79509db-18f2-48be-b6f7-0e17e1a528a6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership.amp",
-      "publishedDateTime": "2021-03-09T16:46:31-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -957,6 +1013,62 @@
       ]
     },
     {
+      "path": "_news/2021-03-08-biden-to-deliver-first-primetime-address-as-president-will-mark-anniversary-of-coronavirus-shutdowns.md",
+      "title": "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns",
+      "excerpt": "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0k5ZmzU8ZEI/biden-first-primetime-address-anniversary-covid-shutdowns",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0k5ZmzU8ZEI/biden-first-primetime-address-anniversary-covid-shutdowns",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 160,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp",
+      "publishedDateTime": "2021-03-08T09:22:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-white-house-partners-with-social-media-influencers-to-pitch-biden-policies.md",
       "title": "White House partners with social media influencers to pitch Biden policies",
       "excerpt": "The White House is partnering with social media influences to pitch President Biden's policies and proposals, including the American Rescue Plan, pioneering what officials are calling a \"digital media tour\" amid the coronavirus pandemic.",
@@ -969,7 +1081,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 293,
+      "heat": 233,
       "tags": null,
       "images": [
         {
@@ -1534,7 +1646,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 595,
+      "heat": 455,
       "tags": null,
       "images": [
         {
@@ -1575,120 +1687,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-kamala-harris-speaks-with-netanyahu-in-latest-talk-with-a-major-world-leader.md",
-      "title": "Kamala Harris speaks with Netanyahu in latest talk with a major world leader",
-      "excerpt": "Vice President Kamala Harris and Israeli Prime Minister Benjamin Netanyahu had a call Thursday amid the Middle Eastern ally's growing tension with Iran.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call",
-      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7750b86-b666-441d-ad85-e004befe43e3/3f70789c-8232-4f13-a178-f669a03f6443/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-netanyahu-call.amp",
-      "publishedDateTime": "2021-03-05T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.md",
-      "title": "DeSantis, Pence top 2024 Republican primary surveys – if Trump doesn’t run",
-      "excerpt": "DeSantis, Pence top 2024 Republican primary surveys – if Trump doesn’t run",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uevIlvGvjww/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uevIlvGvjww/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 418,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.amp",
-      "publishedDateTime": "2021-03-05T10:09:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
       ]
     }
   ],

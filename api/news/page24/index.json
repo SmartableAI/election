@@ -2,6 +2,115 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-01-two-years-later-vp-kamala-harris-once-called-jussie-smollett-the-victim-of-a-modern-day-lynching.md",
+      "title": "Two years later: VP Kamala Harris once called Jussie Smollett the victim of a 'modern day lynching'",
+      "excerpt": "Friday marked two years since now-vice president Kamala Harris publically expressed support for actor Jussie Smollett after he claimed to be a victim of a hate crime.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cabc059-1257-4d26-92fc-f3ee6854a415/dbd72d91-5230-4f66-95b0-5109510ba033/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-jussie-smollett-attack-modern-day-lynching.amp",
+      "publishedDateTime": "2021-01-31T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-21-men-accuse-co-founder-of-anti-trump-lincoln-project-of-online-harassment.md",
+      "title": "21 men accuse co-founder of anti-Trump Lincoln Project of online harassment",
+      "excerpt": "John Weaver, a co-founder of prominent anti-Donald Trump group the Lincoln Project, has for years sent unsolicited and sexually provocative messages online to young men, often while suggesting he could help them get work in politics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-john-weaver-lincoln-project-harassment-20210131-ll5iul3sajehfotjd6aq32msk4-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-john-weaver-lincoln-project-harassment-20210131-ll5iul3sajehfotjd6aq32msk4-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/HYRVWgDsEC13dEU2M7TIyM6oyJI=/1200x0/top/www.trbimg.com/img-56f02a81/turbine/chi-default-open-graph-ct-logo/1200/1200x650",
+          "width": 1200,
+          "height": 650,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-nyt-john-weaver-lincoln-project-harassment-20210131-ll5iul3sajehfotjd6aq32msk4-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-nyt-john-weaver-lincoln-project-harassment-20210131-ll5iul3sajehfotjd6aq32msk4-story.html?outputType=amp",
+      "publishedDateTime": "2021-01-31T14:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-31-gop-lawmaker-launches-new-pac-to-reclaim-republican-party-after-trump.md",
       "title": "GOP lawmaker launches new PAC to reclaim Republican Party after Trump",
       "excerpt": "GOP Rep. Adam Kinzinger on Sunday announced a new \"movement\" to push back on the Republican Party's embrace of former President Donald Trump and retire the \"poisonous conspiracies and lies\" that defined his administration.\n    \n",
@@ -1234,114 +1343,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-facebooks-sandberg-praises-biden-abortion-policy-criticizes-south-carolina-partial-ban.md",
-      "title": "Facebook's Sandberg praises Biden abortion policy, criticizes South Carolina partial ban",
-      "excerpt": "Facebook Chief Operating Officer Sheryl Sandberg is praising President Bident's recent executive order on overseas abortion providers and criticizing South Carolina's legislation banning most abortions.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VkhXXSz3npI/facebook-sandberg-biden-abortion",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.foxnews.com/BrightCove/694940094001/2018/11/30/694940094001_5973634959001_5973636138001-vs.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/facebook-sandberg-biden-abortion.amp",
-      "publishedDateTime": "2021-01-29T16:13:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-biden-renews-deportation-relief-for-syrians-in-the-united-states.md",
-      "title": "Biden renews deportation relief for Syrians in the United States",
-      "excerpt": "The administration of President Joe Biden on Friday extended deportation relief for several thousand Syrian immigrants living in the United States, an early move that aligns with his broader pro-immigrant platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk",
-      "originalUrl": "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549573106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1AD",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Y28W",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y28W",
-      "publishedDateTime": "2021-01-29T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

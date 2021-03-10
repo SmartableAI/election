@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-11-trumps-tax-records-holy-grail-to-probe-cohen.md",
+      "title": "Trump's tax records 'holy grail' to probe -Cohen",
+      "excerpt": "In a brief video interview with Reuters on Wednesday, Donald Trump's former lawyer and fixer, Michael Cohen, said he'll go in for a seventh interview with the Manhattan district attorney's office as prosecutors step up the criminal investigation into the former U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/video/watch/trumps-tax-records-holy-grail-to-probe-c-idOVE3I9IOV?chan=6g5ka85",
+      "originalUrl": "https://www.reuters.com/video/watch/trumps-tax-records-holy-grail-to-probe-c-idOVE3I9IOV?chan=6g5ka85",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?d=20210310&i=OVE3I9IOV&r=OVE3I9IOV&t=2",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T11:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-pennsylvania-sen-pat-toomey-censured-for-his-vote-to-impeach-trump.md",
       "title": "Pennsylvania Sen. Pat Toomey censured for his vote to impeach Trump",
       "excerpt": "Lehigh County Republicans censured Sen. Pat Toomey, the most powerful Republican elected official in the region.",
@@ -223,7 +275,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1037,
+      "heat": 1137,
       "tags": null,
       "images": [
         {
@@ -573,63 +625,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-sanctions-are-reimposed-on-israeli-billionaire-granted-relief-under-trump.md",
-      "title": "Sanctions Are Reimposed on Israeli Billionaire Granted Relief Under Trump",
-      "excerpt": "The Biden administration moved to reverse an action that had benefited Dan Gertler, who has been accused of corruption over mining deals in the Democratic Republic of Congo.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/09/us/politics/08dc-gertler-print/08dc-gertler-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.amp.html",
-      "publishedDateTime": "2021-03-08T16:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1144,63 +1139,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-06-does-bidens-normal-foreign-policy-need-a-dash-of-trump.md",
-      "title": "Does Biden’s 'normal’ foreign policy need a dash of Trump?",
-      "excerpt": "The administration has ambitious goals and a deliberate process. But it might need to get a little unconventional to see results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/05/biden-foreign-policy-trump-473919",
-      "originalUrl": "https://www.politico.com/news/2021/03/05/biden-foreign-policy-trump-473919",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/0c/d0/8e8949274a15961ca5be48edd33c/210305-joe-biden-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/05/biden-foreign-policy-trump-473919",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/05/biden-foreign-policy-trump-473919",
-      "publishedDateTime": "2021-03-05T15:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-06-trump-state-department-aide-charged-with-assault-at-capitol.md",
       "title": "Trump State Department aide charged with assault at Capitol",
       "excerpt": "A former State Department aide in President Donald Trump’s administration has been charged with participating in the deadly Capitol siege and assaulting officers",
@@ -1619,6 +1557,63 @@
       "topics": [
         "Election",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-de-blasio-compares-cuomo-to-trump-after-governors-apology.md",
+      "title": "De Blasio compares Cuomo to Trump after governor's apology",
+      "excerpt": "Mayor Bill de Blasio compared Gov. Andrew Cuomo to Donald Trump Thursday, panning his attempt to fend off calls for his resignation by criticizing conditions in New York City. “To paint an apocalyptic picture [of the city] — that’s what Donald Trump would have done.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/new-york/albany/story/2021/03/04/de-blasio-compares-cuomo-to-trump-after-governors-apology-1366867",
+      "originalUrl": "https://www.politico.com/states/new-york/albany/story/2021/03/04/de-blasio-compares-cuomo-to-trump-after-governors-apology-1366867",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/dc/c0/a8f7784b41aebcd07dfd92d4f058/20210128-bill-de-blasio-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T10:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
       ]
     }
   ],
