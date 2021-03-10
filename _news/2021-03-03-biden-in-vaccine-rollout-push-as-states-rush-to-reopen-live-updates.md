@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 125
     images:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJZ43ZEAMQI6XAO3WAXQHGHUTI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden wants to sell the stimulus. The White House is still figuring out how."
+    excerpt: "Democrats say they blew it in the Obama years by failing to tout the president’s achievements in rescuing the economy. The White House hopes to avoid a repeat, but it is still formulating its sales pitch."
+    publishedDateTime: 2021-03-10T14:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZC4YDPEAOII6XPRCGLJTDWDVGA.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true

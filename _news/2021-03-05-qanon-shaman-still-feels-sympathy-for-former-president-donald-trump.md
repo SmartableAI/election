@@ -77,6 +77,20 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "She voted for Obama and died for Trump. How QAnon turned Ashli Babbitt, an Iraq veteran, into a domestic 'terrorist.'"
+    excerpt: "Capitol rioter Ashli Babbitt believed QAnon was \"a movement against evil in the world\" and died fighting for the Trump-condoned conspiracy."
+    publishedDateTime: 2021-03-10T14:15:00Z
+    webUrl: "https://www.businessinsider.com/ashli-babbitt-profile-capitol-riot-qanon-death-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/603fef822dc9010018355397?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report"
     excerpt: "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,"
     publishedDateTime: 2021-03-04T10:33:00Z

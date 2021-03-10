@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-157402
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
 type: article
 quality: 123
-heat: 243
+heat: 263
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "She voted for Obama and died for Trump. How QAnon turned Ashli Babbitt, an Iraq veteran, into a domestic 'terrorist.'"
+    excerpt: "Capitol rioter Ashli Babbitt believed QAnon was \"a movement against evil in the world\" and died fighting for the Trump-condoned conspiracy."
+    publishedDateTime: 2021-03-10T14:15:00Z
+    webUrl: "https://www.businessinsider.com/ashli-babbitt-profile-capitol-riot-qanon-death-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/603fef822dc9010018355397?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report"
     excerpt: "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,"

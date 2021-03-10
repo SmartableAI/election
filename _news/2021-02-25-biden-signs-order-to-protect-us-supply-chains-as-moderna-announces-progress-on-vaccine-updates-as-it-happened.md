@@ -63,6 +63,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden wants to sell the stimulus. The White House is still figuring out how."
+    excerpt: "Democrats say they blew it in the Obama years by failing to tout the president’s achievements in rescuing the economy. The White House hopes to avoid a repeat, but it is still formulating its sales pitch."
+    publishedDateTime: 2021-03-10T14:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZC4YDPEAOII6XPRCGLJTDWDVGA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden hopes to boost offshore wind as Mass. project advances"
     excerpt: "A huge wind farm off the Massachusetts coast is edging closer to federal approval, setting up what the Biden administration hopes will be a model for a sharp increase in offshore wind energy development along the East Coast."
     publishedDateTime: 2021-03-09T05:16:00Z

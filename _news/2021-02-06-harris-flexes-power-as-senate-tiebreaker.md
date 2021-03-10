@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/06/politics/kamala-harris-senate-tie-breaking-vote/index.html"
 type: article
 quality: 185
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -61,6 +61,22 @@ related:
     quality: 178
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127125903-02-blinken-swearing-in-0127-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Vice President Kamala Harris waits for her own portfolio as she settles into new role"
+    excerpt: "Vice President Kamala Harris was in the middle of an Oval Office meeting last Thursday when, before her turn to speak had come, a staffer delivered a note calling her to Capitol Hill.\n    \n"
+    publishedDateTime: 2021-03-10T14:21:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oSdWwLg1krk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/kamala-harris-adjustments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/kamala-harris-adjustments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205153407-06-kamala-harris-janet-yellen-black-business-owners-roundtable-0205-screengrab-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -89,6 +89,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "She voted for Obama and died for Trump. How QAnon turned Ashli Babbitt, an Iraq veteran, into a domestic 'terrorist.'"
+    excerpt: "Capitol rioter Ashli Babbitt believed QAnon was \"a movement against evil in the world\" and died fighting for the Trump-condoned conspiracy."
+    publishedDateTime: 2021-03-10T14:15:00Z
+    webUrl: "https://www.businessinsider.com/ashli-babbitt-profile-capitol-riot-qanon-death-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 82
+    images:
+      - url: "https://i.insider.com/603fef822dc9010018355397?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Pentagon Says Trump Interfered With Investigation Into Rep. Ronny Jackson's Abuse Of Subordinates"
     excerpt: "Jackson is accused of dozens of improprieties, including commenting on a female subordinate's body and drunkenly harassing her."
     publishedDateTime: 2021-03-03T22:02:00Z

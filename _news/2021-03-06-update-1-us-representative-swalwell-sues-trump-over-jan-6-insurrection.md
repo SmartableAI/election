@@ -63,6 +63,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Chinese entrepreneur sells pensive Donald Trump Buddha statues"
+    excerpt: "One buyer says he bought statue of former US president on Taobao as reminder not to be ‘too Trump’ Martin Belam Donald Trump is not known for his calm and peaceful demeanour, but that hasn’t stopped one entrepreneurial furniture-maker in China from ..."
+    publishedDateTime: 2021-03-10T11:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7657bf9894707ce482cdeb9d0814fa1e24957baf/385_82_1316_790/master/1316.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3024c349f4cf410da766382cec3206b6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Claimed value of sleepy New York estate could come to haunt Donald Trump"
     excerpt: "A century-old estate that Trump owns in suburban New York is subdued by the former president's standards, but it could end up being one of his bigger legal nightmares."
     publishedDateTime: 2021-03-08T06:56:00Z

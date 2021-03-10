@@ -139,6 +139,22 @@ related:
       name: CNN
       domain: cnn.com
     quality: 155
+  - title: "Biden to announce plans to purchase 100 million more Johnson & Johnson coronavirus vaccine doses, sources tell CNN"
+    excerpt: "President Joe Biden will announce Wednesday that he is directing the US Department of Health and Human Services to purchase an additional 100 million doses of the Johnson & Johnson Covid-19 vaccine, a White House official confirms to CNN.\n    \n"
+    publishedDateTime: 2021-03-10T14:27:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hQ-oieVbYKA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-johnson--johnson-merck-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-johnson--johnson-merck-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "mcE66+PHLjCaE01BaT/6eO7VUzFHmYb+KPraDzG+HNivkZtXWkNEUunS3UK1zocrdXNqC/Ilt5EcXcYekylomVSlqUrSC2+KmfyAufPQ8PlxoEHvMNevNZNJYXAs2fw099zO4+F67Yy0P8UXR3a29kAFJ2FKrbaIfswksOm3sz4cvafbx6ul5jVzoy0wdzLlwdqz9eKmfKM5WdZxLm7ety8t54scMdCqSu6zmHf6BdQnfYCaM4V8TEXx14xe5//2pa+1aNGGhSY8wo6UabeOrjPwA2JzBqPRB4tZ6WrAy9n3eR/gG/6Y9DkcHlTP8YAY6SAIZ9aocA8g7xWfMIbVzW5PQ28esfnZX96hBHyCjkVOV9p7Wlhpt5f3Ovmxx5QF5YXndWeQFDvbAty9222CYNjlAp6iKul9N40MszGOrFyXrx6qIq9CXtnb+vF/iIw/x/Y8IG47AL5GIBjxjMZQnRaG1+Dtgt4l8ibAceQJTxnFVsdyXSPRHagR+wuhv67OHkyNWPJBp2jqr50bB0QvmQ==;a8zKjUR+wcBg3BQwPW741g=="
 ---

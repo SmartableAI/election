@@ -79,6 +79,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden infuriates progressives after denying entry to thousands still affected by Trump's travel ban"
+    excerpt: "President Biden reversed his predecessor's controversial travel ban on his first day in office, but is still denying entry to thousands of people affected by it, infuriating progressive lawmakers who have decried the position as \"unacceptable.\""
+    publishedDateTime: 2021-03-10T14:21:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5DfWIT7Sauo/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4742e1d-ecaa-4e75-bea0-b49dd6cc1f80/b6fcb948-6b38-487e-b018-fb3f60e13598/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden administration needs to acknowledge border 'crisis,' former Trump and Obama immigration official warns"
     excerpt: "Ronald Vitiello, former acting ICE director in the Trump administration and former Border Patrol chief in the Obama administration, says the migrant surge at the border is 'completely predictable.'"
     publishedDateTime: 2021-03-08T17:15:06Z

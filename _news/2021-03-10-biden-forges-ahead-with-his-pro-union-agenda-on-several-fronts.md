@@ -121,6 +121,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to announce plans to purchase 100 million more Johnson & Johnson coronavirus vaccine doses, sources tell CNN"
+    excerpt: "President Joe Biden will announce Wednesday that he is directing the US Department of Health and Human Services to purchase an additional 100 million doses of the Johnson & Johnson Covid-19 vaccine, a White House official confirms to CNN.\n    \n"
+    publishedDateTime: 2021-03-10T14:27:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hQ-oieVbYKA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-johnson--johnson-merck-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-johnson--johnson-merck-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 153
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden Nominees Vow to Avoid Politicizing Justice Dept."
     excerpt: "The president’s picks for the department’s No. 2 and 3 spots pledged to restore independence to law enforcement."
     publishedDateTime: 2021-03-10T01:10:00Z

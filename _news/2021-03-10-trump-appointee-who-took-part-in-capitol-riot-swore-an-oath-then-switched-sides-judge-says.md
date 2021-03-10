@@ -63,6 +63,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Chinese entrepreneur sells pensive Donald Trump Buddha statues"
+    excerpt: "One buyer says he bought statue of former US president on Taobao as reminder not to be ‘too Trump’ Martin Belam Donald Trump is not known for his calm and peaceful demeanour, but that hasn’t stopped one entrepreneurial furniture-maker in China from ..."
+    publishedDateTime: 2021-03-10T11:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/7657bf9894707ce482cdeb9d0814fa1e24957baf/385_82_1316_790/master/1316.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3024c349f4cf410da766382cec3206b6"
+        width: 600
+        height: 360
+        isCached: true
   - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
     publishedDateTime: 2021-03-05T18:29:00Z

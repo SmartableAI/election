@@ -80,6 +80,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Vice President Kamala Harris waits for her own portfolio as she settles into new role"
+    excerpt: "Vice President Kamala Harris was in the middle of an Oval Office meeting last Thursday when, before her turn to speak had come, a staffer delivered a note calling her to Capitol Hill.\n    \n"
+    publishedDateTime: 2021-03-10T14:21:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oSdWwLg1krk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/kamala-harris-adjustments/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/kamala-harris-adjustments/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205153407-06-kamala-harris-janet-yellen-black-business-owners-roundtable-0205-screengrab-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Kamala Harris Casts Her First Tie-Breaking Vote"
     excerpt: "It was, somehow, a setting simultaneously dramatic and anticlimactic for Vice President Kamala Harris’s first tiebreaking vote in the Senate: just before dawn in a sparsely filled chamber, at the end of a 15-hour session in which senators voted on dozens of amendments to one of the largest stimulus packages in American history."
     publishedDateTime: 2021-02-05T15:12:00Z

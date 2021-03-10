@@ -207,6 +207,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Polls find most Americans support Biden's COVID-19 stimulus package"
+    excerpt: "President Joe Biden is also enjoying a positive approval rating as the package heads to his desk. A FiveThirtyEight aggregate of polls finds Biden's approval rating sits at 53.4% approving and 38.8% disapproving. Specifically, on his response to the ..."
+    publishedDateTime: 2021-03-10T14:34:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6936053002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6936053002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/05/USAT/650f7c42-3bb7-4281-951e-aa870f369b46-AP_Biden_8.jpg?auto=webp&crop=4964,2793,x0,y251&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
     publishedDateTime: 2021-03-04T12:33:00Z
@@ -645,6 +661,6 @@ related:
         height: 675
         isCached: true
 
-secured: "16HOfniPEqqA5JQgJr/5tWq/hGjGjBxB2x+warAKtqWowbdrGakyX2RGqtGWbjcisDBp+98iBK0rIAq51Lma/Ym0gHxemO9c3uxeMup6m097/umUw55oXd/mIUiG/uQWFzrXzI2NZgUZk5iAoYMxaQthGrZ3+XSfJd0Lq+4UU1Z/+IOFvb/i/T78MKrgWfUiRP346M21DlVYC/aRAF7QJqzsqN74yQ1894uAUU6ukwRlXvgpvTuay/O7XPSs262zgbreCEZvjvl3nTpV8cCpSN4I6DBPEY1+B2wlUV3sqCYqoAbm02rcK6FvnOCyJiwj/ts3wTQLGlFh3iOsvVv+b3SlWm/fu+w6B6dbeemuQAA=;t+6ha7/dHbej+vPQQOzozA=="
+secured: "8SYT21z97v4GRDzOhL1aexAsQKZMlk9EQF1svsyb9nKxyi1LK+/JQjF29KlVO0Hm3RZg44jbkqdsJ1i2QGWjBlPJ9BydGbbvhmmKOiMcJ0rHNqU36YhJOIeHSJ6o1/FSlm6WM4xKepuuIg8L/btjYO2UVs1UxvrnbZmhjKipUkxsYL/HGIw9a3I3kJnzWQo6pSqesmxcbGN/8QTtPgeeb5qcQbXuNT9cStxwnxqP88PPVyEaiNYxDURKauECw+AErs4/8V5nUm8LzpF68hbFIw0OuqQoq3A1boh5I3y6nmf3sy1zK3ooSAdXJk7vtl/Dzm/twHDTpb5PvJFowabEiP1EXkL8AlrGanA6gpqFmjTNRyC7yeW8l7NURmYkZXOBdHjrqbNhjLFm1Tz4y/cJ7sEUs5O6z4Cgobe0+j+2FD22PLwzGEpw0Es+mgE+eznur4bEIe8IUE3ZJ5DVI3fbOPacwSyrTDngvTdszOD47huzNGTd+c8PUqus75OZeB75u7PtfkPLeIr/rhUQzaMAQg==;pjdFf2PjEUWhybmAyTHmTQ=="
 ---
 

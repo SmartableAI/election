@@ -76,6 +76,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden infuriates progressives after denying entry to thousands still affected by Trump's travel ban"
+    excerpt: "President Biden reversed his predecessor's controversial travel ban on his first day in office, but is still denying entry to thousands of people affected by it, infuriating progressive lawmakers who have decried the position as \"unacceptable.\""
+    publishedDateTime: 2021-03-10T14:21:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5DfWIT7Sauo/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4742e1d-ecaa-4e75-bea0-b49dd6cc1f80/b6fcb948-6b38-487e-b018-fb3f60e13598/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas Gov. Abbott blames Biden reversal of Trump policies for 'self-inflicted' migrant surge at border"
     excerpt: "Texas Republican Gov. Greg Abbott blamed the Biden administration for what he called a \"self-inflicted\" influx of migrants at the southern border by reversing the immigration policies implemented under former President Donald Trump."
     publishedDateTime: 2021-03-09T23:20:10Z
