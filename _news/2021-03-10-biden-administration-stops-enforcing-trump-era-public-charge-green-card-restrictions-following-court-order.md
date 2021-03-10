@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump Appointee Who Took Part in Capitol Riot Swore an Oath Then 'Switched Sides,' Judge Says"
-excerpt: "Federico Klein, an ex-official in the administration of former President Donald Trump, will remain in jail after a judge said he \"switched sides\" by allegedly participating in the deadly breach of the U.S. Capitol on January 6. U.S. Magistrate Zia Faruqui ..."
-publishedDateTime: 2021-03-10T05:45:00Z
-originalUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976"
-webUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976"
-ampWebUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
+title: "Biden administration stops enforcing Trump-era \"public charge\" green card restrictions following court order"
+excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
+publishedDateTime: 2021-03-10T05:43:00Z
+originalUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
 type: article
-quality: 114
+quality: 121
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1752326/federico-klein-capitol-riots-donald-trump.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -95,22 +95,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden administration stops enforcing Trump-era \"public charge\" green card restrictions following court order"
-    excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
-    publishedDateTime: 2021-03-10T05:43:00Z
-    webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 121
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Congressman sues Trump over deadly Capitol siege, charges civil rights violation"
     excerpt: "A Democratic congressman has sued Donald Trump, his lawyer Rudy Giuliani and other allies of the former president over the deadly attack on the U.S. Capitol when violent Trump supporters tried to stop the certification of Trump's election defeat."
     publishedDateTime: 2021-03-05T23:52:00Z
@@ -158,6 +142,22 @@ related:
       - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
         width: 979
         height: 551
+        isCached: true
+  - title: "Trump Appointee Who Took Part in Capitol Riot Swore an Oath Then 'Switched Sides,' Judge Says"
+    excerpt: "Federico Klein, an ex-official in the administration of former President Donald Trump, will remain in jail after a judge said he \"switched sides\" by allegedly participating in the deadly breach of the U.S. Capitol on January 6. U.S. Magistrate Zia Faruqui ..."
+    publishedDateTime: 2021-03-10T05:45:00Z
+    webUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976"
+    ampWebUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1752326/federico-klein-capitol-riots-donald-trump.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Ex-State Department employee appointed by Trump ‘switched sides’ in joining Capitol mob, judge says"
     excerpt: "A former State Department staffer with a top-secret security clearance betrayed his oath of office when he joined the Capitol mob that attempted to subvert the electoral process on Jan. 6, a federal magistrate judge said Tuesday."
@@ -233,6 +233,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "S7XeONmYTJp9FsZ/lZEUluYNXXlIbOtg3IPhnnLvhv9HznkPGGmnUb6A9ljtrdXutJRIKEWxfVZINpPjsDruh4UtRkI9+dUsCZceAvoPfV+p8sPpyCHYCdyHieMH5azMjHUT5kJTHSTDuvztrKV39ROUN0QT+I+6EHYJ/9G8iKCwUnOWzOjlItX2uBunbJy+zLRapd5SMEoNdmk6Yp8K1kvvYtpsiZibJaGxB1bGiA3HNAuZ7rM4sh4q3rEUBRmM6cNnmRe4rzuKCv6a8ZCNc9I5Phj68FQuxtl2kjqnmFChpXAS8L+EN/Ft3yLEtBX64Y68KIsfis033KZ/bvxDr1TCF3spwGcIqLx/dTZrKjg=;ug9Ii4KGtd7lMRiSb3mE9g=="
+secured: "AAgDm+z818o+SW3ACPZ8egIlRtjqmJDtp07oHmoaqmBRjeCjnF/2v6ExJp6cBYnLdlYr48/8ujBFfnmbixYNTPZ+/WchHZcbXKNka94oUgxbkRL055ir1TPgENHfa27fMuV/MqWRomRbGhAU5+ZwCTWnyDJrTMst4FiqLhg4+lRwqoXnZu7gWVhPBO+XqtC0sLKnuy17SH4L9Z5TXdyV9nzQqAWrjLkOQ8bIhiE6DtprN0Wzmw59v4yhKt5+6eU2Zbu2i0T4e76lzStkzU8tLK1W8j5a0fQD6R/+gBo514lQakchhF/58Gx/QF9YgAz3g6vbDm80jvKGyFt5P5GioRZxMxavTwAOjkkHhZadsWE=;PuJ06WCkahoceP4IArArbg=="
 ---
 

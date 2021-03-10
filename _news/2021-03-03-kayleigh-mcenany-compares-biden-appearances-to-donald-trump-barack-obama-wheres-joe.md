@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conference
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1"
 type: article
 quality: 131
-heat: 271
+heat: 311
 published: true
 
 provider:
@@ -94,6 +94,38 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_01bd8e23f94d41b0bc3d7b18e654b50a_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Critics blast Biden administration for denying entry to thousands of people still affected by Trump's 'Muslim ban'"
+    excerpt: "to encourage migration from underrepresented people — only to have them taken away by an executive order by Donald Trump, who then tried to eliminate the diversity program altogether. People like Anwar al Saeedi, a Yemeni man who in 2017 expected to be ..."
+    publishedDateTime: 2021-03-10T00:19:00Z
+    webUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/6047fc099942cf001865d731?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Polarized Nation Picks Barack Obama and Donald Trump as Favorite Presidents of All Time"
+    excerpt: "Americans named Barack Obama their favorite U.S. president of all time followed by Donald Trump while, among Democrats, Joe Biden is already as popular as Bill Clinton, according to a new scientific poll, the results of which were shared exclusively with ..."
+    publishedDateTime: 2021-03-10T02:00:00Z
+    webUrl: "https://www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957"
+    ampWebUrl: "https://www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1565383/fe-presidential-names-01.jpg"
+        width: 2000
+        height: 1303
         isCached: true
   - title: "Senate votes to confirm Biden pick as commerce secretary"
     excerpt: "The Senate voted overwhelmingly Tuesday to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy's recovery during and after the coronavirus pandemic."

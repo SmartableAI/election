@@ -3,10 +3,10 @@ category: news
 title: "Biden's $1.9 trillion COVID-19 package clears procedural vote in U.S. House"
 excerpt: "The U.S. House of Representatives voted on Tuesday to advance President Joe Biden's $1.9 trillion COVID-19 relief bill, clearing the way for the measure to be considered on Wednesday, when it is expected to pass."
 publishedDateTime: 2021-03-09T22:40:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/us-house-to-vote-wednesday-on-bidens-19-trillion-covid-19-package-idUSKBN2B11PO"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/us-house-to-vote-wednesday-on-bidens-19-trillion-covid-19-package-idUSKBN2B11PO"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B11PO"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B11PO"
+originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idINKBN2B11PO"
+webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idINKBN2B11PO"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B11QB"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B11QB"
 type: article
 quality: 123
 heat: -1
@@ -154,6 +154,6 @@ related:
         height: 630
         isCached: true
 
-secured: "snQWl35CpjRoYcKZTMWow7F4P6GT4EvSHIe1oeEYf8oLf5ALpyQveM7NZL92/hFc7VbzVO2xoNpT5qGFyElW3V+9ZSHvBfyCuk8zvgGJPj9laxnt8AAlMIwrOlEc9xlv6cN0onp1+Kcn+CUArMngWkXcFweuJ3ciIQ0uRtCo1vskARFFlkinAOaTVUmB2h+xsEPngq6GrmMVlcHVhiwHkJZoUxg4uFpAkFumD2dmPCBFQ6/hl7sLmYudvJjOaQb41NJvdFoCNThCwsPtK6Hig4j+OQ2gLlzAyD2S43YSnkannxWQ1QrDAV8vL2IjvbTYFV1ZCJFJGsw+ufCm5QohXppnZPyTV6U1xdZhAnLBnnzpCdp3bANscAcxQ1KoHOwoM7wF0qozpL6SQETlc32AKcNTAWs38NU5+cX6Cy8xzJAU2TkewpDJj2LSDXy/GUq/IegPffqSSeIDoVDadO+fsO2tKm28WCeAv/P+r62Rg6LO1F3ZO3bpLXCC52wSyy16s80Eu+eH/c88/Bu8z6Ivtg==;JL1BIwFSAGUxzLUr7QRL9A=="
+secured: "gg2dDxXKozqp+eBOQfQmalBdzT5x/4PstY7ERXXaL2ctmdG4saTS9dW8jz/zIB/8UZ3JOqEPEay+GLbx2RciLOfMZ/6fmtUt7i5kf+iJXXs6qxmikdCFPl1q/CvxfWqn6BEFG6Vck5/eQMwJ+E8jghMcyhPAr56C+TOJPKps34T7yg43nm+707W8LJ7fJ1hWX0S8JuV5uclDogWe+QNPbvRUPankPYgdw6ycS0fcaDw0hiDru/z0z2MXTaD6szA62fbhVXNmY6xSRZ6W0VcwO4bib+GACWApV0UVsazbRKpPa10bKJPsz2jimuGZzvoHhJvGTi8AR4IiK87JpjtDxKlMXnWhH52qUFiKFrNZlK4=;7YVqz/Ms+RPWrLdgWhQ9vg=="
 ---
 

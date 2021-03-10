@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Anti-Trump conservatives rally to back Vanita Gupta, Biden’s pick for key Justice Dept. post"
-excerpt: "The effort is aimed at countering attacks from hard-right conservatives who have portrayed the civil rights attorney as a radical progressive."
-publishedDateTime: 2021-03-01T17:21:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
+title: "Critics blast Biden administration for denying entry to thousands of people still affected by Trump's 'Muslim ban'"
+excerpt: "to encourage migration from underrepresented people — only to have them taken away by an executive order by Donald Trump, who then tried to eliminate the diversity program altogether. People like Anwar al Saeedi, a Yemeni man who in 2017 expected to be ..."
+publishedDateTime: 2021-03-10T00:19:00Z
+originalUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3"
+webUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3"
+ampWebUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
 type: article
-quality: 129
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WCRZFWTW4QI6XFJXJFQVRTC73E.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://i.insider.com/6047fc099942cf001865d731?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Anti-Trump conservatives rally to back Vanita Gupta, Biden’s pick for key Justice Dept. post"
+    excerpt: "The effort is aimed at countering attacks from hard-right conservatives who have portrayed the civil rights attorney as a radical progressive."
+    publishedDateTime: 2021-03-01T17:21:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 129
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WCRZFWTW4QI6XFJXJFQVRTC73E.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "With Biden's backing, Dems revive bill to overhaul policing"
     excerpt: "Cheered on by President Joe Biden, House Democrats are hustling to pass the most ambitious effort in decades to overhaul policing nationwide, confident they can avoid clashing with moderates in their own party who are wary of reigniting a debate they say hurt them during last fall's election."
     publishedDateTime: 2021-03-04T01:11:00Z
@@ -94,22 +110,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_01bd8e23f94d41b0bc3d7b18e654b50a_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Critics blast Biden administration for denying entry to thousands of people still affected by Trump's 'Muslim ban'"
-    excerpt: "to encourage migration from underrepresented people — only to have them taken away by an executive order by Donald Trump, who then tried to eliminate the diversity program altogether. People like Anwar al Saeedi, a Yemeni man who in 2017 expected to be ..."
-    publishedDateTime: 2021-03-10T00:19:00Z
-    webUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
-    images:
-      - url: "https://i.insider.com/6047fc099942cf001865d731?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Polarized Nation Picks Barack Obama and Donald Trump as Favorite Presidents of All Time"
     excerpt: "Americans named Barack Obama their favorite U.S. president of all time followed by Donald Trump while, among Democrats, Joe Biden is already as popular as Bill Clinton, according to a new scientific poll, the results of which were shared exclusively with ..."
@@ -169,6 +169,6 @@ related:
         height: 4000
         isCached: true
 
-secured: "M81BiSOPD3Vmkn7nzbeh4psWMpfxjQ/j5y5wR62VoBHsueBwC4Tij+8mRWmrey7l3a5H8hGtcDopaj2/uQeeAvUOfJw3bn2t5bCr3BhictznpV3YcWR9Fpstd6ggr4377Wh7twWIegp/tlE0LHDk/b6yFSPpLI/DZSdk0Jl2TFIhxL7s/hZuH/h5/ekvwLKEt4lsh1uPDJC6Lb3xBEGrFxYfQjedAiLqE7zagbybrCXUzrbl2byN0G9M7jXSFLfr3iV5Zx4mO7+nD4WQSxKFDuqEOH9GzIewLfmNbn8I+PWGX10enzS0cpjjK9vtTQhQTT9y5OvT7vfFaaNyvSy0CzGbeRA8Rt77xCAYgh3QgSI=;HSZhF5lU4GDiJJKHozzvRQ=="
+secured: "WPh53SqQl2S2ucDKIT25OyPbJEyvF2ecdoNvRXxrEbyO6IgX6QOJCoqVbGYa5k/AtVOVnt0SSM0vC5MbO/GI9MMKFzfxYsxM4p1V1OtmmWWu+u6AQ+bD2W0P26CFklhZCojlFbLzCntRPG6Q5otqdjI1w6/Uhk41vH6YaNFDjbK3WKTltKUNI0MWwAvdPAOLqjyCqnAPdcs7cw97viO5e8fhFUsQsI3capYem87nW2lUEhu2EpbrxFXD+hN1F9j/j7OW56ws+Xch4lQeWZ2+/nK+EwhZGly77dSrm239dlrL1gJ6BgMOpw3toqhPYEAuQQgesjM6aFqGDIqVW6/jq/593vvxjvlpJlIioSjywqI=;tgHpf2GpyeBr8mO+UQim2w=="
 ---
 

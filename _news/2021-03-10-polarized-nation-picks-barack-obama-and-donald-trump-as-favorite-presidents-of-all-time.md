@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Anti-Trump conservatives rally to back Vanita Gupta, Biden’s pick for key Justice Dept. post"
-excerpt: "The effort is aimed at countering attacks from hard-right conservatives who have portrayed the civil rights attorney as a radical progressive."
-publishedDateTime: 2021-03-01T17:21:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
+title: "Polarized Nation Picks Barack Obama and Donald Trump as Favorite Presidents of All Time"
+excerpt: "Americans named Barack Obama their favorite U.S. president of all time followed by Donald Trump while, among Democrats, Joe Biden is already as popular as Bill Clinton, according to a new scientific poll, the results of which were shared exclusively with ..."
+publishedDateTime: 2021-03-10T02:00:00Z
+originalUrl: "https://www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957"
+webUrl: "https://www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957"
+ampWebUrl: "https://www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957?amp=1"
 type: article
-quality: 129
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WCRZFWTW4QI6XFJXJFQVRTC73E.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://d.newsweek.com/en/full/1565383/fe-presidential-names-01.jpg"
+    width: 2000
+    height: 1303
     isCached: true
 
 related:
@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Anti-Trump conservatives rally to back Vanita Gupta, Biden’s pick for key Justice Dept. post"
+    excerpt: "The effort is aimed at countering attacks from hard-right conservatives who have portrayed the civil rights attorney as a radical progressive."
+    publishedDateTime: 2021-03-01T17:21:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 129
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WCRZFWTW4QI6XFJXJFQVRTC73E.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "With Biden's backing, Dems revive bill to overhaul policing"
     excerpt: "Cheered on by President Joe Biden, House Democrats are hustling to pass the most ambitious effort in decades to overhaul policing nationwide, confident they can avoid clashing with moderates in their own party who are wary of reigniting a debate they say hurt them during last fall's election."
     publishedDateTime: 2021-03-04T01:11:00Z
@@ -110,22 +126,6 @@ related:
       - url: "https://i.insider.com/6047fc099942cf001865d731?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Polarized Nation Picks Barack Obama and Donald Trump as Favorite Presidents of All Time"
-    excerpt: "Americans named Barack Obama their favorite U.S. president of all time followed by Donald Trump while, among Democrats, Joe Biden is already as popular as Bill Clinton, according to a new scientific poll, the results of which were shared exclusively with ..."
-    publishedDateTime: 2021-03-10T02:00:00Z
-    webUrl: "https://www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957"
-    ampWebUrl: "https://www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 117
-    images:
-      - url: "https://d.newsweek.com/en/full/1565383/fe-presidential-names-01.jpg"
-        width: 2000
-        height: 1303
         isCached: true
   - title: "Senate votes to confirm Biden pick as commerce secretary"
     excerpt: "The Senate voted overwhelmingly Tuesday to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy's recovery during and after the coronavirus pandemic."
@@ -169,6 +169,6 @@ related:
         height: 4000
         isCached: true
 
-secured: "M81BiSOPD3Vmkn7nzbeh4psWMpfxjQ/j5y5wR62VoBHsueBwC4Tij+8mRWmrey7l3a5H8hGtcDopaj2/uQeeAvUOfJw3bn2t5bCr3BhictznpV3YcWR9Fpstd6ggr4377Wh7twWIegp/tlE0LHDk/b6yFSPpLI/DZSdk0Jl2TFIhxL7s/hZuH/h5/ekvwLKEt4lsh1uPDJC6Lb3xBEGrFxYfQjedAiLqE7zagbybrCXUzrbl2byN0G9M7jXSFLfr3iV5Zx4mO7+nD4WQSxKFDuqEOH9GzIewLfmNbn8I+PWGX10enzS0cpjjK9vtTQhQTT9y5OvT7vfFaaNyvSy0CzGbeRA8Rt77xCAYgh3QgSI=;HSZhF5lU4GDiJJKHozzvRQ=="
+secured: "8sRUVLZjCFHjgnAiE+AIGTTx1xm3htfb/ew8ndE18u5ibrsi1NwsFV9ewip9OE7uXKJ1qFPK6J9FyQEUVXIhXwqHJR0pPH5CFZuaWX3FbUtWK0HCX4bIYG6fyMCZOKCB2SIhTXqqNH2zUwEFDREKGMWfwK60wOMUrtonLbsOMupFLTIQwg74yq2vrTs630Zy9k+KOCWdABi33UQXzt6Lt5Gtt/qYsM8Nd9LllsoDlu7oOFfn3b42pjb8WatXbjp0kThkwrunOrgM8EQ7/Mn+L+EJxVjdGbGk/n+5EY8rFAtef1RdaQoYPJZ74gBVbemPfgCT0AG76/WS+oGiHBMghQljR+YF41uzlD5w1cnuv2A=;wAGChAKrrV1untZCvLFK3Q=="
 ---
 
