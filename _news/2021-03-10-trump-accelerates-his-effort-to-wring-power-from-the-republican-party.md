@@ -127,6 +127,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Dick Morris has been meeting with Trump: report"
+    excerpt: "Veteran political consultant Dick Morris has reportedly been meeting with former President Trump as Trump looks to chart his path forward in politics after leaving the White House."
+    publishedDateTime: 2021-03-10T15:04:00Z
+    webUrl: "https://thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_092520getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "GOP leaders reiterate commitment to working with Trump amid back-and-forth"
     excerpt: "Republican leaders looked to turn down the temperature Tuesday night with former President Trump amid a back-and-forth with the former president over the party’s use of his image and likeness in its fundraising efforts."
     publishedDateTime: 2021-03-10T02:16:00Z

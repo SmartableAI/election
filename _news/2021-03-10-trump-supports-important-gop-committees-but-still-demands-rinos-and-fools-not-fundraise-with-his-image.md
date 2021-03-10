@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Trump supports 'important GOP Committees' but still demands 'RINOs and fools' not fundraise with his image"
-excerpt: "Former President Donald Trump said Tuesday that he supports the Republican Party and its major fundraising organizations but still doubled down on his demand that \"RINOs and fools\" not use his name or likeness to raise campaign cash. "
-publishedDateTime: 2021-03-10T12:47:07Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8KgLM4lDlqE/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8KgLM4lDlqE/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image"
+excerpt: "Former President Donald Trump said Tuesday that he supports the Republican Party and its major fundraising organizations but still doubled down on his demand that \"RINOs and fools\" not use his name or likeness to raise campaign cash. The two-pronged ..."
+publishedDateTime: 2021-03-10T12:49:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image"
+webUrl: "https://www.foxnews.com/politics/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image"
 ampWebUrl: "https://www.foxnews.com/politics/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image.amp"
 type: article
-quality: 157
-heat: 157
+quality: 117
+heat: 117
 published: true
 
 provider:
@@ -22,14 +22,15 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/11/640/320/AP19324652087774.jpg?ve=1&tl=1"
+    width: 640
+    height: 320
     isCached: true
 
-secured: "MuCe/3kov1FfpLKebN/f9lLdNplsZ/J+DEVEd2tJJrKS1b//xaEXJBuipF0eW6QwI5QVzuX+FcBcraYc2Eqs8JRUozRipioI3Klkjlf3HCVw7MqSjkXgtu2H+K3yskjAuzUrDXD0TIdkj/UhM+C0mENLJS//7yGniUXc7CBU7/B7lhY7xrKPsdurBPq4cp2zFGXHYQlTP3rzWX9gDwUOP3DkGj1eLkMD/a4kT1aO+TSk0Bzv5Pfpq6P1eZjuMwzwNOnwm2RsCp4Xn1Yf5Djrld0bXTWQRF3Zlg5n4uD5xBgvd83iHMPvG4n5G0+8WGFiglybUHtt1/Gsh2qFz+JYu0sft3+XaZY6i25Ujivats4=;9SZDBmaw/XsKLNNYRG17sg=="
+secured: "jQwCtlv1oS/sl1mcbDPOebR/aoQpwLNmGHDmdDLwtnA2f54kjcV6E0nMilaaH3iLNf7t+cO9ETdmk1OzpEHU2qPMWUpMciLuzd6l/+yet4bzWZBqXT/ZUfhE5NzQ4xdJuqwSKi9FlE+2BIseQ96BsseX+SGybvojl1M3CwEPeL8OWvERdhlzJOV5kN1JfVXKdUOjhNrSGjdQ8dNImZKvOtEJYEjfjaxEEU0NHnM1y2jyAZKv18by7BCubiFo5Qr149yeEnbvRQCLW8OTBS71e2yKBRCFm/t+d+JuzPC7+/7Zd7slrJ+x6eEBDVL0EdGoUu0FPRC5fhJEhq2kHoFN3W7269NTPiPN9YsR2YebyJE=;Xt/XWjzcMwqdv+Hzm/JpUA=="
 ---
 

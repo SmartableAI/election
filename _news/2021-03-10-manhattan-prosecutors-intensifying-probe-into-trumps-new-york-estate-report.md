@@ -127,6 +127,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Dick Morris has been meeting with Trump: report"
+    excerpt: "Veteran political consultant Dick Morris has reportedly been meeting with former President Trump as Trump looks to chart his path forward in politics after leaving the White House."
+    publishedDateTime: 2021-03-10T15:04:00Z
+    webUrl: "https://thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_092520getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump accelerates his effort to wring power from the Republican Party"
     excerpt: "In the weeks after President Donald Trump lost the 2020 election, he and his team flooded email and text-message inboxes with false claims that the results of the contest were illegitimate. The messages were almost panicky: The Democrats were committing a crime on a historic scale and the guileless victim of that dishonesty — your favorite president — needed every able-bodied American to take to the ramparts."
     publishedDateTime: 2021-03-09T18:05:00Z

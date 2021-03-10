@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White House press corps ushered away after asking Biden questions — again"
+    excerpt: "Aides to President Biden hurried the traveling press corps away as they shouted questions at an unresponsive commander in chief in Washington Tuesday -- his 48th day in office without holding a solo press conference. "
+    publishedDateTime: 2021-03-10T16:30:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1D4HyQNkCw/white-house-press-corps-ushered-away-asking-biden-questions-again"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Democrats '110%' confident Biden's COVID relief bill will become law this week"
     excerpt: "House Democrats expressed optimism that they will deliver President Biden an early legislative victory this week by passing his $1.9 trillion coronavirus stimulus legislation and make strides toward erasing poverty in the United States in doing so. "
     publishedDateTime: 2021-03-09T19:23:11Z

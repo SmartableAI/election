@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Ivanka Trump makes first public appearance since leaving White House"
+    excerpt: "Former senior adviser to the president Ivanka Trump on Tuesday made her first public appearance since leaving the White House."
+    publishedDateTime: 2021-03-10T15:34:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3G_ERfwqa94/ivanka-trump-first-public-appearance-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/ivanka-trump-first-public-appearance-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ivanka-trump-first-public-appearance-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e42456f-6849-4ff8-b571-9b1c530d7f39/bd6a06fa-1b7c-43aa-bc82-e8b7aff8a0b5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Rep. Eric Swalwell sues Trump, Giuliani and others for Capitol riot"
     excerpt: "Democratic Rep. Eric Swalwell is suing former President Donald Trump, his son Donald Trump Jr., Rudy Giuliani and Rep. Mo Brooks, claiming they incited the Jan. 6 Capitol riot and violated civil"
     publishedDateTime: 2021-03-05T16:00:00Z

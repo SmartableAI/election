@@ -312,6 +312,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 35
+  - title: "RICO Expert Hired by Prosecutor Investigating Trump Call"
+    excerpt: "An expert on Georgia’s racketeering law was set to be sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general election."
+    publishedDateTime: 2021-03-10T11:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-10/rico-expert-hired-by-prosecutor-investigating-trump-call"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "S7XeONmYTJp9FsZ/lZEUluYNXXlIbOtg3IPhnnLvhv9HznkPGGmnUb6A9ljtrdXutJRIKEWxfVZINpPjsDruh4UtRkI9+dUsCZceAvoPfV+p8sPpyCHYCdyHieMH5azMjHUT5kJTHSTDuvztrKV39ROUN0QT+I+6EHYJ/9G8iKCwUnOWzOjlItX2uBunbJy+zLRapd5SMEoNdmk6Yp8K1kvvYtpsiZibJaGxB1bGiA3HNAuZ7rM4sh4q3rEUBRmM6cNnmRe4rzuKCv6a8ZCNc9I5Phj68FQuxtl2kjqnmFChpXAS8L+EN/Ft3yLEtBX64Y68KIsfis033KZ/bvxDr1TCF3spwGcIqLx/dTZrKjg=;ug9Ii4KGtd7lMRiSb3mE9g=="
 ---

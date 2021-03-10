@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-cong
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp"
 type: article
 quality: 175
-heat: 555
+heat: 575
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "White House press corps ushered away after asking Biden questions — again"
+    excerpt: "Aides to President Biden hurried the traveling press corps away as they shouted questions at an unresponsive commander in chief in Washington Tuesday -- his 48th day in office without holding a solo press conference. "
+    publishedDateTime: 2021-03-10T16:30:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1D4HyQNkCw/white-house-press-corps-ushered-away-asking-biden-questions-again"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden backs House gun background check bills that would tighten restrictions"
     excerpt: "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system."

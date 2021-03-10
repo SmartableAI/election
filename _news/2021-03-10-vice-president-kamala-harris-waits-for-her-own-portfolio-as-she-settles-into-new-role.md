@@ -2,7 +2,7 @@
 category: news
 title: "Vice President Kamala Harris waits for her own portfolio as she settles into new role"
 excerpt: "Vice President Kamala Harris was in the middle of an Oval Office meeting last Thursday when, before her turn to speak had come, a staffer delivered a note calling her to Capitol Hill.\n    \n"
-publishedDateTime: 2021-03-10T14:21:45Z
+publishedDateTime: 2021-03-10T15:31:20Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oSdWwLg1krk/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oSdWwLg1krk/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/kamala-harris-adjustments/index.html"
@@ -26,7 +26,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210205153407-06-kamala-harris-janet-yellen-black-business-owners-roundtable-0205-screengrab-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310102631-01-kamala-harris-0210-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -187,6 +187,6 @@ related:
         height: 550
         isCached: true
 
-secured: "N/IEzbJ0a2UHM7Td8A9a4QyoaVphwetzjGGd6hSUkWpf7ZCEldxL9TD5Qsb5YIjDfqCVB/FFU0FbJEcn6FMV7ykYJR0KRr+CBR3XPSOGANERzEDsQaTf9vpWnpFY16FFsAPELfhH915yyprWz6qLqEt1/+t0tGZMPCf51L5VeJtoXNJuAn6MLV5cYW8G6c2Bv0wReiHygI5J8kGSP1T7ILPizxJnvDKB2uPXMqDVeMVE6h8qEceSvx7Q3Co3X/mjGri1SXeb0vH/GXz00ByzR6x3uC+uscOvLPJEqyZEtjFL2mHXuzxP5OQSmBsqMGw0nI5DISq9XgUWPnaKSCTu2/ocauYCCuQZcymbyAsOx9c=;idFmhEKtAXUl5ypoK79NcA=="
+secured: "CVZbS64KYMcgl4jGgQWIjYLTv9+MMgWdPbUVgk7BB4mjS7JxMqUIHEciv6WU7yF5TzKBkiCTJOm29dmO4ODWJv8POIneBwbBH+eZ/EZwlizLdj63NUqmtG8iUsYVGM7rKo1AGIp8iLPZ7lfp9gCyOoHLSPBb098AGaWhovY5gmhQkWDLigd5/f6N3qOBPOQS5noyyEGthKudJc6mHgL0vzkoJcT52ISlJwubmHFJjkNvAzlunyRyFAB5Oor1dqTrF/CVMmXacEQjEsbYjL6wALwVqrqzk0G1zCMD+scN/2zPw2lbgqLPZzR9eQY+rUbMxvkfCT0xPEy3zqaB7lcZ+2NV4gxF5U8t4UNtWWEnWh0=;JkV15mh9912x5bA431B/5A=="
 ---
 

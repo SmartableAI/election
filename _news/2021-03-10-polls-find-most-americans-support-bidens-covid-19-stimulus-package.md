@@ -223,6 +223,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Huge virus aid bill nears final OK in win for Biden, Dems"
+    excerpt: "WASHINGTON — Congress sped toward final approval Wednesday of a landmark $1.9 trillion COVID-19 relief bill, as President Joe Biden and Democrats neared a major triumph for the party’s priorities and showcased the unity they’ll need to forge future ..."
+    publishedDateTime: 2021-03-10T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/house-set-to-vote-on-virus-relief-biden-on-cusp-of-triumph/2021/03/10/51979166-8160-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/house-set-to-vote-on-virus-relief-biden-on-cusp-of-triumph/2021/03/10/51979166-8160-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/house-set-to-vote-on-virus-relief-biden-on-cusp-of-triumph/2021/03/10/51979166-8160-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
     publishedDateTime: 2021-03-04T12:33:00Z
@@ -238,6 +254,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/7871561baf29d41f794c57e18dbc46cc9e3cb8c9/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4fe8abbe3d64db734907fbdda6dc55a9"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden's $1.9 trillion COVID-19 bill moves toward final approval in House"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden was poised on Wednesday for his first major legislative victory, as the House of Representatives moved toward final approval of his $1.9 trillion COVID-19 relief bill, which forecasters predict will turbocharge ..."
+    publishedDateTime: 2021-03-10T14:31:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2B215E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B215E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B215E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554386064&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH290O1"
+        width: 819
+        height: 545
         isCached: true
   - title: "Senate rejects minimum wage hike in Biden's $1.9 trillion COVID-19 aid bill"
     excerpt: "The U.S. Senate on Friday rejected an amendment to more than double the federal minimum wage over five years, as it launched what is expected to be a long debate over President Joe Biden's $1.9 trillion COVID-19 relief bill."
@@ -446,6 +478,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/11/PWES/c0bf7753-5950-49af-9862-248995c26ed7-AP21011645140435.jpg?auto=webp&crop=5498,3093,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden poised for first major legislative victory with House vote on $1.9tn Covid relief – live"
+    excerpt: "Jay Ashcroft, the Missouri secretary of state, has said he does not plan to run for the US Senate next year. “After intense, prayerful consideration we have decided to remain devoted to the work Missouri voters have entrusted to me as secretary of state ..."
+    publishedDateTime: 2021-03-10T15:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates?page=with:block-604877188f08168521f61562"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 113
+    images:
+      - url: "https://i.guim.co.uk/img/media/9f5e7e43926723c85f4f28f3cb46d46e3e17c560/0_326_4896_2938/master/4896.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a4a94294c36c72c3edd021e1967335d3"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden's 1st 100 days live updates: Biden to make final push for COVID relief as Senate debates bill"
     excerpt: "The Senate is getting closer to a vote on the $1.9 trillion measure. ABC News Live Update: US Capitol on high alert for possible threat Today is Day 45 of the administration of President Joe Biden and Vice President Kamala Harris."
