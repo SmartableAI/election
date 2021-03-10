@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-05-biden-told-union-leaders-im-all-for-natural-gas-report.md",
+      "title": "Biden told union leaders ‘I’m all for natural gas’: report",
+      "excerpt": "President Biden personally promised union leaders his support for natural gas, United Association General Mark McManus said. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hzJUUJxPhU/biden-union-leaders-natural-gas",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hzJUUJxPhU/biden-union-leaders-natural-gas",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-union-leaders-natural-gas.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-union-leaders-natural-gas.amp",
+      "publishedDateTime": "2021-03-04T17:19:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-trump-endorses-louisiana-sen-john-kennedy-in-2022-reelection-bid.md",
       "title": "Trump endorses Louisiana Sen. John Kennedy in 2022 reelection bid",
       "excerpt": "Former President Donald Trump endorsed Republican Louisiana Sen. John Kennedy for reelection on Thursday as GOP leadership begins preparations for the 2020 midterm races.",
@@ -70,7 +126,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 186,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -126,7 +182,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 223,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -342,7 +398,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 204,
+      "heat": 184,
       "tags": null,
       "images": [
         {
@@ -1588,62 +1644,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/laid-off-pipeline-worker-biden-administration-livelihood.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/laid-off-pipeline-worker-biden-administration-livelihood.amp",
       "publishedDateTime": "2021-03-01T13:04:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-biden-supports-independent-review-of-cuomo-sexual-harassment-claims-something-tara-reade-never-got.md",
-      "title": "Biden supports 'independent review' of Cuomo sexual harassment claims ‒ something Tara Reade never got",
-      "excerpt": "Gov. Cuomo's office denied Lindsey Boylan's harassment claims, calling them \"simply false.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NnMw0ol5EZA/biden-independent-review-cuomo-sexual-harassment-tara-reade",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NnMw0ol5EZA/biden-independent-review-cuomo-sexual-harassment-tara-reade",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/12/640/320/AP20348652112849.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-independent-review-cuomo-sexual-harassment-tara-reade.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-independent-review-cuomo-sexual-harassment-tara-reade.amp",
-      "publishedDateTime": "2021-03-01T11:03:56-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

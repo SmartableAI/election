@@ -1,22 +1,22 @@
 ---
 category: news
-title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
-excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
-publishedDateTime: 2021-03-05T15:04:00Z
-originalUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-webUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-ampWebUrl: "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+title: "Trump aide who stormed the Capitol broke an 'oath to protect America,' judge says"
+excerpt: "A man appointed to the U.S. State Department during the Trump administration will remain in jail while he awaits trial on charges that he took part in the deadly storming of the U.S. Capitol and assaulted police officers,"
+publishedDateTime: 2021-03-10T02:45:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-trump-capitol-klein-idUSKBN2B12P4"
+webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-klein-idUSKBN2B12P4"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B12P4"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B12P4"
 type: article
-quality: 123
+quality: 120
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210309&t=2&i=1554318031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH281FK"
+    width: 787
+    height: 545
     isCached: true
 
 related:
@@ -63,6 +63,22 @@ related:
         width: 947
         height: 545
         isCached: true
+  - title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
+    excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-03-05T15:04:00Z
+    webUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    ampWebUrl: "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
     excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
     publishedDateTime: 2021-03-05T02:45:00Z
@@ -93,22 +109,6 @@ related:
     images:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
         width: 947
-        height: 545
-        isCached: true
-  - title: "Trump aide who stormed the Capitol broke an 'oath to protect America,' judge says"
-    excerpt: "A man appointed to the U.S. State Department during the Trump administration will remain in jail while he awaits trial on charges that he took part in the deadly storming of the U.S. Capitol and assaulted police officers,"
-    publishedDateTime: 2021-03-10T02:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-klein-idUSKBN2B12P4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B12P4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B12P4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210309&t=2&i=1554318031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH281FK"
-        width: 787
         height: 545
         isCached: true
   - title: "Ex-Trump appointee arrested in Capitol riot complains he won't be able to sleep in jail"
@@ -201,6 +201,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "tqjCzTcGD5MvyGMOpwT6DKPwfnyvdwq9/wYbDahIuYMBnSRdsxhdJl1uEw6zX4/mcyyd/oYgjVzoze5O/qGpiyUBPbFfLD74UjNlielnbOnZ18sqT+6pk1c3dM4uW3iWtDbC9cm/IDqPnLXq2XYWIGlsYwTHTI9F2GrKGZPyDsV911oStho9n8XiG19zSzL5Wmdvw8N+5d7LUYsjd20ZPOiwOoUKkFaDgdSpLI/GSI2Tfr+llwiEsBIyTOxq+Xe4vCrRkNaeJSpUhRO6Ub6bpuCVei8UDWlwbagStz+yWz74JaFeqiXJJnKtIgrNj0EgVSpG5lmoHujOCm+aVEXoRqW3jMpj6uTIVHptHZq4IMmuSAiffSY5lLYTljyji68V8dGRCxIxmJI7jv5nmVWucSMNLM84MRrA5F9ZFq9WwLypk/gTzVKpovHB8HwQaYrb91HAqbqa0B0OT2pqUQiXlXDVtPZKBEMjeDyluJlpfe/p++dFxq4LYNJNvvXYOIkABqskOBdEf/zx60bOINkNow==;Igp83vMHpDcHpNGffLifRg=="
+secured: "lmJKJmOoOQMkwrxf4C4IAPTpDnTUVx2dVmqIdTJ0g7370KIiHLIpci5mqCOhBeABCV3BPRnW0jck7TdGxDmoxFxIxNMxsXP+7QvXhDnsL1KNZWUgy3qPwiL5sp9L3PHqmE6gafDUJD1tRAyUCeRXW8GlUT2LtgCPDhnJbQZtjqx3iHl39w32rQGROdmwVgFqyLvb7c0zriNR50P1jmcMuJEjqLNBTrd/MHe+MLFFkNkhARihoCipvlD3e8/ptt5fVd+7+UMsVJVO6UifTZ/AeZwsEHlF5MJgKoUQ/aVwjD2q8PbsDzUKXbLf6NfSlJvpMbPZx+qTceAig2Nr1IIPN5JobzXrUGtrE75RXvyTVzk=;gDAY/9VCm50NWmvckrjgXA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-crisis-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp"
 type: article
 quality: 195
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 176
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04d2b9b6-650e-49fb-897f-b5c0cfa14348/93273dfe-1ab6-428b-9db2-dbe01a569bf9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Graham suggests Al Qaeda, ISIS could exploit Biden's lax border policies to enter US"
+    excerpt: "Sen. Lindsey Graham, R-S.C. warned on \"Hannity\" Tuesday that President Biden's immigration policies could have major national security implications, suggesting that a porous southern border might serve as a \"great way for terrorists to come into our country.\""
+    publishedDateTime: 2021-03-10T04:34:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AcjuxUgxh7U/graham-al-qaeda-isis-biden-border-policies"
+    ampWebUrl: "https://www.foxnews.com/politics/graham-al-qaeda-isis-biden-border-policies.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/graham-al-qaeda-isis-biden-border-policies.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9fda8ff1-2fad-474f-9991-9f753fbbeea0/cad135d6-1964-44e5-824d-69ed171b28c5/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

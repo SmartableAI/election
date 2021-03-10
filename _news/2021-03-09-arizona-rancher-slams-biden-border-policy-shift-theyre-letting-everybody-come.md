@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/arizona-rancher-biden-administratio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp"
 type: article
 quality: 170
-heat: 190
+heat: 210
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Cruz, Hawley blast Biden after overwhelmed CBP shuts down Arizona highway checkpoints"
+    excerpt: "Republican Sens. Ted Cruz and Josh Hawley accused the Biden administration on Tuesday of ignoring a crisis at the southern border following revelations that Customs and Border Protection shut down highway checkpoints so that personnel could be redirected to address a surge of migrants."
+    publishedDateTime: 2021-03-10T03:01:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nvkTVrVIDVM/cruz-hawley-blast-biden-overwhelmed-cbp-shuts-down-arizona-highway-checkpoints"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-hawley-blast-biden-overwhelmed-cbp-shuts-down-arizona-highway-checkpoints.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-hawley-blast-biden-overwhelmed-cbp-shuts-down-arizona-highway-checkpoints.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d331e2c0-e603-4287-94ba-96efe7c9491f/53a1df98-fa59-4b81-b1e0-c4dbfc990098/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s US-Mexico border pullback creating ‘roads for the cartels,’ Arizona sheriff says: report"
     excerpt: "The U.S.-Mexico border region in Arizona is becoming less secure since President Biden took office, a sheriff is alleging, according to a report."
     publishedDateTime: 2021-03-04T08:24:15Z

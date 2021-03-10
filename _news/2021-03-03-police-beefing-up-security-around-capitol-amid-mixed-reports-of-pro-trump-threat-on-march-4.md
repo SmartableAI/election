@@ -107,6 +107,22 @@ related:
         width: 947
         height: 545
         isCached: true
+  - title: "Trump aide who stormed the Capitol broke an 'oath to protect America,' judge says"
+    excerpt: "A man appointed to the U.S. State Department during the Trump administration will remain in jail while he awaits trial on charges that he took part in the deadly storming of the U.S. Capitol and assaulted police officers,"
+    publishedDateTime: 2021-03-10T02:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-klein-idUSKBN2B12P4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B12P4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B12P4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210309&t=2&i=1554318031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH281FK"
+        width: 787
+        height: 545
+        isCached: true
   - title: "Ex-Trump appointee arrested in Capitol riot complains he won't be able to sleep in jail"
     excerpt: "Federico Guillermo Klein, a former State Department staff assistant who was arrested Thursday for his role in the Jan. 6 Capitol insurrection, has reportedly complained that he won't be able to sleep in prison."
     publishedDateTime: 2021-03-06T02:45:00Z

@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cruz, Hawley blast Biden after overwhelmed CBP shuts down Arizona highway checkpoints"
+    excerpt: "Republican Sens. Ted Cruz and Josh Hawley accused the Biden administration on Tuesday of ignoring a crisis at the southern border following revelations that Customs and Border Protection shut down highway checkpoints so that personnel could be redirected to address a surge of migrants."
+    publishedDateTime: 2021-03-10T03:01:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nvkTVrVIDVM/cruz-hawley-blast-biden-overwhelmed-cbp-shuts-down-arizona-highway-checkpoints"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-hawley-blast-biden-overwhelmed-cbp-shuts-down-arizona-highway-checkpoints.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-hawley-blast-biden-overwhelmed-cbp-shuts-down-arizona-highway-checkpoints.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d331e2c0-e603-4287-94ba-96efe7c9491f/53a1df98-fa59-4b81-b1e0-c4dbfc990098/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "XjUTCqQz5EzRqK0jjENXuAEJwyQJGN/XYp7t5RultnaEn683RsLKmWiU5F8aj01r5WQ+wXiWcwF9lY58YLJeUQUeO3MgzcYYjV0Ba4Nzy+xB3zntPVk9ZHKof30WYGnsoGlxPgf00EyrB5qycR1KhTQnCEhg8IRcn/9TyCZTNK9uYr+U2eYVyB5HlpCDNLe3Ry8m3FjZ8u+z8lCMKzneSydrLlflqyMkO6RQ90xEvJoluEfnjAJHjaWGiW63RoQjwqIEGEHsy3j0jHjAne9Yrg0Z6cdoeeofPhpmsCthCaK1EiMto05z8A/rrn5d9awsP5Lol+X86K/AD0WlOmwZCEaT45efhS+o4+zKoHabMnc=;nzmJ6Wo+U9zN3uuPiUs/EQ=="
 ---

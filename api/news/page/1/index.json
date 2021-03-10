@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-10-biden-order-on-gender-identity-harms-women-and-girls-warns-womens-rights-group.md",
+      "title": "Biden order on gender identity harms women and girls, warns women's rights group",
+      "excerpt": "Women's Human Rights Campaign member and outspoken feminist Kara Dansky ramped up warnings against President Biden's gender identity initiative on Tuesday, telling \"Tucker Carlson Tonight\" that America is heading for a \"complete obliteration of biological sex\".",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0oQLmODpalA/biden-gender-identity-order-women-girls",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0oQLmODpalA/biden-gender-identity-order-women-girls",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 230,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/857ee1c8-b07d-47e2-8382-5ec89d629096/90d961b8-6fe7-4a5d-943a-88196b31011f/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-gender-identity-order-women-girls.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gender-identity-order-women-girls.amp",
+      "publishedDateTime": "2021-03-09T19:38:17-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-florida-lawsuit-against-biden-administration-says-ice-guidance-puts-americans-in-danger.md",
       "title": "Florida lawsuit against Biden administration says ICE guidance puts Americans in danger",
       "excerpt": "Florida’s attorney general on Tuesday filed a lawsuit to halt Immigration and Customs Enforcement (ICE) guidance that narrows the illegal immigrants prioritized for arrest and deportation.",
@@ -841,7 +897,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 190,
+      "heat": 210,
       "tags": null,
       "images": [
         {
@@ -1333,62 +1389,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-mcenany-i-warned-the-reporters-biden-would-be-a-no-show-in-white-house-briefing-room.md",
-      "title": "McEnany: 'I warned the reporters' Biden would be a no-show in White House Briefing Room",
-      "excerpt": "Former White House Press Secretary Kayleigh McEnany told Fox News on Monday that she warned the press corps in the waning days of the Trump administration that the suddenly rare appearances by Donald Trump would be a primer for how the Biden administration would interact with the media.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aurikjv05v8/mcenany-i-warned-the-reporters-biden-would-be-a-no-show-in-white-house-briefing-room",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Aurikjv05v8/mcenany-i-warned-the-reporters-biden-would-be-a-no-show-in-white-house-briefing-room",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcenany-i-warned-the-reporters-biden-would-be-a-no-show-in-white-house-briefing-room.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcenany-i-warned-the-reporters-biden-would-be-a-no-show-in-white-house-briefing-room.amp",
-      "publishedDateTime": "2021-03-08T14:04:27-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

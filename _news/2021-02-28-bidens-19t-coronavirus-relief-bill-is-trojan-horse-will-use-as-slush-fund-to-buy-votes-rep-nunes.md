@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden to sign voter registration executive order as he pushes Senate to pass sweeping HR 1 bill"
-    excerpt: "President Biden is scheduled to sign an executive order designed to increase voter access on Sunday as he pushes the Senate to pass H.R. 1, House Democrats' sweeping voting rights package."
-    publishedDateTime: 2021-03-07T13:44:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IE-fnE_wPkc/biden-voter-registration-executive-order-senate-hr-1"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-voter-registration-executive-order-senate-hr-1.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voter-registration-executive-order-senate-hr-1.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Biden-Voting-Executive-Order-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
     excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."
     publishedDateTime: 2021-03-08T17:22:13Z
