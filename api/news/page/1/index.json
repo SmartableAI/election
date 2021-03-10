@@ -2,6 +2,114 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-10-blinken-says-trump-era-israel-peace-deals-were-a-very-good-thing.md",
+      "title": "Blinken says Trump-era Israel peace deals were a 'very good thing'",
+      "excerpt": "Secretary of State Antony Blinken on Wednesday paid a compliment to the Trump administration for its Abraham Accords in the Middle East. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvuKjfjyVh4/blinken-trump-israel-peace-deals-very-good-thing",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvuKjfjyVh4/blinken-trump-israel-peace-deals-very-good-thing",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0741f843-e9f8-4028-af2f-1a250d66796e/97e579a3-5542-4c1d-965b-c6f6dcb0efac/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/blinken-trump-israel-peace-deals-very-good-thing.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-trump-israel-peace-deals-very-good-thing.amp",
+      "publishedDateTime": "2021-03-10T14:54:35-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe.md",
+      "title": "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe",
+      "excerpt": "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen/trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe-idUSKBN2B22DF",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen/trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe-idUSKBN2B22DF",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554431647&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291FE",
+          "width": 837,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B22DF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22DF",
+      "publishedDateTime": "2021-03-10T13:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-bidens-covid-bill-could-be-defining-political-issue-in-midterm-elections.md",
       "title": "Biden’s COVID bill could be defining political issue in midterm elections",
       "excerpt": "With the $1.9 trillion COVID-19 relief bill headed the President Biden’s desk, the legislative battle over the massive measure’s over, but the PR and political fights are only beginning.",
@@ -114,58 +222,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-11-trumps-tax-records-holy-grail-to-probe-cohen.md",
-      "title": "Trump's tax records 'holy grail' to probe -Cohen",
-      "excerpt": "In a brief video interview with Reuters on Wednesday, Donald Trump's former lawyer and fixer, Michael Cohen, said he'll go in for a seventh interview with the Manhattan district attorney's office as prosecutors step up the criminal investigation into the former U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/trumps-tax-records-holy-grail-to-probe-c-idOVE3I9IOV?chan=6g5ka85",
-      "originalUrl": "https://www.reuters.com/video/watch/trumps-tax-records-holy-grail-to-probe-c-idOVE3I9IOV?chan=6g5ka85",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?d=20210310&i=OVE3I9IOV&r=OVE3I9IOV&t=2",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T11:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-10-to-punish-saudi-arabia-with-the-khashoggi-ban-biden-mirrored-a-plan-developed-under-trump.md",
       "title": "To punish Saudi Arabia with the \"Khashoggi Ban,\" Biden mirrored a plan developed under Trump ",
       "excerpt": "When the Biden administration announced a ban on dozens of Saudis from traveling to the US in response to intelligence that the kingdom's powerful crown prince, Mohammed bin Salman, had approved the murder of journalist Jamal Khashoggi, it was rolling out a plan that had been spiked by the Trump administration",
@@ -234,7 +290,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 156,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -775,7 +831,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1137,
+      "heat": 1157,
       "tags": null,
       "images": [
         {
@@ -995,7 +1051,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 485,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -1305,62 +1361,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-biden-doj-nominee-vanita-gupta-expresses-regret-over-anti-gop-remarks-i-apologize.md",
-      "title": "Biden DOJ nominee Vanita Gupta expresses 'regret' over anti-GOP remarks: 'I apologize'",
-      "excerpt": "Senate Judiciary Committee ranking member Sen. Chuck Grassley, R-Iowa, said that while Vanita Gupta, President Biden's nominee for associate attorney general, has performed \"admirable\" work in the past, her past comments about Republicans gave him concerns over whether she could fill a critical Justice",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zoKQi_8YVjg/biden-doj-vanita-gupta-regret-anti-gop-remarks",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zoKQi_8YVjg/biden-doj-vanita-gupta-regret-anti-gop-remarks",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 187,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-doj-vanita-gupta-regret-anti-gop-remarks.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-vanita-gupta-regret-anti-gop-remarks.amp",
-      "publishedDateTime": "2021-03-09T09:17:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

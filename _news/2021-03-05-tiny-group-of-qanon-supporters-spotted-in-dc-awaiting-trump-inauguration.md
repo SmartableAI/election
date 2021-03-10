@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-157402
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
 type: article
 quality: 123
-heat: 263
+heat: 283
 published: true
 
 provider:
@@ -90,6 +90,22 @@ related:
       - url: "https://i.insider.com/603fef822dc9010018355397?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Video Shows Johnny Damon’s DUI Arrest, Mentioning Donald Trump Support"
+    excerpt: "Video of Johnny Damon’s arrest last month on a DUI charge in Florida has been released. The former MLB star and his wife can be seen involved in a verbal altercation with police before they are put in handcuffs."
+    publishedDateTime: 2021-03-10T20:03:00Z
+    webUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794"
+    ampWebUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 75
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/10/gettyimages-1203414124.jpg"
+        width: 1200
+        height: 949
         isCached: true
   - title: "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report"
     excerpt: "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,"

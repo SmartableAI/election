@@ -159,6 +159,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Ilhan Omar joins Democrats in demanding Biden admin suspend standardized tests in schools"
+    excerpt: "\"Squad\" member Rep. Ilhan Omar, D-Minn., joined a group of her Democratic colleagues in calling on President Biden's education secretary to suspend standardized testing requirements"
+    publishedDateTime: 2021-03-10T22:47:32Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fPMrIzYGmeI/ilhan-omar-democrats-biden-secretary-education-suspends-standardized-testing"
+    ampWebUrl: "https://www.foxnews.com/politics/ilhan-omar-democrats-biden-secretary-education-suspends-standardized-testing.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ilhan-omar-democrats-biden-secretary-education-suspends-standardized-testing.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe54b1cc-1664-4c31-9654-f7270f5caa7c/770e4e92-07a1-4015-a5bb-27fd7e6c2506/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Psaki: Biden admin 'committed to fighting our hearts out' for Tanden, raising minimum wage"
     excerpt: "The Biden administration remains committed to \"fighting our hearts out\" for Budget Director pick Neera Tanden, Biden's press secrestary said Sunday."
     publishedDateTime: 2021-02-28T15:10:39Z

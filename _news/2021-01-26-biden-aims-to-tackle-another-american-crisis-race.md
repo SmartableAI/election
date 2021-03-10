@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210202112552-01-vaccine-denver-0130-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration to restart program for Central American children "
+    excerpt: "The Biden administration announced Wednesday that it will restart the Central American Minors program, which allows certain at-risk Central American youths to live in the US.\n    \n"
+    publishedDateTime: 2021-03-10T20:43:47Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/EjAGBPy1ifg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/immigration-central-america-children-biden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/immigration-central-america-children-biden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154002-01-central-american-minors-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

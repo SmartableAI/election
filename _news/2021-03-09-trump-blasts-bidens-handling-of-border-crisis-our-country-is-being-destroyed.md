@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigrati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
 type: article
 quality: 185
-heat: 485
+heat: 505
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden White House removes petition page started by Obama and continued under Trump"
+    excerpt: "The White House website appears to have removed a section where people can submit petitions for the president to review."
+    publishedDateTime: 2021-03-10T22:40:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bb4EjuKih5w/white-house-appears-to-have-removed-obama-era-petition-page-from-website"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-appears-to-have-removed-obama-era-petition-page-from-website.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-appears-to-have-removed-obama-era-petition-page-from-website.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 184
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6e42456f-6849-4ff8-b571-9b1c530d7f39/bd6a06fa-1b7c-43aa-bc82-e8b7aff8a0b5/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump tears into Biden for 'spiraling tsunami' at the border, amid spike in migrant numbers"
     excerpt: "Former President Donald Trump on Friday tore into President Biden for what he described as a \"spiralling tsunami\" at the border, just as the administration stares down a spike in migrant families and unaccompanied children."
     publishedDateTime: 2021-03-05T18:13:16Z

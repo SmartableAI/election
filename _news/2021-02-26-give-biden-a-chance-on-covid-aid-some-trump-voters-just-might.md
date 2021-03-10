@@ -176,6 +176,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Memo from top Biden adviser outlines White House messaging blitz on Covid-19 relief plan"
+    excerpt: "The White House plans to deploy its messaging blitz to tout the newly passed $1.9 trillion Covid relief plan to \"every corner\" of the country in the weeks ahead, zeroing in on key components each day as it seeks to maintain -- or build on -- the proposal's current popularity, according to an internal"
+    publishedDateTime: 2021-03-10T22:11:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/QQb3seINRNs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-covid-19-relief-bill-victory-lap/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-covid-19-relief-bill-victory-lap/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310155759-03-biden-jj-merck-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "GOP irked after last-ditch attempt fails to deter Biden push for quick passage of Covid relief plan "
     excerpt: "It was Super Bowl Sunday -- and President Joe Biden was on the phone with Sen. Susan Collins.\n    \n"
     publishedDateTime: 2021-02-22T11:01:14Z

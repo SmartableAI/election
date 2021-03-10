@@ -283,6 +283,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
+    excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
+    publishedDateTime: 2021-03-10T20:24:00Z
+    webUrl: "https://www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/6027f671b3c2a800183ccc37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "House approves $1.9 trillion COVID relief package, sending bill to Biden"
     excerpt: "Mr. Biden celebrated the passage of his plan in the wake of the ... These compromises were negotiated to satisfy moderate Democrats in the Senate, particularly Senator Joe Manchin. As Democrats have a 50-seat majority in the Senate, they require support ..."
     publishedDateTime: 2021-03-10T19:19:00Z

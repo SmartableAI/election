@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-07-trump-expected-to-make-first-visit-to-nyc-since-leaving-office.md",
+      "title": "Trump expected to make first visit to NYC since leaving office",
+      "excerpt": "Former President Donald Trump is expected to make his first trip to New York City since leaving office in the coming days.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KxwXimUhuCA/trump-trip-new-york-city-florida-office-president",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KxwXimUhuCA/trump-trip-new-york-city-florida-office-president",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 315,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/07/640/320/Cyrus-Vance-Manhattan-DA-Getty.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-trip-new-york-city-florida-office-president.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-trip-new-york-city-florida-office-president.amp",
+      "publishedDateTime": "2021-03-07T08:55:59-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-07-analysis-why-bidens-next-legislative-push-might-be-much-harder-than-covid-relief.md",
       "title": "Analysis: Why Biden's next legislative push might be much harder than Covid relief",
       "excerpt": "President Joe Biden and fellow Democrats are racing to prove a counterintuitive lesson: with congressional majorities, sometimes less can be more.\n    \n",
@@ -14,7 +70,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 189,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -873,7 +929,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 455,
+      "heat": 475,
       "tags": null,
       "images": [
         {
@@ -1306,58 +1362,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-hiring-surged-in-february-the-first-full-month-of-bidens-presidency.md",
-      "title": "Hiring surged in February, the first full month of Biden's presidency",
-      "excerpt": "Hiring around the U.S. sped up in February, the first full month of the Biden presidency, in a sign that the labor market is gathering strength. Employers added 379,000 jobs last month, the Labor Department said Friday,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/",
-      "originalUrl": "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 405,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/04/bc169c75-f742-42c5-b2a8-649e4a44e148/thumbnail/1200x630/ec0c83d0aabe7014635179e56c95ef66/hiring-gettyimages-1229892232.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/",
-      "publishedDateTime": "2021-03-05T05:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

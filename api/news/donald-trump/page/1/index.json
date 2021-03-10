@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-11-trumps-tax-records-holy-grail-to-probe-cohen.md",
-      "title": "Trump's tax records 'holy grail' to probe -Cohen",
-      "excerpt": "In a brief video interview with Reuters on Wednesday, Donald Trump's former lawyer and fixer, Michael Cohen, said he'll go in for a seventh interview with the Manhattan district attorney's office as prosecutors step up the criminal investigation into the former U.",
+      "path": "_news/2021-03-11-trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe.md",
+      "title": "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe",
+      "excerpt": "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/video/watch/trumps-tax-records-holy-grail-to-probe-c-idOVE3I9IOV?chan=6g5ka85",
-      "originalUrl": "https://www.reuters.com/video/watch/trumps-tax-records-holy-grail-to-probe-c-idOVE3I9IOV?chan=6g5ka85",
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen/trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe-idUSKBN2B22DF",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen/trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe-idUSKBN2B22DF",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 140,
       "tags": null,
       "images": [
         {
-          "url": "https://static.reuters.com/resources/r/?d=20210310&i=OVE3I9IOV&r=OVE3I9IOV&t=2",
-          "width": 960,
-          "height": 540,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554431647&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291FE",
+          "width": 837,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T11:03:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B22DF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22DF",
+      "publishedDateTime": "2021-03-10T13:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -275,7 +275,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1137,
+      "heat": 1157,
       "tags": null,
       "images": [
         {
@@ -1308,7 +1308,7 @@
       "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 263,
+      "heat": 283,
       "tags": null,
       "images": [
         {

@@ -287,6 +287,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
+    excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
+    publishedDateTime: 2021-03-10T20:24:00Z
+    webUrl: "https://www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/6027f671b3c2a800183ccc37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Senate rejects minimum wage hike in Biden's $1.9 trillion COVID-19 aid bill"
     excerpt: "The U.S. Senate on Friday rejected an amendment to more than double the federal minimum wage over five years, as it launched what is expected to be a long debate over President Joe Biden's $1.9 trillion COVID-19 relief bill."
     publishedDateTime: 2021-03-05T22:28:00Z
@@ -800,6 +816,6 @@ related:
         height: 675
         isCached: true
 
-secured: "MPxeRpVKKVeMupBi/IDs+xUkfJmSscvVi2H5Gtq48+l+4Vd/4S5mqD4D78Zhsvr1F6n7fgUUP5PV+yTHZ1C7NSxJwNEbWdDT7gh0Mik0dVxe9O6F7+/NMYfnsmYN4XngRmOUuVLkDisiD7Z7CnHB/S65C0Fl8G/JsUnY+kqPKFgTKLeIz8I+dzgJ+BKdzEa88p4a6WeHngd+48sAehknCRPXfaZwT8tqpOi7Cfel6scWznhlxTFCwbnrxE+R3Nz9O2LwBIqXdDdzT3XRTGFK13F6VjuFc2D8Fm0b/Aj4Cvfo7Xqb2nL8rEoXVZclrEzUaSszmX4pThg0VLAKOeR7JpPvX5UOdkvv4KBZyW3Z00w=;fHwOBQLW2itYbUYU4hW/VA=="
+secured: "oPfX7CxibRsWj4n/vIBk49Hmqnrog2lrRaHG2DYXg6X0LTRYAcN+1vKOi6QmLBktg+NYPlK+jNcvuJbQ0aMWcSf59EG+alSNTZqJJRFCRF/t8vZTE4Pk9pZy82mqsk3RygYQ0zIB9vkxpVGwDlkRwxVEVvnLcmYYZN1IFpUeWDN0Orixb2QY7Q/Vv4kwWvo+w98I8TxtIoNQj87u1ybwv+NDGAv0RaMfbzJfrv0VzRAsmWP6WhbSnIVhAX09pKzVxVl+vY5m1bdX/waIEpxE0C6hYrpJZLGzKYdK/keqYBAc2cdyHr0vqeDMxV8EJCjOrMx1o33NDCQx8cqXry7M05OAnEewPpRwOKqEHiH2rF7W77KvQfnvahtv8G/DcHvzSfGxX6T+79chX849hGyMP7Vvls0ffe2Oq7VHJVxnsmxvRr9lAO49SXQuMbk/Mhg0kQZ1mvGmpilVTyte+pOKrydox7j1piWCnHl6r8Tl5WNnNqp1zecqMXp4dOmgxTfdXONBCadXZhItXOcg6DDoAA==;hhBcx25PR4jKX3bxdCx/JA=="
 ---
 
