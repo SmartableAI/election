@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-depar
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 345
+heat: 365
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
         width: 979
         height: 551
+        isCached: true
+  - title: "Trump Appointee Who Took Part in Capitol Riot Swore an Oath Then 'Switched Sides,' Judge Says"
+    excerpt: "Federico Klein, an ex-official in the administration of former President Donald Trump, will remain in jail after a judge said he \"switched sides\" by allegedly participating in the deadly breach of the U.S. Capitol on January 6. U.S. Magistrate Zia Faruqui ..."
+    publishedDateTime: 2021-03-10T05:45:00Z
+    webUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976"
+    ampWebUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1752326/federico-klein-capitol-riots-donald-trump.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Ex-State Department employee appointed by Trump ‘switched sides’ in joining Capitol mob, judge says"
     excerpt: "A former State Department staffer with a top-secret security clearance betrayed his oath of office when he joined the Capitol mob that attempted to subvert the electoral process on Jan. 6, a federal magistrate judge said Tuesday."

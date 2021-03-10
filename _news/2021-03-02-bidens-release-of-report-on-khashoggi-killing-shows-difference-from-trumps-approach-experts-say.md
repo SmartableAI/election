@@ -208,6 +208,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump blasts Biden's handling of border crisis: 'Our country is being destroyed'"
+    excerpt: "Former President Donald Trump blasted President Biden's handling of the border crisis, saying the country is being \"destroyed\" by the recent surge of illegal migrants at the border. In a statement released Tuesday, Trump pointed to his border policy wins ..."
+    publishedDateTime: 2021-03-09T23:23:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4c7eed-17f3-4a11-b656-8f6b7b68295f/da644133-079a-4496-9cc5-4b9dd6a4fdc6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Trump says country is being ‘destroyed’ at border amid migrant surge"
+    excerpt: "Former President Donald Trump on Tuesday said the country is being “destroyed” at the US-Mexico border as it experiences a surge in migrants. “Our country is being destroyed at the Southern"
+    publishedDateTime: 2021-03-10T06:19:00Z
+    webUrl: "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/"
+    ampWebUrl: "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/E86E2F68-40AC-4573-9256-2C761F843B35.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "u/leAbhV86LjyZu062vqj5yww4G/9IytBfjpuf8vvGrkP1dMuDZnPeab4Xn9PX8gPv870v6hlyIEnr3XT4jpuynurrYWxJqe9ML4BhyKOzYGUnnzq6DAbR+sDVvHExMti3PQrc+Zec/r/KMfRQd0P0OvfmbhAwOHVSuUlmQplQojqn8UFZQKijkZABL3RlDVCFh1MCQ5n7otUTP5VUSlyE5290mJRfCeL/8+peXKQ6wIeyMrhgtTaHE+8VygA7ZadqXx3+0UmVtykUhZJHtw0wSr3IOE6LiEWxeTa9fL+INnI7IwJpu6wkGosNSs4OiY5SrbBwjyC+5USpKMCQ6QK2WT4zgBEh0j9AUjQRogV1I=;iQbRseJNMUXhhOeXNltK9A=="
 ---

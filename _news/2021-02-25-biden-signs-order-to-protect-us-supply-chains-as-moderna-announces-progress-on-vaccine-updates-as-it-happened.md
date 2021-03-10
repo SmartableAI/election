@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Live stimulus bill updates: House to vote on Biden's $1.9 trillion COVID bill Wednesday"
+    excerpt: "The Democratic-controlled House passed a key procedural measure Tuesday evening setting the stage for the chamber to pass the bill Wednesday morning. Under the “rule” passed by the House on a 219-210, mostly party-line vote, the House will debate for ..."
+    publishedDateTime: 2021-03-09T23:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/09/house-begin-final-debates-over-joe-bidens-covid-19-stimulus-bill/4637246001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4637246001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4637246001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/08/USAT/4b7a44ba-635c-4ab2-b443-43faca214a71-AP21065688372420.jpg?auto=webp&crop=4748,2671,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden hails Senate passage of virus aid bill"
     excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
     publishedDateTime: 2021-03-06T20:13:00Z

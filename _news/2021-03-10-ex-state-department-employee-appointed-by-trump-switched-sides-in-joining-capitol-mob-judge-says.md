@@ -143,6 +143,22 @@ related:
         width: 979
         height: 551
         isCached: true
+  - title: "Trump Appointee Who Took Part in Capitol Riot Swore an Oath Then 'Switched Sides,' Judge Says"
+    excerpt: "Federico Klein, an ex-official in the administration of former President Donald Trump, will remain in jail after a judge said he \"switched sides\" by allegedly participating in the deadly breach of the U.S. Capitol on January 6. U.S. Magistrate Zia Faruqui ..."
+    publishedDateTime: 2021-03-10T05:45:00Z
+    webUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976"
+    ampWebUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1752326/federico-klein-capitol-riots-donald-trump.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Trump appointee to State Dept. Federico Klein arrested in Capitol attack; stunned mom says he was 'Boy Scout type'"
     excerpt: "Federico Klein was seen on camera violently shoving a riot shield into an officer during the Jan. 6 Capitol siege, according to court documents."
     publishedDateTime: 2021-03-07T05:00:00Z

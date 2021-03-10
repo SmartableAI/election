@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/president-joe-biden-whit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/president-joe-biden-white-house-dogs/index.html"
 type: article
 quality: 173
-heat: 173
+heat: 193
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Bidens' German shepherd Major nips Secret Service agent's hand, causing 'extremely minor injury'"
+    excerpt: "The press secretary said in an interview on MSNBC's \"Morning Joe\" that it's typical for the dogs to be in Delaware when Jill Biden is traveling. The first lady is in Washington state as part of a West Coast trip to tour military bases and meet with service ..."
+    publishedDateTime: 2021-03-09T20:47:00Z
+    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-german-shepherd-major-involved-white-house-incident-resulting-n1260169"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1260169"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1260169"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 122
+    images:
+      - url: "https://media2.s-nbcnews.com/i/newscms/2021_10/3455382/210309-major-biden-mc-12442_b4ae073e2073a88753304c82d48c7cae.JPG"
+        width: 2500
+        height: 1666
+        isCached: true
 
 secured: "YAsvbuatD5O678IqXl4BrMkzxMOx604nulpqgbEgc7KWzTAMjwd/O7XXRGfzjxrnr/SXAO2ooMHtyQffXPOf3c+KVfQuVzc8CgMIZafX37Sb8ZlSndFOXAaO2aUqHFI+op2qoJjH5i9K+halL8tM6x1wPH377xH7JawWAOggPLndJTmDFct8reWdrm/JgQmhRN4s0qHHltjKboj34h83FToiKKcwD3/qyUl79fwN+R7L+ulSft/Px9odR3v0VyWggpeW79KnqalgHufYE9GZ5T5uWR0UCEIKx5X9rcXeHv8Z4ah1gktKxlXTKLld9cK53Bq2BHsYKuZ6K95dQMCFC6UVlW6b6XmEGT46hZypZs4=;fItRszBl5bwetHwzhcpBiw=="
 ---

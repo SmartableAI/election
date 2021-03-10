@@ -127,6 +127,22 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "GOP leaders reiterate commitment to working with Trump amid back-and-forth"
+    excerpt: "Republican leaders looked to turn down the temperature Tuesday night with former President Trump amid a back-and-forth with the former president over the party’s use of his image and likeness in its fundraising efforts."
+    publishedDateTime: 2021-03-10T02:16:00Z
+    webUrl: "https://thehill.com/homenews/campaign/542456-gop-leaders-reiterate-commitment-to-working-with-trump-amid-back-and-forth"
+    ampWebUrl: "https://thehill.com/homenews/campaign/542456-gop-leaders-reiterate-commitment-to-working-with-trump-amid-back-and-forth?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542456-gop-leaders-reiterate-commitment-to-working-with-trump-amid-back-and-forth?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/mcdanielronna_08242020_gettyimages_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The Hill's Morning Report - Presented by Facebook - Trump teases on 2024 run"
     excerpt: "Welcome to The Hill’s Morning Report. Today is Monday, the start of Women’s History Month! Happy March! We get you up to speed on the most important developments in politics and policy, plus trends to watch."
     publishedDateTime: 2021-03-01T11:28:00Z

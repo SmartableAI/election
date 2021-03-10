@@ -192,6 +192,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Trump blasts Biden's handling of border crisis: 'Our country is being destroyed'"
+    excerpt: "Former President Donald Trump blasted President Biden's handling of the border crisis, saying the country is being \"destroyed\" by the recent surge of illegal migrants at the border. In a statement released Tuesday, Trump pointed to his border policy wins ..."
+    publishedDateTime: 2021-03-09T23:23:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 145
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4c7eed-17f3-4a11-b656-8f6b7b68295f/da644133-079a-4496-9cc5-4b9dd6a4fdc6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's release of report on Khashoggi killing shows difference from Trump's approach, experts say"
     excerpt: "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge,"
     publishedDateTime: 2021-03-02T13:30:00Z
@@ -207,6 +223,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6135620-aa93-4f89-89c8-d3f90db43495/edbfa245-82dc-4205-9d6f-f6a77fc1d355/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump says country is being ‘destroyed’ at border amid migrant surge"
+    excerpt: "Former President Donald Trump on Tuesday said the country is being “destroyed” at the US-Mexico border as it experiences a surge in migrants. “Our country is being destroyed at the Southern"
+    publishedDateTime: 2021-03-10T06:19:00Z
+    webUrl: "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/"
+    ampWebUrl: "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/E86E2F68-40AC-4573-9256-2C761F843B35.jpeg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "NYbpL+2CGt/+FfEczETV+gI42+nKy1f+mv0LkkrD0pIJCqkaGDW6mAsmwvSNYnc7IMtn6gaDIvZliT/vy932Jl5XpIyay3M0oNLmZ7P3zuErSwDtsmtWHWbWiz859QLufZ/GC8iMgOIftHTG/2DZpPKtS6Lgb1AuOzGAgxBkCbLRfQXmhRy8u7d3v52iCNP9AHRqiAOum7Sciu3m23C7ymk5tKh1+jS22+WhL3RyrCokSpV1gu6MkxqHUtxmD31Ucvx6VStjp1kGt+Lm8JaSW1rtZeJhxUG4hT3+lJBojlgITyNhV0wwiZgAWn0lTUgfwYHYy1JIfxhbPUa4p3UjYSft8ih71H/sHyV2L8pWUo0=;g2auYVboVxJeRvjtodXMvw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report?amp"
 type: article
 quality: 140
-heat: 520
+heat: 540
 published: true
 
 provider:
@@ -126,6 +126,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MMS3VAFBII6XOJOAKLHN6PL5Q.jpg&w=1440"
         width: 1440
         height: 1080
+        isCached: true
+  - title: "GOP leaders reiterate commitment to working with Trump amid back-and-forth"
+    excerpt: "Republican leaders looked to turn down the temperature Tuesday night with former President Trump amid a back-and-forth with the former president over the party’s use of his image and likeness in its fundraising efforts."
+    publishedDateTime: 2021-03-10T02:16:00Z
+    webUrl: "https://thehill.com/homenews/campaign/542456-gop-leaders-reiterate-commitment-to-working-with-trump-amid-back-and-forth"
+    ampWebUrl: "https://thehill.com/homenews/campaign/542456-gop-leaders-reiterate-commitment-to-working-with-trump-amid-back-and-forth?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542456-gop-leaders-reiterate-commitment-to-working-with-trump-amid-back-and-forth?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 123
+    images:
+      - url: "https://thehill.com/sites/default/files/mcdanielronna_08242020_gettyimages_0.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "The Hill's Morning Report - Presented by Facebook - Trump teases on 2024 run"
     excerpt: "Welcome to The Hill’s Morning Report. Today is Monday, the start of Women’s History Month! Happy March! We get you up to speed on the most important developments in politics and policy, plus trends to watch."

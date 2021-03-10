@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
-excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
-publishedDateTime: 2021-03-05T18:14:00Z
-originalUrl: "https://www.upi.com/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-webUrl: "https://www.upi.com/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+title: "Trump Appointee Who Took Part in Capitol Riot Swore an Oath Then 'Switched Sides,' Judge Says"
+excerpt: "Federico Klein, an ex-official in the administration of former President Donald Trump, will remain in jail after a judge said he \"switched sides\" by allegedly participating in the deadly breach of the U.S. Capitol on January 6. U.S. Magistrate Zia Faruqui ..."
+publishedDateTime: 2021-03-10T05:45:00Z
+originalUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976"
+webUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976"
+ampWebUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
 type: article
-quality: 73
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://cdnph.upi.com/sv/ph/og/upi/5831614965407/2021/1/c5fd2e5c49d18744c2e0217abed09170/v1.5/Rep-Eric-Swalwell-sues-Donald-Trump-3-others-for-inciting-Capitol-attack.jpg"
-    width: 800
-    height: 533
+  - url: "https://d.newsweek.com/en/full/1752326/federico-klein-capitol-riots-donald-trump.jpg"
+    width: 2500
+    height: 1667
     isCached: true
 
 related:
@@ -139,22 +143,6 @@ related:
         width: 979
         height: 551
         isCached: true
-  - title: "Trump Appointee Who Took Part in Capitol Riot Swore an Oath Then 'Switched Sides,' Judge Says"
-    excerpt: "Federico Klein, an ex-official in the administration of former President Donald Trump, will remain in jail after a judge said he \"switched sides\" by allegedly participating in the deadly breach of the U.S. Capitol on January 6. U.S. Magistrate Zia Faruqui ..."
-    publishedDateTime: 2021-03-10T05:45:00Z
-    webUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976"
-    ampWebUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
-    images:
-      - url: "https://d.newsweek.com/en/full/1752326/federico-klein-capitol-riots-donald-trump.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Ex-State Department employee appointed by Trump ‘switched sides’ in joining Capitol mob, judge says"
     excerpt: "A former State Department staffer with a top-secret security clearance betrayed his oath of office when he joined the Capitol mob that attempted to subvert the electoral process on Jan. 6, a federal magistrate judge said Tuesday."
     publishedDateTime: 2021-03-09T22:12:00Z
@@ -187,6 +175,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
+    excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
+    publishedDateTime: 2021-03-05T18:14:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5831614965407/2021/1/c5fd2e5c49d18744c2e0217abed09170/v1.5/Rep-Eric-Swalwell-sues-Donald-Trump-3-others-for-inciting-Capitol-attack.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
     excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
     publishedDateTime: 2021-03-03T14:55:00Z
@@ -213,6 +217,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "HUHTKER3hZ0lF87S7NibhNIYZEWmXH1TA6us4lZT5Or/YY9SRZHXfkhzcIFIIYbsbqHGJcOgH0C/tnoFakgAkOiV0/6LwnQzEl9ioLROA4L787Wj5aZimyvPsT6219Sm4jeHClXY67W0p8qbVl6i5wP6wr3ZcgMfbZ07+sko4bN86iDb1WWxpUek+j1YB1+bG3vnuJS95NMvCbNrJ5Bmm4RocFRBdoyNuw1dmrwdd164svyuYBx0wR1ptpRBPSUTOQQcxdyV4K6D4M6WWb9bM5x0FTJe2cA5kxselHliELltORPq3S0jxPTonbOIioYs8j3eCCZVcj8KE9P6Gguut1zmj4uaYANfrP/yaLtGw5o=;JSQlofagQ07w0+2iHvjf9A=="
+secured: "S7XeONmYTJp9FsZ/lZEUluYNXXlIbOtg3IPhnnLvhv9HznkPGGmnUb6A9ljtrdXutJRIKEWxfVZINpPjsDruh4UtRkI9+dUsCZceAvoPfV+p8sPpyCHYCdyHieMH5azMjHUT5kJTHSTDuvztrKV39ROUN0QT+I+6EHYJ/9G8iKCwUnOWzOjlItX2uBunbJy+zLRapd5SMEoNdmk6Yp8K1kvvYtpsiZibJaGxB1bGiA3HNAuZ7rM4sh4q3rEUBRmM6cNnmRe4rzuKCv6a8ZCNc9I5Phj68FQuxtl2kjqnmFChpXAS8L+EN/Ft3yLEtBX64Y68KIsfis033KZ/bvxDr1TCF3spwGcIqLx/dTZrKjg=;ug9Ii4KGtd7lMRiSb3mE9g=="
 ---
 

@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Psaki pressed on whether Biden admin taking credit for Trump accomplishments on vaccine partnership"
-excerpt: "White House press secretary Jen Psaki was pressed about the Biden administration's taking credit for a partnership between Johnson & Johnson and Merck."
-publishedDateTime: 2021-03-02T23:52:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck"
-ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
+title: "Trump blasts Biden's handling of border crisis: 'Our country is being destroyed'"
+excerpt: "Former President Donald Trump blasted President Biden's handling of the border crisis, saying the country is being \"destroyed\" by the recent surge of illegal migrants at the border. In a statement released Tuesday, Trump pointed to his border policy wins ..."
+publishedDateTime: 2021-03-09T23:23:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge"
+webUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge"
+ampWebUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
 type: article
-quality: 176
+quality: 145
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4c7eed-17f3-4a11-b656-8f6b7b68295f/da644133-079a-4496-9cc5-4b9dd6a4fdc6/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -62,6 +63,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23788a05-0e07-4eaa-b65f-7d1ff708a21d/ab917b1d-3466-4312-a322-dec6fb5f9b34/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Psaki pressed on whether Biden admin taking credit for Trump accomplishments on vaccine partnership"
+    excerpt: "White House press secretary Jen Psaki was pressed about the Biden administration's taking credit for a partnership between Johnson & Johnson and Merck."
+    publishedDateTime: 2021-03-02T23:52:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Texas Gov. Abbott blames Biden reversal of Trump policies for 'self-inflicted' migrant surge at border"
     excerpt: "Texas Republican Gov. Greg Abbott blamed the Biden administration for what he called a \"self-inflicted\" influx of migrants at the southern border by reversing the immigration policies implemented under former President Donald Trump."
@@ -191,22 +208,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Trump blasts Biden's handling of border crisis: 'Our country is being destroyed'"
-    excerpt: "Former President Donald Trump blasted President Biden's handling of the border crisis, saying the country is being \"destroyed\" by the recent surge of illegal migrants at the border. In a statement released Tuesday, Trump pointed to his border policy wins ..."
-    publishedDateTime: 2021-03-09T23:23:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 145
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4c7eed-17f3-4a11-b656-8f6b7b68295f/da644133-079a-4496-9cc5-4b9dd6a4fdc6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden's release of report on Khashoggi killing shows difference from Trump's approach, experts say"
     excerpt: "The Biden administration’s decision to release a report concluding Saudi Arabia Crown Prince Mohammad Bin Salman was involved in the killing of Washington Post journalist Jamal Khashoggi creates a diplomatic challenge,"
     publishedDateTime: 2021-03-02T13:30:00Z
@@ -240,6 +241,6 @@ related:
         height: 800
         isCached: true
 
-secured: "e/3yr5G3eUIlo93vw5TnYhLIraI7pPgR2C46L7DhnscLcOM62pd55oN0JU5YRI0obnpWHfKZ4qOaQq2UwKm8t5OxgmYsacOhpRSvQ8BVcTb/DeWR8TE2mfZcHxpLktJZEMZ0M/fO7Snp7v+FcJq5prKByBJHbXiKVLwOK2QZpdmBoHbq1lNbE5w5ONQEy0EPqN8P9+6bxBQ/24heIelhpkRQGNYOFAKLndy86X7ePl7bM5/ErdVmXGgZDtPeXttmESr+igkjiGlMinuKfhheudwX8GDK9n5lu+zRVX33nmrWDPncHAvyS+h971bVntLum+wZzhDeq2EeQzgFpU1dfOhqRYnwd9J8OeIWmpWQvNs=;Z4si6DNbOW0pf/ZdMcUeOQ=="
+secured: "J+Nza8aj6B8S5KaeI+9SnOLvXM609Bxg/YIOM0wrWTnZsmz/voknoRTH5SuxQthZeynXzMHPt//HpXz+SSdODmhCv6gf0wCBPEnFS+rn1bUl/QcCaULDT0V5A4And3DUwVogm+nE23jA+aYJ9D1BpK+lUxVWYGKSYCR23v/tfazMlUe91kjmMK8UHqdAJmq7tPvoPVf64vsLRK5h5/filfGRHO9joIrfPM+Lt8WjP8kyBSQIXT0qHUUbceAL52i3OJJejMP16nJhfibNX7xFPvlWrJwsYtAaj1VMwqv+JBCSR6+W4JmJfGXqWm3QT+69n0S2oZN1bq836kRcDayUQND9JbqBBCU9yw6NLFfQUfc=;I9tdXoWNx/MeX8z7rAZZtg=="
 ---
 

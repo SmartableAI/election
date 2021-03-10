@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Psaki pressed on whether Biden admin taking credit for Trump accomplishments on vaccine partnership"
-excerpt: "White House press secretary Jen Psaki was pressed about the Biden administration's taking credit for a partnership between Johnson & Johnson and Merck."
-publishedDateTime: 2021-03-02T23:52:00Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck"
-ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
+title: "Trump says country is being ‘destroyed’ at border amid migrant surge"
+excerpt: "Former President Donald Trump on Tuesday said the country is being “destroyed” at the US-Mexico border as it experiences a surge in migrants. “Our country is being destroyed at the Southern"
+publishedDateTime: 2021-03-10T06:19:00Z
+originalUrl: "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/"
+webUrl: "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/"
+ampWebUrl: "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/"
 type: article
-quality: 176
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/E86E2F68-40AC-4573-9256-2C761F843B35.jpeg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -62,6 +59,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/23788a05-0e07-4eaa-b65f-7d1ff708a21d/ab917b1d-3466-4312-a322-dec6fb5f9b34/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Psaki pressed on whether Biden admin taking credit for Trump accomplishments on vaccine partnership"
+    excerpt: "White House press secretary Jen Psaki was pressed about the Biden administration's taking credit for a partnership between Johnson & Johnson and Merck."
+    publishedDateTime: 2021-03-02T23:52:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/86GjSDxrXso/psaki-biden-trump-johnson-and-johnson-vaccine-merck"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-trump-johnson-and-johnson-vaccine-merck.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Texas Gov. Abbott blames Biden reversal of Trump policies for 'self-inflicted' migrant surge at border"
     excerpt: "Texas Republican Gov. Greg Abbott blamed the Biden administration for what he called a \"self-inflicted\" influx of migrants at the southern border by reversing the immigration policies implemented under former President Donald Trump."
@@ -223,23 +236,7 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump says country is being ‘destroyed’ at border amid migrant surge"
-    excerpt: "Former President Donald Trump on Tuesday said the country is being “destroyed” at the US-Mexico border as it experiences a surge in migrants. “Our country is being destroyed at the Southern"
-    publishedDateTime: 2021-03-10T06:19:00Z
-    webUrl: "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/"
-    ampWebUrl: "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/E86E2F68-40AC-4573-9256-2C761F843B35.jpeg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
-secured: "e/3yr5G3eUIlo93vw5TnYhLIraI7pPgR2C46L7DhnscLcOM62pd55oN0JU5YRI0obnpWHfKZ4qOaQq2UwKm8t5OxgmYsacOhpRSvQ8BVcTb/DeWR8TE2mfZcHxpLktJZEMZ0M/fO7Snp7v+FcJq5prKByBJHbXiKVLwOK2QZpdmBoHbq1lNbE5w5ONQEy0EPqN8P9+6bxBQ/24heIelhpkRQGNYOFAKLndy86X7ePl7bM5/ErdVmXGgZDtPeXttmESr+igkjiGlMinuKfhheudwX8GDK9n5lu+zRVX33nmrWDPncHAvyS+h971bVntLum+wZzhDeq2EeQzgFpU1dfOhqRYnwd9J8OeIWmpWQvNs=;Z4si6DNbOW0pf/ZdMcUeOQ=="
+secured: "wXFWuD/pDr2/7ty6xT90tonuD/T4Ue2aFyVXeosRCc8fsl+2NLRsCeLHvqtzX2baOfJGfEV5exPqHj4HQKlkT/ZMLn6WdRFJPbLsg2b6joqk3T6hzhCpFH6QYGcKrPJlN6pAPvEtSUVxWkOCkYY//Lg2UzJgHsOy3poqfMYHYb3oF+tCzWHzPY0Uog0cn5TXcyhyA8hUco2bZvbCVgUkwprKQkUzi9xef0S9xQgrgfV1LqpiG1+0fFiSD1bWtfqSbHZ0rHEOyfrjGGaODmO6O/0VT31S2IKZgDZEUho0DE2Z4JP2nu/gFaBehbo1jm5CdEVuWgeqQoNVSUntYyRCkbfBeOdoYRHM8OYBLKpakNk=;4pZRfbCWc3mhClfHm3FrzQ=="
 ---
 

@@ -1,20 +1,22 @@
 ---
 category: news
-title: "What Joe Biden has said about war powers"
-excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
-publishedDateTime: 2021-03-09T21:01:00Z
-originalUrl: "https://www.washingtonpost.com/video/politics/what-joe-biden-has-said-about-war-powers/2021/03/09/0b60fb9b-349a-41e7-a097-26e30c7b0677_video.html"
-webUrl: "https://www.washingtonpost.com/video/politics/what-joe-biden-has-said-about-war-powers/2021/03/09/0b60fb9b-349a-41e7-a097-26e30c7b0677_video.html"
+title: "Live stimulus bill updates: House to vote on Biden's $1.9 trillion COVID bill Wednesday"
+excerpt: "The Democratic-controlled House passed a key procedural measure Tuesday evening setting the stage for the chamber to pass the bill Wednesday morning. Under the “rule” passed by the House on a 219-210, mostly party-line vote, the House will debate for ..."
+publishedDateTime: 2021-03-09T23:02:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/09/house-begin-final-debates-over-joe-bidens-covid-19-stimulus-bill/4637246001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/03/09/house-begin-final-debates-over-joe-bidens-covid-19-stimulus-bill/4637246001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4637246001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4637246001"
 type: article
-quality: 105
+quality: 117
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: USA Today
+  domain: usatoday.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1080"
-    width: 1080
-    height: 608
+  - url: "https://www.gannett-cdn.com/presto/2021/03/08/USAT/4b7a44ba-635c-4ab2-b443-43faca214a71-AP21065688372420.jpg?auto=webp&crop=4748,2671,x0,y285&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -76,22 +78,6 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MJZ43ZEAMQI6XAO3WAXQHGHUTI.jpg&w=1440"
         width: 1440
         height: 960
-        isCached: true
-  - title: "Live stimulus bill updates: House to vote on Biden's $1.9 trillion COVID bill Wednesday"
-    excerpt: "The Democratic-controlled House passed a key procedural measure Tuesday evening setting the stage for the chamber to pass the bill Wednesday morning. Under the “rule” passed by the House on a 219-210, mostly party-line vote, the House will debate for ..."
-    publishedDateTime: 2021-03-09T23:02:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/09/house-begin-final-debates-over-joe-bidens-covid-19-stimulus-bill/4637246001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4637246001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4637246001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/08/USAT/4b7a44ba-635c-4ab2-b443-43faca214a71-AP21065688372420.jpg?auto=webp&crop=4748,2671,x0,y285&format=pjpg&width=1200"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates – as it happened"
     excerpt: "Biden order aims to prepare for future crises similar to pandemic"
@@ -148,6 +134,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "What Joe Biden has said about war powers"
+    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
+    publishedDateTime: 2021-03-09T21:01:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/what-joe-biden-has-said-about-war-powers/2021/03/09/0b60fb9b-349a-41e7-a097-26e30c7b0677_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "Live stimulus updates: Kamala Harris breaks Senate tie to begin debate on Joe Biden's COVID stimulus bill"
     excerpt: "It’s time to move forward with this legislation which will be one of the largest antipoverty bills in recent history,” Sen. Chuck Schumer said."
     publishedDateTime: 2021-03-05T15:44:00Z
@@ -165,6 +165,6 @@ related:
         height: 676
         isCached: true
 
-secured: "Uxo7ye9hN5nv++hW3BpQDRGVDWBtADqUBFK1/6ke09NS4sJ2SwjqNa3JPwXG3iVWG7q5LCF6AnPK7y2Vr5FsLwCt9WBnX/sdXrcp6/iudQahujZRuo6S+JADbABJ/u0RVrk/4LO5dsvTy4/jgul0AIi4to28UvTXfhyRzdk++cI2Z3luYv5aOuf517Vhtfdt6D0CXhGL46I+YN+NghoOgAN6H5QHMO6tsiK7YAnbwgseQ0HVesnGtu7JIFJc3rMvmDw0flxPhqBvwlvUPbOMzRsBgpO5kvfuI+8swkA0GiojlWE/O9q3nIuR3B2TEIzkBSIhlDQgGYgIt/tZXyw1IOj5VUOqnYnzZtTQyStWn6g=;PCO6vcVjIDwlmsozAqoImQ=="
+secured: "7LmhwA9G4tqXTO/xIzjnFl2tCzbjJaBZgV0Uxr2oBb8yv/gsKK94N4G4u/Du4YH8pKI+bXLnFjeDkh9eovhjB2ChKNdtfAJy0/eoOH5OW4xMVSKJ0SFJmG1kXxcd0cHdEIpy3eJHcwGkrZevL1ZSqAHUgcn62vIEblbSobZ7x3/oecXvwuLg2Qq01v7eO/b8z4heolZJl5+lrzrNVtCudFMzHlhH/vHNX+umkDRESKlfwKv3hY/8I3K1SvRozxJ7DIlo1m/eYSKK+k0KKWiWSjWJZXuOaw3SEnQgyazIe4vqLA/G3XGCB1f0+uzlJ61Mr4So+xN8rNx0oJVnaTsPBYGfL/WHh3OAW6O5qRTYJ84=;gOlm5alWOCcbPgmNGQwRjw=="
 ---
 

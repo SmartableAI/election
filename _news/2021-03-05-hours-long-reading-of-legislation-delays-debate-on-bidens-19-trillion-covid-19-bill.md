@@ -50,7 +50,7 @@ related:
   - title: "Biden's $1.9 trillion COVID-19 package clears procedural vote in U.S. House"
     excerpt: "The U.S. House of Representatives voted on Tuesday to advance President Joe Biden's $1.9 trillion COVID-19 relief bill, clearing the way for the measure to be considered on Wednesday, when it is expected to pass."
     publishedDateTime: 2021-03-09T22:40:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-3-us-house-to-vote-wednesday-on-bidens-19-trillion-covid-19-package-idUSL1N2L71KM"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/us-house-to-vote-wednesday-on-bidens-19-trillion-covid-19-package-idUSKBN2B11PO"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B11PO"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B11PO"
     type: article
