@@ -95,6 +95,33 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden forges ahead with his pro-union agenda on several fronts"
+    excerpt: "President Joe Biden on Tuesday continued his string of pro-union actions since entering the White House by calling for the House to pass a bill to make it easier for employees to unionize.\n    \n"
+    publishedDateTime: 2021-03-10T02:29:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jqRW0zsANnc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/joe-biden-pro-act-union-record/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/joe-biden-pro-act-union-record/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 155
+  - title: "Biden Nominees Vow to Avoid Politicizing Justice Dept."
+    excerpt: "The president’s picks for the department’s No. 2 and 3 spots pledged to restore independence to law enforcement."
+    publishedDateTime: 2021-03-10T01:10:00Z
+    webUrl: "https://www.nytimes.com/2021/03/09/us/politics/lisa-monaco-vanita-gupta-confirmation.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/09/us/politics/lisa-monaco-vanita-gupta-confirmation.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/09/us/politics/lisa-monaco-vanita-gupta-confirmation.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09dc-justice-1/merlin_184801785_0070e6c2-88ce-416c-926e-2400ddf6eada-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "2Fc5KOL2ZgmqTdq1wSkfRPoHSxbmlvgwLQ25EDvV6TcR8mVowz0ug+CbV9LrstaFJCFxqXB1pkcOc72lFBNAchxQrO4nfaa8PdgKtnqjEsCGtan+VXepwMqpSburhIESQ9Rh39Poa85XH6HhiE3oTZNzKSYT4JPtsVJvyWM2Q3AVOyZRAhy/FZ99GDhWGChvslasgKkDR6Vq3Yd9sP3yHeAubMkwQeGe6yzHwSjIWFmgwFJk1ebDHd08bDO6jyFWMWL4JAwUWiz/QNbRoKrlAKC0OzipDn0DGB/vOOy6SGuGYuUV3/RYGewPOxYVoLsSbgglDbYDI7JvbVWV+MftqTumf2aWN9nzyN9rLsRkZDs=;lJT+rQs3QyfcjfoUqrw6jw=="
 ---

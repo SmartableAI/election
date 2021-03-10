@@ -30,85 +30,101 @@ images:
     isCached: true
 
 related:
-  - title: "Trump election fraud investigation in Georgia enters new phase with grand jury set to be seated "
-    excerpt: "A criminal investigation into former President Donald Trump's attempts to overturn the 2020 election results in Georgia is set to intensify this week, as a grand jury convenes, offering the local district attorney her first shot at seeking subpoenas for records and interviews.\n    \n"
-    publishedDateTime: 2021-03-04T12:29:42Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iteNrk1UDC4/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/trump-georgia-grand-jury/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/trump-georgia-grand-jury/index.html"
+  - title: "Trump unleashes new threat to American democracy "
+    excerpt: "Donald Trump has no remorse about the deadly violence he incited with his lies about a stolen election in his uprising against the US Congress.\n    \n"
+    publishedDateTime: 2021-03-01T08:41:00Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iBMxEBJKB5s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/01/politics/cpac-2021-trump-speech-american-democracy/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/cpac-2021-trump-speech-american-democracy/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 177
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210228202828-03-donald-trump-cpac-0228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump endorses primary opponent to Ohio Republican who voted for impeachment"
+    excerpt: "Former President Donald Trump on Friday endorsed a primary challenger running against Ohio's Rep. Anthony Gonzalez, who voted to impeach Trump last month, in an early sign of the former President's plans to exert his influence on Republican primaries ahead of the 2022 midterm elections.\n    \n"
+    publishedDateTime: 2021-02-27T02:16:29Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fB92Jy0POdk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/26/politics/anthony-gonzalez-trump-max-miller-ohio-16th-district/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/anthony-gonzalez-trump-max-miller-ohio-16th-district/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 172
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210226193728-trump-gonzalez-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump wants top Republican fundraising organizations to stop using his likeness"
+    excerpt: "Lawyers for former President Donald Trump sent out cease-and-desist letters Friday to the Republican National Committee, the National Republican Congressional Committee, and the National Republican Senatorial Committee for using his name and likeness on fundraising emails and merchandise, a Trump adviser"
+    publishedDateTime: 2021-03-06T17:44:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/agww6XNhsQs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/trump-cease-desist-name-likeness-rnc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/trump-cease-desist-name-likeness-rnc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia secretary of state's office launches investigation into Trump's phone call "
-    excerpt: "The office of Georgia Secretary of State Brad Raffensperger confirmed to CNN on Monday that it has started an investigation into former President Donald Trump's attempts to overturn the state's election results, including a phone call the former President made to Raffensperger.\n    \n"
-    publishedDateTime: 2021-02-08T23:57:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-GS_Gn3iKsk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 169
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108062936-brad-raffensperger-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Manhattan DA faces critical decisions in Trump investigation as his time in office runs low"
-    excerpt: "At the helm of the most significant criminal investigation facing Donald Trump, his family and his business, Manhattan's top prosecutor faces a daunting task heading into his final months in office while sifting through millions of newly obtained pages of financial records related to the former President.\n"
-    publishedDateTime: 2021-02-25T23:25:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1fKVj9rqWIc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200221104852-cy-vance-0215-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia district attorney investigating Trump hires lawyer with expertise in racketeering cases"
-    excerpt: "A lawyer with deep expertise in racketeering cases has been retained by the Atlanta-area district attorney's office investigating former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-03-07T00:47:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mkP1toe70iI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
+  - title: "Senior diplomatic security official removed from Afghanistan role after declaring 'death of America' when Trump lost election"
+    excerpt: "The top State Department diplomatic security official in Afghanistan was removed from his role for declaring the \"death of America\" and making racist comments about Kamala Harris in a post on his Facebook page when President Donald Trump lost November's presidential election, according to four sources"
+    publishedDateTime: 2021-03-04T13:14:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C3WoiUPkcJw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/diplomatic-security-official-removed/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/diplomatic-security-official-removed/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
     quality: 163
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224952-fani-willis-file-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/130804201221-afghanistan-embassy-story-top.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "NYC prosecutors' probe into Trump finances expands to include millions loaned for Chicago skyscraper"
-    excerpt: "The Manhattan district attorney's office subpoenaed documents from an investment company that loaned the Trump Organization millions of dollars for its Chicago skyscraper in a sign that the investigation into the former president's finances continues to expand, according to people familiar with the investigation.\n"
-    publishedDateTime: 2021-03-08T22:41:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2B8VyI_E7Zg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/trump-chicago-subpoena/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/trump-chicago-subpoena/index.html"
+  - title: "How to Unite a Deeply Divided Kosovo? Name a Lake After Trump"
+    excerpt: "A lighthearted suggestion by a U.S. envoy hoping to bridge a vast rift between Albanians and Serbs in Kosovo has taken on a life of its own — only to be ridiculed by local residents on both sides."
+    publishedDateTime: 2021-02-27T10:05:00Z
+    webUrl: "https://www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.html"
+    ampWebUrl: "https://www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/27/world/europe/kosovo-trump-lake-serbs-albanians.amp.html"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170424100116-trump-chicago-hotel-super-tease.jpg"
-        width: 1100
-        height: 619
+      - url: "https://static01.nyt.com/images/2021/02/25/world/00kosovo-trump-dispatch1/merlin_184072053_cdadfe06-aff9-44be-8eaa-ca4342a6b5fc-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Ambitious Republicans’ Dance: Embrace Trump, but Don’t Try to Be Him"
+    excerpt: "As jockeying begins for 2024, rank-and-file Republicans say they are most drawn to leaders who both pledge fealty to the former president and appear to showcase a distinct political identity."
+    publishedDateTime: 2021-03-02T22:07:00Z
+    webUrl: "https://www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/02/us/politics/republicans-cpac-trump-kristi-noem-tom-cotton.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/02/us/politics/02gop-leaders1/02gop-leaders1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "TGFOu3vgjI7Gd0eUa6sA1ozxGQg2VS7tmgzq6Lrox6Je7OySv0tW5Ti4Mx2fT43t8QAGq8HPYcGVoBG9IfLPSfYW6c5VkVKM11h1K6q6HAgYeJy5rLHPlVpyenxge/ElF6Jo65A1OaaSl47IS0mgDnTyMXA+W7OrCa0w23u/UCJhD4xSWr3X4WEbmDpl0pqEL9LYni8AV/w/jlXUvFMFp8GZDmaHOpXD5Ug86maI3hlI9eMu6oTBGtKB3hzA/72bnCChOzFla1Lb3uWvYJnjZIe4P/zcZa6lOdk32XhmyqcaV5LPplmeTVbZ9bv2cilF4Qr+hkY/5uyEjbfiVZfebX2AGjILHJhZJLpwQfKuKpY=;RsTadHKeq6cgbtB0eLaVgw=="

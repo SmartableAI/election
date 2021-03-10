@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump makes NYC trip to 'look under the hood' of business interests: Report"
+    excerpt: "The former president arrived in New York on Sunday night and was expected to stay in the city until Tuesday."
+    publishedDateTime: 2021-03-10T01:18:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-JNT3Ca3Ce8/trump-spotted-nyc-first-time-since-leaving-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-spotted-nyc-first-time-since-leaving-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-spotted-nyc-first-time-since-leaving-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Trump-REUTERS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Donald Trump reportedly will visit NYC as soon as Sunday"
     excerpt: "Former President Donald Trump will travel to New York City as soon as Sunday, his first visit to the Big Apple since leaving the White House in January, according to a report. Trump Tower, the"
     publishedDateTime: 2021-03-07T14:35:00Z

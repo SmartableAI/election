@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxe
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/22/politics/supreme-court-trump-taxes-vance/index.html"
 type: article
 quality: 175
-heat: 415
+heat: 435
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 168
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210213202046-trump-impeachment-vote-acquittal-day-5-wrap-trial-two-nobles-nr-vpx-00021619-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Manhattan DA faces critical decisions in Trump investigation as his time in office runs low"
+    excerpt: "At the helm of the most significant criminal investigation facing Donald Trump, his family and his business, Manhattan's top prosecutor faces a daunting task heading into his final months in office while sifting through millions of newly obtained pages of financial records related to the former President.\n"
+    publishedDateTime: 2021-02-25T23:25:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1fKVj9rqWIc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200221104852-cy-vance-0215-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

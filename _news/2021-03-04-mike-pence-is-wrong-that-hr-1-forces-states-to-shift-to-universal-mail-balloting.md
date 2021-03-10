@@ -27,13 +27,15 @@ images:
 related:
   - title: "Fact check: Mike Pence claims bill would force universal mail-in voting"
     excerpt: "The voting bill known as HR 1 “would force states to adopt universal mail-in ballots.” — Mike Pence, former vice president. Pence, the Republican who was Donald Trump’s vice president, raised multiple objections to the bill in a column that appeared in the Daily Signal,"
-    publishedDateTime: 2021-03-08T10:00:00Z
-    webUrl: "https://www.expressnews.com/politics/texas/politifact/article/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php"
+    publishedDateTime: 2021-03-08T12:08:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/politifact/article/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php"
+    ampWebUrl: "https://www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php"
+    cdnAmpWebUrl: "https://www-houstonchronicle-com.cdn.ampproject.org/c/s/www.houstonchronicle.com/politics/texas/politifact/amp/Fact-check-Mike-Pence-claims-bill-would-force-16003643.php"
     type: article
     provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 55
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 125
     images:
       - url: "https://s.hdnux.com/photos/01/16/77/21/20706426/5/rawImage.jpg"
         width: 2048

@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/trump-georgia-grand-jury
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/trump-georgia-grand-jury/index.html"
 type: article
 quality: 177
-heat: 277
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,83 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia secretary of state's office launches investigation into Trump's phone call "
-    excerpt: "The office of Georgia Secretary of State Brad Raffensperger confirmed to CNN on Monday that it has started an investigation into former President Donald Trump's attempts to overturn the state's election results, including a phone call the former President made to Raffensperger.\n    \n"
-    publishedDateTime: 2021-02-08T23:57:30Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-GS_Gn3iKsk/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/georgia-secretary-of-state-trump-investigation/index.html"
+  - title: "Trump requests mail-in ballot ahead of local Florida election despite baseless fraud claims"
+    excerpt: "Former President Donald Trump requested a mail-in ballot ahead of a local municipal election in Florida, according to Palm Beach County records, despite his frequent attacks on voting by mail.\n    \n"
+    publishedDateTime: 2021-03-10T00:36:14Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/23VXyk87ScA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/trump-mail-in-ballot-voting-florida/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/trump-mail-in-ballot-voting-florida/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 169
+    quality: 180
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210108062936-brad-raffensperger-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210309175211-01-trump-cpac-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Manhattan DA faces critical decisions in Trump investigation as his time in office runs low"
-    excerpt: "At the helm of the most significant criminal investigation facing Donald Trump, his family and his business, Manhattan's top prosecutor faces a daunting task heading into his final months in office while sifting through millions of newly obtained pages of financial records related to the former President.\n"
-    publishedDateTime: 2021-02-25T23:25:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1fKVj9rqWIc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/trump-taxes-manhattan-da/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 165
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200221104852-cy-vance-0215-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Georgia district attorney investigating Trump hires lawyer with expertise in racketeering cases"
-    excerpt: "A lawyer with deep expertise in racketeering cases has been retained by the Atlanta-area district attorney's office investigating former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-03-07T00:47:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mkP1toe70iI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224952-fani-willis-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "NYC prosecutors' probe into Trump finances expands to include millions loaned for Chicago skyscraper"
-    excerpt: "The Manhattan district attorney's office subpoenaed documents from an investment company that loaned the Trump Organization millions of dollars for its Chicago skyscraper in a sign that the investigation into the former president's finances continues to expand, according to people familiar with the investigation.\n"
-    publishedDateTime: 2021-03-08T22:41:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2B8VyI_E7Zg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/trump-chicago-subpoena/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/trump-chicago-subpoena/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170424100116-trump-chicago-hotel-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Trump aides build out the MAGA-verse with new groups"
-    excerpt: "A number of Trump's top campaign aides and senior administration officials are launching nonprofits or super PACs."
-    publishedDateTime: 2021-03-03T09:37:00Z
-    webUrl: "https://www.politico.com/news/2021/03/03/trump-aides-super-pacs-472947"
+  - title: "Pro-Trump Florida state lawmaker to challenge Webster"
+    excerpt: "The \"corrupt Republican establishment turned its back on President Trump,\" the state legislator says. \"And it’s time we fight back.”"
+    publishedDateTime: 2021-03-08T18:41:00Z
+    webUrl: "https://www.politico.com/states/florida/story/2021/03/08/pro-trump-florida-state-lawmaker-to-challenge-webster-1367386"
     type: article
     provider:
       name: Politico
       domain: politico.com
     quality: 115
     images:
-      - url: "https://static.politico.com/5b/57/79e8db9540fd98d968215ad7bd33/ap20351767222013-1.jpg"
+      - url: "https://static.politico.com/bb/64/73a6193a40c6b8842b63ab03e4f7/151008-daniel-webster-ap-1160.jpg"
         width: 1160
-        height: 773
+        height: 629
         isCached: true
 
 secured: "10+WlPgjVbyeVB7GJ/1VdAZIc8K0Y9LfULBx4zx0X0U5BbFbgC6dmXh39/suqPWRZxN/B2hA9YNyEHmvUQJ/yZynWtGoCG7Lig2l7m8ZswAdHcmQh5X/4YbUnNZKGtSqxounMEzdbqzLTSneXKfanDYFT2B4yZrvVg03tXyuCFoFNqqU1vXxNJ1wSpJUd0f7QY1E+ZfEDGQG0Hka4wJZL2wr6UioR1nY2EZhhYzPKHIekhDbZ8OffAUeS0QEtTVjp4xSO8Md2nQHqkKuEj6yGkZmiIIJOTMsVlX64h4nRB1Te3YCgV+J+SwlB7c+wxxMjBmwqMovikGAABQaI3Vk9K0uTef8mwbycj/ACRn6kTs=;uaKkfh4W6s79UqRYQYIpUg=="

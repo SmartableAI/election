@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-pol
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721"
 type: article
 quality: 150
-heat: 2530
+heat: 2550
 published: true
 
 provider:
@@ -495,6 +495,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/SxJWtq45mVM11GM34Lp59gBDMXM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I3NLXVDYGYBUUCJZRYT5IVQDII.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden administration won’t defend Trump public charge rule"
+    excerpt: "A Trump-era immigration rule denying green cards to immigrants who use public benefits like food stamps has been dealt likely fatal blows after the Biden administration dropped legal challenges, inclu"
+    publishedDateTime: 2021-03-10T00:53:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-administration-wont-defend-trump-public-charge-rule/2021/03/09/fc880928-813a-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-administration-wont-defend-trump-public-charge-rule/2021/03/09/fc880928-813a-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-administration-wont-defend-trump-public-charge-rule/2021/03/09/fc880928-813a-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden administration drops Trump-era discrimination lawsuit against Yale"
     excerpt: "Lawsuit had claimed university discriminates against Asian American and white applicants"

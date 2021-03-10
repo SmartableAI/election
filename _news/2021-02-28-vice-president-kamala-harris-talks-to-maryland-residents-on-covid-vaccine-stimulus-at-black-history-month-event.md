@@ -237,6 +237,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris: Spirit of John Lewis lives on in voting rights fight"
+    excerpt: "Kamala Harris celebrated the spirit of the late John Lewis in pre-taped remarks shown Sunday as part of ceremonies commemorating the 1965 march across the Edmund Pettus Bridge in Selma. Harris’ remarks were addressed to people gathered at Brown Chapel AME Church,"
+    publishedDateTime: 2021-03-07T21:42:00Z
+    webUrl: "https://www.al.com/news/montgomery/2021/03/kamala-harris-spirit-of-john-lewis-lives-on-in-voting-rights-fight.html"
+    ampWebUrl: "https://www.al.com/news/montgomery/2021/03/kamala-harris-spirit-of-john-lewis-lives-on-in-voting-rights-fight.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/montgomery/2021/03/kamala-harris-spirit-of-john-lewis-lives-on-in-voting-rights-fight.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYMYDGEZ2ZASRBVWWHRFMFUXGI.jpg"
+        width: 1361
+        height: 757
+        isCached: true
   - title: "VP Harris to make her UN debut with March 16 speech"
     excerpt: "Vice President Kamala Harris will speak at the virtual 65th Commission on the Status of Women on March 16, U.S. Ambassador to the United Nations Linda Thomas-Greenfield said on Monday, adding"
     publishedDateTime: 2021-03-08T22:40:00Z

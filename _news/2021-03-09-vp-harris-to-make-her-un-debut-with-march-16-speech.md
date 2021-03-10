@@ -237,6 +237,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris: Spirit of John Lewis lives on in voting rights fight"
+    excerpt: "Kamala Harris celebrated the spirit of the late John Lewis in pre-taped remarks shown Sunday as part of ceremonies commemorating the 1965 march across the Edmund Pettus Bridge in Selma. Harris’ remarks were addressed to people gathered at Brown Chapel AME Church,"
+    publishedDateTime: 2021-03-07T21:42:00Z
+    webUrl: "https://www.al.com/news/montgomery/2021/03/kamala-harris-spirit-of-john-lewis-lives-on-in-voting-rights-fight.html"
+    ampWebUrl: "https://www.al.com/news/montgomery/2021/03/kamala-harris-spirit-of-john-lewis-lives-on-in-voting-rights-fight.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/montgomery/2021/03/kamala-harris-spirit-of-john-lewis-lives-on-in-voting-rights-fight.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HYMYDGEZ2ZASRBVWWHRFMFUXGI.jpg"
+        width: 1361
+        height: 757
+        isCached: true
   - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
     excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
     publishedDateTime: 2021-03-03T23:21:00Z

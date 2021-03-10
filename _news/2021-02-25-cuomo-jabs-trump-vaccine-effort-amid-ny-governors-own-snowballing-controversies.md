@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump spotted in NYC for first time since leaving White House"
+    excerpt: "Former President Donald Trump was seen outside Trump Tower on Tuesday as he wrapped up his first trip to New York City since exiting the White House. Trump waved to supporters outside the building as he left the area."
+    publishedDateTime: 2021-03-10T01:21:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-spotted-nyc-first-time-since-leaving-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-spotted-nyc-first-time-since-leaving-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-spotted-nyc-first-time-since-leaving-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Trump-REUTERS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Ex-State Department Trump Appointee Arrested in Connection with Jan. 6 Attack"
     excerpt: "Federico Klein, a former midlevel administration official who also worked on the 2016 Trump campaign, was arrested on charges of assaulting police during the Capitol riot."
     publishedDateTime: 2021-03-05T09:43:00Z

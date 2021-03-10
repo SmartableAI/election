@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Court Dismisses Trump Campaign’s Defamation Suit Against New York Times"
+    excerpt: "A New York State judge ruled that the opinion essay at the center of the suit was constitutionally protected speech."
+    publishedDateTime: 2021-03-10T01:31:00Z
+    webUrl: "https://www.nytimes.com/2021/03/09/business/media/trump-new-york-times-lawsuit-dismissed.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/09/business/media/trump-new-york-times-lawsuit-dismissed.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/09/business/media/trump-new-york-times-lawsuit-dismissed.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/09/business/09nyt-trump-suit-01/09nyt-trump-suit-01-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Big Lie? Big Whoop: Many Republicans on Capitol Hill see little reason to bat down Trump's election lies"
     excerpt: "The deadly January 6 insurrection in the Capitol may have caused many voters to recoil at former President Donald Trump's election lies."
     publishedDateTime: 2021-02-25T22:00:00Z

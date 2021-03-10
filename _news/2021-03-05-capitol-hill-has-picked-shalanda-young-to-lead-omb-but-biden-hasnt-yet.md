@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/who-is-shalanda-young/in
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/who-is-shalanda-young/index.html"
 type: article
 quality: 173
-heat: 193
+heat: 213
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303083153-02-shalanda-young-0302-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Harris, Biden announce nominations of two women to be 4-star combatant commanders"
+    excerpt: "President Joe Biden and Kamala Harris announced the nominations of Gen. Jacqueline D. Van Ovost of the Air Force and Lt. Gen. Laura J. Richardson of the Army to be four-star combatants. Once confirmed by the Senate the women will become the second and third in U."
+    publishedDateTime: 2021-03-10T02:18:00Z
+    webUrl: "https://www.nbcnews.com/now/video/harris-biden-announce-nominations-of-two-women-to-be-4-star-combatant-commanders-102620229958"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo102620229958"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo102620229958"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 145
+    images:
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/bidenharrisntl.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "W4vEfmo+YXNvK+YD5jHc41L482TJ9+tc+PKogPs4UGOGmtT4ickPa+p2QhRiwg1BikhZGt7REAINUxwv4lAPVbrjwe+n6zgFPKr3Vq9kzIlFxtaYlBlKy2G7wpF58hH7MTHJ0Gpxik9jCtJvCnhX2cN5psXVCpC6Okotd3Lnbwxj7rbQq8sE6033CFYE3+k4PqvOtNGVqB1TzcGURl67xiDkqvFr4FLnamvJEU+6zER5MSUd8ttyrRUdnEyvDgtkAgSLxxBF6CZBn2U1i+4vMLMaXl1t4KFwrsCqUw+idwa++yRN/w6PfL7M7XiY67GQ1JfJQsIMawr05SJ+vMYjDnksTAcjucsby/JdT/jrwjw=;sGYCK9+prCr8OOmurie/5A=="

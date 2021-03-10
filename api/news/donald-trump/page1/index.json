@@ -386,63 +386,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-09-pro-trump-florida-state-lawmaker-to-challenge-webster.md",
-      "title": "Pro-Trump Florida state lawmaker to challenge Webster",
-      "excerpt": "The \"corrupt Republican establishment turned its back on President Trump,\" the state legislator says. \"And it’s time we fight back.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/florida/story/2021/03/08/pro-trump-florida-state-lawmaker-to-challenge-webster-1367386",
-      "originalUrl": "https://www.politico.com/states/florida/story/2021/03/08/pro-trump-florida-state-lawmaker-to-challenge-webster-1367386",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/bb/64/73a6193a40c6b8842b63ab03e4f7/151008-daniel-webster-ap-1160.jpg",
-          "width": 1160,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T10:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-08-the-magic-donald-trump-brought-to-republican-politics-is-not-a-mystery.md",
       "title": "The ‘magic’ Donald Trump brought to Republican politics is not a mystery",
       "excerpt": "Lindsey Graham (R-S.C.) painted former president Donald Trump as a sort of magical conservative chimera. That made it trickier, he suggested, for the Republican Party to leverage Trumpism without Trump.",
@@ -1620,6 +1563,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-a-pennsylvania-man-said-he-would-find-a-local-democratic-party-office-and-shoot-it-up-for-donald-trump-and-then-he-did-authorities-say.md",
+      "title": "A Pennsylvania man said he would find a local Democratic Party office and \"shoot it up\" for Donald Trump. And then he did, authorities say.",
+      "excerpt": "Anthony Nero is accused firing his handgun at the Montgomery County Democratic Party's office in Norristown, Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/pennsylvania-man-faces-federal-charges-for-shooting-dem-party-office-2021-3",
+      "originalUrl": "https://www.businessinsider.com/pennsylvania-man-faces-federal-charges-for-shooting-dem-party-office-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/60414fe92dc90100183557d5?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/pennsylvania-man-faces-federal-charges-for-shooting-dem-party-office-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/pennsylvania-man-faces-federal-charges-for-shooting-dem-party-office-2021-3?amp",
+      "publishedDateTime": "2021-03-04T07:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],

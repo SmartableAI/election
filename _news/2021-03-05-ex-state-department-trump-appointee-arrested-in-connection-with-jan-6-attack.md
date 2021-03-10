@@ -64,6 +64,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump spotted in NYC for first time since leaving White House"
+    excerpt: "Former President Donald Trump was seen outside Trump Tower on Tuesday as he wrapped up his first trip to New York City since exiting the White House. Trump waved to supporters outside the building as he left the area."
+    publishedDateTime: 2021-03-10T01:21:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-spotted-nyc-first-time-since-leaving-white-house"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-spotted-nyc-first-time-since-leaving-white-house.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-spotted-nyc-first-time-since-leaving-white-house.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Trump-REUTERS.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "XhqSi3mR+DBDkWZyAOSx/hdGdJWYt6b4xaY3w90FFxSBbAQwj0lNsHGbJdeKWaBpRSG90jXl64E65aKHXoyP9/h4AacSSI1pp90tsjdY9xXqqIkVNWY6SwegJcBu7fc1t6DFu4hCkgBawrrdUMSY5BLixZAi6NYSvVkPzKyhf0bpyCFHiKChhpeA7NDOyGVrEW9bufznMmW4WlVcO3ZuVm5M54NoPVSBCH/rAWPAJ0LQI1yg6mQir/jMC/NCzsixlS9CFkqom2BBFrrEW4WyfxncwGfFgOdtLGfFmwxEDTNoGuI9giuBw0mGL2CGK/AZQhGAMk7w1uiaueo1z5H0rg7HNFuzwPYNhXChBL8fu2oFJfOsxwFkVwYDcE4/dcCe07KuWNurbf6sst3MAAEMx9JC/CxJbptcESbAsVVQ1pmqLUDLylidHIIh7aCqddcJYlBahFL/paYYud9Dp4NuW5vgBxuUrCpeRf4dblfW2NQjW53poWmzO0BJJPyfce+Q2I1HREy3iWWoxFu/5osnOA==;WNk0qo59qHsqs3tOmLkSIw=="
 ---
