@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-05-supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.md",
+      "title": "Supreme Court drops 'sanctuary city' cases following Biden DOJ request",
+      "excerpt": "The Supreme Court on Thursday dismissed a number of cases testing the Trump administration’s plan to withhold law-enforcement grants from cities that refused to cooperate with Department of Homeland Security efforts to deport noncitizens arrested by local police.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bt_Pwo4TdGQ/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bt_Pwo4TdGQ/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73a31f1b-5496-4fac-92aa-f14680e8400e/00b723da-5a8b-4620-9849-ab36e52a42dd/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.amp",
+      "publishedDateTime": "2021-03-05T04:05:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-biden-told-union-leaders-im-all-for-natural-gas-report.md",
       "title": "Biden told union leaders ‘I’m all for natural gas’: report",
       "excerpt": "President Biden personally promised union leaders his support for natural gas, United Association General Mark McManus said. ",
@@ -167,6 +223,63 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-04-cuomo-wont-be-getting-emmy-for-apology-performance-gop-assemblyman-tells-harris-faulkner.md",
+      "title": "Cuomo won't be getting Emmy for apology 'performance,' GOP assemblyman tells Harris Faulkner",
+      "excerpt": "New York lawmakers \"must act\" to impeach Gov. Andrew Cuomo, a New York State Assemblyman Doug Smith said on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iJPqXU--9FM/andrew-cuomo-apology-performance-faulkner-focus",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/iJPqXU--9FM/andrew-cuomo-apology-performance-faulkner-focus",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp",
+      "publishedDateTime": "2021-03-04T12:38:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
       ]
     },
     {
@@ -1111,6 +1224,54 @@
       ]
     },
     {
+      "path": "_news/2021-03-03-kamala-harris-tweet-about-dr-seuss-resurfaces-amid-racial-controversy.md",
+      "title": "Kamala Harris’ tweet about Dr. Seuss resurfaces amid racial controversy",
+      "excerpt": "Harris was a senator when she sent out the tweet, dated March 2, 2017, in which she wished the famed children’s book author a happy birthday.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/",
+      "originalUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-seuss-02.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/",
+      "publishedDateTime": "2021-03-03T07:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-flashback-gov-cuomo-in-2018-assailed-disrespect-for-women-by-sexist-and-disgusting-trump-administration.md",
       "title": "Flashback: Gov. Cuomo in 2018 assailed 'disrespect for women' by 'sexist and disgusting' Trump administration",
       "excerpt": "New York Gov. Andrew Cuomo has encountered a wave of criticism as multiple allegations that he made unwanted sexual advances have surfaced in recent days. ",
@@ -1476,174 +1637,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homan-biden-dhs-mayorkas-trump-immigration-border-crisis.amp",
       "publishedDateTime": "2021-03-02T06:12:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-trumps-received-covid-19-vaccines-at-white-house-in-january.md",
-      "title": "Trumps received COVID-19 vaccines at White House in January",
-      "excerpt": "Former President Donald Trump and former first lady Melania Trump received their COVID-19 vaccines in January at the White House, Fox News confirmed.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RC60pQ9lG0o/trumps-coronavirus-vaccines-white-house-in-january",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/RC60pQ9lG0o/trumps-coronavirus-vaccines-white-house-in-january",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trumps-coronavirus-vaccines-white-house-in-january.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trumps-coronavirus-vaccines-white-house-in-january.amp",
-      "publishedDateTime": "2021-03-02T05:33:52-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-maccallum-presses-buttigieg-as-a-responsible-person-how-could-you-support-biden-covid-relief-plan.md",
-      "title": "MacCallum presses Buttigieg: 'As a responsible person,' how could you support Biden COVID relief plan?",
-      "excerpt": "Transportation Secretary Pete Buttigieg defended his support of President Biden’s $1.9 trillion COVID-19 relief plan on Monday, dismissing Republican complaints over Democratic pet projects and unrelated items included in the legislation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MneA_m61o9E/pete-buttigieg-biden-covid-relief-spending-martha-maccallum",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MneA_m61o9E/pete-buttigieg-biden-covid-relief-spending-martha-maccallum",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43a783a4-a7d3-40c4-86a3-585d95322bf7/5cf9f052-c462-428e-add5-8cb7e5b298c7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pete-buttigieg-biden-covid-relief-spending-martha-maccallum.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pete-buttigieg-biden-covid-relief-spending-martha-maccallum.amp",
-      "publishedDateTime": "2021-03-01T14:27:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-laid-off-pipeline-worker-the-biden-administration-has-taken-my-livelihood-from-me.md",
-      "title": "Laid-off pipeline worker: The Biden administration ‘has taken my livelihood from me’",
-      "excerpt": "Jason Jernigan, a laid-off Keystone XL Pipeline worker, told \"America’s Newsroom\" on Monday that he doesn’t know how he is going to make a living now, saying, \"This is all I know how to do.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXpdatjt7Jw/laid-off-pipeline-worker-biden-administration-livelihood",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hXpdatjt7Jw/laid-off-pipeline-worker-biden-administration-livelihood",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 168,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/laid-off-pipeline-worker-biden-administration-livelihood.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/laid-off-pipeline-worker-biden-administration-livelihood.amp",
-      "publishedDateTime": "2021-03-01T13:04:08-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

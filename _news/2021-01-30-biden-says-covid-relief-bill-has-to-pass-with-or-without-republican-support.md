@@ -119,22 +119,6 @@ related:
         width: 580
         height: 326
         isCached: true
-  - title: "Biden wants to go big, fast and alone on COVID relief"
-    excerpt: "President Joe Biden has laid out his for moving fast and without Republicans, if necessary, to pass $1.9 trillion in coronavirus relief, armed with new signs of economic strain brought on by the conti"
-    publishedDateTime: 2021-02-05T17:36:00Z
-    webUrl: "https://www.washingtonpost.com/business/senate-approves-budget-bill-as-harris-casts-tie-breaker-vote/2021/02/05/c0c37a3a-67ae-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/senate-approves-budget-bill-as-harris-casts-tie-breaker-vote/2021/02/05/c0c37a3a-67ae-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/senate-approves-budget-bill-as-harris-casts-tie-breaker-vote/2021/02/05/c0c37a3a-67ae-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Watch live: Biden meets with governors to discuss COVID relief"
     excerpt: "President Biden and Vice President Harris on Friday morning are slated to meet with governors and mayors to discuss the America Rescue Plan and other COVID-19 relief.The meeting is scheduled to begin at 11:15 a."
     publishedDateTime: 2021-02-12T15:02:00Z
@@ -414,56 +398,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "U.S. Senate votes to begin debate on Biden COVID-19 relief bill"
-    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, setting up what is likely to be a contentious, days-long debate over the merits of the sweeping package."
-    publishedDateTime: 2021-03-04T12:35:00Z
-    webUrl: "https://www.businessinsider.com/us-senate-votes-to-begin-debate-on-biden-covid-19-relief-bill-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/us-senate-votes-to-begin-debate-on-biden-covid-19-relief-bill-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-senate-votes-to-begin-debate-on-biden-covid-19-relief-bill-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden seeking to boost COVID relief bill"
-    excerpt: "President Joe Biden convenes a White House round table, aiming to strike a \"conversation\" with people who would benefit from his $1.9 trillion COVID-19 relief package. \"People in the country are hurting right now,"
-    publishedDateTime: 2021-03-05T22:17:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/05/biden-seeking-boost-covid-relief-bill/4601482001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08f90f58-185b-4e02-ae08-a97d8115f362_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Biden on verge of signing COVID-19 relief package"
-    excerpt: "President Joe Biden could soon sign the $1.9 trillion COVID-19 economic relief package, which passed in the Senate over the weekend. Despite some GOP-approved amendments in the bill, no Republican senator voted for it."
-    publishedDateTime: 2021-03-09T11:21:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-on-verge-of-signing-covid19-relief-package/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/08/0160f15a-1f44-4c9f-9394-53e85bd74f27/thumbnail/1200x630/3f23001384023da87d3b85bcdf1a60bd/biden-replace-663317-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
-    excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."
-    publishedDateTime: 2021-03-06T16:27:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate/u-s-senate-passes-bidens-covid-19-relief-bill-sending-it-back-to-house-idUSL1N2L4083"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2L4083"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2L4083"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z

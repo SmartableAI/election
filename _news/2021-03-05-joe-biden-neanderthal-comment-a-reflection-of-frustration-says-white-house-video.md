@@ -29,129 +29,21 @@ images:
     isCached: true
 
 related:
-  - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
-    excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
-    publishedDateTime: 2021-03-04T12:33:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
+  - title: "Biden urged to back water justice bill to reverse decades of underinvestment"
+    excerpt: "Water Act proposes injection of federal dollars to overhaul ageing infrastructure, create jobs and address inequalities"
+    publishedDateTime: 2021-02-25T12:08:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 124
+    quality: 122
     images:
-      - url: "https://i.guim.co.uk/img/media/7871561baf29d41f794c57e18dbc46cc9e3cb8c9/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4fe8abbe3d64db734907fbdda6dc55a9"
+      - url: "https://i.guim.co.uk/img/media/58c77231dce552c519cfbadca53546bbbe4b92fa/0_218_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bc900b56a61f274f18064c23b1e15ed8"
         width: 600
         height: 360
-        isCached: true
-  - title: "Biden's $1.9 trillion COVID-19 package clears procedural vote in U.S. House"
-    excerpt: "The U.S. House of Representatives voted on Tuesday to advance President Joe Biden's $1.9 trillion COVID-19 relief bill, clearing the way for the measure to be considered on Wednesday, when it is expected to pass."
-    publishedDateTime: 2021-03-09T22:40:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idINKBN2B11PO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B11QB"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B11QB"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210309&t=2&i=1554270389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH280VT"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
-    excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
-    publishedDateTime: 2021-03-04T04:53:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV15L"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV15L"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553587655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH220LL"
-        width: 822
-        height: 545
-        isCached: true
-  - title: "Senate delays debate on Biden's $1.9 trillion COVID-19 bill while it is read aloud"
-    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill is read aloud."
-    publishedDateTime: 2021-03-04T21:00:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-6-senate-delays-debate-on-bidens-19-trillion-covid-19-bill-while-it-is-read-aloud-idUSL2N2L21QX"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Hours-long reading of legislation delays debate on Biden's $1.9 trillion COVID-19 bill"
-    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill was read aloud."
-    publishedDateTime: 2021-03-05T12:32:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AW18U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden administration and Texas governor battle over COVID testing and treatment of migrants at border"
-    excerpt: "The administration said it would reimburse local officials for COVID testing and shelter for asylum seekers. Governor Abbott said \"no.\""
-    publishedDateTime: 2021-03-05T22:24:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-migrants-testing-treatment-texas-biden-administration/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-migrants-testing-treatment-texas-biden-administration/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-migrants-testing-treatment-texas-biden-administration/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 110
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/05/d91c28fc-46de-4969-8666-b3dd9f6fd058/thumbnail/1200x630/0991716f0dd8f34963de0bff94bf3745/gettyimages-1231479467.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "'Neanderthal thinking' for states to lift mask mandate -Biden"
-    excerpt: "News Agency 'Neanderthal thinking' for states to lift mask mandate -Biden. Posted . U.S. President Joe Biden on Wednesday said decisions to end the required wearing of masks - suc"
-    publishedDateTime: 2021-03-04T10:05:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE2JAZFJ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210303&i=OVE2JAZFJ&r=OVE2JAZFJ&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "WH: Biden signature won't be on COVID relief check"
-    excerpt: "The White House announces the US is making an additional 900,000 doses of Pfizer and Moderna vaccines available this week. White House press secretary Jen Psaki also says that President Joe Biden's signature will not be on any relief checks,"
-    publishedDateTime: 2021-03-09T21:05:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/09/wh-biden-signature-wont-covid-relief-check/6927981002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a9951c60-0a2b-4258-8681-1301da9ed212_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "Ox31WhqW0LSvE899Tj4ugVd0HHcypGONnX6NwKgnJkiOBGziNZl7qeQ9jdcorXNjtLplld1ui1kd5yp9UYzD2wmGUv/dZCDeNwNM6lVeqnYgFtU2/UKooGR6obvMErJspvBCUgExpHFswia40YtZxZFOESuAtm6sgYc2XDcEejXjC2CIlfdV+LCpegsf7OTwsYEcPhzWyU5IMp+w9pvdztkHD6tVVbUsaW9f9K4S77311xZQZB9im13BV4Jll6fDHm0i5GHZAf+yhtgtja6ia3HTUHMHhGM0NSsLLwbxc0Kmh+MDDGNSDCHmLNVcRCn8wTLmat6fMSvJvcbp1xLrS4jZW+Lb6RvzjDKPRS/ACXY/JU9H8UQkvB93WZgURJVCW2mznnZh3iXyyObujM8bGhpypMsCXi2m+RRTrsV+q1B6NHI+S+3C1ceIYrXaE2AKlVgijn58FDLZrYR5tpV0775QwKsaV34/HLHvr6ui8wIVXDFdD/0utboLv9LIvEONgkvPd6etSLUwvw5D3IH1oA==;GjFdjaMA6JstUUpyPCS6ZQ=="

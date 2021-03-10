@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-02-anti-trump-conservatives-rally-to-back-vanita-gupta-bidens-pick-for-key-justice-dept-post.md",
+      "title": "Anti-Trump conservatives rally to back Vanita Gupta, Biden’s pick for key Justice Dept. post",
+      "excerpt": "The effort is aimed at countering attacks from hard-right conservatives who have portrayed the civil rights attorney as a radical progressive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WCRZFWTW4QI6XFJXJFQVRTC73E.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-01T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-katrina-pierson-trump-presidential-campaign-veteran-moves-toward-congressional-bid-in-texas.md",
       "title": "Katrina Pierson, Trump presidential campaign veteran, moves toward congressional bid in Texas",
       "excerpt": "The field of Republicans running to succeed the late Republican Rep. Ron Wright of Texas is growing. Katrina Pierson, who served as a top adviser on President Trump’s 2016 and 2020 campaigns, is gearing up to launch a campaign, two sources with knowledge of her planning confirmed to Fox News.",
@@ -1274,62 +1326,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/26/politics/biden-texas-visit/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/biden-texas-visit/index.html",
       "publishedDateTime": "2021-02-26T16:27:44-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-bidens-message-to-iran-with-missile-strikes-you-cant-act-with-impunity-be-careful.md",
-      "title": "Biden's message to Iran with missile strikes: 'You can't act with impunity, be careful'",
-      "excerpt": "President Joe Biden looked to send a simple message to Iran by authorizing air strikes in Syria on Thursday: \"You can't act with impunity, be careful.\"\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6qvcSH5ctHY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6qvcSH5ctHY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210226182332-03a-biden-houston-0226-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/26/politics/biden-syrian-missile-strikes-iran/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/26/politics/biden-syrian-missile-strikes-iran/index.html",
-      "publishedDateTime": "2021-02-26T15:35:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

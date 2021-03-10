@@ -47,6 +47,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "QAnon Already Turning Back on March 4 Theory as Day of Donald Trump Prophecy Arrives"
+    excerpt: "Supporters of the radical conspiracy theory appear hesitant for yet another humiliation when Trump fails to return as president."
+    publishedDateTime: 2021-03-04T09:58:00Z
+    webUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690"
+    ampWebUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1748238/qanon.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump"
     excerpt: "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,"
     publishedDateTime: 2021-03-04T21:28:00Z

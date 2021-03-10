@@ -63,6 +63,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Video Shows Alex Jones Saying He's 'Sick' of Donald Trump and Wishes He Never Met Him"
+    excerpt: "Infowars host Alex Jones can be heard saying that he is \"sick\" of former President Donald Trump in a newly unearthed video. Jones made the remarks while filming an interview for the documentary You Can't Watch This in January 2019."
+    publishedDateTime: 2021-03-02T23:16:00Z
+    webUrl: "https://www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310"
+    ampWebUrl: "https://www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1746760/alex-jones-donald-trump-leaked-video.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "NYC mayor accuses Cuomo of Trump-like tactics"
     excerpt: "The mayor of New York City said Wednesday that Andrew Cuomo was \"trying to distract attention from his own problems\" after the governor made negative comments about the city in a televised address. (M"
     publishedDateTime: 2021-03-04T18:24:00Z

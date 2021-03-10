@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "With Biden's backing, Dems revive bill to overhaul policing"
+    excerpt: "Cheered on by President Joe Biden, House Democrats are hustling to pass the most ambitious effort in decades to overhaul policing nationwide, confident they can avoid clashing with moderates in their own party who are wary of reigniting a debate they say hurt them during last fall's election."
+    publishedDateTime: 2021-03-04T01:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76237294"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76237294"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76237294"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_01bd8e23f94d41b0bc3d7b18e654b50a_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden seeks dismissal of 'sanctuary' funding dispute at Supreme Court"
     excerpt: "President Joe Biden's administration on Thursday asked the U.S. Supreme Court to dismiss three pending appeals on former President Donald Trump's effort to withhold millions of dollars in law enforcement funds from states and cities that refused to cooperate with"
     publishedDateTime: 2021-03-05T03:47:00Z
@@ -126,22 +142,6 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553795696&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH231L3"
         width: 817
         height: 545
-        isCached: true
-  - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
-    excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
-    publishedDateTime: 2021-03-02T20:13:00Z
-    webUrl: "https://www.cbsnews.com/news/stimulus-check-recurring-covid-19-senate-biden/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/stimulus-check-recurring-covid-19-senate-biden/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stimulus-check-recurring-covid-19-senate-biden/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 121
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/18/6137ee8a-ede1-4d3c-acc3-ab8f06fb7a23/thumbnail/1200x630/0b4ab92020d5cf2ba13edd554d5b0df1/ap-20231101371898.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Pence announces Biden as winner after Congress finishes electoral vote count"
     excerpt: "Vice President Mike Pence, in his capacity as the president of the Senate, announced President-elect Joe Biden as the winner of 2020 election after Congress finished counting the Electoral College votes."
@@ -199,17 +199,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Biden to meet with U.S. lawmakers on infrastructure push"
-    excerpt: "President Joe Biden will meet Thursday with a bipartisan group of lawmakers on the White House's planned push for a massive jump in spending on projects to restore crumbling infrastructure."
-    publishedDateTime: 2021-03-05T02:12:00Z
-    webUrl: "https://www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Biden nominates three to USPS board of governors as DeJoy testifies on mail crises"
     excerpt: "The White House moves to reassert control of the U.S. Postal Service as the postmaster general brushes off lawmakers’ calls to resign."
     publishedDateTime: 2021-02-24T23:26:00Z

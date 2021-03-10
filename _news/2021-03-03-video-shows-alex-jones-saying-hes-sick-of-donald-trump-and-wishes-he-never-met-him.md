@@ -31,133 +31,83 @@ images:
     isCached: true
 
 related:
-  - title: "Alex Jones seen on leaked video saying he's 'sick' of Donald Trump"
-    excerpt: "Prominent conspiracy theorist and far-right media personality Alex Jones is seen in a newly-revealed video complaining about former President Trump and exclaiming that he wished he had never met him."
-    publishedDateTime: 2021-03-02T20:04:00Z
-    webUrl: "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump"
-    ampWebUrl: "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/jones_alex_trump_donald030221.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump demands three Republican groups stop raising money off his name"
-    excerpt: "Former President Donald Trump has clashed again with his Republican Party, demanding that three Republican groups stop using his name and likeness for fundraising, a Trump adviser said on Saturday."
-    publishedDateTime: 2021-03-06T23:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-republicans/trump-demands-three-republican-groups-stop-raising-money-off-his-name-idUSKBN2AY0JK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AY0JK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AY0JK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553981904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FV"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Claimed value of sleepy New York estate could come to haunt Donald Trump"
-    excerpt: "A century-old estate that Trump owns in suburban New York is subdued by the former president's standards, but it could end up being one of his bigger legal nightmares."
-    publishedDateTime: 2021-03-08T06:56:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6845f39/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2F32%2F450a5624ce3fce6f990f9b8cd698%2F0aa1a54903774f3383ed5e3ceaeaccce"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "U.S. Capitol calm amid high security; Trump supporters hold faith he will return"
-    excerpt: "A smattering of followers of the QAnon conspiracy theory gathered near the U.S. Capitol on Thursday, the day the movement had predicted former President Donald Trump's return to office, but they were far outnumbered by security forces deployed to deter any possible attack."
-    publishedDateTime: 2021-03-05T01:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-capitol-security-idUSKBN2AW19M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW19M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW19M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553733527&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NY"
-        width: 802
-        height: 545
-        isCached: true
-  - title: "QAnon Already Turning Back on March 4 Theory as Day of Donald Trump Prophecy Arrives"
-    excerpt: "Supporters of the radical conspiracy theory appear hesitant for yet another humiliation when Trump fails to return as president."
-    publishedDateTime: 2021-03-04T09:58:00Z
-    webUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690"
-    ampWebUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
-    images:
-      - url: "https://d.newsweek.com/en/full/1748238/qanon.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "FBI focuses on video of Capitol Police officer being sprayed with chemicals before he died in pro-Trump riot"
-    excerpt: "The video could offer investigators a path to holding someone accountable in connection with Officer Brian Sicknick’s death."
-    publishedDateTime: 2021-02-27T00:47:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
+  - title: "White House fires Trump EEOC official after she refuses to step down"
+    excerpt: "The move is part of a push to oust controversial Trump appointees who were seen by some Democrats as hostile to the mission of the agencies they served."
+    publishedDateTime: 2021-03-06T15:31:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 106
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5JFKUDGJEI6XOVYOB7YO2OXQU.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UB5BBTT574I6XDC6GLSHWQVVDM.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump at CPAC called out his GOP critics and again claimed he won the 2020 election, showing he's still determined to undermine US democracy"
-    excerpt: "Former President Donald Trump's false claim that the 2020 election was stolen from him was at the heart of his Sunday-night speech at CPAC."
-    publishedDateTime: 2021-03-02T14:36:00Z
-    webUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3?amp"
+  - title: "RNC says it has the right to use Trump's name and likeness for fundraising"
+    excerpt: "Trump's lawyers sent a cease-and-desist letter to the RNC demanding that it not use him in their fundraising pitches."
+    publishedDateTime: 2021-03-09T02:27:00Z
+    webUrl: "https://www.cbsnews.com/news/rnc-trump-cease-desist-letter/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/rnc-trump-cease-desist-letter/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rnc-trump-cease-desist-letter/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/01/efa4137b-1acd-4605-9066-b73af69ae90a/thumbnail/1200x630g2/fadf0b4268b8347dc2c9bdd4f651150f/gettyimages-1231447828.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Twitter sues Texas Attorney General, accusing him of retaliating after it banned Trump"
+    excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, accusing him of targeting the social media firm in retaliation for its suspension of Trump's account."
+    publishedDateTime: 2021-03-09T19:08:00Z
+    webUrl: "https://abcnews.go.com/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/twitter-phone-gty-rc-210111_1613057909611_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "NYC mayor accuses Cuomo of Trump-like tactics"
+    excerpt: "The mayor of New York City said Wednesday that Andrew Cuomo was \"trying to distract attention from his own problems\" after the governor made negative comments about the city in a televised address. (M"
+    publishedDateTime: 2021-03-04T18:24:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/04/nyc-mayor-accuses-cuomo-trump-like-tactics/4578580001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
     quality: 105
     images:
-      - url: "https://i.insider.com/603cc94387d37600190d0564?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/cbd54c1b-e085-4f82-b284-8eb00dc4f800_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Republicans condemned Trump after the Capitol attack. Now they are opening the door to him as the future of the party."
-    excerpt: "Less than an hour after voting to acquit former president Donald Trump for his role in the Jan. 6 storming of the U.S. Capitol, the Senate minority leader condemned Trump for the role that he played in the attack."
-    publishedDateTime: 2021-03-03T15:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/?outputType=amp"
+  - title: "Watchdog asked Trump DOJ to criminally investigate Elaine Chao for misuse of office as transportation secretary but was rebuffed"
+    excerpt: "The inspector general found that Chao inappropriately used her staff and office for personal tasks and to promote a shipping business owned by Chao’s father and sisters."
+    publishedDateTime: 2021-03-04T02:12:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 96
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_1a30ea49bd984a17a8d8973b6d658c51_name_20210301_GOP_TRUMP_V3.png&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://www.chicagotribune.com/resizer/RdT_akvV2w0WrLwyYv4kInG3D0k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BKO37XXJSYJYQQVJQKSAEDBFXA.aspx"
+        width: 1200
+        height: 800
         isCached: true
 
 secured: "3xLjM+oeNbNn9Ktw/bmE4ii1gzCDijGQyVaJi21lhcleGrIW96hcBYd+4Zriba4SUGG95rzeoLKfh7BuzRc2Va7fK5OQUP2zgBxDP3EZoDZZQh1qRIsAFnQp30lXahQ/G/wV9+r7aikx3OsKRFbFXgpQR3kPl0F/mRYhcBRobPH3lRMxzNsLrjpZDTdnf/mYqK0X6Y3HnrN2cejDHO5CkJD0CQPtmzqqHLvqk14o2kPR/eNTgROmXOMDBrV9CbPdVmO6gjTSuSvlO2XgeviiSMY+bRNtW0pVIqGszst1lnagh0NB4Pg0Pjsg+38+/Bi7BnGscUkkE2bGds+t9DhuqGenWGWV0X/Vgln3+o//UZdmZaD9ZNj2dVNH6MU2c5ge+fSsPLnGFkrJgWi5coBIGMA0gTmMeqeclW071PQg8kgR++lOsESsijoQC7Uw0++xNOyRfgZp2zs7rg9K2UiFvUc+xwvUXw+GVM02VAJsnvCGRnyp37mf+f/+DuhEF6vqVoBQNqBojl5qUFJCvncWvw==;Us5+4P6lI3c8i5EDAX5AZg=="

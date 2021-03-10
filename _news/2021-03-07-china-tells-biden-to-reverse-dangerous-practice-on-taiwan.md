@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/world/asia_pacific/china-tells-biden-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/asia_pacific/china-tells-biden-to-reverse-dangerous-practice-on-taiwan/2021/03/07/32e9ba2a-7f2e-11eb-be22-32d331d87530_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "House set to take up $1.9 trillion stimulus, putting Biden on track to sign this week"
-    excerpt: "House lawmakers are set to vote as soon as Tuesday on a roughly $1.9 trillion coronavirus relief package, putting President Biden on track to sign his first major legislative accomplishment into law by the end of the week."
-    publishedDateTime: 2021-03-08T20:11:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/08/stimulus-house-biden-coronavirus/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/08/stimulus-house-biden-coronavirus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/08/stimulus-house-biden-coronavirus/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 118
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-06-2021/t_6f8cdac6dd4d456987d734f07168f677_name_20210306_stimulussenatevote.jpg&w=1440"
-        width: 1440
-        height: 810
         isCached: true
 
 secured: "iuyZ5BhgPUA4SlK2R1wuPq6cx9w2xVj1FKBfnBnzEr6s542Zxad3sdOGbZ/8eMzhia/+nU7R0KryMyaNXzwSaHnD/s+RG1zWxiUnqVjGOX7+vJ2Y3hZnoum2FG1cmZDeUmdSSH/+e3KNq5u9Wze5xIS2b4gmDL5QH1VU5oQAIIS9/o8HNCdoRGUyDpjSJMAenszVN8XRW9UYLE+FKh3Uq3AU08RL5boR1locFGe6VuUQzBaZX38/ATTvV0VFZ4fm6066Ep2No0QKK+L1jnGvqN+ZyDPyyidKSOih6A/Tkqkp3dr7ObN6xE8q6NCd3K2Uv7vMuFyH71aLRMT7EekeIdn8XOYOC+aSAvFfgPtoqu8=;sVSuo2YuASJJm5wOXM2+iw=="

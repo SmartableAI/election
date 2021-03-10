@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and his Covid-relief bill prove popular in new poll  "
+    excerpt: "The economic relief bill moving rapidly through Congress is broadly popular, according to a new CNN Poll conducted by SSRS.\n    \n"
+    publishedDateTime: 2021-03-10T11:28:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pvrxpdVZafY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/cnn-poll-biden-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/cnn-poll-biden-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306205527-01-joe-biden-0305-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration grants humanitarian protections to Venezuelans in the US"
     excerpt: "The Biden administration on Monday granted humanitarian protection for Venezuelans, allowing an estimated 300,000 people to apply and remain lawfully in the United States, according to senior administration officials.\n    \n"
     publishedDateTime: 2021-03-08T22:42:32Z

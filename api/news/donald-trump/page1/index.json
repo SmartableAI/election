@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-10-biden-wont-be-putting-his-signature-on-covid-19-relief-checks-unlike-trump.md",
+      "title": "Biden won’t be putting his signature on COVID-19 relief checks, unlike Trump",
+      "excerpt": "President Biden will not be attaching his signature to the $1,400 relief checks that are expected to be mailed soon — a break with his predecessor, who last year had “President Donald J. Trump” printed on the economic impact payments approved by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 937,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/27e2771/2147483647/strip/true/crop/3618x2363+281+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F1e%2F6f3fd75dd8cf337e371f4b0065a0%2Fac3f35f2c1554c75ac18550bee411639",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true",
+      "publishedDateTime": "2021-03-09T17:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-trumps-twitter-ban-saga-continues-the-social-platform-sues-texas-ag-claiming-retaliation-for-trump-ban.md",
       "title": "Trump's Twitter ban saga continues: The social platform sues Texas AG, claiming retaliation for Trump ban",
       "excerpt": "Twitter filed a lawsuit against Texas AG Ken Paxton, claiming he used his office to retaliate against it for banning former President Trump.",
@@ -438,58 +490,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-08-cuomo-chastised-states-trump-for-obscuring-covid-information-now-hes-accused-of-the-same.md",
-      "title": "Cuomo chastised states, Trump for obscuring COVID information. Now he's accused of the same",
-      "excerpt": "Before Cuomo and aides were accused of downplaying nursing home deaths for political gain, he warned others about the risk of 'politics of denial'",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/coronavirus/2021/03/08/andrew-cuomo-complained-trump-states-politicized-covid-now-hes-accused/4599917001/",
-      "originalUrl": "https://www.usatoday.com/story/news/coronavirus/2021/03/08/andrew-cuomo-complained-trump-states-politicized-covid-now-hes-accused/4599917001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/11/PWES/c0bf7753-5950-49af-9862-248995c26ed7-AP21011645140435.jpg?auto=webp&crop=5498,3093,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4599917001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4599917001",
-      "publishedDateTime": "2021-03-08T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-08-making-the-most-of-135b-laufs-pro-trump-hire-for-il-16-still-no-fans-for-baseball.md",
       "title": "MAKING THE MOST OF $13.5B — LAUF's PRO-TRUMP HIRE FOR IL-16 — STILL NO FANS FOR BASEBALL",
       "excerpt": "The state Senate is returning to Springfield for session on Tuesday. — Biden rides a ‘Keep It Simple, Stupid’ strategy to early success: “Biden kept Democrats from splintering and barreled ahead without Republican support.",
@@ -659,7 +659,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -996,7 +996,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 465,
       "tags": null,
       "images": [
         {
@@ -1157,7 +1157,7 @@
       "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 223,
+      "heat": 243,
       "tags": null,
       "images": [
         {

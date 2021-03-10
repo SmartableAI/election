@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-10-trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image.md",
+      "title": "Trump supports 'important GOP Committees' but still demands 'RINOs and fools' not fundraise with his image",
+      "excerpt": "Former President Donald Trump said Tuesday that he supports the Republican Party and its major fundraising organizations but still doubled down on his demand that \"RINOs and fools\" not use his name or likeness to raise campaign cash. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8KgLM4lDlqE/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8KgLM4lDlqE/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image.amp",
+      "publishedDateTime": "2021-03-10T04:47:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-biden-order-on-gender-identity-harms-women-and-girls-warns-womens-rights-group.md",
       "title": "Biden order on gender identity harms women and girls, warns women's rights group",
       "excerpt": "Women's Human Rights Campaign member and outspoken feminist Kara Dansky ramped up warnings against President Biden's gender identity initiative on Tuesday, telling \"Tucker Carlson Tonight\" that America is heading for a \"complete obliteration of biological sex\".",
@@ -111,63 +167,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-vp-kamala-harris-takes-another-solo-call-with-a-world-leader.md",
-      "title": "VP Kamala Harris takes another solo call with a world leader",
-      "excerpt": "Vice President Kamala Harris had another call with a foreign leader Tuesday, independent of President Biden.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BCmGJoJuEZQ/harris-call-norway-prime-minister",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BCmGJoJuEZQ/harris-call-norway-prime-minister",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 365,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21036028847140.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/harris-call-norway-prime-minister.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-call-norway-prime-minister.amp",
-      "publishedDateTime": "2021-03-09T17:35:59-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Kamala Harris"
       ]
     },
     {
@@ -1466,6 +1465,63 @@
       ]
     },
     {
+      "path": "_news/2021-03-06-kamala-harris-speaks-with-netanyahu-in-latest-talk-with-a-major-world-leader.md",
+      "title": "Kamala Harris speaks with Netanyahu in latest talk with a major world leader",
+      "excerpt": "Vice President Kamala Harris and Israeli Prime Minister Benjamin Netanyahu had a call Thursday amid the Middle Eastern ally's growing tension with Iran.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7750b86-b666-441d-ad85-e004befe43e3/3f70789c-8232-4f13-a178-f669a03f6443/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-netanyahu-call.amp",
+      "publishedDateTime": "2021-03-05T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.md",
       "title": "DeSantis, Pence top 2024 Republican primary surveys – if Trump doesn’t run",
       "excerpt": "DeSantis, Pence top 2024 Republican primary surveys – if Trump doesn’t run",
@@ -1609,62 +1665,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-coronavirus-bill-bloated-wasted-opportunity-capito.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-bill-bloated-wasted-opportunity-capito.amp",
       "publishedDateTime": "2021-03-05T08:31:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.md",
-      "title": "Supreme Court drops 'sanctuary city' cases following Biden DOJ request",
-      "excerpt": "The Supreme Court on Thursday dismissed a number of cases testing the Trump administration’s plan to withhold law-enforcement grants from cities that refused to cooperate with Department of Homeland Security efforts to deport noncitizens arrested by local police.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bt_Pwo4TdGQ/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Bt_Pwo4TdGQ/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73a31f1b-5496-4fac-92aa-f14680e8400e/00b723da-5a8b-4620-9849-ab36e52a42dd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.amp",
-      "publishedDateTime": "2021-03-05T04:05:55-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

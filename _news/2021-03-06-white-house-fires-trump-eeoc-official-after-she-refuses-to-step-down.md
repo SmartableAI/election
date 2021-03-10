@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-genera
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/01/efa4137b-1acd-4605-9066-b73af69ae90a/thumbnail/1200x630g2/fadf0b4268b8347dc2c9bdd4f651150f/gettyimages-1231447828.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Video Shows Alex Jones Saying He's 'Sick' of Donald Trump and Wishes He Never Met Him"
+    excerpt: "Infowars host Alex Jones can be heard saying that he is \"sick\" of former President Donald Trump in a newly unearthed video. Jones made the remarks while filming an interview for the documentary You Can't Watch This in January 2019."
+    publishedDateTime: 2021-03-02T23:16:00Z
+    webUrl: "https://www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310"
+    ampWebUrl: "https://www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1746760/alex-jones-donald-trump-leaked-video.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Twitter sues Texas Attorney General, accusing him of retaliating after it banned Trump"
     excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, accusing him of targeting the social media firm in retaliation for its suspension of Trump's account."

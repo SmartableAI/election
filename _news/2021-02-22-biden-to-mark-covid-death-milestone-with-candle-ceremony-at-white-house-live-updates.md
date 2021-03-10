@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coron
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates"
 type: article
 quality: 127
-heat: 1727
+heat: 1687
 published: true
 
 provider:
@@ -415,22 +415,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/05/NAAS/e032a8c3-5730-444c-93b7-0106d65be189-Brooks_column_2-8.jpg?auto=webp&crop=4513,2539,x0,y229&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Senate committee vote on Biden budget pick Tanden postponed"
-    excerpt: "A Senate committee postponed the Wednesday hearing for President Joe Biden’s pick to lead the Office of Management and Budget, suggesting further challenges for Neera Tanden."
-    publishedDateTime: 2021-02-24T13:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/senate-committee-vote-on-biden-budget-pick-tanden-postponed-idUSKBN2AO1S4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552752404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
-        width: 817
-        height: 545
         isCached: true
   - title: "Biden's picks face peril in 50-50 Senate"
     excerpt: "Two of President Biden’s Cabinet nominees are slamming into confirmation hurdles on Capitol Hill, testing the White House’s ability to navigate a tenuous Senate majority amid deep partisan divisions in Washington."
@@ -991,22 +975,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/397e9c81d30a0858d4af27de891e6279de7dadc8/0_0_6720_4032/master/6720.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4a0ac585526f1b234ccafd9a8a69d93b"
         width: 600
         height: 360
-        isCached: true
-  - title: "Biden's 1st 100 days live updates: Biden to make final push for COVID relief as Senate debates bill"
-    excerpt: "The Senate is getting closer to a vote on the $1.9 trillion measure. ABC News Live Update: US Capitol on high alert for possible threat Today is Day 45 of the administration of President Joe Biden and Vice President Kamala Harris."
-    publishedDateTime: 2021-03-05T21:58:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/?id=76168913"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=76168913"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=76168913"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 111
-    images:
-      - url: "https://s.abcnews.com/images/Politics/joe-biden-covid-19-relief-round-table-03-ap-jc-210305_1614984145603_hpMain_16x9_1600.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Biden's 1st 100 days live updates: Biden using 1st trip as president to make case for COVID relief plan"
     excerpt: "Biden is visiting Wisconsin on Tuesday and Michigan on Thursday. Coronavirus and the economy This is Day 28 of the administration of President Joe Biden and Vice President Kamala Harris. Biden traveled to Milwaukee Tuesday evening and is participating in a televised CNN town hall where he's answering questions from Americans."

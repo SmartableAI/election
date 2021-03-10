@@ -175,6 +175,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Border squeeze tempers Biden victory lap: The Note"
+    excerpt: "Increase of unaccompanied migrant children at the border The TAKE with Rick Klein President Joe Biden is about to have something very big to sell, with the House on track to pass his $1.9 trillion ..."
+    publishedDateTime: 2021-03-10T11:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-hardware-store-gty-jc-210309_1615335195697_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "A viral misfire: A White House video feed ended but Biden took questions"
     excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
     publishedDateTime: 2021-03-05T00:00:00Z
@@ -206,38 +222,6 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241F1"
         width: 735
         height: 545
-        isCached: true
-  - title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
-    excerpt: "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,"
-    publishedDateTime: 2021-03-03T08:23:00Z
-    webUrl: "https://www.bbc.com/news/world-us-canada-56262687"
-    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56262687"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56262687"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 118
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15DCA/production/_117364598_mediaitem117364597.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "On war powers, Biden has pushed for both more congressional oversight and broad presidential authority"
-    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
-    publishedDateTime: 2021-03-09T22:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1440"
-        width: 1440
-        height: 810
         isCached: true
   - title: "President Joe Biden to make first prime-time address to nation Thursday"
     excerpt: "The president will look forward, highlighting the role that Americans will play in beating the virus,' the White House said."

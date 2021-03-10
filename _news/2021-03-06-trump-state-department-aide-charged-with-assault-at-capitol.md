@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-depar
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 385
+heat: 465
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump demands three Republican groups stop raising money off his name"
+    excerpt: "Former President Donald Trump has clashed again with his Republican Party, demanding that three Republican groups stop using his name and likeness for fundraising, a Trump adviser said on Saturday."
+    publishedDateTime: 2021-03-06T23:54:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-republicans/trump-demands-three-republican-groups-stop-raising-money-off-his-name-idUSKBN2AY0JK"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AY0JK"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AY0JK"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553981904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FV"
+        width: 819
+        height: 545
+        isCached: true
   - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
     publishedDateTime: 2021-03-05T18:29:00Z
@@ -46,6 +62,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
         width: 947
         height: 545
+        isCached: true
+  - title: "Claimed value of sleepy New York estate could come to haunt Donald Trump"
+    excerpt: "A century-old estate that Trump owns in suburban New York is subdued by the former president's standards, but it could end up being one of his bigger legal nightmares."
+    publishedDateTime: 2021-03-08T06:56:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 124
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/6845f39/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2F32%2F450a5624ce3fce6f990f9b8cd698%2F0aa1a54903774f3383ed5e3ceaeaccce"
+        width: 320
+        height: 209
         isCached: true
   - title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
     excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
@@ -79,21 +111,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden administration stops enforcing Trump-era \"public charge\" green card restrictions following court order"
-    excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
-    publishedDateTime: 2021-03-10T05:43:00Z
-    webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+  - title: "U.S. Capitol calm amid high security; Trump supporters hold faith he will return"
+    excerpt: "A smattering of followers of the QAnon conspiracy theory gathered near the U.S. Capitol on Thursday, the day the movement had predicted former President Donald Trump's return to office, but they were far outnumbered by security forces deployed to deter any possible attack."
+    publishedDateTime: 2021-03-05T01:15:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-capitol-security-idUSKBN2AW19M"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW19M"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW19M"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 121
+      name: Reuters
+      domain: reuters.com
+    quality: 120
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553733527&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NY"
+        width: 802
+        height: 545
         isCached: true
   - title: "Congressman sues Trump over deadly Capitol siege, charges civil rights violation"
     excerpt: "A Democratic congressman has sued Donald Trump, his lawyer Rudy Giuliani and other allies of the former president over the deadly attack on the U.S. Capitol when violent Trump supporters tried to stop the certification of Trump's election defeat."
@@ -175,6 +207,22 @@ related:
         width: 380
         height: 254
         isCached: true
+  - title: "FBI focuses on video of Capitol Police officer being sprayed with chemicals before he died in pro-Trump riot"
+    excerpt: "The video could offer investigators a path to holding someone accountable in connection with Officer Brian Sicknick’s death."
+    publishedDateTime: 2021-02-27T00:47:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5JFKUDGJEI6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump appointee to State Dept. Federico Klein arrested in Capitol attack; stunned mom says he was 'Boy Scout type'"
     excerpt: "Federico Klein was seen on camera violently shoving a riot shield into an officer during the Jan. 6 Capitol siege, according to court documents."
     publishedDateTime: 2021-03-07T05:00:00Z
@@ -190,6 +238,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/a2dac800-51ec-458f-9e34-02191eb985bd-Capitol_Police.jpg?auto=webp&crop=4999,2812,x1,y753&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Republicans condemned Trump after the Capitol attack. Now they are opening the door to him as the future of the party."
+    excerpt: "Less than an hour after voting to acquit former president Donald Trump for his role in the Jan. 6 storming of the U.S. Capitol, the Senate minority leader condemned Trump for the role that he played in the attack."
+    publishedDateTime: 2021-03-03T15:37:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 101
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_1a30ea49bd984a17a8d8973b6d658c51_name_20210301_GOP_TRUMP_V3.png&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
     excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."

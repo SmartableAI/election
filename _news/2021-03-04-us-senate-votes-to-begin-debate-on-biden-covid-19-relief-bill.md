@@ -25,101 +25,85 @@ topics:
   - Joe Biden
 
 related:
-  - title: "Watch Live: Biden to deliver remarks on COVID-19 response"
-    excerpt: "Biden promised it will be \"this spring\" when any American who wants a COVID-19 vaccine will be able to get one."
-    publishedDateTime: 2021-01-26T14:45:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
+  - title: "Biden won’t be putting his signature on COVID-19 relief checks, unlike Trump"
+    excerpt: "President Biden will not be attaching his signature to the $1,400 relief checks that are expected to be mailed soon — a break with his predecessor, who last year had “President Donald J. Trump” printed on the economic impact payments approved by ..."
+    publishedDateTime: 2021-03-10T01:36:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 137
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/1c2d5e28-4740-448d-98b5-ac9222a755e8/thumbnail/1200x630/0b71298d7ef9696bca4127d1ca2abe07/gettyimages-1230789317.jpg"
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/27e2771/2147483647/strip/true/crop/3618x2363+281+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F1e%2F6f3fd75dd8cf337e371f4b0065a0%2Fac3f35f2c1554c75ac18550bee411639"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Joe Biden Visa Decision on Donald Trump's 'Muslim Ban' Infuriates Progressives"
+    excerpt: "The American Civil Liberties Union (ACLU) said that a large number of Africans would be affected and that Biden \"has failed to help so many of those harmed\" by the Trump administration's immigration restrictions. \"Instead of restoring this opportunity ..."
+    publishedDateTime: 2021-03-10T10:19:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-donald-trump-immigration-muslim-ban-aclu-1575009"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-donald-trump-immigration-muslim-ban-aclu-1575009?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-donald-trump-immigration-muslim-ban-aclu-1575009?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
+    images:
+      - url: "https://d.newsweek.com/en/full/1752341/president-joe-biden.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "Kayleigh McEnany Compares Biden Appearances to Donald Trump, Barack Obama: 'Where's Joe?'"
+    excerpt: "The former White House press secretary has questioned President Joe Biden not yet holding a solo press conference, pointing to his two predecessors having done so by this point in their tenures."
+    publishedDateTime: 2021-03-03T12:41:00Z
+    webUrl: "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400"
+    ampWebUrl: "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
+    images:
+      - url: "https://d.newsweek.com/en/full/1747043/kayleigh-mcenany-press-briefing.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden’s Justice Dept. already has split from Trump. Merrick Garland will go even further."
+    excerpt: "Now, with federal appeals court judge Merrick Garland set to take over as attorney general, the thornier work begins. Garland, who is expected to be confirmed by the Senate on Wednesday, will inherit a Justice Department damaged by President Donald Trump’s efforts to use its power to benefit his friends and hurt his enemies."
+    publishedDateTime: 2021-03-09T20:54:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2RBG37UANEI6XAO3WAXQHGHUTI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "'Not about him': Biden's name won't appear on stimulus checks in shift from Donald Trump"
+    excerpt: "President Joe Biden's signature won't appear on $1,400 stimulus checks to avoid delays in distributing the money, the White House says."
+    publishedDateTime: 2021-03-09T20:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/09/covid-relief-bidens-signature-wont-appear-stimulus-checks/6926056002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6926056002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6926056002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/96a9f4df6933a6e0c2158220d49f939822c30a25/c=0-69-2189-1300/local/-/media/2021/03/06/USATODAY/usatsports/pile-of-100-dollar-bills_gettyimages-452970107.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden to reopen 'Obamacare' markets for COVID-19 relief"
-    excerpt: "Fulfilling a campaign promise, President Joe Biden plans to reopen the HealthCare.gov insurance markets for a special sign-up opportunity geared to people needing coverage in the coronavirus pandemic."
-    publishedDateTime: 2021-01-27T04:25:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-reopen-obamacare-markets-covid-19-relief-75506946"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_4ce7a743968f4008a13d04865fd4058c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "GOP senators balk at $1.9 trillion price tag for Biden's COVID-19 bill"
-    excerpt: "Some Republican senators have raised concerns about passing another relief bill so soon after passing $1 trillion legislation."
-    publishedDateTime: 2021-01-27T11:52:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-cost-republican-senators/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-cost-republican-senators/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-cost-republican-senators/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/26/68dab874-c21b-4556-90b1-af7217166798/thumbnail/1200x630/993b8c863211e6b4f1e875eb8a050a63/gettyimages-1230802973.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden could change course in high court health care case"
-    excerpt: "The pending Supreme Court case on the fate of the Affordable Care Act could give the Biden administration its first opportunity to chart a new course in front of the justices"
-    publishedDateTime: 2021-01-31T12:47:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/biden-change-high-court-health-care-case-75594477"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/biden-change-high-court-health-care-case-75594477"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/biden-change-high-court-health-care-case-75594477"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_501cf3f97da64e10973b11ac01e16c94_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden faces 'unity' test in meeting with GOP senators on COVID relief"
-    excerpt: "With a group of 10 Republican senators officially offering a counterproposal to President Joe Biden's COVID-19 relief bill, the president on Monday was set to face a real test of his campaign promise to work across the aisle and bring unity back to a politically fractured Washington."
-    publishedDateTime: 2021-02-02T01:30:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-faces-unity-test-meeting-republican-senators-covid/story?id=75611029"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-faces-unity-test-meeting-republican-senators-covid/story?id=75611029"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-faces-unity-test-meeting-republican-senators-covid/story?id=75611029"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/biden-gop-covid-negotiations-oval-office-reut_hpMain_20210201-180830_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Watch live: Biden delivers remarks from State Department"
-    excerpt: "President Joe Biden will deliver a public address on Thursday afternoon. The remarks will come after the president and Vice President Harris visit with the Secretary of State and State Department officials."
-    publishedDateTime: 2021-02-04T16:35:00Z
-    webUrl: "https://thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks"
-    ampWebUrl: "https://thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/1230bidenlede02022021.jpg"
-        width: 580
-        height: 326
+        height: 675
         isCached: true
   - title: "Biden wants to go big, fast and alone on COVID relief"
     excerpt: "President Joe Biden has laid out his for moving fast and without Republicans, if necessary, to pass $1.9 trillion in coronavirus relief, armed with new signs of economic strain brought on by the conti"
@@ -137,285 +121,399 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Watch live: Biden meets with governors to discuss COVID relief"
-    excerpt: "President Biden and Vice President Harris on Friday morning are slated to meet with governors and mayors to discuss the America Rescue Plan and other COVID-19 relief.The meeting is scheduled to begin at 11:15 a."
-    publishedDateTime: 2021-02-12T15:02:00Z
-    webUrl: "https://thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief"
-    ampWebUrl: "https://thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief?amp"
+  - title: "Alex Jones seen on leaked video saying he's 'sick' of Donald Trump"
+    excerpt: "Prominent conspiracy theorist and far-right media personality Alex Jones is seen in a newly-revealed video complaining about former President Trump and exclaiming that he wished he had never met him."
+    publishedDateTime: 2021-03-02T20:04:00Z
+    webUrl: "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump"
+    ampWebUrl: "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/harriskamala_bidenjoe_02112021getty.jpg"
+      - url: "https://thehill.com/sites/default/files/jones_alex_trump_donald030221.jpg"
         width: 980
         height: 551
         isCached: true
-  - title: "Biden seeks to speed delivery of coronavirus stimulus checks and food aid"
-    excerpt: "U.S. President Joe Biden on Friday will sign orders to speed the issuance of pandemic stimulus checks to needy families and increase food aid for children who normally rely on school meals for nutrition."
-    publishedDateTime: 2021-01-23T00:12:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN29R122"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R122"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R122"
+  - title: "Biden withdraws Tanden's nomination to be White House budget chief"
+    excerpt: "President Joe Biden on Tuesday withdrew the nomination of Neera Tanden to be his budget director after she ran into stiff opposition over tweets that upset lawmakers, in the first Capitol Hill rebuff of one of his nominees."
+    publishedDateTime: 2021-03-03T05:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKCN2AU2TL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AU2TL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AU2TL"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 124
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548763539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HM"
-        width: 812
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553524481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH211LT"
+        width: 817
         height: 545
         isCached: true
-  - title: "Biden signs order to reopen Obamacare markets for special Covid-19 coverage"
-    excerpt: "President expected to sign executive order for special sign-up opportunity amid the coronavirus pandemic"
-    publishedDateTime: 2021-01-28T20:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/28/obamacare-aca-markets-reopening-biden-coverage"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/28/obamacare-aca-markets-reopening-biden-coverage"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/28/obamacare-aca-markets-reopening-biden-coverage"
+  - title: "Senate grinds toward passage of $1.9 trillion Biden relief plan"
+    excerpt: "In early morning hours, the Senate on Saturday inched toward approving President Biden’s $1.9 trillion stimulus plan, as Democrats pressed forward with their major economic and public health relief package."
+    publishedDateTime: 2021-03-05T22:09:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOYMSCS4ZII6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 930
+        isCached: true
+  - title: "Biden meets with U.S. lawmakers on infrastructure push"
+    excerpt: "President Joe Biden met on Thursday for more than an hour with a bipartisan group of lawmakers on the White House's planned pursuit of a massive jump in spending on projects to restore crumbling U.S."
+    publishedDateTime: 2021-03-07T01:59:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-infrastructure-lawmakers-idUSKBN2AW29R"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW29R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW29R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553791070&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2319D"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Biden order could change how colleges handle sex misconduct"
+    excerpt: "Administration officials say President Joe Biden is rethinking Trump administration policies that weakened how colleges and universities that get federal dollars handle sexual assault accusations on c"
+    publishedDateTime: 2021-03-08T14:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden order could change how colleges handle sex misconduct"
+    excerpt: "President Joe Biden has ordered his administration to review federal rules guiding colleges in their handling of campus sexual assaults"
+    publishedDateTime: 2021-03-09T00:48:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/2606f568-8071-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
+    excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
+    publishedDateTime: 2021-03-04T12:33:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 123
+    quality: 124
     images:
-      - url: "https://i.guim.co.uk/img/media/dd67192ff03e8ee7c6fc34da56a1b170c430542e/0_0_5935_3561/master/5935.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=487c409494275235af63302ef2d4e8cb"
+      - url: "https://i.guim.co.uk/img/media/7871561baf29d41f794c57e18dbc46cc9e3cb8c9/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4fe8abbe3d64db734907fbdda6dc55a9"
         width: 600
         height: 360
         isCached: true
-  - title: "Biden tells Democrats he would consider limits on who gets COVID-19 checks"
-    excerpt: "President Joe Biden told congressional Democrats on Wednesday he would not back down on including $1,400 checks for struggling Americans in his COVID-19 relief plan but would consider tighter limits on who gets them,"
-    publishedDateTime: 2021-02-04T00:48:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A322X"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A322X"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A322X"
+  - title: "Senate rejects minimum wage hike in Biden's $1.9 trillion COVID-19 aid bill"
+    excerpt: "The U.S. Senate on Friday rejected an amendment to more than double the federal minimum wage over five years, as it launched what is expected to be a long debate over President Joe Biden's $1.9 trillion COVID-19 relief bill."
+    publishedDateTime: 2021-03-05T22:28:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idINKBN2AX147"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AX147"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AX147"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 123
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550246455&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1222D"
-        width: 809
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241FA"
+        width: 777
         height: 545
         isCached: true
-  - title: "Watch live: Biden nominee for DHS Director testifies at confirmation hearing"
-    excerpt: "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a."
-    publishedDateTime: 2021-01-19T14:23:00Z
-    webUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing"
-    ampWebUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/mayorkasalejandro_11242020getty.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden to reopen healthcare.gov as people lose coverage amid COVID-19: report"
-    excerpt: "U.S. President Joe Biden plans to order the nation's online insurance marketplace, healthcare.gov, to reopen for at least a few months to offer Americans a way to buy health insurance amid the COVID-19 pandemic,"
-    publishedDateTime: 2021-01-26T14:07:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-insurance-idUSKBN29V1KO"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29V1KO"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29V1KO"
+  - title: "Biden's $1.9 trillion COVID-19 package clears procedural vote in U.S. House"
+    excerpt: "The U.S. House of Representatives voted on Tuesday to advance President Joe Biden's $1.9 trillion COVID-19 relief bill, clearing the way for the measure to be considered on Wednesday, when it is expected to pass."
+    publishedDateTime: 2021-03-09T22:40:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idINKBN2B11PO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B11QB"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B11QB"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 122
+    quality: 123
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549108836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P0XP"
-        width: 856
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210309&t=2&i=1554270389&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH280VT"
+        width: 817
         height: 545
         isCached: true
-  - title: "Watch Live: Biden visits Pentagon for first time as president and makes remarks"
-    excerpt: "White House press secretary Jen Psaki said his visit comes with \"special resonance\" since he will be visiting during Black History Month."
-    publishedDateTime: 2021-02-10T16:56:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-pentagon-visit-watch-live-stream-today-2021-02-10/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pentagon-visit-watch-live-stream-today-2021-02-10/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pentagon-visit-watch-live-stream-today-2021-02-10/"
+  - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
+    excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
+    publishedDateTime: 2021-03-02T20:13:00Z
+    webUrl: "https://www.cbsnews.com/news/stimulus-check-recurring-covid-19-senate-biden/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/stimulus-check-recurring-covid-19-senate-biden/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/stimulus-check-recurring-covid-19-senate-biden/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
     quality: 121
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/04/7a0338a8-4130-4b1b-98a3-203f5e1d89cc/thumbnail/1200x630g3/79801f17b01d170e41956d948e8a5a20/gettyimages-1230951207.jpg"
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/08/18/6137ee8a-ede1-4d3c-acc3-ab8f06fb7a23/thumbnail/1200x630/0b4ab92020d5cf2ba13edd554d5b0df1/ap-20231101371898.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Watch Live: Biden signs executive actions on abortion policy, health care access"
-    excerpt: "Mr. Biden has vowed to protect and expand the Affordable Care Act, which was enacted while he was vice president."
-    publishedDateTime: 2021-01-28T14:17:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
+  - title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
+    excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
+    publishedDateTime: 2021-03-04T04:53:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV15L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV15L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553587655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH220LL"
+        width: 822
+        height: 545
+        isCached: true
+  - title: "Biden administration stops enforcing Trump-era \"public charge\" green card restrictions following court order"
+    excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
+    publishedDateTime: 2021-03-10T05:43:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 120
+    quality: 121
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/28/c6da5626-65f4-4274-ad76-480ed47da6ab/thumbnail/1200x630/5a5d95df2539d794cb0850404e613ac3/gettyimages-1230821605.jpg"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
         width: 1200
         height: 630
         isCached: true
-  - title: "Joe Biden tells Republican senators to aim for larger Covid relief package – live"
-    excerpt: "Trump legal team files 14-page brief defending his conduct on day of Capitol riot – follow all the latest politics news"
-    publishedDateTime: 2021-02-02T18:53:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates?page=with:block-6019ac418f08c315844c8751"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/02/donald-trump-impeachment-joe-biden-immigration-covid-coronavirus-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 120
-    images:
-      - url: "https://i.guim.co.uk/img/media/e7c0619c6c69b3ddbc15b400a961eca59b7539be/0_223_6000_3600/master/6000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=542364ac3636fd158f491fcb1213233f"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "UPDATE 1-Moderate U.S. Republican senators urge Biden to compromise on COVID-19 plan"
-    excerpt: "A group of 10 moderate Republican U.S. senators urged Democratic President Joe Biden on Sunday to reconsider his $1.9 trillion COVID-19 relief package, saying they wanted a meeting to discuss a compromise that they said could win swift bipartisan support."
-    publishedDateTime: 2021-01-31T16:30:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idUKL1N2K609H"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKL1N2K609H"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKL1N2K609H"
+  - title: "Senate delays debate on Biden's $1.9 trillion COVID-19 bill while it is read aloud"
+    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill is read aloud."
+    publishedDateTime: 2021-03-04T21:00:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-6-senate-delays-debate-on-bidens-19-trillion-covid-19-bill-while-it-is-read-aloud-idUSL2N2L21QX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
+    excerpt: "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,"
+    publishedDateTime: 2021-03-03T08:23:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56262687"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56262687"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56262687"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
     quality: 118
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210131&t=2&i=1549731076&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0U0C7"
-        width: 817
-        height: 545
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15DCA/production/_117364598_mediaitem117364597.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Biden said Republican proposal for $600 billion in COVID-19 aid 'way too small': Schumer"
-    excerpt: "U.S. Senate Democratic Leader Chuck Schumer said President Joe Biden told Democrats the proposal ten Senate Republicans have made for $600 billion in COVID-19 relief is \"way too small.\""
-    publishedDateTime: 2021-02-03T02:43:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-democrats-idUKKBN2A22ND"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2A22ND"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2A22ND"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 116
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550044488&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH111HA"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Ten Senate Republicans propose compromise covid relief package, posing challenge for Biden"
-    excerpt: "The GOP proposal would significantly narrow eligibility for a new round of $1,400 stimulus checks Biden wants to send to individual Americans."
-    publishedDateTime: 2021-01-31T19:22:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
+  - title: "House set to take up $1.9 trillion stimulus, putting Biden on track to sign this week"
+    excerpt: "House lawmakers are set to vote as soon as Tuesday on a roughly $1.9 trillion coronavirus relief package, putting President Biden on track to sign his first major legislative accomplishment into law by the end of the week."
+    publishedDateTime: 2021-03-08T20:11:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/08/stimulus-house-biden-coronavirus/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/08/stimulus-house-biden-coronavirus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/08/stimulus-house-biden-coronavirus/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 115
+    quality: 118
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QSCURTBVAI6XILXO5S7FGUVEQ.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-06-2021/t_6f8cdac6dd4d456987d734f07168f677_name_20210306_stimulussenatevote.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 810
         isCached: true
-  - title: "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts"
-    excerpt: "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said."
-    publishedDateTime: 2021-01-23T18:57:00Z
-    webUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912"
-    ampWebUrl: "https://www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fauci-says-bidens-strikingly-different-tone-covid-crisis-will-rev-vaccination-efforts-1563912?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 113
-    images:
-      - url: "https://d.newsweek.com/en/full/1714793/anthony-fauci.jpg"
-        width: 2500
-        height: 1668
-        isCached: true
-  - title: "Biden says he won't settle for COVID-19 aid package that 'fails to meet the moment': White House"
-    excerpt: "U.S. President Joe Biden told a group of Republican senators on Monday he hoped his proposed $1.9 trillion COVID-19 relief package could pass with bipartisan support in the U.S. Congress, but he \"will not settle for a package that fails to meet the moment,"
-    publishedDateTime: 2021-02-02T01:53:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-biden-idUSKBN2A204D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A204D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A204D"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 112
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549921674&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1101W"
-        width: 824
-        height: 545
-        isCached: true
-  - title: "Despite 'productive' Republican meeting, Biden will not accept a scaled-down COVID-19 bill -White House"
-    excerpt: "After meeting with Republican senators at the White House on Monday, President Joe Biden appeared poised to push forward with his $1.9 trillion COVID-19 relief plan even if it fails to draw Republican support."
-    publishedDateTime: 2021-02-02T17:03:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A12TV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A12TV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A12TV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 109
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1550004131&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1112L"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden hopes U.S. reaches 1.5 million COVID-19 vaccinations a day"
-    excerpt: "President Joe Biden has set a goal that the U.S. will eventually roll out 1.5 million COVID-19 vaccines a day, rather than 1 million a day, as previously suggested. Ed O'Keefe reports"
-    publishedDateTime: 2021-01-28T01:33:00Z
-    webUrl: "https://www.cbsnews.com/video/biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/c5c40351-05c9-455e-b250-2a454d9b4c96/thumbnail/1200x630/de26ce642b0eba79813d73b9a9b6928f/cbsn-fusion-president-biden-hopes-us-reaches-15-million-covid-19-vaccinations-a-day-thumbnail-633320-640x360.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden could change course in high court health care case"
-    excerpt: "The on the fate of the could give the Biden administration its first opportunity to chart a new course in front of the justices."
-    publishedDateTime: 2021-02-01T05:01:00Z
-    webUrl: "https://www.businessinsider.com/biden-could-change-course-in-high-court-health-care-case-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/biden-could-change-course-in-high-court-health-care-case-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-could-change-course-in-high-court-health-care-case-2021-1?amp"
+  - title: "Critics blast Biden administration for denying entry to thousands of people still affected by Trump's 'Muslim ban'"
+    excerpt: "to encourage migration from underrepresented people — only to have them taken away by an executive order by Donald Trump, who then tried to eliminate the diversity program altogether. People like Anwar al Saeedi, a Yemeni man who in 2017 expected to be ..."
+    publishedDateTime: 2021-03-10T00:19:00Z
+    webUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 105
-  - title: "Biden meets with Democrats in Oval on COVID relief"
-    excerpt: "Speaking during a meeting with Democratic Senators, President Joe Biden predicted his COVID relief package \"will have Republican support,\" despite huge gaps between the two parties' proposals and Democratic plans to approve the bill regardless."
-    publishedDateTime: 2021-02-03T18:04:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/03/biden-meets-democrats-oval-covid-relief/4374077001/"
+    quality: 118
+    images:
+      - url: "https://i.insider.com/6047fc099942cf001865d731?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Hours-long reading of legislation delays debate on Biden's $1.9 trillion COVID-19 bill"
+    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill was read aloud."
+    publishedDateTime: 2021-03-05T12:32:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN2AW18U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 117
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Live stimulus bill updates: House to vote on Biden's $1.9 trillion COVID bill Wednesday"
+    excerpt: "The Democratic-controlled House passed a key procedural measure Tuesday evening setting the stage for the chamber to pass the bill Wednesday morning. Under the “rule” passed by the House on a 219-210, mostly party-line vote, the House will debate for ..."
+    publishedDateTime: 2021-03-09T23:02:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/09/house-begin-final-debates-over-joe-bidens-covid-19-stimulus-bill/4637246001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4637246001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4637246001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/08/USAT/4b7a44ba-635c-4ab2-b443-43faca214a71-AP21065688372420.jpg?auto=webp&crop=4748,2671,x0,y285&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Polarized Nation Picks Barack Obama and Donald Trump as Favorite Presidents of All Time"
+    excerpt: "Americans named Barack Obama their favorite U.S. president of all time followed by Donald Trump while, among Democrats, Joe Biden is already as popular as Bill Clinton, according to a new scientific poll, the results of which were shared exclusively with ..."
+    publishedDateTime: 2021-03-10T02:00:00Z
+    webUrl: "https://www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957"
+    ampWebUrl: "https://www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
+    images:
+      - url: "https://d.newsweek.com/en/full/1565383/fe-presidential-names-01.jpg"
+        width: 2000
+        height: 1303
+        isCached: true
+  - title: "Cuomo chastised states, Trump for obscuring COVID information. Now he's accused of the same"
+    excerpt: "Before Cuomo and aides were accused of downplaying nursing home deaths for political gain, he warned others about the risk of 'politics of denial'"
+    publishedDateTime: 2021-03-08T14:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/coronavirus/2021/03/08/andrew-cuomo-complained-trump-states-politicized-covid-now-hes-accused/4599917001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4599917001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4599917001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/11/PWES/c0bf7753-5950-49af-9862-248995c26ed7-AP21011645140435.jpg?auto=webp&crop=5498,3093,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden's 1st 100 days live updates: Biden to make final push for COVID relief as Senate debates bill"
+    excerpt: "The Senate is getting closer to a vote on the $1.9 trillion measure. ABC News Live Update: US Capitol on high alert for possible threat Today is Day 45 of the administration of President Joe Biden and Vice President Kamala Harris."
+    publishedDateTime: 2021-03-05T21:58:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/?id=76168913"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/?id=76168913"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/?id=76168913"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 111
+    images:
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-covid-19-relief-round-table-03-ap-jc-210305_1614984145603_hpMain_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Biden administration and Texas governor battle over COVID testing and treatment of migrants at border"
+    excerpt: "The administration said it would reimburse local officials for COVID testing and shelter for asylum seekers. Governor Abbott said \"no.\""
+    publishedDateTime: 2021-03-05T22:24:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-migrants-testing-treatment-texas-biden-administration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-migrants-testing-treatment-texas-biden-administration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-migrants-testing-treatment-texas-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 110
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/05/d91c28fc-46de-4969-8666-b3dd9f6fd058/thumbnail/1200x630/0991716f0dd8f34963de0bff94bf3745/gettyimages-1231479467.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "On war powers, Biden has pushed for both more congressional oversight and broad presidential authority"
+    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
+    publishedDateTime: 2021-03-09T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Biden to prioritize vaccinating school teachers"
+    excerpt: "President Joe Biden is directing states to prioritize vaccinating all teachers during the month of March, and announced that the federal government will help in the effort through its partnership with retail pharmacies."
+    publishedDateTime: 2021-03-02T22:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/02/biden-prioritize-vaccinating-school-teachers/6894083002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a8d5d9b1-353b-4dd8-aa98-9c716ea7f333_poster.jpg?quality=10"
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a6ec64de-b482-4104-be67-ba4a79699a9d_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden to meet with U.S. lawmakers on infrastructure push"
+    excerpt: "President Joe Biden will meet Thursday with a bipartisan group of lawmakers on the White House's planned push for a massive jump in spending on projects to restore crumbling infrastructure."
+    publishedDateTime: 2021-03-05T02:12:00Z
+    webUrl: "https://www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-to-meet-with-us-lawmakers-on-infrastructure-push-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Biden seeking to boost COVID relief bill"
     excerpt: "President Joe Biden convenes a White House round table, aiming to strike a \"conversation\" with people who would benefit from his $1.9 trillion COVID-19 relief package. \"People in the country are hurting right now,"
     publishedDateTime: 2021-03-05T22:17:00Z
@@ -427,6 +525,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08f90f58-185b-4e02-ae08-a97d8115f362_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden hails Senate passage of virus aid bill"
+    excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
+    publishedDateTime: 2021-03-06T20:13:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d63f00a-78e5-4d4d-ba91-c6e5c3186299_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
@@ -444,6 +556,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "WH: Biden signature won't be on COVID relief check"
+    excerpt: "The White House announces the US is making an additional 900,000 doses of Pfizer and Moderna vaccines available this week. White House press secretary Jen Psaki also says that President Joe Biden's signature will not be on any relief checks,"
+    publishedDateTime: 2021-03-09T21:05:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/09/wh-biden-signature-wont-covid-relief-check/6927981002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a9951c60-0a2b-4258-8681-1301da9ed212_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "What Joe Biden has said about war powers"
+    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
+    publishedDateTime: 2021-03-09T21:01:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/what-joe-biden-has-said-about-war-powers/2021/03/09/0b60fb9b-349a-41e7-a097-26e30c7b0677_video.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1080"
+        width: 1080
+        height: 608
+        isCached: true
   - title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
     excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."
     publishedDateTime: 2021-03-06T16:27:00Z
@@ -455,41 +595,53 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
-  - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
-    excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
-    publishedDateTime: 2021-01-26T14:17:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-insurance-idUSL1N2K11AJ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K11AJ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K11AJ"
+  - title: "Biden's relief bill isn't getting bipartisan support like previous stimulus bills. What do Republicans dislike so much?"
+    excerpt: "Republican Senators have described President Joe Biden's COVID-19 stimulus plan as a \"clunker,\" \"bad politics\" and “wildly expensive.\" The legislation, dubbedthe"
+    publishedDateTime: 2021-03-05T10:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/05/biden-covid-stimulus-bill-why-relief-legislation-so-partisan/6889189002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6889189002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6889189002"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 99
-  - title: "Biden says covid relief bill 'has to pass' with or without Republican support"
-    excerpt: "President Joe Biden on Jan. 29 said the covid relief bill “has to pass” but did not say whether he is for budget reconciliation."
-    publishedDateTime: 2021-01-29T19:53:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/biden-says-covid-relief-bill-has-to-pass-with-or-without-republican-support/2021/01/29/a5a02c08-f2b9-47ad-9f8f-d4dbf038adf7_video.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 82
-  - title: "President Joe Biden, Democrats hit gas on push for $15 minimum wage"
-    excerpt: "President Joe Biden called for a $15 hourly minimum wage during his campaign and has followed through by hitching it to a measure that, among other things, calls for $1,400 stimulus checks and $130 billion to help schools reopen."
-    publishedDateTime: 2021-01-30T18:07:00Z
-    webUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html"
-    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 75
+      name: USA Today
+      domain: usatoday.com
+    quality: 101
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DCYM7LIUA5EM3N44LCYC3SJYVI.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.gannett-cdn.com/presto/2021/03/04/USAT/05978c65-180a-48f4-b571-fa12d578336e-GTY_1231477838.jpg?auto=webp&crop=4499,2531,x0,y229&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Live stimulus updates: Kamala Harris breaks Senate tie to begin debate on Joe Biden's COVID stimulus bill"
+    excerpt: "It’s time to move forward with this legislation which will be one of the largest antipoverty bills in recent history,” Sen. Chuck Schumer said."
+    publishedDateTime: 2021-03-05T15:44:00Z
+    webUrl: "https://www.azcentral.com/story/news/politics/2021/03/04/covid-stimulus-senate-awaits-debate-joe-bidens-1-9-trillion-plan/6902419002/"
+    ampWebUrl: "https://amp.azcentral.com/amp/6902419002"
+    cdnAmpWebUrl: "https://amp-azcentral-com.cdn.ampproject.org/c/s/amp.azcentral.com/amp/6902419002"
+    type: article
+    provider:
+      name: The Arizona Republic
+      domain: azcentral.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/04/USAT/b19c4416-5a9e-40a3-8a4e-6b6645c4b9ec-AP_Biden_Congress_Urgency.jpg?auto=webp&crop=1023,576,x0,y52&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "'Dinner table' politics: Why Joe Biden ditched bipartisan dealmaking to pass his COVID-19 relief bill"
+    excerpt: "President Biden's decision to go it alone on his COVID-19 relief plan could sink any promise of bipartisanship for his next big-ticket proposals."
+    publishedDateTime: 2021-03-07T17:15:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/03/07/covid-19-bill-biden-chooses-dinner-table-politics-over-bipartisanship/6892438002/"
+    ampWebUrl: "https://amp.indystar.com/amp/6892438002"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/6892438002"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 60
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/04/USAT/f34c2dbd-39ad-4e86-a788-3f01e5c248f6-GTY_1231494873.jpg?auto=webp&crop=4499,2531,x0,y229&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "QrbGda3ku99g943wGt6vwMq62RSIchueRJ3+sed/bizB3+3ignMwizp0PYMpH7I4G9X6WEpA4cjRBIj7oryfPKSTsnpgsqC8DdXI3aIb/+2Ys0NwUjcA/VzQkpKSNOT4ywRPg+z1/M+hx6LAvw8YwiivzewCE7oZSUYcbeWJ0V3cp1rF0u3ZGInrLJDUJz+/rDpzVk4/z6qhv7gO8/X7Cyxc7r83sb/5uRwzTfNOExIGlYGrYSObeS3TYrNex6VmlGuZUDpWT2q49uAQiZKlFklQEOaUui4hHI8fMgsK8BiP6E1cEriF92KuWdRq9Ya0Xg7es4+CsdV6t3SXDZ6YpYuAM2k7n7yaqaoCxnvPumo=;9JBjbSEBy49mnj1aIM4j9w=="

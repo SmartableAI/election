@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden and his Covid-relief bill prove popular in new poll  "
+    excerpt: "The economic relief bill moving rapidly through Congress is broadly popular, according to a new CNN Poll conducted by SSRS.\n    \n"
+    publishedDateTime: 2021-03-10T11:28:11Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pvrxpdVZafY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/cnn-poll-biden-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/cnn-poll-biden-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306205527-01-joe-biden-0305-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden plans media and travel blitz to sell relief plan -- and make the benefits permanent"
     excerpt: "After signing a massive but temporary expansion of the social safety net into law this week, President Joe Biden will set about convincing Americans that its benefits -- which amount to a dramatic reshaping of the country's economy -- must be made permanent.\n    \n"
     publishedDateTime: 2021-03-09T21:15:38Z

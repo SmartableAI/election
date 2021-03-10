@@ -114,7 +114,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/asia_pacific/china-tells-biden-to-reverse-dangerous-practice-on-taiwan/2021/03/07/32e9ba2a-7f2e-11eb-be22-32d331d87530_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -218,7 +218,7 @@
       "originalUrl": "https://www.reuters.com/article/usa-nord-stream-2-cruz-idINKBN2AY0FI",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -270,7 +270,7 @@
       "originalUrl": "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -294,58 +294,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-bidens-relief-bill-isnt-getting-bipartisan-support-like-previous-stimulus-bills-what-do-republicans-dislike-so-much.md",
-      "title": "Biden's relief bill isn't getting bipartisan support like previous stimulus bills. What do Republicans dislike so much?",
-      "excerpt": "Republican Senators have described President Joe Biden's COVID-19 stimulus plan as a \"clunker,\" \"bad politics\" and “wildly expensive.\" The legislation, dubbedthe",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/05/biden-covid-stimulus-bill-why-relief-legislation-so-partisan/6889189002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/05/biden-covid-stimulus-bill-why-relief-legislation-so-partisan/6889189002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/04/USAT/05978c65-180a-48f4-b571-fa12d578336e-GTY_1231477838.jpg?auto=webp&crop=4499,2531,x0,y229&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6889189002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6889189002",
-      "publishedDateTime": "2021-03-05T02:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -418,21 +366,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-04-first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions.md",
-      "title": "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions",
-      "excerpt": "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans",
+      "path": "_news/2021-03-04-neanderthal-thinking-for-states-to-lift-mask-mandate-biden.md",
+      "title": "'Neanderthal thinking' for states to lift mask mandate -Biden",
+      "excerpt": "News Agency 'Neanderthal thinking' for states to lift mask mandate -Biden. Posted . U.S. President Joe Biden on Wednesday said decisions to end the required wearing of masks - suc",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions",
+      "webUrl": "https://www.reuters.com/video/watch/idOVE2JAZFJ",
+      "originalUrl": "https://www.reuters.com/video/watch/idOVE2JAZFJ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 105,
       "tags": null,
       "images": [
         {
-          "url": "https://i.guim.co.uk/img/media/7871561baf29d41f794c57e18dbc46cc9e3cb8c9/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4fe8abbe3d64db734907fbdda6dc55a9",
-          "width": 600,
-          "height": 360,
+          "url": "https://static.reuters.com/resources/r/?d=20210303&i=OVE2JAZFJ&r=OVE2JAZFJ&t=2",
+          "width": 960,
+          "height": 540,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -440,16 +388,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/04/first-thing-biden-slams-neanderthal-easing-of-state-covid-restrictions",
-      "publishedDateTime": "2021-03-04T04:33:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T02:05:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -634,7 +582,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates?page=with:block-603f372d8f08be9d080d97cd",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1156,7 +1104,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-gop-governors/2021/02/24/93c57e76-76b7-11eb-948d-19472e683521_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 405,
       "tags": null,
       "images": [
         {
@@ -1208,7 +1156,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1421,7 +1369,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 665,
+      "heat": 625,
       "tags": null,
       "images": [
         {
@@ -1525,7 +1473,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1727,
+      "heat": 1687,
       "tags": null,
       "images": [
         {
@@ -1567,6 +1515,63 @@
         "Election",
         "Joe Biden",
         "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-22-biden-tells-town-hall-not-all-minorities-know-how-to-get-online.md",
+      "title": "Biden tells town hall not all minorities 'know how to get online'",
+      "excerpt": "But the arrival of the Chinese virus followed by the idiotic lockdown policies of Blue State Governors and then, of course, the defeats of Donald Trump led to a less free, less prosperous, less optimistic America and listening to Joe Biden speaking today in Michigan you couldn't help but think that Biden and Fauci are going to keep us under their thumbs for as long as possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online",
+      "originalUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a17db8b-72da-45f1-ac74-3f11135bb3b6/600bca1e-bafc-4923-ac66-753f6027ed5a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/biden-tells-town-hall-not-all-minorities-know-how-to-get-online.amp",
+      "publishedDateTime": "2021-02-21T11:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Republican Voice"
       ]
     }
   ],

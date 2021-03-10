@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Alex Jones seen on leaked video saying he's 'sick' of Donald Trump"
-    excerpt: "Prominent conspiracy theorist and far-right media personality Alex Jones is seen in a newly-revealed video complaining about former President Trump and exclaiming that he wished he had never met him."
-    publishedDateTime: 2021-03-02T20:04:00Z
-    webUrl: "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump"
-    ampWebUrl: "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp"
+  - title: "Trump State Department aide charged with assault at Capitol"
+    excerpt: "A former State Department aide in President Donald Trump’s administration has been charged with participating in the deadly Capitol siege and assaulting officers"
+    publishedDateTime: 2021-03-05T20:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/jones_alex_trump_donald030221.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump demands three Republican groups stop raising money off his name"
     excerpt: "Former President Donald Trump has clashed again with his Republican Party, demanding that three Republican groups stop using his name and likeness for fundraising, a Trump adviser said on Saturday."
@@ -61,6 +61,22 @@ related:
     images:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553981904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FV"
         width: 819
+        height: 545
+        isCached: true
+  - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
+    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
+    publishedDateTime: 2021-03-05T18:29:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-swalwell-idUSL2N2L314I"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
+        width: 947
         height: 545
         isCached: true
   - title: "Claimed value of sleepy New York estate could come to haunt Donald Trump"
@@ -79,6 +95,38 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
+    excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-03-05T15:04:00Z
+    webUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    ampWebUrl: "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
+    excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
+    publishedDateTime: 2021-03-05T02:45:00Z
+    webUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/"
+    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 121
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "U.S. Capitol calm amid high security; Trump supporters hold faith he will return"
     excerpt: "A smattering of followers of the QAnon conspiracy theory gathered near the U.S. Capitol on Thursday, the day the movement had predicted former President Donald Trump's return to office, but they were far outnumbered by security forces deployed to deter any possible attack."
     publishedDateTime: 2021-03-05T01:15:00Z
@@ -95,37 +143,85 @@ related:
         width: 802
         height: 545
         isCached: true
-  - title: "Video Shows Alex Jones Saying He's 'Sick' of Donald Trump and Wishes He Never Met Him"
-    excerpt: "Infowars host Alex Jones can be heard saying that he is \"sick\" of former President Donald Trump in a newly unearthed video. Jones made the remarks while filming an interview for the documentary You Can't Watch This in January 2019."
-    publishedDateTime: 2021-03-02T23:16:00Z
-    webUrl: "https://www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310"
-    ampWebUrl: "https://www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310?amp=1"
+  - title: "Congressman sues Trump over deadly Capitol siege, charges civil rights violation"
+    excerpt: "A Democratic congressman has sued Donald Trump, his lawyer Rudy Giuliani and other allies of the former president over the deadly attack on the U.S. Capitol when violent Trump supporters tried to stop the certification of Trump's election defeat."
+    publishedDateTime: 2021-03-05T23:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-swalwell-idUSKBN2AX1JP"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
+        width: 947
+        height: 545
+        isCached: true
+  - title: "Trump aide who stormed the Capitol broke an 'oath to protect America,' judge says"
+    excerpt: "A man appointed to the U.S. State Department during the Trump administration will remain in jail while he awaits trial on charges that he took part in the deadly storming of the U.S. Capitol and assaulted police officers,"
+    publishedDateTime: 2021-03-10T02:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-klein-idUSKBN2B12P4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B12P4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B12P4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210309&t=2&i=1554318031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH281FK"
+        width: 787
+        height: 545
+        isCached: true
+  - title: "Ex-Trump appointee arrested in Capitol riot complains he won't be able to sleep in jail"
+    excerpt: "Federico Guillermo Klein, a former State Department staff assistant who was arrested Thursday for his role in the Jan. 6 Capitol insurrection, has reportedly complained that he won't be able to sleep in prison."
+    publishedDateTime: 2021-03-06T02:45:00Z
+    webUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep"
+    ampWebUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 117
+    images:
+      - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
+        width: 979
+        height: 551
+        isCached: true
+  - title: "Trump Appointee Who Took Part in Capitol Riot Swore an Oath Then 'Switched Sides,' Judge Says"
+    excerpt: "Federico Klein, an ex-official in the administration of former President Donald Trump, will remain in jail after a judge said he \"switched sides\" by allegedly participating in the deadly breach of the U.S. Capitol on January 6. U.S. Magistrate Zia Faruqui ..."
+    publishedDateTime: 2021-03-10T05:45:00Z
+    webUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976"
+    ampWebUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 118
+    quality: 114
     images:
-      - url: "https://d.newsweek.com/en/full/1746760/alex-jones-donald-trump-leaked-video.jpg"
+      - url: "https://d.newsweek.com/en/full/1752326/federico-klein-capitol-riots-donald-trump.jpg"
         width: 2500
         height: 1667
         isCached: true
-  - title: "QAnon Already Turning Back on March 4 Theory as Day of Donald Trump Prophecy Arrives"
-    excerpt: "Supporters of the radical conspiracy theory appear hesitant for yet another humiliation when Trump fails to return as president."
-    publishedDateTime: 2021-03-04T09:58:00Z
-    webUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690"
-    ampWebUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
+  - title: "Ex-State Department employee appointed by Trump ‘switched sides’ in joining Capitol mob, judge says"
+    excerpt: "A former State Department staffer with a top-secret security clearance betrayed his oath of office when he joined the Capitol mob that attempted to subvert the electoral process on Jan. 6, a federal magistrate judge said Tuesday."
+    publishedDateTime: 2021-03-09T22:12:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/federico-klein-detained-captiol-riot/2021/03/09/c5a76188-8117-11eb-ac37-4383f7709abe_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/federico-klein-detained-captiol-riot/2021/03/09/c5a76188-8117-11eb-ac37-4383f7709abe_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/federico-klein-detained-captiol-riot/2021/03/09/c5a76188-8117-11eb-ac37-4383f7709abe_story.html?outputType=amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 111
     images:
-      - url: "https://d.newsweek.com/en/full/1748238/qanon.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KMXGWTUBD4I6XPRCGLJTDWDVGA.jpg&w=1440"
+        width: 380
+        height: 254
         isCached: true
   - title: "FBI focuses on video of Capitol Police officer being sprayed with chemicals before he died in pro-Trump riot"
     excerpt: "The video could offer investigators a path to holding someone accountable in connection with Officer Brian Sicknick’s death."
@@ -143,22 +239,63 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump at CPAC called out his GOP critics and again claimed he won the 2020 election, showing he's still determined to undermine US democracy"
-    excerpt: "Former President Donald Trump's false claim that the 2020 election was stolen from him was at the heart of his Sunday-night speech at CPAC."
-    publishedDateTime: 2021-03-02T14:36:00Z
-    webUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-cpac-speech-shows-still-determined-subvert-us-democracy-2021-3?amp"
+  - title: "Trump appointee to State Dept. Federico Klein arrested in Capitol attack; stunned mom says he was 'Boy Scout type'"
+    excerpt: "Federico Klein was seen on camera violently shoving a riot shield into an officer during the Jan. 6 Capitol siege, according to court documents."
+    publishedDateTime: 2021-03-07T05:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/05/trump-appointee-state-dept-federico-klein-charged-capitol-riots/4593783001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4593783001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4593783001"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
     images:
-      - url: "https://i.insider.com/603cc94387d37600190d0564?width=1200&format=jpeg"
+      - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/a2dac800-51ec-458f-9e34-02191eb985bd-Capitol_Police.jpg?auto=webp&crop=4999,2812,x1,y753&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
         isCached: true
+  - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
+    excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
+    publishedDateTime: 2021-03-05T18:14:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 73
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5831614965407/2021/1/c5fd2e5c49d18744c2e0217abed09170/v1.5/Rep-Eric-Swalwell-sues-Donald-Trump-3-others-for-inciting-Capitol-attack.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
+    excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
+    publishedDateTime: 2021-03-03T14:55:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 65
+    images:
+      - url: "https://www.nydailynews.com/resizer/yuTJIk6BTNwaF9BNID10TYhi_7M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BLICB6OH4VGBVNGAJUGRJLOXSU.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "U.S. Representative Swalwell Sues Trump Over Jan. 6 Insurrection"
+    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
+    publishedDateTime: 2021-03-05T14:00:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-05/us-representative-swalwell-sues-trump-over-jan-6-insurrection"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "vEVwubVwwPHS20QqjIEh01rSp1LH5QprUByoSROf7vRAZCJhohTB3RGd7gVon1UImXpHHohy7LKyhc7cdhy0bcuNJhskijxky/gJjz273tGILBQYuq/XyZui4Jl0EjB51FqAHfstqPCisKZVT/BxIsFYcBBjWh8b+8PahNOAsYlUsCUg/7iHBqL3brzmlbrqivGrDoKCPjS+0LaHikV3E8dJZNLvYd4WXypvmYUFfR7j8CtRQAPZ95+L4qlU4ITiAC1mVBOtpeIulwYKp6TQrMbbisUvZLQ/fKBqW9m52I4t+FOnjpQak/pl5yiRMN8LKW9PS4EUBDlbKDeZ3+GJ2OZNU21z1Y4zHbgihaOh1fTBqFmi40M59I8H5R/Sb5d4W4GfOzAWPFqq/eLJnxRRnzMxOoTGN2y3a0wK83lUet3GIpt8MaWgSqvcTgIlJeLnlfnRdAYmyV+p8JKUFkVBmgFJNKGGhDwMRPG8b+1HS49rCZFeYzxRabsYYMOuOF0vDSG+p7KJ+KNwC6vtKZQO0g==;ccZDgJra5952EQjT9TarHg=="
 ---

@@ -334,58 +334,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-03-kayleigh-mcenany-compares-biden-appearances-to-donald-trump-barack-obama-wheres-joe.md",
-      "title": "Kayleigh McEnany Compares Biden Appearances to Donald Trump, Barack Obama: 'Where's Joe?'",
-      "excerpt": "The former White House press secretary has questioned President Joe Biden not yet holding a solo press conference, pointing to his two predecessors having done so by this point in their tenures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400",
-      "originalUrl": "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 311,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1747043/kayleigh-mcenany-press-briefing.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1",
-      "publishedDateTime": "2021-03-03T04:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-03-trump-endorses-scs-tim-scott-in-2022-senate-reelection-bid.md",
       "title": "Trump endorses SC’s Tim Scott in 2022 Senate reelection bid",
       "excerpt": "Former President Donald Trump endorsed U.S. Sen. Tim Scott’s 2022 reelection bid Tuesday, continuing to make clear his intent to remain a dominant force in Republican Party politics. Trump issued a statement through his Save America PAC,",
@@ -463,58 +411,6 @@
       "ampWebUrl": "https://thehill.com/homenews/media/541263-boehner-book-jacket-teases-slams-against-cruz-trump?amp",
       "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/541263-boehner-book-jacket-teases-slams-against-cruz-trump?amp",
       "publishedDateTime": "2021-03-02T12:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump.md",
-      "title": "Alex Jones seen on leaked video saying he's 'sick' of Donald Trump",
-      "excerpt": "Prominent conspiracy theorist and far-right media personality Alex Jones is seen in a newly-revealed video complaining about former President Trump and exclaiming that he wished he had never met him.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump",
-      "originalUrl": "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 285,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/jones_alex_trump_donald030221.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/541247-alex-jones-seen-on-leaked-video-saying-hes-sick-of-donald-trump?amp",
-      "publishedDateTime": "2021-03-02T12:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",
@@ -626,6 +522,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-02-anti-trump-conservatives-rally-to-back-vanita-gupta-bidens-pick-for-key-justice-dept-post.md",
+      "title": "Anti-Trump conservatives rally to back Vanita Gupta, Biden’s pick for key Justice Dept. post",
+      "excerpt": "The effort is aimed at countering attacks from hard-right conservatives who have portrayed the civil rights attorney as a radical progressive.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WCRZFWTW4QI6XFJXJFQVRTC73E.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-01T09:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1341,7 +1289,7 @@
       "originalUrl": "https://www.cbsnews.com/news/mcconnell-support-trump-2024-republican-nominee/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -1586,6 +1534,58 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-manhattan-district-attorney-obtains-trumps-long-sought-tax-records.md",
+      "title": "Manhattan district attorney obtains Trump's long-sought tax records",
+      "excerpt": "The Manhattan District Attorney's Office has obtained former President Donald Trump's tax records, executing a subpoena for the long-sought documents after the Supreme Court declined to shield them from investigators earlier this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/31/e6e4b3bf-d221-4e69-9758-c125b8adfeda/thumbnail/1200x630g2/2846660e3574f923ccd0a39f79b733a8/gettyimages-1230689498.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/",
+      "publishedDateTime": "2021-02-25T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     }
   ],
