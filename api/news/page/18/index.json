@@ -2,6 +2,62 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2021-02-10-nikki-haley-warns-illegal-immigration-hitting-crisis-levels-amid-biden-moves.md",
+      "title": "Nikki Haley warns illegal immigration hitting ‘crisis levels,’ amid Biden moves",
+      "excerpt": "Nikki Haley on Wednesday warned that illegal immigration is hitting “crisis levels” in the wake of a number of reversals of key Trump-era policies by President Joe Biden -- with the former U.N. ambassador arguing that the U.S. needs to take care of “Americans first.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ybEWnpLo3uA/haley-illegal-immigration-biden-policies",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ybEWnpLo3uA/haley-illegal-immigration-biden-policies",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 251,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-illegal-immigration-biden-policies.amp",
+      "publishedDateTime": "2021-02-10T15:36:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-impeachment-video-shows-mike-pence-and-mitt-romney-fleeing-capitol-attack-video.md",
       "title": "Impeachment video shows Mike Pence and Mitt Romney fleeing Capitol attack – video",
       "excerpt": "Security footage shows how police officer led Romney away from attackers",
@@ -1292,62 +1348,6 @@
         "Election",
         "Mike Pence",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-09-mike-lee-senate-impeachment-trial-will-end-in-trumps-acquittal.md",
-      "title": "Mike Lee: Senate impeachment trial will end in Trump's acquittal",
-      "excerpt": "Sen. Mike Lee, R-Utah, speculated that while former President Donald Trump will undergo a \"lengthy\" impeachment trial in the Senate, he will ultimately be acquitted of inciting an insurrection against the government.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXg0IDKM2vw/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/BXg0IDKM2vw/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 2135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f588e6a6-8583-41e4-bca4-a5e461109c67/32606c3b-9f9d-4572-b4d1-7c156dfad540/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mike-lee-senate-trial-end-trump-acquittal-impeachment-capitol-riot.amp",
-      "publishedDateTime": "2021-02-09T09:25:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

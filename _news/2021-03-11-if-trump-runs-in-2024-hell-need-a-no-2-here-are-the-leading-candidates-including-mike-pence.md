@@ -1,33 +1,32 @@
 ---
 category: news
-title: "Dick Morris has been meeting with Trump: report"
-excerpt: "Veteran political consultant Dick Morris has reportedly been meeting with former President Trump as Trump looks to chart his path forward in politics after leaving the White House."
-publishedDateTime: 2021-03-10T15:04:00Z
-originalUrl: "https://thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report"
-webUrl: "https://thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report"
-ampWebUrl: "https://thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report?amp"
+title: "If Trump runs in 2024, he'll need a No. 2. Here are the leading candidates — including Mike Pence."
+excerpt: "If Trump runs for president again, he'll likely have to find a new running mate. Republicans are chatting about some people as potential running mates."
+publishedDateTime: 2021-03-10T19:27:00Z
+originalUrl: "https://www.businessinsider.com/donald-trump-vice-president-mike-pence-2024-2021-3"
+webUrl: "https://www.businessinsider.com/donald-trump-vice-president-mike-pence-2024-2021-3"
 type: article
-quality: 125
+quality: 116
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Donald Trump
+  - Mike Pence
 
 images:
-  - url: "https://thehill.com/sites/default/files/trumpdonald_092520getty.jpg"
-    width: 980
-    height: 551
+  - url: "https://i.insider.com/5ff5d09fd184b30018aad3f3?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -127,6 +126,22 @@ related:
         width: 834
         height: 308
         isCached: true
+  - title: "Dick Morris has been meeting with Trump: report"
+    excerpt: "Veteran political consultant Dick Morris has reportedly been meeting with former President Trump as Trump looks to chart his path forward in politics after leaving the White House."
+    publishedDateTime: 2021-03-10T15:04:00Z
+    webUrl: "https://thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report"
+    ampWebUrl: "https://thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_092520getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump accelerates his effort to wring power from the Republican Party"
     excerpt: "In the weeks after President Donald Trump lost the 2020 election, he and his team flooded email and text-message inboxes with false claims that the results of the contest were illegitimate. The messages were almost panicky: The Democrats were committing a crime on a historic scale and the guileless victim of that dishonesty — your favorite president — needed every able-bodied American to take to the ramparts."
     publishedDateTime: 2021-03-09T18:05:00Z
@@ -220,20 +235,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/impeachment-president-donald-trump-21-rt-llr-210213_1613248561317_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "If Trump runs in 2024, he'll need a No. 2. Here are the leading candidates — including Mike Pence."
-    excerpt: "If Trump runs for president again, he'll likely have to find a new running mate. Republicans are chatting about some people as potential running mates."
-    publishedDateTime: 2021-03-10T19:27:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-vice-president-mike-pence-2024-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 116
-    images:
-      - url: "https://i.insider.com/5ff5d09fd184b30018aad3f3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "If Donald Trump runs in 2024, he'll need a No. 2. Here are the leading candidates — including Mike Pence."
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. The road to the White House is not for the faint of heart, certainly not when hitching a ride with Donald Trump. But with the former president effectively locking down the 2024 ..."
@@ -411,6 +412,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9tv+TeIGKzoRHx18/ECI77okDuk5Yx23h+eLrNaAF+xgeZcb42a6xsc32mYKtXTT6MtHqBxribu02thL6H7tOFX+6RC3X6M62tqkdEKV2mMUvPD25xQX11bUQggPu3iXWPicJf/M2sKu40g1q1dyUjjxmt7V8LWO5ErWaL07pIc35TMxMMBjFlzwCT2bYkW9vw4x/Mxu5z5iPekeXFg1CEhPfPxWEjbSCUr/QeyERcNPvWEt8EyXFPOUYb3OfzkwVu1nH029LELykhDuy+1y3ADd/YCSWKzBKEum+Bt/hpoaDa6aKB4/q9n1sTzZ1SkHVEU4AIQCaAsRG9vE8E3+gIrSvpBg4TXpJG84KfPLsRA=;RMryEvvtCTWOg1MTd22OiA=="
+secured: "9262FfaCKV77gw69DD5hC1hY0CJUwdjGLkWSoS5x+C+oOpcbP+f+ntP5FpqJwAqWF6O1qTK2pExs/jk0dOUv16OsinHIa+KuLKJHe2K33wuMJOCwSbHeXjlvLpzin0xSy4jBTNBQrcpxwdcbge/z1CL7PUvdkAkFlzLIAYbfY/HaMzabeH0U58PLexmA+tiW8F+ilyawVQ+fY+3Cis32vGUmN0gmiFr7r/8NSlWbCc2ehK+a+pLL3nVAdn2bR8ZXtNfm7B6BRNmhPUV0xJakLW645XAig7lmZXn0uHFzb3IpzWkL/psqrpr2aFxVrI7eFYtHFFXY9gowWM2WOx3IhvXJovzdODcH7VIfOnS85w4=;n3ybNCPCxDilHVxZu3/YoQ=="
 ---
 

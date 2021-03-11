@@ -236,6 +236,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "If Trump runs in 2024, he'll need a No. 2. Here are the leading candidates — including Mike Pence."
+    excerpt: "If Trump runs for president again, he'll likely have to find a new running mate. Republicans are chatting about some people as potential running mates."
+    publishedDateTime: 2021-03-10T19:27:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-vice-president-mike-pence-2024-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5ff5d09fd184b30018aad3f3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "New report says failures at OSHA under Trump could have put more workers at risk during pandemic"
     excerpt: "The agency received more safety complaints during the pandemic than the same period in 2019 yet performed significantly fewer inspections."
     publishedDateTime: 2021-03-02T19:20:00Z

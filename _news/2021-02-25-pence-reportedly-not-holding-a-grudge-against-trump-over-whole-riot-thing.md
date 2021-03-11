@@ -233,6 +233,20 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "If Trump runs in 2024, he'll need a No. 2. Here are the leading candidates — including Mike Pence."
+    excerpt: "If Trump runs for president again, he'll likely have to find a new running mate. Republicans are chatting about some people as potential running mates."
+    publishedDateTime: 2021-03-10T19:27:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-vice-president-mike-pence-2024-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 116
+    images:
+      - url: "https://i.insider.com/5ff5d09fd184b30018aad3f3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "If Donald Trump runs in 2024, he'll need a No. 2. Here are the leading candidates — including Mike Pence."
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. The road to the White House is not for the faint of heart, certainly not when hitching a ride with Donald Trump. But with the former president effectively locking down the 2024 ..."
     publishedDateTime: 2021-03-10T19:27:00Z

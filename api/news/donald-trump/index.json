@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-11-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race.md",
+      "title": "Trump endorses widow of Rep.-elect Luke Letlow in Louisiana House race",
+      "excerpt": "Former President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate commitment to working with Trump amid back-and-forth Top ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race",
+      "originalUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_9_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race?amp",
+      "publishedDateTime": "2021-03-10T19:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe.md",
       "title": "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe",
       "excerpt": "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1557,63 +1609,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-de-blasio-compares-cuomo-to-trump-after-governors-apology.md",
-      "title": "De Blasio compares Cuomo to Trump after governor's apology",
-      "excerpt": "Mayor Bill de Blasio compared Gov. Andrew Cuomo to Donald Trump Thursday, panning his attempt to fend off calls for his resignation by criticizing conditions in New York City. “To paint an apocalyptic picture [of the city] — that’s what Donald Trump would have done.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/states/new-york/albany/story/2021/03/04/de-blasio-compares-cuomo-to-trump-after-governors-apology-1366867",
-      "originalUrl": "https://www.politico.com/states/new-york/albany/story/2021/03/04/de-blasio-compares-cuomo-to-trump-after-governors-apology-1366867",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/dc/c0/a8f7784b41aebcd07dfd92d4f058/20210128-bill-de-blasio-ap-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T10:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

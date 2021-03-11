@@ -1,32 +1,33 @@
 ---
 category: news
-title: "NRCC chief to Trump: Please don’t"
-excerpt: "Kyle Cheney and Andrew Desiderio EMMER MAKES 2022 PRIMARY PLEA TO TRUMP — At a POLITICO Live event this morning, NRCC Chair TOM EMMER (R-Minn.) told us that former President DONALD TRUMP getting involved in House primaries is “not gonna be helpful” to their effort to retake the House."
-publishedDateTime: 2021-03-03T18:40:00Z
-originalUrl: "https://www.politico.com/newsletters/playbook-pm/2021/03/03/nrcc-chief-to-trump-please-dont-491977"
-webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/03/03/nrcc-chief-to-trump-please-dont-491977"
+title: "Listen to recorded call between Trump and Georgia election investigator"
+excerpt: "In a phone call to the Georgia Secretary of State's office in December, then-President Donald Trump urged a top investigator to find fraud in the 2020 presidential election, telling her that she would be \"praised\" for overturning results that were in favor of Joe Biden, according to newly reported audio"
+publishedDateTime: 2021-03-11T00:16:40Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3rXKA2Oduxo/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3rXKA2Oduxo/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
 type: article
-quality: 115
+quality: 190
 heat: -1
 published: false
 
 provider:
-  name: Politico
-  domain: politico.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://static.politico.com/8c/5e/adf89d0840808fade585cfda7fb3/gettyimages-643949018.jpg"
-    width: 1160
-    height: 773
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103145317-trump-find-votes-georgia-raffensperger-call-washington-post-harwood-nr-vpx-00001730-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -43,22 +44,6 @@ related:
     quality: 212
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210101151233-mike-pence-louie-gohmert-ignore-certify-election-results-dantonio-nr-vpx-00033124-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Listen to recorded call between Trump and Georgia election investigator"
-    excerpt: "In a phone call to the Georgia Secretary of State's office in December, then-President Donald Trump urged a top investigator to find fraud in the 2020 presidential election, telling her that she would be \"praised\" for overturning results that were in favor of Joe Biden, according to newly reported audio"
-    publishedDateTime: 2021-03-11T00:16:40Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3rXKA2Oduxo/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 190
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103145317-trump-find-votes-georgia-raffensperger-call-washington-post-harwood-nr-vpx-00001730-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -358,7 +343,21 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "NRCC chief to Trump: Please don’t"
+    excerpt: "Kyle Cheney and Andrew Desiderio EMMER MAKES 2022 PRIMARY PLEA TO TRUMP — At a POLITICO Live event this morning, NRCC Chair TOM EMMER (R-Minn.) told us that former President DONALD TRUMP getting involved in House primaries is “not gonna be helpful” to their effort to retake the House."
+    publishedDateTime: 2021-03-03T18:40:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook-pm/2021/03/03/nrcc-chief-to-trump-please-dont-491977"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/8c/5e/adf89d0840808fade585cfda7fb3/gettyimages-643949018.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
-secured: "lLqbseKDrU3WiiQAYW/OffDlLvjbhRBVWOxTnLpO9bTl04GalF7mmjXtEIpuCRFC61qv+r8yaWY225tf4FAWEfQhJh5uXrURqdjCnvlcCAYDWZ7XqHTQRmVkk68I5ARyipnIHHknJVHrQjjVW0QPirHVxkT8/0OUnvrIEeDCBBy4nc9lGMRAoTcPAWcfMTHFaqCYZwCSwILd0tc+YcZVL8KBiV+61WP3cOjv9jpRQU7HrEbFtiLUkRvjapsf9Tey2qaIdRzgjw1InovddgD826gzyTcSyuYuHby1uLgf26BwHWnF8D4C1pjylpMC+BewfGMRsxcVIicwk3RjGoOPv/kcDy7wryXzvcQ8ohozkP4=;Qz3stF7P/poPAgj7FxX2gw=="
+secured: "xq0UGRCmxZ1VvUo89XbMqgN2cJ8Iev1vrO6LuGGm31AozvkPBGG7GRv0atnINattRLfPAcYl+qL6kwTjjLWhn0FY+nYIRJSpaCb7vvNKNioNmdAePCqpmYLCrg/MH5e4nHT34zJy6cdDsMwmbMXBZx/81sGb7jeAmicVeBPQv2uIS7wLsMjKNh+dVAk5AQE/2rpwZEyL0NyxEpmFBvAN7gm0U9ADZFGjVZ9gAIgq5LHp7zhPsdFEbSDiYAHQLErRsBQMbyiAje81sQxVJNfP9Tv4PfHwaLcOtXeISRITFzCj4prsCcXTibwVf4XeSwFQVYX1zjGgo8vNpN9DmllWdlP8lX2/cmrfMKdHqyLnthA=;W/r6SIo9V8xNuRFKqTBj3A=="
 ---
 

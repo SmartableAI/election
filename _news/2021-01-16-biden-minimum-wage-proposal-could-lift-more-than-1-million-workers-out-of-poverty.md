@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden EPA to reconsider Trump rule on lead in drinking water"
+    excerpt: "The Biden administration is delaying the effective date of a policy intended to prevent lead pollution of drinking water"
+    publishedDateTime: 2021-03-11T04:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-epa-reconsider-trump-rule-lead-drinking-water-76377217"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-epa-reconsider-trump-rule-lead-drinking-water-76377217"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-epa-reconsider-trump-rule-lead-drinking-water-76377217"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b6b5d36bfd0548fdbec0594b9abd5b20_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Will Melania Trump invite Jill Biden to tea-and-tour at White House or break tradition?"
     excerpt: "The decades-old civic ritual of the outgoing FLOTUS inviting her successor to tea and a tour of the White House appears to be off for Melania Trump."
     publishedDateTime: 2021-01-15T14:05:00Z

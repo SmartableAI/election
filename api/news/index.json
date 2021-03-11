@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-11-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race.md",
+      "title": "Trump endorses widow of Rep.-elect Luke Letlow in Louisiana House race",
+      "excerpt": "Former President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate commitment to working with Trump amid back-and-forth Top ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race",
+      "originalUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_9_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race?amp",
+      "publishedDateTime": "2021-03-10T19:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-kamala-harris-ignores-question-on-cuomo-sexual-harassment-scandal.md",
       "title": "Kamala Harris ignores question on Cuomo sexual harassment scandal",
       "excerpt": "Vice President Kamala Harris ignored a question about Democratic New York Gov. Andrew Cuomo’s widening sexual harassment scandal while speaking with reporters on Wednesday.",
@@ -403,7 +455,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1321,58 +1373,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-this-cant-be-the-end-of-the-matter-advocates-lawmakers-press-biden-to-punish-saudi-crown-prince.md",
-      "title": "'This can't be the end of the matter': Advocates, lawmakers press Biden to punish Saudi crown prince",
-      "excerpt": "WASHINGTON – Several prominent human rights advocates blasted President Joe Biden on Tuesday for failing to directly penalize Saudi Arabia's crown prince for his role in the murder of Washington Post columnist Jamal Khashoggi. It comes as Democrats in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/09/biden-pressed-punish-mohammad-bin-salman-jamal-khashoggi-death/6926968002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/09/biden-pressed-punish-mohammad-bin-salman-jamal-khashoggi-death/6926968002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/28/USAT/2b4b8963-ba75-4b58-8f3c-9b54cb63507b-AFP_8XQ2CT.jpg?auto=webp&crop=2351,1322,x1,y168&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6926968002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6926968002",
-      "publishedDateTime": "2021-03-09T15:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

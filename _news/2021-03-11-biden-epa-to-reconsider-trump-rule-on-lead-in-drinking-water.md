@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Republicans Signal Deep Resistance To Trump Senate Trial"
-excerpt: "Republican lawmakers demonstrated Sunday that Democrats will have a fight on their hands to convict Donald Trump when the Senate next month opens its first-ever impeachment trial of a former president."
-publishedDateTime: 2021-01-24T16:10:00Z
-originalUrl: "https://www.ibtimes.com/republicans-signal-deep-resistance-trump-senate-trial-3129467"
-webUrl: "https://www.ibtimes.com/republicans-signal-deep-resistance-trump-senate-trial-3129467"
+title: "Biden EPA to reconsider Trump rule on lead in drinking water"
+excerpt: "The Biden administration is delaying the effective date of a policy intended to prevent lead pollution of drinking water"
+publishedDateTime: 2021-03-11T04:24:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-epa-reconsider-trump-rule-lead-drinking-water-76377217"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-epa-reconsider-trump-rule-lead-drinking-water-76377217"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-epa-reconsider-trump-rule-lead-drinking-water-76377217"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-epa-reconsider-trump-rule-lead-drinking-water-76377217"
 type: article
-quality: 55
+quality: 140
 heat: -1
 published: false
 
 provider:
-  name: International Business Times
-  domain: ibtimes.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
-    width: 1024
-    height: 714
+  - url: "https://s.abcnews.com/images/Politics/WireAP_b6b5d36bfd0548fdbec0594b9abd5b20_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -76,22 +78,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Biden EPA to reconsider Trump rule on lead in drinking water"
-    excerpt: "The Biden administration is delaying the effective date of a policy intended to prevent lead pollution of drinking water"
-    publishedDateTime: 2021-03-11T04:24:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-epa-reconsider-trump-rule-lead-drinking-water-76377217"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-epa-reconsider-trump-rule-lead-drinking-water-76377217"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-epa-reconsider-trump-rule-lead-drinking-water-76377217"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 140
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b6b5d36bfd0548fdbec0594b9abd5b20_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Will Melania Trump invite Jill Biden to tea-and-tour at White House or break tradition?"
     excerpt: "The decades-old civic ritual of the outgoing FLOTUS inviting her successor to tea and a tour of the White House appears to be off for Melania Trump."
@@ -795,6 +781,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 55
+  - title: "Republicans Signal Deep Resistance To Trump Senate Trial"
+    excerpt: "Republican lawmakers demonstrated Sunday that Democrats will have a fight on their hands to convict Donald Trump when the Senate next month opens its first-ever impeachment trial of a former president."
+    publishedDateTime: 2021-01-24T16:10:00Z
+    webUrl: "https://www.ibtimes.com/republicans-signal-deep-resistance-trump-senate-trial-3129467"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/24/speaker-nancy-pelosi-is-set-to-send-the.jpg"
+        width: 1024
+        height: 714
+        isCached: true
   - title: "Teaching About Trump Brought Death Threats, Hate Mail"
     excerpt: "MADISON, Wis. (AP) — Ken Mayer watched on TV earlier this month as a violent mob of Donald Trump supporters stormed the Capitol, killing a police officer, pillaging the hallowed halls of democracy and delaying the process of certifying President-elect Joe Biden’s victory."
     publishedDateTime: 2021-01-23T06:14:00Z
@@ -805,6 +805,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "YgHG82NSjMk9HAVkWwh4IqB+usgBWyj+rwH2UeQrYcwAk2IeNEtAOcQH6eNbhRRgzaGrDD0Kwg0VLCjW9UIYIPS1+1T8okngVEmjiRTJssfcMMmcacSIFD2+2oIDJjsHVwqaJRAFRYQbFRg0DMCLgnA7aCf9C4x1EglZPXJMpZspUditIuhDB01h9Qt3k+ztmcfts09oz2v/LU6Z0E0v5agxflPeKK80gwBekqIXFD0SBOnT3K/cnQz3/ZTlqNhxk/C5yYdYgZOf2PMdIbGn1q4OQYwGtgg+XS2miZdlJA6W3EiqjdEvLfB1KplAn9ZWNNMjGkTNqqGtwOBX/gqp1GvSCpEUClqaJrjbV45gghHhR9jwbnhxe6jCveyzKgiUwHq1CAFlGe7OtCYaYMx6Oz89j7XxVY0aLp7grYTaVE5E0g5+F6ODKs3MdxAZMoNvarHPI8Ssye+MqeF781AXya3jprxyLpLkoes0bEJJSPccqaSeDiUT7pdOnkKU1Mtl6pM6dDy6havIompsNwMOOA==;RhJ7+ySP+QuAjwEB+DLc4A=="
+secured: "XhtMYpnKVee657J5LoMHIh0xgHPpFMxkPY/KdxoI98p3A2G6i+xi4MeNYq+zXfIcS3bjBNDJ0zGrvmVabxxTyqbDOcyd1z935SwRTCRD0UOPPQXiQz+TJ+ABf0sQY9ia7wUkDaW4KknZ3QcK2zNotT4J1VsxmrL1s8cmdLF4DzePIoqdWhr3yOtnlRMAxHeSGSbtNwNqM1smXbwAf1+3tWeGWKZPFy/HhW4M3E3yTKxsfApOhcHc6TTuFavneUkwWFCGMgKEZX6fgzCi5CtLbChcIftldm5YKUUfWl6PRjpxNaalpVNIN5Iuy58SsDLg5dEJjTc0MJVhnDLrAk21x8scG5d0j0e15CBtN0ZT0EI=;jCS7RD+yA5ilPCL28W7sag=="
 ---
 

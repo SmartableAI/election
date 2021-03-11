@@ -49,6 +49,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Listen to recorded call between Trump and Georgia election investigator"
+    excerpt: "In a phone call to the Georgia Secretary of State's office in December, then-President Donald Trump urged a top investigator to find fraud in the 2020 presidential election, telling her that she would be \"praised\" for overturning results that were in favor of Joe Biden, according to newly reported audio"
+    publishedDateTime: 2021-03-11T00:16:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3rXKA2Oduxo/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103145317-trump-find-votes-georgia-raffensperger-call-washington-post-harwood-nr-vpx-00001730-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump trashed Gov. Kemp after election. Hear what he says about Trump now"
     excerpt: "CNN's Brianna Keilar says some prominent Republicans lack the courage needed to distance themselves from former President Donald Trump.\n    \n"
     publishedDateTime: 2021-03-04T19:50:56Z
