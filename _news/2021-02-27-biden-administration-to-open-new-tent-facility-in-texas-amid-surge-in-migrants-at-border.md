@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Pompeo says Biden already gone further than Obama in creating ‘completely open borders’"
+    excerpt: "Former Secretary of State Mike Pompeo on Thursday said that the Biden administration is going further than the Obama administration in creating \"completely open borders\" as numbers continue to surge at the border."
+    publishedDateTime: 2021-03-11T22:23:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UmdKQ_MAUUU/pompeo-biden-obama-open-borders"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-biden-obama-open-borders.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-biden-obama-open-borders.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58b5303f-1cc5-4819-ac7f-0ff6be8a874d/5d3b5642-d252-4d6f-a4f0-c41cadfb9fc0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden administration facing dramatic surge in unaccompanied children at the border: report"
     excerpt: "The Biden administration is facing a dramatic surge in unaccompanied children at the border, a sign of how resources have been overwhelmed within just a few months of the new administration."
     publishedDateTime: 2021-03-04T21:18:25Z

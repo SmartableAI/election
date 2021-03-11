@@ -271,6 +271,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Why did Biden decide to sign the bill today?"
+    excerpt: "Watch \"Why did Biden decide to sign the bill today?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-11T19:24:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210311191038-why-did-biden-decide-to-sign-the-bill-today/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "President Joe Biden to make first prime-time address to nation Thursday"
     excerpt: "The president will look forward, highlighting the role that Americans will play in beating the virus,' the White House said."
     publishedDateTime: 2021-03-08T17:56:00Z

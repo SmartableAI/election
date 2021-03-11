@@ -283,6 +283,20 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Why did Biden decide to sign the bill today?"
+    excerpt: "Watch \"Why did Biden decide to sign the bill today?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-11T19:24:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210311191038-why-did-biden-decide-to-sign-the-bill-today/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "RR6t1D0HHXdY4FLBmksSYxsXbWhUIcDxfupt4HcJkXq0BB4HecU+AIIeqOO8tevOGYGyJBMK7uFZOX7M+Z78RLVJ4pahozXwXOJ+hZVls8tNxPJCYKjeAZrJffXuqKpHc0VWhCRq+pBl+FFerNixdfyF8qr7wf+cYE6NSd4lpAezp8hfcxHRze86kefFDLADkkEdMkEg/kj+AdFr9BNlMmH8/woe6L0Gjh5AWPOB4Wf8L36hbk/2S/D3wVM7e6EtZ8Q5r87pBqgvUiLpZTd6bd9kbXKJNmIlfbm2UEVCGQj6/R5Ls7hdN0eDxnv8Qdg1RcJk33PUpWNHsRJ4Hs2YsnaQ3EAMobaQyJG6/esAUkY=;yj2NmZdzcLLcxITSxMWg6g=="
 ---

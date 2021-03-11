@@ -285,6 +285,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "The Biggest Thing Kamala Harris Could Do This Year"
+    excerpt: "The battle to protect voting rights needs a field general. Vice President Kamala Harris needs a cause to define her tenure. The second problem suggests the answer to the first: President Joe Biden could designate Harris as the administration’s point ..."
+    publishedDateTime: 2021-03-11T19:58:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/03/why-democrats-voting-rights-battle-needs-kamala-harris/618260/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/618260/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618260/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/vQL0Pc2lGf46uSug5fkjUvxOXaI=/570x321/media/img/mt/2021/03/0321_Nora_Katie_Kamala/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
   - title: "What Kamala Harris Could Do for Voting Rights"
     excerpt: "The cause needs a prominent leader who can draw national attention to Republican efforts to suppress the vote."
     publishedDateTime: 2021-03-11T18:20:00Z
@@ -364,6 +380,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
         width: 1024
         height: 736
+        isCached: true
+  - title: "Kamala Harris husband Emhoff is the first second gentleman | Raleigh News & Observer"
+    excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
+    publishedDateTime: 2021-03-11T18:28:00Z
+    webUrl: "https://www.newsobserver.com/news/politics-government/article249862338.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/politics-government/article249862338.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/politics-government/article249862338.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/b0018f62-b6fe-41a9-92e0-177f1e3c9a2c/6e22477c-e373-4d34-af79-1d8070ada578/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
     excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
@@ -559,6 +591,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "+pdKJFC7qUwcrZpSrMOU6kTUoV31qNe146Ocqk+SskxiJtRxXKuLmjJWCp67ZCx8NM/+zhpqrwEZzIiAfmdLirs+2Mz0snwOwLoFoRCSBl1KUsT+vL94AJ5GEvvy4LBLPiictTwIH+pncI4VX3r1B9i4BGkCE5eB1XTwjpO906Xv4e7pdUfzlAHaujqDn5W6HThXR807UvoGjd+7vyVY+aS1sQnl1MC8l+OtUHe6FdMas9OYEn2IiLWJmiLyu4rD/xDJyG0rBp4KDih54mWEZkIP2NqwXYg5zDHobCkvY4tiICmxBpJPwsn/xv5wdWO8CreZeayhgWWiXO5diyVDm2mcfIC75Ib1UZyKgcI5EVw=;tl4kq8cMDzgnKV2WbIyVtw=="
+secured: "2CmGVjPV9JrSYCe28wHs8BPRnu7qCL9O0a3E0CrI9qSx6amD2oOK0ACfEffixbT2SdtO+kA0Vdyg1j221WnYRXNElwDO4X4+wsD6nw2X1Ev8ny3TFa3XRLgoInBoNUF4FqNvIbgkuY/NY8jjgVOJrPWHJMIxiNJCUTomhqQ6bCY4cSDkeKXpgX2KygTQ35V7xODU6ukChLug8DDfj57HdDrl9mASlGZSCQF9noDNG+wvK17DrwkxEUoof5Dmj8GNCChHLixT7GTQrRb+7R1oIg0gdWCAORwjC3qwMojdsd6IkNouoRyfvV0R7BGo1Y3jUihiOTExOtlJJikbyBrtmBKx+7NV2A6fvgJt4sLoNp1hAtz69U/mtQ8EllsWTT019As1GcMcKoNnU00bQ2wEmY29YKFvkMs9dXjr30ojD+4qDK+6Gfw72Y4h3kgCHQb5cL0mk3M53JRZ2xBp0rS+VKHJ2MWmihS7YuHUSmntFSG5kB3BT+c9S2emVSklakWD8FThANuhj5VHNNBSPRC0GA==;Dw+NGiHWn3ehOH2kngDfCg=="
 ---
 

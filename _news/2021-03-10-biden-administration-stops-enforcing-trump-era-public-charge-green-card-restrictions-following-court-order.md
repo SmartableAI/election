@@ -63,6 +63,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "Joe Biden's Approval Rating on COVID Pandemic 18 Points Higher Than Trump's Best: Poll"
+    excerpt: "That's 18 points higher than former President Donald Trump's best rating in the poll, in which he earned 44 percent approval in March and April last year. By the time he left office in January, Trump's approval rating on the coronavirus had dropped to 39 ..."
+    publishedDateTime: 2021-03-11T21:45:00Z
+    webUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544"
+    ampWebUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1753962/joe-biden-coronavirus-approval-rating.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kayleigh McEnany Compares Biden Appearances to Donald Trump, Barack Obama: 'Where's Joe?'"
     excerpt: "The former White House press secretary has questioned President Joe Biden not yet holding a solo press conference, pointing to his two predecessors having done so by this point in their tenures."
     publishedDateTime: 2021-03-03T12:41:00Z
@@ -302,6 +318,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/909081444d50137d6488ef62641c42c460b55fff/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=36303c63c6c8aef763065d01ce15ace0"
         width: 600
         height: 360
+        isCached: true
+  - title: "VIRUS TODAY: Biden signs aid bill; ex-presidents get shots"
+    excerpt: "President Joe Biden has signed into law the $1.9 trillion relief package he says will help the U.S. defeat the coronavirus and nurse the economy back to health"
+    publishedDateTime: 2021-03-11T22:13:00Z
+    webUrl: "https://www.washingtonpost.com/health/virus-today-biden-signs-aid-bill-ex-presidents-get-shots/2021/03/11/0179d0f6-82b7-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/virus-today-biden-signs-aid-bill-ex-presidents-get-shots/2021/03/11/0179d0f6-82b7-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/virus-today-biden-signs-aid-bill-ex-presidents-get-shots/2021/03/11/0179d0f6-82b7-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
@@ -750,6 +782,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/54bb4401-bfd2-461f-853d-8e63acc86ff5-AFP_AFP_94N9C8.jpg?auto=webp&crop=4999,2812,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden signs $1.9 trillion rescue package into law, starting the clock on distributing $1,400 stimulus checks"
+    excerpt: "The measure authorizes direct payments for most taxpayers; renews unemployment benefits; and provides funding for vaccine distribution."
+    publishedDateTime: 2021-03-11T20:22:00Z
+    webUrl: "https://www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/604547c244d8e300117b97e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Biden to prioritize vaccinating school teachers"
     excerpt: "President Joe Biden is directing states to prioritize vaccinating all teachers during the month of March, and announced that the federal government will help in the effort through its partnership with retail pharmacies."

@@ -239,6 +239,22 @@ related:
         width: 979
         height: 551
         isCached: true
+  - title: "Gretchen Whitmer Says Cuomo Faces Different Standard Than Trump Amid Harassment Allegations"
+    excerpt: "Similarly, former President Donald Trump has also been accused of sexual misconduct. At least 25 women have accused Trump of rape, sexual assault and sexual harassment, including non-consensual kissing and groping. The bulk of the accusations arose during ..."
+    publishedDateTime: 2021-03-11T20:51:00Z
+    webUrl: "https://www.newsweek.com/gretchen-whitmer-says-cuomo-faces-different-standard-trump-amid-harassment-allegations-1575525"
+    ampWebUrl: "https://www.newsweek.com/gretchen-whitmer-says-cuomo-faces-different-standard-trump-amid-harassment-allegations-1575525?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gretchen-whitmer-says-cuomo-faces-different-standard-trump-amid-harassment-allegations-1575525?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 115
+    images:
+      - url: "https://d.newsweek.com/en/full/1753951/gretchen-whitmer.jpg"
+        width: 594
+        height: 396
+        isCached: true
   - title: "Trump Appointee Who Took Part in Capitol Riot Swore an Oath Then 'Switched Sides,' Judge Says"
     excerpt: "Federico Klein, an ex-official in the administration of former President Donald Trump, will remain in jail after a judge said he \"switched sides\" by allegedly participating in the deadly breach of the U.S. Capitol on January 6. U.S. Magistrate Zia Faruqui ..."
     publishedDateTime: 2021-03-10T05:45:00Z
@@ -335,6 +351,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Trump's own Pentagon chief says rioters wouldn't have stormed the Capitol if it hadn't been for the president's speech"
+    excerpt: "DOW S&P 500 NASDAQ 100 The man who was leading the Pentagon on Jan. 6 says that rioters would not have stormed the Capitol if it hadn't been for President Donald Trump's speech beforehand. Asked if he thought Trump was responsible for what unfolded at the ..."
+    publishedDateTime: 2021-03-11T21:27:00Z
+    webUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/604a851ef196be0018beef55?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
     excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
     publishedDateTime: 2021-03-05T18:14:00Z
@@ -384,6 +416,6 @@ related:
         height: 800
         isCached: true
 
-secured: "GtHqVxaKQgtpJQulbv+HBz6uDTljcvdIkc+DsbN4OcdsvLXevBHXDn3h4MaOiCo7hXs2eWgBAWfZOHS5lpuhD99lqeApk7MpPNAuBV3ga2KlyAnR2WygBs5rtDCqrxeKdZ0c6phCQnEsmy92y+eNu4YpeUZqgWXJoHhGo+zu1Ykw4BV99mD/1ngtoXAZl9arjrhVTFvNFFSdZa6NBqpHFBaRzSrYGhM4ub/K4ZGL/Yp9YkgiMppkSk/+RdGGwMZjmZy5oc6CW1rtY5AN4RnAPykFj/Isww5nytf6pmVGBxmDrQ6aR70LDRweRZSCd05A6Qysgj6rlIchsaQpXc7jCP+byAM5I5N0XN4Nn5sZ604=;tSsHr2hq8biSRIXeIdXyOw=="
+secured: "CzTCJ/Lic3gevhEYVhuCIwar4PgS5Mw3hdbNOpbmsvlegRwF5VMlx7KO5E8gLdbs3eB8ZyD+O6rpFUi/qzFJOaiKxDbDAuY5ewuI9yuDlbUeNOtRYtnKEKqNGOS85kvRXbzGdr5iFHX5JvwYx0vo3KDnaaPIM5bWSHdoFLR7chs6YJTm5XKkbWAdq+ynahUuYk1CLwONmOXV7rWqgrv8gmReIbCCsA8dU6jMkleKLun4qYecuU0TlBf/9xCo2laHoQlPFuO5Vm63nSTlNCF/cB8rJ9zH/K/Be2hvLE0iWzMiCRZvtgHUnvTt9MbdJzGlUaoZiRhlbEjxIqHM/Ea2l2Kfan9mOwrtZ1GDPaUXs8KkMZCYzzkGox54yXD6+vF7cDSjACuclGt4DU8/CEFs4wLF7axIal9PaIpICaHcsZd2+yvr3TJcan/d+eyPJn3ZwV09bTF8Lqw9EO+15MIsYB4Tbn3JR+eOG+3wt8FOcUq2T5YnW8SNIpH98rFj5zdb6/4VIwdPzJ5WZZf1Fpn3Nw==;P3PbS36R6J2Pm2ui7SOSOw=="
 ---
 

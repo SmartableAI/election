@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden set to address nation with an eye toward reopening"
+    excerpt: "President Joe Biden will use his first evening address to the nation to open the next chapter of the coronavirus pandemic, taking stock of the worst year in recent memory while projecting hope the next one will be better.\n    \n"
+    publishedDateTime: 2021-03-11T21:06:31Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m-hICRImayI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-one-year-covid-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-one-year-covid-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310155553-02-biden-jj-merck-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "How to watch Biden's first prime-time presidential address"
     excerpt: "President Joe Biden is expected to deliver his first prime-time address from the White House on Thursday night to commemorate the anniversary of the Covid-19 shutdown.\n    \n"
     publishedDateTime: 2021-03-11T12:00:59Z

@@ -2,6 +2,58 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2021-02-02-mypillow-twitter-account-permanently-suspended-following-trump-ally-ceo-mike-lindells-ban-from-platform.md",
+      "title": "MyPillow Twitter account permanently suspended following Trump ally, CEO Mike Lindell's ban from platform",
+      "excerpt": "Twitter has suspended the MyPillow account after banning CEO Mike Lindell's account for perpetuating claims that Trump won the presidential election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/2021/02/01/mypillow-twitter-account-suspended-ban-evasion-mike-lindell-trump/4348778001/",
+      "originalUrl": "https://www.usatoday.com/story/tech/2021/02/01/mypillow-twitter-account-suspended-ban-evasion-mike-lindell-trump/4348778001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/01/USAT/9489a161-ccda-4a4e-baba-f3b727211612-mypillow.jpg?auto=webp&crop=4031,2267,x1,y587&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4348778001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4348778001",
+      "publishedDateTime": "2021-02-01T16:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-01-ex-nfl-star-marcellus-wiley-calls-for-separate-transgender-category-in-school-sports-after-biden-order.md",
       "title": "Ex-NFL star Marcellus Wiley calls for 'separate transgender category' in school sports after Biden order",
       "excerpt": "Former NFL star and current Fox Sports 1 host Marcellus Wiley called last week for the creation of a \"separate transgender category\" for youth athletics.",
@@ -1307,58 +1359,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-31-deal-or-no-deal-virus-aid-tests-biden-work-together-plea.md",
-      "title": "Deal or no deal: Virus aid tests Biden 'work together' plea",
-      "excerpt": "Joe Biden pitched himself during the presidential campaign as someone who could “get people working together” and lower the temperature in a Washington overheated by Donald Trump",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/deal-deal-virus-aid-tests-biden-work-plea-75594577",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/deal-deal-virus-aid-tests-biden-work-plea-75594577",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_978237717c6d4baba3ceefba96afa20d_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/deal-deal-virus-aid-tests-biden-work-plea-75594577",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/deal-deal-virus-aid-tests-biden-work-plea-75594577",
-      "publishedDateTime": "2021-01-31T05:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

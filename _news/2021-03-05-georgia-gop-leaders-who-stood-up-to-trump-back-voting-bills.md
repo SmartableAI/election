@@ -191,6 +191,22 @@ related:
         width: 816
         height: 545
         isCached: true
+  - title: "Former Pentagon chief blames Trump's speech for inciting Capitol attack – live"
+    excerpt: "Joanna Walters In an astonishing piece of attempted backside-covering, former acting defense secretary under the outgoing Donald Trump, Chris Miller, tried to explain in an interview with Vice that the delay in National Guard troops deploying to the US ..."
+    publishedDateTime: 2021-03-11T22:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a773a8f0849a7378fd13c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/8b5dcaa3b92d55402971cb623e14c3f5cc5b2909/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f196b8e175ba7b8b3d244dfd60742b19"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump Pressured Georgia Investigator to Find Voter Fraud in Phone Recording: 'You'll Be Praised'"
     excerpt: "Former President Donald Trump pressured a Georgia investigator to find evidence of voter fraud in the 2020 presidential election, promising that \"the right answer\" would win \"praise\" during a phone call in late December. In audio of the call obtained by ..."
     publishedDateTime: 2021-03-11T01:35:00Z
@@ -267,6 +283,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Wyoming Moving Ahead With Trump Jr.-Backed Election Changes"
+    excerpt: "Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned."
+    publishedDateTime: 2021-03-11T21:48:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-11/wyoming-moving-ahead-with-trump-jr-backed-election-changes"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 50
   - title: "U.S. Representative Swalwell Sues Trump Over Jan. 6 Insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
     publishedDateTime: 2021-03-05T14:00:00Z

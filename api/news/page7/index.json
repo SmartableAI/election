@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-02-biden-directs-states-to-prioritize-educators-in-vaccine-rollouts-as-he-aims-to-reopen-schools.md",
+      "title": "Biden directs states to prioritize educators in vaccine rollouts as he aims to reopen schools",
+      "excerpt": "President Biden on Tuesday announced a new effort to vaccinate educators and childcare workers as a means to accelerate the safe reopening of schools.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/poye9P5jcGo/biden-states-prioritize-educators-vaccine-rollout",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/poye9P5jcGo/biden-states-prioritize-educators-vaccine-rollout",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e4d2d0ea-db36-4c8c-8499-26f759f61647/db9e6911-b46b-4eff-b8d4-b7b74d465b0a/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-states-prioritize-educators-vaccine-rollout.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-states-prioritize-educators-vaccine-rollout.amp",
+      "publishedDateTime": "2021-03-02T15:01:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-trump-ally-rep-lee-zeldin-exploring-ny-governor-bid-amid-cuomo-controversies.md",
       "title": "Trump ally Rep. Lee Zeldin exploring NY governor bid amid Cuomo controversies",
       "excerpt": "Republican Rep. Lee Zeldin of New York says he’s “actively exploring” a run for governor next year as embattled Democratic Gov. Andrew Cuomo faces multiple allegations of sexual harassment as well as a federal probe into the state’s handling of COVID deaths at nursing homes amid the coronavirus pandemic",
@@ -1290,62 +1346,6 @@
       "topics": [
         "Election",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-former-trump-campaign-communications-director-murtaugh-joining-heritage-foundation.md",
-      "title": "Former Trump campaign communications director Murtaugh joining Heritage Foundation",
-      "excerpt": "Former Trump campaign communications director Tim Murtaugh is joining the Heritage Foundation and launching his own public affairs firm, Fox News has learned. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QKAKuUS8C1c/former-trump-campaign-communications-director-tim-murtaugh-heritage-foundation",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QKAKuUS8C1c/former-trump-campaign-communications-director-tim-murtaugh-heritage-foundation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/former-trump-campaign-communications-director-tim-murtaugh-heritage-foundation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-trump-campaign-communications-director-tim-murtaugh-heritage-foundation.amp",
-      "publishedDateTime": "2021-03-01T05:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

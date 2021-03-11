@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-genera
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -140,6 +140,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/RdT_akvV2w0WrLwyYv4kInG3D0k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BKO37XXJSYJYQQVJQKSAEDBFXA.aspx"
         width: 1200
         height: 800
+        isCached: true
+  - title: "He's baaack (kind of). Inside Trump's bid to get on Twitter without officially being allowed on Twitter."
+    excerpt: "Trump's most recent statements from his new political action committee and his post-presidential office read exactly like his tweets. Most are crafted just under Twitter's 280-character threshold. Journalists,"
+    publishedDateTime: 2021-03-11T22:47:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-using-twitter-social-media-email-white-house-ban-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/604a92359942cf001865dea9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "zJYbrzx11tAldwClXjqiWHyT83UuSdjkKCBsjkwqgbTrYQR0K70PlzfQQaYxEjKrsrVydX9hU3vG9HrdWaQnlsW7v65SfUY7BDSuC/JTO1YZXMGHWRwznaqmd0ibIDe8elVulujvGKDeWc/Q69TRTjSCG142YzxC9y9oUKHAleQIbsXyvFvwjJ8aOpWLZ50WSpk7IZFr+Ixmxo38voS6OIVUZR/ngUiUNXeAMaFUDGMldomWo55CUyH2AV7EwP+62C2qPieJhH7gVW5zJRGTv/93msQBQ3hdyWAxSAGxyyJaLaWN02W1qafBLFWg1h4UDXObB6Ia0Hl1TBHrsVMTK2h7tGVuhOIdmyxX3ligL5bI28pVoqPrtAqRcQYr2G95gHUsXsUU5y/qDgcS7ZP919PcWJc5F80eqQFDTkc1CVN9LScmnv8xNmTjLv+iatBrg9Uc7GZQnJUWf1BVwz7/BChX6kCQdUGHSyVTQAzHTiJ2yaKTAOok7mqGLfCA4h/dvDFhKQ8tKaECLmhA/+U8zA==;lXFhgVLU/0wRZV1EXm2NaA=="
