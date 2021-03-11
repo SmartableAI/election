@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump expected to meet with Sen. Rick Scott amid GOP divide over former President"
+    excerpt: "Former President Donald Trump is expected to meet with Republican Sen. Rick Scott this week, a source familiar with the meeting told CNN, at a time when the party is heatedly debating Trump's role in its future.\n    \n"
+    publishedDateTime: 2021-03-11T02:13:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/40Zo2mlfAss/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/trump-rick-scott-nrsc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/trump-rick-scott-nrsc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310190838-trump-scott-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump State Department appointee violated his oath of office at Capitol riot, DOJ says"
     excerpt: "The Justice Department says a former Trump State Department official violated his oath of office when he allegedly pushed against a police line in storming the US Capitol on January 6.\n    \n"
     publishedDateTime: 2021-03-09T18:47:38Z

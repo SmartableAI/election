@@ -257,6 +257,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Vice President Kamala Harris coming to Las Vegas on Monday"
+    excerpt: "Vice President Kamala Harris and her husband, Doug Emhoff, will visit Las Vegas on Monday to tout the $1.9 trillion American Rescue Plan approved by Congress on Wednesday."
+    publishedDateTime: 2021-03-11T02:25:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-coming-to-las-vegas-on-monday-2299493/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-coming-to-las-vegas-on-monday-2299493/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-coming-to-las-vegas-on-monday-2299493/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14897275_web1_KAMALA-VISIT-102720_es_010.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris visits woman-owned yarn store to discuss American Rescue Plan"
     excerpt: "Vice President Kamala Harris said the Biden administration is monitoring the effect of the COVID-19 pandemic on women leaving the workforce as she visited Fibre Space, a woman-owned yarn shop in Virginia."
     publishedDateTime: 2021-03-03T23:21:00Z
@@ -488,6 +504,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "ivFWcoaEqc96q3aYgAvFA3nOHIb+svE3uyA4v8YLu8KgAiIG+yQKOhEs4Rj4VOITLyMT/qLGjxBqo5BcJU31WF3AAy0IiD6/qlw/9sAyPniKONPiWoUb1MspsH/M5a6/gNPwMDiDFJE3U7+R4c+NOhuCqsROtDAwxbH3vMtYGJIpdz7GAXewHZou3wXvVPaUDykUKskYAmdMCSmIh9iNhBE1C2Po84C3g3cevMcRGh59JxehmG7m+npj8yu4eWxgTO8R9Pf5+v5JWs3b4p77V3qNzkCd6nczjSsJm4ybqfdR/UblMvSZvGmxyakrp23Db3cOdxfBc/TvWuXY/TKva23Im9SWxv4yx7+DbZGzg60=;f0nfHf6BxmjtmvzJLDDpug=="
+secured: "4HXLzyuHSkIisrXtgTswEmIFFhiKGdfx9rmcDXCcaCQg8AktJFoFT5Ki8ZLDfX8U8DgqXbHqQwZA8r885iGIRSm91pUAeOmi7VNf9EA8nPu95OvvTq3hbzlotP/DGy22kjSQ+6fAxO6XVX2Mkxy9LYIIiy4280vXYMvqbWhm/TmkEJxYzByEN3XC6hcN0yQGfCJ00NNL3G8K7kkHivBDogD8RqhDnMpEkSeX46BdxHs6dLTQjibzvM0FDIOQUozwdH0McKxazULATLWrNZB3Uj3Pxx4TrRZVOgaS/jaIrIDtXpH0+90v3DkFTTSrhrl3Y++aNsb6dNSMeBpteNYhELkB7XzxBDSAwPWLXMc3nNT+AgRlV2DNr7bV9i69qe2HuRRWwaEx1cKPqSX910g+DktzJsk18YW1/E1AeH4UHuRDKReplecKDn9QzvX/k34XjKrnwsRsbb5gjfY7yu+0HNM2zUK2giOQOinFAxE3DruqaHsecqIsL/oYqJmGrOD9hjMzhKKIpOK67UKD8zbd0A==;VnPDOXIMGvCkGcLDfTrDbQ=="
 ---
 

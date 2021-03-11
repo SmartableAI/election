@@ -559,6 +559,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden White House plans nationwide victory lap to promote benefits of COVID-19 relief bill"
+    excerpt: "WASHINGTON (Reuters) - Mindful of hard lessons learned by the previous Democratic administration, President Joe Biden and top aides are planning a nationwide tour to sell Americans on the benefits of the newly passed $1.9 trillion pandemic relief bill."
+    publishedDateTime: 2021-03-10T23:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-idUSKBN2B302N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B302N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B302N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554466931&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A01H"
+        width: 792
+        height: 545
+        isCached: true
   - title: "Biden poised for first major legislative victory with House vote on $1.9tn Covid relief – live"
     excerpt: "Jay Ashcroft, the Missouri secretary of state, has said he does not plan to run for the US Senate next year. “After intense, prayerful consideration we have decided to remain devoted to the work Missouri voters have entrusted to me as secretary of state ..."
     publishedDateTime: 2021-03-10T15:07:00Z
@@ -832,6 +848,6 @@ related:
         height: 675
         isCached: true
 
-secured: "mNwu4jCGy5V4pF8XF5NIW5gTBY1hL/nOdkYcpabILsHh9pbrn9oi7qClifQqa4BsckrOcRYaqZI5kCSlL+UEx51I86t2EVSOedU+F02Up+Ry4NEWPcBt+YEeOFwkC60nuATFLeysD1g7hqeJ3oAbBZf+Ht2IlLfuLh4ml00spcFo0UcUn/C0S8TCIYGombkbCx2s3sLAmaeedog2L6No+l/ATrDphxr6fHtg4OsJfse6SztEUcmTdOyf1LP3Fkd29obEoFF6A1Zj4K1UFtC+Yg5JbUZiJD0iML/1LwfPIl2JcyKanaOwoXrnYFaPNeXwzguotlkwfwK0ZAaJ3TKDOXgkfi1lIebZ/lEsfCODcZM=;DIXKBIK38T7+MwpZj2IajQ=="
+secured: "DNVubZhjU0xBxIJ/HipA32fTOE13kJLRNCzGIOBHq4fCxuN7010mDN0e9DuIPy4m/LjH5Qtb356rX7aa/lga2R6/ieEXSTDzT963HwpozKHxxuo3xJNUH5F0ZMSc3PYLG8u7k1h2ssJcsMnoPZuzuxsqOAcsY/i1QDu4iD/DwHGyH5QL9SvvYABziLMxU+LlipxULyFJebMU28Mx6WEVDb+n3/W7SkmLnNMlRKsIMZ1vJ11+fijB54w5IiOqc1opCh2jIV5cnx/Yqu9flZZrdHagwq4XyykPwq+5kW9KIHLJcX5G0vC25xc+52yqxMF1CImdlzV4OmkczQLqnGvc74Dj0YJza06AVJ3kZQnXUGQh047acyu5cYL44/MqEBFpIgwehOd5axbBaYPuVQo8O5jGr/fvVVlVD8Zb9V4bxFOmMimO2d6q32zU5pILyliydFK31USG2uRCo5fjxtfvFwXGDRgQ8/OTrMSrm7GqSI+kt2b+d8RgcqKbT2vjKVsIoqlfuTFHBw+EFiKpdKd9hg==;n/V8nfi5c7ToYuhi8WkQWA=="
 ---
 

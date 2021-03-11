@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-crisis-d
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp"
 type: article
 quality: 195
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
     quality: 176
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/04d2b9b6-650e-49fb-897f-b5c0cfa14348/93273dfe-1ab6-428b-9db2-dbe01a569bf9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hawley demands hearing on Biden handling of the border"
+    excerpt: "Sen. Josh Hawley, R- Mo., wrote a letter to both Sen. Gary Peters and President Biden calling for a full Senate hearing with testimony from Department of Homeland Secretary (DHS) Alejandro Mayorkas on the “growing crisis at the southern border.”"
+    publishedDateTime: 2021-03-11T01:11:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fUzg5sl1QBw/hawley-hearing-biden-handling-border"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-hearing-biden-handling-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-hearing-biden-handling-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fca7605-7ac4-4da3-a832-2a38820aa083/b2126b7b-9cc2-4508-a9d2-41027e52159a/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

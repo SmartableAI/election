@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hawley demands hearing on Biden handling of the border"
+    excerpt: "Sen. Josh Hawley, R- Mo., wrote a letter to both Sen. Gary Peters and President Biden calling for a full Senate hearing with testimony from Department of Homeland Secretary (DHS) Alejandro Mayorkas on the “growing crisis at the southern border.”"
+    publishedDateTime: 2021-03-11T01:11:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fUzg5sl1QBw/hawley-hearing-biden-handling-border"
+    ampWebUrl: "https://www.foxnews.com/politics/hawley-hearing-biden-handling-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/hawley-hearing-biden-handling-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3fca7605-7ac4-4da3-a832-2a38820aa083/b2126b7b-9cc2-4508-a9d2-41027e52159a/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Graham suggests Al Qaeda, ISIS could exploit Biden's lax border policies to enter US"
     excerpt: "Sen. Lindsey Graham, R-S.C. warned on \"Hannity\" Tuesday that President Biden's immigration policies could have major national security implications, suggesting that a porous southern border might serve as a \"great way for terrorists to come into our country.\""
     publishedDateTime: 2021-03-10T04:34:22Z

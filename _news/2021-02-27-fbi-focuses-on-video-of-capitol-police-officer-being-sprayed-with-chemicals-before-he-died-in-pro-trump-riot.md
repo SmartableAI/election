@@ -255,6 +255,22 @@ related:
         width: 380
         height: 254
         isCached: true
+  - title: "Jan. 6 Capitol defendant wants trial moved to west Texas, says D.C. too anti-Trump, politically correct"
+    excerpt: "Attorney for Jenny Louise Cudd, 36-year-old florist of Midland, Tex., calls case ‘emotionally political in every respect.’"
+    publishedDateTime: 2021-03-11T00:59:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GRAMAUB7UI6XHFGKTQYP3SJHE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Trump appointee to State Dept. Federico Klein arrested in Capitol attack; stunned mom says he was 'Boy Scout type'"
     excerpt: "Federico Klein was seen on camera violently shoving a riot shield into an officer during the Jan. 6 Capitol siege, according to court documents."
     publishedDateTime: 2021-03-07T05:00:00Z

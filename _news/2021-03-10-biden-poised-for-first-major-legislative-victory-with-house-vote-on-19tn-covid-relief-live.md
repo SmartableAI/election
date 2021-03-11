@@ -559,6 +559,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden White House plans nationwide victory lap to promote benefits of COVID-19 relief bill"
+    excerpt: "WASHINGTON (Reuters) - Mindful of hard lessons learned by the previous Democratic administration, President Joe Biden and top aides are planning a nationwide tour to sell Americans on the benefits of the newly passed $1.9 trillion pandemic relief bill."
+    publishedDateTime: 2021-03-10T23:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-idUSKBN2B302N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B302N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B302N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554466931&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A01H"
+        width: 792
+        height: 545
+        isCached: true
   - title: "Watch Live: House to vote on $1.9 trillion COVID relief bill, handing Biden major legislative win"
     excerpt: "The $1.9 trillion aid plan is expected to pass along party lines and will head to Mr. Biden's desk before key unemployment programs ... particularly Senator Joe Manchin. As Democrats have a 50-seat majority in the Senate, they require support from all ..."
     publishedDateTime: 2021-03-10T15:01:00Z

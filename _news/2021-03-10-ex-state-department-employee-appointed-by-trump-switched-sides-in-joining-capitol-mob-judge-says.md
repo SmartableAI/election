@@ -239,6 +239,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Jan. 6 Capitol defendant wants trial moved to west Texas, says D.C. too anti-Trump, politically correct"
+    excerpt: "Attorney for Jenny Louise Cudd, 36-year-old florist of Midland, Tex., calls case ‘emotionally political in every respect.’"
+    publishedDateTime: 2021-03-11T00:59:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GRAMAUB7UI6XHFGKTQYP3SJHE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "FBI focuses on video of Capitol Police officer being sprayed with chemicals before he died in pro-Trump riot"
     excerpt: "The video could offer investigators a path to holding someone accountable in connection with Officer Brian Sicknick’s death."
     publishedDateTime: 2021-02-27T00:47:00Z

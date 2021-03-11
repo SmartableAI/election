@@ -112,6 +112,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's border strategy faces crucial test amid dramatic surge of migrant children"
+    excerpt: "Aides who traveled to the southern border at the behest of President Joe Biden have described to him a troubling surge of migrant children the administration is now racing to house as the President's more humane approach to immigration faces a critical early test.\n    \n"
+    publishedDateTime: 2021-03-10T23:10:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/CGV0RKm0zZ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden's special Obamacare enrollment period opens Monday. Here's what you need to know"
     excerpt: "Uninsured Americans who want to buy Affordable Care Act coverage have another three months to do so, thanks to an executive order President Joe Biden signed last month.\n    \n"
     publishedDateTime: 2021-02-15T11:02:54Z
@@ -125,6 +141,22 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Why these lifelong Republicans support Biden's relief bill"
+    excerpt: "A lifelong Republican who switched parties says shame on the GOP for not supporting President Joe Biden's $1.9 trillion Covid-19 relief plan. CNN's Vanessa Yurkevich reports the Republican-turned-Democrat isn't alone."
+    publishedDateTime: 2021-03-11T01:47:00Z
+    webUrl: "https://www.cnn.com/videos/economy/2021/03/11/trump-supporters-biden-coronavirus-relief-bill-yurkevich-dnt-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/economy/2021/03/11/trump-supporters-biden-coronavirus-relief-bill-yurkevich-dnt-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/economy/2021/03/11/trump-supporters-biden-coronavirus-relief-bill-yurkevich-dnt-ebof-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222195207-capitol-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

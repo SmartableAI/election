@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump expected to meet with Sen. Rick Scott amid GOP divide over former President"
+    excerpt: "Former President Donald Trump is expected to meet with Republican Sen. Rick Scott this week, a source familiar with the meeting told CNN, at a time when the party is heatedly debating Trump's role in its future.\n    \n"
+    publishedDateTime: 2021-03-11T02:13:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/40Zo2mlfAss/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/trump-rick-scott-nrsc/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/trump-rick-scott-nrsc/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310190838-trump-scott-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "'A ransom demand': Avlon slams Trump's letter to RNC"
     excerpt: "Former President Donald Trump sent a cease-and-desist letter to the Republican National Committee, upset about fundraising materials using his likeness. CNN's John Avlon breaks down this move."
     publishedDateTime: 2021-03-08T13:47:00Z

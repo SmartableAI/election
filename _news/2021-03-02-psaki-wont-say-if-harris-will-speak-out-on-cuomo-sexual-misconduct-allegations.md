@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Pelosi vows to keep minimum wage provision in House bill; Harris could act"
-    excerpt: "The Senate's chief parliamentarian ruled Thursday that a federal minimum wage hike should not be included in the $1.9 trillion COVID-19 relief package, but that seemed to do little to deter House Democrats from pursuing the plan — against impossible odds."
-    publishedDateTime: 2021-02-26T07:30:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wV7eyEm-PCI/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act"
-    ampWebUrl: "https://www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp"
+  - title: "Kamala Harris ignores question on Cuomo sexual harassment scandal"
+    excerpt: "Vice President Kamala Harris ignored a question about Democratic New York Gov. Andrew Cuomo’s widening sexual harassment scandal while speaking with reporters on Wednesday."
+    publishedDateTime: 2021-03-11T02:08:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZIJjhS0Lckw/kamala-harris-ignores-question-on-cuomo-sexual-harassment-scandal"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-ignores-question-on-cuomo-sexual-harassment-scandal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-ignores-question-on-cuomo-sexual-harassment-scandal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 183
+    quality: 185
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6114d9a-f847-43c3-a7ad-38b44749138c/da7bcf3d-f970-4418-948f-6904dfa22813/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris speaks with Netanyahu in latest talk with a major world leader"
     excerpt: "Vice President Kamala Harris and Israeli Prime Minister Benjamin Netanyahu had a call Thursday amid the Middle Eastern ally's growing tension with Iran."
@@ -96,6 +96,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Cuomo won't be getting Emmy for apology 'performance,' GOP assemblyman tells Harris Faulkner"
+    excerpt: "New York lawmakers \"must act\" to impeach Gov. Andrew Cuomo, a New York State Assemblyman Doug Smith said on Thursday."
+    publishedDateTime: 2021-03-04T20:38:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iJPqXU--9FM/andrew-cuomo-apology-performance-faulkner-focus"
+    ampWebUrl: "https://www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Clinton, Harris, Warren all silent on Cuomo after second woman brings sexual misconduct allegations"
     excerpt: "Multiple high-profile Democratic women have yet to publicly comment on sexual harassment allegations against New York Gov. Andrew Cuomo despite having fervently objected to the nomination of Brett Kavanaugh to the U.S. Supreme Court over decades-old allegations of sexual harassment."
     publishedDateTime: 2021-02-28T22:09:28Z
@@ -112,35 +128,19 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Ex-Trump administration HHS official Brian Harrison announces run for Texas House seat"
-    excerpt: "Ex-Trump administration HHS official Brian Harrison announces run for Texas House seat"
-    publishedDateTime: 2021-03-01T19:34:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oqu2L8G6sCs/ex-trump-administration-hhs-official-brian-harrison-announces-run-for-texas-house-seat"
-    ampWebUrl: "https://www.foxnews.com/politics/ex-trump-administration-hhs-official-brian-harrison-announces-run-for-texas-house-seat.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ex-trump-administration-hhs-official-brian-harrison-announces-run-for-texas-house-seat.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "White House reporter covering Kamala Harris tests positive for COVID-19"
-    excerpt: "A reporter covering Vice President Kamala Harris tested positive for the coronavirus on Wednesday, forcing a thorough cleaning of the White House briefing room before this afternoon’s press"
-    publishedDateTime: 2021-02-24T17:21:00Z
-    webUrl: "https://nypost.com/2021/02/24/white-house-reporter-covering-kamala-harris-contracts-covid-19/"
-    ampWebUrl: "https://nypost.com/2021/02/24/white-house-reporter-covering-kamala-harris-contracts-covid-19/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/24/white-house-reporter-covering-kamala-harris-contracts-covid-19/amp/"
+  - title: "Kamala Harris’ tweet about Dr. Seuss resurfaces amid racial controversy"
+    excerpt: "Harris was a senator when she sent out the tweet, dated March 2, 2017, in which she wished the famed children’s book author a happy birthday."
+    publishedDateTime: 2021-03-03T15:08:00Z
+    webUrl: "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/"
+    ampWebUrl: "https://nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/03/kamala-harris-tweet-wishing-dr-seuss-a-happy-birthday-resurfaces/amp/"
     type: article
     provider:
       name: New York Post
       domain: nypost.com
     quality: 135
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/white-house-reporter-covid.jpg?quality=90&strip=all&w=1200"
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-seuss-02.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
@@ -160,21 +160,37 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "VP Kamala Harris To Black Americans: \"Let's Not Let COVID Get Us\""
-    excerpt: "Vice President Kamala Harris addressed the Black community and encouraged them to take the COVID vaccine in an interview with MSNBC host Rev. Al Sharpton that will air on Thursday and fully on the Saturday broadcast of his show on the news network."
-    publishedDateTime: 2021-02-24T00:00:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.html#!"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/02/24/vp_kamala_harris_to_black_americans_lets_not_let_covid_get_us.amp.html"
+  - title: "VP Kamala Harris takes another solo call with a world leader"
+    excerpt: "Vice President Kamala Harris had another call with a foreign leader Tuesday, independent of President Biden. Harris spoke with the prime minister of Norway, Erna Solberg, where Harris \"affirmed her commitment to deepening the strong alliance between Norway ..."
+    publishedDateTime: 2021-03-10T01:45:00Z
+    webUrl: "https://www.foxnews.com/politics/harris-call-norway-prime-minister"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-call-norway-prime-minister.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-call-norway-prime-minister.amp"
     type: article
     provider:
-      name: RealClearPolitics
-      domain: realclearpolitics.com
-    quality: 85
+      name: Fox News
+      domain: foxnews.com
+    quality: 135
     images:
-      - url: "https://assets.realclear.com/images/53/536177.jpg"
-        width: 1124
-        height: 842
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21036028847140.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Kamala Harris speaks with Netanyahu in latest talk with a major world leader"
+    excerpt: "Vice President Kamala Harris and Israeli Prime Minister Benjamin Netanyahu had a call Thursday amid the Middle Eastern ally's growing tension with Iran."
+    publishedDateTime: 2021-03-05T19:06:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-netanyahu-call"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-netanyahu-call.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-netanyahu-call.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7750b86-b666-441d-ad85-e004befe43e3/3f70789c-8232-4f13-a178-f669a03f6443/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "eFWmZykeg/dHy5RLY3JcM2hTb1VbsQIa//rH7Sqqn/dOQk1vTToEdWuykG0Ov0arBeo6cfbt+8OgC3IqA1m1WbI1cJCzEqFtcD2KXBDBWzN/Q91hRMm+vw3MDpyWSLWVX5HtRxEVIhjNtzxkwomVqOskJB4kPh6OtdGxDC3J53SXz8Gxzk/oXqwd5m4f388Wwe+yRNzhrTGEQxYPjPW30lN+aS79RIkOxlctze1dFOLSMC8dTHq2w/B80CcVrKWNljzJ9eBDXbRRz0ZL0iQePZW0Do7U8EZ0vHG5YvrjE8B50lqYJY2nA2hxiQxCp98owZ3yS1cT8/j/W/Bw5gXtU1iKrpQuHt3+h5Os4OnY5hw=;l/GXjc5he2e0MB25AhXTog=="
