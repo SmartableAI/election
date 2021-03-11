@@ -2,6 +2,62 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-04-biden-hhs-pick-refused-request-to-bring-humanitarian-aid-to-cuba-on-infamous-1996-trip-report.md",
+      "title": "Biden HHS pick refused request to bring humanitarian aid to Cuba on infamous 1996 trip: report",
+      "excerpt": "President Biden’s HHS nominee reportedly refused a request to bring humanitarian aid to Cuba while meeting with Fidel Castro.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7E6Dyj1mjs/biden-hhs-xavier-becerra-cuba-fidel-castro",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7E6Dyj1mjs/biden-hhs-xavier-becerra-cuba-fidel-castro",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-hhs-xavier-becerra-cuba-fidel-castro.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-xavier-becerra-cuba-fidel-castro.amp",
+      "publishedDateTime": "2021-03-04T08:45:33-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-donald-trump-lists-oceanfront-palm-beach-mansion-for-49-million.md",
       "title": "Donald Trump lists oceanfront Palm Beach mansion for $49 million",
       "excerpt": "A company registered to Donald Trump and his family is selling their Palm Beach oceanfront abode for a whopping $49 million.  The estate sits right next door to Trump’s Mar-a-Lago club,",
@@ -1308,58 +1364,6 @@
       "topics": [
         "Election",
         "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-mike-pences-remarkable-op-ed-highlights-the-gops-choice-on-voting-rights-and-where-it-will-probably-land.md",
-      "title": "Mike Pence’s remarkable op-ed highlights the GOP’s choice on voting rights — and where it will probably land",
-      "excerpt": "Alleged voting problems in 2020. In an op-ed for the Daily Signal, Pence details his opposition to a voting rights bill spearheaded by House Democrats. He begins, “After an election marked by significant voting irregularities and numerous instances of officials setting aside state election law,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HZ2TGE7SNZAB5G4LNTLM5HF5SI.jpg&w=1440",
-          "width": 1440,
-          "height": 1053,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/03/mike-pences-remarkable-op-ed-highlights-gops-choice-voting-rights-where-it-will-probably-land/?outputType=amp",
-      "publishedDateTime": "2021-03-03T08:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Mike Pence"
       ]
     }

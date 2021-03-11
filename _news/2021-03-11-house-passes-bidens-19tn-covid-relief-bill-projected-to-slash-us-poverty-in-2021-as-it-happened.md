@@ -251,19 +251,19 @@ related:
         isCached: true
   - title: "Congress OKs $1.9T virus relief bill in win for Biden, Dems"
     excerpt: "A Congress riven along party lines has approved the landmark $1.9 trillion COVID-19 relief bill, as President Joe Biden and Democrats claimed a major triumph on legislation marshaling the government’s spending might against twin pandemic and economic crises that have upended a nation."
-    publishedDateTime: 2021-03-11T05:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
+    publishedDateTime: 2021-03-11T06:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4029e4602f924898974b1bd9341a3be7_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
@@ -802,6 +802,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1080"
         width: 1080
         height: 608
+        isCached: true
+  - title: "White House: Biden's signature won't be on COVID relief check"
+    excerpt: "The White House announces the US is making an additional 900,000 doses of Pfizer and Moderna vaccines available this week. White House press secretary Jen Psaki also says that President Joe Biden's signature will not be on any relief checks,"
+    publishedDateTime: 2021-03-11T10:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/09/wh-biden-signature-wont-covid-relief-check/6927981002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/ab387543-2f21-412d-a360-e1217b78d450-a9951c60-0a2b-4258-8681-1301da9ed212_thumbnail.png?quality=10"
+        width: 852
+        height: 480
         isCached: true
   - title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
     excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."

@@ -2,21 +2,21 @@
 category: news
 title: "Congress OKs $1.9T virus relief bill in win for Biden, Dems"
 excerpt: "A Congress riven along party lines has approved the landmark $1.9 trillion COVID-19 relief bill, as President Joe Biden and Democrats claimed a major triumph on legislation marshaling the government’s spending might against twin pandemic and economic crises that have upended a nation."
-publishedDateTime: 2021-03-11T05:36:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
-webUrl: "https://abcnews.go.com/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
+publishedDateTime: 2021-03-11T06:41:00Z
+originalUrl: "https://www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html"
+webUrl: "https://www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4029e4602f924898974b1bd9341a3be7_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -793,6 +793,20 @@ related:
         width: 1080
         height: 608
         isCached: true
+  - title: "White House: Biden's signature won't be on COVID relief check"
+    excerpt: "The White House announces the US is making an additional 900,000 doses of Pfizer and Moderna vaccines available this week. White House press secretary Jen Psaki also says that President Joe Biden's signature will not be on any relief checks,"
+    publishedDateTime: 2021-03-11T10:29:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/09/wh-biden-signature-wont-covid-relief-check/6927981002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/ab387543-2f21-412d-a360-e1217b78d450-a9951c60-0a2b-4258-8681-1301da9ed212_thumbnail.png?quality=10"
+        width: 852
+        height: 480
+        isCached: true
   - title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
     excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."
     publishedDateTime: 2021-03-06T16:27:00Z
@@ -902,6 +916,6 @@ related:
         height: 675
         isCached: true
 
-secured: "X9UEyw6hXoE0V2wcjrTZfUSKMizNVCWl+IURYP176CbnJwNE3i3oB42bsfVEYGVNv+SnyMDr7o4gF4yNwYgYntOQJgrlDHQxflMSJibuku8qDC+v05TfofWuYYBQOilzizsTq1l6xbhDPLdlNIkLVCvvqNbgcX9iLLEASSn+QUGmqM7Rl6a3BAnn3Y7PmNQEJFmokioe9w/7trhOLKdeWaVpWK9lfKcJQ74F/Fl30lLbs0TTABYewt7brlyQekVt49gibrxMgU5LmczLirvw7Xq5Iojj2lnjJCTyh9KA2/KAoPkIbbFHVZJDfHfJJ8K5hOIWP7Y4UiLLids+jzMEwZ2/zHy7pM9etYmOl86xw3s=;9OkbWX/ilHkSZhkzPyNjVQ=="
+secured: "rHxhSlnT8O9csvpFUTaRhgqRiV0kJF0M8fDcdSOGfFvLBlYDvP9oQH9Sk0SHveJ4Sfxis7p70hJB5zMGF6AdbOP7G38FC0xmWalAgh1aig6B48EVOmz55oA0JIQBlmgvUSryM9j2D6BL1bw1xhMAyVAsSP08UoTidPwexuWRvBkQA0OPtRE6CChY3cawRXaqIoK2NqB/v7ARzSIVRC+HOQh3uOOtlaoczWFSnqqouwtmLd/utCJoU0LjAfaOzp/dGOzU1EtgALph9wp9O1/2p+ucNOtMoie96CZj8fFzNnlqllwGsA8mjWE3SZXohYPqLP+hBKcEp3QXISuyJPpYclfvPOliSagFVbDvA6zUbMI=;rXb3zKRloAml4I24s7pUPg=="
 ---
 

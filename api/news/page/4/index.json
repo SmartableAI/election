@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-05-tom-cotton-slams-top-biden-pentagon-nominee-for-vicious-tweets-weak-israel-iran-policies.md",
+      "title": "Tom Cotton slams top Biden Pentagon nominee for 'vicious' tweets, 'weak' Israel, Iran policies",
+      "excerpt": "Sen. Tom Cotton R-Ark. said Friday that President Joe Biden’s nominee for the No. 3 civilian position at the Pentagon doesn’t have the \"temperament\" for the job, citing \"vicious\" verbal attacks against people criticizing his position on the Iran nuclear deal and past tweets about Republicans.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/consSGRk2ww/biden-pentagon-nominee-colin-kahl-cotton",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/consSGRk2ww/biden-pentagon-nominee-colin-kahl-cotton",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2229b2f1-24c2-4122-ae85-34c31c7b489b/c3a87125-f980-46d4-8319-88e455416533/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp",
+      "publishedDateTime": "2021-03-05T11:50:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-psaki-says-biden-isnt-snubbing-congress-by-postponing-joint-address.md",
       "title": "Psaki says Biden isn't 'snubbing' Congress by postponing joint address",
       "excerpt": "White House press secretary Jen Psaki on Friday said President Biden is not \"snubbing\" Congress by delaying his joint address, pointing to the coronavirus pandemic and saying the administration has been \"engaged closely\" with congressional leadership regarding their plans.",
@@ -1307,62 +1363,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-biden-hhs-pick-refused-request-to-bring-humanitarian-aid-to-cuba-on-infamous-1996-trip-report.md",
-      "title": "Biden HHS pick refused request to bring humanitarian aid to Cuba on infamous 1996 trip: report",
-      "excerpt": "President Biden’s HHS nominee reportedly refused a request to bring humanitarian aid to Cuba while meeting with Fidel Castro.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7E6Dyj1mjs/biden-hhs-xavier-becerra-cuba-fidel-castro",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7E6Dyj1mjs/biden-hhs-xavier-becerra-cuba-fidel-castro",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-hhs-xavier-becerra-cuba-fidel-castro.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-xavier-becerra-cuba-fidel-castro.amp",
-      "publishedDateTime": "2021-03-04T08:45:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

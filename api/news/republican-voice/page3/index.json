@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-03-biden-won-white-house-with-put-your-dumb-uncle-in-the-basement-strategy-new-book-says.md",
+      "title": "Biden won White House with ‘put your dumb uncle in the basement’ strategy, new book says",
+      "excerpt": "President Biden won the White House because the coronavirus let him stay hidden in his basement, protecting his campaign from its biggest liability — the candidate himself, a new book says.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZHgjoN7dPBs/biden-won-white-house-put-dumb-uncle-in-basement-strategy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZHgjoN7dPBs/biden-won-white-house-put-dumb-uncle-in-basement-strategy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21061782817925.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-won-white-house-put-dumb-uncle-in-basement-strategy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-won-white-house-put-dumb-uncle-in-basement-strategy.amp",
+      "publishedDateTime": "2021-03-02T18:36:40-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-03-biden-administration-argues-migrant-surge-is-a-challenge-not-a-crisis.md",
       "title": "Biden administration argues migrant surge is a 'challenge,' not a 'crisis'",
       "excerpt": "President Biden is declining to call the situation at the southern border a crisis – even amid reports that his administration needs another 20,000 beds at migrant facilities to deal with a surge of unaccompanied minors.",
@@ -1594,62 +1650,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/haley-biden-sham-human-rights-council-tyrants-dictators.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/haley-biden-sham-human-rights-council-tyrants-dictators.amp",
       "publishedDateTime": "2021-02-24T12:06:15-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-24-bidens-100-day-deportation-moratorium-indefinitely-banned-by-judge.md",
-      "title": "Biden’s 100-day deportation moratorium indefinitely banned by judge",
-      "excerpt": "The Biden administration’s efforts to impose a 100-day pause on deportations were dealt another blow on Tuesday when a district judge extended a ban on its imposition in response to a lawsuit from Texas.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OUfAiZtcmg/bidens-100-day-deportation-moratorium-judge",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5OUfAiZtcmg/bidens-100-day-deportation-moratorium-judge",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-100-day-deportation-moratorium-judge.amp",
-      "publishedDateTime": "2021-02-24T05:53:55-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

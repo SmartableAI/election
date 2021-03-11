@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-01-neera-tandens-confirmation-fight-is-the-first-morality-play-of-post-trump-washington.md",
+      "title": "Neera Tanden’s confirmation fight is the first morality play of post-Trump Washington",
+      "excerpt": "The White House is still backing her, despite old posts that have upset many across the aisle. But there’s more to this drama than tweets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6OW7BYTXR4I6XFJXJFQVRTC73E.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-28T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-trump-wins-cpac-straw-poll-with-ron-desantis-winning-a-second-one.md",
       "title": "Trump Wins CPAC Straw Poll, with Ron DeSantis Winning a Second One",
       "excerpt": "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential polls: One with a potential field that included Mr. Trump, and one without him.",
@@ -1307,58 +1359,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee.md",
-      "title": "McConnell says he would \"absolutely\" support Trump if he's the 2024 GOP nominee",
-      "excerpt": "Just two weeks ago, the Senate Minority Leader called the former president \"practically and morally responsible for provoking the events\" of January 6.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/mcconnell-support-trump-2024-republican-nominee/",
-      "originalUrl": "https://www.cbsnews.com/news/mcconnell-support-trump-2024-republican-nominee/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 221,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/20/6ffb8a67-5134-46d7-9ec4-0d3c7ddd44cf/thumbnail/1200x630/b7afdd3f1d6d7db65539b5c680dc11a7/gettyimages-1257244765.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republican-nominee/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republican-nominee/",
-      "publishedDateTime": "2021-02-26T04:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

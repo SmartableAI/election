@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-06-haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins.md",
+      "title": "Haley, Noem Differ in Approach to Trump as 2024 Jockeying Begins",
+      "excerpt": "The only two women so far on lists of potential 2024 Republican presidential candidates—Nikki Haley and Kristi Noem—have taken divergent paths in navigating around the sizable political shadow of former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
+      "originalUrl": "https://www.wsj.com/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-308058/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
+      "publishedDateTime": "2021-03-06T04:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees.md",
       "title": "Microsoft, Wells Fargo Satisfied Trump Labor Department on Hiring More Black Employees",
       "excerpt": "The Labor Department under the Trump administration closed inquiries last year after the two companies responded to questions about their plans to hire more Black staff.",
@@ -1592,62 +1649,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/flashback-gov-cuomo-trump-disrespect-women.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/flashback-gov-cuomo-trump-disrespect-women.amp",
       "publishedDateTime": "2021-03-03T02:03:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-biden-won-white-house-with-put-your-dumb-uncle-in-the-basement-strategy-new-book-says.md",
-      "title": "Biden won White House with ‘put your dumb uncle in the basement’ strategy, new book says",
-      "excerpt": "President Biden won the White House because the coronavirus let him stay hidden in his basement, protecting his campaign from its biggest liability — the candidate himself, a new book says.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZHgjoN7dPBs/biden-won-white-house-put-dumb-uncle-in-basement-strategy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZHgjoN7dPBs/biden-won-white-house-put-dumb-uncle-in-basement-strategy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21061782817925.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-won-white-house-put-dumb-uncle-in-basement-strategy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-won-white-house-put-dumb-uncle-in-basement-strategy.amp",
-      "publishedDateTime": "2021-03-02T18:36:40-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

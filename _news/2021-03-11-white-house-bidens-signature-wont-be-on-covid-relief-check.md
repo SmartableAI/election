@@ -1,14 +1,12 @@
 ---
 category: news
-title: "$1.9 trillion COVID-19 relief bill with $1,400 stimulus checks passes House, heads to President Biden for signature"
-excerpt: "President Biden will sign the bill into law Friday, the White House said. He started pushing the measure in January before he took office."
-publishedDateTime: 2021-03-10T20:20:00Z
-originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/10/covid-stimulus-bill-passes-house-heads-joe-biden-signature/4622954001/"
-webUrl: "https://www.usatoday.com/story/news/politics/2021/03/10/covid-stimulus-bill-passes-house-heads-joe-biden-signature/4622954001/"
-ampWebUrl: "https://amp.usatoday.com/amp/4622954001"
-cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4622954001"
+title: "White House: Biden's signature won't be on COVID relief check"
+excerpt: "The White House announces the US is making an additional 900,000 doses of Pfizer and Moderna vaccines available this week. White House press secretary Jen Psaki also says that President Joe Biden's signature will not be on any relief checks,"
+publishedDateTime: 2021-03-11T10:29:00Z
+originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/09/wh-biden-signature-wont-covid-relief-check/6927981002/"
+webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/09/wh-biden-signature-wont-covid-relief-check/6927981002/"
 type: article
-quality: 103
+quality: 105
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/1f775faf-6422-400a-83cb-a6800ed38546-GTY_1306363694.jpg?auto=webp&crop=6889,3876,x0,y350&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/ab387543-2f21-412d-a360-e1217b78d450-a9951c60-0a2b-4258-8681-1301da9ed212_thumbnail.png?quality=10"
+    width: 852
+    height: 480
     isCached: true
 
 related:
@@ -809,20 +807,6 @@ related:
         width: 1080
         height: 608
         isCached: true
-  - title: "White House: Biden's signature won't be on COVID relief check"
-    excerpt: "The White House announces the US is making an additional 900,000 doses of Pfizer and Moderna vaccines available this week. White House press secretary Jen Psaki also says that President Joe Biden's signature will not be on any relief checks,"
-    publishedDateTime: 2021-03-11T10:29:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/09/wh-biden-signature-wont-covid-relief-check/6927981002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/ab387543-2f21-412d-a360-e1217b78d450-a9951c60-0a2b-4258-8681-1301da9ed212_thumbnail.png?quality=10"
-        width: 852
-        height: 480
-        isCached: true
   - title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
     excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."
     publishedDateTime: 2021-03-06T16:27:00Z
@@ -834,6 +818,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 104
+  - title: "$1.9 trillion COVID-19 relief bill with $1,400 stimulus checks passes House, heads to President Biden for signature"
+    excerpt: "President Biden will sign the bill into law Friday, the White House said. He started pushing the measure in January before he took office."
+    publishedDateTime: 2021-03-10T20:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/10/covid-stimulus-bill-passes-house-heads-joe-biden-signature/4622954001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4622954001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4622954001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/1f775faf-6422-400a-83cb-a6800ed38546-GTY_1306363694.jpg?auto=webp&crop=6889,3876,x0,y350&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden's relief bill isn't getting bipartisan support like previous stimulus bills. What do Republicans dislike so much?"
     excerpt: "Republican Senators have described President Joe Biden's COVID-19 stimulus plan as a \"clunker,\" \"bad politics\" and “wildly expensive.\" The legislation, dubbedthe"
     publishedDateTime: 2021-03-05T10:12:00Z
@@ -916,6 +916,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ETwsAo+cMQPRnIGSz+YCXaQ91SBZfm/zH6QUPG8sM2F5mU32dKX5CrafVeJolJVwa6FcI+RIxwo7GW8Tnk+mHyLXzy+RIm5iPDgf3xeeXTN019qqjjf2jdV1GM7+tbelxzWoniuV9gU9x6YT1ecnf427qdTuD0SgKQ1rPEzM95NIiAIJF/mIptosX38nkStU4FQtd5lswZCdUJKXgqKga1M+5ZKOnnnLl4d0hemAIlPOPlU0XbFpFJHugjEBv16bgWJ0+AvniImmmA7bBe9EK1nXypDxkbNNL9I1tjvU4ZrFmRZBdd83oJYiIO05DBSCbwO246v9xW5MvLVJcqaiYG0HM9cGu8VwWAzHVqyc+QO/I8GRBaoE4w+X/81tZlCh5wyQf9D1ey714oTcWQGlB3rlWjJ503jjj2DuZGKVXn1nFBekinOJUi3d5QV8ogWvMY7f69mL2Krx6dVIbL6jxqCwBxG45WEBkmfY3OsdtJzsrzF0ZeIfc71QqPiLYD4sJS3teu0EcUAq47ClqnWacQ==;HDBTA7FK8dikqdPHw85wPA=="
+secured: "nJh1s2fspaXmZ55xk29C5/JhT6bX/Vmf4sfegNcVXODgAgn9x1GuUVTErSTAhlhQ+WS7OOkcVZ1GN86GFdZfLH4/LP1hu3ksXyYggO6/37pJ/wssE0lc7v704WuMCI2ktonNgu5y4uGRfb3TsoXjFoAqZ29DxKAQbXwjEySKiw6BLq7KS0f0KffvyJk7SWL/drNpDJXFKcI7IfiXP+NBtfaKQWvUr/ZMdn/Dj9kNQXqGCYKiBHxamHicnZq30taKb1HXfiu6ZBdHl7HwW9P91vnT14FPzo4Jnd//1I1CIDZkrdBTfEb9mtFkgjx690x4KfEqkFnqWTwXS6wE/nDJfrl2QJrTXJt4jvmSY8ml/j0=;2Ftua+goHaQeE0urJTefjA=="
 ---
 
