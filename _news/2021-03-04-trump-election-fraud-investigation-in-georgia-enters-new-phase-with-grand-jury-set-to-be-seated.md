@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Plaskett reacts to Trump's call with elections investigator"
+    excerpt: "Del. Stacey Plaskett (D-USVI), one of the House impeachment managers in former President Donald Trump's second impeachment trial, says Trump's call with a Georgia elections investigator is further evidence to corroborate the claims Democrats made during his second impeachment trial."
+    publishedDateTime: 2021-03-11T15:47:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/11/stacey-plaskett-trump-georgia-intv-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/11/stacey-plaskett-trump-georgia-intv-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/11/stacey-plaskett-trump-georgia-intv-ebof-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211140413-04-del-stacey-plaskett-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Pro-Trump Florida state lawmaker to challenge Webster"
     excerpt: "The \"corrupt Republican establishment turned its back on President Trump,\" the state legislator says. \"And it’s time we fight back.”"
     publishedDateTime: 2021-03-08T18:41:00Z

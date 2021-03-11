@@ -2,9 +2,9 @@
 category: news
 title: "Trump Call to Georgia Lead Investigator Reveals New Details"
 excerpt: "Photo: Associated Press/Brynn Anderson/STAR MAX (Video from 1/3/21) ATLANTA—Then-President Donald Trump urged the chief investigator of the Georgia Secretary of State’s office to look for fraud during an audit of mail-in ballots in a suburban Atlanta ..."
-publishedDateTime: 2021-03-11T02:26:00Z
-originalUrl: "https://www.wsj.com/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561"
-webUrl: "https://www.wsj.com/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561"
+publishedDateTime: 2021-03-11T15:08:00Z
+originalUrl: "https://www.wsj.com/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561"
 type: article
@@ -65,6 +65,6 @@ related:
         height: 800
         isCached: true
 
-secured: "oq2vf3cMCKbYB1wjwz0Wxg9nM4Sc0roavgMZpZV+ssHP9zMJOu1QaOyCKfeazaTg982b5zt2F8dzde2YkitgFbzsrvK+DPDGyICNRQu/R2QTqW8La9n//RNzlfXv0yI+1ZVSUE2AiFzZUQ5pfnk17vf6YtYqfv+sIzma1+SbvGSEpOZZJSIU4N6kdx7KPHF+5+YI5pyf/jPt3LbTLOtrbzUEP26SkZFYMeUX6diiwqY8DtLZcZpRhWm623jzczvRJfydU20LMp1NpibwL+hIKazJbPdSa6ysp24vkTfNMADvevAwLawTUR+fmeiKWFhiUrZu/1w3BqB3aSbyfgLR/qOD2/d5qjtWeW/bx9EkHqFHrws6n21cbRV3SYyQ5kZiTar2GIrXnsc+8Ncfq2mRksiABC+Sf/7+3jnhw+0e5X0TOiANRgbNe1kIwcDsYkwHnSR/YzIzZ123k/9hvoDY7j6F3KNcdFeXeoggxjq3bGWlqt9V34i/GI3d2tpMApgF8FjoMv+8gXMSC4ThcVUm8w==;0R50VM/SSgDcLCcS7jrS5Q=="
+secured: "Wx85GZdVCcjBHmQmblrFsgjSp486uXVM0uSi75myKw8biyu8K/zqS5gYqO6ngylcW3SFXIdBRvmNzz8Qn3nKpT/BQ6yPSVAe30MjJme2Zw7kOmNbD1VYwtKx04EELkpXY+R/snbBa0FdCuVDD1vc1wmEV6JrxF5GRTgvD9fS9WAexlWTfRia5E+ZENO+U8PqFEq3uZNCNfJvswtXXtNgUtor7Wq8Az5u7y3XtD3UJJNWg9XEr0eMCuNDUR0p4HdgwgW2yCXh/X+pTDR1QFb9GuMSIdouJSRcUIpxv0XBOx22XOS6WZYyyhPS8X0yqJUqLFGixtG97LLMZpTb9yYFY0CAoqHv2uyuPLk1g0ewCGs=;foPuNb04DsR+zFgKtKeKLQ=="
 ---
 

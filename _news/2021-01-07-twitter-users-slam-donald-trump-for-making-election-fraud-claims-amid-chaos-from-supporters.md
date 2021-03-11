@@ -235,6 +235,20 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "Newly Revealed Call Details How Trump Pressed Georgia Investigator To Find Vote Fraud"
+    excerpt: "Trump asked a Georgia law enforcement official to find evidence of fraud with absentee-by-mail ballots. He told her: \"When the right answer comes out, you'll be praised.\""
+    publishedDateTime: 2021-03-11T16:06:00Z
+    webUrl: "https://www.npr.org/2021/03/11/976030079/newly-revealed-call-details-how-trump-pressed-georgia-investigator-to-find-vote-"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 98
+    images:
+      - url: "https://media.npr.org/assets/img/2021/03/11/gettyimages-1304601957_wide-3b5a2d0c69bd0a99ef67de57905201708a7ad1ef.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "How Tennessee's congressional delegation voted on a second impeachment of President Donald Trump"
     excerpt: "President Trump is the only president to be impeached a second time, and the vote fell mostly along party lines. Here's how Tennessee's reps voted."
     publishedDateTime: 2021-01-13T22:33:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-do
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-doj/index.html"
 type: article
 quality: 181
-heat: 281
+heat: 301
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210112002426-02-trump-04-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Merrick Garland arrives at Justice Department and delivers an implicit rebuke to Trump era"
+    excerpt: "Attorney General Merrick Garland arrived at the Justice Department Thursday for his first day at work and spoke about the need to \"adhere to norms\" in an implicit rebuke of the Trump-era leadership.\n    \n"
+    publishedDateTime: 2021-03-11T16:27:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TUbSKTalFR8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/merrick-garland-ag-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/merrick-garland-ag-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311111918-01-merrick-garland-doj-0311-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

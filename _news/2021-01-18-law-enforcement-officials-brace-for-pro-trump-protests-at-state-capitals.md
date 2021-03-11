@@ -219,6 +219,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Newly Revealed Call Details How Trump Pressed Georgia Investigator To Find Vote Fraud"
+    excerpt: "Trump asked a Georgia law enforcement official to find evidence of fraud with absentee-by-mail ballots. He told her: \"When the right answer comes out, you'll be praised.\""
+    publishedDateTime: 2021-03-11T16:06:00Z
+    webUrl: "https://www.npr.org/2021/03/11/976030079/newly-revealed-call-details-how-trump-pressed-georgia-investigator-to-find-vote-"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 98
+    images:
+      - url: "https://media.npr.org/assets/img/2021/03/11/gettyimages-1304601957_wide-3b5a2d0c69bd0a99ef67de57905201708a7ad1ef.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Twitter Users Slam Donald Trump For Making Election Fraud Claims Amid Chaos From Supporters"
     excerpt: "Twitter users were not happy with President Donald Trump claiming that states want to \"redo their votes\" due to alleged fraud Wednesday and accused him of making a mockery of democracy."
     publishedDateTime: 2021-01-07T11:00:00Z

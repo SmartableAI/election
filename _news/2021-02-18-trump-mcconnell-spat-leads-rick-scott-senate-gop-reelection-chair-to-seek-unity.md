@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-see
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-mcconnell-spat-rick-scott-seeks-unity.amp"
 type: article
 quality: 185
-heat: 745
+heat: 785
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/66bd0867-734c-4d23-ab91-7e89c506b1f4/bc3cc15b-261f-4b24-a65d-992f22b4a0b0/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump-Scott meeting comes amid former president's friction with McConnell"
+    excerpt: "Former President Trump’s expected to meet this week with Sen. Rick Scott of Florida, the chair of the National Republican Senatorial Committee (NRSC), a source familiar with the meeting confirms to Fox News."
+    publishedDateTime: 2021-03-11T16:00:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lvah6UUlI1w/trump-scott-meeting-friction-mcconnell"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-scott-meeting-friction-mcconnell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-scott-meeting-friction-mcconnell.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Graham: McConnell 'put a load on Republicans' back' with anti-Trump speech"
     excerpt: "Sen. Lindsey Graham, R-S.C., called out Senate Minority Leader Mitch McConnell for speaking out against former President Donald Trump after voting to acquit Trump at his impeachment trial."
@@ -366,6 +382,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/richard-burr-01.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump-Scott meeting comes amid former president's friction with McConnell"
+    excerpt: "Former President Trump is expected to meet this week with Sen. Rick Scott of Florida, the chair of the National Republican Senatorial Committee (NRSC), a source familiar with the meeting confirms to Fox News. The meeting comes amid strained relations ..."
+    publishedDateTime: 2021-03-11T16:04:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-scott-meeting-friction-mcconnell"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-scott-meeting-friction-mcconnell.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-scott-meeting-friction-mcconnell.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/RickScott-CPAC201.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Donald Trump Impeachment Trial Still Has GOP Sen. Bill Cassidy Asking Questions"
     excerpt: "The Louisiana Republican has emerged as a wild card and most visible swing vote in the trial over whether former President Donald Trump incited the riot at the Capitol last month."

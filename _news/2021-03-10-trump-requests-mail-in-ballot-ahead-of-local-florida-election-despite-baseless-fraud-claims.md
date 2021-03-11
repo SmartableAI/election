@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/trump-mail-in-ballot-vot
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/trump-mail-in-ballot-voting-florida/index.html"
 type: article
 quality: 180
-heat: 220
+heat: 240
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 177
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Plaskett reacts to Trump's call with elections investigator"
+    excerpt: "Del. Stacey Plaskett (D-USVI), one of the House impeachment managers in former President Donald Trump's second impeachment trial, says Trump's call with a Georgia elections investigator is further evidence to corroborate the claims Democrats made during his second impeachment trial."
+    publishedDateTime: 2021-03-11T15:47:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/11/stacey-plaskett-trump-georgia-intv-ebof-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/11/stacey-plaskett-trump-georgia-intv-ebof-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/11/stacey-plaskett-trump-georgia-intv-ebof-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 150
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210211140413-04-del-stacey-plaskett-2020-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

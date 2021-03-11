@@ -79,6 +79,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump Buddha Statues Are Being Sold Across China"
+    excerpt: "A Chinese furniture maker made headlines this week after it began selling Donald Trump Buddha statues online, spawning a string of competing copycats. Buyers on Alibaba-owned e-commerce site Taobao can order a 6-inch pensive statuette of the 45th president ..."
+    publishedDateTime: 2021-03-11T14:51:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-buddha-statues-are-being-sold-across-china-1575399"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-buddha-statues-are-being-sold-across-china-1575399?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-buddha-statues-are-being-sold-across-china-1575399?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1753356/donald-trump-buddha-statues-sell-china.jpg"
+        width: 567
+        height: 648
+        isCached: true
+  - title: "On Twitter, Trump is more popular than Jesus"
+    excerpt: "With Donald Trump playing the old hits to an enthusiastic Conservative Political Action Conference (CPAC) crowd and congressional Republicans making post-election pilgrimages to Mar-a-Lago to pay respect, many observers wonder when the former president’s ..."
+    publishedDateTime: 2021-03-11T13:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P3WUXBD2MYI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Claimed value of sleepy New York estate could come to haunt Donald Trump"
     excerpt: "A century-old estate that Trump owns in suburban New York is subdued by the former president's standards, but it could end up being one of his bigger legal nightmares."
     publishedDateTime: 2021-03-08T06:56:00Z

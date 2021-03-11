@@ -80,6 +80,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris ignores question on Cuomo’s sexual misconduct scandal"
+    excerpt: "Vice President Kamala Harris refused to comment on Gov. Andrew Cuomo’s mounting sexual misconduct scandal — despite previously swiftly condemning former Democratic Sen. Al Franken when"
+    publishedDateTime: 2021-03-11T16:07:00Z
+    webUrl: "https://nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/"
+    ampWebUrl: "https://nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-4.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "RGtUiCbTiPIZsOtd2rNjW4c/QGAZAzgHDuJoskcMlKrcjR1q5v8eEUa8ZnLlqj42RG8JFk+9QgaZ+GwODpXuDsIYr5b2RYsYJqpUG/p1zh98mUgZHAENVPSDEC+eH9ydSQBUTcgV/3dpnM9mUKUcfH9Pp2jF1O07671Jx4IYBOiBSs903jQ4qoq+IRTrpRwa97gjTyMMfSjkyAxhF/nVVNIP+glD/ZGMi2yeTsxn+WjNkX89uyovkiwTNPL7SiaSqFDHW2CoVl+T3mHdoRXAvsv11ZLxQcNfg5/roIqHa3iC5gvL0BON6Tr3MeKqH3hnWG+WKWTXgbiPxwXaxkPoFb1b6Psu9pdFEg/Qx0NTJOs=;g0mGMFxk1mr2pvm9X0tBmg=="
 ---

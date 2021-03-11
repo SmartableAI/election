@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Merrick Garland arrives at Justice Department and delivers an implicit rebuke to Trump era"
+    excerpt: "Attorney General Merrick Garland arrived at the Justice Department Thursday for his first day at work and spoke about the need to \"adhere to norms\" in an implicit rebuke of the Trump-era leadership.\n    \n"
+    publishedDateTime: 2021-03-11T16:27:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TUbSKTalFR8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/merrick-garland-ag-remarks/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/merrick-garland-ag-remarks/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 165
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311111918-01-merrick-garland-doj-0311-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Donald Trump: America's 45th President"
     excerpt: "President Donald Trump has been in the spotlight for years. From developing real estate and producing and starring in TV shows, he became a celebrity long before winning the White House. Trump had no political experience when he ran for president."
     publishedDateTime: 2021-01-08T21:44:00Z
