@@ -287,6 +287,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Hell freezes over: Newspaper says Trump shares credit with Biden on vaccines"
+    excerpt: "Either you argue that Donald Trump did an incredible job and Joe Biden is doing a horrible job, or you insist the opposite is true. Taking a more nuanced position is often dismissed as being wishy-washy."
+    publishedDateTime: 2021-03-11T08:02:00Z
+    webUrl: "https://www.foxnews.com/media/hell-freezes-over-newspaper-says-trump-shares-credit-with-biden-on-vaccines"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-to-hold-news-conf.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "RYU2LzHY4pR4De1eDU9cajc2/RY9gcT7uTIIPjOL4gf/rN3/j2z1zYkOv752MBsvh1qYGv/PXhXnXveTriIjbeXox1t/C67+ol59v46SbK+8LDj0umBE8OUB0uGqU7L2EWPSYYgUcuhWg3fA3ccC7gOoc2U64vXjp3I6Nva2TmO3EdYnnqfxIY/4t6vPXEqnkAS70EqhlDRBW6w1LCwY8h2DAtdPQfQmkLOaB4kGd8H3d8SqvmSxsLuyraSAVJ6gnLRT1kmHIu25PnwOcK3wvYQoZLFeWUDyceMq2oWewD7kMn227a+h0T8mPvCLOvQ+0kjj4Xh/fsZQQjw5AaiK7MRQ31G5b6fvFRPmcuudSIg=;c04/x6jvMHU9znGMtFWgrg=="
 ---

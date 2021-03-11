@@ -61,6 +61,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Biden boosts US vaccine stockpile as world waits"
+    excerpt: "President Joe Biden has directed his administration to order another 100 million doses of the Johnson & Johnson coronavirus vaccine, growing a likely U.S. surplus of doses later this year when much of"
+    publishedDateTime: 2021-03-10T22:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden wants to sell the stimulus. The White House is still figuring out how."
     excerpt: "Democrats say they blew it in the Obama years by failing to tout the president’s achievements in rescuing the economy. The White House hopes to avoid a repeat, but it is still formulating its sales pitch."
     publishedDateTime: 2021-03-10T14:31:00Z

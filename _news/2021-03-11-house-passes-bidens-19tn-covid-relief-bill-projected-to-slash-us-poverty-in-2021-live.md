@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Biden hails Senate passage of virus aid bill"
-excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
-publishedDateTime: 2021-03-06T20:13:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
+title: "House passes Biden's $1.9tn Covid relief bill projected to slash US poverty in 2021 – live"
+excerpt: "Psaki said Joe Biden was briefed earlier today by a team of his advisers, who recently traveled to the US-Mexican border to provide an update on the recent surge in unaccompanied migrant children trying to enter the country. Asked whether the president ..."
+publishedDateTime: 2021-03-11T00:00:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates?page=with:block-604915498f08168521f61f9e"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates?page=with:block-604915498f08168521f61f9e"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
 type: article
-quality: 105
+quality: 95
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d63f00a-78e5-4d4d-ba91-c6e5c3186299_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Biden won’t be putting his signature on COVID-19 relief checks, unlike Trump"
@@ -751,6 +747,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden hails Senate passage of virus aid bill"
+    excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
+    publishedDateTime: 2021-03-06T20:13:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d63f00a-78e5-4d4d-ba91-c6e5c3186299_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden on verge of signing COVID-19 relief package"
     excerpt: "President Joe Biden could soon sign the $1.9 trillion COVID-19 economic relief package, which passed in the Senate over the weekend. Despite some GOP-approved amendments in the bill, no Republican senator voted for it."
     publishedDateTime: 2021-03-09T11:21:00Z
@@ -847,17 +857,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 97
-  - title: "House passes Biden's $1.9tn Covid relief bill projected to slash US poverty in 2021 – live"
-    excerpt: "Psaki said Joe Biden was briefed earlier today by a team of his advisers, who recently traveled to the US-Mexican border to provide an update on the recent surge in unaccompanied migrant children trying to enter the country. Asked whether the president ..."
-    publishedDateTime: 2021-03-11T00:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates?page=with:block-604915498f08168521f61f9e"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 95
   - title: "House passes Biden's $1.9tn Covid relief bill projected to slash US poverty in 2021 – as it happened"
     excerpt: "House passes the bill, which will now go to the president, Joe Biden, who will sign it on Friday"
     publishedDateTime: 2021-03-11T00:48:00Z
@@ -902,6 +901,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ocqQCJsdciPdoW2y27PlHGx2XXr8+IwumNUK3MDakNqCro0JlNHG2nzuBvQPhFpjFXyKwepeE9GUjWw9iXc7uaJNeA0xdchPR+o2nDhKg/EwxJATQXKDe/QZgpCPGIt+azneNU7AE948Qv4jE8eVPS9wZ+na4x+JlezP4+EWbPCR0PG88noiLjES+WX7rnOwi7TOgRLu4J44ovGWf/cSi+9VUqyIXtsYZO++stcMs75UEwNmFrfnc4GxL1e5nKmg0i/ChrGjh3wzW5t34ssFkGZnzeGwKvUCeeWLfnmPTbEV1vSuKK0YPWCSwnZfHmrWaUJ01MjNCw/JQx0TYVAo5t06nsliDcAC9/bt0p82w27YzOZJoEg6lQj2ZwPfB/AFZh1xlDX/o945CYE+d2eKXfffGYmf91LQQFmb8/VR46SC17ro+XREvVPUf9CBOnSl2CbKDhoaLEGHzpo7WpxjuQEbuLjre8U++IdXdIj6buHBrU5+yGJWz2/vG6rgN5a1RKOCtuXrEC8NdYiQMf7T3A==;Iihy99HNdA6hpibSsMcLJg=="
+secured: "5p+kGgoicJ0ewmjG0juIb1o8EJKuFc6ZlJmR9aTccFraDETBJ5UHUqy2qZRLqJcTnbVJ2l3QJqnk/yMMHu42SmMxlkBs/n71MfwDqQANCc+RFhbXQEeBHL75BGpLbDZPjClVxZ/M7xqWGRlY7A+NAtjT/pPtSA/wl0pBhU/nk0QgKN4nDAH3tABDYxs464aEeJI8Ip/ZGpFFAvlrE9aEC9K4VnFXEH2VROLmIRmaWTzT2ww/9GSOjLEcBC1+mR8QGYNBwSV9Rz8grmQO/p/NCYwdgHQ96WDfqAauwMTiPszmxW6o3GxMZzbuLlfPUNfDVPdXhqNH//e/tMBMAUWEZO3roUzk4Xj4KbLOxysAzswQxAPFTAjTPBslcO5Rk2/eKicL1Ri+CAl8nR5VXOyMwZfbseek/Ll8qeBtFUHY5y5ARigfu/EHhemO3IlZ5QA0CP8gTUd1Vc+LErvQVRxY0Zqv+EggreWmmW1jtXCgOSjN6BgInWQVk8Nxk3ggofNygJIGnaETJc1tw1koGTKiDA==;AaQJKK48yWJEeOaouWrj9g=="
 ---
 

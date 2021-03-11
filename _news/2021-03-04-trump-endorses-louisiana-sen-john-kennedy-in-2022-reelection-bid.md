@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-louisiana-sen-john-k
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-louisiana-sen-john-kennedy-2022-reelection-bid.amp"
 type: article
 quality: 190
-heat: 390
+heat: 410
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/979c769a-bf43-4d76-b1a4-d870ac2cf8d6/9dc7a917-81c7-44e9-bf64-babe3a58ec2f/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump endorses Rep.-elect Luke Letlow’s widow in special election"
+    excerpt: "Former President Trump on Wednesday endorsed Julia Letlow, the widow of Rep.-elect Luke Letlow, to run for his seat and represent Louisiana’s 5th Congressional District."
+    publishedDateTime: 2021-03-11T06:56:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TAxcbMMgLUc/trump-endorses-rep-elect-luke-letlows-widow-in-special-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-rep-elect-luke-letlows-widow-in-special-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-rep-elect-luke-letlows-widow-in-special-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Trump endorses South Carolina's Tim Scott"
     excerpt: "Former President Trump endorsed Sen. Tim Scott’s, R-S.C., bid for reelection Wednesday. "

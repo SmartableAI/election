@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigrati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
 type: article
 quality: 185
-heat: 505
+heat: 525
 published: true
 
 provider:
@@ -286,6 +286,20 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/E86E2F68-40AC-4573-9256-2C761F843B35.jpeg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Hell freezes over: Newspaper says Trump shares credit with Biden on vaccines"
+    excerpt: "Either you argue that Donald Trump did an incredible job and Joe Biden is doing a horrible job, or you insist the opposite is true. Taking a more nuanced position is often dismissed as being wishy-washy."
+    publishedDateTime: 2021-03-11T08:02:00Z
+    webUrl: "https://www.foxnews.com/media/hell-freezes-over-newspaper-says-trump-shares-credit-with-biden-on-vaccines"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-to-hold-news-conf.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "pv5PWU/+4phwybImIYwFGVKG9iiRp5Jl6pZmjuuDq7YbZRRmbZiBn1BpthhAp1SznJmRWsswyoaOvg/dOeff3idb2NxfRwOWAUknh39yqM9S4tqWOPepBL4FnQxEFX3HcG4CQ4YKcEuGx4HFY3faWwWL9HdnCqWn7hH+2KfrbE4Y9OUIbE49NCA+XJ59iS4bF/p4b5+O55/DD1aOeeD1dKysJqsHg9dCP7VHdymTjNdMZbffjHk1dk0lK8JD73SEhjS3zyUVKZMP1xCpSnT8fFBz083GM1RL5vN8EubEy+YlaaAV8nfYAfy9PomaPw+4DErSMh5eGwm+KY+FbA45+MjsSNn+5a0qaIBytyZQR1c=;l5Cte7iOzMqosUSB+jYPxA=="

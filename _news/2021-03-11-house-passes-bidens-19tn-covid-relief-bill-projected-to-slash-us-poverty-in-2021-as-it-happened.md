@@ -1,32 +1,28 @@
 ---
 category: news
-title: "Biden hails Senate passage of virus aid bill"
-excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
-publishedDateTime: 2021-03-06T20:13:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
+title: "House passes Biden's $1.9tn Covid relief bill projected to slash US poverty in 2021 – as it happened"
+excerpt: "House passes the bill, which will now go to the president, Joe Biden, who will sign it on Friday"
+publishedDateTime: 2021-03-11T00:48:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates?page=with:block-604913f78f08a73fb523a9c7"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates?page=with:block-604913f78f08a73fb523a9c7"
+ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
 type: article
-quality: 105
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d63f00a-78e5-4d4d-ba91-c6e5c3186299_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Biden won’t be putting his signature on COVID-19 relief checks, unlike Trump"
@@ -751,6 +747,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Biden hails Senate passage of virus aid bill"
+    excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
+    publishedDateTime: 2021-03-06T20:13:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d63f00a-78e5-4d4d-ba91-c6e5c3186299_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden on verge of signing COVID-19 relief package"
     excerpt: "President Joe Biden could soon sign the $1.9 trillion COVID-19 economic relief package, which passed in the Senate over the weekend. Despite some GOP-approved amendments in the bill, no Republican senator voted for it."
     publishedDateTime: 2021-03-09T11:21:00Z
@@ -858,17 +868,6 @@ related:
       name: The Guardian
       domain: theguardian.com
     quality: 95
-  - title: "House passes Biden's $1.9tn Covid relief bill projected to slash US poverty in 2021 – as it happened"
-    excerpt: "House passes the bill, which will now go to the president, Joe Biden, who will sign it on Friday"
-    publishedDateTime: 2021-03-11T00:48:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates?page=with:block-604913f78f08a73fb523a9c7"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 90
   - title: "Live stimulus updates: Kamala Harris breaks Senate tie to begin debate on Joe Biden's COVID stimulus bill"
     excerpt: "It’s time to move forward with this legislation which will be one of the largest antipoverty bills in recent history,” Sen. Chuck Schumer said."
     publishedDateTime: 2021-03-05T15:44:00Z
@@ -902,6 +901,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ocqQCJsdciPdoW2y27PlHGx2XXr8+IwumNUK3MDakNqCro0JlNHG2nzuBvQPhFpjFXyKwepeE9GUjWw9iXc7uaJNeA0xdchPR+o2nDhKg/EwxJATQXKDe/QZgpCPGIt+azneNU7AE948Qv4jE8eVPS9wZ+na4x+JlezP4+EWbPCR0PG88noiLjES+WX7rnOwi7TOgRLu4J44ovGWf/cSi+9VUqyIXtsYZO++stcMs75UEwNmFrfnc4GxL1e5nKmg0i/ChrGjh3wzW5t34ssFkGZnzeGwKvUCeeWLfnmPTbEV1vSuKK0YPWCSwnZfHmrWaUJ01MjNCw/JQx0TYVAo5t06nsliDcAC9/bt0p82w27YzOZJoEg6lQj2ZwPfB/AFZh1xlDX/o945CYE+d2eKXfffGYmf91LQQFmb8/VR46SC17ro+XREvVPUf9CBOnSl2CbKDhoaLEGHzpo7WpxjuQEbuLjre8U++IdXdIj6buHBrU5+yGJWz2/vG6rgN5a1RKOCtuXrEC8NdYiQMf7T3A==;Iihy99HNdA6hpibSsMcLJg=="
+secured: "GWvl7/BGug35CQNeKEZkGEHm4PCsIdu3yHfxGM2nnfaGAphC2scpgWbO8Y3JrKnWcIC6m1wiGKU0ZZSiZ7tyfQS7S8UE7PMfE3F8ItLfM24xrdoQSl8wCGNvgt/GxBbHYPxhFUyBdMKMtUWgAsuVK3G2tnvbeXDJ8Y6jd7rWedqt784Q17j5ir79AXv+JE5X/XlGcA3LFioNDITl7vlLkiCmzw0K4rOsYIy8RD669FHsFLhoMS1TdPn5xUkfskIdWWv74YogABU0wcwMGCmOIU4eGR4/+xURoM6+NtyX0x/o3q+z7Dzg98/UKXxmn9OyHuPYudljT8lgDeeF+FUyj50N4wW8WQzm2h4ejz6NpTlXNR+9wVri/dmvFh1vkccFwCIQTb9hyi13Vk4aNxB0Quk3iC/f9ArE/NwoJY0eiz03ATSPRoqP+WhBFhb9F7LUszTzpQTCQpdLqEgjSzsQSfGkepUjFsplmWee9dHfOgw0OBh2m2BCxZz6vQizefjpWf7gRFML71odHPfmCGniJw==;aYk3lEFlH5vmL2MIOCjpCQ=="
 ---
 

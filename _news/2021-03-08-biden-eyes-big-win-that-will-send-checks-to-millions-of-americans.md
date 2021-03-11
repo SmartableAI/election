@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-checks/index.html"
 type: article
 quality: 175
-heat: 355
+heat: 375
 published: true
 
 provider:
@@ -169,6 +169,22 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09dc-justice-1/merlin_184801785_0070e6c2-88ce-416c-926e-2400ddf6eada-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden seeks to chart a path out of the pandemic in prime-time address"
+    excerpt: "(CNN)President Joe Biden can report in his first prime-time address Thursday that a vaccination drive now reaching 2 million people daily has brought America far closer to exiting the pandemic than when he took office 50 days ago. With new infections and ..."
+    publishedDateTime: 2021-03-11T00:50:00Z
+    webUrl: "https://www.cnn.com/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200310190456-103-joe-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "kUtUQIv3KwtAukhx5Bx0B7xcfKcL92WEtCh8C+Gv3CrtGcMDowIlzTX1IMgT1mHEAiTJdaGwB1qWXbCUho3hUMKPGwdyoSJ0eN2IaEBkGK5jNWCsBPhjtMhMdEif3WWZXj5FwPX8OXENKji372u3Zozcqr0X6zDrUbiQl6T09bBdqqYy5/FyamgqO7MCFkBbCurb+5EYiampNkFm/bgOowWzfBpyKu4lQkXkExjLwImthD0K7mOwcMHgJ+Sc4ciILdX5ftaxtsI5/nE0UKiTfoO+f3t6PeaShWJLVZ2oXNPMP5JtxX9/IQQCkcYbQItBSg6L1WzkDFvTDPcS9d7yiTq1Gjr55XE0MpY8z1DlnVo=;TnaFZhX3/y7aYWrO2CG3gA=="

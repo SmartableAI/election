@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Biden infuriates progressives after denying entry to thousands still affected by Trump's travel ban"
-excerpt: "President Biden reversed his predecessor's controversial travel ban on his first day in office, but is still denying entry to thousands of people affected by it, infuriating progressive lawmakers who have decried the position as \"unacceptable.\""
-publishedDateTime: 2021-03-10T14:21:11Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5DfWIT7Sauo/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5DfWIT7Sauo/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban"
-ampWebUrl: "https://www.foxnews.com/politics/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban.amp"
+title: "Hell freezes over: Newspaper says Trump shares credit with Biden on vaccines"
+excerpt: "Either you argue that Donald Trump did an incredible job and Joe Biden is doing a horrible job, or you insist the opposite is true. Taking a more nuanced position is often dismissed as being wishy-washy."
+publishedDateTime: 2021-03-11T08:02:00Z
+originalUrl: "https://www.foxnews.com/media/hell-freezes-over-newspaper-says-trump-shares-credit-with-biden-on-vaccines"
+webUrl: "https://www.foxnews.com/media/hell-freezes-over-newspaper-says-trump-shares-credit-with-biden-on-vaccines"
 type: article
-quality: 176
+quality: 127
 heat: -1
 published: false
 
@@ -22,10 +20,11 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4742e1d-ecaa-4e75-bea0-b49dd6cc1f80/b6fcb948-6b38-487e-b018-fb3f60e13598/1280x720/match/image.jpg"
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-to-hold-news-conf.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -94,6 +93,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/SF_vaccine_AP.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden infuriates progressives after denying entry to thousands still affected by Trump's travel ban"
+    excerpt: "President Biden reversed his predecessor's controversial travel ban on his first day in office, but is still denying entry to thousands of people affected by it, infuriating progressive lawmakers who have decried the position as \"unacceptable.\""
+    publishedDateTime: 2021-03-10T14:21:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/5DfWIT7Sauo/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-infuriates-progressives-after-denying-entry-to-thousands-still-affected-by-trump-travel-ban.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4742e1d-ecaa-4e75-bea0-b49dd6cc1f80/b6fcb948-6b38-487e-b018-fb3f60e13598/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Texas Gov. Abbott blames Biden reversal of Trump policies for 'self-inflicted' migrant surge at border"
     excerpt: "Texas Republican Gov. Greg Abbott blamed the Biden administration for what he called a \"self-inflicted\" influx of migrants at the southern border by reversing the immigration policies implemented under former President Donald Trump."
@@ -287,21 +302,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Hell freezes over: Newspaper says Trump shares credit with Biden on vaccines"
-    excerpt: "Either you argue that Donald Trump did an incredible job and Joe Biden is doing a horrible job, or you insist the opposite is true. Taking a more nuanced position is often dismissed as being wishy-washy."
-    publishedDateTime: 2021-03-11T08:02:00Z
-    webUrl: "https://www.foxnews.com/media/hell-freezes-over-newspaper-says-trump-shares-credit-with-biden-on-vaccines"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 127
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-to-hold-news-conf.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
-secured: "DNIoZp5ZzDDZcL1Hkn//Y8BNyX4ejjWk2M22Qj2m4YGI1wocGihc7RLjpbPeTjll6ddCrAluCN57r3l3casiCSKtvlvc0PisS83tTmBw1YT7bLsW0PPXGY2sICY5ulWcO+9nk4AOmMlWef18b/xFXy5E0yKSIwNkWpmqItQlpnReaeC03IvQhxtEux8YLq35/kV1qjvY7d+fDwETWQeQAXmTxe5FnszMegxaEm0dgJiPH1V/mmsbwKCrisPx600R/1N+ShdS8I2CO3yosf8iQAwco9cgUR6I0aAhKu7IVox/cfGyUv2q8RGXZ67YLlHOhIKCmdyH8sZYJHjuM9m4oJ82Ju0eXz/UW3BbE3QwCKo=;aURjBvCiDRZUl69gtOjWog=="
+secured: "HgBj4/K8ykwWgkCj+N/TyZ/KLVo+IOvCpvSiyoEwbWjqcPaNzrKmpJMPgZhHvPFT/5n31sdEzEV1VbahI0f5R2TRLwK/ZeTfyNZiX7VhPVCHQ5Heb+eX06v69sa3GWXa5JEHp539+d7IogTNvEAEtRwiI04xo5PaEaYl4jOces2sJKkp+wENUhzWsOwyktxxPwCx7POjNtVYojOoBMbn43+q75nUL2Mll05y2zA7XgJH1sgA8NfQl4PrloVKHfkVh89YjDfMDcoGguhC8KeZ5zGbKV5zI+kcP9cO5Xjn93HS4q36sD7V37io0EgRkKVof/KO0WiqecKxqCa4R1iE6RKAi9wxk2LsC6gPY0be1sU=;wIlgrl1G06TfpHbrlM7xQQ=="
 ---
 

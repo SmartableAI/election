@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden wants to sell the stimulus. The White House is still figuring out how."
-excerpt: "Democrats say they blew it in the Obama years by failing to tout the president’s achievements in rescuing the economy. The White House hopes to avoid a repeat, but it is still formulating its sales pitch."
-publishedDateTime: 2021-03-10T14:31:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+title: "Biden boosts US vaccine stockpile as world waits"
+excerpt: "President Joe Biden has directed his administration to order another 100 million doses of the Johnson & Johnson coronavirus vaccine, growing a likely U.S. surplus of doses later this year when much of"
+publishedDateTime: 2021-03-10T22:36:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html?outputType=amp"
 type: article
-quality: 122
+quality: 125
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZC4YDPEAOII6XPRCGLJTDWDVGA.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden boosts US vaccine stockpile as world waits"
-    excerpt: "President Joe Biden has directed his administration to order another 100 million doses of the Johnson & Johnson coronavirus vaccine, growing a likely U.S. surplus of doses later this year when much of"
-    publishedDateTime: 2021-03-10T22:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html?outputType=amp"
+  - title: "Biden wants to sell the stimulus. The White House is still figuring out how."
+    excerpt: "Democrats say they blew it in the Obama years by failing to tout the president’s achievements in rescuing the economy. The White House hopes to avoid a repeat, but it is still formulating its sales pitch."
+    publishedDateTime: 2021-03-10T14:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-stimulus-sales-pitch/2021/03/09/71dad6d4-80f9-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 122
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZC4YDPEAOII6XPRCGLJTDWDVGA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden signs order to protect US supply chains as Moderna announces progress on vaccine updates – as it happened"
     excerpt: "Biden order aims to prepare for future crises similar to pandemic"
@@ -121,6 +121,6 @@ related:
         height: 630
         isCached: true
 
-secured: "mQTH/1xz5ZuGegpIQvHo9pr+DFqN3s0GNALYrJzFJogH/nb29HKXigAyNq5Eb/rd68/9uDY42yvANl8pwP0qDvn7VcMBWh0PMW+KXLwMgFpr1WNBL/Ta12qyH1Kk6RrIoly9RBJmkt7142Fzx/U0RMsZgPE6YrWut34ZF2AGYmKwqoCWZNxAUqNOfr352cylegSmOHey+rrQe00yyeHTnaTHvpAyFg0WaqnlDsfgBo4C5OHB/vqI3ZlL5JHaA+f1G5Bmvmz6ATRg5upFnYBIKqZ+Cdgxb+1zBQbc8ngpLqSFBrJHNPuf3sWgR5dxXM3AqXj12m1rKfzwseF5jCIAI/QO0WAVRBWPInqlHmtMoUU3gcKfsYhLG7DEZu2Vrt0yQxIliA9o+N3hnBP9gbqdIEQAdvDoGVCurlYTYb2beCmRqD/jfLaAXSDsEdIztkpWRwZ0Bh0AftHEpwFAEkbMWuA+Y2WJIwC17eQ4vrwqyTx7OCMe8Ia5fpJYSStvOnMPsblK0Tt1pJvOk8dB4x5Kmg==;x5b11Z2JquPWji8kgaUOXQ=="
+secured: "zf+YQ8aIjZrY5P76yvFpSem9zfrXJD3TQry1UDNrvAQuMMM0tvotMC6uDk71VV3t+hsYf5J5FLFPPzWnCtD8k4lWNNZyfjFtkIh4HSwxvoWqaSEvL8UOuO0HN9QDniIhQvIoglANxQfYiC8dCg/pRhhnd/1ubNj50Qycv2muizDetJsEjhXc4gDzvjQ72mW27Vm5pPB5KdidMggGML2AoNpRObnyrm1k2auwhdxcC8+tQpk2QvZ2YUFvj1YeKTHhcBL1zq6ucsj4Q4kQ2ss9eyS0pEtluds3h98SdGe5EsYddAebVB7uXB4qPoj6MJ4VbE6UYO23ZPhBGs8c6DciJa3pQQ0HHUS6IC2J24+1TE4=;nklROuOUguTt3zYY2sj4NQ=="
 ---
 

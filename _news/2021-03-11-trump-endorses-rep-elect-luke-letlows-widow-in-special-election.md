@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Trump endorses South Carolina's Tim Scott"
-excerpt: "Former President Trump endorsed Sen. Tim Scott’s, R-S.C., bid for reelection Wednesday. "
-publishedDateTime: 2021-03-03T01:42:36Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TT8L-GN2zFI/trump-endorses-south-carolinas-tim-scott"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TT8L-GN2zFI/trump-endorses-south-carolinas-tim-scott"
-ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-south-carolinas-tim-scott.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-south-carolinas-tim-scott.amp"
+title: "Trump endorses Rep.-elect Luke Letlow’s widow in special election"
+excerpt: "Former President Trump on Wednesday endorsed Julia Letlow, the widow of Rep.-elect Luke Letlow, to run for his seat and represent Louisiana’s 5th Congressional District."
+publishedDateTime: 2021-03-11T06:56:43Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TAxcbMMgLUc/trump-endorses-rep-elect-luke-letlows-widow-in-special-election"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TAxcbMMgLUc/trump-endorses-rep-elect-luke-letlows-widow-in-special-election"
+ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-rep-elect-luke-letlows-widow-in-special-election.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-rep-elect-luke-letlows-widow-in-special-election.amp"
 type: article
-quality: 175
+quality: 190
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20162604417055.jpg"
-    width: 1024
-    height: 576
+  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+    width: 340
+    height: 340
     isCached: true
 
 related:
@@ -63,21 +63,21 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Trump endorses Rep.-elect Luke Letlow’s widow in special election"
-    excerpt: "Former President Trump on Wednesday endorsed Julia Letlow, the widow of Rep.-elect Luke Letlow, to run for his seat and represent Louisiana’s 5th Congressional District."
-    publishedDateTime: 2021-03-11T06:56:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TAxcbMMgLUc/trump-endorses-rep-elect-luke-letlows-widow-in-special-election"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-rep-elect-luke-letlows-widow-in-special-election.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-rep-elect-luke-letlows-widow-in-special-election.amp"
+  - title: "Trump endorses South Carolina's Tim Scott"
+    excerpt: "Former President Trump endorsed Sen. Tim Scott’s, R-S.C., bid for reelection Wednesday. "
+    publishedDateTime: 2021-03-03T01:42:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TT8L-GN2zFI/trump-endorses-south-carolinas-tim-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-south-carolinas-tim-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-south-carolinas-tim-scott.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 190
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/06/AP20162604417055.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Trump endorses Max Miller over GOP Ohio Rep. Anthony Gonzalez, who voted for impeachment"
     excerpt: "Former President Donald Trump on Friday endorsed his former aide, Max Miller, in his primary challenge for incumbent Republican Ohio Rep. Anthony Gonzalez in the state’s 16th district."
@@ -208,6 +208,6 @@ related:
         height: 720
         isCached: true
 
-secured: "yp7rGdJdTxRUeHIOWJat/ECf8YaR2GBfqWiO9+Tbi38vXWkLtRPafVAdGXSsj5P2voY8uRyojNzrtwo/iPyI1mFLAlxXIZz/rjm7bTzBmjEbk9eSThCIwCeWB2LDU/tR99I4Al2CGOfg7ODy+06TADOImHjorrPwpwxdWcvjGzB9Zd/qfJrOtZM0PNq/J3KS4Wg82XR9YXXnbsPfVJbtRQgtdMAFzcsD/1otc+7wGEhNJUxOvi+hv0cgUbDDCj3Xz0QmF67rGpOSt+vhVnBSRSXUXP+y1G38gs3HOdGTAJzj44iyUpfZ4JN1WB/t3ziKMSxa3NbZ9dBknTrevc88RorVbArAiOaTBCxw51elfjY=;U/uLEaWuwLmJnezUPn6iCQ=="
+secured: "9yFnpn3F4hkxOssG/2ohhQK87qO3h2iGuJjtlhaicIZbfHa2+VSdMI6YsEaP+S2N4O+gZVb5OdiS5fabz+g2Lgh4KSyibWbVvpt0XFKvXcpo8mUV9n3LQvxqLbuAvmqqEG5ccJ+zIJL6mXAgn/S5Zw4mk+ivLtPHgrNhDM6i/2pgWbUmzoSNDs6DQfKzWdRHEfq1lXhC9h3N379TVhe8Ew1MizQ0yJ0gT/cd3hf1Pk9e5XWYbrKxRBlFPY8LSjWVt2nW6e89oHJKCzsKdjahETqa7RVJ0e2WmAmj3eIO0Ys46iDJ5Iibpx5ct2qw7cbzxpzeqVm5jyRSsP3+sl5SK13BWIN3qQLeWNw/aVpyjC8=;ZZNZsF2sT3KsJ/99nkGw4Q=="
 ---
 

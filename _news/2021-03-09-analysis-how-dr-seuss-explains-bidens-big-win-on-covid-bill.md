@@ -170,6 +170,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden seeks to chart a path out of the pandemic in prime-time address"
+    excerpt: "(CNN)President Joe Biden can report in his first prime-time address Thursday that a vaccination drive now reaching 2 million people daily has brought America far closer to exiting the pandemic than when he took office 50 days ago. With new infections and ..."
+    publishedDateTime: 2021-03-11T00:50:00Z
+    webUrl: "https://www.cnn.com/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200310190456-103-joe-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "1x4Keth5iB1RDXd5WU5icFC7fy2qXXoDrSqcjAvgjzJws3A+l2QpARIqGq5oMEzHGBgri5SGcXD6PKWCfC4rX8b1D7ycpUfBlC89MkkRt1/RyhooZR1sXs08aH/nA/vHwf9+Wh7Q8EtknBzhTyiRnZXA950eKTGYtwDlfHJ9MudnxA3veavwqlBjXCQRgh4X4nPLC2Qdu8QDio0tvxPbUD6P/EMWusvM0FumKYFkDfm13Pi7tPCPL+OKMJBpKUQoXDPJYizAE0yJ8joBwGNhrcfi3pbUarkkfqzjE7bAPxyzDqdiQSlyTXJUrQfkDt4L+t2pkqSLpGrcwmmTMiTP32v13ruc7vqCWA/Ys0a0GNI=;4srtrT2zM3zxorsrq//0uA=="
 ---

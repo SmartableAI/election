@@ -607,6 +607,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden starts victory lap on COVID-19 relief bill while preparing for next big legislative push"
+    excerpt: "WASHINGTON – Now that Congress’ final passage of President Joe Biden’s $1.9 trillion COVID-19 relief bill is out of the way, the White House is laying the groundwork to move forward on Biden’s other priorities. The president will make his first ..."
+    publishedDateTime: 2021-03-11T08:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/what-comes-next-after-joe-bidens-1-9-trillion-covid-19-relief-bill/4627792001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4627792001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4627792001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/9ef40f5c-0acf-43da-81cc-a3bd9d5e816d-AP21069781125019.jpg?auto=webp&crop=5999,3375,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden's 1st 100 days live updates: Biden to make final push for COVID relief as Senate debates bill"
     excerpt: "The Senate is getting closer to a vote on the $1.9 trillion measure. ABC News Live Update: US Capitol on high alert for possible threat Today is Day 45 of the administration of President Joe Biden and Vice President Kamala Harris."
     publishedDateTime: 2021-03-05T21:58:00Z
@@ -831,6 +847,28 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 97
+  - title: "House passes Biden's $1.9tn Covid relief bill projected to slash US poverty in 2021 – live"
+    excerpt: "Psaki said Joe Biden was briefed earlier today by a team of his advisers, who recently traveled to the US-Mexican border to provide an update on the recent surge in unaccompanied migrant children trying to enter the country. Asked whether the president ..."
+    publishedDateTime: 2021-03-11T00:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates?page=with:block-604915498f08168521f61f9e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 95
+  - title: "House passes Biden's $1.9tn Covid relief bill projected to slash US poverty in 2021 – as it happened"
+    excerpt: "House passes the bill, which will now go to the president, Joe Biden, who will sign it on Friday"
+    publishedDateTime: 2021-03-11T00:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates?page=with:block-604913f78f08a73fb523a9c7"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 90
   - title: "Live stimulus updates: Kamala Harris breaks Senate tie to begin debate on Joe Biden's COVID stimulus bill"
     excerpt: "It’s time to move forward with this legislation which will be one of the largest antipoverty bills in recent history,” Sen. Chuck Schumer said."
     publishedDateTime: 2021-03-05T15:44:00Z

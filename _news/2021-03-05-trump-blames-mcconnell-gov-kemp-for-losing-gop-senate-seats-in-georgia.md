@@ -60,6 +60,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump endorses Rep.-elect Luke Letlow’s widow in special election"
+    excerpt: "Former President Trump on Wednesday endorsed Julia Letlow, the widow of Rep.-elect Luke Letlow, to run for his seat and represent Louisiana’s 5th Congressional District."
+    publishedDateTime: 2021-03-11T06:56:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TAxcbMMgLUc/trump-endorses-rep-elect-luke-letlows-widow-in-special-election"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-rep-elect-luke-letlows-widow-in-special-election.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-rep-elect-luke-letlows-widow-in-special-election.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Trump endorses South Carolina's Tim Scott"
     excerpt: "Former President Trump endorsed Sen. Tim Scott’s, R-S.C., bid for reelection Wednesday. "
     publishedDateTime: 2021-03-03T01:42:36Z

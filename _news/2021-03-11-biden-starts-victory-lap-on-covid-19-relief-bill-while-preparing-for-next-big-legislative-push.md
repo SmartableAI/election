@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Biden hails Senate passage of virus aid bill"
-excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
-publishedDateTime: 2021-03-06T20:13:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
+title: "Biden starts victory lap on COVID-19 relief bill while preparing for next big legislative push"
+excerpt: "WASHINGTON – Now that Congress’ final passage of President Joe Biden’s $1.9 trillion COVID-19 relief bill is out of the way, the White House is laying the groundwork to move forward on Biden’s other priorities. The president will make his first ..."
+publishedDateTime: 2021-03-11T08:01:00Z
+originalUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/what-comes-next-after-joe-bidens-1-9-trillion-covid-19-relief-bill/4627792001/"
+webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/what-comes-next-after-joe-bidens-1-9-trillion-covid-19-relief-bill/4627792001/"
+ampWebUrl: "https://amp.usatoday.com/amp/4627792001"
+cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4627792001"
 type: article
-quality: 105
+quality: 113
 heat: -1
 published: false
 
@@ -23,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d63f00a-78e5-4d4d-ba91-c6e5c3186299_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
+  - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/9ef40f5c-0acf-43da-81cc-a3bd9d5e816d-AP21069781125019.jpg?auto=webp&crop=5999,3375,x0,y200&format=pjpg&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -605,22 +607,6 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Biden starts victory lap on COVID-19 relief bill while preparing for next big legislative push"
-    excerpt: "WASHINGTON – Now that Congress’ final passage of President Joe Biden’s $1.9 trillion COVID-19 relief bill is out of the way, the White House is laying the groundwork to move forward on Biden’s other priorities. The president will make his first ..."
-    publishedDateTime: 2021-03-11T08:01:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/what-comes-next-after-joe-bidens-1-9-trillion-covid-19-relief-bill/4627792001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4627792001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4627792001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 113
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/9ef40f5c-0acf-43da-81cc-a3bd9d5e816d-AP21069781125019.jpg?auto=webp&crop=5999,3375,x0,y200&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Watch Live: House to vote on $1.9 trillion COVID relief bill, handing Biden major legislative win"
     excerpt: "The $1.9 trillion aid plan is expected to pass along party lines and will head to Mr. Biden's desk before key unemployment programs ... particularly Senator Joe Manchin. As Democrats have a 50-seat majority in the Senate, they require support from all ..."
     publishedDateTime: 2021-03-10T15:01:00Z
@@ -748,6 +734,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08f90f58-185b-4e02-ae08-a97d8115f362_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden hails Senate passage of virus aid bill"
+    excerpt: "U.S. President Joe Biden on Saturday hailed the passage of the American Rescue plan by an exhausted Senate. Lawmakers narrowly approved a $1.9 trillion COVID-19 relief bill Saturday. (March 6)"
+    publishedDateTime: 2021-03-06T20:13:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/06/biden-hails-senate-passage-virus-aid-bill/4611771001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/3d63f00a-78e5-4d4d-ba91-c6e5c3186299_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
@@ -902,6 +902,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ocqQCJsdciPdoW2y27PlHGx2XXr8+IwumNUK3MDakNqCro0JlNHG2nzuBvQPhFpjFXyKwepeE9GUjWw9iXc7uaJNeA0xdchPR+o2nDhKg/EwxJATQXKDe/QZgpCPGIt+azneNU7AE948Qv4jE8eVPS9wZ+na4x+JlezP4+EWbPCR0PG88noiLjES+WX7rnOwi7TOgRLu4J44ovGWf/cSi+9VUqyIXtsYZO++stcMs75UEwNmFrfnc4GxL1e5nKmg0i/ChrGjh3wzW5t34ssFkGZnzeGwKvUCeeWLfnmPTbEV1vSuKK0YPWCSwnZfHmrWaUJ01MjNCw/JQx0TYVAo5t06nsliDcAC9/bt0p82w27YzOZJoEg6lQj2ZwPfB/AFZh1xlDX/o945CYE+d2eKXfffGYmf91LQQFmb8/VR46SC17ro+XREvVPUf9CBOnSl2CbKDhoaLEGHzpo7WpxjuQEbuLjre8U++IdXdIj6buHBrU5+yGJWz2/vG6rgN5a1RKOCtuXrEC8NdYiQMf7T3A==;Iihy99HNdA6hpibSsMcLJg=="
+secured: "vrPVA31BnjdWZKsN+YKCHo+D0HemLkJziiWs5PZKZ4V9QY6mfq5HJekslrFT+ACNCrqqVDJof6hU1TbDDKy+h6ZgWNZXV1G75tw4lBWBlOE1qR3kgIPCxBFPmYFB6wXcwMlvYgd6F+Ko4dj6B7DzAVolDcaegXB2jhxAYnumP5YtTqBS+GUOt2maETCLZ3pU6WxyKA9uDzRNg6U9w9BIvMA9+QXEIkei/fHzUlgeox7suqjoSmA2lXsMc91ZUx1BeZldmbYXzuEAwrKPUxBi/xGs69ce/Q/bj3S1NbqdElN90LHfaP9RHz3f6/26DvKVh/k+E/epvlYY6/K2615y0D9li4zxhZQ17y7XvQndvb0=;gMmhRzbdeGMQbemHRrfwtQ=="
 ---
 
