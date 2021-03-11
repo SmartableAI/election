@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-im
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
 type: article
 quality: 121
-heat: -1
-published: false
+heat: 181
+published: true
 
 provider:
   name: The Guardian
@@ -31,97 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says impeachment is a \"decision for the Congress to make\""
-    excerpt: "\"That's a decision for the Congress to make. I'm focused on my job,\" Mr. Biden said. He added that he will be speaking with House Speaker Nancy Pelosi and Democratic leaders later in the day. \"I'll be speaking with Nancy and the Democratic leadership this afternoon,"
-    publishedDateTime: 2021-01-08T23:54:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
+  - title: "Democratic wins in Georgia Senate races could mean more stimulus checks, small boost to Biden's economic plan"
+    excerpt: "The stunning Democratic wins in Georgia’s two Senate runoff races have been touted as a game-changer that gives the party control of both Congress and the presidency, paving the way for Joe Biden to push through his sweeping plan to dig the economy out of the punishing COVID-19 downturn."
+    publishedDateTime: 2021-01-07T16:29:00Z
+    webUrl: "https://www.usatoday.com/story/money/2021/01/07/georgia-senate-race-democrats-wins-should-aid-biden-economic-plan-bit/6570522002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6570522002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6570522002"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 106
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/c0c90046-ffb5-45a8-a51f-d670fc0eeb7c/thumbnail/1200x630/a0c851de0a2943d38f86c19b6654b7d7/rtx8l5m8.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/04/USAT/fe456917-eb2e-423d-86e7-7aec9b8646d6-Georgia_Senate_Runoff_11.JPG?auto=webp&crop=2750,1547,x1,y62&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Law enforcement: We'll be ready for Joe Biden's inauguration"
-    excerpt: "The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a violent, pro-Trump mob descended last week. But the two events aren't even comparable from a security standpoint,"
-    publishedDateTime: 2021-01-12T05:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4fe982d42806466fb9c7a1df9ea2d778_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden to unveil new $1.9 trillion COVID relief bill"
-    excerpt: "This is the first of two bills Mr. Biden plans to address COVID-19. His transition team said he would introduce a second \"recovery\" bill in February."
-    publishedDateTime: 2021-01-14T22:24:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-stimulus-check/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-stimulus-check/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-stimulus-check/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/13/87ab6c33-11eb-45c7-89c4-562b351813be/thumbnail/1200x630/e7b614cfa8085ecb41e2d17d79ea1643/gettyimages-1206811778.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Joe Biden elevates chief science adviser to a Cabinet position, picks human genome pioneer for the post"
-    excerpt: "Joe Biden announced Friday that he has chosen a pioneer in mapping the human genome — the so-called “book of life” — to be his chief science adviser."
-    publishedDateTime: 2021-01-16T01:16:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-joe-biden-science-adviser-cabinet-post-20210115-jdiisf4fjzdbdmf6o3igwlsdfe-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 109
-    images:
-      - url: "https://www.chicagotribune.com/resizer/_KnwY3nRWrxfc3pBEgErezBucOk=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JVDAS7L35DO6FVFNIWKSAAR62E.aspx"
-        width: 1200
-        height: 791
-        isCached: true
-  - title: "Biden Names Boston Mayor Walsh to Head Labor Department"
-    excerpt: "President-elect Joe Biden announced Thursday that he has named Boston Mayor Marty Walsh to be labor secretary."
-    publishedDateTime: 2021-01-08T10:46:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-names-boston-mayor-walsh-to-head-labor-department/2021/01/07/c8a76dbc-514f-11eb-a1f5-fdaf28cfca90_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNRKYPCRKAI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Walmart suspends contributions to U.S. lawmakers who opposed Biden certification"
-    excerpt: "Walmart Inc , the world's biggest retailer, joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
-    publishedDateTime: 2021-01-13T03:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-suspends-contributions-to-us-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
+  - title: "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus"
+    excerpt: "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey."
+    publishedDateTime: 2021-01-18T07:40:00Z
+    webUrl: "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 100
+    quality: 102
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547573394&r=LYNXMPEH0B1LM&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548111937&r=LYNXMPEH0G0AL&w=800"
         width: 800
-        height: 459
+        height: 533
+        isCached: true
+  - title: "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live"
+    excerpt: "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington"
+    publishedDateTime: 2021-01-20T18:15:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 102
+    images:
+      - url: "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f"
+        width: 600
+        height: 360
         isCached: true
 
 secured: "es8mT7rkjCVS12kZpiB2D740f5XDw0CtwrkloRdCKWeXhhv6J2Orsb1f+r9HDBtW8IBLa9XBslNR1O5ST8Pg0c+aLsLcVOOEC5iqCIsxaPBBt4xIVBdkNscJooF9Ubh5LZ4q4PY9Z3aSnsmyCKGueRB7IoypvMrmr625gp0aFkhstAm3dvuf/C2SPrhw2jeHG4tBbmSnskgeow39VCrWaqZ42N3qtqVxGK/kjDpZDL8K62l+oZ428RLEGB1iLfye+Y+gMPj8cYy0U58Kj0GoB5vob5jXJf+HMtHCtPy0JOcNtQk5JOT9m3ghNVeq7ZCPq4xmOGyKfPoh1sMWYzG+oc1dIJhiKCEyd5F47nTb2E8=;nz+GtDm1ZGeahgBbRaVVqA=="

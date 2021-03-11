@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2021-03-05-refugees-flights-cancelled-as-trump-policy-remains.md",
-      "title": "Refugees’ flights cancelled as Trump policy remains",
-      "excerpt": "Refugee resettlement agencies say more than 260 refugees who were vetted, approved and booked to come to the United States have had their flights canceled by the State Department over the past two wee",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-04T20:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-05-where-are-ivanka-trump-and-jared-kushner-donald-angry-at-son-in-law-report.md",
       "title": "Where Are Ivanka Trump And Jared Kushner? Donald Angry At Son-In-Law: Report",
       "excerpt": "There may be contention brewing between former President Donald Trump and Jared Kushner after his son-in-law was not seen at the Conservative Political Action Conference last week. Jared Kushner, husband of Trump’s daughter Ivanka,",
@@ -1574,6 +1522,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-mcconnell-says-he-would-absolutely-support-trump-if-hes-the-2024-gop-nominee.md",
+      "title": "McConnell says he would \"absolutely\" support Trump if he's the 2024 GOP nominee",
+      "excerpt": "Just two weeks ago, the Senate Minority Leader called the former president \"practically and morally responsible for provoking the events\" of January 6.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/mcconnell-support-trump-2024-republican-nominee/",
+      "originalUrl": "https://www.cbsnews.com/news/mcconnell-support-trump-2024-republican-nominee/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 221,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2020/07/20/6ffb8a67-5134-46d7-9ec4-0d3c7ddd44cf/thumbnail/1200x630/b7afdd3f1d6d7db65539b5c680dc11a7/gettyimages-1257244765.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republican-nominee/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/mcconnell-support-trump-2024-republican-nominee/",
+      "publishedDateTime": "2021-02-26T04:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

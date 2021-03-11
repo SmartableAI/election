@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-02-11-biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup.md",
+      "title": "Biden says US will sanction military leaders, family members behind Myanmar coup",
+      "excerpt": "Biden says US will sanction military leaders, family members behind Myanmar coup. Copyright 2021 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed without permission.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html",
+      "originalUrl": "https://www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/biden-says-us-will-sanction-military-leaders-family-members-behind-myanmar-coup/2021/02/10/2637ede2-6bce-11eb-a66e-e27046e9e898_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-10T10:35:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-10-radioactive-neera-tanden-bidens-pick-for-budget-chief-tries-to-win-over-critics-on-left-and-right.md",
+      "title": "'Radioactive'? Neera Tanden, Biden's pick for budget chief, tries to win over critics on left and right",
+      "excerpt": "Neera Tanden has waged war against the GOP on Twitter, setting up an awkward confrontation during her confirmation hearings as Biden's budget director",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/02/09/neera-tanden-office-management-budget-nominee-set-senate-grilling/4413702001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/09/neera-tanden-office-management-budget-nominee-set-senate-grilling/4413702001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/08/USAT/b3375d8e-4ef3-44c7-8bb9-6cb14aa1d030-GTY_1288892607.jpg?auto=webp&crop=3104,1746,x0,y158&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4413702001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4413702001",
+      "publishedDateTime": "2021-02-09T14:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-09-huawei-founder-says-hopes-biden-administration-will-have-open-policy.md",
       "title": "Huawei founder says hopes Biden administration will have 'open policy'",
       "excerpt": "Huawei Technologies' founder Ren Zhengfei said on Tuesday it would be \"extremely difficult\" for the United States to end the sanctions that have crippled its phone business, but that he hoped the new U.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-huawei-tech-idUSKBN2A90AY",
       "featuredContent": null,
       "highlight": null,
-      "heat": 205,
+      "heat": 225,
       "tags": null,
       "images": [
         {
@@ -219,7 +323,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/02/06/joe-biden-minimum-wage-hike-unlikely-covid-19-relief-package/4419484001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -323,7 +427,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-economy-idUSKBN2A529V",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -560,58 +664,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-congressional-democrats-propose-up-to-50000-in-debt-cancelation-biden-not-sold.md",
-      "title": "Congressional Democrats propose up to $50,000 in debt cancelation, Biden not sold",
-      "excerpt": "Congressional Democrats renewed calls Thursday for President Joe Biden to cancel up to $50,000 in federal student loans per individual.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608",
-      "originalUrl": "https://abcnews.go.com/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/Warren-gty-er-210204_1612469502494_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/congressional-democrats-propose-50000-debt-cancelation-biden-sold/story?id=75682608",
-      "publishedDateTime": "2021-02-04T20:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -954,7 +1006,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 445,
+      "heat": 525,
       "tags": null,
       "images": [
         {
@@ -1030,6 +1082,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-01-biden-presidency-may-herald-new-start-for-saudi-iranian-relations.md",
+      "title": "Biden presidency 'may herald new start for Saudi-Iranian relations'",
+      "excerpt": "Existing quiet cooperation has been under way for months, say authors of Guardian comment article",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
+      "originalUrl": "https://www.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6c8daf2981862a54e6d90400e66a7e634c427b33/0_161_4928_2957/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6f3bdbb9c12686d47a4d2c8279692812",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations",
+      "publishedDateTime": "2021-01-31T10:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1162,7 +1266,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1186,58 +1290,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-biden-renews-deportation-relief-for-syrians-in-the-united-states.md",
-      "title": "Biden renews deportation relief for Syrians in the United States",
-      "excerpt": "The administration of President Joe Biden on Friday extended deportation relief for several thousand Syrian immigrants living in the United States, an early move that aligns with his broader pro-immigrant platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk",
-      "originalUrl": "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549573106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1AD",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Y28W",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y28W",
-      "publishedDateTime": "2021-01-29T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1521,59 +1573,6 @@
         "Election",
         "Joe Biden",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-28-biden-pauses-trump-policies-as-blinken-takes-diplomatic-helm.md",
-      "title": "Biden pauses Trump policies as Blinken takes diplomatic helm",
-      "excerpt": "The Biden administration has paused or put under review a wide swath of Trump-era foreign policies as America's new top diplomat takes the helm of the State Department",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 2550,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_422b8d5714fc41d48d28e76caf1444a1_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-pauses-trump-policies-blinken-takes-diplomatic-helm-75531721",
-      "publishedDateTime": "2021-01-27T22:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
       ]
     }
   ],

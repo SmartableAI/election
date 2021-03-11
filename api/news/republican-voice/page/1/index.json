@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-12-merrick-garland-speaks-at-doj-before-swearing-in-by-vp-kamala-harris.md",
-      "title": "Merrick Garland speaks at DOJ before swearing-in by VP Kamala Harris",
-      "excerpt": "Attorney General Merrick Garland paid a visit to his new office Thursday morning to deliver his first remarks to Justice Department staff ahead of his swearing-in by Vice President Kamala Harris.",
+      "path": "_news/2021-03-11-silence-on-cuomo-continues-for-kamala-harris-who-crusaded-against-brett-kavanaugh.md",
+      "title": "Silence on Cuomo continues for Kamala Harris, who crusaded against Brett Kavanaugh",
+      "excerpt": "Vice President Kamala Harris has not weighed in on the swelling sexual misconduct allegations against New York Gov. Andrew Cuomo. ",
       "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/",
-      "originalUrl": "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdV-fUDkekw/silencecuomo-continues-kamala-harris-kavanaugh",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdV-fUDkekw/silencecuomo-continues-kamala-harris-kavanaugh",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 155,
+      "heat": 339,
       "tags": null,
       "images": [
         {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/merrick-garland-01.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5e96535-8049-4a95-9d9c-69ba9b304ef5/573d402d-aa19-4ae7-b06f-a22eb03424e7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,14 +28,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/",
-      "publishedDateTime": "2021-03-11T10:30:00-08:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp",
+      "publishedDateTime": "2021-03-11T12:18:51-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -45,7 +54,63 @@
       ],
       "topics": [
         "Election",
-        "Kamala Harris",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-fauci-who-opposed-china-travel-ban-and-praised-their-transparency-criticizes-trump-response.md",
+      "title": "Fauci, who opposed China travel ban and praised their transparency, criticizes Trump response",
+      "excerpt": "White House chief medical adviser Dr. Anthony Fauci, who early on in the coronavirus pandemic opposed a travel ban on China and praised their transparency, on Tuesday criticized former President Donald Trump for not pushing the country harder for more information on the outbreak.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KffGTSsyd2I/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KffGTSsyd2I/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Anthony-Fauci-1-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response.amp",
+      "publishedDateTime": "2021-03-11T12:13:23-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
         "Republican Voice"
       ]
     },
@@ -331,6 +396,54 @@
       ]
     },
     {
+      "path": "_news/2021-03-11-gillibrand-quick-to-call-out-franken-kavanaugh-clinton-trump-but-not-cuomo.md",
+      "title": "Gillibrand quick to call out Franken, Kavanaugh, Clinton, Trump — but not Cuomo",
+      "excerpt": "Sen. Kirsten Gillibrand — who led the charge resulting in former Minnesota Sen. Al Franken’s resignation over sexual misconduct claims — still says it’s not the time to call for",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/",
+      "originalUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/Kristen-GillibrandArticle.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/",
+      "publishedDateTime": "2021-03-10T16:46:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-trump-calls-on-former-nfl-player-herschel-walker-to-run-for-senate-in-georgia.md",
       "title": "Trump calls on former NFL player Herschel Walker to run for Senate in Georgia",
       "excerpt": "Former President Trump surpassed his usual endorsements Wednesday, this time instead calling on former NFL player Herschel Walker to run for Senate in Georgia. ",
@@ -511,7 +624,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 829,
+      "heat": 849,
       "tags": null,
       "images": [
         {
@@ -584,62 +697,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
       "publishedDateTime": "2021-03-10T11:28:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-gillibrands-stance-on-cuomo-allegations-contrast-with-past-comments-about-trump-clinton-kavanaugh-franken.md",
-      "title": "Gillibrand's stance on Cuomo allegations contrast with past comments about Trump, Clinton, Kavanaugh, Franken",
-      "excerpt": "Sen. Kirsten Gillibrand, D-N.Y., appears to have departed from her previous stances on sexual misconduct allegations with her current stance on the accusations against New York Gov. Andrew Cuomo.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqkeckRBzpk/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqkeckRBzpk/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 196,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879b5155-2393-4d14-b171-2c72feb69f0a/2d308622-72a3-4427-aedb-93f15761af39/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp",
-      "publishedDateTime": "2021-03-10T10:31:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -1618,63 +1675,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-wsj-opinion-mike-pence-goes-from-hero-to-villain.md",
-      "title": "WSJ Opinion: Mike Pence Goes From Hero to Villain",
-      "excerpt": "For criticizing H.R.1 as an \"unconstitutional power grab,\" Mike Pence is accused of spreading Donald Trump’s ‘big lie.’ Images: AFP via Getty Image",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-mike-pence-goes-from-hero-to-villain/6291AD56-4420-4EBE-9AF9-E3D9B88DBE00",
-      "originalUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-mike-pence-goes-from-hero-to-villain/6291AD56-4420-4EBE-9AF9-E3D9B88DBE00",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20210308/030821opvidmainstreet/030821opvidmainstreet_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Republican Voice"
       ]
     }

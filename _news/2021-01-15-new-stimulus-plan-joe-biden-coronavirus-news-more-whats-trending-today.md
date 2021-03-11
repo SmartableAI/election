@@ -27,6 +27,70 @@ images:
     isCached: true
 
 related:
+  - title: "Biden seeks to speed delivery of coronavirus stimulus checks and food aid"
+    excerpt: "U.S. President Joe Biden on Friday will sign orders to speed the issuance of pandemic stimulus checks to needy families and increase food aid for children who normally rely on school meals for nutrition."
+    publishedDateTime: 2021-01-23T00:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN29R122"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R122"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R122"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548763539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HM"
+        width: 812
+        height: 545
+        isCached: true
+  - title: "Biden seeks five-year extension of New START arms treaty with Russia: source"
+    excerpt: "U.S. President Joe Biden will seek a five-year extension to the New START arms control treaty with Russia, a source familiar with the matter said on Thursday."
+    publishedDateTime: 2021-01-22T00:01:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-russia-nuclear-idUSKBN29Q2I4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q2I4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2I4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548635762&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1OZ"
+        width: 800
+        height: 545
+        isCached: true
+  - title: "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers"
+    excerpt: "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,"
+    publishedDateTime: 2021-01-25T04:24:00Z
+    webUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026"
+    ampWebUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1714910/biden-harris-white-house.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden stimulus calls for expanded paid sick leave to help workers facing coronavirus challenges"
+    excerpt: "The U.S. is an outlier for its lack of mandatory paid sick leave. Biden's plan seeks to eliminate loopholes that prevented some 100 million workers from accessing it during the pandemic."
+    publishedDateTime: 2021-01-16T00:25:00Z
+    webUrl: "https://www.washingtonpost.com/business/2021/01/15/biden-economy-stimulus-sick-pay/"
+    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/15/biden-economy-stimulus-sick-pay/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/15/biden-economy-stimulus-sick-pay/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 113
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36AJD4CW3EI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus"
     excerpt: "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus"
     publishedDateTime: 2021-01-15T12:37:00Z
@@ -43,19 +107,19 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Coronavirus updates: Biden receives 2nd dose of vaccine; members of Congress exposed to virus during riot lockdown; Chicago schools reopen"
-    excerpt: "Chicago Public Schools open for first time since March 2020. Tennessee Rep. Chuck Fleischmann has virus after Capitol riot lockdown. Latest news."
-    publishedDateTime: 2021-01-11T20:05:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2021/01/11/covid-news-25-k-deaths-new-years-day-chicago-schools/6609727002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6609727002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6609727002"
+  - title: "Coronavirus updates: Single-dose vaccine from Johnson & Johnson could be 'game changer'; Biden to require masks on planes"
+    excerpt: "A COVID vaccine being developed by New Jersey-based Johnson & Johnson could dramatically speed up the fight against the pandemic. Latest COVID news."
+    publishedDateTime: 2021-01-21T18:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/01/21/covid-news-vaccine-shortages-us-response-joe-biden-california/4237433001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4237433001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4237433001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 91
+    quality: 100
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/11/USAT/eb35fcc2-717a-40b5-ace5-c3aa4dfb2d5b-AP21010756102464.jpg?auto=webp&crop=3743,2106,x0,y190&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/a6d17a2c-5ef4-4acf-87f9-b26f62b41bc4-AP21020686218912.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

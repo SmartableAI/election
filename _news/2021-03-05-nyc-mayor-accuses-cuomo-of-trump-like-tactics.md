@@ -109,6 +109,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Donald Trump Rebukes WSJ After Editorial Board Suggests the GOP Look Past His Presidency"
+    excerpt: "\"Fortunately, nobody cares much about The Wall Street Journal editorial anymore. They have lost great credibility,\" the former president said in a statement."
+    publishedDateTime: 2021-03-04T18:30:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1749736/donald-trump-cpac-appearance-2021.jpg"
+        width: 3000
+        height: 2364
+        isCached: true
   - title: "Watchdog asked Trump DOJ to criminally investigate Elaine Chao for misuse of office as transportation secretary but was rebuffed"
     excerpt: "The inspector general found that Chao inappropriately used her staff and office for personal tasks and to promote a shipping business owned by Chao’s father and sisters."
     publishedDateTime: 2021-03-04T02:12:00Z

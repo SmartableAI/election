@@ -127,6 +127,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden signs $1.9T coronavirus relief bill in first major legislative win"
+    excerpt: "President Biden on Thursday signed into law the sweeping $1.9 trillion coronavirus relief package that Democrats muscled through Congress without any Republican support, securing the first big legislative win of his presidency. "
+    publishedDateTime: 2021-03-11T19:10:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vcX79ggCOnE/biden-signs-coronavirus-relief-bill-first-major-legislative-win"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-coronavirus-relief-bill-first-major-legislative-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-coronavirus-relief-bill-first-major-legislative-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77ea87d1-171c-49ab-b026-7a118ad1121c/5c416a23-d04b-4f32-b24b-c473bceb46e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden backs House gun background check bills that would tighten restrictions"
     excerpt: "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system."
     publishedDateTime: 2021-03-08T17:31:07Z

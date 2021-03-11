@@ -286,7 +286,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -564,7 +564,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -661,6 +661,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-23-a-look-at-merrick-garland-joe-bidens-nominee-for-attorney-general.md",
+      "title": "A look at Merrick Garland, Joe Biden’s nominee for attorney general",
+      "excerpt": "Merrick Garland, President Joe Biden’s nominee for attorney general, appeared before the Senate Judiciary Committee for his confirmation hearing on Monday. Here are some key facts to know about Biden’s nominee to run the Justice Department: MOST RECENT LEGAL EXPERIENCE: 1997-Present: Judge on the United States Court of Appeals for the District of Columbia Circuit.",
+      "sourceUrl": null,
+      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html",
+      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 325,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.chicagotribune.com/resizer/pgmyCxGCHham3HQMavNFCnRGVmM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WIDFTAWVFZVCHFODXCIXZ4Q4M4.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp",
+      "publishedDateTime": "2021-02-22T15:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Chicago Tribune",
+        "domain": "chicagotribune.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -1312,63 +1364,6 @@
       ],
       "topics": [
         "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-cagop-putting-trump-in-rearview-mirror-sf-school-board-walk-back-recall-drive-could-be-close-oleary-in-the-mix-for-omb.md",
-      "title": "CAGOP: Putting TRUMP in rearview mirror? — SF SCHOOL BOARD walk back — RECALL drive could be close — O’LEARY in the mix for OMB?",
-      "excerpt": "THE BUZZ — WHERE’S DONALD? The embattled California Republican Party, once home to the Reagan Revolution, has enthusiastically embraced a longshot plan for its political comeback after years of declining voter registration.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/california-playbook/2021/02/22/cagop-putting-trump-in-rearview-mirror-sf-school-board-walks-back-renaming-decision-recall-drive-could-be-close-oleary-in-the-mix-for-omb-unions-gop-vs-newsom-on-school-reopenings-491825",
-      "originalUrl": "https://www.politico.com/newsletters/california-playbook/2021/02/22/cagop-putting-trump-in-rearview-mirror-sf-school-board-walks-back-renaming-decision-recall-drive-could-be-close-oleary-in-the-mix-for-omb-unions-gop-vs-newsom-on-school-reopenings-491825",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-22T06:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Democratic Voice"
       ]
     }

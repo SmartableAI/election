@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A90AY"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A90AY"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://d.newsweek.com/en/full/1728926/maryland-senators-hollen-cardin-immigration-citizenship-bill.jpg"
         width: 3000
         height: 2333
+        isCached: true
+  - title: "AP-NORC Poll: Americans open to Biden crisis plan"
+    excerpt: "Two weeks into a new administration, a majority of Americans say they have at least some confidence in President Joe Biden and his ability to manage the myriad crises facing the nation, including the raging coronavirus pandemic."
+    publishedDateTime: 2021-02-04T22:23:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/04/ap-norc-poll-americans-open-biden-crisis-plan/4396171001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0c6d8cde-a671-42f2-8b99-6f08db9bee76_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "QKtdhcoZ005d6v+zFiXdNCaAiC0Z0QCuYEDYVAZDdr44p5rysqD8/cBGDqMzmTwMlffGFXNapODVdWIANdXDY9BGpRIHXbIA1QV9TmfyD1WGoNqwlI2dFFBLM0yc2k3ITkx1EwEokRfYV3kIb3bxWa4lweg/A6cfTeKXVISMoEWtXqckW0QsJ1YwwBOyTX8gTOrJVh3VpDauCyrbWOwCVDOf2WtrpWTDaClJj6IvbyoQm4m62hgkJym1CdpDpecaHRJBtQsMzFKO83/goNsdFBhbJweiReampYylq5cML/JmudFYuCP5jf9azoXtOsOXcTqZbOMoTK3XkofZfLz/qFWePLJXm9oxtZZkJi/R9Fs=;IFij5oy2oOBQAWCjXFlMIw=="

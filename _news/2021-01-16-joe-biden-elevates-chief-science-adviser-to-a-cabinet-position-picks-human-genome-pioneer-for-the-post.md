@@ -31,98 +31,166 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says impeachment is a \"decision for the Congress to make\""
-    excerpt: "\"That's a decision for the Congress to make. I'm focused on my job,\" Mr. Biden said. He added that he will be speaking with House Speaker Nancy Pelosi and Democratic leaders later in the day. \"I'll be speaking with Nancy and the Democratic leadership this afternoon,"
-    publishedDateTime: 2021-01-08T23:54:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/c0c90046-ffb5-45a8-a51f-d670fc0eeb7c/thumbnail/1200x630/a0c851de0a2943d38f86c19b6654b7d7/rtx8l5m8.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Law enforcement: We'll be ready for Joe Biden's inauguration"
-    excerpt: "The inauguration of President-elect Joe Biden will be held on the same risers in the same spot at the U.S. Capitol where a violent, pro-Trump mob descended last week. But the two events aren't even comparable from a security standpoint,"
-    publishedDateTime: 2021-01-12T05:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/law-enforcement-ready-joe-bidens-inauguration-75191813"
+  - title: "Biden: Science will be at `forefront' of his administration"
+    excerpt: "President-elect Joe Biden says “science will always be at the forefront of my administration,” and he's elevating the post of science adviser to Cabinet level, a White House first"
+    publishedDateTime: 2021-01-16T14:58:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4fe982d42806466fb9c7a1df9ea2d778_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Technology/WireAP_7202bb1dd3fb4d92b9cf5bf27cee5bf3_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Biden to unveil new $1.9 trillion COVID relief bill"
-    excerpt: "This is the first of two bills Mr. Biden plans to address COVID-19. His transition team said he would introduce a second \"recovery\" bill in February."
-    publishedDateTime: 2021-01-14T22:24:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-stimulus-check/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-stimulus-check/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-stimulus-check/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/13/87ab6c33-11eb-45c7-89c4-562b351813be/thumbnail/1200x630/e7b614cfa8085ecb41e2d17d79ea1643/gettyimages-1206811778.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden presents Covid stimulus plan as impeachment focus shifts to Senate – live"
-    excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session"
-    publishedDateTime: 2021-01-15T00:37:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates?page=with:block-6000df8f8f08729f182882f9"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
-    images:
-      - url: "https://i.guim.co.uk/img/media/c0dee479687381d44e419a1f6510e6917982340d/0_132_5025_3016/master/5025.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0f6788661719294a94a3a81f05a35f9"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Biden Names Boston Mayor Walsh to Head Labor Department"
-    excerpt: "President-elect Joe Biden announced Thursday that he has named Boston Mayor Marty Walsh to be labor secretary."
-    publishedDateTime: 2021-01-08T10:46:00Z
-    webUrl: "https://www.washingtonpost.com/business/on-small-business/biden-names-boston-mayor-walsh-to-head-labor-department/2021/01/07/c8a76dbc-514f-11eb-a1f5-fdaf28cfca90_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 105
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PNRKYPCRKAI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Walmart suspends contributions to U.S. lawmakers who opposed Biden certification"
-    excerpt: "Walmart Inc , the world's biggest retailer, joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
-    publishedDateTime: 2021-01-13T03:37:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart/walmart-suspends-contributions-to-us-lawmakers-who-opposed-biden-certification-idUSKBN29H2TO"
+  - title: "Biden administration to discuss stimulus with lawmakers Sunday"
+    excerpt: "The Biden administration plans to discuss the need for economic stimulus with a group of senators on Sunday, White House national economic council director Brian Deese said on Friday, as it seeks to build support for what it sees as a critical round of new coronavirus"
+    publishedDateTime: 2021-01-22T23:37:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-idUSKBN29R2CN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2CN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2CN"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 100
+    quality: 125
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547573394&r=LYNXMPEH0B1LM&w=800"
-        width: 800
-        height: 459
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548747987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1CM"
+        width: 817
+        height: 545
         isCached: true
+  - title: "UPDATE 1-Biden administration to discuss stimulus with lawmakers Sunday"
+    excerpt: "The Biden administration plans to discuss the need for economic stimulus with a group of senators on Sunday, White House national economic council director Brian Deese said on Friday, as it seeks to build support for what it sees as a critical round of new coronavirus"
+    publishedDateTime: 2021-01-22T18:53:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-stimulus/update-1-biden-administration-to-discuss-stimulus-with-lawmakers-sunday-idUSL1N2JX1ZL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2CN"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2CN"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548747987&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1CM"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "North Korea’s Kim could be planning fireworks to welcome Biden administration"
+    excerpt: "Satellite evidence suggests North Korea could be preparing for a significant missile launch as it gradually dials up pressure on the United States."
+    publishedDateTime: 2021-01-19T01:20:00Z
+    webUrl: "https://www.washingtonpost.com/world/north-korea-biden-missile-test/2021/01/18/25268116-594f-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/north-korea-biden-missile-test/2021/01/18/25268116-594f-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/north-korea-biden-missile-test/2021/01/18/25268116-594f-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 122
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2K6NLWCZXQI6XC6PHB3YOHEBTU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Exclusive: Biden administration eyes creating White House antitrust czar - sources"
+    excerpt: "The incoming administration of U.S. President-elect Joe Biden is considering creating a White House position to focus on competition policy and issues relating to antitrust, two sources familiar with the situation said."
+    publishedDateTime: 2021-01-20T04:19:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-antitrust-exclusive-idUSKBN29O2PT"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29O2PT"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29O2PT"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210120&t=2&i=1548379044&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0I1O9"
+        width: 820
+        height: 545
+        isCached: true
+  - title: "Biden: Science will be at `forefront' of his administration"
+    excerpt: "President-elect Joe Biden says \"science will always be at the forefront of my administration,” and he is elevating the post of science adviser to Cabinet level, a White House first."
+    publishedDateTime: 2021-01-17T10:28:00Z
+    webUrl: "https://www.businessinsider.com/biden-science-will-be-at-forefront-of-his-administration-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/biden-science-will-be-at-forefront-of-his-administration-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-science-will-be-at-forefront-of-his-administration-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Texas attorney general challenges deportation freeze in first of promised lawsuits against Biden administration"
+    excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
+    publishedDateTime: 2021-01-22T21:45:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/22/texas-ag-ken-paxton-files-lawsuit-block-biden-deportation-freeze/6678384002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6678384002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6678384002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/media/2020/11/20/Austin/ghows-TX-200729145-8717c8b4.jpg?auto=webp&crop=750,422,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden administration vows to improve coronavirus response"
+    excerpt: "Through additional financial relief plans, faster vaccine distributions, and clear public messaging, the Biden administration is pledging to tackle the coronavirus pandemic. Skyler Henry has more on the Biden administration's efforts."
+    publishedDateTime: 2021-01-23T23:49:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-administration-vows-to-improve-coronavirus-response/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/23/aeb84055-2f4e-4960-b33d-2bd16d1a6371/thumbnail/1200x630/cf6482d89fb7f95a16f268c3ed0793ad/cbsn-fusion-biden-administration-vows-to-improve-coronavirus-response-thumbnail-632210-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden will encourage vaccination of all people over 65, frontline workers"
+    excerpt: "The incoming administration of Democratic President-elect Joe Biden will seek to vaccinate all people over 65 and frontline workers, as Biden seeks to administer 100 million COVID-19 vaccines during his first 100 days in office."
+    publishedDateTime: 2021-01-16T02:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-vaccines/biden-will-encourage-vaccination-of-all-people-over-65-frontline-workers-idUSKBN29K2L5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547981882&r=LYNXMPEH0E1IO&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "France's Le Maire: resolving trade sanctions is my priority for Biden administration"
+    excerpt: "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden."
+    publishedDateTime: 2021-01-14T15:02:00Z
+    webUrl: "https://www.reuters.com/article/us-france-lemaire-usa/frances-le-maire-resolving-trade-sanctions-is-my-priority-for-biden-administration-idUSKBN29J15Q"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 98
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547761954&r=LYNXMPEH0D0LH&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "President Joe Biden: ‘This Is America’s Day’"
+    excerpt: "The 21-minute inaugural address focused on healing, unity, justice and the perseverance of democracy for an audience in America and around the world."
+    publishedDateTime: 2021-01-20T19:08:00Z
+    webUrl: "https://www.usnews.com/news/elections/articles/2021-01-20/president-joe-biden-this-is-americas-day"
+    ampWebUrl: "https://www.usnews.com/news/elections/articles/2021-01-20/president-joe-biden-this-is-americas-day?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/elections/articles/2021-01-20/president-joe-biden-this-is-americas-day?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 55
 
 secured: "DwuIdR2QVZnZJQcC7W3zuCPUlzU0mglqg53gg/Kge8lCK7eO5EA1QU3Jw7npbu7UDOGvJb1pGYkl62GRM1Xa7yL5GgoqNDuDDnVUFAGE0NSaNsxfORW1OXFAM/Wvtq9EPdlS0su56OQyZ/H0/IQ64Hgpp9FZdcNM/w5ICC4XxsU3/cPbh6kulMBFNcsjRj3WGo6IOq6So34+n579fMOl4c8zFV9BJr0kvQU8i2UZBipF3wHE1haY4ugFtD3dupkNilkLA/Iph2Rv+liBv5WUHTYHmkbyWbdy/rIwZcTjDwNZAahsGPaSnMntWWzWMRmV8HLW58AuSrmQKT3ypMBp0Qy4/oCC6gNNLdqkcTwjUcQ=;LT+0R/0hfpRVqKas+LOY0g=="
 ---

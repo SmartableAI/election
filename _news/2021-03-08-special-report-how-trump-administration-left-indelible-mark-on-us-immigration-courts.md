@@ -131,6 +131,22 @@ related:
         width: 1200
         height: 949
         isCached: true
+  - title: "Pentagon Says Trump Interfered With Investigation Into Rep. Ronny Jackson's Abuse Of Subordinates"
+    excerpt: "Jackson is accused of dozens of improprieties, including commenting on a female subordinate's body and drunkenly harassing her."
+    publishedDateTime: 2021-03-03T22:02:00Z
+    webUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764"
+    ampWebUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/03/29/ronny-jackson.jpg"
+        width: 594
+        height: 396
+        isCached: true
 
 secured: "58GNn5opknz5V7xHKFvp58YPau4PbaLlDDCYQpLY5UesBKtNFit3bBv0zdP24XRYD1e5j9e2J7m2ohrZasMtwUjpynLtsdmDwF8wnDAVWzu9xtgpwrudd9DTR0vtOvDnslCi7VRPAKVroAqmNCHoX77pDdWenaiXYhxJiR9Q4weqX0lk6pony+A9LMRCXhtXMp4qN5vZz9/81VC2QNSZI2dLemoswnZqLoODzEQdXo7Hqld6dZPVw1NSMmG20j41TDJg3l/qbuReGIouJa4Nm77lc13Rk9GNi4j94iFMTPrlVNEvq+UYnhzQCSs855zFgxzLIjX1+7rJuzbxM4OiM7EMC2g5DlUggxwx45jAI6JvUKkCXmTTc0Vrt9BBm+DSXTRHVnvlJFDHWiUtSG3dvdTSlNf12jrZDZ0bEMKvfzLSSTwKw0UAbet6tCBJYqHWasVCsCBXSmta7dO/GeVDnM1axqeclzAqcYLhQ/vVgJxNIHu4Cy9XRd3ToRJn5eWd7nLpXshfM4cyN1vy0jAeBQ==;tnPWhfytXzrehLR/Y0DQgA=="
 ---

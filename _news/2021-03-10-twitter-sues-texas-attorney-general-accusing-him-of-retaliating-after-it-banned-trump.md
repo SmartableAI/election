@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1668
         isCached: true
+  - title: "Donald Trump Rebukes WSJ After Editorial Board Suggests the GOP Look Past His Presidency"
+    excerpt: "\"Fortunately, nobody cares much about The Wall Street Journal editorial anymore. They have lost great credibility,\" the former president said in a statement."
+    publishedDateTime: 2021-03-04T18:30:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1749736/donald-trump-cpac-appearance-2021.jpg"
+        width: 3000
+        height: 2364
+        isCached: true
   - title: "NYC mayor accuses Cuomo of Trump-like tactics"
     excerpt: "The mayor of New York City said Wednesday that Andrew Cuomo was \"trying to distract attention from his own problems\" after the governor made negative comments about the city in a televised address. (M"
     publishedDateTime: 2021-03-04T18:24:00Z

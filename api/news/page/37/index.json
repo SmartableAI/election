@@ -226,58 +226,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-14-live-impeachment-updates-gop-house-leader-trump-bears-responsibility-for-riot-but-impeachment-a-mistake.md",
-      "title": "Live impeachment updates: GOP House leader: Trump 'bears responsibility' for riot, but impeachment a 'mistake'",
-      "excerpt": "A vote to impeach will further divide the nation. A vote to impeach will further fan the flames of partisan division,\" Rep. Kevin McCarthy said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/13/USAT/364bda46-7631-4195-8825-20cfb2fad595-AP_Trump_Impeachment_2.jpg?auto=webp&crop=4121,2319,x0,y209&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6644827002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6644827002",
-      "publishedDateTime": "2021-01-13T10:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-trump-calls-on-americans-big-tech-to-help-ensure-peaceful-transition-no-violence.md",
       "title": "Trump calls on Americans, Big Tech to help ensure peaceful transition: 'NO violence'",
       "excerpt": "EXCLUSIVE: President Trump on Wednesday is calling for \"all Americans\" to help \"ease tensions and calm tempers,\" saying he does \"not\" stand for violence \"of any kind\" -- and he's asking Big Tech to join the effort.",
@@ -503,58 +451,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-youtube-ban-google-blocks-new-uploads-to-donald-trumps-channel-after-capitol-riots-citing-potential-for-violence.md",
-      "title": "YouTube ban: Google blocks new uploads to Donald Trump's channel after Capitol riots, citing potential for violence",
-      "excerpt": "Google's YouTube is blocking new uploads to Trump's channel. It's also being threatened with a national ad boycott if it does not ban Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/tech/2021/01/12/trump-youtube-ban-capitol-riots-civil-rights-groups/6649933002/",
-      "originalUrl": "https://www.usatoday.com/story/tech/2021/01/12/trump-youtube-ban-capitol-riots-civil-rights-groups/6649933002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6649933002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6649933002",
-      "publishedDateTime": "2021-01-13T04:23:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-13-trump-administration-nixes-plans-for-controversial-last-minute-foreign-trips-to-europe-and-taiwan.md",
       "title": "Trump administration nixes plans for controversial last-minute foreign trips to Europe and Taiwan",
       "excerpt": "Facing reported snubs by EU allies, Mike Pompeo's staying home, and Ambassador Kelly Craft won't visit Taiwan – a trip that would have infuriated China.",
@@ -563,7 +459,7 @@
       "originalUrl": "https://www.cbsnews.com/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -838,7 +734,7 @@
       "originalUrl": "https://www.cbsnews.com/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 201,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1160,6 +1056,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-13-chicago-man-who-threatened-to-kill-democrats-prevent-biden-from-entering-white-house-arrested.md",
+      "title": "Chicago Man Who Threatened to 'Kill' Democrats, Prevent Biden From Entering White House Arrested",
+      "excerpt": "Louis Capriotti, a 45-year-old man from Chicago, made the alleged threats in a voicemail to a representative from New Jersey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
+      "originalUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1704833/joe-biden-louis-capriotti-threat-inauguration.jpg",
+          "width": 2500,
+          "height": 1695,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
+      "publishedDateTime": "2021-01-12T12:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-13-trumps-top-bankers-deutsche-banks-and-signature-cut-future-ties.md",
       "title": "Trump's top bankers Deutsche Banks and Signature cut future ties",
       "excerpt": "In the wake of the deadly riots on Capitol Hill last week, Deutsche Bank and Signature Bank have said they are cutting future ties with President Donald Trump. That could leave the president personally on the hook for millions of dollars when several large loans he has personally guaranteed come due in the next two years.",
@@ -1327,6 +1275,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-trump-should-leave-office-german-finance-minister-scholz-says.md",
+      "title": "Trump should leave office, German finance minister Scholz says",
+      "excerpt": "U.S. President Donald Trump should leave office before Inauguration Day after the Capitol Hill riots, German Finance Minister Olaf Scholz said, adding that Berlin was confident of a good start to relations with his successor Joe Biden.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-germany-scholz-usa-trump/trump-should-leave-office-german-finance-minister-scholz-says-idUSKBN29H1TO",
+      "originalUrl": "https://www.reuters.com/article/us-germany-scholz-usa-trump/trump-should-leave-office-german-finance-minister-scholz-says-idUSKBN29H1TO",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210112&t=2&i=1547496564&r=LYNXMPEH0B0XY&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-12T06:41:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {

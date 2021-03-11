@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-12-recording-reveals-details-of-trump-call-to-georgias-chief-elections-investigator.md",
+      "title": "Recording reveals details of Trump call to Georgia’s chief elections investigator",
+      "excerpt": "In the Dec. 23 conversation, the then-president urged the chief investigator for Secretary of State Brad Raffensperger to do “whatever you can do” to uncover wrongdoing in the election.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/03/11/c532ea2e-827a-11eb-ac37-4383f7709abe_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/03/11/c532ea2e-827a-11eb-ac37-4383f7709abe_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 475,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVNCAVDHE4I6XOVYOB7YO2OXQU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/03/11/c532ea2e-827a-11eb-ac37-4383f7709abe_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/03/11/c532ea2e-827a-11eb-ac37-4383f7709abe_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-11T12:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-biden-hits-50-days-without-press-conference-abc-news-calls-out-striking-difference-from-trump.md",
       "title": "Biden hits 50 days without press conference: ABC News calls out 'striking' difference from Trump",
       "excerpt": "President Biden has not held a formal press conference 50 days into his presidency, drawing criticism from ABC News of the \"striking\" contrast in transparency with predecessor Donald Trump. \"Halfway into his first 100 days, President Joe Biden has yet to ...",
@@ -163,21 +215,25 @@
       ]
     },
     {
-      "path": "_news/2021-03-11-trump-insists-something-bad-happened-with-ga-election-in-call-with-investigator-wsj.md",
-      "title": "Trump insists 'something bad happened' with Ga. election in call with investigator: WSJ",
-      "excerpt": "On Location: March 10, 2021 In a December phone call with the chief investigator in Secretary of State Brad Raffensperger's office, former President Donald Trump insisted he won Georgia's ...",
+      "path": "_news/2021-03-11-gillibrand-quick-to-call-out-franken-kavanaugh-clinton-trump-but-not-cuomo.md",
+      "title": "Gillibrand quick to call out Franken, Kavanaugh, Clinton, Trump — but not Cuomo",
+      "excerpt": "Sen. Kirsten Gillibrand — who led the charge resulting in former Minnesota Sen. Al Franken’s resignation over sexual misconduct claims — still says it’s not the time to call for",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706",
-      "originalUrl": "https://abcnews.go.com/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706",
+      "webUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/",
+      "originalUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/",
       "featuredContent": null,
-      "highlight": null,
-      "heat": 252,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/Politics/donald-trump-raffensperger-georgia-election-01-gty-llr-210310_1615421935733_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/Kristen-GillibrandArticle.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -185,23 +241,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706",
-      "publishedDateTime": "2021-03-10T17:12:00-08:00",
+      "ampWebUrl": "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/",
+      "publishedDateTime": "2021-03-10T16:46:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -211,25 +258,26 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
+        "Donald Trump",
+        "Republican Voice"
       ]
     },
     {
-      "path": "_news/2021-03-11-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the-right-answer.md",
-      "title": "Trump told Ga. investigator he won the state: 'You'll be praised' for 'the right answer'",
-      "excerpt": "New audio obtained by The Wall Street Journal shows then-President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate ...",
+      "path": "_news/2021-03-11-trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe.md",
+      "title": "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe",
+      "excerpt": "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U.",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the",
-      "originalUrl": "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the",
+      "webUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF",
+      "originalUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 140,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_041819gn7_lead.jpg",
-          "width": 980,
-          "height": 551,
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554431647&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291FE",
+          "width": 837,
+          "height": 545,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -237,16 +285,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the?amp",
-      "publishedDateTime": "2021-03-10T14:52:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B22DF",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22DF",
+      "publishedDateTime": "2021-03-10T13:26:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -488,7 +536,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1357,
+      "heat": 1377,
       "tags": null,
       "images": [
         {
@@ -616,58 +664,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-the-hills-1230-report-presented-by-johns-hopkins-university-trumps-relationship-with-gop-worsens.md",
-      "title": "The Hill's 12:30 Report - Presented by Johns Hopkins University - Trump's relationship with GOP worsens",
-      "excerpt": "To receive The Hill's 12:30 Report in your inbox, please sign up here:  --> A midday take on what's happening in politics and how to have a sense of humor about it.* *Ha. Haha. Hahah. Sniff. Haha. Sniff.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan",
-      "originalUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_9_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan?amp",
-      "publishedDateTime": "2021-03-09T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -859,6 +855,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-09-roy-blunts-exit-highlights-the-trump-wing-of-the-gops-big-opportunity-in-2022.md",
+      "title": "Roy Blunt’s exit highlights the Trump wing of the GOP’s big opportunity in 2022",
+      "excerpt": "Roy Blunt’s (R-Mo.) surprise retirement announcement Monday means there are now five GOP senators calling it quits ahead of the 2022 midterms. That’s fully one-fourth of all members who were up for reelection,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUPOLPDLF4I6RIZVYRID2BA6V4.jpg&w=1440",
+          "width": 1440,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/?outputType=amp",
+      "publishedDateTime": "2021-03-08T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-the-magic-donald-trump-brought-to-republican-politics-is-not-a-mystery.md",
       "title": "The ‘magic’ Donald Trump brought to Republican politics is not a mystery",
       "excerpt": "Lindsey Graham (R-S.C.) painted former president Donald Trump as a sort of magical conservative chimera. That made it trickier, he suggested, for the Republican Party to leverage Trumpism without Trump.",
@@ -968,58 +1016,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-07-china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying.md",
-      "title": "China calls on US to drop Trump-era sanctions and warns against 'bullying'",
-      "excerpt": "Foreign minister Wang Yi calls for cooperation and signals that Beijing will stand firm against criticism",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
-      "originalUrl": "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1460603f607965dd4feb714bb0cba76fa5e4a045/643_571_6904_4144/master/6904.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c281ae1e3c17d59475ec3266852594f7",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
-      "publishedDateTime": "2021-03-07T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-07-arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-in-jail-after-storming-capitol.md",
       "title": "Arrested Trump Appointee Tells Judge 'Cockroaches Crawling Over Me' in Jail After Storming Capitol",
       "excerpt": "Federico Guillermo Klein, 42, became the first Trump administration official to be arrested for taking part in the insurrection.",
@@ -1080,7 +1076,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1521,7 +1517,7 @@
       "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 263,
+      "heat": 283,
       "tags": null,
       "images": [
         {
@@ -1565,15 +1561,15 @@
       ]
     },
     {
-      "path": "_news/2021-03-05-georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills.md",
-      "title": "Georgia GOP leaders who stood up to Trump back voting bills",
-      "excerpt": "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud",
+      "path": "_news/2021-03-05-refugees-flights-cancelled-as-trump-policy-remains.md",
+      "title": "Refugees’ flights cancelled as Trump policy remains",
+      "excerpt": "Refugee resettlement agencies say more than 260 refugees who were vetted, approved and booked to come to the United States have had their flights canceled by the State Department over the past two wee",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html",
+      "webUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1587,9 +1583,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-05T02:21:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/refugees-flights-cancelled-as-trump-policy-remains/2021/03/04/9b09aebe-7d42-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-04T20:37:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",

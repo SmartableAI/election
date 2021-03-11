@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-09-trump-critic-rep-kinzinger-hopes-to-be-good-part-of-history.md",
+      "title": "Trump critic Rep. Kinzinger hopes to be 'good part of history'",
+      "excerpt": "CNN's Jeff Zeleny speaks to Rep. Adam Kinzinger (R-IL), an outspoken critic of former President Donald Trump, about some of the backlash he has received since voting to impeach Trump and his political future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "originalUrl": "https://www.cnn.com/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210308193714-adam-kinzinger-zeleny-dnt-03082021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/09/adam-kinzinger-outspoken-trump-critic-zeleny-pkg-ebof-vpx.cnn",
+      "publishedDateTime": "2021-03-08T17:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-mcenany-i-warned-the-reporters-biden-would-be-a-no-show-in-white-house-briefing-room.md",
       "title": "McEnany: 'I warned the reporters' Biden would be a no-show in White House Briefing Room",
       "excerpt": "Former White House Press Secretary Kayleigh McEnany told Fox News on Monday that she warned the press corps in the waning days of the Trump administration that the suddenly rare appearances by Donald Trump would be a primer for how the Biden administration would interact with the media.",
@@ -167,6 +224,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-09-roy-blunts-exit-highlights-the-trump-wing-of-the-gops-big-opportunity-in-2022.md",
+      "title": "Roy Blunt’s exit highlights the Trump wing of the GOP’s big opportunity in 2022",
+      "excerpt": "Roy Blunt’s (R-Mo.) surprise retirement announcement Monday means there are now five GOP senators calling it quits ahead of the 2022 midterms. That’s fully one-fourth of all members who were up for reelection,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUPOLPDLF4I6RIZVYRID2BA6V4.jpg&w=1440",
+          "width": 1440,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/?outputType=amp",
+      "publishedDateTime": "2021-03-08T09:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -894,58 +1003,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-07-china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying.md",
-      "title": "China calls on US to drop Trump-era sanctions and warns against 'bullying'",
-      "excerpt": "Foreign minister Wang Yi calls for cooperation and signals that Beijing will stand firm against criticism",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
-      "originalUrl": "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/1460603f607965dd4feb714bb0cba76fa5e4a045/643_571_6904_4144/master/6904.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c281ae1e3c17d59475ec3266852594f7",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying",
-      "publishedDateTime": "2021-03-07T05:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-07-china-tells-biden-to-reverse-dangerous-practice-on-taiwan.md",
       "title": "China tells Biden to reverse ‘dangerous practice’ on Taiwan",
       "excerpt": "China’s foreign minister has warned the Biden administration to roll back former President Donald Trump’s “dangerous practice” of showing support for Taiwan, the island democracy Beijing claims as its",
@@ -1205,7 +1262,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1278,63 +1335,6 @@
       "ampWebUrl": "https://www.wsj.com/amp/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
       "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
       "publishedDateTime": "2021-03-06T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees.md",
-      "title": "Microsoft, Wells Fargo Satisfied Trump Labor Department on Hiring More Black Employees",
-      "excerpt": "The Labor Department under the Trump administration closed inquiries last year after the two companies responded to questions about their plans to hire more Black staff.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees-11615035602",
-      "originalUrl": "https://www.wsj.com/articles/microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees-11615035602",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-307730/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees-11615035602",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/microsoft-wells-fargo-satisfied-trump-labor-department-on-hiring-more-black-employees-11615035602",
-      "publishedDateTime": "2021-03-05T21:00:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",

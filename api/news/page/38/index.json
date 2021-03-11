@@ -171,7 +171,7 @@
       "originalUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -392,7 +392,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -655,6 +655,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-coronavirus-updates-biden-receives-2nd-dose-of-vaccine-members-of-congress-exposed-to-virus-during-riot-lockdown-chicago-schools-reopen.md",
+      "title": "Coronavirus updates: Biden receives 2nd dose of vaccine; members of Congress exposed to virus during riot lockdown; Chicago schools reopen",
+      "excerpt": "Chicago Public Schools open for first time since March 2020. Tennessee Rep. Chuck Fleischmann has virus after Capitol riot lockdown. Latest news.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/health/2021/01/11/covid-news-25-k-deaths-new-years-day-chicago-schools/6609727002/",
+      "originalUrl": "https://www.usatoday.com/story/news/health/2021/01/11/covid-news-25-k-deaths-new-years-day-chicago-schools/6609727002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/01/11/USAT/eb35fcc2-717a-40b5-ace5-c3aa4dfb2d5b-AP21010756102464.jpg?auto=webp&crop=3743,2106,x0,y190&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6609727002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6609727002",
+      "publishedDateTime": "2021-01-11T12:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -934,6 +986,49 @@
       ]
     },
     {
+      "path": "_news/2021-01-12-joe-bidens-inauguration-theme-america-united.md",
+      "title": "Joe Biden’s inauguration theme: ‘America United’",
+      "excerpt": "WASHINGTON (AP) — The theme for President-elect Joe Biden’s inauguration will be “America United,” an issue that’s long been a central focus for Biden but one that’s taken on added weight in the wake of the violence at the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html",
+      "originalUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NAB5FK6RFAK3B53DG7COL2DXE.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp",
+      "publishedDateTime": "2021-01-11T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cleveland.com",
+        "domain": "cleveland.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-turley-democrats-impulse-buy-impeachment-of-trump-would-have-very-serious-implications.md",
       "title": "Turley: Democrats 'impulse buy' impeachment of Trump would have 'very serious implications'",
       "excerpt": "George Washington University law professor Jonathan Turley said he doesn’t think Democrats should go forward with a \"snap impeachment,\" explaining that the process is supposed be \"deliberative,\" not impulsive. ",
@@ -1098,58 +1193,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-11-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification.md",
-      "title": "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification",
-      "excerpt": "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
-      "originalUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-11T04:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-11-mcgovern-im-concerned-hell-do-something-crazy-capitol-mob-fallout-trump-to-give-belichick-medal-of-freedom.md",
       "title": "MCGOVERN: I’m concerned ‘he’ll DO SOMETHING CRAZY’ — CAPITOL MOB FALLOUT — TRUMP to give BELICHICK Medal of Freedom",
       "excerpt": "Rep. Jim McGovern, chair of the House Rules Committee, will have a key role when the House begins impeachment proceedings against President Donald Trump, which will likely happen this week. I spoke with McGovern on Sunday about his experience when the mob stormed the Capitol last week,",
@@ -1204,58 +1247,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-israel-announces-new-settlements-risking-bidens-anger.md",
-      "title": "Israel announces new settlements, risking Biden's anger",
-      "excerpt": "Israel has advanced plans to build 800 new settler homes in the occupied West Bank, a move that could strain ties with the incoming administration of President-elect Joe Biden",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908",
-      "originalUrl": "https://abcnews.go.com/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 385,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/International/WireAP_6da97118452742cfaa37ee04ef0f095a_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908",
-      "publishedDateTime": "2021-01-11T04:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/biden-first-week/2021/01/27/
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-first-week/2021/01/27/b98f71d8-5cd2-11eb-8bcf-3877871c819d_story.html?outputType=amp"
 type: article
 quality: 114
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/dd14e355-72ea-4998-9a71-ee24ff1b399c-biden-signing.jpg?auto=webp&crop=5968,3357,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "'This is our historic moment of crisis and challenge': Joe Biden calls for unity in first speech as president – live"
-    excerpt: "Joe Biden has been sworn in as president, bringing an end to four years of Donald Trump’s leadership in Washington"
-    publishedDateTime: 2021-01-20T18:15:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates?page=with:block-60087e588f08fbcf3cf0e1fa"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/20/joe-biden-inauguration-donald-trump-impeachment-kamala-harris-washington-covid-coronavirus-live-updates"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 102
-    images:
-      - url: "https://i.guim.co.uk/img/media/d15a858f45a82cc9a06ff6968945b105bb4befcc/0_199_6048_3627/master/6048.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8e9c855fc42f237c45a7a7d11c48fa8f"
-        width: 600
-        height: 360
         isCached: true
 
 secured: "5TD5LthOncBFpYdPt1ZPwTGz1wYFn+YFRAP09AGjexy1MCcOHNfB7w2wcrWeF4bRh7UTg0ApzAQ8DH9H0P2dffzt2wkMcn63blFEkcjW7ijRc/8+Co6kfxoi78j6VGxIHwlUKmjTOWRjlSzfEkSSSR0LTTI5d3piSC64kUZ+8cVFb1FwHAA3hoE+c02ugnd9orv1i+TzNCe7ZZlfEL5Q5pU7lJAYkqvXrYhE4wEmQKNwmSwJ0b0lZqoR/Xr1WseT75xmDkY4EPvCwwRXE3jKdkrZ82zbjngYScl7c3TYB75twbRRigi5/X1ZQ96ivTKDG4ypakd3JKIBi1Qd9hEpzTyrMk6ELYuGo9vc+Fgd22k=;Oh/kUfidyAiy6lObQp1E0g=="

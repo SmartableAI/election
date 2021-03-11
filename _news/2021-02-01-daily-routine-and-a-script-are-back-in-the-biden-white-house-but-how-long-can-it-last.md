@@ -187,6 +187,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "President Joe Biden, Democrats hit gas on push for $15 minimum wage"
+    excerpt: "President Joe Biden called for a $15 hourly minimum wage during his campaign and has followed through by hitching it to a measure that, among other things, calls for $1,400 stimulus checks and $130 billion to help schools reopen."
+    publishedDateTime: 2021-01-30T18:07:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DCYM7LIUA5EM3N44LCYC3SJYVI.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Joe Biden takes the helm, enters the White House for the first time as chief executive: ‘Democracy has prevailed’"
     excerpt: "Joe Biden was sworn in as the 46th president of the United States on Wednesday, declaring that “democracy has prevailed” and summoning American resilience and unity to confront the deeply divided nation’s historic confluence of crises."
     publishedDateTime: 2021-01-20T21:56:00Z

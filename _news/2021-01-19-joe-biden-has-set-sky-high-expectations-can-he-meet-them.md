@@ -54,6 +54,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "US official says Biden administration to seek 5-year extension of nuclear arms treaty with Russia"
+    excerpt: "WASHINGTON — US official says Biden administration to seek 5-year extension of nuclear arms treaty with Russia. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
+    publishedDateTime: 2021-01-21T22:46:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/us-official-says-biden-administration-to-seek-5-year-extension-of-nuclear-arms-treaty-with-russia/2021/01/21/8b27008a-5c10-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-official-says-biden-administration-to-seek-5-year-extension-of-nuclear-arms-treaty-with-russia/2021/01/21/8b27008a-5c10-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-official-says-biden-administration-to-seek-5-year-extension-of-nuclear-arms-treaty-with-russia/2021/01/21/8b27008a-5c10-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Mine just south of Oregon-Nevada line may boost Joe Biden’s energy plan"
     excerpt: "One of the keys to President Joe Biden’s $2 trillion clean energy plan could be a mineral that lies in a salt flat above a prehistoric volcano just south of the Oregon-Nevada line."
     publishedDateTime: 2021-01-23T17:26:00Z

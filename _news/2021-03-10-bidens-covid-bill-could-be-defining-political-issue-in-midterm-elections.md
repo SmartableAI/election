@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/will-democrats-or-republicans-polit
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package.amp"
 type: article
 quality: 189
-heat: 829
+heat: 849
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden signs $1.9T coronavirus relief bill in first major legislative win"
+    excerpt: "President Biden on Thursday signed into law the sweeping $1.9 trillion coronavirus relief package that Democrats muscled through Congress without any Republican support, securing the first big legislative win of his presidency. "
+    publishedDateTime: 2021-03-11T19:10:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vcX79ggCOnE/biden-signs-coronavirus-relief-bill-first-major-legislative-win"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-coronavirus-relief-bill-first-major-legislative-win.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-coronavirus-relief-bill-first-major-legislative-win.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77ea87d1-171c-49ab-b026-7a118ad1121c/5c416a23-d04b-4f32-b24b-c473bceb46e9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Lawmakers introduce bill to repeal Biden's war powers following Syria strike"
     excerpt: "A bipartisan group of senators Wednesday called for the repeal of presidential war powers granted by Congress in 1991 and 2002, which would revoke authorization for military force in the Middle East, as tensions rise between the U.S. and Iran."

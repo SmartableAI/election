@@ -287,6 +287,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
+    excerpt: "Lauren Gambino in Washington (now), Joanna Walters and Martin Belam (earlier) The Senate voted on Thursday to advance the nomination of Deb Haaland to be the next interior secretary, bringing her one step closer to becoming the first Native American ..."
+    publishedDateTime: 2021-03-11T20:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a4f528f08089f0d4af6b0"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/909081444d50137d6488ef62641c42c460b55fff/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=36303c63c6c8aef763065d01ce15ace0"
+        width: 600
+        height: 360
+        isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
     publishedDateTime: 2021-03-04T12:33:00Z
@@ -964,6 +980,6 @@ related:
         height: 675
         isCached: true
 
-secured: "sq9qoIo0XdSIPvLeijU8Helg+UxTmfL3K6QCkEGum/FMYsro6A87Z2EbbYnh1biWSY4HM8rp3NY1VhBGlnVNRUxE6gxinnAQe4cckIvULIjug8MOuFzk3TLMNcHjArSFES3oxOMtmFtSSbESmHgBeYF98ZjenYdEDDcdHgg9GRtdNncPox26uaQaedHGolQXYw0+UkeEho0ZQ2H7tMAKK74wLuEMGaLENDHSPz3pmp4TK+Mvua4JdMufqoGG0VIGTjDC0a0JBUv71YsnS7OjWFLJnyQrPv6b7lDBzSW7UtcWaBk82hY6nqZrEmMBGh/dVGRzPsNLJ7bOY7ZDTdU0UftMA6eU59GNF5pctSpmbM0=;7wuuAUW4Pu64NFNQM7SUZg=="
+secured: "IiSHHnw/eCK2C8Ye3k80jDNQQOkSxqeW91vFVNzzX2o1G9XTxhZOuFBuJh6AetxSmBLbfuSooxB6S+dvS8eCJHjuMB3og3KF4DqNaZI5b5zUj/6OTHbDjVzkzAwGsPe7TF4HfClq4ld08JyzVNvGkC4Ks6LFD5/c7minxU1nJxhpHYs7de5UMUzEPZeqvDahVShbVJDY/EhkIy3Ysw7tQ0CfTFIjZjF3SQly2TmT5or5Dc5GplXTVn4pxS9w0J0nxqlG2xL3mGLSQxMlM2wpdXkwMQms99OMyIni2dYYdm7tIwucSQ8jB/EfWDlX9Cz4Fgc7jVKK7UICGL2H0Scw/p4MlKFcXWS9EZ5Sk6uv1l85bLbZXzbQmESb48QbQLB5qN+ukaRtQorUXnVBGmix0ooEyJrvf+oTJWH56LBYN/kkDYUHcd5RlBy89SWdWJyA5CSWssZH8cQK5Oe3H1phwXhkUHbIi73M0juWSJY5Mhur7+GUdmS2GtyIzWq76r13fuT4+vMMn5ZkfmbjRUn2Hg==;9Q7eeNCG55mJ/VM4d5Kc5g=="
 ---
 

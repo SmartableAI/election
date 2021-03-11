@@ -63,6 +63,22 @@ related:
         width: 819
         height: 545
         isCached: true
+  - title: "Lindsey Graham describes the GOP as a hostage to Trump"
+    excerpt: "Lindsey O. Graham’s relationship with former president Donald Trump has contained multitudes. He was arguably Trump’s biggest critic on the 2016 debate stage, saying that nominating Trump would deservedly destroy the party,"
+    publishedDateTime: 2021-03-08T14:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/APLQKBDTCYI6XOFJXFDHKEHQ7Y.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Chinese entrepreneur sells pensive Donald Trump Buddha statues"
     excerpt: "One buyer says he bought statue of former US president on Taobao as reminder not to be ‘too Trump’ Martin Belam Donald Trump is not known for his calm and peaceful demeanour, but that hasn’t stopped one entrepreneurial furniture-maker in China from ..."
     publishedDateTime: 2021-03-10T11:46:00Z
@@ -111,21 +127,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
-    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
-    publishedDateTime: 2021-03-05T18:29:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-swalwell-idUSL2N2L314I"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP"
+  - title: "Trump's own Defense secretary says he was responsible for Capitol riot"
+    excerpt: "Former acting Defense Secretary Christopher Miller says in a forthcoming interview that former President Trump Donald Trump The Memo: How the COVID year upended politics Biden seeks his moment ..."
+    publishedDateTime: 2021-03-11T20:28:00Z
+    webUrl: "https://thehill.com/policy/defense/542803-trumps-own-defense-secretary-says-he-was-responsible-for-capitol-riot"
+    ampWebUrl: "https://thehill.com/policy/defense/542803-trumps-own-defense-secretary-says-he-was-responsible-for-capitol-riot?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/542803-trumps-own-defense-secretary-says-he-was-responsible-for-capitol-riot?amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
+      name: The Hill
+      domain: thehill.com
+    quality: 125
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
-        width: 947
-        height: 545
+      - url: "https://thehill.com/sites/default/files/millerchristopher_072220bc2_lead.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Claimed value of sleepy New York estate could come to haunt Donald Trump"
     excerpt: "A century-old estate that Trump owns in suburban New York is subdued by the former president's standards, but it could end up being one of his bigger legal nightmares."
@@ -367,15 +383,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "U.S. Representative Swalwell Sues Trump Over Jan. 6 Insurrection"
-    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
-    publishedDateTime: 2021-03-05T14:00:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-05/us-representative-swalwell-sues-trump-over-jan-6-insurrection"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
 
 secured: "e652Bi7IaBKHJgSYwoIcZIEHO0Azm74OuKq2S7LQsKjA4bax8bt+UMPH8LasLNRw7c4/X0dQhZ1ambOnh1zk+fdA9NBOph3Hetx0oC0XgEkWJXZLHU+C3/eH/pGCcYx+BBub6+1NUzODUVhpJ5m1KxZXy0Ma39dCQ9681oRymboteJRkEdtWT2vFIVKBjNGjcJTCDYJMTggbjRjbLaKnUW4PeWRHwMrqiyh6x9yRZGylaq/rhOnLcUMAYnfF8dnf0uH0K7DmF4R8WmELMqHC6XQqDJLqhwUfnwo195oNO0R2ITC7ZVBXlG72fJougcorNLYcpQrPzp0+GEByqNspeGq80Lw37Wuyv3ERZDVr7FxR8JdI0hDSuswMpa8iKxFNY771W6nRGugkWk07bH9jsoZdaH/bESQxKzaAoq80OkyN8xKREx90RkfdM6auic5bK1qdg0iMJOvfFZHV6N3fSUsdyerYFAUN21+YM9tVuZDTiHcqz/XBaD2lahRX7RVDbtwjl46ZbPcVvyhYxMyB/Q==;KnW3CIXsoM78ToefGlWpMA=="
 ---

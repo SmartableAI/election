@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Small group of Pro-Trump protesters, some armed, quietly gather in Carson City near capitol"
+    excerpt: "A small group of protesters have gathered in Carson City near the Nevada state Capitol. Check back here for live updates throughout the day."
+    publishedDateTime: 2021-01-16T22:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/01/16/carson-city-protest-live-coverage-nevada-capitol/4184756001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4184756001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4184756001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/16/PREN/52f86d3b-ff52-4b49-8f0e-92801026d8d7-REN_CARSON_PROTEST_011621_05.jpg?auto=webp&crop=1477,831,x0,y74&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Paleologos on the Poll: Inauguration Day isn't the end of the Trump era. It's just the beginning."
     excerpt: "David Paleologos, director of the Suffolk University Political Research Center, says Trump would be the favorite in the 2024 GOP primary."
     publishedDateTime: 2021-01-17T19:02:00Z

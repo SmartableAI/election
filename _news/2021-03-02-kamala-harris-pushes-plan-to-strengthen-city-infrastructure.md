@@ -165,20 +165,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Harris, Emhoff to visit Las Vegas to promote relief bill"
-    excerpt: "Vice President Kamala Harris and her husband Doug Emhoff will visit Las Vegas on Monday as part of a trip to promote the $1.9 trillion relief package that President Joe Biden"
-    publishedDateTime: 2021-03-11T18:08:00Z
-    webUrl: "https://apnews.com/article/joe-biden-colorado-denver-las-vegas-nevada-3b1ce1370b8de17a5ce778d3c6a883b3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 105
-    images:
-      - url: "https://apnews.com/images/ShareLogo2.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "Essential Politics: Kamala Harris enters a supermarket — and a security bubble"
     excerpt: "A press event at a grocery store underscores the new reality of Vice President Kamala Harris' protective bubble."
     publishedDateTime: 2021-03-03T14:31:00Z
@@ -351,6 +337,22 @@ related:
         width: 800
         height: 532
         isCached: true
+  - title: "Kamala Harris husband Emhoff is the first second gentleman | Charlotte Observer"
+    excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
+    publishedDateTime: 2021-03-11T19:28:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article249862338.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249862338.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249862338.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 71
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/b0018f62-b6fe-41a9-92e0-177f1e3c9a2c/6e22477c-e373-4d34-af79-1d8070ada578/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "US Vice President Salary 2021: Here's How Much Kamala Harris Will Earn This Year"
     excerpt: "Kamala Harris became the first woman to hold the second-highest public office in American history, but will she be compensated the same as her male predecessors?"
     publishedDateTime: 2021-03-05T06:01:00Z
@@ -366,6 +368,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/21/kamala-harris-is-sworn-in-as-vice-president.jpg"
         width: 1024
         height: 736
+        isCached: true
+  - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
+    excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
+    publishedDateTime: 2021-03-11T19:28:00Z
+    webUrl: "https://www.miamiherald.com/news/politics-government/article249862338.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249862338.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249862338.html"
+    type: article
+    provider:
+      name: Miami Herald
+      domain: miamiherald.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/b0018f62-b6fe-41a9-92e0-177f1e3c9a2c/6e22477c-e373-4d34-af79-1d8070ada578/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Kamala Harris won't weigh in on minimum wage ruling from Senate parliamentarian: Deese"
     excerpt: "Brian Deese, a top economic adviser to President Biden, said Friday that Vice President Kamala Harris will not move to overturn a ruling from the Senate parliamentarian that increasing the federal minimum wage to $15 per hour is out of bounds for Democrats’ $1."
@@ -441,6 +459,17 @@ related:
         width: 944
         height: 630
         isCached: true
+  - title: "Harris, Emhoff to visit Las Vegas to promote relief bill"
+    excerpt: "Vice President Kamala Harris and her husband Doug Emhoff will visit Las Vegas on Monday as part of a trip to promote the $1.9 trillion relief package that President Joe Biden signed into law Thursday."
+    publishedDateTime: 2021-03-11T20:20:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/11/harris-emhoff-to-visit-las-vegas-to-promote-relief/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/11/harris-emhoff-to-visit-las-vegas-to-promote-relief/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/11/harris-emhoff-to-visit-las-vegas-to-promote-relief/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 55
   - title: "Vice President Kamala Harris talks to Maryland residents on COVID vaccine, stimulus at Black History Month event"
     excerpt: "Vice President Kamala Harris spoke to hundreds of Anne Arundel and Prince George’s County residents Saturday as she joined Rep. Steny Hoyer’s 40th Annual Black History Month Celebration, the first time in its 40 years the event was held online."
     publishedDateTime: 2021-02-27T22:54:00Z

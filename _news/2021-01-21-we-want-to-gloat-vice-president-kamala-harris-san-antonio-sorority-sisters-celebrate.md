@@ -517,14 +517,14 @@ related:
   - title: "Vice President Kamala Harris Delivers Virtual Remarks"
     excerpt: "Vice President Kamala Harris delivers virtual remarks to the National League of Cities' (NLC) Congressional City Conference, at the Eisenhower Executive Office Building at the White House complex in Washington,"
     publishedDateTime: 2021-03-08T20:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/33530a94bbc693b85317727d09c4eb4d/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/33530a94bbc693b85317727d09c4eb4d/USA-WHITE-HOUSE-HARRIS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/USA-WHITE-HOUSE-HARRIS.jpg"
         width: 650
         height: 433
         isCached: true
@@ -577,6 +577,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 35
+  - title: "Vice President Harris American Rescue Plan Briefing"
+    excerpt: "Vice President Harris participated in a brief conversation on the American Rescue Plan that preceded a closed… Vice President-elect Kamala Harris volunteered with her husband, Doug Emhoff, at Martha’s Table in Washington, D.C., to… President-elect ..."
+    publishedDateTime: 2021-03-11T20:01:00Z
+    webUrl: "https://www.c-span.org/video/?509795-1/vice-president-harris-american-rescue-plan-briefing"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
     quality: 35
 
 secured: "T2QQ+o1cx5s8BCLLDyuLGo9utoLpEVKqQle+CtjntRRJfrhv4KJb6oxLigIh27T6xbOjYX4WigBw5SLHoEBV5FZBDUx9ql/k3X1v3CxtiFUEJ2hShBJcKch4LZ5n5JkBmzod5xO1Nkro5xSg8KSB6sMUfGVjj+7oOOL264yJS1FHjPAttWi8fIIO9fNUaGU3x3Ikz8Jc4dMGj92Xy8aPsI6X1JY9/EsPQlocKjhgFlePoZLBjqHW7mQXGp7SDXuFDi3TlUEOjQthhAIPsf4rokrJ4WY8MV7H7FuMp+/tvxiy7Knk3GCl4fbrKipxnyg4Qv/aUV3hdXdWvX92npOY+1v+icdyP5dN7sUj2sdvC3Q=;5TK4eh3dJxpyW9Xgbm91XQ=="

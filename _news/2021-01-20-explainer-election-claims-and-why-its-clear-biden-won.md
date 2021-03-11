@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/explainer-election-claims-and-why-it
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1?amp"
 type: article
 quality: 120
-heat: 180
+heat: 200
 published: true
 
 provider:
@@ -40,6 +40,22 @@ related:
       - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548568729&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K0ND"
         width: 817
         height: 545
+        isCached: true
+  - title: "US official says Biden administration to seek 5-year extension of nuclear arms treaty with Russia"
+    excerpt: "WASHINGTON — US official says Biden administration to seek 5-year extension of nuclear arms treaty with Russia. Copyright 2021 The Associated Press. All rights reserved. This material may not be published,"
+    publishedDateTime: 2021-01-21T22:46:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/us-official-says-biden-administration-to-seek-5-year-extension-of-nuclear-arms-treaty-with-russia/2021/01/21/8b27008a-5c10-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/us-official-says-biden-administration-to-seek-5-year-extension-of-nuclear-arms-treaty-with-russia/2021/01/21/8b27008a-5c10-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/us-official-says-biden-administration-to-seek-5-year-extension-of-nuclear-arms-treaty-with-russia/2021/01/21/8b27008a-5c10-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 112
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Joe Biden has set sky-high expectations. Can he meet them?"
     excerpt: "Back when the election was tightening and just a week away, Joe Biden went big. He flew to Warm Springs, the Georgia town whose thermal waters once brought Franklin Delano Roosevelt comfort from polio,"

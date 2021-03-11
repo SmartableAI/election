@@ -507,14 +507,14 @@ related:
   - title: "Vice President Kamala Harris Delivers Virtual Remarks"
     excerpt: "Vice President Kamala Harris delivers virtual remarks to the National League of Cities' (NLC) Congressional City Conference, at the Eisenhower Executive Office Building at the White House complex in Washington,"
     publishedDateTime: 2021-03-08T20:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/33530a94bbc693b85317727d09c4eb4d/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/33530a94bbc693b85317727d09c4eb4d/USA-WHITE-HOUSE-HARRIS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/USA-WHITE-HOUSE-HARRIS.jpg"
         width: 650
         height: 433
         isCached: true
@@ -581,6 +581,15 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
+    quality: 35
+  - title: "Vice President Harris American Rescue Plan Briefing"
+    excerpt: "Vice President Harris participated in a brief conversation on the American Rescue Plan that preceded a closed… Vice President-elect Kamala Harris volunteered with her husband, Doug Emhoff, at Martha’s Table in Washington, D.C., to… President-elect ..."
+    publishedDateTime: 2021-03-11T20:01:00Z
+    webUrl: "https://www.c-span.org/video/?509795-1/vice-president-harris-american-rescue-plan-briefing"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
     quality: 35
 
 secured: "1aagLRz3Rl+4OtCiFs1lGU3+6nxgNg90Aa3/RH3hWnwNHB8gA2mBTokBLgVDYDUPggGH63EKiKYK3lxcp4fFQuyoIyONsq0Efe7f4FxLBbuvwmQjIPYbWqbCuaLXaAtpp2+biYK0bZBrlDTPWIUCVwbNoPUI083WBm7wrTEF4CmLbCtlMaZEwPSKX/t9Z44KAGQTPLb7AqA/qasl3lRZNJfDIpSEFRGhc5i/W/hLtfKW+SMpeGc9euCQqrxXOs3yTJhgTwABt9YGHuzMHwkWkhZqTgDNqK6uyIidBbCFvwk1OScVBKjoy+mSluPpB/HT35UPdVtbx08uv5RQUJQbFjv9L2q3fVEmwnW2qZXLPKLGUQinjm7BIfhMFFqVdLVWdJGLql1fxDA7g3CcnuRWDjCPYYC7/IaAr1RZYY8ZEOPxPDCOmzXdpK1i2XqHGQqvOFXbtxDjOH+LEobglRCuPE95VxPhRhVzsgGVem/lqpa+vCHtPLwgwDsb1VVZv6prPH3TC7VI/Hlx3KWnlA4huQ==;Xk25jwDsfeWIdoBynOAL0w=="

@@ -127,6 +127,36 @@ related:
         width: 815
         height: 545
         isCached: true
+  - title: "As Biden prepares to take office and America reels from Capitol riots, Black and white still define the nation"
+    excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
+    publishedDateTime: 2021-01-15T00:40:00Z
+    webUrl: "https://www.usatoday.com/story/money/2021/01/14/black-america-history-social-economic-inequalities/5759328002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5759328002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5759328002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Dollar hovers near one-month high as Biden's FX policy takes shape"
+    excerpt: "The dollar hovered around its highest in nearly one month on Tuesday with traders expecting U.S. Treasury Secretary nominee Janet Yellen to affirm a more traditional commitment to market-set currency rates when she testifies at Capitol Hill later."
+    publishedDateTime: 2021-01-19T06:52:00Z
+    webUrl: "https://www.reuters.com/article/global-forex-int/dollar-hovers-near-one-month-high-as-bidens-fx-policy-takes-shape-idUSKBN29O03O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548253459&r=LYNXMPEH0I02C&w=800"
+        width: 800
+        height: 533
+        isCached: true
   - title: "Biden rounds out health team with Pennsylvania top official"
     excerpt: "U.S. President-elect Joe Biden on Tuesday filled out his health team, announcing Pennsylvania Health Secretary Dr. Rachel Levine as his choice for assistant U.S. health secretary as his administration takes office this week amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-19T18:09:00Z
@@ -183,6 +213,15 @@ related:
         width: 800
         height: 459
         isCached: true
+  - title: "A new crop of Texas-led lawsuits awaits Joe Biden's White House"
+    excerpt: "As the Democratic president-elect enacts big plans in his first 100 days, Texas is almost certain to fight him at every step."
+    publishedDateTime: 2021-01-16T05:38:00Z
+    webUrl: "https://www.houstonchronicle.com/politics/texas/article/A-new-crop-of-Texas-led-lawsuits-awaits-Joe-15874024.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: houstonchronicle.com
+    quality: 85
 
 secured: "l+jNJQiJbfyh296AZMlrm0Aw7UdkFz/uOhbwdui99NSL/ju53mlX/+eFYMTFnTAZt6evnqBCxVBeSfiIsAVmGU6QOj+86EOqUlrsQ9UKTCk3IG3WcXF+PYeWFewD/Tt6Fa8iYR8AOqwLB5TAMXtjKOPE2g0rxV9jO6xfOb8AphV3o720MIIldbLyrAPHeWzCOXh1EwDA4Y4/HOvzRZdIWaf4FFPeBZ5qlTQUmxMRwM54bau0t099DoHwb6Sa6hkw310MxZflHuNcxj3cjmN/7W0sTXUOogrT6aaftNM2dIn2FCo0OzEH2OMP4iiCCAlYo+5G7dMoiCHkGSeyXpOh+JnLO66CxYenGgQKPuMamww=;AkOWCVQwT7Mlb3lOngOX7Q=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-157402
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
 type: article
 quality: 123
-heat: 263
+heat: 283
 published: true
 
 provider:
@@ -122,6 +122,22 @@ related:
       - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/10/gettyimages-1203414124.jpg"
         width: 1200
         height: 949
+        isCached: true
+  - title: "Pentagon Says Trump Interfered With Investigation Into Rep. Ronny Jackson's Abuse Of Subordinates"
+    excerpt: "Jackson is accused of dozens of improprieties, including commenting on a female subordinate's body and drunkenly harassing her."
+    publishedDateTime: 2021-03-03T22:02:00Z
+    webUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764"
+    ampWebUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/03/29/ronny-jackson.jpg"
+        width: 594
+        height: 396
         isCached: true
   - title: "Special Report: How Trump Administration Left Indelible Mark on U.S. Immigration Courts"
     excerpt: "The Trump administration revised hiring for immigration judges to allow temporary appointments before background investigations were completed and gave the EOIR director more cont"

@@ -23,12 +23,76 @@ topics:
   - Donald Trump
 
 related:
-  - title: "Trump State Department aide charged with assault at Capitol"
-    excerpt: "A former State Department aide in President Donald Trump’s administration has been charged with participating in the deadly Capitol siege and assaulting officers"
-    publishedDateTime: 2021-03-05T20:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+  - title: "Recording reveals details of Trump call to Georgia’s chief elections investigator"
+    excerpt: "In the Dec. 23 conversation, the then-president urged the chief investigator for Secretary of State Brad Raffensperger to do “whatever you can do” to uncover wrongdoing in the election."
+    publishedDateTime: 2021-03-11T20:16:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/03/11/c532ea2e-827a-11eb-ac37-4383f7709abe_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/03/11/c532ea2e-827a-11eb-ac37-4383f7709abe_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/03/11/c532ea2e-827a-11eb-ac37-4383f7709abe_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 135
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVNCAVDHE4I6XOVYOB7YO2OXQU.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump pressured Georgia elections official to find evidence of voter fraud in call"
+    excerpt: "Georgia told an elections investigator that they would be a \"national hero\" if they found evidence of elections fraud."
+    publishedDateTime: 2021-01-10T12:39:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-georgia-call-pressured-voter-fraud-evidence/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 134
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/09/28ff4c1d-ff72-4ad1-b599-27fb6ce09176/thumbnail/1200x630/a22a0c37ad809d8a94173ed49081b6cf/gettyimages-1287973454.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump insists 'something bad happened' with Ga. election in call with investigator: WSJ"
+    excerpt: "On Location: March 10, 2021 In a December phone call with the chief investigator in Secretary of State Brad Raffensperger's office, former President Donald Trump insisted he won Georgia's ..."
+    publishedDateTime: 2021-03-11T01:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 132
+    images:
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-raffensperger-georgia-election-01-gty-llr-210310_1615421935733_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "On December call, Trump urged Georgia elections investigator to 'find the fraud': Source"
+    excerpt: "Amid a signature match audit, President Trump urged a Georgia elections investigator to \"find the fraud\" in a December phone call, a source confirmed to ABC News."
+    publishedDateTime: 2021-01-09T20:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/december-call-trump-urged-georgia-elections-investigator-find/story?id=75152489"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/december-call-trump-urged-georgia-elections-investigator-find/story?id=75152489"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/december-call-trump-urged-georgia-elections-investigator-find/story?id=75152489"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 131
+    images:
+      - url: "https://s.abcnews.com/images/Politics/georgia-votes-donald-trump-raffensperger-01-rt-llr-210109_1610222192103_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Georgia prosecutor investigating Trump call urges patience"
+    excerpt: "The Georgia prosecutor investigating potential efforts by Donald Trump to influence last year’s general election is urging people to be patient"
+    publishedDateTime: 2021-02-26T06:11:00Z
+    webUrl: "https://www.washingtonpost.com/national/georgia-prosecutor-investigating-trump-call-urges-patience/2021/02/26/55d11a2a-77f8-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/georgia-prosecutor-investigating-trump-call-urges-patience/2021/02/26/55d11a2a-77f8-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-prosecutor-investigating-trump-call-urges-patience/2021/02/26/55d11a2a-77f8-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -39,69 +103,37 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump demands three Republican groups stop raising money off his name"
-    excerpt: "Former President Donald Trump has clashed again with his Republican Party, demanding that three Republican groups stop using his name and likeness for fundraising, a Trump adviser said on Saturday."
-    publishedDateTime: 2021-03-06T23:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-republicans/trump-demands-three-republican-groups-stop-raising-money-off-his-name-idUSKBN2AY0JK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AY0JK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AY0JK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553981904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FV"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Chinese entrepreneur sells pensive Donald Trump Buddha statues"
-    excerpt: "One buyer says he bought statue of former US president on Taobao as reminder not to be ‘too Trump’ Martin Belam Donald Trump is not known for his calm and peaceful demeanour, but that hasn’t stopped one entrepreneurial furniture-maker in China from ..."
-    publishedDateTime: 2021-03-10T11:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/7657bf9894707ce482cdeb9d0814fa1e24957baf/385_82_1316_790/master/1316.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3024c349f4cf410da766382cec3206b6"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Donald Trump Buddha Statues Are Being Sold Across China"
-    excerpt: "A Chinese furniture maker made headlines this week after it began selling Donald Trump Buddha statues online, spawning a string of competing copycats. Buyers on Alibaba-owned e-commerce site Taobao can order a 6-inch pensive statuette of the 45th president ..."
-    publishedDateTime: 2021-03-11T14:51:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-buddha-statues-are-being-sold-across-china-1575399"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-buddha-statues-are-being-sold-across-china-1575399?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-buddha-statues-are-being-sold-across-china-1575399?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1753356/donald-trump-buddha-statues-sell-china.jpg"
-        width: 567
-        height: 648
-        isCached: true
-  - title: "On Twitter, Trump is more popular than Jesus"
-    excerpt: "With Donald Trump playing the old hits to an enthusiastic Conservative Political Action Conference (CPAC) crowd and congressional Republicans making post-election pilgrimages to Mar-a-Lago to pay respect, many observers wonder when the former president’s ..."
-    publishedDateTime: 2021-03-11T13:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
+  - title: "Georgia GOP leaders who stood up to Trump back voting bills"
+    excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud"
+    publishedDateTime: 2021-03-05T10:21:00Z
+    webUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P3WUXBD2MYI6XDC6GLSHWQVVDM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "RICO expert hired by prosecutor investigating Trump call"
+    excerpt: "An expert on Georgia’s racketeering law was sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general"
+    publishedDateTime: 2021-03-10T20:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/rico-expert-hired-prosecutor-investigating-trump-call-76365315"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/rico-expert-hired-prosecutor-investigating-trump-call-76365315"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/rico-expert-hired-prosecutor-investigating-trump-call-76365315"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a14525caea44439b8b26150f17cda535_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
@@ -119,262 +151,139 @@ related:
         width: 947
         height: 545
         isCached: true
-  - title: "Claimed value of sleepy New York estate could come to haunt Donald Trump"
-    excerpt: "A century-old estate that Trump owns in suburban New York is subdued by the former president's standards, but it could end up being one of his bigger legal nightmares."
-    publishedDateTime: 2021-03-08T06:56:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
+  - title: "Trump pressured another Georgia elections official, Frances Watson, to uncover nonexistent voter fraud"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump urged a Georgia elections official to uncover nonexistent evidence of mass fraud before the \"very important date\" of ..."
+    publishedDateTime: 2021-03-11T01:27:00Z
+    webUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3?amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 124
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6845f39/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2F32%2F450a5624ce3fce6f990f9b8cd698%2F0aa1a54903774f3383ed5e3ceaeaccce"
-        width: 320
-        height: 209
+      - url: "https://i.insider.com/60496cb2f196be0018beec00?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
-    excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
-    publishedDateTime: 2021-03-05T15:04:00Z
-    webUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-    ampWebUrl: "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+  - title: "China calls on US to drop Trump-era sanctions and warns against 'bullying'"
+    excerpt: "Foreign minister Wang Yi calls for cooperation and signals that Beijing will stand firm against criticism"
+    publishedDateTime: 2021-03-07T13:14:00Z
+    webUrl: "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Guardian
+      domain: theguardian.com
     quality: 123
     images:
-      - url: "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://i.guim.co.uk/img/media/1460603f607965dd4feb714bb0cba76fa5e4a045/643_571_6904_4144/master/6904.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c281ae1e3c17d59475ec3266852594f7"
+        width: 600
+        height: 360
         isCached: true
-  - title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
-    excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
-    publishedDateTime: 2021-03-05T02:45:00Z
-    webUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/"
-    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
+  - title: "Exclusive: Georgia prosecutor probing Trump taps leading racketeering attorney"
+    excerpt: "The district attorney investigating whether former U.S. President Donald Trump illegally interfered with Georgia’s 2020 election has hired an outside lawyer who is a national authority on racketeering,"
+    publishedDateTime: 2021-03-07T00:56:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-georgia-racketeering-exclus-idINKBN2AZ01E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AZ01E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AZ01E"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 121
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "U.S. Capitol calm amid high security; Trump supporters hold faith he will return"
-    excerpt: "A smattering of followers of the QAnon conspiracy theory gathered near the U.S. Capitol on Thursday, the day the movement had predicted former President Donald Trump's return to office, but they were far outnumbered by security forces deployed to deter any possible attack."
-    publishedDateTime: 2021-03-05T01:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-capitol-security-idUSKBN2AW19M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW19M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW19M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553733527&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NY"
-        width: 802
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553979283&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FB"
+        width: 816
         height: 545
         isCached: true
-  - title: "Congressman sues Trump over deadly Capitol siege, charges civil rights violation"
-    excerpt: "A Democratic congressman has sued Donald Trump, his lawyer Rudy Giuliani and other allies of the former president over the deadly attack on the U.S. Capitol when violent Trump supporters tried to stop the certification of Trump's election defeat."
-    publishedDateTime: 2021-03-05T23:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-swalwell-idUSKBN2AX1JP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
-        width: 947
-        height: 545
-        isCached: true
-  - title: "Trump aide who stormed the Capitol broke an 'oath to protect America,' judge says"
-    excerpt: "A man appointed to the U.S. State Department during the Trump administration will remain in jail while he awaits trial on charges that he took part in the deadly storming of the U.S. Capitol and assaulted police officers,"
-    publishedDateTime: 2021-03-10T02:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-klein-idUSKBN2B12P4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B12P4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B12P4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210309&t=2&i=1554318031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH281FK"
-        width: 787
-        height: 545
-        isCached: true
-  - title: "Ex-Trump appointee arrested in Capitol riot complains he won't be able to sleep in jail"
-    excerpt: "Federico Guillermo Klein, a former State Department staff assistant who was arrested Thursday for his role in the Jan. 6 Capitol insurrection, has reportedly complained that he won't be able to sleep in prison."
-    publishedDateTime: 2021-03-06T02:45:00Z
-    webUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep"
-    ampWebUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 117
-    images:
-      - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
-        width: 979
-        height: 551
-        isCached: true
-  - title: "Trump Appointee Who Took Part in Capitol Riot Swore an Oath Then 'Switched Sides,' Judge Says"
-    excerpt: "Federico Klein, an ex-official in the administration of former President Donald Trump, will remain in jail after a judge said he \"switched sides\" by allegedly participating in the deadly breach of the U.S. Capitol on January 6. U.S. Magistrate Zia Faruqui ..."
-    publishedDateTime: 2021-03-10T05:45:00Z
-    webUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976"
-    ampWebUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
+  - title: "Trump Pressured Georgia Investigator to Find Voter Fraud in Phone Recording: 'You'll Be Praised'"
+    excerpt: "Former President Donald Trump pressured a Georgia investigator to find evidence of voter fraud in the 2020 presidential election, promising that \"the right answer\" would win \"praise\" during a phone call in late December. In audio of the call obtained by ..."
+    publishedDateTime: 2021-03-11T01:35:00Z
+    webUrl: "https://www.newsweek.com/trump-pressured-georgia-investigator-find-voter-fraud-phone-recording-youll-praised-1575263"
+    ampWebUrl: "https://www.newsweek.com/trump-pressured-georgia-investigator-find-voter-fraud-phone-recording-youll-praised-1575263?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-pressured-georgia-investigator-find-voter-fraud-phone-recording-youll-praised-1575263?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 114
+    quality: 112
     images:
-      - url: "https://d.newsweek.com/en/full/1752326/federico-klein-capitol-riots-donald-trump.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://d.newsweek.com/en/full/1753079/donald-trump-georgia-election-investigator-fraud.jpg"
+        width: 2944
+        height: 1976
         isCached: true
-  - title: "Ex-State Department employee appointed by Trump ‘switched sides’ in joining Capitol mob, judge says"
-    excerpt: "A former State Department staffer with a top-secret security clearance betrayed his oath of office when he joined the Capitol mob that attempted to subvert the electoral process on Jan. 6, a federal magistrate judge said Tuesday."
-    publishedDateTime: 2021-03-09T22:12:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/federico-klein-detained-captiol-riot/2021/03/09/c5a76188-8117-11eb-ac37-4383f7709abe_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/federico-klein-detained-captiol-riot/2021/03/09/c5a76188-8117-11eb-ac37-4383f7709abe_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/federico-klein-detained-captiol-riot/2021/03/09/c5a76188-8117-11eb-ac37-4383f7709abe_story.html?outputType=amp"
+  - title: "‘Find the fraud’: Trump pressured a Georgia elections investigator in a separate call legal experts say could amount to obstruction"
+    excerpt: "More than a week before he urged the Georgia secretary of state to overturn the election results, the president spoke to the state’s chief elections fraud investigator and urged the official to find wrongdoing as part of an ongoing inquiry."
+    publishedDateTime: 2021-01-09T22:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 111
+    quality: 110
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KMXGWTUBD4I6XPRCGLJTDWDVGA.jpg&w=1440"
-        width: 380
-        height: 254
-        isCached: true
-  - title: "Jan. 6 Capitol defendant wants trial moved to west Texas, says D.C. too anti-Trump, politically correct"
-    excerpt: "Attorney for Jenny Louise Cudd, 36-year-old florist of Midland, Tex., calls case ‘emotionally political in every respect.’"
-    publishedDateTime: 2021-03-11T00:59:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GRAMAUB7UI6XHFGKTQYP3SJHE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "FBI focuses on video of Capitol Police officer being sprayed with chemicals before he died in pro-Trump riot"
-    excerpt: "The video could offer investigators a path to holding someone accountable in connection with Officer Brian Sicknick’s death."
-    publishedDateTime: 2021-02-27T00:47:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5JFKUDGJEI6XOVYOB7YO2OXQU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump appointee to State Dept. Federico Klein arrested in Capitol attack; stunned mom says he was 'Boy Scout type'"
-    excerpt: "Federico Klein was seen on camera violently shoving a riot shield into an officer during the Jan. 6 Capitol siege, according to court documents."
-    publishedDateTime: 2021-03-07T05:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/05/trump-appointee-state-dept-federico-klein-charged-capitol-riots/4593783001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4593783001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4593783001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 103
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/a2dac800-51ec-458f-9e34-02191eb985bd-Capitol_Police.jpg?auto=webp&crop=4999,2812,x1,y753&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Republicans condemned Trump after the Capitol attack. Now they are opening the door to him as the future of the party."
-    excerpt: "Less than an hour after voting to acquit former president Donald Trump for his role in the Jan. 6 storming of the U.S. Capitol, the Senate minority leader condemned Trump for the role that he played in the attack."
-    publishedDateTime: 2021-03-03T15:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_1a30ea49bd984a17a8d8973b6d658c51_name_20210301_GOP_TRUMP_V3.png&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F2PIA5CR2II6XA7DGITEJWBDKY.jpg&w=1440"
         width: 1440
         height: 810
         isCached: true
-  - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
-    excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
-    publishedDateTime: 2021-03-05T18:14:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+  - title: "Georgia criminal investigation into former President Trump reaches grand jury phase"
+    excerpt: "A criminal investigation in Georgia is looking into former President Trump's alleged attempt to overturn the state's election results, and last week two grand juries convened in Fulton County, potentially giving prosecutors the opportunity to issue subpoenas for documents and witnesses."
+    publishedDateTime: 2021-03-09T00:38:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-criminal-investigation-former-president-trump-grand-jury/"
     type: article
     provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 73
+      name: CBS News
+      domain: cbsnews.com
+    quality: 99
     images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5831614965407/2021/1/c5fd2e5c49d18744c2e0217abed09170/v1.5/Rep-Eric-Swalwell-sues-Donald-Trump-3-others-for-inciting-Capitol-attack.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Stacey Dash Abandons Support For Donald Trump After ‘Appalling And Stupid’ Capitol Riot"
-    excerpt: "Following years of controversial statements, “Clueless” actress Stacey Dash opened up about why she is no longer supporting Donald Trump. Dash's comments drew attention on Twitter, where her name was a trending topic."
-    publishedDateTime: 2021-03-11T17:49:00Z
-    webUrl: "https://www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446"
-    ampWebUrl: "https://www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/29/stacey-dash-oscars.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/09/154eeb3b-1d5e-4ec1-bd1a-9d8cb6c931a6/thumbnail/1200x630/83434c3e370309035494b98f0d80c2a5/cbsn-fusion-georgia-criminal-investigation-into-former-president-trump-reaches-grand-jury-phase-thumbnail-663449-640x360.jpg"
         width: 1200
-        height: 852
+        height: 630
         isCached: true
-  - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
-    excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
-    publishedDateTime: 2021-03-03T14:55:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
+  - title: "Newly Revealed Call Details How Trump Pressed Georgia Investigator To Find Vote Fraud"
+    excerpt: "Trump asked a Georgia law enforcement official to find evidence of fraud with absentee-by-mail ballots. He told her: \"When the right answer comes out, you'll be praised.\""
+    publishedDateTime: 2021-03-11T16:06:00Z
+    webUrl: "https://www.npr.org/2021/03/11/976030079/newly-revealed-call-details-how-trump-pressed-georgia-investigator-to-find-vote-"
     type: article
     provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 65
+      name: NPR
+      domain: npr.org
+    quality: 98
     images:
-      - url: "https://www.nydailynews.com/resizer/yuTJIk6BTNwaF9BNID10TYhi_7M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BLICB6OH4VGBVNGAJUGRJLOXSU.jpg"
-        width: 1200
-        height: 800
+      - url: "https://media.npr.org/assets/img/2021/03/11/gettyimages-1304601957_wide-3b5a2d0c69bd0a99ef67de57905201708a7ad1ef.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
+  - title: "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report"
+    excerpt: "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,"
+    publishedDateTime: 2021-03-04T10:33:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+    type: article
+    provider:
+      name: New York Magazine
+      domain: nymag.com
+    quality: 71
+    images:
+      - url: "https://pyxis.nymag.com/v1/imgs/4e6/999/6d51cf8fb5705f6e1da184c5903f44cc19-GettyImages-1128135352.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "RICO Expert Hired by Prosecutor Investigating Trump Call"
+    excerpt: "An expert on Georgia’s racketeering law was set to be sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general election."
+    publishedDateTime: 2021-03-10T11:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-10/rico-expert-hired-by-prosecutor-investigating-trump-call"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "GWbW5PYG2nw9buuz/hcZ5PJ1fBUOksPunXZiVKC7LEklLmVUbULZ0u9rMkOwWpNzlkqzd3MrE0tQDfojSYZ+m33ayMd48VP0ShM0cgnThVtc80ynGej4Mf4VukwFbJpm5eVreBaWJKmCm6Lo5BBDMWZT6qfIgKAXqLDQlP/36Yo7dtcvxeHIzrKd8zVTc1UgflRSO16A3vWBRlhpfbW7wzA0i001KaAKwKnKfucoPAszN0a5v/1bT56bgPSrkLibKsHrgx4OuTOdDoIvP+X/Cvfc2m+qo1naksaQv1x6exsXlw57wAHBFgrHTagzTuig8lVNBJVvxagBhTKyAJ9txbXHRQ8gOoI1K1uWH6fL6jEm/fqfsbXW0TB7nyrlqiP+K8o2kNKaPkvNtwYrtKzyb84j7am0Vi09S2wYow89fuyzIjdIuvfaR6cl9/diFp2xlAZzLZHns8m2ufXipm6yRhahN8ZKaWQRMgLKPvg/lkVnzQa/CO+o9wBqO2yYDpCsM+dZfl6tzzehxAy+saiz9w==;1/Axeapp4LNSxIiw64a04w=="
 ---

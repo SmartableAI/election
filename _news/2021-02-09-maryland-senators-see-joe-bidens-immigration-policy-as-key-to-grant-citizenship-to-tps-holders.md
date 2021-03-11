@@ -95,6 +95,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "AP-NORC Poll: Americans open to Biden crisis plan"
+    excerpt: "Two weeks into a new administration, a majority of Americans say they have at least some confidence in President Joe Biden and his ability to manage the myriad crises facing the nation, including the raging coronavirus pandemic."
+    publishedDateTime: 2021-02-04T22:23:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/04/ap-norc-poll-americans-open-biden-crisis-plan/4396171001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0c6d8cde-a671-42f2-8b99-6f08db9bee76_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "J2syNjxM2GtBVDO6sTNTxdoGB5ZSLC1C6gKCGF0SdDkaCzzaJj/cawhB4EDr4VfUGogBamXibxgqvEdto1O0QDpxBv7nPYn0zZyNu27Kj3NFVhU2FT3cZUwsYoKQnnrO01UM+NygbF+z/hA2Mji0cMc9+GwxBrrr6Io4lfsXwm7b23iipVRDl9/V1uO8vi8Z/bnnaYEWI7bvPFu4AlP3SF9Sl5MkIROedg+2kKRh+9fD3gO072FqUbKqKXzh6su9/g5q3ivif4SR2y779LnVhfgjhSllJKiPoQJFJ4f9e/PoEaWWkLDK6kHnRy7rUpX4+DuT/rPErFrizOeF23L68NTOb55UtWOyHdOdBgZTMRI=;yWKWw1W7eC0W7uLeax0zdA=="
 ---

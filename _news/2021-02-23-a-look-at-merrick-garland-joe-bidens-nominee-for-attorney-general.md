@@ -9,8 +9,8 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp"
 type: article
 quality: 125
-heat: -1
-published: false
+heat: 325
+published: true
 
 provider:
   name: Chicago Tribune
@@ -31,117 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Biden to nominate Judge Merrick Garland for attorney general"
-    excerpt: "President-elect Joe Biden will nominate federal appeals court Judge Merrick Garland to be U.S. attorney general, Biden's transition office said in a statement on Thursday."
-    publishedDateTime: 2021-01-07T16:31:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29C1FY"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C1FY"
+  - title: "Biden says he will push for funding for semiconductor legislation"
+    excerpt: "U.S. President Joe Biden said on Wednesday he will push for funding for semiconductor legislation following a meeting with bipartisan group of lawmakers about supply chain issues."
+    publishedDateTime: 2021-02-24T21:09:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-semiconductors-idUSW1N2KA060"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KA060"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KA060"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546953058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060RY"
-        width: 765
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552798506&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N1LM"
+        width: 816
         height: 545
         isCached: true
-  - title: "Biden picks Samantha Power, former UN envoy, for US aid post"
-    excerpt: "President-elect Joe Biden has selected Samantha Power, the U.S. ambassador to the United Nations under President Barack Obama, to run the U.S. Agency for International Development"
-    publishedDateTime: 2021-01-13T14:03:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-picks-samantha-power-envoy-us-aid-post-75218759"
+  - title: "Biden choice for budget chief faces new hurdles in Congress"
+    excerpt: "The increasingly slim odds — and surprisingly thin outreach from the White House — for Neera Tanden’s nomination as head of the Office of Management and Budget are raising growing questions about how"
+    publishedDateTime: 2021-02-26T04:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b144e118b1ff442f96fc0e82513e2870_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1cb6fdeffac84dd6b4179796077178c8_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Jill Biden names director for military families program"
-    excerpt: "Jill Biden has taken a step toward fulfilling a promise to revive a support program for military families that she and former first lady Michelle Obama once led"
-    publishedDateTime: 2021-01-14T22:07:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-director-military-families-program-75253867"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-director-military-families-program-75253867"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-director-military-families-program-75253867"
+  - title: "Joe Biden won the presidency by making the most of his lucky breaks"
+    excerpt: "Lucky: How Joe Biden Barely Won the Presidency’ by Jonathan Allen and Amie Parnes is an inside account of the 2020 campaign."
+    publishedDateTime: 2021-02-28T13:12:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NCU2Z6HDLII6VAWYLZK5I7UQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden's 1st 100 days live updates: McConnell doubles down against relief proposal"
+    excerpt: "Live updates of Judge Merrick Garland's confirmation hearing to be attorney general before the Senate Judiciary Committee."
+    publishedDateTime: 2021-02-24T00:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 120
     images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell-rtr-jc-210223_1614113010604_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "\"We have to act now\": Biden outlines economic rescue legislative package"
-    excerpt: "President-elect Joe Biden is expected to outline his COVID-19 relief proposal in Wilmington, Delaware, on Thursday. The massive stimulus bill is expected to cost trillions in order to fund vaccinations and provide immediate,"
-    publishedDateTime: 2021-01-15T00:56:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-vaccination-package-live-stream-today-2021-01-14/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-vaccination-package-live-stream-today-2021-01-14/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-vaccination-package-live-stream-today-2021-01-14/"
+  - title: "Senate meetings on Tanden postponed, suggesting lack of support for Biden budget pick"
+    excerpt: "Two Senate committees postponed meetings scheduled for Wednesday to consider President Joe Biden’s pick as budget director, Neera Tanden, suggesting she may not have the votes to be approved and may become the first high-profile Biden nominee to be rejected."
+    publishedDateTime: 2021-02-24T15:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKBN2AO1S4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
+      name: Reuters
+      domain: reuters.com
+    quality: 118
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/15/060ed476-7daa-48d5-9570-cb245fa7aea7/thumbnail/1200x630/ca56cea94e0eabd31dc19ff0a53bd160/gettyimages-1296410571.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552764513&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Biden team prepares push for new COVID relief bill expected to cost trillions"
-    excerpt: "Transition officials spoke with congressional staffers about Biden's priorities for a bill with a multi-trillion-dollar price tag."
-    publishedDateTime: 2021-01-14T12:43:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-bill-priority/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-bill-priority/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-bill-priority/"
+  - title: "Senate panel to vote Wednesday on 3 Biden nominees, including trade pick Tai - source"
+    excerpt: "The Senate Finance Committee will vote on Wednesday on three nominees for key jobs in the Biden administration, including Katherine Tai as trade czar and California Attorney General Xavier Becerra as U."
+    publishedDateTime: 2021-03-01T19:22:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-nominations-idUSL2N2KZ2GQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 118
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/13/87ab6c33-11eb-45c7-89c4-562b351813be/thumbnail/1200x630/e7b614cfa8085ecb41e2d17d79ea1643/gettyimages-1206811778.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Biden push for new stimulus checks runs into roadblock from key Democratic senator"
-    excerpt: "Biden is also likely to push a larger legislative effort later in 2021 after the initial stimulus package. That effort is expected to focus on spending trillions of dollars on inf"
-    publishedDateTime: 2021-01-08T22:26:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/01/08/biden-stimulus-plan/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/01/08/biden-stimulus-plan/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/01/08/biden-stimulus-plan/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 119
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/01-08-2021/t_55deaa2013644837aab478bdb15055bd_name_Screen_Shot_2021_01_08_at_2_43_05_PM_scaled.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Marriott and others pledge to cut off money to members of Congress who doubted Biden win"
-    excerpt: "The violent insurrection at the Capitol has companies scrambling to react, as the option of sitting on the sidelines grows increasingly unsatisfying."
-    publishedDateTime: 2021-01-11T03:44:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/10/marriott-campaign-donations-congress/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4IPYVLRAFMI6XLKTJQP5USMQPU.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210301&t=2&i=1553370867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH2022J"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden's attorney general pick Garland to prioritize civil rights, combating domestic terror"
     excerpt: "Merrick Garland was tasked with supervising a sprawling U.S. Justice Department criminal investigation into the bombing of a federal office building in Oklahoma City that killed 168 people."
@@ -159,108 +143,35 @@ related:
         width: 812
         height: 545
         isCached: true
-  - title: "Biden's last major hire is career diplomat Burns to run CIA"
-    excerpt: "U.S. President-elect Joe Biden on Monday tapped a former career diplomat in William Burns to lead the CIA as the Democrat raced to put a national security team in place days before his inauguration."
-    publishedDateTime: 2021-01-12T01:39:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-cia/biden-to-nominate-longtime-u-s-diplomat-burns-to-lead-cia-idUSKBN29G17M"
+  - title: "Two senators join Manchin in opposing Biden budget pick Neera Tanden, putting nomination in peril"
+    excerpt: "Neera Tanden has come under fire during the confirmation process for her past tweets and statements criticizing lawmakers on both sides of the aisle."
+    publishedDateTime: 2021-02-22T16:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/22/mitt-romney-susan-collins-oppose-biden-budget-nominee-neera-tanden/4539982001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4539982001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4539982001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210111&t=2&i=1547393128&r=LYNXMPEH0A191&w=800"
-        width: 800
-        height: 571
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/e38a4941-b873-41d2-9d50-a260b8e1231e-Double_masking_09.JPG?auto=webp&crop=5746,3232,x1,y237&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "As Biden prepares to take office and America reels from Capitol riots, Black and white still define the nation"
-    excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
-    publishedDateTime: 2021-01-15T00:40:00Z
-    webUrl: "https://www.usatoday.com/story/money/2021/01/14/black-america-history-social-economic-inequalities/5759328002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5759328002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5759328002"
+  - title: "Vilsack sworn in as Biden's agriculture secretary"
+    excerpt: "One day after the Senate confirmed Tom Vilsack as agriculture secretary, the former Iowa governor has been sworn in to head the department for a second time. (Feb. 25)"
+    publishedDateTime: 2021-02-25T00:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/25/vilsack-sworn-bidens-agriculture-secretary/6808430002/"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Jill Biden to name director for military families program"
-    excerpt: "Days before Joe Biden becomes president, incoming first lady Jill Biden is taking a step toward fulfilling a campaign promise to revive a support program for military families that she once led with former first lady Michelle Obama."
-    publishedDateTime: 2021-01-15T01:39:00Z
-    webUrl: "https://www.businessinsider.com/jill-biden-to-name-director-for-military-families-program-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/jill-biden-to-name-director-for-military-families-program-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jill-biden-to-name-director-for-military-families-program-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Trudeau expects Biden to re-engage U.S. on world stage"
-    excerpt: "Reuters Next Trudeau expects Biden to re-engage U.S. on world stage. Posted . Canada and other U.S. allies are looking to President-elect Joe Biden to re-engage on the world stage"
-    publishedDateTime: 2021-01-14T17:54:00Z
-    webUrl: "https://www.reuters.com/video/watch/trudeau-expects-biden-to-re-engage-us-on-id724248082"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210114&i=OVDV6MGV3&r=OVDV6MGV3&t=2"
-        width: 960
-        height: 540
-        isCached: true
-  - title: "Black and white still define America as Biden prepares to take office, country deals with Capitol riots aftermath"
-    excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
-    publishedDateTime: 2021-01-14T05:14:00Z
-    webUrl: "https://www.usatoday.com/story/money/2021/01/14/black-america-history-social-economic-inequalities/5759328002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/5759328002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5759328002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 104
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Cook County Public Defender Amy Campanelli’s message to President-elect Joe Biden: Defund ICE, halt deportations for a year"
-    excerpt: "Cook County Public Defender Amy Campanelli joined a coalition of colleagues across the U.S. on Wednesday calling on President-elect Joe Biden to immediately begin a one-year pause in deportations and defund the U."
-    publishedDateTime: 2021-01-14T01:43:00Z
-    webUrl: "https://www.chicagotribune.com/politics/ct-amy-campanelli-cook-county-public-defender-biden-immigration-20210114-vor23a2fpzeinf2yantlvjn6ci-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/politics/ct-amy-campanelli-cook-county-public-defender-biden-immigration-20210114-vor23a2fpzeinf2yantlvjn6ci-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/politics/ct-amy-campanelli-cook-county-public-defender-biden-immigration-20210114-vor23a2fpzeinf2yantlvjn6ci-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 99
-    images:
-      - url: "https://www.chicagotribune.com/resizer/UsVE9jTzMGhD7Iov-DxF00nrQto=/1200x0/center/bottom/cloudfront-us-east-1.images.arcpublishing.com/tronc/WE7ZRZIPSZCINMPPJQW6XPNUAM.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Joe Biden’s inauguration theme: ‘America United’"
-    excerpt: "WASHINGTON (AP) — The theme for President-elect Joe Biden’s inauguration will be “America United,” an issue that’s long been a central focus for Biden but one that’s taken on added weight in the wake of the violence at the U."
-    publishedDateTime: 2021-01-11T16:15:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NAB5FK6RFAK3B53DG7COL2DXE.jpg"
-        width: 1024
-        height: 683
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/714388f5-00dc-4da6-b44d-e09279b269af_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Merrick Garland, Joe Biden haven't spoken about Hunter Biden investigation"
     excerpt: "In his Senate confirmation hearing, nominee faced questions about how he would handle the federal investigation into the president's son."

@@ -2,21 +2,21 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2021-01-26-watch-live-biden-to-deliver-remarks-on-covid-19-response.md",
-      "title": "Watch Live: Biden to deliver remarks on COVID-19 response",
-      "excerpt": "Biden promised it will be \"this spring\" when any American who wants a COVID-19 vaccine will be able to get one.",
+      "path": "_news/2021-01-26-oregon-republican-party-falsely-calls-us-capitol-riot-a-false-flag-meant-to-discredit-president-trump.md",
+      "title": "Oregon Republican Party falsely calls U.S. Capitol riot a ‘false flag’ meant to ‘discredit President Trump’",
+      "excerpt": "In a resolution from the Oregon GOP, the party falsely claims that the entire Capitol riot was a “false flag” staged to undermine President Donald Trump and silence his supporters.",
       "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/",
-      "originalUrl": "https://www.cbsnews.com/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/",
+      "webUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 645,
+      "heat": 107,
       "tags": null,
       "images": [
         {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/1c2d5e28-4740-448d-98b5-ac9222a755e8/thumbnail/1200x630/0b71298d7ef9696bca4127d1ca2abe07/gettyimages-1230789317.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WHSI4BGFHEI6VKBFQ4RAATSBKA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/",
-      "publishedDateTime": "2021-01-26T06:45:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/26/oregon-republican-false-flag-capitol/?outputType=amp",
+      "publishedDateTime": "2021-01-26T07:42:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +50,7 @@
       ],
       "topics": [
         "Election",
-        "Joe Biden"
+        "Donald Trump"
       ]
     },
     {

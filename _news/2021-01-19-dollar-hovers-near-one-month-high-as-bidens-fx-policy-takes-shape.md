@@ -29,173 +29,189 @@ images:
     isCached: true
 
 related:
-  - title: "Israel announces new settlements, risking Biden's anger"
-    excerpt: "Israel has advanced plans to build 800 new settler homes in the occupied West Bank, a move that could strain ties with the incoming administration of President-elect Joe Biden"
-    publishedDateTime: 2021-01-11T12:02:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908"
-    ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/International/WireAP_6da97118452742cfaa37ee04ef0f095a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden roles out group of deputy secretary nominees"
-    excerpt: "President-elect Joe Biden on Monday announced a slate of nominees to serve as deputy secretaries across his administration, further filling out his team just two days before he will take office."
-    publishedDateTime: 2021-01-18T14:41:00Z
-    webUrl: "https://thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees"
-    ampWebUrl: "https://thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/biden_cabinet_picks_01082021_1.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden says his advisers will lead with 'science and truth'"
-    excerpt: "In a dig at the outgoing Trump administration, President-elect Joe Biden says his team of scientific advisers will lead with “science and truth"
-    publishedDateTime: 2021-01-18T01:44:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/biden-science-forefront-administration-75295060"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_7202bb1dd3fb4d92b9cf5bf27cee5bf3_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden says his advisers will lead with 'science and truth'"
-    excerpt: "In a dig at the outgoing Trump administration, President-elect Joe Biden says his team of scientific advisers will lead with “science and truth"
-    publishedDateTime: 2021-01-19T04:12:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/correction-biden-science-story-75329323"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/correction-biden-science-story-75329323"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/correction-biden-science-story-75329323"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_93e1a4f178b943f1b84656bd365c48bd_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Insurrection adds to full plate of calamities Biden will face as he takes office"
-    excerpt: "The president-elect’s team says his focus remains on the coronavirus and economic crises, but he will work to unify the country as he promised during the campaign."
-    publishedDateTime: 2021-01-12T11:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-capitol-mob-crisis/2021/01/11/7300c354-5366-11eb-a08b-f1381ef3d207_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-capitol-mob-crisis/2021/01/11/7300c354-5366-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-capitol-mob-crisis/2021/01/11/7300c354-5366-11eb-a08b-f1381ef3d207_story.html?outputType=amp"
+  - title: "Gen. Milley key to military continuity as Biden takes office"
+    excerpt: "When the incoming Biden administration takes charge of a Pentagon rocked by four years of leadership churn, it’ll look mainly to one holdover to provide continuity"
+    publishedDateTime: 2021-01-17T12:42:00Z
+    webUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z2A6ZXSUHYI6XLGFSLJIDGQ4ZM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "$2,000 Stimulus Check Update as Joe Biden Pushes for Third Set of Direct Payments"
-    excerpt: "President-elect Joe Biden has proposed \"direct cash payments\" totaling $2,000 be given to Americans, including a third stimulus check of $1,400, in addition to the $600 payment issued last month, as part of his $1."
-    publishedDateTime: 2021-01-15T14:39:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-coronavirus-relief-package-third-stimulus-check-american-rescue-plan-1561899"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-coronavirus-relief-package-third-stimulus-check-american-rescue-plan-1561899?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-coronavirus-relief-package-third-stimulus-check-american-rescue-plan-1561899?amp=1"
+  - title: "Biden to keep Wray as FBI director - law enforcement source"
+    excerpt: "President Joe Biden has asked Christopher Wray to stay on as FBI director and Wray has agreed to remain the head of the agency, a U.S. law enforcement source told Reuters."
+    publishedDateTime: 2021-01-21T22:56:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-biden-fbi-idUKKBN29Q2L3?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN29Q2L3"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN29Q2L3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548600363&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K17H"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Majority of U.S. Senate approves Biden nominee Austin to lead Pentagon"
+    excerpt: "The U.S. Senate on Friday confirmed President Joe Biden's nominee, retired Army General Lloyd Austin, to serve as Secretary of Defense - the first Black American in the role."
+    publishedDateTime: 2021-01-22T16:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-pentagon-idUSKBN29R204"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R204"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R204"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548730773&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L13U"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "As Joe Biden Calls for Unity, AOC Demands Josh Hawley and Ted Cruz Expulsions"
+    excerpt: "The New York representative said the Republicans should be chucked out of the Senate if they failed to resign."
+    publishedDateTime: 2021-01-22T14:23:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-unity-aoc-hawley-cruz-expelled-1563682"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-unity-aoc-hawley-cruz-expelled-1563682?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-unity-aoc-hawley-cruz-expelled-1563682?amp=1"
     type: article
     provider:
       name: Newsweek
       domain: newsweek.com
-    quality: 120
+    quality: 122
     images:
-      - url: "https://d.newsweek.com/en/full/1708966/president-elect-joe-biden-covid-19-relief-january-2020.jpg"
-        width: 2500
-        height: 1636
+      - url: "https://d.newsweek.com/en/full/1713910/alexandria-ocasio-cortez.jpg"
+        width: 1024
+        height: 682
         isCached: true
-  - title: "NBA: Los Angeles Lakers hope to meet President Joe Biden but champions lose at Spurs"
-    excerpt: "The Los Angeles Lakers hope to re-establish the tradition of NBA champions visiting the president of the United States."
-    publishedDateTime: 2021-01-08T08:22:00Z
-    webUrl: "https://www.bbc.com/sport/basketball/55584721"
-    ampWebUrl: "https://www.bbc.com/sport/amp/basketball/55584721"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/sport/amp/basketball/55584721"
+  - title: "Joe Biden's Plan to Extend Russia Nuclear Treaty Praised by Arms Control Groups"
+    excerpt: "\"After years of Trump putting Americans in harm's way by decimating international agreements, we can all breathe a bit easier now that he cannot start a nuclear war within minutes,\" Peace Action senior director for policy and political affairs Paul Kawika Martin told Newsweek."
+    publishedDateTime: 2021-01-21T22:43:00Z
+    webUrl: "https://www.newsweek.com/experts-praise-signs-biden-extend-new-start-trump-rejects-1563529"
+    ampWebUrl: "https://www.newsweek.com/experts-praise-signs-biden-extend-new-start-trump-rejects-1563529?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/experts-praise-signs-biden-extend-new-start-trump-rejects-1563529?amp=1"
     type: article
     provider:
-      name: BBC
-      domain: bbc.com
-    quality: 118
+      name: Newsweek
+      domain: newsweek.com
+    quality: 121
     images:
-      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/1313B/production/_116393187_lakers.jpg"
-        width: 1024
-        height: 576
+      - url: "https://d.newsweek.com/en/full/1713669/us-nuclear-missile-icbm-test.jpg"
+        width: 1000
+        height: 715
         isCached: true
-  - title: "Biden faces unrivaled challenges as he takes oath"
-    excerpt: "When President-elect Joe Biden takes the oath of office Wednesday, he'll immediately face an almost unparalleled series of challenges, raising fresh questions about how he will achieve his long-promised unity in a nation so deeply divided."
-    publishedDateTime: 2021-01-18T06:20:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/01/18/biden-faces-unrivaled-challenges-he-takes-oath/4201592001/"
+  - title: "Biden plans early legislation to offer legal status to 11 million immigrants without it"
+    excerpt: "During his first days in office, President-elect Joe Biden plans to unveil a legislative proposal that would include a path to citizenship for 11 million immigrants in the U.S. illegally, according to activists in communication with his transition team."
+    publishedDateTime: 2021-01-16T09:13:00Z
+    webUrl: "https://www.latimes.com/california/story/2021-01-15/biden-to-send-congress-bill-to-legalize-11-million-immigrants-who-lack-documentation"
+    ampWebUrl: "https://www.latimes.com/california/story/2021-01-15/biden-to-send-congress-bill-to-legalize-11-million-immigrants-who-lack-documentation?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/california/story/2021-01-15/biden-to-send-congress-bill-to-legalize-11-million-immigrants-who-lack-documentation?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 117
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/90ebe2b/2147483647/strip/true/crop/480x314+0+23/resize/320x209!/quality/90/?url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FQcvaRAiB0V8%2Fhqdefault.jpg"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Biden's Oval Office swaps Andrew Jackson, military flags for family photos, civil rights leaders"
+    excerpt: "U.S President Joe Biden has decorated his new office with busts of civil rights and labor leaders, nods to other presidents who faced great crises, and side-by-side portraits of American founders who famously disagreed."
+    publishedDateTime: 2021-01-23T01:35:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-oval-idUSKBN29R2K5"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29R2K5"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29R2K5"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 112
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548759745&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HK"
+        width: 815
+        height: 545
+        isCached: true
+  - title: "As Biden prepares to take office and America reels from Capitol riots, Black and white still define the nation"
+    excerpt: "Since the beginning of America, race was used to generate wealth for whites on the back of Blacks. Why can't we see our common economic interests?"
+    publishedDateTime: 2021-01-15T00:40:00Z
+    webUrl: "https://www.usatoday.com/story/money/2021/01/14/black-america-history-social-economic-inequalities/5759328002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/5759328002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/5759328002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/fca1b29b-f161-4019-a730-293f2a7dac28_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2021/01/05/USAT/7595686b-762b-49ce-9210-96f74c5f7ead-GTY_1230427031.jpg?auto=webp&crop=5567,3131,x0,y581&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Biden will encourage vaccination of all people over 65, frontline workers"
-    excerpt: "The incoming administration of Democratic President-elect Joe Biden will seek to vaccinate all people over 65 and frontline workers, as Biden seeks to administer 100 million COVID-19 vaccines during his first 100 days in office."
-    publishedDateTime: 2021-01-16T02:18:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-vaccines/biden-will-encourage-vaccination-of-all-people-over-65-frontline-workers-idUSKBN29K2L5"
+  - title: "Biden rounds out health team with Pennsylvania top official"
+    excerpt: "U.S. President-elect Joe Biden on Tuesday filled out his health team, announcing Pennsylvania Health Secretary Dr. Rachel Levine as his choice for assistant U.S. health secretary as his administration takes office this week amid the COVID-19 pandemic."
+    publishedDateTime: 2021-01-19T18:09:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-levine-idUSL1N2JU0V7"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 104
+    quality: 105
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547981882&r=LYNXMPEH0E1IO&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "France's Le Maire: resolving trade sanctions is my priority for Biden administration"
-    excerpt: "French Finance Minister Bruno Le Maire said on Thursday that resolving transatlantic trade sanctions were his priority for dealings with the incoming administration of U.S. President-elect Joe Biden."
-    publishedDateTime: 2021-01-14T15:02:00Z
-    webUrl: "https://www.reuters.com/article/us-france-lemaire-usa/frances-le-maire-resolving-trade-sanctions-is-my-priority-for-biden-administration-idUSKBN29J15Q"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 98
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210114&t=2&i=1547761954&r=LYNXMPEH0D0LH&w=800"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Biden says he's not afraid to take oath of office outside following US Capitol riots – video"
-    excerpt: "Biden calls for those who engaged in riot to be held accountable"
-    publishedDateTime: 2021-01-12T06:57:00Z
-    webUrl: "https://www.theguardian.com/us-news/video/2021/jan/11/biden-says-he-is-not-afraid-to-take-oath-of-office-outside-following-capitol-riots-video"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 94
-    images:
-      - url: "https://i.guim.co.uk/img/media/bd819be34299ef8ffa4784e2110f3df746f748d2/0_0_5220_3130/master/5220.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6cfa2564eab113f4fa180068640c7cb9"
+      - url: "https://s1.reutersmedia.net/resources_v2/images/rcom-default.png?w=800"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden taps Levine for key health role, in historic pick of transgender person"
+    excerpt: "President-elect Joe Biden on Tuesday named Dr. Rachel Levine to service as assistant U.S. health secretary, a historic first as Levine would become the first openly transgender official to be confirmed by the Senate."
+    publishedDateTime: 2021-01-19T14:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-levine/biden-taps-levine-for-key-health-role-in-historic-pick-of-transgender-person-idUSKBN29O1J1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 102
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548313465&r=LYNXMPEH0I0ZQ&w=800"
+        width: 800
+        height: 515
+        isCached: true
+  - title: "Biden pledges to vaccinate 100 million Americans in his first 100 days in office"
+    excerpt: "President-elect Joe Biden is pledging to fix the United States' slow coronavirus vaccine rollout. CBS News senior White House and political correspondent Ed O'Keefe spoke with CBSN's Elaine Quijano about what the incoming Biden administration plans to do."
+    publishedDateTime: 2021-01-16T01:09:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-pledges-to-vaccinate-100-million-americans-in-his-first-100-days-in-office/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 100
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/16/1e229ed6-306f-491b-9a1a-96d74f087821/thumbnail/1200x630/a286355ec3d57513ef1d25b289737f3f/0115-cbsn-sws-627506-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Walmart, Disney suspend contributions to U.S. lawmakers who opposed Biden certification"
+    excerpt: "Walmart Inc, the world's biggest retailer and Walt Disney Co joined other major companies in indefinitely suspending donations to U.S. lawmakers who voted against President-elect Joe Biden's election certification."
+    publishedDateTime: 2021-01-13T07:53:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-corporate-walmart-idUSKBN29H2TO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547573394&r=LYNXMPEH0B1LM&w=800"
+        width: 800
+        height: 459
         isCached: true
   - title: "A new crop of Texas-led lawsuits awaits Joe Biden's White House"
     excerpt: "As the Democratic president-elect enacts big plans in his first 100 days, Texas is almost certain to fight him at every step."
@@ -206,22 +222,6 @@ related:
       name: Houston Chronicle
       domain: houstonchronicle.com
     quality: 85
-  - title: "Watch live: Joe Biden's speech unveiling his 2021 stimulus plan"
-    excerpt: "President-elect Joe Biden will unveil his 2021 stimulus plan tonight, where he is expected to announce $2,000 checks. Here's how to watch the speech."
-    publishedDateTime: 2021-01-15T00:45:00Z
-    webUrl: "https://www.tennessean.com/story/news/politics/2021/01/14/joe-biden-stimulus-package-speech-today-time-how-to-watch-live/4159156001/"
-    ampWebUrl: "https://amp.tennessean.com/amp/4159156001"
-    cdnAmpWebUrl: "https://amp-tennessean-com.cdn.ampproject.org/c/s/amp.tennessean.com/amp/4159156001"
-    type: article
-    provider:
-      name: Tennessean
-      domain: tennessean.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/14/NPOH/3d5d11e8-205d-43d8-977d-5136a60d670e-Biden.jpg?auto=webp&crop=5947,3346,x0,y302&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "PhnjazHk6m3ex3Of0e7M4nw5q26M6Vpl2wtocJe0qzKx5qcrIl3tkkZb3esMAF01yggCn4SKFvdQjs90cnaEvcqRY3mMdlEKTTw/sstmFv3zQS4JeKcDRpU8kq2rFwN052cA/Z2G0H/uydD4IJcyT59K8ZlXjxZOvg0TqHu5dxRuNX0VeYNxVS7R3/G87jq1u/Txnd22NYEWlnc2xyULLUtu+4SzmTTTNFAcOsycNujmvMHp23Z6N3rpcxMgPKoPw6bb/v/MirlXvtTLH29yMtXIscOo7sEoGSopFYUPp3hYkvnvOzbinwhLt3gQoDWL/4mZth1sVP9qvW3NXJgmIjCGtyav8fM28m6pre4oGSh2XLiT94f3N429yvdeoMtJgJQq73aIkhlF0oeAHIMZ1/Nrcf8yoTEZxbS2TE4JE9XcoPYo34FUz2hrINcJrMRYES3p2uAYAsmpsLNgFZ84UJTFIbwYvivBLuxkaulOsRlHrfDv3q+B1hS+K+7/vUW1GtMzKUkiW1+ltvZXlP0sdw==;NAE9rlyLTxqXo9YrHDyTdQ=="
 ---

@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Watch Live: House debates resolution calling on Pence to activate 25th Amendment"
-    excerpt: "The House is expected to vote on the measure later Tuesday, and the vice president would have 24 hours to respond once it is approved by the Democrat-led House."
-    publishedDateTime: 2021-01-12T13:13:00Z
-    webUrl: "https://www.cbsnews.com/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/25th-amendment-house-debate-pence-watch-live-stream-today-2021-01-12/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 120
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/12/de23e810-62d0-43b0-8b13-589424e1b945/thumbnail/1200x630/6214aa2691335ea4d178b0de0ddd311b/gettyimages-1230536583.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Live Updates: Pence says he won't invoke 25th Amendment as House prepares to act"
     excerpt: "House Democrats said they will move forward Wednesday with a vote on impeaching President Trump if Pence does not invoke the amendment."
     publishedDateTime: 2021-01-13T01:20:00Z

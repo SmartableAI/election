@@ -63,22 +63,6 @@ related:
         width: 2670
         height: 1764
         isCached: true
-  - title: "Trump leaves White House with his lowest-ever approval rating after Capitol riot, impeachment"
-    excerpt: "Nearly two-thirds, 68%, of the respondents in a new poll from the Pew Research Center said Trump should not remain a major national political figure."
-    publishedDateTime: 2021-01-17T15:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/15/donald-trump-leaves-white-house-lowest-ever-approval-rating/4173571001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4173571001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4173571001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 114
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "QAnon and pro-Trump online forums are struggling and fracturing in aftermath of the U.S. Capitol siege"
     excerpt: "Forums central to spreading QAnon and supporting former President Trump have become fractured or gone offline entirely since then Jan. 6 attack on the U.S. Capitol, raising questions about their long-term viability."
     publishedDateTime: 2021-01-23T01:35:00Z

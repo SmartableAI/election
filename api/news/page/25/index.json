@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-01-31-grow-a-pair-marjorie-taylor-greene-and-mitt-romney-spar-over-trump-call.md",
+      "title": "'Grow a Pair': Marjorie Taylor Greene and Mitt Romney Spar Over Trump Call",
+      "excerpt": "Embattled Congresswoman Marjorie Taylor Greene of Georgia and Senator Mitt Romney of Utah traded jabs on Twitter Saturday after Greene said that former President Donald Trump voiced his support for her during a phone call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614",
+      "originalUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1720911/marjorie-taylor-green-capitol-hill.jpg",
+          "width": 2500,
+          "height": 1822,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/grow-pair-marjorie-taylor-greene-mitt-romney-spar-over-trump-call-1565614?amp=1",
+      "publishedDateTime": "2021-01-30T18:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-31-analysis-copying-franklin-d-roosevelt-president-joe-biden-wanted-a-fast-start-now-comes-the-hard-part.md",
       "title": "Analysis: Copying Franklin D. Roosevelt, President Joe Biden wanted a fast start. Now comes the hard part.",
       "excerpt": "Biden has now signed about 45 executive orders, memorandums or proclamations enacting or at least initiating major policy shifts on a wide array of issues, including the coronavirus pandemic, racial justice,",
@@ -735,7 +787,7 @@
       "originalUrl": "https://abcnews.go.com/Health/wireStory/biden-visit-wounded-soldiers-walter-reed-hospital-75564601",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -832,58 +884,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-30-biden-renews-deportation-relief-for-syrians-in-the-united-states.md",
-      "title": "Biden renews deportation relief for Syrians in the United States",
-      "excerpt": "The administration of President Joe Biden on Friday extended deportation relief for several thousand Syrian immigrants living in the United States, an early move that aligns with his broader pro-immigrant platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk",
-      "originalUrl": "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 425,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549573106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1AD",
-          "width": 818,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29Y28W",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y28W",
-      "publishedDateTime": "2021-01-29T13:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

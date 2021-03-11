@@ -295,6 +295,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Donald Trump's Approval Rating Tanks to Record Low on Day of Potential Second Impeachment"
+    excerpt: "Sixty-three percent of voters said they disapprove of Trump's performance, making him one of the lowest-rated presidents in U.S. history."
+    publishedDateTime: 2021-01-13T16:08:00Z
+    webUrl: "https://www.newsweek.com/donald-trumps-approval-rating-tanks-record-low-day-potential-second-impeachment-1561212"
+    ampWebUrl: "https://www.newsweek.com/donald-trumps-approval-rating-tanks-record-low-day-potential-second-impeachment-1561212?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trumps-approval-rating-tanks-record-low-day-potential-second-impeachment-1561212?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
+    images:
+      - url: "https://d.newsweek.com/en/full/1705620/mandel-ngan.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Republican senator calls Trump impeachment 'appropriate' as focus shifts to Senate – live"
     excerpt: "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session"
     publishedDateTime: 2021-01-14T22:35:00Z
@@ -310,22 +326,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/d6a434cb96b042551370faaa1242a3eb1a2b426c/0_74_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=86464133e853da2e6dd68d48d008dc1e"
         width: 600
         height: 360
-        isCached: true
-  - title: "House Democrats unveil ‘incitement of insurrection’ impeachment charge against Trump, but pressure on Pence to oust president"
-    excerpt: "As the House prepares for impeachment, President Donald Trump faces a single charge — “incitement of insurrection” — over the deadly riot at the U.S. Capitol."
-    publishedDateTime: 2021-01-11T19:46:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-congress-trump-impeachment-20210111-py2ic672ufas3bycta2qhge5aq-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 113
-    images:
-      - url: "https://www.chicagotribune.com/resizer/a4ZU_ph4DDjjkI1r7Y8KG-e-6MY=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I27GQJSG55AG7DPH5SFIEL4JZE.JPG"
-        width: 1200
-        height: 675
         isCached: true
   - title: "LIVE: House prepares to impeach Trump for 'incitement of insurrection' over deadly Capitol siege"
     excerpt: "Multiple Republicans will break ranks to join Democrats in impeaching Trump for the second time. He unleashed a frenzied mob on the Capitol last week."
@@ -358,6 +358,22 @@ related:
       - url: "https://s.abcnews.com/images/General/nancy-pelosi-01-ap-llr-210107_1610051104890_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "House Democrats introduce an article of impeachment charging Trump with incitement of insurrection"
+    excerpt: "The president incited a deadly riot at the US Capitol last week that resulted in five deaths and Trump's de-platforming on mainstream social media."
+    publishedDateTime: 2021-01-11T17:46:00Z
+    webUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/house-democrats-article-of-impeachment-trump-incitement-of-insurrection-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "The Latest: Toomey is 2nd GOP senator to urge Trump to quit"
     excerpt: "WASHINGTON (AP) — The Latest on President Donald Trump and (all times local):"
@@ -414,21 +430,37 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "The Latest: Trump tells 'very special' protesters to go home"
-    excerpt: "The Latest on Congress’ tally of the Electoral College vote won by Joe Biden and of protests near the Capitol."
-    publishedDateTime: 2021-01-06T22:20:00Z
-    webUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.html"
-    ampWebUrl: "https://www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.amp.html"
-    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/national/govt-and-politics/the-latest-trump-tells-very-special-protesters-to-go-home/article_934f496d-897f-513e-b241-c099d0c09379.amp.html"
+  - title: "US stock futures rise and oil nears 1-year high as investors shrug off Donald Trump impeachment and cheer stimulus"
+    excerpt: "The Democrats are poised to impeach Donald Trump again, but investors are betting on economic recovery and are buying stocks and commodities."
+    publishedDateTime: 2021-01-13T09:49:00Z
+    webUrl: "https://www.businessinsider.com/stock-markets-today-futures-rise-oil-nears-year-high-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/stock-markets-today-futures-rise-oil-nears-year-high-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stock-markets-today-futures-rise-oil-nears-year-high-trump-2021-1?amp"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 75
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 103
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/0/b7/0b713209-3425-5ae1-89a1-343d1583087a/5ff60dc3ce5ed.image.jpg"
-        width: 512
-        height: 341
+      - url: "https://images2.markets.businessinsider.com/5ffeb999a8de7700187d38c0?format=jpeg"
+        width: 701
+        height: 526
+        isCached: true
+  - title: "READ: House Democrats release a scathing 50-page report in favor of impeaching Trump for inciting deadly Capitol riots"
+    excerpt: "Trump is set to leave office on January 20, but Democrats contend that he poses an \"imminent threat\" to the nation's safety."
+    publishedDateTime: 2021-01-13T02:33:00Z
+    webUrl: "https://www.businessinsider.com/read-house-democrats-impeachment-report-for-trump-2021-1"
+    ampWebUrl: "https://www.businessinsider.com/read-house-democrats-impeachment-report-for-trump-2021-1?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/read-house-democrats-impeachment-report-for-trump-2021-1?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/5ff5f5f5d184b30018aad517?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Trump Impeachment: 56% Of Americans Want POTUS Removed From Office"
     excerpt: "Americans want Trump ousted from office before Jan. 20 A majority of respondents blame Trump for the violent insurrection on Capitol Hill The riot led to to the death of five people A majority of Americans believe President Donald Trump should be impeached following the violent insurrection at the U."
@@ -462,21 +494,37 @@ related:
         width: 5800
         height: 3951
         isCached: true
-  - title: "At almost every step, Ted Cruz has miscalculated how to deal with Donald Trump"
-    excerpt: "Ted Cruz is a successful politician who rose from obscurity to score an upset win for the U.S. Senate. He became one of the best known"
-    publishedDateTime: 2021-01-11T11:15:00Z
-    webUrl: "https://www.dallasnews.com/news/politics/2021/01/11/at-almost-every-step-ted-cruz-has-miscalculated-how-to-deal-with-donald-trump/"
-    ampWebUrl: "https://www.dallasnews.com/news/politics/2021/01/11/at-almost-every-step-ted-cruz-has-miscalculated-how-to-deal-with-donald-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/news/politics/2021/01/11/at-almost-every-step-ted-cruz-has-miscalculated-how-to-deal-with-donald-trump/?outputType=amp"
+  - title: "Methodist leader supports impeachment, calls on senate to bar Trump from office"
+    excerpt: "United Methodist General Secretary of Church and Society Susan Henry-Crowe issued a statement Wednesday supporting the U.S. House of Representatives in their vote to impeach President Donald Trump and calling on the senate to bar him from ever holding office again."
+    publishedDateTime: 2021-01-14T03:36:00Z
+    webUrl: "https://www.al.com/life/2021/01/methodist-leader-supports-impeachment-calls-on-senate-to-bar-trump-from-office.html"
+    ampWebUrl: "https://www.al.com/life/2021/01/methodist-leader-supports-impeachment-calls-on-senate-to-bar-trump-from-office.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/life/2021/01/methodist-leader-supports-impeachment-calls-on-senate-to-bar-trump-from-office.html?outputType=amp"
     type: article
     provider:
-      name: Dallas Morning News
-      domain: dallasnews.com
+      name: al.com
+      domain: al.com
     quality: 71
     images:
-      - url: "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/e7VQFhQe4Um1C3pcXMr7fDrE5TM=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/FAO5TV3PUVCJVIUNXMG42UQ7BM.jpg"
-        width: 1200
-        height: 630
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DT6VHYBHPRAPRAV66HY2PTTM3Y.PNG"
+        width: 1034
+        height: 564
+        isCached: true
+  - title: "Three GOP Senators Support Trump Impeachment Or Resignation: 'Go Away As Soon As Possible'"
+    excerpt: "House Democrats will reportedly attempt to pass a resolution calling for Vice President Pence and the Cabinet to invoke the 25th Amendment."
+    publishedDateTime: 2021-01-11T02:17:00Z
+    webUrl: "https://www.ibtimes.com/three-gop-senators-support-trump-impeachment-or-resignation-go-away-soon-possible-3118533"
+    ampWebUrl: "https://www.ibtimes.com/three-gop-senators-support-trump-impeachment-or-resignation-go-away-soon-possible-3118533?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/three-gop-senators-support-trump-impeachment-or-resignation-go-away-soon-possible-3118533?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 65
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/10/a-protester-carries-a-sign-calling-for-congress-AFP_8YH99R-2.jpg"
+        width: 1024
+        height: 732
         isCached: true
   - title: "U.S. House introduces article of impeachment, charging Trump with ‘incitement of insurrection’"
     excerpt: "Pelosi’s leadership team also will seek a quick vote on a resolution calling on Vice President Mike Pence and Cabinet officials to invoke the 25th Amendment."
