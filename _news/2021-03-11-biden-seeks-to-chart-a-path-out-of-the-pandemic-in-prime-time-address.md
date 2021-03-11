@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Biden seeks to chart a path out of the pandemic in prime-time address"
-excerpt: "(CNN)President Joe Biden can report in his first prime-time address Thursday that a vaccination drive now reaching 2 million people daily has brought America far closer to exiting the pandemic than when he took office 50 days ago. With new infections and ..."
-publishedDateTime: 2021-03-11T00:50:00Z
-originalUrl: "https://www.cnn.com/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
-webUrl: "https://www.cnn.com/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
+excerpt: "President Joe Biden can report in his first prime-time address Thursday that a vaccination drive now reaching 2 million people daily has brought America far closer to exiting the pandemic than when he took office 50 days ago.\n    \n"
+publishedDateTime: 2021-03-11T10:20:45Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgAwu8WlDDY/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgAwu8WlDDY/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
 type: article
-quality: 135
+quality: 175
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
@@ -188,6 +187,6 @@ related:
         height: 550
         isCached: true
 
-secured: "vny1IeAO9So188IGRPDQklxkbDgPceWEbBmtXMh2Z1AqQMs4+WH/XtLLDXfHqXJx1q8EQY8PtmXj1rhk2Xx8++lM33Dm3Jzc4GV4nnIjm/chDGIf2myV/VDv4nbe1aQudSE8CB1hFhC7ODEZrk+ZTdP45FhEliDkXTs2/j7jNEcmGSQW6x/WAbGqaaJqCjpf9u2I+bTHvP8GmMw7uAJ/i8jh1oI+s7dlC6l3lRE8Yr55AMUswI2GvY9PUgRxi8WTFhOQNkWJY1POx8ZvjP3PzBRCehhFofRQ6hvRAiLu57OGdvtWLJyUuoGHjn/xJNRm8HqAegZQ9wpB+ToSbc/qcADZ/pGQinS+2LzumwXbHMwvD3uUxSsK+hFcooV9Va3XWQ9/UXjv9Oeah+Pofe8IpsABRhfHXO3K5Pnti1JD4oAFRtVWC3xr6cxuarlzpg0kD7ErG2mTmhCzdxueoc6SCyZDeT7B3mDX4gcxmNRovJ7BTx950qZhmmkq310FFvQQb8xN636VCHCayB/uYdgs1w==;lq+Gre/l/PnS3lkLuXi19w=="
+secured: "PvjJSoOy0XjjGxbGMP3cOPpjBoarK9DhabMJtX4JZ+LXVhmxDLQ/4boIFybd6ECgxJnEoRVRqFR7Zpx8RovoCZuyXZOIrq8C9b6/QLRH4qqgAJzuAJHhopSB01CvQ+dTa+DPLbPB1u/z2i3h1TPRhMQNDb5lpAL9dJMAgj8ephdBasNzLqneJ6aDGIfIRT0S8GWNE9YtL7v7k4l80Iz+mkvtbmlzAPTC0hQs9wd6bh1oIlFsjb//sNzIg6jXyeEu0iw3azkLPd3rq+HX1cE9QXLY+yhJL6BmHVCw4ZXPlb1Rc/w7VAF3Ft9aCCQoj3tHKLq7oPHCrPqGlDxxJ7VZC2/wTNPp/IkvDtzv1QKFhsw=;qJ1yvB73bhBUeRnJ1lp6Bg=="
 ---
 

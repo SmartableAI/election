@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden seeks to chart a path out of the pandemic in prime-time address"
+    excerpt: "President Joe Biden can report in his first prime-time address Thursday that a vaccination drive now reaching 2 million people daily has brought America far closer to exiting the pandemic than when he took office 50 days ago.\n    \n"
+    publishedDateTime: 2021-03-11T10:20:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgAwu8WlDDY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200310190456-103-joe-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Negotiator-in-chief Biden notches his first win but a bipartisan governing loss"
     excerpt: "When President Joe Biden welcomed lawmakers into the Oval Office for his very first publicly scheduled meeting with members of Congress, he spoke exclusively with Republican senators -- an apparent effort to reach across the aisle to get their support for his $1.9 trillion coronavirus relief proposal."
     publishedDateTime: 2021-03-11T00:15:50Z
@@ -169,22 +185,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09dc-justice-1/merlin_184801785_0070e6c2-88ce-416c-926e-2400ddf6eada-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden seeks to chart a path out of the pandemic in prime-time address"
-    excerpt: "(CNN)President Joe Biden can report in his first prime-time address Thursday that a vaccination drive now reaching 2 million people daily has brought America far closer to exiting the pandemic than when he took office 50 days ago. With new infections and ..."
-    publishedDateTime: 2021-03-11T00:50:00Z
-    webUrl: "https://www.cnn.com/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200310190456-103-joe-biden-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
 
 secured: "2Fc5KOL2ZgmqTdq1wSkfRPoHSxbmlvgwLQ25EDvV6TcR8mVowz0ug+CbV9LrstaFJCFxqXB1pkcOc72lFBNAchxQrO4nfaa8PdgKtnqjEsCGtan+VXepwMqpSburhIESQ9Rh39Poa85XH6HhiE3oTZNzKSYT4JPtsVJvyWM2Q3AVOyZRAhy/FZ99GDhWGChvslasgKkDR6Vq3Yd9sP3yHeAubMkwQeGe6yzHwSjIWFmgwFJk1ebDHd08bDO6jyFWMWL4JAwUWiz/QNbRoKrlAKC0OzipDn0DGB/vOOy6SGuGYuUV3/RYGewPOxYVoLsSbgglDbYDI7JvbVWV+MftqTumf2aWN9nzyN9rLsRkZDs=;lJT+rQs3QyfcjfoUqrw6jw=="

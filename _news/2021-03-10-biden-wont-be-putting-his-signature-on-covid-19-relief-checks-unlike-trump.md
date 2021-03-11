@@ -9,7 +9,7 @@ ampWebUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-
 cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
 type: article
 quality: 137
-heat: 1297
+heat: 1317
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/96a9f4df6933a6e0c2158220d49f939822c30a25/c=0-69-2189-1300/local/-/media/2021/03/06/USATODAY/usatsports/pile-of-100-dollar-bills_gettyimages-452970107.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'The mess we inherited': Biden leans heavily on Trump's 'Warp Speed' but won't give credit"
+    excerpt: "President Joe Biden is taking credit for accelerating the vaccine rollout, without giving credit to former President Donald Trump's team that laid the groundwork."
+    publishedDateTime: 2021-03-11T03:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 130
+    images:
+      - url: "https://s.abcnews.com/images/Politics/rollout-covid-vaccine-president-joe-biden-donald-trump-04-gty-llr-210310_1615416603172_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden wants to go big, fast and alone on COVID relief"
     excerpt: "President Joe Biden has laid out his for moving fast and without Republicans, if necessary, to pass $1.9 trillion in coronavirus relief, armed with new signs of economic strain brought on by the conti"
@@ -305,10 +321,10 @@ related:
         isCached: true
   - title: "House approves $1.9 trillion COVID relief package, sending bill to Biden"
     excerpt: "Mr. Biden celebrated the passage of his plan in the wake of the ... These compromises were negotiated to satisfy moderate Democrats in the Senate, particularly Senator Joe Manchin. As Democrats have a 50-seat majority in the Senate, they require support ..."
-    publishedDateTime: 2021-03-10T19:19:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-american-rescue-plan-passes-house-biden/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-passes-house-biden/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-passes-house-biden/"
+    publishedDateTime: 2021-03-11T12:01:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-american-rescue-plan-passes-house-representatives/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-passes-house-representatives/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-passes-house-representatives/"
     type: article
     provider:
       name: CBS News

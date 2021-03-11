@@ -302,6 +302,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden expected to roll back Trump administration Title IX changes; falsely accused student's father speaks out"
+    excerpt: "The father of a student falsely accused of sexual assault is speaking out after President Biden ordered education officials to start considering how to roll back Trump administration changes to Title IX, which had bolstered the rights for those accused of ..."
+    publishedDateTime: 2021-03-11T11:44:00Z
+    webUrl: "https://www.foxnews.com/media/biden-expected-roll-back-trump-administration-title-ix-changes-students-father-speaks"
+    ampWebUrl: "https://www.foxnews.com/media/biden-expected-roll-back-trump-administration-title-ix-changes-students-father-speaks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-expected-roll-back-trump-administration-title-ix-changes-students-father-speaks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Biden-Background-Check-Bills-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "HgBj4/K8ykwWgkCj+N/TyZ/KLVo+IOvCpvSiyoEwbWjqcPaNzrKmpJMPgZhHvPFT/5n31sdEzEV1VbahI0f5R2TRLwK/ZeTfyNZiX7VhPVCHQ5Heb+eX06v69sa3GWXa5JEHp539+d7IogTNvEAEtRwiI04xo5PaEaYl4jOces2sJKkp+wENUhzWsOwyktxxPwCx7POjNtVYojOoBMbn43+q75nUL2Mll05y2zA7XgJH1sgA8NfQl4PrloVKHfkVh89YjDfMDcoGguhC8KeZ5zGbKV5zI+kcP9cO5Xjn93HS4q36sD7V37io0EgRkKVof/KO0WiqecKxqCa4R1iE6RKAi9wxk2LsC6gPY0be1sU=;wIlgrl1G06TfpHbrlM7xQQ=="
 ---

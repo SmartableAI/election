@@ -160,6 +160,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump endorses widow of Rep.-elect Luke Letlow for Louisiana House seat"
+    excerpt: "Former President Trump has endorsed Julia Letlow in her race to fill the House seat almost filled by her late husband. In a statement released late Wednesday, the 45th commander-in-chief praised"
+    publishedDateTime: 2021-03-11T12:36:00Z
+    webUrl: "https://nypost.com/2021/03/11/trump-endorses-rep-elect-luke-letlows-widow-for-house-seat/"
+    ampWebUrl: "https://nypost.com/2021/03/11/trump-endorses-rep-elect-luke-letlows-widow-for-house-seat/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/trump-endorses-rep-elect-luke-letlows-widow-for-house-seat/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/letlow-95.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump blames McConnell, Gov. Kemp for losing GOP Senate seats in Georgia"
     excerpt: "Former President Donald Trump lashed out at Georgia Gov. Brian Kemp and Senate Minority Leader Mitch McConnell, blaming them Thursday for the loss of two Republican Senate seats to Democrats."
     publishedDateTime: 2021-03-04T18:59:00Z

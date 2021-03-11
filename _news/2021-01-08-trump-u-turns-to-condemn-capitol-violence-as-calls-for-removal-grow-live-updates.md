@@ -2091,6 +2091,20 @@ related:
         width: 1440
         height: 914
         isCached: true
+  - title: "Mike Pence accepts Donald Trump's offer to be running mate"
+    excerpt: "Indiana Gov. Mike Pence stepped into the spotlight Saturday. He was formally announced as Donald Trump's running mate in the 2016 race for the White House."
+    publishedDateTime: 2021-03-09T15:54:00Z
+    webUrl: "https://www.cbsnews.com/video/mike-pence-accepts-donald-trumps-offer-to-be-running-mate/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/09/46a9ace8-7bd9-4a49-b565-af3a87c25543/thumbnail/1200x630/4b17b8f527bdb298d48ac913e254bb58/cbsn-mike-pence-0716-1093566-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump is being pelted in the stocks now – but don’t bet against him wriggling free"
     excerpt: "The chances of seeing the outgoing president in an orange jumpsuit are low – even as the potential charges mount up fast"
     publishedDateTime: 2021-01-10T05:30:00Z

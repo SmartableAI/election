@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-biden-border-crisis-immigrati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-biden-border-crisis-immigration-surge.amp"
 type: article
 quality: 185
-heat: 525
+heat: 545
 published: true
 
 provider:
@@ -286,6 +286,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/E86E2F68-40AC-4573-9256-2C761F843B35.jpeg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Biden expected to roll back Trump administration Title IX changes; falsely accused student's father speaks out"
+    excerpt: "The father of a student falsely accused of sexual assault is speaking out after President Biden ordered education officials to start considering how to roll back Trump administration changes to Title IX, which had bolstered the rights for those accused of ..."
+    publishedDateTime: 2021-03-11T11:44:00Z
+    webUrl: "https://www.foxnews.com/media/biden-expected-roll-back-trump-administration-title-ix-changes-students-father-speaks"
+    ampWebUrl: "https://www.foxnews.com/media/biden-expected-roll-back-trump-administration-title-ix-changes-students-father-speaks.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/biden-expected-roll-back-trump-administration-title-ix-changes-students-father-speaks.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 130
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Biden-Background-Check-Bills-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Hell freezes over: Newspaper says Trump shares credit with Biden on vaccines"
     excerpt: "Either you argue that Donald Trump did an incredible job and Joe Biden is doing a horrible job, or you insist the opposite is true. Taking a more nuanced position is often dismissed as being wishy-washy."

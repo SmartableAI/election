@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-louisiana-sen-john-k
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-louisiana-sen-john-kennedy-2022-reelection-bid.amp"
 type: article
 quality: 190
-heat: 410
+heat: 430
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c055ca10-6fad-441b-9b13-bc9cfa464a1a/21f7f894-6377-4ca8-8101-b98ee68f19ac/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump endorses widow of Rep.-elect Luke Letlow for Louisiana House seat"
+    excerpt: "Former President Trump has endorsed Julia Letlow in her race to fill the House seat almost filled by her late husband. In a statement released late Wednesday, the 45th commander-in-chief praised"
+    publishedDateTime: 2021-03-11T12:36:00Z
+    webUrl: "https://nypost.com/2021/03/11/trump-endorses-rep-elect-luke-letlows-widow-for-house-seat/"
+    ampWebUrl: "https://nypost.com/2021/03/11/trump-endorses-rep-elect-luke-letlows-widow-for-house-seat/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/trump-endorses-rep-elect-luke-letlows-widow-for-house-seat/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/letlow-95.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump blames McConnell, Gov. Kemp for losing GOP Senate seats in Georgia"
     excerpt: "Former President Donald Trump lashed out at Georgia Gov. Brian Kemp and Senate Minority Leader Mitch McConnell, blaming them Thursday for the loss of two Republican Senate seats to Democrats."

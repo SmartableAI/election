@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-lara-trump-nor
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-lara-trump-north-carolina-senate-20210304-guyqxakcjzh4fcg2zx2s3m45ja-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump once again requests mail-in ballot despite repeatedly attacking method"
+    excerpt: "Palm Beach county election marks the third instance of the former president voting by mail since 2019"
+    publishedDateTime: 2021-03-11T11:30:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/11/donald-trump-mail-in-ballot-palm-beach-county"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/11/donald-trump-mail-in-ballot-palm-beach-county"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/11/donald-trump-mail-in-ballot-palm-beach-county"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/18fa202a6dfad06f3581ce052fecdf0fd6c93401/0_118_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=68a83f734cdcaa8f1c3f23dd1265cc0a"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump requests a mail-in ballot after months of falsely crying ‘fraud’ on mail-in ballots"
     excerpt: "Records from the Palm Beach County Supervisor of Elections show that a mail-in ballot for the town’s local election this week was requested on Friday and cast on Monday."
     publishedDateTime: 2021-03-10T17:59:00Z

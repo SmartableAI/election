@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden seeks to chart a path out of the pandemic in prime-time address"
+    excerpt: "President Joe Biden can report in his first prime-time address Thursday that a vaccination drive now reaching 2 million people daily has brought America far closer to exiting the pandemic than when he took office 50 days ago.\n    \n"
+    publishedDateTime: 2021-03-11T10:20:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgAwu8WlDDY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200310190456-103-joe-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration grants humanitarian protections to Venezuelans in the US"
     excerpt: "The Biden administration on Monday granted humanitarian protection for Venezuelans, allowing an estimated 300,000 people to apply and remain lawfully in the United States, according to senior administration officials.\n    \n"
     publishedDateTime: 2021-03-08T22:42:32Z
@@ -169,22 +185,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09dc-justice-1/merlin_184801785_0070e6c2-88ce-416c-926e-2400ddf6eada-facebookJumbo.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden seeks to chart a path out of the pandemic in prime-time address"
-    excerpt: "(CNN)President Joe Biden can report in his first prime-time address Thursday that a vaccination drive now reaching 2 million people daily has brought America far closer to exiting the pandemic than when he took office 50 days ago. With new infections and ..."
-    publishedDateTime: 2021-03-11T00:50:00Z
-    webUrl: "https://www.cnn.com/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200310190456-103-joe-biden-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
 
 secured: "QqQI78xOvNPg5I+esoo2ej+bgWrWmjS0iWHS9Ofuz4iaURj6Umj1XfdhTCCo1I8xJpRfCFTmebf2lSLjK3hunI89wA6Xkv3pMQYbeRTSBtRcIrmY54kzqsMLb/IquDplmBzS6pJ1X+Ujj2Ktrk+DZZc/mGdPShIb8jID5BOjqstTxyMQtm0vt1g2BHCXSz8QTX4F1lk0MlnaAh7AjkqdwPZVSVYTgUw/ySO6uy9eKCsfdLar1JvCCfPdGCULTRTWuVjs2Y3uA3BfnkcAFvQVLn2aPtFLQLDE5qzkuLOzsm4XeiFgayYxTA4GirqE0JC/TdYVy+/2HUspk2XIvsteZN+FT4gmiZM6FNT7eJcxxjY=;02DVdRe1RHzTt6yopYGUSg=="

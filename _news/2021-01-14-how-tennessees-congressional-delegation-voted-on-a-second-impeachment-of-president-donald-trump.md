@@ -171,6 +171,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump Pressured Georgia Investigator to Find Voter Fraud in Phone Recording: 'You'll Be Praised'"
+    excerpt: "Former President Donald Trump pressured a Georgia investigator to find evidence of voter fraud in the 2020 presidential election, promising that \"the right answer\" would win \"praise\" during a phone call in late December. In audio of the call obtained by ..."
+    publishedDateTime: 2021-03-11T01:35:00Z
+    webUrl: "https://www.newsweek.com/trump-pressured-georgia-investigator-find-voter-fraud-phone-recording-youll-praised-1575263"
+    ampWebUrl: "https://www.newsweek.com/trump-pressured-georgia-investigator-find-voter-fraud-phone-recording-youll-praised-1575263?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-pressured-georgia-investigator-find-voter-fraud-phone-recording-youll-praised-1575263?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 112
+    images:
+      - url: "https://d.newsweek.com/en/full/1753079/donald-trump-georgia-election-investigator-fraud.jpg"
+        width: 2944
+        height: 1976
+        isCached: true
   - title: "‘Find the fraud’: Trump pressured a Georgia elections investigator in a separate call legal experts say could amount to obstruction"
     excerpt: "More than a week before he urged the Georgia secretary of state to overturn the election results, the president spoke to the state’s chief elections fraud investigator and urged the official to find wrongdoing as part of an ongoing inquiry."
     publishedDateTime: 2021-01-09T22:20:00Z

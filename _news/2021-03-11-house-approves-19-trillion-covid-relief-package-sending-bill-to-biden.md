@@ -2,11 +2,11 @@
 category: news
 title: "House approves $1.9 trillion COVID relief package, sending bill to Biden"
 excerpt: "Mr. Biden celebrated the passage of his plan in the wake of the ... These compromises were negotiated to satisfy moderate Democrats in the Senate, particularly Senator Joe Manchin. As Democrats have a 50-seat majority in the Senate, they require support ..."
-publishedDateTime: 2021-03-10T19:19:00Z
-originalUrl: "https://www.cbsnews.com/news/covid-relief-bill-american-rescue-plan-passes-house-biden/"
-webUrl: "https://www.cbsnews.com/news/covid-relief-bill-american-rescue-plan-passes-house-biden/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-passes-house-biden/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-passes-house-biden/"
+publishedDateTime: 2021-03-11T12:01:00Z
+originalUrl: "https://www.cbsnews.com/news/covid-relief-bill-american-rescue-plan-passes-house-representatives/"
+webUrl: "https://www.cbsnews.com/news/covid-relief-bill-american-rescue-plan-passes-house-representatives/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-passes-house-representatives/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-passes-house-representatives/"
 type: article
 quality: 124
 heat: -1
@@ -110,6 +110,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/96a9f4df6933a6e0c2158220d49f939822c30a25/c=0-69-2189-1300/local/-/media/2021/03/06/USATODAY/usatsports/pile-of-100-dollar-bills_gettyimages-452970107.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'The mess we inherited': Biden leans heavily on Trump's 'Warp Speed' but won't give credit"
+    excerpt: "President Joe Biden is taking credit for accelerating the vaccine rollout, without giving credit to former President Donald Trump's team that laid the groundwork."
+    publishedDateTime: 2021-03-11T03:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 130
+    images:
+      - url: "https://s.abcnews.com/images/Politics/rollout-covid-vaccine-president-joe-biden-donald-trump-04-gty-llr-210310_1615416603172_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden wants to go big, fast and alone on COVID relief"
     excerpt: "President Joe Biden has laid out his for moving fast and without Republicans, if necessary, to pass $1.9 trillion in coronavirus relief, armed with new signs of economic strain brought on by the conti"
@@ -916,6 +932,6 @@ related:
         height: 675
         isCached: true
 
-secured: "oPfX7CxibRsWj4n/vIBk49Hmqnrog2lrRaHG2DYXg6X0LTRYAcN+1vKOi6QmLBktg+NYPlK+jNcvuJbQ0aMWcSf59EG+alSNTZqJJRFCRF/t8vZTE4Pk9pZy82mqsk3RygYQ0zIB9vkxpVGwDlkRwxVEVvnLcmYYZN1IFpUeWDN0Orixb2QY7Q/Vv4kwWvo+w98I8TxtIoNQj87u1ybwv+NDGAv0RaMfbzJfrv0VzRAsmWP6WhbSnIVhAX09pKzVxVl+vY5m1bdX/waIEpxE0C6hYrpJZLGzKYdK/keqYBAc2cdyHr0vqeDMxV8EJCjOrMx1o33NDCQx8cqXry7M05OAnEewPpRwOKqEHiH2rF7W77KvQfnvahtv8G/DcHvzSfGxX6T+79chX849hGyMP7Vvls0ffe2Oq7VHJVxnsmxvRr9lAO49SXQuMbk/Mhg0kQZ1mvGmpilVTyte+pOKrydox7j1piWCnHl6r8Tl5WNnNqp1zecqMXp4dOmgxTfdXONBCadXZhItXOcg6DDoAA==;hhBcx25PR4jKX3bxdCx/JA=="
+secured: "HFbQMLnaGBIrfXCJUAsTM/8w+D69UlVtfZWOUoFYpRjzxsrpDsGFFWd2U8et/28x+nx+bcLrCm+H28ViobvwWlParc8wUnQovpOXedd1pRx2aQ1IoD3eebfn3rWfRTT/hBDVKeT8iDOMFq5kqxygTRaBoPV+R2htmFfF1gN4/j4rZKR1RpIQKG0pjVZetrkMIhmu0502B4fzWEWBwpwfs7b9p0TRHWNlB/kkef2EGfjDPjifPV9B4I9ST2P8Osw9TxIaGF14WxUgtOGZkcmR5blhh7Q9btF7VuXtzOuT4Ah4UIYusWOz9wQ514CdFKxXkBR/cYkgi+98TleqA/kbGQu1GEL+8Wo8/ohjes/vJ98=;gnazDA2+j87OfCK8v4Qr1g=="
 ---
 
