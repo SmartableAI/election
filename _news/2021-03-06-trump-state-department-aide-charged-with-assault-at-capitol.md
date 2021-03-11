@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-depar
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 545
+heat: 565
 published: true
 
 provider:
@@ -334,6 +334,22 @@ related:
       - url: "https://cdnph.upi.com/sv/ph/og/upi/5831614965407/2021/1/c5fd2e5c49d18744c2e0217abed09170/v1.5/Rep-Eric-Swalwell-sues-Donald-Trump-3-others-for-inciting-Capitol-attack.jpg"
         width: 800
         height: 533
+        isCached: true
+  - title: "Stacey Dash Abandons Support For Donald Trump After ‘Appalling And Stupid’ Capitol Riot"
+    excerpt: "Following years of controversial statements, “Clueless” actress Stacey Dash opened up about why she is no longer supporting Donald Trump. Dash's comments drew attention on Twitter, where her name was a trending topic."
+    publishedDateTime: 2021-03-11T17:49:00Z
+    webUrl: "https://www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446"
+    ampWebUrl: "https://www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/29/stacey-dash-oscars.jpg"
+        width: 1200
+        height: 852
         isCached: true
   - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
     excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."

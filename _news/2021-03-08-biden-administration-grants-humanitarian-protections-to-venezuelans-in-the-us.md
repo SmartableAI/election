@@ -95,6 +95,54 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to sign $1.9 trillion Covid-19 relief package into law"
+    excerpt: "President Joe Biden will sign his sweeping $1.9 trillion Covid-19 economic relief package into law on Thursday afternoon, the White House said. He had originally been expected to sign it on Friday.\n    \n"
+    publishedDateTime: 2021-03-11T18:25:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cIyJLRjTgpU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/biden-sign-covid-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/biden-sign-covid-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden's pick to lead HHS heads toward confirmation"
+    excerpt: "Health and Human Services Secretary nominee Xavier Becerra picked up the support of two crucial votes on Thursday, all but ensuring his eventual Senate confirmation.\n    \n"
+    publishedDateTime: 2021-03-11T18:08:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LVUzm4Hlre4/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/xavier-becerra-nomination-advance-hhs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/xavier-becerra-nomination-advance-hhs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225141715-01-becerra-nomination-hearing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
+    excerpt: "Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president.\n    \n"
+    publishedDateTime: 2021-03-11T18:37:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-9qsEXmlphI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/biden-republicans-culture-war-covid-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/biden-republicans-culture-war-covid-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Negotiator-in-chief Biden notches his first win but a bipartisan governing loss"
     excerpt: "When President Joe Biden welcomed lawmakers into the Oval Office for his very first publicly scheduled meeting with members of Congress, he spoke exclusively with Republican senators -- an apparent effort to reach across the aisle to get their support for his $1.9 trillion coronavirus relief proposal."
     publishedDateTime: 2021-03-11T00:15:50Z

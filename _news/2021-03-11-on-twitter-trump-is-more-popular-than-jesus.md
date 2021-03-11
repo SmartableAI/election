@@ -335,6 +335,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Stacey Dash Abandons Support For Donald Trump After ‘Appalling And Stupid’ Capitol Riot"
+    excerpt: "Following years of controversial statements, “Clueless” actress Stacey Dash opened up about why she is no longer supporting Donald Trump. Dash's comments drew attention on Twitter, where her name was a trending topic."
+    publishedDateTime: 2021-03-11T17:49:00Z
+    webUrl: "https://www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446"
+    ampWebUrl: "https://www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/29/stacey-dash-oscars.jpg"
+        width: 1200
+        height: 852
+        isCached: true
   - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
     excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
     publishedDateTime: 2021-03-03T14:55:00Z
@@ -361,6 +377,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "t38j0cDHktlzgV2WwvHlDW55Lt/7SMJ2su008qM+PfCJJ3TUEtnOvr83aw1fWxVofXgR5w6iVVmhxnF3f7cAWHJvoWkrqXozPXQt9OIia0tIzil2tF3etmuzvk7UsWEZmrhja2Qo0wz0aLq5//hm8hg9itEAdGBd29b6lQ1lLkFFShp6CSTS1yNomissYRYBsV6Pb5wgc33uNU0P5mhhzy4hhAsNDocXUOF9c9P9tRXfz4VV2KqzVP8keDtRVDq3k2qQj/15oKTFACFH6lHuS3r2sm82tAdtZj79PD2PCicOWYMhcx1zyL8a2Mr5yOE+amOJfc5BwQzrXCuH0dLHqQDJf5gnp4Iezg+ZbG8vjno=;KUOn6GcPm/fqfWTAQMpzHQ=="
+secured: "KuBQ+b+PGgzKDtpASqlkPHS72TUv96f5alQpoZSDM0ur/38zOn5OJE+9TJ7qBVvg51JiFTnv2tdjQhp/WN0Qy7zqa51k4DWsHHDuyj8lqyE7aZlR5asR29Y+b4hTZ6HAYwR/hGq+/WP8T+0YJ+NQnJMvykpMSmvfBYr7Z78/aCm+u2PmOXiB75mz5LfmyJf6XK5Zd2GRxg+k2++oxNvBXCQ/Rr6ZyvGLKHnI+QvU8PcbBrdJrZ0JU47GvdhasFd1YkjVRhAHc87lBzy4Zlb2G2L2Pt6+NhN6XuEqtXWo4et2TyIm97yyCX9SK4w3Z4nhAYh0ClJOqSJ6mKb4f4U4+siiMCJkJW5hWVLwI0HKA4g6rd0ye2SZHYvekhobdI0jfDq0+QxT/BCk/3T22jc8ueL2bJ65if6kGV0AEaTS67sRam2haVca4W0JvTBgVWKnspXD1gCKBJ+1+B5UV8ZiFxDEnwdII5TaEEfcIXjI9XY9zwRo1TfVZEfV7mXIucLfGuBkVULdSwGUNxY5eExscg==;a7ae4Ju0jJYmqDimpg3NHQ=="
 ---
 

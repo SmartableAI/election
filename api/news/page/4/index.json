@@ -2,6 +2,120 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-06-lincoln-projection-former-adviser-to-disgraced-anti-trump-pac-calls-gop-the-ultimate-grift.md",
+      "title": "Lincoln Projection: Former adviser to disgraced anti-Trump PAC calls GOP 'the ultimate grift'",
+      "excerpt": "Former Lincoln Project senior adviser Kurt Bardella appears to have no issue with throwing stones from glass houses, as he recently accused the Republican Party of becoming the \"ultimate grift.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift",
+      "originalUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift.amp",
+      "publishedDateTime": "2021-03-05T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-fbi-finds-contact-between-proud-boys-member-and-trump-associate-before-riot.md",
+      "title": "F.B.I. Finds Contact Between Proud Boys Member and Trump Associate Before Riot",
+      "excerpt": "A leader of the far-right group separately said he had been in touch with Roger Stone, but an official said it was not the same contact investigators found through electronic communications records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/05/us/politics/05dc-investigate1/05dc-investigate1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.amp.html",
+      "publishedDateTime": "2021-03-05T16:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-capitol-hill-has-picked-shalanda-young-to-lead-omb-but-biden-hasnt-yet.md",
       "title": "Capitol Hill has picked Shalanda Young to lead OMB -- but Biden hasn't yet",
       "excerpt": "Congressional Democrats are pushing President Joe Biden to nominate Shalanda Young to lead the Office of Management and Budget after Neera Tanden withdrew her nomination amid opposition in the Senate.\n    \n",
@@ -122,7 +236,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 565,
       "tags": null,
       "images": [
         {
@@ -274,63 +388,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-kamala-harris-speaks-with-netanyahu-in-latest-talk-with-a-major-world-leader.md",
-      "title": "Kamala Harris speaks with Netanyahu in latest talk with a major world leader",
-      "excerpt": "Vice President Kamala Harris and Israeli Prime Minister Benjamin Netanyahu had a call Thursday amid the Middle Eastern ally's growing tension with Iran.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call",
-      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7750b86-b666-441d-ad85-e004befe43e3/3f70789c-8232-4f13-a178-f669a03f6443/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-netanyahu-call.amp",
-      "publishedDateTime": "2021-03-05T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     },
@@ -678,7 +735,7 @@
       "originalUrl": "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 445,
       "tags": null,
       "images": [
         {
@@ -942,7 +999,7 @@
       "originalUrl": "https://www.houstonchronicle.com/lifestyle/thepage/article/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 765,
+      "heat": 805,
       "tags": null,
       "images": [
         {
@@ -1307,62 +1364,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-biden-doj-urges-supreme-court-to-dismiss-sanctuary-city-cases.md",
-      "title": "Biden DOJ urges Supreme Court to dismiss 'sanctuary city' cases",
-      "excerpt": "The Biden administration told the Supreme Court on Thursday that it should dismiss pending cases concerning \"sanctuary cities,\" which limit cooperation between local law enforcement and federal immigration authorities.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d9-_x8xWLoA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/d9-_x8xWLoA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210304180339-biden-roosevelt-room-0304-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/04/politics/biden-doj-supreme-court-dismiss-sanctuary-cities/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/biden-doj-supreme-court-dismiss-sanctuary-cities/index.html",
-      "publishedDateTime": "2021-03-04T15:22:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

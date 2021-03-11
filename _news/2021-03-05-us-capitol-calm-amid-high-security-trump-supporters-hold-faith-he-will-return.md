@@ -335,6 +335,22 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Stacey Dash Abandons Support For Donald Trump After ‘Appalling And Stupid’ Capitol Riot"
+    excerpt: "Following years of controversial statements, “Clueless” actress Stacey Dash opened up about why she is no longer supporting Donald Trump. Dash's comments drew attention on Twitter, where her name was a trending topic."
+    publishedDateTime: 2021-03-11T17:49:00Z
+    webUrl: "https://www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446"
+    ampWebUrl: "https://www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 67
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/29/stacey-dash-oscars.jpg"
+        width: 1200
+        height: 852
+        isCached: true
   - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
     excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
     publishedDateTime: 2021-03-03T14:55:00Z

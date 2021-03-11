@@ -177,6 +177,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Harris, Emhoff to visit Las Vegas to promote relief bill"
+    excerpt: "Vice President Kamala Harris and her husband Doug Emhoff will visit Las Vegas on Monday as part of a trip to promote the $1.9 trillion relief package that President Joe Biden"
+    publishedDateTime: 2021-03-11T18:08:00Z
+    webUrl: "https://apnews.com/article/joe-biden-colorado-denver-las-vegas-nevada-3b1ce1370b8de17a5ce778d3c6a883b3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 105
+    images:
+      - url: "https://apnews.com/images/ShareLogo2.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Essential Politics: Kamala Harris enters a supermarket — and a security bubble"
     excerpt: "A press event at a grocery store underscores the new reality of Vice President Kamala Harris' protective bubble."
     publishedDateTime: 2021-03-03T14:31:00Z
@@ -284,6 +298,22 @@ related:
       - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14897275_web1_KAMALA-VISIT-102720_es_010.jpg?w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "What Kamala Harris Could Do for Voting Rights"
+    excerpt: "The cause needs a prominent leader who can draw national attention to Republican efforts to suppress the vote."
+    publishedDateTime: 2021-03-11T18:20:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/03/why-democrats-voting-rights-battle-needs-kamala-harris/618260/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/618260/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618260/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/vQL0Pc2lGf46uSug5fkjUvxOXaI=/570x321/media/img/mt/2021/03/0321_Nora_Katie_Kamala/original.jpg"
+        width: 570
+        height: 321
         isCached: true
   - title: "VP Kamala Harris' Berkeley childhood home may gain historic landmark status"
     excerpt: "A pale yellow, two-story duplex in Berkeley with a powerful political connection may soon be eligible to receive historic status. That’s because as a child, Kamala Harris — who is the first woman and first Black and Southeast Asian woman to hold the office of vice president — lived on the top floor of the home on Bancroft Way."

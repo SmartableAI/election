@@ -223,6 +223,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden admin pressed on enforcing COVID-19 tests as more migrants test positive"
+    excerpt: "The recommendations and protocols for coronavirus testing on migrants entering the United States -- particularly at the Southern border -- are coming under scrutiny as a wave of migrants makes its way toward the U.S. hoping for friendly treatment by the Biden administration."
+    publishedDateTime: 2021-03-11T17:31:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R3YNIEO0usE/biden-administration-pressed-enforcing-covid-19-tests-illegal-immigrants-test-positive"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-pressed-enforcing-covid-19-tests-illegal-immigrants-test-positive.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-pressed-enforcing-covid-19-tests-illegal-immigrants-test-positive.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 171
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
     excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
     publishedDateTime: 2021-03-08T17:50:47Z
@@ -252,6 +268,22 @@ related:
     quality: 169
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "McConnell trashes Biden's COVID relief package as 'multitrillion-dollar Trojan horse'"
+    excerpt: "Senate Republican leader Mitch McConnell is lambasting President Biden's $1.9 trillion COVID relief package that Democrats passed through Congress along party-line votes as \"a multitrillion-dollar Trojan horse.\""
+    publishedDateTime: 2021-03-11T18:52:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2t84hFapu0k/mcconnell-biden-covid-relief-package"
+    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-covid-relief-package.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-covid-relief-package.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

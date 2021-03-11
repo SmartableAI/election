@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-12-merrick-garland-speaks-at-doj-before-swearing-in-by-vp-kamala-harris.md",
+      "title": "Merrick Garland speaks at DOJ before swearing-in by VP Kamala Harris",
+      "excerpt": "Attorney General Merrick Garland paid a visit to his new office Thursday morning to deliver his first remarks to Justice Department staff ahead of his swearing-in by Vice President Kamala Harris.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/",
+      "originalUrl": "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 155,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/merrick-garland-01.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/",
+      "publishedDateTime": "2021-03-11T10:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-manchin-collins-to-vote-for-becerra-as-bidens-hhs-secretary-after-conservatives-try-to-sink-nomination.md",
+      "title": "Manchin, Collins to vote for Becerra as Biden's HHS secretary after conservatives try to sink nomination",
+      "excerpt": "Sens. Joe Manchin and Susan Collins said Thursday they plan to vote for Xavier Becerra to serve as President Biden’s Health and Human Services secretary, likely delivering the new administration another Cabinet member. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dNeSnueueLo/joe-manchin-susan-collins-support-becerra-biden-hhs-secretary",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dNeSnueueLo/joe-manchin-susan-collins-support-becerra-biden-hhs-secretary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Manchin-Susan-Collins.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/joe-manchin-susan-collins-support-becerra-biden-hhs-secretary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-manchin-susan-collins-support-becerra-biden-hhs-secretary.amp",
+      "publishedDateTime": "2021-03-11T09:42:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-kennedy-slams-biden-dems-for-calling-19t-bill-covid-relief-right-and-the-stripper-really-likes-you.md",
       "title": "Kennedy slams Biden, Dems for calling $1.9T bill 'COVID relief': 'Right, and the stripper really likes you'",
       "excerpt": "The enormous $1.9 trillion coronavirus relief bill is just “spending porn,” Sen. John Kennedy, R-La., said on Thursday.",
@@ -407,7 +511,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 789,
+      "heat": 829,
       "tags": null,
       "images": [
         {
@@ -1571,119 +1675,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-pence-to-deliver-first-post-vp-speech-in-south-carolina-as-he-eyes-political-future.md",
-      "title": "Pence to deliver first post-VP speech in South Carolina as he eyes political future",
-      "excerpt": "Former Vice President Mike Pence will head to South Carolina next month to deliver his first public address since the end of the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ymVU96cKJyo/pence-first-speech-south-carolina-eyes-political-future",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ymVU96cKJyo/pence-first-speech-south-carolina-eyes-political-future",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-first-speech-south-carolina-eyes-political-future.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-first-speech-south-carolina-eyes-political-future.amp",
-      "publishedDateTime": "2021-03-08T07:07:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-trump-says-hell-work-to-unseat-alaskas-murkowski-calling-her-disloyal.md",
-      "title": "Trump says he'll work to unseat Alaska's Murkowski, calling her 'disloyal'",
-      "excerpt": "Former President Donald Trump said he would campaign against Sen. Lisa Murkowski, R-Alaska, and blasted her as a \"disloyal and very bad Senator\" in a statement this weekend.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EqNJ88B_6js/trump-murkowski-senate-alaska-campaign-2022",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EqNJ88B_6js/trump-murkowski-senate-alaska-campaign-2022",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/640/320/rts18vzv.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-murkowski-senate-alaska-campaign-2022.amp",
-      "publishedDateTime": "2021-03-07T12:27:02-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

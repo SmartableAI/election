@@ -2030,6 +2030,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump leaves Biden with an EU trade time bomb"
+    excerpt: "A trans-Atlantic tariff showdown could get a whole lot worse before it gets better. President Joe Biden is ready to reverse his predecessor Donald Trump's trade war with Europe, after agreeing last week to a temporary freeze of the tariffs slapped by both ..."
+    publishedDateTime: 2021-03-11T17:55:00Z
+    webUrl: "https://www.politico.com/news/2021/03/11/trump-biden-eu-trade-475324"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/11/trump-biden-eu-trade-475324"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/11/trump-biden-eu-trade-475324"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/35/54/5b331c6f434dba9d923146ec516b/ap21069764524804.jpg"
+        width: 5306
+        height: 3535
+        isCached: true
   - title: "DC attorney general says Trump could possibly be charged by city prosecutors with misdemeanor for role in Capitol insurrection"
     excerpt: "District of Columbia Attorney General Karl Racine warned Sunday that President Donald Trump could possibly be charged by city prosecutors with \"a misdemeanor, a six-month-in-jail maximum,\" amid fallout from the deadly insurrection at the US Capitol earlier this month.\n    \n"
     publishedDateTime: 2021-01-17T19:23:02Z

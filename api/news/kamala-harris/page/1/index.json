@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-06-kamala-harris-speaks-with-netanyahu-in-latest-talk-with-a-major-world-leader.md",
-      "title": "Kamala Harris speaks with Netanyahu in latest talk with a major world leader",
-      "excerpt": "Vice President Kamala Harris and Israeli Prime Minister Benjamin Netanyahu had a call Thursday amid the Middle Eastern ally's growing tension with Iran.",
+      "path": "_news/2021-03-12-merrick-garland-speaks-at-doj-before-swearing-in-by-vp-kamala-harris.md",
+      "title": "Merrick Garland speaks at DOJ before swearing-in by VP Kamala Harris",
+      "excerpt": "Attorney General Merrick Garland paid a visit to his new office Thursday morning to deliver his first remarks to Justice Department staff ahead of his swearing-in by Vice President Kamala Harris.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call",
-      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call",
+      "webUrl": "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/",
+      "originalUrl": "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 132,
+      "heat": 155,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7750b86-b666-441d-ad85-e004befe43e3/3f70789c-8232-4f13-a178-f669a03f6443/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/merrick-garland-01.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,23 +28,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-netanyahu-call.amp",
-      "publishedDateTime": "2021-03-05T11:06:00-08:00",
+      "ampWebUrl": "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/",
+      "publishedDateTime": "2021-03-11T10:30:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -124,7 +115,7 @@
       "originalUrl": "https://www.houstonchronicle.com/lifestyle/thepage/article/Veep-with-a-pearl-earring-Kamala-Harris-ignites-16000820.php",
       "featuredContent": null,
       "highlight": null,
-      "heat": 765,
+      "heat": 805,
       "tags": null,
       "images": [
         {

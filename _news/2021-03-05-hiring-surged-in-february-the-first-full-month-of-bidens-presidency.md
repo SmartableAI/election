@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/february-job-report-employment-unem
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -206,6 +206,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRZS52D4OII6XDC6GLSHWQVVDM.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "IMF urges vigilance against rate spike as Biden stimulus juices U.S. growth"
+    excerpt: "The International Monetary Fund on Thursday warned central banks to be vigilant against a sudden spike in interest rates that could spill over into emerging markets, even as a $1.9 trillion U.S. stimulus package benefits most countries and aids recovery."
+    publishedDateTime: 2021-03-11T17:47:00Z
+    webUrl: "https://www.reuters.com/article/imf-economy-idUSL1N2L922U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B329R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B329R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554553270&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A1CU"
+        width: 817
+        height: 545
         isCached: true
   - title: "White House: Biden believes U.S. authorizations for military force need updating"
     excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."

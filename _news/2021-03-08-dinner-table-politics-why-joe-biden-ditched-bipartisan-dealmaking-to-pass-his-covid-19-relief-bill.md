@@ -395,6 +395,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Kimmel on Biden's Covid relief bill: 'Naturally, Republicans are against it'"
+    excerpt: "Late-night hosts discuss Covid relief, the latest Fox News culture wars, and the role white women play in bolstering QAnon"
+    publishedDateTime: 2021-03-11T17:05:00Z
+    webUrl: "https://www.theguardian.com/culture/2021/mar/11/jimmy-kimmel-biden-covid-relief-republicans-late-night-recap"
+    ampWebUrl: "https://amp.theguardian.com/culture/2021/mar/11/jimmy-kimmel-biden-covid-relief-republicans-late-night-recap"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/culture/2021/mar/11/jimmy-kimmel-biden-covid-relief-republicans-late-night-recap"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 122
+    images:
+      - url: "https://i.guim.co.uk/img/media/df7e29d55154a36d3d9e15f21d4bcc2307d33289/154_135_2548_1529/master/2548.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=76408b46ca2561469e4d7598edfad1df"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Stimulus checks should continue until COVID-19 is history, senators tell Biden"
     excerpt: "Most Americans say $1,400 payments included in rescue package will last them less than three months, lawmakers argue."
     publishedDateTime: 2021-03-02T20:13:00Z
@@ -458,6 +474,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
         width: 817
         height: 545
+        isCached: true
+  - title: "Man who exhaled on women outside Trump golf club settles case by donating to NAACP"
+    excerpt: "A man charged with assault for blowing on two activist outside of a golf club owned by former President Trump has settled his case by donating $3,000 to the NAACP."
+    publishedDateTime: 2021-03-11T17:35:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/542754-man-who-exhaled-on-women-outside-trump-golf-club-settles-case-by"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/542754-man-who-exhaled-on-women-outside-trump-golf-club-settles-case-by?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/542754-man-who-exhaled-on-women-outside-trump-golf-club-settles-case-by?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 119
+    images:
+      - url: "https://thehill.com/sites/default/files/loudoun_county_courthouse_07312018_1_0.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
     excerpt: "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,"
