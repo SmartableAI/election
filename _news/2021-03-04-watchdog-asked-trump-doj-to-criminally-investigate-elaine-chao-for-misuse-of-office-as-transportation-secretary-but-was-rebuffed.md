@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Russia Attacks Twitter for Donald Trump Ban After Platform Raises Censorship Concerns"
+    excerpt: "Russian Foreign Ministry spokesperson Maria Zakharova dismissed Twitter's complaint on Wednesday, accusing the platform of hypocrisy given its own bans on users—including former President Donald Trump. \"Is it the same Twitter that blocked the President ..."
+    publishedDateTime: 2021-03-11T14:27:00Z
+    webUrl: "https://www.newsweek.com/russia-attacks-twitter-donald-trump-ban-after-platform-raises-censorship-concerns-1575405"
+    ampWebUrl: "https://www.newsweek.com/russia-attacks-twitter-donald-trump-ban-after-platform-raises-censorship-concerns-1575405?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-attacks-twitter-donald-trump-ban-after-platform-raises-censorship-concerns-1575405?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1753341/man-his-phone-redsquare.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Twitter sues Texas Attorney General, accusing him of retaliating after it banned Trump"
     excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, accusing him of targeting the social media firm in retaliation for its suspension of Trump's account."
     publishedDateTime: 2021-03-09T19:08:00Z

@@ -122,6 +122,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Maddow: GOP Fixates On Pop Culture War Issues As Trump Hijacks Party Fundraising"
+    excerpt: "Rachel Maddow looks at the bizarre fight between Donald Trump and the Republican Party in which Trump won't allow the party to use his name and insists that fundraising be done through his personal PAC, as Republican politicians focus on Mr. Potato Head ..."
+    publishedDateTime: 2021-03-11T14:43:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/11/maddow_gop_fixates_on_pop_culture_war_issues_as_trump_hijacks_party_fundraising.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/11/maddow_gop_fixates_on_pop_culture_war_issues_as_trump_hijacks_party_fundraising.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/11/maddow_gop_fixates_on_pop_culture_war_issues_as_trump_hijacks_party_fundraising.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/525277.jpg"
+        width: 1148
+        height: 860
+        isCached: true
 
 secured: "9sGcHbERatzfTpcu8nqbYNVJKmoH2D73hfoJ5fEq/nyxQUa4SomBhxClqSqDSA6UKHaCrIsH9vMcZ+BNyhxE0q1tFc/KWgCinakw8QLpAk2+AMVbXaAqLr10aS8cP6jOAPArl74aOuRimxWN6ChFpVLtxj8NcS/5FXHLwVdHNeIPM+QCgASkFtTvfdXXPDjjqxzI3nQhd4cb6kaEG01qud7TGtumLJedhJvkmYI7OEJixzfw9E4aUHwZDR3TV2wYaG628+99S6YpPVz0Yn6c9fcqM/GkFzdAfb4y57dd+ahG3fsyRGLJG/PQmzdM+OMRj/YS6e3FXumT8gk0tUsoN5xjqR21JrIOftvCPmyQLFo=;AST9ZwL30Odu5yJ+LkLRdA=="
 ---

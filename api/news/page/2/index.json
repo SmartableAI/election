@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-10-biden-wont-be-putting-his-signature-on-covid-19-relief-checks-unlike-trump.md",
+      "title": "Biden won’t be putting his signature on COVID-19 relief checks, unlike Trump",
+      "excerpt": "President Biden will not be attaching his signature to the $1,400 relief checks that are expected to be mailed soon — a break with his predecessor, who last year had “President Donald J. Trump” printed on the economic impact payments approved by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 1317,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/27e2771/2147483647/strip/true/crop/3618x2363+281+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F1e%2F6f3fd75dd8cf337e371f4b0065a0%2Fac3f35f2c1554c75ac18550bee411639",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true",
+      "publishedDateTime": "2021-03-09T17:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-trump-requests-mail-in-ballot-ahead-of-local-florida-election-despite-baseless-fraud-claims.md",
       "title": "Trump requests mail-in ballot ahead of local Florida election despite baseless fraud claims",
       "excerpt": "Former President Donald Trump requested a mail-in ballot ahead of a local municipal election in Florida, according to Palm Beach County records, despite his frequent attacks on voting by mail.\n    \n",
@@ -1178,7 +1230,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1307,62 +1359,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp",
       "publishedDateTime": "2021-03-08T09:22:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-white-house-partners-with-social-media-influencers-to-pitch-biden-policies.md",
-      "title": "White House partners with social media influencers to pitch Biden policies",
-      "excerpt": "The White House is partnering with social media influences to pitch President Biden's policies and proposals, including the American Rescue Plan, pioneering what officials are calling a \"digital media tour\" amid the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lJmh6DwrM_o/white-house-social-media-influencers-biden-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lJmh6DwrM_o/white-house-social-media-influencers-biden-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 233,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp",
-      "publishedDateTime": "2021-03-08T08:51:31-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

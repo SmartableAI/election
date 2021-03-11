@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "This is the Biden way to get things done"
+    excerpt: "There's a story President Joe Biden likes to tell about himself.\n    \n"
+    publishedDateTime: 2021-03-11T14:10:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5m--FVyBtuI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/president-biden-way-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/president-biden-way-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310223431-joe-biden-0308-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "R+j7FqDEifqIeF9Fu5p1MkGppUMa2r4jEU/gNbFcB5Hd3JTBjbBWzrpERACHZVHJe5DgB0aAQomX7zb/D6oGGGX6DWV/E/n9VZ+3ULm43fmlJtFVW1j0fyGCN1Dd6nX/KX+135l3Ep08wiKGBKndizzvmAdRlupb0Jhzi8VwI0cIYgsQVEDvlulbnfsGD3hY4j7PYLpDVWz43h/9EnkUG8lc8a1TBdqimpyue3E+s0mhy6PEpDtLUMxbOcHWYApj80JVV4pYgdA5MHOQlJ6J6iWN6on0B94EOO68OUR17F2EQSFaVSsX3GMIZhFs7sSbMkFIkabqLSMYE5QQwxy2tkAbXCH/LEQdnxrMAPpmHNM=;tPtBh78+n0oEf8E9c4nZJQ=="
 ---

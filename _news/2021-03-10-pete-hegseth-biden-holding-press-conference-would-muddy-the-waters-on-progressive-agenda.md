@@ -176,6 +176,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas congressman, ex-sheriff: Biden admin 'almost aiding and abetting' human trafficking"
+    excerpt: "The Biden administration is nearly “aiding and abetting in human trafficking” due to what is occurring at the southern border, Texas sheriff turned congressman Troy Nehls said on Thursday."
+    publishedDateTime: 2021-03-11T14:22:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ij7Ut9Dm8M/biden-border-crisis-human-trafficking-texas-nehls"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-human-trafficking-texas-nehls.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-trafficking-texas-nehls.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Psaki: Biden admin 'committed to fighting our hearts out' for Tanden, raising minimum wage"
     excerpt: "The Biden administration remains committed to \"fighting our hearts out\" for Budget Director pick Neera Tanden, Biden's press secrestary said Sunday."
     publishedDateTime: 2021-02-28T15:10:39Z

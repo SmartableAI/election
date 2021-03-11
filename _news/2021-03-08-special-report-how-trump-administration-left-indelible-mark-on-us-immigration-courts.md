@@ -39,6 +39,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "With Trump gone, QAnon groups focus fury on attacking coronavirus vaccines"
+    excerpt: "Conspiracy theories about covid and vaccines once ran rampant on the likes of Facebook, Twitter and YouTube. But months of purges of accounts that trafficked heavily in misinformation - especially after the baseless QAnon ideology helped fuel the Jan."
+    publishedDateTime: 2021-03-11T13:39:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/03/11/with-trump-gone-qanon-groups-focus-fury-attacking-covid-vaccines/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/03/11/with-trump-gone-qanon-groups-focus-fury-attacking-covid-vaccines/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/03/11/with-trump-gone-qanon-groups-focus-fury-attacking-covid-vaccines/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3BTY7OC3P4I6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "QAnon Already Turning Back on March 4 Theory as Day of Donald Trump Prophecy Arrives"
     excerpt: "Supporters of the radical conspiracy theory appear hesitant for yet another humiliation when Trump fails to return as president."
     publishedDateTime: 2021-03-04T09:58:00Z

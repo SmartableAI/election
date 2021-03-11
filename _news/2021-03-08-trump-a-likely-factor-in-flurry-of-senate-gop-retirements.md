@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-senate-republican-retirements
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-senate-republican-retirements.amp"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jane-Timken.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Maddow: GOP Fixates On Pop Culture War Issues As Trump Hijacks Party Fundraising"
+    excerpt: "Rachel Maddow looks at the bizarre fight between Donald Trump and the Republican Party in which Trump won't allow the party to use his name and insists that fundraising be done through his personal PAC, as Republican politicians focus on Mr. Potato Head ..."
+    publishedDateTime: 2021-03-11T14:43:00Z
+    webUrl: "https://www.realclearpolitics.com/video/2021/03/11/maddow_gop_fixates_on_pop_culture_war_issues_as_trump_hijacks_party_fundraising.html"
+    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/11/maddow_gop_fixates_on_pop_culture_war_issues_as_trump_hijacks_party_fundraising.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/11/maddow_gop_fixates_on_pop_culture_war_issues_as_trump_hijacks_party_fundraising.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 80
+    images:
+      - url: "https://assets.realclear.com/images/52/525277.jpg"
+        width: 1148
+        height: 860
         isCached: true
   - title: "GOP Rep. Adam Kinzinger On Taking On Trump: \"It Could Be A Kamikaze Mission\" Or It Could Save The GOP"
     excerpt: "CNN's Jeff Zeleny speaks to Rep. Adam Kinzinger, an outspoken critic of former President Trump, about some of the backlash he has received since voting to impeach Trump and his political future. \"It could be a kamikaze mission,"
