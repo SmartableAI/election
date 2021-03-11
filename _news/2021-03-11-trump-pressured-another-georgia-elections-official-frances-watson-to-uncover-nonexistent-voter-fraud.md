@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump pressured Georgia elections official to find evidence of voter fraud in call"
-excerpt: "Georgia told an elections investigator that they would be a \"national hero\" if they found evidence of elections fraud."
-publishedDateTime: 2021-01-10T12:39:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-georgia-call-pressured-voter-fraud-evidence/"
-webUrl: "https://www.cbsnews.com/news/trump-georgia-call-pressured-voter-fraud-evidence/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
+title: "Trump pressured another Georgia elections official, Frances Watson, to uncover nonexistent voter fraud"
+excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump urged a Georgia elections official to uncover nonexistent evidence of mass fraud before the \"very important date\" of ..."
+publishedDateTime: 2021-03-11T01:27:00Z
+originalUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3"
+webUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3"
+ampWebUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3?amp"
 type: article
-quality: 134
-heat: 414
-published: true
+quality: 124
+heat: -1
+published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/09/28ff4c1d-ff72-4ad1-b599-27fb6ce09176/thumbnail/1200x630/a22a0c37ad809d8a94173ed49081b6cf/gettyimages-1287973454.jpg"
+  - url: "https://i.insider.com/60496cb2f196be0018beec00?width=1200&format=jpeg"
     width: 1200
-    height: 630
+    height: 600
     isCached: true
 
 related:
+  - title: "Trump pressured Georgia elections official to find evidence of voter fraud in call"
+    excerpt: "Georgia told an elections investigator that they would be a \"national hero\" if they found evidence of elections fraud."
+    publishedDateTime: 2021-01-10T12:39:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-georgia-call-pressured-voter-fraud-evidence/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 134
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/09/28ff4c1d-ff72-4ad1-b599-27fb6ce09176/thumbnail/1200x630/a22a0c37ad809d8a94173ed49081b6cf/gettyimages-1287973454.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "U.S. Senate rejects Trump allies' objection to Arizona presidential election results"
     excerpt: "The U.S. Senate on Wednesday night overwhelmingly rejected a move by allies of President Donald Trump to object to Arizona's certification of its presidential election results that awarded Democrat Joe Biden the victory,"
     publishedDateTime: 2021-01-07T08:29:00Z
@@ -110,22 +126,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Trump pressured another Georgia elections official, Frances Watson, to uncover nonexistent voter fraud"
-    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump urged a Georgia elections official to uncover nonexistent evidence of mass fraud before the \"very important date\" of ..."
-    publishedDateTime: 2021-03-11T01:27:00Z
-    webUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
-    images:
-      - url: "https://i.insider.com/60496cb2f196be0018beec00?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Cozying up to Trump may have hurt Perdue and Loeffler in the Georgia run-off"
     excerpt: "Already, recriminations are flying about what Loeffler and Perdue might have done wrong. Our research suggests that they made one crucial error: aligning themselves with Donald Trump. In an effort to turn out their base,"
@@ -252,6 +252,6 @@ related:
         height: 661
         isCached: true
 
-secured: "8w0X3SUOXzVBvHJZBKPKUzcD0A6fYig4D+CIn5swECWj9yIiHqpc9Y42EAzIHhAQkaC4zvi9483TMruC1P5dZIxklkS7FhqXvul4hB675Kkrs1OicRitiwlpPNcFUMRPuBlantk6l7aEmOu9+gTLYAemHucdEz+TJfAl5elE3fTbFwIodqTiu1QS+XGJbOoWAn/efi6CSQFhjOVkDfQkkzlsrDZupvsfP+SN3OZ3uIZEQc3aLWfYkYB6UASfr82ROcNQTS+Qp8Nn54uBFkzP8+IyMO/L0HmS6cg0yRHvacsUhyL4kuSyV9CDGewurGUyNL1wbcBw+UfIOucTRAjjno09moXQjqMpOEzuM8iTqcw=;JMwu7dmCEWertRZ8/tnB0g=="
+secured: "c76NM4Pv/jE8RR+OUPJsqVIjNYsx3DVFGT2fUCO1bV+gkvs6ciw1OsmBQwNABNZ8gC36BOEc/w/E3czp1lhdIRp8oLxj9G0ojLwWcX9kbpUUAusjAObkPU8/6uUosM+6q3toR3N6U5cBGVhzbjLjVC7PMdMIMvUY99FvmqknrG1r127MKPo2bZl2Wf/IhSa/+0uk1A5xdO9FGHyylPhF4xYVpMMEb0O0+u6VCfaqXEw+ffIMMl4ISyCIAA/A3IrQOwvhWT96AAG9gOKTqEt+ktjwt2pEqXErFxnLcVwKc219wcPxPPBNQzaxgDYs1kBMwujPgnoGomTe/pAj4XTJJEg7VQZEnEVhDwrCnIa3S60=;FvyEbjCFRok4zg+7gnFZUg=="
 ---
 

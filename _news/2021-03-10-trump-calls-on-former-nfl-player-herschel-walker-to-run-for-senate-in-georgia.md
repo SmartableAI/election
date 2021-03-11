@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-former-nfl-player-herschel-wa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp"
 type: article
 quality: 172
-heat: 192
+heat: 212
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Herschel-Walker-Donald-Trump.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Trump Call to Georgia Lead Investigator Reveals New Details"
+    excerpt: "Photo: Associated Press/Brynn Anderson/STAR MAX (Video from 1/3/21) ATLANTA—Then-President Donald Trump urged the chief investigator of the Georgia Secretary of State’s office to look for fraud during an audit of mail-in ballots in a suburban Atlanta ..."
+    publishedDateTime: 2021-03-11T02:26:00Z
+    webUrl: "https://www.wsj.com/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561"
+    ampWebUrl: "https://www.wsj.com/amp/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/recording-of-trump-phone-call-to-georgia-lead-investigator-reveals-new-details-11615411561"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 135
+    images:
+      - url: "https://images.wsj.net/im-309890/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "vVe8RUP4eyx7R49pQUgnrVXON9c4l5i3GdDEsRPfrGihT21/ynACriUNXI1LgwSROyUjTBLbost8x0bxXbmIEGSs5MPCvQaTCdi9QEdUu09d/HM7uBBEkiN1kF+CfVFN4Josm0CV72cKyLp0aT/E4ElTqzOcWj0i7Bu4FqD+ANAcy2SR9ktGA8WKdVClXTWgHSCXjyVytyo6mshppy3YvHbl4TqbJuSERbJaqG18uqDPOlElZGsC5Wcnkr4/Y0v7TuFnnYOb9S9/8ktu2opx9+lA9u5GXT2HXNYlixH5iTVOvZ1ElK/wRL1bwiz/Oq0KXBrva6undNeCeIFBgbHXni2DODAvpnr7Q5CZFcVoMjE=;Q4ft52wTr+wtUZL7Njx5TQ=="

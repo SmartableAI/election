@@ -167,6 +167,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-11-trump-insists-something-bad-happened-with-ga-election-in-call-with-investigator-wsj.md",
+      "title": "Trump insists 'something bad happened' with Ga. election in call with investigator: WSJ",
+      "excerpt": "On Location: March 10, 2021 In a December phone call with the chief investigator in Secretary of State Brad Raffensperger's office, former President Donald Trump insisted he won Georgia's ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 252,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/donald-trump-raffensperger-georgia-election-01-gty-llr-210310_1615421935733_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706",
+      "publishedDateTime": "2021-03-10T17:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-trump-takes-credit-for-china-virus-vaccine-i-hope-everyone-remembers.md",
       "title": "Trump takes credit for 'china virus' vaccine: 'I hope everyone remembers!'",
       "excerpt": "Former President Trump touted his administration's efforts obtaining a COVID-19 vaccine, arguing that without him, Americans wouldn't receive a vaccine for years.",
@@ -291,7 +343,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 192,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -447,21 +499,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-11-trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe.md",
-      "title": "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe",
-      "excerpt": "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U.",
+      "path": "_news/2021-03-11-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the-right-answer.md",
+      "title": "Trump told Ga. investigator he won the state: 'You'll be praised' for 'the right answer'",
+      "excerpt": "New audio obtained by The Wall Street Journal shows then-President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF",
+      "webUrl": "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the",
+      "originalUrl": "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 116,
       "tags": null,
       "images": [
         {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554431647&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291FE",
-          "width": 837,
-          "height": 545,
+          "url": "https://thehill.com/sites/default/files/trumpdonald_041819gn7_lead.jpg",
+          "width": 980,
+          "height": 551,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -469,16 +521,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B22DF",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22DF",
-      "publishedDateTime": "2021-03-10T13:26:00-08:00",
+      "ampWebUrl": "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the?amp",
+      "publishedDateTime": "2021-03-10T14:52:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1220,7 +1272,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1197,
+      "heat": 1217,
       "tags": null,
       "images": [
         {
@@ -1293,62 +1345,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/09/politics/trump-mail-in-ballot-voting-florida/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/trump-mail-in-ballot-voting-florida/index.html",
       "publishedDateTime": "2021-03-09T16:36:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-this-gop-senator-slammed-trumpism-on-his-way-out-the-door.md",
-      "title": "This GOP senator slammed Trumpism on his way out the door",
-      "excerpt": "Missouri Republican Sen. Roy Blunt said something on Monday -- following his surprise retirement announcement -- that is worth paying attention to as we continue to monitor the control that former President Donald Trump continues to exert over his party.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2JHbBm5ND4A/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2JHbBm5ND4A/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210308105156-01-roy-blunt-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/09/politics/roy-blunt-retire-slam-trumpism/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/roy-blunt-retire-slam-trumpism/index.html",
-      "publishedDateTime": "2021-03-09T15:33:43-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

@@ -27,97 +27,67 @@ images:
     isCached: true
 
 related:
-  - title: "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration"
-    excerpt: "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4."
-    publishedDateTime: 2021-03-05T12:35:00Z
-    webUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028"
-    ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
+  - title: "Trump insists 'something bad happened' with Ga. election in call with investigator: WSJ"
+    excerpt: "On Location: March 10, 2021 In a December phone call with the chief investigator in Secretary of State Brad Raffensperger's office, former President Donald Trump insisted he won Georgia's ..."
+    publishedDateTime: 2021-03-11T01:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 132
     images:
-      - url: "https://d.newsweek.com/en/full/1750168/q.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-raffensperger-georgia-election-01-gty-llr-210310_1615421935733_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "QAnon Already Turning Back on March 4 Theory as Day of Donald Trump Prophecy Arrives"
-    excerpt: "Supporters of the radical conspiracy theory appear hesitant for yet another humiliation when Trump fails to return as president."
-    publishedDateTime: 2021-03-04T09:58:00Z
-    webUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690"
-    ampWebUrl: "https://www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march-4-trump-president-inaugruation-1573690?amp=1"
+  - title: "RICO expert hired by prosecutor investigating Trump call"
+    excerpt: "An expert on Georgia’s racketeering law was sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general"
+    publishedDateTime: 2021-03-10T20:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/rico-expert-hired-prosecutor-investigating-trump-call-76365315"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/rico-expert-hired-prosecutor-investigating-trump-call-76365315"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/rico-expert-hired-prosecutor-investigating-trump-call-76365315"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1748238/qanon.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a14525caea44439b8b26150f17cda535_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Donald Trump Greeted by Lone Supporter and Angry Protesters As He Returns to New York"
-    excerpt: "Protesters gathered outside the building calling for his arrest on Monday morning with signs that read, \"Florida Man Go Home,\" \"Indict Trump\" and \"Arrest Trump.\""
-    publishedDateTime: 2021-03-08T22:33:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-greeted-lone-supporter-angry-protesters-he-returns-new-york-1574618?amp=1"
+  - title: "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe"
+    excerpt: "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U."
+    publishedDateTime: 2021-03-10T21:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B22DF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22DF"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
+      name: Reuters
+      domain: reuters.com
+    quality: 120
     images:
-      - url: "https://d.newsweek.com/en/full/1751781/donald-trump-suv.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554431647&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291FE"
+        width: 837
+        height: 545
         isCached: true
-  - title: "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump"
-    excerpt: "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,"
-    publishedDateTime: 2021-03-04T21:28:00Z
-    webUrl: "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/"
+  - title: "Georgia criminal investigation into former President Trump reaches grand jury phase"
+    excerpt: "A criminal investigation in Georgia is looking into former President Trump's alleged attempt to overturn the state's election results, and last week two grand juries convened in Fulton County, potentially giving prosecutors the opportunity to issue subpoenas for documents and witnesses."
+    publishedDateTime: 2021-03-09T00:38:00Z
+    webUrl: "https://www.cbsnews.com/video/georgia-criminal-investigation-former-president-trump-grand-jury/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 105
+    quality: 99
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg"
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/09/154eeb3b-1d5e-4ec1-bd1a-9d8cb6c931a6/thumbnail/1200x630/83434c3e370309035494b98f0d80c2a5/cbsn-fusion-georgia-criminal-investigation-into-former-president-trump-reaches-grand-jury-phase-thumbnail-663449-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "She voted for Obama and died for Trump. How QAnon turned Ashli Babbitt, an Iraq veteran, into a domestic 'terrorist.'"
-    excerpt: "Capitol rioter Ashli Babbitt believed QAnon was \"a movement against evil in the world\" and died fighting for the Trump-condoned conspiracy."
-    publishedDateTime: 2021-03-10T14:15:00Z
-    webUrl: "https://www.businessinsider.com/ashli-babbitt-profile-capitol-riot-qanon-death-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 82
-    images:
-      - url: "https://i.insider.com/603fef822dc9010018355397?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Video Shows Johnny Damon’s DUI Arrest, Mentioning Donald Trump Support"
-    excerpt: "Video of Johnny Damon’s arrest last month on a DUI charge in Florida has been released. The former MLB star and his wife can be seen involved in a verbal altercation with police before they are put in handcuffs."
-    publishedDateTime: 2021-03-10T20:03:00Z
-    webUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794"
-    ampWebUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/10/gettyimages-1203414124.jpg"
-        width: 1200
-        height: 949
         isCached: true
   - title: "Pentagon Says Trump Interfered With Investigation Into Rep. Ronny Jackson's Abuse Of Subordinates"
     excerpt: "Jackson is accused of dozens of improprieties, including commenting on a female subordinate's body and drunkenly harassing her."
@@ -135,15 +105,15 @@ related:
         width: 594
         height: 396
         isCached: true
-  - title: "Special Report: How Trump Administration Left Indelible Mark on U.S. Immigration Courts"
-    excerpt: "The Trump administration revised hiring for immigration judges to allow temporary appointments before background investigations were completed and gave the EOIR director more cont"
-    publishedDateTime: 2021-03-08T12:11:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-08/special-report-how-trump-administration-left-indelible-mark-on-us-immigration-courts"
+  - title: "RICO Expert Hired by Prosecutor Investigating Trump Call"
+    excerpt: "An expert on Georgia’s racketeering law was set to be sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general election."
+    publishedDateTime: 2021-03-10T11:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-10/rico-expert-hired-by-prosecutor-investigating-trump-call"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 27
+    quality: 35
 
 secured: "AG53D+wtAELvyONT7MaglOTqNdzwpibdfvY3M7HGNF4On1Qid33kkvmW/zmopNqqoUNYOKArny2RQnN2ef1o3hlameiXF1CEB/bEEJOHel4/X6ujdmhSmsX0wGUbRAfA8MObBDs+KKPJ/62/zayzxq4eAMVWcWyiHwjZSO+tw8i95WwcBrVpWZtihj/KjarDj1b3K4kSGRdtwXSiAxgwIizNSeP0I2b/Kve5UQoEfQ23poBo4mFYckB2npqDx3pyw+PQJr2UNyfaG662XhHV1LYXobxo5vWtRbfIsgFnn1wGZAUGKagYvQiy25/sbN5Xsfsn8n4HI10+f0mFYhXgWW8T6m6T850CvCCAXRVh6l9T76cAab4w9rMrHUk8e1tsf61Tg9CQncku/W3nTGVN0KjzNoGszrUJLObK0xP/CeRdzuWOIJQa5BXShQVoQbJzSEhwygM+VzqP4O3pS8qZkt4dBvxVXB11TvTtwzc/S2RqYZ1X8Qkqgy4NyhUFSUYzNNEJ7bZuLM1YYFh3mYuVpw==;VZDAoTq5fQ+3NGP6FQcOQg=="
 ---

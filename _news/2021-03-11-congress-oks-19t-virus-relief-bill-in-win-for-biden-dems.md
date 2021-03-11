@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden's $1.9 trillion COVID-19 bill moves toward final approval in House"
-excerpt: "WASHINGTON (Reuters) - President Joe Biden was poised on Wednesday for his first major legislative victory, as the House of Representatives moved toward final approval of his $1.9 trillion COVID-19 relief bill, which forecasters predict will turbocharge ..."
-publishedDateTime: 2021-03-10T14:31:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2B215E"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2B215E"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B215E"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B215E"
+title: "Congress OKs $1.9T virus relief bill in win for Biden, Dems"
+excerpt: "A Congress riven along party lines has approved the landmark $1.9 trillion COVID-19 relief bill, as President Joe Biden and Democrats claimed a major triumph on legislation marshaling the government’s spending might against twin pandemic and economic crises that have upended a nation."
+publishedDateTime: 2021-03-11T05:36:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
+webUrl: "https://abcnews.go.com/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
 type: article
-quality: 124
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554386064&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH290O1"
-    width: 819
-    height: 545
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4029e4602f924898974b1bd9341a3be7_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -255,22 +255,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Congress OKs $1.9T virus relief bill in win for Biden, Dems"
-    excerpt: "A Congress riven along party lines has approved the landmark $1.9 trillion COVID-19 relief bill, as President Joe Biden and Democrats claimed a major triumph on legislation marshaling the government’s spending might against twin pandemic and economic crises that have upended a nation."
-    publishedDateTime: 2021-03-11T05:36:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_4029e4602f924898974b1bd9341a3be7_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
     publishedDateTime: 2021-03-04T12:33:00Z
@@ -286,6 +270,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/7871561baf29d41f794c57e18dbc46cc9e3cb8c9/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4fe8abbe3d64db734907fbdda6dc55a9"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden's $1.9 trillion COVID-19 bill moves toward final approval in House"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden was poised on Wednesday for his first major legislative victory, as the House of Representatives moved toward final approval of his $1.9 trillion COVID-19 relief bill, which forecasters predict will turbocharge ..."
+    publishedDateTime: 2021-03-10T14:31:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2B215E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B215E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B215E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554386064&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH290O1"
+        width: 819
+        height: 545
         isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
@@ -864,6 +864,6 @@ related:
         height: 675
         isCached: true
 
-secured: "0ewpnUr4Rc93FMFxVqf4xjV27xlHcBF3mSdTKGtrSsU8yyWcIUR0pXFAkr5J3PFvhpduf6c+tU/sLegz5SKO7cneTD4AtdOA0l/TftOqmVhlWIhZXKLfJpQv/F76gZSXh8h+sLM/qPg1LvQOCd38LKzbAZyZYgqbm/iAoV869JjX1nzlvh1dk/x/2rJij4JxtpcW2u5lsuXWEJmZl8AocxonUXuAGV0pHxAJD2/SAZ+vW1ils8QLSdSBMrd8f4NFl9j0etTU0eKu6Jxhf7iXbDKx+ksxV1f71pA3DGeC5PYW7qBSqqoDn7/IKH21fQpUpcsVXBcy94O8rAWBr3e3/AEB+uMabSMrtWjBT0Xht7fpGHU06Gltnxvef3BYUi0Ftw7ksGtax6QranvU+bxYkhiYMuwyQIwHyzn0IKYhYTbScS+WpJIC+7BVdDiwYH0Tc4+d1s3sFN4NTNBu5xmXfgyyO3l/5kEDexFf+gqWNZwGCsUUpmMEXD7scHli7UGqmcYUxFc2L6qaigFZDo9KdA==;NKiBrUzsbj0rucxjuJjq2g=="
+secured: "X9UEyw6hXoE0V2wcjrTZfUSKMizNVCWl+IURYP176CbnJwNE3i3oB42bsfVEYGVNv+SnyMDr7o4gF4yNwYgYntOQJgrlDHQxflMSJibuku8qDC+v05TfofWuYYBQOilzizsTq1l6xbhDPLdlNIkLVCvvqNbgcX9iLLEASSn+QUGmqM7Rl6a3BAnn3Y7PmNQEJFmokioe9w/7trhOLKdeWaVpWK9lfKcJQ74F/Fl30lLbs0TTABYewt7brlyQekVt49gibrxMgU5LmczLirvw7Xq5Iojj2lnjJCTyh9KA2/KAoPkIbbFHVZJDfHfJJ8K5hOIWP7Y4UiLLids+jzMEwZ2/zHy7pM9etYmOl86xw3s=;9OkbWX/ilHkSZhkzPyNjVQ=="
 ---
 

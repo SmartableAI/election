@@ -2,6 +2,63 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-09-pence-will-make-his-first-speech-since-leaving-office.md",
+      "title": "Pence will make his first speech since leaving office.",
+      "excerpt": "The former vice president left Washington on the outs with former President Donald J. Trump, and his speech next month will be scrutinized for hints of his political future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/08/us/politics/08new-was-pence-sub/08new-was-pence-sub-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/pence-speech.amp.html",
+      "publishedDateTime": "2021-03-08T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-pence-to-deliver-first-post-vp-speech-in-south-carolina-as-he-eyes-political-future.md",
       "title": "Pence to deliver first post-VP speech in South Carolina as he eyes political future",
       "excerpt": "Former Vice President Mike Pence will head to South Carolina next month to deliver his first public address since the end of the Trump administration.",
@@ -1203,7 +1260,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -1276,62 +1333,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp",
       "publishedDateTime": "2021-03-05T11:50:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-psaki-says-biden-isnt-snubbing-congress-by-postponing-joint-address.md",
-      "title": "Psaki says Biden isn't 'snubbing' Congress by postponing joint address",
-      "excerpt": "White House press secretary Jen Psaki on Friday said President Biden is not \"snubbing\" Congress by delaying his joint address, pointing to the coronavirus pandemic and saying the administration has been \"engaged closely\" with congressional leadership regarding their plans.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UIlkIJqHs5c/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UIlkIJqHs5c/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp",
-      "publishedDateTime": "2021-03-05T11:44:46-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

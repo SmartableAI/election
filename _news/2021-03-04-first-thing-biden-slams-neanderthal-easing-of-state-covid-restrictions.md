@@ -255,6 +255,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Congress OKs $1.9T virus relief bill in win for Biden, Dems"
+    excerpt: "A Congress riven along party lines has approved the landmark $1.9 trillion COVID-19 relief bill, as President Joe Biden and Democrats claimed a major triumph on legislation marshaling the government’s spending might against twin pandemic and economic crises that have upended a nation."
+    publishedDateTime: 2021-03-11T05:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/congress-oks-19t-virus-relief-bill-win-biden-76382188"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_4029e4602f924898974b1bd9341a3be7_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden's $1.9 trillion COVID-19 bill moves toward final approval in House"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden was poised on Wednesday for his first major legislative victory, as the House of Representatives moved toward final approval of his $1.9 trillion COVID-19 relief bill, which forecasters predict will turbocharge ..."
     publishedDateTime: 2021-03-10T14:31:00Z

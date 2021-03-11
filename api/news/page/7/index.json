@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-02-biden-to-announce-merck-will-work-with-johnson-johnson-to-manufacture-coronavirus-vaccine.md",
+      "title": "Biden to announce Merck will work with Johnson & Johnson to manufacture coronavirus vaccine",
+      "excerpt": "President Joe Biden is expected to announce Tuesday that Merck & Co. will partner with Johnson & Johnson to help manufacture the company's coronavirus vaccine, administration officials familiar with the matter confirmed to CNN.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qnkKriE8GOI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qnkKriE8GOI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301193858-biden-meeting-0301-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/02/politics/biden-merck-johnson--johnson-vaccine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/biden-merck-johnson--johnson-vaccine/index.html",
+      "publishedDateTime": "2021-03-02T06:16:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-02-homan-fires-back-after-biden-dhs-secretary-slams-trump-immigration-policies-dont-tell-me-about-compassion.md",
       "title": "Homan fires back after Biden DHS secretary slams Trump immigration policies: ‘Don't tell me about compassion’",
       "excerpt": "The Biden administration's immigration policies are not as compassionate as they are making it out to be, former ICE Director Tom Homan said on Tuesday.",
@@ -1285,63 +1341,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-trump-wins-cpac-straw-poll-with-ron-desantis-winning-a-second-one.md",
-      "title": "Trump Wins CPAC Straw Poll, with Ron DeSantis Winning a Second One",
-      "excerpt": "The Conservative Political Action Conference, made up largely of far-right Trump supporters, held two 2024 presidential polls: One with a potential field that included Mr. Trump, and one without him.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/28/us/politics/28cpac-strawpollHFO-d/28cpac-strawpollHFO-d-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/28/us/politics/cpac-straw-poll-2024-presidential-race.amp.html",
-      "publishedDateTime": "2021-02-28T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

@@ -125,6 +125,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Trump pressured another Georgia elections official, Frances Watson, to uncover nonexistent voter fraud"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump urged a Georgia elections official to uncover nonexistent evidence of mass fraud before the \"very important date\" of ..."
+    publishedDateTime: 2021-03-11T01:27:00Z
+    webUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/60496cb2f196be0018beec00?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Cozying up to Trump may have hurt Perdue and Loeffler in the Georgia run-off"
     excerpt: "Already, recriminations are flying about what Loeffler and Perdue might have done wrong. Our research suggests that they made one crucial error: aligning themselves with Donald Trump. In an effort to turn out their base,"
     publishedDateTime: 2021-01-10T22:36:00Z

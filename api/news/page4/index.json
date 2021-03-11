@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-05-psaki-says-biden-isnt-snubbing-congress-by-postponing-joint-address.md",
+      "title": "Psaki says Biden isn't 'snubbing' Congress by postponing joint address",
+      "excerpt": "White House press secretary Jen Psaki on Friday said President Biden is not \"snubbing\" Congress by delaying his joint address, pointing to the coronavirus pandemic and saying the administration has been \"engaged closely\" with congressional leadership regarding their plans.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UIlkIJqHs5c/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UIlkIJqHs5c/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 475,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp",
+      "publishedDateTime": "2021-03-05T11:44:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-rep-eric-swalwell-sues-trump-over-jan-6-riot-alleging-he-poses-risk-of-inciting-future-political-violence.md",
       "title": "Rep. Eric Swalwell sues Trump over Jan. 6 riot, alleging he poses risk of ‘inciting future political violence’",
       "excerpt": "California representative, a House impeachment manager and Democratic leader, files suit against Trump, Trump Jr., Giuliani and Rep. Mo Brooks.",
@@ -397,7 +453,7 @@
       "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 283,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -505,7 +561,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1306,54 +1362,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-donald-trump-lists-oceanfront-palm-beach-mansion-for-49-million.md",
-      "title": "Donald Trump lists oceanfront Palm Beach mansion for $49 million",
-      "excerpt": "A company registered to Donald Trump and his family is selling their Palm Beach oceanfront abode for a whopping $49 million.  The estate sits right next door to Trump’s Mar-a-Lago club,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/",
-      "originalUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/mansion-.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/amp/",
-      "publishedDateTime": "2021-03-04T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

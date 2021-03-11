@@ -1,20 +1,22 @@
 ---
 category: news
-title: "RICO Expert Hired by Prosecutor Investigating Trump Call"
-excerpt: "An expert on Georgia’s racketeering law was set to be sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general election."
-publishedDateTime: 2021-03-10T11:28:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-03-10/rico-expert-hired-by-prosecutor-investigating-trump-call"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-03-10/rico-expert-hired-by-prosecutor-investigating-trump-call"
+title: "Trump insists 'something bad happened' with Ga. election in call with investigator: WSJ"
+excerpt: "On Location: March 10, 2021 In a December phone call with the chief investigator in Secretary of State Brad Raffensperger's office, former President Donald Trump insisted he won Georgia's ..."
+publishedDateTime: 2021-03-11T01:12:00Z
+originalUrl: "https://abcnews.go.com/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
+webUrl: "https://abcnews.go.com/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
 type: article
-quality: 35
-heat: -1
-published: false
+quality: 132
+heat: 252
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -22,23 +24,13 @@ topics:
   - Election
   - Donald Trump
 
+images:
+  - url: "https://s.abcnews.com/images/Politics/donald-trump-raffensperger-georgia-election-01-gty-llr-210310_1615421935733_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
 related:
-  - title: "Trump insists 'something bad happened' with Ga. election in call with investigator: WSJ"
-    excerpt: "On Location: March 10, 2021 In a December phone call with the chief investigator in Secretary of State Brad Raffensperger's office, former President Donald Trump insisted he won Georgia's ..."
-    publishedDateTime: 2021-03-11T01:12:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 132
-    images:
-      - url: "https://s.abcnews.com/images/Politics/donald-trump-raffensperger-georgia-election-01-gty-llr-210310_1615421935733_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "RICO expert hired by prosecutor investigating Trump call"
     excerpt: "An expert on Georgia’s racketeering law was sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general"
     publishedDateTime: 2021-03-10T20:53:00Z
@@ -117,7 +109,16 @@ related:
         width: 594
         height: 396
         isCached: true
+  - title: "RICO Expert Hired by Prosecutor Investigating Trump Call"
+    excerpt: "An expert on Georgia’s racketeering law was set to be sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general election."
+    publishedDateTime: 2021-03-10T11:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-10/rico-expert-hired-by-prosecutor-investigating-trump-call"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
-secured: "lw3huwFzqvLWRSzmC48T3FBeqlij5/hHrrvWZUPaB7JjJF0SMQ+DbSHyxOWc+EpiqJgeHdqMGOPYGOstaafHhRfA/cwzzdAgHWqHhs3Ee4fStZudp8BB8b9FYeRMA8OxTNTfYCK5ncaRF1gQVdAmtxnam2Ljmwi4x0j5SK8zqFwTIvIL3rSZwOlGnROvZ8gtERUcyBqTeDwJ1hfSUuopzTJQ+sKwKyfVe6d7iD0c7N8NueUA1IQV6TRSWBkKY68r4NDHsDZ2GMtHOULx7r2NlK/gqUfygKmq6a8oHCT5VMCHKuK9xW5BQ5LexxF08BuXNN2GW3JcrL8ahE5uENXOPqUTqgICpLIiBCNEeV2Bv0O25yqkGbXwQrXkvSd5BcZWpiOzvUfpbPSkTB7zrHuJzHoGHg8X0yq9ffzKyMkVyBxU0xWxyWJZjCoOOZMQPE9la58C9OAX8MUYSzgO8q3v8C3hBRUGnkBTNIFjfYlT2WxwREPgRAO740tPMWTUENBq0N/dZjxoqPIqCXzqrzvjVQ==;I4bsFz7QYdDNC8qCvgGKiQ=="
+secured: "0RMrMnpyCcU9ZxYrjTNCisfkJBqCu+6BRr4qRq7mRZrpevwYgAoI+wC9pJ8XK5+sRlQpK9QfBLMJ6klnlCun3NKec5/BxdiWjRGVmc63gUmqkReLpdun0WVsRIXHvDxp25W3cOYYzOVaLs20PIivvN9n4lPV24iVhLytGBHq/KjJUq5369ikT682BW3XQnLEbHQ4u97qRKcz2KuP8KYSQdn2+KHvNn5+srxZQJ0coildpSZ/GBmG7vReqmSPB1Ea7w3GaW6o6IxMZMEpTXysKopAdKJk++umdVeCTOKsjSrGwcTN0q1ilJjg/md+UGk37Jf5TMkjLf4aGabr/wr/Awhf6o/3EBOe0rfxiMGEZY4=;aIYEwhxU49jU0EKV0rZmkA=="
 ---
 

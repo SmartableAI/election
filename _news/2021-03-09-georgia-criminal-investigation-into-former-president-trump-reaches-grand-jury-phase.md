@@ -29,118 +29,95 @@ images:
     isCached: true
 
 related:
-  - title: "Georgia GOP leaders who stood up to Trump back voting bills"
-    excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud"
-    publishedDateTime: 2021-03-05T10:21:00Z
-    webUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+  - title: "Trump insists 'something bad happened' with Ga. election in call with investigator: WSJ"
+    excerpt: "On Location: March 10, 2021 In a December phone call with the chief investigator in Secretary of State Brad Raffensperger's office, former President Donald Trump insisted he won Georgia's ..."
+    publishedDateTime: 2021-03-11T01:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 132
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/donald-trump-raffensperger-georgia-election-01-gty-llr-210310_1615421935733_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Lindsey Graham describes the GOP as a hostage to Trump"
-    excerpt: "Lindsey O. Graham’s relationship with former president Donald Trump has contained multitudes. He was arguably Trump’s biggest critic on the 2016 debate stage, saying that nominating Trump would deservedly destroy the party,"
-    publishedDateTime: 2021-03-08T14:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/?outputType=amp"
+  - title: "RICO expert hired by prosecutor investigating Trump call"
+    excerpt: "An expert on Georgia’s racketeering law was sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general"
+    publishedDateTime: 2021-03-10T20:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/rico-expert-hired-prosecutor-investigating-trump-call-76365315"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/rico-expert-hired-prosecutor-investigating-trump-call-76365315"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/rico-expert-hired-prosecutor-investigating-trump-call-76365315"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/APLQKBDTCYI6XOFJXFDHKEHQ7Y.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://s.abcnews.com/images/Politics/WireAP_a14525caea44439b8b26150f17cda535_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Exclusive: Georgia prosecutor probing Trump taps leading racketeering attorney"
-    excerpt: "The district attorney investigating whether former U.S. President Donald Trump illegally interfered with Georgia’s 2020 election has hired an outside lawyer who is a national authority on racketeering,"
-    publishedDateTime: 2021-03-07T00:56:00Z
-    webUrl: "https://www.reuters.com/article/usa-election-georgia-racketeering-exclus-idINKBN2AZ01E"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2AZ01E"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AZ01E"
+  - title: "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe"
+    excerpt: "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U."
+    publishedDateTime: 2021-03-10T21:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B22DF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22DF"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 121
+    quality: 120
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553979283&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FB"
-        width: 816
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554431647&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291FE"
+        width: 837
         height: 545
         isCached: true
-  - title: "Roy Blunt’s exit highlights the Trump wing of the GOP’s big opportunity in 2022"
-    excerpt: "Roy Blunt’s (R-Mo.) surprise retirement announcement Monday means there are now five GOP senators calling it quits ahead of the 2022 midterms. That’s fully one-fourth of all members who were up for reelection,"
-    publishedDateTime: 2021-03-08T17:34:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/?outputType=amp"
+  - title: "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report"
+    excerpt: "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,"
+    publishedDateTime: 2021-03-04T10:33:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 121
+      name: New York Magazine
+      domain: nymag.com
+    quality: 71
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUPOLPDLF4I6RIZVYRID2BA6V4.jpg&w=1440"
-        width: 1440
-        height: 943
+      - url: "https://pyxis.nymag.com/v1/imgs/4e6/999/6d51cf8fb5705f6e1da184c5903f44cc19-GettyImages-1128135352.1x.rsocial.w1200.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Donald Trump Rebukes WSJ After Editorial Board Suggests the GOP Look Past His Presidency"
-    excerpt: "\"Fortunately, nobody cares much about The Wall Street Journal editorial anymore. They have lost great credibility,\" the former president said in a statement."
-    publishedDateTime: 2021-03-04T18:30:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864?amp=1"
+  - title: "Pentagon Says Trump Interfered With Investigation Into Rep. Ronny Jackson's Abuse Of Subordinates"
+    excerpt: "Jackson is accused of dozens of improprieties, including commenting on a female subordinate's body and drunkenly harassing her."
+    publishedDateTime: 2021-03-03T22:02:00Z
+    webUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764"
+    ampWebUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 62
     images:
-      - url: "https://d.newsweek.com/en/full/1749736/donald-trump-cpac-appearance-2021.jpg"
-        width: 3000
-        height: 2364
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/03/29/ronny-jackson.jpg"
+        width: 594
+        height: 396
         isCached: true
-  - title: "Trump sends cease-and-desist letter to GOP organizations to stop fundraising off his name"
-    excerpt: "The letter was sent to the Republican National Committee, the National Republican Congressional Committee and the National Republican Senatorial Committee, Trump advisers confirmed."
-    publishedDateTime: 2021-03-06T20:16:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/06/trump-sends-cease-and-desist-letter-gop-organizations-stop-fundraising-off-his-name/?outputType=amp"
+  - title: "RICO Expert Hired by Prosecutor Investigating Trump Call"
+    excerpt: "An expert on Georgia’s racketeering law was set to be sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general election."
+    publishedDateTime: 2021-03-10T11:28:00Z
+    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-10/rico-expert-hired-by-prosecutor-investigating-trump-call"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 116
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6AIMSXT6TUI6XDC6GLSHWQVVDM.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
-  - title: "GOP governors scorn pandemic restrictions as they compete for primacy in a pro-Trump party"
-    excerpt: "Texas Gov. Greg Abbott’s move this week to end the state’s mask mandate channeled the party’s rage against government restrictions."
-    publishedDateTime: 2021-03-05T15:00:00Z
-    webUrl: "https://www.washingtonpost.com/politics/texas-mask-mandate-abbott/2021/03/04/ceec92bc-7d12-11eb-b3d1-9e5aa3d5220c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/texas-mask-mandate-abbott/2021/03/04/ceec92bc-7d12-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/texas-mask-mandate-abbott/2021/03/04/ceec92bc-7d12-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GGCHKGT5FAI6XKLWYAUKIIK4PA.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "dBUYMB+VfOWo+IxJMGNPIuqB2Rs3SIAr38WVWDXseylPupVzKXwEZm2rw/AyeqpWGTcd6dsNnn0At0Q164MBduf7C2H3K38vvY1NvAhGmk0fzwA6/OoDdoMUKYQoeK53G6TqAe7ahQ4HhneeKQAztRwOP3xcB68hIeuHbr4m4TcwqqiQ+PBjCwnqQ/K5WnnCoQ6plVWD0oOZl7OY94xpF5Gt5HWQ5bRvHcUWUDMDA9P73UusZd+mWaBlymcAZwMzX3NryniFE1wK5Ppx0sbY4gvNAbVH79hJHDSuCTOsqqhR8nWyKXNjkNufSLNR5ZJa/3dqum48Jr23EvOM/C6Rxm24MHaIOr/saEUeXaPozfo=;dNXu1mm2vJ3RLZq6zeFIWw=="
 ---

@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-11-trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe.md",
-      "title": "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe",
-      "excerpt": "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U.",
+      "path": "_news/2021-03-11-trump-insists-something-bad-happened-with-ga-election-in-call-with-investigator-wsj.md",
+      "title": "Trump insists 'something bad happened' with Ga. election in call with investigator: WSJ",
+      "excerpt": "On Location: March 10, 2021 In a December phone call with the chief investigator in Secretary of State Brad Raffensperger's office, former President Donald Trump insisted he won Georgia's ...",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF",
-      "originalUrl": "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF",
+      "webUrl": "https://abcnews.go.com/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706",
+      "originalUrl": "https://abcnews.go.com/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": 252,
       "tags": null,
       "images": [
         {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554431647&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291FE",
-          "width": 837,
-          "height": 545,
+          "url": "https://s.abcnews.com/images/Politics/donald-trump-raffensperger-georgia-election-01-gty-llr-210310_1615421935733_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,16 +76,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B22DF",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22DF",
-      "publishedDateTime": "2021-03-10T13:26:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-insists-bad-happened-ga-election-call-investigator/story?id=76376706",
+      "publishedDateTime": "2021-03-10T17:12:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the-right-answer.md",
+      "title": "Trump told Ga. investigator he won the state: 'You'll be praised' for 'the right answer'",
+      "excerpt": "New audio obtained by The Wall Street Journal shows then-President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the",
+      "originalUrl": "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_041819gn7_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the?amp",
+      "publishedDateTime": "2021-03-10T14:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -327,7 +379,7 @@
       "originalUrl": "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1197,
+      "heat": 1217,
       "tags": null,
       "images": [
         {
@@ -1199,7 +1251,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 545,
+      "heat": 505,
       "tags": null,
       "images": [
         {
@@ -1360,7 +1412,7 @@
       "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
       "featuredContent": null,
       "highlight": null,
-      "heat": 283,
+      "heat": 243,
       "tags": null,
       "images": [
         {
@@ -1412,7 +1464,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 265,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1540,58 +1592,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-youtube-will-lift-ban-on-trump-channel-when-risk-of-violence-decreases-ceo.md",
-      "title": "YouTube will lift ban on Trump channel when risk of violence decreases: CEO",
-      "excerpt": "Alphabet Inc's YouTube will lift its suspension on former U.S. President Donald Trump's channel when it determines the risk of real-world violence has decreased, the company's CEO, Susan Wojcicki, said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-youtube-trump-suspension-idINKBN2AW2LI",
-      "originalUrl": "https://www.reuters.com/article/us-youtube-trump-suspension-idINKBN2AW2LI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH231FS",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2AW2LI",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AW2LI",
-      "publishedDateTime": "2021-03-04T16:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
