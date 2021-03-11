@@ -2,6 +2,172 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-12-raskin-trump-like-the-fire-chief-who-sends-the-mob.md",
+      "title": "Raskin: Trump 'Like the Fire Chief Who Sends the Mob'",
+      "excerpt": "Maryland Rep. Jamie Raskin, the lead impeachment manager, countered arguments made by Donald Trump's attorneys that the former president's words in the lead-up to the Jan. 6 assault on the Capitol qualify as protected speech.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/qrR4NJ5q0obo6LnUrbih",
+      "originalUrl": "https://www.wsj.com/livecoverage/trump-second-impeachment-trial-2021-02-11/card/qrR4NJ5q0obo6LnUrbih",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-298259?size=1.5",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T18:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-mike-pence-seen-sheltering-only-100-feet-from-insurrectionists-in-video-from-capitol-riots.md",
+      "title": "Mike Pence seen sheltering only 100 feet from insurrectionists in video from Capitol riots",
+      "excerpt": "Video from the riots in Washington, D.C. shows Vice President Mike Pence evacuating with his family as insurrectionists were 100 feet away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/videos/news/politics/2021/02/11/capitol-riot-footage-mike-pence-sheltering-insurrectionists-near/6728485002/",
+      "originalUrl": "https://www.usatoday.com/videos/news/politics/2021/02/11/capitol-riot-footage-mike-pence-sheltering-insurrectionists-near/6728485002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/11/USAT/4b88c8b2-1b2a-4058-953b-bc7bfef5f91b-Screen_Shot_2021-02-11_at_6.54.35_PM.jpg?quality=10",
+          "width": 854,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-11T16:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-02-11-military-officials-were-unaware-of-potential-danger-to-pences-nuclear-football-during-capitol-riot.md",
+      "title": "Military officials were unaware of potential danger to Pence's 'nuclear football' during Capitol riot",
+      "excerpt": "Military officials overseeing the authorization process to launch nuclear weapons were unaware on January 6 that then-Vice President Mike Pence's military aide carrying the \"nuclear football\" was potentially in danger as rioters got close during the violent Capitol insurrection, according to a defense",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oggkB_k4niw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oggkB_k4niw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 170,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210211153147-impeachment-manager-exhibit-pence-0106-footage-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/11/politics/military-officials-were-unaware-pence-nuclear-football-riot/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/11/politics/military-officials-were-unaware-pence-nuclear-football-riot/index.html",
+      "publishedDateTime": "2021-02-11T14:39:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-02-11-north-carolina-man-charged-with-threatening-president-biden.md",
       "title": "North Carolina man charged with threatening President Biden",
       "excerpt": "Prosecutors say Kyle Reeves, 27, contacted the White House switchboard “multiple times” and “made threats against President Biden and others.”",
@@ -1203,163 +1369,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-impeachment-video-shows-mike-pence-and-mitt-romney-fleeing-capitol-attack-video.md",
-      "title": "Impeachment video shows Mike Pence and Mitt Romney fleeing Capitol attack – video",
-      "excerpt": "Security footage shows how police officer led Romney away from attackers",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/video/2021/feb/10/impeachment-video-shows-mike-pence-and-mitt-romney-fleeing-capitol-attack-video",
-      "originalUrl": "https://www.theguardian.com/us-news/video/2021/feb/10/impeachment-video-shows-mike-pence-and-mitt-romney-fleeing-capitol-attack-video",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/b4caae2389a10c622ac25f5928f1c2163c7dc572/68_0_2262_1358/master/2262.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8092439908523761374469cb580ee245",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-10T15:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-11-new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney.md",
-      "title": "New Capitol riot footage shows cop Eugene Goodman protect Pence, Romney",
-      "excerpt": "Security footage broadcast for the first time Wednesday at former President Donald Trump’s impeachment trial shows how close Capitol rioters got to officials on Jan. 6 — with a sole police",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/",
-      "originalUrl": "https://nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/capitol-stills-2.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/10/new-capitol-riot-footage-shows-cop-eugene-goodman-protect-pence-romney/amp/",
-      "publishedDateTime": "2021-02-10T14:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-chilling-new-security-footage-shows-pence-and-family-rushed-to-safety.md",
-      "title": "Chilling new security footage shows Pence and family rushed to safety",
-      "excerpt": "House impeachment managers show never-before-seen security footage from the Capitol riot at former President Donald Trump's second impeachment trial.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_chv3QKXiMw/security-footage-pence-exit-capitol-riot-impeachment-trial-two-vpx.cnn",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_chv3QKXiMw/security-footage-pence-exit-capitol-riot-impeachment-trial-two-vpx.cnn",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210210171910-pence-capitol-surveillance-video-jan-6-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/10/security-footage-pence-exit-capitol-riot-impeachment-trial-two-vpx.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/10/security-footage-pence-exit-capitol-riot-impeachment-trial-two-vpx.cnn",
-      "publishedDateTime": "2021-02-10T14:10:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

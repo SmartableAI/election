@@ -93,10 +93,10 @@ related:
         isCached: true
   - title: "Kamala Harris announces $250 million in funding to help address COVID response inequities"
     excerpt: "The grants will go to to community organizations that work to address gaps in the response to COVID-19, according to a government official."
-    publishedDateTime: 2021-03-09T01:49:00Z
-    webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+    publishedDateTime: 2021-03-09T12:06:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-inequities-funding-250-million/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-inequities-funding-250-million/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-inequities-funding-250-million/"
     type: article
     provider:
       name: CBS News
@@ -378,6 +378,34 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/5eccd64bb081a08470baddbe620601df/DEMOCRATIC-ISSUES-CONFERENCE.jpg"
         width: 650
         height: 433
+        isCached: true
+  - title: "Vice President Harris Swears in HUD Secretary Marcia Fudge"
+    excerpt: "U.S. Vice President Kamala Harris speaks to members of the press after swearing in Marcia Fudge, U.S. secretary of Housing And Urban Development (HUD), during a virtual ceremony in Washington, DC on Wednesday, March 10, 2021. During her confirmation ..."
+    publishedDateTime: 2021-03-11T00:34:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/801cc58e1186bced134ddaa50c600a99/Vice-President-Harris-Swears-in-HUD-Secretary-Marcia-Fudge/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/801cc58e1186bced134ddaa50c600a99/HUD-FUDGE.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Vice President Kamala Harris scheduled to visit Colorado"
+    excerpt: "Vice President Kamala Harris will visit Denver on March 16 to highlight the $1.9 trillion COVID relief bill passed by Congress on Wednesday."
+    publishedDateTime: 2021-03-10T23:43:00Z
+    webUrl: "https://gazette.com/news/vice-president-kamala-harris-scheduled-to-visit-colorado/article_fdc4eaa2-81fa-11eb-ba45-8b30c57abbaf.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/6/2a/62accf86-5b9d-11eb-9ba0-1b643862cb4d/6008fcd797f38.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
         isCached: true
   - title: "Vice President Harris meets with Small Employees in Alexandria, Virginia"
     excerpt: "Vice President Kamala Harris participates in a small business roundtable at Fiber Space, a woman-owned boutique yarn and fabric store, with small business employees and community leaders to talk about the impacts of the Biden Administration's American Rescue Plan,"

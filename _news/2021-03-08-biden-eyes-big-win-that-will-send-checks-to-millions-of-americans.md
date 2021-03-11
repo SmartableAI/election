@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-checks/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 355
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 172
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/170222175840-state-department-building-sign-photo-illustration-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Negotiator-in-chief Biden notches his first win but a bipartisan governing loss"
+    excerpt: "When President Joe Biden welcomed lawmakers into the Oval Office for his very first publicly scheduled meeting with members of Congress, he spoke exclusively with Republican senators -- an apparent effort to reach across the aisle to get their support for his $1.9 trillion coronavirus relief proposal."
+    publishedDateTime: 2021-03-11T00:15:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m2rGoBN_c3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/joe-biden-negotiator/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/joe-biden-negotiator/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp"
 type: article
 quality: 156
-heat: 176
+heat: 196
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Gillibrand quick to call out Franken, Kavanaugh, Clinton, Trump — but not Cuomo"
+    excerpt: "Sen. Kirsten Gillibrand — who led the charge resulting in former Minnesota Sen. Al Franken’s resignation over sexual misconduct claims — still says it’s not the time to call for"
+    publishedDateTime: 2021-03-11T00:46:00Z
+    webUrl: "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/"
+    ampWebUrl: "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Kristen-GillibrandArticle.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Gillibrand's stance on Cuomo allegations contrast with past comments about Trump, Clinton, Kavanaugh, Franken"
     excerpt: "She also called on former President Donald Trump — of whom she was a staunch critic — to resign amid sexual assault allegations made against him in 2017. Gillibrand’s office did not immediately respond to Fox News’ request for comment on her statem ..."
     publishedDateTime: 2021-03-10T18:39:00Z

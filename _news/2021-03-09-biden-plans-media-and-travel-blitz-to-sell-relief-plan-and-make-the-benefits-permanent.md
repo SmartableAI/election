@@ -95,6 +95,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Negotiator-in-chief Biden notches his first win but a bipartisan governing loss"
+    excerpt: "When President Joe Biden welcomed lawmakers into the Oval Office for his very first publicly scheduled meeting with members of Congress, he spoke exclusively with Republican senators -- an apparent effort to reach across the aisle to get their support for his $1.9 trillion coronavirus relief proposal."
+    publishedDateTime: 2021-03-11T00:15:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m2rGoBN_c3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/joe-biden-negotiator/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/joe-biden-negotiator/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Democratic divides sharpen even as Biden's Covid-19 relief package moves forward "
     excerpt: "The honeymoon is over for President Joe Biden and Senate Democrats, whose unified front has been thrown into doubt during the final stages of negotiations on the White House's $1.9 trillion Covid-19 relief bill.\n    \n"
     publishedDateTime: 2021-03-06T11:16:53Z

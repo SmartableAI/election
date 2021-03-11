@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Negotiator-in-chief Biden notches his first win but a bipartisan governing loss"
+    excerpt: "When President Joe Biden welcomed lawmakers into the Oval Office for his very first publicly scheduled meeting with members of Congress, he spoke exclusively with Republican senators -- an apparent effort to reach across the aisle to get their support for his $1.9 trillion coronavirus relief proposal."
+    publishedDateTime: 2021-03-11T00:15:50Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m2rGoBN_c3o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/joe-biden-negotiator/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/joe-biden-negotiator/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 171
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200902153805-204-biden-lead-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden plans media and travel blitz to sell relief plan -- and make the benefits permanent"
     excerpt: "After signing a massive but temporary expansion of the social safety net into law this week, President Joe Biden will set about convincing Americans that its benefits -- which amount to a dramatic reshaping of the country's economy -- must be made permanent.\n    \n"
     publishedDateTime: 2021-03-09T21:15:38Z

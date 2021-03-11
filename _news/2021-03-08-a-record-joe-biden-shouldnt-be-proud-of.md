@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden's border strategy faces crucial test amid dramatic surge of migrant children"
+    excerpt: "Washington (CNN)Aides who traveled to the southern border at the behest of President Joe Biden have described to him a troubling surge of migrant children the administration is now racing to house as the President's more humane approach to immigration ..."
+    publishedDateTime: 2021-03-10T23:10:00Z
+    webUrl: "https://www.cnn.com/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-border-strategy-crucial-test-surge-children/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 129
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308164354-01-biden-file-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "VIoErPIUNZjERVF3/jrB78qAH1eOp44VCfkdPrbmEHKVIgggZRO6g8Fgfh3b37/xUdEstqZp7pC+2Y1lIAhd39P7cgj6rr7Nos3cGti7258qxoyxsCbg/FqldUOO9Yy3GsEPMU2WF/gD4gPcQlsfH1pDl89L6UpOrwzOHSGVAppkFMh8wy58nZXYLg/8SCFERLbF0+Q3r/MB6Z1q1s8fKEfPcWaGwRFris5okeJg/O8mlklO7oDPYxrOTvzmsT/vpnzbm6G6Uf4Be/aw00DJyJ+ntwm+b7xjJC1eP6AxRA+AocqLagrgNABLS6DDnxky6kQ+sgUEbN5E7tyTw8AC9QkAYA8fkme++EppFLj1NZw=;E33CgqcCOV1XxEhVd2nKkA=="
 ---

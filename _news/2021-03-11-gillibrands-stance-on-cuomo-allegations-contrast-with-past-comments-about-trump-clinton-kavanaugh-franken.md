@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Gillibrand quick to call out Franken, Kavanaugh, Clinton, Trump — but not Cuomo"
+    excerpt: "Sen. Kirsten Gillibrand — who led the charge resulting in former Minnesota Sen. Al Franken’s resignation over sexual misconduct claims — still says it’s not the time to call for"
+    publishedDateTime: 2021-03-11T00:46:00Z
+    webUrl: "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/"
+    ampWebUrl: "https://nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/gillibrand-quick-to-call-out-kavanaugh-and-trump-but-not-cuomo/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 131
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Kristen-GillibrandArticle.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "6YxXDgqjYo4V80s5pzXio0+fE4Dmssf2WhsTj6raCFUbf5jxkHi1C3dJJsUfbJngywpSQHr8A0bI1l9KY1ugFwbjJIrsMkaYbipMPAz0sgblyZ0UQXSID6wSNskg6ciJ4Rc3KZOElg/H1i61EcDf2YKyBS3d7brpIdhQzweDs6JSGnsuqw6G07DaMfyb4HS9FyqwzpnE4lEYmV4asC0f17Ka+v49WtHfUIaNxK0EtlPSt6DenK10OBpTl7Bn4EpwVVRGVAuOzoHHB2WOctZUKIWxhTx3FXUMJ4XolGAeOkRiB46HNhGy61digA5fmaR4IrKn2HLw3KSAZwVVSygiU3EgS8GWmBxPg3pPXs7ReQc=;UBqYAGraQWO8lr9QUoJ5eA=="
 ---

@@ -1,12 +1,12 @@
 ---
 category: news
 title: "House Democrats pass $1.9 trillion COVID-19 relief bill, handing Biden major victory"
-excerpt: "Texas businesses reopen amid COVID concerns House Democrats on Wednesday passed a massive $1.9 trillion COVID-19 relief bill with the goal of having it on President Joe Biden’s desk by the end ..."
-publishedDateTime: 2021-03-10T19:31:00Z
-originalUrl: "https://abcnews.go.com/Politics/house-vote-19-trillion-covid-19-relief-bill/story?id=76327205"
-webUrl: "https://abcnews.go.com/Politics/house-vote-19-trillion-covid-19-relief-bill/story?id=76327205"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/house-vote-19-trillion-covid-19-relief-bill/story?id=76327205"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/house-vote-19-trillion-covid-19-relief-bill/story?id=76327205"
+excerpt: "House Democrats pass $1.9 trillion COVID-19 relief bill House Democrats on Wednesday passed a massive $1.9 trillion COVID-19 relief bill with the goal of having it on President Joe Biden's desk by ..."
+publishedDateTime: 2021-03-10T20:59:00Z
+originalUrl: "https://abcnews.go.com/Politics/house-democrats-pass-19-trillion-covid-19-relief/story?id=76327205"
+webUrl: "https://abcnews.go.com/Politics/house-democrats-pass-19-trillion-covid-19-relief/story?id=76327205"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/house-democrats-pass-19-trillion-covid-19-relief/story?id=76327205"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/house-democrats-pass-19-trillion-covid-19-relief/story?id=76327205"
 type: article
 quality: 118
 heat: -1
@@ -623,6 +623,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Live updates: President Joe Biden will sign COVID-19 stimulus package on Friday; Pelosi, Schumer laud it"
+    excerpt: "Joe Biden announced his COVID-19 stimulus plan before he even entered office. It's up for a final vote Wednesday in the House."
+    publishedDateTime: 2021-03-10T20:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/10/covid-stimulus-updates-house-verge-passing-joe-bidens-bill/6924862002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6924862002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6924862002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/54bb4401-bfd2-461f-853d-8e63acc86ff5-AFP_AFP_94N9C8.jpg?auto=webp&crop=4999,2812,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden to prioritize vaccinating school teachers"
     excerpt: "President Joe Biden is directing states to prioritize vaccinating all teachers during the month of March, and announced that the federal government will help in the effort through its partnership with retail pharmacies."
     publishedDateTime: 2021-03-02T22:49:00Z
@@ -816,6 +832,6 @@ related:
         height: 675
         isCached: true
 
-secured: "cjSCAo+5yTx1+AOlnoA8MTWAim4fVpITnzAi4qdTyNfmAl7Ii3z+m08nAmx/ffaGNwSNVeKwBV0TfkexSmI2Bm6p0IQk000Odz6v9/gCaF/6EpSK8Ch8HC/jncnpzsESRhuhNno4E5R2qF7BcoQOWNfyoTrUVgs1Z4ISGuzfgOWSK4fE1MGeGm266SMDCrhe6bd0LzDF8vuv0GZO8GlkxHb/9bioyWwemZDYZn54FP4hncFW7LfCwSvn6UzYMQBAE72GejKSubr+Y2tvV/fD7Er0J5uBzSSV8v61LixrsTK04+rxt6oSJ0Uzc5uoZpMsgtkKLjMKFA1SqbgtkDaWhBjtUfdJVuXxxGDojassbTg=;XmTm2IvR0p9Awb3zYkRVHw=="
+secured: "wZ5O1vkiiPD2YdSywwaeE6h5SbrQZu1nCG4FFxlVZo91OnE/P75X5Tb8V/Uu8QKrdWdpx6mSpxeG7r6vXT1BUYyNER3tyh1abwudNwqbh/7A2zJ4t8oFMKdgR5smBUqV75LfGTiVdVZdijd7y9QMkS8Oghv2sHROo2F5u8eUI5H0ggT2A1biHaygE+LAJLGOIaMt0R1PjkDRobm4gmqGLeqYUk2TO0HYfiKIbninIROXvPNWmsWylY54auk2CLVmSJEZERsoxuNpi8vNEAfsKqIrfhQutEm5YDR7pVfL+pR//btHinPtcZhwDvP3TS+bCyA3DV4kvGaNDgEmS7LByXVNgVphgKDOw+Bx+VRXri8=;G6kfOK203GEtIWAwpRCIiw=="
 ---
 

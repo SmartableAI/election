@@ -464,11 +464,11 @@ related:
         height: 600
         isCached: true
   - title: "House Democrats pass $1.9 trillion COVID-19 relief bill, handing Biden major victory"
-    excerpt: "Texas businesses reopen amid COVID concerns House Democrats on Wednesday passed a massive $1.9 trillion COVID-19 relief bill with the goal of having it on President Joe Biden’s desk by the end ..."
-    publishedDateTime: 2021-03-10T19:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/house-vote-19-trillion-covid-19-relief-bill/story?id=76327205"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/house-vote-19-trillion-covid-19-relief-bill/story?id=76327205"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/house-vote-19-trillion-covid-19-relief-bill/story?id=76327205"
+    excerpt: "House Democrats pass $1.9 trillion COVID-19 relief bill House Democrats on Wednesday passed a massive $1.9 trillion COVID-19 relief bill with the goal of having it on President Joe Biden's desk by ..."
+    publishedDateTime: 2021-03-10T20:59:00Z
+    webUrl: "https://abcnews.go.com/Politics/house-democrats-pass-19-trillion-covid-19-relief/story?id=76327205"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/house-democrats-pass-19-trillion-covid-19-relief/story?id=76327205"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/house-democrats-pass-19-trillion-covid-19-relief/story?id=76327205"
     type: article
     provider:
       name: ABCNews
@@ -622,6 +622,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Live updates: President Joe Biden will sign COVID-19 stimulus package on Friday; Pelosi, Schumer laud it"
+    excerpt: "Joe Biden announced his COVID-19 stimulus plan before he even entered office. It's up for a final vote Wednesday in the House."
+    publishedDateTime: 2021-03-10T20:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/10/covid-stimulus-updates-house-verge-passing-joe-bidens-bill/6924862002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6924862002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6924862002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/54bb4401-bfd2-461f-853d-8e63acc86ff5-AFP_AFP_94N9C8.jpg?auto=webp&crop=4999,2812,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden to prioritize vaccinating school teachers"
     excerpt: "President Joe Biden is directing states to prioritize vaccinating all teachers during the month of March, and announced that the federal government will help in the effort through its partnership with retail pharmacies."
@@ -816,6 +832,6 @@ related:
         height: 675
         isCached: true
 
-secured: "PFAOuEyiZcts7BmY7Rc/40YEPx4i/r+3BgT8UT6xc+sP3lJhiUmAqh8w/mbpeqyfrzDiwHF0f3qJScg4oAmVeyEAydQChF0EzM55CjRWCGz/s/I1Kaf0epYEvC0eyUS7MRezdqJVwD2sJwNoSy6j2y8NOj0wkmpwL+XxawK4uAJ9V6tMjffon5iDZ2KQnkHk5EdlZuXq756O3plDwoWDFylUI+eDjQq1jcMJrso2mX6+30KSf3AoBA+mKqVg3b5sa0Xn3bGuSxbKVUPRhenExNCBQWgjgTuSmVdIkZNJdoGJFX5ms2M+imFCO1e5oE9YSI6GSY/Fh2JjC4B41tSL2gOsE0OtrvojcJiLfD+9p20=;qRatVVzftB4p8YPPXfRRaQ=="
+secured: "WLTEcEk5Zlxxkc2Pc1tPGtVPMBmdXgn4s5+8jFtC0BVwNNMeXGxk55Qfc/7pXoKPNDl6V+KKpOqVIZPZgcfTAUQ9pmzChWCPedaoqUwsbuiz1scSpamgBL48vEqpt/6prVRA1MUsAc+vVXAhdeHHSziD/vFrGaArr36Sp6HjAjCEd4DsXILStjeGtM1m1UjEAjJsf8UfKHNDEMc9NfjOvSIh+Behfk2cdvyyhk3ezWzJ5MRXXFIKI1TXJKW69hZtGcelNs9C3/mPHwvQmIMCl6VjNDgfZ4QcApedZ07nrXo69UvRZ+DbDH2nSgAhI76wSMABOlPFUeVH7f9PPOM8WsykkVvhqadHDzQuq3TQeADTyKVHsuhfIAyvUUHSTBrhoY/GE7OqG4gTrb80NhKwUYaAqrj/k0CbmOMHWaLO2+iP0sJR24aYBhu7pMmmin4BT20+RKSDUbzRcaKIXm4CJ7eO0MDdmvwIYCKhJggQKXTrZ95SPsaOOSNIvaZvhMWfeH78RRP0U1Zkl3q9faI6Bg==;PgL0cgqD45WZmRfvgYI91Q=="
 ---
 

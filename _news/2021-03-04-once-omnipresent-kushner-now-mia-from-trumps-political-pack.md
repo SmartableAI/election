@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/04/politics/donald-trump-jared-kushn
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/donald-trump-jared-kushner-political-future/index.html"
 type: article
 quality: 175
-heat: 215
+heat: 235
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210113111505-jared-kushner-donald-trump-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "WSJ: New details surface from Trump call to Georgia investigator"
+    excerpt: "In a phone call to the Georgia Secretary of State's office in December, then-President Donald Trump urged a top investigator to find fraud in the 2020 presidential election, telling her that she would be \"praised\" for overturning results that were in favor ..."
+    publishedDateTime: 2021-03-11T00:15:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103145317-trump-find-votes-georgia-raffensperger-call-washington-post-harwood-nr-vpx-00001730-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

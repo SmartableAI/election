@@ -3,13 +3,13 @@ category: news
 title: "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe"
 excerpt: "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U."
 publishedDateTime: 2021-03-10T21:26:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-investigation-cohen/trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe-idUSKBN2B22DF"
-webUrl: "https://www.reuters.com/article/us-usa-trump-investigation-cohen/trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe-idUSKBN2B22DF"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF"
+webUrl: "https://www.reuters.com/article/us-usa-trump-investigation-cohen-idUSKBN2B22DF"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B22DF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22DF"
 type: article
 quality: 120
-heat: 140
+heat: 160
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump told Ga. investigator he won the state: 'You'll be praised' for 'the right answer'"
+    excerpt: "New audio obtained by The Wall Street Journal shows then-President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate ..."
+    publishedDateTime: 2021-03-10T22:52:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/542634-trump-told-ga-investigator-he-won-the-state-youll-be-praised-for-the?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 116
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_041819gn7_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Trump's tax records 'holy grail' to probe -Cohen"
     excerpt: "In a brief video interview with Reuters on Wednesday, Donald Trump's former lawyer and fixer, Michael Cohen, said he'll go in for a seventh interview with the Manhattan district attorney's office as prosecutors step up the criminal investigation into the former U."
     publishedDateTime: 2021-03-10T19:03:00Z
@@ -46,6 +62,6 @@ related:
         height: 540
         isCached: true
 
-secured: "Ckt6PtY8d3uGlbCUUmJbw1s92cQ2DBJE4q3QImYqpl7htN2SP0OTcJNOj4OakeiydL78w32UDe5GjrNoJM3KAmknGsGNAO78W7cvcEgm5R5yFsRKji10NqMMJ6IPSYgnKD6N3n8ezXNoN28t7Ssn10N8SQJPSgprSYMeCnTE+K4pJgUBAB4qQb9eTYisnMoaPkc6caPu+/aqm6OTKZNlumv+9htL3Ehu60UYKA0e0ttBAoWF9pc8BjkyrGKHm+6Me3i3D7ysYXkmVrjEGx7VTi+v4kvElIDPVsto1MUgZ7sEMkHxQQ+/cAfYfzpCCzPNM5206G/OOFH5/TpKd07LJvscTe34J5xWFYwijHQPkXs=;3ykKj+2FW0g+5SLQnWuLXg=="
+secured: "3MIpFqHBCKT4ZJfCVXl+2bvhSZSDZVGjR+fIh82LvP8NasUDByTglzWVrBcsRPKaLfED82Bm1SRDhdByGGwzToWMpXI6+U6j/zHy5EMIOHgMJaTP6N6XrI2lU/baiduo+I3uB9cbVPSQ4jV+sBfpL7Sss0DFiiw82wAjPUHLoFNxujV7jI4NcT5rFSxFA/O2aDBZpDoBLnwPVzG3w0h+ph776BFHV9NHHaEoaSP769NNEL9fk2mT6ATkwMFdDC5JoXyV5ga9xBb1ipI2KU0bJpoEYzkkquphoisMVtanAhx59BBofgjMxxZYOLVMkiLc2HsE9EHRE4AuXDdaBXhtcQIKNrNE/DJPLcpMct3TOyA=;Ov8OKARWWxbkb0QWLD+ZnQ=="
 ---
 

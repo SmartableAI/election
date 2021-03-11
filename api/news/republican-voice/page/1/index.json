@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-10-trump-calls-on-former-nfl-player-herschel-walker-to-run-for-senate-in-georgia.md",
+      "title": "Trump calls on former NFL player Herschel Walker to run for Senate in Georgia",
+      "excerpt": "Former President Trump surpassed his usual endorsements Wednesday, this time instead calling on former NFL player Herschel Walker to run for Senate in Georgia. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ahryDbgJr0/trump-former-nfl-player-herschel-walker-senate-georgia",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ahryDbgJr0/trump-former-nfl-player-herschel-walker-senate-georgia",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 192,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a3b9981-65cb-4390-b809-4794e0a3be2d/2d52dade-2ecc-4f24-a1ff-c184491dcef7/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp",
+      "publishedDateTime": "2021-03-10T15:23:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-biden-adviser-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.md",
+      "title": "Biden adviser botches her Spanish, mistakenly tells migrants border is 'not closed'",
+      "excerpt": "However, Jacobson had a slip of the tongue when she translated the message to Spanish, mistakenly saying “la frontera no está cerrada.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kb1acOOYMT0/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/kb1acOOYMT0/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6cb18237-90c1-4faf-aecc-6abd2f6fb9df/295238a8-7d1e-4b53-a9a2-f1b92b37795d/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp",
+      "publishedDateTime": "2021-03-10T15:20:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-blinken-says-trump-era-israel-peace-deals-were-a-very-good-thing.md",
       "title": "Blinken says Trump-era Israel peace deals were a 'very good thing'",
       "excerpt": "Secretary of State Antony Blinken on Wednesday paid a compliment to the Trump administration for its Abraham Accords in the Middle East. ",
@@ -182,7 +294,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 176,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -1574,118 +1686,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-swalwell-files-lawsuit-against-trump-over-capitol-riots.md",
-      "title": "Swalwell files lawsuit against Trump over Capitol riots",
-      "excerpt": "Rep. Eric Swalwell, one of the House impeachment managers, filed a lawsuit against former President Trump saying he must be held financially responsible for destruction on Jan. 6 when a pro-Trump mob stormed the Capitol.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zloDBq5sHQk/swalwell-lawsuit-against-trump-republicans-capitol-riots",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/zloDBq5sHQk/swalwell-lawsuit-against-trump-republicans-capitol-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/bc4e6da5-3c10-4062-a7aa-5b61dd7b3a97/34ddb130-8200-47fc-b4bd-3d32c1cb6d83/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/swalwell-lawsuit-against-trump-republicans-capitol-riots.amp",
-      "publishedDateTime": "2021-03-05T12:37:51-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-tom-cotton-slams-top-biden-pentagon-nominee-for-vicious-tweets-weak-israel-iran-policies.md",
-      "title": "Tom Cotton slams top Biden Pentagon nominee for 'vicious' tweets, 'weak' Israel, Iran policies",
-      "excerpt": "Sen. Tom Cotton R-Ark. said Friday that President Joe Biden’s nominee for the No. 3 civilian position at the Pentagon doesn’t have the \"temperament\" for the job, citing \"vicious\" verbal attacks against people criticizing his position on the Iran nuclear deal and past tweets about Republicans.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/consSGRk2ww/biden-pentagon-nominee-colin-kahl-cotton",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/consSGRk2ww/biden-pentagon-nominee-colin-kahl-cotton",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 203,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2229b2f1-24c2-4122-ae85-34c31c7b489b/c3a87125-f980-46d4-8319-88e455416533/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp",
-      "publishedDateTime": "2021-03-05T11:50:22-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

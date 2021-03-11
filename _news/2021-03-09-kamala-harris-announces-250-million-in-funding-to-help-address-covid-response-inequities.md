@@ -2,11 +2,11 @@
 category: news
 title: "Kamala Harris announces $250 million in funding to help address COVID response inequities"
 excerpt: "The grants will go to to community organizations that work to address gaps in the response to COVID-19, according to a government official."
-publishedDateTime: 2021-03-09T01:49:00Z
-originalUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
-webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-vaccine-inequities-funding/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-vaccine-inequities-funding/"
+publishedDateTime: 2021-03-09T12:06:00Z
+originalUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-inequities-funding-250-million/"
+webUrl: "https://www.cbsnews.com/news/kamala-harris-covid-response-inequities-funding-250-million/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-covid-response-inequities-funding-250-million/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-covid-response-inequities-funding-250-million/"
 type: article
 quality: 116
 heat: -1
@@ -367,6 +367,34 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Vice President Harris Swears in HUD Secretary Marcia Fudge"
+    excerpt: "U.S. Vice President Kamala Harris speaks to members of the press after swearing in Marcia Fudge, U.S. secretary of Housing And Urban Development (HUD), during a virtual ceremony in Washington, DC on Wednesday, March 10, 2021. During her confirmation ..."
+    publishedDateTime: 2021-03-11T00:34:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/801cc58e1186bced134ddaa50c600a99/Vice-President-Harris-Swears-in-HUD-Secretary-Marcia-Fudge/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/801cc58e1186bced134ddaa50c600a99/HUD-FUDGE.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Vice President Kamala Harris scheduled to visit Colorado"
+    excerpt: "Vice President Kamala Harris will visit Denver on March 16 to highlight the $1.9 trillion COVID relief bill passed by Congress on Wednesday."
+    publishedDateTime: 2021-03-10T23:43:00Z
+    webUrl: "https://gazette.com/news/vice-president-kamala-harris-scheduled-to-visit-colorado/article_fdc4eaa2-81fa-11eb-ba45-8b30c57abbaf.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/6/2a/62accf86-5b9d-11eb-9ba0-1b643862cb4d/6008fcd797f38.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
+        isCached: true
   - title: "Vice President Kamala Harris talks to Maryland residents on COVID vaccine, stimulus at Black History Month event"
     excerpt: "Vice President Kamala Harris spoke to hundreds of Anne Arundel and Prince George’s County residents Saturday as she joined Rep. Steny Hoyer’s 40th Annual Black History Month Celebration, the first time in its 40 years the event was held online."
     publishedDateTime: 2021-02-27T22:54:00Z
@@ -460,6 +488,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "6D5yDIr9Cvsfzy7XRJTazCmM4EIOPK9HJqAna4TSapwU/wwVAG66VD9j5xCg01qNrIMdThhEcqsADkn+PnY1SuPQwFiptFs6oAW+mlWmN+dBDa9neiD396vCuETUw8hTFxDzEjkyrYPutDlnUSaMudmue4mP+H6kbAbzQ6/KhseZjop1zRnq0WBCLy+CCLKWxUxKKn36F+NrFDaTXE+PP27T4cxrA2n5WJvaa6Ov6lEwBDoL4o2TGPn/xsHuxPF/8JHiHL9C4PzXeRpV54VGdNVMdXI8zLn3KjxAiAF2aB4o6CPTNnWEzjshtvsNE4UEKMClIFtGhfZXeDLQTT++DJ+WNgQFV+oyaxYEoNVY3xOq/ioiun1mNOzSEfPk6/b9OS+2gbA3vF+5pny1dESQVx1q3/+PIcQ0kDv2NykEWyhTHVI1wbThkMwYKjytV/xG+ACjW0LyCGEHPAyBX8zbyXjyLFW+A+VqzApDSjDtYj4hRjetPx/Qt29LXKLnj2BABePjW3/7y6dR4IpDCzNABQ==;SitnPXlUicns7LXOmuUxpw=="
+secured: "ivFWcoaEqc96q3aYgAvFA3nOHIb+svE3uyA4v8YLu8KgAiIG+yQKOhEs4Rj4VOITLyMT/qLGjxBqo5BcJU31WF3AAy0IiD6/qlw/9sAyPniKONPiWoUb1MspsH/M5a6/gNPwMDiDFJE3U7+R4c+NOhuCqsROtDAwxbH3vMtYGJIpdz7GAXewHZou3wXvVPaUDykUKskYAmdMCSmIh9iNhBE1C2Po84C3g3cevMcRGh59JxehmG7m+npj8yu4eWxgTO8R9Pf5+v5JWs3b4p77V3qNzkCd6nczjSsJm4ybqfdR/UblMvSZvGmxyakrp23Db3cOdxfBc/TvWuXY/TKva23Im9SWxv4yx7+DbZGzg60=;f0nfHf6BxmjtmvzJLDDpug=="
 ---
 
