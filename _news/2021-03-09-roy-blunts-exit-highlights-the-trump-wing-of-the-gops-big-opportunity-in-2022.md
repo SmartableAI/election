@@ -111,6 +111,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Alabama GOP issues proclamation declaring Trump one of the greatest presidents ever"
+    excerpt: "Alabama Republican Party leaders have declared former President Donald Trump “one of the greatest presidents of all time.” A framed copy of the declaration will be given to Trump soon in Florida. The state Republican Party Executive Committee ..."
+    publishedDateTime: 2021-03-12T16:24:00Z
+    webUrl: "https://www.al.com/news/2021/03/alabama-gop-issues-proclamation-declaring-trump-one-of-the-greatest-presidents-ever.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/alabama-gop-issues-proclamation-declaring-trump-one-of-the-greatest-presidents-ever.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/alabama-gop-issues-proclamation-declaring-trump-one-of-the-greatest-presidents-ever.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HR3FW4ACXZFGHKLRJBLKDLTPK4.jpg"
+        width: 3789
+        height: 2526
+        isCached: true
 
 secured: "Xdxg3Semc+bY4DakM0B25+nG0Ls8bdvmZz5Vi5qKdqVg5EdSq5ilNs8SaUuFkeFH6NQl8VXNOymJ1DBUTPsGHMi7nyhZ7KLLpVyAOCYlqNH9Sd+VOecG6lSwwuSh8mp0yJWV7mat8KFscS1/JiNZfggCtTOXd32l7dj9/M4iVNx62Hr6PF0ThBMIg/GthXcBRk42f/q90hpMj8/k0sUVHmF9rvxIqeO67rk7mNOoRUle1XroN1ejPtw0bEQXMSfhl/9wbIKt/dLFIs1rDVvnJ/DPDyfdDDF/AAVX5g/nyY1RBWoBve8x7jyZKym3jTDYV0/Lb5UBS24vYztCQLf6rYgHSk5qlNJIljYxZCRLxeVpu+56a03PxZ9HoDBdbcXfoViNKdvN55owVV8s/aRUkNSQxz3/Hlzsj/r0eSi1KR/nHSO5cfL7HolV1U+bEO0X6V5OmPHWnG69d2YB3NGHxAFUd8qP6zWh0SrVGjEcUlfWPw+H+GLQFPZ00OnyS6vS8RGAG7DTFTDkY0HXj5/s1Q==;sm9ruC8dQocYp/KxZsprjw=="
 ---

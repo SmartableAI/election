@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stoo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 225
+heat: 245
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GGCHKGT5FAI6XKLWYAUKIIK4PA.jpg&w=1440"
         width: 1440
         height: 960
+        isCached: true
+  - title: "Alabama GOP issues proclamation declaring Trump one of the greatest presidents ever"
+    excerpt: "Alabama Republican Party leaders have declared former President Donald Trump “one of the greatest presidents of all time.” A framed copy of the declaration will be given to Trump soon in Florida. The state Republican Party Executive Committee ..."
+    publishedDateTime: 2021-03-12T16:24:00Z
+    webUrl: "https://www.al.com/news/2021/03/alabama-gop-issues-proclamation-declaring-trump-one-of-the-greatest-presidents-ever.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/alabama-gop-issues-proclamation-declaring-trump-one-of-the-greatest-presidents-ever.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/alabama-gop-issues-proclamation-declaring-trump-one-of-the-greatest-presidents-ever.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 69
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HR3FW4ACXZFGHKLRJBLKDLTPK4.jpg"
+        width: 3789
+        height: 2526
         isCached: true
 
 secured: "4jnDlaaAP/pW8ThTk9O1v5xyzIqbmMbMI/3i+aNtxf+vOAqjq3dGwsc7TWeyHBDQRTd6VqlSIdmvnfMDoMnbr70m3wKwPuvrmaXzAMWdX8j+kYahEC6lbiUYvnf6AKBT4EEHUkvvW++ofdS9c0Rs//KKXOq01Op482X6adk2ldGTmWw0o103CGH/zGy7BuVvN2J+GzcFnCDUTD1XZyrtfYIehq2WGI//QKqnVzNY/SEZIt6VN+wlDmG6Ej02OAo5QAZM4LDJcsPGO5VA+pKyp8vPRvb2ODrYQX3spyToLENoGAA+7GB3K13Gi8HZklFLAoPmk+Tg70PbL/+I/lq+o7GFhJ1BgOHXzjXeEeM/rWE=;Ni7U3e14utxxW/W1A93C/Q=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42HN"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42HN"
 type: article
 quality: 140
-heat: 2060
+heat: 2080
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1732295/donald-trump-boards-marine-one.jpg"
         width: 1024
         height: 641
+        isCached: true
+  - title: "Biden speech draws more broadcast viewers than Trump's first TV address"
+    excerpt: "LOS ANGELES (Reuters) - U.S. President Joe Biden’s prime-time address on the fight against COVID-19 attracted more broadcast television viewers on Thursday than former President Donald Trump’s first speech to the nation, according to preliminary ..."
+    publishedDateTime: 2021-03-12T18:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-coronavirus-ratings-idUSKBN2B42KO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B42KO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B42KO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554720816&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B1J6"
+        width: 831
+        height: 545
         isCached: true
   - title: "Biden says Trump should not receive intelligence briefings: CBS interview"
     excerpt: "U.S. President Joe Biden does not believe his predecessor Donald Trump should have access to intelligence briefings because of his \"erratic behavior\" and the concern he might share information, the Democrat said in an interview on Friday."

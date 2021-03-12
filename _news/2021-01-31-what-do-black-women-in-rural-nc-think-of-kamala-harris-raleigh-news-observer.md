@@ -1474,6 +1474,20 @@ related:
         width: 940
         height: 631
         isCached: true
+  - title: "LIVE: President Joe Biden, Vice President Kamala Harris deliver remarks on the American Rescue Plan"
+    excerpt: "President Biden and Vice President Harris will deliver remarks at 1:30 p.m. Watch a stream here. WASHINGTON, D.C. — President Joe Biden and Vice President Kamala Harris will deliver remarks on the American Rescue Plan at 1:30 p."
+    publishedDateTime: 2021-03-12T19:00:00Z
+    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6931767-LIVE-President-Joe-Biden-Vice-President-Kamala-Harris-deliver-remarks-on-the-American-Rescue-Plan"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 56
+    images:
+      - url: "https://www.fccnn.com/incoming/6895102-jcbkbo-2021-02-19T094550Z_1380696744_RC2LVL9RVPBA_RTRMADP_3_G7-MEETING-BIDEN.JPG/alternates/BASE_LANDSCAPE/2021-02-19T094550Z_1380696744_RC2LVL9RVPBA_RTRMADP_3_G7-MEETING-BIDEN.JPG"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "How Joe Biden’s first executive orders compare with past presidents"
     excerpt: "The total number of presidential directives signed by Biden during his first two days in office is greater than the number signed by Trump and Obama over the same period. The available record ..."
     publishedDateTime: 2021-01-27T22:12:00Z

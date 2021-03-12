@@ -2,6 +2,62 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-01-19-bidens-defense-secretary-pick-pledges-to-uphold-principle-of-civilian-control-of-the-military.md",
+      "title": "Biden's defense secretary pick pledges to uphold 'principle of civilian control of the military' ",
+      "excerpt": "President-elect Joe Biden's nominee for defense secretary, retired Gen. Lloyd Austin, pledged on Tuesday that he will \"uphold the principle of civilian control of the military\" if confirmed to the post.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7KA3VxIIBPg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7KA3VxIIBPg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201207192616-02-gen-lloyd-austin-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/19/politics/lloyd-austin-defense-secretary-nominee-hearing/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/19/politics/lloyd-austin-defense-secretary-nominee-hearing/index.html",
+      "publishedDateTime": "2021-01-19T13:29:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-19-joe-biden-set-to-arrive-in-washington-on-eve-of-his-inauguration.md",
       "title": "Joe Biden set to arrive in Washington on eve of his inauguration",
       "excerpt": "President-elect Joe Biden arrives in Washington Tuesday for the start of his inaugural ceremonies at a dark and solemn moment in American history, preparing to take his oath of office as the US approaches 400,000 coronavirus deaths and is more divided than at any time since the Civil War.\n    \n",
@@ -1637,63 +1693,6 @@
         "Donald Trump",
         "Democratic Voice",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-13-trumps-top-bankers-deutsche-banks-and-signature-cut-future-ties.md",
-      "title": "Trump's top bankers Deutsche Banks and Signature cut future ties",
-      "excerpt": "In the wake of the deadly riots on Capitol Hill last week, Deutsche Bank and Signature Bank have said they are cutting future ties with President Donald Trump. That could leave the president personally on the hook for millions of dollars when several large loans he has personally guaranteed come due in the next two years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/trump-s-top-bankers-deutsche-banks-signature-cut-future-ties-n1253895",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/trump-s-top-bankers-deutsche-banks-signature-cut-future-ties-n1253895",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.s-nbcnews.com/i/newscms/2021_02/3441493/210112-deutsche-bank-se-1035a_81623fdd8acbbe2a62e11ba9b949db39.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1253895",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1253895",
-      "publishedDateTime": "2021-01-12T10:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     }
   ],

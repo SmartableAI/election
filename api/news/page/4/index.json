@@ -2,6 +2,62 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-08-biden-to-mark-one-year-of-covid-19-shutdown-in-primetime-address-thursday.md",
+      "title": "Biden to mark one-year of Covid-19 shutdown in primetime address Thursday",
+      "excerpt": "President Joe Biden will deliver his first primetime address this Thursday, commemorating the milestone of one year since the global pandemic coronavirus shut down much of the nation.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XHJus_DzOfA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XHJus_DzOfA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210306205230-01-joe-biden-0306-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/08/politics/biden-primetime-address-covid-19/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-primetime-address-covid-19/index.html",
+      "publishedDateTime": "2021-03-08T09:44:51-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-biden-backs-house-gun-background-check-bills-that-would-tighten-restrictions.md",
       "title": "Biden backs House gun background check bills that would tighten restrictions",
       "excerpt": "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system.",
@@ -779,6 +835,62 @@
       ]
     },
     {
+      "path": "_news/2021-03-07-analysis-why-bidens-next-legislative-push-might-be-much-harder-than-covid-relief.md",
+      "title": "Analysis: Why Biden's next legislative push might be much harder than Covid relief",
+      "excerpt": "President Joe Biden and fellow Democrats are racing to prove a counterintuitive lesson: with congressional majorities, sometimes less can be more.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hAubWKgDRA0/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hAubWKgDRA0/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210304180339-biden-roosevelt-room-0304-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/07/politics/biden-democrats-slim-majority/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/biden-democrats-slim-majority/index.html",
+      "publishedDateTime": "2021-03-07T06:01:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-07-china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying.md",
       "title": "China calls on US to drop Trump-era sanctions and warns against 'bullying'",
       "excerpt": "Foreign minister Wang Yi calls for cooperation and signals that Beijing will stand firm against criticism",
@@ -1250,119 +1362,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-fbi-finds-contact-between-proud-boys-member-and-trump-associate-before-riot.md",
-      "title": "F.B.I. Finds Contact Between Proud Boys Member and Trump Associate Before Riot",
-      "excerpt": "A leader of the far-right group separately said he had been in touch with Roger Stone, but an official said it was not the same contact investigators found through electronic communications records.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/05/us/politics/05dc-investigate1/05dc-investigate1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.amp.html",
-      "publishedDateTime": "2021-03-05T16:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-capitol-hill-has-picked-shalanda-young-to-lead-omb-but-biden-hasnt-yet.md",
-      "title": "Capitol Hill has picked Shalanda Young to lead OMB -- but Biden hasn't yet",
-      "excerpt": "Congressional Democrats are pushing President Joe Biden to nominate Shalanda Young to lead the Office of Management and Budget after Neera Tanden withdrew her nomination amid opposition in the Senate.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YqiqCQePBI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YqiqCQePBI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 213,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303081850-restricted-01-shalanda-young-0302-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/05/politics/who-is-shalanda-young/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/who-is-shalanda-young/index.html",
-      "publishedDateTime": "2021-03-05T14:14:09-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

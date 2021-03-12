@@ -79,6 +79,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden played ‘sheriff’ on ‘09 aid, now salesman on COVID law"
+    excerpt: "WASHINGTON — In 2009, then-Vice President Joe Biden was “Sheriff Joe,” the enforcer making sure federal dollars from a massive economic aid package were getting to the right places and quickly. This time, President Biden’s role is different ..."
+    publishedDateTime: 2021-03-12T20:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "House approves $1.9 trillion COVID relief package, sending bill to Biden"
     excerpt: "Mr. Biden celebrated the passage of his plan in the wake of the ... These compromises were negotiated to satisfy moderate Democrats in the Senate, particularly Senator Joe Manchin. As Democrats have a 50-seat majority in the Senate, they require support ..."
     publishedDateTime: 2021-03-11T12:01:00Z

@@ -272,6 +272,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump's last defense secretary blames Trump for Capitol riot"
+    excerpt: "CNN's Andrew McCabe reacts to former acting Defense Secretary Chris Miller, who was in the office during the US Capitol riot, saying that he sees \"cause and effect\" between former President Donald Trump's speech and the insurrection on January 6th,"
+    publishedDateTime: 2021-03-12T18:54:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/12/chris-miller-trump-us-capitol-riot-andrew-mccabe-nr-vpx-sot.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/12/chris-miller-trump-us-capitol-riot-andrew-mccabe-nr-vpx-sot.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/12/chris-miller-trump-us-capitol-riot-andrew-mccabe-nr-vpx-sot.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312133111-chris-miller-file-november-13-2020-01-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump country resists vaccines, frustrating officials"
     excerpt: "Biden health officials will meet with Republican Ways and Means Committee staff as early as this week to discuss how to improve ways to track nursing home fatalities during the pandemic. Good Monday morning and welcome to PULSE,"
     publishedDateTime: 2021-03-08T15:00:00Z
@@ -300,6 +316,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "New York prosecutor targeting Trump won't stand for reelection"
+    excerpt: "The move means the endgame of the Trump probe will almost certainly be overseen by a new DA elected in November."
+    publishedDateTime: 2021-03-12T12:37:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/03/12/ny-prosecutor-targeting-trump-wont-stand-for-reelection-1367947"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 110
 
 secured: "s58/DqSze9s31Qd99sT/DU7yCwCmIdE+vif/7h1cxa8Q3N3CZRwDLsu/BPDu9mOihxJVjbnN1q7iWYGeRTJ2HgSOd/xh3P7VWrMdO4wQJBbdJhBWO7N/kJIMReI0ZeJglxxuaXAkTxvX6dkIxhBuNYUlbi4jOWgKoassiJaksOcQaiafZ5FveXONbtheRgNN3UuNOflRiPOLGPYKz88aGLqgyrSC343DJFCZUtGAKHHiECz9KhNNT+w7177AylSPVDGJQR0IkApqbXI3CSG6CJjLHdqlTxzloCDqzBoMh7lhVHj+j0Zf1aj+pQigY5tENfM7qS/j1MS+UsBVhxZWYCmyxvgVN/Y5zb+6L18h+zc=;o6/nBL+uBvaV6eFCGCnstA=="
 ---

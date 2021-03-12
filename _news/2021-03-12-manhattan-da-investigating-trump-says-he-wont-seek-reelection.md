@@ -113,10 +113,10 @@ related:
         isCached: true
   - title: "Manhattan prosecutor who is investigating Trump will not seek re-election"
     excerpt: "(Reuters) - Manhattan District Attorney Cyrus Vance Jr said on Friday he will not seek re-election in November, making it likely that his criminal investigation into former U.S. President Donald Trump will be left for his successor. The decision by Vance ..."
-    publishedDateTime: 2021-03-12T15:47:00Z
-    webUrl: "https://www.reuters.com/article/us-new-york-vance/manhattan-prosecutor-who-is-investigating-trump-will-not-seek-re-election-idUSKBN2B425D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B425D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B425D"
+    publishedDateTime: 2021-03-12T15:46:00Z
+    webUrl: "https://www.reuters.com/article/new-york-vance-idINKBN2B424O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B424O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B424O"
     type: article
     provider:
       name: Reuters
@@ -393,6 +393,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "SkkkR1UFVXLnod/sG/pNHue9C1LG7BXss8fzNZ37v4zxa7ecc5plFqP12p5LO6hkj+fxpFLbrF3fKQg7T+7B0yq6lXW845jy9Re7N2F37RshuCIdgdrJeNj+TDYUa7uR0zD0d6phhW7hK26I66i7Y549ZyS+r9sajSY4VLh4hYSqf7fRjmRpD6VLDuFiAm5olJ9h9uB05+fvxzT7wcjRxEApUDbTElrmyfOjWCilLn/JibsjVWxlLR0jIfIeOU3k+yt/pTJNiFItE/R+R3SAoX3IZSn6463iRuVYdcZlcpbWsDpWVOZboOuXHXxyat8fepHYGsspJBxCnMExOkUteOkLAjScSM7Q0DNjaJq7Yug=;MOeDCpqLJa6Rhv6t4emnog=="
+secured: "R4YFGkZ5Cb30QrHj0+ZKWqF6Qo/0frJwBTHQyFg2QPj0AtYFSF/Zd0+I8wzVx3J7aK7HLfdxsdH7g6Si4VrNb/q5KteBBQSRP7D6FxR+bxxPzjvloiGCs0Iig05BU02WyD+IwJzKVI5fC6Ffh7OxWM/5DXLN1+7WrJZOyIjqWYVQdis/Ab3LnU2fnMm7cecbdKtaS85QRDL9pLKHNiBh7ZWIa2OKLsjQ9jDtCDOyYL5yG1DyXaQH7i70Gx2bhQ4MXv72VbGeOE3uZ/wGWaBF2je0PasvPW4OdVEc/rEEqRiV+s4udgaSnIO5H4FUmr9wb867lFwprirY7dBw/uJtbjBIVPqy1bsGD7OXhn7J4/drehCiJbkZPFrsvpF7xyeJNDqN9KDWNYkQqZvg85UzH2FLo/H2YciVAOBE19gpglwe14/7bkflyE/x4wqMzduHnRcVj37oCRe+/U8eW0ua9BRF5UQsQnN4uO/wMe1QOL++ZF5WZGN7Ol1Mthl7VcwYpc51BcMXcx02xvjEkLiTgA==;Armt0pPjzppzk7VWAHdjsw=="
 ---
 

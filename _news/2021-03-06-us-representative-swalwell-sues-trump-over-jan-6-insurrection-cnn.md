@@ -123,10 +123,10 @@ related:
         isCached: true
   - title: "Manhattan prosecutor who is investigating Trump will not seek re-election"
     excerpt: "(Reuters) - Manhattan District Attorney Cyrus Vance Jr said on Friday he will not seek re-election in November, making it likely that his criminal investigation into former U.S. President Donald Trump will be left for his successor. The decision by Vance ..."
-    publishedDateTime: 2021-03-12T15:47:00Z
-    webUrl: "https://www.reuters.com/article/us-new-york-vance/manhattan-prosecutor-who-is-investigating-trump-will-not-seek-re-election-idUSKBN2B425D"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B425D"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B425D"
+    publishedDateTime: 2021-03-12T15:46:00Z
+    webUrl: "https://www.reuters.com/article/new-york-vance-idINKBN2B424O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B424O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B424O"
     type: article
     provider:
       name: Reuters

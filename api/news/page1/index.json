@@ -2,6 +2,174 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-12-joe-biden-just-cant-quit-delaware-even-as-president.md",
+      "title": "Joe Biden just can't quit Delaware -- even as president",
+      "excerpt": "Bidding farewell to his adopted home state in January, Joe Biden -- then the President-elect -- grew emotional as he boarded his flight to Washington for the inauguration.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h2Pk-WeICdk/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/h2Pk-WeICdk/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210302111433-biden-nov-7-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html",
+      "publishedDateTime": "2021-03-12T12:44:39-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-cuomo-invokes-his-daily-fight-with-trump-as-democrats-call-for-him-to-resign.md",
+      "title": "Cuomo invokes his daily ‘fight’ with Trump as Democrats call for him to resign",
+      "excerpt": "New York Gov. Andrew Cuomo defended his ability to govern despite the controversy surrounding him, saying that he has handled multiple issues -- like feuding with former President Trump -- simultaneously.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F5Knj6xoRcY/cuomo-fight-trump-daily-resign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F5Knj6xoRcY/cuomo-fight-trump-daily-resign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d000a34-5ccc-46aa-8af4-9f28c864e571/35df76f6-3d51-490b-9688-2a831c83b17b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-fight-trump-daily-resign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-fight-trump-daily-resign.amp",
+      "publishedDateTime": "2021-03-12T12:02:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-psaki-pressed-on-bidens-fourth-of-july-goal-cautions-its-not-a-return-to-total-normalcy.md",
+      "title": "Psaki pressed on Biden's Fourth of July goal, cautions it's not a 'return to total normalcy'",
+      "excerpt": "White House press secretary Jen Psaki said President Biden’s aspiration for Americans to have fourth of July celebrations is not calling for a “mass event” or “return to total normalcy.”",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/THMNIKEBip0/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/THMNIKEBip0/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 184,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp",
+      "publishedDateTime": "2021-03-12T11:21:19-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-bidens-coronavirus-team-outlines-efforts-to-meet-ambitious-new-goals.md",
       "title": "Biden's coronavirus team outlines efforts to meet ambitious new goals",
       "excerpt": "The White House's coronavirus response team on Friday outlined the different ways the federal government will be working to implement President Joe Biden's ambitious goals unveiled during his prime-time address to the nation Thursday night.\n    \n",
@@ -209,62 +377,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-12-republicans-scratch-heads-at-bidens-goals-for-may-covid-vaccine-eligibility-july-fourth-family-gatherings.md",
-      "title": "Republicans scratch heads at Biden's goals for May COVID vaccine eligibility, July Fourth family gatherings",
-      "excerpt": "The CDC said that those who are fully vaccinated can spend time with unvaccinated people indoors as long as those who are unvaccinated are at low-risk.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4mWSJVG9WY/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4mWSJVG9WY/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21065030623614.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth.amp",
-      "publishedDateTime": "2021-03-12T06:08:28-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-03-12-biden-aims-for-quicker-shots-independence-from-this-virus.md",
       "title": "Biden aims for quicker shots, ‘independence from this virus’",
       "excerpt": "President Joe Biden has outlined his plan to make all adult Americans eligible for vaccination by May 1 — and he raised the prospect of beginning to gain what he called “independence from this virus”",
@@ -425,6 +537,62 @@
       ]
     },
     {
+      "path": "_news/2021-03-12-biden-running-out-of-time-to-make-decision-on-future-of-us-mission-in-afghanistan-as-situation-worsens.md",
+      "title": "Biden running out of time to make decision on future of US mission in Afghanistan as situation worsens",
+      "excerpt": "With 50 days until the United States is supposed to complete a total withdrawal of troops and personnel from Afghanistan -- a move that a Pentagon report stated could be devastating to \"the survival of the Afghan state as we know it\" -- the Biden administration is running out of time to decide on a way",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qzepI1jOyXg/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qzepI1jOyXg/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190709162539-07-afghanistan-analysis-file-us-troops-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/12/politics/biden-afghanistan-time-running-out/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/biden-afghanistan-time-running-out/index.html",
+      "publishedDateTime": "2021-03-12T03:51:24-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-new-york-prosecutor-investigating-trump-announces-he-wont-seek-reelection.md",
       "title": "New York prosecutor investigating Trump announces he won't seek reelection",
       "excerpt": "The New York prosecutor leading the most significant criminal probe against Donald Trump and his business announced Friday he is not running for reelection, putting the spotlight on who will be elected to take over the investigation into the former president and his business.\n    \n",
@@ -437,7 +605,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 528,
+      "heat": 568,
       "tags": null,
       "images": [
         {
@@ -647,62 +815,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-the-point-7-takeaways-from-joe-bidens-prime-time-covid-19-speech.md",
-      "title": "The Point: 7 takeaways from Joe Biden's prime-time Covid-19 speech",
-      "excerpt": "President Joe Biden marked a year since the Covid-19 pandemic swept across the country with his first prime-time address -- a speech in which he mixed hard numbers on vaccine distribution with appeals to unity and a deep-seated belief in the power of America to overcome any challenge.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9BznrUPmI6I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9BznrUPmI6I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 255,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311205938-06-biden-address-0311-i-need-you-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-speech-takeaways/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-speech-takeaways/index.html",
-      "publishedDateTime": "2021-03-11T18:46:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -972,62 +1084,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-frustration-in-our-future-democrats-prepare-for-internal-clashes-that-could-slow-bidens-agenda.md",
-      "title": "'Frustration in our future': Democrats prepare for internal clashes that could slow Biden's agenda",
-      "excerpt": "House and Senate Democrats are bracing for a clash over the next phase of President Joe Biden's agenda, preparing for a long slog and intense debate over competing priorities and legislative tactics after quickly coming together on the massive relief plan signed into law Thursday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 201,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210310152321-03-pelosi-schumer-relief-bill-presser-signing-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html",
-      "publishedDateTime": "2021-03-11T15:05:55-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     },
     {
@@ -1305,62 +1361,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-fauci-who-opposed-china-travel-ban-and-praised-their-transparency-criticizes-trump-response.md",
-      "title": "Fauci, who opposed China travel ban and praised their transparency, criticizes Trump response",
-      "excerpt": "White House chief medical adviser Dr. Anthony Fauci, who early on in the coronavirus pandemic opposed a travel ban on China and praised their transparency, on Tuesday criticized former President Donald Trump for not pushing the country harder for more information on the outbreak.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KffGTSsyd2I/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KffGTSsyd2I/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Anthony-Fauci-1-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response.amp",
-      "publishedDateTime": "2021-03-11T12:13:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

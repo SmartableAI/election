@@ -127,6 +127,22 @@ related:
         width: 1024
         height: 641
         isCached: true
+  - title: "Biden speech draws more broadcast viewers than Trump's first TV address"
+    excerpt: "LOS ANGELES (Reuters) - U.S. President Joe Biden’s prime-time address on the fight against COVID-19 attracted more broadcast television viewers on Thursday than former President Donald Trump’s first speech to the nation, according to preliminary ..."
+    publishedDateTime: 2021-03-12T18:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-coronavirus-ratings-idUSKBN2B42KO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B42KO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B42KO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554720816&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B1J6"
+        width: 831
+        height: 545
+        isCached: true
   - title: "The difference between the Trump tax cuts and the Biden relief bill, in one chart"
     excerpt: "The Trump White House had argued that this was simply a side effect of legislation it presented as helpful to Americans generally. There was an effort to present the top-heavy tax cuts as a nonetheless-positive change for the public,"
     publishedDateTime: 2021-03-09T20:14:00Z

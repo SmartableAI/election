@@ -31,35 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "'Frustration in our future': Democrats prepare for internal clashes that could slow Biden's agenda"
-    excerpt: "House and Senate Democrats are bracing for a clash over the next phase of President Joe Biden's agenda, preparing for a long slog and intense debate over competing priorities and legislative tactics after quickly coming together on the massive relief plan signed into law Thursday.\n    \n"
-    publishedDateTime: 2021-03-11T23:05:55Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html"
+  - title: "Biden to mark one-year of Covid-19 shutdown in primetime address Thursday"
+    excerpt: "President Joe Biden will deliver his first primetime address this Thursday, commemorating the milestone of one year since the global pandemic coronavirus shut down much of the nation.\n    \n"
+    publishedDateTime: 2021-03-08T17:44:51Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XHJus_DzOfA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-primetime-address-covid-19/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-primetime-address-covid-19/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 161
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310152321-03-pelosi-schumer-relief-bill-presser-signing-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306205230-01-joe-biden-0306-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden running out of time to make decision on future of US mission in Afghanistan as situation worsens"
-    excerpt: "With 50 days until the United States is supposed to complete a total withdrawal of troops and personnel from Afghanistan -- a move that a Pentagon report stated could be devastating to \"the survival of the Afghan state as we know it\" -- the Biden administration is running out of time to decide on a way"
-    publishedDateTime: 2021-03-12T11:51:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qzepI1jOyXg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/biden-afghanistan-time-running-out/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/biden-afghanistan-time-running-out/index.html"
+  - title: "Senate leaders win over key Democratic holdout as party struggles to push through Biden's Covid relief plan"
+    excerpt: "The Senate is bracing for a series of politically tough amendment votes Friday that could stretch late into the night and into the early hours of Saturday, the last major hurdle senators face before voting on President Joe Biden's sweeping pandemic relief bill.\n    \n"
+    publishedDateTime: 2021-03-06T04:40:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DG0C4vk-u-I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/senate-covid-relief-vote-a-rama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/senate-covid-relief-vote-a-rama/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 159
+    quality: 157
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190709162539-07-afghanistan-analysis-file-us-troops-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223152543-joe-manchin-january-27-2021-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

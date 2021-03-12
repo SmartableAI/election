@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6936053002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6936053002"
 type: article
 quality: 125
-heat: 565
+heat: 585
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/c89f7b009dbebfd512787d31b0b418199ee62348/0_185_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=20a2ea5b422f9fc530aba039568c149a"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden played ‘sheriff’ on ‘09 aid, now salesman on COVID law"
+    excerpt: "WASHINGTON — In 2009, then-Vice President Joe Biden was “Sheriff Joe,” the enforcer making sure federal dollars from a massive economic aid package were getting to the right places and quickly. This time, President Biden’s role is different ..."
+    publishedDateTime: 2021-03-12T20:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"

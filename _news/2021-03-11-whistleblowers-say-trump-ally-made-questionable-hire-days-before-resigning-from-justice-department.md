@@ -255,6 +255,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump's last defense secretary blames Trump for Capitol riot"
+    excerpt: "CNN's Andrew McCabe reacts to former acting Defense Secretary Chris Miller, who was in the office during the US Capitol riot, saying that he sees \"cause and effect\" between former President Donald Trump's speech and the insurrection on January 6th,"
+    publishedDateTime: 2021-03-12T18:54:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/12/chris-miller-trump-us-capitol-riot-andrew-mccabe-nr-vpx-sot.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/12/chris-miller-trump-us-capitol-riot-andrew-mccabe-nr-vpx-sot.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/12/chris-miller-trump-us-capitol-riot-andrew-mccabe-nr-vpx-sot.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312133111-chris-miller-file-november-13-2020-01-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's acting Defense Secretary says his January 6 speech incited Capitol rioters"
     excerpt: "(CNN)Former acting Secretary of Defense Christopher Miller believes former President Donald Trump's speech on the morning of January 6 incited the rioters who stormed the US Capitol. \"The question is would anybody have marched on the Capitol and overrun ..."
     publishedDateTime: 2021-03-11T22:02:00Z
@@ -299,6 +315,15 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "New York prosecutor targeting Trump won't stand for reelection"
+    excerpt: "The move means the endgame of the Trump probe will almost certainly be overseen by a new DA elected in November."
+    publishedDateTime: 2021-03-12T12:37:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/03/12/ny-prosecutor-targeting-trump-wont-stand-for-reelection-1367947"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 110
 
 secured: "dZeeiXMewEh7/237a3KErajaXUkS1dmo9rYMoYN0mrodjGIiIU+6OR36M+nZQOUXEdnKCWNELAIqFxuEry97iaaVd+oPPxyJi/WbmpeGMLYrM++cK3m8mXTt7qytuTqdDj6mBl/AVb7xfi1X16ePUiModsOi793qgjIhJXY5PjSzwzIHK3bNuZRQxYVDWvEFRKryKLueq5Izx/vOn3SXzgP1zY0+x+wp9kG2z7DELLeGLm7Oi91oKFyDBm/+kPitUZGS6x6rdFqmIhsAwtSRXpCSHkmpUJxsrk5YfkRW0AHmTheQBrtYWYPgdsdxpxMZIX+wIzlNAfUKxfI0UZaiZHzhyrLL5Q613DUDeCw970I=;GGdrEhxqEG0DjeWG+XXBnQ=="
 ---
