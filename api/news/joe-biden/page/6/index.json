@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-01-07-what-could-democratic-control-of-senate-mean-for-wages-child-care-unions-under-biden.md",
+      "title": "What could Democratic control of Senate mean for wages, child care, unions under Biden?",
+      "excerpt": "With Democrats in control of the White House and Congress, President Joe Biden may reshape the workplace from raising wages to encouraging diversity",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/money/2021/01/07/georgia-senate-wins-dem-control-how-biden-affect-workplace/6565695002/",
+      "originalUrl": "https://www.usatoday.com/story/money/2021/01/07/georgia-senate-wins-dem-control-how-biden-affect-workplace/6565695002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6565695002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6565695002",
+      "publishedDateTime": "2021-01-06T23:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-watch-live-president-elect-biden-to-offer-remarks-on-chaos-at-capitol.md",
       "title": "Watch live: President-elect Biden to offer remarks on chaos at Capitol",
       "excerpt": "President-elect Joe Biden is expected to discuss the breach of the Capitol by pro-Trump protesters at a press conference in Wilmington, Del., on Wednesday afternoon. Watch the live video above.",

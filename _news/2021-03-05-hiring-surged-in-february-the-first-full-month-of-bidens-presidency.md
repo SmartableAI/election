@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/february-job-report-employment-unem
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/"
 type: article
 quality: 125
-heat: 725
+heat: 745
 published: true
 
 provider:
@@ -412,6 +412,22 @@ related:
     quality: 113
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/9ef40f5c-0acf-43da-81cc-a3bd9d5e816d-AP21069781125019.jpg?auto=webp&crop=5999,3375,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Independence from this virus': President Biden shifts from 'darkest days' to hope on the horizon"
+    excerpt: "Making his first primetime address as president, President Joe Biden mourned a \"collective suffering\" over the last year but pivoted to a more hopeful future"
+    publishedDateTime: 2021-03-12T05:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/president-biden-address-shifts-darkest-days-hope-horizon/4648511001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4648511001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4648511001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/f289ce21-471d-4cd2-85bc-0cf6241078ba-AP21071051320807.jpg?auto=webp&crop=5223,2938,x1,y336&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

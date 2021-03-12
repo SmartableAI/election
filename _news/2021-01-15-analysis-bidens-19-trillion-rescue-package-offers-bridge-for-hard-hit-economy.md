@@ -181,6 +181,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "Economics of Biden's $1.9 trillion COVID relief bill"
+    excerpt: "The $1.9 trillion American Rescue Plan will provide cash payments to lower-income Americans, child care aid and student loan support. Joe Minarik, senior vice president and director of research for the Committee for Economic Development,"
+    publishedDateTime: 2021-03-12T03:36:00Z
+    webUrl: "https://www.cbsnews.com/video/economics-of-biden-covid-relief-bill-american-rescue-plan-joe-minarik-analysis/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/12/555e7901-70d4-48e7-b6fa-f41db6279263/thumbnail/1200x630/0b9131161798ffac9b7d67c507b44e75/cbsn-fusion-economics-of-the-19-trillion-covid-relief-bill-thumbnail-666533-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden proposes $1,400 payments and $15 minimum wage in coronavirus relief proposal"
     excerpt: "Biden proposes $1,400 payments and $15 minimum wage in coronavirus relief proposal President-elect Joe Biden released a comprehensive economic relief bill to help the country dig out of the hard times brought on by the pandemic."
     publishedDateTime: 2021-01-17T08:13:00Z

@@ -2,6 +2,63 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-25-harris-addresses-vaccine-hesitancy-in-dc-pharmacy-visit.md",
+      "title": "Harris addresses vaccine hesitancy in DC pharmacy visit",
+      "excerpt": "Vice President Kamala Harris on Thursday visited a local pharmacy in Washington, DC, to highlight the Biden administration's retail pharmacy vaccination program and combat vaccine hesitancy.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gsWiVnj6pro/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gsWiVnj6pro/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210225111325-01-harris-pharmacy-vaccines-0225-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/25/politics/harris-dc-pharmacy/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/25/politics/harris-dc-pharmacy/index.html",
+      "publishedDateTime": "2021-02-25T08:34:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-removing-nuclear-launch-powers-from-president-biden-would-be-wildly-unconstitutional-mike-lee.md",
       "title": "Removing nuclear launch powers from President Biden would be 'wildly unconstitutional': Mike Lee",
       "excerpt": "Sen. Mike Lee R-UT. said Thursday that it is 'really weird' and 'unconstitutional' that Democrats want to change the nuclear launch code policy, which places sole power in the hands of the president. ",
@@ -1284,62 +1341,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/murkowski-deb-haaland-alaska.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/murkowski-deb-haaland-alaska.amp",
       "publishedDateTime": "2021-02-23T13:07:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.md",
-      "title": "Trump wishes Tiger Woods a speedy recovery after LA crash",
-      "excerpt": "Former President Trump is wishing golfing legend Tiger Woods well after he experienced a tragic car accident on Tuesday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuPgZsz6pXU/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XuPgZsz6pXU/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 455,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b77fd6d9-01d7-4f05-b55c-46c5036d321e/d1927e9e-87bd-409d-b12b-a3c4ff0a798f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-wishes-tiger-woods-a-speedy-recovery-after-la-crash.amp",
-      "publishedDateTime": "2021-02-23T12:44:06-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

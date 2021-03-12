@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-ja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
 type: article
 quality: 190
-heat: 670
+heat: 710
 published: true
 
 provider:
@@ -287,6 +287,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mark Levin rips Biden over 'disgusting, propagandistic' address to nation on coronavirus pandemic"
+    excerpt: "President Biden's remarks on the progress in the fight against the coronavirus pandemic were \"the most disgusting, propagandistic speech\" any politician has ever given, Mark Levin told \"Hannity\" Thursday."
+    publishedDateTime: 2021-03-12T04:58:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r63wfcMzLZ0/mark-levin-biden-disgusting-propagandistic-speech"
+    ampWebUrl: "https://www.foxnews.com/politics/mark-levin-biden-disgusting-propagandistic-speech.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-levin-biden-disgusting-propagandistic-speech.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7002c7b-ee57-4840-9db6-1fc0336cd311/8a7eb0bc-d8a9-4224-a564-6130ee1f0967/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
     excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."
     publishedDateTime: 2021-03-08T17:22:13Z
@@ -364,6 +380,22 @@ related:
     quality: 137
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a2188c1-0aaf-4609-b058-c291349e97ae/0ad8b79a-d025-4da9-bfa4-d9bf54f3431d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Hannity urges Biden to 'just thank Donald Trump' for Operation Warp Speed: 'No Trump, no vaccine, Joe'"
+    excerpt: "Fox News host Sean Hannity urged President Biden Thursday to call former President Donald Trump and thank him for all that he did to fight the coronavirus pandemic."
+    publishedDateTime: 2021-03-12T05:17:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-urges-biden-thank-trump-vaccine-covid"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-urges-biden-thank-trump-vaccine-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-urges-biden-thank-trump-vaccine-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e65b05f-d34b-4b9b-b820-7c856b74b47b/7e19b149-ebd2-4164-a37a-f729659e008c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

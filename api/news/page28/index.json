@@ -2,6 +2,62 @@
   "page": 28,
   "value": [
     {
+      "path": "_news/2021-01-26-same-problems-will-resurface-if-biden-rolls-back-border-wall-construction-former-nm-governor-warns.md",
+      "title": "'Same problems' will resurface if Biden rolls back border wall construction, former NM governor warns",
+      "excerpt": "Former New Mexico Republican Gov. Susana Martinez warned Tuesday that it is 'very wrong' for the Biden administration to halt the construction of the southern border wall, calling the fence a 'piece of the security of our nation.'",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sWBydrFBEdI/biden-rolls-back-border-wall-construction-susana-martinez",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/sWBydrFBEdI/biden-rolls-back-border-wall-construction-susana-martinez",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 180,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b72d6080-2c5a-4341-bca9-77cd4fb2c57a/bfb73cf2-ae68-49f9-af17-20b6c1691a9b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-rolls-back-border-wall-construction-susana-martinez.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-rolls-back-border-wall-construction-susana-martinez.amp",
+      "publishedDateTime": "2021-01-26T10:42:03-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-rnc-chair-ronna-mcdaniel-says-trumps-not-going-to-start-a-third-party.md",
       "title": "RNC Chair Ronna McDaniel says Trump’s ‘not going to start a third party’",
       "excerpt": "Republican National Committee (RNC) chair Ronna McDaniel says she’s confident that former President Trump won’t start a splinter party.",
@@ -1310,58 +1366,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-26-deborah-birx-said-trump-was-being-given-parallel-data-on-covid-19.md",
-      "title": "Deborah Birx said Trump was being given ‘parallel data’ on covid-19",
-      "excerpt": "Deborax Birx saw Trump presenting graphs that she never made, the former White House coronavirus response coordinator said Sunday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/",
-      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 185,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/thumbnails/600dddea4cedfd000169c37a/2021-01-24T204202Z_1_OVDWKJOWV_RTRMADC_0_HEALTH-CORONAVIRUS-USA.jpg&w=1440",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/25/deborah-birx-interview-trump-covid/?outputType=amp",
-      "publishedDateTime": "2021-01-25T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

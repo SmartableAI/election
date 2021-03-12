@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-12-biden-aims-for-quicker-shots-independence-from-this-virus.md",
+      "title": "Biden aims for quicker shots, 'independence from this virus'",
+      "excerpt": "Biden aims for quicker shots, 'independence from this virus' In a prime-time address, President Joe Biden has outlined his plan to make all adult Americans eligible for vaccination by May 1 ...",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_bee013e7b6c546c9bb315f11a64481ed_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
+      "publishedDateTime": "2021-03-11T21:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABCNews",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-joe-biden-administration-will-devote-650-million-to-help-schools-expand-testing.md",
       "title": "Joe Biden administration will devote $650 million to help schools expand testing",
       "excerpt": "During his prime time speech Thursday, President Joe Biden noted his announcement last week to vaccinate teachers and school officials by the end of March will help the majority of K-8 schools reopen within his first 100 days in office, or by the end of ...",
@@ -587,7 +639,7 @@
       "originalUrl": "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 725,
+      "heat": 745,
       "tags": null,
       "images": [
         {
@@ -1497,58 +1549,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-biden-cia-nominee-burns-to-focus-on-authoritarian-adversary-china.md",
-      "title": "Biden CIA nominee Burns to focus on 'authoritarian adversary' China",
-      "excerpt": "President Joe Biden's nominee to be director of the CIA, William Burns, told a Senate committee on Wednesday that he saw competition with China - and countering its \"adversarial, predatory\" leadership - as the key to U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-cia-idUSKBN2AO19B",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-cia-idUSKBN2AO19B",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552770877&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N13F",
-          "width": 717,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AO19B",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO19B",
-      "publishedDateTime": "2021-02-24T12:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

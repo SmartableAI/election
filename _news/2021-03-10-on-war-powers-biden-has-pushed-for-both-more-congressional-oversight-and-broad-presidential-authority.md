@@ -431,6 +431,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "'Independence from this virus': President Biden shifts from 'darkest days' to hope on the horizon"
+    excerpt: "Making his first primetime address as president, President Joe Biden mourned a \"collective suffering\" over the last year but pivoted to a more hopeful future"
+    publishedDateTime: 2021-03-12T05:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/president-biden-address-shifts-darkest-days-hope-horizon/4648511001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4648511001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4648511001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/f289ce21-471d-4cd2-85bc-0cf6241078ba-AP21071051320807.jpg?auto=webp&crop=5223,2938,x1,y336&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Why did Biden decide to sign the bill today?"
     excerpt: "Watch \"Why did Biden decide to sign the bill today?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-03-11T19:24:00Z

@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-01-20-do-latino-voters-think-joe-biden-can-unite-the-country.md",
+      "title": "Do Latino voters think Joe Biden can unite the country?",
+      "excerpt": "\"It's going to be hard, because there's still going to be people that think the election was a fraud,\" said Yumaira Saavedra of Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
+      "originalUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_03/3443384/210119-washington-capitol-inauguration-prep-2x1-ac-1055p_febc111051f1ce6e390fc8d524eb2182.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254800",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254800",
+      "publishedDateTime": "2021-01-20T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-explainer-election-claims-and-why-its-clear-biden-won.md",
       "title": "EXPLAINER: Election claims, and why it's clear Biden won",
       "excerpt": "As Democrat Joe Biden is sworn in Wednesday as the nation’s 46th president, Donald Trump’s most ardent supporters still believe Biden was not legitimately elected after Trump continues to argue the election was stolen.",
@@ -732,7 +789,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-55670801",
       "featuredContent": null,
       "highlight": null,
-      "heat": 405,
+      "heat": 425,
       "tags": null,
       "images": [
         {
@@ -1502,58 +1559,6 @@
         "Election",
         "Joe Biden",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-what-could-democratic-control-of-senate-mean-for-wages-child-care-unions-under-biden.md",
-      "title": "What could Democratic control of Senate mean for wages, child care, unions under Biden?",
-      "excerpt": "With Democrats in control of the White House and Congress, President Joe Biden may reshape the workplace from raising wages to encouraging diversity",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/2021/01/07/georgia-senate-wins-dem-control-how-biden-affect-workplace/6565695002/",
-      "originalUrl": "https://www.usatoday.com/story/money/2021/01/07/georgia-senate-wins-dem-control-how-biden-affect-workplace/6565695002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6565695002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6565695002",
-      "publishedDateTime": "2021-01-06T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],
