@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden directs states to open vaccinations to all adults by May 1"
+    excerpt: "President Joe Biden will use his first evening address to the nation to open the next chapter of the coronavirus pandemic, taking stock of the worst year in recent memory while projecting hope the next one will be better.\n    \n"
+    publishedDateTime: 2021-03-12T02:24:57Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/m-hICRImayI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-one-year-covid-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-one-year-covid-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311200928-02-biden-address-0311-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "dYxST/SEoqE6pVwPvx/R5WDRgErxL9hzHvsYdAaMOEAcpY0BrpXiL51X2oQnkOVxE28LVDaIPeMvH90MLU5wYVsI2v6StMJ+SyBk3gNiscvp5fZN53isN60vIUS5R/9BXEFHjUXpwpJ3UM3QvxwSzFoDTNMxODg3UC7vSO6seqVoC1RVmGmdZyshjKAUQzr+kZv8xhWfFIaKoNr2mUpzM+cxLlC3jZf8unpP231vSOdBMlsS+nCIPI90AeytLkOP0wekya08psJkJzLfoio43MdSvhAuSB/oZhMr8mRPH4bma4ehh7Q0mgqAkNxanCppJZ5/WnDfe/IG6N67RqjGnqJbYqyfihB4VUyL3g8cL7w=;xdgotp1wnG4S83/Yg6Lg1w=="
 ---

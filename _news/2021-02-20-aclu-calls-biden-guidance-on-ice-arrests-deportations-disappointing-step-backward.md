@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden’s post-inauguration honeymoon appears to be over, new poll suggests"
+    excerpt: "A new national poll indicates that President Joe Biden’s approval rating has slipped during his first month in the White House."
+    publishedDateTime: 2021-03-03T17:46:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/99jrd216VxA/biden-post-inauguration-honeymoon-over-new-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-post-inauguration-honeymoon-over-new-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-post-inauguration-honeymoon-over-new-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Shalanda Young pushed by House Dem leaders for Biden budget director after Tanden defeat"
     excerpt: "House Democratic leaders on Wednesday are pushing President Biden to tap Shalanda Young – his current pick for deputy director of the Office of Management and Budget – for director, after he withdrew the nomination of Neera Tanden for the post amid controversy over her past statements."
     publishedDateTime: 2021-03-03T17:40:44Z
@@ -110,6 +126,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Timothy-Wu-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden’s failure to get Tanden confirmed follows other aborted presidential nominations in history"
+    excerpt: "President Joe Biden suffered his first major setback in confirming his Cabinet after the withdrawal this week of the nomination of Neera Tanden to serve as director of the Office of Management and Budget."
+    publishedDateTime: 2021-03-03T16:41:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OsFd5VRboRY/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Dems to introduce Biden-backed immigration bill, includes citizenship path for millions of illegal immigrants"
     excerpt: "Congressional Democrats on Thursday will unveil a sweeping immigration bill, backed by President Biden, that includes a path to citizenship for millions of illegal immigrants -- although the plan faces tough odds in the Senate."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/daines-lummis-put-hold-on-haaland-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate.amp"
 type: article
 quality: 165
-heat: -1
-published: false
+heat: 165
+published: true
 
 provider:
   name: Fox News
@@ -29,24 +29,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Susan Collins says she’ll back Biden pick Deb Haaland for Interior secretary"
-    excerpt: "U.S. Sen. Susan Collins, R-Maine, said Wednesday that she will vote to confirm U.S. Rep. Deb Haaland of New Mexico to become secretary of the interior."
-    publishedDateTime: 2021-03-04T05:32:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h1ZRq9tDZr0/susan-collins-says-shell-back-biden-pick-deb-haaland-for-interior-secretary"
-    ampWebUrl: "https://www.foxnews.com/politics/susan-collins-says-shell-back-biden-pick-deb-haaland-for-interior-secretary.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-says-shell-back-biden-pick-deb-haaland-for-interior-secretary.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/susan-collins.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "ZHAeIgAb7jyHIvjoKp+gsD86vXgrHjXp2s9fjg9tCcFwhelDzS36kxPntWJJai1f3CgBmq61pAPxBlXZcIGbGBu/lVwSfXrFLMuEJfUavtBlUibOEVqg3S4UMwtxsGjFAIVHF1Ra7WbR58fuX74RSeX7lT7CiY2PP9gxTxu+gCgS/0OvFpDlk37+EGWV8SMtfhjt23IwDyTwnE+v9kjBg7gZIXqq8mV98VuiWwFnvYRCYptEFUASsbVHYjywh8ijKXUfbe2PC291iQaz8yFBdqLMRFtG1OZtH/gnun/nQJG0zRHv+mu4XmhnfWZ7rMzJ4NzO+1vDS73fTFG8o/Oth8gCRHdrGUjU4MW+5DgLXUo=;aszvU6EZ60r3kwtx+3w41g=="
 ---

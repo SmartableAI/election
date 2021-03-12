@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-takes-credit-vaccine.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-takes-credit-vaccine.amp"
 type: article
 quality: 173
-heat: 193
+heat: 173
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Trump says US ‘probably’ would never have COVID-19 vaccine if he wasn’t president"
-    excerpt: "Former President Donald Trump on Wednesday said that if not for him Americans would likely never receive the COVID-19 vaccine. “I hope everyone remembers when they’re getting the COVID-19"
-    publishedDateTime: 2021-03-11T00:24:00Z
-    webUrl: "https://nypost.com/2021/03/10/trump-says-us-probably-wouldnt-have-covid-19-vaccine-if-not-for-him/"
-    ampWebUrl: "https://nypost.com/2021/03/10/trump-says-us-probably-wouldnt-have-covid-19-vaccine-if-not-for-him/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/trump-says-us-probably-wouldnt-have-covid-19-vaccine-if-not-for-him/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 130
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-5.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "15zJONiWnGayib2EtHD7Wwboh1LP1bbsTcGF755RyBvdEIFfXUC1rZqQWWNfpseyKGV3bSNIU+jtwR+FhmBrmJgJ3EMGAZIhEWtK5PNsXZTqAlDGSgeJSDb0i75z/hCXVr8ftk+ORYiKRg0GGAhOs17tshh32cMYcjGyLJnJuCw3YYF0f9LccyP999OsolGAY4gbtL30sqLl7OZ0zChCUghD05lJR34hzeF2FQPY6y3kExS/830vT7RdxpUQZfd7inDvZFH1MaqPnQrIwHkACXpx+z+GRPuJB3HbyYnPoBOGEHtLjndWGNJsRlDmyF4J7XDk55VpRehaVWCXr7IGKZ9P/xtiL90PK7AccWaQICg=;SDulg8srHjuoTsOWAEjXoQ=="
 ---

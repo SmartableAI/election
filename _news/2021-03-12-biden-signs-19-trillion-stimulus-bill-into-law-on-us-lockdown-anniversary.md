@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2B32U9"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2B32U9"
 type: article
 quality: 122
-heat: 142
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Latest: Biden says ‘we all lost something’ to pandemic"
+    excerpt: "President Joe Biden is delivering a somber but optimistic message on the one-year anniversary of the coronavirus pandemic"
+    publishedDateTime: 2021-03-12T01:31:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-says-we-all-lost-something-to-pandemic/2021/03/11/8e330f3a-82d0-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden to sign $1.9 trillion stimulus bill and urge vigilance in primetime speech"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden will sign his $1.9 trillion stimulus bill into law on Thursday ahead of an evening speech in which he is set to mark the one-year anniversary of the U.S. coronavirus pandemic lockdown, commemorating losses while ..."
     publishedDateTime: 2021-03-11T17:57:00Z
@@ -46,6 +62,20 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554580829&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A1OP"
         width: 817
         height: 545
+        isCached: true
+  - title: "'Neanderthal thinking' for states to lift mask mandate -Biden"
+    excerpt: "News Agency 'Neanderthal thinking' for states to lift mask mandate -Biden. Posted . U.S. President Joe Biden on Wednesday said decisions to end the required wearing of masks - suc"
+    publishedDateTime: 2021-03-04T10:05:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE2JAZFJ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210303&i=OVE2JAZFJ&r=OVE2JAZFJ&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "CjY1XicLzBlnzKkqncV9fUTJPMQLILbhJpi6bW3Lwv4+cjOh3vYMUNbpRfHmXdU86mO0NPGencNOHMwDpx5+AMmrDkwfR7RM1cE/gelEnckDES/4PSZFnXSnBuvb/FzhZ0g+q3bgx7iVWAX8uvEReTqKXmVazZwQlLNpo1VJmDmzp076VmKXYMYYbcGsIMr4UTYgETWaPU2xNFVtvOzk184/j/13XnbfxgzRTVuDrBZshB0B7ki3IwNHMi/kr8fCd5jyKXVHeZz++r/KRiygtkWIbAfLOpZkqhC+Q/GHlmpxrj2niqEM2lCCYd0g8tE8ZW7Y6JYOaAeffXx/p7Yf54OqavICG4nWQAor8cJXJ4k=;2ph2YIBYnJtfb4XM7l0fxQ=="

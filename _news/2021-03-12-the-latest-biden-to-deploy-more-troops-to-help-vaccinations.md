@@ -1,34 +1,28 @@
 ---
 category: news
 title: "The Latest: Biden to deploy more troops to help vaccinations"
-excerpt: "WASHINGTON — The Latest on President Joe Biden’s $1.9 trillion coronavirus relief package (all times local): 6:40 p.m. Support our journalism. Subscribe today. President Joe Biden is planning to announce during his prime-time address Thursday night ..."
-publishedDateTime: 2021-03-11T23:47:00Z
-originalUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html"
-webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
+excerpt: "The Latest on President Joe Biden's $1.9 trillion coronavirus relief package (all times local):"
+publishedDateTime: 2021-03-12T01:23:00Z
+originalUrl: "https://www.businessinsider.com/the-latest-biden-to-deploy-more-troops-to-help-vaccinations-2021-3"
+webUrl: "https://www.businessinsider.com/the-latest-biden-to-deploy-more-troops-to-help-vaccinations-2021-3"
+ampWebUrl: "https://www.businessinsider.com/the-latest-biden-to-deploy-more-troops-to-help-vaccinations-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-to-deploy-more-troops-to-help-vaccinations-2021-3?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
-    isCached: true
 
 related:
   - title: "Hiring surged in February, the first full month of Biden's presidency"
@@ -484,6 +478,6 @@ related:
         height: 675
         isCached: true
 
-secured: "sRTLH0RPCoxbWl7QSn/9Lnd2HWle3+XTlZIr3Bl0u35dT6TbE0K9MRC4GXdzzHoy2DKERzLJdkDkvDBXAH81uy6AIoSZFk2I2V9Nk3rqIb6MkReBIvEIGKMxURxvp1a3Tc39MqiWHPttXqWAA8l2ixlsX97du1Q7CZ4F3BfvJJOWIqpIgfgHU5i+4US4d+mS1fSS6H/QLAWJf0KCd43hDJLJt0gdE6fAtvcAQamAZofh24xXNduNConcrH2tIqjGXZua+ucqYRGEl3yj4Ow0hnY9KkW9R8Sxk1W2ZN7W3AQfWmFd5FtNW4+C5sktADJxZpl22+n/WCYq/qeteZR7dri+WBTvlp3g3tUyzaXWnN4=;doHFxCRwtRjorxEH4vBNgw=="
+secured: "qtQKrhzbrUvonzjtJyZMMIh6I6yYAVn3VAkxdvxWlyQcSwPAHpA6BoFKV9YCBvemqKy8ZByDVTlsETN4Toy4dD1QOcmoyJH5uZjo7SSH2wP2AmrYPJ2CpQyf3UM6kxAYhU14NrKtwLtNY9F5KUja2n4Yhd6+CiIXenOSVKdubVDiXDDOg+X6XnNnIZXIA4Em3ujClnIKOicMbf3kgOk6AcMYnPUL+Ak515Y5ZSfJ2huqBa9bdkvALv6TALMNcUTbl/5wcn0dBcx+LrfqGLnNJLxLV8l67XKRMcQ3aJiZ9pN+PEnpXwKIbdE3DgxyCViYo6/NcNqbU83Q7fa51xAnV6+d3lqiHbMYZlGvVb7wMuQ=;+SIZn5crcYL+HEtiMJJ4uw=="
 ---
 

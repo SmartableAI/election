@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden’s post-inauguration honeymoon appears to be over, new poll suggests"
+    excerpt: "A new national poll indicates that President Joe Biden’s approval rating has slipped during his first month in the White House."
+    publishedDateTime: 2021-03-03T17:46:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/99jrd216VxA/biden-post-inauguration-honeymoon-over-new-poll"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-post-inauguration-honeymoon-over-new-poll.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-post-inauguration-honeymoon-over-new-poll.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "ACLU calls Biden guidance on ICE arrests, deportations 'disappointing step backward'"
     excerpt: "The American Civil Liberties Union (ACLU) is criticizing the Biden administration’s new guidance for arrests and deportations under Immigration and Customs Enforcement (ICE) -- calling it a “disappointing step backward” and telling the new administration it expects “better.”"
     publishedDateTime: 2021-02-20T20:48:51Z
@@ -126,6 +142,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Timothy-Wu-GETTY.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Biden’s failure to get Tanden confirmed follows other aborted presidential nominations in history"
+    excerpt: "President Joe Biden suffered his first major setback in confirming his Cabinet after the withdrawal this week of the nomination of Neera Tanden to serve as director of the Office of Management and Budget."
+    publishedDateTime: 2021-03-03T16:41:58Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OsFd5VRboRY/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Jill Biden stiff-armed protester at campaign rally one year ago"
     excerpt: "Super Tuesday was then-candidate Joe Biden's chance at a Hail Mary pass to revive his presidential campaign -- but it was his wife, Jill, who drew praise for playing NFL-style defense that night."

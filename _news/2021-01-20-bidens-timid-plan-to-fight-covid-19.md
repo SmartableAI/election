@@ -28,547 +28,513 @@ images:
     isCached: true
 
 related:
-  - title: "Biden’s COVID bill could be defining political issue in midterm elections"
-    excerpt: "With the $1.9 trillion COVID-19 relief bill headed the President Biden’s desk, the legislative battle over the massive measure’s over, but the PR and political fights are only beginning."
-    publishedDateTime: 2021-03-10T20:40:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/uMoIORqgGXM/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package"
-    ampWebUrl: "https://www.foxnews.com/politics/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/will-democrats-or-republicans-politically-benefit-from-the-massive-covid-relief-package.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 189
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden's COVID-19 relief package slammed by pro-GOP group"
-    excerpt: "EXCLUSIVE: A pro-GOP outside group closely aligned with the Republican Governors Association (RGA) is launching an effort in three states against Democratic governors ‒ who could face challenging reelections next year ‒ over the $1.9 trillion COVID-19 relief package being pushed by President Joe Biden."
-    publishedDateTime: 2021-03-04T15:45:33Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EFNo-AheViE/bidens-blue-state-bailout-slammed-pro-gop-group"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-blue-state-bailout-slammed-pro-gop-group.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-blue-state-bailout-slammed-pro-gop-group.amp"
+  - title: "Biden ditches military flags as part of Oval Office makeover"
+    excerpt: "With new presidents come new White House decorations – especially in the commander-in-chief’s official workplace, the Oval Office."
+    publishedDateTime: 2021-01-21T02:28:59Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/CgnR-t9I9yU/biden-ditches-military-flags-oval-office-makeover"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-ditches-military-flags-oval-office-makeover.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden has gone 48 days as president without formal news conference"
-    excerpt: "President Biden was sworn into office as the 46th president of the United States 48 days ago — but he has yet to schedule a formal press conference."
-    publishedDateTime: 2021-03-09T13:51:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WJ06nnQ8u2M/biden-no-news-conference"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-news-conference.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-news-conference.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden set to address nation on anniversary of COVID-19 pandemic"
-    excerpt: "President Biden is set to deliver his first primetime address to the nation since taking office Thursday night, to mark one year since the World Health Organization designated the novel coronavirus a pandemic and shutdowns started across the country."
-    publishedDateTime: 2021-03-11T12:17:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/JyDCkSI9vAM/biden-set-to-address-nation-on-anniversary-of-covid-pandemic"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-set-to-address-nation-on-anniversary-of-covid-pandemic.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-set-to-address-nation-on-anniversary-of-covid-pandemic.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden directs states to reach full vaccine eligibility by May 1"
-    excerpt: "President Biden plans to say in an address to the nation Thursday that as part of the next phase in combatting the coronavirus, he is directing states, tribes, territories to ensure everyone is eligible for vaccination by May 1."
-    publishedDateTime: 2021-03-12T00:54:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jMXbi7hyt1s/biden-states-vaccine-eligibility-may"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-states-vaccine-eligibility-may.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-states-vaccine-eligibility-may.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e81eea02-b9ee-4037-8c41-00c2e0d60df6/c16d7856-1459-43f7-88c2-0bfb14275aca/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden’s post-inauguration honeymoon appears to be over, new poll suggests"
-    excerpt: "A new national poll indicates that President Joe Biden’s approval rating has slipped during his first month in the White House."
-    publishedDateTime: 2021-03-03T17:46:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/99jrd216VxA/biden-post-inauguration-honeymoon-over-new-poll"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-post-inauguration-honeymoon-over-new-poll.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-post-inauguration-honeymoon-over-new-poll.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "White House press corps ushered away after asking Biden questions — again"
-    excerpt: "Aides to President Biden hurried the traveling press corps away as they shouted questions at an unresponsive commander in chief in Washington Tuesday -- his 48th day in office without holding a solo press conference. "
-    publishedDateTime: 2021-03-10T16:30:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1D4HyQNkCw/white-house-press-corps-ushered-away-asking-biden-questions-again"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Oval-Office-Biden.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden signs $1.9T coronavirus relief bill in first major legislative win"
-    excerpt: "President Biden on Thursday signed into law the sweeping $1.9 trillion coronavirus relief package that Democrats muscled through Congress without any Republican support, securing the first big legislative win of his presidency. "
-    publishedDateTime: 2021-03-11T19:10:04Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vcX79ggCOnE/biden-signs-coronavirus-relief-bill-first-major-legislative-win"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-signs-coronavirus-relief-bill-first-major-legislative-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-signs-coronavirus-relief-bill-first-major-legislative-win.amp"
+  - title: "Biden removes Churchill bust from Oval Office as part of redesign"
+    excerpt: "President Biden has removed the bust of former U.K. Prime Minister Winston Churchill from display in the Oval Office -- tapping back into an Obama-era controversy over the bust."
+    publishedDateTime: 2021-01-21T15:19:03Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2SR5HAJADhY/biden-churchill-bust-oval-office"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-churchill-bust-oval-office.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-churchill-bust-oval-office.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0584f070-1f97-4141-9508-808b691dda7c/944ea7cf-d0af-40d5-b05e-e7af870b5dac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden spotted maskless on federal property hours after signing mandate"
+    excerpt: "President Biden faced criticism for removing his face mask while visiting the Lincoln Memorial on Wednesday night ... hours after signing an executive order requiring masks on federal property."
+    publishedDateTime: 2021-01-21T14:54:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XonlAZKwIi8/biden-mask-federal-property-lincoln-memorial-mandate"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-mask-federal-property-lincoln-memorial-mandate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-mask-federal-property-lincoln-memorial-mandate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021091906402-e1611240751953.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden to keep Wray as FBI director"
+    excerpt: "President Biden is expected to keep FBI Director Christopher Wray in his post during his administration, Fox News has learned."
+    publishedDateTime: 2021-01-21T16:33:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yf53wBsD-48/biden-keeps-fbi-director-wray"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-keeps-fbi-director-wray.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-keeps-fbi-director-wray.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Anita Dunn: What to know about Biden’s senior adviser"
+    excerpt: "Veteran Democratic operative Anita Dunn will be joining the White House temporarily as a senior adviser to President Joe Biden."
+    publishedDateTime: 2021-01-22T00:20:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/epo-WAGzA9s/anita-dunn-what-to-know-about-bidens-senior-adviser"
+    ampWebUrl: "https://www.foxnews.com/politics/anita-dunn-what-to-know-about-bidens-senior-adviser.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/anita-dunn-what-to-know-about-bidens-senior-adviser.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Anita-Dunn-GETTY.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Antony Blinken: What to know about Biden's secretary of state pick"
+    excerpt: "Antony Blinken, one of President Biden's longest and most trusted advisers, is set to take the helm of the State Department where he intends to reassert U.S. leadership on the global stage and unravel some of former President Trump's foreign policy decisions."
+    publishedDateTime: 2021-01-22T21:32:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/X_YZQrVpXks/antony-blinken-what-to-know-about-bidens-secretary-of-state-pick"
+    ampWebUrl: "https://www.foxnews.com/politics/antony-blinken-what-to-know-about-bidens-secretary-of-state-pick.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/antony-blinken-what-to-know-about-bidens-secretary-of-state-pick.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/11/640/320/AP20329663004767-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Catholic bishops alarmed by ‘misguided’ Biden executive order"
+    excerpt: "Catholic bishops criticized on Friday President Biden's recent executive order on applying anti-discrimination protections to certain groups, arguing it didn't properly account for religious liberty and furthered \"false theories on human sexuality.\" "
+    publishedDateTime: 2021-01-23T02:31:14Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ju18I1mdG7M/catholic-bishops-biden-discrimination-executive-order"
+    ampWebUrl: "https://www.foxnews.com/politics/catholic-bishops-biden-discrimination-executive-order.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/catholic-bishops-biden-discrimination-executive-order.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ab599ecb-1668-4f63-9264-9b290dbb6361/4efce791-81f2-4162-a2cd-be2e93315781/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "House Judiciary GOP pans media coverage of Hunter Biden bagel run"
+    excerpt: "The House Judiciary GOP Twitter handle on Sunday poked fun at journalists who reported on an apparent bagel run for Hunter Biden while the presidential motorcade waited for his order to be completed."
+    publishedDateTime: 2021-01-25T07:27:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/C4S34j1v3b0/house-judiciary-gop-pans-media-coverage-of-hunter-biden-bagel-run"
+    ampWebUrl: "https://www.foxnews.com/politics/house-judiciary-gop-pans-media-coverage-of-hunter-biden-bagel-run.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-judiciary-gop-pans-media-coverage-of-hunter-biden-bagel-run.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Senate confirms Antony Blinken as Biden's secretary of state"
+    excerpt: "The Senate on Tuesday voted 78-22 to confirm Antony Blinken as the next secretary of state -- who will be a key figure in President Biden's efforts to restore alliances across the globe and forge a new foreign policy approach."
+    publishedDateTime: 2021-01-26T17:41:45Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pKoTEf4UR0k/senate-antony-blinken-secretary-of-state"
+    ampWebUrl: "https://www.foxnews.com/politics/senate-antony-blinken-secretary-of-state.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-antony-blinken-secretary-of-state.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0741f843-e9f8-4028-af2f-1a250d66796e/97e579a3-5542-4c1d-965b-c6f6dcb0efac/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden WH criticizes US as one of world’s largest greenhouse gas emitters"
+    excerpt: "President Joe Biden took several steps to address his climate policy agenda on Wednesday."
+    publishedDateTime: 2021-01-21T01:19:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NKr6oD_0A-Y/biden-wh-us-worlds-largest-greenhouse-gas-emitters"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-wh-us-worlds-largest-greenhouse-gas-emitters.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-wh-us-worlds-largest-greenhouse-gas-emitters.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77ea87d1-171c-49ab-b026-7a118ad1121c/5c416a23-d04b-4f32-b24b-c473bceb46e9/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c25846e4-7ebf-47f9-b84c-017421ba54f9/4dbaad3b-b98a-40ad-96cf-c673de31bc79/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Lawmakers introduce bill to repeal Biden's war powers following Syria strike"
-    excerpt: "A bipartisan group of senators Wednesday called for the repeal of presidential war powers granted by Congress in 1991 and 2002, which would revoke authorization for military force in the Middle East, as tensions rise between the U.S. and Iran."
-    publishedDateTime: 2021-03-04T01:24:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NdHLmCHONI/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike"
-    ampWebUrl: "https://www.foxnews.com/politics/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lawmakers-introduce-bill-to-repeal-bidens-war-powers-following-syria-strike.amp"
+  - title: "Lloyd Austin: What to know about Biden administration's Secretary of Defense"
+    excerpt: "Retired four-star U.S. general Lloyd Austin has made history Friday by becoming America's first Black Secretary of Defense."
+    publishedDateTime: 2021-01-22T16:01:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3QUvOZhIDvw/lloyd-austin-what-to-know-about-bidens-choice-for-secretary-of-defense"
+    ampWebUrl: "https://www.foxnews.com/politics/lloyd-austin-what-to-know-about-bidens-choice-for-secretary-of-defense.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/lloyd-austin-what-to-know-about-bidens-choice-for-secretary-of-defense.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 172
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/76745ea9-cf7e-44fd-ba02-dae99ba4c924/c8528226-5005-4c08-b212-417f33fd5788/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden backs House gun background check bills that would tighten restrictions"
-    excerpt: "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system."
-    publishedDateTime: 2021-03-08T17:31:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_d_Y_MdnyAE/biden-gun-background-check-bills"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-background-check-bills.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-background-check-bills.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/i-zxjs75c-xl.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden’s COVID-19 bill heads back to the House: What’s in it, and what’s out?"
-    excerpt: "Senate Democrats passed a sweeping coronavirus relief package on a party-line basis Saturday, sending the nearly $2 trillion measure back over to the House, after which it will head to President Biden's desk for his signature."
-    publishedDateTime: 2021-03-08T16:36:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mHboHSZgV-0/bidens-covid-bill-heads-back-to-the-house-whats-in-it-and-whats-out"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-covid-bill-heads-back-to-the-house-whats-in-it-and-whats-out.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-covid-bill-heads-back-to-the-house-whats-in-it-and-whats-out.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e0154dda-e3d4-43d8-a684-e440062acb09/6fd151df-893f-4ceb-98de-b8cec762b78e/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden admin 'letting everyone in' with catch-and-release policies: Rep. Biggs"
-    excerpt: "On Tuesday, Rep. Andy Biggs R-Ariz., claimed that the Biden administration is \"basically letting everybody in\" at the border and said that they are \"encouraging\" more people to come as immigration continues to surge in the United States."
-    publishedDateTime: 2021-03-09T19:40:15Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hmj13dvFOi8/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9e41ac5-58cd-4c8d-8149-9a801492bc51/51f9b07e-f976-4081-b4a5-c67a36353512/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "House passes landmark $1.9T COVID bill, delivers Biden first legislative win"
-    excerpt: "The House of Representatives Wednesday finalized a massive $1.9 trillion coronavirus relief bill that will head to President Biden's desk for his first legislative victory."
-    publishedDateTime: 2021-03-10T19:11:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cfbSukO4lR0/house-passes-landmark-coronavirus-bill-biden-first-legislative-win"
-    ampWebUrl: "https://www.foxnews.com/politics/house-passes-landmark-coronavirus-bill-biden-first-legislative-win.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/house-passes-landmark-coronavirus-bill-biden-first-legislative-win.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Bill-Ceremony-AP-2.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Senate confirms Merrick Garland as Biden attorney general in bipartisan vote"
-    excerpt: "Judge Merrick Garland will be the next U.S. attorney general after the Senate confirmed him with a vote of 70 to 30."
-    publishedDateTime: 2021-03-10T19:48:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Yo_gQBKyOE/merrick-garland-confirmed-biden-attorney-general"
-    ampWebUrl: "https://www.foxnews.com/politics/merrick-garland-confirmed-biden-attorney-general.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merrick-garland-confirmed-biden-attorney-general.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Democrats '110%' confident Biden's COVID relief bill will become law this week"
-    excerpt: "House Democrats expressed optimism that they will deliver President Biden an early legislative victory this week by passing his $1.9 trillion coronavirus stimulus legislation and make strides toward erasing poverty in the United States in doing so. "
-    publishedDateTime: 2021-03-09T19:23:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fVlq1XouPyY/democrats-confident-biden-coronavirus-bill-law-this-week"
-    ampWebUrl: "https://www.foxnews.com/politics/democrats-confident-biden-coronavirus-bill-law-this-week.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-confident-biden-coronavirus-bill-law-this-week.amp"
+  - title: "Biden barely sworn in as 'Squad' member, ally start pushing progressive agenda"
+    excerpt: "Members of the progressive \"Squad\" have signaled their interest in pushing the Biden administration to the left as the president takes office on his first day."
+    publishedDateTime: 2021-01-20T23:25:17Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TY5ndHyBRiw/biden-squad-progressives-agenda-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-squad-progressives-agenda-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-squad-progressives-agenda-inauguration.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/hakeem-jeffries-ap.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217e07b5-fe3e-44e6-8631-82e86584dc1e/b9c76771-450d-4252-a7a3-1fff339e7935/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden admin pressed on enforcing COVID-19 tests as more migrants test positive"
-    excerpt: "The recommendations and protocols for coronavirus testing on migrants entering the United States -- particularly at the Southern border -- are coming under scrutiny as a wave of migrants makes its way toward the U.S. hoping for friendly treatment by the Biden administration."
-    publishedDateTime: 2021-03-11T17:31:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/R3YNIEO0usE/biden-administration-pressed-enforcing-covid-19-tests-illegal-immigrants-test-positive"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-pressed-enforcing-covid-19-tests-illegal-immigrants-test-positive.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-pressed-enforcing-covid-19-tests-illegal-immigrants-test-positive.amp"
+  - title: "Republicans target vulnerable House Democrats amid Biden fossil fuel crackdown"
+    excerpt: "Republicans are already targeting vulnerable Democrats in states like Texas and Pennsylvania, where many jobs depend on oil or natural gas, as President Biden recommits to the Paris climate agreement and makes other reversals of his predecessor's environmental policy."
+    publishedDateTime: 2021-01-26T21:13:34Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/D_b2Qv94Og4/republicans-vulnerable-house-democrats-biden-fossil-fuel"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-vulnerable-house-democrats-biden-fossil-fuel.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-vulnerable-house-democrats-biden-fossil-fuel.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/GettyImages-1230788784.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
-    excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
-    publishedDateTime: 2021-03-08T17:50:47Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U1SHnNmKhqM/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included"
-    ampWebUrl: "https://www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 170
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de8bed3d-5a71-4a30-a296-6e3c8fe4ce17/b87eb2de-1125-4105-9348-cbd33a6fe40b/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden hits 50 day milestone of going without a formal news conference as president"
-    excerpt: "President Biden has been in office for 50 days, but has yet to schedule a formal press conference."
-    publishedDateTime: 2021-03-11T12:46:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_EugI2_A3w/biden-50-days-without-formal-news-conference-president"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-50-days-without-formal-news-conference-president.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-50-days-without-formal-news-conference-president.amp"
+  - title: "Ohio restaurant owner rips Biden's embrace of $15 minimum wage as bad for business"
+    excerpt: "An Ohio restaurant owner is warning that any hikes in the minimum wage now will only hurt small businesses more."
+    publishedDateTime: 2021-01-23T19:08:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0dDDySmbcco/ohio-restaurant-owner-bidens-minimum-wage"
+    ampWebUrl: "https://www.foxnews.com/politics/ohio-restaurant-owner-bidens-minimum-wage.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ohio-restaurant-owner-bidens-minimum-wage.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 169
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "McConnell trashes Biden's COVID relief package as 'multitrillion-dollar Trojan horse'"
-    excerpt: "Senate Republican leader Mitch McConnell is lambasting President Biden's $1.9 trillion COVID relief package that Democrats passed through Congress along party-line votes as \"a multitrillion-dollar Trojan horse.\""
-    publishedDateTime: 2021-03-11T18:52:25Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2t84hFapu0k/mcconnell-biden-covid-relief-package"
-    ampWebUrl: "https://www.foxnews.com/politics/mcconnell-biden-covid-relief-package.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-covid-relief-package.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden won't deliver speech to Congress until after vote on coronavirus bill, Psaki says"
-    excerpt: "White House press secretary Jen Psaki said President Biden will wait to address a joint session of Congress until after Congress decides on the American Rescue Plan, his coronavirus relief package."
-    publishedDateTime: 2021-03-03T20:00:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/drcOHAb5y6o/biden-no-speech-to-congress-until-coronavirus-bill-passes"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-speech-to-congress-until-coronavirus-bill-passes.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-speech-to-congress-until-coronavirus-bill-passes.amp"
+  - title: "Impeachment a 'complete waste of time' a week before Biden takes office: Rep. Van Duyne"
+    excerpt: "Freshman Congresswoman Beth Van Duyne, R-Texas, said Wednesday on \"Fox & Friends\" she will not be joining the five Republicans so far that are voting to impeach President Trump, calling the effort a \"complete waste of time.\""
+    publishedDateTime: 2021-01-13T16:08:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/M1jhdJiDanM/impeachment-waste-biden-office-van-duyne"
+    ampWebUrl: "https://www.foxnews.com/politics/impeachment-waste-biden-office-van-duyne.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/impeachment-waste-biden-office-van-duyne.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden gives premature pat on the back to Democrats on COVID bill, ignores progressives"
-    excerpt: "President Biden cheered the passage Saturday of his $1.9 trillion coronavirus relief bill in the Senate and said the massive stimulus is the key to ending the suffering caused by the yearlong pandemic. "
-    publishedDateTime: 2021-03-06T20:16:14Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-xBJ4oQwpXo/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speaks-after-senate-passes-1-9-trillion-coronavirus-rescue-package.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Biden DOJ nominee Gupta says she doesn't support defunding police despite past comments"
-    excerpt: "Vanita Gupta, President Biden's pick to be the next associate attorney general, stated during her confirmation hearing Tuesday morning that she does not support defunding police, although past remarks have led to claims that she does."
-    publishedDateTime: 2021-03-09T18:19:43Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DRbPfTBQo24/biden-doj-nominee-vanita-gupta-defund-police"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-nominee-vanita-gupta-defund-police.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-nominee-vanita-gupta-defund-police.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Scalise demands Biden rescind praise of Cuomo as 'gold standard' of COVID-19 leadership"
-    excerpt: "House Minority Whip Steve Scalise, R-LA, called Tuesday for President Biden to rescind his past praise of New York Gov. Andrew Cuomo’s handling of the coronavirus pandemic amid the state’s burgeoning nursing home scandal."
-    publishedDateTime: 2021-03-10T00:46:31Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lD2LCh2m7KA/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership"
-    ampWebUrl: "https://www.foxnews.com/politics/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/scalise-demands-biden-rescind-praise-cuomo-gold-standard-covid-19-leadership.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3e1cffe-3f2e-46da-9d2a-2253b8b8f0c3/c79509db-18f2-48be-b6f7-0e17e1a528a6/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4cf85e57-c495-49ca-920a-272950c4a7e9/9a6d24ba-1464-4bcf-ae92-aa0f73db4869/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Texas Lt. Gov slams Biden's ‘Neanderthal thinking’ comment on lifting COVID restrictions"
-    excerpt: "Texas Lt. Gov Dan Patrick, R., slammed Joe Biden's \"Neanderthal thinking\" comment on lifting COVID-19 restrictions Thursday, calling the president a \"hypocrite.\""
-    publishedDateTime: 2021-03-04T20:18:45Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r4WuBdmB5zo/texas-bidens-neanderthal-covid-restrictions"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-bidens-neanderthal-covid-restrictions.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-bidens-neanderthal-covid-restrictions.amp"
+  - title: "Biden DOJ Civil Rights pick stands by defense of controversial ex-Women’s March leader"
+    excerpt: "Kristen Clarke, President-elect Joe Biden's choice to run the Justice Department's Civil Rights Division, defends backing a former leader of the Women’s March who was accused of anti-Semitism."
+    publishedDateTime: 2021-01-14T22:41:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SZ2F5u54MsU/biden-doj-pick-defense-ex-womens-march-leader"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-pick-defense-ex-womens-march-leader.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-pick-defense-ex-womens-march-leader.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ccedca73-8447-45bd-9bc7-2b1cc2a3e532/44618639-0f4e-4ea7-8a23-802511106a18/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden 'committed' to study Supreme Court reforms as progressives push for court packing"
+    excerpt: "President Biden is \"committed\" to following through on his campaign pledge of forming a bipartisan commission to study Supreme Court reforms, the White House said Wednesday. "
+    publishedDateTime: 2021-01-27T23:49:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6EAhoZmva6Y/biden-committed-to-study-supreme-court-reforms"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-committed-to-study-supreme-court-reforms.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-committed-to-study-supreme-court-reforms.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f71b38a7-f911-413d-9ce9-8360f122c0ef/b9d50c62-2ac2-4472-ad2e-e18d1d465e88/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden to sign 2 executive orders aimed at pandemic-related food assistance, worker needs"
+    excerpt: "Biden officials said the orders were meant to serve as a placeholder until Congress passes another coronavirus stimulus package."
+    publishedDateTime: 2021-01-22T10:00:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pIlqxERwBv4/biden-sign-two-executive-orders-pandemic-related-food-assistance-worker-needs"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sign-two-executive-orders-pandemic-related-food-assistance-worker-needs.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sign-two-executive-orders-pandemic-related-food-assistance-worker-needs.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden signs executive orders on combating sexual harassment, coinciding with Cuomo scandal"
-    excerpt: "President Biden is taking action with the aim of advancing gender equality and combating sexual harassment, while a prominent member of his party, New York Gov. Andrew Cuomo, finds himself at the center of a growing harassment scandal."
-    publishedDateTime: 2021-03-08T15:02:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vp0fzUOzDo8/biden-executive-orders-sexual-harassment-cuomo-scandal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-orders-sexual-harassment-cuomo-scandal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-sexual-harassment-cuomo-scandal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Schumer prepared to outlast GOP delays tactics to pass Biden's $1.9T coronavirus bill this week"
-    excerpt: "Senate Democrats are prepared to work long nights and through the weekend to push through President Biden's $1.9 trillion coronavirus relief legislation, determined to outlast an onslaught of expected GOP delay tactics."
-    publishedDateTime: 2021-03-04T20:31:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week"
-    ampWebUrl: "https://www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d3342b12-c01b-47c2-8873-0b049df6cfd6/606ea425-b5de-4601-8e55-e4bb1312cc7d/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2f7d9411-98bb-48a1-90c8-d0ae588a1cd4/c56c3b57-5e00-4964-9cb4-ecf3cc134aec/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden to sign voter registration executive order as he pushes Senate to pass sweeping HR 1 bill"
-    excerpt: "President Biden is scheduled to sign an executive order designed to increase voter access on Sunday as he pushes the Senate to pass H.R. 1, House Democrats' sweeping voting rights package."
-    publishedDateTime: 2021-03-07T13:44:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IE-fnE_wPkc/biden-voter-registration-executive-order-senate-hr-1"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-voter-registration-executive-order-senate-hr-1.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voter-registration-executive-order-senate-hr-1.amp"
+  - title: "Biden administration considers mandatory COVID-19 tests for domestic air travel, official says"
+    excerpt: "Dr. Marty Cetron, director for the Division of Global Migration and Quarantine at the Centers for Disease Control and Prevention told reporters Tuesday that the administration is \"actively looking\" into imposing the domestic travel testing requirement."
+    publishedDateTime: 2021-01-27T18:04:30Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/g9XLB_OoYRQ/biden-administration-considers-mandatory-covid-19-tests-for-domestic-air-travel-official-says"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-considers-mandatory-covid-19-tests-for-domestic-air-travel-official-says.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-considers-mandatory-covid-19-tests-for-domestic-air-travel-official-says.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 163
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Biden-Voting-Executive-Order-AP.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/07/340/340/Image-2020-07-09-at-7.41.42-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's DHS pick Mayorkas advances out of committee, heads to Senate floor for confirmation vote"
+    excerpt: "Alejandro Mayorkas, President Biden’s pick to lead the Department of Homeland Security (DHS), was one step closer to taking the position on Tuesday after the Senate Homeland Security Committee advanced his nomination."
+    publishedDateTime: 2021-01-26T19:00:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gF8iEpZ_ggY/bidens-dhs-pick-mayorkas-committee-senate"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-dhs-pick-mayorkas-committee-senate.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-dhs-pick-mayorkas-committee-senate.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/52796b16-AP21019608674449.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden’s failure to get Tanden confirmed follows other aborted presidential nominations in history"
-    excerpt: "President Joe Biden suffered his first major setback in confirming his Cabinet after the withdrawal this week of the nomination of Neera Tanden to serve as director of the Office of Management and Budget."
-    publishedDateTime: 2021-03-03T16:41:58Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/OsFd5VRboRY/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-failure-to-get-tanden-confirmed-follows-other-aborted-presidential-nominations-in-history.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden administration considers sending child migrants to Virginia military base as numbers surge"
-    excerpt: "The Biden administration is considering housing unaccompanied migrant children in a military base in Virginia as officials scramble to deal with a dramatic surge in child migrants at the southern border."
-    publishedDateTime: 2021-03-05T17:54:56Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FrvszOKPopc/biden-child-migrants-virginia-military-base-numbers-surge"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f2b4c4-a545-4eac-a9b5-6ba620d77cd2/fef6984b-0908-4abe-82a0-1b7e2bfd5733/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden says Texas and Mississippi over lifting COVID restrictions, guilty of ‘Neanderthal thinking’"
-    excerpt: "President Biden took a swipe at Republican governors in Texas and Mississippi Wednesday, accusing them of \"Neanderthal thinking\" following their decision to reverse COVID safety policies, including mask mandates."
-    publishedDateTime: 2021-03-03T20:51:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/qvcRq4k7gDM/biden-says-texas-and-miss-guilty-of-neanderthal-thinking"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-texas-and-miss-guilty-of-neanderthal-thinking.amp"
+  - title: "Democrats who opposed waiver letting Mattis serve as defense secretary now want one for Biden pick"
+    excerpt: "President-elect Joe Biden's nominee for secretary of defense, retired Gen. Lloyd Austin, will sit for his confirmation hearing before the Senate Armed Services Committee on Tuesday, but he will have to clear one more hurdle in order to get the job – a waiver that allows recently retired military service"
+    publishedDateTime: 2021-01-19T14:42:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EAzRxXmNMv8/democrats-opposed-mattis-defense-secretary-waiver-mattis-biden-pick-austin"
+    ampWebUrl: "https://www.foxnews.com/politics/democrats-opposed-mattis-defense-secretary-waiver-mattis-biden-pick-austin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/democrats-opposed-mattis-defense-secretary-waiver-mattis-biden-pick-austin.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 161
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c6130b85-52f2-46fc-b88a-dc8fb9055492/5b6acd63-199a-4dfb-bd9d-f105cacbb701/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Psaki says Biden will sign COVID measure Friday, calls it 'most progressive bill in American history'"
-    excerpt: "President Biden will sign the $1.9 trillion coronavirus relief bill on Friday afternoon, White House press secretary Jen Psaki announced, calling it the “most progressive bill in American history.” "
-    publishedDateTime: 2021-03-10T20:02:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tnr_2iMTGic/biden-sign-covid-legislation-friday-most-progressive-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-sign-covid-legislation-friday-most-progressive-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sign-covid-legislation-friday-most-progressive-bill.amp"
+  - title: "Biden admin to send 10M COVID-19 vaccine doses to states as US hits goal of 1M vaccinations per day"
+    excerpt: "The White House Coronavirus Task Force committed Wednesday to sending 10 million doses per week to each state for the next three weeks, saying they are hitting their target of administering an average of 1 million COVID-19 vaccines per day."
+    publishedDateTime: 2021-01-27T18:26:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9eh0uSq1kS8/biden-admin-10m-covid-19-vaccine-doses-to-states"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-10m-covid-19-vaccine-doses-to-states.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-10m-covid-19-vaccine-doses-to-states.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden labor secretary nominee Marty Walsh's campaign paid his girlfriend's employer nearly $1 million"
+    excerpt: "Boston Mayor Marty Walsh, President-elect Biden’s nominee for Labor Secretary, paid his girlfriend’s fundraising consulting firm over $1 million, campaign filings show. "
+    publishedDateTime: 2021-01-14T23:45:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UUhDtrq42ac/biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-labor-secretary-nominee-marty-walshs-campaign-paid-his-girlfriends-employer-nearly-1-million.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 160
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/biden_doublemask_ap.jpg"
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2016/01/24/694940094001_4719677386001_76e84eff-a55c-40f5-8d22-edac2ff90e15.jpg"
+        width: 617
+        height: 347
+        isCached: true
+  - title: "Biden HHS nominee moved mother out of care facility as she directed nursing homes to take COVID patients"
+    excerpt: "Levine directed Pa. long-term care facilities and nursing homes to accept COVID-19 patients who were unable to return home or who had lived at the facilities prior to their hospitalization."
+    publishedDateTime: 2021-01-19T21:16:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8ZeOOvBbI6Y/biden-hhs-nominee-faced-scrutiny-moving-mother-care-facility-covid-19-outbreak"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-hhs-nominee-faced-scrutiny-moving-mother-care-facility-covid-19-outbreak.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-nominee-faced-scrutiny-moving-mother-care-facility-covid-19-outbreak.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7baa239c-c9dc-4831-889a-81c96eec5853/f9d51ab7-a9dd-45a8-887e-17b573376bce/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Gov. Abbott hits back at Biden: Releasing COVID-infected migrants into Texas is 'Neanderthal thinking'"
-    excerpt: "Texas Gov. Greg Abbott on Thursday pushed back against President Biden for saying that red-state governors lifting mask mandates was \"Neanderthal thinking.\""
-    publishedDateTime: 2021-03-04T17:21:36Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7GZBWZtxwtQ/texas-greg-abbott-biden-neanderthal-mask-mandates-covid"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-greg-abbott-biden-neanderthal-mask-mandates-covid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-greg-abbott-biden-neanderthal-mask-mandates-covid.amp"
+  - title: "Biden told by GOP state AGs they're willing to sue if administration oversteps authority"
+    excerpt: "A coalition of six states led by West Virginia sent a letter to the Biden administration Wednesday saying that they're watching its actions closely and willing to sue if they believe the new president is doing anything that runs afoul of individual rights of the Constitution. "
+    publishedDateTime: 2021-01-27T19:49:57Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VBXrJELYtEw/republican-ags-warn-biden-administration-not-to-overstep-authority"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 146
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/25a63129-Biden-thumb.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Senate GOP blasts 'blue state bailout' in Biden's $1.9T coronavirus bill"
-    excerpt: "Senate Republicans railed against President Biden's $1.9 trillion coronavirus legislation as a liberal bailout to blue states as they plan to make passage of the bill as painful as possible for Democrats this week. "
-    publishedDateTime: 2021-03-04T00:03:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gf_-1YBiuZw/senate-gop-rallies-against-bidens-1-9t-coronavirus-bill-blasting-its-blue-state-bailout"
+  - title: "Biden, Rice stoke nationwide division with 'racial equity' push"
+    excerpt: "Some of my Republican friends and some of my Democratic friends, even occasionally say, well, if you can't get the votes by executive order, you're going to do something things you can't do by executive order,"
+    publishedDateTime: 2021-01-27T14:20:00Z
+    webUrl: "https://www.foxnews.com/transcript/biden-rice-stoke-nationwide-division-with-racial-equity-push"
+    ampWebUrl: "https://www.foxnews.com/transcript/biden-rice-stoke-nationwide-division-with-racial-equity-push.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/transcript/biden-rice-stoke-nationwide-division-with-racial-equity-push.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 154
+    quality: 135
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20288801557897.jpg"
-        width: 4000
-        height: 2250
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0ce402e2-aa94-4a15-b59a-4db994b80fea/24bce96c-04cb-4a54-aeb2-c65031701391/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Bill Kristol: COVID Relief Bill A \"Big Achievement\" For Biden, Biggest Piece Of Domestic Spending Since LBJ"
-    excerpt: "Republican commentator Bill Kristol said America \"needs\" a successful Biden administration and praised Biden for a \"big achievement\" with the COVID relief bill on Saturday, calling it the \"biggest piece of domestic spending since LBJ."
-    publishedDateTime: 2021-03-09T00:05:00Z
-    webUrl: "https://www.realclearpolitics.com/video/2021/03/06/bill_kristol_covid_relief_bill_a_big_achievement_for_biden_biggest_piece_of_domestic_spending_since_lbj.html"
-    ampWebUrl: "http://www.realclearpolitics.com/video/2021/03/06/bill_kristol_covid_relief_bill_a_big_achievement_for_biden_biggest_piece_of_domestic_spending_since_lbj.amp.html"
-    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/www.realclearpolitics.com/video/2021/03/06/bill_kristol_covid_relief_bill_a_big_achievement_for_biden_biggest_piece_of_domestic_spending_since_lbj.amp.html"
+  - title: "Biden barely sworn in as 'Squad' member, ally start pushing progressive agenda"
+    excerpt: "Members of the progressive \"Squad\" have signaled their interest in pushing the Biden administration to the left as the president takes office on his first day."
+    publishedDateTime: 2021-01-21T08:25:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-squad-progressives-agenda-inauguration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-squad-progressives-agenda-inauguration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-squad-progressives-agenda-inauguration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 131
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/217e07b5-fe3e-44e6-8631-82e86584dc1e/b9c76771-450d-4252-a7a3-1fff339e7935/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Fired New York Times editor says paper lying about reason for dismissal after pro-Biden tweet"
+    excerpt: "Former New York Times freelance editor Lauren Wolfe shot back at the paper's claim that she was not dismissed solely because of a pro-Joe Biden tweet last week, saying the Times was smearing her reputation."
+    publishedDateTime: 2021-01-26T16:59:00Z
+    webUrl: "https://www.foxnews.com/media/fired-new-york-times-editor-newspaper-dismissal-reputation"
+    ampWebUrl: "https://www.foxnews.com/media/fired-new-york-times-editor-newspaper-dismissal-reputation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/fired-new-york-times-editor-newspaper-dismissal-reputation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 124
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4568b3ca-227f-443e-bd60-ae6d2e50e7f7/fd6144cb-2ef0-4bbb-b3b7-08092b1ab2b6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden urges end to ‘uncivil war,’ asks for media truth, but can he pull it off?"
+    excerpt: "When Joe Biden urged America to \"stop the shouting, lower the temperature,\" the new president was returning to the raison d’etre of his candidacy, that he would defuse the animosity"
+    publishedDateTime: 2021-01-21T08:11:00Z
+    webUrl: "https://www.foxnews.com/media/biden-urges-end-to-uncivil-war-asks-for-media-truth-but-can-he-pull-it-off"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 111
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/AP21020611790427.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "New Impeachment Push Complicates Dem Message as Biden Talks Unity"
+    excerpt: "WASHINGTON (AP)  President-elect Joe Biden already faces the daunting task of steering a newly announced $1.9 trillion coronavirus relief bill through"
+    publishedDateTime: 2021-01-15T12:36:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/15/new_impeachment_push_complicates_dem_message_as_biden_talks_unity.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/15/new_impeachment_push_complicates_dem_message_as_biden_talks_unity.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/15/new_impeachment_push_complicates_dem_message_as_biden_talks_unity.amp.html"
     type: article
     provider:
       name: RealClearPolitics
       domain: realclearpolitics.com
-    quality: 67
+    quality: 85
     images:
-      - url: "https://assets.realclear.com/images/49/499409.jpg"
-        width: 1100
-        height: 824
+      - url: "https://assets.realclear.com/images/53/532403_5_.jpeg"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Senate Confirms Biden Nominee Austin as Defense Secretary"
+    excerpt: "Lloyd J. Austin, a West Point graduate who rose to the Armys elite ranks and marched through racial barriers in a 41-year career,"
+    publishedDateTime: 2021-01-23T16:04:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/23/senate_confirms_biden_nominee_austin_as_defense_secretary_145110.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://assets.realclear.com/images/53/533203_5_.jpeg"
+        width: 750
+        height: 499
+        isCached: true
+  - title: "McConnell's Choice; Biden in the Middle; Clinesmith Evidence"
+    excerpt: "Jan. 25, 2021. Globally, the number of COVID-19 infections is closing in on 100 million documented cases. In more than 2.1 million"
+    publishedDateTime: 2021-01-25T13:17:00Z
+    webUrl: "https://www.realclearpolitics.com/articles/2021/01/25/mcconnells_choice_biden_in_the_middle_clinesmith_evidence_145114.html#!"
+    ampWebUrl: "https://www.realclearpolitics.com/articles/2021/01/25/mcconnells_choice_biden_in_the_middle_clinesmith_evidence_145114.amp.html"
+    cdnAmpWebUrl: "https://www-realclearpolitics-com.cdn.ampproject.org/c/s/www.realclearpolitics.com/articles/2021/01/25/mcconnells_choice_biden_in_the_middle_clinesmith_evidence_145114.amp.html"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 85
+    images:
+      - url: "https://amp.spot.im/loader.png"
+        width: 375
+        height: 815
         isCached: true
 
 secured: "PlvsVXMNVv46bGcjsBJ1vU/e4lTvhM6op6/INsrz0LWfhdplJbHWWS3RvVhySa/mipY55uvNNplhSijNPvTZWC/kD5Foe0Kb9ZRJEXQHpA74sUO7G4sDfS6zr9yX3msRa0nM97t2Bewek2ruPTHmhClS0L9hRuerWMvXXDGzHIu5F7+1MZYZ3K368mRERBcj8kDk/OCTa2xV04VaMm09qdSqLE2kInactgS5pr3JSgu8fzhSyuA8gxgt71FmsMwI3iVm78F1nzhH6ZcX+AmyHf0D8IDHblO/7huStsvif2Vs5Yl2be7URFjF4xVZi0pFDdPKUfVlOQERJ+kZdmVD8FKdUDqgHip9875K9xB7kEc=;1pn7xPwTlMAU8yegZhi6ng=="

@@ -47,6 +47,38 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "White House press corps ushered away after asking Biden questions — again"
+    excerpt: "Aides to President Biden hurried the traveling press corps away as they shouted questions at an unresponsive commander in chief in Washington Tuesday -- his 48th day in office without holding a solo press conference. "
+    publishedDateTime: 2021-03-10T16:30:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1D4HyQNkCw/white-house-press-corps-ushered-away-asking-biden-questions-again"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden DOJ nominee Gupta says she doesn't support defunding police despite past comments"
+    excerpt: "Vanita Gupta, President Biden's pick to be the next associate attorney general, stated during her confirmation hearing Tuesday morning that she does not support defunding police, although past remarks have led to claims that she does."
+    publishedDateTime: 2021-03-09T18:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DRbPfTBQo24/biden-doj-nominee-vanita-gupta-defund-police"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-nominee-vanita-gupta-defund-police.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-nominee-vanita-gupta-defund-police.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "7Svz+fioi5J/5TM+vBg7qlJ7+XxDa/n9lN31n+ppL9XuPlkiYuqAC4BHtSrb/A4SuLwFa03JZYjz0SoZidI1dQkmuknnYraiBEBX2eb9DcxfnwglJTh7/i+COZowkKHf6ohwVjH5d8msc1hbOiFOTag3il2F/zk2RJnwNWKKrsRAduTaBQ6JlAraPe77+9lb6cS+0lULnTJORFlm2zzgvoAbHlwSaEV04rJMm97FUDMrAY73IUT81Ri39F5yV1GknI1dZSpQj7g2rZ5NIgVg7am1s/rdybt6mBmcYaZ1UrTz6G4zKbeM1F/gri0e9dq7aqvtcp7CmKHAJuwdtqHwby9nXUsD7vW6VfvRaAjs3g4=;Z5yUMC0T53UOV8wTh46kpg=="
 ---

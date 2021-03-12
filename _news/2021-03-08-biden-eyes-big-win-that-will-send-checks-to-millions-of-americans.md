@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-checks/index.html"
 type: article
 quality: 175
-heat: 455
+heat: 475
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225141715-01-becerra-nomination-hearing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "READ: Transcript of Biden's prime-time address"
+    excerpt: "President Joe Biden addressed the nation in prime time on Thursday, where he directed states to open coronavirus vaccine eligibility to all adults no later than May 1 and said small gatherings may be possible again by the Fourth of July. Read his full remarks below:\n    \n"
+    publishedDateTime: 2021-03-12T02:24:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lY-HjEKm-7w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/transcript-biden-covid-prime-time-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/transcript-biden-covid-prime-time-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311201521-03-biden-address-0311-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

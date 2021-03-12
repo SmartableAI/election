@@ -128,6 +128,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "READ: Transcript of Biden's prime-time address"
+    excerpt: "President Joe Biden addressed the nation in prime time on Thursday, where he directed states to open coronavirus vaccine eligibility to all adults no later than May 1 and said small gatherings may be possible again by the Fourth of July. Read his full remarks below:\n    \n"
+    publishedDateTime: 2021-03-12T02:24:01Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lY-HjEKm-7w/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/transcript-biden-covid-prime-time-address/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/transcript-biden-covid-prime-time-address/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311201521-03-biden-address-0311-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
     excerpt: "Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president.\n    \n"
     publishedDateTime: 2021-03-11T18:37:36Z

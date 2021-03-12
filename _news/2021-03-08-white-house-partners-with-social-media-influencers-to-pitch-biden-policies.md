@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/white-house-social-media-influencer
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp"
 type: article
 quality: 173
-heat: 233
+heat: 273
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden admin 'letting everyone in' with catch-and-release policies: Rep. Biggs"
+    excerpt: "On Tuesday, Rep. Andy Biggs R-Ariz., claimed that the Biden administration is \"basically letting everybody in\" at the border and said that they are \"encouraging\" more people to come as immigration continues to surge in the United States."
+    publishedDateTime: 2021-03-09T19:40:15Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Hmj13dvFOi8/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-catch-release-policies-border-crisis-migrant-surge-illegal-immigration.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a9e41ac5-58cd-4c8d-8149-9a801492bc51/51f9b07e-f976-4081-b4a5-c67a36353512/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Hunter Biden probe 'active and ongoing' without White House interference: sources"
     excerpt: "The federal investigation into Hunter Biden’s “tax affairs” is “active and ongoing,” two sources familiar with the status of the probe told Fox News."
     publishedDateTime: 2021-03-03T13:43:48Z
@@ -47,21 +63,37 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Biden has struggled with names of Cabinet members, lawmakers and other politicians"
-    excerpt: "President Biden seems to have a spotty memory when it comes to names and details. "
-    publishedDateTime: 2021-03-09T18:49:24Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8rArtnOACzg/biden-names-cabinet-members-lawmakers"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-names-cabinet-members-lawmakers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-names-cabinet-members-lawmakers.amp"
+  - title: "Manchin pledges to block Biden infrastructure bill if Republicans aren't included"
+    excerpt: "Sen. Joe Manchin, a centrist Democrat, pledged to block President Biden's infrastructure bill if the planned multitrillion-dollar measure does not garner support from any Republicans."
+    publishedDateTime: 2021-03-08T17:50:47Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U1SHnNmKhqM/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included"
+    ampWebUrl: "https://www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manchin-pledges-to-block-biden-infrastructure-bill-if-republicans-arent-included.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 170
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/de8bed3d-5a71-4a30-a296-6e3c8fe4ce17/b87eb2de-1125-4105-9348-cbd33a6fe40b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Ronna McDaniel: Biden seems more concerned with opening borders than opening schools"
+    excerpt: "The media needs to start probing President Biden the same way they would former President Trump, Republican National Committee Chairwoman Ronna McDaniel said on Friday, reacting to the commander-in-chief facing growing criticism for not holding a formal press conference in the six weeks since taking"
+    publishedDateTime: 2021-03-05T18:08:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e9skWQUfYq0/ronna-mcdaniel-media-biden-open-borders-schools"
+    ampWebUrl: "https://www.foxnews.com/politics/ronna-mcdaniel-media-biden-open-borders-schools.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronna-mcdaniel-media-biden-open-borders-schools.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Katie Pavlich: Time for Biden to 'take some questions from the press corps about his policies'"
     excerpt: "President Biden is not fulfilling his promise of transparency to the American people after going his first seven weeks in office without holding a formal press conference, \"Outnumbered\" panelist Katie Pavlich said Tuesday."

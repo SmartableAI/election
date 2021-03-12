@@ -95,6 +95,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Senate confirms Merrick Garland as Biden attorney general in bipartisan vote"
+    excerpt: "Judge Merrick Garland will be the next U.S. attorney general after the Senate confirmed him with a vote of 70 to 30."
+    publishedDateTime: 2021-03-10T19:48:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/3Yo_gQBKyOE/merrick-garland-confirmed-biden-attorney-general"
+    ampWebUrl: "https://www.foxnews.com/politics/merrick-garland-confirmed-biden-attorney-general.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/merrick-garland-confirmed-biden-attorney-general.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Cuomo scandal will be hot topic as hearings for Biden AG nominee Merrick Garland kick off next week"
     excerpt: "Senate Republicans plan to ask President Biden's pick for attorney general, Judge Merrick Garland, at his confirmation hearing about whether he'll investigate the alleged cover-up of nursing home coronavirus deaths by New York Gov. Andrew Cuomo. The hearing is scheduled to begin Monday and run into Tuesday. "
     publishedDateTime: 2021-02-19T13:56:29Z

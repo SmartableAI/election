@@ -31,54 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Psaki says Biden isn't 'snubbing' Congress by postponing joint address"
-    excerpt: "White House press secretary Jen Psaki on Friday said President Biden is not \"snubbing\" Congress by delaying his joint address, pointing to the coronavirus pandemic and saying the administration has been \"engaged closely\" with congressional leadership regarding their plans."
-    publishedDateTime: 2021-03-05T19:44:46Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UIlkIJqHs5c/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-says-biden-isnt-snubbing-congress-by-not-having-given-joint-address-yet.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden’s dog injured someone at the White House, Psaki confirms"
-    excerpt: "The first dog did in fact bite someone at the White House, causing a \"minor injury,\" press secretary Jen Psaki confirmed Tuesday. "
-    publishedDateTime: 2021-03-09T21:16:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bIQ2Zagsv00/bidens-dog-injured-someone-white-house-psaki"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-dog-injured-someone-white-house-psaki.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-dog-injured-someone-white-house-psaki.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Clyburn: Concerns over Biden mental state 'much ado about nothing'"
-    excerpt: "House Majority Whip Jim Clyburn of South Carolina told Fox News on Tuesday he hopes to see federal checks from the coronavirus relief bill be sent out to Americans \"next week,\" before dispelling rumors of the president having any type of acuity-related shortcomings after he appeared to forget Defense"
-    publishedDateTime: 2021-03-09T23:29:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/XCqL1n7u7vU/clyburn-biden-checks-hopefully-out-next-week-dismisses-critics-concerns-of-acuity"
-    ampWebUrl: "https://www.foxnews.com/politics/clyburn-biden-checks-hopefully-out-next-week-dismisses-critics-concerns-of-acuity.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-biden-checks-hopefully-out-next-week-dismisses-critics-concerns-of-acuity.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 175
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
   - title: "Marcia Fudge confirmed as Biden's HUD secretary"
     excerpt: "The Senate on Wednesday confirmed Marcia Fudge to be President Biden's new secretary of Housing and Urban Development (HUD)."
     publishedDateTime: 2021-03-10T17:39:33Z
@@ -95,197 +47,117 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Psaki won’t say why Dr. Seuss was dropped from Biden reading proclamation"
-    excerpt: "White House press secretary Jen Psaki wouldn’t say why President Biden dropped Dr. Seuss from \"Read Across America Day,\" the annual celebration of reading in honor of the legendary children’s author."
-    publishedDateTime: 2021-03-02T20:13:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ofhqkJyczYE/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-wont-say-why-dr-seuss-was-dropped-from-biden-reading-proclamation.amp"
+  - title: "Biden directs states to reach full vaccine eligibility by May 1"
+    excerpt: "President Biden plans to say in an address to the nation Thursday that as part of the next phase in combatting the coronavirus, he is directing states, tribes, territories to ensure everyone is eligible for vaccination by May 1."
+    publishedDateTime: 2021-03-12T00:54:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/jMXbi7hyt1s/biden-states-vaccine-eligibility-may"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-states-vaccine-eligibility-may.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-states-vaccine-eligibility-may.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e81eea02-b9ee-4037-8c41-00c2e0d60df6/c16d7856-1459-43f7-88c2-0bfb14275aca/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Susan Collins says she’ll back Biden pick Deb Haaland for Interior secretary"
+    excerpt: "U.S. Sen. Susan Collins, R-Maine, said Wednesday that she will vote to confirm U.S. Rep. Deb Haaland of New Mexico to become secretary of the interior."
+    publishedDateTime: 2021-03-04T05:32:53Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/h1ZRq9tDZr0/susan-collins-says-shell-back-biden-pick-deb-haaland-for-interior-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/susan-collins-says-shell-back-biden-pick-deb-haaland-for-interior-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/susan-collins-says-shell-back-biden-pick-deb-haaland-for-interior-secretary.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/susan-collins.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden has struggled with names of Cabinet members, lawmakers and other politicians"
+    excerpt: "President Biden seems to have a spotty memory when it comes to names and details. "
+    publishedDateTime: 2021-03-09T18:49:24Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8rArtnOACzg/biden-names-cabinet-members-lawmakers"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-names-cabinet-members-lawmakers.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-names-cabinet-members-lawmakers.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden hits 50 day milestone of going without a formal news conference as president"
+    excerpt: "President Biden has been in office for 50 days, but has yet to schedule a formal press conference."
+    publishedDateTime: 2021-03-11T12:46:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l_EugI2_A3w/biden-50-days-without-formal-news-conference-president"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-50-days-without-formal-news-conference-president.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-50-days-without-formal-news-conference-president.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Psaki says Biden will hold press conference ‘before the end of the month’"
-    excerpt: "White House press secretary Jen Psaki said Thursday President Biden will hold a press conference before the end of the month. "
-    publishedDateTime: 2021-03-05T19:28:34Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bkWu30_QLxg/psaki-biden-press-conference-before-end-month"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-press-conference-before-end-month.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-press-conference-before-end-month.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Jen Psaki defends Biden 'Neanderthal' reopening quip targeting Texas and Mississippi"
-    excerpt: "White House press secretary Jen Psaki said President Biden’s “neanderthal thinking” quip about states removing their mask mandates was an expression of his “frustration and exasperation.” "
-    publishedDateTime: 2021-03-04T19:27:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u5-q5Q7GqrE/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-neanderthal-trump-doesnt-deserve-credit-vaccines.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Ronna McDaniel: Biden seems more concerned with opening borders than opening schools"
-    excerpt: "The media needs to start probing President Biden the same way they would former President Trump, Republican National Committee Chairwoman Ronna McDaniel said on Friday, reacting to the commander-in-chief facing growing criticism for not holding a formal press conference in the six weeks since taking"
-    publishedDateTime: 2021-03-05T18:08:21Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e9skWQUfYq0/ronna-mcdaniel-media-biden-open-borders-schools"
-    ampWebUrl: "https://www.foxnews.com/politics/ronna-mcdaniel-media-biden-open-borders-schools.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ronna-mcdaniel-media-biden-open-borders-schools.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 168
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Texas congressman, ex-sheriff: Biden admin 'almost aiding and abetting' human trafficking"
-    excerpt: "The Biden administration is nearly “aiding and abetting in human trafficking” due to what is occurring at the southern border, Texas sheriff turned congressman Troy Nehls said on Thursday."
-    publishedDateTime: 2021-03-11T14:22:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ij7Ut9Dm8M/biden-border-crisis-human-trafficking-texas-nehls"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-human-trafficking-texas-nehls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-trafficking-texas-nehls.amp"
+  - title: "Biden seems to forget defense secretary’s name, calls him ‘the guy who runs that outfit’"
+    excerpt: "President Biden on Monday seemed to forget Defense Secretary Lloyd Austin’s name at a White House event — calling the Pentagon chief \"the guy who runs that outfit over there.\""
+    publishedDateTime: 2021-03-09T15:07:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/HBN4kMkPzmQ/biden-seems-to-forget-defense-secretarys-name-calls-him-the-guy-who-runs-that-outfit"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-seems-to-forget-defense-secretarys-name-calls-him-the-guy-who-runs-that-outfit.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-seems-to-forget-defense-secretarys-name-calls-him-the-guy-who-runs-that-outfit.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 166
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Psaki: Biden admin 'committed to fighting our hearts out' for Tanden, raising minimum wage"
-    excerpt: "The Biden administration remains committed to \"fighting our hearts out\" for Budget Director pick Neera Tanden, Biden's press secrestary said Sunday."
-    publishedDateTime: 2021-02-28T15:10:39Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ToK0jmcWdGc/biden-neera-tanden-omb-minimum-wage-jen-psaki"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-neera-tanden-omb-minimum-wage-jen-psaki.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neera-tanden-omb-minimum-wage-jen-psaki.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/neera-tanden.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Lloyd-Austin.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true
-  - title: "Biden focused on COVID vaccines for 'every American' before aiding other nations, Psaki says"
-    excerpt: "White House press secretary Jen Psaki on Monday said President Biden's focus is making sure \"every American\" is vaccinated before discussing helping other nations with their COVID-19 vaccination process."
-    publishedDateTime: 2021-03-01T19:26:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rNnAKyaLtEQ/white-house-biden-focus-americans-vaccinated-foreign-aid"
-    ampWebUrl: "https://www.foxnews.com/politics/white-house-biden-focus-americans-vaccinated-foreign-aid.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-biden-focus-americans-vaccinated-foreign-aid.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden wants new war powers vote in Congress for authorizing America's foreign wars, Psaki says"
-    excerpt: "The White House on Friday said it is \"committed\" to working with Congress on new legislation to repeal current presidential war powers to be replaced with a \"narrow and specific framework\" to protect U.S. national security, while \"ending the forever wars.\""
-    publishedDateTime: 2021-03-05T16:16:03Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/bBbZA3LIPAk/biden-powers-vote-congress-psaki"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-powers-vote-congress-psaki.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-powers-vote-congress-psaki.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "McCarthy requests meeting with Biden on immigration, Psaki says president would welcome dialogue"
-    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., requested a meeting with President Biden Friday to talk about the surge in migrants at the southern border."
-    publishedDateTime: 2021-03-05T19:05:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/UDbC9Q3VuJ0/mccarthy-meeting-biden-immigration"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-meeting-biden-immigration.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-meeting-biden-immigration.amp"
+  - title: "Biden administration considers sending child migrants to Virginia military base as numbers surge"
+    excerpt: "The Biden administration is considering housing unaccompanied migrant children in a military base in Virginia as officials scramble to deal with a dramatic surge in child migrants at the southern border."
+    publishedDateTime: 2021-03-05T17:54:56Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/FrvszOKPopc/biden-child-migrants-virginia-military-base-numbers-surge"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-child-migrants-virginia-military-base-numbers-surge.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 162
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cca20d6f-bb28-4389-8746-9334007a2c3e/a8557a36-9eeb-4bed-8bec-f990a28aa8f9/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7f2b4c4-a545-4eac-a9b5-6ba620d77cd2/fef6984b-0908-4abe-82a0-1b7e2bfd5733/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Top Biden adviser pushes reparations commission, predicts progress 'breaking down systemic racism'"
-    excerpt: "White House adviser Cedric Richmond said it is “doable” for President Biden to make progress in his first term to break down barriers for people of color, as the administration supports a study on potential reparations for Black Americans."
-    publishedDateTime: 2021-03-01T20:13:53Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VpFWpJ_8yQQ/top-biden-adviser-pushes-reparations-predicting-progress"
-    ampWebUrl: "https://www.foxnews.com/politics/top-biden-adviser-pushes-reparations-predicting-progress.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/top-biden-adviser-pushes-reparations-predicting-progress.amp"
+  - title: "Manchin, Collins to vote for Becerra as Biden's HHS secretary after conservatives try to sink nomination"
+    excerpt: "Sens. Joe Manchin and Susan Collins said Thursday they plan to vote for Xavier Becerra to serve as President Biden’s Health and Human Services secretary, likely delivering the new administration another Cabinet member. "
+    publishedDateTime: 2021-03-11T17:42:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/dNeSnueueLo/joe-manchin-susan-collins-support-becerra-biden-hhs-secretary"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-manchin-susan-collins-support-becerra-biden-hhs-secretary.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-manchin-susan-collins-support-becerra-biden-hhs-secretary.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 158
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden to begin bipartisan work to 'end cancer as we know it,' Psaki says, calling it a 'priority' for admin"
-    excerpt: "President Biden and Vice President Kamala Harris are set to meet with a bipartisan group of lawmakers in the Oval Office on Wednesday afternoon on the work to begin \"end cancer as we know it,\" White House press secretary Jen Psaki said."
-    publishedDateTime: 2021-03-03T18:34:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/PMuDiezVOpc/biden-cancer-research"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-cancer-research.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-cancer-research.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 157
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Pete Hegseth: Biden holding press conference would ‘muddy the waters’ on progressive agenda"
-    excerpt: "Pete Hegseth says he believes Biden administration officials are keeping the president from holding a formal press conference because they believe he will “distract away from their highly progressive agenda."
-    publishedDateTime: 2021-03-09T18:42:00Z
-    webUrl: "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging"
-    ampWebUrl: "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30d471bd-c55f-406b-9223-5afee56e6fa6/f100c880-519f-41aa-8f1d-262776cdcd53/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Manchin-Susan-Collins.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "rgsF5urd4WmxcboyJ+VFYNN1EEvJ/nh/zWmx5zj/NjheMb/3or3bp+fiifqHG2CMScHSaV1Xsra0lSJweR9B3YQE83iluS+Y0uvgBmhZVTHGTSc4wtlfLAUZKiqO0GDm9kbnVCcAfcx+w4bSbqUOEs4ZHfoK06g8dNOkUdTMwmC5ldXfvQ8xlAvDXzsT0fcEmz8NAUB3lMM/yuLkYnV5DGxVq/TA2NL+PfxoTvbuMAoOlAkxHYo2af6v7RnHz6782u2UcsvygDKDIZx7RMDrnUEoClkumlJFa4CObBI8rjTCnqEfQrbUFuavp3OeEiNild1/wcMtrEjhvDEvf6WgGx3vb7saWhj0i31g4uKgfEk=;TyskFJGdLtLc0NMrGRPThw=="

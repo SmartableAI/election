@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-c
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp"
 type: article
 quality: 163
-heat: 203
+heat: 183
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden Pentagon pick faces questions over ties to group that helped create Iran deal 'echo chamber'"
-    excerpt: "One of President Biden's top Pentagon picks is facing concern from Republicans about his views on Iran and his ties to a group that helped create an \"echo chamber\" to sell the Iran nuclear deal to the public."
-    publishedDateTime: 2021-03-04T21:53:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2guRl2zshQc/biden-pentagon-ploughshares-fund-iran-colin-kahl"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Colin-Kahl-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
   - title: "Cotton grills Biden Pentagon nominee on 'volatile outbursts,' 'almost always wrong' foreign policy judgments"
     excerpt: "Sen. Tom Cotton, R-Ark., accused one of President Biden's top Pentagon picks of having a \"long record of volatile outbursts.\""
     publishedDateTime: 2021-03-04T18:05:55Z

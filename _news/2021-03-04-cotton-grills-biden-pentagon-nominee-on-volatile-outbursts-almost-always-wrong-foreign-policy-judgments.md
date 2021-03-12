@@ -47,22 +47,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden Pentagon pick faces questions over ties to group that helped create Iran deal 'echo chamber'"
-    excerpt: "One of President Biden's top Pentagon picks is facing concern from Republicans about his views on Iran and his ties to a group that helped create an \"echo chamber\" to sell the Iran nuclear deal to the public."
-    publishedDateTime: 2021-03-04T21:53:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2guRl2zshQc/biden-pentagon-ploughshares-fund-iran-colin-kahl"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Colin-Kahl-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
 
 secured: "wTJ3+XQ0OvNK9KyEJVOxp/TtLKZWZox28l9j0l5XgMvXBSACqgVKBY+ssfhrPP8wQnEvbuOlkLR+/R0LSBbWbbiU2Mijghmt6s5e0XR7p5kjiGwxv0ArczbbTtJ1OhShjxkYL48VtG7wH1CYmkzjJ3nh+fdpe2ZarPNSUwCfRONvShhirFYyXZ+yEekknJtIRcMgxB2pKveu0JgycL5uD1qOGlLR9sXKWdr/cylw7+6crivFcdNSVOdFKq96coIWOoM66fo0IdhmFx3FIeKll4UqIDGYnIPDsSqbL1Xx0Kxuwtgi8f+XX7cEzH/NZoQ5dVu5Mt9Fo1XYrDR5tyteEz1jz5eJfUrhXUmr4RLrx+k=;8I3c6GPZXYRtvX9L3RRhjA=="
 ---

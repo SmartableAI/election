@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Psaki says Biden will sign COVID measure Friday, calls it 'most progressive bill in American history'"
+    excerpt: "President Biden will sign the $1.9 trillion coronavirus relief bill on Friday afternoon, White House press secretary Jen Psaki announced, calling it the “most progressive bill in American history.” "
+    publishedDateTime: 2021-03-10T20:02:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tnr_2iMTGic/biden-sign-covid-legislation-friday-most-progressive-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sign-covid-legislation-friday-most-progressive-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sign-covid-legislation-friday-most-progressive-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/biden_doublemask_ap.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "nwn6wA59yZxoE/CNjXCumtpXOYhb5tAhKdjGmPMJnmOwCXXjUY5qeoN/Nmj/L5VfpD2oYRBYaBLSGfZL/Ia+flfcWhQeB/w/fjk4cIR+FEYh83gnSXlQp1ajXJynYzCmes9th5r7AHCjwQ3kqJ69MRCXtor96KO/AHvAYBo8qW+J72eU3ut0PXDsJ66EbY8BEIGn2qhOFADpF+fptjcxRZMVLHSklZfR26hoxospOgDIACpGXMQz1CO6fiuzrC2oW/wLqSkbuxRLmaEVWIn2n/uR14piCces+RqFBeK4j1f0+YF6NWn8OM6w0Qw2kCa31OpghuzE9K4EGv1saZTsMNe0Ji6V5HkxleoLovElVgo=;CPY6geq+cfg+kDKrV+gMOw=="
 ---

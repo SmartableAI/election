@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden order on gender identity harms women and girls, warns women's rights group"
-    excerpt: "Women's Human Rights Campaign member and outspoken feminist Kara Dansky ramped up warnings against President Biden's gender identity initiative on Tuesday, telling \"Tucker Carlson Tonight\" that America is heading for a \"complete obliteration of biological sex\"."
-    publishedDateTime: 2021-03-10T03:38:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0oQLmODpalA/biden-gender-identity-order-women-girls"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-gender-identity-order-women-girls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gender-identity-order-women-girls.amp"
+  - title: "Abbott rejects Biden proposal for migrant testing at border, says it will create ‘magnet’"
+    excerpt: "Texas Gov. Greg Abbott said Thursday that he had rejected a Biden administration proposal for the Federal Emergency Management Agency (FEMA) to partner with Texas to test and potentially quarantine migrant adults and children surging across the border -- amid a controversy over the release of COVID-positive"
+    publishedDateTime: 2021-03-04T23:43:41Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TCvc0WqGUlM/abbott-biden-proposal-migrant-testing-border"
+    ampWebUrl: "https://www.foxnews.com/politics/abbott-biden-proposal-migrant-testing-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/abbott-biden-proposal-migrant-testing-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 166
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/857ee1c8-b07d-47e2-8382-5ec89d629096/90d961b8-6fe7-4a5d-943a-88196b31011f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/be124b17-abf9-40a5-a3a5-d63a18f360c1/6cfa531f-c5a7-4d39-aa45-c8a36aa0b86c/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Texas border resident blasts Biden's 'truly shameful' immigration policies"
-    excerpt: "Biden’s immigration policies are “truly shameful,” a Texas resident who lives near the border said on Thursday."
-    publishedDateTime: 2021-03-04T16:13:00Z
-    webUrl: "https://www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies"
-    ampWebUrl: "https://www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 133
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "gh+tjkipagjBpKwillT+5CFyeaCq6IlmBS/JIF/Oq8q+y9l0vE7Arbuhzscj4otbPgbthOQmCaiYREZGYFGN6xqpM5x2wwb5qqdryJeKlxmILcoGY3Ju9MfnN+9R3ekRE3/MUcacuJCQ/U8QAxseU0R359FlwDWEIJxs5Cx90zxuQ1mlU3x891VIeWra+rkO+nNNpzDb/LE1Bh8BCZp7NYYT6fDfqHcFE9fi3Rvyb4EkF/ux57/GprbRM3PEpo2ujzv7TemXzDB4UyFv7X1TPqUpAP6oo4v0VWFjdR5hYnuFDXz3QeQwETyjm2N+51o7YQ5ZYHuMz3wfe2xSky8F8qvLNgoSnWCsPqmWeueOM7M=;YPV0yoSOHfjTuHdy/BcFqw=="

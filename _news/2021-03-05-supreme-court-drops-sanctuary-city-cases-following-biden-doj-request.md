@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/supreme-court-drops-sanctuary-city-
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/supreme-court-drops-sanctuary-city-cases-following-biden-doj-request.amp"
 type: article
 quality: 175
-heat: 195
+heat: 235
 published: true
 
 provider:
@@ -46,6 +46,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a3c40c60-719c-46f7-a0f9-29b50b1d2a64/d1e28c4b-7390-42c8-8e8e-06ae3501f147/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "White House press corps ushered away after asking Biden questions — again"
+    excerpt: "Aides to President Biden hurried the traveling press corps away as they shouted questions at an unresponsive commander in chief in Washington Tuesday -- his 48th day in office without holding a solo press conference. "
+    publishedDateTime: 2021-03-10T16:30:36Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/l1D4HyQNkCw/white-house-press-corps-ushered-away-asking-biden-questions-again"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-press-corps-ushered-away-asking-biden-questions-again.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Biden-today.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Biden DOJ nominee Gupta says she doesn't support defunding police despite past comments"
+    excerpt: "Vanita Gupta, President Biden's pick to be the next associate attorney general, stated during her confirmation hearing Tuesday morning that she does not support defunding police, although past remarks have led to claims that she does."
+    publishedDateTime: 2021-03-09T18:19:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DRbPfTBQo24/biden-doj-nominee-vanita-gupta-defund-police"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-doj-nominee-vanita-gupta-defund-police.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-doj-nominee-vanita-gupta-defund-police.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "c2nd1odjTf+tmEQz+R7ydy+dQficHJFnciMY8OtzazOkLypDNT9ykpszTYaqkkdERvh30g7UjV3l+7U+75mSjeE6VMWTXgvTI9HB03FPAPOjNjEgB6PJm1SVKYQuJOpoVAj6IJ2fw4C3JHkpvuazM2t0dT2zwjLDnUsOqMQb8OghrSkInbv+BCtD9VZsaM+5PRY0nxO7VDLGrfWBjnkazlySCyuYYZutHY1W9/lxMqRqNk2EFVDMrMN7+RxsX1gXnT+UmCeta9PSC6zRkPzRr1+EDFLmLBGx6UNAWBpPIuFvwG4xFBiJtqs6M00ILrGwoI3OgD8dVqND2l4ws9UN3T9bu5sXUyEHEBvtYveEp2o=;XrL7bly7OJarBF9PpHRDaw=="
