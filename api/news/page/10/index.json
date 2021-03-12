@@ -2,6 +2,58 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-26-manhattan-district-attorney-obtains-trumps-long-sought-tax-records.md",
+      "title": "Manhattan district attorney obtains Trump's long-sought tax records",
+      "excerpt": "The Manhattan District Attorney's Office has obtained former President Donald Trump's tax records, executing a subpoena for the long-sought documents after the Supreme Court declined to shield them from investigators earlier this week.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-tax-returns-manhattan-prosecutors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 265,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/31/e6e4b3bf-d221-4e69-9758-c125b8adfeda/thumbnail/1200x630g2/2846660e3574f923ccd0a39f79b733a8/gettyimages-1230689498.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-tax-returns-manhattan-prosecutors/",
+      "publishedDateTime": "2021-02-25T09:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-25-harris-addresses-vaccine-hesitancy-in-dc-pharmacy-visit.md",
       "title": "Harris addresses vaccine hesitancy in DC pharmacy visit",
       "excerpt": "Vice President Kamala Harris on Thursday visited a local pharmacy in Washington, DC, to highlight the Biden administration's retail pharmacy vaccination program and combat vaccine hesitancy.\n    \n",
@@ -1309,62 +1361,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-alaska-was-openly-targeted-by-biden-executive-order-murkowski-claims-in-haaland-confirmation-hearing.md",
-      "title": "Alaska was openly ‘targeted’ by Biden executive order, Murkowski claims in Haaland confirmation hearing",
-      "excerpt": "Sen. Lisa Murkowski, R-Alaska, sounded the alarm about President Biden's oil restrictions, pressing his Interior secretary nominee, Rep. Deb Haaland, D-N.M., on an executive order she said targeted her state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dHheHxQaeOc/murkowski-deb-haaland-alaska",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dHheHxQaeOc/murkowski-deb-haaland-alaska",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/94d3be80-80fd-4e32-88f8-f17582c5c87c/066e8bcf-d531-4803-95df-7e10d15e3db8/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/murkowski-deb-haaland-alaska.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/murkowski-deb-haaland-alaska.amp",
-      "publishedDateTime": "2021-02-23T13:07:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

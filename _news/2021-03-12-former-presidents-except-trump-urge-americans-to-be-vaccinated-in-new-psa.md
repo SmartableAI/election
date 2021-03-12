@@ -1,20 +1,22 @@
 ---
 category: news
-title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
-excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
-publishedDateTime: 2021-01-19T12:15:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-legacy/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSL1N2JS0KO"
-webUrl: "https://www.reuters.com/article/usa-trump-legacy/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSL1N2JS0KO"
+title: "Former presidents, except Trump, urge Americans to be vaccinated in new PSA"
+excerpt: "The Ad Council, which is overseeing the project, told ABC News that the ads were shot at the inauguration of President Joe Biden in January, which Trump did not attend."
+publishedDateTime: 2021-03-12T02:41:00Z
+originalUrl: "https://abcnews.go.com/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
+webUrl: "https://abcnews.go.com/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
 type: article
-quality: 104
+quality: 123
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -23,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
-    width: 800
-    height: 547
+  - url: "https://s.abcnews.com/images/Politics/president-psa-vaccine-02-ht-jt-210311_1615493485600_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -61,22 +63,6 @@ related:
         width: 804
         height: 545
         isCached: true
-  - title: "Former presidents, except Trump, urge Americans to be vaccinated in new PSA"
-    excerpt: "The Ad Council, which is overseeing the project, told ABC News that the ads were shot at the inauguration of President Joe Biden in January, which Trump did not attend."
-    publishedDateTime: 2021-03-12T02:41:00Z
-    webUrl: "https://abcnews.go.com/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-psa-vaccine-02-ht-jt-210311_1615493485600_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "For some Christians, the Capitol riot doesn’t change the prophecy: Trump will be president"
     excerpt: "As lawmakers prepared to impeach President Trump and Washington readied for President-elect Joe Biden’s inauguration, Cliff Dyrud wasn’t focused on man-made acts. He was listening for the words of prophets."
     publishedDateTime: 2021-01-15T02:34:00Z
@@ -108,6 +94,20 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/01/14/USAT/58d3db56-ae52-4500-9485-aa58d36fc8f2-USATSI_15428849.jpg?auto=webp&crop=2999,1687,x0,y152&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
+    excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
+    publishedDateTime: 2021-01-19T12:15:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-legacy/analysis-trumps-legacy-a-more-divided-america-a-more-unsettled-world-idUSL1N2JS0KO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548297890&r=LYNXMPEH0I0O7&w=800"
+        width: 800
+        height: 547
         isCached: true
   - title: "Analysis - Trump's legacy: A more divided America, a more unsettled world"
     excerpt: "Closing out his presidency exactly four years later, Trump leaves behind an even more polarized America, where thousands are dying daily from the COVID-19 pandemic, the economy is badly damaged and political violence has surged."
@@ -184,6 +184,6 @@ related:
         height: 1680
         isCached: true
 
-secured: "9wI1nuMmHzVw7FQ9hNcuyxZVpqqXzR3LKFsotqPh3hddNy+i8zmYJMZJPyDF0pL8yXA2nMVMludSbS+iDfs86JLQm1/XiKffJS7ZzsTeayfBpvdznlN24H2TNTw0CG9sS4CifUGvQdDQKWQkTRBDF9fJ8Hr5aJQcncmeCJAmFItaVKNuVOeUxy+tMDCsYZutjW4iKKOzrs7iyEjyJcZV9H88mrJ+RQRyZrL4WBqucWNPUF4mVnCeIQrwpkuya/QwqugueYDo3DW4102biY+Bqx00ZkcelGpEXXpI2mHgtuL2I3MVduS+PRb0hqJVGEU2OIpxK36XjAnZ6/GZpqEh8aj6ofOJ5Ym5UgNrfEEyAkU=;77yMHstmNQFnGlmpcAt5pQ=="
+secured: "256771h8hOO41NkOZzNZne2okMfJl5Loo1GG1UJaUFyGf+TQdkKMVGnwu9qveUvmkvoCVqGTt+ikZ95BB7KjWifkFuOCp3Haz3wn0rOIBxOVeMqJbXns3VBs4rgigam2Ran1++oezCUI8K/3d9INNfwd7wkPH5cLO/tQMpIRetszRoSwj1voEmZ3ijn1WebO3FktDKj4sQxlABY3VYirmmpUAb97iTgnnXbDNmsNjzS+JIO2MlQ9/7Qv1MiT9FbZbnf5hWNxL4JZEXP5yV3fIkcBFCciZAlSF6P+dVfagFtm0zSHkgg8WFDDoYMWXZIRfA6zBsRnbAzxaLskNixNZ1r9bKtYnswSSdt/KL1DztI=;gjHeUCXsMxJv7C6sZZld6g=="
 ---
 

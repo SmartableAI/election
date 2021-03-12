@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-09-clyburn-concerns-over-biden-mental-state-much-ado-about-nothing.md",
+      "title": "Clyburn: Concerns over Biden mental state 'much ado about nothing'",
+      "excerpt": "House Majority Whip Jim Clyburn of South Carolina told Fox News on Tuesday he hopes to see federal checks from the coronavirus relief bill be sent out to Americans \"next week,\" before dispelling rumors of the president having any type of acuity-related shortcomings after he appeared to forget Defense",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XCqL1n7u7vU/clyburn-biden-checks-hopefully-out-next-week-dismisses-critics-concerns-of-acuity",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/XCqL1n7u7vU/clyburn-biden-checks-hopefully-out-next-week-dismisses-critics-concerns-of-acuity",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/clyburn-biden-checks-hopefully-out-next-week-dismisses-critics-concerns-of-acuity.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clyburn-biden-checks-hopefully-out-next-week-dismisses-critics-concerns-of-acuity.amp",
+      "publishedDateTime": "2021-03-09T15:29:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-this-cant-be-the-end-of-the-matter-advocates-lawmakers-press-biden-to-punish-saudi-crown-prince.md",
       "title": "'This can't be the end of the matter': Advocates, lawmakers press Biden to punish Saudi crown prince",
       "excerpt": "WASHINGTON – Several prominent human rights advocates blasted President Joe Biden on Tuesday for failing to directly penalize Saudi Arabia's crown prince for his role in the murder of Washington Post columnist Jamal Khashoggi. It comes as Democrats in ...",
@@ -1314,58 +1370,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-cuomo-chastised-states-trump-for-obscuring-covid-information-now-hes-accused-of-the-same.md",
-      "title": "Cuomo chastised states, Trump for obscuring COVID information. Now he's accused of the same",
-      "excerpt": "Before Cuomo and aides were accused of downplaying nursing home deaths for political gain, he warned others about the risk of 'politics of denial'",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/coronavirus/2021/03/08/andrew-cuomo-complained-trump-states-politicized-covid-now-hes-accused/4599917001/",
-      "originalUrl": "https://www.usatoday.com/story/news/coronavirus/2021/03/08/andrew-cuomo-complained-trump-states-politicized-covid-now-hes-accused/4599917001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/11/PWES/c0bf7753-5950-49af-9862-248995c26ed7-AP21011645140435.jpg?auto=webp&crop=5498,3093,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4599917001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4599917001",
-      "publishedDateTime": "2021-03-08T06:25:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

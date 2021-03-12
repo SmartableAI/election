@@ -63,6 +63,22 @@ related:
         width: 804
         height: 545
         isCached: true
+  - title: "Former presidents, except Trump, urge Americans to be vaccinated in new PSA"
+    excerpt: "The Ad Council, which is overseeing the project, told ABC News that the ads were shot at the inauguration of President Joe Biden in January, which Trump did not attend."
+    publishedDateTime: 2021-03-12T02:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-psa-vaccine-02-ht-jt-210311_1615493485600_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "USA TODAY/Suffolk Poll: Americans, braced for violence at the inauguration, see democracy damaged after Trump"
     excerpt: "A new USA TODAY/Suffolk Poll finds President Trump's standing has eroded since the U.S. Capitol riot. A majority predict violence at Joe Biden's inauguration."
     publishedDateTime: 2021-01-17T14:43:00Z

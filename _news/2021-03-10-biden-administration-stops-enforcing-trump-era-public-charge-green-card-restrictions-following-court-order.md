@@ -239,6 +239,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Republicans Insist Donald Trump Should Take Credit for COVID Vaccinations"
+    excerpt: "But prominent GOP figures have criticized the president for not recognizing the administration of Donald Trump, which launched Operation Warp Speed last April. This public-private partnership was set up to facilitate the development, manufacturing and ..."
+    publishedDateTime: 2021-03-12T10:27:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1754084/ex-president-donald-trump.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Congressman sues Trump over deadly Capitol siege, charges civil rights violation"
     excerpt: "A Democratic congressman has sued Donald Trump, his lawyer Rudy Giuliani and other allies of the former president over the deadly attack on the U.S. Capitol when violent Trump supporters tried to stop the certification of Trump's election defeat."
     publishedDateTime: 2021-03-05T23:52:00Z

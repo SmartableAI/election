@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-ja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
 type: article
 quality: 190
-heat: 710
+heat: 730
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden jabs at Trump in primetime remarks on COVID-19"
+    excerpt: "In his first primetime address to the nation Thursday night, President Biden lobbed barely concealed criticism at former President Trump for his handling of the coronavirus pandemic."
+    publishedDateTime: 2021-03-12T02:49:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ddH7-nrXfMA/biden-jabs-at-trump-in-primetime-remarks-on-covid-19"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-jabs-at-trump-in-primetime-remarks-on-covid-19.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-jabs-at-trump-in-primetime-remarks-on-covid-19.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8382acb7-c09b-4e8e-a27d-19150c65075b/3cfe5695-e576-41ec-bf4b-ab25d5900187/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden’s COVID bill could be defining political issue in midterm elections"
     excerpt: "With the $1.9 trillion COVID-19 relief bill headed the President Biden’s desk, the legislative battle over the massive measure’s over, but the PR and political fights are only beginning."
     publishedDateTime: 2021-03-10T20:40:56Z

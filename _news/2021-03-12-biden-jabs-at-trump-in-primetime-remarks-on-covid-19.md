@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Hannity urges Biden to 'just thank Donald Trump' for Operation Warp Speed: 'No Trump, no vaccine, Joe'"
-excerpt: "Fox News host Sean Hannity urged President Biden Thursday to call former President Donald Trump and thank him for all that he did to fight the coronavirus pandemic."
-publishedDateTime: 2021-03-12T05:17:00Z
-originalUrl: "https://www.foxnews.com/media/hannity-urges-biden-thank-trump-vaccine-covid"
-webUrl: "https://www.foxnews.com/media/hannity-urges-biden-thank-trump-vaccine-covid"
-ampWebUrl: "https://www.foxnews.com/media/hannity-urges-biden-thank-trump-vaccine-covid.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-urges-biden-thank-trump-vaccine-covid.amp"
+title: "Biden jabs at Trump in primetime remarks on COVID-19"
+excerpt: "In his first primetime address to the nation Thursday night, President Biden lobbed barely concealed criticism at former President Trump for his handling of the coronavirus pandemic."
+publishedDateTime: 2021-03-12T02:49:11Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ddH7-nrXfMA/biden-jabs-at-trump-in-primetime-remarks-on-covid-19"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ddH7-nrXfMA/biden-jabs-at-trump-in-primetime-remarks-on-covid-19"
+ampWebUrl: "https://www.foxnews.com/politics/biden-jabs-at-trump-in-primetime-remarks-on-covid-19.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-jabs-at-trump-in-primetime-remarks-on-covid-19.amp"
 type: article
-quality: 134
+quality: 190
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e65b05f-d34b-4b9b-b820-7c856b74b47b/7e19b149-ebd2-4164-a37a-f729659e008c/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8382acb7-c09b-4e8e-a27d-19150c65075b/3cfe5695-e576-41ec-bf4b-ab25d5900187/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -38,22 +37,6 @@ related:
     webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump"
     ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
     cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 190
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8382acb7-c09b-4e8e-a27d-19150c65075b/3cfe5695-e576-41ec-bf4b-ab25d5900187/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Biden jabs at Trump in primetime remarks on COVID-19"
-    excerpt: "In his first primetime address to the nation Thursday night, President Biden lobbed barely concealed criticism at former President Trump for his handling of the coronavirus pandemic."
-    publishedDateTime: 2021-03-12T02:49:11Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ddH7-nrXfMA/biden-jabs-at-trump-in-primetime-remarks-on-covid-19"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-jabs-at-trump-in-primetime-remarks-on-covid-19.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-jabs-at-trump-in-primetime-remarks-on-covid-19.amp"
     type: article
     provider:
       name: Fox News
@@ -416,6 +399,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Hannity urges Biden to 'just thank Donald Trump' for Operation Warp Speed: 'No Trump, no vaccine, Joe'"
+    excerpt: "Fox News host Sean Hannity urged President Biden Thursday to call former President Donald Trump and thank him for all that he did to fight the coronavirus pandemic."
+    publishedDateTime: 2021-03-12T05:17:00Z
+    webUrl: "https://www.foxnews.com/media/hannity-urges-biden-thank-trump-vaccine-covid"
+    ampWebUrl: "https://www.foxnews.com/media/hannity-urges-biden-thank-trump-vaccine-covid.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hannity-urges-biden-thank-trump-vaccine-covid.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 134
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0e65b05f-d34b-4b9b-b820-7c856b74b47b/7e19b149-ebd2-4164-a37a-f729659e008c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden expected to roll back Trump administration Title IX changes; falsely accused student's father speaks out"
     excerpt: "The father of a student falsely accused of sexual assault is speaking out after President Biden ordered education officials to start considering how to roll back Trump administration changes to Title IX, which had bolstered the rights for those accused of ..."
     publishedDateTime: 2021-03-11T11:44:00Z
@@ -463,6 +462,6 @@ related:
         height: 720
         isCached: true
 
-secured: "VQWwyE9ZRkx5m7NKj9EqRabUvCANC3hXHMDNPZcy+VSHhTPF6e6oVcwfoyLv86btvFaA6u0wZorndtE5RIzZtTGGHPYkzo6WCCr5D8e0ovtChBW7b4NiR0d9LNyYBZkg/bEHvDVUI21TLC2Gh98gIpIvR/kwCG0pdLyAPYfq9nKsNEFoy4OQYh9BdFMb+XzsIbe9KHK8WLymffzI4/IPC1jlpXWgdGIJZrc3xfPNkdxD+9yy/FGB6lSJUpkQB7JHEE+AM9nCAmjS2mJbxRPShawVLTciKVZa4X8Zweqdk5Bxb/6lJr3lq9kbFk01CafrQt1qHoD9WuEGoSc+YgogweBoDPhM1qRqB1H56Y+Y2NrkU1RUUxNnxwsD7HY6uxhEIjr6Yxazej9kc2BtlJepid9a+QghK0paYlt4EZ7W1rrc1Zo02N7nl0TMhZhbthEaP3tbif/H/E5zDfBhOsxLmAH1dHz/gXb17JtLziHsY55kvDq5xUDoi9gGCTjtFk32Dlh8MDEUMPcmysfCc9UIZA==;Qls1loNL76R5EX8fOw1eUA=="
+secured: "3sbJataV/PQM0qKTyi4teVtgS8OXHReO5hBgJRC+jNY1mg9A4TlI/WgQyNQVLonFAsUkVFUsT3fC8IUyXepqDfL4vH/MzxpA17iSRBrc3YQ9ciJbfI7c3JeGeQAZP0M09Med1v1H09WlQem1ZumLYAKsyw2Afp2kj80bsUf9FdztOKNBcFztMnNWnxwMhu5CeWujotEWZfmon9wci3VvljoTsBpIh2Q1jiElN/QwI2zmCaGJsfpMPIRRMmsPKmBqDBiaEWrAOxLHNUuNiV2f8oQZ4le0n5JJHPGx6TuxEVEcsJ1nUxfGS7L4xLIdTdXkh1v/K+Z1MAdrLdAneOtrTD19/E0mBZcHd2oByte5HZQ=;TLWd7qAsDqAL9G0krD56yQ=="
 ---
 

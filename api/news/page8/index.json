@@ -2,6 +2,62 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-03-01-mcconnell-says-the-gop-will-back-murkowskis-reelection-despite-trump-threat.md",
+      "title": "McConnell says the GOP will back Murkowski's reelection despite Trump threat",
+      "excerpt": "Senate Minority Leader Mitch McConnell committed on Monday that Senate Republicans will support GOP Sen. Lisa Murkowski's reelection bid in 2022 despite former President Donald Trump advocating that the GOP \"get rid of\" the 17 Republicans in Congress who voted against him during his second impeachment.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I-nhc-Lo2LM/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I-nhc-Lo2LM/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 307,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/160214125939-mitch-mcconnell-jan-27-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/01/politics/mitch-mcconnell-lisa-murkowski-support/index.html",
+      "publishedDateTime": "2021-03-01T13:46:29-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-laid-off-pipeline-worker-the-biden-administration-has-taken-my-livelihood-from-me.md",
       "title": "Laid-off pipeline worker: The Biden administration ‘has taken my livelihood from me’",
       "excerpt": "Jason Jernigan, a laid-off Keystone XL Pipeline worker, told \"America’s Newsroom\" on Monday that he doesn’t know how he is going to make a living now, saying, \"This is all I know how to do.\"",
@@ -1287,58 +1343,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-iran-cant-act-with-impunity-biden-says-after-us-air-strikes.md",
-      "title": "Iran 'can't act with impunity,' Biden says after U.S. air strikes",
-      "excerpt": "President Joe Biden said Iran cannot act with impunity and warned Iran to \"be careful\" when asked what message he was sending the country with the U.S. air strikes in Syria.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-iran/iran-cant-act-with-impunity-biden-says-after-u-s-air-strikes-idUSKBN2AQ31W?edition-redirect=in",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-iran/iran-cant-act-with-impunity-biden-says-after-u-s-air-strikes-idUSKBN2AQ31W?edition-redirect=in",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210226&t=2&i=1553097487&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1P1LV",
-          "width": 760,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2AQ31T",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AQ31T",
-      "publishedDateTime": "2021-02-26T23:52:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     }

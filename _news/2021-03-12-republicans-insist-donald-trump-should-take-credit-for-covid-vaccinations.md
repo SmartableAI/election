@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Joe Biden's Approval Rating on COVID Pandemic 18 Points Higher Than Trump's Best: Poll"
-excerpt: "That's 18 points higher than former President Donald Trump's best rating in the poll, in which he earned 44 percent approval in March and April last year. By the time he left office in January, Trump's approval rating on the coronavirus had dropped to 39 ..."
-publishedDateTime: 2021-03-11T21:45:00Z
-originalUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544"
-webUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544"
-ampWebUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544?amp=1"
+title: "Republicans Insist Donald Trump Should Take Credit for COVID Vaccinations"
+excerpt: "But prominent GOP figures have criticized the president for not recognizing the administration of Donald Trump, which launched Operation Warp Speed last April. This public-private partnership was set up to facilitate the development, manufacturing and ..."
+publishedDateTime: 2021-03-12T10:27:00Z
+originalUrl: "https://www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597"
+webUrl: "https://www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597"
+ampWebUrl: "https://www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597?amp=1"
 type: article
-quality: 132
+quality: 124
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://d.newsweek.com/en/full/1753962/joe-biden-coronavirus-approval-rating.jpg"
+  - url: "https://d.newsweek.com/en/full/1754084/ex-president-donald-trump.jpg"
     width: 2500
-    height: 1667
+    height: 1666
     isCached: true
 
 related:
@@ -78,6 +78,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1752341/president-joe-biden.jpg"
         width: 2500
         height: 1663
+        isCached: true
+  - title: "Joe Biden's Approval Rating on COVID Pandemic 18 Points Higher Than Trump's Best: Poll"
+    excerpt: "That's 18 points higher than former President Donald Trump's best rating in the poll, in which he earned 44 percent approval in March and April last year. By the time he left office in January, Trump's approval rating on the coronavirus had dropped to 39 ..."
+    publishedDateTime: 2021-03-11T21:45:00Z
+    webUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544"
+    ampWebUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1753962/joe-biden-coronavirus-approval-rating.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Biden’s Justice Dept. already has split from Trump. Merrick Garland will go even further."
     excerpt: "Now, with federal appeals court judge Merrick Garland set to take over as attorney general, the thornier work begins. Garland, who is expected to be confirmed by the Senate on Wednesday, will inherit a Justice Department damaged by President Donald Trump’s efforts to use its power to benefit his friends and hurt his enemies."
@@ -223,22 +239,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Republicans Insist Donald Trump Should Take Credit for COVID Vaccinations"
-    excerpt: "But prominent GOP figures have criticized the president for not recognizing the administration of Donald Trump, which launched Operation Warp Speed last April. This public-private partnership was set up to facilitate the development, manufacturing and ..."
-    publishedDateTime: 2021-03-12T10:27:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 124
-    images:
-      - url: "https://d.newsweek.com/en/full/1754084/ex-president-donald-trump.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "Biden administration stops enforcing Trump-era \"public charge\" green card restrictions following court order"
     excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
     publishedDateTime: 2021-03-10T05:43:00Z
@@ -288,6 +288,6 @@ related:
         height: 600
         isCached: true
 
-secured: "ALMFB0dwMP92jdJd/NBxphb/+EnaeIQAD5QSMHwNQIJDvJsia4gZHv34/9WctJydDp7FRT5/TC+Rh5cj0trEgJ+jHG0aj/AaXs3TyEHu/K7f+y8lSaNUSy9rFtdWGiHyInZ6W3PZTIJd7xfIVmNMPgQu+Z1AsIxXLX4rQKrvrpjNTGIOlJ9ah4JKYLdlFJfiICfyw7F5BFh6NnxSNcm4xRvyripc3FSusoDVPJ73zPNhlnRyk4wkBoU5cj4lBx0qzTtXUy2u746K42GawYth7B6ymk5FHupMba8+ZB4sqTdY7lwdw4caMZkMSJPHZdEAz3W/6rDRQvE6xGLgMdljSibU3adU6hD6l5Aq3FhJZK7X1poOUmFwo6ZeqCQpo2RAuxHU/S2Bv3RyyBTEzNUCYwJbZRn7kdlkI3QlLTxM4U2EaLltnZrwzW5XRQQiBKMG13i7zGEg47Vz1XM03VjaD8eE0pSb9aEFBLG21Y+/975fWlRELoADBPQhtsgU1QYQpuQ9W4t0TMkcEKXIrE0upQ==;xfWkaAJuyRbRShymuMcsvg=="
+secured: "iTmL1IHKk1+r4kLSLZmd4qY+rlXelwbgCq5VHwSsd0fXUPlxBeOsDXaMLRDAs2/GMMOl39xW0leg/8noeHEw+EXAMXhzJcZacOXdi94BI9sFUFsntrAxGrB1oKkNST5aRwAjeyso2UyhVzVkLx/+FmQhvUnx3uTJfqtPzHOIKbDJYZTZC/z1PGplLUMfX4Df1hYk+qC7biiBFSTQqJJQ54yEXjiTx+XUhwmDy79EvwKGjQ/8ZkWyzUosE+pYYEVOaspqlChoEQoRWPsiaDHEzky9+Yni7Kc93ghsoLWv5mcVov5hecGIDv61lkS06n6K6sJx7niQYtsowmZPaaEeRL1Yvnl1K0zYj/SezB7rqrk=;44iM574zihKm3UNNLDRpOg=="
 ---
 

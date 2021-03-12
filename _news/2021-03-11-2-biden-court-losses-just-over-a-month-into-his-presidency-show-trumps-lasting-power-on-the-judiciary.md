@@ -223,6 +223,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Republicans Insist Donald Trump Should Take Credit for COVID Vaccinations"
+    excerpt: "But prominent GOP figures have criticized the president for not recognizing the administration of Donald Trump, which launched Operation Warp Speed last April. This public-private partnership was set up to facilitate the development, manufacturing and ..."
+    publishedDateTime: 2021-03-12T10:27:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 124
+    images:
+      - url: "https://d.newsweek.com/en/full/1754084/ex-president-donald-trump.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Biden administration stops enforcing Trump-era \"public charge\" green card restrictions following court order"
     excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
     publishedDateTime: 2021-03-10T05:43:00Z
