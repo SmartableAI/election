@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's acting defense secretary says his January 6 speech incited Capitol rioters"
+    excerpt: "Former acting Secretary of Defense Christopher Miller believes former President Donald Trump's speech on the morning of January 6 incited the rioters who stormed the US Capitol.\n    \n"
+    publishedDateTime: 2021-03-11T22:01:06Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aTf5buSakEY/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/miller-on-trump-january-6/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/miller-on-trump-january-6/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109131036-christopher-miller-sept-17-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "House impeachment manager Eric Swalwell sues Trump and close allies over Capitol riot in second major insurrection lawsuit"
     excerpt: "Former House impeachment manager Eric Swalwell has sued former President Donald Trump, his son Donald Trump Jr., Rudy Giuliani and Republican Rep. Mo Brooks in a second major lawsuit seeking to hold Trump and his allies accountable for inciting the insurrection at the US Capitol on January 6.\n    \n"
     publishedDateTime: 2021-03-05T14:17:03Z

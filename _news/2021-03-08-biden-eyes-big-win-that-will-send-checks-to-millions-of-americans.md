@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-checks/index.html"
 type: article
 quality: 175
-heat: 435
+heat: 455
 published: true
 
 provider:
@@ -233,6 +233,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09dc-justice-1/merlin_184801785_0070e6c2-88ce-416c-926e-2400ddf6eada-facebookJumbo.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
+    excerpt: "Washington (CNN)Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president. No Republicans on Capitol Hill supported the Biden-backed Covid stimulus package ..."
+    publishedDateTime: 2021-03-11T18:37:00Z
+    webUrl: "https://www.cnn.com/2021/03/11/politics/biden-republicans-culture-war-covid-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 113
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "kUtUQIv3KwtAukhx5Bx0B7xcfKcL92WEtCh8C+Gv3CrtGcMDowIlzTX1IMgT1mHEAiTJdaGwB1qWXbCUho3hUMKPGwdyoSJ0eN2IaEBkGK5jNWCsBPhjtMhMdEif3WWZXj5FwPX8OXENKji372u3Zozcqr0X6zDrUbiQl6T09bBdqqYy5/FyamgqO7MCFkBbCurb+5EYiampNkFm/bgOowWzfBpyKu4lQkXkExjLwImthD0K7mOwcMHgJ+Sc4ciILdX5ftaxtsI5/nE0UKiTfoO+f3t6PeaShWJLVZ2oXNPMP5JtxX9/IQQCkcYbQItBSg6L1WzkDFvTDPcS9d7yiTq1Gjr55XE0MpY8z1DlnVo=;TnaFZhX3/y7aYWrO2CG3gA=="

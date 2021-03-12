@@ -47,20 +47,6 @@ related:
         width: 717
         height: 545
         isCached: true
-  - title: "WH: Biden to find Tanden another administration post"
-    excerpt: "White House Press secretary Jen Psaki says there will be no announcement this week on a new budget nominee after Neera Tanden withdrew her nomination Tuesday. Psaki said President Joe Biden is looking for another administration post for Tanden."
-    publishedDateTime: 2021-03-03T21:20:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/03/wh-biden-find-tanden-another-administration-post/6909944002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/32e994a2-e70e-4dee-9f08-a4971c5bdded_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "3+Hq3/iO2nxAjtMLh2y/4WaVJEBM1aVIdTbzMqpsU1ZWsZHMhhAq1MIlZeH3nAZ4BvSd8OO71c06T856AToiNw3IjFiDmK0Zi0+mzuAF7xfaxjTwUG5cw9zSicmhBfGVKiIR8OjkS6fSGebEzqNER/EcNmcuUbFUHPeT+9xRWKyCSIixnOHZEeA8TsX5A31BVLIM6suobS/MKFgmozoWcLqKgARz8F1d2bUzDiJ54kjib5FoYk05zK7LJox+n60Q6WALQCqWCZKCeP/Wpco7RI1azlytKGUUipdmSWrbDC0bXHBAXs2ARiR6l3mklTXTR3xnpxR4sWBIDLXr2OaARxaW5E7NPyK2hYzlZwfA48Q=;qSjiyNlGeY7Li700H9vvow=="
 ---

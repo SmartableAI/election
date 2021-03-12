@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.usatoday.com/amp/6929043002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6929043002"
 type: article
 quality: 108
-heat: 108
-published: true
+heat: -1
+published: false
 
 provider:
   name: USA Today
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Jan. 6 Capitol defendant wants trial moved to west Texas, says D.C. too anti-Trump, politically correct"
+    excerpt: "Attorney for Jenny Louise Cudd, 36-year-old florist of Midland, Tex., calls case ‘emotionally political in every respect.’"
+    publishedDateTime: 2021-03-11T00:59:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GRAMAUB7UI6XHFGKTQYP3SJHE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
 
 secured: "/ybSg9D1Js6saTfmA2pUiL75NuRjqyOLMM1xLSB6N1B3l/D5c9hZpd1WA0hD/8ft4LEaaqqDYVtdkJGqYRJJ9xytGCJdUw/VazPC8xvilZ3EXwxqS/tayvFSalYipodp/T2HVFPnu/oqQmw0SVOcLcofnocL1hTkTtLLV32wFw1nqZFSeeF+Mj4ESSodbSJxLOxz8dRtluDSAQrTUUFNsoW1YU7VacU2neclVZn6EDG2IsYbU0FOxrWeuZiH/h7Ptbl16tvEMav9kEeudiRbezE0JWxK6e2d52ApNXzjOVqGJzpsUxJEKDWNNvuk4s4WsERUFm+8KK1a/YuNyEYSbguFqcqIfDhy74tX+A2gMqw=;ca9odVmjDucMGStWW/qa2A=="
 ---

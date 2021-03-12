@@ -107,6 +107,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "U.S. Senate panel sets hearing for Biden's No. 2 and No. 3 Justice Department picks"
+    excerpt: "The U.S. Senate Judiciary Committee on Thursday announced it will hold a confirmation hearing on March 9 for President Joe Biden's nominees to serve in the No. 2 and No. 3 top jobs at the U.S. Justice Department."
+    publishedDateTime: 2021-02-26T03:55:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-senate-justice-idUSKBN2AP325"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AP325"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP325"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552951685&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O1R8"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Senate meetings on Tanden postponed, suggesting lack of support for Biden budget pick"
     excerpt: "Two Senate committees postponed meetings scheduled for Wednesday to consider President Joe Biden’s pick as budget director, Neera Tanden, suggesting she may not have the votes to be approved and may become the first high-profile Biden nominee to be rejected."
     publishedDateTime: 2021-02-24T15:43:00Z

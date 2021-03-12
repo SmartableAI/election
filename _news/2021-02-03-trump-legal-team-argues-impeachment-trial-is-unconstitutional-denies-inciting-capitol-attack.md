@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Rick Scott to meet with Trump at Mar-a-Lago"
+    excerpt: "Sen. Rick Scott (R-Fla.) is set to meet with former President Trump Donald Trump The Memo: How the COVID year upended politics Biden seeks his moment with pandemic address A year with the ..."
+    publishedDateTime: 2021-03-11T22:08:00Z
+    webUrl: "https://thehill.com/homenews/campaign/542834-rick-scott-to-meet-with-trump-at-mar-a-lago"
+    ampWebUrl: "https://thehill.com/homenews/campaign/542834-rick-scott-to-meet-with-trump-at-mar-a-lago?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542834-rick-scott-to-meet-with-trump-at-mar-a-lago?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/scottrick_02262021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Facing expulsion, Trump resigns from the Screen Actors Guild: ‘You have done nothing for me’"
     excerpt: "Former president Donald Trump has resigned from the Screen Actors Guild - American Federation of Television and Radio Artists (SAG-AFTRA) after its national leadership voted to consider expelling him over his role in inciting the January mob attack on the U."
     publishedDateTime: 2021-02-05T00:57:00Z

@@ -31,64 +31,179 @@ images:
     isCached: true
 
 related:
-  - title: "Anti-Trump conservatives rally to back Vanita Gupta, Biden’s pick for key Justice Dept. post"
-    excerpt: "The effort is aimed at countering attacks from hard-right conservatives who have portrayed the civil rights attorney as a radical progressive."
-    publishedDateTime: 2021-03-01T17:21:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
+  - title: "A look at Merrick Garland, Joe Biden’s nominee for attorney general"
+    excerpt: "Merrick Garland, President Joe Biden’s nominee for attorney general, appeared before the Senate Judiciary Committee for his confirmation hearing on Monday. Here are some key facts to know about Biden’s nominee to run the Justice Department: MOST RECENT LEGAL EXPERIENCE: 1997-Present: Judge on the United States Court of Appeals for the District of Columbia Circuit."
+    publishedDateTime: 2021-02-22T23:54:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 129
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WCRZFWTW4QI6XFJXJFQVRTC73E.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.chicagotribune.com/resizer/pgmyCxGCHham3HQMavNFCnRGVmM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WIDFTAWVFZVCHFODXCIXZ4Q4M4.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Senate committee vote on Biden budget pick Tanden postponed"
-    excerpt: "A Senate committee postponed the Wednesday hearing for President Joe Biden’s pick to lead the Office of Management and Budget, suggesting further challenges for Neera Tanden."
-    publishedDateTime: 2021-02-24T13:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/senate-committee-vote-on-biden-budget-pick-tanden-postponed-idUSKBN2AO1S4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+  - title: "Biden says he will push for funding for semiconductor legislation"
+    excerpt: "U.S. President Joe Biden said on Wednesday he will push for funding for semiconductor legislation following a meeting with bipartisan group of lawmakers about supply chain issues."
+    publishedDateTime: 2021-02-24T21:09:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-semiconductors-idUSW1N2KA060"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KA060"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KA060"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552752404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552798506&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N1LM"
+        width: 816
+        height: 545
+        isCached: true
+  - title: "Biden choice for budget chief faces new hurdles in Congress"
+    excerpt: "The increasingly slim odds — and surprisingly thin outreach from the White House — for Neera Tanden’s nomination as head of the Office of Management and Budget are raising growing questions about how"
+    publishedDateTime: 2021-02-26T04:06:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_1cb6fdeffac84dd6b4179796077178c8_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Joe Biden won the presidency by making the most of his lucky breaks"
+    excerpt: "Lucky: How Joe Biden Barely Won the Presidency’ by Jonathan Allen and Amie Parnes is an inside account of the 2020 campaign."
+    publishedDateTime: 2021-02-28T13:12:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NCU2Z6HDLII6VAWYLZK5I7UQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden's 1st 100 days live updates: McConnell doubles down against relief proposal"
+    excerpt: "Live updates of Judge Merrick Garland's confirmation hearing to be attorney general before the Senate Judiciary Committee."
+    publishedDateTime: 2021-02-24T00:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 120
+    images:
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell-rtr-jc-210223_1614113010604_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Senate meetings on Tanden postponed, suggesting lack of support for Biden budget pick"
+    excerpt: "Two Senate committees postponed meetings scheduled for Wednesday to consider President Joe Biden’s pick as budget director, Neera Tanden, suggesting she may not have the votes to be approved and may become the first high-profile Biden nominee to be rejected."
+    publishedDateTime: 2021-02-24T15:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKBN2AO1S4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552764513&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
         width: 817
         height: 545
         isCached: true
-  - title: "Senate votes to confirm Biden pick as commerce secretary"
-    excerpt: "The Senate voted overwhelmingly Tuesday to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy's recovery during and after the coronavirus pandemic."
-    publishedDateTime: 2021-03-03T01:59:00Z
-    webUrl: "https://www.businessinsider.com/senate-votes-to-confirm-biden-pick-as-commerce-secretary-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/senate-votes-to-confirm-biden-pick-as-commerce-secretary-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/senate-votes-to-confirm-biden-pick-as-commerce-secretary-2021-3?amp"
+  - title: "Senate panel to vote Wednesday on 3 Biden nominees, including trade pick Tai - source"
+    excerpt: "The Senate Finance Committee will vote on Wednesday on three nominees for key jobs in the Biden administration, including Katherine Tai as trade czar and California Attorney General Xavier Becerra as U."
+    publishedDateTime: 2021-03-01T19:22:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-nominations-idUSL2N2KZ2GQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Biden revokes Trump orders on ‘anarchist’ cities, restores New York City’s funding"
-    excerpt: "President Joe Biden on Wednesday formally revoked a series of presidential orders and memorandum signed by Donald Trump, including one that sought to cut funding from several cities the 45th president deemed “anarchist” havens and another mandating that federal buildings should be designed in a classical aesthetic."
-    publishedDateTime: 2021-02-25T12:16:00Z
-    webUrl: "https://www.al.com/news/2021/02/biden-revokes-trump-orders-on-anarchist-cities-restores-new-york-citys-funding.html"
-    ampWebUrl: "https://www.al.com/news/2021/02/biden-revokes-trump-orders-on-anarchist-cities-restores-new-york-citys-funding.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/02/biden-revokes-trump-orders-on-anarchist-cities-restores-new-york-citys-funding.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 84
+      name: Reuters
+      domain: reuters.com
+    quality: 118
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJAGMVDUCZDAHI6MIHGXAQMAOI.jpg"
-        width: 6000
-        height: 4000
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210301&t=2&i=1553370867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH2022J"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden's attorney general pick Garland to prioritize civil rights, combating domestic terror"
+    excerpt: "Merrick Garland was tasked with supervising a sprawling U.S. Justice Department criminal investigation into the bombing of a federal office building in Oklahoma City that killed 168 people."
+    publishedDateTime: 2021-02-19T16:03:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-senate-justice-garland-idUSKBN2AJ16S"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ16S"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ16S"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552142019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0NJ"
+        width: 812
+        height: 545
+        isCached: true
+  - title: "Two senators join Manchin in opposing Biden budget pick Neera Tanden, putting nomination in peril"
+    excerpt: "Neera Tanden has come under fire during the confirmation process for her past tweets and statements criticizing lawmakers on both sides of the aisle."
+    publishedDateTime: 2021-02-22T16:47:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/22/mitt-romney-susan-collins-oppose-biden-budget-nominee-neera-tanden/4539982001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4539982001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4539982001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/e38a4941-b873-41d2-9d50-a260b8e1231e-Double_masking_09.JPG?auto=webp&crop=5746,3232,x1,y237&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Vilsack sworn in as Biden's agriculture secretary"
+    excerpt: "One day after the Senate confirmed Tom Vilsack as agriculture secretary, the former Iowa governor has been sworn in to head the department for a second time. (Feb. 25)"
+    publishedDateTime: 2021-02-25T00:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/25/vilsack-sworn-bidens-agriculture-secretary/6808430002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/714388f5-00dc-4da6-b44d-e09279b269af_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Merrick Garland, Joe Biden haven't spoken about Hunter Biden investigation"
+    excerpt: "In his Senate confirmation hearing, nominee faced questions about how he would handle the federal investigation into the president's son."
+    publishedDateTime: 2021-02-22T17:01:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/02/22/merrick-garland-hunter-biden-investigation-havent-talked-president/4541418001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4541418001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4541418001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 73
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/0ec6814e-fab6-44d3-9aa7-fb3a9c7d77bd-VPC_HUNTER_BIDEN_LAPTOP_EXPLAINER_DESK_THUMB.00_00_05_05.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "eh5YH5mmFE0TbqtyoRSalixnWNOXM/0BZ0sYUxPtf2KNkffZWlVM/CTYlTuvzxePNPePlbnE7xDgGbQxLN/KbeKSD6ttKW8xlONwKbtf5Nkf+XEw++0W9lSJ3H8c7e1EnwWaeO+Vrs+/JzCSIg9C0hro+i9a2pxi4KHoE4qEOXSb/B3j2YezwCSblifPqROYSvbFD+NFr0ZaGAgZk0k1k+SgGNnO2fXqtQ/C3g4YFnZnp0tQZeZ1LW9fy97rBqQIyhdb1cPEWCQiC0sN2DlxtQAO+jtQx0hxHs+jYzPelK/I4rlsBw1v6iBR9/cvIQY9wWaNcXsmpGGPR3XpI8KCOGqJ+h59hu2jAkZEnn/VYSA6oX/LA9u6p9J00VfONOOwgaxhiGm+m4RqDBbVQ8+fYws998mnLwDRPJ2kG3yEXsg7RZDXQ0N8pSRDArRuVMLrhy9URm0Qb9nyQTs8Qdyl4MqAQZPuKFrjB4Ftkjy5Y9+3mixEZjLYDehdR4kB/ln9cKrOG6LRwtUpuAZKomJBxQ==;CfWh4m6AEkcaickdxXuDzw=="

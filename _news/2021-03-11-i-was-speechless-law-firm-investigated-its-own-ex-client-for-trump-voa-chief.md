@@ -7,7 +7,7 @@ originalUrl: "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm
 webUrl: "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief"
 type: article
 quality: 101
-heat: 101
+heat: 121
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1400
     height: 787
     isCached: true
+
+related:
+  - title: "Trump's own Pentagon chief says rioters wouldn't have stormed the Capitol if it hadn't been for the president's speech"
+    excerpt: "DOW S&P 500 NASDAQ 100 The man who was leading the Pentagon on Jan. 6 says that rioters would not have stormed the Capitol if it hadn't been for President Donald Trump's speech beforehand. Asked if he thought Trump was responsible for what unfolded at the ..."
+    publishedDateTime: 2021-03-11T21:27:00Z
+    webUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/604a851ef196be0018beef55?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "/0Dl6XPsLWbO6DX7iMlgYA9XuZgKN1bPAvO92JKLKYkomGgOOaU9TwTmnqhc/QJS6ihhEIZ81AHNiu6wwsb3msiDoPYuEaR6yTzKYeSexDsbLkV/23YqGkneeppssXl3RfxaULeBJd3robTJ6Emls/gyRhnK4m1JMKmXQn6akIxbqguv8Tw2NNSwOO+XiRpDQKwdRqAILCPU0dDg7ZsnQIpxp20Nww/NV1gHYhetj/6KgPdYM4YCa6TrkX4xVaVWgw8ax/dSGgNd36QuQKOS067Gn8TDJHr+U9p/EIg59DzGs6yOUVmgslHoyUvj4Ce8S7J/3r/gfzIDKC48HiMqnXzTUxt0kyXAD4+BGz+tySs=;SQD0NZEtz9LDuMyuVZOMcQ=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 812
         height: 545
         isCached: true
+  - title: "Biden's $1.9 trillion coronavirus aid bill gets enough votes to pass House"
+    excerpt: "WASHINGTON, March 10 (Reuters) - President Joe Biden’s $1.9 trillion COVID-19 relief bill secured enough votes in the U.S. House of Representatives to pass on Wednesday. The Senate has already approved the legislation. The next step will be the White ..."
+    publishedDateTime: 2021-03-10T18:07:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B22IG"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22IG"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554436201&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291I2"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers"
     excerpt: "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,"
     publishedDateTime: 2021-01-25T04:24:00Z

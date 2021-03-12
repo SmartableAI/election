@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'Frustration in our future': Democrats prepare for internal clashes that could slow Biden's agenda"
+    excerpt: "House and Senate Democrats are bracing for a clash over the next phase of President Joe Biden's agenda, preparing for a long slog and intense debate over competing priorities and legislative tactics after quickly coming together on the massive relief plan signed into law Thursday.\n    \n"
+    publishedDateTime: 2021-03-11T23:05:55Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Aqbv9QETwu8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/democrats-biden-agenda-future/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310152321-03-pelosi-schumer-relief-bill-presser-signing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Top Biden advisers tell staff there's 'no room for complacency' as Covid relief bill nears completion"
     excerpt: "The message to White House senior staff as President Joe Biden's cornerstone legislative proposal nears completion is simple, if blunt: there is \"absolutely no room for complacency.\"\n    \n"
     publishedDateTime: 2021-03-07T13:02:13Z

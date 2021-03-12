@@ -219,6 +219,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Wyoming election changes move ahead after push by Trump Jr."
+    excerpt: "Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney, but not for next year as originally planned."
+    publishedDateTime: 2021-03-12T00:25:00Z
+    webUrl: "https://www.businessinsider.com/wyoming-election-changes-move-ahead-after-push-by-trump-jr-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/wyoming-election-changes-move-ahead-after-push-by-trump-jr-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wyoming-election-changes-move-ahead-after-push-by-trump-jr-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Trump Pressured Georgia Investigator to Find Voter Fraud in Phone Recording: 'You'll Be Praised'"
     excerpt: "Former President Donald Trump pressured a Georgia investigator to find evidence of voter fraud in the 2020 presidential election, promising that \"the right answer\" would win \"praise\" during a phone call in late December. In audio of the call obtained by ..."
     publishedDateTime: 2021-03-11T01:35:00Z
@@ -279,15 +290,22 @@ related:
         width: 1400
         height: 787
         isCached: true
-  - title: "Wyoming Moving Ahead With Trump Jr.-Backed Election Changes"
-    excerpt: "Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned."
-    publishedDateTime: 2021-03-11T21:48:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-11/wyoming-moving-ahead-with-trump-jr-backed-election-changes"
+  - title: "Wyoming moving ahead with Trump Jr.-backed election changes"
+    excerpt: "CHEYENNE, Wyo. (AP) — Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned. A legislative committee voted ..."
+    publishedDateTime: 2021-03-11T21:51:00Z
+    webUrl: "https://www.chron.com/news/article/Wyoming-moving-ahead-with-Trump-Jr-backed-16019091.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Wyoming-moving-ahead-with-Trump-Jr-backed-16019091.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wyoming-moving-ahead-with-Trump-Jr-backed-16019091.php"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 50
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 90
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "U.S. Representative Swalwell Sues Trump Over Jan. 6 Insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
     publishedDateTime: 2021-03-05T14:00:00Z

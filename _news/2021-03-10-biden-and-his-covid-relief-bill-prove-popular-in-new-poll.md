@@ -234,6 +234,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
+    excerpt: "Washington (CNN)Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president. No Republicans on Capitol Hill supported the Biden-backed Covid stimulus package ..."
+    publishedDateTime: 2021-03-11T18:37:00Z
+    webUrl: "https://www.cnn.com/2021/03/11/politics/biden-republicans-culture-war-covid-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 113
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "O2OJOEXvX0zlpJkxwkIMZqEfjBSu84/UiO3THUwh6ba1KbGe4UH5IXsk4ncAjA23fGpjdZTbWL14IBinsC/ahckiXBzLaFS8uslFy77QZww6hR85NPyQ7VsQ4GdXTbXN/2n3EPHLpsZu7UTaMzqQOu1xUzI3LSdMss9esCrsmwxsq1Ion5hDmPAxMbQotTOBXN4+tqdbsnmWAQrdhJowyaIhUxnhtxnlXwUm7UNCgaCk+KM5KlVjlsDQPsQy3WM9ynLBGS48zaXKDxQFZw5Z/yu/rvpoJWx0R7R8Ryc3kO7l97+dKUPDeD4Cs0XVpGNWbDnsA6voWaVIxMrxyfc2Ezz1aIZEEUMnWFEhB2ShyVY=;sMlXWXOAtrnOIg0m9eZkyg=="
 ---

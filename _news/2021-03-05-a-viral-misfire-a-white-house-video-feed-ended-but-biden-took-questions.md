@@ -191,21 +191,85 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "US reports surge of kids at SW border, a challenge for Biden"
-    excerpt: "a challenge for President Joe Biden as he works to undo the restrictive immigration policies of his predecessor. Statistics released Wednesday by U.S. Customs and Border Protection showed the ..."
-    publishedDateTime: 2021-03-10T21:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
+  - title: "Huge virus aid bill nears final OK in win for Biden, Dems"
+    excerpt: "WASHINGTON — Congress sped toward final approval Wednesday of a landmark $1.9 trillion COVID-19 relief bill, as President Joe Biden and Democrats neared a major triumph for the party’s priorities and showcased the unity they’ll need to forge future ..."
+    publishedDateTime: 2021-03-10T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/house-set-to-vote-on-virus-relief-biden-on-cusp-of-triumph/2021/03/10/51979166-8160-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/house-set-to-vote-on-virus-relief-biden-on-cusp-of-triumph/2021/03/10/51979166-8160-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/house-set-to-vote-on-virus-relief-biden-on-cusp-of-triumph/2021/03/10/51979166-8160-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
-      name: ABCNews
-      domain: abcnews.go.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_7b29382f34b343d48f3c413aa580d499_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Congress OKs $1.9T virus relief bill in win for Biden, Dems"
+    excerpt: "A Congress riven along party lines has approved the landmark $1.9 trillion COVID-19 relief bill, as President Joe Biden and Democrats claimed a major triumph on legislation marshaling the government’s spending might against twin pandemic and economic crises that have upended a nation."
+    publishedDateTime: 2021-03-11T06:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "The Latest: Biden to deploy more troops to help vaccinations"
+    excerpt: "WASHINGTON — The Latest on President Joe Biden’s $1.9 trillion coronavirus relief package (all times local): 6:40 p.m. Support our journalism. Subscribe today. President Joe Biden is planning to announce during his prime-time address Thursday night ..."
+    publishedDateTime: 2021-03-11T23:47:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "VIRUS TODAY: Biden signs aid bill; ex-presidents get shots"
+    excerpt: "President Joe Biden has signed into law the $1.9 trillion relief package he says will help the U.S. defeat the coronavirus and nurse the economy back to health"
+    publishedDateTime: 2021-03-11T22:13:00Z
+    webUrl: "https://www.washingtonpost.com/health/virus-today-biden-signs-aid-bill-ex-presidents-get-shots/2021/03/11/0179d0f6-82b7-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/virus-today-biden-signs-aid-bill-ex-presidents-get-shots/2021/03/11/0179d0f6-82b7-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/virus-today-biden-signs-aid-bill-ex-presidents-get-shots/2021/03/11/0179d0f6-82b7-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden's $1.9 trillion COVID-19 bill moves toward final approval in House"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden was poised on Wednesday for his first major legislative victory, as the House of Representatives moved toward final approval of his $1.9 trillion COVID-19 relief bill, which forecasters predict will turbocharge ..."
+    publishedDateTime: 2021-03-10T14:31:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2B215E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B215E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B215E"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554386064&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH290O1"
+        width: 819
+        height: 545
         isCached: true
   - title: "IMF urges vigilance against rate spike as Biden stimulus juices U.S. growth"
     excerpt: "The International Monetary Fund on Thursday warned central banks to be vigilant against a sudden spike in interest rates that could spill over into emerging markets, even as a $1.9 trillion U.S. stimulus package benefits most countries and aids recovery."
@@ -271,6 +335,86 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
+    excerpt: "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,"
+    publishedDateTime: 2021-03-03T08:23:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56262687"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56262687"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56262687"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 118
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15DCA/production/_117364598_mediaitem117364597.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Biden White House plans nationwide victory lap to promote benefits of COVID-19 relief bill"
+    excerpt: "WASHINGTON (Reuters) - Mindful of hard lessons learned by the previous Democratic administration, President Joe Biden and top aides are planning a nationwide tour to sell Americans on the benefits of the newly passed $1.9 trillion pandemic relief bill."
+    publishedDateTime: 2021-03-10T23:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-idUSKBN2B302N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B302N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B302N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554466931&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A01H"
+        width: 792
+        height: 545
+        isCached: true
+  - title: "President Biden signs $1.9 trillion COVID-19 relief bill with $1,400 stimulus checks into law"
+    excerpt: "WASHINGTON – President Joe Biden on Thursday signed into law a $1.9 trillion COVID-19 stimulus bill, hours before he planned to address the nation to begin an extensive outreach campaign explaining the massive spending package. The measure includes ..."
+    publishedDateTime: 2021-03-11T19:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/joe-biden-signs-covid-19-relief-bill-stimulus-checks-into-law/4647894001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4647894001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4647894001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/3acf1a45-984a-402c-838e-091862c58383-AFP_AFP_94R9VB.jpg?auto=webp&crop=5707,3210,x0,y290&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden starts victory lap on COVID-19 relief bill while preparing for next big legislative push"
+    excerpt: "WASHINGTON – Now that Congress’ final passage of President Joe Biden’s $1.9 trillion COVID-19 relief bill is out of the way, the White House is laying the groundwork to move forward on Biden’s other priorities. The president will make his first ..."
+    publishedDateTime: 2021-03-11T08:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/what-comes-next-after-joe-bidens-1-9-trillion-covid-19-relief-bill/4627792001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4627792001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4627792001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/9ef40f5c-0acf-43da-81cc-a3bd9d5e816d-AP21069781125019.jpg?auto=webp&crop=5999,3375,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "On war powers, Biden has pushed for both more congressional oversight and broad presidential authority"
+    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
+    publishedDateTime: 2021-03-09T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "Why did Biden decide to sign the bill today?"
     excerpt: "Watch \"Why did Biden decide to sign the bill today?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-03-11T19:24:00Z
@@ -285,6 +429,44 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
+    excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."
+    publishedDateTime: 2021-03-06T16:27:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate/u-s-senate-passes-bidens-covid-19-relief-bill-sending-it-back-to-house-idUSL1N2L4083"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2L4083"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2L4083"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
+  - title: "$1.9 trillion COVID-19 relief bill with $1,400 stimulus checks passes House, heads to President Biden for signature"
+    excerpt: "President Biden will sign the bill into law Friday, the White House said. He started pushing the measure in January before he took office."
+    publishedDateTime: 2021-03-10T20:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/10/covid-stimulus-bill-passes-house-heads-joe-biden-signature/4622954001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4622954001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4622954001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/1f775faf-6422-400a-83cb-a6800ed38546-GTY_1306363694.jpg?auto=webp&crop=6889,3876,x0,y350&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."
+    publishedDateTime: 2021-03-10T12:13:00Z
+    webUrl: "https://www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
   - title: "President Joe Biden to make first prime-time address to nation Thursday"
     excerpt: "The president will look forward, highlighting the role that Americans will play in beating the virus,' the White House said."
     publishedDateTime: 2021-03-08T17:56:00Z

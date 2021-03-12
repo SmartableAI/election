@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106124788-1568235708066rts2q6zs.jpg?v=1612462873"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Rick Scott to meet with Trump at Mar-a-Lago"
+    excerpt: "Sen. Rick Scott (R-Fla.) is set to meet with former President Trump Donald Trump The Memo: How the COVID year upended politics Biden seeks his moment with pandemic address A year with the ..."
+    publishedDateTime: 2021-03-11T22:08:00Z
+    webUrl: "https://thehill.com/homenews/campaign/542834-rick-scott-to-meet-with-trump-at-mar-a-lago"
+    ampWebUrl: "https://thehill.com/homenews/campaign/542834-rick-scott-to-meet-with-trump-at-mar-a-lago?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542834-rick-scott-to-meet-with-trump-at-mar-a-lago?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/scottrick_02262021getty.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Trump legal team argues impeachment trial is unconstitutional, denies inciting Capitol attack"
     excerpt: "In their legal brief responding to the article of impeachment, Trump's lawyers argue the trial is \"in violation of the Constitution.\""

@@ -1,26 +1,30 @@
 ---
 category: news
-title: "Wyoming Moving Ahead With Trump Jr.-Backed Election Changes"
-excerpt: "Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned."
-publishedDateTime: 2021-03-11T21:48:00Z
-originalUrl: "https://www.usnews.com/news/politics/articles/2021-03-11/wyoming-moving-ahead-with-trump-jr-backed-election-changes"
-webUrl: "https://www.usnews.com/news/politics/articles/2021-03-11/wyoming-moving-ahead-with-trump-jr-backed-election-changes"
+title: "Wyoming moving ahead with Trump Jr.-backed election changes"
+excerpt: "CHEYENNE, Wyo. (AP) — Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned. A legislative committee voted ..."
+publishedDateTime: 2021-03-11T21:51:00Z
+originalUrl: "https://www.chron.com/news/article/Wyoming-moving-ahead-with-Trump-Jr-backed-16019091.php"
+webUrl: "https://www.chron.com/news/article/Wyoming-moving-ahead-with-Trump-Jr-backed-16019091.php"
+ampWebUrl: "https://www.chron.com/news/amp/Wyoming-moving-ahead-with-Trump-Jr-backed-16019091.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wyoming-moving-ahead-with-Trump-Jr-backed-16019091.php"
 type: article
-quality: 50
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Donald Trump
+
+images:
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
+    isCached: true
 
 related:
   - title: "Recording reveals details of Trump call to Georgia’s chief elections investigator"
@@ -215,6 +219,17 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Wyoming election changes move ahead after push by Trump Jr."
+    excerpt: "Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney, but not for next year as originally planned."
+    publishedDateTime: 2021-03-12T00:25:00Z
+    webUrl: "https://www.businessinsider.com/wyoming-election-changes-move-ahead-after-push-by-trump-jr-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/wyoming-election-changes-move-ahead-after-push-by-trump-jr-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wyoming-election-changes-move-ahead-after-push-by-trump-jr-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 120
   - title: "Trump Pressured Georgia Investigator to Find Voter Fraud in Phone Recording: 'You'll Be Praised'"
     excerpt: "Former President Donald Trump pressured a Georgia investigator to find evidence of voter fraud in the 2020 presidential election, promising that \"the right answer\" would win \"praise\" during a phone call in late December. In audio of the call obtained by ..."
     publishedDateTime: 2021-03-11T01:35:00Z
@@ -310,6 +325,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "nIHebrpocksj5SUC8kIbvg8RB8JE0qfY/3rARwHCMeui59Rw2sZZCt+rwa0xdF9YlEBt4pkovg0Q3/tNxntcm5DcfV0JXqtnkR5lrBRr7tzbmmxcuqL+72wC3PclREpve1qj072mL7dVTWha7vCuYWYu9z1TeYYe3ZN1ZgEFZRbRsHPjMELJT0rFsHAHV9s64NDn7M3pF8PTO+SA2xZ1LMImM71Fpo212dRKQISVUTTxaj30SvJzb76xN4XEYewT4PqJuECqnChscr3M5aZMFl/u7DdGU1WTfPyhlMCsIQiHVp6lheo/9ZxviQw5Hs/sIkg9YmoyMWesCA/0P6ZbhL4on+5qmf9uHM2jSWbFdwQ=;RPahaq37Sf8G2LOv8+dTqQ=="
+secured: "VEHgvn2949gzipE1EGM7aWzo5dqkjyr2j9yMxaP1zpkJcI/4sWKLReVbHQXblP/2p5qkPKrhBG4t4fyssYhEokS512yS6tq1zC/xOGof5AH7kG8+NDiuUTFFDkeadsbSlOdqkyqc7tjJJdRdxs9DOCph74lY0DjXSJzExZp8ejM8uHXI3hm3m8BSovIV2ebISQbgAwb3lv6TY1+bTs93JWv/iQ1BnEtxsRsQqHSno/JQAxia1NqbHOpp38FH/U1x9FhO0MotAPie5mQXYW0LteqdmNy2UDiXaztogsMMmePBI7W98U38ApWvG9LEN1uSa60CJEWs1aFGa90OHb30J366gotBAoQxKJ4XE0in50E=;RsEZ2D4NsRCO6YbDRu6xLw=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockro
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295?amp=1"
 type: article
 quality: 111
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: Newsweek
@@ -31,17 +31,70 @@ images:
     isCached: true
 
 related:
-  - title: "U.S. Representative Swalwell sues Trump over Jan. 6 insurrection - CNN"
-    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
-    publishedDateTime: 2021-03-05T18:20:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-swalwell-idUSW1N2IU00U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2IU00U"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2IU00U"
+  - title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
+    excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
+    publishedDateTime: 2021-03-05T15:04:00Z
+    webUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    ampWebUrl: "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Trump aide who stormed the Capitol broke an 'oath to protect America,' judge says"
+    excerpt: "A man appointed to the U.S. State Department during the Trump administration will remain in jail while he awaits trial on charges that he took part in the deadly storming of the U.S. Capitol and assaulted police officers,"
+    publishedDateTime: 2021-03-10T02:45:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-klein-idUSKBN2B12P4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B12P4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B12P4"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 105
+    quality: 120
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210309&t=2&i=1554318031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH281FK"
+        width: 787
+        height: 545
+        isCached: true
+  - title: "Trump Appointee Who Took Part in Capitol Riot Swore an Oath Then 'Switched Sides,' Judge Says"
+    excerpt: "Federico Klein, an ex-official in the administration of former President Donald Trump, will remain in jail after a judge said he \"switched sides\" by allegedly participating in the deadly breach of the U.S. Capitol on January 6. U.S. Magistrate Zia Faruqui ..."
+    publishedDateTime: 2021-03-10T05:45:00Z
+    webUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976"
+    ampWebUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1752326/federico-klein-capitol-riots-donald-trump.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Trump appointee to State Dept. Federico Klein arrested in Capitol attack; stunned mom says he was 'Boy Scout type'"
+    excerpt: "Federico Klein was seen on camera violently shoving a riot shield into an officer during the Jan. 6 Capitol siege, according to court documents."
+    publishedDateTime: 2021-03-07T05:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/05/trump-appointee-state-dept-federico-klein-charged-capitol-riots/4593783001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4593783001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4593783001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/a2dac800-51ec-458f-9e34-02191eb985bd-Capitol_Police.jpg?auto=webp&crop=4999,2812,x1,y753&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "ueW2MfL5fZD2mLrSw43sdNKPIiRilyrMJ7e5rkHDmbSys2pkzdGcuhQmeO67F5WQszCTTDBoo++F2DWJWmL/3ad+eydSl0PSMrFRsrmltvA9bJVmxzTWEsYulBBitkv3ujfRkEZTyMuiENhq9PM9b8kpUoFEF31Ft2b+t46HiHCR7imBPGG7+8AfY1tQ3ZHz/5y52oZCXCaMW2kE9b+v5sHaOdS7+xMHklnGdJEtU5FVDriOJGrc0sR01Wz1oYEBWh98q96rjgR1e8WmecwuoB6oTEHJAj1xUtQqdxq1IQ0vKEXtLavk4K/ZfsJbdAIzx4O5kAhaR4BMMbx9pBCCSu0y/OfaPr2a2FiidZyZKVWd8CeRHtm6IfhKbxONZGeqX5DAx1iT7xG3QIZdggCX7E6E6jGkqjWSh3pIO86P+IUHtmCCEIsn0Pi1oOBkKlJBIuvxhW7geyFAgH/Cf8chJbGqk17XjNwRY3gM0ieXl/yunkQBfpLJ8vPlzDcY2hJ/wK06pP8a57twNlVn6QnRCA==;zFWVr70ynx5bRki/nGj5RQ=="
 ---

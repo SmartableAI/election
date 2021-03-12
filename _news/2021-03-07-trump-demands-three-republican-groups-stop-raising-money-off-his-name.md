@@ -31,6 +31,118 @@ images:
     isCached: true
 
 related:
+  - title: "Biden rescinds Trump's 'public charge' rule"
+    excerpt: "The Biden administration on Thursday formally rescinded the Trump-era “public charge” rule, which tightened restrictions on poorer immigrants seeking U.S. residency, as a dozen GOP state ..."
+    publishedDateTime: 2021-03-12T00:24:00Z
+    webUrl: "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule"
+    ampWebUrl: "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030521getty_immigration.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden won’t be putting his signature on COVID-19 relief checks, unlike Trump"
+    excerpt: "President Biden will not be attaching his signature to the $1,400 relief checks that are expected to be mailed soon — a break with his predecessor, who last year had “President Donald J. Trump” printed on the economic impact payments approved by ..."
+    publishedDateTime: 2021-03-10T01:36:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 137
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/27e2771/2147483647/strip/true/crop/3618x2363+281+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F1e%2F6f3fd75dd8cf337e371f4b0065a0%2Fac3f35f2c1554c75ac18550bee411639"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Joe Biden Visa Decision on Donald Trump's 'Muslim Ban' Infuriates Progressives"
+    excerpt: "The American Civil Liberties Union (ACLU) said that a large number of Africans would be affected and that Biden \"has failed to help so many of those harmed\" by the Trump administration's immigration restrictions. \"Instead of restoring this opportunity ..."
+    publishedDateTime: 2021-03-10T10:19:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-donald-trump-immigration-muslim-ban-aclu-1575009"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-donald-trump-immigration-muslim-ban-aclu-1575009?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-donald-trump-immigration-muslim-ban-aclu-1575009?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
+    images:
+      - url: "https://d.newsweek.com/en/full/1752341/president-joe-biden.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "Joe Biden's Approval Rating on COVID Pandemic 18 Points Higher Than Trump's Best: Poll"
+    excerpt: "That's 18 points higher than former President Donald Trump's best rating in the poll, in which he earned 44 percent approval in March and April last year. By the time he left office in January, Trump's approval rating on the coronavirus had dropped to 39 ..."
+    publishedDateTime: 2021-03-11T21:45:00Z
+    webUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544"
+    ampWebUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1753962/joe-biden-coronavirus-approval-rating.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden’s Justice Dept. already has split from Trump. Merrick Garland will go even further."
+    excerpt: "Now, with federal appeals court judge Merrick Garland set to take over as attorney general, the thornier work begins. Garland, who is expected to be confirmed by the Senate on Wednesday, will inherit a Justice Department damaged by President Donald Trump’s efforts to use its power to benefit his friends and hurt his enemies."
+    publishedDateTime: 2021-03-09T20:54:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2RBG37UANEI6XAO3WAXQHGHUTI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "'Not about him': Biden's name won't appear on stimulus checks in shift from Donald Trump"
+    excerpt: "President Joe Biden's signature won't appear on $1,400 stimulus checks to avoid delays in distributing the money, the White House says."
+    publishedDateTime: 2021-03-09T20:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/09/covid-relief-bidens-signature-wont-appear-stimulus-checks/6926056002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6926056002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6926056002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/96a9f4df6933a6e0c2158220d49f939822c30a25/c=0-69-2189-1300/local/-/media/2021/03/06/USATODAY/usatsports/pile-of-100-dollar-bills_gettyimages-452970107.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'The mess we inherited': Biden leans heavily on Trump's 'Warp Speed' but won't give credit"
+    excerpt: "President Joe Biden is taking credit for accelerating the vaccine rollout, without giving credit to former President Donald Trump's team that laid the groundwork."
+    publishedDateTime: 2021-03-11T03:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 130
+    images:
+      - url: "https://s.abcnews.com/images/Politics/rollout-covid-vaccine-president-joe-biden-donald-trump-04-gty-llr-210310_1615416603172_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump State Department aide charged with assault at Capitol"
     excerpt: "A former State Department aide in President Donald Trump’s administration has been charged with participating in the deadly Capitol siege and assaulting officers"
     publishedDateTime: 2021-03-05T20:31:00Z
@@ -47,149 +159,85 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Lindsey Graham describes the GOP as a hostage to Trump"
-    excerpt: "Lindsey O. Graham’s relationship with former president Donald Trump has contained multitudes. He was arguably Trump’s biggest critic on the 2016 debate stage, saying that nominating Trump would deservedly destroy the party,"
-    publishedDateTime: 2021-03-08T14:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/?outputType=amp"
+  - title: "Biden order could change how colleges handle sex misconduct"
+    excerpt: "Administration officials say President Joe Biden is rethinking Trump administration policies that weakened how colleges and universities that get federal dollars handle sexual assault accusations on c"
+    publishedDateTime: 2021-03-08T14:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/APLQKBDTCYI6XOFJXFDHKEHQ7Y.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Chinese entrepreneur sells pensive Donald Trump Buddha statues"
-    excerpt: "One buyer says he bought statue of former US president on Taobao as reminder not to be ‘too Trump’ Martin Belam Donald Trump is not known for his calm and peaceful demeanour, but that hasn’t stopped one entrepreneurial furniture-maker in China from ..."
-    publishedDateTime: 2021-03-10T11:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/7657bf9894707ce482cdeb9d0814fa1e24957baf/385_82_1316_790/master/1316.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=3024c349f4cf410da766382cec3206b6"
-        width: 600
-        height: 360
-        isCached: true
-  - title: "Donald Trump Buddha Statues Are Being Sold Across China"
-    excerpt: "A Chinese furniture maker made headlines this week after it began selling Donald Trump Buddha statues online, spawning a string of competing copycats. Buyers on Alibaba-owned e-commerce site Taobao can order a 6-inch pensive statuette of the 45th president ..."
-    publishedDateTime: 2021-03-11T14:51:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-buddha-statues-are-being-sold-across-china-1575399"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-buddha-statues-are-being-sold-across-china-1575399?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-buddha-statues-are-being-sold-across-china-1575399?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 125
-    images:
-      - url: "https://d.newsweek.com/en/full/1753356/donald-trump-buddha-statues-sell-china.jpg"
-        width: 567
-        height: 648
-        isCached: true
-  - title: "On Twitter, Trump is more popular than Jesus"
-    excerpt: "With Donald Trump playing the old hits to an enthusiastic Conservative Political Action Conference (CPAC) crowd and congressional Republicans making post-election pilgrimages to Mar-a-Lago to pay respect, many observers wonder when the former president’s ..."
-    publishedDateTime: 2021-03-11T13:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
+  - title: "Biden boosts US vaccine stockpile as world waits"
+    excerpt: "President Joe Biden has directed his administration to order another 100 million doses of the Johnson & Johnson coronavirus vaccine, growing a likely U.S. surplus of doses later this year when much of"
+    publishedDateTime: 2021-03-10T22:36:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P3WUXBD2MYI6XDC6GLSHWQVVDM.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Trump's own Defense secretary says he was responsible for Capitol riot"
-    excerpt: "Former acting Defense Secretary Christopher Miller says in a forthcoming interview that former President Trump Donald Trump The Memo: How the COVID year upended politics Biden seeks his moment ..."
-    publishedDateTime: 2021-03-11T20:28:00Z
-    webUrl: "https://thehill.com/policy/defense/542803-trumps-own-defense-secretary-says-he-was-responsible-for-capitol-riot"
-    ampWebUrl: "https://thehill.com/policy/defense/542803-trumps-own-defense-secretary-says-he-was-responsible-for-capitol-riot?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/542803-trumps-own-defense-secretary-says-he-was-responsible-for-capitol-riot?amp"
+  - title: "US reports surge of kids at SW border, a challenge for Biden"
+    excerpt: "a challenge for President Joe Biden as he works to undo the restrictive immigration policies of his predecessor. Statistics released Wednesday by U.S. Customs and Border Protection showed the ..."
+    publishedDateTime: 2021-03-10T21:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/millerchristopher_072220bc2_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Claimed value of sleepy New York estate could come to haunt Donald Trump"
-    excerpt: "A century-old estate that Trump owns in suburban New York is subdued by the former president's standards, but it could end up being one of his bigger legal nightmares."
-    publishedDateTime: 2021-03-08T06:56:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-07/claimed-value-of-sleepy-ny-estate-could-come-to-haunt-trump?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/6845f39/2147483647/strip/true/crop/2422x1582+194+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2F32%2F450a5624ce3fce6f990f9b8cd698%2F0aa1a54903774f3383ed5e3ceaeaccce"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "FBI arrests Trump appointee Federico Klein in connection with Capitol riot"
-    excerpt: "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol."
-    publishedDateTime: 2021-03-05T15:04:00Z
-    webUrl: "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-    ampWebUrl: "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003"
-    type: article
-    provider:
-      name: ABC
+      name: ABCNews
       domain: abcnews.go.com
-    quality: 123
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7b29382f34b343d48f3c413aa580d499_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
-    excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
-    publishedDateTime: 2021-03-05T02:45:00Z
-    webUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/"
-    ampWebUrl: "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp"
+  - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
+    excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
+    publishedDateTime: 2021-03-10T20:24:00Z
+    webUrl: "https://www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3?amp"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/6027f671b3c2a800183ccc37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden administration stops enforcing Trump-era \"public charge\" green card restrictions following court order"
+    excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
+    publishedDateTime: 2021-03-10T05:43:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
     quality: 121
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "U.S. Capitol calm amid high security; Trump supporters hold faith he will return"
-    excerpt: "A smattering of followers of the QAnon conspiracy theory gathered near the U.S. Capitol on Thursday, the day the movement had predicted former President Donald Trump's return to office, but they were far outnumbered by security forces deployed to deter any possible attack."
-    publishedDateTime: 2021-03-05T01:15:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-capitol-security-idUSKBN2AW19M"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW19M"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW19M"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553733527&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NY"
-        width: 802
-        height: 545
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Congressman sues Trump over deadly Capitol siege, charges civil rights violation"
     excerpt: "A Democratic congressman has sued Donald Trump, his lawyer Rudy Giuliani and other allies of the former president over the deadly attack on the U.S. Capitol when violent Trump supporters tried to stop the certification of Trump's election defeat."
@@ -207,213 +255,21 @@ related:
         width: 947
         height: 545
         isCached: true
-  - title: "Trump aide who stormed the Capitol broke an 'oath to protect America,' judge says"
-    excerpt: "A man appointed to the U.S. State Department during the Trump administration will remain in jail while he awaits trial on charges that he took part in the deadly storming of the U.S. Capitol and assaulted police officers,"
-    publishedDateTime: 2021-03-10T02:45:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-capitol-klein-idUSKBN2B12P4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B12P4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B12P4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 120
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210309&t=2&i=1554318031&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH281FK"
-        width: 787
-        height: 545
-        isCached: true
-  - title: "Ex-Trump appointee arrested in Capitol riot complains he won't be able to sleep in jail"
-    excerpt: "Federico Guillermo Klein, a former State Department staff assistant who was arrested Thursday for his role in the Jan. 6 Capitol insurrection, has reportedly complained that he won't be able to sleep in prison."
-    publishedDateTime: 2021-03-06T02:45:00Z
-    webUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep"
-    ampWebUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 117
-    images:
-      - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
-        width: 979
-        height: 551
-        isCached: true
-  - title: "Gretchen Whitmer Says Cuomo Faces Different Standard Than Trump Amid Harassment Allegations"
-    excerpt: "Similarly, former President Donald Trump has also been accused of sexual misconduct. At least 25 women have accused Trump of rape, sexual assault and sexual harassment, including non-consensual kissing and groping. The bulk of the accusations arose during ..."
-    publishedDateTime: 2021-03-11T20:51:00Z
-    webUrl: "https://www.newsweek.com/gretchen-whitmer-says-cuomo-faces-different-standard-trump-amid-harassment-allegations-1575525"
-    ampWebUrl: "https://www.newsweek.com/gretchen-whitmer-says-cuomo-faces-different-standard-trump-amid-harassment-allegations-1575525?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gretchen-whitmer-says-cuomo-faces-different-standard-trump-amid-harassment-allegations-1575525?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1753951/gretchen-whitmer.jpg"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "Trump Appointee Who Took Part in Capitol Riot Swore an Oath Then 'Switched Sides,' Judge Says"
-    excerpt: "Federico Klein, an ex-official in the administration of former President Donald Trump, will remain in jail after a judge said he \"switched sides\" by allegedly participating in the deadly breach of the U.S. Capitol on January 6. U.S. Magistrate Zia Faruqui ..."
-    publishedDateTime: 2021-03-10T05:45:00Z
-    webUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976"
-    ampWebUrl: "https://www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-appointee-who-took-part-capitol-riot-swore-oath-then-switched-sides-judge-says-1574976?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
-    images:
-      - url: "https://d.newsweek.com/en/full/1752326/federico-klein-capitol-riots-donald-trump.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Ex-State Department employee appointed by Trump ‘switched sides’ in joining Capitol mob, judge says"
-    excerpt: "A former State Department staffer with a top-secret security clearance betrayed his oath of office when he joined the Capitol mob that attempted to subvert the electoral process on Jan. 6, a federal magistrate judge said Tuesday."
-    publishedDateTime: 2021-03-09T22:12:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/federico-klein-detained-captiol-riot/2021/03/09/c5a76188-8117-11eb-ac37-4383f7709abe_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/federico-klein-detained-captiol-riot/2021/03/09/c5a76188-8117-11eb-ac37-4383f7709abe_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/federico-klein-detained-captiol-riot/2021/03/09/c5a76188-8117-11eb-ac37-4383f7709abe_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 111
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KMXGWTUBD4I6XPRCGLJTDWDVGA.jpg&w=1440"
-        width: 380
-        height: 254
-        isCached: true
-  - title: "Jan. 6 Capitol defendant wants trial moved to west Texas, says D.C. too anti-Trump, politically correct"
-    excerpt: "Attorney for Jenny Louise Cudd, 36-year-old florist of Midland, Tex., calls case ‘emotionally political in every respect.’"
-    publishedDateTime: 2021-03-11T00:59:00Z
-    webUrl: "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GRAMAUB7UI6XHFGKTQYP3SJHE.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "FBI focuses on video of Capitol Police officer being sprayed with chemicals before he died in pro-Trump riot"
-    excerpt: "The video could offer investigators a path to holding someone accountable in connection with Officer Brian Sicknick’s death."
-    publishedDateTime: 2021-02-27T00:47:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/brian-sicknick-capitol-police-video/2021/02/26/5a4cb190-7889-11eb-9537-496158cc5fd9_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 106
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K5JFKUDGJEI6XOVYOB7YO2OXQU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "Trump appointee to State Dept. Federico Klein arrested in Capitol attack; stunned mom says he was 'Boy Scout type'"
-    excerpt: "Federico Klein was seen on camera violently shoving a riot shield into an officer during the Jan. 6 Capitol siege, according to court documents."
-    publishedDateTime: 2021-03-07T05:00:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/05/trump-appointee-state-dept-federico-klein-charged-capitol-riots/4593783001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4593783001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4593783001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 103
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/a2dac800-51ec-458f-9e34-02191eb985bd-Capitol_Police.jpg?auto=webp&crop=4999,2812,x1,y753&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Republicans condemned Trump after the Capitol attack. Now they are opening the door to him as the future of the party."
-    excerpt: "Less than an hour after voting to acquit former president Donald Trump for his role in the Jan. 6 storming of the U.S. Capitol, the Senate minority leader condemned Trump for the role that he played in the attack."
-    publishedDateTime: 2021-03-03T15:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/03/republicans-condemned-trump-after-capitol-attack-now-they-are-opening-door-him-future-party/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_1a30ea49bd984a17a8d8973b6d658c51_name_20210301_GOP_TRUMP_V3.png&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "Trump's own Pentagon chief says rioters wouldn't have stormed the Capitol if it hadn't been for the president's speech"
-    excerpt: "DOW S&P 500 NASDAQ 100 The man who was leading the Pentagon on Jan. 6 says that rioters would not have stormed the Capitol if it hadn't been for President Donald Trump's speech beforehand. Asked if he thought Trump was responsible for what unfolded at the ..."
-    publishedDateTime: 2021-03-11T21:27:00Z
-    webUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
+  - title: "Critics blast Biden administration for denying entry to thousands of people still affected by Trump's 'Muslim ban'"
+    excerpt: "to encourage migration from underrepresented people — only to have them taken away by an executive order by Donald Trump, who then tried to eliminate the diversity program altogether. People like Anwar al Saeedi, a Yemeni man who in 2017 expected to be ..."
+    publishedDateTime: 2021-03-10T00:19:00Z
+    webUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 101
+    quality: 118
     images:
-      - url: "https://i.insider.com/604a851ef196be0018beef55?width=1200&format=jpeg"
+      - url: "https://i.insider.com/6047fc099942cf001865d731?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
-    excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
-    publishedDateTime: 2021-03-05T18:14:00Z
-    webUrl: "https://www.upi.com/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 73
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/5831614965407/2021/1/c5fd2e5c49d18744c2e0217abed09170/v1.5/Rep-Eric-Swalwell-sues-Donald-Trump-3-others-for-inciting-Capitol-attack.jpg"
-        width: 800
-        height: 533
-        isCached: true
-  - title: "Stacey Dash Abandons Support For Donald Trump After ‘Appalling And Stupid’ Capitol Riot"
-    excerpt: "Following years of controversial statements, “Clueless” actress Stacey Dash opened up about why she is no longer supporting Donald Trump. Dash's comments drew attention on Twitter, where her name was a trending topic."
-    publishedDateTime: 2021-03-11T17:49:00Z
-    webUrl: "https://www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446"
-    ampWebUrl: "https://www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/stacey-dash-abandons-support-donald-trump-after-appalling-stupid-capitol-riot-3160446?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2016/02/29/stacey-dash-oscars.jpg"
-        width: 1200
-        height: 852
-        isCached: true
-  - title: "Police beefing up security around Capitol amid mixed reports of pro-Trump threat on March 4"
-    excerpt: "Capitol Police said it plans to “enhance our security posture” due to the potential threat from adherents of the QAnon conspiracy theory."
-    publishedDateTime: 2021-03-03T14:55:00Z
-    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html"
-    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-capitol-police-trump-qanon-threat-20210303-6ujxvwrq4nbw3ccvczhewjyiei-story.html?outputType=amp"
-    type: article
-    provider:
-      name: New York Daily News
-      domain: nydailynews.com
-    quality: 65
-    images:
-      - url: "https://www.nydailynews.com/resizer/yuTJIk6BTNwaF9BNID10TYhi_7M=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BLICB6OH4VGBVNGAJUGRJLOXSU.jpg"
-        width: 1200
-        height: 800
         isCached: true
 
 secured: "6hD3J0C8aq+6mRRnqdnSHjMgoUZMRdXl67tR1OmmwuGBDwST6VPUlnL1GehEuVAi1pW58eRHwtu4NR5sJ3jrhPzcPswzK6vmTJK6i17V3wend/xklFANXPIY7NIoKiBXO8se2FJU1tXEW/gX7EsizIzrEtN7gq9Bjn5mDsnTjYD1RsSyTFSzTzGNC/Uf3wWJ6D9xzxdG+p9fKbsAPbYA8+YGbh6d7jIvWskPX4KhVPRnM4UYgj2lE+ihEUg1fff9rh2qX4s9lxDHrvn8I5c8XAweUO+hZ0R/OSh+9hBmD7x//Qcceq5GQQ7bZh/llZ1EnaFrjtNZNrR8MpjBEDvm0R1Kq8eVCRiOPgARrkNjixD3ZLX6/PSsXzs5l7oxbqgd2/ddnaviQupoFGMrQTD7708rxV7l3SNSz1E+K020PA3IpvEHzEOj1P45+1Eqq6Mqq3UkI1UNR8gasCwGDYwfNwWYx8HCmtUuxEAGRcHdapRdPCI93ipd8Xrognyk9156zncX2m6++rZXQterMp5pwg==;EY4c25hNYWjXxVLe0SjP4Q=="

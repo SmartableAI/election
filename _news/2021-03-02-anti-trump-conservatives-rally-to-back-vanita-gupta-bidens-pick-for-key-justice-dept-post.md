@@ -9,8 +9,8 @@ ampWebUrl: "https://www.washingtonpost.com/national-security/vanita-gupta-biden-
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/vanita-gupta-biden-justice-department/2021/03/01/cec4c74c-79f1-11eb-b3d1-9e5aa3d5220c_story.html?outputType=amp"
 type: article
 quality: 129
-heat: 209
-published: true
+heat: -1
+published: false
 
 provider:
   name: Washington Post
@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Senate committee vote on Biden budget pick Tanden postponed"
-    excerpt: "A Senate committee postponed the Wednesday hearing for President Joe Biden’s pick to lead the Office of Management and Budget, suggesting further challenges for Neera Tanden."
-    publishedDateTime: 2021-02-24T13:06:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-omb/senate-committee-vote-on-biden-budget-pick-tanden-postponed-idUSKBN2AO1S4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+  - title: "Kayleigh McEnany Compares Biden Appearances to Donald Trump, Barack Obama: 'Where's Joe?'"
+    excerpt: "The former White House press secretary has questioned President Joe Biden not yet holding a solo press conference, pointing to his two predecessors having done so by this point in their tenures."
+    publishedDateTime: 2021-03-03T12:41:00Z
+    webUrl: "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400"
+    ampWebUrl: "https://www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/kayleigh-mcenany-joe-biden-press-conferences-donald-trump-barack-obama-1573400?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Newsweek
+      domain: newsweek.com
+    quality: 131
+    images:
+      - url: "https://d.newsweek.com/en/full/1747043/kayleigh-mcenany-press-briefing.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "With Biden's backing, Dems revive bill to overhaul policing"
+    excerpt: "Cheered on by President Joe Biden, House Democrats are hustling to pass the most ambitious effort in decades to overhaul policing nationwide, confident they can avoid clashing with moderates in their own party who are wary of reigniting a debate they say hurt them during last fall's election."
+    publishedDateTime: 2021-03-04T01:11:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76237294"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76237294"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/bidens-backing-dems-revive-bill-overhaul-policing-76237294"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552752404&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
-        width: 817
-        height: 545
+      - url: "https://s.abcnews.com/images/Politics/WireAP_01bd8e23f94d41b0bc3d7b18e654b50a_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "U.S. Senate panel sets hearing for Biden's No. 2 and No. 3 Justice Department picks"
-    excerpt: "The U.S. Senate Judiciary Committee on Thursday announced it will hold a confirmation hearing on March 9 for President Joe Biden's nominees to serve in the No. 2 and No. 3 top jobs at the U.S. Justice Department."
-    publishedDateTime: 2021-02-26T03:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-senate-justice-idUSKBN2AP325"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AP325"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP325"
+  - title: "Polarized Nation Picks Barack Obama and Donald Trump as Favorite Presidents of All Time"
+    excerpt: "Americans named Barack Obama their favorite U.S. president of all time followed by Donald Trump while, among Democrats, Joe Biden is already as popular as Bill Clinton, according to a new scientific poll, the results of which were shared exclusively with ..."
+    publishedDateTime: 2021-03-10T02:00:00Z
+    webUrl: "https://www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957"
+    ampWebUrl: "https://www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/polarized-nation-picks-barack-obama-donald-trump-favorite-presidents-all-time-1574957?amp=1"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
+      name: Newsweek
+      domain: newsweek.com
+    quality: 117
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552951685&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O1R8"
-        width: 817
-        height: 545
+      - url: "https://d.newsweek.com/en/full/1565383/fe-presidential-names-01.jpg"
+        width: 2000
+        height: 1303
         isCached: true
   - title: "Senate votes to confirm Biden pick as commerce secretary"
     excerpt: "The Senate voted overwhelmingly Tuesday to confirm Rhode Island Gov. Gina Raimondo to serve as President Joe Biden’s commerce secretary and help guide the economy's recovery during and after the coronavirus pandemic."
@@ -74,6 +90,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 105
+  - title: "WH: Biden to find Tanden another administration post"
+    excerpt: "White House Press secretary Jen Psaki says there will be no announcement this week on a new budget nominee after Neera Tanden withdrew her nomination Tuesday. Psaki said President Joe Biden is looking for another administration post for Tanden."
+    publishedDateTime: 2021-03-03T21:20:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/03/wh-biden-find-tanden-another-administration-post/6909944002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/32e994a2-e70e-4dee-9f08-a4971c5bdded_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden revokes Trump orders on ‘anarchist’ cities, restores New York City’s funding"
     excerpt: "President Joe Biden on Wednesday formally revoked a series of presidential orders and memorandum signed by Donald Trump, including one that sought to cut funding from several cities the 45th president deemed “anarchist” havens and another mandating that federal buildings should be designed in a classical aesthetic."
     publishedDateTime: 2021-02-25T12:16:00Z

@@ -33,10 +33,10 @@ images:
 related:
   - title: "Biden signs $1.9 trillion stimulus bill into law on U.S. lockdown anniversary"
     excerpt: "President Joe Biden signed his $1.9 trillion stimulus bill into law on Thursday, commemorating the one-year anniversary of a U.S. lockdown over the coronavirus pandemic with a measure designed to bring relief to Americans and boost the economy."
-    publishedDateTime: 2021-03-11T19:47:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-idCAKBN2B31DN"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idCAKBN2B31DN"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idCAKBN2B31DN"
+    publishedDateTime: 2021-03-12T00:30:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-biden-idUKKBN2B31DN"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2B32U9"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2B32U9"
     type: article
     provider:
       name: Reuters

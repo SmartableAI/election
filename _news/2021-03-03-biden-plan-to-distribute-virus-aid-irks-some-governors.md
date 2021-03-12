@@ -137,6 +137,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden withdraws Tanden's nomination to be White House budget chief"
+    excerpt: "President Joe Biden on Tuesday withdrew the nomination of Neera Tanden to be his budget director after she ran into stiff opposition over tweets that upset lawmakers, in the first Capitol Hill rebuff of one of his nominees."
+    publishedDateTime: 2021-03-03T05:23:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKCN2AU2TL"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AU2TL"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AU2TL"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553524481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH211LT"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden to revise small business PPP loans to reach smaller, minority firms"
     excerpt: "President Joe Biden on Monday launched changes to the U.S. coronavirus aid program for small businesses to try to reach smaller and minority-owned firms, sole proprietors and those with past criminal records left behind in previous rounds of aid."
     publishedDateTime: 2021-02-22T18:32:00Z
@@ -315,6 +331,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a336019e-b858-41c2-bb50-298afa475668_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden to prioritize vaccinating school teachers"
+    excerpt: "President Joe Biden is directing states to prioritize vaccinating all teachers during the month of March, and announced that the federal government will help in the effort through its partnership with retail pharmacies."
+    publishedDateTime: 2021-03-02T22:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/02/biden-prioritize-vaccinating-school-teachers/6894083002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/a6ec64de-b482-4104-be67-ba4a79699a9d_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true

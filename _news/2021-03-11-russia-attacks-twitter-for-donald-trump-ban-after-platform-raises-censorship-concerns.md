@@ -47,6 +47,54 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Lindsey Graham describes the GOP as a hostage to Trump"
+    excerpt: "Lindsey O. Graham’s relationship with former president Donald Trump has contained multitudes. He was arguably Trump’s biggest critic on the 2016 debate stage, saying that nominating Trump would deservedly destroy the party,"
+    publishedDateTime: 2021-03-08T14:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/APLQKBDTCYI6XOFJXFDHKEHQ7Y.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "On Twitter, Trump is more popular than Jesus"
+    excerpt: "With Donald Trump playing the old hits to an enthusiastic Conservative Political Action Conference (CPAC) crowd and congressional Republicans making post-election pilgrimages to Mar-a-Lago to pay respect, many observers wonder when the former president’s ..."
+    publishedDateTime: 2021-03-11T13:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P3WUXBD2MYI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump's own Defense secretary says he was responsible for Capitol riot"
+    excerpt: "Former acting Defense Secretary Christopher Miller says in a forthcoming interview that former President Trump Donald Trump The Memo: How the COVID year upended politics Biden seeks his moment ..."
+    publishedDateTime: 2021-03-11T20:28:00Z
+    webUrl: "https://thehill.com/policy/defense/542803-trumps-own-defense-secretary-says-he-was-responsible-for-capitol-riot"
+    ampWebUrl: "https://thehill.com/policy/defense/542803-trumps-own-defense-secretary-says-he-was-responsible-for-capitol-riot?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/542803-trumps-own-defense-secretary-says-he-was-responsible-for-capitol-riot?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/millerchristopher_072220bc2_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "RNC says it has the right to use Trump's name and likeness for fundraising"
     excerpt: "Trump's lawyers sent a cease-and-desist letter to the RNC demanding that it not use him in their fundraising pitches."
     publishedDateTime: 2021-03-09T02:27:00Z
@@ -63,21 +111,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Video Shows Alex Jones Saying He's 'Sick' of Donald Trump and Wishes He Never Met Him"
-    excerpt: "Infowars host Alex Jones can be heard saying that he is \"sick\" of former President Donald Trump in a newly unearthed video. Jones made the remarks while filming an interview for the documentary You Can't Watch This in January 2019."
-    publishedDateTime: 2021-03-02T23:16:00Z
-    webUrl: "https://www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310"
-    ampWebUrl: "https://www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/video-shows-alex-jones-saying-hes-sick-donald-trump-wishes-he-never-met-him-1573310?amp=1"
+  - title: "Man who exhaled on women outside Trump golf club settles case by donating to NAACP"
+    excerpt: "A man charged with assault for blowing on two activist outside of a golf club owned by former President Trump has settled his case by donating $3,000 to the NAACP."
+    publishedDateTime: 2021-03-11T17:35:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/542754-man-who-exhaled-on-women-outside-trump-golf-club-settles-case-by"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/542754-man-who-exhaled-on-women-outside-trump-golf-club-settles-case-by?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/542754-man-who-exhaled-on-women-outside-trump-golf-club-settles-case-by?amp"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
+      name: The Hill
+      domain: thehill.com
+    quality: 119
     images:
-      - url: "https://d.newsweek.com/en/full/1746760/alex-jones-donald-trump-leaked-video.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://thehill.com/sites/default/files/loudoun_county_courthouse_07312018_1_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Ex-Trump appointee arrested in Capitol riot complains he won't be able to sleep in jail"
+    excerpt: "Federico Guillermo Klein, a former State Department staff assistant who was arrested Thursday for his role in the Jan. 6 Capitol insurrection, has reportedly complained that he won't be able to sleep in prison."
+    publishedDateTime: 2021-03-06T02:45:00Z
+    webUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep"
+    ampWebUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 117
+    images:
+      - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
+        width: 979
+        height: 551
         isCached: true
   - title: "Twitter sues Texas Attorney General, accusing him of retaliating after it banned Trump"
     excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, accusing him of targeting the social media firm in retaliation for its suspension of Trump's account."
@@ -154,6 +218,22 @@ related:
       - url: "https://i.insider.com/604a92359942cf001865dea9?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Former President Donald Trump urges ex-NFL star to run for U.S. Senate"
+    excerpt: "Former President Donald Trump is hoping one of his long-time friends decides to run for a seat in the U.S. Senate."
+    publishedDateTime: 2021-03-11T10:00:00Z
+    webUrl: "https://www.nj.com/giants/2021/03/former-president-donald-trump-urges-ex-nfl-star-to-run-for-us-senate.html"
+    ampWebUrl: "https://www.nj.com/giants/2021/03/former-president-donald-trump-urges-ex-nfl-star-to-run-for-us-senate.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/giants/2021/03/former-president-donald-trump-urges-ex-nfl-star-to-run-for-us-senate.html?outputType=amp"
+    type: article
+    provider:
+      name: NJ.com
+      domain: nj.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HR3FW4ACXZFGHKLRJBLKDLTPK4.jpg"
+        width: 3789
+        height: 2526
         isCached: true
 
 secured: "qA+sUs5LdGVSFSiuTU6IfDHah8NV8+9K68P+uouhA3NnrKWKbSp9WKe0nJEr4FDyQxM4Fa1IU1Xsl7Kp+OVYgoXdW1Bowbf9yqys4ALiPv5y3Eymrqk3HCS33SuHc7TxNq5Y4KFupKhDb88W6KePVwi+FQUEIG06M+fweB6SZFGF5NMap2W0gSqgqJdc6mry2NnvdsZnaWI1adesCbUfceEN/pcIgqFpdOYTEtsFs6IaIIgeS9i1+eMcs6XKG98PAu3EETepLm6i2r6cq4/ntwFz6Xj2zcHQaUTNOUAmm0hllTevmATGBqasiSiECI78LWIvmWEExukRWLEfWuHUXaaEq9XQxeWf71T6HVra7UjtEm9ZzqzBMHRz0VJdszFZ8LWuvvbKP19JfFxRX+y4iT//AtNDpDOAAnQNhk+KBfFFmq5sfyQ47HNWsLZq5zeQjO6f5xsKexjzRT5agzpktE3dY5V1b/wqfbyxMSPIe2bjT7kH0GcYpvRbitRm0XUdfhCnvAWUGV6E6iWvzYVqNQ==;GdCXJFBI9RoZv+7+WUo6Yg=="

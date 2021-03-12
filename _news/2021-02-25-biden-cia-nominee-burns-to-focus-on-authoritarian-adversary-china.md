@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO19B"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO19B"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553676209&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH23000"
         width: 714
         height: 545
-        isCached: true
-  - title: "WH: Biden to find Tanden another administration post"
-    excerpt: "White House Press secretary Jen Psaki says there will be no announcement this week on a new budget nominee after Neera Tanden withdrew her nomination Tuesday. Psaki said President Joe Biden is looking for another administration post for Tanden."
-    publishedDateTime: 2021-03-03T21:20:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/03/wh-biden-find-tanden-another-administration-post/6909944002/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/32e994a2-e70e-4dee-9f08-a4971c5bdded_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "IkEnEV/u9benQpo+SPuGBJqouKXNt8Q7NRki7zha21PxTARLrJlQkmpy7957LZKqIMFpTI5L6X5kiQU7PIGs1pDyEdBVbVFzh/DPDmCYm1gVrg8dKIg1QqL1wPCnKt7FSRB3glKlwkKqIparkNSqkNl0mTMBFB7gkaWbg5170siBWY1S06ssv3wkdUJxn0znDbvxBv1KSCVSJbb6l9NBf9h9avUm+HgiBC+zCjuqZVt+SI6xpyxcoKhUi4bde+s1DG7+T3f2mm21rmmrmdUZYNyCTmw5yUkGTrJh668p/t3Uz6LO3PoyvSiOiM214rJI/aI8iQt/yZ5EKK2gwwZGd3rrGIxXwTCUih5mLvZSG9I=;7dD8NZUf2iiiITikUDbNYA=="

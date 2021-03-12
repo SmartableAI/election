@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Senate grinds toward passage of $1.9 trillion Biden relief plan"
+    excerpt: "In early morning hours, the Senate on Saturday inched toward approving President Biden’s $1.9 trillion stimulus plan, as Democrats pressed forward with their major economic and public health relief package."
+    publishedDateTime: 2021-03-05T22:09:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/06/biden-stimulus-covid-relief/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UOYMSCS4ZII6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 930
+        isCached: true
   - title: "$1.9T Biden relief package a bet government can help cure US"
     excerpt: "But Biden is now staking his presidency on the idea that the government can use his $1.9 trillion coronavirus relief plan not only to stop a pandemic and jobs crisis but also to c"
     publishedDateTime: 2021-03-09T13:15:00Z
@@ -180,6 +196,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "House passes Biden's $1.9tn Covid relief bill projected to slash US poverty in 2021 – live"
+    excerpt: "Psaki said Joe Biden was briefed earlier today by a team of his advisers, who recently traveled to the US-Mexican border to provide an update on the recent surge in unaccompanied migrant children trying to enter the country. Asked whether the president ..."
+    publishedDateTime: 2021-03-11T00:00:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates?page=with:block-604915498f08168521f61f9e"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/10/joe-biden-covid-coronavirus-relief-bill-congress-george-floyd-derek-chauvin-trial-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 95
   - title: "Joe Biden unveiling ‘American Rescue Plan,’ a $1.9T stimulus to stem COVID-19 and steady the economy"
     excerpt: "President-elect Joe Biden is unveiling a $1.9 trillion coronavirus plan Thursday to turn the tide on the pandemic, speeding up the vaccine rollout and providing financial help to individuals, states and local governments and businesses struggling with the prolonged economic fallout."
     publishedDateTime: 2021-01-14T22:27:00Z
