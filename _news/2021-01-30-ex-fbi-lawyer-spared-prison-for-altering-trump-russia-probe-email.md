@@ -46,22 +46,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia district attorney investigating Trump hires lawyer with expertise in racketeering cases"
-    excerpt: "A lawyer with deep expertise in racketeering cases has been retained by the Atlanta-area district attorney's office investigating former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-03-07T00:47:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mkP1toe70iI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224952-fani-willis-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Defense Secretary dismisses hundreds of members of Pentagon advisory boards including late Trump picks"
     excerpt: "Defense Secretary Lloyd Austin has dismissed hundreds of members of 42 Pentagon advisory boards, including controversial late appointments by the Trump administration, as the Pentagon announced a review of the boards' memberships Tuesday.\n    \n"
     publishedDateTime: 2021-02-02T21:09:50Z

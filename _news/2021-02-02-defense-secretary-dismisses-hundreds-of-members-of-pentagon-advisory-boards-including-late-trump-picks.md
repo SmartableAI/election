@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Georgia district attorney investigating Trump hires lawyer with expertise in racketeering cases"
-    excerpt: "A lawyer with deep expertise in racketeering cases has been retained by the Atlanta-area district attorney's office investigating former President Donald Trump.\n    \n"
-    publishedDateTime: 2021-03-07T00:47:44Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/mkP1toe70iI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/john-floyd-hired-fulton-county-prosecutor-racketeering/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 163
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224952-fani-willis-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Manhattan D.A. Is Investigating Bannon, Who Was Pardoned by Trump"
     excerpt: "Stephen K. Bannon got a last-minute pardon from President Donald J. Trump in a federal fraud case, but now state prosecutors are considering bringing charges."
     publishedDateTime: 2021-02-03T04:52:00Z

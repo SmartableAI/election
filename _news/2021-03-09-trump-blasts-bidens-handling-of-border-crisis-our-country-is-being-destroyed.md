@@ -461,6 +461,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "In Primetime Speech, Biden Leaves Trump's Dystopia in the Dust"
+    excerpt: "If you were expecting President Joe Biden to take a victory lap, to boast about his remarkable achievements in just 50 days in office, it's understandable. After four years of the former president, many of us became accustomed to self-serving rhetoric. But ..."
+    publishedDateTime: 2021-03-12T12:01:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/12/in_primetime_speech_biden_leaves_trumps_dystopia_in_the_dust_538037.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
 
 secured: "pv5PWU/+4phwybImIYwFGVKG9iiRp5Jl6pZmjuuDq7YbZRRmbZiBn1BpthhAp1SznJmRWsswyoaOvg/dOeff3idb2NxfRwOWAUknh39yqM9S4tqWOPepBL4FnQxEFX3HcG4CQ4YKcEuGx4HFY3faWwWL9HdnCqWn7hH+2KfrbE4Y9OUIbE49NCA+XJ59iS4bF/p4b5+O55/DD1aOeeD1dKysJqsHg9dCP7VHdymTjNdMZbffjHk1dk0lK8JD73SEhjS3zyUVKZMP1xCpSnT8fFBz083GM1RL5vN8EubEy+YlaaAV8nfYAfy9PomaPw+4DErSMh5eGwm+KY+FbA45+MjsSNn+5a0qaIBytyZQR1c=;l5Cte7iOzMqosUSB+jYPxA=="
 ---

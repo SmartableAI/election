@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Why Donald Trump is fighting Republicans over his name"
-    excerpt: "While Donald Trump has long championed himself as a master real estate tycoon, talk to anyone familiar with how he built his fortune and they will tell you that the key to his success wasn't buying buildings."
-    publishedDateTime: 2021-03-09T22:18:00Z
-    webUrl: "https://www.cnn.com/2021/03/09/politics/donald-trump-name-rnc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/donald-trump-name-rnc/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/donald-trump-name-rnc/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302134454-04-trump-cpac-0228-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "unj9fk5Snx/R51gfXL/diHWSyiyDKb/wCPkDrHcZJuKuZRDGBR7bBZdGdFmHFQV5oJeLE2TAPFDKjuNdbhtrl3x4eDHfZuTV0AJaou4s3Cu/qvF5VD/w/oPhnj0SGqFpcuk8aKhCe5tnhApUidglO8TbTkD3yTCA77NBj+oWcQf5UW9tybVETQ0IG4iEN3CvhrjufsODiK4mJCA7VdfOTs3QvPsoRIs0rHFRzYDi4vSFHHC7nzp/Xf+fFEIs6GrKVR9xP28DUCFCyfuQclQc5QmJ8OnAedMi3ciwAev3B3Vbca2/pdgrQUqdWD9mcB0qT69lh4F58C5WZXzueQporAvd6ynojv4FIscc/1+VkOY=;FNnxkgwRxCbZT/163pOS/Q=="
 ---

@@ -64,22 +64,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump wants top Republican fundraising organizations to stop using his likeness"
-    excerpt: "Lawyers for former President Donald Trump sent out cease-and-desist letters Friday to the Republican National Committee, the National Republican Congressional Committee, and the National Republican Senatorial Committee for using his name and likeness on fundraising emails and merchandise, a Trump adviser"
-    publishedDateTime: 2021-03-06T17:44:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/agww6XNhsQs/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/06/politics/trump-cease-desist-name-likeness-rnc/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/06/politics/trump-cease-desist-name-likeness-rnc/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 171
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Senior diplomatic security official removed from Afghanistan role after declaring 'death of America' when Trump lost election"
     excerpt: "The top State Department diplomatic security official in Afghanistan was removed from his role for declaring the \"death of America\" and making racist comments about Kamala Harris in a post on his Facebook page when President Donald Trump lost November's presidential election, according to four sources"
     publishedDateTime: 2021-03-04T13:14:13Z

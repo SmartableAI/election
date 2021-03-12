@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "WSJ: New details surface from Trump call to Georgia investigator"
-    excerpt: "In a phone call to the Georgia Secretary of State's office in December, then-President Donald Trump urged a top investigator to find fraud in the 2020 presidential election, telling her that she would be \"praised\" for overturning results that were in favor ..."
-    publishedDateTime: 2021-03-11T00:15:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103145317-trump-find-votes-georgia-raffensperger-call-washington-post-harwood-nr-vpx-00001730-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "POLITICO Playbook PM: Trump position against transgender athletes draws broad support"
     excerpt: "Former President DONALD TRUMP railed against transgender athletes in female sports in his CPAC speech a few weeks ago. Other prominent voices on the right have joined in, calling it an example of political correctness having a real-world impact."
     publishedDateTime: 2021-03-10T18:23:00Z

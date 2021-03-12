@@ -578,6 +578,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Kamala Harris Carves Out a Role of Her Own"
+    excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
+    publishedDateTime: 2021-03-12T11:13:00Z
+    webUrl: "https://www.usnews.com/news/the-report/articles/2021-03-12/kamala-harris-carves-out-a-vice-presidential-of-role-of-her-own"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
   - title: "Vice President Harris Breaks Tie on Proceeding to COVID Relief Bill, Senator Johnson Objects to Waiving Reading of Bill"
     excerpt: "Vice President Kamala Harris casts the tie-breaking vote on proceeding to $1.9 trillion COVID-19 relief bill. Senator Ron Johnson (R-WI) then objects to waiving the reading of the 628-page bill. The reading is expected to last several hours."
     publishedDateTime: 2021-03-04T20:52:00Z

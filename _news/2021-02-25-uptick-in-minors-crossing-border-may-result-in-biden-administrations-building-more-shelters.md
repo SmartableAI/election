@@ -94,6 +94,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Fact-checking Biden's first prime-time address "
+    excerpt: "President Joe Biden delivered the first prime-time address of his term on Thursday night, lamenting the devastation caused by Covid-19 over the past year and touting his plans to help the country recover.\n    \n"
+    publishedDateTime: 2021-03-12T11:57:49Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wQgUW2tpnxs/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-prime-time-address-fact-check/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-prime-time-address-fact-check/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311205938-06-biden-address-0311-i-need-you-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Key GOP swing vote undecided on whether to back Biden's imperiled budget pick"
     excerpt: "Republican Sen. Lisa Murkowksi of Alaska had a sit-down meeting on Monday with Neera Tanden, President Joe Biden's nominee to lead the Office of Management and Budget, but has not decided yet if she will provide the crucial vote Tanden likely needs to be confirmed.\n    \n"
     publishedDateTime: 2021-03-02T00:19:30Z

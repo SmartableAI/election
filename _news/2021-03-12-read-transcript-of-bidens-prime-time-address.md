@@ -191,6 +191,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "DNC launches new ad campaign as Biden and Democrats seek to sell Covid bill to Americans"
+    excerpt: "The Democratic National Committee, in cooperation with the Biden White House, will kick off a sweeping effort to sell the newly signed Covid-19 relief package to a politically divided American people on Friday, releasing a new national ad bragging about the bill along with a detailed guide on how Democrats"
+    publishedDateTime: 2021-03-12T11:00:15Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/1oLYnxQpt6I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/dnc-ads-biden-sell-covid-relief-bill/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/dnc-ads-biden-sell-covid-relief-bill/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311144138-02-biden-signs-relief-bill-0311-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Analysis: Democratic divides sharpen even as Biden's Covid-19 relief package moves forward "
     excerpt: "The honeymoon is over for President Joe Biden and Senate Democrats, whose unified front has been thrown into doubt during the final stages of negotiations on the White House's $1.9 trillion Covid-19 relief bill.\n    \n"
     publishedDateTime: 2021-03-06T11:16:53Z
@@ -204,6 +220,22 @@ related:
     quality: 165
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305210809-02-manchinn-0305-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "'I need you:' Biden asks Americans to do their part to help country emerge from Covid crisis"
+    excerpt: "The light at the end of the tunnel may be the fireworks bursting in air on the Fourth of July.\n    \n"
+    publishedDateTime: 2021-03-12T07:26:40Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Jf3bhIScrAQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-primetime-speech-covid-vaccine-may/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-primetime-speech-covid-vaccine-may/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311201521-03-biden-address-0311-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -250,6 +282,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "'I need every American to do their part,' says Biden, targeting the end of the pandemic"
+    excerpt: "Fiction newsletter. Sign up here to receive the need-to-know headlines every weekday. (CNN)US President Joe Biden has pinned America's hopes of a return to normality on two key dates: May 1, by when he wants all adults to be eligible to get vaccines ..."
+    publishedDateTime: 2021-03-12T12:30:00Z
+    webUrl: "https://www.cnn.com/2021/03/12/world/coronavirus-newsletter-03-12-21-int/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/world/coronavirus-newsletter-03-12-21-int/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/world/coronavirus-newsletter-03-12-21-int/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 127
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200130165125-corona-virus-cdc-image-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
     excerpt: "Washington (CNN)Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president. No Republicans on Capitol Hill supported the Biden-backed Covid stimulus package ..."
     publishedDateTime: 2021-03-11T18:37:00Z
@@ -263,6 +311,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden says hate crimes against Asian Americans are 'un-American' and that they 'must stop'"
+    excerpt: "President Joe Biden condemned the violence Asian Americans have endured throughout the coronavirus pandemic in his first national prime-time address Thursday night. Biden, whose speech marked one year after the World Health Organization declared Covid-19 a ..."
+    publishedDateTime: 2021-03-12T01:50:00Z
+    webUrl: "https://www.nbcnews.com/news/asian-america/biden-calls-hate-crimes-against-asian-americans-wrong-it-s-n1260753"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 105
+    images:
+      - url: "https://media1.s-nbcnews.com/j/newscms/2021_10/3456230/210311-joe-biden-ac-817p_26acd33d4f21c4f3decb26f5fc43e1d9.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Tyx7fV06aljDP2vL0ib3P54apTpvCaCbQ1H0yGZs5vAgvO74/YMpPC8gKhULb69DMgcCSbResB2/DZF4YeTHkyKg4wvZowSz51TXSc3/YOEDls7NJgGKqv0akG3A71axU8D13bTqUsKRSkqaZibs6MeHZ59jgbIoxXGRNWry5hpQmPNy+6dORfIF5l9r6itDiZ5uY+P2zcRVSpFrlRf5LlZY0lJWLO+iCo9ZbiKu+Jdel12n9x2nVUoAgzH2QYz5dL7hbt/Mcap9vMok1GGXxOskRZMovVMzAzZ/19qxyTALEIYbXXzghlxQXbDghMlP515tO0iU5B673qd5S7zp/4UV9HVc7ZA3g5kOOCiQBsc=;Wkja8VDTkszEp98CaHzp5g=="

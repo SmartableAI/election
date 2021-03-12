@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/us-china-alaska-meeting/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/us-china-alaska-meeting/index.html"
 type: article
 quality: 165
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 161
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310152321-03-pelosi-schumer-relief-bill-presser-signing-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Japan's Prime Minister will be first foreign leader to visit US under Biden, administration official says"
+    excerpt: "Prime Minister Yoshihide Suga of Japan will be the first foreign leader to visit the United States since President Joe Biden took office and the global coronavirus pandemic halted much international travel, according to a senior administration official.\n    \n"
+    publishedDateTime: 2021-03-12T10:14:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GnfjKYj5cVo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/japan-prime-minister-us-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/japan-prime-minister-us-visit/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 158
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914023143-01-yoshihide-suga-0912-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

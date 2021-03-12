@@ -62,22 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "WSJ: New details surface from Trump call to Georgia investigator"
-    excerpt: "In a phone call to the Georgia Secretary of State's office in December, then-President Donald Trump urged a top investigator to find fraud in the 2020 presidential election, telling her that she would be \"praised\" for overturning results that were in favor ..."
-    publishedDateTime: 2021-03-11T00:15:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/11/donald-trump-georgia-phone-call-audio-election-investigation-murray-sot-tsr-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103145317-trump-find-votes-georgia-raffensperger-call-washington-post-harwood-nr-vpx-00001730-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "pVzfOPJNy1Su1OPdx4GrgvnKiy2xQLskpXTZ8X/u2ItEoDUXvynzpJY4Td3wa01OwtRjU7dOjf21kvleH4cvIAtHM4Y43n1RmO5IC4W2eXB3actamO7PYKOlZM43bR35E9c7JsryvPbhSuK6MmaPZ44V0cu/347bx7WQwYQZNyMR7L6a/3jwqWeELZ0JkCVXtX1OMTGP8WYTiz6f5tVfI/ukFGU7fL26aUC3Vv5Imx77XOf8LwHOzwOCYAgMRWMJfa9BwKuaar/dw8iynZ4kTk0o8LyHZe/3kZHD92wmKH0sg9lEWisAgBRf6cYc/Gc4gdVJBupz5N7+ayBoRU0YNHWyIi5Dg1RJgOe/IHWljquaHAvB4qVhLIpIEiaS8VRDaulzeWBQ0BU9NWAXX13Js3XJv5bCRTwVIeZ51ZngPCPzU3+GaQxp+T8INatgUtyy3xDIRg/qYteMS6GOwBpblBGKENRxaFbqsuLFr8Usu7/ip5Td3xUZdb6SYgAYhcqywnIM0V+CJfxuHIRF8XyO/w==;TYcl97MOfZsOuBB2CoBoBQ=="
 ---

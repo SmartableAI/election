@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/donald-trump-presidents-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/donald-trump-presidents-club-vaccine/index.html"
 type: article
 quality: 175
-heat: 195
+heat: 175
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1100
     height: 619
     isCached: true
-
-related:
-  - title: "NYC prosecutors' probe into Trump finances expands to include millions loaned for Chicago skyscraper"
-    excerpt: "The Manhattan district attorney's office subpoenaed documents from an investment company that loaned the Trump Organization millions of dollars for its Chicago skyscraper in a sign that the investigation into the former president's finances continues to expand, according to people familiar with the investigation.\n"
-    publishedDateTime: 2021-03-08T22:41:38Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2B8VyI_E7Zg/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/trump-chicago-subpoena/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/trump-chicago-subpoena/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 160
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170424100116-trump-chicago-hotel-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "69Kgx8a1xL5l+A/ZGWH7fhfVmiWkJpbTFBkHw8VHtEUu/6xAtcZNBFQ+qlGSxEjkYMHQpZ+dcRc194J5p7iqgspb1XAfXtzd8mGLb7Jas05BuWk21YM5hillgSyoEtNV71BXvRxH/tjx/8JIFqp62/JQw4xA8++f9IC3cep+vQFzD4GSIgAcVJ5IurqOnDBeHwB0ZqY4CTQQMh30Sn26nLAh8W3MhHy9EZvRAq+UaDJQE5ngJy4DWW1eRsTrzVzX6BHZl+JyCQXH5s81cL1vbD5HDawbPqtiR5cve9+s7d0Ivqg9ZhF6xyTwjpiXs1SiS3zuaqfWYPLylh9YXAjYlwaf/2NSSP9ng32XTTefa98=;4AB8QG2v8Rl/RaBaCvYkDQ=="
 ---

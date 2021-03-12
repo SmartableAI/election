@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/media/2021/03/03/qanon-march-fourth-b
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/media/2021/03/03/qanon-march-fourth-beliefs-trump-president-sidner-dnt-nr-vpx.cnn"
 type: article
 quality: 175
-heat: 215
+heat: 195
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301201624-donald-trump-210228-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Why Donald Trump is fighting Republicans over his name"
-    excerpt: "While Donald Trump has long championed himself as a master real estate tycoon, talk to anyone familiar with how he built his fortune and they will tell you that the key to his success wasn't buying buildings."
-    publishedDateTime: 2021-03-09T22:18:00Z
-    webUrl: "https://www.cnn.com/2021/03/09/politics/donald-trump-name-rnc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/donald-trump-name-rnc/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/donald-trump-name-rnc/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302134454-04-trump-cpac-0228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

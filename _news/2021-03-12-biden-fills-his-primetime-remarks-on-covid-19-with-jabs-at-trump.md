@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-ja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
 type: article
 quality: 190
-heat: 730
+heat: 750
 published: true
 
 provider:
@@ -461,6 +461,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "In Primetime Speech, Biden Leaves Trump's Dystopia in the Dust"
+    excerpt: "If you were expecting President Joe Biden to take a victory lap, to boast about his remarkable achievements in just 50 days in office, it's understandable. After four years of the former president, many of us became accustomed to self-serving rhetoric. But ..."
+    publishedDateTime: 2021-03-12T12:01:00Z
+    webUrl: "https://www.realclearpolitics.com/2021/03/12/in_primetime_speech_biden_leaves_trumps_dystopia_in_the_dust_538037.html#!"
+    type: article
+    provider:
+      name: RealClearPolitics
+      domain: realclearpolitics.com
+    quality: 60
 
 secured: "M2tvfETh92f12k6E+o+tEWfH7G8ufwgOoXTCgImUTRqobrfoW2spNmS0Y1sHacgVh5e34Dc3TcaWAdUJvxx3sSjbiMTClaaQGeUhOvXpuYCpSpvZcLCkPXMeKwSXdr+C+jHYvgDo0GHm7kk1tbeD4+7S6AAER0KS5/r8r9an82QR5KsFwEnp9X8Bed2+6+k/Ajmojm20brlQydpWWbq4Yn4I1HfHOP0zLtb5uqGWlgPVbpumqrZWgPKU11j7NzWBCgqzpbcFTBcGcf6+NfZSPW+QO+hAVUgwzBKDEwg4NnXIdvrthWnnGENWIxDhdALaVrR0ECHAQvqWXHJrqZb4grPAofd1S7n8sWV8c0T0c9c=;CQIYmYE0ofSLVyjea92X5A=="
 ---

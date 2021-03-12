@@ -2,6 +2,62 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-10-trump-requests-mail-in-ballot-ahead-of-local-florida-election-despite-baseless-fraud-claims.md",
+      "title": "Trump requests mail-in ballot ahead of local Florida election despite baseless fraud claims",
+      "excerpt": "Former President Donald Trump requested a mail-in ballot ahead of a local municipal election in Florida, according to Palm Beach County records, despite his frequent attacks on voting by mail.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/23VXyk87ScA/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/23VXyk87ScA/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 220,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210309175211-01-trump-cpac-2021-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/09/politics/trump-mail-in-ballot-voting-florida/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/trump-mail-in-ballot-voting-florida/index.html",
+      "publishedDateTime": "2021-03-09T16:36:14-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-clyburn-concerns-over-biden-mental-state-much-ado-about-nothing.md",
       "title": "Clyburn: Concerns over Biden mental state 'much ado about nothing'",
       "excerpt": "House Majority Whip Jim Clyburn of South Carolina told Fox News on Tuesday he hopes to see federal checks from the coronavirus relief bill be sent out to Americans \"next week,\" before dispelling rumors of the president having any type of acuity-related shortcomings after he appeared to forget Defense",
@@ -340,7 +396,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 170,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -606,63 +662,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-rnc-brushes-back-trump-team-on-cease-and-desist-demand.md",
-      "title": "RNC brushes back Trump team on 'cease-and-desist' demand",
-      "excerpt": "The committee's top lawyer says in a letter to Trump's attorney that the ex-president signed off on the RNC's activities in a conversation with chair Ronna McDaniel.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2021/03/08/rnc-trump-cease-and-desist-474412",
-      "originalUrl": "https://www.politico.com/news/2021/03/08/rnc-trump-cease-and-desist-474412",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/90/c5/42f48fc740519ac032d996af964b/210308-donald-trump-getty-773.jpg",
-          "width": 1160,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T22:17:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
       ]
     },
     {

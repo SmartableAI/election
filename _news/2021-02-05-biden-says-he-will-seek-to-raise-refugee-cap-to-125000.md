@@ -127,10 +127,10 @@ related:
         isCached: true
   - title: "Biden and Harris to go on the road to plug COVID aid package"
     excerpt: "President Joe Biden, first lady Jill Biden, Vice President Kamala Harris and second gentleman Doug Emhoff will go on the road next week to pitch the $1.9 trillion COVID-19 economic relief package Mr. Biden signed on Thursday. In what the White House has ..."
-    publishedDateTime: 2021-03-12T04:53:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-harris-travel-covid-19-economic-relief/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-harris-travel-covid-19-economic-relief/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-harris-travel-covid-19-economic-relief/"
+    publishedDateTime: 2021-03-12T12:05:00Z
+    webUrl: "https://www.cbsnews.com/news/harris-biden-covid-economic-relief-travel/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/harris-biden-covid-economic-relief-travel/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/harris-biden-covid-economic-relief-travel/"
     type: article
     provider:
       name: CBS News

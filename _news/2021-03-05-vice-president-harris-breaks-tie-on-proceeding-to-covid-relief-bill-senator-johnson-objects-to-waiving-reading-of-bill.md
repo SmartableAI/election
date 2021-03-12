@@ -589,6 +589,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Kamala Harris Carves Out a Role of Her Own"
+    excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
+    publishedDateTime: 2021-03-12T11:13:00Z
+    webUrl: "https://www.usnews.com/news/the-report/articles/2021-03-12/kamala-harris-carves-out-a-vice-presidential-of-role-of-her-own"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
 
 secured: "uP3plkO7YbAcYbyEzMCYC8azyR6zoOJ/gzjrac9cc4ywqJPXoxi2VqzBG3TjIXcvt4Leblu9OMpqBJnJR1Ui5NQZE2vU5ybQmmQ/P9gwYrGCIi6xelggjT7LKXX4KVpBaS5LUJK3nXoGv7x9YKRWOgoYyWbDfErnibvrS8BEb4QtGcTrCwUry12spY7mz8ZQvWYF5MhpsoGVfeWrXtz79pH3cbIBonU9LI/MJlg2HMm//fEVYfONG0csGOzKALvz9XWvoB6au5OK1pmvIWVJErdOs4A85eIJBCtFQ5h39dxXsoVaHE60/UUMCAXS2GrOBHK2/yA3kLxO1cEyMCPkB94d8JvORD5blq6csqwYsYitzNWnyQTGqRKOuc0PrxdoZhHSuH+bSFnsWu7VY3rXpadUY82CWEXx4TurOMhbcmRQ2MkvQFgdu59ft4sjF3b1GUCzitT0weHBhKXwj65IbslRZwBeeJwNRjVrQmidMlLvMoSpoZJHekXIK8vc5Hb9DCiizdzhMpINYP6t1i3PxQ==;oCvorU7cIsN2eyllE1oLAQ=="
 ---

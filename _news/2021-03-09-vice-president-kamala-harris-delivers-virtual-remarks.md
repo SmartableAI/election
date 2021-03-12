@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris Delivers Virtual Remarks"
 excerpt: "Vice President Kamala Harris delivers virtual remarks to the National League of Cities' (NLC) Congressional City Conference, at the Eisenhower Executive Office Building at the White House complex in Washington,"
 publishedDateTime: 2021-03-08T20:08:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/33530a94bbc693b85317727d09c4eb4d/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/33530a94bbc693b85317727d09c4eb4d/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
 type: article
 quality: 55
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/33530a94bbc693b85317727d09c4eb4d/USA-WHITE-HOUSE-HARRIS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/USA-WHITE-HOUSE-HARRIS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -588,6 +588,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "GmeVvFFQoZVN+20TgFbt3FR+ilIdtyEqRkdOF8CG70flExZOQ+IXnT8qfNLszgc+zr7J5nwJaSLLu9JohEORVZsfJqIZFKyhRXypHLbgeMqaiKq5oAF/qw3uL1pXWU7Dp+MsqKHa6SwGfGQaF5pRr4kV1jpBeFDqPzyCI1zZcYeO7VKN+VnET8zupOxPAEdNL2bXNpdgEjLC8ZwSbOu7KLpLnRUbH0g66BKHrkDuxIuQo46z+7nQ+/HdbCYsAQ3nnktb2BewbOnETWptR9m584eHLgJFkAG1NnpyZYJVjMWXK+B2youRtnHP2Ay59utuFtjyO0ZB7x8gW2uuNGhyst3tVHF1rx8AeZnQiOVFfIjV0oTeu6kB7wpuuWEyM+g5R/uJ2bqqN/3ItvTNDPTRjMInQ049TQ2dFjkYY7/c8hfPPIhr2bPEb4LFCK12pvFBvXOnXNmDjfEfsTEBF4LIvT/zb1jjokdZor/GFJ983d3GTCordD0h5X5EhcYTSDsEehjN9jvKKWQ4LybaRdEgnA==;tI9+uHkjUeE5J8RiaofQJQ=="
+secured: "OXXJiWXSLOMezqR/l8N5aUS7TGPCIL84q89q/C0G2PPgoZwQB6fBoz7oJu7R2GDAPg6+nffJP+1YEmVumz1c74/62LW7UyWzY4zD7ZnDl0upBmERqbAJTxYPg4TWYWW32euQHdMHQAB2qzcf/q/w/H5hJ9s4mSm/VpZd1FORraBPRFkOBy62XXUIM0iWC5iLwk2TaGpAx/XO45JsImFqBY9WVJOEHp4CR2oOIu88GeXSmBS2I1mGyZHEZKk1RuEr5REDTD73Y3yfQtVX6yf0ydLoR7FPGsUN9hEF0a5S35gnQbUVlYv9UNAM95eYiOOW+BH8GEI/QK2NYOvqqSzJka5it37sWuWR74GAmUNWuTA=;SYyEyKZIHF+nltUbByJEjg=="
 ---
 

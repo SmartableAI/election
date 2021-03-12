@@ -2,11 +2,11 @@
 category: news
 title: "Biden and Harris to go on the road to plug COVID aid package"
 excerpt: "President Joe Biden, first lady Jill Biden, Vice President Kamala Harris and second gentleman Doug Emhoff will go on the road next week to pitch the $1.9 trillion COVID-19 economic relief package Mr. Biden signed on Thursday. In what the White House has ..."
-publishedDateTime: 2021-03-12T04:53:00Z
-originalUrl: "https://www.cbsnews.com/news/biden-harris-travel-covid-19-economic-relief/"
-webUrl: "https://www.cbsnews.com/news/biden-harris-travel-covid-19-economic-relief/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/biden-harris-travel-covid-19-economic-relief/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-harris-travel-covid-19-economic-relief/"
+publishedDateTime: 2021-03-12T12:05:00Z
+originalUrl: "https://www.cbsnews.com/news/harris-biden-covid-economic-relief-travel/"
+webUrl: "https://www.cbsnews.com/news/harris-biden-covid-economic-relief-travel/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/harris-biden-covid-economic-relief-travel/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/harris-biden-covid-economic-relief-travel/"
 type: article
 quality: 140
 heat: -1
@@ -1672,6 +1672,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "4KuNSv9+aFO/AI8wVdQAfOyG9FHkovbvjO/fWRV5wk+VntO2Zho/uxRmjE8yRZBgYITz9gk3GccgRJTAUrmPLi91+NIkmrCTzYJr7xka0ceqOYuezjqatNr8mHhFlN5CBSO7aXG8iqYtafT6/H+vQYcm7S/mdOdqvDKqlDD8GkgvdHot3UUnn7uXn/FbkN3nwjHBkLIbIxIKNNeQc2SuTs+6OkctS4s+jVbHYnbUfGk9sthjb+gMCDhLnykRFZv2Tl3PefnHd8GSB2CgVvBBdhXDiW4Cu94qNVz8jw6+j+WXJ17tAZONnEOttWRTSiCKZzohWOovEe4rw8VRnDikKYuA1Has7kF7hChvAKLvU7Y=;+fTftHgnmcd/XLaK9aC9hw=="
+secured: "0R/tcbu6sJeTNX2qZouQm8Q/fnZV+vzCFUx4n4AI0WN9VPZngqEsdn4YhzS7m+Vn/fzdI4nsYYOr7VRgFrn3P5ye0CZ/jQjdTr/1CM/8V13r1gzCBKVbFZmvuCi3brUoxBRPup7C9/fPyP8c+jjIptVdeHn+6CxK7XZSIiWhjyB1AsIYlyVSHQb53LY7q/CWLWcigoBZEuZm4t04xPptcdP/T0UDbJJiDbi8EQmnEwMHfpzQmKYbhUToSgmeTvvo0UKqMN9lVxNodihB7EVs4vb/wrgMc2BXzkVtDYZ/aEFqzHhpwA7OeShwCr2E1MZwQ+nVC3I2824rs2O3DVr+yk4zSItiGKzaT+SiuqHxK5k=;MzMlnPvhWLd3NNbibj27vA=="
 ---
 
