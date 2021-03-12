@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-checks/index.html"
 type: article
 quality: 175
-heat: 575
+heat: 595
 published: true
 
 provider:
@@ -295,6 +295,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09dc-justice-1/merlin_184801785_0070e6c2-88ce-416c-926e-2400ddf6eada-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Biden Tells Nation There Is Hope After a Devastating Year"
+    excerpt: "President Biden, addressing the nation from the White House on Thursday, did not mention his predecessor, Donald J. Trump, but his speech drew sharp contrasts to him.Credit...Doug Mills/The New York Times By Katie Rogers WASHINGTON — Seeking to comfort ..."
+    publishedDateTime: 2021-03-12T16:30:00Z
+    webUrl: "https://www.nytimes.com/2021/03/11/us/politics/biden-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/11/us/politics/biden-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/11/us/politics/biden-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/11/us/politics/11dc-biden-speech12/11dc-biden-speech12-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

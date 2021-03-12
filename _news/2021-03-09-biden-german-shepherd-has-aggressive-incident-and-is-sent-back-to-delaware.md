@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden: Covid-19 relief deal puts working people first"
+    excerpt: "President Joe Biden touted his $1.9 trillion Covid-19 stimulus deal while speaking from the White House Rose Garden, saying it \"changes the paradigm\" for workers in the United States."
+    publishedDateTime: 2021-03-12T21:39:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/12/joe-biden-middle-class-coronavirus-relief-deal-sot-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/12/joe-biden-middle-class-coronavirus-relief-deal-sot-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/12/joe-biden-middle-class-coronavirus-relief-deal-sot-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312150228-03-white-house-covid-relief-event-0312-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "YAsvbuatD5O678IqXl4BrMkzxMOx604nulpqgbEgc7KWzTAMjwd/O7XXRGfzjxrnr/SXAO2ooMHtyQffXPOf3c+KVfQuVzc8CgMIZafX37Sb8ZlSndFOXAaO2aUqHFI+op2qoJjH5i9K+halL8tM6x1wPH377xH7JawWAOggPLndJTmDFct8reWdrm/JgQmhRN4s0qHHltjKboj34h83FToiKKcwD3/qyUl79fwN+R7L+ulSft/Px9odR3v0VyWggpeW79KnqalgHufYE9GZ5T5uWR0UCEIKx5X9rcXeHv8Z4ah1gktKxlXTKLld9cK53Bq2BHsYKuZ6K95dQMCFC6UVlW6b6XmEGT46hZypZs4=;fItRszBl5bwetHwzhcpBiw=="
 ---

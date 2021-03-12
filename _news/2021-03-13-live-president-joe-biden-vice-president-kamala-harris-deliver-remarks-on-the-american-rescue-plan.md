@@ -1581,6 +1581,20 @@ related:
         width: 1600
         height: 1600
         isCached: true
+  - title: "Watch: President Joe Biden, Vice President Kamala Harris deliver remarks on the American Rescue Plan"
+    excerpt: "WASHINGTON, D.C. — President Joe Biden and Vice President Kamala Harris delivered remarks on the American Rescue Plan on Friday, March 12. Watch a stream of the event below and read the latest health news at NewsMD. As a public service, we’ve opened ..."
+    publishedDateTime: 2021-03-12T19:00:00Z
+    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6931767-Watch-President-Joe-Biden-Vice-President-Kamala-Harris-deliver-remarks-on-the-American-Rescue-Plan"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 55
+    images:
+      - url: "https://www.fccnn.com/incoming/6895102-jcbkbo-2021-02-19T094550Z_1380696744_RC2LVL9RVPBA_RTRMADP_3_G7-MEETING-BIDEN.JPG/alternates/BASE_LANDSCAPE/2021-02-19T094550Z_1380696744_RC2LVL9RVPBA_RTRMADP_3_G7-MEETING-BIDEN.JPG"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "Vice President Kamala Harris will stay here until official home is ready"
     excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
     publishedDateTime: 2021-01-28T17:35:00Z
@@ -1712,6 +1726,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "MOC3g0defPwUH5PXoi4yqy+nHmKgXTdYW1pTVVF6cAkgYsQS8THFS7tnsbxHN6nD7Zf059zGJwvMzHQj+JpoLOaRj97Cxc6Vo5vdv/9bvLq8CkM1qTYZAW+1KkA99lk5TjTEpBl9UdY+baQ51CEw/qtm7IfBXxAIFzYxvvEXh+K/Qsl/doq/hVg0vah9F676z20aAl4BWDqKAFs9tYB3xlkdAE+vFVM9PGZebDSG8b3AkY0FkeQ7eedhWInrHfbNDhZ1p4/NnvtLDq/rz1ESOmfIRhKhOiZW/g3c06C3rxI8kysN0d4B2Aw6Wn3/0T/kXPG0+MuVB+hwnnfuMgh/3zca5j9id6PtEL3fO/uk5e4=;gwIysvRuz96+g1Y/JZaquQ=="
+secured: "Cw+9j+oUNbko/OweBKvfzKlAk8lRso7FyJZ9V1NFpqVcuzpBVDoJycrrU8AFvEkZwH9oC+Bq1insqk0qZOWHZwe2z1QblFowtUtw1T657JIEJGxaQpIgUHqjJUwZcBI3V+NzwTixEa1357prRZ254FyExshtu2L4zTThOjeQTAMrYV6EFSHClPDzEvVEZA4rUbQ/wqgJqxTlhKTpFkfRK0R4crBSijhPNwdpER+JGwb1PuJgSfaMRjhSgz/Kb7sKh+YcQXEh4vPPWRz+1iFPmpmPss6UyFaOnYSkUenj/TYA4uhus1r17tIzjCAr+hy2tHt+ws2WI29xkXw9es4U275l2BDQDLWHiLuvkalyF4hRaW3YQOWOwYM5JOIa2bOWpLZBqLTyKl6c81FoL0ayF3WZk430eV0Yfxn7czLZZRqBMkHuaoFy07WEZxOrOYYGxXgezQ7eAsET+F2onoZkYZA43Zz4Xn2O5tmtH6ik47I1LtOEeVCvnH+cJxbq2E5QY3rinZW23s6t+Kkt9jMy8w==;xx3zIHOg4/6W7PwL+Os8tg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-ja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
 type: article
 quality: 190
-heat: 790
+heat: 810
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/d3e1cffe-3f2e-46da-9d2a-2253b8b8f0c3/c79509db-18f2-48be-b6f7-0e17e1a528a6/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden's populist pitch: COVID-19 relief package 'puts working people in this nation first'"
+    excerpt: "President Joe Biden said on Friday that his massive $1.9 trillion COVID relief package puts “working people in this nation first.”"
+    publishedDateTime: 2021-03-12T22:00:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t-Nzmq-cMGI/bidens-populist-pitch-says-covid-relief-package-puts-working-people-first"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-populist-pitch-says-covid-relief-package-puts-working-people-first.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-populist-pitch-says-covid-relief-package-puts-working-people-first.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Mark Levin rips Biden over 'disgusting, propagandistic' address to nation on coronavirus pandemic"
     excerpt: "President Biden's remarks on the progress in the fight against the coronavirus pandemic were \"the most disgusting, propagandistic speech\" any politician has ever given, Mark Levin told \"Hannity\" Thursday."

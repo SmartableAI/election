@@ -1597,6 +1597,20 @@ related:
         width: 1600
         height: 1600
         isCached: true
+  - title: "Watch: President Joe Biden, Vice President Kamala Harris deliver remarks on the American Rescue Plan"
+    excerpt: "WASHINGTON, D.C. — President Joe Biden and Vice President Kamala Harris delivered remarks on the American Rescue Plan on Friday, March 12. Watch a stream of the event below and read the latest health news at NewsMD. As a public service, we’ve opened ..."
+    publishedDateTime: 2021-03-12T19:00:00Z
+    webUrl: "https://www.postbulletin.com/newsmd/coronavirus/6931767-Watch-President-Joe-Biden-Vice-President-Kamala-Harris-deliver-remarks-on-the-American-Rescue-Plan"
+    type: article
+    provider:
+      name: Post-Bulletin
+      domain: postbulletin.com
+    quality: 55
+    images:
+      - url: "https://www.fccnn.com/incoming/6895102-jcbkbo-2021-02-19T094550Z_1380696744_RC2LVL9RVPBA_RTRMADP_3_G7-MEETING-BIDEN.JPG/alternates/BASE_LANDSCAPE/2021-02-19T094550Z_1380696744_RC2LVL9RVPBA_RTRMADP_3_G7-MEETING-BIDEN.JPG"
+        width: 1140
+        height: 712
+        isCached: true
   - title: "Vice President Kamala Harris will stay here until official home is ready"
     excerpt: "Vice President Kamala Harris can’t beat the work commute. She's living temporarily at Blair House, the president's official guest residence on Pennsylvania Avenue across from the White House, while some repair work is done at the official vice presidential home a few miles away on the grounds of the U."
     publishedDateTime: 2021-01-28T17:35:00Z

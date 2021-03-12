@@ -315,6 +315,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Tells Nation There Is Hope After a Devastating Year"
+    excerpt: "President Biden, addressing the nation from the White House on Thursday, did not mention his predecessor, Donald J. Trump, but his speech drew sharp contrasts to him.Credit...Doug Mills/The New York Times By Katie Rogers WASHINGTON — Seeking to comfort ..."
+    publishedDateTime: 2021-03-12T16:30:00Z
+    webUrl: "https://www.nytimes.com/2021/03/11/us/politics/biden-coronavirus.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/11/us/politics/biden-coronavirus.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/11/us/politics/biden-coronavirus.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/11/us/politics/11dc-biden-speech12/11dc-biden-speech12-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
     excerpt: "Washington (CNN)Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president. No Republicans on Capitol Hill supported the Biden-backed Covid stimulus package ..."
     publishedDateTime: 2021-03-11T18:37:00Z

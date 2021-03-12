@@ -335,6 +335,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's populist pitch: COVID-19 relief package 'puts working people in this nation first'"
+    excerpt: "President Joe Biden said on Friday that his massive $1.9 trillion COVID relief package puts “working people in this nation first.”"
+    publishedDateTime: 2021-03-12T22:00:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/t-Nzmq-cMGI/bidens-populist-pitch-says-covid-relief-package-puts-working-people-first"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-populist-pitch-says-covid-relief-package-puts-working-people-first.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-populist-pitch-says-covid-relief-package-puts-working-people-first.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
     excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."
     publishedDateTime: 2021-03-08T17:22:13Z

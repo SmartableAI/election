@@ -288,6 +288,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Manhattan DA Cy Vance, whose office is investigating Trump, won't seek re-election"
+    excerpt: "WASHINGTON — Manhattan District Attorney Cy Vance, whose office is investigating former President Donald Trump and the Trump Organization, announced Friday that he won’t run for re-election and will leave office at the end of the year. The 66-year-old ..."
+    publishedDateTime: 2021-03-12T14:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/manhattan-da-cy-vance-whose-office-investigating-trump-won-t-n1260815"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2021_10/3456299/210312-cy_vance-mc-1139_366e7bd37acc868659d69c4d510e66d2.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump country resists vaccines, frustrating officials"
     excerpt: "Biden health officials will meet with Republican Ways and Means Committee staff as early as this week to discuss how to improve ways to track nursing home fatalities during the pandemic. Good Monday morning and welcome to PULSE,"
     publishedDateTime: 2021-03-08T15:00:00Z
@@ -326,6 +340,6 @@ related:
       domain: politico.com
     quality: 110
 
-secured: "grZe2+kVUUCE0MKWaAWPt654M5WQtl7GPEOkc5FH/zBKjKCGASGa5rAXiw09gJbzyx3W8436CvMt87pF/gRIHo9o2XJGYAFtwJ75tJprcxEHq34O3GYXfVrR0D06c1QXva87Fe0VtAaaC9PympJ5ZAkV5vNae+g8nyWt2FJCqjqfp9DxTY6ptCWXrR6sreHiMWteV2pLfuCmtMwJS1Yab1H/PUo3lkzYqIlB18UixkYyZ4LS8N9315f8dQuyecpJOmRg4Z3sUceRrzZUvVz1ikDww4K8qEetqVmn7auKJJuCsIDCKCJsTjlz8p1gbmKjv2Aco8Lxdv8yPrUdsmaryXr6zoyucGFTdXJCvUNWPU4=;oQEJFz5iF7txVD0+6gjlsw=="
+secured: "x3cSsAYUDWj6WMM4DlIMyLI5Hx/Mj5ld9LfoTIG2sGB/nrp5zvLRu8k23HLuk+Ou2LRolgyfNrKxoW2Ssv6/3LqBqMdjakoarkXeZ51tln/voczoWWqInnmkNe8XltGTZ2wISAajQveVYU0o9V5+UpIsec9zKQtWYvJFSNhkt0g1FZRIzKhp2ZQ0iGmK4z+cxweL4oGWoR0vuhM9f+E/jMBVcHltzUOtx+C1NREqXNQryxguilBTWr7Lq3GCmssRZovET7i7dE6dZd7GzQe0o/7ZFxVivM1p3IMjW5jQXlWdylBz2MFBIczsnUOsN4ZWV5zN80sY/hOdMvU4ZhUuGo7JkucCMoOK0Cy0h8bGz0teHW79+a/oKpb6Z7QzZ0UiDtvma2Bi4Yn3dI+aOwv6uXntZrxVg6J6/SdGhPjD6jJWKsbcbNVY/OdjJ6z4U7BtBdqVQAcTYMGrn6UGZqAtzus9EOF+NWuDn3NL4w9SKK7e9uFWVAf15DsA5VYGmAuO76qjufpf5VTFfbdftBNrqw==;ccDyLcBlaXpU7qzk3mR9Bw=="
 ---
 

@@ -287,6 +287,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Manhattan DA Cy Vance, whose office is investigating Trump, won't seek re-election"
+    excerpt: "WASHINGTON — Manhattan District Attorney Cy Vance, whose office is investigating former President Donald Trump and the Trump Organization, announced Friday that he won’t run for re-election and will leave office at the end of the year. The 66-year-old ..."
+    publishedDateTime: 2021-03-12T14:54:00Z
+    webUrl: "https://www.nbcnews.com/politics/justice-department/manhattan-da-cy-vance-whose-office-investigating-trump-won-t-n1260815"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 124
+    images:
+      - url: "https://media4.s-nbcnews.com/j/newscms/2021_10/3456299/210312-cy_vance-mc-1139_366e7bd37acc868659d69c4d510e66d2.nbcnews-fp-1200-630.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Trump country resists vaccines, frustrating officials"
     excerpt: "Biden health officials will meet with Republican Ways and Means Committee staff as early as this week to discuss how to improve ways to track nursing home fatalities during the pandemic. Good Monday morning and welcome to PULSE,"
     publishedDateTime: 2021-03-08T15:00:00Z
