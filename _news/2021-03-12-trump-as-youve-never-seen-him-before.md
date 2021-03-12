@@ -1,22 +1,22 @@
 ---
 category: news
-title: "'A ransom demand': Avlon slams Trump's letter to RNC"
-excerpt: "Former President Donald Trump sent a cease-and-desist letter to the Republican National Committee, upset about fundraising materials using his likeness. CNN's John Avlon breaks down this move."
-publishedDateTime: 2021-03-08T13:47:00Z
-originalUrl: "https://www.cnn.com/videos/politics/2021/03/08/trump-cease-desist-letter-gop-avlon-reality-check-newday-vpx.cnn"
-webUrl: "https://www.cnn.com/videos/politics/2021/03/08/trump-cease-desist-letter-gop-avlon-reality-check-newday-vpx.cnn"
-ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/08/trump-cease-desist-letter-gop-avlon-reality-check-newday-vpx.cnn"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/08/trump-cease-desist-letter-gop-avlon-reality-check-newday-vpx.cnn"
+title: "Trump as You’ve Never Seen Him Before"
+excerpt: "By Steven Lee Myers There is no shortage of merchandise in China devoted to the former president of the United States, Donald J. Trump. There are commemorative coins, toilet brushes and cat toys; countless figurines, including updated versions of Mount ..."
+publishedDateTime: 2021-03-12T08:10:00Z
+originalUrl: "https://www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.html"
+webUrl: "https://www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.html"
+ampWebUrl: "https://www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.amp.html"
+cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.amp.html"
 type: article
 quality: 135
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: New York Times
+  domain: nytimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308083800-avlon-reality-check-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static01.nyt.com/images/2021/03/12/world/12trump-buddha-1/12trump-buddha-1-facebookJumbo.jpg"
+    width: 1050
+    height: 550
     isCached: true
 
 related:
@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "'A ransom demand': Avlon slams Trump's letter to RNC"
+    excerpt: "Former President Donald Trump sent a cease-and-desist letter to the Republican National Committee, upset about fundraising materials using his likeness. CNN's John Avlon breaks down this move."
+    publishedDateTime: 2021-03-08T13:47:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/08/trump-cease-desist-letter-gop-avlon-reality-check-newday-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/08/trump-cease-desist-letter-gop-avlon-reality-check-newday-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/08/trump-cease-desist-letter-gop-avlon-reality-check-newday-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308083800-avlon-reality-check-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "R.N.C. Won't Use Trump's Name to Raise Money Without His OK"
     excerpt: "Lawyers for Mr. Trump had sent cease-and-desist letters to the Republican National Committee and other groups, warning them to stop relying on him in their fund-raising appeals."
     publishedDateTime: 2021-03-09T16:40:00Z
@@ -128,22 +144,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Trump as You’ve Never Seen Him Before"
-    excerpt: "By Steven Lee Myers There is no shortage of merchandise in China devoted to the former president of the United States, Donald J. Trump. There are commemorative coins, toilet brushes and cat toys; countless figurines, including updated versions of Mount ..."
-    publishedDateTime: 2021-03-12T08:10:00Z
-    webUrl: "https://www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/12/world/12trump-buddha-1/12trump-buddha-1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "The year that could have been: How the pandemic derailed Trump's economic plans"
     excerpt: "From taxes to tariffs, many of the administration’s key priorities were upended as the economy was thrown into chaos."
     publishedDateTime: 2021-03-09T20:23:00Z
@@ -161,6 +161,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "HTU//7YmzBJgkIrWtgrI0jFqMXpcXV/85rBy0bJuz7DWawIVcYAOdpQKYnhZJHgTIsYSHQwUdl56cALzgJUM/ztjLkxkl9YU+SU0PCgk/ta+PbrMgiTASCofJwrE/cUfzXTjTXwWUtE3GaXOnTL5J/CPr1OBiJXWiQWAgdOyb5Rc5ninYqawN4jGNys2LuEDnTG2JX7W5ABE5KN3vyrnKXjz+ZbbhPJKV9eAxDQ0sHVKJwOO30IFGMbNUymT8hcU00hBECZ0Ju55aQcIsbqtjiAarK2D3VC2cmkPufolWcdZ41WYWWhs7dNIGhneAYiE4iXJ93I5hRAn6lx98/scpIzouuWlTFS0uBEH0XAAIKU=;YmjFjCj1Gwj8W99wPlZjAA=="
+secured: "4cFy1XBmVdEoDJY24euBLpBx1NqVhcT1ymR3KuOuSKf10un2sFCeNzcKPSFuGasXmwrPAsX4M4pWgerxMeeo/8Z5lcrY2DTFgHuZalJtEtZYXRveWIeyobRJPb2X6Uyo8bHH/UD4RbWk5G+Fpxff0HxpJ1l5cFJ+W7IXiBrYxmNOnoBW7nviXcH2T1dJbWZrN4wgv/zB/AcZU9ia9yXhBSKGMA75MN5gSLvr4BdyHWi9mZByiKrB4t7AiAV/WoEI7uofua3OPAXVu4ni3pSMoSQMaMBkUjD7k23YrWYW8wKfbOzt+TwQQkT6Ak8K7yu4ZrV/hcgzTpSdGWc3Ad8ujW2M363s9vnU9LMJ6kjHfGg=;C7JnJT+6VTzbJDvjJAptNw=="
 ---
 

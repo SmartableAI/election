@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/09/politics/roy-blunt-retire-slam-tr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/09/politics/roy-blunt-retire-slam-trumpism/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 135
     images:
       - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09trumpmoney1/09trumpmoney1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "Trump as You’ve Never Seen Him Before"
+    excerpt: "By Steven Lee Myers There is no shortage of merchandise in China devoted to the former president of the United States, Donald J. Trump. There are commemorative coins, toilet brushes and cat toys; countless figurines, including updated versions of Mount ..."
+    publishedDateTime: 2021-03-12T08:10:00Z
+    webUrl: "https://www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/12/world/12trump-buddha-1/12trump-buddha-1-facebookJumbo.jpg"
         width: 1050
         height: 550
         isCached: true

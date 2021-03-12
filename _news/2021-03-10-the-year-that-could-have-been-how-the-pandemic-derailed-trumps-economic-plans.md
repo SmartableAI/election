@@ -144,6 +144,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Trump as You’ve Never Seen Him Before"
+    excerpt: "By Steven Lee Myers There is no shortage of merchandise in China devoted to the former president of the United States, Donald J. Trump. There are commemorative coins, toilet brushes and cat toys; countless figurines, including updated versions of Mount ..."
+    publishedDateTime: 2021-03-12T08:10:00Z
+    webUrl: "https://www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/12/world/asia/china-trump-buddha.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/12/world/12trump-buddha-1/12trump-buddha-1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "mvT5u8sw4H6kRoXYHzqP4rtF8NyZYzvRDyfdqWRhv70+joA5182aIq8rIFHGWmsJjvZPx0Wp6zesAU4kQTEXx1cFmi90VoEb6sb0SpW24Zq5g8vEHhVho1TP+uJi2WzDpUaSM7TPXx71d7v+8roZnJ2kxgzkE8q0SA2oKYsIhSqba7APu7LHDNG6Lkl5FVPkx0zOXHOrtv1POctEkbqHwBpAZYlOOwGtS8H5YCiMvTFnrong5MCYdHIZUAQG0UcqXE4gQccv+V9jxU97fiOvptdVTFmOQtooLthUDXQ4k8fFl19ts1v/q8WcfFiDOTRp2nF4JrMvtDjfEUzhdQqAHL8kEcnu5uNTuJA9qbknaQuuQ1OO93OhsPPwzBeKonhlWihCp/II2936ziaLV7P1UX6WNx9EbSKr5rlfnjX1VVVxkOf85lBNTcm/1ny1fqtNUXVTceMjo4BnQP/oB1hntdfdqwpqrUMtXaV2WKyRuzfBfHFi3i6yhCxBnlBqKBzR0p1yB29VR5Y4+n4gF52KEw==;RpOB3B/1so/HerJIk7/wIg=="
 ---
