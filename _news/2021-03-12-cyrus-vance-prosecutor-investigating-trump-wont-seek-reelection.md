@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/cyrus-vance-wont-seek-reelection-ma
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cyrus-vance-wont-seek-reelection-manhattan-da/"
 type: article
 quality: 140
-heat: 540
+heat: 580
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/5f359d96-f833-4f95-a108-698f4308700d-AP21071455462911.jpg?auto=webp&crop=1023,576,x0,y64&format=pjpg&width=1200"
         width: 1200
         height: 676
+        isCached: true
+  - title: "NYC prosecutor leading Trump probe won't seek reelection"
+    excerpt: "The veteran New York City prosecutor overseeing a criminal investigation into former President Donald Trump says he won't seek reelection"
+    publishedDateTime: 2021-03-12T15:14:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/nyc-prosecutor-leading-trump-probe-seek-reelection-76415269"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/nyc-prosecutor-leading-trump-probe-seek-reelection-76415269"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/nyc-prosecutor-leading-trump-probe-seek-reelection-76415269"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_746e585213fd4b72b4bd535e77abaef4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Wyoming election changes move ahead after push by Trump Jr."
     excerpt: "Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned"
@@ -239,6 +255,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Manhattan DA Cyrus Vance Jr., Who Is Investigating Trump, Won't Seek Reelection"
+    excerpt: "He has been investigating former President Donald Trump's finances and the Supreme Court last month cleared the way for the prosecutor's office to receive Trump's tax returns and other financial records. \"Representing the People of New York during this ..."
+    publishedDateTime: 2021-03-12T15:58:00Z
+    webUrl: "https://www.npr.org/2021/03/12/976389679/manhattan-da-cyrus-vance-jr-who-is-investigating-trump-wont-seek-reelection"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 116
+    images:
+      - url: "https://media.npr.org/assets/img/2021/03/12/ap21056566294772_wide-38528a83a4a139fb68eee9801fb4b347c3682ca7.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump Pressured Georgia Investigator to Find Voter Fraud in Phone Recording: 'You'll Be Praised'"
     excerpt: "Former President Donald Trump pressured a Georgia investigator to find evidence of voter fraud in the 2020 presidential election, promising that \"the right answer\" would win \"praise\" during a phone call in late December. In audio of the call obtained by ..."
     publishedDateTime: 2021-03-11T01:35:00Z
@@ -331,6 +361,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "cgcNYQBtVMkMmt8rv036hzyWfT3swYFoczb47vEINqhjRVXbByxWirWUTUhGkio8vJrFHPNrxYtGT4AofMkwzVvex3yZKTNDtJBlDEjdG7VjMp20Z/3TpeJ+VwVHRPDqSMR6GeBfoljJAPuK2gvm5cDxm3UD4TCBqi4Q1iG1Ldd3s5YhEm9T3bSTH3qFv4uu1gPXL6EITDcBsza4wgjVOdBcyfhItlHxyWiqZ0xJMSbh9aAM2rZDxfYDDDYE5XKjNYK9DaYg4Qr0wW1FoOPsfDDXFgaIL04lZ05tE9GGX0G7Xpi/4yngkVScJy33dvDIeSiOstIBMoNZfrrH9GBg31COT4kGATiFHw3WzKA9VdA=;HB9rHsblBt3fOejBweT1ZQ=="
+secured: "dUu8pGp22T7uPrNnkr8ToQeDuygwe9KSWMRMYSKYlE60yt5kY7wogi9SVjvXjFfJh642xeXfwRJ2pLheMnm8QwX8pT+SfPRHYK7pa+ZIdRrPteVNJL4WssDvyjdayCIjki3W32rQB9riyFScfzNPskeKGyAH19eLvlUmTsjzMKvCw3JEkhE4unUkfFwcqFY79Hz0BBRFkiaIiIzL9ewfAnukpI2uShttLQHIvfY7dSPiDP+RnbBPzzJF9OX6oAKYAhKYmWnoQ6VXqec9irAIcY4S6rEb+4FYB8eKfp6uTh0eyHP/N36MgWW54iDL2LYXfAvUh1D9eoPfu0uKIA56XKy81z7teOFhD0/7afsZq6/PbFf/pF1rJHDlp4gmRKWNEzAbTA/5e3Jv6Zzono+C9vGE5PHQk+5LFdyVazh1m6lgCrkXtV+7MuEmQbsQN8ePHnzkgryZEkbbq4QAsppGF40rO7vwdLC1brS9TKSw5ZHjts94mpfIup9fZFcG5oOeSwjOIwOZMJhH3I9/ei94Jw==;/VkEk7fjBJo2U1jROOn0HQ=="
 ---
 

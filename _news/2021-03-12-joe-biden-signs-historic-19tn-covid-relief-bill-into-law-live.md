@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
-excerpt: "Lauren Gambino in Washington (now), Joanna Walters and Martin Belam (earlier) The Senate voted on Thursday to advance the nomination of Deb Haaland to be the next interior secretary, bringing her one step closer to becoming the first Native American ..."
-publishedDateTime: 2021-03-11T20:13:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a4f528f08089f0d4af6b0"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a4f528f08089f0d4af6b0"
+excerpt: "Senator Joe Manchin announced in a statement that he will vote to confirm Xavier Becerra, Biden’s nominee to lead the Department of Health and Human Services. The Senate Finance Committee was deadlocked along party lines over advancing his candidacy to ..."
+publishedDateTime: 2021-03-11T19:46:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a53f48f0849a7378fcf04"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a53f48f0849a7378fcf04"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/909081444d50137d6488ef62641c42c460b55fff/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=36303c63c6c8aef763065d01ce15ace0"
+  - url: "https://i.guim.co.uk/img/media/c89f7b009dbebfd512787d31b0b418199ee62348/0_185_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=20a2ea5b422f9fc530aba039568c149a"
     width: 600
     height: 360
     isCached: true
@@ -364,6 +364,6 @@ related:
         height: 675
         isCached: true
 
-secured: "IEtNIdGQ2Q+O6BIfHJr0VwVh73hTeCMEBMEY/aUyJNZReU3z6THxWXTknQ2K5HEFzXDruvjli+aa9ezVa0elckbbfZ/d+sQe6UaTvzboZG3rLz2f3T0HJRnF2D0UKzOzaLsR4vnPJHMpyetZXgv82faodQuddLS6XFp0ynlGVIuw3XumkU0ya+1McA80EtXaqIgOoH/r81wzZA+BlkVJJWc/vhTPY8oI8rLSL5mTrOFf0MzMeUykAcfreAQoBzynEFWpUO/m6gZL9ph/AB5u5yfSYhyO5JsZcExx9Y5qBPy5Y7/M+uFEpURO+b0J1xOpMzuLvTtouBCH9NhjGlskezZo/HElZy29XP798hkXzaxQ3/bRv+a0N5NSUXP2dms6S3YD/G9v/rpTaWSZe8mo9AwCyCZV8JHT1aexMrBPkRCtjghvIxZnTzlx4ZG6UBadsm4UqGkDTZa1H2hf0B4pEk0tkvit2scPBtJnq2wZPJ5Oc//gOWjoJE0JHbVNfogC9UGSJE4U+atuVlk6ed8z0g==;5i2oSdGPHwjWD1TjX4Qkww=="
+secured: "QKlx90uZHvctoKDOWei9l3OG8qaTjKs8Z5jf2mTXtawwSp1WoVy20bD6QfVSnWIgFIrrEdrEeLlzBUbxmBKaSkuoPocmsr2uO4sPQpBgHOkIzxhP59nsZa63uxzUC6YiPo1x1DyznJIF9U3Xa0089um8cgap5emNdx10uVjyQY+tR/YJVblBUPgzy0hAqOmZqB/COgIHoVXEPFUFwHeflURpc6+mMxGWgQi4ar34DF+6yph5hCZjoGqYWm74pxtbnyBgcbci8Pwv1H7AmV+UoNAhWBgCzO8YKelp3bMbDzVSAZniKj9KWhGZujoSbUdSlBG866jS1XgY4vZGTB4/vmVnzLTJ/Ff/8z9uRAhnCHQ=;LxcXkeCbUZ2FtD8U0tGDpw=="
 ---
 

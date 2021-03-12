@@ -907,6 +907,22 @@ related:
         width: 1024
         height: 691
         isCached: true
+  - title: "Watch live: Biden, Harris speak about victory of $1.9T COVID-19 rescue plan"
+    excerpt: "March 12 (UPI) --President Joe Biden and Vice President Kamala Harris will both speak at the White House on Friday about the newly passed $1.9 trillion American Rescue Plan. Biden signed the bill into law on Thursday, a day after the House passed the ..."
+    publishedDateTime: 2021-03-12T16:28:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/03/12/watch-joe-biden-rescue-plan-covid/9911615562440/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/12/watch-joe-biden-rescue-plan-covid/9911615562440/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/12/watch-joe-biden-rescue-plan-covid/9911615562440/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 88
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/9911615562440/2021/1/7cccacabea8cc1917514f338c4d47b86/v1.5/Watch-live-Biden-Harris-speak-about-victory-of-19T-COVID-19-rescue-plan.jpg"
+        width: 800
+        height: 532
+        isCached: true
   - title: "Joe Biden basing Kamala Harris relationship on Obama model | Charlotte Observer"
     excerpt: "President Joe Biden is applying the lessons he learned as vice president to the management of the White House. That includes giving Kamala Harris a seat at the table."
     publishedDateTime: 2021-01-29T16:52:00Z

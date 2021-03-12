@@ -79,6 +79,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "NYC prosecutor leading Trump probe won't seek reelection"
+    excerpt: "The veteran New York City prosecutor overseeing a criminal investigation into former President Donald Trump says he won't seek reelection"
+    publishedDateTime: 2021-03-12T15:14:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/nyc-prosecutor-leading-trump-probe-seek-reelection-76415269"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/nyc-prosecutor-leading-trump-probe-seek-reelection-76415269"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/nyc-prosecutor-leading-trump-probe-seek-reelection-76415269"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_746e585213fd4b72b4bd535e77abaef4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Wyoming election changes move ahead after push by Trump Jr."
     excerpt: "Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned"
     publishedDateTime: 2021-03-12T05:28:00Z
@@ -254,6 +270,20 @@ related:
       - url: "https://thehill.com/sites/default/files/loudoun_county_courthouse_07312018_1_0.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Manhattan DA Cyrus Vance Jr., Who Is Investigating Trump, Won't Seek Reelection"
+    excerpt: "He has been investigating former President Donald Trump's finances and the Supreme Court last month cleared the way for the prosecutor's office to receive Trump's tax returns and other financial records. \"Representing the People of New York during this ..."
+    publishedDateTime: 2021-03-12T15:58:00Z
+    webUrl: "https://www.npr.org/2021/03/12/976389679/manhattan-da-cyrus-vance-jr-who-is-investigating-trump-wont-seek-reelection"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 116
+    images:
+      - url: "https://media.npr.org/assets/img/2021/03/12/ap21056566294772_wide-38528a83a4a139fb68eee9801fb4b347c3682ca7.jpg?s=1400"
+        width: 1400
+        height: 787
         isCached: true
   - title: "U.S. Representative Swalwell sues Trump over Jan. 6 insurrection - CNN"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."

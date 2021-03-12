@@ -75,6 +75,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "NYC prosecutor leading Trump probe won't seek reelection"
+    excerpt: "The veteran New York City prosecutor overseeing a criminal investigation into former President Donald Trump says he won't seek reelection"
+    publishedDateTime: 2021-03-12T15:14:00Z
+    webUrl: "https://abcnews.go.com/US/wireStory/nyc-prosecutor-leading-trump-probe-seek-reelection-76415269"
+    ampWebUrl: "https://abcnews.go.com/amp/US/wireStory/nyc-prosecutor-leading-trump-probe-seek-reelection-76415269"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/wireStory/nyc-prosecutor-leading-trump-probe-seek-reelection-76415269"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/US/WireAP_746e585213fd4b72b4bd535e77abaef4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Wyoming election changes move ahead after push by Trump Jr."
     excerpt: "Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned"
     publishedDateTime: 2021-03-12T05:28:00Z
@@ -251,6 +267,20 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Manhattan DA Cyrus Vance Jr., Who Is Investigating Trump, Won't Seek Reelection"
+    excerpt: "He has been investigating former President Donald Trump's finances and the Supreme Court last month cleared the way for the prosecutor's office to receive Trump's tax returns and other financial records. \"Representing the People of New York during this ..."
+    publishedDateTime: 2021-03-12T15:58:00Z
+    webUrl: "https://www.npr.org/2021/03/12/976389679/manhattan-da-cyrus-vance-jr-who-is-investigating-trump-wont-seek-reelection"
+    type: article
+    provider:
+      name: NPR
+      domain: npr.org
+    quality: 116
+    images:
+      - url: "https://media.npr.org/assets/img/2021/03/12/ap21056566294772_wide-38528a83a4a139fb68eee9801fb4b347c3682ca7.jpg?s=1400"
+        width: 1400
+        height: 787
+        isCached: true
   - title: "Trump Pressured Georgia Investigator to Find Voter Fraud in Phone Recording: 'You'll Be Praised'"
     excerpt: "Former President Donald Trump pressured a Georgia investigator to find evidence of voter fraud in the 2020 presidential election, promising that \"the right answer\" would win \"praise\" during a phone call in late December. In audio of the call obtained by ..."
     publishedDateTime: 2021-03-11T01:35:00Z
@@ -327,6 +357,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "9S0bd/chMq4ihl0T98D6MJOwSZ0ddWm7ePVYG4JIWEyk0OVVyKDYKPd2dg7lkGcAhCmyAVaYgsuIDymm6EzxcijWQ8QqYWr42zETBXDWdGA5TUWvJALNt2gr606y5eczjGZeqxSwxiimq6iqMhLeZn7FqhQJAdXWyB6f67XWxP/KTAJ4J774gp9wxISFA2RQyEsjc++/9aTbEPNANN1f1hm4h0BUmiVOVYe3MnnhrMhY2yUAKHLt50680SIFrpZRUcAvkESsN+Uf9iShbzWdElZw/HRjsS7bWvRTrh80uj4wi9RwbRgkTLHrmbYaP7lobBCwoIQOFmL3vqzikV9swX9G+amzaP+AtheVC2HLgts=;gwcmt8CfUBnGDD9c8yHbHw=="
+secured: "fjkTpkqefsRvoHuPmNVce1ouivTfW6Q3PB843YO4LS4myt/md2eyj8z4nMHc/pDXpFaZSFrZNUiBoZMgyTX2VbdngUQ9+0rwPomiZ6yp230wzgV8dl/Uk4VVaLudzZf9bMsvF8e4NpmyUytGUIlhS+BL39euNU1heYH1vTmXft4x8eSU29OeQ3Uxy5bvArti0D+vTic1SgZ6BuW1LRKseHcd2zLOgUrOK1ZfRQ+sqk//uwyE2ig6WmKj9XRAIyh159ocoXgRZocK6uYs8wChufHqPU7j6D3yXwgrSqGWNJmOH1NMx9pZ6boB9xgM1jfmvmvZHjDYHTB4vdGLCKS1qo99ZgX1LkstYEQpl8yARIe1Xx77DqM558JinYIH8iYS/iqhd9qAHAH7PlkQUR5hiasERxO3uKz8fJLWuI14yPVDiXZZ4I+UEqYg5BkhZOpahAPqUtBz3h4iFTYI7UgqGaxLJ2dYPqUag0ZSEa9uVRJItVfMTlAEWFphG94g4WS5RSG6ebLf/nNJz7TKF64x0Q==;+vsIUtpidzmDfWfQZ+w0Cw=="
 ---
 

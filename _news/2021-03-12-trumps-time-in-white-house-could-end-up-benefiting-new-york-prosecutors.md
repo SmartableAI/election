@@ -2,7 +2,7 @@
 category: news
 title: "Trump's time in White House could end up benefiting New York prosecutors  "
 excerpt: "Former President Donald Trump's time in the White House helped shield him from investigations and some lawsuits but it might open him up to greater legal peril from New York prosecutors investigating his finances.\n    \n"
-publishedDateTime: 2021-03-12T11:04:04Z
+publishedDateTime: 2021-03-12T16:07:59Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z55_W7rIHMY/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z55_W7rIHMY/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/trump-statute-of-limitations/index.html"
@@ -300,6 +300,6 @@ related:
         height: 773
         isCached: true
 
-secured: "/SdP8xN5CNnP77b2TErmVRM9rK09UeI09vubbNu5QLVfg/nkRA2VqFVNjydg5Jhi1lD/9HzGVs155NsQOjb9xhiMIY6ViIt8YYIWX0JuLYkQapa6uXrbLtq0q7uGNy3T7nF21vclUDa2CFS0OwOTODseARQNgECEt+BeGZ3mooLR6IKTeh8X8gEhi4pKnT9CkJ3j+togdB1VoohvgOfK38e95O9IVeU8RFDHMwj0VX4edBe7DIZ7QapEWP5pMJokjo6Z8/R+Px4zvzmahzYfTVT08U+yRphBHtyArQd3lK11R8nHLBJy9k85OlMcypiug+0iuhjdvYDqOfpBbOym5NfEBjZUf/m3vN0xhVvNeuM=;ukPPvAyg72PcmJaxw77U/Q=="
+secured: "5Sci2bFZDe/PScI9hej7IBQrF/ECLPScQ4dFIlceyN0Vp+hUbQiYRj8/C3vprHQ2TFhBhIvWxmn65ZYzAeM4KPgs20ZsE5da6qKAisIP+optLH95MsZOP0n4wpqdIWk7rH/J1kcbVYxtDnGkYzCF3zFRp1otCkZ3SBvNlbNYDquEniDoSGZm9NBqE6JYNc4coI1CYMmSGqgjKsC0ixn12t0IHqBQEDxFEaJfWz4yYv4lGGwWyPWUpPJlgPL3Q33pAHbTsvIZfQ4M8x9KGPmaxPk93IW7wqEh5W7VWan+xSk6erYu+U03ZSHPas7EkgWaCjWvlNypG6Iy4D1PoemR1VGH47CdQJPw2esJJEveoyg=;cap+Viw50axcBTDdZvvPmw=="
 ---
 

@@ -140,6 +140,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mark Meadows slams Biden for attacking Trump, taking credit for vaccines in primetime address"
+    excerpt: "Former White House chief of staff Mark Meadows slammed President Biden on Friday for taking credit for the coronavirus vaccines in his primetime address."
+    publishedDateTime: 2021-03-12T16:46:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Yd8_cJfQ0DM/mark-meadows-biden-trump-primetime-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-biden-trump-primetime-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-biden-trump-primetime-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 179
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden infuriates progressives after denying entry to thousands still affected by Trump's travel ban"
     excerpt: "President Biden reversed his predecessor's controversial travel ban on his first day in office, but is still denying entry to thousands of people affected by it, infuriating progressive lawmakers who have decried the position as \"unacceptable.\""
     publishedDateTime: 2021-03-10T14:21:11Z
@@ -393,6 +409,22 @@ related:
     quality: 145
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4c7eed-17f3-4a11-b656-8f6b7b68295f/da644133-079a-4496-9cc5-4b9dd6a4fdc6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Mark Meadows slams Biden for attacking Trump, taking credit for vaccines in primetime address"
+    excerpt: "MARK MEADOWS: \"Well you know obviously we saw Joe Biden not only trying to take credit from Donald Trump-which is really interesting because Joe Biden actually got the vaccine-he got a shot in the arm before Donald Trump left office... So, when we look at ..."
+    publishedDateTime: 2021-03-12T16:48:00Z
+    webUrl: "https://www.foxnews.com/politics/mark-meadows-biden-trump-primetime-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-biden-trump-primetime-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-biden-trump-primetime-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4e11fbf-005b-4b50-995c-dc44c3e0c968/86ac2847-eab6-48f9-983e-6df5f9c97ef4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

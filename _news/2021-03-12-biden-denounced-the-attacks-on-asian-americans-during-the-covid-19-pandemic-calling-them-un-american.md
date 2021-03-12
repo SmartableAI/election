@@ -64,9 +64,9 @@ related:
         height: 551
         isCached: true
   - title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
-    excerpt: "Lauren Gambino in Washington (now), Joanna Walters and Martin Belam (earlier) The Senate voted on Thursday to advance the nomination of Deb Haaland to be the next interior secretary, bringing her one step closer to becoming the first Native American ..."
-    publishedDateTime: 2021-03-11T20:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a4f528f08089f0d4af6b0"
+    excerpt: "Senator Joe Manchin announced in a statement that he will vote to confirm Xavier Becerra, Biden’s nominee to lead the Department of Health and Human Services. The Senate Finance Committee was deadlocked along party lines over advancing his candidacy to ..."
+    publishedDateTime: 2021-03-11T19:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a53f48f0849a7378fcf04"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
     type: article
@@ -75,7 +75,7 @@ related:
       domain: theguardian.com
     quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/909081444d50137d6488ef62641c42c460b55fff/0_233_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=36303c63c6c8aef763065d01ce15ace0"
+      - url: "https://i.guim.co.uk/img/media/c89f7b009dbebfd512787d31b0b418199ee62348/0_185_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=20a2ea5b422f9fc530aba039568c149a"
         width: 600
         height: 360
         isCached: true
@@ -364,6 +364,6 @@ related:
         height: 675
         isCached: true
 
-secured: "HB4EQW5rD3cjVW318LvH5r6ET1Mat5Mk9TO8cso7RdwzigM1KRKurOYdEEEN1Z19Tos/6upjuGyjeHrnpDBnUHt6hqJwWRdpxcNxqszsOaY1uQ2tNjS+SOrghYK14BcDI9NIOx2JE4S/t/wKOM15mKZmnpjuHfJ+Nj2xbZFVmD64BW2/C4S19dUuZj8FotYZd0z0HeDNSZB32yELSTcVtNuyYS3ELZHW7uS/ceD26NnevmZ0UYIRi995mVvlTjoDLUSMkKrS8Nl0gIaT2sBRgHikXGwczFRbNYKmrS0weD/YOaua0KDGfTb7uMa4zqCOAHAeHim6WG7HHo7FAuf2fgVHN97lk9AucAv+rddBpis=;nndByAKYEXLJMx4uN3RbTg=="
+secured: "ZxY9TkorWx9juIGy/vU7nl4RW0R7IjB12KG7ybCVnCehUEId/fdz6/tnVUMZjKHTUB8OR7+I6xrv1WgeRWU2QcXNg7d+bwbNw88tK7Bm9HTfE38ydJDYf6rz+yhp4XukZLqVOsv2oHP9z4xfOt0xjis5hzHe6l9Pl/gwLNZIkCECBcreR+C1nIMwPW9WIheBCL4/5WLfnkgUp4Gim0B43LPoYm79dgvnP66+jgXh3y+D/Jm01VUHvdf3hQFOHLn8Pk091LsxEZRrIYaZJRa9Qs3EaSwYUbLWdPPdDA/Tk5n/CTE126e8l4nXY/doLZotm+B0AE9bkMf4oG1g6ZtCSKyFMt0MATrQj7jqovABBzty92mUjxvYozFCjD4gPYDpWLe+Q4kJEKGfG9V290QHARbvBFo+TbUt8dsjjBBdH8t71HfjxrTavEP8SeaPi9gQkoXInHiO0DPDRl4nhr9ad2EQxi5xHZmIBMsQP7aYZIUpnVxXlTQjrJg2aKBUUyxvIp/DyExPseuiHj0fOGPbgQ==;J3b7M/ON0GIqLP6Rei4opA=="
 ---
 
