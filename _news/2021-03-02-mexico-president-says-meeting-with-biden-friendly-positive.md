@@ -95,6 +95,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden won the presidency by making the most of his lucky breaks"
+    excerpt: "Lucky: How Joe Biden Barely Won the Presidency’ by Jonathan Allen and Amie Parnes is an inside account of the 2020 campaign."
+    publishedDateTime: 2021-02-28T13:12:00Z
+    webUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/"
+    ampWebUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NCU2Z6HDLII6VAWYLZK5I7UQZI.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden moves to get all teachers a vaccine shot by the end of March"
     excerpt: "President Biden said the federal government will use its pharmacy program to get vaccine doses to K-12 teachers and child care workers."
     publishedDateTime: 2021-03-02T23:25:00Z
@@ -207,6 +223,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Senate panel to vote Wednesday on 3 Biden nominees, including trade pick Tai - source"
+    excerpt: "The Senate Finance Committee will vote on Wednesday on three nominees for key jobs in the Biden administration, including Katherine Tai as trade czar and California Attorney General Xavier Becerra as U."
+    publishedDateTime: 2021-03-01T19:22:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-nominations-idUSL2N2KZ2GQ"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210301&t=2&i=1553370867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH2022J"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden heads to Wisconsin, winter storms, Bill Gates book: 5 things you need to know Tuesday"
     excerpt: "President Joe Biden travels to Wisconsin, another dose of severe weather is on the way and more news to start your Tuesday."
     publishedDateTime: 2021-02-16T20:11:00Z
@@ -296,6 +328,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Vilsack sworn in as Biden's agriculture secretary"
+    excerpt: "One day after the Senate confirmed Tom Vilsack as agriculture secretary, the former Iowa governor has been sworn in to head the department for a second time. (Feb. 25)"
+    publishedDateTime: 2021-02-25T00:34:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/25/vilsack-sworn-bidens-agriculture-secretary/6808430002/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/714388f5-00dc-4da6-b44d-e09279b269af_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Biden in TX: 'Nothing partisan' about virus, storm"
     excerpt: "President Joe Biden wrapped up his visit to storm-battered Texas, Friday with calls for unity and bipartisanship as the nation looks to help Texas recover not just from the storm but also from the health and economic crisis caused by COVID."
     publishedDateTime: 2021-02-27T00:47:00Z

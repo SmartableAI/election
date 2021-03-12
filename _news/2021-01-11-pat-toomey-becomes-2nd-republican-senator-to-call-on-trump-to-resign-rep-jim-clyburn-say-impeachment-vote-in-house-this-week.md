@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Clyburn: House has responsibility to impeach Trump over Georgia call"
-    excerpt: "Rep. James Clyburn (R-S.C.), said Sunday that House lawmakers have a responsibility to stick up for the integrity of federal elections with an impeachment of the president over his phone call with Georgia officials."
-    publishedDateTime: 2021-01-10T14:47:00Z
-    webUrl: "https://thehill.com/homenews/sunday-talk-shows/533522-clyburn-house-has-responsibility-to-impeach-trump-over-georgia"
-    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/533522-clyburn-house-has-responsibility-to-impeach-trump-over-georgia?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/533522-clyburn-house-has-responsibility-to-impeach-trump-over-georgia?amp"
+  - title: "Top Republican says Trump committed 'impeachable offenses'"
+    excerpt: "Democrats' momentum for a fresh drive to quickly impeach outgoing President Donald Trump has gained support, and a top Republican said the president's role in the deadly riot at the Capitol by a violent mob of Trump supporters was worthy of rebuke."
+    publishedDateTime: 2021-01-10T05:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/clyburnjames_111820bc3_lead.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/WireAP_05a995faf0c04632b66729e7fb53de99_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Cozying up to Trump may have hurt Perdue and Loeffler in the Georgia run-off"
-    excerpt: "Already, recriminations are flying about what Loeffler and Perdue might have done wrong. Our research suggests that they made one crucial error: aligning themselves with Donald Trump. In an effort to turn out their base,"
-    publishedDateTime: 2021-01-10T22:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/01/10/cozying-up-trump-may-have-hurt-perdue-loeffler-georgia-run-off/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/01/10/cozying-up-trump-may-have-hurt-perdue-loeffler-georgia-run-off/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/01/10/cozying-up-trump-may-have-hurt-perdue-loeffler-georgia-run-off/?outputType=amp"
+  - title: "Republican Sen. Toomey says Trump committed ‘impeachable offenses’"
+    excerpt: "Sen. Pat Toomey (R-Pa.) said he believed Trump had committed “impeachable offenses.” But he stopped short of saying whether he would vote to remove the president from office at the conclusion of a Senate trial if the House sent over articles of impeachment."
+    publishedDateTime: 2021-01-11T04:50:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-01-09/top-republican-says-trump-committed-impeachable-offenses"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-01-09/top-republican-says-trump-committed-impeachable-offenses?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-01-09/top-republican-says-trump-committed-impeachable-offenses?_amp=true"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 122
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JCB4TECQFEI6XIPV7WXSRT6KSA.jpg&w=1440"
-        width: 1440
-        height: 943
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/9cee817/2147483647/strip/true/crop/689x450+56+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F62%2F8b1efa963432a7735fcbbb085fb6%2Fla-es-trump-culpa-a-la-caza-de-brujas-por-su-p-001"
+        width: 320
+        height: 209
         isCached: true
   - title: "Top House Republican Liz Cheney says she will vote to impeach Donald Trump – live"
     excerpt: "Wyoming conservative’s split with the president could give cover to other Republicans who want to vote to impeach – follow live"
@@ -79,58 +79,66 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Trump leaves White House with his lowest-ever approval rating after Capitol riot, impeachment"
-    excerpt: "Nearly two-thirds, 68%, of the respondents in a new poll from the Pew Research Center said Trump should not remain a major national political figure."
-    publishedDateTime: 2021-01-17T15:08:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/15/donald-trump-leaves-white-house-lowest-ever-approval-rating/4173571001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4173571001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4173571001"
+  - title: "Trump's incitement of mob at Capitol is 'impeachable offense,' Chris Christie says"
+    excerpt: "Chris Christie is perhaps the most notable former supporter of President Donald Trump to back impeachment so far."
+    publishedDateTime: 2021-01-10T18:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/10/chris-christie-trump-incitement-mob-impeachable-offense/6615766002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6615766002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6615766002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 114
+    quality: 119
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/12/USAT/d9fcae70-ecb3-4fa7-ba54-bd90bcd378e0-AP21012563654909.jpg?auto=webp&crop=5999,3374,x1,y626&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2020/10/02/USAT/55d4865c-6178-40b0-ad33-6d8e079e2e7f-TRUMP_POSITIVE_CORONAVIRUS_13.JPG?auto=webp&crop=4499,2531,x0,y187&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Live impeachment updates: GOP House leader: Trump 'bears responsibility' for riot, but impeachment a 'mistake'"
-    excerpt: "A vote to impeach will further divide the nation. A vote to impeach will further fan the flames of partisan division,\" Rep. Kevin McCarthy said."
-    publishedDateTime: 2021-01-13T18:57:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/elections/2021/01/13/impeachment-live-updates-house-vote-gop-rift-trump-grows/6644827002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6644827002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6644827002"
+  - title: "With Trump impeached, Democrats turn focus toward GOP 'accomplices' in Capitol siege"
+    excerpt: "A week after rioters stormed the U.S. Capitol, investigators are trying to determine if the biggest threat to lawmakers that day emanated from within Congress itself."
+    publishedDateTime: 2021-01-15T04:51:00Z
+    webUrl: "https://abcnews.go.com/US/trump-impeached-democrats-turn-focus-gop-accomplices-capitol/story?id=75259158"
+    ampWebUrl: "https://abcnews.go.com/amp/US/trump-impeached-democrats-turn-focus-gop-accomplices-capitol/story?id=75259158"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/trump-impeached-democrats-turn-focus-gop-accomplices-capitol/story?id=75259158"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 118
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/13/USAT/364bda46-7631-4195-8825-20cfb2fad595-AP_Trump_Impeachment_2.jpg?auto=webp&crop=4121,2319,x0,y209&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/US/capitol-siege-congress-sheltering-ap-jef-210114_1610664843825_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "McCarthy Says Trump Accepts 'Some Responsibility' for Capitol Riot-Sources"
-    excerpt: "President Donald Trump acknowledged he bears \"some responsibility\" for an assault on the U.S. Capitol last week, Republican congressional leader Kevin McCarthy told party lawmakers on Monday, according to two people familiar with McCarthy's briefing."
-    publishedDateTime: 2021-01-12T04:03:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-11/mccarthy-says-trump-accepts-some-responsibility-for-capitol-riot-sources"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-11/mccarthy-says-trump-accepts-some-responsibility-for-capitol-riot-sources?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-11/mccarthy-says-trump-accepts-some-responsibility-for-capitol-riot-sources?context=amp"
+  - title: "Explainer: Impeachment or the 14th Amendment - Can Trump be barred from future office?"
+    excerpt: "Some U.S. lawmakers have said President Donald Trump should be disqualified from holding political office again following his impeachment on Wednesday for inciting a mob that stormed the Capitol as lawmakers were certifying President-elect Joe Biden's victory."
+    publishedDateTime: 2021-01-14T14:52:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trump-impeachment-explainer/explainer-impeachment-or-the-14th-amendment-can-trump-be-barred-from-future-office-idUSKBN29I356?edition-redirect=ca"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 53
-  - title: "Ducey: Trump 'Bears Some Responsibility' for Insurrection"
-    excerpt: "Arizona Gov. Doug Ducey says President Donald Trump “bears some responsibility” for the insurrection at the U.S. Capitol last week but he does not support impeachment."
-    publishedDateTime: 2021-01-16T14:15:00Z
-    webUrl: "https://www.usnews.com/news/best-states/arizona/articles/2021-01-14/arizona-gov-ducey-to-attend-biden-inauguration"
+      name: Reuters
+      domain: reuters.com
+    quality: 97
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547701260&r=LYNXMPEH0C1U1&w=800"
+        width: 800
+        height: 524
+        isCached: true
+  - title: "Majority of Americans want Trump removed immediately after U.S. Capitol violence - Reuters/Ipsos poll"
+    excerpt: "Fifty-seven percent of Americans want Republican President Donald Trump to be immediately removed from office after he encouraged a protest this week that escalated into a deadly riot inside the U.S."
+    publishedDateTime: 2021-01-09T14:20:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-election-trump-poll/majority-of-americans-want-trump-removed-immediately-after-u-s-capitol-violence-reuters-ipsos-poll-idUSKBN29D2VG"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
+      name: Reuters
+      domain: reuters.com
+    quality: 90
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547174178&r=LYNXMPEH071BU&w=800"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "tFGm8f7tXiA77jfKIAqp7jHqiX27MVGIS++pBir1oDF23uRrZ2JJg6Xx0d6EQnL9xHNdR/F6pR3lIb+ZiHW0RfxHhlnbBS3uZMCKyBrfZRFBYE67tYhUaTVl5AlFf85MeewtviqhFi0fwQ/r+UFUW3ij4twjhP7zprWZ6znarTW1by1tNFFSDGR0bJc6ZwacKeti9gKgySSjKKkuMZMYMZrQKKGQb9OCjvlo1eJOmwtRriADUHnhesMzdiaiCjM6hl9u1w0cv+kEb88M2hQJHRo78dzDASmX9fdC6ymIH+QnhIum62c8T8pkOxT/s01AKA3CQGaz/+Etr1++3MsFxBrXM0DboIHy3tJJZeI0UwdJX3nHcLAlRwrFMCTpuK2jqIzrsNvKk4QvguYikJoVP42AmlcgawViLA3mNJFsDGspO+YNOP/YMIoVjx/RACyOH40t0AzdYOBuBDKnZab1RS+nAFsEQ6vGD5OL6l9k3HmG3nFydFWDsvhSoKbQp0xPqWwajr40mKzp1tBueopI/w==;GCWX1a4HAInHjzrlExct6Q=="
 ---

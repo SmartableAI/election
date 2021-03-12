@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/dominion-sues-trump-la
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/dominion-sues-trump-lawyer-sidney-powell-defamation-75132691"
 type: article
 quality: 125
-heat: 185
+heat: 165
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210115&t=2&i=1547913133&r=LYNXMPEH0D1BB&w=800"
         width: 800
         height: 533
-        isCached: true
-  - title: "Gov. Mike DeWine says he still supports Donald Trump, though blames him for occupation of U.S. Capitol"
-    excerpt: "DeWine said Trump's continued denial of the election inflamed his supporters, who overran the U.S. Capitol on Wednesday."
-    publishedDateTime: 2021-01-07T20:39:00Z
-    webUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F43BGYKSCFFH3COOSGRAHZFIHY.jpg"
-        width: 2754
-        height: 1961
         isCached: true
 
 secured: "ZI21CPWoK2Lecw3zh/+FkOfmEpZN0G2f2NIC9iY6ZWbzm2ENRc6ehSHW0WNIYLbJAuYeSYjhH0qS35EvL/Htl/kASdICeD0BXj05FQCJDNrPP8fXI/I7YwH8EB0n5MVG+aTAd7mQPT6G1J4GcQDlUwPJ3iWvonj74NVnwIRZAjaW59BEJkyZodnB3b53n8jv9GEqPILF/OjKmyLszfGDrmnLq3JlaydfEi/5ul0eBjea7vzLKBUvFl9epfcneP4213OpSPtGYG7kamBbzkfsTc06asDD72VMsMpaAKuJ+T3aY0aYmEqvOJtqy4yTerzHct4GadGhjixkMJ8zwEwZs2SiKtFfbH59cnDevBJ1QWQ=;ce5+MWOGQsVW+MrZJFdqUQ=="

@@ -31,6 +31,70 @@ images:
     isCached: true
 
 related:
+  - title: "Cyrus Vance, prosecutor investigating Trump, won't seek reelection"
+    excerpt: "Vance's most high-profile current case is a wide-ranging criminal investigation of former President Donald Trump. The investigation initially targeted alleged hush-money payments made during the 2016 campaign to adult film star Stormy Daniels by Mr. Trump ..."
+    publishedDateTime: 2021-03-12T12:23:00Z
+    webUrl: "https://www.cbsnews.com/news/cyrus-vance-wont-seek-reelection-manhattan-da/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/cyrus-vance-wont-seek-reelection-manhattan-da/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cyrus-vance-wont-seek-reelection-manhattan-da/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/24/03739679-96be-4703-a276-d07392142364/thumbnail/1200x630/13d2120369e6911f32131c2381996844/cbsn-fusion-harvey-weinstein-verdict-manhattan-cy-vance-survivors-werent-just-brave-heroic-thumbnail-449943-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Manhattan DA Cy Vance will not seek reelection, Trump case pending"
+    excerpt: "a position he used to prosecute Harvey Weinstein and investigate former President Donald Trump. Vance is departing this December after more than a decade atop one of the most prominent and ..."
+    publishedDateTime: 2021-03-12T12:50:00Z
+    webUrl: "https://abcnews.go.com/US/manhattan-da-cy-vance-seek-reelection-trump-case/story?id=76411417"
+    ampWebUrl: "https://abcnews.go.com/amp/US/manhattan-da-cy-vance-seek-reelection-trump-case/story?id=76411417"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/manhattan-da-cy-vance-seek-reelection-trump-case/story?id=76411417"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/cyrus-vance-jr-file-gty-ml-210312_1615549599578_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "NYC prosecutor leading Trump probe won't seek re-election"
+    excerpt: "The veteran New York City prosecutor is overseeing a criminal investigation into former President Donald Trump."
+    publishedDateTime: 2021-03-12T13:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/nyc-prosecutor-cy-vance-jr-retire-years-end/4662027001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4662027001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4662027001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/5f359d96-f833-4f95-a108-698f4308700d-AP21071455462911.jpg?auto=webp&crop=1023,576,x0,y64&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Wyoming election changes move ahead after push by Trump Jr."
+    excerpt: "Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned"
+    publishedDateTime: 2021-03-12T05:28:00Z
+    webUrl: "https://www.washingtonpost.com/national/wyoming-election-changes-move-ahead-after-push-by-trump-jr/2021/03/11/d53591fc-82c9-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/wyoming-election-changes-move-ahead-after-push-by-trump-jr/2021/03/11/d53591fc-82c9-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/wyoming-election-changes-move-ahead-after-push-by-trump-jr/2021/03/11/d53591fc-82c9-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Recording reveals details of Trump call to Georgia’s chief elections investigator"
     excerpt: "In the Dec. 23 conversation, the then-president urged the chief investigator for Secretary of State Brad Raffensperger to do “whatever you can do” to uncover wrongdoing in the election."
     publishedDateTime: 2021-03-11T20:16:00Z
@@ -47,69 +111,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump pressured Georgia elections official to find evidence of voter fraud in call"
-    excerpt: "Georgia told an elections investigator that they would be a \"national hero\" if they found evidence of elections fraud."
-    publishedDateTime: 2021-01-10T12:39:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-georgia-call-pressured-voter-fraud-evidence/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 134
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/09/28ff4c1d-ff72-4ad1-b599-27fb6ce09176/thumbnail/1200x630/a22a0c37ad809d8a94173ed49081b6cf/gettyimages-1287973454.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "On December call, Trump urged Georgia elections investigator to 'find the fraud': Source"
-    excerpt: "Amid a signature match audit, President Trump urged a Georgia elections investigator to \"find the fraud\" in a December phone call, a source confirmed to ABC News."
-    publishedDateTime: 2021-01-09T20:41:00Z
-    webUrl: "https://abcnews.go.com/Politics/december-call-trump-urged-georgia-elections-investigator-find/story?id=75152489"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/december-call-trump-urged-georgia-elections-investigator-find/story?id=75152489"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/december-call-trump-urged-georgia-elections-investigator-find/story?id=75152489"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 131
-    images:
-      - url: "https://s.abcnews.com/images/Politics/georgia-votes-donald-trump-raffensperger-01-rt-llr-210109_1610222192103_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Georgia prosecutor investigating Trump call urges patience"
-    excerpt: "The Georgia prosecutor investigating potential efforts by Donald Trump to influence last year’s general election is urging people to be patient"
-    publishedDateTime: 2021-02-26T06:11:00Z
-    webUrl: "https://www.washingtonpost.com/national/georgia-prosecutor-investigating-trump-call-urges-patience/2021/02/26/55d11a2a-77f8-11eb-9489-8f7dacd51e75_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/georgia-prosecutor-investigating-trump-call-urges-patience/2021/02/26/55d11a2a-77f8-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/georgia-prosecutor-investigating-trump-call-urges-patience/2021/02/26/55d11a2a-77f8-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+  - title: "On Twitter, Trump is more popular than Jesus"
+    excerpt: "With Donald Trump playing the old hits to an enthusiastic Conservative Political Action Conference (CPAC) crowd and congressional Republicans making post-election pilgrimages to Mar-a-Lago to pay respect, many observers wonder when the former president’s ..."
+    publishedDateTime: 2021-03-11T13:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Georgia GOP leaders who stood up to Trump back voting bills"
-    excerpt: "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud"
-    publishedDateTime: 2021-03-05T10:21:00Z
-    webUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P3WUXBD2MYI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "RICO expert hired by prosecutor investigating Trump call"
     excerpt: "An expert on Georgia’s racketeering law was sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general"
@@ -143,35 +159,51 @@ related:
         width: 947
         height: 545
         isCached: true
-  - title: "Trump pressured another Georgia elections official, Frances Watson, to uncover nonexistent voter fraud"
-    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump urged a Georgia elections official to uncover nonexistent evidence of mass fraud before the \"very important date\" of ..."
-    publishedDateTime: 2021-03-11T01:27:00Z
-    webUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3?amp"
+  - title: "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration"
+    excerpt: "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4."
+    publishedDateTime: 2021-03-05T12:35:00Z
+    webUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028"
+    ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 124
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
     images:
-      - url: "https://i.insider.com/60496cb2f196be0018beec00?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://d.newsweek.com/en/full/1750168/q.jpg"
+        width: 2500
+        height: 1667
         isCached: true
-  - title: "China calls on US to drop Trump-era sanctions and warns against 'bullying'"
-    excerpt: "Foreign minister Wang Yi calls for cooperation and signals that Beijing will stand firm against criticism"
-    publishedDateTime: 2021-03-07T13:14:00Z
-    webUrl: "https://www.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying"
-    ampWebUrl: "https://amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/mar/07/china-calls-on-us-to-drop-trump-era-sanctions-and-warns-against-bullying"
+  - title: "With Trump gone, QAnon groups focus fury on attacking coronavirus vaccines"
+    excerpt: "Conspiracy theories about covid and vaccines once ran rampant on the likes of Facebook, Twitter and YouTube. But months of purges of accounts that trafficked heavily in misinformation - especially after the baseless QAnon ideology helped fuel the Jan."
+    publishedDateTime: 2021-03-11T13:39:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2021/03/11/with-trump-gone-qanon-groups-focus-fury-attacking-covid-vaccines/"
+    ampWebUrl: "https://www.washingtonpost.com/technology/2021/03/11/with-trump-gone-qanon-groups-focus-fury-attacking-covid-vaccines/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/03/11/with-trump-gone-qanon-groups-focus-fury-attacking-covid-vaccines/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 123
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3BTY7OC3P4I6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump once again requests mail-in ballot despite repeatedly attacking method"
+    excerpt: "Palm Beach county election marks the third instance of the former president voting by mail since 2019"
+    publishedDateTime: 2021-03-11T11:30:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/11/donald-trump-mail-in-ballot-palm-beach-county"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/11/donald-trump-mail-in-ballot-palm-beach-county"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/11/donald-trump-mail-in-ballot-palm-beach-county"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 123
+    quality: 122
     images:
-      - url: "https://i.guim.co.uk/img/media/1460603f607965dd4feb714bb0cba76fa5e4a045/643_571_6904_4144/master/6904.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=c281ae1e3c17d59475ec3266852594f7"
+      - url: "https://i.guim.co.uk/img/media/18fa202a6dfad06f3581ce052fecdf0fd6c93401/0_118_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=68a83f734cdcaa8f1c3f23dd1265cc0a"
         width: 600
         height: 360
         isCached: true
@@ -191,33 +223,22 @@ related:
         width: 816
         height: 545
         isCached: true
-  - title: "Former Pentagon chief blames Trump's speech for inciting Capitol attack – live"
-    excerpt: "Joanna Walters In an astonishing piece of attempted backside-covering, former acting defense secretary under the outgoing Donald Trump, Chris Miller, tried to explain in an interview with Vice that the delay in National Guard troops deploying to the US ..."
-    publishedDateTime: 2021-03-11T22:20:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a773a8f0849a7378fd13c"
-    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
+  - title: "Man who exhaled on women outside Trump golf club settles case by donating to NAACP"
+    excerpt: "A man charged with assault for blowing on two activist outside of a golf club owned by former President Trump has settled his case by donating $3,000 to the NAACP."
+    publishedDateTime: 2021-03-11T17:35:00Z
+    webUrl: "https://thehill.com/homenews/state-watch/542754-man-who-exhaled-on-women-outside-trump-golf-club-settles-case-by"
+    ampWebUrl: "https://thehill.com/homenews/state-watch/542754-man-who-exhaled-on-women-outside-trump-golf-club-settles-case-by?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/542754-man-who-exhaled-on-women-outside-trump-golf-club-settles-case-by?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 121
+      name: The Hill
+      domain: thehill.com
+    quality: 119
     images:
-      - url: "https://i.guim.co.uk/img/media/8b5dcaa3b92d55402971cb623e14c3f5cc5b2909/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f196b8e175ba7b8b3d244dfd60742b19"
-        width: 600
-        height: 360
+      - url: "https://thehill.com/sites/default/files/loudoun_county_courthouse_07312018_1_0.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "Wyoming election changes move ahead after push by Trump Jr."
-    excerpt: "Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney, but not for next year as originally planned."
-    publishedDateTime: 2021-03-12T00:25:00Z
-    webUrl: "https://www.businessinsider.com/wyoming-election-changes-move-ahead-after-push-by-trump-jr-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/wyoming-election-changes-move-ahead-after-push-by-trump-jr-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/wyoming-election-changes-move-ahead-after-push-by-trump-jr-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 120
   - title: "Trump Pressured Georgia Investigator to Find Voter Fraud in Phone Recording: 'You'll Be Praised'"
     excerpt: "Former President Donald Trump pressured a Georgia investigator to find evidence of voter fraud in the 2020 presidential election, promising that \"the right answer\" would win \"praise\" during a phone call in late December. In audio of the call obtained by ..."
     publishedDateTime: 2021-03-11T01:35:00Z
@@ -234,22 +255,17 @@ related:
         width: 2944
         height: 1976
         isCached: true
-  - title: "‘Find the fraud’: Trump pressured a Georgia elections investigator in a separate call legal experts say could amount to obstruction"
-    excerpt: "More than a week before he urged the Georgia secretary of state to overturn the election results, the president spoke to the state’s chief elections fraud investigator and urged the official to find wrongdoing as part of an ongoing inquiry."
-    publishedDateTime: 2021-01-09T22:20:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/01/09/7a55c7fa-51cf-11eb-83e3-322644d82356_story.html?outputType=amp"
+  - title: "U.S. Representative Swalwell sues Trump over Jan. 6 insurrection - CNN"
+    excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
+    publishedDateTime: 2021-03-05T18:20:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-swalwell-idUSW1N2IU00U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2IU00U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2IU00U"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 110
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/F2PIA5CR2II6XA7DGITEJWBDKY.jpg&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Georgia criminal investigation into former President Trump reaches grand jury phase"
     excerpt: "A criminal investigation in Georgia is looking into former President Trump's alleged attempt to overturn the state's election results, and last week two grand juries convened in Fulton County, potentially giving prosecutors the opportunity to issue subpoenas for documents and witnesses."
     publishedDateTime: 2021-03-09T00:38:00Z
@@ -263,20 +279,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/09/154eeb3b-1d5e-4ec1-bd1a-9d8cb6c931a6/thumbnail/1200x630/83434c3e370309035494b98f0d80c2a5/cbsn-fusion-georgia-criminal-investigation-into-former-president-trump-reaches-grand-jury-phase-thumbnail-663449-640x360.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Newly Revealed Call Details How Trump Pressed Georgia Investigator To Find Vote Fraud"
-    excerpt: "Trump asked a Georgia law enforcement official to find evidence of fraud with absentee-by-mail ballots. He told her: \"When the right answer comes out, you'll be praised.\""
-    publishedDateTime: 2021-03-11T16:06:00Z
-    webUrl: "https://www.npr.org/2021/03/11/976030079/newly-revealed-call-details-how-trump-pressed-georgia-investigator-to-find-vote-"
-    type: article
-    provider:
-      name: NPR
-      domain: npr.org
-    quality: 98
-    images:
-      - url: "https://media.npr.org/assets/img/2021/03/11/gettyimages-1304601957_wide-3b5a2d0c69bd0a99ef67de57905201708a7ad1ef.jpg?s=1400"
-        width: 1400
-        height: 787
         isCached: true
   - title: "Wyoming moving ahead with Trump Jr.-backed election changes"
     excerpt: "CHEYENNE, Wyo. (AP) — Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned. A legislative committee voted ..."
@@ -294,19 +296,19 @@ related:
         width: 600
         height: 336
         isCached: true
-  - title: "Criminal Investigation Into Trump Organization Aimed at ‘Flipping’ CFO: Report"
-    excerpt: "According to the Washington Post, with the tax docs now in hand, prosecutors at Vance’s office are focusing their current efforts on Trump’s former chief financial officer Allen Weisselberg and two of his adult sons — one of whom manages the Trump Organization’s ice rinks in Central Park,"
-    publishedDateTime: 2021-03-04T10:33:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/investigation-into-trump-org-aimed-at-flipping-cfo-report.html"
+  - title: "What Happens to the Trump Investigation Without Cy Vance?"
+    excerpt: "Donald Trump. Vance’s announcement that he will not seek a fourth term comes weeks after his team won a critical battle at the Supreme Court to obtain millions of pages of tax records and other ..."
+    publishedDateTime: 2021-03-12T13:23:00Z
+    webUrl: "https://nymag.com/intelligencer/2021/03/what-happens-to-trump-investigation-without-cy-vance.html"
+    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/03/what-happens-to-trump-investigation-without-cy-vance.html"
+    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/03/what-happens-to-trump-investigation-without-cy-vance.html"
     type: article
     provider:
       name: New York Magazine
       domain: nymag.com
-    quality: 71
+    quality: 75
     images:
-      - url: "https://pyxis.nymag.com/v1/imgs/4e6/999/6d51cf8fb5705f6e1da184c5903f44cc19-GettyImages-1128135352.1x.rsocial.w1200.jpg"
+      - url: "https://pyxis.nymag.com/v1/imgs/2b6/ae1/5cd2b0c410b6f6cd1db0c9832a5ef9871f-8-cyrus-vance.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
         isCached: true

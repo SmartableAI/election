@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-11-bidens-party-line-approach-in-congress-has-worked-so-far-but-sen-joe-manchin-wants-bipartisanship.md",
+      "title": "Biden’s party-line approach in Congress has worked so far. But Sen. Joe Manchin wants bipartisanship.",
+      "excerpt": "Manchin has reiterated that he believes the 60-vote requirement is what makes the Senate a unique legislative body across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
+      "originalUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I37U2VEB7YI6XLBXIOB7O4E2XY.jpg&w=1440",
+          "width": 1440,
+          "height": 979,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-11T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.md",
+      "title": "Pelosi-Milley phone call about ‘unhinged’ Trump is target of Judicial Watch lawsuit",
+      "excerpt": "House Speaker Nancy Pelosi’s January phone call with U.S. Army Gen. Mark Milley, chairman of the Joint Chiefs of Staff -- in which Pelosi raised concerns about what she described as an \"unhinged\" President Trump -- is now the subject of a Freedom of Information Act (FOIA) lawsuit.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT1wQWKY4X4/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT1wQWKY4X4/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/pelosi-milley.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.amp",
+      "publishedDateTime": "2021-03-11T01:47:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race.md",
       "title": "Trump endorses widow of Rep.-elect Luke Letlow in Louisiana House race",
       "excerpt": "Former President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate commitment to working with Trump amid back-and-forth Top ...",
@@ -107,58 +215,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-jan-6-capitol-defendant-wants-trial-moved-to-west-texas-says-dc-too-anti-trump-politically-correct.md",
-      "title": "Jan. 6 Capitol defendant wants trial moved to west Texas, says D.C. too anti-Trump, politically correct",
-      "excerpt": "Attorney for Jenny Louise Cudd, 36-year-old florist of Midland, Tex., calls case ‘emotionally political in every respect.’",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GRAMAUB7UI6XHFGKTQYP3SJHE.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-10T16:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -542,6 +598,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-11-video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support.md",
+      "title": "Video Shows Johnny Damon’s DUI Arrest, Mentioning Donald Trump Support",
+      "excerpt": "Video of Johnny Damon’s arrest last month on a DUI charge in Florida has been released. The former MLB star and his wife can be seen involved in a verbal altercation with police before they are put in handcuffs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794",
+      "originalUrl": "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/10/gettyimages-1203414124.jpg",
+          "width": 1200,
+          "height": 949,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1",
+      "publishedDateTime": "2021-03-10T12:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-biden-adviser-admits-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.md",
       "title": "Biden adviser admits immigration policy 'may have driven' migrant surge, encouraged 'smugglers'",
       "excerpt": "Southern Border Coordinator Roberta Jacobson said Wednesday that it was not a “coincidence” border crossing attempts spiked after President Biden took office.",
@@ -762,6 +870,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-11-bidens-19-trillion-coronavirus-aid-bill-gets-enough-votes-to-pass-house.md",
+      "title": "Biden's $1.9 trillion coronavirus aid bill gets enough votes to pass House",
+      "excerpt": "WASHINGTON, March 10 (Reuters) - President Joe Biden’s $1.9 trillion COVID-19 relief bill secured enough votes in the U.S. House of Representatives to pass on Wednesday. The Senate has already approved the legislation. The next step will be the White ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554436201&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291I2",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B22IG",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22IG",
+      "publishedDateTime": "2021-03-10T10:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-marcia-fudge-confirmed-as-bidens-hud-secretary.md",
       "title": "Marcia Fudge confirmed as Biden's HUD secretary",
       "excerpt": "The Senate on Wednesday confirmed Marcia Fudge to be President Biden's new secretary of Housing and Urban Development (HUD).",
@@ -826,7 +986,7 @@
       "originalUrl": "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -934,7 +1094,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 505,
+      "heat": 545,
       "tags": null,
       "images": [
         {
@@ -975,6 +1135,58 @@
       "topics": [
         "Election",
         "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-she-voted-for-obama-and-died-for-trump-how-qanon-turned-ashli-babbitt-an-iraq-veteran-into-a-domestic-terrorist.md",
+      "title": "She voted for Obama and died for Trump. How QAnon turned Ashli Babbitt, an Iraq veteran, into a domestic 'terrorist.'",
+      "excerpt": "Capitol rioter Ashli Babbitt believed QAnon was \"a movement against evil in the world\" and died fighting for the Trump-condoned conspiracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ashli-babbitt-profile-capitol-riot-qanon-death-2021-3",
+      "originalUrl": "https://www.businessinsider.com/ashli-babbitt-profile-capitol-riot-qanon-death-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/603fef822dc9010018355397?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1099,7 +1311,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/mar/10/donald-trump-buddha-statue-china-taobao",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1140,214 +1352,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-biden-dogs-are-in-delaware-while-jill-biden-travels-after-major-caused-a-minor-injury.md",
-      "title": "Biden dogs are in Delaware while Jill Biden travels after Major caused a 'minor injury'",
-      "excerpt": "The statements came Tuesday after CNN reported Monday that President Joe Biden and first lady Jill Biden's two German shepherds returned to their family home in Delaware last week following \"aggressive behavior at the White House\" involving Major.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/09/biden-dogs-delaware-while-jill-biden-travels-white-house-says/4640961001/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/09/biden-dogs-delaware-while-jill-biden-travels-white-house-says/4640961001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/05/USAT/8953951b-8480-4aa9-bd02-06c6ebe10ae8-VPC_JILL_BIDEN_PSA_PUPPY_BOWL_DESK_THUMB.00_00_20_18.Still001.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4640961001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4640961001",
-      "publishedDateTime": "2021-03-10T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-fox-news-maria-bartiromo-went-all-in-on-trump-her-gamble-risks-alienating-corporate-america.md",
-      "title": "Fox News' Maria Bartiromo went all in on Trump. Her gamble risks alienating Corporate America.",
-      "excerpt": "The legendary business reporter is aiming for a coveted primetime slot as her next big career move.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fox-news-maria-bartiromo-career-gamble-to-get-on-primetime-2021-3",
-      "originalUrl": "https://www.businessinsider.com/fox-news-maria-bartiromo-career-gamble-to-get-on-primetime-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6048005cdf53f8001802a61b?width=700",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-trump-says-country-is-being-destroyed-at-border-amid-migrant-surge.md",
-      "title": "Trump says country is being ‘destroyed’ at border amid migrant surge",
-      "excerpt": "Former President Donald Trump on Tuesday said the country is being “destroyed” at the US-Mexico border as it experiences a surge in migrants. “Our country is being destroyed at the Southern",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/",
-      "originalUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/E86E2F68-40AC-4573-9256-2C761F843B35.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/",
-      "publishedDateTime": "2021-03-09T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-florida-lawsuit-against-biden-administration-says-ice-guidance-puts-americans-in-danger.md",
-      "title": "Florida lawsuit against Biden administration says ICE guidance puts Americans in danger",
-      "excerpt": "Florida’s attorney general on Tuesday filed a lawsuit to halt Immigration and Customs Enforcement (ICE) guidance that narrows the illegal immigrants prioritized for arrest and deportation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MqHpCXds8b8/florida-lawsuit-biden-administration-ice-guidance",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MqHpCXds8b8/florida-lawsuit-biden-administration-ice-guidance",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3fb25b4-be53-4871-a0e0-07f16e230641/42e8ab05-3320-490b-aeb2-4cba2e2fdb05/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp",
-      "publishedDateTime": "2021-03-09T18:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

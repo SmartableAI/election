@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Biden shows flexibility but tells House to ‘go big’ on aid"
-    excerpt: "President Joe Biden is telling House Democrats he’s not married to all the specifics of the $1.9 trillion COVID rescue plan"
-    publishedDateTime: 2021-02-03T10:22:00Z
-    webUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp"
+  - title: "Biden renews deportation relief for Syrians in the United States"
+    excerpt: "The administration of President Joe Biden on Friday extended deportation relief for several thousand Syrian immigrants living in the United States, an early move that aligns with his broader pro-immigrant platform."
+    publishedDateTime: 2021-01-29T21:13:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y28W"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y28W"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: Reuters
+      domain: reuters.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549573106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1AD"
+        width: 818
+        height: 545
+        isCached: true
+  - title: "Biden presidency 'may herald new start for Saudi-Iranian relations'"
+    excerpt: "Existing quiet cooperation has been under way for months, say authors of Guardian comment article"
+    publishedDateTime: 2021-01-31T18:31:00Z
+    webUrl: "https://www.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations"
+    ampWebUrl: "https://amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2021/jan/31/biden-presidency-spell-new-start-saudi-iranian-relations"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/6c8daf2981862a54e6d90400e66a7e634c427b33/0_161_4928_2957/master/4928.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=6f3bdbb9c12686d47a4d2c8279692812"
+        width: 600
+        height: 360
         isCached: true
   - title: "House vote unlocks partisan path for Biden coronavirus relief bill"
     excerpt: "House Democrats voted Wednesday to set the stage for party-line approval of President Biden’s $1.9 trillion coronavirus relief bill, heeding the president’s calls for swift action on his first big agenda item -- but without the bipartisan unity he promised."
@@ -63,21 +79,21 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden calls for expanded efforts to protect LGBTQ rights globally"
-    excerpt: "U.S. President Joe Biden on Thursday issued a presidential memorandum aimed at expanding protection of the rights of lesbian, gay, bisexual, transgender and queer and intersex (LGBTQI) people worldwide,"
-    publishedDateTime: 2021-02-05T09:17:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-lgbt-idUSKBN2A42KF"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A42KF"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A42KF"
+  - title: "Biden ending US support for Saudi-led offensive in Yemen"
+    excerpt: "President Joe Biden announced Thursday the United States was ending support for a grinding five-year Saudi-led military offensive in Yemen that has deepened suffering in the Arabian peninsula’s poorest country,"
+    publishedDateTime: 2021-02-04T21:17:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/ap-source-biden-picks-longtime-us-diplomat-as-yemen-envoy/2021/02/04/72854132-6704-11eb-bab8-707f8769d785_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/ap-source-biden-picks-longtime-us-diplomat-as-yemen-envoy/2021/02/04/72854132-6704-11eb-bab8-707f8769d785_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/ap-source-biden-picks-longtime-us-diplomat-as-yemen-envoy/2021/02/04/72854132-6704-11eb-bab8-707f8769d785_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550362734&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131JW"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden meets with House Democrats in push for $1.9T plan"
     excerpt: "President Joe Biden is meeting with the House Democratic committee chairs who aim to put his $1.9 trillion coronavirus relief package on a fast track to becoming law"
@@ -95,181 +111,53 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden wants fast COVID aid, but minimum wage hike in doubt"
-    excerpt: "President Joe Biden has laid out his case for moving fast and without Republicans to pass $1.9 trillion in coronavirus relief, but he is conceding that a key element of his plan — hiking the minimum w"
-    publishedDateTime: 2021-02-07T05:44:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
-    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/senate-approves-budget-bill-harris-casts-tie-breaker-75704930"
+  - title: "Politics live updates: Senate clears way for Biden's COVID relief package"
+    excerpt: "The Senate Friday set the stage for the passage – possibly by the end of this month – of a $1.9 trillion COVID stimulus package that Biden is pushing."
+    publishedDateTime: 2021-02-05T12:44:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/05/politics-live-updates-trump-impeachment-biden-covid-relief-congress/4398843001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4398843001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4398843001"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_41f95f07450c481683de09e6197e6cbc_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Big challenge: Biden is pressed to end federal death penalty"
-    excerpt: "Joe Biden is the first sitting president to openly oppose the death penalty, and officials say he’s discussed the possibility of instructing the Justice Department to stop scheduling new executions"
-    publishedDateTime: 2021-02-07T12:53:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/big-challenge-biden-is-pressed-to-end-federal-death-penalty/2021/02/07/c85cb47e-6942-11eb-a66e-e27046e9e898_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/big-challenge-biden-is-pressed-to-end-federal-death-penalty/2021/02/07/c85cb47e-6942-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/big-challenge-biden-is-pressed-to-end-federal-death-penalty/2021/02/07/c85cb47e-6942-11eb-a66e-e27046e9e898_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Big challenge: Biden is pressed to end federal death penalty"
-    excerpt: "Joe Biden is the first sitting president to openly oppose the death penalty, and officials say he's discussed the possibility of instructing the Justice Department to stop scheduling new executions"
-    publishedDateTime: 2021-02-08T01:29:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/big-challenge-biden-pressed-end-federal-death-penalty-75738371"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/big-challenge-biden-pressed-end-federal-death-penalty-75738371"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/big-challenge-biden-pressed-end-federal-death-penalty-75738371"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_228062015921441ea91dc636d8771a6a_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Biden to discuss relief package with business leaders at White House"
-    excerpt: "U.S. President Joe Biden will meet with the chief executives of JPMorgan Chase, Walmart, Gap Inc, and Lowe's Companies on Tuesday as part of his efforts to boost an economy still reeling from the coronavirus pandemic."
-    publishedDateTime: 2021-02-09T18:51:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-economy-biden-idUSKBN2A922Q"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A922Q"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A922Q"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550935723&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181OP"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Democrats clear path for approval of Biden's $1.9 trillion COVID package"
-    excerpt: "President Joe Biden and his Democratic allies in Congress forged ahead with their $1.9 trillion COVID-19 relief package on Friday as lawmakers approved a budget outline that will allow them to muscle Biden's plan through in the coming weeks without Republican support."
-    publishedDateTime: 2021-02-06T13:13:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/u-s-senate-passes-budget-plan-to-advance-bidens-1-9-trillion-covid-aid-package-idUSKBN2A514V?edition-redirect=in"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A514V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A514V"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
     quality: 124
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550527493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141NR"
-        width: 817
-        height: 545
+      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/70dde651-3135-4b05-8f81-867adb811d47-AP21035662363624.jpg?auto=webp&crop=5525,3108,x0,y85&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Column: Joe Biden had a choice: Go big or go bipartisan. He opted for big"
-    excerpt: "When Joe Biden arrived in the White House, he promised a new dawn of unity and bipartisanship. But when he began to pursue a COVID relief bill, he met with Republican senators for only about two ..."
-    publishedDateTime: 2021-02-07T11:59:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-02-07/joe-biden-had-a-choice-go-big-or-go-bipartisan-he-opted-for-big"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-02-07/joe-biden-had-a-choice-go-big-or-go-bipartisan-he-opted-for-big?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-02-07/joe-biden-had-a-choice-go-big-or-go-bipartisan-he-opted-for-big?_amp=true"
+  - title: "Fact check: Satirical post claims Biden has labeled Libertarians as terrorists"
+    excerpt: "Spike Cohen, the Libertarian nominee for VP in 2020, said in a post the administration labeled Libertarians terrorists. He said the post was satire."
+    publishedDateTime: 2021-01-27T23:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/01/27/fact-check-post-calling-libertarians-terrorists-satire/4282040001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4282040001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4282040001"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 124
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/242a909/2147483647/strip/true/crop/4762x3110+0+32/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F34%2Ff5%2F4354bb304e9d8f53a85668d80e5b%2Fbiden-99944.jpg"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Democrats clear path for approval of Biden's $1.9 trillion COVID package"
-    excerpt: "President Joe Biden and his Democratic allies in Congress forged ahead with their $1.9 trillion COVID-19 relief package on Friday as lawmakers approved a budget outline that will allow them to muscle Biden's plan through in the coming weeks without Republican support."
-    publishedDateTime: 2021-02-07T03:27:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress-idINKBN2A515Q"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2A515Q"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2A515Q"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550527493&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141NR"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "White House says Biden is committed to an independent Justice Department"
-    excerpt: "White House Press Secretary Jen Psaki said on Tuesday the decision to leave two U.S. prosecutors in their posts reflects President Joe Biden's commitment to an independent Justice Department."
-    publishedDateTime: 2021-02-09T18:42:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-doj-biden-psaki-idUSKBN2A92NQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A92NQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A92NQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210209&t=2&i=1550925382&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH181M8"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden brother’s role in Florida law firm complicates White House ethics message"
-    excerpt: "Frank Biden, the president’s younger brother, is working as a senior adviser to a Florida law firm that has sought to attract business by touting the brothers’ connection and the president’s policies."
-    publishedDateTime: 2021-02-03T11:08:00Z
-    webUrl: "https://www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/frank-biden-berman-group/2021/02/02/b1cf23a4-63f7-11eb-8c64-9595888caa15_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: USA Today
+      domain: usatoday.com
     quality: 121
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DZATX7TFVII6XOVYOB7YO2OXQU.jpg&w=1440"
-        width: 1440
-        height: 1131
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/78194cdb-50ef-403f-9498-d42deb00637f-AP_Capitol_Riot_Oklahoma_City_Bombing.jpg?auto=webp&crop=5791,3258,x0,y579&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "U.S. Senate passes budget plan to advance Biden's $1.9 trillion COVID aid package"
-    excerpt: "President Joe Biden's drive to enact a $1.9 trillion coronavirus aid bill gained momentum early on Friday as the U.S. Senate narrowly approved a budget blueprint allowing Democrats to push the legislation through Congress in coming weeks with or without Republican support."
-    publishedDateTime: 2021-02-05T15:59:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress/us-senate-passes-budget-plan-to-advance-bidens-19-trillion-covid-aid-package-idUSKBN2A514V"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A514V"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A514V"
+  - title: "UPDATE 1-Biden's U.N. nominee warns U.S. absence allows China to thrive at world body"
+    excerpt: "U.S. President Joe Biden's nominee for ambassador to the United Nations stressed on Wednesday the importance of U.S. re-engagement with the 193-member world body in order to challenge efforts by China to \"drive an authoritarian agenda\"."
+    publishedDateTime: 2021-01-27T21:03:00Z
+    webUrl: "https://www.reuters.com/article/usa-biden-un-idUSL1N2K21L4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2K21L4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2K21L4"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 120
+    quality: 118
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210205&t=2&i=1550502789&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH140MZ"
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210127&t=2&i=1549281854&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0Q16A"
         width: 817
         height: 545
-        isCached: true
-  - title: "Biden tells Democrats he's open to negotiating who can get a $1,400 stimulus check"
-    excerpt: "Calls to target a fresh wave of $1,400 stimulus checks to lower-income households are gaining steam in Congress."
-    publishedDateTime: 2021-02-03T18:32:00Z
-    webUrl: "https://www.businessinsider.com/biden-democrats-negotiating-stimulus-check-income-thresholds-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/biden-democrats-negotiating-stimulus-check-income-thresholds-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-democrats-negotiating-stimulus-check-income-thresholds-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 119
-    images:
-      - url: "https://i.insider.com/60146dfdd6c5e60019c6e03e?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "UPDATE 1-Biden says he does not expect minimum wage hike to be in COVID-19 relief bill"
     excerpt: "U.S. President Joe Biden said in an interview released on Friday he does not expect his proposal for a hike in the minimum wage to $15 an hour to be included in his $1.9 trillion COVID-19 relief bill because of Senate rules."
@@ -287,61 +175,96 @@ related:
         width: 824
         height: 545
         isCached: true
-  - title: "Politics live updates: $15 minimum wage unlikely to be in COVID relief bill, Biden says"
-    excerpt: "President Joe Biden said a proposal to raise the federal minimum wage to $15 an hour is unlikely to remain in the $1.9 trillion COVID relief package."
-    publishedDateTime: 2021-02-07T01:04:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/05/politics-live-updates-trump-impeachment-biden-covid-relief-congress/4398843001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4398843001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4398843001"
+  - title: "'Real people are hurting.' Biden says weak jobs report shows why $1.9 trillion in COVID relief is needed"
+    excerpt: "President Joe Biden pushes for $1.9 trillion in COVID relief as lackluster jobs report shows U.S. economy continues to sputter amid global pandemic."
+    publishedDateTime: 2021-02-05T23:50:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/05/biden-says-lackluster-jobs-report-reinforces-need-covid-relief/4402277001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4402277001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4402277001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 117
+    quality: 108
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/06/USAT/46ee3e15-5b2b-43ad-858b-98c90502e511-AP21036635389025.jpg?auto=webp&crop=5999,3374,x0,y161&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/9fdef51e-e789-4520-94dd-a4236d4d57cb-AP21025782104966_2.jpg?auto=webp&crop=1023,575,x1,y91&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Biden threatened Myanmar sanctions. What are his options?"
+    excerpt: "Myanmar's military checkpoint is seen on the way to the congress compound in Naypyitaw, Myanmar 1, 2021. REUTERS/Stringer"
+    publishedDateTime: 2021-02-02T22:15:00Z
+    webUrl: "https://www.reuters.com/news/picture/biden-threatened-myanmar-sanctions-what-idUSKBN2A20ES"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549938362&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH11085"
+        width: 810
+        height: 532
+        isCached: true
+  - title: "AP-NORC Poll: Americans open to Biden crisis plan"
+    excerpt: "Two weeks into a new administration, a majority of Americans say they have at least some confidence in President Joe Biden and his ability to manage the myriad crises facing the nation, including the raging coronavirus pandemic."
+    publishedDateTime: 2021-02-04T22:23:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/04/ap-norc-poll-americans-open-biden-crisis-plan/4396171001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/0c6d8cde-a671-42f2-8b99-6f08db9bee76_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Biden pushing for major immigration reforms, but another humanitarian crisis at the border could derail his agenda"
+    excerpt: "There are signs that a crisis could be brewing, from migrant caravans forming in Central America to asylum seekers protesting at the U.S. border."
+    publishedDateTime: 2021-01-29T21:00:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/immigration/2021/01/29/another-humanitarian-crisis-border-could-derail-bidens-agenda/4246680001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4246680001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4246680001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/20/PPHX/edadfce1-ffd2-493e-b34d-83d803317283-AP21020798939360.jpg?auto=webp&crop=4206,2366,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "U.S. senators look to back up Biden administration over Myanmar coup"
-    excerpt: "U.S. Senator Ben Cardin (D-MD) asks a question to Secretary of State Mike Pompeo during a Senate Foreign Relations Committee hearing in Washington, DC, U.S. July 30, 2020. Greg Nash/Pool v"
-    publishedDateTime: 2021-02-05T03:07:00Z
-    webUrl: "https://www.reuters.com/news/picture/us-senators-look-to-back-up-biden-admini-idUSKBN2A42O8"
+  - title: "Biden has a 'mandate' to deliver COVID-19 relief: White House deputy press secretary"
+    excerpt: "White House deputy press secretary Karine Jean-Pierre joined ABC News' \"Powerhouse Politics\" podcast to discuss COVID-19 relief."
+    publishedDateTime: 2021-02-04T00:48:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-mandate-deliver-covid-19-relief-white-house/story?id=75659343"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: ABC
+      domain: abcnews.go.com
+    quality: 98
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550380543&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEH131M5"
-        width: 810
-        height: 539
+      - url: "https://s.abcnews.com/images/Politics/karine-rt-er-210203_1612388213842_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Herd immunity by summer ‘difficult’: Biden"
-    excerpt: "Biden. Posted . President Joe Biden said that it will be difficult for the United States to reach herd immunity, at least 75% of"
-    publishedDateTime: 2021-02-08T01:24:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVDYNGOV3"
+  - title: "About that Bible Joe Biden used for swearing-in, it’s not related to Masons or the Illuminati despite what you may have heard"
+    excerpt: "In fact, Biden was sworn in on a Douay-Rheims Bible, an English translation of a Latin Bible. The Bible has been in the Biden family since the 1890s. He used the same Bible when he was sworn in twice as vice president and seven times as a senator from Delaware,"
+    publishedDateTime: 2021-01-30T14:04:00Z
+    webUrl: "https://www.oregonlive.com/nation/2021/01/about-that-bible-joe-biden-used-for-swearing-in-its-not-related-to-masons-or-the-illuminati-despite-what-you-may-have-heard.html"
+    ampWebUrl: "https://www.oregonlive.com/nation/2021/01/about-that-bible-joe-biden-used-for-swearing-in-its-not-related-to-masons-or-the-illuminati-despite-what-you-may-have-heard.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/nation/2021/01/about-that-bible-joe-biden-used-for-swearing-in-its-not-related-to-masons-or-the-illuminati-despite-what-you-may-have-heard.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 48
     images:
-      - url: "https://static.reuters.com/resources/r/?d=20210208&i=OVDYNGOV3&r=OVDYNGOV3&t=2"
-        width: 960
-        height: 540
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LYFX6TWEFJAZJOPWXH7G3BEO24.jpg"
+        width: 4567
+        height: 3045
         isCached: true
-  - title: "Biden budget nominee grilled from right and left at second hearing"
-    excerpt: "Neera Tanden, President Joe Biden's nominee to head the U.S. Office of Management and Budget, was skewered from both the right and left at a second confirmation hearing on Wednesday."
-    publishedDateTime: 2021-02-11T02:18:00Z
-    webUrl: "https://www.businessinsider.com/biden-budget-nominee-grilled-from-right-and-left-at-second-hearing-2021-2"
-    ampWebUrl: "https://www.businessinsider.com/biden-budget-nominee-grilled-from-right-and-left-at-second-hearing-2021-2?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-budget-nominee-grilled-from-right-and-left-at-second-hearing-2021-2?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
 
 secured: "JVPvQMOQ38BcEH01wOCnu68UOIt9iUTAWqp/BdMCtyb0K4VFFG88q+CvC6NweYwK78QgutWtwUYG365xMR+r2PcelAmJP8GBKvxw00iiOtCWFJToGVputZBNVKhdujxOyJsV70it6wlCrlhBseXPKthI7CPZbi6E+vFsYIS/iuawkN7tKDG1wsUsCM2TXk1P8A8waHKjB/MgB6/eidaQzfQFXe9/iLhVjHXztTgThRmT+ADzDHhzPkKcvo4PCCVySdM0rwhv6V254ZT5FKdEnjHUrO9T7MSz6kCrpGIF1fbcHjhdDz6XWJSd036kFcgC1nbYkHiTh+DDjuQGipRyGelMUJJ5QUKtGF/MGC38Vu0=;j+fviM7au1od1w3bhHbk3w=="
 ---

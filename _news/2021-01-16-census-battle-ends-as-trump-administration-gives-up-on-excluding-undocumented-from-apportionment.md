@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/local/social-issues/census-battle-end
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp"
 type: article
 quality: 112
-heat: 232
+heat: 192
 published: true
 
 provider:
@@ -72,38 +72,6 @@ related:
       - url: "https://i.insider.com/5fff2702a8de7700187d3a0c?width=1200&format=jpeg"
         width: 921
         height: 460
-        isCached: true
-  - title: "Donald Trump Could Pardon Rappers Lil Wayne, Kodak Black"
-    excerpt: "Lil Wayne and Kodak Black might get a pardon from Donald Trump The president is expected to announce his final pardon list on Jan. 19 Wayne and Black were charged for possession of weapons Rappers Lil Wayne and Kodak Black could soon walk away as free men since President Donald Trump could be thinking of pardoning both artists before he leaves the office on Jan."
-    publishedDateTime: 2021-01-12T05:36:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/lil-wayne.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Snapchat Permanently Bans Donald Trump For Spreading Misinformation, Inciting Violence"
-    excerpt: "Snapchat has permanently banned Donald Trump from its platform after assessing what could happen if he were to continue spreading misinformation and inciting violence online."
-    publishedDateTime: 2021-01-14T02:36:00Z
-    webUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463"
-    ampWebUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/the-cancelled-diplomatic-trips-round-off-four-tumultuous.jpg"
-        width: 1024
-        height: 677
         isCached: true
   - title: "Exclusive: Trump Admin Slams China's Huawei, Halting Shipments From Intel, Others - Sources"
     excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"

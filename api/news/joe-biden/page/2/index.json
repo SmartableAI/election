@@ -10,7 +10,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-cia-idUSKBN2AO19B",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -119,7 +119,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/biden-to-visit-storm-ravaged-texas-friday/2021/02/23/a24af50c-75fe-11eb-9489-8f7dacd51e75_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 605,
+      "heat": 665,
       "tags": null,
       "images": [
         {
@@ -171,7 +171,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/factcheck/2021/02/22/fact-check-posts-falsely-claim-biden-gave-china-control-power-grid/4523427001/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -195,58 +195,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-23-a-look-at-merrick-garland-joe-bidens-nominee-for-attorney-general.md",
-      "title": "A look at Merrick Garland, Joe Biden’s nominee for attorney general",
-      "excerpt": "Merrick Garland, President Joe Biden’s nominee for attorney general, appeared before the Senate Judiciary Committee for his confirmation hearing on Monday. Here are some key facts to know about Biden’s nominee to run the Justice Department: MOST RECENT LEGAL EXPERIENCE: 1997-Present: Judge on the United States Court of Appeals for the District of Columbia Circuit.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 345,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/pgmyCxGCHham3HQMavNFCnRGVmM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WIDFTAWVFZVCHFODXCIXZ4Q4M4.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp",
-      "publishedDateTime": "2021-02-22T15:54:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1550,7 +1498,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 325,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -1574,6 +1522,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-02-12-migrants-view-the-us-with-hope-and-caution-after-biden-scraps-muslim-ban.md",
+      "title": "Migrants view the US with hope and caution after Biden scraps 'Muslim ban'",
+      "excerpt": "The policy rejected visas for an estimated 42,000 people, and did nothing for Americans’ safety",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/11/muslim-ban-donald-trump-joe-biden-visa?utm_medium%23Echobox=1613053478",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/11/muslim-ban-donald-trump-joe-biden-visa?utm_medium%23Echobox=1613053478",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/70099cc4acb006157a97e6d350d0d59004d341eb/0_186_5568_3341/master/5568.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=2541df4e5bcf6e8d0d5a4406c778d221",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/11/muslim-ban-donald-trump-joe-biden-visa",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/11/muslim-ban-donald-trump-joe-biden-visa",
+      "publishedDateTime": "2021-02-11T09:55:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,214 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-10-biden-dogs-are-in-delaware-while-jill-biden-travels-after-major-caused-a-minor-injury.md",
+      "title": "Biden dogs are in Delaware while Jill Biden travels after Major caused a 'minor injury'",
+      "excerpt": "The statements came Tuesday after CNN reported Monday that President Joe Biden and first lady Jill Biden's two German shepherds returned to their family home in Delaware last week following \"aggressive behavior at the White House\" involving Major.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/09/biden-dogs-delaware-while-jill-biden-travels-white-house-says/4640961001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/09/biden-dogs-delaware-while-jill-biden-travels-white-house-says/4640961001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/02/05/USAT/8953951b-8480-4aa9-bd02-06c6ebe10ae8-VPC_JILL_BIDEN_PSA_PUPPY_BOWL_DESK_THUMB.00_00_20_18.Still001.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4640961001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4640961001",
+      "publishedDateTime": "2021-03-10T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-fox-news-maria-bartiromo-went-all-in-on-trump-her-gamble-risks-alienating-corporate-america.md",
+      "title": "Fox News' Maria Bartiromo went all in on Trump. Her gamble risks alienating Corporate America.",
+      "excerpt": "The legendary business reporter is aiming for a coveted primetime slot as her next big career move.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fox-news-maria-bartiromo-career-gamble-to-get-on-primetime-2021-3",
+      "originalUrl": "https://www.businessinsider.com/fox-news-maria-bartiromo-career-gamble-to-get-on-primetime-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6048005cdf53f8001802a61b?width=700",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-trump-says-country-is-being-destroyed-at-border-amid-migrant-surge.md",
+      "title": "Trump says country is being ‘destroyed’ at border amid migrant surge",
+      "excerpt": "Former President Donald Trump on Tuesday said the country is being “destroyed” at the US-Mexico border as it experiences a surge in migrants. “Our country is being destroyed at the Southern",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/",
+      "originalUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/E86E2F68-40AC-4573-9256-2C761F843B35.jpeg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/",
+      "publishedDateTime": "2021-03-09T22:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-florida-lawsuit-against-biden-administration-says-ice-guidance-puts-americans-in-danger.md",
+      "title": "Florida lawsuit against Biden administration says ICE guidance puts Americans in danger",
+      "excerpt": "Florida’s attorney general on Tuesday filed a lawsuit to halt Immigration and Customs Enforcement (ICE) guidance that narrows the illegal immigrants prioritized for arrest and deportation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MqHpCXds8b8/florida-lawsuit-biden-administration-ice-guidance",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MqHpCXds8b8/florida-lawsuit-biden-administration-ice-guidance",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3fb25b4-be53-4871-a0e0-07f16e230641/42e8ab05-3320-490b-aeb2-4cba2e2fdb05/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp",
+      "publishedDateTime": "2021-03-09T18:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-trump-requests-mail-in-ballot-ahead-of-local-florida-election-despite-baseless-fraud-claims.md",
       "title": "Trump requests mail-in ballot ahead of local Florida election despite baseless fraud claims",
       "excerpt": "Former President Donald Trump requested a mail-in ballot ahead of a local municipal election in Florida, according to Palm Beach County records, despite his frequent attacks on voting by mail.\n    \n",
@@ -275,6 +483,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-10-trumps-twitter-ban-saga-continues-the-social-platform-sues-texas-ag-claiming-retaliation-for-trump-ban.md",
+      "title": "Trump's Twitter ban saga continues: The social platform sues Texas AG, claiming retaliation for Trump ban",
+      "excerpt": "Twitter filed a lawsuit against Texas AG Ken Paxton, claiming he used his office to retaliate against it for banning former President Trump.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/tech/news/2021/03/09/twitter-sues-texas-retaliation-trump-ban/6929043002/",
+      "originalUrl": "https://www.usatoday.com/story/tech/news/2021/03/09/twitter-sues-texas-retaliation-trump-ban/6929043002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/12/09/USAT/ff3960a4-7ef7-4cb5-a03f-1763bf15f575-AP_TEXAS_AG_CRIMINAL_ACCUSATIONS.jpg?auto=webp&crop=3000,1688,x0,y44&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6929043002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6929043002",
+      "publishedDateTime": "2021-03-09T13:52:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-bible-teacher-beth-moore-trump-critic-and-advocate-for-sexual-abuse-victims-splits-with-southern-baptist-convention.md",
       "title": "Bible teacher Beth Moore, Trump critic and advocate for sexual abuse victims, splits with Southern Baptist Convention",
       "excerpt": "For nearly three decades, Beth Moore has been the very model of a modern Southern Baptist. She loves Jesus and the Bible and has dedicated her life to teaching others why they need both of them in their lives.",
@@ -437,6 +697,58 @@
       "topics": [
         "Election",
         "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-the-hills-1230-report-presented-by-johns-hopkins-university-trumps-relationship-with-gop-worsens.md",
+      "title": "The Hill's 12:30 Report - Presented by Johns Hopkins University - Trump's relationship with GOP worsens",
+      "excerpt": "To receive The Hill's 12:30 Report in your inbox, please sign up here:  --> A midday take on what's happening in politics and how to have a sense of humor about it.* *Ha. Haha. Hahah. Sniff. Haha. Sniff.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan",
+      "originalUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_9_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/1230-report/542336-the-hills-1230-report-bidens-dogs-back-in-delaware-piers-morgan-storms-off-set-over-harry-meghan?amp",
+      "publishedDateTime": "2021-03-09T09:33:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -1002,58 +1314,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-09-roy-blunts-exit-highlights-the-trump-wing-of-the-gops-big-opportunity-in-2022.md",
-      "title": "Roy Blunt’s exit highlights the Trump wing of the GOP’s big opportunity in 2022",
-      "excerpt": "Roy Blunt’s (R-Mo.) surprise retirement announcement Monday means there are now five GOP senators calling it quits ahead of the 2022 midterms. That’s fully one-fourth of all members who were up for reelection,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUPOLPDLF4I6RIZVYRID2BA6V4.jpg&w=1440",
-          "width": 1440,
-          "height": 943,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/roy-blunts-exit-highlights-trump-wing-gops-big-opportunity-2022/?outputType=amp",
-      "publishedDateTime": "2021-03-08T09:34:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-08-biden-backs-house-gun-background-check-bills-that-would-tighten-restrictions.md",
       "title": "Biden backs House gun background check bills that would tighten restrictions",
       "excerpt": "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system.",
@@ -1066,7 +1326,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 292,
+      "heat": 312,
       "tags": null,
       "images": [
         {
@@ -1107,285 +1367,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-white-house-partners-with-social-media-influencers-to-pitch-biden-policies.md",
-      "title": "White House partners with social media influencers to pitch Biden policies",
-      "excerpt": "The White House is partnering with social media influences to pitch President Biden's policies and proposals, including the American Rescue Plan, pioneering what officials are calling a \"digital media tour\" amid the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lJmh6DwrM_o/white-house-social-media-influencers-biden-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lJmh6DwrM_o/white-house-social-media-influencers-biden-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 273,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-social-media-influencers-biden-policies.amp",
-      "publishedDateTime": "2021-03-08T08:51:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-wsj-opinion-mike-pence-goes-from-hero-to-villain.md",
-      "title": "WSJ Opinion: Mike Pence Goes From Hero to Villain",
-      "excerpt": "For criticizing H.R.1 as an \"unconstitutional power grab,\" Mike Pence is accused of spreading Donald Trump’s ‘big lie.’ Images: AFP via Getty Image",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-mike-pence-goes-from-hero-to-villain/6291AD56-4420-4EBE-9AF9-E3D9B88DBE00",
-      "originalUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-mike-pence-goes-from-hero-to-villain/6291AD56-4420-4EBE-9AF9-E3D9B88DBE00",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20210308/030821opvidmainstreet/030821opvidmainstreet_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-pence-will-make-his-first-speech-since-leaving-office.md",
-      "title": "Pence will make his first speech since leaving office.",
-      "excerpt": "The former vice president left Washington on the outs with former President Donald J. Trump, and his speech next month will be scrutinized for hints of his political future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/08/us/politics/08new-was-pence-sub/08new-was-pence-sub-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/pence-speech.amp.html",
-      "publishedDateTime": "2021-03-08T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-pence-to-deliver-first-post-vp-speech-in-south-carolina-as-he-eyes-political-future.md",
-      "title": "Pence to deliver first post-VP speech in South Carolina as he eyes political future",
-      "excerpt": "Former Vice President Mike Pence will head to South Carolina next month to deliver his first public address since the end of the Trump administration.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ymVU96cKJyo/pence-first-speech-south-carolina-eyes-political-future",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ymVU96cKJyo/pence-first-speech-south-carolina-eyes-political-future",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pence-first-speech-south-carolina-eyes-political-future.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-first-speech-south-carolina-eyes-political-future.amp",
-      "publishedDateTime": "2021-03-08T07:07:03-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-the-magic-donald-trump-brought-to-republican-politics-is-not-a-mystery.md",
-      "title": "The ‘magic’ Donald Trump brought to Republican politics is not a mystery",
-      "excerpt": "Lindsey Graham (R-S.C.) painted former president Donald Trump as a sort of magical conservative chimera. That made it trickier, he suggested, for the Republican Party to leverage Trumpism without Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5Q2IST6AYI6XDC6GLSHWQVVDM.jpg&w=1440",
-          "width": 1440,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp",
-      "publishedDateTime": "2021-03-08T06:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-e
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/26/politics/joe-biden-race-america-equity/index.html"
 type: article
 quality: 175
-heat: 595
+heat: 615
 published: true
 
 provider:
@@ -318,6 +318,22 @@ related:
       - url: "https://static.politico.com/8e/7a/ccb62882443a83f09269679561fe/210130-biden-getty-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Live Updates: Biden Sets High Expectations for an American Recovery"
+    excerpt: "Mr. Biden’s speech on Thursday night offered a tantalizing promise of seeing friends and family for July 4, but his plan depends on a successful rollout of the relief package and on members of the public getting the vaccine as soon as it is offered to them."
+    publishedDateTime: 2021-03-12T08:29:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/12/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/12/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/12/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/12/us/politics/12new-washington-briefing-memo/12new-washington-briefing-memo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
   - title: "Biden wants to unite America. Republicans have a different idea of what that means."
     excerpt: "WASHINGTON — When President Joe Biden seeks to fulfill his urgent plea for unity, he will confront a dissonance between the two parties' definitions of the word and is likely to be forced to ..."

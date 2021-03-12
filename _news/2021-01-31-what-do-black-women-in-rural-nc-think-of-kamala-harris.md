@@ -1232,6 +1232,20 @@ related:
         width: 450
         height: 299
         isCached: true
+  - title: "Biden, Harris, Blinken meet with members of the Quad from the White House"
+    excerpt: "Vice President Kamala Harris and President Joe Biden (not shown) meet virtually with the 'Quad,' Prime Minister Narendra Modi of India, Prime Minister Scott Morrison of Australia, and Prime Minister Yoshihide Suga of Japan,"
+    publishedDateTime: 2021-03-12T14:44:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ea7634d0a7721151b912959df8e2198a/Biden-Harris-Blinken-meet-with-members-of-the-Quad-from-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 69
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/ea7634d0a7721151b912959df8e2198a/BIDEN-HARRIS-QUAD.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Q&A: Nichelle Nichols' pride in her sorority extends to Vice President Kamala Harris"
     excerpt: "Nichols first joined Alpha Kappa Alpha as an undergraduate at Morgan State University and is now the president of its local graduate, or alumni, chapter."
     publishedDateTime: 2021-01-31T12:30:00Z

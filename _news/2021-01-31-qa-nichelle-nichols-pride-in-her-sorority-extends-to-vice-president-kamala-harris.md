@@ -1236,6 +1236,20 @@ related:
         width: 450
         height: 299
         isCached: true
+  - title: "Biden, Harris, Blinken meet with members of the Quad from the White House"
+    excerpt: "Vice President Kamala Harris and President Joe Biden (not shown) meet virtually with the 'Quad,' Prime Minister Narendra Modi of India, Prime Minister Scott Morrison of Australia, and Prime Minister Yoshihide Suga of Japan,"
+    publishedDateTime: 2021-03-12T14:44:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/ea7634d0a7721151b912959df8e2198a/Biden-Harris-Blinken-meet-with-members-of-the-Quad-from-the-White-House/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 69
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/ea7634d0a7721151b912959df8e2198a/BIDEN-HARRIS-QUAD.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "U.S. Senate OKs fast-tracking coronavirus aid; Kamala Harris casts tie-breaking vote"
     excerpt: "The Senate early Friday approved a measure that would let Democrats muscle President Joe Biden’s $1.9 trillion coronavirus relief plan through the chamber without Republican support. Vice President Kamala Harris was in the chai."
     publishedDateTime: 2021-02-05T14:32:00Z

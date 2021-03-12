@@ -2,6 +2,224 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-06-lincoln-projection-former-adviser-to-disgraced-anti-trump-pac-calls-gop-the-ultimate-grift.md",
+      "title": "Lincoln Projection: Former adviser to disgraced anti-Trump PAC calls GOP 'the ultimate grift'",
+      "excerpt": "Former Lincoln Project senior adviser Kurt Bardella appears to have no issue with throwing stones from glass houses, as he recently accused the Republican Party of becoming the \"ultimate grift.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift",
+      "originalUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1f9656d-7cba-4559-9dd2-a36443ecfd8d/7f4818ba-b646-453c-b190-fe2a5be20568/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/lincoln-project-kurt-bardella-ulimate-grift.amp",
+      "publishedDateTime": "2021-03-05T19:05:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-fbi-finds-contact-between-proud-boys-member-and-trump-associate-before-riot.md",
+      "title": "F.B.I. Finds Contact Between Proud Boys Member and Trump Associate Before Riot",
+      "excerpt": "A leader of the far-right group separately said he had been in touch with Roger Stone, but an official said it was not the same contact investigators found through electronic communications records.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 151,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/05/us/politics/05dc-investigate1/05dc-investigate1-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.amp.html",
+      "publishedDateTime": "2021-03-05T16:44:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-rep-eric-swalwell-sues-trump-over-jan-6-riot-alleging-he-poses-risk-of-inciting-future-political-violence.md",
+      "title": "Rep. Eric Swalwell sues Trump over Jan. 6 riot, alleging he poses risk of ‘inciting future political violence’",
+      "excerpt": "California representative, a House impeachment manager and Democratic leader, files suit against Trump, Trump Jr., Giuliani and Rep. Mo Brooks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6E3Y7SRBYI6XPNEMFNK57IFKU.jpg&w=1440",
+          "width": 1440,
+          "height": 1853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-05T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-fbi-arrests-trump-appointee-federico-klein-in-connection-with-capitol-riot.md",
+      "title": "FBI arrests Trump appointee Federico Klein in connection with Capitol riot",
+      "excerpt": "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003",
+      "originalUrl": "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003",
+      "publishedDateTime": "2021-03-05T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-newsom-recall-timing-is-everything-caleg-passes-schools-bill-high-school-sports-can-resume-youtube-eyes-trump-return.md",
       "title": "NEWSOM RECALL: Timing is everything — CALEG passes SCHOOLS bill — HIGH SCHOOL SPORTS can resume — YOUTUBE eyes TRUMP return",
       "excerpt": "Nearly a year after California schools closed their doors to in-person instruction, lawmakers moved on Thursday to get kids back to class by March. However lawmakers chose to vote on the school reopening bill,",
@@ -59,21 +277,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-05-tiny-group-of-qanon-supporters-spotted-in-dc-awaiting-trump-inauguration.md",
-      "title": "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration",
-      "excerpt": "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4.",
+      "path": "_news/2021-03-05-georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills.md",
+      "title": "Georgia GOP leaders who stood up to Trump back voting bills",
+      "excerpt": "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud",
       "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
-      "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
+      "webUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 303,
+      "heat": 225,
       "tags": null,
       "images": [
         {
-          "url": "https://d.newsweek.com/en/full/1750168/q.jpg",
-          "width": 2500,
-          "height": 1667,
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -81,16 +299,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
-      "publishedDateTime": "2021-03-05T04:35:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-05T02:21:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -215,6 +433,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-05-at-the-capitol-a-march-4-threat-from-militant-trump-supporters-proves-a-mirage.md",
+      "title": "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage",
+      "excerpt": "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/",
+      "originalUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp",
+      "publishedDateTime": "2021-03-04T18:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-youtube-will-lift-ban-on-trump-channel-when-risk-of-violence-decreases-ceo.md",
       "title": "YouTube will lift ban on Trump channel when risk of violence decreases: CEO",
       "excerpt": "Alphabet Inc's YouTube will lift its suspension on former U.S. President Donald Trump's channel when it determines the risk of real-world violence has decreased, the company's CEO, Susan Wojcicki, said on Thursday.",
@@ -267,6 +537,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-05-qanon-shaman-still-feels-sympathy-for-former-president-donald-trump.md",
+      "title": "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump",
+      "excerpt": "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
+      "originalUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-another-trump-on-the-ballot-lara-trump-eyes-north-carolina-senate-seat.md",
       "title": "Another Trump on the ballot? Lara Trump eyes North Carolina Senate seat",
       "excerpt": "A Trump may be on the ballot next year — but not Donald Trump. The former president’ Lara Trump, is eyeing the North Carolina Senate seat being vacated by Republican Richard Burr. While many in the state are skeptical she will move forward,",
@@ -275,7 +597,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-lara-trump-north-carolina-senate-20210304-guyqxakcjzh4fcg2zx2s3m45ja-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1251,324 +1573,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-trump-thinks-hes-a-god-cpac-packed-with-cult-followers-michael-cohen-says.md",
-      "title": "Trump 'Thinks He's a God,' CPAC Packed With Cult Followers, Michael Cohen Says",
-      "excerpt": "Organizers installed a golden statue of Trump, whose behavior Cohen described as \"sociopathic,\" at the conservative event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576",
-      "originalUrl": "https://www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1744731/michael-cohen-attorney-donald-trump.jpg",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576?amp=1",
-      "publishedDateTime": "2021-02-27T06:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-jake-tapper-says-joe-biden-is-like-donald-trump-on-saudi-prince-save-mbs-ass.md",
-      "title": "Jake Tapper Says Joe Biden Is Like Donald Trump on Saudi Prince: 'Save MBS' Ass'",
-      "excerpt": "CNN's Jake Tapper compared President Joe Biden to former President Donald Trump on Friday following the administration's decision not to sanction Saudi. A U.S. intelligence report published on Friday concluded that bin Salman,",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561",
-      "originalUrl": "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 525,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1744714/saudi-arabias-crown-prince-mohammed-bin-salman.jpg",
-          "width": 2500,
-          "height": 1658,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561?amp=1",
-      "publishedDateTime": "2021-02-27T00:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-trump-loyalists-spurn-failed-republican-establishment-of-yesteryear.md",
-      "title": "Trump Loyalists Spurn ‘Failed Republican Establishment of Yesteryear’",
-      "excerpt": "At an annual gathering of conservatives, devotees of Donald J. Trump pledged their fealty to him and issued grave warnings about the political left.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.html",
-      "originalUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/02/26/us/politics/26cpac-repubs1/26cpac-repubs1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/02/26/us/politics/trump-cpac-conservatices-cruz.amp.html",
-      "publishedDateTime": "2021-02-26T17:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-donald-trump-jr-suggests-rino-policies-part-of-what-led-to-trump-presidency.md",
-      "title": "Donald Trump Jr. Suggests 'RINO Policies' Part of What Led to Trump Presidency",
-      "excerpt": "The former president's son delivered his remarks at CPAC during a scheduled \"Reigniting the Spirit of the American Dream\" speech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/donald-trump-jr-suggests-rino-policies-part-what-led-trump-presidency-1572518",
-      "originalUrl": "https://www.newsweek.com/donald-trump-jr-suggests-rino-policies-part-what-led-trump-presidency-1572518",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1744585/donald-trump-jr-cpac.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-suggests-rino-policies-part-what-led-trump-presidency-1572518?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-suggests-rino-policies-part-what-led-trump-presidency-1572518?amp=1",
-      "publishedDateTime": "2021-02-26T13:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-donald-trump-jr-attacks-cheney-at-cpac-lincoln-project-liz.md",
-      "title": "Donald Trump Jr. attacks Cheney at CPAC: 'Lincoln Project Liz'",
-      "excerpt": "Former President Trump ’s eldest son mocked Cheney as \"Lincoln Project Liz,\" referring to the anti-Trump GOP group, after was one of the House Republicans voted to impeach his father on a charge of inciting the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/540761-donald-trump-jr-attacks-cheney-at-cpac-lincoln-project-liz",
-      "originalUrl": "https://thehill.com/homenews/campaign/540761-donald-trump-jr-attacks-cheney-at-cpac-lincoln-project-liz",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonaldjr_02262021getty.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/540761-donald-trump-jr-attacks-cheney-at-cpac-lincoln-project-liz?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/540761-donald-trump-jr-attacks-cheney-at-cpac-lincoln-project-liz?amp",
-      "publishedDateTime": "2021-02-26T13:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-27-liberal-privilege-donald-trump-jr-criticizes-bruce-springsteen-dwi-charge-dismissal.md",
-      "title": "'Liberal privilege': Donald Trump Jr. criticizes Bruce Springsteen DWI charge dismissal",
-      "excerpt": "Donald Trump Jr., who had an alcohol related charge against him dismissed, rails against Bruce Springsteen's DWI dismissal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/2021/02/26/donald-trump-jr-says-bruce-springsteens-dwi-dismissal-privilege/6834089002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/2021/02/26/donald-trump-jr-says-bruce-springsteens-dwi-dismissal-privilege/6834089002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/25/PAPP/58002f0e-27f7-4ae9-8050-a62dd39d801d-TrumpBoss.jpeg?auto=webp&crop=623,350,x29,y2&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6834089002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6834089002",
-      "publishedDateTime": "2021-02-26T10:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

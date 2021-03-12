@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/index.html"
 type: article
 quality: 188
-heat: 508
+heat: 528
 published: true
 
 provider:
@@ -285,7 +285,21 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Trump dives into battle for Senate"
+    excerpt: "Donald Trump sounds like he’s ready for a GOP civil war. But he’s also eager to play a leading role in Senate Republicans' battle for the majority. The former president is dialing up GOP senators to back their campaigns and talk strategy, weighing how ..."
+    publishedDateTime: 2021-03-12T09:30:00Z
+    webUrl: "https://www.politico.com/news/2021/03/12/trump-senate-gop-475423"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ee/48/91b116ee427d9fffb570fa005647/210311-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
-secured: "TyR8gaM2Y6TuLtzym0ab4zh0qVFgsL7gc57yDIbUneZFOB6wIRswoyZf2a4ZYKiaBwKwNm75vEjGFStQlMay1c5P6DMXayqhnV6Ho2FnjZKKypIlxp9ld1tmq1oDGi2prulRepXt0CL75Y4qiSPx2D7NJVFgp56nfx47xlQ6DqtyPkudFvTGHNxbUdguZ91GDhpbDOtDfklI+GGTj568C8G+fdFFNPTv8XLQIq1hRgW1PaxbTqIRsaT+3WVNR17OU1Ml9ytlUxGkEEK4uOtB3lnJnzKMuSQV328tUicAytjLG92HzM9y/0PJgVyTxDufPpJ3NyFrTxNEix2REIH2c9zwqCEvN6ivLHnXjMvTR6w=;QGeYJjxWGvRFdf90VLuKLw=="
+secured: "GpY8nx4MWtoYWuhXW2bi9reUrJpqsP697Tn3fL33mxIW3Tc7RPLzW2fEgmDo5bGEwGVsh5G2rfEa6STfh5lUKZAg1nqLc8TMLLcvTJVnoQ/UB5Ldf1BrQjixs0B2oXycRtuw5j5auoZaVRFYKyMfuHqOQ2Ko942Z6Nd7Xxmplw5NQ5bT1uP5PEPkJPPfZaSTYibEEhIuTQyC5bom+mBvdpaqeuL8kpPRw76qPXPllaOthV+RzGREFEjPXuTBd8cOLWFFscE6j6lmjCH9t/C57zYc+mt69RymvTan2P7b5sWd9kzrTev/5p3Gt0d3VcrfbnfrcqFCD5qU4B7m10WnfqGUUyRHSg2bS9iTaDr7zWc=;xJIZODhluc1WBfF2Bj+3aA=="
 ---
 

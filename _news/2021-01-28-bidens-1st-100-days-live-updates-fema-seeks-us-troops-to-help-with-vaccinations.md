@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-pres
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
 type: article
 quality: 120
-heat: 220
+heat: 240
 published: true
 
 provider:
@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Watch Live: Biden signs executive actions on abortion policy, health care access"
-    excerpt: "Mr. Biden has vowed to protect and expand the Affordable Care Act, which was enacted while he was vice president."
-    publishedDateTime: 2021-01-28T14:17:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
+  - title: "Biden's 1st 100 days live updates: McConnell doubles down against relief proposal"
+    excerpt: "Live updates of Judge Merrick Garland's confirmation hearing to be attorney general before the Senate Judiciary Committee."
+    publishedDateTime: 2021-02-24T00:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 120
     images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/28/c6da5626-65f4-4274-ad76-480ed47da6ab/thumbnail/1200x630/5a5d95df2539d794cb0850404e613ac3/gettyimages-1230821605.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell-rtr-jc-210223_1614113010604_hpMain_2_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan"
     excerpt: "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day."
@@ -76,6 +76,22 @@ related:
     quality: 107
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/160636ec-103f-4a30-be2a-36cf75be6185-AP_Biden.jpg?auto=webp&crop=4876,2743,x1,y58&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Coronavirus updates: Single-dose vaccine from Johnson & Johnson could be 'game changer'; Biden to require masks on planes"
+    excerpt: "A COVID vaccine being developed by New Jersey-based Johnson & Johnson could dramatically speed up the fight against the pandemic. Latest COVID news."
+    publishedDateTime: 2021-01-21T18:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/01/21/covid-news-vaccine-shortages-us-response-joe-biden-california/4237433001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4237433001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4237433001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 100
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/a6d17a2c-5ef4-4acf-87f9-b26f62b41bc4-AP21020686218912.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

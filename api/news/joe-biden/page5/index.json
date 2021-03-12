@@ -2,63 +2,6 @@
   "page": 5,
   "value": [
     {
-      "path": "_news/2021-01-20-do-latino-voters-think-joe-biden-can-unite-the-country.md",
-      "title": "Do Latino voters think Joe Biden can unite the country?",
-      "excerpt": "\"It's going to be hard, because there's still going to be people that think the election was a fraud,\" said Yumaira Saavedra of Pennsylvania.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
-      "originalUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.s-nbcnews.com/i/newscms/2021_03/3443384/210119-washington-capitol-inauguration-prep-2x1-ac-1055p_febc111051f1ce6e390fc8d524eb2182.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254800",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254800",
-      "publishedDateTime": "2021-01-20T03:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
       "path": "_news/2021-01-20-explainer-election-claims-and-why-its-clear-biden-won.md",
       "title": "EXPLAINER: Election claims, and why it's clear Biden won",
       "excerpt": "As Democrat Joe Biden is sworn in Wednesday as the nation’s 46th president, Donald Trump’s most ardent supporters still believe Biden was not legitimately elected after Trump continues to argue the election was stolen.",
@@ -67,7 +10,7 @@
       "originalUrl": "https://www.businessinsider.com/explainer-election-claims-and-why-its-clear-biden-won-2021-1",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 180,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -359,6 +302,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-18-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus.md",
+      "title": "Guatemalan forces clash with migrant caravan, Biden team seeks to halt exodus",
+      "excerpt": "Guatemalan security forces on Sunday used sticks and tear gas to beat back a large migrant caravan bound for the United States, just days before the advent of a new U.S. administration, which urged travelers to abandon the journey.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7",
+      "originalUrl": "https://www.reuters.com/article/usa-immigration-caravan/update-4-guatemalan-forces-clash-with-migrant-caravan-biden-team-seeks-to-halt-exodus-idUSL1N2JS0D7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548111937&r=LYNXMPEH0G0AL&w=800",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-17T23:40:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-18-biden-transition-official-tells-migrant-caravans-now-is-not-the-time-to-come-to-us.md",
       "title": "Biden transition official tells migrant caravans: 'Now is not the time' to come to US",
       "excerpt": "An unnamed Biden transition official told NBC News that migrants hoping to claim asylum in the U.S. during the first few weeks of the new administration \"need to understand they're not going to be able to come into the United States immediately.",
@@ -529,7 +524,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/gen-milley-key-to-military-continuity-as-biden-takes-office/2021/01/17/77d78818-58c0-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -685,7 +680,7 @@
       "originalUrl": "https://abcnews.go.com/Technology/wireStory/biden-science-forefront-administration-75295060",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 285,
       "tags": null,
       "images": [
         {
@@ -781,6 +776,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-15-biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus.md",
+      "title": "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus",
+      "excerpt": "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-15T04:37:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-joe-biden-unveils-19tn-us-economic-relief-package.md",
       "title": "Joe Biden unveils $1.9tn US economic relief package",
       "excerpt": "President-elect Joe Biden has unveiled a $1.9tn (£1.4tn) stimulus plan for the coronavirus-sapped US economy before he takes office next week. If passed by Congress, it would include $1tn for households,",
@@ -789,7 +836,7 @@
       "originalUrl": "https://www.bbc.com/news/world-us-canada-55670801",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -813,58 +860,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-15-biden-presents-covid-stimulus-plan-as-impeachment-focus-shifts-to-senate-live.md",
-      "title": "Biden presents Covid stimulus plan as impeachment focus shifts to Senate – live",
-      "excerpt": "Trump’s impeachment in the House triggers a trial in the Senate, which McConnell says can’t begin until Senate is back in session",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates?page=with:block-6000df8f8f08729f182882f9",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates?page=with:block-6000df8f8f08729f182882f9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/c0dee479687381d44e419a1f6510e6917982340d/0_132_5025_3016/master/5025.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f0f6788661719294a94a3a81f05a35f9",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/14/donald-trump-impeachment-congress-senate-joe-biden-mitch-mcconnell-coronavirus-covid-live-updates",
-      "publishedDateTime": "2021-01-14T16:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -937,58 +932,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-13-chicago-man-who-threatened-to-kill-democrats-prevent-biden-from-entering-white-house-arrested.md",
-      "title": "Chicago Man Who Threatened to 'Kill' Democrats, Prevent Biden From Entering White House Arrested",
-      "excerpt": "Louis Capriotti, a 45-year-old man from Chicago, made the alleged threats in a voicemail to a representative from New Jersey.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
-      "originalUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1704833/joe-biden-louis-capriotti-threat-inauguration.jpg",
-          "width": 2500,
-          "height": 1695,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/chicago-man-who-threatened-kill-democrats-prevent-biden-entering-white-house-arrested-1560958?amp=1",
-      "publishedDateTime": "2021-01-12T12:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
       "path": "_news/2021-01-12-biden-chooses-veteran-diplomat-william-burns-as-his-cia-director.md",
       "title": "Biden chooses veteran diplomat William Burns as his CIA director",
       "excerpt": "William Burns, chosen by Biden to head the CIA, built a 33-year career at the State Department under both Republican and Democratic presidents.",
@@ -997,7 +940,7 @@
       "originalUrl": "https://www.latimes.com/world-nation/story/2021-01-11/biden-chooses-veteran-diplomat-william-burns-cia-director",
       "featuredContent": null,
       "highlight": null,
-      "heat": 385,
+      "heat": 245,
       "tags": null,
       "images": [
         {
@@ -1041,21 +984,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-coronavirus-updates-biden-receives-2nd-dose-of-vaccine-members-of-congress-exposed-to-virus-during-riot-lockdown-chicago-schools-reopen.md",
-      "title": "Coronavirus updates: Biden receives 2nd dose of vaccine; members of Congress exposed to virus during riot lockdown; Chicago schools reopen",
-      "excerpt": "Chicago Public Schools open for first time since March 2020. Tennessee Rep. Chuck Fleischmann has virus after Capitol riot lockdown. Latest news.",
+      "path": "_news/2021-01-11-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification.md",
+      "title": "Marriott, BlueCross suspend donations to U.S. lawmakers who voted against Biden certification",
+      "excerpt": "Marriott International Inc, the world's largest hotel company, and the Blue Cross Blue Shield Association (BCBSA) said Sunday they will suspend donations to U.S. lawmakers who voted last week against certifying President-elect Joe Biden's victory.",
       "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/health/2021/01/11/covid-news-25-k-deaths-new-years-day-chicago-schools/6609727002/",
-      "originalUrl": "https://www.usatoday.com/story/news/health/2021/01/11/covid-news-25-k-deaths-new-years-day-chicago-schools/6609727002/",
+      "webUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
+      "originalUrl": "https://www.reuters.com/article/usa-election-corporate/update-3-marriott-bluecross-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification-idUSL1N2JL0EQ",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 94,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gannett-cdn.com/presto/2021/01/11/USAT/eb35fcc2-717a-40b5-ace5-c3aa4dfb2d5b-AP21010756102464.jpg?auto=webp&crop=3743,2106,x0,y190&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800",
+          "width": 800,
+          "height": 534,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1063,16 +1006,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6609727002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6609727002",
-      "publishedDateTime": "2021-01-11T12:05:00-08:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T04:45:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1093,21 +1036,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-12-joe-bidens-inauguration-theme-america-united.md",
-      "title": "Joe Biden’s inauguration theme: ‘America United’",
-      "excerpt": "WASHINGTON (AP) — The theme for President-elect Joe Biden’s inauguration will be “America United,” an issue that’s long been a central focus for Biden but one that’s taken on added weight in the wake of the violence at the U.",
+      "path": "_news/2021-01-11-israel-announces-new-settlements-risking-bidens-anger.md",
+      "title": "Israel announces new settlements, risking Biden's anger",
+      "excerpt": "Israel has advanced plans to build 800 new settler homes in the occupied West Bank, a move that could strain ties with the incoming administration of President-elect Joe Biden",
       "sourceUrl": null,
-      "webUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html",
-      "originalUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html",
+      "webUrl": "https://abcnews.go.com/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908",
+      "originalUrl": "https://abcnews.go.com/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 385,
       "tags": null,
       "images": [
         {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/2NAB5FK6RFAK3B53DG7COL2DXE.jpg",
-          "width": 1024,
-          "height": 683,
+          "url": "https://s.abcnews.com/images/International/WireAP_6da97118452742cfaa37ee04ef0f095a_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1115,59 +1058,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/joe-bidens-inauguration-theme-america-united.html?outputType=amp",
-      "publishedDateTime": "2021-01-11T08:15:00-08:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/israel-announces-settlements-risking-bidens-anger-75172908",
+      "publishedDateTime": "2021-01-11T04:02:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Cleveland.com",
-        "domain": "cleveland.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-marriott-will-suspend-donations-to-us-lawmakers-who-voted-against-biden-certification.md",
-      "title": "Marriott will suspend donations to U.S. lawmakers who voted against Biden certification",
-      "excerpt": "Marriott International Inc, the world's largest hotel company, confirmed Sunday it will suspend donations to U.S. lawmakers who voted against certifying President-elect Joe Biden's victory last week.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/BigStory12/idUSKBN29F0L4",
-      "originalUrl": "https://www.reuters.com/article/BigStory12/idUSKBN29F0L4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.reuters.com/resources/r/?m=02&d=20210110&t=2&i=1547294520&r=LYNXMPEH090FT&w=800",
-          "width": 800,
-          "height": 534,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-01-10T16:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
+        "name": "ABC",
+        "domain": "abcnews.go.com",
         "images": [
           {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1196,7 +1096,7 @@
       "originalUrl": "https://www.newsweek.com/biden-calls-2k-stimulus-checks-post-georgia-runoffs-least-one-democrat-opposes-1560266",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -1248,7 +1148,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/ap-interview-libyan-minister-hopes-for-support-from-biden/2021/01/08/49e439b8-5237-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1344,6 +1244,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-09-biden-says-impeachment-is-a-decision-for-the-congress-to-make.md",
+      "title": "Biden says impeachment is a \"decision for the Congress to make\"",
+      "excerpt": "\"That's a decision for the Congress to make. I'm focused on my job,\" Mr. Biden said. He added that he will be speaking with House Speaker Nancy Pelosi and Democratic leaders later in the day. \"I'll be speaking with Nancy and the Democratic leadership this afternoon,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/",
+      "originalUrl": "https://www.cbsnews.com/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 245,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/08/c0c90046-ffb5-45a8-a51f-d670fc0eeb7c/thumbnail/1200x630/a0c851de0a2943d38f86c19b6654b7d7/rtx8l5m8.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-says-impeachment-is-a-judgment-for-the-congress-to-make/",
+      "publishedDateTime": "2021-01-08T15:54:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-biden-picks-california-official-isabel-guzman-to-head-sba.md",
       "title": "Biden Picks California Official Isabel Guzman to Head SBA",
       "excerpt": "President-elect Joe Biden announced Thursday that he picked California official Isabel Guzman to lead the Small Business Administration.",
@@ -1396,6 +1348,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-08-double-standard-biden-black-lawmakers-and-activists-decry-police-response-to-attack-on-us-capitol.md",
+      "title": "'Double standard': Biden, Black lawmakers and activists decry police response to attack on US Capitol",
+      "excerpt": "Civil rights leaders blasted police for their response to an attack on the U.S. Capitol compared to clashes between Black Lives protesters and police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2021/01/06/us-capitol-attack-compared-response-black-lives-matter-protests/6570528002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/01/06/us-capitol-attack-compared-response-black-lives-matter-protests/6570528002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/30/PDTF/e5dbb82d-76b3-405a-803b-293b966f51bc-05292020_detprotest_jh-36.jpg?auto=webp&crop=2399,1350,x0,y122&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6570528002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6570528002",
+      "publishedDateTime": "2021-01-07T17:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-biden-picks-rhode-island-gov-raimondo-as-commerce-secretary.md",
       "title": "Biden picks Rhode Island Gov. Raimondo as commerce secretary",
       "excerpt": "President-elect Joe Biden has picked Rhode Island Gov. Gina Raimondo to lead the Commerce Department, helping set trade policy and looking to promote U.S. opportunities for growth domestically and ove",
@@ -1404,7 +1408,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 305,
       "tags": null,
       "images": [
         {

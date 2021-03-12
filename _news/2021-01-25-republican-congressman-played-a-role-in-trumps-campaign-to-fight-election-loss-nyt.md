@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29T0FS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29T0FS"
 type: article
 quality: 133
-heat: 873
+heat: 893
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Business/WireAP_1ad850f0ef8142389a126a58050fcfca_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Arizona Republicans reelect fervent Trump ally as chair"
+    excerpt: "Arizona Republicans on Saturday reelected Kelli Ward as party chair, giving a second term to one of Donald Trump’s most unflinching supporters even after the GOP lost ground in the state last year"
+    publishedDateTime: 2021-01-23T23:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Nightline/210123_ntl_politics_1239_hpMain_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

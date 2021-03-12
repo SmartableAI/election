@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Former Pentagon chief blames Trump's speech for inciting Capitol attack – live"
+    excerpt: "Joanna Walters In an astonishing piece of attempted backside-covering, former acting defense secretary under the outgoing Donald Trump, Chris Miller, tried to explain in an interview with Vice that the delay in National Guard troops deploying to the US ..."
+    publishedDateTime: 2021-03-11T22:20:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a773a8f0849a7378fd13c"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/8b5dcaa3b92d55402971cb623e14c3f5cc5b2909/0_117_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f196b8e175ba7b8b3d244dfd60742b19"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "M0TA81ZRJdO9Q6lgGoqKZvDnLsel6wTbpOTwvD+qe9fZzynZoEYX+LXv/Vt4GHxOJyijwKekTnJXXVqyyCG71rWb6RZKK3fVoWuOvuy3vjGkN9XumbnoHe2UpnkkGsG+i2cFnbI8vBuCBAGJj4V5ti2KvcmM04LIC/Vsh/cW3z8nb1e5dDc+4OOL4onXQRCaiLw07CwxICPt9RnZnkwU+2KBxZNEVxaVphmOtyrgx74SOiF5Q/1XvXON+Qavl1B7X27GKdRdmDQBXoBy95tMXtR+vSsJHMO5GU+WV7+VCMkoYR7bnUs70SqVuxdLXRrpG3NoJXgBIhOK3Rz+I2nONnH9aVcZb5Aj9lisg8LyaVc=;Ib0iqss/sb6OgnRqCHflhg=="
 ---

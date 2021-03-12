@@ -2,6 +2,277 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-01-12-inside-the-remarkable-rift-between-donald-trump-and-mike-pence.md",
+      "title": "Inside the remarkable rift between Donald Trump and Mike Pence",
+      "excerpt": "The rupture between the president and his No. 2 is a startling capstone to a relationship long defined by Pence’s loyalty and subservience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 6130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XNR7QFCRFQI6XA7DGITEJWBDKY.jpg&w=1440",
+          "width": 1440,
+          "height": 1004,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-pence-breakuo-capitol-riot/2021/01/11/6a6aa052-5357-11eb-89bc-7f51ceb6bd57_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-12T02:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-is-fake-report.md",
+      "title": "Barack Obama Alleged 'Tweet' Mocking Donald Trump's Twitter Ban Is Fake: Report",
+      "excerpt": "A tweet allegedly made by former President Barack Obama that pokes fun at the permanent suspension of President Donald Trump's Twitter account is circulating on social media. However, reports confirme",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646",
+      "originalUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/10/exactly-four-years-ago-us-president-barack-obama.jpg",
+          "width": 1024,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646?amp=1",
+      "publishedDateTime": "2021-01-12T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-former-white-house-spokesman-hogan-gidley-says-trump-is-the-most-masculine-president-in-us-history.md",
+      "title": "Former White House spokesman Hogan Gidley says Trump is the 'most masculine' president in US history",
+      "excerpt": "This came after Fox News host Bill Hemmer asked Gidley if Trump felt \"emasculated\" by the recent \"social media crackdown.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1",
+      "originalUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/5ffcc49fbde805001980c448?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-aide-says-president-is-the-most-masculine-in-us-history-2021-1?amp",
+      "publishedDateTime": "2021-01-11T14:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-newsom-california-assembly-support-trump-removal-from-office.md",
+      "title": "Newsom, California Assembly support Trump removal from office",
+      "excerpt": "Mayes said this week that his former party must be held to account for its leader's direct role in the insurrection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/states/california/story/2021/01/11/newsom-california-assembly-support-trump-removal-from-office-1355062",
+      "originalUrl": "https://www.politico.com/states/california/story/2021/01/11/newsom-california-assembly-support-trump-removal-from-office-1355062",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/8f/18/8ce266a0448dbab810fd61562c7a/210111-chad-mayes-ap-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-01-11T14:32:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-does-trump-face-legal-jeopardy-for-his-incendiary-speech-before-the-riot.md",
+      "title": "Does Trump Face Legal Jeopardy for His Incendiary Speech Before the Riot?",
+      "excerpt": "The president’s actions just before his supporters’ deadly rampage at the Capitol has created new risks for him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.html",
+      "originalUrl": "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/01/11/us/politics/11dc-legal-explainer/11dc-legal-explainer-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/11/us/politics/donald-trump-crime.amp.html",
+      "publishedDateTime": "2021-01-11T14:07:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-11-mcgovern-im-concerned-hell-do-something-crazy-capitol-mob-fallout-trump-to-give-belichick-medal-of-freedom.md",
       "title": "MCGOVERN: I’m concerned ‘he’ll DO SOMETHING CRAZY’ — CAPITOL MOB FALLOUT — TRUMP to give BELICHICK Medal of Freedom",
       "excerpt": "Rep. Jim McGovern, chair of the House Rules Committee, will have a key role when the House begins impeachment proceedings against President Donald Trump, which will likely happen this week. I spoke with McGovern on Sunday about his experience when the mob stormed the Capitol last week,",
@@ -143,6 +414,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-11-resign-and-go-away-second-gop-senator-urges-trump-to-step-down.md",
+      "title": "‘Resign and go away.’ Second GOP senator urges Trump to step down",
+      "excerpt": "Sen. Pat Toomey of Pennsylvania on Sunday joined Alaska Sen. Lisa Murkowski in calling for Trump to 'resign and go away as soon as possible.'",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign",
+      "originalUrl": "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/9cee817/2147483647/strip/true/crop/689x450+56+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F62%2F8b1efa963432a7735fcbbb085fb6%2Fla-es-trump-culpa-a-la-caza-de-brujas-por-su-p-001",
+          "width": 320,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign?_amp=true",
+      "publishedDateTime": "2021-01-10T14:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -310,58 +633,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-11-maryland-gov-larry-hogan-blames-trump-gop-lawmakers-for-capitol-riot.md",
-      "title": "Maryland Gov. Larry Hogan blames Trump, GOP lawmakers for Capitol riot",
-      "excerpt": "Maryland Gov. Larry Hogan, a longtime Republican critic of President Trump, on Sunday blamed him for inciting the riot at the U.S. Capitol and slammed GOP members of Congress for lending credence to Trump’s false allegations of election fraud.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html",
-      "originalUrl": "https://www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 205,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DX4GC5SQK4I6XIPV7WXSRT6KSA.jpg&w=1440",
-          "width": 1440,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/md-politics/hogan-blames-trump-capitol/2021/01/10/169d3fa0-5354-11eb-a817-e5e7f8a406d6_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-10T12:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-11-reps-paul-gosar-andy-biggs-credited-in-video-with-organizing-trump-crowd-in-dc-on-day-of-riot.md",
       "title": "Reps. Paul Gosar, Andy Biggs credited in video with organizing Trump crowd in DC on day of riot",
       "excerpt": "The man who has led the \"Stop the Steal\" protests nationally singles out Reps. Paul Gosar and Andy Biggs for helping make Washington gathering happen.",
@@ -466,58 +737,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-10-clyburn-house-has-responsibility-to-impeach-trump-over-georgia-call.md",
-      "title": "Clyburn: House has responsibility to impeach Trump over Georgia call",
-      "excerpt": "Rep. James Clyburn (R-S.C.), said Sunday that House lawmakers have a responsibility to stick up for the integrity of federal elections with an impeachment of the president over his phone call with Georgia officials.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/sunday-talk-shows/533522-clyburn-house-has-responsibility-to-impeach-trump-over-georgia",
-      "originalUrl": "https://thehill.com/homenews/sunday-talk-shows/533522-clyburn-house-has-responsibility-to-impeach-trump-over-georgia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 265,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/clyburnjames_111820bc3_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/sunday-talk-shows/533522-clyburn-house-has-responsibility-to-impeach-trump-over-georgia?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/533522-clyburn-house-has-responsibility-to-impeach-trump-over-georgia?amp",
-      "publishedDateTime": "2021-01-10T06:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-10-immediate-removal-of-president-trump-full-hakeem-jeffries-interview.md",
       "title": "'Immediate removal' of President Trump: Full Hakeem Jeffries Interview",
       "excerpt": "In an exclusive interview with Meet the Press, Rep. Hakeem Jeffries (D-N.Y.), Chair, House Democratic Caucus, talks to Chuck Todd about the Democrats' impeachment plans.",
@@ -575,6 +794,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-10-trump-pressured-georgia-elections-official-to-find-evidence-of-voter-fraud-in-call.md",
+      "title": "Trump pressured Georgia elections official to find evidence of voter fraud in call",
+      "excerpt": "Georgia told an elections investigator that they would be a \"national hero\" if they found evidence of elections fraud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/trump-georgia-call-pressured-voter-fraud-evidence/",
+      "originalUrl": "https://www.cbsnews.com/news/trump-georgia-call-pressured-voter-fraud-evidence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 434,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/09/28ff4c1d-ff72-4ad1-b599-27fb6ce09176/thumbnail/1200x630/a22a0c37ad809d8a94173ed49081b6cf/gettyimages-1287973454.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-georgia-call-pressured-voter-fraud-evidence/",
+      "publishedDateTime": "2021-01-10T04:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-trump-to-visit-us-mexico-border-to-laud-border-wall.md",
       "title": "Trump to visit U.S.-Mexico border to laud border wall",
       "excerpt": "Mexico border on Tuesday to highlight his administration’s work on the border wall, the White House said Saturday Trump will travel to the town of Alamo, Texas",
@@ -583,7 +854,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/trump-to-visit-us-mexico-border-to-laud-border-wall/2021/01/09/09dfd742-52e0-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -635,7 +906,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/top-republican-trump-committed-impeachable-offenses-75159240",
       "featuredContent": null,
       "highlight": null,
-      "heat": 225,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -731,58 +1002,6 @@
       ]
     },
     {
-      "path": "_news/2021-01-10-only-surprising-if-you-werent-paying-attention-trump-left-many-clues-he-wouldnt-go-quietly-and-nor-would-his-supporters.md",
-      "title": "Only surprising if you weren’t paying attention: Trump left many clues he wouldn’t go quietly, and nor would his supporters",
-      "excerpt": "President Donald Trump left plenty of clues he’d try to burn the place down on his way out the door. The clues spread over a lifetime of refusing to acknowledge defeat. They spanned a presidency marked by raw,",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riot-20210109-mxdgqqsnfngt3jkzrh6ioarive-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riot-20210109-mxdgqqsnfngt3jkzrh6ioarive-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/5yYA4r0jVa3ngPsBwkvI4s1CASA=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/I4Q4HX2ZX3BCMGRSYWFU3UI4NU.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riot-20210109-mxdgqqsnfngt3jkzrh6ioarive-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-capitol-riot-20210109-mxdgqqsnfngt3jkzrh6ioarive-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-09T08:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-01-10-former-goldman-sachs-ceo-lloyd-blankfein-slams-wall-street-traders-as-trump-enablers.md",
       "title": "Former Goldman Sachs CEO Lloyd Blankfein slams Wall Street traders as Trump enablers",
       "excerpt": "Lloyd Blankfein said Wall Street put up with Trump because of what he could deliver, which was mainly lower corporate taxes and fewer regulations.",
@@ -815,58 +1034,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-family-trump-supporter-who-died-followed-qanon-conspiracy.md",
-      "title": "Family: Trump supporter who died followed QAnon conspiracy",
-      "excerpt": "Friends and relatives say a Georgia woman killed in Wednesday’s siege of the U.S. Capitol was a recovering drug addict who wanted to become a sobriety counselor",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_10f0fe4d5c6741cebcd017089c462e9b_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/family-trump-supporter-died-qanon-conspiracy-75147520",
-      "publishedDateTime": "2021-01-09T04:43:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -939,6 +1106,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-09-twitter-permanently-suspends-trumps-account-to-prevent-further-incitement-of-violence.md",
+      "title": "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'",
+      "excerpt": "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended",
+      "publishedDateTime": "2021-01-09T00:38:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-09-donald-trump-gets-clobbered-again-by-randy-rainbow-parody.md",
       "title": "Donald Trump gets clobbered (again) by Randy Rainbow parody",
       "excerpt": "What happens when Donald Trump meets “Fiddler on the Roof”? Find out in the latest Randy Rainbow parody music video, “Sedition.”",
@@ -969,58 +1188,6 @@
         "name": "Mercury News",
         "domain": "mercurynews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-why-trumps-response-to-capitol-siege-evokes-memories-of-charlottesville.md",
-      "title": "Why Trump's response to Capitol siege evokes memories of Charlottesville",
-      "excerpt": "Trump groups violently stormed the U.S. Capitol, the surreal images took many back to a dark chapter when white supremacists openly descended upon Charlottesville.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
-      "originalUrl": "https://abcnews.go.com/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/US/washington-dc-capitol-riot-charlottesville-donald-trump-election-01-gty-llr-210106_1609982976596_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trumps-response-capitol-siege-evokes-memories-charlottesville/story?id=75099122",
-      "publishedDateTime": "2021-01-08T12:09:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1090,7 +1257,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/dominion-sues-trump-lawyer-sidney-powell-defamation-75132691",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1142,7 +1309,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/the-latest-trump-condemns-capitol-riot-concedes-to-biden/2021/01/07/c109bbde-5148-11eb-a1f5-fdaf28cfca90_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 905,
+      "heat": 845,
       "tags": null,
       "images": [
         {
@@ -1218,58 +1385,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-elaine-chao-betsy-devos-step-down-from-trump-cabinet-following-capitol-storming.md",
-      "title": "Elaine Chao, Betsy DeVos step down from Trump Cabinet following Capitol storming",
-      "excerpt": "Transportation Secretary Elaine Chao became the first Trump Cabinet member to resign in the wake of Wednesday's storming of the Capitol by the president's supporters.",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "originalUrl": "https://abcnews.go.com/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/betsy-devos_hpMain_20210107-210515_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/chao-trump-cabinet-member-resign-capitol-storming/story?id=75113253",
-      "publishedDateTime": "2021-01-08T00:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1399,21 +1514,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-08-facebook-indefinitely-blocks-trumps-account-after-violence-at-capitol.md",
-      "title": "Facebook 'indefinitely' blocks Trump's account after violence at Capitol",
-      "excerpt": "Trump supporters violently stormed the Capitol building in Washington, D.C., during a joint session of Congress, Facebook took the unprecedented step of indefinitely banning the president's account. At least four people have died following the so-called insurrection that erupted at the Capitol on Wednesday.",
+      "path": "_news/2021-01-08-the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.md",
+      "title": "The ‘treason finale’ of the Donald Trump era: Late night hosts react to U.S. Capitol riots",
+      "excerpt": "Late night television hosts often give their take the days events with humor. But Wednesday night was no laughing matter as Jimmy Fallon, Stephen Colbert and their fellow network hosts reacted to the mob of violent Trump supporters storming the U.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386",
-      "originalUrl": "https://abcnews.go.com/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386",
+      "webUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html",
+      "originalUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/International/trump-rt-rc-210106_1609954638505_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RUUVL3H7NBD4LDLRK2P52HXIQI.PNG",
+          "width": 718,
+          "height": 464,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1421,127 +1536,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386",
-      "publishedDateTime": "2021-01-07T13:18:00-08:00",
+      "ampWebUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp",
+      "publishedDateTime": "2021-01-07T15:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-book-of-the-moment-audience-of-one-donald-trump-television-and-the-fracturing-of-america.md",
-      "title": "Book of the moment: ‘Audience of One: Donald Trump, Television, and the Fracturing of America’",
-      "excerpt": "For a deeper understanding of this week's insurrection at the Capitol and the end of Donald Trump's presidency, read \"Audience of One: Donald Trump, Television, and the Fracturing of America\" by James Poniewozik.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html",
-      "originalUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/9PlWtEXNk4DY1O9DRVS8lVcYtQU=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/JA6MQWUKONA63D6TTER66S3O4Y.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/entertainment/books/ct-books-moment-audience-one-0108-20210107-hmte4mjf5zh5rejj32gzing6u4-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-07T09:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-08-top-ceos-may-cut-off-funding-to-republicans-who-have-supported-trumps-election-challenge-money-is-the-key-way.md",
-      "title": "Top CEOs may cut off funding to Republicans who have supported Trump's election challenge: 'Money is the key way'",
-      "excerpt": "Execs from Disney, Accenture, and Deloitte, as well as former White House advisors, attended a call to discuss Trump's election challenge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ceos-stop-funding-republicans-back-trump-election-challenge-jeffrey-sonnenfeld-2021-1",
-      "originalUrl": "https://www.businessinsider.com/ceos-stop-funding-republicans-back-trump-election-challenge-jeffrey-sonnenfeld-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5f921b54abcd0c0018d693e5?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ceos-stop-funding-republicans-back-trump-election-challenge-jeffrey-sonnenfeld-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ceos-stop-funding-republicans-back-trump-election-challenge-jeffrey-sonnenfeld-2021-1?amp",
-      "publishedDateTime": "2021-01-07T08:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

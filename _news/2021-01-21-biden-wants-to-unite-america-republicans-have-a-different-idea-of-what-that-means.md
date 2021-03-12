@@ -336,6 +336,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Live Updates: Biden Sets High Expectations for an American Recovery"
+    excerpt: "Mr. Biden’s speech on Thursday night offered a tantalizing promise of seeing friends and family for July 4, but his plan depends on a successful rollout of the relief package and on members of the public getting the vaccine as soon as it is offered to them."
+    publishedDateTime: 2021-03-12T08:29:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/12/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/12/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/12/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/12/us/politics/12new-washington-briefing-memo/12new-washington-briefing-memo-facebookJumbo.jpg"
+        width: 1050
+        height: 549
+        isCached: true
   - title: "Biden to NYT: Drop dead"
     excerpt: "Welcome to POLITICO’s 2021 Transition Playbook, your guide to the first 100 days of the Biden administration. JOE BIDEN and Republicans are united on at least one thing: They can't stand The New York Times editorial board."
     publishedDateTime: 2021-01-28T23:23:00Z

@@ -45,38 +45,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Lindsey Graham describes the GOP as a hostage to Trump"
-    excerpt: "Lindsey O. Graham’s relationship with former president Donald Trump has contained multitudes. He was arguably Trump’s biggest critic on the 2016 debate stage, saying that nominating Trump would deservedly destroy the party,"
-    publishedDateTime: 2021-03-08T14:01:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/sen-lindsey-graham-describes-gop-hostage-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/APLQKBDTCYI6XOFJXFDHKEHQ7Y.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "On Twitter, Trump is more popular than Jesus"
-    excerpt: "With Donald Trump playing the old hits to an enthusiastic Conservative Political Action Conference (CPAC) crowd and congressional Republicans making post-election pilgrimages to Mar-a-Lago to pay respect, many observers wonder when the former president’s ..."
-    publishedDateTime: 2021-03-11T13:59:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P3WUXBD2MYI6XDC6GLSHWQVVDM.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Trump's own Defense secretary says he was responsible for Capitol riot"
     excerpt: "Former acting Defense Secretary Christopher Miller says in a forthcoming interview that former President Trump Donald Trump The Memo: How the COVID year upended politics Biden seeks his moment ..."
     publishedDateTime: 2021-03-11T20:28:00Z
@@ -108,22 +76,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/01/efa4137b-1acd-4605-9066-b73af69ae90a/thumbnail/1200x630g2/fadf0b4268b8347dc2c9bdd4f651150f/gettyimages-1231447828.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Man who exhaled on women outside Trump golf club settles case by donating to NAACP"
-    excerpt: "A man charged with assault for blowing on two activist outside of a golf club owned by former President Trump has settled his case by donating $3,000 to the NAACP."
-    publishedDateTime: 2021-03-11T17:35:00Z
-    webUrl: "https://thehill.com/homenews/state-watch/542754-man-who-exhaled-on-women-outside-trump-golf-club-settles-case-by"
-    ampWebUrl: "https://thehill.com/homenews/state-watch/542754-man-who-exhaled-on-women-outside-trump-golf-club-settles-case-by?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/542754-man-who-exhaled-on-women-outside-trump-golf-club-settles-case-by?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 119
-    images:
-      - url: "https://thehill.com/sites/default/files/loudoun_county_courthouse_07312018_1_0.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Russia Attacks Twitter for Donald Trump Ban After Platform Raises Censorship Concerns"
     excerpt: "Russian Foreign Ministry spokesperson Maria Zakharova dismissed Twitter's complaint on Wednesday, accusing the platform of hypocrisy given its own bans on users—including former President Donald Trump. \"Is it the same Twitter that blocked the President ..."
@@ -172,22 +124,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/twitter-phone-gty-rc-210111_1613057909611_hpMain_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Donald Trump Rebukes WSJ After Editorial Board Suggests the GOP Look Past His Presidency"
-    excerpt: "\"Fortunately, nobody cares much about The Wall Street Journal editorial anymore. They have lost great credibility,\" the former president said in a statement."
-    publishedDateTime: 2021-03-04T18:30:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-rebukes-wsj-after-editorial-board-suggests-gop-look-past-his-presidency-1573864?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1749736/donald-trump-cpac-appearance-2021.jpg"
-        width: 3000
-        height: 2364
         isCached: true
   - title: "Watchdog asked Trump DOJ to criminally investigate Elaine Chao for misuse of office as transportation secretary but was rebuffed"
     excerpt: "The inspector general found that Chao inappropriately used her staff and office for personal tasks and to promote a shipping business owned by Chao’s father and sisters."

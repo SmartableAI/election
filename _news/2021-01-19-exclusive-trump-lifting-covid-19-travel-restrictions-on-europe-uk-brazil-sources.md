@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Pompeo lifts restrictions on U.S.-Taiwan relationship as clock runs out on Trump administration"
+    excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald"
+    publishedDateTime: 2021-01-10T12:13:00Z
+    webUrl: "https://www.reuters.com/article/SOMNIA-idUSKBN29E0Q6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 93
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547231457&r=LYNXMPEH080GE&w=800"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "yGKTQemu9SPGaTdnf+ZKSa72l83prjqayNkw/9xvgsE97r4ThB2/t+Gh0wxUMPSNPFlJgcJTGPItbf1cEl3xuYFyErLfaO96DCZ8+28W3+R58SQCpyKbdQEDeSlMagBA49jUGA3JwUtvk8VRmFMjbLGagwSNsII0k0iNnxootbJ6SUYSYPnf1R13A8kKT2t4LBAfH4t5NkDPJ3Sb3uUZ/KqLwb9keWCG0gljZml5qYUlaAVgaCQTMud5tVxQLbzhZdec2ObAzaU48nPONSNqVDuLJiZCn9XEDHPpXeJNV63BuCGpCS9yFxpJPReTxjAQj7EgXPGjhDk5HXgCxHdYwhGtriLG6B+Am4Bqb1ZCvh0=;taGoqLRZSgDyNXeyBWAn3g=="
 ---

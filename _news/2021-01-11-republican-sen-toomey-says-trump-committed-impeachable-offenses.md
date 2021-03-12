@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Top House Republican Liz Cheney says she will vote to impeach Donald Trump – live"
+    excerpt: "Wyoming conservative’s split with the president could give cover to other Republicans who want to vote to impeach – follow live"
+    publishedDateTime: 2021-01-12T22:35:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates?page=with:block-5ffe3ec28f08f301ebd543b2"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/jan/12/donald-trump-impeachment-insurrection-capitol-joe-biden-coronavirus-covid-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 120
+    images:
+      - url: "https://i.guim.co.uk/img/media/8f3bdd119f3897a60e2339f4a0db8c80785d8e1c/0_319_4783_2870/master/4783.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cf82ae328ec5ff4d05c413884627e65f"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Trump's incitement of mob at Capitol is 'impeachable offense,' Chris Christie says"
     excerpt: "Chris Christie is perhaps the most notable former supporter of President Donald Trump to back impeachment so far."
     publishedDateTime: 2021-01-10T18:33:00Z
@@ -78,6 +94,22 @@ related:
       - url: "https://s.abcnews.com/images/US/capitol-siege-congress-sheltering-ap-jef-210114_1610664843825_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Pat Toomey becomes 2nd Republican senator to call on Trump to resign; Rep. Jim Clyburn say impeachment vote in House this week"
+    excerpt: "Pennsylvania Republican Sen. Pat Toomey called on President Trump to resign, saying it would be the good of the country after the Capitol riot."
+    publishedDateTime: 2021-01-10T17:46:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-congress-reaction-20210110-ymrj7xq3djfoheosbkqjfzizqq-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-nw-trump-congress-reaction-20210110-ymrj7xq3djfoheosbkqjfzizqq-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-trump-congress-reaction-20210110-ymrj7xq3djfoheosbkqjfzizqq-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 97
+    images:
+      - url: "https://www.chicagotribune.com/resizer/gPDkhSIAijOSF5sP9fRMUdH19Eg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/KTKQHOYW2PN5WNW7FPGHWZ2J54.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Explainer: Impeachment or the 14th Amendment - Can Trump be barred from future office?"
     excerpt: "Some U.S. lawmakers have said President Donald Trump should be disqualified from holding political office again following his impeachment on Wednesday for inciting a mob that stormed the Capitol as lawmakers were certifying President-elect Joe Biden's victory."

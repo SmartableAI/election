@@ -111,22 +111,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Politics live updates: Senate clears way for Biden's COVID relief package"
-    excerpt: "The Senate Friday set the stage for the passage – possibly by the end of this month – of a $1.9 trillion COVID stimulus package that Biden is pushing."
-    publishedDateTime: 2021-02-05T12:44:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/05/politics-live-updates-trump-impeachment-biden-covid-relief-congress/4398843001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4398843001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4398843001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 124
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/70dde651-3135-4b05-8f81-867adb811d47-AP21035662363624.jpg?auto=webp&crop=5525,3108,x0,y85&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Biden memo for ICE officers points to fewer deportations and strict oversight"
     excerpt: "U.S. Immigration and Customs Enforcement officers will need preapproval from a senior manager before trying to deport anyone who is not a recent border crosser, a national security threat or a criminal offender with an aggravated-felony conviction,"
     publishedDateTime: 2021-02-19T03:25:00Z

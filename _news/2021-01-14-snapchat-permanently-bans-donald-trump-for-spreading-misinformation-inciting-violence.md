@@ -31,91 +31,68 @@ images:
     isCached: true
 
 related:
-  - title: "Census battle ends as Trump administration gives up on excluding undocumented from apportionment"
-    excerpt: "A high-stakes six-month battle over who should be counted for representation in Congress ended quietly in a judge’s chamber Friday night when the Trump administration agreed not to release any population numbers from the 2020 Census for congressional apportionment or redistricting before the president leaves office."
-    publishedDateTime: 2021-01-16T12:08:00Z
-    webUrl: "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/social-issues/census-battle-ends-as-trump-administration-gives-up-on-excluding-undocumented-from-apportionment/2021/01/16/bd17025c-57ba-11eb-a931-5b162d0d033d_story.html?outputType=amp"
+  - title: "Twitter permanently suspends Trump's account to prevent 'further incitement of violence'"
+    excerpt: "Company determines two Friday tweets were ‘highly likely’ to encourage behavior like the storming of the Capitol"
+    publishedDateTime: 2021-01-09T08:38:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
+      name: The Guardian
+      domain: theguardian.com
+    quality: 116
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R2MNFXSXZEI6XKAX4XT7RJAG2Y.jpg&w=1440"
-        width: 1440
-        height: 811
+      - url: "https://i.guim.co.uk/img/media/cb3085d44c438f92e1d27c124206000f7a1ef803/0_234_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=84cd92c9ac7d53daa4a5f23201ca314d"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Trump administration shelves planned investment ban on Alibaba, Tencent, Baidu: sources"
-    excerpt: "The Trump administration has scrapped plans to blacklist Chinese tech giants Alibaba, Tencent and Baidu, four people familiar with the matter said, providing a brief reprieve to Beijing's top corporates amid a broader crackdown by Washington."
-    publishedDateTime: 2021-01-14T18:26:00Z
-    webUrl: "https://www.reuters.com/article/usa-trump-china-tech/update-3-trump-administration-shelves-planned-investment-ban-on-alibaba-tencent-baidu-sources-idUSL1N2JO2JN"
+  - title: "YouTube suspends Trump's channel after violating policy on inciting violence"
+    excerpt: "Alphabet Inc's YouTube said on Tuesday it has suspended Donald Trump's channel as it violated policies for inciting violence after last week's assault on the U.S. Capitol by the president's supporters."
+    publishedDateTime: 2021-01-13T10:41:00Z
+    webUrl: "https://www.reuters.com/article/usa-election-youtube-trump-int/youtube-suspends-trumps-channel-after-violating-policy-on-inciting-violence-idUSKBN29I0HL"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 97
+    quality: 102
     images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547682772&r=LYNXMPEH0C1LP&w=800"
-        width: 800
-        height: 535
-        isCached: true
-  - title: "Exclusive: Trump admin slams China's Huawei, halting shipments from Intel, others - sources"
-    excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"
-    publishedDateTime: 2021-01-17T22:07:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-huawei-tech-exclusive/exclusive-trump-admin-slams-chinas-huawei-halting-shipments-from-intel-others-sources-idUKKBN29M0KD"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 95
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210117&t=2&i=1548118670&r=LYNXMPEH0G0DZ&w=800"
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210113&t=2&i=1547595731&r=LYNXMPEH0C0FJ&w=800"
         width: 800
         height: 533
         isCached: true
-  - title: "Donald Trump's bitter fight to ban TikTok in the US looks set to fail after administration agrees to delayed legal deadline"
-    excerpt: "Experts say a shift in legal deadline paves the way for President-elect Joe Biden to drop the suit."
-    publishedDateTime: 2021-01-13T17:27:00Z
-    webUrl: "https://www.businessinsider.com/donald-trumps-tiktok-ban-likely-just-ended-with-legal-deadline-2021-1"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 79
-    images:
-      - url: "https://i.insider.com/5fff2702a8de7700187d3a0c?width=1200&format=jpeg"
-        width: 921
-        height: 460
-        isCached: true
-  - title: "Donald Trump Could Pardon Rappers Lil Wayne, Kodak Black"
-    excerpt: "Lil Wayne and Kodak Black might get a pardon from Donald Trump The president is expected to announce his final pardon list on Jan. 19 Wayne and Black were charged for possession of weapons Rappers Lil Wayne and Kodak Black could soon walk away as free men since President Donald Trump could be thinking of pardoning both artists before he leaves the office on Jan."
-    publishedDateTime: 2021-01-12T05:36:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640?amp=1"
+  - title: "Donald Trump Tweets From POTUS Account After Twitter's Suspension, Claims He Was Being 'Silenced'"
+    excerpt: "President Donald Trump tweeted from the official @POTUS account Friday evening shortly after Twitter banned his personal account, @realDonaldTrump."
+    publishedDateTime: 2021-01-09T07:26:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 75
+    quality: 62
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/lil-wayne.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg"
         width: 1024
-        height: 683
+        height: 681
         isCached: true
-  - title: "Exclusive: Trump Admin Slams China's Huawei, Halting Shipments From Intel, Others - Sources"
-    excerpt: "The Trump administration notified Huawei suppliers, including chipmaker Intel, that it is revoking certain licenses to sell to the Chinese company and intends to reject dozens of other applications to supply the telecommunications firm,"
-    publishedDateTime: 2021-01-19T00:18:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time"
-    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2021-01-17/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time?context=amp"
-    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2021-01-17/exclusive-trump-slams-huawei-and-its-suppliers-one-final-time?context=amp"
+  - title: "Twitter Bans President Donald Trump's Account Permanently After Shopify Terminated POTUS-Affiliated Stores"
+    excerpt: "Twitter has decided to permanently ban Donald Trump from its platform \"due to the risk of further incitement of violence.\""
+    publishedDateTime: 2021-01-09T03:10:00Z
+    webUrl: "https://www.ibtimes.com/twitter-bans-president-donald-trumps-account-permanently-after-shopify-terminated-3117750"
+    ampWebUrl: "https://www.ibtimes.com/twitter-bans-president-donald-trumps-account-permanently-after-shopify-terminated-3117750?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-bans-president-donald-trumps-account-permanently-after-shopify-terminated-3117750?amp=1"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 45
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/democrats-in-the-us-house-of-representatives-have.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "6M4birtkrCRqcON6T7vYyacjab53aFu9VZPPSJpHsHbIFGVtF1oCpqYGADQ/WTLBAvK/A/cvua5XO8oe+Fg6XLlqFfRJn0RASiIkmLiIGB7U7ZqzPViQNytlNNyMQIpI9Q2gM2RZL3GhjDvXs1O8ahSa83y1v5jOiy7oomqOeA/MWbGie16EvFtKgyaNHwmnynlCEweHqJCnpN9gkxz6ZOqfk6N+FzK4KHMwMlt1WhYBh7kNQuVcGk4LywZdFxhqGdseMqKiDpMV9361JexG2RKosLgQtjgBsli8EuDoF8WtPgBq0/bc78sHMQPQ3FykPDcpufXIoNcrzUhpHDZPS0xk1c3AyazT7MvaW3UVx1s=;V+j+1ErfP6KX2plhcULzJw=="
 ---

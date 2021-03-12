@@ -95,6 +95,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Senate meetings on Tanden postponed, suggesting lack of support for Biden budget pick"
+    excerpt: "Two Senate committees postponed meetings scheduled for Wednesday to consider President Joe Biden’s pick as budget director, Neera Tanden, suggesting she may not have the votes to be approved and may become the first high-profile Biden nominee to be rejected."
+    publishedDateTime: 2021-02-24T15:43:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKBN2AO1S4"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 118
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552764513&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Justin Trudeau says US leadership has been 'sorely missed' during first meeting with Biden"
     excerpt: "Canadian PM congratulates US president on rejoining Paris accord, saying ‘it’s nice when the Americans are not pulling out all the references to climate change’"
     publishedDateTime: 2021-02-24T01:06:00Z

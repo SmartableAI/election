@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-biden-transition-mike-pompeo-
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-biden-transition-mike-pompeo-kelly-craft-europe-taiwan-travel-cancelled/"
 type: article
 quality: 112
-heat: 132
+heat: 152
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
     quality: 98
     images:
       - url: "https://static.reuters.com/resources/r/?m=02&d=20210119&t=2&i=1548250195&r=LYNXMPEH0H19C&w=800"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "Pompeo lifts restrictions on U.S.-Taiwan relationship as clock runs out on Trump administration"
+    excerpt: "Secretary of State Mike Pompeo on Saturday said he was lifting restrictions on contacts between U.S. officials and their Taiwanese counterparts, a move likely to anger China and increase tensions between Beijing and Washington in the waning days of President Donald"
+    publishedDateTime: 2021-01-10T12:13:00Z
+    webUrl: "https://www.reuters.com/article/SOMNIA-idUSKBN29E0Q6"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 93
+    images:
+      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547231457&r=LYNXMPEH080GE&w=800"
         width: 800
         height: 533
         isCached: true

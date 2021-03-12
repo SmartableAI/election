@@ -2,6 +2,274 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-12-chris-miller-defense-secretary-on-jan-6-sees-cause-and-effect-between-trumps-words-and-capitol-riot.md",
+      "title": "Chris Miller, defense secretary on Jan. 6, sees 'cause and effect' between Trump's words and Capitol riot",
+      "excerpt": "The top official in charge of the Pentagon and America's defenses when rioters stormed the U.S. Capitol on Jan. 6 said he believes there was direct \"cause-and-effect\" between then-President Donald Trump's words and the actions of the insurrectionist mob.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/12/chris-miller-pentagon-chief-trump-caused-capitol-riot/4661721001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/12/chris-miller-pentagon-chief-trump-caused-capitol-riot/4661721001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/12/USAT/599b80bb-094c-4e05-8b72-0c00e23a4fbf-GettyImages-1285497255.jpg?auto=webp&crop=5980,3364,x0,y123&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4661721001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4661721001",
+      "publishedDateTime": "2021-03-12T06:13:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-republicans-scratch-heads-at-bidens-goals-for-may-covid-vaccine-eligibility-july-fourth-family-gatherings.md",
+      "title": "Republicans scratch heads at Biden's goals for May COVID vaccine eligibility, July Fourth family gatherings",
+      "excerpt": "The CDC said that those who are fully vaccinated can spend time with unvaccinated people indoors as long as those who are unvaccinated are at low-risk.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4mWSJVG9WY/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4mWSJVG9WY/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21065030623614.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth.amp",
+      "publishedDateTime": "2021-03-12T06:08:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-biden-aims-for-quicker-shots-independence-from-this-virus.md",
+      "title": "Biden aims for quicker shots, ‘independence from this virus’",
+      "excerpt": "President Joe Biden has outlined his plan to make all adult Americans eligible for vaccination by May 1 — and he raised the prospect of beginning to gain what he called “independence from this virus”",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/biden-sets-may-1-target-to-have-all-adults-vaccine-eligible/2021/03/11/aac028f4-82c6-11eb-be22-32d331d87530_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/biden-sets-may-1-target-to-have-all-adults-vaccine-eligible/2021/03/11/aac028f4-82c6-11eb-be22-32d331d87530_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/business/biden-sets-may-1-target-to-have-all-adults-vaccine-eligible/2021/03/11/aac028f4-82c6-11eb-be22-32d331d87530_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-sets-may-1-target-to-have-all-adults-vaccine-eligible/2021/03/11/aac028f4-82c6-11eb-be22-32d331d87530_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-12T05:19:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-manhattan-district-attorney-cy-vance-who-sought-trumps-tax-returns-to-retire.md",
+      "title": "Manhattan District Attorney Cy Vance, who sought Trump's tax returns, to retire",
+      "excerpt": "Manhattan District Attorney Cyrus Vance Jr., a longtime foe of former President Donald Trump, will not run for re-election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8M65GbRVOV8/manhattan-district-attorney-cy-vance-trump-retire-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8M65GbRVOV8/manhattan-district-attorney-cy-vance-trump-retire-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/DAVance1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp",
+      "publishedDateTime": "2021-03-12T05:17:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-cyrus-vance-prosecutor-investigating-trump-wont-seek-reelection.md",
+      "title": "Cyrus Vance, prosecutor investigating Trump, won't seek reelection",
+      "excerpt": "Vance's most high-profile current case is a wide-ranging criminal investigation of former President Donald Trump. The investigation initially targeted alleged hush-money payments made during the 2016 campaign to adult film star Stormy Daniels by Mr. Trump ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/news/cyrus-vance-wont-seek-reelection-manhattan-da/",
+      "originalUrl": "https://www.cbsnews.com/news/cyrus-vance-wont-seek-reelection-manhattan-da/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 540,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2020/02/24/03739679-96be-4703-a276-d07392142364/thumbnail/1200x630/13d2120369e6911f32131c2381996844/cbsn-fusion-harvey-weinstein-verdict-manhattan-cy-vance-survivors-werent-just-brave-heroic-thumbnail-449943-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/news/cyrus-vance-wont-seek-reelection-manhattan-da/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cyrus-vance-wont-seek-reelection-manhattan-da/",
+      "publishedDateTime": "2021-03-12T04:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-biden-running-out-of-time-to-make-decision-on-future-of-us-mission-in-afghanistan-as-situation-worsens.md",
       "title": "Biden running out of time to make decision on future of US mission in Afghanistan as situation worsens",
       "excerpt": "With 50 days until the United States is supposed to complete a total withdrawal of troops and personnel from Afghanistan -- a move that a Pentagon report stated could be devastating to \"the survival of the Afghan state as we know it\" -- the Biden administration is running out of time to decide on a way",
@@ -70,7 +338,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 508,
+      "heat": 528,
       "tags": null,
       "images": [
         {
@@ -167,58 +435,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-biden-aims-for-quicker-shots-independence-from-this-virus.md",
-      "title": "Biden aims for quicker shots, 'independence from this virus'",
-      "excerpt": "Biden aims for quicker shots, 'independence from this virus' In a prime-time address, President Joe Biden has outlined his plan to make all adult Americans eligible for vaccination by May 1 ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
-      "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/WireAP_bee013e7b6c546c9bb315f11a64481ed_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407",
-      "publishedDateTime": "2021-03-11T21:38:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABCNews",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -444,58 +660,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-joe-biden-administration-will-devote-650-million-to-help-schools-expand-testing.md",
-      "title": "Joe Biden administration will devote $650 million to help schools expand testing",
-      "excerpt": "During his prime time speech Thursday, President Joe Biden noted his announcement last week to vaccinate teachers and school officials by the end of March will help the majority of K-8 schools reopen within his first 100 days in office, or by the end of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/11/joe-biden-administration-send-millions-schools-expand-testing/4657459001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/11/joe-biden-administration-send-millions-schools-expand-testing/4657459001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/07/USAT/59e31eb1-a074-4387-83f2-c87d0ebf692c-VPC_BIDEN_EXEC_ORDER_desk.jpg?auto=webp&crop=1274,717,x5,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4657459001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4657459001",
-      "publishedDateTime": "2021-03-11T17:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {
@@ -1045,58 +1209,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-12-recording-reveals-details-of-trump-call-to-georgias-chief-elections-investigator.md",
-      "title": "Recording reveals details of Trump call to Georgia’s chief elections investigator",
-      "excerpt": "In the Dec. 23 conversation, the then-president urged the chief investigator for Secretary of State Brad Raffensperger to do “whatever you can do” to uncover wrongdoing in the election.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/03/11/c532ea2e-827a-11eb-ac37-4383f7709abe_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/03/11/c532ea2e-827a-11eb-ac37-4383f7709abe_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 535,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/HVNCAVDHE4I6XOVYOB7YO2OXQU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/03/11/c532ea2e-827a-11eb-ac37-4383f7709abe_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-call-georgia-investigator/2021/03/11/c532ea2e-827a-11eb-ac37-4383f7709abe_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-11T12:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-11-fauci-who-opposed-china-travel-ban-and-praised-their-transparency-criticizes-trump-response.md",
       "title": "Fauci, who opposed China travel ban and praised their transparency, criticizes Trump response",
       "excerpt": "White House chief medical adviser Dr. Anthony Fauci, who early on in the coronavirus pandemic opposed a travel ban on China and praised their transparency, on Tuesday criticized former President Donald Trump for not pushing the country harder for more information on the outbreak.",
@@ -1258,114 +1370,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-bidens-party-line-approach-in-congress-has-worked-so-far-but-sen-joe-manchin-wants-bipartisanship.md",
-      "title": "Biden’s party-line approach in Congress has worked so far. But Sen. Joe Manchin wants bipartisanship.",
-      "excerpt": "Manchin has reiterated that he believes the 60-vote requirement is what makes the Senate a unique legislative body across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
-      "originalUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I37U2VEB7YI6XLBXIOB7O4E2XY.jpg&w=1440",
-          "width": 1440,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-11T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.md",
-      "title": "Pelosi-Milley phone call about ‘unhinged’ Trump is target of Judicial Watch lawsuit",
-      "excerpt": "House Speaker Nancy Pelosi’s January phone call with U.S. Army Gen. Mark Milley, chairman of the Joint Chiefs of Staff -- in which Pelosi raised concerns about what she described as an \"unhinged\" President Trump -- is now the subject of a Freedom of Information Act (FOIA) lawsuit.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT1wQWKY4X4/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT1wQWKY4X4/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/pelosi-milley.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.amp",
-      "publishedDateTime": "2021-03-11T01:47:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

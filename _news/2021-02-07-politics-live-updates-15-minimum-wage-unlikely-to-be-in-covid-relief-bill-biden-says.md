@@ -47,38 +47,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden makes slow but steady progress on COVID relief: The Note"
-    excerpt: "The White House has managed to stay in the center of negotiations, despite forces in both parties that have an interest in pulling talks to the Capitol."
-    publishedDateTime: 2021-02-04T11:04:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-makes-slow-steady-progress-covid-relief-note/story?id=75662575"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/the-note-president-joe-biden-covid-relief-schools-01-rt-llr-210203_1612400855123_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "House vote unlocks partisan path for Biden coronavirus relief bill"
-    excerpt: "House Democrats voted Wednesday to set the stage for party-line approval of President Biden’s $1.9 trillion coronavirus relief bill, heeding the president’s calls for swift action on his first big agenda item -- but without the bipartisan unity he promised."
-    publishedDateTime: 2021-02-03T23:03:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/02/03/house-coronavirus-relief-budget-bill/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/02/03/house-coronavirus-relief-budget-bill/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/02/03/house-coronavirus-relief-budget-bill/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VWCKHNTGIMI6XOVYOB7YO2OXQU.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "Biden calls for expanded efforts to protect LGBTQ rights globally"
     excerpt: "U.S. President Joe Biden on Thursday issued a presidential memorandum aimed at expanding protection of the rights of lesbian, gay, bisexual, transgender and queer and intersex (LGBTQI) people worldwide,"
     publishedDateTime: 2021-02-05T09:17:00Z
@@ -94,22 +62,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550362734&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH131JW"
         width: 817
         height: 545
-        isCached: true
-  - title: "Biden meets with House Democrats in push for $1.9T plan"
-    excerpt: "President Joe Biden is meeting with the House Democratic committee chairs who aim to put his $1.9 trillion coronavirus relief package on a fast track to becoming law"
-    publishedDateTime: 2021-02-05T16:45:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/senate-oks-fast-track-covid-aid-harris-casts-75707130"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/senate-oks-fast-track-covid-aid-harris-casts-75707130"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/senate-oks-fast-track-covid-aid-harris-casts-75707130"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_78f74ccaa556425c94c6bf206d2aea53_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden wants fast COVID aid, but minimum wage hike in doubt"
     excerpt: "President Joe Biden has laid out his case for moving fast and without Republicans to pass $1.9 trillion in coronavirus relief, but he is conceding that a key element of his plan — hiking the minimum w"
@@ -286,22 +238,6 @@ related:
       - url: "https://i.insider.com/60146dfdd6c5e60019c6e03e?width=1200&format=jpeg"
         width: 1200
         height: 600
-        isCached: true
-  - title: "UPDATE 1-Biden says he does not expect minimum wage hike to be in COVID-19 relief bill"
-    excerpt: "U.S. President Joe Biden said in an interview released on Friday he does not expect his proposal for a hike in the minimum wage to $15 an hour to be included in his $1.9 trillion COVID-19 relief bill because of Senate rules."
-    publishedDateTime: 2021-02-06T00:28:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-wage/update-1-biden-says-he-does-not-expect-minimum-wage-hike-to-be-in-covid-19-relief-bill-idUSL1N2KB3C9"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A52UR"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A52UR"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 117
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210206&t=2&i=1550529524&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH141O2"
-        width: 824
-        height: 545
         isCached: true
   - title: "U.S. senators look to back up Biden administration over Myanmar coup"
     excerpt: "U.S. Senator Ben Cardin (D-MD) asks a question to Secretary of State Mike Pompeo during a Senate Foreign Relations Committee hearing in Washington, DC, U.S. July 30, 2020. Greg Nash/Pool v"

@@ -32,53 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "Trump: Supreme Court tax return decision a ‘continuation of the greatest political witch hunt’"
-    excerpt: "Former President Trump on Monday slammed the Supreme Court for declining to halt the turnover of his tax records to a New York prosecutor, calling it “a continuation of the greatest political Witch Hunt in the history of our Country.”"
-    publishedDateTime: 2021-02-22T20:01:49Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/53AsKTg2ffI/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp"
+  - title: "Manhattan District Attorney Cy Vance, who sought Trump's tax returns, to retire"
+    excerpt: "Manhattan District Attorney Cyrus Vance Jr., a longtime foe of former President Donald Trump, will not run for re-election."
+    publishedDateTime: 2021-03-12T13:17:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/8M65GbRVOV8/manhattan-district-attorney-cy-vance-trump-retire-2022"
+    ampWebUrl: "https://www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Trump blasts Supreme Court, Dems on tax return ruling: ‘It just never ends!’"
-    excerpt: "Former President Donald Trump lashed out at the Supreme Court on Monday after it declined to stop the release of his tax returns to the Manhattan district attorney."
-    publishedDateTime: 2021-02-22T19:53:00Z
-    webUrl: "https://nypost.com/2021/02/22/trump-blasts-supreme-court-dems-on-tax-return-ruling/"
-    ampWebUrl: "https://nypost.com/2021/02/22/trump-blasts-supreme-court-dems-on-tax-return-ruling/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/22/trump-blasts-supreme-court-dems-on-tax-return-ruling/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 132
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/02/trump-tax-returns-2.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump: Supreme Court tax return decision a ‘continuation of the greatest political witch hunt’"
-    excerpt: "Former President Trump on Monday slammed the Supreme Court for declining to halt the turnover of his tax records to a New York prosecutor, calling it “a continuation of the greatest political Witch Hunt in the history of our Country."
-    publishedDateTime: 2021-02-22T20:05:00Z
-    webUrl: "https://www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 123
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae4c983b-8c4e-416f-ba98-56bc212031a0/40875f2f-d31c-4ef4-a372-16b5609e06f7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/DAVance1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "1rRJi1vRDGV0J/K3zxKDXb6LJTB2Bf4dtuvSPw5jkOkMHB58ZpXThCj94zPkdpk5sFMYHWNyMWxXCF+7TJBi47dLyHyWqtKWsES1QpuSinVz/jaj7FGwIFsBhLJj5OaMFSPmmarB4WW3AlpwfJWM/v2Emoxj3eIjeEsT/69EgW3XXGZsmMCob/LDewrVhsnq9/lSHPL0VkGXLd5rmnEf2Vmw2oHtaffWBEoFc8jTv1KHtI/u/hEJD5Cgr1MKiZGSAWcOeJXaZXjRKilPNPAcBCBD+iToskz128pr4l3vJmN4AZehX8WEArsgekYmJIIKw37sOCKQIzaPzIp0ENttE2yEu5ttrePF+6bfS0ybg4XO49DSP/ssMHla0cy0iXDnyGypVM6J0GedRI9Dh/wSHVyG6abiKR3+yh6llO/7WGui8Jfg48YySlt5Mu/c3FRJQK6GG2QiZS7LdIgehAOEXgUzMZnRfrbjlzErYKPndcIeRXaVyZa5YOkNAouB2rxThCjwrGgvneqhiTG/+/oUsw==;lsdOdsHfcgcDiw0ZsxQVPg=="

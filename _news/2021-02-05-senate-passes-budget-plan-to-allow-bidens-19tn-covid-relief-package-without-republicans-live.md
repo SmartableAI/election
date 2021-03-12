@@ -47,22 +47,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Biden roles out group of deputy secretary nominees"
-    excerpt: "President-elect Joe Biden on Monday announced a slate of nominees to serve as deputy secretaries across his administration, further filling out his team just two days before he will take office."
-    publishedDateTime: 2021-01-18T14:41:00Z
-    webUrl: "https://thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees"
-    ampWebUrl: "https://thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/534678-biden-roles-out-group-of-deputy-secretary-nominees?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/biden_cabinet_picks_01082021_1.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "U.S. Senate confirms Biden nominee Austin as defense secretary"
     excerpt: "The U.S. Senate on Friday voted overwhelmingly to confirm retired Army General Lloyd as President Joe Biden's defense secretary, making him the first Black American to serve in the role."
     publishedDateTime: 2021-01-22T18:29:00Z
@@ -111,22 +95,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "\"We have to act now\": Biden outlines economic rescue legislative package"
-    excerpt: "President-elect Joe Biden is expected to outline his COVID-19 relief proposal in Wilmington, Delaware, on Thursday. The massive stimulus bill is expected to cost trillions in order to fund vaccinations and provide immediate,"
-    publishedDateTime: 2021-01-15T00:56:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-vaccination-package-live-stream-today-2021-01-14/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-vaccination-package-live-stream-today-2021-01-14/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-vaccination-package-live-stream-today-2021-01-14/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 124
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/15/060ed476-7daa-48d5-9570-cb245fa7aea7/thumbnail/1200x630/ca56cea94e0eabd31dc19ff0a53bd160/gettyimages-1296410571.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Joe Biden to focus on economic recovery after Covid as 17.5m vaccine shots given in US - live updates"
     excerpt: "Calls to delay Donald Trump impeachment trial as former president appoints defense lawyer Bowers"
     publishedDateTime: 2021-01-22T10:48:00Z
@@ -142,20 +110,6 @@ related:
       - url: "https://i.guim.co.uk/img/media/fe78b211bfccc74f50dc04eb41c3692d5b3c570b/0_40_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=9dcc227f4e6e0918a04f9277c0f430f2"
         width: 600
         height: 360
-        isCached: true
-  - title: "Trudeau expects Biden to re-engage U.S. on world stage"
-    excerpt: "Reuters Next Trudeau expects Biden to re-engage U.S. on world stage. Posted . Canada and other U.S. allies are looking to President-elect Joe Biden to re-engage on the world stage"
-    publishedDateTime: 2021-01-14T17:54:00Z
-    webUrl: "https://www.reuters.com/video/watch/trudeau-expects-biden-to-re-engage-us-on-id724248082"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210114&i=OVDV6MGV3&r=OVDV6MGV3&t=2"
-        width: 960
-        height: 540
         isCached: true
   - title: "Trudeau expects Biden to re-engage U.S. on world stage"
     excerpt: "Reuters Next Trudeau expects Biden to re-engage U.S. on world stage. Posted . Canada and other U.S. allies are looking to President-elect Joe Biden to re-engage on the world stage"

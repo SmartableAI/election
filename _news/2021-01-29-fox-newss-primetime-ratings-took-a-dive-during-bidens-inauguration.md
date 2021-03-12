@@ -63,22 +63,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Ten Senate Republicans propose compromise covid relief package, posing challenge for Biden"
-    excerpt: "The GOP proposal would significantly narrow eligibility for a new round of $1,400 stimulus checks Biden wants to send to individual Americans."
-    publishedDateTime: 2021-01-31T19:22:00Z
-    webUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/"
-    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 115
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QSCURTBVAI6XILXO5S7FGUVEQ.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "The GOP stimulus proposal is nearly a third of the price tag of Biden's plan. Here's what's missing."
     excerpt: "A group of Republicans introduced a stimulus plan that cuts many parts of Biden's original proposal, like a minimum wage increase and $1,400 checks."
     publishedDateTime: 2021-02-01T16:15:00Z

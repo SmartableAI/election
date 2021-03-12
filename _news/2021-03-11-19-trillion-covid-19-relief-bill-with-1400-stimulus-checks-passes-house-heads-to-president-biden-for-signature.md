@@ -477,17 +477,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
-    excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."
-    publishedDateTime: 2021-03-06T16:27:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate/u-s-senate-passes-bidens-covid-19-relief-bill-sending-it-back-to-house-idUSL1N2L4083"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2L4083"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2L4083"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 104
   - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."
     publishedDateTime: 2021-03-10T12:13:00Z

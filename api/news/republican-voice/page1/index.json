@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-12-republicans-scratch-heads-at-bidens-goals-for-may-covid-vaccine-eligibility-july-fourth-family-gatherings.md",
+      "title": "Republicans scratch heads at Biden's goals for May COVID vaccine eligibility, July Fourth family gatherings",
+      "excerpt": "The CDC said that those who are fully vaccinated can spend time with unvaccinated people indoors as long as those who are unvaccinated are at low-risk.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4mWSJVG9WY/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4mWSJVG9WY/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21065030623614.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth.amp",
+      "publishedDateTime": "2021-03-12T06:08:28-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-manhattan-district-attorney-cy-vance-who-sought-trumps-tax-returns-to-retire.md",
+      "title": "Manhattan District Attorney Cy Vance, who sought Trump's tax returns, to retire",
+      "excerpt": "Manhattan District Attorney Cyrus Vance Jr., a longtime foe of former President Donald Trump, will not run for re-election.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8M65GbRVOV8/manhattan-district-attorney-cy-vance-trump-retire-2022",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/8M65GbRVOV8/manhattan-district-attorney-cy-vance-trump-retire-2022",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 191,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/03/640/320/DAVance1.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/manhattan-district-attorney-cy-vance-trump-retire-2022.amp",
+      "publishedDateTime": "2021-03-12T05:17:44-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-biden-and-leaders-of-japan-australia-india-to-unveil-plans-to-boost-coronavirus-vaccine-production.md",
       "title": "Biden and leaders of Japan, Australia, India to unveil plans to boost coronavirus vaccine production",
       "excerpt": "President Biden and other leaders of nations in the \"Quad\" alliance will unveil an agreement to ramp up production of coronavirus vaccines in Southeast Asia in a first-of-its-kind virtual meeting Friday, according to senior administration officials with knowledge of the matter.",
@@ -1557,118 +1669,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-arizona-rancher-slams-biden-border-policy-shift-theyre-letting-everybody-come.md",
-      "title": "Arizona rancher slams Biden border policy shift: They're ‘letting everybody come'",
-      "excerpt": "Arizona rancher John Ladd warned on Tuesday that U.S. Border Patrol agents and communities are “overwhelmed” by the surge of migrants, who he noted are “busting” into their towns.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uf4gxycNjh8/arizona-rancher-biden-administration-letting-everybody-come-border",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uf4gxycNjh8/arizona-rancher-biden-administration-letting-everybody-come-border",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 230,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp",
-      "publishedDateTime": "2021-03-09T06:19:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-cotton-on-biden-border-crisis-this-was-altogether-predictable-and-was-predicted-last-year.md",
-      "title": "Cotton on 'Biden border crisis': 'This was altogether predictable' and was 'predicted' last year",
-      "excerpt": "Sen. Tom Cotton R-Ark. blasted the Biden Administration Monday for their role in the current crisis at the U.S.-Mexico border, calling their policy \"recruit and release\" as opposed to \"catch and release.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cDwNpbSXLeM/cotton-biden-border-crisis-altogether-predictable",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cDwNpbSXLeM/cotton-biden-border-crisis-altogether-predictable",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2d65ea6-4669-4750-9f90-a270d335b120/5b2cc511-1777-4f6c-a7a2-c9d0afbbe7e4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cotton-biden-border-crisis-altogether-predictable.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-biden-border-crisis-altogether-predictable.amp",
-      "publishedDateTime": "2021-03-08T21:38:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

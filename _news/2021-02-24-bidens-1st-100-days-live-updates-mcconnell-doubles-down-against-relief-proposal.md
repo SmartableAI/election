@@ -31,177 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "A look at Merrick Garland, Joe Biden’s nominee for attorney general"
-    excerpt: "Merrick Garland, President Joe Biden’s nominee for attorney general, appeared before the Senate Judiciary Committee for his confirmation hearing on Monday. Here are some key facts to know about Biden’s nominee to run the Justice Department: MOST RECENT LEGAL EXPERIENCE: 1997-Present: Judge on the United States Court of Appeals for the District of Columbia Circuit."
-    publishedDateTime: 2021-02-22T23:54:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/pgmyCxGCHham3HQMavNFCnRGVmM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WIDFTAWVFZVCHFODXCIXZ4Q4M4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden says he will push for funding for semiconductor legislation"
-    excerpt: "U.S. President Joe Biden said on Wednesday he will push for funding for semiconductor legislation following a meeting with bipartisan group of lawmakers about supply chain issues."
-    publishedDateTime: 2021-02-24T21:09:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-semiconductors-idUSW1N2KA060"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KA060"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KA060"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552798506&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N1LM"
-        width: 816
-        height: 545
-        isCached: true
-  - title: "Biden choice for budget chief faces new hurdles in Congress"
-    excerpt: "The increasingly slim odds — and surprisingly thin outreach from the White House — for Neera Tanden’s nomination as head of the Office of Management and Budget are raising growing questions about how"
-    publishedDateTime: 2021-02-26T04:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
+  - title: "Biden's 1st 100 days live updates: FEMA seeks US troops to help with vaccinations"
+    excerpt: "A draft request for assistance between FEMA and the Department of Defense is under discussion that would seek as many as 10,000 service members to support administering COVID-19 vaccine shots up to 100 sites nationwide,"
+    publishedDateTime: 2021-01-28T02:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/biden-100-days-president-white-house/?id=75460011"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 125
+    quality: 120
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1cb6fdeffac84dd6b4179796077178c8_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://s.abcnews.com/images/Politics/national-guard-vaccine-reut_hpMain_20210127-205858_16x9_1600.jpg"
+        width: 1600
+        height: 900
         isCached: true
-  - title: "Joe Biden won the presidency by making the most of his lucky breaks"
-    excerpt: "Lucky: How Joe Biden Barely Won the Presidency’ by Jonathan Allen and Amie Parnes is an inside account of the 2020 campaign."
-    publishedDateTime: 2021-02-28T13:12:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
+  - title: "FEMA would operate up to 100 federally run mass vaccination sites under Biden plan"
+    excerpt: "A draft FEMA document envisions four different models for sites, with the largest capable of handling 6,000 doses a day."
+    publishedDateTime: 2021-01-23T04:28:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/01/22/biden-vaccine-mass-sites/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NCU2Z6HDLII6VAWYLZK5I7UQZI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "U.S. Senate panel sets hearing for Biden's No. 2 and No. 3 Justice Department picks"
-    excerpt: "The U.S. Senate Judiciary Committee on Thursday announced it will hold a confirmation hearing on March 9 for President Joe Biden's nominees to serve in the No. 2 and No. 3 top jobs at the U.S. Justice Department."
-    publishedDateTime: 2021-02-26T03:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-senate-justice-idUSKBN2AP325"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AP325"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP325"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
     quality: 119
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552951685&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O1R8"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FAYNVVS3KMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 1005
         isCached: true
-  - title: "Senate meetings on Tanden postponed, suggesting lack of support for Biden budget pick"
-    excerpt: "Two Senate committees postponed meetings scheduled for Wednesday to consider President Joe Biden’s pick as budget director, Neera Tanden, suggesting she may not have the votes to be approved and may become the first high-profile Biden nominee to be rejected."
-    publishedDateTime: 2021-02-24T15:43:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-omb-idUSKBN2AO1S4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AO1S4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AO1S4"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552764513&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N0XZ"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Senate panel to vote Wednesday on 3 Biden nominees, including trade pick Tai - source"
-    excerpt: "The Senate Finance Committee will vote on Wednesday on three nominees for key jobs in the Biden administration, including Katherine Tai as trade czar and California Attorney General Xavier Becerra as U."
-    publishedDateTime: 2021-03-01T19:22:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-nominations-idUSL2N2KZ2GQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210301&t=2&i=1553370867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH2022J"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Biden's attorney general pick Garland to prioritize civil rights, combating domestic terror"
-    excerpt: "Merrick Garland was tasked with supervising a sprawling U.S. Justice Department criminal investigation into the bombing of a federal office building in Oklahoma City that killed 168 people."
-    publishedDateTime: 2021-02-19T16:03:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-senate-justice-garland-idUSKBN2AJ16S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ16S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ16S"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 115
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552142019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0NJ"
-        width: 812
-        height: 545
-        isCached: true
-  - title: "Two senators join Manchin in opposing Biden budget pick Neera Tanden, putting nomination in peril"
-    excerpt: "Neera Tanden has come under fire during the confirmation process for her past tweets and statements criticizing lawmakers on both sides of the aisle."
-    publishedDateTime: 2021-02-22T16:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/22/mitt-romney-susan-collins-oppose-biden-budget-nominee-neera-tanden/4539982001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4539982001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4539982001"
+  - title: "Politics live updates: Biden to outline racial equity agenda; senators to be sworn in for impeachment trial"
+    excerpt: "President Joe Biden is turning the spotlight on racial equity, one of the four “converging crises” he has said is facing the nation."
+    publishedDateTime: 2021-01-26T14:59:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/26/politics-live-updates-senators-sworn-impeachment-trial/4254926001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4254926001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4254926001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 112
+    quality: 107
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/e38a4941-b873-41d2-9d50-a260b8e1231e-Double_masking_09.JPG?auto=webp&crop=5746,3232,x1,y237&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/160636ec-103f-4a30-be2a-36cf75be6185-AP_Biden.jpg?auto=webp&crop=4876,2743,x1,y58&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vilsack sworn in as Biden's agriculture secretary"
-    excerpt: "One day after the Senate confirmed Tom Vilsack as agriculture secretary, the former Iowa governor has been sworn in to head the department for a second time. (Feb. 25)"
-    publishedDateTime: 2021-02-25T00:34:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/25/vilsack-sworn-bidens-agriculture-secretary/6808430002/"
+  - title: "Coronavirus updates: Single-dose vaccine from Johnson & Johnson could be 'game changer'; Biden to require masks on planes"
+    excerpt: "A COVID vaccine being developed by New Jersey-based Johnson & Johnson could dramatically speed up the fight against the pandemic. Latest COVID news."
+    publishedDateTime: 2021-01-21T18:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/01/21/covid-news-vaccine-shortages-us-response-joe-biden-california/4237433001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4237433001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4237433001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 100
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/714388f5-00dc-4da6-b44d-e09279b269af_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/a6d17a2c-5ef4-4acf-87f9-b26f62b41bc4-AP21020686218912.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Merrick Garland, Joe Biden haven't spoken about Hunter Biden investigation"
-    excerpt: "In his Senate confirmation hearing, nominee faced questions about how he would handle the federal investigation into the president's son."
-    publishedDateTime: 2021-02-22T17:01:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/02/22/merrick-garland-hunter-biden-investigation-havent-talked-president/4541418001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4541418001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4541418001"
+  - title: "Politics live updates: Biden predicts vaccine available to general public in spring; Sen. Leahy to preside over impeachment"
+    excerpt: "House Democrats will carry their article of impeachment against Donald Trump across the Capitol to the Senate Monday. The trial will start Feb. 9."
+    publishedDateTime: 2021-01-25T22:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/01/25/politics-live-updates-trump-impeachment-article-goes-senate/6698416002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6698416002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6698416002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 99
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/9fdef51e-e789-4520-94dd-a4236d4d57cb-AP21025782104966_2.jpg?auto=webp&crop=1023,575,x1,y91&format=pjpg&width=1200"
+        width: 1200
+        height: 674
+        isCached: true
+  - title: "Inauguration Day security live updates: Vice President Mike Pence among early arrivals at Capitol as security remains tight"
+    excerpt: "The inauguration of Joe Biden was set to kick off at 11 a.m. in a sun-splashed but chilly nation's capital-turned armed camp."
+    publishedDateTime: 2021-01-20T15:55:00Z
+    webUrl: "https://www.indystar.com/story/news/nation/2021/01/20/inauguration-day-security-washington-updates-protests-arrests/4214845001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4214845001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4214845001"
     type: article
     provider:
       name: Indianapolis Star
       domain: indystar.com
-    quality: 73
+    quality: 49
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/0ec6814e-fab6-44d3-9aa7-fb3a9c7d77bd-VPC_HUNTER_BIDEN_LAPTOP_EXPLAINER_DESK_THUMB.00_00_05_05.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/01/19/USAT/8322a60b-ed63-49cb-be25-0d2823e56ed9-XXX_TH__DC_security_measures700.JPG?auto=webp&crop=6474,3642,x0,y409&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

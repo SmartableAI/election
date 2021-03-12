@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-r
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-reacts-to-supreme-court-tax-return-decision-claims-continuation-of-the-greatest-political-witch-hunt.amp"
 type: article
 quality: 163
-heat: 223
+heat: 203
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Getting Trump Tax Returns Is Victory for Manhattan Prosecutors"
-    excerpt: "The U.S. Supreme Court removed a hurdle for the criminal probe when it rejected the former president’s efforts to block a subpoena for his financial records."
-    publishedDateTime: 2021-02-22T23:46:00Z
-    webUrl: "https://www.wsj.com/articles/getting-trump-tax-returns-is-victory-for-manhattan-prosecutors-11614037615"
-    ampWebUrl: "https://www.wsj.com/amp/articles/getting-trump-tax-returns-is-victory-for-manhattan-prosecutors-11614037615"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/getting-trump-tax-returns-is-victory-for-manhattan-prosecutors-11614037615"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-302694/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump blasts Supreme Court, Dems on tax return ruling: ‘It just never ends!’"
     excerpt: "Former President Donald Trump lashed out at the Supreme Court on Monday after it declined to stop the release of his tax returns to the Manhattan district attorney."
     publishedDateTime: 2021-02-22T19:53:00Z

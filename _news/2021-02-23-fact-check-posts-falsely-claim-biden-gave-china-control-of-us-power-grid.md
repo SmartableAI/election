@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4523427001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4523427001"
 type: article
 quality: 123
-heat: 143
+heat: 123
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Fact check: Satirical post claims Biden has labeled Libertarians as terrorists"
-    excerpt: "Spike Cohen, the Libertarian nominee for VP in 2020, said in a post the administration labeled Libertarians terrorists. He said the post was satire."
-    publishedDateTime: 2021-01-27T23:12:00Z
-    webUrl: "https://www.usatoday.com/story/news/factcheck/2021/01/27/fact-check-post-calling-libertarians-terrorists-satire/4282040001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4282040001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4282040001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 121
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/20/USAT/78194cdb-50ef-403f-9498-d42deb00637f-AP_Capitol_Riot_Oklahoma_City_Bombing.jpg?auto=webp&crop=5791,3258,x0,y579&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "PUzaKuypKHvdOP9Z+yeX5ZR5HnXffHfTEI7r0OlwnVCkwSXpNgICa3s2VORS+Nuwhtkd87Oio1iduGAaeGFhOe9i1+1aEMTnBSk6GAkT9QWht6s1xHW4j+JUn9M7YeuDqUDed6H4B+4WWEgronUeyh+LhYVXsHJBafmM3+Kg7TZyfzYy3zvkFqdtpS+JeIP0cN4p7GCho2mr4ZIGmgIqT1ShmUHIeDVeS9++xzG0j+iFqntKo6MadJw1XkYo/WCRhSehB3Z9c2c2avmMgRYIIOhKBiCneZxTrdA73HOYVT86B9qdoJ61ZLuXP8uqXDNGOjFKgHrN12DUlCUBa1nci79SNFsrthUscUHPTfLbIjclxeNQcIsEfO+FiDnJiR1uc7liKwm64mxZv1M0LW5udYMegHfqUx2pIc20pZS5DNZ3/4ScoPYPGN4+OPg7PAs9qmjRmxlYFe+v0Ob7tWTFJaemMDBV02Ziz86eOr72803jlqXRxt5UZCqm5IiDONzXy1tXNT6jlixNqOoAebO+pw==;xwwZ+Qn91MLibs206rNDqQ=="
 ---

@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "The word the Biden administration won't use when it comes to the border? 'Crisis'"
+    excerpt: "The Biden administration is facing what it admits is an \"overwhelming\" number of migrants at the southern border, while scrambling to construct new facilities to hold child migrants -- but it is doggedly refusing to describe the situation as a \"crisis.\""
+    publishedDateTime: 2021-03-12T14:53:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H8EtxD3tVPc/biden-administration-wont-use-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-wont-use-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-wont-use-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58b5303f-1cc5-4819-ac7f-0ff6be8a874d/5d3b5642-d252-4d6f-a4f0-c41cadfb9fc0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden wants to negotiate with GOP but outside 'forces' holding him back: Sen. Capito"
     excerpt: "Sen. Shelley Moore Capito, R-W. Va., said the Democratic coronavirus stimulus bill was a \"non-starter\" on Friday, calling it \"bloated\" and a wasted opportunity to work across the aisle."
     publishedDateTime: 2021-03-05T16:31:22Z

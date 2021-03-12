@@ -111,6 +111,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden tempers COVID optimism with calls for unity -- and patience: ANALYSIS"
+    excerpt: "President Biden delivers remarks on 1-year anniversary of COVID-19 pandemic President Joe Biden addressed the nation Thursday night to mark a full year of the COVID crisis -- as awful and painful ..."
+    publishedDateTime: 2021-03-12T07:08:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-tempers-covid-optimism-calls-unity-patience-analysis/story?id=76392651"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-tempers-covid-optimism-calls-unity-patience-analysis/story?id=76392651"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-tempers-covid-optimism-calls-unity-patience-analysis/story?id=76392651"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-american-rescue-primetime-address-06-gty-llr-210311_1615511624482_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Kimmel on Biden's Covid relief bill: 'Naturally, Republicans are against it'"
     excerpt: "Late-night hosts discuss Covid relief, the latest Fox News culture wars, and the role white women play in bolstering QAnon"
     publishedDateTime: 2021-03-11T17:05:00Z
@@ -207,21 +223,21 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "Watch Live: House to vote on $1.9 trillion COVID relief bill, handing Biden major legislative win"
-    excerpt: "The $1.9 trillion aid plan is expected to pass along party lines and will head to Mr. Biden's desk before key unemployment programs ... particularly Senator Joe Manchin. As Democrats have a 50-seat majority in the Senate, they require support from all ..."
-    publishedDateTime: 2021-03-10T15:01:00Z
-    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-american-rescue-plan-house-vote-watch-live-stream-today-2021-03-10/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-house-vote-watch-live-stream-today-2021-03-10/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-house-vote-watch-live-stream-today-2021-03-10/"
+  - title: "Live updates: President Joe Biden says 'America is coming back' as he memorializes a pandemic year"
+    excerpt: "WASHINGTON – President Joe Biden wrapped up his first address as president Thursday night, touting America’s progress with COVID-19 vaccinations, saying hope was to be found and pleading with Americans to stay vigilant. Biden directed states to ..."
+    publishedDateTime: 2021-03-11T23:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/live-updates-president-joe-biden-prime-time-speech-covid-pandemic/6944067002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6944067002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6944067002"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 112
+      name: USA Today
+      domain: usatoday.com
+    quality: 111
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/10/461fb591-be60-4a58-bebb-c908871d9234/thumbnail/1200x630/1950d4fb8ac3c83f3784c1f47ab20b14/2021-03-10t191936z-1953990643-rc2j8m915qnv-rtrmadp-3-health-coronavirus-usa-congress.jpg"
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/b43fab33-e7b3-4079-96fe-943d023e4e98-AP21071039023733.jpg?auto=webp&crop=5717,3216,x0,y190&format=pjpg&width=1200"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
   - title: "Biden administration and Texas governor battle over COVID testing and treatment of migrants at border"
     excerpt: "The administration said it would reimburse local officials for COVID testing and shelter for asylum seekers. Governor Abbott said \"no.\""
@@ -238,6 +254,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/05/d91c28fc-46de-4969-8666-b3dd9f6fd058/thumbnail/1200x630/0991716f0dd8f34963de0bff94bf3745/gettyimages-1231479467.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Biden denounced the attacks on Asian Americans during the COVID-19 pandemic, calling them ‘un-American’"
+    excerpt: "DOW S&P 500 NASDAQ 100 President Joe Biden in his Thursday address to the nation denounced a surge in attacks on Asian Americans during the coronavirus pandemic. In the prime-time address marking the one-year anniversary of the COVID-19 outbreak being ..."
+    publishedDateTime: 2021-03-12T13:01:00Z
+    webUrl: "https://www.businessinsider.com/biden-slams-attacks-on-asian-americans-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-slams-attacks-on-asian-americans-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-slams-attacks-on-asian-americans-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/604b5a97fea127001886a616?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Live updates: President Joe Biden will sign COVID-19 stimulus package on Friday; Pelosi, Schumer laud it"
     excerpt: "Joe Biden announced his COVID-19 stimulus plan before he even entered office. It's up for a final vote Wednesday in the House."

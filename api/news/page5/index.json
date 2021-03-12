@@ -2,6 +2,337 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-05-tom-cotton-slams-top-biden-pentagon-nominee-for-vicious-tweets-weak-israel-iran-policies.md",
+      "title": "Tom Cotton slams top Biden Pentagon nominee for 'vicious' tweets, 'weak' Israel, Iran policies",
+      "excerpt": "Sen. Tom Cotton R-Ark. said Friday that President Joe Biden’s nominee for the No. 3 civilian position at the Pentagon doesn’t have the \"temperament\" for the job, citing \"vicious\" verbal attacks against people criticizing his position on the Iran nuclear deal and past tweets about Republicans.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/consSGRk2ww/biden-pentagon-nominee-colin-kahl-cotton",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/consSGRk2ww/biden-pentagon-nominee-colin-kahl-cotton",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 183,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2229b2f1-24c2-4122-ae85-34c31c7b489b/c3a87125-f980-46d4-8319-88e455416533/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-nominee-colin-kahl-cotton.amp",
+      "publishedDateTime": "2021-03-05T11:50:22-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-kamala-harris-speaks-with-netanyahu-in-latest-talk-with-a-major-world-leader.md",
+      "title": "Kamala Harris speaks with Netanyahu in latest talk with a major world leader",
+      "excerpt": "Vice President Kamala Harris and Israeli Prime Minister Benjamin Netanyahu had a call Thursday amid the Middle Eastern ally's growing tension with Iran.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7750b86-b666-441d-ad85-e004befe43e3/3f70789c-8232-4f13-a178-f669a03f6443/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-netanyahu-call.amp",
+      "publishedDateTime": "2021-03-05T11:06:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-06-rep-eric-swalwell-sues-trump-over-jan-6-riot-alleging-he-poses-risk-of-inciting-future-political-violence.md",
+      "title": "Rep. Eric Swalwell sues Trump over Jan. 6 riot, alleging he poses risk of ‘inciting future political violence’",
+      "excerpt": "California representative, a House impeachment manager and Democratic leader, files suit against Trump, Trump Jr., Giuliani and Rep. Mo Brooks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html",
+      "originalUrl": "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C6E3Y7SRBYI6XPNEMFNK57IFKU.jpg&w=1440",
+          "width": 1440,
+          "height": 1853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/house-members-sue-trump-capitol-riot/2021/03/05/905b3a20-7cf5-11eb-85cd-9b7fa90c8873_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-05T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.md",
+      "title": "DeSantis, Pence top 2024 Republican primary surveys – if Trump doesn’t run",
+      "excerpt": "DeSantis, Pence top 2024 Republican primary surveys – if Trump doesn’t run",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uevIlvGvjww/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/uevIlvGvjww/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 418,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/desantis-pence-top-2024-republican-primary-surveys-if-trump-doesnt-run.amp",
+      "publishedDateTime": "2021-03-05T10:09:06-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-sen-johnson-to-harris-faulkner-bidens-open-border-policies-creating-disaster.md",
+      "title": "Sen. Johnson to Harris Faulkner: Biden's open-border policies creating 'disaster'",
+      "excerpt": "Sen. Ron Johnson, R-Wis., says he believes the migrant surge at the U.S.-Mexico border is a “disaster” created by the Biden administration’s policies.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/siK_mDXG2ws/biden-immigration-policies-crisis-disaster-border-sen-johnson",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/siK_mDXG2ws/biden-immigration-policies-crisis-disaster-border-sen-johnson",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 395,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/829450ef-575e-47e0-9c15-f53da93367fa/62fb6c22-123b-4d4d-8e08-bea04dd2b512/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-crisis-disaster-border-sen-johnson.amp",
+      "publishedDateTime": "2021-03-05T10:03:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-fbi-arrests-trump-appointee-federico-klein-in-connection-with-capitol-riot.md",
+      "title": "FBI arrests Trump appointee Federico Klein in connection with Capitol riot",
+      "excerpt": "Federico Klein is the first known member of the Trump administration to face criminal charges in connection with the Jan. 6 insurrection at the U.S. Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003",
+      "originalUrl": "https://abcnews.go.com/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 203,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/US/national-guard-capitol-hill-gty-210_hpMain_20210305-043152_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/fbi-arrests-trump-appointee-federico-klein-connection-capitol/story?id=76271003",
+      "publishedDateTime": "2021-03-05T07:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-newsom-recall-timing-is-everything-caleg-passes-schools-bill-high-school-sports-can-resume-youtube-eyes-trump-return.md",
       "title": "NEWSOM RECALL: Timing is everything — CALEG passes SCHOOLS bill — HIGH SCHOOL SPORTS can resume — YOUTUBE eyes TRUMP return",
       "excerpt": "Nearly a year after California schools closed their doors to in-person instruction, lawmakers moved on Thursday to get kids back to class by March. However lawmakers chose to vote on the school reopening bill,",
@@ -67,7 +398,7 @@
       "originalUrl": "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 745,
+      "heat": 725,
       "tags": null,
       "images": [
         {
@@ -108,58 +439,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-tiny-group-of-qanon-supporters-spotted-in-dc-awaiting-trump-inauguration.md",
-      "title": "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration",
-      "excerpt": "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
-      "originalUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 303,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1750168/q.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1",
-      "publishedDateTime": "2021-03-05T04:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -216,6 +495,58 @@
       "topics": [
         "Election",
         "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills.md",
+      "title": "Georgia GOP leaders who stood up to Trump back voting bills",
+      "excerpt": "Georgia Gov. Brian Kemp and Secretary of State Brad Raffensperger won wide praise last fall for firmly rejecting then-President Donald Trump’s false claims of voter fraud",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 225,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-05T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
       ]
     },
     {
@@ -355,6 +686,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-05-at-the-capitol-a-march-4-threat-from-militant-trump-supporters-proves-a-mirage.md",
+      "title": "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage",
+      "excerpt": "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/",
+      "originalUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QZ2QCID46EI6XDC6GLSHWQVVDM.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/dc-md-va/2021/03/04/capitol-threat-qanon-march-4/?outputType=amp",
+      "publishedDateTime": "2021-03-04T18:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -703,6 +1086,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-05-qanon-shaman-still-feels-sympathy-for-former-president-donald-trump.md",
+      "title": "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump",
+      "excerpt": "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
+      "originalUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-04-heres-what-a-vote-a-rama-is-and-what-it-means-for-bidens-stimulus.md",
       "title": "Here's what a 'vote-a-rama' is (and what it means for Biden's stimulus)",
       "excerpt": "Senate Democrats' push to quickly pass President Joe Biden's Covid-19 relief package is about to meet a time-consuming and stamina-challenging speed bump known as a \"vote-a-rama.\"\n    \n",
@@ -879,7 +1314,7 @@
       "originalUrl": "https://www.chicagotribune.com/nation-world/ct-aud-nw-lara-trump-north-carolina-senate-20210304-guyqxakcjzh4fcg2zx2s3m45ja-story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -920,439 +1355,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-biden-hhs-pick-refused-request-to-bring-humanitarian-aid-to-cuba-on-infamous-1996-trip-report.md",
-      "title": "Biden HHS pick refused request to bring humanitarian aid to Cuba on infamous 1996 trip: report",
-      "excerpt": "President Biden’s HHS nominee reportedly refused a request to bring humanitarian aid to Cuba while meeting with Fidel Castro.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7E6Dyj1mjs/biden-hhs-xavier-becerra-cuba-fidel-castro",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Z7E6Dyj1mjs/biden-hhs-xavier-becerra-cuba-fidel-castro",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/18d5382e-fb73-4ecb-b630-6e13a9057c7b/31b58cbf-68dc-476f-9478-fea5b8426eff/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-hhs-xavier-becerra-cuba-fidel-castro.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-hhs-xavier-becerra-cuba-fidel-castro.amp",
-      "publishedDateTime": "2021-03-04T08:45:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-donald-trump-lists-oceanfront-palm-beach-mansion-for-49-million.md",
-      "title": "Donald Trump lists oceanfront Palm Beach mansion for $49 million",
-      "excerpt": "A company registered to Donald Trump and his family is selling their Palm Beach oceanfront abode for a whopping $49 million.  The estate sits right next door to Trump’s Mar-a-Lago club,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/",
-      "originalUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/mansion-.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/donald-trump-lists-palm-beach-mansion-for-49-million/amp/",
-      "publishedDateTime": "2021-03-04T08:21:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-texas-border-resident-blasts-bidens-truly-shameful-immigration-policies-on-fox-friends.md",
-      "title": "Texas border resident blasts Biden's 'truly shameful' immigration policies on 'Fox & Friends'",
-      "excerpt": "Biden’s immigration policies are “truly shameful,” a Texas resident who lives near the border said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qaMVnLFaphM/texas-border-covid-buses-migrants-biden-shameful-immigration-policies",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qaMVnLFaphM/texas-border-covid-buses-migrants-biden-shameful-immigration-policies",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-covid-buses-migrants-biden-shameful-immigration-policies.amp",
-      "publishedDateTime": "2021-03-04T08:11:31-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-gop-maps-out-strategy-to-counter-bidens-immoral-radical-immigration-agenda.md",
-      "title": "GOP maps out strategy to counter Biden's 'immoral,' 'radical' immigration agenda",
-      "excerpt": "Republicans this week circulated a memo on their plan to counter what they describe as a \"radical\" and \"immoral\" immigration agenda from President Biden as the GOP looks to unite against the rolling-back of Trump-era border protections.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TIoRakNFDVU/gop-bidens-immoral-immigration-agenda",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/TIoRakNFDVU/gop-bidens-immoral-immigration-agenda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/43c05678-89c2-4f31-97b6-7be17956aedf/4ed54759-c149-42db-9f63-cc018c87c204/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/gop-bidens-immoral-immigration-agenda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-bidens-immoral-immigration-agenda.amp",
-      "publishedDateTime": "2021-03-04T07:59:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-mike-pence-breaks-silence-in-op-ed-slamming-house-dems-voting-reform-bill.md",
-      "title": "Mike Pence breaks silence in op-ed slamming House Dems’ voting reform bill",
-      "excerpt": "Pence made his feelings known in an op-ed published Wednesday by The Daily Signal, a blog run by the conservative Heritage Foundation, where the former VP is a fellow.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/04/mike-pence-breaks-silence-to-slam-house-dems-voting-reform-bill/",
-      "originalUrl": "https://nypost.com/2021/03/04/mike-pence-breaks-silence-to-slam-house-dems-voting-reform-bill/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/pence-op-ed-lede.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/04/mike-pence-breaks-silence-to-slam-house-dems-voting-reform-bill/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/04/mike-pence-breaks-silence-to-slam-house-dems-voting-reform-bill/amp/",
-      "publishedDateTime": "2021-03-04T06:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-rep-waltz-hits-back-at-biden-keeping-schools-closed-is-neanderthal-thinking.md",
-      "title": "Rep. Waltz hits back at Biden: Keeping schools closed is 'Neanderthal thinking'",
-      "excerpt": "Rep. Michael Waltz, R-Fla., pushed back on President Biden for calling out red states for lifting mask mandates.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UpQFz1a8sKU/biden-neanderthal-thinking-schools-closed-masks-waltz",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/UpQFz1a8sKU/biden-neanderthal-thinking-schools-closed-masks-waltz",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 331,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cbfea3cb-0931-4be8-87d5-88bf60102a68/2339f089-d6fc-4338-9f43-5613ef08b741/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-neanderthal-thinking-schools-closed-masks-waltz.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-neanderthal-thinking-schools-closed-masks-waltz.amp",
-      "publishedDateTime": "2021-03-04T05:18:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-once-omnipresent-kushner-now-mia-from-trumps-political-pack.md",
-      "title": "Once omnipresent Kushner now MIA from Trump's political pack",
-      "excerpt": "As Donald Trump plotted his Conservative Political Action Conference appearance last week, and a broader, more-robust plan to return to politics as an omnipresent disruptor, one person was conspicuously absent from the confab.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUtUDPb2f2c/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sUtUDPb2f2c/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 215,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210113111505-jared-kushner-donald-trump-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/04/politics/donald-trump-jared-kushner-political-future/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/04/politics/donald-trump-jared-kushner-political-future/index.html",
-      "publishedDateTime": "2021-03-04T04:33:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-kimmel-warns-canceling-dr-seuss-is-how-trump-gets-reelected-cancel-culture-is-his-path-to-victory.md",
-      "title": "Kimmel warns 'canceling' Dr. Seuss is 'how Trump gets reelected': Cancel culture is 'his path to victory'",
-      "excerpt": "ABC late-night host Jimmy Kimmel sounded the alarm on cancel culture Tuesday and how it could help former President Donald Trump get elected again in 2024.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/jimmy-kimmel-dr-seuss-cancel-culture-trump",
-      "originalUrl": "https://www.foxnews.com/entertainment/jimmy-kimmel-dr-seuss-cancel-culture-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2019/01/Jimmy-Kimmel.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-03T18:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

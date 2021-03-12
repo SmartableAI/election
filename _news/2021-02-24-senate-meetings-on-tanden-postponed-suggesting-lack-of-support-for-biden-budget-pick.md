@@ -31,179 +31,147 @@ images:
     isCached: true
 
 related:
-  - title: "A look at Merrick Garland, Joe Biden’s nominee for attorney general"
-    excerpt: "Merrick Garland, President Joe Biden’s nominee for attorney general, appeared before the Senate Judiciary Committee for his confirmation hearing on Monday. Here are some key facts to know about Biden’s nominee to run the Justice Department: MOST RECENT LEGAL EXPERIENCE: 1997-Present: Judge on the United States Court of Appeals for the District of Columbia Circuit."
-    publishedDateTime: 2021-02-22T23:54:00Z
-    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html"
-    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-who-is-merrick-garland-20210222-23ysqqbupjdgpnizp6pzukdv7a-story.html?outputType=amp"
-    type: article
-    provider:
-      name: Chicago Tribune
-      domain: chicagotribune.com
-    quality: 125
-    images:
-      - url: "https://www.chicagotribune.com/resizer/pgmyCxGCHham3HQMavNFCnRGVmM=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/WIDFTAWVFZVCHFODXCIXZ4Q4M4.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Biden says he will push for funding for semiconductor legislation"
-    excerpt: "U.S. President Joe Biden said on Wednesday he will push for funding for semiconductor legislation following a meeting with bipartisan group of lawmakers about supply chain issues."
-    publishedDateTime: 2021-02-24T21:09:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-semiconductors-idUSW1N2KA060"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSW1N2KA060"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSW1N2KA060"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210224&t=2&i=1552798506&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1N1LM"
-        width: 816
-        height: 545
-        isCached: true
-  - title: "Biden choice for budget chief faces new hurdles in Congress"
-    excerpt: "The increasingly slim odds — and surprisingly thin outreach from the White House — for Neera Tanden’s nomination as head of the Office of Management and Budget are raising growing questions about how"
-    publishedDateTime: 2021-02-26T04:06:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/tanden-facing-hurdles-senate-panels-delay-meetings-76085912"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1cb6fdeffac84dd6b4179796077178c8_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Joe Biden won the presidency by making the most of his lucky breaks"
-    excerpt: "Lucky: How Joe Biden Barely Won the Presidency’ by Jonathan Allen and Amie Parnes is an inside account of the 2020 campaign."
-    publishedDateTime: 2021-02-28T13:12:00Z
-    webUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/"
-    ampWebUrl: "https://www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/outlook/2021/02/28/lucky-biden-book/?outputType=amp"
+  - title: "Biden-Trudeau meeting: Canadians glad to get beyond Trump, but new administration brings new friction"
+    excerpt: "Relations between the leaders are likely to be more harmonious, but they differ on pipeline projects, Biden's \"Buy American\" policies and, possibly, vaccine cooperation."
+    publishedDateTime: 2021-02-23T11:00:00Z
+    webUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/"
+    ampWebUrl: "https://www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/2021/02/23/canada-trudeau-biden-trump-faq/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NCU2Z6HDLII6VAWYLZK5I7UQZI.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3AKLUKDAAYI6XILXO5S7FGUVEQ.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 962
         isCached: true
-  - title: "Biden's 1st 100 days live updates: McConnell doubles down against relief proposal"
-    excerpt: "Live updates of Judge Merrick Garland's confirmation hearing to be attorney general before the Senate Judiciary Committee."
-    publishedDateTime: 2021-02-24T00:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/live-updates/joe-biden-kamala-harris-white-house-administration/?id=76030510"
+  - title: "More policy, less pomp as Biden and Trudeau meet virtually"
+    excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
+    publishedDateTime: 2021-02-24T02:16:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/coronavirus-forces-biden-forgo-pomp-us-canada-meeting-76059755"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 120
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/mitch-mcconnell-rtr-jc-210223_1614113010604_hpMain_2_16x9_1600.jpg"
-        width: 1600
-        height: 900
+      - url: "https://s.abcnews.com/images/Politics/WireAP_0067a91419334861af58da6fd748679b_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "U.S. Senate panel sets hearing for Biden's No. 2 and No. 3 Justice Department picks"
-    excerpt: "The U.S. Senate Judiciary Committee on Thursday announced it will hold a confirmation hearing on March 9 for President Joe Biden's nominees to serve in the No. 2 and No. 3 top jobs at the U.S. Justice Department."
-    publishedDateTime: 2021-02-26T03:55:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-senate-justice-idUSKBN2AP325"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AP325"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AP325"
+  - title: "More policy, less pomp as Biden-Trudeau meet virtually"
+    excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
+    publishedDateTime: 2021-02-23T22:47:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 119
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210225&t=2&i=1552951685&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1O1R8"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Senate panel to vote Wednesday on 3 Biden nominees, including trade pick Tai - source"
-    excerpt: "The Senate Finance Committee will vote on Wednesday on three nominees for key jobs in the Biden administration, including Katherine Tai as trade czar and California Attorney General Xavier Becerra as U."
-    publishedDateTime: 2021-03-01T19:22:00Z
-    webUrl: "https://www.reuters.com/article/usa-biden-nominations-idUSL2N2KZ2GQ"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL2N2KZ2GQ"
+  - title: "More policy, less pomp as Biden and Trudeau meet virtually"
+    excerpt: "President Joe Biden’s first bilateral meeting with Canada’s Justin Trudeau since taking office was high on policy, low on pomp and featured a very large swipe at Biden’s predecessor"
+    publishedDateTime: 2021-02-25T09:01:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/more-policy-less-pomp-as-biden-trudeau-meet-virtually/2021/02/23/25294c3a-763b-11eb-9489-8f7dacd51e75_story.html?outputType=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 118
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210301&t=2&i=1553370867&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH2022J"
-        width: 817
-        height: 545
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Biden's attorney general pick Garland to prioritize civil rights, combating domestic terror"
-    excerpt: "Merrick Garland was tasked with supervising a sprawling U.S. Justice Department criminal investigation into the bombing of a federal office building in Oklahoma City that killed 168 people."
-    publishedDateTime: 2021-02-19T16:03:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-senate-justice-garland-idUSKBN2AJ16S"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AJ16S"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AJ16S"
+  - title: "Biden seeks to 'reinvigorate' US-Canada relations in first bilateral meeting with Trudeau"
+    excerpt: "The U.S.-Canada relationship was deeply strained during the Trump administration, with tensions spiking over trade and spilling over into personal insults."
+    publishedDateTime: 2021-02-23T10:12:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/23/joe-biden-seeks-reinvigorate-us-canada-relations/4546288001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4546288001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4546288001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/10/16/USAT/ff0ad41e-afaf-4be1-9214-3dd4620700f5-VPC_CANADA_US_TRAVEL_BAN_DESK_THUMB.00_00_03_00.Still001.jpg?auto=webp&crop=1911,1075,x8,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Justin Trudeau says US leadership has been 'sorely missed' during first meeting with Biden"
+    excerpt: "Canadian PM congratulates US president on rejoining Paris accord, saying ‘it’s nice when the Americans are not pulling out all the references to climate change’"
+    publishedDateTime: 2021-02-24T01:06:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/24/justin-trudeau-says-us-leadership-has-been-sorely-missed-during-first-meeting-with-biden"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
     quality: 115
     images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210219&t=2&i=1552142019&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1I0NJ"
-        width: 812
-        height: 545
+      - url: "https://i.guim.co.uk/img/media/92f4d394d2c49c86c46e628d5e42bc7db1b6700d/56_372_3769_2262/master/3769.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=aa842ac91dc9a696ee51e2e1e51e2fbb"
+        width: 600
+        height: 360
         isCached: true
-  - title: "Two senators join Manchin in opposing Biden budget pick Neera Tanden, putting nomination in peril"
-    excerpt: "Neera Tanden has come under fire during the confirmation process for her past tweets and statements criticizing lawmakers on both sides of the aisle."
-    publishedDateTime: 2021-02-22T16:47:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/22/mitt-romney-susan-collins-oppose-biden-budget-nominee-neera-tanden/4539982001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4539982001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4539982001"
+  - title: "'US leadership has been sorely missed.' Trudeau, Biden seek to repair alliance in first meeting"
+    excerpt: "The U.S.-Canada relationship was deeply strained during the Trump administration, with tensions spiking over trade and spilling over into personal insults."
+    publishedDateTime: 2021-02-25T00:39:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/23/joe-biden-seeks-reinvigorate-us-canada-relations/4546288001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4546288001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4546288001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 112
+    quality: 113
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/26/USAT/e38a4941-b873-41d2-9d50-a260b8e1231e-Double_masking_09.JPG?auto=webp&crop=5746,3232,x1,y237&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/02/23/USAT/30038c47-c90a-4ea2-a65d-ff270c5e5dda-AP_Biden.jpg?auto=webp&crop=1999,1124,x0,y88&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Vilsack sworn in as Biden's agriculture secretary"
-    excerpt: "One day after the Senate confirmed Tom Vilsack as agriculture secretary, the former Iowa governor has been sworn in to head the department for a second time. (Feb. 25)"
-    publishedDateTime: 2021-02-25T00:34:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/02/25/vilsack-sworn-bidens-agriculture-secretary/6808430002/"
+  - title: "Biden administration faces border challenges"
+    excerpt: "Watch \"Biden administration faces border challenges; plans to open new tent facility amid rise in migrants\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-02T14:52:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210302143428-biden-administration-faces-border-challenges-plans-to-open-new-tent-facility-amid-rise-in-migrants/"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 105
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/714388f5-00dc-4da6-b44d-e09279b269af_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://images-cbsn.cbsnews.com/prod/2021/03/02/story_09240697_1614696304.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Merrick Garland, Joe Biden haven't spoken about Hunter Biden investigation"
-    excerpt: "In his Senate confirmation hearing, nominee faced questions about how he would handle the federal investigation into the president's son."
-    publishedDateTime: 2021-02-22T17:01:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/02/22/merrick-garland-hunter-biden-investigation-havent-talked-president/4541418001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4541418001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4541418001"
+  - title: "Biden Early Approval Ratings Better Than Donald Trump, Barack Obama, George W Bush, Bill Clinton?"
+    excerpt: "President Joe Biden's approval ratings are trending positive early in his term, with 57% approving of his job performance in an early February poll and 62% doing so in a poll taken Sunday and Monday."
+    publishedDateTime: 2021-02-16T20:48:00Z
+    webUrl: "https://www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498"
+    ampWebUrl: "https://www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/biden-early-approval-ratings-better-donald-trump-barack-obama-george-w-bush-bill-3146498?amp=1"
     type: article
     provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 73
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 77
     images:
-      - url: "https://www.gannett-cdn.com/presto/2020/10/23/USAT/0ec6814e-fab6-44d3-9aa7-fb3a9c7d77bd-VPC_HUNTER_BIDEN_LAPTOP_EXPLAINER_DESK_THUMB.00_00_05_05.Still001.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/13/former-president-donald-trumps-swift-impeachment-trial-will.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "qhrf17DJqKMoBRLvaOgjceRqfCWePdPYwhgfJ6s9xYwRED7FlD5JWFEupcx6JmlX9Vq5F2jpPtNTiWB1t/7rkVMejj8RCHeDMSaE5K20EE+zyqqBeqJvnScpXD0r/UGjSsfcj1KltfAbgIraLVQ6uKKHuvxvWLv2AqFJx6tGeLs8QMXdtG6EO7F0fUKu0jgYF0xCByoWgtVpBjAq0DTWJ2K+l7WdbgIqksW7OsxGzfQ1yd8+KRT+ZhCGry03rHUB+oPpFWF0+B1kZzjr6KIxpz9ceKcgJ+ImukhrGmHp+bHp1cRwpGoPgdcmxfx2qcF+sTZLwrfSlnXEwyO6SyPyOOtTwkpBKjRNabX+vkrEzwn8JzGVpeCKbS79tLMZBVI/47wR9vRArk+cgD0PPyD7J9yB/5+RYXVQxhqEAHZurGjRFJxvgZLXb4xc6dVB8WEDopsi8oanEicn95qTOpB8h8kroLwyiDo2jPRgTXp5qve5JcXmSs+cZ59J3p3VlnULhgnK1sGlf6XafG/K+JSabA==;v22LgVNW/BMAlC9qgCSjCQ=="

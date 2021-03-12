@@ -2,6 +2,174 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2021-01-08-analysis-a-second-trump-impeachment-vs-the-25th-amendment.md",
+      "title": "Analysis: A second Trump impeachment vs. the 25th Amendment",
+      "excerpt": "Here's a list of consequential things that happened Thursday in relatively short succession:\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k6VDayDLqMs/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k6VDayDLqMs/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1035,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210107192246-trump-twitter-comments-0107-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/what-matters-january-7/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/what-matters-january-7/index.html",
+      "publishedDateTime": "2021-01-07T18:49:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-education-secretary-betsy-devos-resigns-in-letter-criticizing-trumps-rhetoric-amid-riots.md",
+      "title": "Education Secretary Betsy DeVos resigns in letter criticizing Trump's rhetoric amid riots",
+      "excerpt": "Education Secretary Betsy DeVos resigned on Thursday, citing the riots that took place at the U.S. Capitol the prior day, Fox News has confirmed.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NsuFvnb154/education-secretary-betsy-devos-resigns-riots",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/0NsuFvnb154/education-secretary-betsy-devos-resigns-riots",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/74c1d84e-2483-4be3-82cf-0673113ddfaa/85592fcd-ce06-4ea8-94b7-e4ce7cca22e9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/education-secretary-betsy-devos-resigns-riots.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/education-secretary-betsy-devos-resigns-riots.amp",
+      "publishedDateTime": "2021-01-07T18:34:07-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-trumps-education-secretary-betsy-devos-submits-resignation.md",
+      "title": "Trump's Education Secretary Betsy DeVos submits resignation",
+      "excerpt": "Education Secretary Betsy DeVos has submitted her resignation, making her the second Cabinet member to resign over President Donald Trump's response to the mob breaching the US Capitol on Wednesday, according to an official.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UG9z9ULq440/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UG9z9ULq440/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/200723155730-betsy-devos-may-19-2020-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/07/politics/betsy-devos-donald-trump/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/07/politics/betsy-devos-donald-trump/index.html",
+      "publishedDateTime": "2021-01-07T18:33:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-several-cabinet-secretaries-informally-discuss-invoking-25th-amendment-but-pence-highly-unlikely-to-pursue.md",
       "title": "Several Cabinet secretaries informally discuss invoking 25th Amendment but Pence 'highly unlikely' to pursue",
       "excerpt": "Inquiries about invoking the 25th Amendment have been coming into Vice President Mike Pence's advisers and those discussions have been under way, a source close to the vice president said Thursday, with several Cabinet secretaries informally discussing the matter.\n    \n",
@@ -56,6 +224,58 @@
         "Election",
         "Democratic Voice",
         "Mike Pence"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-double-standard-biden-black-lawmakers-and-activists-decry-police-response-to-attack-on-us-capitol.md",
+      "title": "'Double standard': Biden, Black lawmakers and activists decry police response to attack on US Capitol",
+      "excerpt": "Civil rights leaders blasted police for their response to an attack on the U.S. Capitol compared to clashes between Black Lives protesters and police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/nation/2021/01/06/us-capitol-attack-compared-response-black-lives-matter-protests/6570528002/",
+      "originalUrl": "https://www.usatoday.com/story/news/nation/2021/01/06/us-capitol-attack-compared-response-black-lives-matter-protests/6570528002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/05/30/PDTF/e5dbb82d-76b3-405a-803b-293b966f51bc-05292020_detprotest_jh-36.jpg?auto=webp&crop=2399,1350,x0,y122&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6570528002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6570528002",
+      "publishedDateTime": "2021-01-07T17:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
       ]
     },
     {
@@ -180,7 +400,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-picks-rhode-island-gov-raimondo-commerce-secretary-75113998",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 305,
       "tags": null,
       "images": [
         {
@@ -224,21 +444,21 @@
       ]
     },
     {
-      "path": "_news/2021-01-08-facebook-indefinitely-blocks-trumps-account-after-violence-at-capitol.md",
-      "title": "Facebook 'indefinitely' blocks Trump's account after violence at Capitol",
-      "excerpt": "Trump supporters violently stormed the Capitol building in Washington, D.C., during a joint session of Congress, Facebook took the unprecedented step of indefinitely banning the president's account. At least four people have died following the so-called insurrection that erupted at the Capitol on Wednesday.",
+      "path": "_news/2021-01-08-the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.md",
+      "title": "The ‘treason finale’ of the Donald Trump era: Late night hosts react to U.S. Capitol riots",
+      "excerpt": "Late night television hosts often give their take the days events with humor. But Wednesday night was no laughing matter as Jimmy Fallon, Stephen Colbert and their fellow network hosts reacted to the mob of violent Trump supporters storming the U.",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386",
-      "originalUrl": "https://abcnews.go.com/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386",
+      "webUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html",
+      "originalUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 85,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/International/trump-rt-rc-210106_1609954638505_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RUUVL3H7NBD4LDLRK2P52HXIQI.PNG",
+          "width": 718,
+          "height": 464,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -246,23 +466,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386",
-      "publishedDateTime": "2021-01-07T13:18:00-08:00",
+      "ampWebUrl": "https://www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/life/2021/01/the-treason-finale-of-the-donald-trump-era-late-night-hosts-react-to-us-capitol-riots.html?outputType=amp",
+      "publishedDateTime": "2021-01-07T15:44:00-08:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
-        "domain": "abcnews.go.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -603,6 +814,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-08-we-are-all-joe-scarborough-msnbc-host-praised-for-f-word-rant-on-trump-rioters.md",
+      "title": "'We Are All Joe Scarborough:' MSNBC Host Praised For F-Word Rant On Trump Rioters",
+      "excerpt": "Scarborough on Thursday called for the arrest of Trump and others in a profanity-laced rant that went viral President Trump has been criticized for inciting violence and was temporarily banned from Twitter Scarborough received support on social media for his comments MSBNC host Joe Scarborough drew praise Thursday for an unfiltered commentary about the mob that raided Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660",
+      "originalUrl": "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/11/joe-scarborough-msnbc.jpg",
+          "width": 1200,
+          "height": 982,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660?amp=1",
+      "publishedDateTime": "2021-01-07T08:57:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-tom-cotton-says-pro-trump-capitol-protesters-were-insurrectionists.md",
       "title": "Tom Cotton says pro-Trump Capitol protesters were 'insurrectionists'",
       "excerpt": "Sen. Cotton said that the riots Wednesday were \"no different\" than the chaos that unfolded last year over police brutality.",
@@ -659,6 +922,58 @@
       ]
     },
     {
+      "path": "_news/2021-01-08-biden-to-nominate-judge-merrick-garland-for-attorney-general.md",
+      "title": "Biden to nominate Judge Merrick Garland for attorney general",
+      "excerpt": "President-elect Joe Biden will nominate federal appeals court Judge Merrick Garland to be U.S. attorney general, Biden's transition office said in a statement on Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY",
+      "originalUrl": "https://www.reuters.com/article/us-usa-biden-attorney-general-idUSKBN29C1FY",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 445,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546953058&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060RY",
+          "width": 765,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29C1FY",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C1FY",
+      "publishedDateTime": "2021-01-07T08:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-01-07-trump-pledges-orderly-transition-after-congress-affirms-biden-win.md",
       "title": "Trump pledges \"orderly transition\" after Congress affirms Biden win",
       "excerpt": "President didn't concede but his statement was as close as he's come to conceding an election he falsely insists was stolen,",
@@ -711,19 +1026,19 @@
       ]
     },
     {
-      "path": "_news/2021-01-07-us-senate-rejects-trump-allies-objection-to-arizona-presidential-election-results.md",
-      "title": "U.S. Senate rejects Trump allies' objection to Arizona presidential election results",
-      "excerpt": "The U.S. Senate on Wednesday night overwhelmingly rejected a move by allies of President Donald Trump to object to Arizona's certification of its presidential election results that awarded Democrat Joe Biden the victory,",
+      "path": "_news/2021-01-07-us-house-rejects-attempt-to-overturn-biden-victory-in-arizona.md",
+      "title": "U.S. House rejects attempt to overturn Biden victory in Arizona",
+      "excerpt": "The U.S. House of Representatives on Wednesday night joined the Senate in rejecting a move by allies of President Donald Trump to overturn Democrat Joe Biden's victory in Arizona, a vote delayed by rioters earlier pushing their way into the U.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/uk-usa-congress-election-arizona-idINKBN29C0CI",
-      "originalUrl": "https://www.reuters.com/article/uk-usa-congress-election-arizona-idINKBN29C0CI",
+      "webUrl": "https://www.reuters.com/article/usa-congress-election-arizona-house-idINKBN29C0H3",
+      "originalUrl": "https://www.reuters.com/article/usa-congress-election-arizona-house-idINKBN29C0H3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 333,
+      "heat": 765,
       "tags": null,
       "images": [
         {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546897694&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH06088",
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546906712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060AF",
           "width": 817,
           "height": 545,
           "title": null,
@@ -733,9 +1048,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29C0CI",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29C0CI",
-      "publishedDateTime": "2021-01-07T00:29:00-08:00",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29C0H3",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29C0H3",
+      "publishedDateTime": "2021-01-06T23:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -759,77 +1074,25 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-what-could-democratic-control-of-senate-mean-for-wages-child-care-unions-under-biden.md",
-      "title": "What could Democratic control of Senate mean for wages, child care, unions under Biden?",
-      "excerpt": "With Democrats in control of the White House and Congress, President Joe Biden may reshape the workplace from raising wages to encouraging diversity",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/money/2021/01/07/georgia-senate-wins-dem-control-how-biden-affect-workplace/6565695002/",
-      "originalUrl": "https://www.usatoday.com/story/money/2021/01/07/georgia-senate-wins-dem-control-how-biden-affect-workplace/6565695002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/10/23/USAT/87bcfc2a-a414-40df-a045-6466d1a19c12-AP_Election_2020_Debate_1.jpg?auto=webp&crop=5428,3054,x0,y0&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6565695002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6565695002",
-      "publishedDateTime": "2021-01-06T23:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Joe Biden"
       ]
     },
     {
-      "path": "_news/2021-01-07-trump-tells-backers-to-go-home-after-capitol-stormed.md",
-      "title": "Trump tells backers to ‘go home’ after Capitol stormed",
-      "excerpt": "President Donald Trump urged supporters who stormed the Capitol to “go home” but also kept up false attacks about the presidential election",
+      "path": "_news/2021-01-07-trump-supporters-storm-capitol-during-electoral-college-count.md",
+      "title": "Trump supporters storm Capitol during electoral college count",
+      "excerpt": "Violent protesters loyal to President Donald Trump stormed the U.S. Capitol on Wednesday and forced lawmakers into hiding, in a stunning attempt to overturn America’s presidential election, undercut the nation’s democracy and keep Democrat Joe Biden from replacing Trump in the White House.",
       "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html",
+      "webUrl": "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html",
+      "originalUrl": "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 425,
+      "heat": 845,
       "tags": null,
       "images": [
         {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4K2DZJCQNUI6XOLOBZKEI6ZDUE.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -837,9 +1100,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-doesnt-ask-backers-to-disperse-after-storming-capitol/2021/01/06/4abc2b5a-5063-11eb-a1f5-fdaf28cfca90_story.html?outputType=amp",
-      "publishedDateTime": "2021-01-06T18:08:00-08:00",
+      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/kidspost/trump-supporters-storm-capitol-during-electoral-college-count/2021/01/06/0ff54580-506b-11eb-b96e-0e54447b23a1_story.html?outputType=amp",
+      "publishedDateTime": "2021-01-06T14:55:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Washington Post",
@@ -864,110 +1127,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-trumps-biggest-allies-including-ted-cruz-and-kellyanne-conway-and-mike-pence-are-condemning-the-capitol-riots.md",
-      "title": "Trump's biggest allies — including Ted Cruz, and Kellyanne Conway, and Mike Pence — are condemning the Capitol riots",
-      "excerpt": "Senators Josh Hawley and Ted Cruz, who planned to object to the Electoral College's certification, both condemned the violence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1",
-      "originalUrl": "https://www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/5ff6312ed184b30018aad65b?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-allies-speaking-out-against-us-capitol-building-protests-riots-2021-1?amp",
-      "publishedDateTime": "2021-01-06T14:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-watch-live-president-elect-biden-to-offer-remarks-on-chaos-at-capitol.md",
-      "title": "Watch live: President-elect Biden to offer remarks on chaos at Capitol",
-      "excerpt": "President-elect Joe Biden is expected to discuss the breach of the Capitol by pro-Trump protesters at a press conference in Wilmington, Del., on Wednesday afternoon. Watch the live video above.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/video/in-the-news/532952-watch-live-president-elect-biden-delivers-remarks-on-the-economy",
-      "originalUrl": "https://thehill.com/video/in-the-news/532952-watch-live-president-elect-biden-delivers-remarks-on-the-economy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1225,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/ca_biden_123120getty.jpg",
-          "width": 1440,
-          "height": 880,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/video/in-the-news/532952-watch-live-president-elect-biden-delivers-remarks-on-the-economy?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/532952-watch-live-president-elect-biden-delivers-remarks-on-the-economy?amp",
-      "publishedDateTime": "2021-01-06T12:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

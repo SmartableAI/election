@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tiny Group of QAnon Supporters Spotted in D.C. Awaiting Trump Inauguration"
-    excerpt: "Two people said they traveled across the country from California to D.C. believing Trump would return as president on March 4."
-    publishedDateTime: 2021-03-05T12:35:00Z
-    webUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028"
-    ampWebUrl: "https://www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/qanon-march4-trump-president-capitol-1574028?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 123
-    images:
-      - url: "https://d.newsweek.com/en/full/1750168/q.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "With Trump gone, QAnon groups focus fury on attacking coronavirus vaccines"
-    excerpt: "Conspiracy theories about covid and vaccines once ran rampant on the likes of Facebook, Twitter and YouTube. But months of purges of accounts that trafficked heavily in misinformation - especially after the baseless QAnon ideology helped fuel the Jan."
-    publishedDateTime: 2021-03-11T13:39:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2021/03/11/with-trump-gone-qanon-groups-focus-fury-attacking-covid-vaccines/"
-    ampWebUrl: "https://www.washingtonpost.com/technology/2021/03/11/with-trump-gone-qanon-groups-focus-fury-attacking-covid-vaccines/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/technology/2021/03/11/with-trump-gone-qanon-groups-focus-fury-attacking-covid-vaccines/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 123
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3BTY7OC3P4I6XKCJN6KCHJ277U.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
   - title: "At the Capitol, a March 4 threat from militant Trump supporters proves a mirage"
     excerpt: "Threats of a March 4 attack create disruptions but little trouble. Researchers say police overreacted. The angst stemmed from another misguided belief within QAnon, the extremist ideology that claims Trump has been working in secret to overthrow a cabal of blood-drinking,"
     publishedDateTime: 2021-03-05T02:45:00Z
@@ -91,75 +59,84 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump"
-    excerpt: "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,"
-    publishedDateTime: 2021-03-04T21:28:00Z
-    webUrl: "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/"
+  - title: "Jan. 6 Capitol defendant wants trial moved to west Texas, says D.C. too anti-Trump, politically correct"
+    excerpt: "Attorney for Jenny Louise Cudd, 36-year-old florist of Midland, Tex., calls case ‘emotionally political in every respect.’"
+    publishedDateTime: 2021-03-11T00:59:00Z
+    webUrl: "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/local/legal-issues/capitol-riot-trial-move-jenny-cudd/2021/03/10/96777110-81ed-11eb-9ca6-54e187ee4939_story.html?outputType=amp"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3GRAMAUB7UI6XHFGKTQYP3SJHE.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Trump supporters want to 'blow up' Capitol - police chief"
+    excerpt: "Top News Trump supporters want to 'blow up' Capitol - police chief. Posted . Acting Chief of the Capitol Police Yogananda Pittman said on Thursday that Donald Trump supporters who"
+    publishedDateTime: 2021-02-25T22:45:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE15CYXR"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
     quality: 105
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.reuters.com/resources/r/?d=20210225&i=OVE15CYXR&r=OVE15CYXR&t=2"
+        width: 960
+        height: 540
         isCached: true
-  - title: "She voted for Obama and died for Trump. How QAnon turned Ashli Babbitt, an Iraq veteran, into a domestic 'terrorist.'"
-    excerpt: "Capitol rioter Ashli Babbitt believed QAnon was \"a movement against evil in the world\" and died fighting for the Trump-condoned conspiracy."
-    publishedDateTime: 2021-03-10T14:15:00Z
-    webUrl: "https://www.businessinsider.com/ashli-babbitt-profile-capitol-riot-qanon-death-2021-3"
+  - title: "Trump's own Pentagon chief says rioters wouldn't have stormed the Capitol if it hadn't been for the president's speech"
+    excerpt: "DOW S&P 500 NASDAQ 100 The man who was leading the Pentagon on Jan. 6 says that rioters would not have stormed the Capitol if it hadn't been for President Donald Trump's speech beforehand. Asked if he thought Trump was responsible for what unfolded at the ..."
+    publishedDateTime: 2021-03-11T21:27:00Z
+    webUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trumps-pentagon-chief-presidential-speech-capitol-riots-responsibility-2021-3?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 82
+    quality: 101
     images:
-      - url: "https://i.insider.com/603fef822dc9010018355397?width=1200&format=jpeg"
+      - url: "https://i.insider.com/604a851ef196be0018beef55?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
-  - title: "Video Shows Johnny Damon’s DUI Arrest, Mentioning Donald Trump Support"
-    excerpt: "Video of Johnny Damon’s arrest last month on a DUI charge in Florida has been released. The former MLB star and his wife can be seen involved in a verbal altercation with police before they are put in handcuffs."
-    publishedDateTime: 2021-03-10T20:03:00Z
-    webUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794"
-    ampWebUrl: "https://www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/video-shows-johnny-damons-dui-arrest-mentioning-donald-trump-support-3159794?amp=1"
+  - title: "Rep. Eric Swalwell sues Donald Trump, 3 others for inciting Capitol attack"
+    excerpt: "Rep. Eric Swalwell of California filed a federal civil lawsuit Friday against former President Donald Trump and three others whom he says incited the attack on the U.S. Capitol two months ago."
+    publishedDateTime: 2021-03-05T18:14:00Z
+    webUrl: "https://www.upi.com/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+    ampWebUrl: "https://www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Top_News/US/2021/03/05/eric-swalwell-sues-donald-trump-others-over-jan-6-capitol-attack/5831614965407/"
     type: article
     provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
+      name: UPI.com
+      domain: upi.com
+    quality: 73
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/10/gettyimages-1203414124.jpg"
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/5831614965407/2021/1/c5fd2e5c49d18744c2e0217abed09170/v1.5/Rep-Eric-Swalwell-sues-Donald-Trump-3-others-for-inciting-Capitol-attack.jpg"
+        width: 800
+        height: 533
+        isCached: true
+  - title: "WATCH LIVE: FBI Director Christopher Wray says no evidence of ‘fake Trump supporters’ at Capitol riot"
+    excerpt: "The top law enforcement official, in an opening statement to the Senate Judiciary Committee, said he was “appalled” by the deadly Jan. 6 attack that killed five people."
+    publishedDateTime: 2021-03-02T17:06:00Z
+    webUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/news/politics/us-elections-government/ny-christopher-wray-fbi-capitol-riot-senate-hearing-20210302-lu7r7griazdixm5mv2ramkxiqu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 60
+    images:
+      - url: "https://www.nydailynews.com/resizer/OX_M-cGRSh6r1Cc24GbTvCtdB9A=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/PB3B3FBBN5AOVMBXSS7BYMDAPY.jpg"
         width: 1200
-        height: 949
+        height: 800
         isCached: true
-  - title: "Pentagon Says Trump Interfered With Investigation Into Rep. Ronny Jackson's Abuse Of Subordinates"
-    excerpt: "Jackson is accused of dozens of improprieties, including commenting on a female subordinate's body and drunkenly harassing her."
-    publishedDateTime: 2021-03-03T22:02:00Z
-    webUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764"
-    ampWebUrl: "https://www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/pentagon-says-trump-interfered-investigation-rep-ronny-jacksons-abuse-subordinates-3155764?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 62
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2018/03/29/ronny-jackson.jpg"
-        width: 594
-        height: 396
-        isCached: true
-  - title: "Special Report: How Trump Administration Left Indelible Mark on U.S. Immigration Courts"
-    excerpt: "The Trump administration revised hiring for immigration judges to allow temporary appointments before background investigations were completed and gave the EOIR director more cont"
-    publishedDateTime: 2021-03-08T12:11:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2021-03-08/special-report-how-trump-administration-left-indelible-mark-on-us-immigration-courts"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 27
 
 secured: "nUdiRmiwyM4X+hyIZfcFNAsKNrf8TZak4NGogNwqpHluJAwB1xy60AnLtNlt9qn8MWDF/9n94ecmB8aFmKa+dOhTtxARmZHVBEtC9UbLaF/HhaRRb6uZ5SiMDBh5KHuOZgzP9Gfp66xkRvPURabn/ffy0w6u1KRImUlcDZ7q5mCNyCUb7cf5wn/MF7KE7YGpOEGs+bMQg1JCVBJE1JsF/ts1kSfnH5Ox6fMTqYd7gckIajsefCDNUI99oGrk+CEzLRwZsSY7XEw4y3FkBWNQSYMWUfualOIn6z6VlXHCk/zz/fewrFnkXB59iYFLrVPr8AHiEMT63e3ID8OJFey1yQr8GeE4F8bQgVTnldK9hE0=;JurPkpgAUrkqPVcLWLdq9g=="
 ---

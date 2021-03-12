@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden seeks to speed delivery of coronavirus stimulus checks and food aid"
-    excerpt: "U.S. President Joe Biden on Friday will sign orders to speed the issuance of pandemic stimulus checks to needy families and increase food aid for children who normally rely on school meals for nutrition."
-    publishedDateTime: 2021-01-23T00:12:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN29R122"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R122"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R122"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 124
-    images:
-      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548763539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HM"
-        width: 812
-        height: 545
-        isCached: true
   - title: "Biden's $1.9 trillion coronavirus aid bill gets enough votes to pass House"
     excerpt: "WASHINGTON, March 10 (Reuters) - President Joe Biden’s $1.9 trillion COVID-19 relief bill secured enough votes in the U.S. House of Representatives to pass on Wednesday. The Senate has already approved the legislation. The next step will be the White ..."
     publishedDateTime: 2021-03-10T18:07:00Z
@@ -59,37 +43,21 @@ related:
         width: 817
         height: 545
         isCached: true
-  - title: "Biden seeks five-year extension of New START arms treaty with Russia: source"
-    excerpt: "U.S. President Joe Biden will seek a five-year extension to the New START arms control treaty with Russia, a source familiar with the matter said on Thursday."
-    publishedDateTime: 2021-01-22T00:01:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-russia-nuclear-idUSKBN29Q2I4"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Q2I4"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Q2I4"
+  - title: "Joe Biden administration will devote $650 million to help schools expand testing"
+    excerpt: "During his prime time speech Thursday, President Joe Biden noted his announcement last week to vaccinate teachers and school officials by the end of March will help the majority of K-8 schools reopen within his first 100 days in office, or by the end of ..."
+    publishedDateTime: 2021-03-12T01:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/joe-biden-administration-send-millions-schools-expand-testing/4657459001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4657459001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4657459001"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
+      name: USA Today
+      domain: usatoday.com
+    quality: 120
     images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210121&t=2&i=1548635762&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0K1OZ"
-        width: 800
-        height: 545
-        isCached: true
-  - title: "Biden Officials Discuss $1.9 Tn Stimulus Plan in Call With Group of Bipartisan Lawmakers"
-    excerpt: "Officials in Joe Biden's administration discussed the president's $1.9 trillion stimulus proposal in a call with a group of bipartisan lawmakers on Sunday. On January 14, days before his inauguration,"
-    publishedDateTime: 2021-01-25T04:24:00Z
-    webUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026"
-    ampWebUrl: "https://www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-officials-discuss-19-tn-stimulus-plan-call-group-bipartisan-lawmakers-1564026?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1714910/biden-harris-white-house.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.gannett-cdn.com/presto/2021/03/07/USAT/59e31eb1-a074-4387-83f2-c87d0ebf692c-VPC_BIDEN_EXEC_ORDER_desk.jpg?auto=webp&crop=1274,717,x5,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Biden stimulus calls for expanded paid sick leave to help workers facing coronavirus challenges"
     excerpt: "The U.S. is an outlier for its lack of mandatory paid sick leave. Biden's plan seeks to eliminate loopholes that prevented some 100 million workers from accessing it during the pandemic."
@@ -107,37 +75,19 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus"
-    excerpt: "Biden announces former FDA head David Kessler as chief science officer for vaccine drive to stop spread of coronavirus"
-    publishedDateTime: 2021-01-15T12:37:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-announces-former-fda-head-david-kessler-as-chief-science-officer-for-vaccine-drive-to-stop-spread-of-coronavirus/2021/01/15/aeb5b86c-572d-11eb-acc5-92d2819a1ccb_story.html?outputType=amp"
+  - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
+    excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
+    publishedDateTime: 2021-03-12T02:22:00Z
+    webUrl: "https://www.ajc.com/politics/politics-blog/biden-and-harris-are-headed-to-atlanta-next-week-after-signing-19t-covid-19-relief-plan/Q7JFFTZBGFH2JMHNYT2BOB3CFA/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 101
+      name: Atlanta Journal-Constitution
+      domain: ajc.com
+    quality: 64
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Coronavirus updates: Single-dose vaccine from Johnson & Johnson could be 'game changer'; Biden to require masks on planes"
-    excerpt: "A COVID vaccine being developed by New Jersey-based Johnson & Johnson could dramatically speed up the fight against the pandemic. Latest COVID news."
-    publishedDateTime: 2021-01-21T18:20:00Z
-    webUrl: "https://www.usatoday.com/story/news/health/2021/01/21/covid-news-vaccine-shortages-us-response-joe-biden-california/4237433001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4237433001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4237433001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 100
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/21/USAT/a6d17a2c-5ef4-4acf-87f9-b26f62b41bc4-AP21020686218912.jpg?auto=webp&crop=5759,3240,x0,y292&format=pjpg&width=1200"
+      - url: "https://www.ajc.com/resizer/MMXL-u7FbeNag8S3s5fgZvuqLZU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/G7QYTXK4ABLJ6ZLT5W64ISOBU4.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "ODWjQbDStVUiW9dRi4H0jDaY6guZ+I36OXVUlVwoyWTuhLJ5F0/WgOXpQFeF8tY46bI+14j4MVfsM/VYyrjVYGhFq3M6zZT+or8viX6SRZ1HnTFllUO+zCd72UNGLQVTduSU9a42GPPTBk1PmURFRIAjJtsgOpm9q4HF9bS+O95G/LuOIunJRDvLHFQG+egr6IAXfrg6YXRgbYV4m2uvUKe9jGUPGdzzKJtpqtHIb7zPOKCPauAPtUmJz2gIOyp9E8cs5d9xXRZkr/jBCBlt4vX5l1dPbH7cD0/l+zfTUN9qnN1RdUEAdWZHKtBMYO39567242Jt7PqHIN5tf7/+ClF/TMRsmIdOw9P9MBMCwAgGOyWwgA+h0IZUxGDzwanfkG5GffCm233WXm+IwZbN4+w+yZgySPm3SOjRoqbzplXORmLEofqaJXytvQlrWIKTzAJtra6cQgsHkdE8Q3jCC+JoZsNuP2WYT05RaTjFp67oJru1ggacLRh61EUhXtVxtpYi5S2ACOUHe5XHq4eHrw==;G5zWrV7XgPloScs9GvYF6A=="

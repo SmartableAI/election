@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 766
         isCached: true
-  - title: "Trump once again requests mail-in ballot despite repeatedly attacking method"
-    excerpt: "Palm Beach county election marks the third instance of the former president voting by mail since 2019"
-    publishedDateTime: 2021-03-11T11:30:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/11/donald-trump-mail-in-ballot-palm-beach-county"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/11/donald-trump-mail-in-ballot-palm-beach-county"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/11/donald-trump-mail-in-ballot-palm-beach-county"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
-    images:
-      - url: "https://i.guim.co.uk/img/media/18fa202a6dfad06f3581ce052fecdf0fd6c93401/0_118_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=68a83f734cdcaa8f1c3f23dd1265cc0a"
-        width: 600
-        height: 360
-        isCached: true
   - title: "N.C. Republicans censured their senior senator for voting against Trump. But they are silent on Rep. Madison Cawthorn."
     excerpt: "The contrasting approach to Sen. Richard Burr and Cawthorn, a pro-Trump freshman, starkly illustrates the dichotomy within the Republican Party."
     publishedDateTime: 2021-03-04T03:04:00Z

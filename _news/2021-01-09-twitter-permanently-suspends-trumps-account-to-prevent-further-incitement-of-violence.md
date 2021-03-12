@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/08/donald-trump-twitter-ban-suspended"
 type: article
 quality: 116
-heat: -1
-published: false
+heat: 196
+published: true
 
 provider:
   name: The Guardian
@@ -31,38 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook 'indefinitely' blocks Trump's account after violence at Capitol"
-    excerpt: "Trump supporters violently stormed the Capitol building in Washington, D.C., during a joint session of Congress, Facebook took the unprecedented step of indefinitely banning the president's account. At least four people have died following the so-called insurrection that erupted at the Capitol on Wednesday."
-    publishedDateTime: 2021-01-07T21:18:00Z
-    webUrl: "https://abcnews.go.com/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/facebook-indefinitely-blocks-trumps-account-violence-capitol/story?id=75108386"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/International/trump-rt-rc-210106_1609954638505_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Sacha Baron Cohen shamed Google for keeping Donald Trump's YouTube account live after Facebook and Twitter banned him"
-    excerpt: "\"Trump's YouTube channel is STILL showing videos of his election lies to MILLIONS of people!\""
-    publishedDateTime: 2021-01-11T16:35:00Z
-    webUrl: "https://www.businessinsider.com/sacha-baron-cohen-youtube-donald-trump-google-2021-1"
-    ampWebUrl: "https://www.businessinsider.com/sacha-baron-cohen-youtube-donald-trump-google-2021-1?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sacha-baron-cohen-youtube-donald-trump-google-2021-1?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 102
-    images:
-      - url: "https://i.insider.com/5ffc6e66bde805001980c201?width=1200&format=jpeg"
-        width: 750
-        height: 374
-        isCached: true
   - title: "YouTube suspends Trump's channel after violating policy on inciting violence"
     excerpt: "Alphabet Inc's YouTube said on Tuesday it has suspended Donald Trump's channel as it violated policies for inciting violence after last week's assault on the U.S. Capitol by the president's supporters."
     publishedDateTime: 2021-01-13T10:41:00Z
@@ -77,81 +45,53 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Twitter permanently suspends Trump's account, cites 'incitement of violence' risk"
-    excerpt: "Twitter Inc said on Friday that it has permanently suspended U.S. President Donald Trump's account due to the risk of further incitement of violence following the storming of the U.S. Capitol on Wednesday."
-    publishedDateTime: 2021-01-09T08:32:00Z
-    webUrl: "https://www.reuters.com/article/uk-usa-election-trump-twitter/twitter-permanently-suspends-trumps-account-cites-incitement-of-violence-risk-idUKKBN29D359"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 100
-    images:
-      - url: "https://static.reuters.com/resources/r/?m=02&d=20210109&t=2&i=1547172914&r=LYNXMPEH0800P&w=800"
-        width: 799
-        height: 576
-        isCached: true
-  - title: "'We Are All Joe Scarborough:' MSNBC Host Praised For F-Word Rant On Trump Rioters"
-    excerpt: "Scarborough on Thursday called for the arrest of Trump and others in a profanity-laced rant that went viral President Trump has been criticized for inciting violence and was temporarily banned from Twitter Scarborough received support on social media for his comments MSBNC host Joe Scarborough drew praise Thursday for an unfiltered commentary about the mob that raided Capitol."
-    publishedDateTime: 2021-01-07T16:57:00Z
-    webUrl: "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660"
-    ampWebUrl: "https://www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/we-are-all-joe-scarborough-msnbc-host-praised-f-word-rant-trump-rioters-3116660?amp=1"
+  - title: "Snapchat Permanently Bans Donald Trump For Spreading Misinformation, Inciting Violence"
+    excerpt: "Snapchat has permanently banned Donald Trump from its platform after assessing what could happen if he were to continue spreading misinformation and inciting violence online."
+    publishedDateTime: 2021-01-14T02:36:00Z
+    webUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463"
+    ampWebUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 70
+    quality: 67
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2015/03/11/joe-scarborough-msnbc.jpg"
-        width: 1200
-        height: 982
-        isCached: true
-  - title: "Trump Taunted For Being Banned From Pinterest Even Though He Doesn’t Have Account"
-    excerpt: "After Trump incited the Capitol riot, which delayed the certification of Joe Biden’s win in the 2020 presidential election, social media apps began suspending Trump’s account. Even though he doesn’t have a Pinterest account,"
-    publishedDateTime: 2021-01-09T20:22:00Z
-    webUrl: "https://www.ibtimes.com/trump-taunted-being-banned-pinterest-even-though-he-doesnt-have-account-3118059"
-    ampWebUrl: "https://www.ibtimes.com/trump-taunted-being-banned-pinterest-even-though-he-doesnt-have-account-3118059?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/trump-taunted-being-banned-pinterest-even-though-he-doesnt-have-account-3118059?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 70
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/14/internet-bulletin-board-pinterest-will-pay-former-chief.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/the-cancelled-diplomatic-trips-round-off-four-tumultuous.jpg"
         width: 1024
-        height: 700
+        height: 677
         isCached: true
-  - title: "After Trump Was Kicked Off Twitter, Facebook, Instagram, Questions Surround How He Will Talk To Nation"
-    excerpt: "After inciting the violence at the Capitol, Donald Trump is now banned from many social media sites and is on a search for a new one to use."
-    publishedDateTime: 2021-01-10T18:12:00Z
-    webUrl: "https://www.ibtimes.com/after-trump-was-kicked-twitter-facebook-instagram-questions-surround-how-he-will-talk-3118391"
-    ampWebUrl: "https://www.ibtimes.com/after-trump-was-kicked-twitter-facebook-instagram-questions-surround-how-he-will-talk-3118391?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/after-trump-was-kicked-twitter-facebook-instagram-questions-surround-how-he-will-talk-3118391?amp=1"
+  - title: "Donald Trump Tweets From POTUS Account After Twitter's Suspension, Claims He Was Being 'Silenced'"
+    excerpt: "President Donald Trump tweeted from the official @POTUS account Friday evening shortly after Twitter banned his personal account, @realDonaldTrump."
+    publishedDateTime: 2021-01-09T07:26:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-tweets-potus-account-after-twitters-suspension-claims-he-was-being-3117888?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 59
+    quality: 62
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/09/this-photo-from-august-10-shows-the-twitter.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/05/us-president-donald-trump-dramatically-withdrew-from-the.jpg"
         width: 1024
-        height: 661
+        height: 681
         isCached: true
-  - title: "Facebook Bans Trump 'Indefinitely' For Inciting Violence"
-    excerpt: "Facebook banned President Donald Trump from the platform \"indefinitely\" due to his efforts to incite the violence in the US capital this week, chief executive Mark Zuckerberg said Thursday. Zuckerberg said the 24-hour ban announced Wednesday was extended because of Trump's \"use of our platform to incite violent insurrection against a democratically elected government."
-    publishedDateTime: 2021-01-07T16:34:00Z
-    webUrl: "https://www.ibtimes.com/facebook-bans-trump-indefinitely-inciting-violence-3116688"
+  - title: "Twitter Bans President Donald Trump's Account Permanently After Shopify Terminated POTUS-Affiliated Stores"
+    excerpt: "Twitter has decided to permanently ban Donald Trump from its platform \"due to the risk of further incitement of violence.\""
+    publishedDateTime: 2021-01-09T03:10:00Z
+    webUrl: "https://www.ibtimes.com/twitter-bans-president-donald-trumps-account-permanently-after-shopify-terminated-3117750"
+    ampWebUrl: "https://www.ibtimes.com/twitter-bans-president-donald-trumps-account-permanently-after-shopify-terminated-3117750?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-bans-president-donald-trumps-account-permanently-after-shopify-terminated-3117750?amp=1"
     type: article
     provider:
       name: International Business Times
       domain: ibtimes.com
-    quality: 55
+    quality: 57
     images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/07/president-donald-trump-is-facing-growing-bans-from.jpg"
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/08/democrats-in-the-us-house-of-representatives-have.jpg"
         width: 1024
-        height: 689
+        height: 682
         isCached: true
 
 secured: "xIXvx3732ADO7nsoKnHeplSlI6dy2GdWhpypuqdziWfsnY+Z36QLZRasV+TFdGvAGM9j9IBiD1g0V9RWcOkst+qMJxEdWZ9v/AhsVjRzar5RdzpXY/2vJ7R1oqsFkhlGiLxfgCLht4AvJCmLYw+L6iI5Z1XmkzsAFJkqrbxMyVbymHcOliWS4htrkvFJSi18qxZWs/whl/7SG0G/iwztikHu9NcC6g9rJ+70ajf+FSUd6H9fMooQ5JYhWxWzcigbDempI7DlO2wRATM/nSCyr6+WS6t/u+NsNxVkHFBt934BKHmpMPGOPaq5UNsWFlcqwo8JZtStXsg3bP+VnHbNCZo1HGFYsWE0WvhxKo4BK/A=;cFHWdikSZlHRmQk0JN0vAA=="

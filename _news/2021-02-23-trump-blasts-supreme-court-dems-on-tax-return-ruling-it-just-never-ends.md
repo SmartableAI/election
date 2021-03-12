@@ -44,22 +44,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Getting Trump Tax Returns Is Victory for Manhattan Prosecutors"
-    excerpt: "The U.S. Supreme Court removed a hurdle for the criminal probe when it rejected the former president’s efforts to block a subpoena for his financial records."
-    publishedDateTime: 2021-02-22T23:46:00Z
-    webUrl: "https://www.wsj.com/articles/getting-trump-tax-returns-is-victory-for-manhattan-prosecutors-11614037615"
-    ampWebUrl: "https://www.wsj.com/amp/articles/getting-trump-tax-returns-is-victory-for-manhattan-prosecutors-11614037615"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/getting-trump-tax-returns-is-victory-for-manhattan-prosecutors-11614037615"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 135
-    images:
-      - url: "https://images.wsj.net/im-302694/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Trump: Supreme Court tax return decision a ‘continuation of the greatest political witch hunt’"
     excerpt: "Former President Trump on Monday slammed the Supreme Court for declining to halt the turnover of his tax records to a New York prosecutor, calling it “a continuation of the greatest political Witch Hunt in the history of our Country."
     publishedDateTime: 2021-02-22T20:05:00Z

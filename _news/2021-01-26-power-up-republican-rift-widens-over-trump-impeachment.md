@@ -111,6 +111,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Arizona Republicans reelect fervent Trump ally as chair"
+    excerpt: "Arizona Republicans on Saturday reelected Kelli Ward as party chair, giving a second term to one of Donald Trump’s most unflinching supporters even after the GOP lost ground in the state last year"
+    publishedDateTime: 2021-01-23T23:18:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/arizona-republicans-reelect-fervent-trump-ally-chair-75449487"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Nightline/210123_ntl_politics_1239_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "U.S. Senate blocks constitutional challenge to Trump impeachment trial"
     excerpt: "The U.S. Senate voted 55-45 on Tuesday to block a Republican effort to upend plans for former President Donald Trump's impeachment trial on a charge that he incited the deadly Jan. 6 assault on the U."
     publishedDateTime: 2021-01-27T02:25:00Z

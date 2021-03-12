@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Watch Live: Biden to deliver remarks on COVID-19 response"
+    excerpt: "Biden promised it will be \"this spring\" when any American who wants a COVID-19 vaccine will be able to get one."
+    publishedDateTime: 2021-01-26T14:45:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/1c2d5e28-4740-448d-98b5-ac9222a755e8/thumbnail/1200x630/0b71298d7ef9696bca4127d1ca2abe07/gettyimages-1230789317.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden to reopen 'Obamacare' markets for COVID-19 relief"
     excerpt: "Fulfilling a campaign promise, President Joe Biden plans to reopen the HealthCare.gov insurance markets for a special sign-up opportunity geared to people needing coverage in the coronavirus pandemic."
     publishedDateTime: 2021-01-27T04:25:00Z
@@ -60,22 +76,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/01/26/68dab874-c21b-4556-90b1-af7217166798/thumbnail/1200x630/993b8c863211e6b4f1e875eb8a050a63/gettyimages-1230802973.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden renews deportation relief for Syrians in the United States"
-    excerpt: "The administration of President Joe Biden on Friday extended deportation relief for several thousand Syrian immigrants living in the United States, an early move that aligns with his broader pro-immigrant platform."
-    publishedDateTime: 2021-01-29T21:13:00Z
-    webUrl: "https://www.reuters.com/article/politicsNews/idUSKBN29Y28E?edition-redirect=uk"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y28W"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y28W"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210129&t=2&i=1549573106&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0S1AD"
-        width: 818
-        height: 545
         isCached: true
   - title: "Biden could change course in high court health care case"
     excerpt: "The pending Supreme Court case on the fate of the Affordable Care Act could give the Biden administration its first opportunity to chart a new course in front of the justices"
@@ -109,6 +109,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Watch live: Biden delivers remarks from State Department"
+    excerpt: "President Joe Biden will deliver a public address on Thursday afternoon. The remarks will come after the president and Vice President Harris visit with the Secretary of State and State Department officials."
+    publishedDateTime: 2021-02-04T16:35:00Z
+    webUrl: "https://thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks"
+    ampWebUrl: "https://thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/in-the-news/537340-watch-live-president-biden-delivers-remarks?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/1230bidenlede02022021.jpg"
+        width: 580
+        height: 326
+        isCached: true
   - title: "Biden wants to go big, fast and alone on COVID relief"
     excerpt: "President Joe Biden has laid out his for moving fast and without Republicans, if necessary, to pass $1.9 trillion in coronavirus relief, armed with new signs of economic strain brought on by the conti"
     publishedDateTime: 2021-02-05T17:36:00Z
@@ -124,6 +140,38 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Watch live: Biden meets with governors to discuss COVID relief"
+    excerpt: "President Biden and Vice President Harris on Friday morning are slated to meet with governors and mayors to discuss the America Rescue Plan and other COVID-19 relief.The meeting is scheduled to begin at 11:15 a."
+    publishedDateTime: 2021-02-12T15:02:00Z
+    webUrl: "https://thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief"
+    ampWebUrl: "https://thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/administration/538590-watch-live-biden-meets-with-governors-to-discuss-covid-relief?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/harriskamala_bidenjoe_02112021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Biden seeks to speed delivery of coronavirus stimulus checks and food aid"
+    excerpt: "U.S. President Joe Biden on Friday will sign orders to speed the issuance of pandemic stimulus checks to needy families and increase food aid for children who normally rely on school meals for nutrition."
+    publishedDateTime: 2021-01-23T00:12:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-idINKBN29R122"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN29R122"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29R122"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 124
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210122&t=2&i=1548763539&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0L1HM"
+        width: 812
+        height: 545
         isCached: true
   - title: "Biden signs order to reopen Obamacare markets for special Covid-19 coverage"
     excerpt: "President expected to sign executive order for special sign-up opportunity amid the coronavirus pandemic"
@@ -141,6 +189,38 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden tells Democrats he would consider limits on who gets COVID-19 checks"
+    excerpt: "President Joe Biden told congressional Democrats on Wednesday he would not back down on including $1,400 checks for struggling Americans in his COVID-19 relief plan but would consider tighter limits on who gets them,"
+    publishedDateTime: 2021-02-04T00:48:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2A322X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A322X"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A322X"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 123
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210204&t=2&i=1550246455&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1222D"
+        width: 809
+        height: 545
+        isCached: true
+  - title: "Watch live: Biden nominee for DHS Director testifies at confirmation hearing"
+    excerpt: "President-elect Joe Biden's nominee for Director of the Department of Homeland Security Alejandro Mayorkas on Tuesday morning is slated to testify at his Senate confirmation hearing.The hearing is scheduled to begin at 10 a."
+    publishedDateTime: 2021-01-19T14:23:00Z
+    webUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing"
+    ampWebUrl: "https://thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/video/senate/534747-watch-live-biden-nominee-for-dhs-director-testifies-at-confirmation-hearing?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 122
+    images:
+      - url: "https://thehill.com/sites/default/files/mayorkasalejandro_11242020getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden to reopen healthcare.gov as people lose coverage amid COVID-19: report"
     excerpt: "U.S. President Joe Biden plans to order the nation's online insurance marketplace, healthcare.gov, to reopen for at least a few months to offer Americans a way to buy health insurance amid the COVID-19 pandemic,"
     publishedDateTime: 2021-01-26T14:07:00Z
@@ -156,6 +236,38 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210126&t=2&i=1549108836&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH0P0XP"
         width: 856
         height: 545
+        isCached: true
+  - title: "Watch Live: Biden visits Pentagon for first time as president and makes remarks"
+    excerpt: "White House press secretary Jen Psaki said his visit comes with \"special resonance\" since he will be visiting during Black History Month."
+    publishedDateTime: 2021-02-10T16:56:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-pentagon-visit-watch-live-stream-today-2021-02-10/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-pentagon-visit-watch-live-stream-today-2021-02-10/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-pentagon-visit-watch-live-stream-today-2021-02-10/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/02/04/7a0338a8-4130-4b1b-98a3-203f5e1d89cc/thumbnail/1200x630g3/79801f17b01d170e41956d948e8a5a20/gettyimages-1230951207.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Watch Live: Biden signs executive actions on abortion policy, health care access"
+    excerpt: "Mr. Biden has vowed to protect and expand the Affordable Care Act, which was enacted while he was vice president."
+    publishedDateTime: 2021-01-28T14:17:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-health-care-executive-orders-watch-live-stream-today-2021-01-28/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/28/c6da5626-65f4-4274-ad76-480ed47da6ab/thumbnail/1200x630/5a5d95df2539d794cb0850404e613ac3/gettyimages-1230821605.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Joe Biden tells Republican senators to aim for larger Covid relief package – live"
     excerpt: "Trump legal team files 14-page brief defending his conduct on day of Capitol riot – follow all the latest politics news"
@@ -205,6 +317,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Ten Senate Republicans propose compromise covid relief package, posing challenge for Biden"
+    excerpt: "The GOP proposal would significantly narrow eligibility for a new round of $1,400 stimulus checks Biden wants to send to individual Americans."
+    publishedDateTime: 2021-01-31T19:22:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/01/31/gop-stimulus-compromise/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5QSCURTBVAI6XILXO5S7FGUVEQ.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Fauci Says Biden's 'Strikingly Different Tone' on COVID Crisis Will Rev Up Vaccination Efforts"
     excerpt: "\"Instead of pointing fingers and making blame, we're going to try and fix it,\" the nation's top infectious disease expert said."
     publishedDateTime: 2021-01-23T18:57:00Z
@@ -236,6 +364,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210202&t=2&i=1549921674&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH1101W"
         width: 824
         height: 545
+        isCached: true
+  - title: "Watch Live: House to vote on $1.9 trillion COVID relief bill, handing Biden major legislative win"
+    excerpt: "The $1.9 trillion aid plan is expected to pass along party lines and will head to Mr. Biden's desk before key unemployment programs ... particularly Senator Joe Manchin. As Democrats have a 50-seat majority in the Senate, they require support from all ..."
+    publishedDateTime: 2021-03-10T15:01:00Z
+    webUrl: "https://www.cbsnews.com/news/covid-relief-bill-american-rescue-plan-house-vote-watch-live-stream-today-2021-03-10/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-house-vote-watch-live-stream-today-2021-03-10/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-relief-bill-american-rescue-plan-house-vote-watch-live-stream-today-2021-03-10/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 112
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/10/461fb591-be60-4a58-bebb-c908871d9234/thumbnail/1200x630/1950d4fb8ac3c83f3784c1f47ab20b14/2021-03-10t191936z-1953990643-rc2j8m915qnv-rtrmadp-3-health-coronavirus-usa-congress.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Despite 'productive' Republican meeting, Biden will not accept a scaled-down COVID-19 bill -White House"
     excerpt: "After meeting with Republican senators at the White House on Monday, President Joe Biden appeared poised to push forward with his $1.9 trillion COVID-19 relief plan even if it fails to draw Republican support."
@@ -317,6 +461,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. Senate passes Biden's COVID-19 relief bill, sending it back to House"
+    excerpt: "The Senate passed President Joe Biden's $1.9 trillion COVID-19 relief bill on Saturday, plowing through a round-the-clock marathon of debate, negotiation and amendment proposals to adopt one of the largest legislative packages in U."
+    publishedDateTime: 2021-03-06T16:27:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-senate/u-s-senate-passes-bidens-covid-19-relief-bill-sending-it-back-to-house-idUSL1N2L4083"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2L4083"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2L4083"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 104
   - title: "UPDATE 1-Biden to reopen healthcare.gov, ease Medicaid rules amid COVID-19 -report"
     excerpt: "U.S. President Joe Biden is set to reopen the nation's online insurance marketplace, healthcare.gov, as soon as this week, the Washington Post reported on Tuesday, offering Americans who cannot get coverage through work another way to obtain it amid the COVID-19 pandemic."
     publishedDateTime: 2021-01-26T14:17:00Z
@@ -337,6 +492,22 @@ related:
       name: Washington Post
       domain: washingtonpost.com
     quality: 82
+  - title: "President Joe Biden, Democrats hit gas on push for $15 minimum wage"
+    excerpt: "President Joe Biden called for a $15 hourly minimum wage during his campaign and has followed through by hitching it to a measure that, among other things, calls for $1,400 stimulus checks and $130 billion to help schools reopen."
+    publishedDateTime: 2021-01-30T18:07:00Z
+    webUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html"
+    ampWebUrl: "https://www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/politics/2021/01/president-joe-biden-democrats-hit-gas-on-push-for-15-minimum-wage.html?outputType=amp"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/DCYM7LIUA5EM3N44LCYC3SJYVI.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "j6iTFC/IhIZzEAm7T4UfXBFmm1KxXeSo1E/tlCBcJhESeleqoSNa95C0LPJw/gbn2wG4JpcQQriwu+hx6hu2p3WNS953u8/+7Rc2J4J6/JCVBwyz4BunSZMc0nkTpyK5nZOeRcEKG5HJJCz/ntUFwCk99Irxu35HdAoMdMR1bVjr31aLfr6gJ/C1Xd5m28Bi5B3ztpOKros8q8pt7VFYND4eFoGp0YCV6GbghWDXNHB5R0Iym2lPntEa4mdQxTas5dtUyqM+C0n8d2ZqKEV4T6yFufKesUxhygobQ5MqAwnRleHfK8N7+16JfL2Oj9SVSi9Pqo6+l5qj6Lw09aTv0Z8dRQ1cvJguTBb9dVJnp1LWqBjaNQqIOJWlsFcwLJ8uNyCkvEYsUg76/OfGqHlyjDxoISVKtZ2HrtQWxZlukBN9ehV73HV3oC/asjA2KMUSPnEuu9/Eb+8GV4+0UvTI7YVgxuFQiYlnkL8fuy6YNAmDBYhUMnz7j53FYFZsZwtpEnL4CHYL21+BHtzC3R0jAQ==;MH83ndlu8MYbqrWlVDEJUA=="
 ---

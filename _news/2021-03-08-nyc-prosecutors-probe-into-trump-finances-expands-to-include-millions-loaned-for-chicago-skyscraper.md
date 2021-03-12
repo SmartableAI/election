@@ -285,6 +285,20 @@ related:
         width: 1120
         height: 629
         isCached: true
+  - title: "Trump dives into battle for Senate"
+    excerpt: "Donald Trump sounds like he’s ready for a GOP civil war. But he’s also eager to play a leading role in Senate Republicans' battle for the majority. The former president is dialing up GOP senators to back their campaigns and talk strategy, weighing how ..."
+    publishedDateTime: 2021-03-12T09:30:00Z
+    webUrl: "https://www.politico.com/news/2021/03/12/trump-senate-gop-475423"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/ee/48/91b116ee427d9fffb570fa005647/210311-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "tpiJcS+u6Mu9bd9sr5RmcmZo/yAD5Z3DZnDC/IGFUdNhYT5BIXM08kUW4oPnYS5vlNNNRi7MQJZXyayrgk2lnJm0sS+kZ77agOL08j139FqYzRrnqrFxLftKimsgTee3L2YE1phLvm3yTCkPPcwiuBKJmEGJ1V6iDjJvuquLdyQCWI4atARurlHX4tIGkoVZlTz0N9fxnnwQu18K3fm9dBgmUh3A17Yht08oOSDz4mu7Au0G1UC2PSWY3kaX8BWFQ7KWf0acevv5npqeHs6Hb0PpX2nsL31wS7c5sGJkjh7qWclixWlVOZhbBTwAQSRGx3pOw+8p/fqrAbYgsxQU/LU5sk+m8LBsTp1qdl2eVyE=;4lc6R/7FlebkHKaeavapQA=="
 ---

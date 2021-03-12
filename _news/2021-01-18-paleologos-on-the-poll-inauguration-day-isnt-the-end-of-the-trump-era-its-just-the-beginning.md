@@ -79,22 +79,6 @@ related:
         width: 3283
         height: 2504
         isCached: true
-  - title: "Small group of Pro-Trump protesters, some armed, quietly gather in Carson City near capitol"
-    excerpt: "A small group of protesters have gathered in Carson City near the Nevada state Capitol. Check back here for live updates throughout the day."
-    publishedDateTime: 2021-01-16T22:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/2021/01/16/carson-city-protest-live-coverage-nevada-capitol/4184756001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4184756001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4184756001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 115
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/16/PREN/52f86d3b-ff52-4b49-8f0e-92801026d8d7-REN_CARSON_PROTEST_011621_05.jpg?auto=webp&crop=1477,831,x0,y74&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Steve Bannon expected to get pardon from Donald Trump"
     excerpt: "Bannon has been charged with duping thousands of investors who believed their money would be used to fulfill Trump’s chief campaign promise to build a wall along the southern border. Instead, he allegedly diverted over a million dollars,"
     publishedDateTime: 2021-01-20T08:14:00Z

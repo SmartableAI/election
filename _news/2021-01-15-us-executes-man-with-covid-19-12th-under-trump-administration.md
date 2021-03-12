@@ -59,22 +59,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "Gov. Mike DeWine says he still supports Donald Trump, though blames him for occupation of U.S. Capitol"
-    excerpt: "DeWine said Trump's continued denial of the election inflamed his supporters, who overran the U.S. Capitol on Wednesday."
-    publishedDateTime: 2021-01-07T20:39:00Z
-    webUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html"
-    ampWebUrl: "https://www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/open/2021/01/gov-mike-dewine-says-he-still-supports-donald-trump-though-blames-him-for-occupation-of-us-capitol.html?outputType=amp"
-    type: article
-    provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 59
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/F43BGYKSCFFH3COOSGRAHZFIHY.jpg"
-        width: 2754
-        height: 1961
-        isCached: true
 
 secured: "iXb/ajY7bxE2YO4j+puX2gh7dzPU+Rtx+6PzobQCkEqAcM9a/vJFPv34USWuq2Bbw7E8yBX2MI7MoV8J1w1gamZSpxWFe+nph6CEPc1XoaCYYoxNdR2t8XeA/G2czx9cUw30LBQLYe9sGqu+OtGiyqsBI4P4r0fHBbRLMrWeyLzer5XVi/k3O9rtMg8Qh2z4IM4zRjUtQtbT7spMM21AY3CMjvJ0tJynymQELQ+r/n6C8UHLWzVfjBd7+KBDWy6+GYXcunZ+DUauf31aoiEIbTNRxfx5VmJMNJc3KtwkQmBRxfoCY3Oc8vgUoqEX7S6nsIV47IQxZtFlwQ8QWluASkQLzMT7LcZa0AyLy846rxTrR0HR7K9z8BQkoMbi0ZjHqWv73YoszcdqtBjZeHzRqpWJvk2LB/B9e4YbSzhxNn95tjZBejlCr+uZ3ArMcdEUQdkOoJ0ZLoe/rro+z7pXVbpye/KZBarLMIT/zafALK380euS2kguQHiM8dduigIsFmBhoH2nTd08BiYMf/4VYg==;I9OMrXc5Z6Ic5hy9UFAbHw=="
 ---

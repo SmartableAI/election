@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2A529V"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2A529V"
 type: article
 quality: 125
-heat: 265
+heat: 245
 published: true
 
 provider:
@@ -110,22 +110,6 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/02/13/079d549e-3fd2-48d9-a40e-f9175aeb386e/thumbnail/1200x630/a32fc430b418c16eeb0a92bd98d32e4a/ap-21043658673903.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "'Real people are hurting.' Biden says weak jobs report shows why $1.9 trillion in COVID relief is needed"
-    excerpt: "President Joe Biden pushes for $1.9 trillion in COVID relief as lackluster jobs report shows U.S. economy continues to sputter amid global pandemic."
-    publishedDateTime: 2021-02-05T23:50:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/05/biden-says-lackluster-jobs-report-reinforces-need-covid-relief/4402277001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4402277001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4402277001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 108
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/25/USAT/9fdef51e-e789-4520-94dd-a4236d4d57cb-AP21025782104966_2.jpg?auto=webp&crop=1023,575,x1,y91&format=pjpg&width=1200"
-        width: 1200
-        height: 674
         isCached: true
   - title: "Senate confirms Mayorkas as Biden's homeland security chief"
     excerpt: "The Senate confirmed Alejandro Mayorkas on Tuesday as President Joe Biden's homeland security secretary, the first Latino to fill a post that will have a central role in the government's response to ,"

@@ -83,38 +83,6 @@ related:
         width: 921
         height: 460
         isCached: true
-  - title: "Donald Trump Could Pardon Rappers Lil Wayne, Kodak Black"
-    excerpt: "Lil Wayne and Kodak Black might get a pardon from Donald Trump The president is expected to announce his final pardon list on Jan. 19 Wayne and Black were charged for possession of weapons Rappers Lil Wayne and Kodak Black could soon walk away as free men since President Donald Trump could be thinking of pardoning both artists before he leaves the office on Jan."
-    publishedDateTime: 2021-01-12T05:36:00Z
-    webUrl: "https://www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640"
-    ampWebUrl: "https://www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-could-pardon-rappers-lil-wayne-kodak-black-3119640?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 75
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/04/lil-wayne.jpg"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Snapchat Permanently Bans Donald Trump For Spreading Misinformation, Inciting Violence"
-    excerpt: "Snapchat has permanently banned Donald Trump from its platform after assessing what could happen if he were to continue spreading misinformation and inciting violence online."
-    publishedDateTime: 2021-01-14T02:36:00Z
-    webUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463"
-    ampWebUrl: "https://www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/snapchat-permanently-bans-donald-trump-spreading-misinformation-inciting-violence-3121463?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 67
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/12/the-cancelled-diplomatic-trips-round-off-four-tumultuous.jpg"
-        width: 1024
-        height: 677
-        isCached: true
 
 secured: "co4hdQ83SSZw3qR12IbxEDxFefeA3aUdmFlbHDWYuAeMfo0YQXWMOcHIDFc9nlZqE16Ymfubx4InjhG5lodqsGYSvGijJmkZWz33zHHopsmhGhsliTgcDvXYMR44RsxYfbRZZyUY4Sj6qnrllXSTwitwqmu4wd73HEodL2NDZIGiCZleHNZiDkq9qeU1OAcK1c1FvGmGMTNqZX1JgCY2yw06xAYhAOpU17aMmk36q0sMPbJSlNBFN0KH1xos562XJe1PFM897BYqRt9I/tfAbu93Xd33xbtTwQG9ia+5JeCEIVEJr973rRe6spS2HLhH+sdhpSVVS8vMwcA1XESxizZeZmjVLQE121ab22rXzhUtc9MRvh9ggyaZi8t4vEoT//Rxx1RICQ+MrYrOxg+gBG+z2Qxiual5iZtuRply8qW9yjPVzXYAOVWEkE254M3kxU6JIy/dnvTq+xAcKK9B8JRhS4lkgGLH2XVop1hUUWnW44aWd4oJ26SG/i/MpRuE/W77/js8xOMePChGcswSeA==;0TYmOdhybkdzpqz/ByioEg=="
 ---
