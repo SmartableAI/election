@@ -57,6 +57,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Manhattan DA investigating Trump says he won't seek reelection"
+    excerpt: "Cyrus Vance Jr., the Manhattan District Attorney investigating former President Trump Donald Trump The Memo: Nation rallies for Biden on his COVID-19 response Maryland GOP governor applauds Biden ..."
+    publishedDateTime: 2021-03-12T13:10:00Z
+    webUrl: "https://thehill.com/homenews/news/542889-cyrus-vance-manhattan-da-investigating-trump-says-he-wont-seek-reelection"
+    ampWebUrl: "https://thehill.com/homenews/news/542889-cyrus-vance-manhattan-da-investigating-trump-says-he-wont-seek-reelection?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/542889-cyrus-vance-manhattan-da-investigating-trump-says-he-wont-seek-reelection?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/vancecyrus.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "NYC prosecutor leading Trump probe won't seek re-election"
     excerpt: "The veteran New York City prosecutor is overseeing a criminal investigation into former President Donald Trump."
     publishedDateTime: 2021-03-12T13:32:00Z
@@ -104,6 +120,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Manhattan prosecutor who is investigating Trump will not seek re-election"
+    excerpt: "(Reuters) - Manhattan District Attorney Cyrus Vance Jr said on Friday he will not seek re-election in November, making it likely that his criminal investigation into former U.S. President Donald Trump will be left for his successor. The decision by Vance ..."
+    publishedDateTime: 2021-03-12T15:47:00Z
+    webUrl: "https://www.reuters.com/article/us-new-york-vance/manhattan-prosecutor-who-is-investigating-trump-will-not-seek-re-election-idUSKBN2B425D"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B425D"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B425D"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554700481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B188"
+        width: 817
+        height: 545
         isCached: true
   - title: "Recording reveals details of Trump call to Georgia’s chief elections investigator"
     excerpt: "In the Dec. 23 conversation, the then-president urged the chief investigator for Secretary of State Brad Raffensperger to do “whatever you can do” to uncover wrongdoing in the election."

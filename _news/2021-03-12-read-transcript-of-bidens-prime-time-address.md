@@ -127,6 +127,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden returns once again to the Rose Garden for stimulus celebration"
+    excerpt: "President Joe Biden will take to the Rose Garden on Friday for the first time as president, celebrating passage of his $1.9 trillion Covid-19 relief measure as the kickoff to a weeks-long sales effort to promote his debut legislative victory.\n    \n"
+    publishedDateTime: 2021-03-12T17:19:45Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wOZsZvxoQrU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-covid-19-law-rose-garden/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-covid-19-law-rose-garden/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161109120807-02-obama-rose-garden-speech-1109-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
     excerpt: "Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president.\n    \n"
     publishedDateTime: 2021-03-11T18:37:36Z

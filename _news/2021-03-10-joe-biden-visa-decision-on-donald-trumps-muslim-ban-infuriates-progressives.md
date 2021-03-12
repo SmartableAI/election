@@ -63,6 +63,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Should Joe Biden Thank Donald Trump For Vaccine Rollout? Operation Warp Speed Debated"
+    excerpt: "A number of conservative and Republican figures are saying that Joe Biden should be thanking Donald Trump for spurring on the development of a COVID-19 vaccine as the president announced hopes for the country to be \"back to normal\" by July 4. In an address ..."
+    publishedDateTime: 2021-03-12T08:56:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1754112/trump.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Joe Biden's Approval Rating on COVID Pandemic 18 Points Higher Than Trump's Best: Poll"
     excerpt: "That's 18 points higher than former President Donald Trump's best rating in the poll, in which he earned 44 percent approval in March and April last year. By the time he left office in January, Trump's approval rating on the coronavirus had dropped to 39 ..."
     publishedDateTime: 2021-03-11T21:45:00Z

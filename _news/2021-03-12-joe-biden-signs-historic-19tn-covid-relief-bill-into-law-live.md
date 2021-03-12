@@ -331,6 +331,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Hate crimes against Asian-Americans 'must stop:' Biden"
+    excerpt: "Biden. Posted . President Joe Biden said on Thursday (March 11) called for an end to \"vicious hate crimes against Asian"
+    publishedDateTime: 2021-03-12T09:58:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE3S8DZZ"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210312&i=OVE3S8DZZ&r=OVE3S8DZZ&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Biden's relief bill isn't getting bipartisan support like previous stimulus bills. What do Republicans dislike so much?"
     excerpt: "Republican Senators have described President Joe Biden's COVID-19 stimulus plan as a \"clunker,\" \"bad politics\" and “wildly expensive.\" The legislation, dubbedthe"
     publishedDateTime: 2021-03-05T10:12:00Z
@@ -364,6 +378,6 @@ related:
         height: 675
         isCached: true
 
-secured: "QKlx90uZHvctoKDOWei9l3OG8qaTjKs8Z5jf2mTXtawwSp1WoVy20bD6QfVSnWIgFIrrEdrEeLlzBUbxmBKaSkuoPocmsr2uO4sPQpBgHOkIzxhP59nsZa63uxzUC6YiPo1x1DyznJIF9U3Xa0089um8cgap5emNdx10uVjyQY+tR/YJVblBUPgzy0hAqOmZqB/COgIHoVXEPFUFwHeflURpc6+mMxGWgQi4ar34DF+6yph5hCZjoGqYWm74pxtbnyBgcbci8Pwv1H7AmV+UoNAhWBgCzO8YKelp3bMbDzVSAZniKj9KWhGZujoSbUdSlBG866jS1XgY4vZGTB4/vmVnzLTJ/Ff/8z9uRAhnCHQ=;LxcXkeCbUZ2FtD8U0tGDpw=="
+secured: "mkTMnoj5l7D2+K4MwftBfWJGkPR8r+cdG5s2UrfPJHfiFnYPQlWEz88KyQiM+4fWW1eRX25qWpfigJ4ktZhyu0A0UgXS6Epa4HcS/QCMlr+tILC+E++dHDOwpug/B1tBDCjSxZKR7mbltNq94/WixJVp3l0Vp3BFb71cwpd1AhGd8lkIGdRScwwuHpftCEBQhUEMpFu6ZNUoqaFEL7Jl3jpzzl/UezdD33GS6EXZDEGHVr6eIU1TgrjdZYx4zxUCyo0eZH/OWf2ZrdgMO+KoUcBIYf7qDR4gkkWBvG56ecApcoWkH3a0WMnP1xQhXh4kgp4OnyIzkd0eZSe09tD5gNz1rQtGTLPBtbrlbVln0IDPXjcI1amRKj7iMi5WChX3GG2f5KP61tpN4rmAzR6aqb9zG3zioyXT7cqxiFIW7LCHm+ZsnWWLGGzJfQeUXEbyeJgQh61Biv/H/qi4RQRz5spzmvuUlqZ491epNaAx6Qn7vhJ7r48wJjsM/IIG8aOlhMCWp1OzPfAhHzvv4571Qg==;KshYwsoFncbmXRhOjTNwKw=="
 ---
 

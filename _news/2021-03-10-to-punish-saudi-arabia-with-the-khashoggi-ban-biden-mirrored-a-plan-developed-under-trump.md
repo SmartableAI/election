@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/biden-khashoggi-ban-mirr
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/biden-khashoggi-ban-mirrored-trump-plan/index.html"
 type: article
 quality: 179
-heat: 279
+heat: 299
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration rescinds Trump-era immigration policy to alleviate surge of unaccompanied minors"
+    excerpt: "The Biden administration announced Friday it is terminating a Trump-era agreement that it said discouraged sponsors of unaccompanied migrant children, like parents or relatives, to come forward due to fear their information would be shared with immigration enforcement agencies.\n    \n"
+    publishedDateTime: 2021-03-12T17:50:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xNFnGWfdUsw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/biden-rescinds-trump-immigration-migrants-minors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/biden-rescinds-trump-immigration-migrants-minors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312044046-joe-biden-0312-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration never considered MBS sanctions a viable option in response to Khashoggi report"
     excerpt: "The Biden administration never considered sanctions as a viable option against the powerful Saudi crown prince named as responsible for the murder of journalist Jamal Khashoggi, even though the new President promised to punish senior Saudi leaders during the election.\n    \n"
     publishedDateTime: 2021-03-03T12:49:03Z

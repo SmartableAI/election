@@ -79,6 +79,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "Should Joe Biden Thank Donald Trump For Vaccine Rollout? Operation Warp Speed Debated"
+    excerpt: "A number of conservative and Republican figures are saying that Joe Biden should be thanking Donald Trump for spurring on the development of a COVID-19 vaccine as the president announced hopes for the country to be \"back to normal\" by July 4. In an address ..."
+    publishedDateTime: 2021-03-12T08:56:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1754112/trump.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden’s Justice Dept. already has split from Trump. Merrick Garland will go even further."
     excerpt: "Now, with federal appeals court judge Merrick Garland set to take over as attorney general, the thornier work begins. Garland, who is expected to be confirmed by the Senate on Wednesday, will inherit a Justice Department damaged by President Donald Trump’s efforts to use its power to benefit his friends and hurt his enemies."
     publishedDateTime: 2021-03-09T20:54:00Z

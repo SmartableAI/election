@@ -381,6 +381,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "The Daily 202: Biden says he’ll own pandemic failures – but promises they won’t come"
+    excerpt: "And the dam is breaking on New York Gov. Andrew Cuomo (D), where calls for his resignation are coming in fast and furious on a Friday."
+    publishedDateTime: 2021-03-12T16:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/12/daily-202-biden-says-hell-own-pandemic-failures-promises-they-wont-come/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/12/daily-202-biden-says-hell-own-pandemic-failures-promises-they-wont-come/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/12/daily-202-biden-says-hell-own-pandemic-failures-promises-they-wont-come/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GPJALVUDBUI6XPRCGLJTDWDVGA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Biden White House plans nationwide victory lap to promote benefits of COVID-19 relief bill"
     excerpt: "WASHINGTON (Reuters) - Mindful of hard lessons learned by the previous Democratic administration, President Joe Biden and top aides are planning a nationwide tour to sell Americans on the benefits of the newly passed $1.9 trillion pandemic relief bill."
     publishedDateTime: 2021-03-10T23:47:00Z

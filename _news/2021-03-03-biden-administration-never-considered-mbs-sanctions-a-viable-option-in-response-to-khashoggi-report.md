@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration rescinds Trump-era immigration policy to alleviate surge of unaccompanied minors"
+    excerpt: "The Biden administration announced Friday it is terminating a Trump-era agreement that it said discouraged sponsors of unaccompanied migrant children, like parents or relatives, to come forward due to fear their information would be shared with immigration enforcement agencies.\n    \n"
+    publishedDateTime: 2021-03-12T17:50:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xNFnGWfdUsw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/biden-rescinds-trump-immigration-migrants-minors/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/biden-rescinds-trump-immigration-migrants-minors/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312044046-joe-biden-0312-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Does Biden’s 'normal’ foreign policy need a dash of Trump?"
     excerpt: "The administration has ambitious goals and a deliberate process. But it might need to get a little unconventional to see results."
     publishedDateTime: 2021-03-05T23:59:00Z
