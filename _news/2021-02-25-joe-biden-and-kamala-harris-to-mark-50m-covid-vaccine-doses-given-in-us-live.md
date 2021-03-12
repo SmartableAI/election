@@ -127,6 +127,22 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Biden and Harris to go on the road to plug COVID aid package"
+    excerpt: "President Joe Biden, first lady Jill Biden, Vice President Kamala Harris and second gentleman Doug Emhoff will go on the road next week to pitch the $1.9 trillion COVID-19 economic relief package Mr. Biden signed on Thursday. In what the White House has ..."
+    publishedDateTime: 2021-03-12T04:53:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-harris-travel-covid-19-economic-relief/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-harris-travel-covid-19-economic-relief/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-harris-travel-covid-19-economic-relief/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 140
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/12/0d890f31-8e12-47e3-89ce-c125947e6966/thumbnail/1200x630/4ae3b44351e04a3cb321f49351078a3f/gettyimages-1303744901.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fact check: Kamala Harris did not say military would be used against Trump supporters"
     excerpt: "Social media users have been sharing a quotation falsely attributed to U.S. Vice President Kamala Harris, saying that she does not care about the constitution and will use federal law enforcement and the military against Trump supporters."
     publishedDateTime: 2021-02-08T21:53:00Z

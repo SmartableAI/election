@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden denounces hate, violence against Asian Americans: 'It must stop'"
+    excerpt: "President Biden Joe Biden Manchin cements key-vote status in 50-50 Senate The Memo: How the COVID year upended politics Post-pandemic plans for lawmakers: Chuck E. Cheese, visiting friends ..."
+    publishedDateTime: 2021-03-12T02:44:00Z
+    webUrl: "https://thehill.com/homenews/news/542872-biden-denounces-hate-violence-against-asian-americans-it-must-stop"
+    ampWebUrl: "https://thehill.com/homenews/news/542872-biden-denounces-hate-violence-against-asian-americans-it-must-stop?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/542872-biden-denounces-hate-violence-against-asian-americans-it-must-stop?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_31121_gettyimages.png"
+        width: 826
+        height: 551
+        isCached: true
   - title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
     excerpt: "Lauren Gambino in Washington (now), Joanna Walters and Martin Belam (earlier) The Senate voted on Thursday to advance the nomination of Deb Haaland to be the next interior secretary, bringing her one step closer to becoming the first Native American ..."
     publishedDateTime: 2021-03-11T20:13:00Z

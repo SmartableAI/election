@@ -223,6 +223,38 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "The Latest: Biden to deploy more troops to help vaccinations"
+    excerpt: "WASHINGTON — The Latest on President Joe Biden’s $1.9 trillion coronavirus relief package (all times local): 6:40 p.m. Support our journalism. Subscribe today. President Joe Biden is planning to announce during his prime-time address Thursday night ..."
+    publishedDateTime: 2021-03-12T04:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Transcript: President Joe Biden on the coronavirus pandemic"
+    excerpt: "Transcript of President Joe Biden's speech Thursday, March 11, 2021, on the coronavirus pandemic, as provided by the White House: Good evening, my fellow Americans. Tonight, I’d like to talk to you about where we are as we mark one year since everything stopped because of this pandemic."
+    publishedDateTime: 2021-03-12T04:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/transcript-president-joe-biden-coronavirus-pandemic-76405722"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/transcript-president-joe-biden-coronavirus-pandemic-76405722"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/transcript-president-joe-biden-coronavirus-pandemic-76405722"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
   - title: "VIRUS TODAY: Biden signs aid bill; ex-presidents get shots"
     excerpt: "President Joe Biden has signed into law the $1.9 trillion relief package he says will help the U.S. defeat the coronavirus and nurse the economy back to health"
     publishedDateTime: 2021-03-11T22:13:00Z
@@ -399,17 +431,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "The Latest: Biden to deploy more troops to help vaccinations"
-    excerpt: "The Latest on President Joe Biden's $1.9 trillion coronavirus relief package (all times local):"
-    publishedDateTime: 2021-03-12T01:23:00Z
-    webUrl: "https://www.businessinsider.com/the-latest-biden-to-deploy-more-troops-to-help-vaccinations-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/the-latest-biden-to-deploy-more-troops-to-help-vaccinations-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-to-deploy-more-troops-to-help-vaccinations-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Why did Biden decide to sign the bill today?"
     excerpt: "Watch \"Why did Biden decide to sign the bill today?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-03-11T19:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/4640961001"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4640961001"
 type: article
 quality: 117
-heat: 137
+heat: 117
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Biden's dog Major caused 'minor' injury: White House"
-    excerpt: "White House. Posted . President Joe Biden's younger dog, a rescue named Major, has decamped the White House after causing a \"mino"
-    publishedDateTime: 2021-03-09T21:43:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE3D9OF3"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210309&i=OVE3D9OF3&r=OVE3D9OF3&t=2"
-        width: 960
-        height: 540
-        isCached: true
 
 secured: "JXpMUNrQ9epck5tcdgC7aa/tgNd5GkdH4ZJ/fpNussiQ49SkEAdmr8PQkxLV5sGvgoMgB8g6DNaSrynvReu7SWjLofrM1QkJGdffE6Yrsq5rRqTAgCzPqIPBttc3cWiV/WLYFM6JTaar3eWNELGKxM2WMVrhftzxZ9TZDHtKp8bfM3r0bumkgI5eCDDvQ5CVp+pId39CdKBvNhaEYgzvmYCCjZTJ0vfKEv9Yk3RUkoB3VhwYUQ2fErmSyi2sDonfAiSCHGIIwLxQH9yP2ZHQCrCyyC/Z/82XNAekub8ys/d8FI2asy+5Z3bXHpzFq+aw5mK4wEDgLdF50rKt1cVEPkCr/wnHKpUec97u8vBj2Zk=;OitiiPTyv8LNN2DLYe5czg=="
 ---

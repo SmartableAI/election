@@ -29,21 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden dogs are in Delaware while Jill Biden travels after Major caused a 'minor injury'"
-    excerpt: "The statements came Tuesday after CNN reported Monday that President Joe Biden and first lady Jill Biden's two German shepherds returned to their family home in Delaware last week following \"aggressive behavior at the White House\" involving Major."
-    publishedDateTime: 2021-03-10T11:04:00Z
-    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/03/09/biden-dogs-delaware-while-jill-biden-travels-white-house-says/4640961001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4640961001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4640961001"
+  - title: "Biden is deeply concerned, highly engaged on Ethiopia: White House"
+    excerpt: "U.S. President Joe Biden is deeply concerned and highly engaged on the humanitarian situation in Ethiopia, White House press secretary Jen Psaki told reporters on Thursday."
+    publishedDateTime: 2021-03-12T01:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-ethiopia-idUSKBN2B32VX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B32VX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B32VX"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 117
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/8953951b-8480-4aa9-bd02-06c6ebe10ae8-VPC_JILL_BIDEN_PSA_PUPPY_BOWL_DESK_THUMB.00_00_20_18.Still001.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554584892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A1PP"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Joe Biden 'neanderthal' comment a reflection of frustration, says White House – video"
+    excerpt: "White House press secretary Jen Psaki defended Joe Biden’s comments comparing Republican governors to Nearnderthals for lifting mask mandates in Mississippi and Texas"
+    publishedDateTime: 2021-03-04T20:54:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/04/joe-biden-neanderthal-comment-a-reflection-of-frustration-says-white-house-video"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/fecd8fbdb567d855960ec043c8f0c666c19c628a/325_0_3843_2305/master/3843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ad7b0648ea431f588c666aba13d80d94"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
 
 secured: "2qdEokCFoPpCem5K3/pGPcEAqzzQYq/7Wjg1J31vERxv7V7TryFbwlP/UFTDWpLiTK3LtSGmHgBMDHGHUzRH4RQ60H1SGoDj7z7rvGYzAmWmG+ZEuJTO8IAvBNQHb5IjEohnf9XOvPoo9eZM/nUBisXSfdwYbpmt/UOsv4QGTdf/Y/4FQ/xbVeLTfXxnD63F/aGjy+8wzaCBhw88jW4O5f1dkUd6gkWYOZXPwyqY12jpDSYjX3y2o9YApJR9PWfv+G1qUQ6y9as4f290lDbgC71f1o8HLG+XCTi6kNW1iFSmnTXOW8OOuEupeEZ2Dq2dN0e44LqQRrNW9y0SCnNlv1mKQnoFOMVWH94hPCqjQEw=;kAKo5F+Mk9vSDQir81Bl9A=="

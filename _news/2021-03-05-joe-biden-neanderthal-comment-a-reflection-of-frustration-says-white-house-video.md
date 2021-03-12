@@ -29,21 +29,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden urged to back water justice bill to reverse decades of underinvestment"
-    excerpt: "Water Act proposes injection of federal dollars to overhaul ageing infrastructure, create jobs and address inequalities"
-    publishedDateTime: 2021-02-25T12:08:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders"
+  - title: "Biden is deeply concerned, highly engaged on Ethiopia: White House"
+    excerpt: "U.S. President Joe Biden is deeply concerned and highly engaged on the humanitarian situation in Ethiopia, White House press secretary Jen Psaki told reporters on Thursday."
+    publishedDateTime: 2021-03-12T01:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-ethiopia-idUSKBN2B32VX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B32VX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B32VX"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 122
+      name: Reuters
+      domain: reuters.com
+    quality: 125
     images:
-      - url: "https://i.guim.co.uk/img/media/58c77231dce552c519cfbadca53546bbbe4b92fa/0_218_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bc900b56a61f274f18064c23b1e15ed8"
-        width: 600
-        height: 360
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554584892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A1PP"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden's dog Major caused 'minor' injury: White House"
+    excerpt: "White House. Posted . President Joe Biden's younger dog, a rescue named Major, has decamped the White House after causing a \"mino"
+    publishedDateTime: 2021-03-09T21:43:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE3D9OF3"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210309&i=OVE3D9OF3&r=OVE3D9OF3&t=2"
+        width: 960
+        height: 540
         isCached: true
 
 secured: "Ox31WhqW0LSvE899Tj4ugVd0HHcypGONnX6NwKgnJkiOBGziNZl7qeQ9jdcorXNjtLplld1ui1kd5yp9UYzD2wmGUv/dZCDeNwNM6lVeqnYgFtU2/UKooGR6obvMErJspvBCUgExpHFswia40YtZxZFOESuAtm6sgYc2XDcEejXjC2CIlfdV+LCpegsf7OTwsYEcPhzWyU5IMp+w9pvdztkHD6tVVbUsaW9f9K4S77311xZQZB9im13BV4Jll6fDHm0i5GHZAf+yhtgtja6ia3HTUHMHhGM0NSsLLwbxc0Kmh+MDDGNSDCHmLNVcRCn8wTLmat6fMSvJvcbp1xLrS4jZW+Lb6RvzjDKPRS/ACXY/JU9H8UQkvB93WZgURJVCW2mznnZh3iXyyObujM8bGhpypMsCXi2m+RRTrsV+q1B6NHI+S+3C1ceIYrXaE2AKlVgijn58FDLZrYR5tpV0775QwKsaV34/HLHvr6ui8wIVXDFdD/0utboLv9LIvEONgkvPd6etSLUwvw5D3IH1oA==;GjFdjaMA6JstUUpyPCS6ZQ=="

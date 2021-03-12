@@ -1,28 +1,34 @@
 ---
 category: news
 title: "The Latest: Biden to deploy more troops to help vaccinations"
-excerpt: "The Latest on President Joe Biden's $1.9 trillion coronavirus relief package (all times local):"
-publishedDateTime: 2021-03-12T01:23:00Z
-originalUrl: "https://www.businessinsider.com/the-latest-biden-to-deploy-more-troops-to-help-vaccinations-2021-3"
-webUrl: "https://www.businessinsider.com/the-latest-biden-to-deploy-more-troops-to-help-vaccinations-2021-3"
-ampWebUrl: "https://www.businessinsider.com/the-latest-biden-to-deploy-more-troops-to-help-vaccinations-2021-3?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/the-latest-biden-to-deploy-more-troops-to-help-vaccinations-2021-3?amp"
+excerpt: "WASHINGTON — The Latest on President Joe Biden’s $1.9 trillion coronavirus relief package (all times local): 6:40 p.m. Support our journalism. Subscribe today. President Joe Biden is planning to announce during his prime-time address Thursday night ..."
+publishedDateTime: 2021-03-12T04:40:00Z
+originalUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html"
+webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
 type: article
-quality: 105
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
+
+images:
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
+    isCached: true
 
 related:
   - title: "Hiring surged in February, the first full month of Biden's presidency"
@@ -216,6 +222,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Transcript: President Joe Biden on the coronavirus pandemic"
+    excerpt: "Transcript of President Joe Biden's speech Thursday, March 11, 2021, on the coronavirus pandemic, as provided by the White House: Good evening, my fellow Americans. Tonight, I’d like to talk to you about where we are as we mark one year since everything stopped because of this pandemic."
+    publishedDateTime: 2021-03-12T04:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/transcript-president-joe-biden-coronavirus-pandemic-76405722"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/transcript-president-joe-biden-coronavirus-pandemic-76405722"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/transcript-president-joe-biden-coronavirus-pandemic-76405722"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
         isCached: true
   - title: "VIRUS TODAY: Biden signs aid bill; ex-presidents get shots"
     excerpt: "President Joe Biden has signed into law the $1.9 trillion relief package he says will help the U.S. defeat the coronavirus and nurse the economy back to health"
@@ -478,6 +500,6 @@ related:
         height: 675
         isCached: true
 
-secured: "qtQKrhzbrUvonzjtJyZMMIh6I6yYAVn3VAkxdvxWlyQcSwPAHpA6BoFKV9YCBvemqKy8ZByDVTlsETN4Toy4dD1QOcmoyJH5uZjo7SSH2wP2AmrYPJ2CpQyf3UM6kxAYhU14NrKtwLtNY9F5KUja2n4Yhd6+CiIXenOSVKdubVDiXDDOg+X6XnNnIZXIA4Em3ujClnIKOicMbf3kgOk6AcMYnPUL+Ak515Y5ZSfJ2huqBa9bdkvALv6TALMNcUTbl/5wcn0dBcx+LrfqGLnNJLxLV8l67XKRMcQ3aJiZ9pN+PEnpXwKIbdE3DgxyCViYo6/NcNqbU83Q7fa51xAnV6+d3lqiHbMYZlGvVb7wMuQ=;+SIZn5crcYL+HEtiMJJ4uw=="
+secured: "7zghgLHEcpoNQ+m50Nc1cJM+GU9KPqjaJUKg470bmV7jCGSsAMzAlTMJZWtL7JvYmwfIc60PP/Co4atcTjDx5PnCHG6EVHSnbs+l5e3kQhhZOOzUaAEJsIg2sSZ9LQfmjJrd3Fl72yL1iNwUs9nDKYdx4jqt3CfgID27WhyszTbtKYkivLqTvRidUMHF6472oWIQrISB7/bl9hbPB0dja5RQ3T7SjfZWkrQWEDBptbXuCBXRjoeMrdEo1IGpIXA7vS5q6OaA8saSis7E6QaCehIwCI/B3daD6XkOE+yvsFopYGrnjCaRFnZpeWmTpIJ3SwZ7p4Ge2dk8BMYIvezVri9R/n8oEwhhfsqT4oPTM5k=;dc3AOUhSoo/lEQ9ONJPEgg=="
 ---
 
