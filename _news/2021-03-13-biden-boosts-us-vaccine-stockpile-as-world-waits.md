@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden’s Justice Dept. already has split from Trump. Merrick Garland will go even further."
-excerpt: "Now, with federal appeals court judge Merrick Garland set to take over as attorney general, the thornier work begins. Garland, who is expected to be confirmed by the Senate on Wednesday, will inherit a Justice Department damaged by President Donald Trump’s efforts to use its power to benefit his friends and hurt his enemies."
-publishedDateTime: 2021-03-09T20:54:00Z
-originalUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html"
-webUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html"
-ampWebUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
+title: "Biden boosts US vaccine stockpile as world waits"
+excerpt: "President Joe Biden has directed his administration to order another 100 million doses of the Johnson & Johnson coronavirus vaccine, growing a likely U.S. surplus of doses later this year when much of"
+publishedDateTime: 2021-03-13T05:14:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+webUrl: "https://abcnews.go.com/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
 type: article
-quality: 131
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2RBG37UANEI6XAO3WAXQHGHUTI.jpg&w=1440"
-    width: 1440
-    height: 960
+  - url: "https://s.abcnews.com/images/Health/WireAP_67d9b979df914260ac39886cc7af1309_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -126,6 +126,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1753962/joe-biden-coronavirus-approval-rating.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Biden’s Justice Dept. already has split from Trump. Merrick Garland will go even further."
+    excerpt: "Now, with federal appeals court judge Merrick Garland set to take over as attorney general, the thornier work begins. Garland, who is expected to be confirmed by the Senate on Wednesday, will inherit a Justice Department damaged by President Donald Trump’s efforts to use its power to benefit his friends and hurt his enemies."
+    publishedDateTime: 2021-03-09T20:54:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2RBG37UANEI6XAO3WAXQHGHUTI.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "'Not about him': Biden's name won't appear on stimulus checks in shift from Donald Trump"
     excerpt: "President Joe Biden's signature won't appear on $1,400 stimulus checks to avoid delays in distributing the money, the White House says."
@@ -239,22 +255,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden boosts US vaccine stockpile as world waits"
-    excerpt: "President Joe Biden has directed his administration to order another 100 million doses of the Johnson & Johnson coronavirus vaccine, growing a likely U.S. surplus of doses later this year when much of"
-    publishedDateTime: 2021-03-13T05:14:00Z
-    webUrl: "https://abcnews.go.com/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
-    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Health/WireAP_67d9b979df914260ac39886cc7af1309_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
     publishedDateTime: 2021-03-10T20:24:00Z
@@ -336,6 +336,6 @@ related:
         height: 600
         isCached: true
 
-secured: "y6+qtl9eOz/34xQWFW07YG8SueMLFlegMiTLfLg7kA2we6HYa9Qo2SFLDRvW4ekUXy9J1o0TAP6BOwajmDFmLVc8TxDnNKRstqQsvop89B8D9sioSftsAa6HWpg+mQPLGa3nlJRfnIifTZ4LbgR0E3NeY3FP/mo2Hp0ojbuljR5Cqlayc45SsxoiXdLLKHYPW1pcDvqy2B2bsAt/RESis+VywQMO1OIO6dx5HSfmK7ggyUuPPo313EpT9rUIsy1d83RtFd0FL9Srojy+99nuhVGLNrAU3hgpb+7E7NkhSRmL2SYToxj9Y2ZcsmofQYXVwdq/0pZqytGLqekrT5RIR8tCx5AI+zbCCdWmafoPR2A=;CqwKGZ87PvDY7GqnMTf01w=="
+secured: "E3mMN8FGCxlg0De6OWRIvFFAvTsHhWtTVjOK9wQ5adQYnV1lW8SzO1MATEfvh4vRc2Ng0/yl63LNZzbsn9l4r2XDLnmFJDr5ZPjFjZNzUC+CCfmiR0zHkenciMASFABrB4J4Dwv8YA0YE3DMmo4eJrg8wEGTO19mryMNQIV5PjrfnWTmfCpNre7UYrBVvHaT9sfTKBVKMFpUqM6e8/0lrJqx+YKw0e55FOIlKzrQmwRJ4oBklOPBUc38KaJvLTobIaZihTiA+bzklFEk7xfnMbkCxP3XysjhmmCm2kiDo6jAjGXjvDpq0wSoosFGFBCjOLzSd2ZpDDvywhK3xnFocNdefVjDzo/QjLQuBFgJTj4=;mqZ7uayIj0JRzo2VffO05g=="
 ---
 

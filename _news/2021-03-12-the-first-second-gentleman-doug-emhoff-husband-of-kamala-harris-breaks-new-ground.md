@@ -2,19 +2,19 @@
 category: news
 title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
 excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
-publishedDateTime: 2021-03-11T19:28:00Z
-originalUrl: "https://www.miamiherald.com/news/politics-government/article249862338.html"
-webUrl: "https://www.miamiherald.com/news/politics-government/article249862338.html"
-ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249862338.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249862338.html"
+publishedDateTime: 2021-03-11T18:43:00Z
+originalUrl: "https://www.sacbee.com/news/politics-government/article249862338.html"
+webUrl: "https://www.sacbee.com/news/politics-government/article249862338.html"
+ampWebUrl: "https://amp.sacbee.com/news/politics-government/article249862338.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249862338.html"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
@@ -600,6 +600,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "VV6G2+e09f5Yiln+BFIDpdVHlxCCPlONHu3fb9A8j/4UECLnEcPKzueN5t4pZZom+VBX3Ys7xV+Gxlt9vW8NFJqHFjiqfTl505uzraohD0/6BsRLMiT5E9uBnrppJBGm5MvvfXIxmR+QjKeqrIUjcjTCpOqZxP9j2if1NnA49UqZK5GtiQ65uCaIqgFBWUHmn0+kmLZM39kqVocwt/LGruQ31+igtSy24Yr6jsQWHATeE3M0lhC79iGAm9M/DR5vdEKVyj2gbIPIN9V3G/vtzTvFwvWtutpkOxtoWpbuS5DdkwdtHhpcLNVcAKw7G8JHZ/XXiMbSF2hYFJc+RZbuyV/yL8xHbkubQkprmRrOG+I=;YKEHtUnLGyC7FVpqsVZzdw=="
+secured: "4GyLvC8rrC7rZEACAFiV1cQe+3Gqev4FBm3RPxM+TGcWDQOrCuFq4jgu7I1SYsViSgjmJ5x3V7wmX3oclqWYfqdCrTuNlwCyqHnbv2ZzCleqqsZAm2U0ptvJABKlLrQ7KNiNuBsUtd6UgEwkbYp/37r9GDTWfAPyHm225cFHhzZqZzXhzYVdErbBC+6otczXlDCVMRob115vCiT9F1Nau892+Wtxuy0wzsKXx6ITdogUSCIjQ5BmWPAX0Em+9thFyTqN+ffTHAqtOnn6J9NtMsTuAbLYRJYeUxhGehx1DraN9PNAsuYqeLL0qtk2AnN5eAug2zXgJCzTpKPr5x2OyZItFyUkt50WTHiHmtxAyi8=;kheZIt6etAQvD2sT6zO3MQ=="
 ---
 

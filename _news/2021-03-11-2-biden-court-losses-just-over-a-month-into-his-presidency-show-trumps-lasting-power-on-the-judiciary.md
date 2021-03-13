@@ -255,6 +255,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden boosts US vaccine stockpile as world waits"
+    excerpt: "President Joe Biden has directed his administration to order another 100 million doses of the Johnson & Johnson coronavirus vaccine, growing a likely U.S. surplus of doses later this year when much of"
+    publishedDateTime: 2021-03-13T05:14:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_67d9b979df914260ac39886cc7af1309_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Republicans Insist Donald Trump Should Take Credit for COVID Vaccinations"
     excerpt: "But prominent GOP figures have criticized the president for not recognizing the administration of Donald Trump, which launched Operation Warp Speed last April. This public-private partnership was set up to facilitate the development, manufacturing and ..."
     publishedDateTime: 2021-03-12T10:27:00Z

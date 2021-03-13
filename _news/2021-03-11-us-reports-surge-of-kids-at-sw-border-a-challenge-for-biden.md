@@ -239,6 +239,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden boosts US vaccine stockpile as world waits"
+    excerpt: "President Joe Biden has directed his administration to order another 100 million doses of the Johnson & Johnson coronavirus vaccine, growing a likely U.S. surplus of doses later this year when much of"
+    publishedDateTime: 2021-03-13T05:14:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_67d9b979df914260ac39886cc7af1309_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
     publishedDateTime: 2021-03-10T20:24:00Z

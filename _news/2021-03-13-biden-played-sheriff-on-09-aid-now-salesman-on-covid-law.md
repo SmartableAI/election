@@ -2,11 +2,11 @@
 category: news
 title: "Biden played ‘sheriff’ on ‘09 aid, now salesman on COVID law"
 excerpt: "WASHINGTON — In 2009, then-Vice President Joe Biden was “Sheriff Joe,” the enforcer making sure federal dollars from a massive economic aid package were getting to the right places and quickly. This time, President Biden’s role is different ..."
-publishedDateTime: 2021-03-12T20:46:00Z
-originalUrl: "https://www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html"
-webUrl: "https://www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html?outputType=amp"
+publishedDateTime: 2021-03-13T05:19:00Z
+originalUrl: "https://www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html"
+webUrl: "https://www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
@@ -424,6 +424,6 @@ related:
         height: 675
         isCached: true
 
-secured: "xHoJRccI4L0OGm6AeZ+FrdLuk7ccVQNTIyzr3TtHrJLQZRKkMmvBpqCI9NmCSn8eWbEnSD8OSktqL+nxZwTp9+Ig8NBbRcoCRT75AR3zgeXfwT/GYeC8Y81bVGmJI8rXv7TFELediQoksIMBMq7o3Ms6ieXs/nzNnHUPG0OFJ9fFzFr0pFeSWSZ0runEsTYXuTts6Zxmyip7cbQA1ZmTW383XD+CBxo+LtvnLRns5mNGp45wPtQtH6puWGPa0syGFFubPKRT4zp3ju19a1/18gHTAlNYWQqzFA4QMDFrt/03f8QFyToF7OZFdBFdmDcFm4AeN8W6bIlpCdNF9IAXPs3vXz7pW2IAF+ZLq47n8MI=;xVAU1dtIKXNaehgO2iL2pQ=="
+secured: "Ga40qn6KXFuWil+IKJS1tkJUIL2vOt3PoThg4vt3ayQ1uIzPDeWJMhToMZJbkZ+iPYrPk/+Iy/nXn8L3ZWi1suczRZikLPbbfXII2yUuWIJmVKRMcVAz8uPLQqyUKORAmiteDqblhWfjgptulVDMhHUpo5QXYK4myHyfM/ay7UrFTWKXsEP1xwov6blGW84+WZDjmQqxdu23z2nyOKVrLvGQhJXYjQE1HO1P35wS634eMXvtiOAvoWVdfFpRShOMlX8prnqj3Fac/jV50ndjmTbdTujsSvZc8ukzM8IXGezmQZEn4T1uKLc3SsH1CRQWr79Y90GdQqvo97WvrACVPOEopyhv0rOMQyVqzJ07bmw=;JSdVk+zpiZlEF6dlgQXPAg=="
 ---
 

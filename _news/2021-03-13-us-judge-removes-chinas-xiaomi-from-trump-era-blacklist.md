@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Twitter sues Texas Attorney General, accusing him of retaliating after it banned Trump"
-excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, accusing him of targeting the social media firm in retaliation for its suspension of Trump's account."
-publishedDateTime: 2021-03-09T19:08:00Z
-originalUrl: "https://abcnews.go.com/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
-webUrl: "https://abcnews.go.com/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
-ampWebUrl: "https://abcnews.go.com/amp/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
+title: "US Judge Removes China's Xiaomi From Trump-era Blacklist"
+excerpt: "Six days before Donald Trump left office last year, his administration cemented its trade war legacy against Beijing with a series of announcements targeting Chinese firms including Xiaomi, state oil giant CNOOC, and social media darling TikTok."
+publishedDateTime: 2021-03-13T03:52:00Z
+originalUrl: "https://www.ibtimes.com/us-judge-removes-chinas-xiaomi-trump-era-blacklist-3161338"
+webUrl: "https://www.ibtimes.com/us-judge-removes-chinas-xiaomi-trump-era-blacklist-3161338"
 type: article
-quality: 117
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/twitter-phone-gty-rc-210111_1613057909611_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/13/xiaomi-was-one-of-nine-firms-classified-by.jpg"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -111,6 +109,22 @@ related:
         width: 979
         height: 551
         isCached: true
+  - title: "Twitter sues Texas Attorney General, accusing him of retaliating after it banned Trump"
+    excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, accusing him of targeting the social media firm in retaliation for its suspension of Trump's account."
+    publishedDateTime: 2021-03-09T19:08:00Z
+    webUrl: "https://abcnews.go.com/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/twitter-sues-texas-attorney-general-accusing-retaliating-banned/story?id=76340289"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 117
+    images:
+      - url: "https://s.abcnews.com/images/Politics/twitter-phone-gty-rc-210111_1613057909611_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "NYC mayor accuses Cuomo of Trump-like tactics"
     excerpt: "The mayor of New York City said Wednesday that Andrew Cuomo was \"trying to distract attention from his own problems\" after the governor made negative comments about the city in a televised address. (M"
     publishedDateTime: 2021-03-04T18:24:00Z
@@ -185,21 +199,7 @@ related:
         width: 3789
         height: 2526
         isCached: true
-  - title: "US Judge Removes China's Xiaomi From Trump-era Blacklist"
-    excerpt: "Six days before Donald Trump left office last year, his administration cemented its trade war legacy against Beijing with a series of announcements targeting Chinese firms including Xiaomi, state oil giant CNOOC, and social media darling TikTok."
-    publishedDateTime: 2021-03-13T03:52:00Z
-    webUrl: "https://www.ibtimes.com/us-judge-removes-chinas-xiaomi-trump-era-blacklist-3161338"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/13/xiaomi-was-one-of-nine-firms-classified-by.jpg"
-        width: 1024
-        height: 682
-        isCached: true
 
-secured: "U0i4rlotvtHbv8f5Xo9XKFyWvQiObEPT+2hq2LfzHsuktpWnQvNuv0B38rCd79uynry4/fs94l6T5AsurV9Y0a31f7bF8dA8KMO4UHFoCkTSQtfIaDHJyz2HD30xERR3td1PzRHM8Rn3v8uA6jxBTUrzqPF8tDVZ9VXoX0daOqGLLYw0K7M3JqieZdiRDtGoTyLow+TR6ZyTTEHYJnDQvAHAhIviUTazkhrldTePBDRmCt9lt9WWg+EkLn+VAAyIUts8Bw5gVGIz8HpKCo/t6k4nfEVMlqdcUavJ3ivsEMrn2vFQ4X9WZNXj47b8RySc4hv4zNk6AX+q5JKIMw122K6RR/2WNm7AMFi6VhuzH4EamTn+cGNr2hjRULeppgtFWT9Kw6seFTsBSOsSlh0doVo3oMPdYA2OyoTJTcRHqlOp48WpX6Of5xTJgUw31m6gVULScnckxaMYnUYK06cN3AFyFFZaxEoBKqgpv3j82KSNlNYpPkIvZhmiWzRo0ngrwbhbP4oAVaAK1/jxrp4GIg==;JKkae7/J8Bcj/rekdtYK2g=="
+secured: "EEfUZCxR6Gz2y/uoL1XkoTfdadXJBV9+0rw1GBb4tr4n1Js5ZlWIALAWCyuND3G+C4bm3p6N60Z+m8O3BKc5LlLGgJH+WSU8WklrLIPKcEdua/VKyKa/b0XmgB3HrEIJV4BpgdEy1VDnfGYSgSKKPbOu15f8iPUoIfMrvNG60ERxFIi6rfitIOmt2f4iKI2pIymDvwuUHSQY0zHwgTeHPRuzpXwxsnS96VGTg/XHrgsQIQI6eyZc4m4xNFpRLSzrbAL7gfUMOnnOzYggzz1nZwMIGKziKg20UY6bWTdGWDqjDT8JOEe5kZxZibLg3x/2inOUfyouMrgbNnlrca+X+oqTMggwNg74fsvD+OrO6IU=;u8RBItLwfWrIXQ4/UvGz2Q=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/regulation/court-battles/542860-biden-rescinds-t
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp"
 type: article
 quality: 140
-heat: 500
+heat: 520
 published: true
 
 provider:
@@ -236,6 +236,22 @@ related:
     quality: 125
     images:
       - url: "https://s.abcnews.com/images/Politics/WireAP_7b29382f34b343d48f3c413aa580d499_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden boosts US vaccine stockpile as world waits"
+    excerpt: "President Joe Biden has directed his administration to order another 100 million doses of the Johnson & Johnson coronavirus vaccine, growing a likely U.S. surplus of doses later this year when much of"
+    publishedDateTime: 2021-03-13T05:14:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_67d9b979df914260ac39886cc7af1309_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true

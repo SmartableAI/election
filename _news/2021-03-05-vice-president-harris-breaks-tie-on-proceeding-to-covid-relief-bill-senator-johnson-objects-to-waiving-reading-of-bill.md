@@ -409,14 +409,14 @@ related:
         isCached: true
   - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
     excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
-    publishedDateTime: 2021-03-11T19:28:00Z
-    webUrl: "https://www.miamiherald.com/news/politics-government/article249862338.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249862338.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249862338.html"
+    publishedDateTime: 2021-03-11T18:43:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article249862338.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article249862338.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249862338.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 68
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/b0018f62-b6fe-41a9-92e0-177f1e3c9a2c/6e22477c-e373-4d34-af79-1d8070ada578/1280x720/match/image.jpg"

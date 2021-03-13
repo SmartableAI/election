@@ -185,6 +185,20 @@ related:
         width: 3789
         height: 2526
         isCached: true
+  - title: "US Judge Removes China's Xiaomi From Trump-era Blacklist"
+    excerpt: "Six days before Donald Trump left office last year, his administration cemented its trade war legacy against Beijing with a series of announcements targeting Chinese firms including Xiaomi, state oil giant CNOOC, and social media darling TikTok."
+    publishedDateTime: 2021-03-13T03:52:00Z
+    webUrl: "https://www.ibtimes.com/us-judge-removes-chinas-xiaomi-trump-era-blacklist-3161338"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/13/xiaomi-was-one-of-nine-firms-classified-by.jpg"
+        width: 1024
+        height: 682
+        isCached: true
 
 secured: "AzXLqjCkw6xcgHd2ujkr0RatyjQLir5Bbhrscqm4Ot9D5oAsWDz2dyOKng5wB7B4y3bly3s/2KwIGJESkTZvcaLKgjIm7ttpy2DpLX2rx8VmNkiIN2ADeemh8gAvoYSv2hUiUWx8GUkGu/V8h2O0S7INWxiMEs/NEeFVtCsii92QICPL9JoYPZfPKeeHEhMtX3KVE4Apim79qdWFAJ8x3dwkaM16+8KymGDfPquzE1WZ7CEn+mCElsaCaNQfZ+z7phuft0gjg2nmkkYmt1axWIoZ+vszk7FdLuLf9pkSijEvJv7dDw+ovpXLn85GRupfWNiDF16c5jnW+iFcecusysdD9QLrnJ6pGSoTfTOrnvUBUI3WM/+Kb7wGGpS7RBrZKISc2OVMRVzWMPLsj8miW3JUL7O/14JOF13ioOY/Gfg3SKyylCtnrI4c5Nt6rYvxQgFfCK+3tF2MmM7Oe21Ixvs4ZAvAbgyEDoiR8aSPzW9CAZN7wvjPrct24WzJN/RgKHVOnQ2JD2a1Y6Y9NNGXXQ==;Vm5wjcFd/tzZoYDBhrPaCQ=="
 ---

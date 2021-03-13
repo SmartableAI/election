@@ -3,8 +3,8 @@ category: news
 title: "Former Trump coronavirus coordinator Birx takes job at Texas air purifier maker"
 excerpt: "An expert in global health, Birx came to the White House in 2020 to help lead the Trump administration’s response to the pandemic. But she was criticized for not standing up to former President Donald Trump as he played down the virus, predicted it would ..."
 publishedDateTime: 2021-03-13T00:16:00Z
-originalUrl: "https://www.reuters.com/article/usa-trump-birx/update-2-former-trump-coronavirus-coordinator-birx-takes-job-at-texas-air-purifier-maker-idUSL1N2LA32X"
-webUrl: "https://www.reuters.com/article/usa-trump-birx/update-2-former-trump-coronavirus-coordinator-birx-takes-job-at-texas-air-purifier-maker-idUSL1N2LA32X"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-birx-idUSKBN2B42LV"
+webUrl: "https://www.reuters.com/article/us-usa-trump-birx-idUSKBN2B42LV"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B42LV"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B42LV"
 type: article
@@ -110,6 +110,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Vq4lv70PGPHtO7mfcNMZCACyNUYDhSpPe8/wP+dI2xMb/grSFZdISzMGdRBdfxjLdLL98rMxDDTvq965fWgNicKB2IaTr2e+sZW1euyoSQyJHL4Bmyh/evEsTKEx8x288Xzr5uOmptd/bWv9dgkAPo9P8mG2+hTvCHKWQKaYUeDWVDdRFwYz2g2lOdw5brsF86G6HxLtNWBAoiTKvkXTSr2rpxYMmqZMzsdFKSe/jBIltDcfALDIQTm/7ly/xy5o5/G2s+AOFevOfXFieWN03QvRkMXCWVyvCL6pdawlBaml/ci9gNfeHIUQqPUAmnwVCxJOX3RgEXv8GgADtmkqyzg2rw1DZ6hrQYT9/+8rl+b+aeFywy/UqTgd9IEeYabRsac42NWgmI8EUqnUyZTCTkHuT+qSt/B9Zfza3g/8JA1YoSSYRdKPZm0RKectqVgFi0dnkkpQWJu2JfNu5pQJdk0CDVske34vyIQGzlRgbkdEy1ZLLzCAG32rAORDie2WhfxhoPpbK4v4lwZdx8fi6Q==;pipDnXQmX2CO1UFkusbISg=="
+secured: "VVJAQJNx2uGIIwWGCt+hAvQzhF8+7+gX9PYbweCUBYkjd9ZwoFBUIDAG9Zudf3iCbKVG50t/ssaf+rzcY7mOsp5mt6310SLkm8160KI9hDhNizEzbOs421HKfIoLcF0ZuojYT0N59IjvsWsDRKvcn3Kq4mS/YuU/rfUHobG1+CprE0k5WlNVEHN/QIHijlegOdAP24l3kaYQ2Imsoss2caRRYsAmP9k/Sfd/Q6Gcw+Sg1Engb3appJ+ZRREHSOzVNX1itYPe9rwGRk+h+k258eXiwD4rEORiN4SiQefRbp1unGekTuu1kxGZTCAXcdGpyzFfdLPgIh0DQOzm/7QpD4aGZQVzKhbuifdKlgXYvZA=;lOB1Nja1sjcicsyJYxXsnw=="
 ---
 

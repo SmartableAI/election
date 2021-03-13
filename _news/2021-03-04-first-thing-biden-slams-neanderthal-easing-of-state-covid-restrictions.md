@@ -81,10 +81,10 @@ related:
         isCached: true
   - title: "Biden played ‘sheriff’ on ‘09 aid, now salesman on COVID law"
     excerpt: "WASHINGTON — In 2009, then-Vice President Joe Biden was “Sheriff Joe,” the enforcer making sure federal dollars from a massive economic aid package were getting to the right places and quickly. This time, President Biden’s role is different ..."
-    publishedDateTime: 2021-03-12T20:46:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html?outputType=amp"
+    publishedDateTime: 2021-03-13T05:19:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

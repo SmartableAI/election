@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-genera
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -184,6 +184,20 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HR3FW4ACXZFGHKLRJBLKDLTPK4.jpg"
         width: 3789
         height: 2526
+        isCached: true
+  - title: "US Judge Removes China's Xiaomi From Trump-era Blacklist"
+    excerpt: "Six days before Donald Trump left office last year, his administration cemented its trade war legacy against Beijing with a series of announcements targeting Chinese firms including Xiaomi, state oil giant CNOOC, and social media darling TikTok."
+    publishedDateTime: 2021-03-13T03:52:00Z
+    webUrl: "https://www.ibtimes.com/us-judge-removes-chinas-xiaomi-trump-era-blacklist-3161338"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/13/xiaomi-was-one-of-nine-firms-classified-by.jpg"
+        width: 1024
+        height: 682
         isCached: true
 
 secured: "zJYbrzx11tAldwClXjqiWHyT83UuSdjkKCBsjkwqgbTrYQR0K70PlzfQQaYxEjKrsrVydX9hU3vG9HrdWaQnlsW7v65SfUY7BDSuC/JTO1YZXMGHWRwznaqmd0ibIDe8elVulujvGKDeWc/Q69TRTjSCG142YzxC9y9oUKHAleQIbsXyvFvwjJ8aOpWLZ50WSpk7IZFr+Ixmxo38voS6OIVUZR/ngUiUNXeAMaFUDGMldomWo55CUyH2AV7EwP+62C2qPieJhH7gVW5zJRGTv/93msQBQ3hdyWAxSAGxyyJaLaWN02W1qafBLFWg1h4UDXObB6Ia0Hl1TBHrsVMTK2h7tGVuhOIdmyxX3ligL5bI28pVoqPrtAqRcQYr2G95gHUsXsUU5y/qDgcS7ZP919PcWJc5F80eqQFDTkc1CVN9LScmnv8xNmTjLv+iatBrg9Uc7GZQnJUWf1BVwz7/BChX6kCQdUGHSyVTQAzHTiJ2yaKTAOok7mqGLfCA4h/dvDFhKQ8tKaECLmhA/+U8zA==;lXFhgVLU/0wRZV1EXm2NaA=="
