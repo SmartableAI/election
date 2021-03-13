@@ -527,6 +527,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Mormon leader says family donation to Biden was ‘oversight’"
+    excerpt: "A top leader with The Church of Jesus Christ of Latter-day Saints says political donations made in his name to several Democratic candidates  including President Joe Biden, that violate the faith’s po"
+    publishedDateTime: 2021-03-12T23:05:00Z
+    webUrl: "https://www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
     publishedDateTime: 2021-03-10T20:24:00Z

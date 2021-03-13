@@ -3,10 +3,10 @@ category: news
 title: "Former Trump coronavirus coordinator Birx takes job at Texas air purifier maker"
 excerpt: "An expert in global health, Birx came to the White House in 2020 to help lead the Trump administration’s response to the pandemic. But she was criticized for not standing up to former President Donald Trump as he played down the virus, predicted it would ..."
 publishedDateTime: 2021-03-13T00:16:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-trump-birx-idUKKBN2B42LV"
-webUrl: "https://www.reuters.com/article/us-usa-trump-birx-idUKKBN2B42LV"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2B42LV"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2B42LV"
+originalUrl: "https://www.reuters.com/article/us-usa-trump-birx-exclusive/exclusive-dr-deborah-birx-former-trump-coronavirus-coordinator-to-join-texas-air-purifier-maker-idUSKBN2B42LV"
+webUrl: "https://www.reuters.com/article/us-usa-trump-birx-exclusive/exclusive-dr-deborah-birx-former-trump-coronavirus-coordinator-to-join-texas-air-purifier-maker-idUSKBN2B42LV"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B42LV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B42LV"
 type: article
 quality: 121
 heat: -1
@@ -110,6 +110,6 @@ related:
         height: 630
         isCached: true
 
-secured: "Gr4D8PNO/KdHxatO7kTzJclvm54CcRBm7aeA6biEHXLP1Ia9arK6vIoqt75I3Veo84KkcMUq1/xYCyemsrYPWfcFSdfR0WsLoeXigSvj9LA/lUedTiqQY6MmrNc3M6PKjxhrFwYuF0bhkL4Cj0uMxZl5SgigbDGUcc2Jz7NGNEQqRBXDU4R5I6dZHdieZukQbF4ObwTEeeoNdwOsQeh3YnRd2pNCAm+V0mGowapdLDZaGScYdBmjxB7Y0wQsqd5TTImvc68gAtP6asnbpz0YJJOf+6xgTfZgC3vNluD80mqy7eqpjxHe3HS6UrHt9Xh3z+ERXLwC/xG5yNt/IZ3pyMS1jhPNe5gBVCAE7+gVir8=;4SlIr9O66trl1H0qICXZ5A=="
+secured: "rBK6SwenLZvEmCI5azMZSVtmseKlw2VYSgt/TackuuewZ8T0R36uLwAk0sRuN0pVezdNdzUX1oz08mhFs3zj5zAlCzWVbCaM+FbcLhCfUUrWIUPrkMe2JObO2Vnv5L++1eDj6SCdSuwMCmxOSxGMJ0LJ5c02WocMSBuw0qadaYitRbUzJJ5E2qCLFZ5KTSuSNYvwlpEbSL+FngGhfSV+dKyJhUL/hBQCkkRJnEWvIxUSXuXn+JQzU+R87rruV9TnGBT25hIqcJqJV2BcZbGP6YixxKC8R9v8EdLin2tyvaprXoofycRGEslxm1vVXmLOz/l3badW80/H2n6AiaZIQf9EUjdx08o9is163Tv/oCU=;Y1XW+387mnjPbI6/qHlzlg=="
 ---
 

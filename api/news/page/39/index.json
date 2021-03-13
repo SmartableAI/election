@@ -2,6 +2,115 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2021-01-12-barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-is-fake-report.md",
+      "title": "Barack Obama Alleged 'Tweet' Mocking Donald Trump's Twitter Ban Is Fake: Report",
+      "excerpt": "A tweet allegedly made by former President Barack Obama that pokes fun at the permanent suspension of President Donald Trump's Twitter account is circulating on social media. However, reports confirme",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646",
+      "originalUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/11/10/exactly-four-years-ago-us-president-barack-obama.jpg",
+          "width": 1024,
+          "height": 727,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/barack-obama-alleged-tweet-mocking-donald-trumps-twitter-ban-fake-report-3119646?amp=1",
+      "publishedDateTime": "2021-01-12T00:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-01-12-trump-pence-meet-for-1st-time-since-capitol-riot.md",
+      "title": "Trump, Pence meet for 1st time since Capitol riot",
+      "excerpt": "President Trump lashed out at Mike Pence last week after the vice president said he lacked authority under the Constitution to overturn election results on the president’s behalf.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vCuI3hh8dDQ/trump-pence-meet-for-first-time-since-capitol-riot",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/vCuI3hh8dDQ/trump-pence-meet-for-first-time-since-capitol-riot",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 1500,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/676700e9-2160-4bb3-a8ea-16fc47cd468a/849f19f1-aae0-4ebc-bd24-78bdb1acd69c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pence-meet-for-first-time-since-capitol-riot.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pence-meet-for-first-time-since-capitol-riot.amp",
+      "publishedDateTime": "2021-01-11T16:58:05-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Mike Pence"
+      ]
+    },
+    {
       "path": "_news/2021-01-12-manchin-calls-second-trump-impeachment-bid-ill-advised-let-the-judicial-system-do-its-job.md",
       "title": "Manchin calls second Trump impeachment bid 'ill-advised': 'Let the judicial system do its job'",
       "excerpt": "House Democrats' attempt to impeach President Trump for a second time in connection with last week's riot at the U.S. Capitol is \"so ill-advised,\" Sen. Joe Manchin, D-W.Va. told \"Special Report\" Monday. ",
@@ -1258,114 +1367,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-10-dc-delegate-norton-to-introduce-resolution-to-censure-trump-as-only-remedy-that-can-pass-both-chambers.md",
-      "title": "DC Delegate Norton to introduce resolution to censure  Trump as ‘only remedy that can pass both chambers’",
-      "excerpt": "House of Representatives Delegate Eleanor Holmes Norton on Sunday called on Congress to censure President Donald Trump for his alleged incitement of Wednesday’s riot at the U.S. Capitol.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rEYdV5p5GBs/dc-delegate-norton-resolution-censure-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/rEYdV5p5GBs/dc-delegate-norton-resolution-censure-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/gettyimages-1214409770.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/dc-delegate-norton-resolution-censure-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dc-delegate-norton-resolution-censure-trump.amp",
-      "publishedDateTime": "2021-01-10T15:59:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-resign-and-go-away-second-gop-senator-urges-trump-to-step-down.md",
-      "title": "‘Resign and go away.’ Second GOP senator urges Trump to step down",
-      "excerpt": "Sen. Pat Toomey of Pennsylvania on Sunday joined Alaska Sen. Lisa Murkowski in calling for Trump to 'resign and go away as soon as possible.'",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign",
-      "originalUrl": "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/9cee817/2147483647/strip/true/crop/689x450+56+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F4a%2F62%2F8b1efa963432a7735fcbbb085fb6%2Fla-es-trump-culpa-a-la-caza-de-brujas-por-su-p-001",
-          "width": 320,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-01-10/impeachment-effort-gains-steam-as-second-republican-calls-on-trump-to-resign?_amp=true",
-      "publishedDateTime": "2021-01-10T14:57:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

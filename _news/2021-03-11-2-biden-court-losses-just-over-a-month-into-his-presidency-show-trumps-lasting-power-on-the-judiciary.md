@@ -527,6 +527,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Mormon leader says family donation to Biden was ‘oversight’"
+    excerpt: "A top leader with The Church of Jesus Christ of Latter-day Saints says political donations made in his name to several Democratic candidates  including President Joe Biden, that violate the faith’s po"
+    publishedDateTime: 2021-03-12T23:05:00Z
+    webUrl: "https://www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump pressured another Georgia elections official, Frances Watson, to uncover nonexistent voter fraud"
     excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump urged a Georgia elections official to uncover nonexistent evidence of mass fraud before the \"very important date\" of ..."
     publishedDateTime: 2021-03-11T01:27:00Z

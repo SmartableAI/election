@@ -2,6 +2,110 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-20-fact-check-did-donald-trump-jr-say-texas-governor-greg-abbott-is-a-democrat.md",
+      "title": "Fact Check: Did Donald Trump Jr. Say Texas Governor Greg Abbott is a Democrat?",
+      "excerpt": "The eldest son of former President Donald Trump was mocked for tweeting about \"Democrat Governor's incompetence\" while defending Ted Cruz.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574",
+      "originalUrl": "https://www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1739162/donald-trump-jr.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-jr-greg-abbott-democrat-ted-cruz-1570574?amp=1",
+      "publishedDateTime": "2021-02-19T08:51:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-biden-to-acknowledge-democracy-under-stress-in-us-as-he-tries-to-restore-place-on-global-stage-official.md",
+      "title": "Biden to 'acknowledge' democracy 'under stress' in US, as he tries to restore place on global stage: Official",
+      "excerpt": "President Joe Biden will aim to restore the United States' place as a world leader, the official said, following four years of President Donald Trump in office.",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/biden-acknowledge-democracy-stress-us-restore-place-global/story?id=75982189",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-acknowledge-democracy-stress-us-restore-place-global/story?id=75982189",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/joe-biden-anthony-blinken-ap-jc-210218_1613689623584_hpMain_16x9_992.jpg",
+          "width": 992,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-acknowledge-democracy-stress-us-restore-place-global/story?id=75982189",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-acknowledge-democracy-stress-us-restore-place-global/story?id=75982189",
+      "publishedDateTime": "2021-02-19T07:00:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-as-trumps-latest-intra-party-feud-rages-graham-heads-to-mar-a-lago-on-a-peace-mission.md",
       "title": "As Trump's latest intra-party feud rages, Graham heads to Mar-a-Lago on a peace mission",
       "excerpt": "Sen. Lindsey Graham is heading to Mar-a-Lago this weekend to meet with Donald Trump in hopes of bridging a growing rift in the top echelon of the Republican Party, CNN has learned.\n    \n",
@@ -1245,115 +1349,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-vp-kamala-harris-on-battle-to-reopen-schools-amid-pandemic.md",
-      "title": "VP Kamala Harris on battle to reopen schools amid pandemic",
-      "excerpt": "Vice President Kamala Harris speaks with Savannah Guthrie about the CDC’s guidance for reopening schools and stresses that teachers should be given priority for receiving the Covid-19 vaccine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/nightly-news/video/vp-kamala-harris-on-battle-to-reopen-schools-amid-pandemic-101198917708",
-      "originalUrl": "https://www.nbcnews.com/nightly-news/video/vp-kamala-harris-on-battle-to-reopen-schools-amid-pandemic-101198917708",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media12.s-nbcnews.com/i/MSNBC/Components/Video/202102/nn_sgu_vp_kamala_harris_intv_210217_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo101198917708",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo101198917708",
-      "publishedDateTime": "2021-02-17T16:50:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-rush-limbaugh-created-the-politics-that-trump-used-to-win-the-white-house.md",
-      "title": "Rush Limbaugh created the politics that Trump used to win the White House",
-      "excerpt": "The first time I remember hearing Rush Limbaugh’s radio show, I was in high school. It was 1991, and I was in the district office of then-Rep. Jim Traficant (D-Ohio), for whom I’d earned the dubious honor of interning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 204,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/USUFFNDRJAI6XBSRNUYJD2WGH4.jpg&w=1440",
-          "width": 1440,
-          "height": 991,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/17/rush-limbaugh-created-politics-that-trump-used-win-white-house/?outputType=amp",
-      "publishedDateTime": "2021-02-17T16:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

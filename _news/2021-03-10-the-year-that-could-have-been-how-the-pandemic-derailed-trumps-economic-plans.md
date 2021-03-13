@@ -32,21 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "F.B.I. Finds Contact Between Proud Boys Member and Trump Associate Before Riot"
-    excerpt: "A leader of the far-right group separately said he had been in touch with Roger Stone, but an official said it was not the same contact investigators found through electronic communications records."
-    publishedDateTime: 2021-03-06T00:44:00Z
-    webUrl: "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/05/us/politics/trump-proud-boys-capitol-riot.amp.html"
+  - title: "Analysis: How early pandemic praise for Cuomo, Newsom and Trump disappeared"
+    excerpt: "Nearly a year ago, New York Democratic Gov. Andrew Cuomo announced that all nonessential workers in the state would have to stay home. The announcement was one of many that marked the beginning of the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-03-13T16:00:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cu3YeBLGDKI/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
     type: article
     provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 131
+      name: CNN
+      domain: cnn.com
+    quality: 173
     images:
-      - url: "https://static01.nyt.com/images/2021/03/05/us/politics/05dc-investigate1/05dc-investigate1-facebookJumbo.jpg"
-        width: 1050
-        height: 550
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312193508-cuomo-trump-newsom-split-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "mvT5u8sw4H6kRoXYHzqP4rtF8NyZYzvRDyfdqWRhv70+joA5182aIq8rIFHGWmsJjvZPx0Wp6zesAU4kQTEXx1cFmi90VoEb6sb0SpW24Zq5g8vEHhVho1TP+uJi2WzDpUaSM7TPXx71d7v+8roZnJ2kxgzkE8q0SA2oKYsIhSqba7APu7LHDNG6Lkl5FVPkx0zOXHOrtv1POctEkbqHwBpAZYlOOwGtS8H5YCiMvTFnrong5MCYdHIZUAQG0UcqXE4gQccv+V9jxU97fiOvptdVTFmOQtooLthUDXQ4k8fFl19ts1v/q8WcfFiDOTRp2nF4JrMvtDjfEUzhdQqAHL8kEcnu5uNTuJA9qbknaQuuQ1OO93OhsPPwzBeKonhlWihCp/II2936ziaLV7P1UX6WNx9EbSKr5rlfnjX1VVVxkOf85lBNTcm/1ny1fqtNUXVTceMjo4BnQP/oB1hntdfdqwpqrUMtXaV2WKyRuzfBfHFi3i6yhCxBnlBqKBzR0p1yB29VR5Y4+n4gF52KEw==;RpOB3B/1so/HerJIk7/wIg=="

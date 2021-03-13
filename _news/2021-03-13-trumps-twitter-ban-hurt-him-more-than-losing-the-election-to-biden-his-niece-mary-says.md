@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp"
 type: article
 quality: 146
-heat: 1166
+heat: 1186
 published: true
 
 provider:
@@ -501,6 +501,22 @@ related:
     webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html"
     ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
     cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Mormon leader says family donation to Biden was ‘oversight’"
+    excerpt: "A top leader with The Church of Jesus Christ of Latter-day Saints says political donations made in his name to several Democratic candidates  including President Joe Biden, that violate the faith’s po"
+    publishedDateTime: 2021-03-12T23:05:00Z
+    webUrl: "https://www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post

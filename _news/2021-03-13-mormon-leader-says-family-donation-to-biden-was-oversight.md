@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Biden administration stops enforcing Trump-era \"public charge\" green card restrictions following court order"
-excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
-publishedDateTime: 2021-03-10T05:43:00Z
-originalUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
-webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+title: "Mormon leader says family donation to Biden was ‘oversight’"
+excerpt: "A top leader with The Church of Jesus Christ of Latter-day Saints says political donations made in his name to several Democratic candidates  including President Joe Biden, that violate the faith’s po"
+publishedDateTime: 2021-03-12T23:05:00Z
+originalUrl: "https://www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html"
+webUrl: "https://www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html?outputType=amp"
 type: article
-quality: 121
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: CBS News
-  domain: cbsnews.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
-    width: 1200
-    height: 630
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -527,22 +527,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Mormon leader says family donation to Biden was ‘oversight’"
-    excerpt: "A top leader with The Church of Jesus Christ of Latter-day Saints says political donations made in his name to several Democratic candidates  including President Joe Biden, that violate the faith’s po"
-    publishedDateTime: 2021-03-12T23:05:00Z
-    webUrl: "https://www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/religion/mormon-leader-says-family-donation-to-biden-was-oversight/2021/03/12/6c801740-8387-11eb-be22-32d331d87530_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
     publishedDateTime: 2021-03-10T20:24:00Z
@@ -588,6 +572,22 @@ related:
     quality: 123
     images:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/01/efa4137b-1acd-4605-9066-b73af69ae90a/thumbnail/1200x630g2/fadf0b4268b8347dc2c9bdd4f651150f/gettyimages-1231447828.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden administration stops enforcing Trump-era \"public charge\" green card restrictions following court order"
+    excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
+    publishedDateTime: 2021-03-10T05:43:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
         width: 1200
         height: 630
         isCached: true
@@ -832,6 +832,6 @@ related:
       domain: usnews.com
     quality: 48
 
-secured: "SWnrvsJS6OtSHPZ3jB7em9iWGN8KI07FfuyyKdDRSPy5SMJjwjFno5gnj+tohMEQM0ik2f6yi3/nWITwSFXHwDSB//U+huGMBQqYwRPxxbp2eg3Ozc7u4L9ocKyKvnkTVBBkIT32W7MOQnN5pDQTsYhkrSthmJdxus7sUNBJF/Iv173i7L/5sad8AifBQJE+NA7Z8vlM20K3uqiFIEQXLkkI8jdNP54mEn/qxVvM06f0HVLP7I0k6H2whUDu4C5ukGeZyQ5nIbhn4sms8qhqS3UkObCbDFIn4rRXIJe+5LPhoDNP0tq4Pm7bhv5ONhI2vlFfsYVJ3u0akuU3Uq54EfwQ5LbPma06ISeo4BdPlVX6gZCMSOPs1WuyVPNyfol2qSh+VtP8rFyop+eKwKKeQgxxeR0lfcT3TdtDRmclg+zmRZUd5SI7Ij1Wl15YCDfFAAyariCbOicVIxJ1+kpwL9jqyfIlHKLFR+xA/8+4vrpDPBOInz9zDImpZoNApZxF8qJR8iZw1TqOQXS/oeP/lQ==;s0XVFsiKjqbaYSosuZf7ZQ=="
+secured: "lkBfZTyq+a84HTnwpaAs0Sl4TxxVz2Omntmdj6W22zoLr4ZNiNar90/il18Slzi6odrfuZVjXQ5wF8ap6KWf1M7qB3WD8d9gUomT+Rhpb9S5n//ByAuBcuEgsksuqWi6Tij8+0ZlW/9zqKGVuV90pS0uF/kDlYXia08FV/xlBRRdCOjg8nWk+6R/wMuIjSpVtWPadzdIHFS+voJoVt0AybdN3uB3Y9PVLQavLQwWkGfp5fGfCfvOPBsCxvXvNdbRGqatgSy4eAJPKLaXtNI8YM+jIhZMwKDjNjpB/AtQ/42KAcJkrSOJetBMtmrWl6X1UCLe14kZgNyEPCriPZkjKL1yfaIguvaNPiNNWnIWYyo=;/WvKBULteGSKKlCgasPyZg=="
 ---
 
