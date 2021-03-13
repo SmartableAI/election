@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Democrats finding support for Biden in small-city America"
-excerpt: "She cast her vote for Democrat Joe Biden in November, and nearly three months later, she is pleased with how hard the new president is fighting for his priorities. “He's trying to get something ..."
-publishedDateTime: 2021-03-13T14:14:00Z
-originalUrl: "https://abcnews.go.com/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
-webUrl: "https://abcnews.go.com/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
+excerpt: "As Democrats continue to lose votes in small towns, they’ve seen clear gains in regional hubs that dot stretches of rural America. Biden carried roughly 60 counties President Do"
+publishedDateTime: 2021-03-13T12:44:00Z
+originalUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html"
+webUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/WireAP_4624562d5d2047398c5455b0cd122e58_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -247,6 +247,6 @@ related:
       domain: reuters.com
     quality: 105
 
-secured: "DdXIRoIZYYC03b1j9eIcHT6tytZd5A2OSO77PXi3ws/dT7byjarfFGOXm16tnYTQ0rJx2prW+6Ofq1R+Tbkxj93xKBZ0lbGdJuwetqtumLEzffzdJQoP3J3tAi5dphNcKgjCw/oM6ewxz8uPmy5HUomTJVTmNeqZW2nCG+EeI6/TNcnaXnIrPB4DewzHmDqOZPNTC+tX3xYeJy9hl3seL3yFFDevIrh9KlNiQnZaq+gccTw8nnPQrHu5aKxcM5Zg7G8O8A2jceK5Sa0Z9Bp8+zrLjvnTyFhHY/faWencCp6gHocxsG5aYXd2HB1NSMIq8LGTX/CHO3MYz7VfF4hS1tT1FQkIafGugX+jm3yqsFE=;UBZ+Ik0ZD5RsaihLyxRq8w=="
+secured: "ifpfy/WOhfxquw+yGp7v2OecNwzPqH4EhHwxCVDw+Xp33LKx57DuJYITlF9SgmYVOCHxUoTiIwOWc49Ll/b4FzZkKLBNc52REFBNpppDZiZeIrNX1N3IUC0nwo6bqvIWMblzn2/RXVec71viK7eK+Iz+ZnJrQwKAcPv6rn3fKXfUKoQiVroZVvfKl8gogTgQNougZYabCyaxGo8whDv9dB4YLWigd0yejDr//WmuMox0za7gZb2x+79hdMUGKcexJSMdrhFTPRTQ4LHhjcsxs0ciRJwJWpe8qz9YyTocebVDHDpWJrsaTg3I/Vyu3BOsRzxug6cXqLgR/32ExeZKWSo3GJbOfIAa9uoRUo6o8tM=;UZkmxdyS50eQ2/llG2KFGw=="
 ---
 

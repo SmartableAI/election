@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Watchdog asked Trump DOJ to criminally investigate Elaine Chao for misuse of office as transportation secretary but was rebuffed"
-excerpt: "The inspector general found that Chao inappropriately used her staff and office for personal tasks and to promote a shipping business owned by Chao’s father and sisters."
-publishedDateTime: 2021-03-04T02:12:00Z
-originalUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html"
-webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html"
-ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp"
+title: "Lara Trump-linked dog rescue charity spent $2m on Trump properties"
+excerpt: "While other companies and groups have distanced themselves from the Trumps since the 6 January attack on the capital, the Florida-based Big Dog Ranch Rescue is expected to spend another $225,000 at Donald Trump’s Mar-a-Lago country club for an event this ..."
+publishedDateTime: 2021-03-13T16:07:00Z
+originalUrl: "https://www.theguardian.com/us-news/2021/mar/13/lara-trump-linked-dog-rescue-charity-spent-2m-properties"
+webUrl: "https://www.theguardian.com/us-news/2021/mar/13/lara-trump-linked-dog-rescue-charity-spent-2m-properties"
+ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/13/lara-trump-linked-dog-rescue-charity-spent-2m-properties"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/13/lara-trump-linked-dog-rescue-charity-spent-2m-properties"
 type: article
-quality: 96
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Chicago Tribune
-  domain: chicagotribune.com
+  name: The Guardian
+  domain: theguardian.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.chicagotribune.com/resizer/RdT_akvV2w0WrLwyYv4kInG3D0k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BKO37XXJSYJYQQVJQKSAEDBFXA.aspx"
-    width: 1200
-    height: 800
+  - url: "https://i.guim.co.uk/img/media/00b369fc5418675501a2b4fc3b1abf8ec165a46a/0_1666_3932_2358/master/3932.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7724ecc9c5064cfef5f44a692a0405ab"
+    width: 600
+    height: 360
     isCached: true
 
 related:
@@ -62,22 +62,6 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Lara Trump-linked dog rescue charity spent $2m on Trump properties"
-    excerpt: "While other companies and groups have distanced themselves from the Trumps since the 6 January attack on the capital, the Florida-based Big Dog Ranch Rescue is expected to spend another $225,000 at Donald Trump’s Mar-a-Lago country club for an event this ..."
-    publishedDateTime: 2021-03-13T16:07:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/mar/13/lara-trump-linked-dog-rescue-charity-spent-2m-properties"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/13/lara-trump-linked-dog-rescue-charity-spent-2m-properties"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/13/lara-trump-linked-dog-rescue-charity-spent-2m-properties"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 125
-    images:
-      - url: "https://i.guim.co.uk/img/media/00b369fc5418675501a2b4fc3b1abf8ec165a46a/0_1666_3932_2358/master/3932.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7724ecc9c5064cfef5f44a692a0405ab"
-        width: 600
-        height: 360
         isCached: true
   - title: "Russia Attacks Twitter for Donald Trump Ban After Platform Raises Censorship Concerns"
     excerpt: "Russian Foreign Ministry spokesperson Maria Zakharova dismissed Twitter's complaint on Wednesday, accusing the platform of hypocrisy given its own bans on users—including former President Donald Trump. \"Is it the same Twitter that blocked the President ..."
@@ -125,6 +109,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Watchdog asked Trump DOJ to criminally investigate Elaine Chao for misuse of office as transportation secretary but was rebuffed"
+    excerpt: "The inspector general found that Chao inappropriately used her staff and office for personal tasks and to promote a shipping business owned by Chao’s father and sisters."
+    publishedDateTime: 2021-03-04T02:12:00Z
+    webUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html"
+    ampWebUrl: "https://www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-aud-nw-elaine-chao-inspector-general-report-20210304-kxbl4srf2zh33linqfd53rchuu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 96
+    images:
+      - url: "https://www.chicagotribune.com/resizer/RdT_akvV2w0WrLwyYv4kInG3D0k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BKO37XXJSYJYQQVJQKSAEDBFXA.aspx"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "US Judge Removes China's Xiaomi From Trump-era Blacklist"
     excerpt: "Six days before Donald Trump left office last year, his administration cemented its trade war legacy against Beijing with a series of announcements targeting Chinese firms including Xiaomi, state oil giant CNOOC, and social media darling TikTok."
     publishedDateTime: 2021-03-13T03:52:00Z
@@ -140,6 +140,6 @@ related:
         height: 682
         isCached: true
 
-secured: "lEk0Z5iDTw5q3NYYkwS+cll+ujIJ2bAOREpzUPAZLEdlCHrJSuNNWSi/1dkLeCjxMDPgsLeh10/mYyk4tDiDDgf2mqZaMKKTWspp9urmPasa3qwJGXLUr9vTlgdGea3vY/lXIkNjAA4HaKjKFeOc45NomfKlsHjrqwvw8KnVKb9KD8eHx1E9Fs2dhywJn38YEbtP9jOj16YFsatnrYB9QYhEHlxQTo+9AqIv9MHUg12YwA+W78Zl+OL1Jrvc+AJV5vGOt2GJy6SmWn2hozZt2yJVwySvbsyudzlx845XIFRdlMqbKbfscgYqRsRIcQGSyZm8sj/gUrZZ5aXbH60fYiIKg/nnnBk7vsd1wUMmeGI5tFV7TiLFtUdm5BAusph9iOnU+MyYcu7ScN0CN06LiVUt1K2LoEvdYZt0rNKEQH61i0/+7li6Utp64cHuDiX758d1oKd2eCMDLV0MM2JnLnHGdlb2QnhPh2bSI3cbe+iZz2ErPFABze2n50lfJEMllWhwyXXbDs+BWSVnTg2mzQ==;tpAx9EQKgJDiMS7Vnc6w5g=="
+secured: "Y65zSP7KqVRdJd6pvR63JwgkxtDdaw3LF8SsFkBpLy0+1Ly8F6pvX1KsUnkQrds5Fl15nplKq/6OU05My5hutu//qohAlGDvY/bH9aTDqSYzCeRzvkBEN3YFs+foLbaR1I21NYn3obynFFp7QqhazUtl5gzZVk4C4knzED1J7B9i2NXnO24r0xBUDO9P1KucBzO2pFqwh9NUQPswM+EOAmDve7uuNBonto/efKFhhEd3Y7WTTna1/xvpnu9KbJ6n9EYX2gM4eK8gkd8Bt3T+Hr7/H1Bo7lVQGF2qcw9Ab1TLgajK2ZortNhPkI/GIPg5PhZFqBsJtICdad34uI4gi0tyte5rJhrj1jwUEbNqZjI=;CGMCn3PPImcQ1yl4gtAD6g=="
 ---
 

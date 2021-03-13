@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Lara Trump-linked dog rescue charity spent $2m on Trump properties"
+    excerpt: "While other companies and groups have distanced themselves from the Trumps since the 6 January attack on the capital, the Florida-based Big Dog Ranch Rescue is expected to spend another $225,000 at Donald Trump’s Mar-a-Lago country club for an event this ..."
+    publishedDateTime: 2021-03-13T16:07:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/13/lara-trump-linked-dog-rescue-charity-spent-2m-properties"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/13/lara-trump-linked-dog-rescue-charity-spent-2m-properties"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/13/lara-trump-linked-dog-rescue-charity-spent-2m-properties"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/00b369fc5418675501a2b4fc3b1abf8ec165a46a/0_1666_3932_2358/master/3932.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=7724ecc9c5064cfef5f44a692a0405ab"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Twitter sues Texas Attorney General, accusing him of retaliating after it banned Trump"
     excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, accusing him of targeting the social media firm in retaliation for its suspension of Trump's account."
     publishedDateTime: 2021-03-09T19:08:00Z

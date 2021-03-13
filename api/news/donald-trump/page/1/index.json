@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-13-lara-trump-called-so-gross-after-dog-charity-scam-exposed.md",
+      "title": "Lara Trump Called ‘So Gross’ After Dog Charity Scam Exposed",
+      "excerpt": "Another member of the Trump family is under scrutiny for allegedly funneling charity money into Donald Trump’s pockets after Lara Trump, the former President’s daughter-in-law, was exposed for spending money from a dog charity at Mar-A-Lago resort.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/lara-trump-called-so-gross-after-dog-charity-scam-exposed-3161442",
+      "originalUrl": "https://www.ibtimes.com/lara-trump-called-so-gross-after-dog-charity-scam-exposed-3161442",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ibtimes.com/lara-trump-called-so-gross-after-dog-charity-scam-exposed-3161442?amp=1",
+      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lara-trump-called-so-gross-after-dog-charity-scam-exposed-3161442?amp=1",
+      "publishedDateTime": "2021-03-13T07:48:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-trumps-twitter-ban-hurt-him-more-than-losing-the-election-to-biden-his-niece-mary-says.md",
       "title": "Trump's Twitter ban hurt him more than losing the election to Biden, his niece Mary says",
       "excerpt": "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Donald Trump's Twitter ban will have upset him more than losing November's presidential election to Joe Biden, his niece Mary has told Insider.",
@@ -62,7 +114,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1186,
+      "heat": 1206,
       "tags": null,
       "images": [
         {
@@ -1512,58 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-07-arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-in-jail-after-storming-capitol.md",
-      "title": "Arrested Trump Appointee Tells Judge 'Cockroaches Crawling Over Me' in Jail After Storming Capitol",
-      "excerpt": "Federico Guillermo Klein, 42, became the first Trump administration official to be arrested for taking part in the insurrection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295",
-      "originalUrl": "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1751340/capitol-riot-stock-photo.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295?amp=1",
-      "publishedDateTime": "2021-03-06T18:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

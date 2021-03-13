@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-14-sen-blumenthal-calls-trumps-defense-an-insult-to-all-of-our-intelligence.md",
+      "title": "Sen. Blumenthal calls Trump's defense an 'insult to all of our intelligence'",
+      "excerpt": "Friday evening following the fourth day of former President Trump’s impeachment trial said that the Trump defense team’s response to questions from senators on details surrounding the then-president’s response to the Jan.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence",
+      "originalUrl": "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/blumenthalrichard_111020bc_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp",
+      "publishedDateTime": "2021-02-13T10:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-13-trump-attorneys-falsely-claim-he-was-denied-due-process.md",
       "title": "Trump attorneys falsely claim he was denied ‘due process’",
       "excerpt": "Due process is a bedrock protection for anyone facing a loss of “life, liberty or property” — not public office.",
@@ -1548,58 +1600,6 @@
         "Election",
         "Donald Trump",
         "Mike Pence"
-      ]
-    },
-    {
-      "path": "_news/2021-02-06-pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat.md",
-      "title": "Pro-Trump GOP chair steps down in Ohio, may seek Senate seat",
-      "excerpt": "An Ohio Republican linked closely to Donald Trump has stepped down as the party’s chair, a signal of her interest in running for the U.S. Senate seat being left by the GOP’s Rob Portman",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html",
-      "originalUrl": "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 385,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/pro-trump-gop-chair-steps-down-in-ohio-may-seek-senate-seat/2021/02/05/5508d346-67d9-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-05T14:41:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

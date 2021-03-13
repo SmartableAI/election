@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-07-arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-in-jail-after-storming-capitol.md",
+      "title": "Arrested Trump Appointee Tells Judge 'Cockroaches Crawling Over Me' in Jail After Storming Capitol",
+      "excerpt": "Federico Guillermo Klein, 42, became the first Trump administration official to be arrested for taking part in the insurrection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295",
+      "originalUrl": "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1751340/capitol-riot-stock-photo.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-jail-after-storming-capitol-1574295?amp=1",
+      "publishedDateTime": "2021-03-06T18:30:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-06-white-house-fires-trump-eeoc-official-after-she-refuses-to-step-down.md",
       "title": "White House fires Trump EEOC official after she refuses to step down",
       "excerpt": "The move is part of a push to oust controversial Trump appointees who were seen by some Democrats as hostile to the mission of the agencies they served.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1526,58 +1578,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-01-neera-tandens-confirmation-fight-is-the-first-morality-play-of-post-trump-washington.md",
-      "title": "Neera Tanden’s confirmation fight is the first morality play of post-Trump Washington",
-      "excerpt": "The White House is still backing her, despite old posts that have upset many across the aisle. But there’s more to this drama than tweets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6OW7BYTXR4I6XFJXJFQVRTC73E.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/lifestyle/style/neera-tanden-tweets-senate-confirmation-omb/2021/02/28/ab18257a-76b1-11eb-9537-496158cc5fd9_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-28T14:32:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-21-for-mexican-ambassador-who-survived-trump-washington-was-last-stop.md",
+      "title": "For Mexican ambassador who survived Trump, Washington was last stop",
+      "excerpt": "Martha Bárcena, the first woman to serve as Mexican ambassador to the United States, retired this month after a 42-year career.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/national/mexican-ambassador-martha-barcena-retires/2021/02/20/a65eb048-715d-11eb-a4eb-44012a612cf9_story.html",
+      "originalUrl": "https://www.washingtonpost.com/national/mexican-ambassador-martha-barcena-retires/2021/02/20/a65eb048-715d-11eb-a4eb-44012a612cf9_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2KSZ55TT2II6XBSRNUYJD2WGH4.jpg&w=1440",
+          "width": 1440,
+          "height": 959,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/national/mexican-ambassador-martha-barcena-retires/2021/02/20/a65eb048-715d-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/mexican-ambassador-martha-barcena-retires/2021/02/20/a65eb048-715d-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-20T16:23:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-21-trump-schedules-address-before-cpac-next-sunday.md",
       "title": "Trump Schedules Address Before CPAC Next Sunday",
       "excerpt": "The former president will make his first lengthy remarks since leaving office before the annual conference of conservatives Feb. 28.",
@@ -1540,58 +1592,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-14-sen-blumenthal-calls-trumps-defense-an-insult-to-all-of-our-intelligence.md",
-      "title": "Sen. Blumenthal calls Trump's defense an 'insult to all of our intelligence'",
-      "excerpt": "Friday evening following the fourth day of former President Trump’s impeachment trial said that the Trump defense team’s response to questions from senators on details surrounding the then-president’s response to the Jan.",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence",
-      "originalUrl": "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/blumenthalrichard_111020bc_lead.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/senate/538749-sen-blumenthal-calls-trump-teams-defense-an-insult-to-all-of-our-intelligence?amp",
-      "publishedDateTime": "2021-02-13T10:45:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How early pandemic praise for Cuomo, Newsom and Trump disappeared"
+    excerpt: "From there, Cuomo's popularity rose, just like that of his fellow politicians California Gov. Gavin Newsom, a Democrat, and then-President Donald Trump, a Republican. But, just as history has shown us time and time again, a year turned out to be a lifetime ..."
+    publishedDateTime: 2021-03-13T16:00:00Z
+    webUrl: "https://www.cnn.com/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312193508-cuomo-trump-newsom-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "mvT5u8sw4H6kRoXYHzqP4rtF8NyZYzvRDyfdqWRhv70+joA5182aIq8rIFHGWmsJjvZPx0Wp6zesAU4kQTEXx1cFmi90VoEb6sb0SpW24Zq5g8vEHhVho1TP+uJi2WzDpUaSM7TPXx71d7v+8roZnJ2kxgzkE8q0SA2oKYsIhSqba7APu7LHDNG6Lkl5FVPkx0zOXHOrtv1POctEkbqHwBpAZYlOOwGtS8H5YCiMvTFnrong5MCYdHIZUAQG0UcqXE4gQccv+V9jxU97fiOvptdVTFmOQtooLthUDXQ4k8fFl19ts1v/q8WcfFiDOTRp2nF4JrMvtDjfEUzhdQqAHL8kEcnu5uNTuJA9qbknaQuuQ1OO93OhsPPwzBeKonhlWihCp/II2936ziaLV7P1UX6WNx9EbSKr5rlfnjX1VVVxkOf85lBNTcm/1ny1fqtNUXVTceMjo4BnQP/oB1hntdfdqwpqrUMtXaV2WKyRuzfBfHFi3i6yhCxBnlBqKBzR0p1yB29VR5Y4+n4gF52KEw==;RpOB3B/1so/HerJIk7/wIg=="
 ---

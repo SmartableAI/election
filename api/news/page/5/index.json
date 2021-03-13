@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-07-biden-marks-bloody-sunday-by-signing-voting-rights-order.md",
+      "title": "Biden marks ‘Bloody Sunday’ by signing voting rights order",
+      "excerpt": "A new executive order from President Joe Biden directs federal agencies to take a series of steps to promote voting access",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-to-mark-bloody-sunday-by-signing-voting-rights-order/2021/03/07/3221a44c-7f2c-11eb-be22-32d331d87530_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-07T02:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-07-arrested-trump-appointee-tells-judge-cockroaches-crawling-over-me-in-jail-after-storming-capitol.md",
       "title": "Arrested Trump Appointee Tells Judge 'Cockroaches Crawling Over Me' in Jail After Storming Capitol",
       "excerpt": "Federico Guillermo Klein, 42, became the first Trump administration official to be arrested for taking part in the insurrection.",
@@ -157,7 +209,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 245,
+      "heat": 265,
       "tags": null,
       "images": [
         {
@@ -1294,62 +1346,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-biden-told-union-leaders-im-all-for-natural-gas-report.md",
-      "title": "Biden told union leaders ‘I’m all for natural gas’: report",
-      "excerpt": "President Biden personally promised union leaders his support for natural gas, United Association General Mark McManus said. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hzJUUJxPhU/biden-union-leaders-natural-gas",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/5hzJUUJxPhU/biden-union-leaders-natural-gas",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 235,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/biden-happy-thumb.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-union-leaders-natural-gas.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-union-leaders-natural-gas.amp",
-      "publishedDateTime": "2021-03-04T17:19:37-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

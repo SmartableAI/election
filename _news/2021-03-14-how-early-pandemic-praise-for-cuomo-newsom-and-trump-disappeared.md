@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Analysis: How early pandemic praise for Cuomo, Newsom and Trump disappeared"
-excerpt: "Nearly a year ago, New York Democratic Gov. Andrew Cuomo announced that all nonessential workers in the state would have to stay home. The announcement was one of many that marked the beginning of the coronavirus pandemic.\n    \n"
-publishedDateTime: 2021-03-13T16:00:20Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cu3YeBLGDKI/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cu3YeBLGDKI/index.html"
+title: "How early pandemic praise for Cuomo, Newsom and Trump disappeared"
+excerpt: "From there, Cuomo's popularity rose, just like that of his fellow politicians California Gov. Gavin Newsom, a Democrat, and then-President Donald Trump, a Republican. But, just as history has shown us time and time again, a year turned out to be a lifetime ..."
+publishedDateTime: 2021-03-13T16:00:00Z
+originalUrl: "https://www.cnn.com/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
+webUrl: "https://www.cnn.com/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
 type: article
-quality: 173
-heat: 213
-published: true
+quality: 135
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
@@ -31,17 +32,17 @@ images:
     isCached: true
 
 related:
-  - title: "How early pandemic praise for Cuomo, Newsom and Trump disappeared"
-    excerpt: "From there, Cuomo's popularity rose, just like that of his fellow politicians California Gov. Gavin Newsom, a Democrat, and then-President Donald Trump, a Republican. But, just as history has shown us time and time again, a year turned out to be a lifetime ..."
-    publishedDateTime: 2021-03-13T16:00:00Z
-    webUrl: "https://www.cnn.com/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
+  - title: "Analysis: How early pandemic praise for Cuomo, Newsom and Trump disappeared"
+    excerpt: "Nearly a year ago, New York Democratic Gov. Andrew Cuomo announced that all nonessential workers in the state would have to stay home. The announcement was one of many that marked the beginning of the coronavirus pandemic.\n    \n"
+    publishedDateTime: 2021-03-13T16:00:20Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cu3YeBLGDKI/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 135
+    quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312193508-cuomo-trump-newsom-split-super-tease.jpg"
         width: 1100
@@ -64,6 +65,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "q4inXnGbZnw762Njs81FlfQ/21jq+x9JXTiQpfNrGX5YBXYO0nYpcZvy4I/bhRU+w0cyYI51Jlg7Ytm/StIHdkUfxpxizOm93wj6s1QobgBpBzy8qmH0LA//zmBpnJhIA/0uZjJHwAHLZaYjUPzUwRADbde0AIJiBg1Kq7r62VejEXjclPbotTd6eL85eUEEgpCAxqTUEzn0nD2awlQnNbNY9N+14i2XBIWGyFFZT8dIu6iVAv/zihtiuzQZUl7g6/8S4oNZ9jrE0vrIXHssBansGu/W9wRTfJLsKkUKHEaRD1JLMBQnCDF10d4RxbI+OKRMH+yHvzNkY+nCwBEZCpRVXvSzJCSgcfL+MBNXaQ4=;jO9GMIuN1Od1KFkLkWp04A=="
+secured: "nFAgNgolefJdhT3RwQ1dl4A8xKKTnhdKT+uMJiDJ/mm0LQPPgP6JPdB1oUKDVjPWEMS9zwPt7AsG8L9xW7u5aoAVj2OTBcQGmJ2DyRxhG5usI0u8w068e96dd22V2kW2mzd6rgvE2y9zvyIeg2/Ty9UGgrHKrtVW3pYYkiQp7Bgqdktxyye4DNPo0sbLvGcE3+D/JtXaQb2SmQ2L4xbJlkJ67tLMwPepwwcI2d4SDu9zlNgydSe6crPuUksw8Tm1JEqPkUXq9gZqSsMruVdoVvBn6MPjH6XxbkZBk0LjvYLu2n4YNvTx3L3evXT/leZ42i2jt5mnS3N+ApxoHCegwjDOYsfWt0eCyRO5mDMIT7Y=;TcXYAwTAbzR/78xTzamWOw=="
 ---
 

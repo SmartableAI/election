@@ -283,6 +283,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Mary Trump Says Uncle Donald Trump More Upset About Twitter Ban Than Losing Election"
+    excerpt: "Mary Trump, a clinical psychologist and the niece of former President Donald Trump, said that she believes her uncle was more upset about being banned from Twitter and forfeiting his high-profile golf tournament than losing the presidential election."
+    publishedDateTime: 2021-03-13T15:37:00Z
+    webUrl: "https://www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909"
+    ampWebUrl: "https://www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1755336/donald-trump.jpg"
+        width: 2978
+        height: 1820
+        isCached: true
   - title: "Joe Biden's Approval Rating on COVID Pandemic 18 Points Higher Than Trump's Best: Poll"
     excerpt: "That's 18 points higher than former President Donald Trump's best rating in the poll, in which he earned 44 percent approval in March and April last year. By the time he left office in January, Trump's approval rating on the coronavirus had dropped to 39 ..."
     publishedDateTime: 2021-03-11T21:45:00Z

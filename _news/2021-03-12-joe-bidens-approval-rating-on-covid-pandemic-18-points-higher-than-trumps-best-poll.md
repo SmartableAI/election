@@ -287,6 +287,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Mary Trump Says Uncle Donald Trump More Upset About Twitter Ban Than Losing Election"
+    excerpt: "Mary Trump, a clinical psychologist and the niece of former President Donald Trump, said that she believes her uncle was more upset about being banned from Twitter and forfeiting his high-profile golf tournament than losing the presidential election."
+    publishedDateTime: 2021-03-13T15:37:00Z
+    webUrl: "https://www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909"
+    ampWebUrl: "https://www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1755336/donald-trump.jpg"
+        width: 2978
+        height: 1820
+        isCached: true
   - title: "Biden’s Justice Dept. already has split from Trump. Merrick Garland will go even further."
     excerpt: "Now, with federal appeals court judge Merrick Garland set to take over as attorney general, the thornier work begins. Garland, who is expected to be confirmed by the Senate on Wednesday, will inherit a Justice Department damaged by President Donald Trump’s efforts to use its power to benefit his friends and hurt his enemies."
     publishedDateTime: 2021-03-09T20:54:00Z

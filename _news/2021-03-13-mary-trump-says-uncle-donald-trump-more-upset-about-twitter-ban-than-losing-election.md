@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden rescinds Trump's 'public charge' rule"
-excerpt: "The Biden administration on Thursday formally rescinded the Trump-era “public charge” rule, which tightened restrictions on poorer immigrants seeking U.S. residency, as a dozen GOP state ..."
-publishedDateTime: 2021-03-12T00:24:00Z
-originalUrl: "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule"
-webUrl: "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule"
-ampWebUrl: "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp"
+title: "Mary Trump Says Uncle Donald Trump More Upset About Twitter Ban Than Losing Election"
+excerpt: "Mary Trump, a clinical psychologist and the niece of former President Donald Trump, said that she believes her uncle was more upset about being banned from Twitter and forfeiting his high-profile golf tournament than losing the presidential election."
+publishedDateTime: 2021-03-13T15:37:00Z
+originalUrl: "https://www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909"
+webUrl: "https://www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909"
+ampWebUrl: "https://www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909?amp=1"
 type: article
-quality: 140
+quality: 133
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/bidenjoe_030521getty_immigration.jpg"
-    width: 980
-    height: 551
+  - url: "https://d.newsweek.com/en/full/1755336/donald-trump.jpg"
+    width: 2978
+    height: 1820
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://i.insider.com/604ba442fea127001886a77d?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden rescinds Trump's 'public charge' rule"
+    excerpt: "The Biden administration on Thursday formally rescinded the Trump-era “public charge” rule, which tightened restrictions on poorer immigrants seeking U.S. residency, as a dozen GOP state ..."
+    publishedDateTime: 2021-03-12T00:24:00Z
+    webUrl: "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule"
+    ampWebUrl: "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030521getty_immigration.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Manhattan DA Cy Vance will not seek reelection, Trump case pending"
     excerpt: "a position he used to prosecute Harvey Weinstein and investigate former President Donald Trump. Vance is departing this December after more than a decade atop one of the most prominent and ..."
@@ -270,22 +286,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1754112/trump.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Mary Trump Says Uncle Donald Trump More Upset About Twitter Ban Than Losing Election"
-    excerpt: "Mary Trump, a clinical psychologist and the niece of former President Donald Trump, said that she believes her uncle was more upset about being banned from Twitter and forfeiting his high-profile golf tournament than losing the presidential election."
-    publishedDateTime: 2021-03-13T15:37:00Z
-    webUrl: "https://www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909"
-    ampWebUrl: "https://www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mary-trump-says-uncle-donald-trump-more-upset-about-twitter-ban-losing-election-1575909?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 133
-    images:
-      - url: "https://d.newsweek.com/en/full/1755336/donald-trump.jpg"
-        width: 2978
-        height: 1820
         isCached: true
   - title: "Joe Biden's Approval Rating on COVID Pandemic 18 Points Higher Than Trump's Best: Poll"
     excerpt: "That's 18 points higher than former President Donald Trump's best rating in the poll, in which he earned 44 percent approval in March and April last year. By the time he left office in January, Trump's approval rating on the coronavirus had dropped to 39 ..."
@@ -848,6 +848,6 @@ related:
       domain: usnews.com
     quality: 48
 
-secured: "bFEBJrSHUDA12n5j1VrQspZPREGndcB2Sgdp+CfAjXQsvCzm6p4qZb+3ZY7AEh6QBj2VlHHdvY4o1pEXDmcH5hyRPRgmxSq4JXX0fqBXCD2X2lShB9Es1nSiLU5TMU9pRFsppmJpGxAquAUfIN57sRDBDoEJpd93KL4NfopOfolb0cdhDO1hRQ3G4dQRz896qjvFbvFnLNfR+Npc3Vm/fSs6tNMQSQRgJP9ze3VWZZz1TSfhGuAujZINndarjLEqx9LdVgpevU60cNsmF/+qXEb9sxvrolrYRgh3CxXooBoxENoLVRTEQI6wnoUtg7+XyO8SXnYdF0d19DJ+fewu1kSjoTQZdBAyhpWubm8cnvA=;e3PBQH6PATOHvXhzdsfyFw=="
+secured: "byPC9aKxzRf6LopWLmPjiJx19/UtADQGiwzKjvGVMx+XoOuo5qd2coWo0vDGcn7YXipSL+hsNvcR3RHbHf0e4XJBiTrsW2LcEPkmwl7OPy7mvFa/cL52j0sFUUk+Hp4ob3Q+g/hulJuMh0ANyOk8D4s2x3SlSm/iky9+Rn1rlQtHrhGMfgRKzPM7bBvrUIRyR1+ioupOdT8b+vBVnm8pabnlR/q/fnO1olPV5uf0Q7qt1GPAXKW6TsuBfSEGGNyKefIgoDiWLMCXuenwGX2h4x2A6EEhlRgsH081IzA7QeeBz61TafGfqtSJstEK3zKiCy5ijJXB32lSo8O1dYRXG1A3d1DuoCE1tY/KMm6tCAU=;qvF06ZmBgCmLmoIgc+Df9w=="
 ---
 
