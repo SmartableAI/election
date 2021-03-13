@@ -345,6 +345,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "How one photographer shapes the way the world sees Joe Biden"
+    excerpt: "Adam Schultz is the new chief official White House photographer. He’s with the President for high-level meetings, but also for the quiet moments in between."
+    publishedDateTime: 2021-03-13T08:00:00Z
+    webUrl: "https://www.cnn.com/interactive/2021/03/politics/joe-biden-photographer-cnnphotos/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 115
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210313074901-01-joe-biden-photographer-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden says hate crimes against Asian Americans are 'un-American' and that they 'must stop'"
     excerpt: "President Joe Biden condemned the violence Asian Americans have endured throughout the coronavirus pandemic in his first national prime-time address Thursday night. Biden, whose speech marked one year after the World Health Organization declared Covid-19 a ..."
     publishedDateTime: 2021-03-12T01:50:00Z

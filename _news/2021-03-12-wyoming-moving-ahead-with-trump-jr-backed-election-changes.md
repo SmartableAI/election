@@ -758,6 +758,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Manhattan prosecutors are focusing their investigation on Trump's Seven Springs estate in New York"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. New York prosecutors investigating Donald Trump's finances have intensified their inquiry into his Seven Springs estate, The Wall Street Journal reported on Tuesday. Investigators in ..."
+    publishedDateTime: 2021-03-13T06:12:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-prosecutors-focus-on-donald-trumps-new-york-estate-report-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/6048c8699942cf001865d808?width=1200&format=jpeg"
+        width: 1107
+        height: 553
+        isCached: true
   - title: "He's baaack (kind of). Inside Trump's bid to get on Twitter without officially being allowed on Twitter."
     excerpt: "Trump's most recent statements from his new political action committee and his post-presidential office read exactly like his tweets. Most are crafted just under Twitter's 280-character threshold. Journalists,"
     publishedDateTime: 2021-03-11T22:47:00Z

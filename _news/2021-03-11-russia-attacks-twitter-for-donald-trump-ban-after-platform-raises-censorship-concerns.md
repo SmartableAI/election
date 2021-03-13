@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Fundraising spat points to Trump-GOP fissures"
+    excerpt: "The fragile alliance between former President Trump Donald Trump The Memo: Nation rallies for Biden on his COVID-19 response Maryland GOP governor applauds Biden after prime-time COVID-19 address ..."
+    publishedDateTime: 2021-03-13T11:01:00Z
+    webUrl: "https://thehill.com/homenews/campaign/543005-fundraising-spat-points-to-trump-gop-fissures"
+    ampWebUrl: "https://thehill.com/homenews/campaign/543005-fundraising-spat-points-to-trump-gop-fissures?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543005-fundraising-spat-points-to-trump-gop-fissures?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Twitter sues Texas Attorney General, accusing him of retaliating after it banned Trump"
     excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, accusing him of targeting the social media firm in retaliation for its suspension of Trump's account."
     publishedDateTime: 2021-03-09T19:08:00Z

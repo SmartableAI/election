@@ -2,19 +2,19 @@
 category: news
 title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
 excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
-publishedDateTime: 2021-03-11T18:43:00Z
-originalUrl: "https://www.sacbee.com/news/politics-government/article249862338.html"
-webUrl: "https://www.sacbee.com/news/politics-government/article249862338.html"
-ampWebUrl: "https://amp.sacbee.com/news/politics-government/article249862338.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249862338.html"
+publishedDateTime: 2021-03-11T19:28:00Z
+originalUrl: "https://www.miamiherald.com/news/politics-government/article249862338.html"
+webUrl: "https://www.miamiherald.com/news/politics-government/article249862338.html"
+ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249862338.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249862338.html"
 type: article
 quality: 68
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Election
@@ -600,6 +600,6 @@ related:
       domain: c-span.org
     quality: 31
 
-secured: "RnURDcxboeFKeRfGCjwIQh3fmaQFvp5cm21nhuHLD82n7EWhGeWIb/T4HSRWtJC40okA6mrej5oV9YJSeonwQlYvJe7bWSKOVG01PFwhG6rA1r7eXenPYjPNZLUj6A2lI87pAARwVvp8tvJZeHp/5CnRz/04zUEyq6iEzOsxGODzNgEYnCakPsdJqkscygblRe1ZU39YQkBDCQsMeBp1/4JPrK60YtVhVkREhRwg42fXm1r0yrg10SealWALVHVHlsItJcPjEiKef8ymFBj7G9qd8L6rqlpssf1lHggCy6gnPYMNhVy7uH6dJekNCMGGnjiegquPch8t+hxd15oqOY5o0pR6Wa45L9t74xD/N9xr/R4aXHuGjX8mbWa8PoK3nr5CcIvUbpSc2yYflYQlQFF5a3iv4zNxIpIg2aBOM1exW5aYfRDT0FZLZaKKV5hCvbZlbWScpt9RBX62sbiaNfp2XyiXn7JXo0byXBkVKNfMeex1Xo6juMTBEXjMYrEBKye29RbstTvXbGdzaCuY1w==;mlHozOmi7HeH8U8d77iyqA=="
+secured: "pawCQFhq7MbkLigFF9JBAPuXM0fjxPRV90Q3O1F7+9/O2IG3+2qZBQlFSouYdirSUrxD2Tocyq83UgptVvSS7LsQZuBhL2kCbbn0ne8iTzJVoPTJWv5y5+pm9d7djoKpVqq1HAxR70z0n9KNPpBI84T1LAVGHlKCm+12FBmHqeBaVjd5gmcbPeamQGmdVYwTfHTxv7FnyF5ulljrSJ5H3vpD7N+QhzW1h+4I7Zvm4IJAziQUhW3vlJgMQYe4r/XKyJ2v6Qpogl9A7Ah7GxmSUFkg3u5DqDT2i+NFJ0zJd8dNYSMpRX/iIl6kijgKCkyPUDuq8rkwWTGuxeN+IKQgU+/QiluEYSrq6WPUP40Ngos=;Dz8a5i+vsYU0pvVVNuFBVA=="
 ---
 

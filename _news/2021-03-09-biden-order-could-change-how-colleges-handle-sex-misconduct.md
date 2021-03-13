@@ -79,6 +79,22 @@ related:
         width: 777
         height: 545
         isCached: true
+  - title: "Biden's make or break moment: president aims to build on success of relief bill"
+    excerpt: "Kamala Harris, the vice-president, heaped praise on Joe Biden for signing a $1.9tn coronavirus relief bill, the biggest expansion of the American welfare state in decades. “Your empathy has become a trademark of your presidency and can be found on each ..."
+    publishedDateTime: 2021-03-13T12:43:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/13/american-rescue-plan-joe-biden-democrats"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/13/american-rescue-plan-joe-biden-democrats"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/13/american-rescue-plan-joe-biden-democrats"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 121
+    images:
+      - url: "https://i.guim.co.uk/img/media/733857c3e254a63ab3e5c6642ba317260c133b5e/0_243_5000_3001/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=162a29c6d35f145d2068f617c66e5435"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "rcCs5kJCniQ3z5S19DPaU/xVg5EoNBCirYx1WZd/C5zuym1fjX+diZXBpRwhauW6tPL2m8H7LIb61HYM1GrB+L+9PGvnOJJAApBOpsEyU+AWp7PzdX88T+UCtxBatwkSOurbsDRkuDv6jzNdmsyMEu+V9c0Q1mHtevleju+jCAxROZzYmqsJCn0fvFOanuf5KaKBuaM7Lg3GgvXN+dhPNxTO3TvcMS36S0Zh0zlSE4tN8Hosdmmni3EQa8j42Zgc+qXNHFU8etgpOEb5pY44BUdA+XfLpZpfl8F5aCT83N9VRNnIU/5PBGAvK1U6cicrIVMlQooMBygY4ctJGO104EM05CHW/F8++KYwLmZ481w=;oAtsLbghtC8EyuPhOlVAmA=="
 ---

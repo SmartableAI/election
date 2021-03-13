@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp"
 type: article
 quality: 146
-heat: 1146
+heat: 1166
 published: true
 
 provider:
@@ -746,6 +746,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Manhattan prosecutors are focusing their investigation on Trump's Seven Springs estate in New York"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. New York prosecutors investigating Donald Trump's finances have intensified their inquiry into his Seven Springs estate, The Wall Street Journal reported on Tuesday. Investigators in ..."
+    publishedDateTime: 2021-03-13T06:12:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-prosecutors-focus-on-donald-trumps-new-york-estate-report-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 91
+    images:
+      - url: "https://i.insider.com/6048c8699942cf001865d808?width=1200&format=jpeg"
+        width: 1107
+        height: 553
+        isCached: true
   - title: "Wyoming moving ahead with Trump Jr.-backed election changes"
     excerpt: "CHEYENNE, Wyo. (AP) — Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned. A legislative committee voted ..."
     publishedDateTime: 2021-03-11T21:51:00Z
@@ -802,6 +816,6 @@ related:
       domain: usnews.com
     quality: 48
 
-secured: "Uhv4PmztV8p/+0Jdbo+1YzIucjxJoU6yWJs2XVGA0nXnUKZv8Twe1ctVXasxtIBZYofdU0lpyfCPU+v2UFGJ3PLLoRyLTBtdad6693fNjLg2VfCEmDUrVUWIwdYed3Xi4JM/XlW+oRXrUH5Ay9XLPkG087VF16nc4PltsM1buFW1F/pm5g34xXuu4WoHjqI0j2kXDdfFBwh0e84ZjADgbSowKTn9hg3ajVNtSQTv5pesUAFJ0iqmJyVUgvxawg4oVK9KEx+7z8o4qGiT+gUzfixnsF/nVokRw9iqNOg9hlmgibZuegn9Zsjy6v1iagcVADzskGTt6Q/V5SAHWF4qi6pYfd6nyuqOT9nCjnG8/+Y=;GG2eALqltptkvqJf3YZA8g=="
+secured: "MLMVURXYzU0taqTJkgvYe9AJ2pXjxL3z7VJSot5VmiLgcEMml4xPyl1TxYXN7/jA84lyoSsjc7SriG6+jPsMv7knc6CDfYPoJtUeGJqXVIyqLXj6o03CIQWl9wr4cU1MpsFLmtOLMRtRDCBd1Cf1uL0FOEAGAjpYJih2r/Q4aUTtKYh1H5sXYbrb68K+wg/fd2SFqAOMkMGrjF6IiwDcCEjt9aTOACfp+9dKfBWaIk86THUp8vowdk94ALpRIc+7C03jmRvQmSJIIRzRm6hU9BtyHCAav+RN7SsPzB8AuRZCJ2Kw6RqwNPk2XMkfU3DgvdvbWCRj1vLU+vRY3YPp6fqTNC5ZECe1Xy5V73OiaPwHssUMdRKcjvAR1hSG9KmYDkcOxEw2E7vGE0lD5GGVlsxqIdNdtLfluKcuAXPcHRsbA0VzwGWGKp2uktbCaOqpL9mg/PGc5ylOFJAqI18IdpbXX0glXIr9ApOtD8qExMs3RoMUOwsksqlXL12N6GD3PUdL+IZS7+G5Js85ztjLxw==;xihyVBTlxZmE1aWdx5M83w=="
 ---
 
