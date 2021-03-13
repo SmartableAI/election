@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden administration grants humanitarian protection for Burmese in US"
+    excerpt: "The Biden administration on Friday granted humanitarian protection to Burmese nationals and residents in the United States due to the military coup and violence against civilians in Myanmar.\n    \n"
+    publishedDateTime: 2021-03-12T23:33:43Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zpEjORDmKSo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/biden-administration-tps-burmese-nationals/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/biden-administration-tps-burmese-nationals/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301193425-01-dhs-logo-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Joe Biden just can't quit Delaware -- even as president"
     excerpt: "Bidding farewell to his adopted home state in January, Joe Biden -- then the President-elect -- grew emotional as he boarded his flight to Washington for the inauguration.\n    \n"
     publishedDateTime: 2021-03-12T20:44:39Z
@@ -47,51 +63,35 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "The Point: 7 takeaways from Joe Biden's prime-time Covid-19 speech"
-    excerpt: "President Joe Biden marked a year since the Covid-19 pandemic swept across the country with his first prime-time address -- a speech in which he mixed hard numbers on vaccine distribution with appeals to unity and a deep-seated belief in the power of America to overcome any challenge.\n    \n"
-    publishedDateTime: 2021-03-12T02:46:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9BznrUPmI6I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-speech-takeaways/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-speech-takeaways/index.html"
+  - title: "Senior Biden administration officials to meet with Chinese counterparts next week in Alaska"
+    excerpt: "Two top Biden administration officials will meet with their Chinese counterparts next week in what will be the first meeting of officials from both countries since President Joe Biden took office in January.\n    \n"
+    publishedDateTime: 2021-03-10T18:07:19Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eaqb7SY47uQ/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/us-china-alaska-meeting/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/us-china-alaska-meeting/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 165
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311205938-06-biden-address-0311-i-need-you-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210127095832-01-blinken-0127-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Capitol Hill has picked Shalanda Young to lead OMB -- but Biden hasn't yet"
-    excerpt: "Congressional Democrats are pushing President Joe Biden to nominate Shalanda Young to lead the Office of Management and Budget after Neera Tanden withdrew her nomination amid opposition in the Senate.\n    \n"
-    publishedDateTime: 2021-03-05T22:14:09Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6YqiqCQePBI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/who-is-shalanda-young/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/who-is-shalanda-young/index.html"
+  - title: "Biden running out of time to make decision on future of US mission in Afghanistan as situation worsens"
+    excerpt: "With 50 days until the United States is supposed to complete a total withdrawal of troops and personnel from Afghanistan -- a move that a Pentagon report stated could be devastating to \"the survival of the Afghan state as we know it\" -- the Biden administration is running out of time to decide on a way"
+    publishedDateTime: 2021-03-12T11:51:24Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qzepI1jOyXg/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/biden-afghanistan-time-running-out/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/biden-afghanistan-time-running-out/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 173
+    quality: 159
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210303081850-restricted-01-shalanda-young-0302-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden German Shepherd has aggressive incident and is sent back to Delaware"
-    excerpt: "The two German Shepherds belonging to President Joe Biden and first lady Jill Biden were returned to the Biden family home in Delaware last week after aggressive behavior at the White House involving Major Biden, two sources with knowledge tell CNN.\n    \n"
-    publishedDateTime: 2021-03-09T02:47:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i1ZUr17peEA/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/president-joe-biden-white-house-dogs/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/president-joe-biden-white-house-dogs/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109135250-07-biden-dogs-champ-and-major-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/190709162539-07-afghanistan-analysis-file-us-troops-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -111,19 +111,19 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden: Covid-19 relief deal puts working people first"
-    excerpt: "President Joe Biden touted his $1.9 trillion Covid-19 stimulus deal while speaking from the White House Rose Garden, saying it \"changes the paradigm\" for workers in the United States."
-    publishedDateTime: 2021-03-12T21:39:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/03/12/joe-biden-middle-class-coronavirus-relief-deal-sot-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/12/joe-biden-middle-class-coronavirus-relief-deal-sot-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/12/joe-biden-middle-class-coronavirus-relief-deal-sot-nr-vpx.cnn"
+  - title: "Japan's Prime Minister will be first foreign leader to visit US under Biden, administration official says"
+    excerpt: "Prime Minister Yoshihide Suga of Japan will be the first foreign leader to visit the United States since President Joe Biden took office and the global coronavirus pandemic halted much international travel, according to a senior administration official.\n    \n"
+    publishedDateTime: 2021-03-12T10:14:08Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GnfjKYj5cVo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/japan-prime-minister-us-visit/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/japan-prime-minister-us-visit/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 135
+    quality: 158
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312150228-03-white-house-covid-relief-event-0312-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914023143-01-yoshihide-suga-0912-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

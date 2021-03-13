@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-st
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/covid-19-biden-speech-watch-live-stream-today-2021-01-26/"
 type: article
 quality: 125
-heat: 765
+heat: 785
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 125
     images:
       - url: "https://thehill.com/sites/default/files/harriskamala_bidenjoe_02112021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "The Memo: Nation rallies for Biden on his COVID-19 response"
+    excerpt: "President Biden Joe Biden The Memo: Nation rallies for Biden on his COVID-19 response Democrats debate fast-track for infrastructure package Japanese prime minister expected to be Biden's first ..."
+    publishedDateTime: 2021-03-12T11:00:00Z
+    webUrl: "https://thehill.com/homenews/the-memo/542873-the-memo-nation-rallies-for-biden-on-his-covid-19-response"
+    ampWebUrl: "https://thehill.com/homenews/the-memo/542873-the-memo-nation-rallies-for-biden-on-his-covid-19-response?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/542873-the-memo-nation-rallies-for-biden-on-his-covid-19-response?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030621getty_speech.jpg"
         width: 980
         height: 551
         isCached: true

@@ -361,6 +361,20 @@ related:
         width: 852
         height: 480
         isCached: true
+  - title: "Biden condemns hate crimes against Asian Americans"
+    excerpt: "President Biden has condemned hate crimes against Asian Americans amid a surge in attacks. \"It's wrong. It's un-American. It must stop,\" he said Thursday. Weijia Jiang has more."
+    publishedDateTime: 2021-03-13T00:34:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-condemns-hate-crimes-against-asian-americans/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/13/81b85568-c29d-4e04-9a35-39cfeac5ff30/thumbnail/1200x630/a20cc7fa1dde742f4e75cd61f9472325/cbsn-fusion-biden-condemns-hate-crimes-against-asian-americans-thumbnail-667349-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden's relief bill isn't getting bipartisan support like previous stimulus bills. What do Republicans dislike so much?"
     excerpt: "Republican Senators have described President Joe Biden's COVID-19 stimulus plan as a \"clunker,\" \"bad politics\" and “wildly expensive.\" The legislation, dubbedthe"
     publishedDateTime: 2021-03-05T10:12:00Z

@@ -2,6 +2,119 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-13-former-trump-adviser-pans-bidens-address-as-gloomy-that-failed-to-inspire-or-uplift.md",
+      "title": "Former Trump adviser pans Biden's address as 'gloomy' that failed to 'inspire or uplift'",
+      "excerpt": "\"Exactly, that’s what it was,\" remarked Miller. \"John F. Kennedy said let’s put a man on the moon. Donald Trump said let’s put a man on Mars. Joe Biden said let's see if you can eat BBQ ribs with your own relatives and loved ones July 4.\" \"Newsflash ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq",
+      "originalUrl": "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/b314e79e-6ac6-442c-9c81-ec46745bb39a/36ebf399-c770-4cb5-adf8-fc05ca582d5c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq.amp",
+      "publishedDateTime": "2021-03-12T15:49:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-texas-democrat-knocks-biden-delegation-over-border-visit-they-didnt-talk-to-anybody.md",
+      "title": "Texas Democrat knocks Biden delegation over border visit: 'They didn’t talk to anybody'",
+      "excerpt": "Rep. Henry Cuellar, D-Texas, criticized the Biden administration’s handling of the border crisis on Friday, telling \"Your World\" a delegation from the White House neglected to talk to anybody when they visited the region this week.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekRjwQIiDAo/henry-cuellar-knocks-biden-delegation-border-trip",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekRjwQIiDAo/henry-cuellar-knocks-biden-delegation-border-trip",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/henry-cuellar-knocks-biden-delegation-border-trip.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/henry-cuellar-knocks-biden-delegation-border-trip.amp",
+      "publishedDateTime": "2021-03-12T15:48:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-dem-new-mexico-gov-grisham-concerned-with-bidens-energy-agenda-doesnt-make-any-sense.md",
       "title": "Dem New Mexico Gov. Grisham concerned with Biden's energy agenda: 'Doesn't make any sense'",
       "excerpt": "New Mexico Democratic Gov. Michelle Lujan Grisham said during Wednesday's event that President Biden's moratorium pausing oil and gas leasing on federal lands \"hurts New Mexico.\"",
@@ -407,7 +520,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 810,
+      "heat": 830,
       "tags": null,
       "images": [
         {
@@ -1402,7 +1515,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 207,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -1555,119 +1668,6 @@
       "topics": [
         "Election",
         "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-pete-hegseth-biden-holding-press-conference-would-muddy-the-waters-on-progressive-agenda.md",
-      "title": "Pete Hegseth: Biden holding press conference would ‘muddy the waters’ on progressive agenda",
-      "excerpt": "Pete Hegseth says he believes Biden administration officials are keeping the president from holding a formal press conference because they believe he will “distract away from their highly progressive agenda.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging",
-      "originalUrl": "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/30d471bd-c55f-406b-9223-5afee56e6fa6/f100c880-519f-41aa-8f1d-262776cdcd53/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/hegseth-biden-press-conference-muddy-waters-progressive-messaging.amp",
-      "publishedDateTime": "2021-03-09T10:42:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate.md",
-      "title": "Daines, Lummis put hold on Haaland, Biden's nominee for Interior Department, forcing debate",
-      "excerpt": "Sens. Steve Daines and Cynthia Lummis on Tuesday announced that they will put a \"hold\" on the nomination of Rep. Deb Haaland to lead the Interior Department, a procedural tactic designed to delay the nomination by forcing debate.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eyo8HZzXzpk/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Eyo8HZzXzpk/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate.amp",
-      "publishedDateTime": "2021-03-09T09:32:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

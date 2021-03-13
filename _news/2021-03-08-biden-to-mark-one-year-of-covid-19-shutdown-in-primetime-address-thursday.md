@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-primetime-address-
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-primetime-address-covid-19/index.html"
 type: article
 quality: 174
-heat: 214
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,19 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "Japan's Prime Minister will be first foreign leader to visit US under Biden, administration official says"
-    excerpt: "Prime Minister Yoshihide Suga of Japan will be the first foreign leader to visit the United States since President Joe Biden took office and the global coronavirus pandemic halted much international travel, according to a senior administration official.\n    \n"
-    publishedDateTime: 2021-03-12T10:14:08Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GnfjKYj5cVo/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/japan-prime-minister-us-visit/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/japan-prime-minister-us-visit/index.html"
+  - title: "The Point: 7 takeaways from Joe Biden's prime-time Covid-19 speech"
+    excerpt: "President Joe Biden marked a year since the Covid-19 pandemic swept across the country with his first prime-time address -- a speech in which he mixed hard numbers on vaccine distribution with appeals to unity and a deep-seated belief in the power of America to overcome any challenge.\n    \n"
+    publishedDateTime: 2021-03-12T02:46:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9BznrUPmI6I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-speech-takeaways/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-speech-takeaways/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 158
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914023143-01-yoshihide-suga-0912-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311205938-06-biden-address-0311-i-need-you-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Analysis: Why Biden's next legislative push might be much harder than Covid relief"
+    excerpt: "President Joe Biden and fellow Democrats are racing to prove a counterintuitive lesson: with congressional majorities, sometimes less can be more.\n    \n"
+    publishedDateTime: 2021-03-07T14:01:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hAubWKgDRA0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/biden-democrats-slim-majority/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/biden-democrats-slim-majority/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 169
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210304180339-biden-roosevelt-room-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Top Biden advisers tell staff there's 'no room for complacency' as Covid relief bill nears completion"
+    excerpt: "The message to White House senior staff as President Joe Biden's cornerstone legislative proposal nears completion is simple, if blunt: there is \"absolutely no room for complacency.\"\n    \n"
+    publishedDateTime: 2021-03-07T13:02:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R3IbiOLRu-s/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/07/politics/biden-advisers-next-steps-after-covid-relief/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/07/politics/biden-advisers-next-steps-after-covid-relief/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 160
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306203833-01-white-house-0306-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -60,6 +92,22 @@ related:
     quality: 157
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223152543-joe-manchin-january-27-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden: Covid-19 relief deal puts working people first"
+    excerpt: "President Joe Biden touted his $1.9 trillion Covid-19 stimulus deal while speaking from the White House Rose Garden, saying it \"changes the paradigm\" for workers in the United States."
+    publishedDateTime: 2021-03-12T21:39:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/12/joe-biden-middle-class-coronavirus-relief-deal-sot-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/12/joe-biden-middle-class-coronavirus-relief-deal-sot-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/12/joe-biden-middle-class-coronavirus-relief-deal-sot-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312150228-03-white-house-covid-relief-event-0312-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

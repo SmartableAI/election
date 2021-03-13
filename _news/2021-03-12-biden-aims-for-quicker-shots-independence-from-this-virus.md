@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden aims for quicker shots, ‘independence from this virus’"
-excerpt: "President Joe Biden has outlined his plan to make all adult Americans eligible for vaccination by May 1 — and he raised the prospect of beginning to gain what he called “independence from this virus”"
-publishedDateTime: 2021-03-12T13:19:00Z
-originalUrl: "https://www.washingtonpost.com/business/biden-sets-may-1-target-to-have-all-adults-vaccine-eligible/2021/03/11/aac028f4-82c6-11eb-be22-32d331d87530_story.html"
-webUrl: "https://www.washingtonpost.com/business/biden-sets-may-1-target-to-have-all-adults-vaccine-eligible/2021/03/11/aac028f4-82c6-11eb-be22-32d331d87530_story.html"
-ampWebUrl: "https://www.washingtonpost.com/business/biden-sets-may-1-target-to-have-all-adults-vaccine-eligible/2021/03/11/aac028f4-82c6-11eb-be22-32d331d87530_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-sets-may-1-target-to-have-all-adults-vaccine-eligible/2021/03/11/aac028f4-82c6-11eb-be22-32d331d87530_story.html?outputType=amp"
+title: "Biden aims for quicker shots, 'independence from this virus'"
+excerpt: "Biden aims for quicker shots, 'independence from this virus' In a prime-time address, President Joe Biden has outlined his plan to make all adult Americans eligible for vaccination by May 1 ..."
+publishedDateTime: 2021-03-12T05:38:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407"
+webUrl: "https://abcnews.go.com/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407"
 type: article
 quality: 125
 heat: 145
 published: true
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_bee013e7b6c546c9bb315f11a64481ed_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -48,6 +48,6 @@ related:
         height: 545
         isCached: true
 
-secured: "66dbL7gyy/OVhvFLpj+H9ueB30OltIZZ/jk8rRW70WeKtEQTo9wlShTHOrc3Vub9zfVC8zT1Z7daTZI20Ws+oDCY+MTQVYg/NIwXpgfVLNZ7A6gNe7huW9mJlQh3/9yr3FsTtZjS8GnaoFhoxigSftdVS1YBFBfW3OuslLKFlTvAndY3DHwYJK+h6AwSQnTxSZYAzp4jI1Vl1ZpYN1ZITfGYN+hK7KmWyLKsjmOOCxPbWcwjFJ9lMkaW9VAkdGfWWvRh2wLKAToxZXjt5OKUt5S5SPdLsezWkZB0kIJqXDpoTJ41W4qFUbpjoPA/7yIBHMqGnjOoCOFj1OOv0Y4D+J8X9Jj/LNIQUT4QvJejM7I=;NoLfIQf/K3oV/qSCyWTAzA=="
+secured: "FLhCahrv9momyg9fwFZmoMNaYEWVx48ZLpyoBdYrclW8f9QfVnvtsF6vSPu3z4/T0r0dE+iivrtdGNV6AquiMx9lfglPljEoOK6s5rmpzeYc7ApXN74zNHagypU2YffD+OOCJRiE8gJ85TU9UOHfkRL5q3WUuHIvDKS1rMT4hULH+f3E7vFS1KGbry1dzXr/xn80nQ2OBttuEctixT8PWl/UE8D8ghb7AnoBfYhKDPPdQOAiZUidg8YXYPHuMzFps8ZuIK2EfYUmTBtWWJGXFVYSl02YHqPhgP6rpqLBjf0SuSFuIBxM5l8h/dNngb8yljiNh3WHV1wHGg/iD0zkYcyBWQ2iLNIWKp7S6xYdvl8=;vAuJAwEbyh0jcgXI0Bv1pA=="
 ---
 

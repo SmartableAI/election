@@ -96,6 +96,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden compares himself to the alternative (Trump) in first prime-time speech"
+    excerpt: "WASHINGTON — Many Americans want to forget about former President Donald Trump, but President Joe Biden won't let them. In nearly every sentiment of the new president's first prime-time address to the nation Thursday night, an unsentimental Trump loomed ..."
+    publishedDateTime: 2021-03-12T15:46:00Z
+    webUrl: "https://www.nbcnews.com/politics/joe-biden/biden-compares-himself-alternative-trump-first-prime-time-speech-n1260847"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1260847"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1260847"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 147
+    images:
+      - url: "https://media3.s-nbcnews.com/i/newscms/2021_10/3456371/210312-joe-biden-ew-1123a_129040fcdf7f5b9fe5ce71119d9f8d88.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
   - title: "Live Updates: Biden to Begin Dismantling Trump-Era Title IX Rules on Campus Sexual Misconduct"
     excerpt: "The president has long vowed to dismantle rules that afforded greater protections to students accused of sexual assault. On Capitol Hill, House members will get an update from a task force examining the failures that allowed the breach of the Capitol."
     publishedDateTime: 2021-03-08T14:25:00Z

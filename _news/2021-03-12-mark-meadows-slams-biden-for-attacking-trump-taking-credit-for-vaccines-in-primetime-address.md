@@ -143,6 +143,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Stephen Miller: Trump said let's put a man on Mars, Biden said let's see if we can eat BBQ"
+    excerpt: "Former adviser to President Trump, Stephen Miller, tells 'Kudlow' that President Biden's address Thursday set low expectations for the United States"
+    publishedDateTime: 2021-03-12T23:49:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WGtB2slfo68/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq"
+    ampWebUrl: "https://www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stephen-miller-trump-said-lets-put-a-man-on-mars-biden-said-lets-see-if-we-can-eat-bbq.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 180
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/b314e79e-6ac6-442c-9c81-ec46745bb39a/36ebf399-c770-4cb5-adf8-fc05ca582d5c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden infuriates progressives after denying entry to thousands still affected by Trump's travel ban"
     excerpt: "President Biden reversed his predecessor's controversial travel ban on his first day in office, but is still denying entry to thousands of people affected by it, infuriating progressive lawmakers who have decried the position as \"unacceptable.\""
     publishedDateTime: 2021-03-10T14:21:11Z

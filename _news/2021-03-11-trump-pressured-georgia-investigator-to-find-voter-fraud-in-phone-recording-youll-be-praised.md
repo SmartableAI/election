@@ -317,6 +317,22 @@ related:
         width: 1400
         height: 787
         isCached: true
+  - title: "Manhattan prosecutors could be in the final stages of their wide-ranging investigation into Trump's finances"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. After a months-long battle with Donald Trump over his closely held tax returns, the Manhattan district attorney's office may finally be in the end stages of its wide-ranging ..."
+    publishedDateTime: 2021-03-12T22:33:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-prosecutors-may-be-in-end-stages-of-trump-probe-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutors-may-be-in-end-stages-of-trump-probe-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutors-may-be-in-end-stages-of-trump-probe-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/6027f671b3c2a800183ccc37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. Representative Swalwell sues Trump over Jan. 6 insurrection - CNN"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
     publishedDateTime: 2021-03-05T18:20:00Z

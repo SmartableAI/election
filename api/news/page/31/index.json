@@ -2,6 +2,119 @@
   "page": 31,
   "value": [
     {
+      "path": "_news/2021-01-23-trump-may-have-made-one-thing-great-after-all-the-democratic-party.md",
+      "title": "Trump may have made one thing 'great' after all: the Democratic Party",
+      "excerpt": "If Democrats are going to hold on to the momentum galvanized under Trump’s disastrous term, they need to deliver. President Donald Trump's promise to \"Make America Great Again\" turned out to be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.msnbc.com/opinion/trump-may-have-made-one-thing-great-after-all-democratic-n1255240",
+      "originalUrl": "https://www.msnbc.com/opinion/trump-may-have-made-one-thing-great-after-all-democratic-n1255240",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media4.s-nbcnews.com/i/newscms/2021_03/3443977/210121-democratic-party-great-again-main-2x1-an_c61ed483fca4984ffa89420fdf5b4d6a.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/ncna1255240",
+      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/ncna1255240",
+      "publishedDateTime": "2021-01-22T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MSNBC",
+        "domain": "msnbc.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/msnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-22-joe-biden-putting-saudi-arabia-first-by-halting-keystone-xl-pipeline-sen-daines.md",
+      "title": "Joe Biden putting 'Saudi Arabia first' by halting Keystone XL pipeline: Sen. Daines",
+      "excerpt": "Sen. Steve Daines, R-Mont., believes President Biden killing the Keystone XL pipeline shows he’s putting \"Saudi Arabia first,\" not American workers.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3rY_Xz43Yk/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/y3rY_Xz43Yk/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8739bad5-122d-4973-b234-ee256eb316c7/b9584c73-a26d-4377-b028-e14ccdfaba67/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-saudi-arabia-first-plan-keystone-xl-pipeline-daines.amp",
+      "publishedDateTime": "2021-01-22T08:01:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-22-fauci-says-lack-of-candor-from-trump-administration-very-likely-cost-lives.md",
       "title": "Fauci says lack of candor from Trump administration 'very likely' cost lives",
       "excerpt": "Dr. Anthony Fauci said Friday that the lack of truthfulness from the Trump administration regarding the Covid-19 pandemic \"very likely\" cost American lives.\n    \n",
@@ -1254,120 +1367,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-charlottesville-inspired-biden-to-run-now-it-has-a-message-for-him.md",
-      "title": "Charlottesville Inspired Biden to Run. Now It Has a Message for Him.",
-      "excerpt": "The white supremacist rally in 2017 prefigured the rise of right-wing violence in President Trump’s name. Now, as President Biden calls for national unity, residents say it requires accountability first.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
-      "originalUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/01/21/us/politics/21Charlottesville1/21Charlottesville1-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/01/21/us/politics/charlottesville-attack-biden.amp.html",
-      "publishedDateTime": "2021-01-21T06:30:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-21-live-updates-anti-biden-antifa-protesters-take-to-the-streets-in-portland-seattle-overnight.md",
-      "title": "LIVE UPDATES: Anti-Biden Antifa protesters take to the streets in Portland, Seattle overnight",
-      "excerpt": "At least eight adults were arrested for crimes ranging from rioting and possession of a destructive device to reckless burning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/live-updates-antifa-riots-1-21-2021",
-      "originalUrl": "https://www.foxnews.com/us/live-updates-antifa-riots-1-21-2021",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1ae769e4-bc5e-4a5e-8021-3336be3d5963/47142dd8-b615-4e82-8217-98239ab7f2b7/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/live-updates-antifa-riots-1-21-2021.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/live-updates-antifa-riots-1-21-2021.amp",
-      "publishedDateTime": "2021-01-21T06:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Republican Voice"
       ]
     }

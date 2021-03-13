@@ -2,6 +2,218 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-11-i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief.md",
+      "title": "'I Was Speechless': Law Firm Investigated Its Own Ex-Client For Trump VOA Chief",
+      "excerpt": "McGuireWoods earned well over $2 million in taxpayer money to investigate The Open Technology Fund at the behest of Trump-appointed CEO Michael Pack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief",
+      "originalUrl": "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2021/03/09/libby-liu_wide-fa5bf3a19e647452de52145ba3a5db9f98a64ecf.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-homan-says-biden-should-be-embarrassed-after-inheriting-most-secure-border-in-decades.md",
+      "title": "Homan says Biden should be 'embarrassed' after inheriting most secure border in decades",
+      "excerpt": "The Biden administration should be \"embarrassed\" about their immigration policies after \"inheriting the most secure border\" in decades,\" Fox News contributor Tom Homan said on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-WCFa2sza4/homan-biden-embarrassed-border-crisis-trump-secure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-WCFa2sza4/homan-biden-embarrassed-border-crisis-trump-secure",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 207,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/homan-biden-embarrassed-border-crisis-trump-secure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homan-biden-embarrassed-border-crisis-trump-secure.amp",
+      "publishedDateTime": "2021-03-10T06:56:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-polls-find-most-americans-support-bidens-covid-19-stimulus-package.md",
+      "title": "Polls find most Americans support Biden's COVID-19 stimulus package",
+      "excerpt": "President Joe Biden is also enjoying a positive approval rating as the package heads to his desk. A FiveThirtyEight aggregate of polls finds Biden's approval rating sits at 53.4% approving and 38.8% disapproving. Specifically, on his response to the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 605,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/05/USAT/650f7c42-3bb7-4281-951e-aa870f369b46-AP_Biden_8.jpg?auto=webp&crop=4964,2793,x0,y251&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6936053002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6936053002",
+      "publishedDateTime": "2021-03-10T06:34:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-she-voted-for-obama-and-died-for-trump-how-qanon-turned-ashli-babbitt-an-iraq-veteran-into-a-domestic-terrorist.md",
+      "title": "She voted for Obama and died for Trump. How QAnon turned Ashli Babbitt, an Iraq veteran, into a domestic 'terrorist.'",
+      "excerpt": "Capitol rioter Ashli Babbitt believed QAnon was \"a movement against evil in the world\" and died fighting for the Trump-condoned conspiracy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/ashli-babbitt-profile-capitol-riot-qanon-death-2021-3",
+      "originalUrl": "https://www.businessinsider.com/ashli-babbitt-profile-capitol-riot-qanon-death-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/603fef822dc9010018355397?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T06:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-trump-supports-important-gop-committees-but-still-demands-rinos-and-fools-not-fundraise-with-his-image.md",
       "title": "Trump supports 'important GOP Committees' but still demands 'RINOs and fools' not fundraise with his image",
       "excerpt": "Former President Donald Trump said Tuesday that he supports the Republican Party and its major fundraising organizations but still doubled down on his demand that \"RINOs and fools\" not use his name or likeness to raise campaign cash. The two-pronged ...",
@@ -331,7 +543,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 207,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -697,63 +909,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-bidens-german-shepherd-major-nips-secret-service-agents-hand-causing-extremely-minor-injury.md",
-      "title": "Bidens' German shepherd Major nips Secret Service agent's hand, causing 'extremely minor injury'",
-      "excerpt": "The press secretary said in an interview on MSNBC's \"Morning Joe\" that it's typical for the dogs to be in Delaware when Jill Biden is traveling. The first lady is in Washington state as part of a West Coast trip to tour military bases and meet with service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/white-house/biden-s-german-shepherd-major-involved-white-house-incident-resulting-n1260169",
-      "originalUrl": "https://www.nbcnews.com/politics/white-house/biden-s-german-shepherd-major-involved-white-house-incident-resulting-n1260169",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_10/3455382/210309-major-biden-mc-12442_b4ae073e2073a88753304c82d48c7cae.JPG",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1260169",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1260169",
-      "publishedDateTime": "2021-03-09T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     },
     {
@@ -1172,174 +1327,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp",
       "publishedDateTime": "2021-03-09T06:19:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-cotton-on-biden-border-crisis-this-was-altogether-predictable-and-was-predicted-last-year.md",
-      "title": "Cotton on 'Biden border crisis': 'This was altogether predictable' and was 'predicted' last year",
-      "excerpt": "Sen. Tom Cotton R-Ark. blasted the Biden Administration Monday for their role in the current crisis at the U.S.-Mexico border, calling their policy \"recruit and release\" as opposed to \"catch and release.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cDwNpbSXLeM/cotton-biden-border-crisis-altogether-predictable",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/cDwNpbSXLeM/cotton-biden-border-crisis-altogether-predictable",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 162,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b2d65ea6-4669-4750-9f90-a270d335b120/5b2cc511-1777-4f6c-a7a2-c9d0afbbe7e4/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/cotton-biden-border-crisis-altogether-predictable.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cotton-biden-border-crisis-altogether-predictable.amp",
-      "publishedDateTime": "2021-03-08T21:38:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-trump-jr-media-protected-groper-in-chief-cuomo-because-he-was-willing-to-speak-poorly-about-my-father.md",
-      "title": "Trump Jr.: Media protected 'groper-in-chief' Cuomo because he 'was willing to speak poorly about my father'",
-      "excerpt": "Donald Trump Jr. accused the media on Monday of protecting embattled New York Gov. Andrew Cuomo because he \"was willing to speak poorly about my father.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m74mJmMLu7Y/trump-jr-media-andrew-cuomo-new-york",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/m74mJmMLu7Y/trump-jr-media-andrew-cuomo-new-york",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b9a8da8a-3b4e-4c81-9e50-bba522f997d2/b583388b-a71a-4066-9833-ae57d9200665/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-jr-media-andrew-cuomo-new-york.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-media-andrew-cuomo-new-york.amp",
-      "publishedDateTime": "2021-03-08T21:17:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-biden-grants-temporary-protected-status-to-hundreds-of-thousands-of-venezuelans-living-in-us.md",
-      "title": "Biden grants temporary protected status to hundreds of thousands of Venezuelans living in US",
-      "excerpt": "The Biden administration said Monday it will offer temporary legal status to Venezuelans who illegally entered the U.S. after fleeing the nation’s economic crisis.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wBBFP8z-0ak/biden-admin-grants-temporary-protected-status-for-venezuelans-living-in-us",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/wBBFP8z-0ak/biden-admin-grants-temporary-protected-status-for-venezuelans-living-in-us",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 164,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/376682be-d288-41de-84de-b848edb54baa/5377806f-15a1-4c6d-8d6b-25dd8b374b6e/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-grants-temporary-protected-status-for-venezuelans-living-in-us.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-grants-temporary-protected-status-for-venezuelans-living-in-us.amp",
-      "publishedDateTime": "2021-03-08T17:53:57-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

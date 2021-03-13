@@ -31,21 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden aims for quicker shots, ‘independence from this virus’"
-    excerpt: "President Joe Biden has outlined his plan to make all adult Americans eligible for vaccination by May 1 — and he raised the prospect of beginning to gain what he called “independence from this virus”"
-    publishedDateTime: 2021-03-12T13:19:00Z
-    webUrl: "https://www.washingtonpost.com/business/biden-sets-may-1-target-to-have-all-adults-vaccine-eligible/2021/03/11/aac028f4-82c6-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/biden-sets-may-1-target-to-have-all-adults-vaccine-eligible/2021/03/11/aac028f4-82c6-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-sets-may-1-target-to-have-all-adults-vaccine-eligible/2021/03/11/aac028f4-82c6-11eb-be22-32d331d87530_story.html?outputType=amp"
+  - title: "Biden aims for quicker shots, 'independence from this virus'"
+    excerpt: "Biden aims for quicker shots, 'independence from this virus' In a prime-time address, President Joe Biden has outlined his plan to make all adult Americans eligible for vaccination by May 1 ..."
+    publishedDateTime: 2021-03-12T05:38:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABCNews
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_bee013e7b6c546c9bb315f11a64481ed_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "prGooGeMs5DvE9x+QNVZN7ozGYe/mi+ZMyP5HZUF11lV2ydPWA8W0moGnbRRgVSJjly9MIsb10dd9VRIkjrnZ70vl5ZuI9bN+AFo0PASpooWZfwb0Hc5WRWflOsgrMPZPkzsOKz7E4NS2iLNPdY4hYWrw845fTION4eNYqeLp1oYdK1JrFvCZvYUK1xTG4ugxsiPX1S4yovXFfY4ugBESDqdhkLuNU1LZQrDFAXQX1PBg/L9ts7r38PPQj2gu2ejGRTOy29uOBfJZCbxsSKp01E25heL2pzsJ9yKKLOzL1qqYrpluqtZGc+w5eagNGFP1dErGbNc8cVbITy2DSiCXcmEcRYdgQOeAmZxpEsPbRM=;gUjQNf7mJQzfiWd1Vf42cQ=="

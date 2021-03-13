@@ -2,6 +2,118 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2021-02-14-biden-says-democracy-must-always-be-defended-after-trumps-acquittal-in-second-impeachment-trial.md",
+      "title": "Biden says 'democracy must always be defended' after Trump's acquittal in second impeachment trial ",
+      "excerpt": "President Joe Biden weighed in late Saturday night on former President Donald Trump's acquittal in his second impeachment trial, saying that democracy is \"fragile\" and \"must always be defended.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvITbpH56no/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vvITbpH56no/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 1376,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210208160121-joe-biden-210205-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/13/politics/biden-trump-second-impeachment-trial/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/13/politics/biden-trump-second-impeachment-trial/index.html",
+      "publishedDateTime": "2021-02-13T19:52:57-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-13-home-of-trump-attorney-michael-van-der-veen-vandalized.md",
+      "title": "Home of Trump attorney Michael van der Veen vandalized",
+      "excerpt": "The home of Trump defense attorney Michael van der Veen was vandalized Friday night. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a6T8HuzhG9U/home-of-trump-attorney-michael-van-der-veen-vandalized",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a6T8HuzhG9U/home-of-trump-attorney-michael-van-der-veen-vandalized",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 235,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/48af4cfc-3e7c-41ec-af13-451581c73dea/20e94164-e30c-4092-937c-420089d8597c/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/home-of-trump-attorney-michael-van-der-veen-vandalized.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/home-of-trump-attorney-michael-van-der-veen-vandalized.amp",
+      "publishedDateTime": "2021-02-13T15:25:37-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-14-the-disgraceful-acquittal-of-donald-trump.md",
       "title": "The ‘Disgraceful Acquittal’ of Donald Trump",
       "excerpt": "A sad, sad day for democracy,” one reader writes. “It was craven cowardice for Republicans to put Mr. Trump before country,” writes another.",
@@ -1244,115 +1356,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops.md",
-      "title": "Remembering Parkland — Defiant DeSantis lashes out at Biden administration — Sprowls warns schools over enrollment drops",
-      "excerpt": "Between Wednesday and Thursday, the number of Florida coronavirus cases increased by 8,525 (nearly 0.5 percent), to 1,806,805; active hospitalizations went down by 220 (nearly 4.3 percent). to 4,906;",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/12/remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops-491735",
-      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/12/remembering-parkland-defiant-desantis-lashes-out-at-biden-administration-sprowls-warns-schools-over-enrollment-drops-491735",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
-          "width": 900,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-12T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-biden-governors-and-mayors-need-350-billion-to-fight-covid.md",
-      "title": "Biden: Governors and mayors need $350 billion to fight COVID",
-      "excerpt": "President Joe Biden has met with a bipartisan group of governors and mayors at the White House as part of his push to give financial relief from the coronavirus pandemic to state and local governments",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 305,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/democrats-pushing-bidens-covid-19-bill-through-house-panels/2021/02/11/021a9cf8-6ce0-11eb-a66e-e27046e9e898_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-12T00:11:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

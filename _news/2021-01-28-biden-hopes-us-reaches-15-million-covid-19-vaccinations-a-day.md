@@ -157,6 +157,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "The Memo: Nation rallies for Biden on his COVID-19 response"
+    excerpt: "President Biden Joe Biden The Memo: Nation rallies for Biden on his COVID-19 response Democrats debate fast-track for infrastructure package Japanese prime minister expected to be Biden's first ..."
+    publishedDateTime: 2021-03-12T11:00:00Z
+    webUrl: "https://thehill.com/homenews/the-memo/542873-the-memo-nation-rallies-for-biden-on-his-covid-19-response"
+    ampWebUrl: "https://thehill.com/homenews/the-memo/542873-the-memo-nation-rallies-for-biden-on-his-covid-19-response?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/the-memo/542873-the-memo-nation-rallies-for-biden-on-his-covid-19-response?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030621getty_speech.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Biden seeks to speed delivery of coronavirus stimulus checks and food aid"
     excerpt: "U.S. President Joe Biden on Friday will sign orders to speed the issuance of pandemic stimulus checks to needy families and increase food aid for children who normally rely on school meals for nutrition."
     publishedDateTime: 2021-01-23T00:12:00Z

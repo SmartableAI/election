@@ -317,6 +317,22 @@ related:
         width: 2944
         height: 1976
         isCached: true
+  - title: "Manhattan prosecutors could be in the final stages of their wide-ranging investigation into Trump's finances"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. After a months-long battle with Donald Trump over his closely held tax returns, the Manhattan district attorney's office may finally be in the end stages of its wide-ranging ..."
+    publishedDateTime: 2021-03-12T22:33:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-prosecutors-may-be-in-end-stages-of-trump-probe-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutors-may-be-in-end-stages-of-trump-probe-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutors-may-be-in-end-stages-of-trump-probe-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/6027f671b3c2a800183ccc37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. Representative Swalwell sues Trump over Jan. 6 insurrection - CNN"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
     publishedDateTime: 2021-03-05T18:20:00Z
@@ -393,6 +409,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "GjWsb1vbtOTgKMDsMw5VxK4fnLtwNJN5M4KksqVgTZNsfOND/BQFIxoksqQV28GDAT25z4LkDxJs4UAtGu7AA9PRBqPqCX7DvCr3crdcyViJx0rBsgD1C1sM8RNqvEafKxbt7tsbPClQ/n3jV5nNsNeG9vCzZC/s6tYMK6/U9yn93t4GHWNWs/oY5FNHHHhOROq3cGIocoFwOjrGBv4pdUGR+HIc+duGK0VtX+4th23VHnhoytk9uZACzl6OCGP56oyEspB0W8mQLlm3Om2iwPsG7zCEw/FzJM1K/X52pMc/X8t2hUsZZN2qhPQdlyM9pVZaXHDynlbtpSTwML/bTMgcxxfDyqde18MsVybT86o=;YvXa7HYeUHsV/xAgzXXeVQ=="
+secured: "1N2S5grU6KDxeeOKmho5bn42tE6/xt4Zqo4DWIh/Qpyz81ELGuY1SXdNAu7lClIXglaoElIe6J0fQYRXIYhezMYEAI7X5DtnU7ci96JE1zD0jgC7R7YTFA5mXQR31TWUjh2KSjEQLMxn+I0ppKsdchMyqYPXfRK1mMnQ1A0tYfDzilZaZpmZ0AYqtRBDnkOi1s3rEyC5Sb0EZpiwoxZk7AKVc9/ID3DoBcQjxNiaWFbvvxBljq98Wwx35V8fdH91vndfi0osh26DhGVE8R9CCrvIOViRzTHvoneEvi6bbP7FGJHiLmvGsNH/IfEeGFKeB/pEAP6I3r9Ni5RLcvtvFBXesamhHnfdeX/4lkg9JY8p3gri846h+wCXA/UJUt7o0YH0rE8MhjoPJ6v7BeorOIO1gfaKVdK8RqbVSK9i8sFdlQcUiLWC5sdQinGkNeRveEpW4+Hd3AFCpLNtc4sq1pTZy9BWI1ljI4dA6scy4cbPsPo42w3fy2mks6rYZySJVhe1H7UZgi2OtZmzaNp+eA==;bAk+KsEK3SOoStjG5y2FpQ=="
 ---
 

@@ -327,6 +327,22 @@ related:
         width: 2944
         height: 1976
         isCached: true
+  - title: "Manhattan prosecutors could be in the final stages of their wide-ranging investigation into Trump's finances"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. After a months-long battle with Donald Trump over his closely held tax returns, the Manhattan district attorney's office may finally be in the end stages of its wide-ranging ..."
+    publishedDateTime: 2021-03-12T22:33:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-prosecutors-may-be-in-end-stages-of-trump-probe-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutors-may-be-in-end-stages-of-trump-probe-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutors-may-be-in-end-stages-of-trump-probe-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/6027f671b3c2a800183ccc37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Georgia criminal investigation into former President Trump reaches grand jury phase"
     excerpt: "A criminal investigation in Georgia is looking into former President Trump's alleged attempt to overturn the state's election results, and last week two grand juries convened in Fulton County, potentially giving prosecutors the opportunity to issue subpoenas for documents and witnesses."
     publishedDateTime: 2021-03-09T00:38:00Z

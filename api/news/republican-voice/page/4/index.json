@@ -2,6 +2,118 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-26-bidens-syria-airstrike-earns-applause-from-prominent-republicans.md",
+      "title": "Biden's Syria airstrike earns applause from prominent Republicans",
+      "excerpt": "Following the airstrike ordered by Biden against Iranian-backed militia members Thursday night, House Foreign Affairs Committee ranking member Rep. Michael McCaul, R-Texas, and Rep. French Hill, R-Ark., applauded the successful airstrike.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/62h3pp0aFrk/biden-syria-strike-iran-republicans-praise",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/62h3pp0aFrk/biden-syria-strike-iran-republicans-praise",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 255,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4d4b4b3b-a02c-4c6c-993b-27e88fcbad6c/1ec6d8e6-1fe9-4c8c-9ca5-7e0f436ae1a9/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-syria-strike-iran-republicans-praise.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-syria-strike-iran-republicans-praise.amp",
+      "publishedDateTime": "2021-02-26T09:01:56-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-26-corey-lewandowski-likely-to-lead-new-trump-political-action-committee.md",
+      "title": "Corey Lewandowski likely to lead new Trump political action committee",
+      "excerpt": "Former President Trump is starting up a new political action committee and is eyeing longtime top political adviser and aide Corey Lewandowski to head up the new super PAC, multiple people with knowledge of the conversations confirmed to Fox News.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVvQtrx3mn0/trump-political-action-committee-corey-lewandowski",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/CVvQtrx3mn0/trump-political-action-committee-corey-lewandowski",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 215,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-political-action-committee-corey-lewandowski.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-political-action-committee-corey-lewandowski.amp",
+      "publishedDateTime": "2021-02-26T07:14:46-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-biden-administration-and-democrats-do-not-care-about-american-jobs-sen-scott.md",
       "title": "Biden administration and Democrats 'do not care' about American jobs: Sen. Scott",
       "excerpt": "Sen. Rick Scott R-Fla. said Friday that the Biden administration and Democrats \"don't care about jobs\" and that the attempted inclusion of a $15 minimum wage in the latest coronavirus stimulus bill is just \"payback\" to liberal Democrats. ",
@@ -1561,118 +1673,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-rep-biggs-urges-biden-to-keep-to-timeline-for-us-withdrawal-from-afghanistan.md",
-      "title": "Rep. Biggs urges Biden to keep to timeline for US withdrawal from Afghanistan",
-      "excerpt": "Rep. Andy Biggs, R-Ariz., on Monday urged President Biden to keep to the current timeline for withdrawal from Afghanistan, warning that any delay could lead to a \"slippery slope.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oX-Ef91_nPs/biggs-biden-timeline-withdrawal-afghanistan",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/oX-Ef91_nPs/biggs-biden-timeline-withdrawal-afghanistan",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1a7b903e-cc4e-4409-881b-9423960d9b52/94fa5bc2-c641-45fa-bead-1029cfadffec/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biggs-biden-timeline-withdrawal-afghanistan.amp",
-      "publishedDateTime": "2021-02-22T07:33:53-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.md",
-      "title": "New York backtracks on de Blasio’s plan to close Trump-owned ice rinks",
-      "excerpt": "The city is doing a full “180” on its plan to shutter Trump-operated ice skating rinks.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gwe07OOsb4M/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gwe07OOsb4M/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 295,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/902ec378-d6b4-4473-b43c-a57e3f99d9da/02832883-8881-40ab-9872-b74b64a5c0e6/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-york-backtracks-on-de-blasios-plan-to-close-trump-owned-ice-rinks.amp",
-      "publishedDateTime": "2021-02-21T22:37:48-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

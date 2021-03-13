@@ -63,6 +63,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Texas AG accuses Biden administration of putting Texans 'at risk' with influx of COVID-positive migrants"
+    excerpt: "The Biden administration's handling of the southern border is putting Texans at risk, Attorney General Ken Paxton told \"The Faulkner Focus\" on Friday."
+    publishedDateTime: 2021-03-13T00:52:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_BuhMpftRY/ken-paxton-biden-putting-texans-at-risk"
+    ampWebUrl: "https://www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "bPn8iveN1rarlOP4vXBgXSZmzsnMmM5CAtoaKRW8Gmuf/8Sa5fCZ6pMMD+oywScQSwlHRjo/8kK/q/ggXcNvG9jRSzYm1dLexTalo63kvsQVEDKOkfQ5v5CHkhL6xy6IpDLrY3F3P3Y7hko3ha5M4mVSUU9CvvpH3mtJn5mMZyDib+VR/wpTLPQH40Pxr4Y7JHucN4EzrKIMhLk+XBtEs3p/gnIJ9ApPLC1YmZclQvsn3DV3j2FuZwM1gkYPvkUugwKqiReZUkxUbb2wvRzW4VWSq6ZI9AiX5UNcdRByIjs5EXal87/qEjBvCASyuZBF+AWbXd2QGV2/qhNpsn0eY+r2in8I+Y8CeegUiPFsyl8=;5WSqsWn+TVagq4vOHuY1lg=="
 ---
