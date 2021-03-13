@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
-excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
-publishedDateTime: 2021-03-04T04:53:00Z
-originalUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
-webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV15L"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV15L"
+title: "$1,400 Stimulus Checks Start Arriving in Bank Accounts as Biden Hits Road to Tout Rescue Plan"
+excerpt: "President Joe Biden and Vice President Kamala Harris are preparing to hit the road to boost support for the $1.9 trillion stimulus package, as some Americans have started to see the $1,400 checks arrive in their bank accounts."
+publishedDateTime: 2021-03-13T22:32:00Z
+originalUrl: "https://www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961"
+webUrl: "https://www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961"
+ampWebUrl: "https://www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961?amp=1"
 type: article
-quality: 121
+quality: 114
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553587655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH220LL"
-    width: 822
-    height: 545
+  - url: "https://d.newsweek.com/en/full/1755572/joe-biden-kamala-harris-wh.jpg"
+    width: 2500
+    height: 1668
     isCached: true
 
 related:
@@ -191,6 +191,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Senate Democrats delay introduction of Biden's $1.9 trillion COVID-19 aid bill"
+    excerpt: "The U.S. Senate delayed the start of debate on President Joe Biden's $1.9 trillion COVID-19 relief bill until at least Thursday after reaching a deal to phase out $1,400 payments to higher-income Americans in a compromise with moderate Democratic senators."
+    publishedDateTime: 2021-03-04T04:53:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2AV15L"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AV15L"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AV15L"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210303&t=2&i=1553587655&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH220LL"
+        width: 822
+        height: 545
+        isCached: true
   - title: "Senate delays debate on Biden's $1.9 trillion COVID-19 bill while it is read aloud"
     excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill is read aloud."
     publishedDateTime: 2021-03-04T21:00:00Z
@@ -238,22 +254,6 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
         width: 817
         height: 545
-        isCached: true
-  - title: "$1,400 Stimulus Checks Start Arriving in Bank Accounts as Biden Hits Road to Tout Rescue Plan"
-    excerpt: "President Joe Biden and Vice President Kamala Harris are preparing to hit the road to boost support for the $1.9 trillion stimulus package, as some Americans have started to see the $1,400 checks arrive in their bank accounts."
-    publishedDateTime: 2021-03-13T22:32:00Z
-    webUrl: "https://www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961"
-    ampWebUrl: "https://www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 114
-    images:
-      - url: "https://d.newsweek.com/en/full/1755572/joe-biden-kamala-harris-wh.jpg"
-        width: 2500
-        height: 1668
         isCached: true
   - title: "Biden poised for first major legislative victory with House vote on $1.9tn Covid relief – live"
     excerpt: "Jay Ashcroft, the Missouri secretary of state, has said he does not plan to run for the US Senate next year. “After intense, prayerful consideration we have decided to remain devoted to the work Missouri voters have entrusted to me as secretary of state ..."
@@ -472,6 +472,6 @@ related:
         height: 675
         isCached: true
 
-secured: "wrmn0VQ9vfejfbp2Pl+QYZrD+nIdRzMBJludJwT5sCM9lIf6oac20X9raNlxdDxa305dV8kugcEfCbVK/UvlyETocqXb9tsRBQJ8dDm2DIr1LX4A8rGnggta5axr0PypfneEo8bHkjxJ3kJCs91APxKQAncqHfMwA/RPyyJCBBR8Xyx0/Rfm7Slq+fq+SUDzpPIvx/877uBB4EAyaIUxAm2VGwoBM0lzdFAimKegfO1wN3mnMDEdsuj1IjJz8Tb1l6zvD1shOig779ro8xlWgFfiVhRwGFO8UTSvI4skeNylUuyLovmi60J+VLHY0nNxq6U9/Cl/tFZCbzP1XrfYNGfrWtTgnANWaf3BQeWmfvBTd0GQn1GYSwl37l8sHHi9ARqbN12BvdcHQ0uc1Vwk6KiLvHsFHJYIktLhxx5A2cAcZIiVDgsBdD4sJlbpw/OEMONMrwwEniPyiXcbpwtU0O55Rmqas8iUr7BQTHAvdkdqipOFfR8Vb6UJBdblU4h/W2jhboQx2UkGtqMyjbzNJQ==;udvo1Z42GfbMy8IBl9MdlA=="
+secured: "IpaRh5qAZrCk/E9exKADF6FY+5+VtF4ZYgF49VX3akXngVzMvuVXeQM2vugkoHBDryF9h2nncLqPN5Cn5+KoqMniv4BFmuhjliQ0PpgaP0lC3VDo4JVmQHcXTi2DdWJ5utE9sU1RNt90w2OaWQLQOawblq19X9Ne0Izak6x/PMyPhtyCQ21icBo+sQl/iFZACFNtdbZdoSc4NRyEthWM/lAaeD4TB+yon0S2DpHFpW6655X6x54ALNVLlvemxrmMNWMdFGk+TJtTmUXXpc8Lu+nfn81FsHSihqskHlVssKXg+YefH1XeTJsTnBmbjfqNoKQNNtbXSXu6xIJ5iX5+6eCJqrrs+krocnayDOtvKTI=;5cpi7TWqIcA8wsevVgLetw=="
 ---
 

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Democrats finding support for Biden in small-city America"
-excerpt: "As Democrats continue to lose votes in small towns, they’ve seen clear gains in regional hubs that dot stretches of rural America. Biden carried roughly 60 counties President Do"
-publishedDateTime: 2021-03-13T12:44:00Z
-originalUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html"
-webUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html"
-ampWebUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html?outputType=amp"
+excerpt: "She cast her vote for Democrat Joe Biden in November, and nearly three months later, she is pleased with how hard the new president is fighting for his priorities. “He’s trying to get something done,"
+publishedDateTime: 2021-03-13T10:15:00Z
+originalUrl: "https://www.latimes.com/world-nation/story/2021-03-13/democrats-finding-support-for-biden-in-small-city-america"
+webUrl: "https://www.latimes.com/world-nation/story/2021-03-13/democrats-finding-support-for-biden-in-small-city-america"
+ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-13/democrats-finding-support-for-biden-in-small-city-america?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-13/democrats-finding-support-for-biden-in-small-city-america?_amp=true"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Los Angeles Times
+  domain: latimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/e815db8/2147483647/strip/true/crop/5568x3637+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff5%2F70%2F1bb9caa74e1fb00503890826a124%2Fla-videos-1staff-730674-me-0310-vaccine-appointments-help2-wjs.jpg"
+    width: 320
+    height: 209
     isCached: true
 
 related:
@@ -247,6 +247,6 @@ related:
       domain: reuters.com
     quality: 105
 
-secured: "ifpfy/WOhfxquw+yGp7v2OecNwzPqH4EhHwxCVDw+Xp33LKx57DuJYITlF9SgmYVOCHxUoTiIwOWc49Ll/b4FzZkKLBNc52REFBNpppDZiZeIrNX1N3IUC0nwo6bqvIWMblzn2/RXVec71viK7eK+Iz+ZnJrQwKAcPv6rn3fKXfUKoQiVroZVvfKl8gogTgQNougZYabCyaxGo8whDv9dB4YLWigd0yejDr//WmuMox0za7gZb2x+79hdMUGKcexJSMdrhFTPRTQ4LHhjcsxs0ciRJwJWpe8qz9YyTocebVDHDpWJrsaTg3I/Vyu3BOsRzxug6cXqLgR/32ExeZKWSo3GJbOfIAa9uoRUo6o8tM=;UZkmxdyS50eQ2/llG2KFGw=="
+secured: "BSWpVhSbiazkfyz4sf0bvPJwN5+SA5Nn9GMQzxngRZsE08KJvEJbYLa/iD1BZFOZos3xmlkeH+5/6Lwj3p5vV34p9gt+VgiEdQs3uL+X83sybPvL2s4FfGZJHhrVZPuLyiNBqTt4jerqY1rJytNn5wdovJEry3ZLX95yWI6z+CJqYdSf0eelWSFBl8NLGZs0MkdOxJuJqW0jtwItLul9+U3MkeMGSk0/W5k3X5j9fTn4fiCPbAntyQzYyLScGfp1ozXzz4VSZIlmNKTJ/DaNRUTtMm4qAytnxeG7zb9X0lzRiSioNjbHx1T10IxffB06b+me/MoaPQPNMs1UlNi11RYmwuInjGEEhsMeQ1f6tgA=;koxuXdShB4yGG8vWbPq/ww=="
 ---
 

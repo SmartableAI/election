@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Palm Beach considers options as Trump remains at Mar-a-Lago"
-excerpt: "The Town of Palm Beach, Florida, is considering its legal options as former President Donald Trump is still living at his Mar-a-Lago club, a possible violation of a 1993 agreement"
-publishedDateTime: 2021-01-29T02:11:00Z
-originalUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html"
-webUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
+title: "Donald Trump Hints at Lara Trump Senate Run in Surprise Speech at Mar-a-Lago"
+excerpt: "Former President Donald Trump's latest off-the-cuff quip occurred at Mar-a-Lago Friday night, in which he floated the idea his daughter-in-law, Lara Trump, is preparing a North Carolina U.S. Senate campaign. Lara Trump, a senior 2020 campaign adviser for ..."
+publishedDateTime: 2021-03-13T16:28:00Z
+originalUrl: "https://www.newsweek.com/donald-trump-hints-lara-trump-senate-run-surprise-speech-mar-lago-1575918"
+webUrl: "https://www.newsweek.com/donald-trump-hints-lara-trump-senate-run-surprise-speech-mar-lago-1575918"
+ampWebUrl: "https://www.newsweek.com/donald-trump-hints-lara-trump-senate-run-surprise-speech-mar-lago-1575918?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-hints-lara-trump-senate-run-surprise-speech-mar-lago-1575918?amp=1"
 type: article
-quality: 125
-heat: 305
-published: true
+quality: 122
+heat: -1
+published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,12 +25,28 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://d.newsweek.com/en/full/1673705/lara-trump-donald-trump.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
+  - title: "Palm Beach considers options as Trump remains at Mar-a-Lago"
+    excerpt: "The Town of Palm Beach, Florida, is considering its legal options as former President Donald Trump is still living at his Mar-a-Lago club, a possible violation of a 1993 agreement"
+    publishedDateTime: 2021-01-29T02:11:00Z
+    webUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/palm-beach-considers-options-as-trump-remains-at-mar-a-lago/2021/01/28/5e586d94-61ad-11eb-a177-7765f29a9524_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Trump gets an important backer in his bid to live at Mar-a-Lago"
     excerpt: "But former president Donald Trump just found a big ally in his quest to call his Florida club, Mar-a-Lago, home during. According to a memorandum obtained by The Washington Post, an attorney for the town of Palm Beach is recommending that the town’s council allow Trump to live at the club,"
     publishedDateTime: 2021-02-03T05:02:00Z
@@ -78,22 +94,6 @@ related:
       - url: "https://thehill.com/sites/default/files/scottrick_02262021getty.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Donald Trump Hints at Lara Trump Senate Run in Surprise Speech at Mar-a-Lago"
-    excerpt: "Former President Donald Trump's latest off-the-cuff quip occurred at Mar-a-Lago Friday night, in which he floated the idea his daughter-in-law, Lara Trump, is preparing a North Carolina U.S. Senate campaign. Lara Trump, a senior 2020 campaign adviser for ..."
-    publishedDateTime: 2021-03-13T16:28:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-hints-lara-trump-senate-run-surprise-speech-mar-lago-1575918"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-hints-lara-trump-senate-run-surprise-speech-mar-lago-1575918?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-hints-lara-trump-senate-run-surprise-speech-mar-lago-1575918?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 122
-    images:
-      - url: "https://d.newsweek.com/en/full/1673705/lara-trump-donald-trump.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Trump legal team argues impeachment trial is unconstitutional, denies inciting Capitol attack"
     excerpt: "In their legal brief responding to the article of impeachment, Trump's lawyers argue the trial is \"in violation of the Constitution.\""
@@ -174,6 +174,6 @@ related:
         height: 716
         isCached: true
 
-secured: "AXo0PDif4Ddsd+tNdqB8uF64f40TY8fO/EKtmYFtslL7KaPjxPhzXeRoj7BedmeYxSDsRmX0AqbN3SFoMbzwWqeuUCaqhg/pxYRhr6sxkNxQMM8Pq0ovZEshlbRsHzGSn/AfOn3H2IEySShoawdDRBbLdvn9GIWvwqQXggsldYfmRqSVTqMrDlD/rVG0Xac83V22XxM2BF82Zv8mkbEYZRj030bvhdC5LnTf56hdLlTJ8EluVvaLbANYvSrjsgDWQ2ux+k6MbI/fMiOueKVhpCpn3e1tMNr1RJt6GsbhCUNa5mMk0FqCNFeNvKOa2Jd04qURWWVAl1DfiZgcycXp/de3vxFg6YD46NJqQcc1gBM=;goiYzvV40tiR2Ul5TzmpBw=="
+secured: "cE54uy6HB/C08HLkZlKxSKuDIf17gPSYbeKI/U4LgnuvMJ9Z5dzDWM1MiRrZW+HyjBk8KyLYwIb+H65MqSLpXTREBaMiox36kzzZbvre22Z4lfN7LVNMKP+K6S1Ma2N7GCPcerRWfdUJbC0A0Z31AhOJSxFG9vtCc6u9OWb/TAktzrfI5DI3rJeKYN2pC5znvRL/vVXA0+fe0/9uwxTfQxxFoFtl3aOOoiUdPLM9kCL4fQCITTdJJhTKPpqlMh1NcuR/AXqXppYGTHO5n3UBALBQ746ibAuL1wfcgQ6aBfldd2pyxtdCo6EymtmMgk5qhmdQV6atcBOx/HzxUdv6y2m7IvyqVxv6a1Fxy7bf4Vg=;9jH1zSUxwU+HVHaFjoHpkQ=="
 ---
 

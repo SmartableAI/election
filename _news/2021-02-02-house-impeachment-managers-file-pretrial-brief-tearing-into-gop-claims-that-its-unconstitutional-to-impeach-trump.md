@@ -95,6 +95,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Donald Trump Hints at Lara Trump Senate Run in Surprise Speech at Mar-a-Lago"
+    excerpt: "Former President Donald Trump's latest off-the-cuff quip occurred at Mar-a-Lago Friday night, in which he floated the idea his daughter-in-law, Lara Trump, is preparing a North Carolina U.S. Senate campaign. Lara Trump, a senior 2020 campaign adviser for ..."
+    publishedDateTime: 2021-03-13T16:28:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-hints-lara-trump-senate-run-surprise-speech-mar-lago-1575918"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-hints-lara-trump-senate-run-surprise-speech-mar-lago-1575918?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-hints-lara-trump-senate-run-surprise-speech-mar-lago-1575918?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1673705/lara-trump-donald-trump.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Trump legal team argues impeachment trial is unconstitutional, denies inciting Capitol attack"
     excerpt: "In their legal brief responding to the article of impeachment, Trump's lawyers argue the trial is \"in violation of the Constitution.\""
     publishedDateTime: 2021-02-02T18:22:00Z

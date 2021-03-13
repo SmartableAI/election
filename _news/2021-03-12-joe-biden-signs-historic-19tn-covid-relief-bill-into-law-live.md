@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
-excerpt: "Senator Joe Manchin announced in a statement that he will vote to confirm Xavier Becerra, Biden’s nominee to lead the Department of Health and Human Services. The Senate Finance Committee was deadlocked along party lines over advancing his candidacy to ..."
-publishedDateTime: 2021-03-11T19:46:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a6aba8f081f2101760a4a"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a6aba8f081f2101760a4a"
+excerpt: "President signs bill and says ‘this historic legislation is about rebuilding the backbone of this country’ – follow all the latest"
+publishedDateTime: 2021-03-11T19:48:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a712c8f08089f0d4af8e3"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a712c8f08089f0d4af8e3"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
 type: article
@@ -239,6 +239,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "$1,400 Stimulus Checks Start Arriving in Bank Accounts as Biden Hits Road to Tout Rescue Plan"
+    excerpt: "President Joe Biden and Vice President Kamala Harris are preparing to hit the road to boost support for the $1.9 trillion stimulus package, as some Americans have started to see the $1,400 checks arrive in their bank accounts."
+    publishedDateTime: 2021-03-13T22:32:00Z
+    webUrl: "https://www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961"
+    ampWebUrl: "https://www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/1400-stimulus-checks-start-arriving-bank-accounts-biden-hits-road-tout-rescue-plan-1575961?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 114
+    images:
+      - url: "https://d.newsweek.com/en/full/1755572/joe-biden-kamala-harris-wh.jpg"
+        width: 2500
+        height: 1668
+        isCached: true
   - title: "Biden poised for first major legislative victory with House vote on $1.9tn Covid relief – live"
     excerpt: "Jay Ashcroft, the Missouri secretary of state, has said he does not plan to run for the US Senate next year. “After intense, prayerful consideration we have decided to remain devoted to the work Missouri voters have entrusted to me as secretary of state ..."
     publishedDateTime: 2021-03-10T15:07:00Z
@@ -456,6 +472,6 @@ related:
         height: 675
         isCached: true
 
-secured: "FHqdTZgSqkQnosZ4dYAn3/dzpezG/a6KZRbL/TjNZ8Ih+wFVUP2dOQC+rGZFG81E9v5yAALa5uqx6XWW0L0FrSLS1a8wFmHnP+vRROW8ICeYfzNsZBHELHlrGajfxwIAGtWxY0pD7Q9xXv8LjNrKzYzvRmciXkVrRLenkKAxWlXH4AvkT9tHpA9IJNWMIw8NNZCz0PdJ87yOgayN4PEi9Idh2BWvA6GwsGVq12vFRXRVpuHTn2ldcaK0ehAQ9VafLY4MnNO+yfjWaYUvBwgNg+Xw6C5IkuN5101YGCUEGgf6K3AQeQL3QFOXSdARHUD00vALIl9Sz8e5ibssHMOs6CGm4aD2YvnQ9uAgcpjrFqZx8YwZ8MRJDPsyGnPird9xaEykdvLeohClj8c9gBsDTgpJVScr+Sj3xDhGPCLg8KXAXpOmEUjptz9OFd4jj6sBsA7tAJhvOD9lQjcr5Ag/K/BeuR0e6oX43X+L2xuI4MKzDoiWUx/LPMSJd/gM23QtXi9oTXGDeqfSnNHcUbaQaQ==;93t9HSxIEqBx6li444OC1A=="
+secured: "LMuCPZjFuuOrpkNifA9o2NL+8oJ+85ck62KcjsN5PQWkKL1IUT1kj+dQgXC5Pixpq35eSLixxnFDD31JtrIuDcXyvyLazNbu1DN28lrA5HoubF98ZzGFJNjJCCE9Yzdszw9M/LO6d/6S3dW8YjjOV9ow1xriQCunrORQJzbnHiPK06JiJWUqrlY6Ow44Rm7FHw3pnXckuDhWVw9Gs9tqqBMUz0Z7s1pAc4V0kH2ao+N7z/1SNi1nVM3uBPTSzULS92vnkYKlMkaTsHtrH3BW+VfFmbcp1W3LvWvfI0QxDJRKjolL6AUNPAPCqvqf5zYANTvJFu8iPo9LvQ3dU0jJQoU9psD+0HgM7m/BZKM6AVY=;WRXX70mkB8N8CIZFja4QxQ=="
 ---
 
