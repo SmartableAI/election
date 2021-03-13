@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-senate-republican-retirements
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-senate-republican-retirements.amp"
 type: article
 quality: 175
-heat: 335
+heat: 375
 published: true
 
 provider:
@@ -111,6 +111,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Alabama GOP to give Trump framed resolution calling him one of the ‘greatest’ presidents in history"
+    excerpt: "The Alabama Republican Party on Saturday will present former President Donald Trump with a framed copy of a resolution, passed unanimously by the party, that declares him “one of the greatest and most effective” presidents in U.S.history."
+    publishedDateTime: 2021-03-13T20:28:01Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kFPNSOsDimw/alabama-gop-trump-resolution-greatest-presidents-in-history"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 141
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/hooper3.jpg"
+        width: 746
+        height: 438
+        isCached: true
   - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
     excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
     publishedDateTime: 2021-03-01T18:48:00Z
@@ -126,6 +140,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Jane-Timken.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Alabama GOP to give Trump framed resolution calling him one of the ‘greatest’ presidents in history"
+    excerpt: "The Alabama Republican Party on Saturday will present former President Donald Trump with a framed copy of a resolution, passed unanimously by the party, that declares him \"one of the greatest and most effective\" presidents in U.S.history. ‘The resolution ..."
+    publishedDateTime: 2021-03-13T20:32:00Z
+    webUrl: "https://www.foxnews.com/politics/alabama-gop-trump-resolution-greatest-presidents-in-history"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 101
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/hooper3.jpg"
+        width: 746
+        height: 438
         isCached: true
   - title: "Maddow: GOP Fixates On Pop Culture War Issues As Trump Hijacks Party Fundraising"
     excerpt: "Rachel Maddow looks at the bizarre fight between Donald Trump and the Republican Party in which Trump won't allow the party to use his name and insists that fundraising be done through his personal PAC, as Republican politicians focus on Mr. Potato Head ..."

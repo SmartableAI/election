@@ -685,6 +685,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump hinted at Lara Trump's rumored Senate run during a speech at a fundraiser for dogs at Mar-a-Lago"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump on Friday gave a short speech during an apparently impromptu appearance at a dog rescue at his Mar-a-Lago club in Palm ..."
+    publishedDateTime: 2021-03-13T17:34:00Z
+    webUrl: "https://www.businessinsider.com/trump-hints-at-lara-trumps-senate-at-fundraiser-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trump-hints-at-lara-trumps-senate-at-fundraiser-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-hints-at-lara-trumps-senate-at-fundraiser-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/604cf01ffea127001886aa6f?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Manhattan prosecutors could be in the final stages of their wide-ranging investigation into Trump's finances"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. After a months-long battle with Donald Trump over his closely held tax returns, the Manhattan district attorney's office may finally be in the end stages of its wide-ranging ..."
     publishedDateTime: 2021-03-12T22:33:00Z

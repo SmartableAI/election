@@ -122,6 +122,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Donald Trump teases Lara Trump Senate run at Mar-a-Lago"
+    excerpt: "Donald Trump teased a potential run by his daughter-in-law Lara Trump for a North Carolina Senate seat in 2022. The former president raised the prospect for Lara during some impromptu remarks at"
+    publishedDateTime: 2021-03-13T19:23:00Z
+    webUrl: "https://nypost.com/2021/03/13/donald-trump-teases-lara-trump-senate-run-at-mar-a-lago/"
+    ampWebUrl: "https://nypost.com/2021/03/13/donald-trump-teases-lara-trump-senate-run-at-mar-a-lago/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/13/donald-trump-teases-lara-trump-senate-run-at-mar-a-lago/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/lara-trump.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "A Palm Beach Property Once Owned by Donald Trump Sells for Close to $140 Million"
     excerpt: "Now one of the most expensive homes ever sold nationwide, the waterfront lot was once part of Trump’s Maison de L’Amitie estate."
     publishedDateTime: 2021-02-08T15:49:00Z

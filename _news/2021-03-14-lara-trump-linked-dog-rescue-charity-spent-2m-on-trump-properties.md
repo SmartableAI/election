@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Poll: 81 percent of Republican voters hold favorable view of Trump"
+    excerpt: "The vast majority of Republican voters hold a favorable view of former President Trump Donald Trump Pentagon takes heat for extending Guard's time at Capitol Fundraising spat points to Trump-GOP ..."
+    publishedDateTime: 2021-03-13T00:04:00Z
+    webUrl: "https://thehill.com/homenews/campaign/543030-81-percent-of-republican-voters-hold-favorable-view-of-trump-poll"
+    ampWebUrl: "https://thehill.com/homenews/campaign/543030-81-percent-of-republican-voters-hold-favorable-view-of-trump-poll?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543030-81-percent-of-republican-voters-hold-favorable-view-of-trump-poll?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Russia Attacks Twitter for Donald Trump Ban After Platform Raises Censorship Concerns"
     excerpt: "Russian Foreign Ministry spokesperson Maria Zakharova dismissed Twitter's complaint on Wednesday, accusing the platform of hypocrisy given its own bans on users—including former President Donald Trump. \"Is it the same Twitter that blocked the President ..."
     publishedDateTime: 2021-03-11T14:27:00Z
@@ -140,6 +156,6 @@ related:
         height: 682
         isCached: true
 
-secured: "Y65zSP7KqVRdJd6pvR63JwgkxtDdaw3LF8SsFkBpLy0+1Ly8F6pvX1KsUnkQrds5Fl15nplKq/6OU05My5hutu//qohAlGDvY/bH9aTDqSYzCeRzvkBEN3YFs+foLbaR1I21NYn3obynFFp7QqhazUtl5gzZVk4C4knzED1J7B9i2NXnO24r0xBUDO9P1KucBzO2pFqwh9NUQPswM+EOAmDve7uuNBonto/efKFhhEd3Y7WTTna1/xvpnu9KbJ6n9EYX2gM4eK8gkd8Bt3T+Hr7/H1Bo7lVQGF2qcw9Ab1TLgajK2ZortNhPkI/GIPg5PhZFqBsJtICdad34uI4gi0tyte5rJhrj1jwUEbNqZjI=;CGMCn3PPImcQ1yl4gtAD6g=="
+secured: "7euMcacdpjENufatopa6gxz+pUAu1v4p/Yo2h1Kci/1WWjwLC46A7OhTsZg/avD0/iuooDG7CyrGlL997koHjAzbEBl6EgOIA01edRw5thW57t9WuqQDr6q72vu4us+tKARHmWVi1n6HrCz1gEaOglZuv2mCiwwrgyycvFDt8831XVEnsU8JD8jCntY9+wLqRertaf5ZTLdXIE7RJW+jptfaIzW1SXl6OLfXobr+ni9OfuhdH8Z3jO6jHb1xICV9eSevVwnUXeT+14C/mMu+q8Xv3Q9mYybmyh9FvTI9CIhHZOn2ZEg5wtRpHSD5hvrpNhVDSs9Q2092G+zV66WmeiY1UlQkLXBpRl7F3070gy5Onzy6cMygO/wAN8kept1RCCqGWoOSA+teRcLU1g4GJowBeihFPj2J4mIpBjyuuVVywOflnGn7/j3LkPs+ZWkk1Z2fiYQHl0PkW4mK/CvAaq9KKG20RMbFtWF9ukkvt/omrflrKwQf1GBK2Xl3s/pTFAxkV4xIXUk+ptLyCN7M4Q==;B4OkkJylI/Sn3sAa1bCmhg=="
 ---
 

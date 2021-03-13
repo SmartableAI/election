@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-genera
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp"
 type: article
 quality: 125
-heat: 265
+heat: 285
 published: true
 
 provider:
@@ -37,6 +37,22 @@ related:
     webUrl: "https://thehill.com/homenews/campaign/543005-fundraising-spat-points-to-trump-gop-fissures"
     ampWebUrl: "https://thehill.com/homenews/campaign/543005-fundraising-spat-points-to-trump-gop-fissures?amp"
     cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543005-fundraising-spat-points-to-trump-gop-fissures?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Poll: 81 percent of Republican voters hold favorable view of Trump"
+    excerpt: "The vast majority of Republican voters hold a favorable view of former President Trump Donald Trump Pentagon takes heat for extending Guard's time at Capitol Fundraising spat points to Trump-GOP ..."
+    publishedDateTime: 2021-03-13T00:04:00Z
+    webUrl: "https://thehill.com/homenews/campaign/543030-81-percent-of-republican-voters-hold-favorable-view-of-trump-poll"
+    ampWebUrl: "https://thehill.com/homenews/campaign/543030-81-percent-of-republican-voters-hold-favorable-view-of-trump-poll?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543030-81-percent-of-republican-voters-hold-favorable-view-of-trump-poll?amp"
     type: article
     provider:
       name: The Hill
