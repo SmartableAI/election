@@ -45,38 +45,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Trump's own Defense secretary says he was responsible for Capitol riot"
-    excerpt: "Former acting Defense Secretary Christopher Miller says in a forthcoming interview that former President Trump Donald Trump The Memo: How the COVID year upended politics Biden seeks his moment ..."
-    publishedDateTime: 2021-03-11T20:28:00Z
-    webUrl: "https://thehill.com/policy/defense/542803-trumps-own-defense-secretary-says-he-was-responsible-for-capitol-riot"
-    ampWebUrl: "https://thehill.com/policy/defense/542803-trumps-own-defense-secretary-says-he-was-responsible-for-capitol-riot?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/defense/542803-trumps-own-defense-secretary-says-he-was-responsible-for-capitol-riot?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/millerchristopher_072220bc2_lead.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "RNC says it has the right to use Trump's name and likeness for fundraising"
-    excerpt: "Trump's lawyers sent a cease-and-desist letter to the RNC demanding that it not use him in their fundraising pitches."
-    publishedDateTime: 2021-03-09T02:27:00Z
-    webUrl: "https://www.cbsnews.com/news/rnc-trump-cease-desist-letter/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/rnc-trump-cease-desist-letter/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rnc-trump-cease-desist-letter/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 123
-    images:
-      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/01/efa4137b-1acd-4605-9066-b73af69ae90a/thumbnail/1200x630g2/fadf0b4268b8347dc2c9bdd4f651150f/gettyimages-1231447828.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Russia Attacks Twitter for Donald Trump Ban After Platform Raises Censorship Concerns"
     excerpt: "Russian Foreign Ministry spokesperson Maria Zakharova dismissed Twitter's complaint on Wednesday, accusing the platform of hypocrisy given its own bans on users—including former President Donald Trump. \"Is it the same Twitter that blocked the President ..."
     publishedDateTime: 2021-03-11T14:27:00Z
@@ -92,22 +60,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1753341/man-his-phone-redsquare.jpg"
         width: 2500
         height: 1668
-        isCached: true
-  - title: "Ex-Trump appointee arrested in Capitol riot complains he won't be able to sleep in jail"
-    excerpt: "Federico Guillermo Klein, a former State Department staff assistant who was arrested Thursday for his role in the Jan. 6 Capitol insurrection, has reportedly complained that he won't be able to sleep in prison."
-    publishedDateTime: 2021-03-06T02:45:00Z
-    webUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep"
-    ampWebUrl: "https://thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/541911-ex-trump-appointee-arrested-in-capitol-riot-complains-he-wont-be-able-to-sleep?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 117
-    images:
-      - url: "https://thehill.com/sites/default/files/capitolriot_01062021_getty.jpg"
-        width: 979
-        height: 551
         isCached: true
   - title: "Twitter sues Texas Attorney General, accusing him of retaliating after it banned Trump"
     excerpt: "Twitter filed a lawsuit against Texas Attorney General Ken Paxton, accusing him of targeting the social media firm in retaliation for its suspension of Trump's account."
@@ -125,20 +77,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Psaki declines to give Trump credit on vaccines"
-    excerpt: "White House press secretary Jen Psaki isn't giving former President Donald Trump any credit for his administration's early vaccine efforts, saying the progress was a \"Herculean incredible effort by science and by medical experts."
-    publishedDateTime: 2021-03-12T22:49:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/12/psaki-declines-give-trump-credit-vaccines/4673401001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/18de3b0d-ebd6-4ac0-82dc-ac0e37dd97c8_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Watchdog asked Trump DOJ to criminally investigate Elaine Chao for misuse of office as transportation secretary but was rebuffed"
     excerpt: "The inspector general found that Chao inappropriately used her staff and office for personal tasks and to promote a shipping business owned by Chao’s father and sisters."
     publishedDateTime: 2021-03-04T02:12:00Z
@@ -154,36 +92,6 @@ related:
       - url: "https://www.chicagotribune.com/resizer/RdT_akvV2w0WrLwyYv4kInG3D0k=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/BKO37XXJSYJYQQVJQKSAEDBFXA.aspx"
         width: 1200
         height: 800
-        isCached: true
-  - title: "He's baaack (kind of). Inside Trump's bid to get on Twitter without officially being allowed on Twitter."
-    excerpt: "Trump's most recent statements from his new political action committee and his post-presidential office read exactly like his tweets. Most are crafted just under Twitter's 280-character threshold. Journalists,"
-    publishedDateTime: 2021-03-11T22:47:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-using-twitter-social-media-email-white-house-ban-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 88
-    images:
-      - url: "https://i.insider.com/604a92359942cf001865dea9?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Former President Donald Trump urges ex-NFL star to run for U.S. Senate"
-    excerpt: "Former President Donald Trump is hoping one of his long-time friends decides to run for a seat in the U.S. Senate."
-    publishedDateTime: 2021-03-11T10:00:00Z
-    webUrl: "https://www.nj.com/giants/2021/03/former-president-donald-trump-urges-ex-nfl-star-to-run-for-us-senate.html"
-    ampWebUrl: "https://www.nj.com/giants/2021/03/former-president-donald-trump-urges-ex-nfl-star-to-run-for-us-senate.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-nj-com.cdn.ampproject.org/c/s/www.nj.com/giants/2021/03/former-president-donald-trump-urges-ex-nfl-star-to-run-for-us-senate.html?outputType=amp"
-    type: article
-    provider:
-      name: NJ.com
-      domain: nj.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HR3FW4ACXZFGHKLRJBLKDLTPK4.jpg"
-        width: 3789
-        height: 2526
         isCached: true
   - title: "US Judge Removes China's Xiaomi From Trump-era Blacklist"
     excerpt: "Six days before Donald Trump left office last year, his administration cemented its trade war legacy against Beijing with a series of announcements targeting Chinese firms including Xiaomi, state oil giant CNOOC, and social media darling TikTok."

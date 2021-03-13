@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/february-job-report-employment-unem
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/"
 type: article
 quality: 125
-heat: 785
+heat: 645
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden getting 1st shot at making mark on federal judiciary"
-    excerpt: "President Joe Biden has two seats to fill on the influential appeals court in the nation’s capital that regularly feeds judges to the Supreme Court"
-    publishedDateTime: 2021-03-06T14:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_b5cc3da2be59405c8ee6c45a68199c7c_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden White House: keeping control of the daily message"
     excerpt: "President Joe Biden is the first executive in four decades to reach this point in his term without holding a formal question and answer session. It reflects a White House media strategy meant both to reserve major media set-pieces for the celebration of a legislative victory and to limit unforced errors from a historically gaffe-prone politician."
     publishedDateTime: 2021-03-06T05:53:00Z
@@ -62,22 +46,6 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_c65781c446834dc2ac6f68478659c640_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Biden getting 1st shot at making mark on federal judiciary"
-    excerpt: "President Joe Biden has two seats to fill on the influential appeals court in the nation’s capital that regularly feeds judges to the Supreme Court"
-    publishedDateTime: 2021-03-06T18:33:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Biden officials visit US-Mexico border to monitor increase in crossings"
     excerpt: "Alejandro Mayorkas and Susan Rice in White House delegation as Republicans seek to make immigration central electoral issue"
@@ -143,38 +111,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Correction: AP Poll-Biden story"
-    excerpt: "In a story published March 5, 2021, about President Joe Biden’s approval rating, The Associated Press erroneously reported the start date of a poll by The AP-NORC Center for Public Affairs Research"
-    publishedDateTime: 2021-03-09T15:46:00Z
-    webUrl: "https://www.washingtonpost.com/business/correction-ap-poll-biden-story/2021/03/09/93ebd198-80ee-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/correction-ap-poll-biden-story/2021/03/09/93ebd198-80ee-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/correction-ap-poll-biden-story/2021/03/09/93ebd198-80ee-11eb-be22-32d331d87530_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Border squeeze tempers Biden victory lap: The Note"
-    excerpt: "Increase of unaccompanied migrant children at the border The TAKE with Rick Klein President Joe Biden is about to have something very big to sell, with the House on track to pass his $1.9 trillion ..."
-    publishedDateTime: 2021-03-10T11:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/joe-biden-hardware-store-gty-jc-210309_1615335195697_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Huge virus aid bill nears final OK in win for Biden, Dems"
     excerpt: "WASHINGTON — Congress sped toward final approval Wednesday of a landmark $1.9 trillion COVID-19 relief bill, as President Joe Biden and Democrats neared a major triumph for the party’s priorities and showcased the unity they’ll need to forge future ..."
     publishedDateTime: 2021-03-10T05:20:00Z
@@ -207,21 +143,21 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "The Latest: Biden to deploy more troops to help vaccinations"
-    excerpt: "WASHINGTON — The Latest on President Joe Biden’s $1.9 trillion coronavirus relief package (all times local): 6:40 p.m. Support our journalism. Subscribe today. President Joe Biden is planning to announce during his prime-time address Thursday night ..."
-    publishedDateTime: 2021-03-12T04:40:00Z
-    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
+  - title: "US reports surge of kids at SW border, a challenge for Biden"
+    excerpt: "a challenge for President Joe Biden as he works to undo the restrictive immigration policies of his predecessor. Statistics released Wednesday by U.S. Customs and Border Protection showed the ..."
+    publishedDateTime: 2021-03-10T21:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABCNews
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7b29382f34b343d48f3c413aa580d499_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Transcript: President Joe Biden on the coronavirus pandemic"
     excerpt: "Transcript of President Joe Biden's speech Thursday, March 11, 2021, on the coronavirus pandemic, as provided by the White House: Good evening, my fellow Americans. Tonight, I’d like to talk to you about where we are as we mark one year since everything stopped because of this pandemic."
@@ -254,6 +190,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden boosts US vaccine stockpile as world waits"
+    excerpt: "President Joe Biden has directed his administration to order another 100 million doses of the Johnson & Johnson coronavirus vaccine, growing a likely U.S. surplus of doses later this year when much of"
+    publishedDateTime: 2021-03-13T05:14:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-boosts-us-vaccine-stockpile-world-waits-76432399"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Health/WireAP_67d9b979df914260ac39886cc7af1309_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "A viral misfire: A White House video feed ended but Biden took questions"
     excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
@@ -479,31 +431,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Biden's $1.9T rescue signed, and now things get tougher"
-    excerpt: "It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — Tough as it was for Democrats, passing President Joe Biden’s sweeping package into law was the easy part. Now, they are hunkering down to push the next priorities ..."
-    publishedDateTime: 2021-03-12T05:20:00Z
-    webUrl: "https://www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
-  - title: "Why did Biden decide to sign the bill today?"
-    excerpt: "Watch \"Why did Biden decide to sign the bill today?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
-    publishedDateTime: 2021-03-11T19:24:00Z
-    webUrl: "https://www.cbsnews.com/live/video/20210311191038-why-did-biden-decide-to-sign-the-bill-today/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 105
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "$1.9 trillion COVID-19 relief bill with $1,400 stimulus checks passes House, heads to President Biden for signature"
     excerpt: "President Biden will sign the bill into law Friday, the White House said. He started pushing the measure in January before he took office."
     publishedDateTime: 2021-03-10T20:20:00Z
@@ -517,33 +444,6 @@ related:
     quality: 103
     images:
       - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/1f775faf-6422-400a-83cb-a6800ed38546-GTY_1306363694.jpg?auto=webp&crop=6889,3876,x0,y350&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
-    excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."
-    publishedDateTime: 2021-03-10T12:13:00Z
-    webUrl: "https://www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 97
-  - title: "President Joe Biden to make first prime-time address to nation Thursday"
-    excerpt: "The president will look forward, highlighting the role that Americans will play in beating the virus,' the White House said."
-    publishedDateTime: 2021-03-08T17:56:00Z
-    webUrl: "https://www.indystar.com/story/news/politics/2021/03/08/president-biden-make-first-prime-time-address-nation-thursday/4630051001/"
-    ampWebUrl: "https://amp.indystar.com/amp/4630051001"
-    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4630051001"
-    type: article
-    provider:
-      name: Indianapolis Star
-      domain: indystar.com
-    quality: 75
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/19/USAT/603162ef-b26b-4e0b-a54c-c91b0da0868d-AP21050597735960.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true

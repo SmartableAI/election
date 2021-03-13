@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/georgia-gop-leaders-who-stoo
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/georgia-gop-leaders-who-stood-up-to-trump-back-voting-bills/2021/03/05/a7693780-7d72-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/WUPOLPDLF4I6RIZVYRID2BA6V4.jpg&w=1440"
         width: 1440
         height: 943
+        isCached: true
+  - title: "Amid Republican civil war, Trump holds court — and his grip on GOP — at Mar-a-Lago"
+    excerpt: "All are falling in line in seeking Trump's blessing and support — and money. In their doing so, the question of how much clout former President Donald Trump would retain after leaving office, and how he would wield it, has been answered. In fewer than ..."
+    publishedDateTime: 2021-03-12T21:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/03/12/trump-holds-court-and-his-grip-gop-mar-lago/6836695002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6836695002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6836695002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/NPPP/bea9dd40-3c2d-4ec8-bd5c-bf4858badbd3-IMG-1949_2.jpg?auto=webp&crop=1727,972,x97,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Donald Trump Rebukes WSJ After Editorial Board Suggests the GOP Look Past His Presidency"
     excerpt: "\"Fortunately, nobody cares much about The Wall Street Journal editorial anymore. They have lost great credibility,\" the former president said in a statement."

@@ -31,69 +31,405 @@ images:
     isCached: true
 
 related:
-  - title: "Trump talking to allies about 2024 run without Pence: report"
-    excerpt: "Former President Donald Trump is considering running for the presidency again in 2024 without former Vice President Mike Pence as his running mate,"
-    publishedDateTime: 2021-03-03T20:33:00Z
-    webUrl: "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report"
-    ampWebUrl: "https://thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/541462-trump-talking-to-allies-about-2024-run-without-pence-report?amp"
+  - title: "Trump's Twitter ban hurt him more than losing the election to Biden, his niece Mary says"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Donald Trump's Twitter ban will have upset him more than losing November's presidential election to Joe Biden, his niece Mary has told Insider."
+    publishedDateTime: 2021-03-13T11:33:00Z
+    webUrl: "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 146
+    images:
+      - url: "https://i.insider.com/604ba442fea127001886a77d?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden rescinds Trump's 'public charge' rule"
+    excerpt: "The Biden administration on Thursday formally rescinded the Trump-era “public charge” rule, which tightened restrictions on poorer immigrants seeking U.S. residency, as a dozen GOP state ..."
+    publishedDateTime: 2021-03-12T00:24:00Z
+    webUrl: "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule"
+    ampWebUrl: "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp"
     type: article
     provider:
       name: The Hill
       domain: thehill.com
     quality: 140
     images:
-      - url: "https://thehill.com/sites/default/files/mreportpence_2.jpg"
-        width: 580
-        height: 387
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030521getty_immigration.jpg"
+        width: 980
+        height: 551
         isCached: true
-  - title: "As Trump reemerges, will the GOP find a way to move on without him?"
-    excerpt: "The Republican base brooks no dissent about the former president, while others look to a future in which he becomes a diminished force."
-    publishedDateTime: 2021-02-27T16:29:00Z
-    webUrl: "https://www.washingtonpost.com/politics/balztrump-cpac-gop/2021/02/27/52c8f92e-7910-11eb-8115-9ad5e9c02117_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/balztrump-cpac-gop/2021/02/27/52c8f92e-7910-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/balztrump-cpac-gop/2021/02/27/52c8f92e-7910-11eb-8115-9ad5e9c02117_story.html?outputType=amp"
+  - title: "Manhattan DA Cy Vance will not seek reelection, Trump case pending"
+    excerpt: "a position he used to prosecute Harvey Weinstein and investigate former President Donald Trump. Vance is departing this December after more than a decade atop one of the most prominent and ..."
+    publishedDateTime: 2021-03-12T12:50:00Z
+    webUrl: "https://abcnews.go.com/US/manhattan-da-cy-vance-seek-reelection-trump-case/story?id=76411417"
+    ampWebUrl: "https://abcnews.go.com/amp/US/manhattan-da-cy-vance-seek-reelection-trump-case/story?id=76411417"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/US/manhattan-da-cy-vance-seek-reelection-trump-case/story?id=76411417"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/cyrus-vance-jr-file-gty-ml-210312_1615549599578_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Manhattan DA investigating Trump says he won't seek reelection"
+    excerpt: "Cyrus Vance Jr., the Manhattan District Attorney investigating former President Trump Donald Trump The Memo: Nation rallies for Biden on his COVID-19 response Maryland GOP governor applauds Biden ..."
+    publishedDateTime: 2021-03-12T13:10:00Z
+    webUrl: "https://thehill.com/homenews/news/542889-cyrus-vance-manhattan-da-investigating-trump-says-he-wont-seek-reelection"
+    ampWebUrl: "https://thehill.com/homenews/news/542889-cyrus-vance-manhattan-da-investigating-trump-says-he-wont-seek-reelection?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/542889-cyrus-vance-manhattan-da-investigating-trump-says-he-wont-seek-reelection?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/vancecyrus.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "NYC prosecutor leading Trump probe won't seek re-election"
+    excerpt: "The veteran New York City prosecutor is overseeing a criminal investigation into former President Donald Trump."
+    publishedDateTime: 2021-03-12T13:32:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/nyc-prosecutor-cy-vance-jr-retire-years-end/4662027001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4662027001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4662027001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/5f359d96-f833-4f95-a108-698f4308700d-AP21071455462911.jpg?auto=webp&crop=1023,576,x0,y64&format=pjpg&width=1200"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Wyoming election changes move ahead after push by Trump Jr."
+    excerpt: "Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned"
+    publishedDateTime: 2021-03-12T05:28:00Z
+    webUrl: "https://www.washingtonpost.com/national/wyoming-election-changes-move-ahead-after-push-by-trump-jr/2021/03/11/d53591fc-82c9-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/wyoming-election-changes-move-ahead-after-push-by-trump-jr/2021/03/11/d53591fc-82c9-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/wyoming-election-changes-move-ahead-after-push-by-trump-jr/2021/03/11/d53591fc-82c9-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 125
+    quality: 140
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FQODBODZDAI6XFENDFDS42BVEE.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Biden asks Supreme Court to dismiss suit on Trump-era abortion issue"
+    excerpt: "WASHINGTON – President Joe Biden's administration on Friday requested the Supreme Court dismiss a series of cases involving former President Donald Trump's effort to cut federal funding for medical centers that refer patients for abortions ..."
+    publishedDateTime: 2021-03-13T00:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/supreme-court-biden-asks-court-dismiss-trump-era-abortion-rule/4674355001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4674355001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4674355001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/22/USAT/1da3e37c-5766-4204-bc86-02a0edca70b1-AP_Supreme_Court_Trump_Policies.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Biden speech draws more broadcast viewers than Trump's first TV address"
+    excerpt: "LOS ANGELES (Reuters) - U.S. President Joe Biden’s prime-time address on the fight against COVID-19 attracted more broadcast television viewers on Thursday than former President Donald Trump’s first speech to the nation, according to preliminary ..."
+    publishedDateTime: 2021-03-12T18:31:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-coronavirus-ratings-idUSKBN2B42KO"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B42KO"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B42KO"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 140
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554720816&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B1J6"
+        width: 831
+        height: 545
+        isCached: true
+  - title: "Lucky review: how Biden beat Trump – and doubters like Obama and Hillary"
+    excerpt: "Jonathan Allen and Amie Parnes deliver a clear-eyed account of an election which could not cure a country’s wounds"
+    publishedDateTime: 2021-03-07T05:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/lucky-review-how-biden-beat-trump-and-doubters-like-obama-and-hillary"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 139
+    images:
+      - url: "https://i.guim.co.uk/img/media/2c7fcf5a2f1313f8aa336c4fa2504fdf6743d221/0_126_4831_2899/master/4831.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ee28447913645e84fd822afb3fef60c2"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Manhattan prosecutor who is investigating Trump will not seek re-election"
+    excerpt: "(Reuters) - Manhattan District Attorney Cyrus Vance Jr said on Friday he will not seek re-election in November, making it likely that his criminal investigation into former U.S. President Donald Trump will be left for his successor. The decision by Vance ..."
+    publishedDateTime: 2021-03-12T15:46:00Z
+    webUrl: "https://www.reuters.com/article/new-york-vance-idINKBN2B424O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B424O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B424O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554700481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B188"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Biden won’t be putting his signature on COVID-19 relief checks, unlike Trump"
+    excerpt: "President Biden will not be attaching his signature to the $1,400 relief checks that are expected to be mailed soon — a break with his predecessor, who last year had “President Donald J. Trump” printed on the economic impact payments approved by ..."
+    publishedDateTime: 2021-03-10T01:36:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 137
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/27e2771/2147483647/strip/true/crop/3618x2363+281+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F1e%2F6f3fd75dd8cf337e371f4b0065a0%2Fac3f35f2c1554c75ac18550bee411639"
+        width: 320
+        height: 209
+        isCached: true
+  - title: "Joe Biden Visa Decision on Donald Trump's 'Muslim Ban' Infuriates Progressives"
+    excerpt: "The American Civil Liberties Union (ACLU) said that a large number of Africans would be affected and that Biden \"has failed to help so many of those harmed\" by the Trump administration's immigration restrictions. \"Instead of restoring this opportunity ..."
+    publishedDateTime: 2021-03-10T10:19:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-donald-trump-immigration-muslim-ban-aclu-1575009"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-donald-trump-immigration-muslim-ban-aclu-1575009?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-donald-trump-immigration-muslim-ban-aclu-1575009?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
+    images:
+      - url: "https://d.newsweek.com/en/full/1752341/president-joe-biden.jpg"
+        width: 2500
+        height: 1663
+        isCached: true
+  - title: "Joe Biden Is 'Arrogant' and 'Totalitarian' Like Donald Trump, Iran General Says"
+    excerpt: "\"In our view, there is no difference between Biden and Trump,\" Shekarchi said according to the state-run Fars News Agency, echoing complaints from Iranian leaders that Biden has failed to lift the sanctions imposed by his predecessor after the U.S ..."
+    publishedDateTime: 2021-03-12T13:09:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
+    images:
+      - url: "https://d.newsweek.com/en/full/1754276/joe-biden-speaks-covid-white-house.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
+  - title: "The difference between the Trump tax cuts and the Biden relief bill, in one chart"
+    excerpt: "The Trump White House had argued that this was simply a side effect of legislation it presented as helpful to Americans generally. There was an effort to present the top-heavy tax cuts as a nonetheless-positive change for the public,"
+    publishedDateTime: 2021-03-09T20:14:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/difference-between-trump-tax-cuts-biden-relief-bill-one-chart/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/difference-between-trump-tax-cuts-biden-relief-bill-one-chart/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/difference-between-trump-tax-cuts-biden-relief-bill-one-chart/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 135
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SE4CUTHOE5CD3NYQAFTHXMWDJU.png&w=1440"
+        width: 1440
+        height: 1149
+        isCached: true
+  - title: "Trump's Election Lawsuit Battles End as Supreme Court Declines to Take Wisconsin Case"
+    excerpt: "The former president and his Republican allies have lost dozens of election-related lawsuits filed in the wake of the November race."
+    publishedDateTime: 2021-03-08T15:30:00Z
+    webUrl: "https://www.newsweek.com/trumps-election-lawsuit-battles-end-supreme-court-declines-take-wisconsin-case-1574508"
+    ampWebUrl: "https://www.newsweek.com/trumps-election-lawsuit-battles-end-supreme-court-declines-take-wisconsin-case-1574508?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trumps-election-lawsuit-battles-end-supreme-court-declines-take-wisconsin-case-1574508?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1751601/trump-cpac-florida-2021.jpg"
+        width: 3000
+        height: 2000
+        isCached: true
+  - title: "Should Joe Biden Thank Donald Trump For Vaccine Rollout? Operation Warp Speed Debated"
+    excerpt: "A number of conservative and Republican figures are saying that Joe Biden should be thanking Donald Trump for spurring on the development of a COVID-19 vaccine as the president announced hopes for the country to be \"back to normal\" by July 4. In an address ..."
+    publishedDateTime: 2021-03-12T08:56:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1754112/trump.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Joe Biden's Approval Rating on COVID Pandemic 18 Points Higher Than Trump's Best: Poll"
+    excerpt: "That's 18 points higher than former President Donald Trump's best rating in the poll, in which he earned 44 percent approval in March and April last year. By the time he left office in January, Trump's approval rating on the coronavirus had dropped to 39 ..."
+    publishedDateTime: 2021-03-11T21:45:00Z
+    webUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544"
+    ampWebUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1753962/joe-biden-coronavirus-approval-rating.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Biden’s Justice Dept. already has split from Trump. Merrick Garland will go even further."
+    excerpt: "Now, with federal appeals court judge Merrick Garland set to take over as attorney general, the thornier work begins. Garland, who is expected to be confirmed by the Senate on Wednesday, will inherit a Justice Department damaged by President Donald Trump’s efforts to use its power to benefit his friends and hurt his enemies."
+    publishedDateTime: 2021-03-09T20:54:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 131
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2RBG37UANEI6XAO3WAXQHGHUTI.jpg&w=1440"
         width: 1440
         height: 960
         isCached: true
-  - title: "Trumpism will endure in the GOP. Trump may not."
-    excerpt: "It's the former president's approach to politics, not his own candidacy or his policies, which will define the party moving forward."
-    publishedDateTime: 2021-03-01T17:52:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/01/trumpism-will-endure-gop-trump-may-not/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/01/trumpism-will-endure-gop-trump-may-not/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/01/trumpism-will-endure-gop-trump-may-not/?outputType=amp"
+  - title: "'Not about him': Biden's name won't appear on stimulus checks in shift from Donald Trump"
+    excerpt: "President Joe Biden's signature won't appear on $1,400 stimulus checks to avoid delays in distributing the money, the White House says."
+    publishedDateTime: 2021-03-09T20:46:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/09/covid-relief-bidens-signature-wont-appear-stimulus-checks/6926056002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6926056002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6926056002"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
+      name: USA Today
+      domain: usatoday.com
+    quality: 131
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U6BAWJUC2BCYRLO4BJPPAL2A2M.jpg&w=1440"
-        width: 1440
-        height: 1440
+      - url: "https://www.gannett-cdn.com/-mm-/96a9f4df6933a6e0c2158220d49f939822c30a25/c=0-69-2189-1300/local/-/media/2021/03/06/USATODAY/usatsports/pile-of-100-dollar-bills_gettyimages-452970107.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "RNC maintains right to use Trump's name in fundraising"
-    excerpt: "The Republican National Committee is defending its right to use former President Donald Trump’s name in its fundraising appeals after he demanded they put an end to the practice"
-    publishedDateTime: 2021-03-08T23:52:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/rnc-maintains-trumps-fundraising-76330769"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/rnc-maintains-trumps-fundraising-76330769"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/rnc-maintains-trumps-fundraising-76330769"
+  - title: "'The mess we inherited': Biden leans heavily on Trump's 'Warp Speed' but won't give credit"
+    excerpt: "President Joe Biden is taking credit for accelerating the vaccine rollout, without giving credit to former President Donald Trump's team that laid the groundwork."
+    publishedDateTime: 2021-03-11T03:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 130
+    images:
+      - url: "https://s.abcnews.com/images/Politics/rollout-covid-vaccine-president-joe-biden-donald-trump-04-gty-llr-210310_1615416603172_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden administration stops enforcing Trump-era green card restrictions following court order"
+    excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
+    publishedDateTime: 2021-03-10T05:43:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforecment-stopped-by-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 129
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden getting 1st shot at making mark on federal judiciary"
+    excerpt: "President Joe Biden has two seats to fill on the influential appeals court in the nation’s capital that regularly feeds judges to the Supreme Court"
+    publishedDateTime: 2021-03-06T14:27:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-1st-shot-making-mark-federal-judiciary-76295015"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_1903d792220e4a1b8f5ac60306aa12d6_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_b5cc3da2be59405c8ee6c45a68199c7c_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden getting 1st shot at making mark on federal judiciary"
+    excerpt: "President Joe Biden has two seats to fill on the influential appeals court in the nation’s capital that regularly feeds judges to the Supreme Court"
+    publishedDateTime: 2021-03-06T18:33:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-getting-1st-shot-at-making-mark-on-federal-judiciary/2021/03/06/8a546782-7e80-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Correction: AP Poll-Biden story"
+    excerpt: "In a story published March 5, 2021, about President Joe Biden’s approval rating, The Associated Press erroneously reported the start date of a poll by The AP-NORC Center for Public Affairs Research"
+    publishedDateTime: 2021-03-09T15:46:00Z
+    webUrl: "https://www.washingtonpost.com/business/correction-ap-poll-biden-story/2021/03/09/93ebd198-80ee-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/correction-ap-poll-biden-story/2021/03/09/93ebd198-80ee-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/correction-ap-poll-biden-story/2021/03/09/93ebd198-80ee-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Trump policy that weakened wild bird protections is revoked"
+    excerpt: "The Biden administration has reversed a policy imposed under President Donald Trump that drastically weakened the government’s power to enforce a century-old law protecting most U.S. bird species"
+    publishedDateTime: 2021-03-09T04:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-policy-that-weakened-wild-bird-protections-is-revoked/2021/03/08/dea8adc8-808f-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-policy-that-weakened-wild-bird-protections-is-revoked/2021/03/08/dea8adc8-808f-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-policy-that-weakened-wild-bird-protections-is-revoked/2021/03/08/dea8adc8-808f-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Twitter sues Texas AG, claiming retaliation for Trump ban"
     excerpt: "Twitter has filed a lawsuit against Texas Attorney General Ken Paxton, claiming the Republican used his office to retaliate against it for banning the account of former President Donald Trump following the riot at the U."
@@ -111,21 +447,21 @@ related:
         width: 834
         height: 308
         isCached: true
-  - title: "Dick Morris has been meeting with Trump: report"
-    excerpt: "Veteran political consultant Dick Morris has reportedly been meeting with former President Trump as Trump looks to chart his path forward in politics after leaving the White House."
-    publishedDateTime: 2021-03-10T15:04:00Z
-    webUrl: "https://thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report"
-    ampWebUrl: "https://thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542500-dick-morris-has-been-meeting-with-trump-report?amp"
+  - title: "Border squeeze tempers Biden victory lap: The Note"
+    excerpt: "Increase of unaccompanied migrant children at the border The TAKE with Rick Klein President Joe Biden is about to have something very big to sell, with the House on track to pass his $1.9 trillion ..."
+    publishedDateTime: 2021-03-10T11:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/border-squeeze-tempers-biden-victory-lap-note/story?id=76345051"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
+      name: ABCNews
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/trumpdonald_092520getty.jpg"
-        width: 980
-        height: 551
+      - url: "https://s.abcnews.com/images/Politics/joe-biden-hardware-store-gty-jc-210309_1615335195697_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump accelerates his effort to wring power from the Republican Party"
     excerpt: "In the weeks after President Donald Trump lost the 2020 election, he and his team flooded email and text-message inboxes with false claims that the results of the contest were illegitimate. The messages were almost panicky: The Democrats were committing a crime on a historic scale and the guileless victim of that dishonesty — your favorite president — needed every able-bodied American to take to the ramparts."
@@ -143,95 +479,147 @@ related:
         width: 1440
         height: 1080
         isCached: true
-  - title: "GOP leaders reiterate commitment to working with Trump amid back-and-forth"
-    excerpt: "Republican leaders looked to turn down the temperature Tuesday night with former President Trump amid a back-and-forth with the former president over the party’s use of his image and likeness in its fundraising efforts."
-    publishedDateTime: 2021-03-10T02:16:00Z
-    webUrl: "https://thehill.com/homenews/campaign/542456-gop-leaders-reiterate-commitment-to-working-with-trump-amid-back-and-forth"
-    ampWebUrl: "https://thehill.com/homenews/campaign/542456-gop-leaders-reiterate-commitment-to-working-with-trump-amid-back-and-forth?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542456-gop-leaders-reiterate-commitment-to-working-with-trump-amid-back-and-forth?amp"
+  - title: "On Twitter, Trump is more popular than Jesus"
+    excerpt: "With Donald Trump playing the old hits to an enthusiastic Conservative Political Action Conference (CPAC) crowd and congressional Republicans making post-election pilgrimages to Mar-a-Lago to pay respect, many observers wonder when the former president’s ..."
+    publishedDateTime: 2021-03-11T13:59:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/11/twitter-trump-is-more-popular-than-jesus/?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 123
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/mcdanielronna_08242020_gettyimages_0.jpg"
-        width: 980
-        height: 551
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P3WUXBD2MYI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "The Hill's Morning Report - Presented by Facebook - Trump teases on 2024 run"
-    excerpt: "Welcome to The Hill’s Morning Report. Today is Monday, the start of Women’s History Month! Happy March! We get you up to speed on the most important developments in politics and policy, plus trends to watch."
-    publishedDateTime: 2021-03-01T11:28:00Z
-    webUrl: "https://thehill.com/homenews/morning-report/540950-the-hills-morning-report"
-    ampWebUrl: "https://thehill.com/homenews/morning-report/540950-the-hills-morning-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/morning-report/540950-the-hills-morning-report?amp"
+  - title: "The Latest: Biden to deploy more troops to help vaccinations"
+    excerpt: "WASHINGTON — The Latest on President Joe Biden’s $1.9 trillion coronavirus relief package (all times local): 6:40 p.m. Support our journalism. Subscribe today. President Joe Biden is planning to announce during his prime-time address Thursday night ..."
+    publishedDateTime: 2021-03-12T04:40:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-latest-biden-wants-all-adults-vaccine-eligible-by-may-1/2021/03/11/22975d2e-82c3-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/newsletter-open_030121getty.jpg"
-        width: 580
-        height: 387
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
-  - title: "Manhattan prosecutors intensifying probe into Trump's New York estate: report"
-    excerpt: "Manhattan prosecutors are reportedly intensifying their probe into former President Trump Donald Trump Trump vows 'No more money for RINOS,' instead encouraging donations to his PAC Federal judge ..."
-    publishedDateTime: 2021-03-10T02:51:00Z
-    webUrl: "https://thehill.com/legal/542459-manhattan-prosecutors-looking-at-trumps-new-york-estate-as-part-of-probe-report"
-    ampWebUrl: "https://thehill.com/legal/542459-manhattan-prosecutors-looking-at-trumps-new-york-estate-as-part-of-probe-report?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/legal/542459-manhattan-prosecutors-looking-at-trumps-new-york-estate-as-part-of-probe-report?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 122
-    images:
-      - url: "https://thehill.com/sites/default/files/trump_cpac2021_3.jpeg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Trump Weighs 2024 Run Without Mike Pence, Allies Say"
-    excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 -- and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket,"
-    publishedDateTime: 2021-03-04T15:43:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2021-03-03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 120
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iNrcFREBQ0Qc/v1/1200x800.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Trump blasts 'RINOs and fools' while urging supporters to donate directly to his PAC"
-    excerpt: "Since leaving office, Trump has clashed with the RNC over fundraising efforts. How Donald Trump has transformed the presidency Former U.S. President Donald Trump is urging supporters to send ..."
-    publishedDateTime: 2021-03-10T17:01:00Z
-    webUrl: "https://abcnews.go.com/Politics/trump-blasts-rinos-fools-urging-supporters-donate-directly/story?id=76358959"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/trump-blasts-rinos-fools-urging-supporters-donate-directly/story?id=76358959"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/trump-blasts-rinos-fools-urging-supporters-donate-directly/story?id=76358959"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 118
-    images:
-      - url: "https://s.abcnews.com/images/Politics/impeachment-president-donald-trump-21-rt-llr-210213_1613248561317_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "If Trump runs in 2024, he'll need a No. 2. Here are the leading candidates — including Mike Pence."
-    excerpt: "If Trump runs for president again, he'll likely have to find a new running mate. Republicans are chatting about some people as potential running mates."
-    publishedDateTime: 2021-03-10T19:27:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-vice-president-mike-pence-2024-2021-3"
+  - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
+    excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
+    publishedDateTime: 2021-03-10T20:24:00Z
+    webUrl: "https://www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3?amp"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 116
+    quality: 124
     images:
-      - url: "https://i.insider.com/5ff5d09fd184b30018aad3f3?width=1200&format=jpeg"
+      - url: "https://i.insider.com/6027f671b3c2a800183ccc37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Trump pressured another Georgia elections official, Frances Watson, to uncover nonexistent voter fraud"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump urged a Georgia elections official to uncover nonexistent evidence of mass fraud before the \"very important date\" of ..."
+    publishedDateTime: 2021-03-11T01:27:00Z
+    webUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/transcript-trump-pressures-another-georgia-elections-official-to-find-fraud-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 124
+    images:
+      - url: "https://i.insider.com/60496cb2f196be0018beec00?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "RNC says it has the right to use Trump's name and likeness for fundraising"
+    excerpt: "Trump's lawyers sent a cease-and-desist letter to the RNC demanding that it not use him in their fundraising pitches."
+    publishedDateTime: 2021-03-09T02:27:00Z
+    webUrl: "https://www.cbsnews.com/news/rnc-trump-cease-desist-letter/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/rnc-trump-cease-desist-letter/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/rnc-trump-cease-desist-letter/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 123
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/01/efa4137b-1acd-4605-9066-b73af69ae90a/thumbnail/1200x630g2/fadf0b4268b8347dc2c9bdd4f651150f/gettyimages-1231447828.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden administration stops enforcing Trump-era \"public charge\" green card restrictions following court order"
+    excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
+    publishedDateTime: 2021-03-10T05:43:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 121
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Biden administration to wind down long-term detention of migrant families — for now"
+    excerpt: "ICE has begun releasing migrant parents and children from three family detention facilities in Texas and Pennsylvania."
+    publishedDateTime: 2021-03-07T12:00:00Z
+    webUrl: "https://www.cbsnews.com/news/immigration-migrant-families-detention-long-term-biden-administration/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-migrant-families-detention-long-term-biden-administration/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-migrant-families-detention-long-term-biden-administration/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 119
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/06/59bef9f5-5f0f-4b76-8439-613f2f4e559c/thumbnail/1200x630/222839373f0bdbbf7500be4dea48d398/gettyimages-1231480277.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "House set to take up $1.9 trillion stimulus, putting Biden on track to sign this week"
+    excerpt: "House lawmakers are set to vote as soon as Tuesday on a roughly $1.9 trillion coronavirus relief package, putting President Biden on track to sign his first major legislative accomplishment into law by the end of the week."
+    publishedDateTime: 2021-03-08T20:11:00Z
+    webUrl: "https://www.washingtonpost.com/us-policy/2021/03/08/stimulus-house-biden-coronavirus/"
+    ampWebUrl: "https://www.washingtonpost.com/us-policy/2021/03/08/stimulus-house-biden-coronavirus/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/us-policy/2021/03/08/stimulus-house-biden-coronavirus/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-06-2021/t_6f8cdac6dd4d456987d734f07168f677_name_20210306_stimulussenatevote.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "Critics blast Biden administration for denying entry to thousands of people still affected by Trump's 'Muslim ban'"
+    excerpt: "to encourage migration from underrepresented people — only to have them taken away by an executive order by Donald Trump, who then tried to eliminate the diversity program altogether. People like Anwar al Saeedi, a Yemeni man who in 2017 expected to be ..."
+    publishedDateTime: 2021-03-10T00:19:00Z
+    webUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/6047fc099942cf001865d731?width=1200&format=jpeg"
         width: 1200
         height: 600
         isCached: true
@@ -249,167 +637,170 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "New report says failures at OSHA under Trump could have put more workers at risk during pandemic"
-    excerpt: "The agency received more safety complaints during the pandemic than the same period in 2019 yet performed significantly fewer inspections."
-    publishedDateTime: 2021-03-02T19:20:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/03/02/osha-inspections-covid-oig-report/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/03/02/osha-inspections-covid-oig-report/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/02/osha-inspections-covid-oig-report/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 112
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LOIIF7TOAUI6XJTO4JYEN2PITA.jpg&w=1440"
-        width: 1440
-        height: 962
-        isCached: true
-  - title: "Trump names Republican impeachment supporters"
-    excerpt: "Former President Donald Trump called for GOP unity at a conservative convention in Orlando, Florida and then called out by name the 17 Republican House and Senate members who voted to impeach or convict him. (March 1)"
-    publishedDateTime: 2021-03-01T20:26:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/01/trump-names-republican-impeachment-supporters/6866270002/"
+  - title: "Trump's Twitter ban saga continues: The social platform sues Texas AG, claiming retaliation for Trump ban"
+    excerpt: "Twitter filed a lawsuit against Texas AG Ken Paxton, claiming he used his office to retaliate against it for banning former President Trump."
+    publishedDateTime: 2021-03-09T21:52:00Z
+    webUrl: "https://www.usatoday.com/story/tech/news/2021/03/09/twitter-sues-texas-retaliation-trump-ban/6929043002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6929043002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6929043002"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 105
+    quality: 108
     images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/8892288f-0e70-4630-906c-08527e19a7da_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
+      - url: "https://www.gannett-cdn.com/presto/2020/12/09/USAT/ff3960a4-7ef7-4cb5-a03f-1763bf15f575-AP_TEXAS_AG_CRIMINAL_ACCUSATIONS.jpg?auto=webp&crop=3000,1688,x0,y44&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "Wray: No evidence of fake Trump supporters at Capitol riot"
-    excerpt: "FBI Director Christopher A. Wray on March 2 said that there was no evidence of fake Trump supporters who stormed the Capitol on Jan. 6."
-    publishedDateTime: 2021-03-02T16:15:00Z
-    webUrl: "https://www.washingtonpost.com/video/politics/wray-no-evidence-of-fake-trump-supporters-at-capitol-riot/2021/03/02/11111ee8-eec3-44ba-93a6-917203f7c210_video.html"
+  - title: "Manhattan prosecutors could be in the final stages of their wide-ranging investigation into Trump's finances"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. After a months-long battle with Donald Trump over his closely held tax returns, the Manhattan district attorney's office may finally be in the end stages of its wide-ranging ..."
+    publishedDateTime: 2021-03-12T22:33:00Z
+    webUrl: "https://www.businessinsider.com/manhattan-prosecutors-may-be-in-end-stages-of-trump-probe-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/manhattan-prosecutors-may-be-in-end-stages-of-trump-probe-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/manhattan-prosecutors-may-be-in-end-stages-of-trump-probe-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/6027f671b3c2a800183ccc37?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Biden hopes to boost offshore wind as Mass. project advances"
+    excerpt: "A huge wind farm off the Massachusetts coast is edging closer to federal approval, setting up what the Biden administration hopes will be a model for a sharp increase in offshore wind energy development along the East Coast."
+    publishedDateTime: 2021-03-09T05:16:00Z
+    webUrl: "https://www.businessinsider.com/biden-hopes-to-boost-offshore-wind-as-mass-project-advances-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-hopes-to-boost-offshore-wind-as-mass-project-advances-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-hopes-to-boost-offshore-wind-as-mass-project-advances-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "What Joe Biden has said about war powers"
+    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
+    publishedDateTime: 2021-03-09T21:01:00Z
+    webUrl: "https://www.washingtonpost.com/video/politics/what-joe-biden-has-said-about-war-powers/2021/03/09/0b60fb9b-349a-41e7-a097-26e30c7b0677_video.html"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
     quality: 105
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-02-2021/t_947d83b1b70a4643b78d5adc36f48592_name_e99b3644_7b6f_11eb_8c5e_32e47b42b51b_scaled.jpg&w=1080"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1080"
         width: 1080
         height: 608
         isCached: true
-  - title: "Trump weighs 2024 White House run without Mike Pence, allies say"
-    excerpt: "Donald Trump is telling allies he’s strongly considering another run for president in 2024 – and close advisers want him to choose someone other than former Vice President Mike Pence for his ticket, according to people familiar with the discussions."
-    publishedDateTime: 2021-03-03T20:22:00Z
-    webUrl: "https://www.detroitnews.com/story/news/politics/2021/03/03/trump-weighs-2024-white-house-run-without-mike-pence-allies-say/6907944002/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/6907944002"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/6907944002"
+  - title: "Biden's $1.9T rescue signed, and now things get tougher"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — Tough as it was for Democrats, passing President Joe Biden’s sweeping package into law was the easy part. Now, they are hunkering down to push the next priorities ..."
+    publishedDateTime: 2021-03-12T05:20:00Z
+    webUrl: "https://www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3?amp"
     type: article
     provider:
-      name: Detroit News
-      domain: detroitnews.com
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
+  - title: "Why did Biden decide to sign the bill today?"
+    excerpt: "Watch \"Why did Biden decide to sign the bill today?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
+    publishedDateTime: 2021-03-11T19:24:00Z
+    webUrl: "https://www.cbsnews.com/live/video/20210311191038-why-did-biden-decide-to-sign-the-bill-today/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 105
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/2014/10/24/81f260db-0e27-4cf7-83ac-a190dca0b384/slatedvr600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."
+    publishedDateTime: 2021-03-10T12:13:00Z
+    webUrl: "https://www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/us-house-set-for-final-approval-of-19-trillion-covid-19-bill-in-early-win-for-biden-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+  - title: "Psaki refuses to give Trump credit for vaccine rollout and says it was an 'incredible effort by science and by medical experts'"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. White House press secretary Jen Psaki has repeatedly refused to give credit to former President Donald Trump for the coronavirus-vaccine development and rollout under his administration."
+    publishedDateTime: 2021-03-12T19:17:00Z
+    webUrl: "https://www.businessinsider.com/psaki-trump-vaccine-development-science-experts-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/psaki-trump-vaccine-development-science-experts-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/psaki-trump-vaccine-development-science-experts-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 97
+    images:
+      - url: "https://i.insider.com/604bb0fafea127001886a7e3?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "Wyoming moving ahead with Trump Jr.-backed election changes"
+    excerpt: "CHEYENNE, Wyo. (AP) — Wyoming lawmakers will continue to discuss proposed election changes endorsed by Donald Trump Jr. for their potential to undermine U.S. Rep. Liz Cheney but not for next year as originally planned. A legislative committee voted ..."
+    publishedDateTime: 2021-03-11T21:51:00Z
+    webUrl: "https://www.chron.com/news/article/Wyoming-moving-ahead-with-Trump-Jr-backed-16019091.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Wyoming-moving-ahead-with-Trump-Jr-backed-16019091.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Wyoming-moving-ahead-with-Trump-Jr-backed-16019091.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
     quality: 90
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/03/PDTN/34ca3f4b-0302-4b92-81a5-506ed210864b-AP21059813576403.jpg?auto=webp&crop=684,385,x237,y298&format=pjpg&width=1200"
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
+  - title: "He's baaack (kind of). Inside Trump's bid to get on Twitter without officially being allowed on Twitter."
+    excerpt: "Trump's most recent statements from his new political action committee and his post-presidential office read exactly like his tweets. Most are crafted just under Twitter's 280-character threshold. Journalists,"
+    publishedDateTime: 2021-03-11T22:47:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-using-twitter-social-media-email-white-house-ban-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/604a92359942cf001865dea9?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "President Joe Biden to make first prime-time address to nation Thursday"
+    excerpt: "The president will look forward, highlighting the role that Americans will play in beating the virus,' the White House said."
+    publishedDateTime: 2021-03-08T17:56:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/03/08/president-biden-make-first-prime-time-address-nation-thursday/4630051001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4630051001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4630051001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/19/USAT/603162ef-b26b-4e0b-a54c-c91b0da0868d-AP21050597735960.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Pence Reportedly Not Holding a Grudge Against Trump Over Whole Riot Thing"
-    excerpt: "It took a few weeks, but Pence seems to be over it — at least publicly. CNN reports that Pence told a group of Republican lawmakers on Tuesday that not only does he remain close friends with Trump, but that he has plans to launch a political action organization defending the administration’s record."
-    publishedDateTime: 2021-02-24T17:03:00Z
-    webUrl: "https://nymag.com/intelligencer/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/pence-not-holding-grudge-against-trump-over-whole-riot-thing.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 89
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/ff6/d91/a33a01fa386758c72fc9ae2ff1631f8012-donald-trump-mike-pence.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "Political purgatory: Mike Pence missing in action as Trump makes triumphant return"
-    excerpt: "As former President Donald Trump teased his political comeback to conservatives this weekend, his one-time wingman, ex-Vice President Mike Pence, was nowhere to be found."
-    publishedDateTime: 2021-03-01T00:00:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/mar/1/mike-pence-missing-action-donald-trump-makes-trium/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/1/mike-pence-missing-action-donald-trump-makes-trium/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/1/mike-pence-missing-action-donald-trump-makes-trium/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 84
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2020/10/07/election_2020_debate_80917_c0-0-7820-4561_s1200x700.jpg?56fde10e756e7809d656fd3fa8a95b1b1eda9bc8"
-        width: 1200
-        height: 700
-        isCached: true
-  - title: "Mike Pence’s Blueprint for Permanent Authoritarian Rule"
-    excerpt: "Pence’s analysis is worth considering in some detail. As both a faithful servant to Donald Trump and a respected member of the Republican Party’s most ideologically orthodox wing, Pence holds a position that represents a synthesis of Trump’s idiosyncratic personal authoritarianism and his party’s longstanding anti-democratic trend."
-    publishedDateTime: 2021-03-03T21:07:00Z
-    webUrl: "https://nymag.com/intelligencer/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
-    ampWebUrl: "https://nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
-    cdnAmpWebUrl: "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/article/mike-pence-vote-suppression-trump-riot-authoritarianism.html"
-    type: article
-    provider:
-      name: New York Magazine
-      domain: nymag.com
-    quality: 75
-    images:
-      - url: "https://pyxis.nymag.com/v1/imgs/ea8/553/d0116718e9c50f2729b2e2fbfe13728ebc-pence-trump.1x.rsocial.w1200.jpg"
-        width: 1200
-        height: 632
-        isCached: true
-  - title: "Ivanka Trump For Vice President? Donald Trump Would Consider Daughter As 2024 Running Mate"
-    excerpt: "After former President Donald Trump hinted at last week's Conservative Political Action Conference about a potential White House run in 2024, there was chatter that his eldest daughter Ivanka Trump or another family member could serve as his running mate."
-    publishedDateTime: 2021-03-07T18:08:00Z
-    webUrl: "https://www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990"
-    ampWebUrl: "https://www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ivanka-trump-vice-president-donald-trump-would-consider-daughter-2024-running-mate-3157990?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 65
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/10/23/12-times-donald-trump-acted-totally-inappropriately-ivanka-09.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Trump To Make First Post-presidency Speech At Conservative Conference"
-    excerpt: "Donald Trump returns to the political spotlight Sunday, determined to regain control of a Republican Party that is out of power and pondering whether the flawed former president can win again in 2024."
-    publishedDateTime: 2021-02-28T14:11:00Z
-    webUrl: "https://www.ibtimes.com/trump-make-first-post-presidency-speech-conservative-conference-3153624"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/28/former-us-president-donald-trump-will-address-cpac.jpg"
-        width: 1024
-        height: 644
-        isCached: true
-  - title: "Trump To Be Allowed Back On YouTube When 'Risk Of Violence' Falls"
-    excerpt: "Former US president Donald Trump will be allowed back on YouTube but only when the threat of his inciting violence abates, the head of the popular online video sharing platform said Thursday. YouTube in late January suspended Trump's channel,"
-    publishedDateTime: 2021-03-04T21:16:00Z
-    webUrl: "https://www.ibtimes.com/trump-be-allowed-back-youtube-when-risk-violence-falls-3156586"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 55
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-could-return-to.jpg"
-        width: 1024
-        height: 669
-        isCached: true
-  - title: "House Impeachment Manager Sues Trump, Allies Over Riot"
-    excerpt: "Rep. Eric Swalwell, who served as a House manager in Donald Trump’s last impeachment, has filed a lawsuit against the former president, his son, lawyer and a Republican congressman whose actions he charges led to January’s insurrection."
-    publishedDateTime: 2021-03-05T14:32:00Z
-    webUrl: "https://www.usnews.com/news/politics/articles/2021-03-05/house-impeachment-manager-sues-trump-allies-over-riot"
+  - title: "Biden Seeks U.S. Supreme Court Dismissal of Trump Immigration Rule Dispute"
+    excerpt: "Biden, who has criticized Trump's immigration approach, is widely expected to dump the policy known as the \"public charge\" rule. The justices on Feb. 22 had agreed to hear an appeal filed by Trump's administration of a lower court ruling that found the rule likely violated federal immigration and administrative law by impermissibly expanding the definition of who counts as a \"public charge\" and greatly increasing the number of people who would be rejected for residency."
+    publishedDateTime: 2021-03-09T11:37:00Z
+    webUrl: "https://www.usnews.com/news/us/articles/2021-03-09/biden-seeks-us-supreme-court-dismissal-of-trump-immigration-rule-dispute"
     type: article
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
+    quality: 48
 
 secured: "LcwAqXUZxS3zwpj9u2WbNbhmT6SHd/F/fyvN+Tnrm3zCpa6WELppt8cLjWNkZkipvirkPpPRx57Vp17LrW8SAyV3DR33Jj9LXEz+hPH8YgYtNJaiuvTqBbviALc/kdPWGWMbf9tDYL66nU1a2Gp7/ZzqYhSArKcVWLnbZ4889rvteONlJevytb+2EjMQQ5wL0MtsQ2y+mt7s12yDM05gASt/yN/H3lIi/FoCbY7a88AskWelKnEstIEsu5o+U3sHua7Zv3SQx+ZUyWvLCauU3pc6yawvNJg4y52C+0T2uuWpLAV7JCXPqVbokPV/cI5/MHG+ictNg1gVeW8cWC/eUDxb2K3Y2u/JvKp/l7aBmUA=;fHjvvFAXAaz6T08ohKUhww=="
 ---

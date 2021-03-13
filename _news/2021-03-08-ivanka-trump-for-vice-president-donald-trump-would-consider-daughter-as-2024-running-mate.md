@@ -95,38 +95,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump, RNC clash over using his name in fundraising"
-    excerpt: "The Republican National Committee is defending its right to use former President Donald Trump’s name in its fundraising appeals after he demanded they put an end to the practice"
-    publishedDateTime: 2021-03-09T02:41:00Z
-    webUrl: "https://www.washingtonpost.com/politics/trump-rnc-clash-over-using-his-name-in-fundraising/2021/03/08/e9949c92-8080-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/trump-rnc-clash-over-using-his-name-in-fundraising/2021/03/08/e9949c92-8080-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-rnc-clash-over-using-his-name-in-fundraising/2021/03/08/e9949c92-8080-11eb-be22-32d331d87530_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Twitter sues Texas AG, claiming retaliation for Trump ban"
-    excerpt: "Twitter has filed a lawsuit against Texas Attorney General Ken Paxton, claiming the Republican used his office to retaliate against it for banning the account of former President Donald Trump following the riot at the U."
-    publishedDateTime: 2021-03-09T02:13:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/twitter-sues-texas-ag-claiming-retaliation-trump-ban-76332201"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
-        width: 834
-        height: 308
-        isCached: true
   - title: "Dick Morris has been meeting with Trump: report"
     excerpt: "Veteran political consultant Dick Morris has reportedly been meeting with former President Trump as Trump looks to chart his path forward in politics after leaving the White House."
     publishedDateTime: 2021-03-10T15:04:00Z
@@ -142,22 +110,6 @@ related:
       - url: "https://thehill.com/sites/default/files/trumpdonald_092520getty.jpg"
         width: 980
         height: 551
-        isCached: true
-  - title: "Trump accelerates his effort to wring power from the Republican Party"
-    excerpt: "In the weeks after President Donald Trump lost the 2020 election, he and his team flooded email and text-message inboxes with false claims that the results of the contest were illegitimate. The messages were almost panicky: The Democrats were committing a crime on a historic scale and the guileless victim of that dishonesty — your favorite president — needed every able-bodied American to take to the ramparts."
-    publishedDateTime: 2021-03-09T18:05:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/trump-accelerates-his-effort-wring-power-republican-party/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/trump-accelerates-his-effort-wring-power-republican-party/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/trump-accelerates-his-effort-wring-power-republican-party/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MMS3VAFBII6XOJOAKLHN6PL5Q.jpg&w=1440"
-        width: 1440
-        height: 1080
         isCached: true
   - title: "GOP leaders reiterate commitment to working with Trump amid back-and-forth"
     excerpt: "Republican leaders looked to turn down the temperature Tuesday night with former President Trump amid a back-and-forth with the former president over the party’s use of his image and likeness in its fundraising efforts."
@@ -246,20 +198,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 116
-    images:
-      - url: "https://i.insider.com/5ff5d09fd184b30018aad3f3?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "If Donald Trump runs in 2024, he'll need a No. 2. Here are the leading candidates — including Mike Pence."
-    excerpt: "It indicates a way to close an interaction, or dismiss a notification. The road to the White House is not for the faint of heart, certainly not when hitching a ride with Donald Trump. But with the former president effectively locking down the 2024 ..."
-    publishedDateTime: 2021-03-10T19:27:00Z
-    webUrl: "https://www.businessinsider.com/donald-trump-vice-president-mike-pence-2024-2021-3"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 113
     images:
       - url: "https://i.insider.com/5ff5d09fd184b30018aad3f3?width=1200&format=jpeg"
         width: 1200

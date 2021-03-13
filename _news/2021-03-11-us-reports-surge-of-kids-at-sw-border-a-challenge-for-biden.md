@@ -31,172 +31,92 @@ images:
     isCached: true
 
 related:
-  - title: "Biden rescinds Trump's 'public charge' rule"
-    excerpt: "The Biden administration on Thursday formally rescinded the Trump-era “public charge” rule, which tightened restrictions on poorer immigrants seeking U.S. residency, as a dozen GOP state ..."
-    publishedDateTime: 2021-03-12T00:24:00Z
-    webUrl: "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule"
-    ampWebUrl: "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp"
+  - title: "Hiring surged in February, the first full month of Biden's presidency"
+    excerpt: "Hiring around the U.S. sped up in February, the first full month of the Biden presidency, in a sign that the labor market is gathering strength. Employers added 379,000 jobs last month, the Labor Department said Friday,"
+    publishedDateTime: 2021-03-05T13:44:00Z
+    webUrl: "https://www.cbsnews.com/news/february-job-report-employment-unemployment-379000-jobs-added/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/february-job-report-employment-unemployment-379000-jobs-added/"
     type: article
     provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 140
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
     images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_030521getty_immigration.jpg"
-        width: 980
-        height: 551
-        isCached: true
-  - title: "Biden asks Supreme Court to dismiss suit on Trump-era abortion issue"
-    excerpt: "WASHINGTON – President Joe Biden's administration on Friday requested the Supreme Court dismiss a series of cases involving former President Donald Trump's effort to cut federal funding for medical centers that refer patients for abortions ..."
-    publishedDateTime: 2021-03-13T00:27:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/supreme-court-biden-asks-court-dismiss-trump-era-abortion-rule/4674355001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4674355001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4674355001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 140
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/22/USAT/1da3e37c-5766-4204-bc86-02a0edca70b1-AP_Supreme_Court_Trump_Policies.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/04/bc169c75-f742-42c5-b2a8-649e4a44e148/thumbnail/1200x630/ec0c83d0aabe7014635179e56c95ef66/hiring-gettyimages-1229892232.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
-  - title: "Biden won’t be putting his signature on COVID-19 relief checks, unlike Trump"
-    excerpt: "President Biden will not be attaching his signature to the $1,400 relief checks that are expected to be mailed soon — a break with his predecessor, who last year had “President Donald J. Trump” printed on the economic impact payments approved by ..."
-    publishedDateTime: 2021-03-10T01:36:00Z
-    webUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks"
-    ampWebUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 137
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/27e2771/2147483647/strip/true/crop/3618x2363+281+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F1e%2F6f3fd75dd8cf337e371f4b0065a0%2Fac3f35f2c1554c75ac18550bee411639"
-        width: 320
-        height: 209
-        isCached: true
-  - title: "Joe Biden Visa Decision on Donald Trump's 'Muslim Ban' Infuriates Progressives"
-    excerpt: "The American Civil Liberties Union (ACLU) said that a large number of Africans would be affected and that Biden \"has failed to help so many of those harmed\" by the Trump administration's immigration restrictions. \"Instead of restoring this opportunity ..."
-    publishedDateTime: 2021-03-10T10:19:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-donald-trump-immigration-muslim-ban-aclu-1575009"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-donald-trump-immigration-muslim-ban-aclu-1575009?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-donald-trump-immigration-muslim-ban-aclu-1575009?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 136
-    images:
-      - url: "https://d.newsweek.com/en/full/1752341/president-joe-biden.jpg"
-        width: 2500
-        height: 1663
-        isCached: true
-  - title: "Joe Biden Is 'Arrogant' and 'Totalitarian' Like Donald Trump, Iran General Says"
-    excerpt: "\"In our view, there is no difference between Biden and Trump,\" Shekarchi said according to the state-run Fars News Agency, echoing complaints from Iranian leaders that Biden has failed to lift the sanctions imposed by his predecessor after the U.S ..."
-    publishedDateTime: 2021-03-12T13:09:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 136
-    images:
-      - url: "https://d.newsweek.com/en/full/1754276/joe-biden-speaks-covid-white-house.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
-  - title: "Should Joe Biden Thank Donald Trump For Vaccine Rollout? Operation Warp Speed Debated"
-    excerpt: "A number of conservative and Republican figures are saying that Joe Biden should be thanking Donald Trump for spurring on the development of a COVID-19 vaccine as the president announced hopes for the country to be \"back to normal\" by July 4. In an address ..."
-    publishedDateTime: 2021-03-12T08:56:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 133
-    images:
-      - url: "https://d.newsweek.com/en/full/1754112/trump.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Joe Biden's Approval Rating on COVID Pandemic 18 Points Higher Than Trump's Best: Poll"
-    excerpt: "That's 18 points higher than former President Donald Trump's best rating in the poll, in which he earned 44 percent approval in March and April last year. By the time he left office in January, Trump's approval rating on the coronavirus had dropped to 39 ..."
-    publishedDateTime: 2021-03-11T21:45:00Z
-    webUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544"
-    ampWebUrl: "https://www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-bidens-approval-rating-covid-pandemic-18-points-higher-trumps-best-poll-1575544?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 132
-    images:
-      - url: "https://d.newsweek.com/en/full/1753962/joe-biden-coronavirus-approval-rating.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "Biden’s Justice Dept. already has split from Trump. Merrick Garland will go even further."
-    excerpt: "Now, with federal appeals court judge Merrick Garland set to take over as attorney general, the thornier work begins. Garland, who is expected to be confirmed by the Senate on Wednesday, will inherit a Justice Department damaged by President Donald Trump’s efforts to use its power to benefit his friends and hurt his enemies."
-    publishedDateTime: 2021-03-09T20:54:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/merrick-garland-attorney-general-confirmation/2021/03/08/c4cb96e6-7df5-11eb-a976-c028a4215c78_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 131
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2RBG37UANEI6XAO3WAXQHGHUTI.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
-  - title: "'Not about him': Biden's name won't appear on stimulus checks in shift from Donald Trump"
-    excerpt: "President Joe Biden's signature won't appear on $1,400 stimulus checks to avoid delays in distributing the money, the White House says."
-    publishedDateTime: 2021-03-09T20:46:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/09/covid-relief-bidens-signature-wont-appear-stimulus-checks/6926056002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6926056002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6926056002"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 131
-    images:
-      - url: "https://www.gannett-cdn.com/-mm-/96a9f4df6933a6e0c2158220d49f939822c30a25/c=0-69-2189-1300/local/-/media/2021/03/06/USATODAY/usatsports/pile-of-100-dollar-bills_gettyimages-452970107.jpg?auto=webp&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "'The mess we inherited': Biden leans heavily on Trump's 'Warp Speed' but won't give credit"
-    excerpt: "President Joe Biden is taking credit for accelerating the vaccine rollout, without giving credit to former President Donald Trump's team that laid the groundwork."
-    publishedDateTime: 2021-03-11T03:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+  - title: "Biden White House: keeping control of the daily message"
+    excerpt: "President Joe Biden is the first executive in four decades to reach this point in his term without holding a formal question and answer session. It reflects a White House media strategy meant both to reserve major media set-pieces for the celebration of a legislative victory and to limit unforced errors from a historically gaffe-prone politician."
+    publishedDateTime: 2021-03-06T05:53:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-white-house-keeping-control-daily-message-76292018"
     type: article
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 130
+    quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/rollout-covid-vaccine-president-joe-biden-donald-trump-04-gty-llr-210310_1615416603172_hpMain_16x9_992.jpg"
+      - url: "https://s.abcnews.com/images/Politics/WireAP_c65781c446834dc2ac6f68478659c640_16x9_992.jpg"
         width: 992
         height: 558
         isCached: true
-  - title: "Trump State Department aide charged with assault at Capitol"
-    excerpt: "A former State Department aide in President Donald Trump’s administration has been charged with participating in the deadly Capitol siege and assaulting officers"
-    publishedDateTime: 2021-03-05T20:31:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/trump-state-department-aide-charged-with-assault-at-capitol/2021/03/05/d249ac5a-7dc7-11eb-8c5e-32e47b42b51b_story.html?outputType=amp"
+  - title: "Biden officials visit US-Mexico border to monitor increase in crossings"
+    excerpt: "Alejandro Mayorkas and Susan Rice in White House delegation as Republicans seek to make immigration central electoral issue"
+    publishedDateTime: 2021-03-07T12:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a781cba07bd450a169afecf73368213bb77d4f4a/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5a89ad2aba0ecfee1a4a7259c005b38a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden poised to sign executive order aimed at promoting voting rights"
+    excerpt: "President Biden is set to take unilateral action Sunday focused on voting rights and using the tools of the federal government to boost access for Americans to voter registration services. Mr. Biden will sign the executive order on the 56th anniversary of \"Bloody Sunday,"
+    publishedDateTime: 2021-03-07T14:13:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-executive-order-voting-rights/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-executive-order-voting-rights/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-executive-order-voting-rights/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/07/ba8b5c5d-eac0-422c-a0f9-13778acf391d/thumbnail/1200x630/54661ece71c4daa8d9093d107aa10ca3/gettyimages-1231558643.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Jill Biden helps honor women from 15 countries for courage"
+    excerpt: "First lady Jill Biden says 21 women the State Department is honoring for their courage made an “intentional decision” to persist and demand justice despite their fear"
+    publishedDateTime: 2021-03-08T11:04:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/jill-biden-helps-honor-women-15-countries-courage-76318247"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/jill-biden-helps-honor-women-15-countries-courage-76318247"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/jill-biden-helps-honor-women-15-countries-courage-76318247"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_534156a551c64861906d51b3750532e6_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Jill Biden sees teachable moment in the depths of a pandemic"
+    excerpt: "Jill Biden sees a teachable moment in the depths of the coronavirus pandemic. The first lady sat in a socially distanced circle in the library at Fort LeBoeuf Middle School in Pennsylvania, listening and taking notes as parents expressed relief that the school had reopened and their kids were back in the classroom."
+    publishedDateTime: 2021-03-08T05:25:00Z
+    webUrl: "https://www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/jill-biden-sees-teachable-moment-in-the-depths-of-a-pandemic/2021/03/08/bafe52cc-7fce-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -207,28 +127,12 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Trump demands three Republican groups stop raising money off his name"
-    excerpt: "Former President Donald Trump has clashed again with his Republican Party, demanding that three Republican groups stop using his name and likeness for fundraising, a Trump adviser said on Saturday."
-    publishedDateTime: 2021-03-06T23:54:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-republicans/trump-demands-three-republican-groups-stop-raising-money-off-his-name-idUSKBN2AY0JK"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AY0JK"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AY0JK"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 125
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553981904&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250FV"
-        width: 819
-        height: 545
-        isCached: true
-  - title: "Biden order could change how colleges handle sex misconduct"
-    excerpt: "Administration officials say President Joe Biden is rethinking Trump administration policies that weakened how colleges and universities that get federal dollars handle sexual assault accusations on c"
-    publishedDateTime: 2021-03-08T14:28:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
+  - title: "Huge virus aid bill nears final OK in win for Biden, Dems"
+    excerpt: "WASHINGTON — Congress sped toward final approval Wednesday of a landmark $1.9 trillion COVID-19 relief bill, as President Joe Biden and Democrats neared a major triumph for the party’s priorities and showcased the unity they’ll need to forge future ..."
+    publishedDateTime: 2021-03-10T05:20:00Z
+    webUrl: "https://www.washingtonpost.com/politics/house-set-to-vote-on-virus-relief-biden-on-cusp-of-triumph/2021/03/10/51979166-8160-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/house-set-to-vote-on-virus-relief-biden-on-cusp-of-triumph/2021/03/10/51979166-8160-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/house-set-to-vote-on-virus-relief-biden-on-cusp-of-triumph/2021/03/10/51979166-8160-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -239,12 +143,44 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden boosts US vaccine stockpile as world waits"
-    excerpt: "President Joe Biden has directed his administration to order another 100 million doses of the Johnson & Johnson coronavirus vaccine, growing a likely U.S. surplus of doses later this year when much of"
-    publishedDateTime: 2021-03-10T22:36:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-boosts-us-vaccine-stockpile-as-world-waits/2021/03/10/08117570-81f1-11eb-be22-32d331d87530_story.html?outputType=amp"
+  - title: "Congress OKs $1.9T virus relief bill in win for Biden, Dems"
+    excerpt: "A Congress riven along party lines has approved the landmark $1.9 trillion COVID-19 relief bill, as President Joe Biden and Democrats claimed a major triumph on legislation marshaling the government’s spending might against twin pandemic and economic crises that have upended a nation."
+    publishedDateTime: 2021-03-11T06:41:00Z
+    webUrl: "https://www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/congress-oks-19t-virus-relief-bill-in-win-for-biden-dems/2021/03/10/e8f8bb24-8210-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Transcript: President Joe Biden on the coronavirus pandemic"
+    excerpt: "Transcript of President Joe Biden's speech Thursday, March 11, 2021, on the coronavirus pandemic, as provided by the White House: Good evening, my fellow Americans. Tonight, I’d like to talk to you about where we are as we mark one year since everything stopped because of this pandemic."
+    publishedDateTime: 2021-03-12T04:17:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/transcript-president-joe-biden-coronavirus-pandemic-76405722"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/transcript-president-joe-biden-coronavirus-pandemic-76405722"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/transcript-president-joe-biden-coronavirus-pandemic-76405722"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/site/ABCNews_flat_black.png"
+        width: 834
+        height: 308
+        isCached: true
+  - title: "VIRUS TODAY: Biden signs aid bill; ex-presidents get shots"
+    excerpt: "President Joe Biden has signed into law the $1.9 trillion relief package he says will help the U.S. defeat the coronavirus and nurse the economy back to health"
+    publishedDateTime: 2021-03-11T22:13:00Z
+    webUrl: "https://www.washingtonpost.com/health/virus-today-biden-signs-aid-bill-ex-presidents-get-shots/2021/03/11/0179d0f6-82b7-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/virus-today-biden-signs-aid-bill-ex-presidents-get-shots/2021/03/11/0179d0f6-82b7-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/virus-today-biden-signs-aid-bill-ex-presidents-get-shots/2021/03/11/0179d0f6-82b7-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -271,85 +207,245 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
-    excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
-    publishedDateTime: 2021-03-10T20:24:00Z
-    webUrl: "https://www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/these-two-court-loses-show-trumps-lasting-power-on-judiciary-2021-3?amp"
+  - title: "A viral misfire: A White House video feed ended but Biden took questions"
+    excerpt: "White House cuts video feed instead of letting Joe Biden take questions.” So far, President Biden has not been nearly as loquacious as former president Donald Trump. Biden’s Twitter feed is pretty dull and his encounters with the media have been carefully controlled — a question here and there,"
+    publishedDateTime: 2021-03-05T00:00:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/05/viral-misfire-white-house-video-feed-ended-biden-took-questions/?outputType=amp"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 124
     images:
-      - url: "https://i.insider.com/6027f671b3c2a800183ccc37?width=1200&format=jpeg"
-        width: 1200
-        height: 600
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SRZS52D4OII6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
-  - title: "Republicans Insist Donald Trump Should Take Credit for COVID Vaccinations"
-    excerpt: "But prominent GOP figures have criticized the president for not recognizing the administration of Donald Trump, which launched Operation Warp Speed last April. This public-private partnership was set up to facilitate the development, manufacturing and ..."
-    publishedDateTime: 2021-03-12T10:27:00Z
-    webUrl: "https://www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597"
-    ampWebUrl: "https://www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-operation-warp-speed-vaccinations-joe-biden-1575597?amp=1"
+  - title: "Biden's $1.9 trillion COVID-19 bill moves toward final approval in House"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden was poised on Wednesday for his first major legislative victory, as the House of Representatives moved toward final approval of his $1.9 trillion COVID-19 relief bill, which forecasters predict will turbocharge ..."
+    publishedDateTime: 2021-03-10T14:31:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-congress-idUSKBN2B215E"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B215E"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B215E"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: Reuters
+      domain: reuters.com
     quality: 124
     images:
-      - url: "https://d.newsweek.com/en/full/1754084/ex-president-donald-trump.jpg"
-        width: 2500
-        height: 1666
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554386064&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH290O1"
+        width: 819
+        height: 545
         isCached: true
-  - title: "Biden administration stops enforcing Trump-era \"public charge\" green card restrictions following court order"
-    excerpt: "The Biden administration on Tuesday stopped enforcing the 2019 \"public charge\" restrictions on green cards, unraveling the centerpiece of former President Donald Trump's efforts to restrict legal immigration. Homeland Security Secretary Alejandro Mayorkas ..."
-    publishedDateTime: 2021-03-10T05:43:00Z
-    webUrl: "https://www.cbsnews.com/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/immigration-public-charge-rule-enforcement-stopped-by-biden-administration/"
+  - title: "IMF urges vigilance against rate spike as Biden stimulus juices U.S. growth"
+    excerpt: "The International Monetary Fund on Thursday warned central banks to be vigilant against a sudden spike in interest rates that could spill over into emerging markets, even as a $1.9 trillion U.S. stimulus package benefits most countries and aids recovery."
+    publishedDateTime: 2021-03-11T17:47:00Z
+    webUrl: "https://www.reuters.com/article/imf-economy-idUSL1N2L922U"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B329R"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B329R"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 121
+      name: Reuters
+      domain: reuters.com
+    quality: 123
     images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
-        width: 1200
-        height: 630
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554553270&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A1CU"
+        width: 817
+        height: 545
         isCached: true
-  - title: "Congressman sues Trump over deadly Capitol siege, charges civil rights violation"
-    excerpt: "A Democratic congressman has sued Donald Trump, his lawyer Rudy Giuliani and other allies of the former president over the deadly attack on the U.S. Capitol when violent Trump supporters tried to stop the certification of Trump's election defeat."
-    publishedDateTime: 2021-03-05T23:52:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-swalwell-idUSKBN2AX1JP"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AX1JP"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AX1JP"
+  - title: "Republicans step up attacks on Biden over handling of migrant surge at border"
+    excerpt: "On Location: March 12, 2021 Republicans on Capitol Hill are seizing on the record surge in migrants at the southern border to bring increased scrutiny to President Joe Biden’s immigration ..."
+    publishedDateTime: 2021-03-12T22:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/US/deported-migrants-rtr-jc-210312_1615585988585_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "White House: Biden believes U.S. authorizations for military force need updating"
+    excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
+    publishedDateTime: 2021-03-06T01:26:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-military/white-house-biden-believes-u-s-authorizations-for-military-force-need-updating-idUSKCN2AX2DI?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2ET"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2ET"
     type: article
     provider:
       name: Reuters
       domain: reuters.com
     quality: 120
     images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553878689&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH240W3"
-        width: 947
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210305&t=2&i=1553914763&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXNPEH241F1"
+        width: 735
         height: 545
         isCached: true
-  - title: "Critics blast Biden administration for denying entry to thousands of people still affected by Trump's 'Muslim ban'"
-    excerpt: "to encourage migration from underrepresented people — only to have them taken away by an executive order by Donald Trump, who then tried to eliminate the diversity program altogether. People like Anwar al Saeedi, a Yemeni man who in 2017 expected to be ..."
-    publishedDateTime: 2021-03-10T00:19:00Z
-    webUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-denies-entry-to-diversity-visa-applicants-banned-by-trump-2021-3?amp"
+  - title: "White House: Biden believes U.S. authorizations for military force need updating"
+    excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
+    publishedDateTime: 2021-03-06T17:44:00Z
+    webUrl: "https://www.reuters.com/article/politicsNews/idUSKCN2AX2DI"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKCN2AX2DI"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKCN2AX2DI"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553982761&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250G4"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Exclusive: 'Migrant president' Biden stirs Mexican angst over boom time for gangs"
+    excerpt: "Ever since President Joe Biden won the White House vowing to undo the hardline approach of his predecessor Donald Trump, Mexico has both looked forward to an end to migration burdens imposed by Trump, and braced for a new influx of people. Detentions on ..."
+    publishedDateTime: 2021-03-10T11:11:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-immigration-mexico-exclusive/exclusive-migrant-president-biden-stirs-mexican-angst-over-boom-time-for-gangs-idUSKBN2B21D8?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B21D8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B21D8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 120
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554385107&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH290ST"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Covid: Joe Biden promises vaccines will be available for every US adult by end of May"
+    excerpt: "The US will have enough coronavirus vaccines for every adult by the end of May, President Joe Biden has said. This will be two months earlier than previously expected, but Mr Biden said the vaccination drive must be extended,"
+    publishedDateTime: 2021-03-03T08:23:00Z
+    webUrl: "https://www.bbc.com/news/world-us-canada-56262687"
+    ampWebUrl: "https://www.bbc.com/news/amp/world-us-canada-56262687"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/amp/world-us-canada-56262687"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
     quality: 118
     images:
-      - url: "https://i.insider.com/6047fc099942cf001865d731?width=1200&format=jpeg"
+      - url: "https://ichef.bbci.co.uk/news/1024/cpsprodpb/15DCA/production/_117364598_mediaitem117364597.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "The Daily 202: Biden says he’ll own pandemic failures – but promises they won’t come"
+    excerpt: "And the dam is breaking on New York Gov. Andrew Cuomo (D), where calls for his resignation are coming in fast and furious on a Friday."
+    publishedDateTime: 2021-03-12T16:57:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/12/daily-202-biden-says-hell-own-pandemic-failures-promises-they-wont-come/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/12/daily-202-biden-says-hell-own-pandemic-failures-promises-they-wont-come/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/12/daily-202-biden-says-hell-own-pandemic-failures-promises-they-wont-come/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 118
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GPJALVUDBUI6XPRCGLJTDWDVGA.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
+  - title: "Biden White House plans nationwide victory lap to promote benefits of COVID-19 relief bill"
+    excerpt: "WASHINGTON (Reuters) - Mindful of hard lessons learned by the previous Democratic administration, President Joe Biden and top aides are planning a nationwide tour to sell Americans on the benefits of the newly passed $1.9 trillion pandemic relief bill."
+    publishedDateTime: 2021-03-10T23:47:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-stimulus-idUSKBN2B302N"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B302N"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B302N"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554466931&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A01H"
+        width: 792
+        height: 545
+        isCached: true
+  - title: "President Biden signs $1.9 trillion COVID-19 relief bill with $1,400 stimulus checks into law"
+    excerpt: "WASHINGTON – President Joe Biden on Thursday signed into law a $1.9 trillion COVID-19 stimulus bill, hours before he planned to address the nation to begin an extensive outreach campaign explaining the massive spending package. The measure includes ..."
+    publishedDateTime: 2021-03-11T19:09:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/joe-biden-signs-covid-19-relief-bill-stimulus-checks-into-law/4647894001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4647894001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4647894001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 114
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/3acf1a45-984a-402c-838e-091862c58383-AFP_AFP_94R9VB.jpg?auto=webp&crop=5707,3210,x0,y290&format=pjpg&width=1200"
         width: 1200
-        height: 600
+        height: 675
+        isCached: true
+  - title: "Biden starts victory lap on COVID-19 relief bill while preparing for next big legislative push"
+    excerpt: "WASHINGTON – Now that Congress’ final passage of President Joe Biden’s $1.9 trillion COVID-19 relief bill is out of the way, the White House is laying the groundwork to move forward on Biden’s other priorities. The president will make his first ..."
+    publishedDateTime: 2021-03-11T08:01:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/what-comes-next-after-joe-bidens-1-9-trillion-covid-19-relief-bill/4627792001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4627792001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4627792001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/9ef40f5c-0acf-43da-81cc-a3bd9d5e816d-AP21069781125019.jpg?auto=webp&crop=5999,3375,x0,y200&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "'Independence from this virus': President Biden shifts from 'darkest days' to hope on the horizon"
+    excerpt: "Making his first primetime address as president, President Joe Biden mourned a \"collective suffering\" over the last year but pivoted to a more hopeful future"
+    publishedDateTime: 2021-03-12T05:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/president-biden-address-shifts-darkest-days-hope-horizon/4648511001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4648511001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4648511001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/f289ce21-471d-4cd2-85bc-0cf6241078ba-AP21071051320807.jpg?auto=webp&crop=5223,2938,x1,y336&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "On war powers, Biden has pushed for both more congressional oversight and broad presidential authority"
+    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
+    publishedDateTime: 2021-03-09T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
+  - title: "$1.9 trillion COVID-19 relief bill with $1,400 stimulus checks passes House, heads to President Biden for signature"
+    excerpt: "President Biden will sign the bill into law Friday, the White House said. He started pushing the measure in January before he took office."
+    publishedDateTime: 2021-03-10T20:20:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/10/covid-stimulus-bill-passes-house-heads-joe-biden-signature/4622954001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4622954001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4622954001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 103
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/10/USAT/1f775faf-6422-400a-83cb-a6800ed38546-GTY_1306363694.jpg?auto=webp&crop=6889,3876,x0,y350&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "7BphftFzH/9PDBmC8ICbGWxKj1Zp2nkC48L9RTwsnNcuu5AgbbEflILJZlaB0tEVGsVnfm3yntB39/nun93P07ggEq6thfapywWN7O+f4oDuf80XamI9en3GL/5QLH/77wIwBJwp4fwEfeiYmFDIOKrsxe05E5xlxkAqWB8IkieMEQM/Fq7zHDakmkUh5g4efWKsa6bt6yrPS9Eq9Kc95iYllkKLxdeK4SbAzx0WdSEW5k5eT1lRvd+NhO3uFveHThRhzY9xbHO3/fcipiad1fF32+XFdwU/NIaveBTCnaquE2G4P1tgsVk0jfvfbTijIQq4IjRVOkYUdacTMHpRMtK98mZ40ZVMs+yfmabWIpI=;HFfbrhBvkG0VkCHe+uWCug=="

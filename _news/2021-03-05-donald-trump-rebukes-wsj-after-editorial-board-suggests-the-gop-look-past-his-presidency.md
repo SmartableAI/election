@@ -79,6 +79,22 @@ related:
         width: 1440
         height: 943
         isCached: true
+  - title: "Amid Republican civil war, Trump holds court — and his grip on GOP — at Mar-a-Lago"
+    excerpt: "All are falling in line in seeking Trump's blessing and support — and money. In their doing so, the question of how much clout former President Donald Trump would retain after leaving office, and how he would wield it, has been answered. In fewer than ..."
+    publishedDateTime: 2021-03-12T21:58:00Z
+    webUrl: "https://www.usatoday.com/story/news/2021/03/12/trump-holds-court-and-his-grip-gop-mar-lago/6836695002/"
+    ampWebUrl: "https://amp.usatoday.com/amp/6836695002"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6836695002"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/NPPP/bea9dd40-3c2d-4ec8-bd5c-bf4858badbd3-IMG-1949_2.jpg?auto=webp&crop=1727,972,x97,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump sends cease-and-desist letter to GOP organizations to stop fundraising off his name"
     excerpt: "The letter was sent to the Republican National Committee, the National Republican Congressional Committee and the National Republican Senatorial Committee, Trump advisers confirmed."
     publishedDateTime: 2021-03-06T20:16:00Z

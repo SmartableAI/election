@@ -60,9 +60,9 @@ related:
         height: 551
         isCached: true
   - title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
-    excerpt: "Lauren Gambino in Washington (now), Joanna Walters and Martin Belam (earlier) The Senate voted on Thursday to advance the nomination of Deb Haaland to be the next interior secretary, bringing her one step closer to becoming the first Native American ..."
-    publishedDateTime: 2021-03-11T20:13:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a4f528f08089f0d4af6b0"
+    excerpt: "Senator Joe Manchin announced in a statement that he will vote to confirm Xavier Becerra, Biden’s nominee to lead the Department of Health and Human Services. The Senate Finance Committee was deadlocked along party lines over advancing his candidacy to ..."
+    publishedDateTime: 2021-03-11T19:46:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a6aba8f081f2101760a4a"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
     type: article
@@ -434,6 +434,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/04/USAT/05978c65-180a-48f4-b571-fa12d578336e-GTY_1231477838.jpg?auto=webp&crop=4499,2531,x0,y229&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "American billionaires could fund two-thirds of Biden's COVID-19 relief package just using profits generated during the pandemic, a report shows"
+    excerpt: "DOW S&P 500 NASDAQ 100 American billionaires have earned so much money during the pandemic that they could fund two-thirds of President Joe Biden's COVID-19 relief package using profits generated in the last year, a report shows. The combined fortune of ..."
+    publishedDateTime: 2021-03-13T11:01:00Z
+    webUrl: "https://www.businessinsider.com/biden-covid-relief-plan-stimulus-billionaire-pandemic-profits-fund-economy-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-covid-relief-plan-stimulus-billionaire-pandemic-profits-fund-economy-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-covid-relief-plan-stimulus-billionaire-pandemic-profits-fund-economy-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 89
+    images:
+      - url: "https://i.insider.com/5f1052132618b95c16267fa4?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "ZwSG7mZaNjX3kdX36n2SZsMSKZJeDVS7ekmnbVhjr3raDd/wvQW+VQxnG2s8N61Je7IATvPaQBV6VonwXFSeaw1OtlxRtAXbcz1kn6sr6XLwShzOHydHEosJMF1mW3tlJ0MXfjPXxyuevv2DKgdDc+WqBEhVTBiB+JZn74+8WXgCWW8SMA9XTiRSDRNIxLzn9c9hVWNO9CNFOtmmj7Xgq0wiJVRLhK5JUvrJqfQg1W6HvpP7SVRkT+8d2gcTqCnKf0thCGRyXHMHuv/bVU9pd0mXeBV9mi2uvwlOd2fDmou/tbiou6guUcZVFcqT65Zd/zFMSPcEBFxHFg4TgkQcXVEstayQyK+L2+S+xeMyxEc=;yoEO6oszJw5jghkhUlE4Sg=="
