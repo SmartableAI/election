@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden at 54 percent approval halfway through first 100 days in office"
+    excerpt: "Halfway through President Joe Biden's first 100 days in office, his presidential approval rating is at 53.7 percent. NBC News' Steve Kornacki discusses where Biden ranks against former President Donald Trump and other modern presidents at the same point in their presidency."
+    publishedDateTime: 2021-03-13T05:18:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-at-54-percent-approval-halfway-through-first-100-days-in-office-104242757874"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo104242757874"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo104242757874"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615481215363_ott_now_am_kornacki_biden_approval_210311_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "0CsAB0upjXUTtGg159Sbz8fOlcj0R0UxG0LwBtfse/c5WuQJzX1/v4z87TQhqc5qPVjnl6ABrbyA9F17hl28pvTmbTSG3v3agmgS9U+r0qV4DeVpogpDf1tv7T3si8wS2XTOWc6r3Yen9ZnWZOi7XIYa5GYlj7gC853IF/K6iiPuEA7ylmmAO2B70t9XwOuUUb7wBD2/Eisf8HDwZ/l6r/+qG15QE6af6IwyfIp37EkboJs03n0uV1/8Ip8yuhhEpqBjCjPrpc0IiTNtArQiyxgPqlcMSVbLTRYozvj71b1f3DCjweUtAF6gQpfV1EN62QUrtyNMx0SeAFEqa+93yKpr7RZJDArbYgaotQKP9Vot7m7H/GVT7Jo3eBoKdg268Uvg5NAigAneWQyo9n75Xd8qKCIth4IYj+vpn5iHUf9c2KgEVElOplzgmTBC0xUjJ/XvC53LNfafw61P8ZZgZhjT2lu5QewzvTFlFeMu6gook7fIkZCQjbfixbR4Is7ezL4xWpNOZ64Jg5X8ktZ3NA==;PdmM5fi0ga2HHH0vmVlCDQ=="
 ---

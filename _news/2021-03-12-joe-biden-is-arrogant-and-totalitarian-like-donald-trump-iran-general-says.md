@@ -1,22 +1,22 @@
 ---
 category: news
-title: "'The mess we inherited': Biden leans heavily on Trump's 'Warp Speed' but won't give credit"
-excerpt: "President Joe Biden is taking credit for accelerating the vaccine rollout, without giving credit to former President Donald Trump's team that laid the groundwork."
-publishedDateTime: 2021-03-11T03:00:00Z
-originalUrl: "https://abcnews.go.com/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
-webUrl: "https://abcnews.go.com/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
-ampWebUrl: "https://abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+title: "Joe Biden Is 'Arrogant' and 'Totalitarian' Like Donald Trump, Iran General Says"
+excerpt: "\"In our view, there is no difference between Biden and Trump,\" Shekarchi said according to the state-run Fars News Agency, echoing complaints from Iranian leaders that Biden has failed to lift the sanctions imposed by his predecessor after the U.S ..."
+publishedDateTime: 2021-03-12T13:09:00Z
+originalUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667"
+webUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667"
+ampWebUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667?amp=1"
 type: article
-quality: 130
+quality: 136
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://s.abcnews.com/images/Politics/rollout-covid-vaccine-president-joe-biden-donald-trump-04-gty-llr-210310_1615416603172_hpMain_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://d.newsweek.com/en/full/1754276/joe-biden-speaks-covid-white-house.jpg"
+    width: 2500
+    height: 1666
     isCached: true
 
 related:
@@ -95,22 +95,6 @@ related:
         width: 2500
         height: 1663
         isCached: true
-  - title: "Joe Biden Is 'Arrogant' and 'Totalitarian' Like Donald Trump, Iran General Says"
-    excerpt: "\"In our view, there is no difference between Biden and Trump,\" Shekarchi said according to the state-run Fars News Agency, echoing complaints from Iranian leaders that Biden has failed to lift the sanctions imposed by his predecessor after the U.S ..."
-    publishedDateTime: 2021-03-12T13:09:00Z
-    webUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667"
-    ampWebUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 136
-    images:
-      - url: "https://d.newsweek.com/en/full/1754276/joe-biden-speaks-covid-white-house.jpg"
-        width: 2500
-        height: 1666
-        isCached: true
   - title: "Should Joe Biden Thank Donald Trump For Vaccine Rollout? Operation Warp Speed Debated"
     excerpt: "A number of conservative and Republican figures are saying that Joe Biden should be thanking Donald Trump for spurring on the development of a COVID-19 vaccine as the president announced hopes for the country to be \"back to normal\" by July 4. In an address ..."
     publishedDateTime: 2021-03-12T08:56:00Z
@@ -174,6 +158,22 @@ related:
       - url: "https://www.gannett-cdn.com/-mm-/96a9f4df6933a6e0c2158220d49f939822c30a25/c=0-69-2189-1300/local/-/media/2021/03/06/USATODAY/usatsports/pile-of-100-dollar-bills_gettyimages-452970107.jpg?auto=webp&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'The mess we inherited': Biden leans heavily on Trump's 'Warp Speed' but won't give credit"
+    excerpt: "President Joe Biden is taking credit for accelerating the vaccine rollout, without giving credit to former President Donald Trump's team that laid the groundwork."
+    publishedDateTime: 2021-03-11T03:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/mess-inherited-biden-leans-heavily-trumps-warp-speed/story?id=76186823"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 130
+    images:
+      - url: "https://s.abcnews.com/images/Politics/rollout-covid-vaccine-president-joe-biden-donald-trump-04-gty-llr-210310_1615416603172_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Trump State Department aide charged with assault at Capitol"
     excerpt: "A former State Department aide in President Donald Trump’s administration has been charged with participating in the deadly Capitol siege and assaulting officers"
@@ -352,6 +352,6 @@ related:
         height: 600
         isCached: true
 
-secured: "3dryOXqI5rCMN7XB/x2IrwJ2ntNQ23sBpXxK5d/nPFgusbCldzGasb70J8ZdUKKPQ1FHPr40trXmCdP7LJA9QbbOdVVyq8DlOSTzHsPKmfyyVD27CL0Qt7w/tO/FtbLrx4VDC8aj/MTXUT1MTcPNdAwY882gXvPkYEwy/aoGWOJopCcA39lJFPfdodj/KPzYTBIm6C2IClliZoIlM1+h8t7N6dKb56/cWSO0ue2VQ4i1e08/M3o8PPyVf5abIY62hyeBOcQ3cS/Qe/MrR8MVjKR4kJU9dt9t20+fB23ldMRDKCbLgb8sGfAUPfRscJtbW3bT+dpHjPAguHR6Z9yANybhYj2nPe9p8B0AcxO9qhU5U64sO5d3An/g7XRIQ5xn14JdPsrQKpyHXn1i4vnHVNsLYZirZC29a9SNHnNzwnU6taT5/eyjK2uzv0BiYi6dHiVBUhdsJo4CGWj0hys3GNlrQKebtdwvhhyYY7FVU1cqjQN7STHXEbJZtg88F5TjVl/AJgAFw/uXc5cR9X9LNA==;roEq9mbHHpwqmUvCdouP2g=="
+secured: "xqwoB2dlQFCX9zJXDNFp4S28ofM62FqKqujELIlwJI1jaCPvxq1emviSWi246CuLDJNp1EmVFenQfo5HsnTD9LudhwtAIe9gpYcULLw0ToN8mFrYGNy9tbxRvlnz/gpzyb9WLZqrAta25Map7ZaHtDmn+Ord3W6thNdtZXtOzxyMwNoI6WwsN1p99+eMRE6S8XwD9Ln1DAcOzvMN3lxihKwttGaE18KOx1MdmXMPwV0DuQ9ZcaDJC6B9tQ24RLmB1hjfxScxpq1NXvmVAWKhs329dihSBJ6um9f9eHFCYX6MWoSRa+BOqm5c7TS5/dUsjOBov6Bzqjv6WV8E5U7vQwV6Pe14zRs6o33qWnJJJu8=;kRGTU8pGzeEwjXqtvOUB9A=="
 ---
 

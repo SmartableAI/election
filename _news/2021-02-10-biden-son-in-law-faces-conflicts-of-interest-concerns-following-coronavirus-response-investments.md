@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden at 54 percent approval halfway through first 100 days in office"
+    excerpt: "Halfway through President Joe Biden's first 100 days in office, his presidential approval rating is at 53.7 percent. NBC News' Steve Kornacki discusses where Biden ranks against former President Donald Trump and other modern presidents at the same point in their presidency."
+    publishedDateTime: 2021-03-13T05:18:00Z
+    webUrl: "https://www.nbcnews.com/now/video/biden-at-54-percent-approval-halfway-through-first-100-days-in-office-104242757874"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo104242757874"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo104242757874"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 135
+    images:
+      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615481215363_ott_now_am_kornacki_biden_approval_210311_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Presidential Speech Highlights: Biden Calls For U.S. to ‘Mark Our Independence From This Virus’ by 4th of July"
     excerpt: "The president delivered his first prime-time White House address, hours after signing into law a $1.9 trillion stimulus package."
     publishedDateTime: 2021-03-12T16:18:00Z

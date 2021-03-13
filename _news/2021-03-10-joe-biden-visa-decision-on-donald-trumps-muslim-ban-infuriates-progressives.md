@@ -79,6 +79,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Joe Biden Is 'Arrogant' and 'Totalitarian' Like Donald Trump, Iran General Says"
+    excerpt: "\"In our view, there is no difference between Biden and Trump,\" Shekarchi said according to the state-run Fars News Agency, echoing complaints from Iranian leaders that Biden has failed to lift the sanctions imposed by his predecessor after the U.S ..."
+    publishedDateTime: 2021-03-12T13:09:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
+    images:
+      - url: "https://d.newsweek.com/en/full/1754276/joe-biden-speaks-covid-white-house.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Should Joe Biden Thank Donald Trump For Vaccine Rollout? Operation Warp Speed Debated"
     excerpt: "A number of conservative and Republican figures are saying that Joe Biden should be thanking Donald Trump for spurring on the development of a COVID-19 vaccine as the president announced hopes for the country to be \"back to normal\" by July 4. In an address ..."
     publishedDateTime: 2021-03-12T08:56:00Z

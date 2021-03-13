@@ -95,6 +95,22 @@ related:
         width: 2500
         height: 1663
         isCached: true
+  - title: "Joe Biden Is 'Arrogant' and 'Totalitarian' Like Donald Trump, Iran General Says"
+    excerpt: "\"In our view, there is no difference between Biden and Trump,\" Shekarchi said according to the state-run Fars News Agency, echoing complaints from Iranian leaders that Biden has failed to lift the sanctions imposed by his predecessor after the U.S ..."
+    publishedDateTime: 2021-03-12T13:09:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-arrogant-totalitarian-donald-trump-iran-general-jcpoa-irgc-1575667?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 136
+    images:
+      - url: "https://d.newsweek.com/en/full/1754276/joe-biden-speaks-covid-white-house.jpg"
+        width: 2500
+        height: 1666
+        isCached: true
   - title: "Joe Biden's Approval Rating on COVID Pandemic 18 Points Higher Than Trump's Best: Poll"
     excerpt: "That's 18 points higher than former President Donald Trump's best rating in the poll, in which he earned 44 percent approval in March and April last year. By the time he left office in January, Trump's approval rating on the coronavirus had dropped to 39 ..."
     publishedDateTime: 2021-03-11T21:45:00Z

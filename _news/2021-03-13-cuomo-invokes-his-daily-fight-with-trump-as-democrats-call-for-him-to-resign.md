@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Bill Maher suggests Cuomo's refusal to resign is inspired by Trump: He 'never backed down'"
+    excerpt: "\"Real Time\" host Bill Maher suggested on Friday night that embattled New York Gov. Andrew Cuomo may be taking a page from former President Trump's playbook as the Democrat faces growing calls to resign. \"It is amazing when you think about it: In just 12 ..."
+    publishedDateTime: 2021-03-13T06:03:00Z
+    webUrl: "https://www.foxnews.com/entertainment/bill-maher-andrew-cuomo-trump-never-backed-down"
+    ampWebUrl: "https://www.foxnews.com/entertainment/bill-maher-andrew-cuomo-trump-never-backed-down.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/bill-maher-andrew-cuomo-trump-never-backed-down.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/02/640/320/Northam-Trump-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "Qxpwg4OmX+CmI8RVU1Iui3UWuwmY1RaqvMIibAIcoWBFKOJKL6kDrc1PFudKL/JjMs4Wq2TDFRKG7DIWoUT6hqmofVyJsGvfhGvt9R6cvlm5iprx1zujr8/ef/F7B13DTI8dvmaxtiUbOAJDbduuPJcH12Pqymz+Zw7RDnLuc2OG6alJXkF0lbXdN8tSePxCNy/467sBOO2pVL/XrbgNoxh1Tj2etEJoifkG7EcDuh3+ivJBFqaEuuDAE2DspphI9ziIXTVsbPhkoe03KtkP9rzUP+SckOFwMw7RMHqHc6cVs5c5BTYZvc85q8OVEwLBzgCBUtDPtEhX0/xvVXHfBXIsmaaPhX1dBHDxSu1og61qgILrhj4vjd1R7U8mMM8fZbrtVbB95RxmwIGF8sPScvcKas+elkAiWDGU7SshaGVIYZ7EZ1SwnM5hiArjXEgkCl8T55/+W6zp+uJlmAC1SgPtE0GHYhv+dSTWKfojVpsWeduwJhxNrSwALQsATx7ZwTWhmydaNhGh0pTiFFHZEA==;JdCSClL1uid3kZLjFZJ3Tw=="
 ---
