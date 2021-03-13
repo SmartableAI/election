@@ -125,6 +125,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Psaki declines to give Trump credit on vaccines"
+    excerpt: "White House press secretary Jen Psaki isn't giving former President Donald Trump any credit for his administration's early vaccine efforts, saying the progress was a \"Herculean incredible effort by science and by medical experts."
+    publishedDateTime: 2021-03-12T22:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/12/psaki-declines-give-trump-credit-vaccines/4673401001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/18de3b0d-ebd6-4ac0-82dc-ac0e37dd97c8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Watchdog asked Trump DOJ to criminally investigate Elaine Chao for misuse of office as transportation secretary but was rebuffed"
     excerpt: "The inspector general found that Chao inappropriately used her staff and office for personal tasks and to promote a shipping business owned by Chao’s father and sisters."
     publishedDateTime: 2021-03-04T02:12:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-13-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off-stage-report.md",
+      "title": "Trump rally organizer claims Alex Jones threatened to throw her off stage: report",
+      "excerpt": "Women for America First had been planning an event to support then-President Trump Donald Trump The Memo: Nation rallies for Biden on his COVID-19 response Maryland GOP governor applauds Biden ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off",
+      "originalUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/jonesalex_stoneroger_121118gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off?amp",
+      "publishedDateTime": "2021-03-12T17:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-former-trump-adviser-pans-bidens-address-as-gloomy-that-failed-to-inspire-or-uplift.md",
       "title": "Former Trump adviser pans Biden's address as 'gloomy' that failed to 'inspire or uplift'",
       "excerpt": "\"Exactly, that’s what it was,\" remarked Miller. \"John F. Kennedy said let’s put a man on the moon. Donald Trump said let’s put a man on Mars. Joe Biden said let's see if you can eat BBQ ribs with your own relatives and loved ones July 4.\" \"Newsflash ...",
@@ -171,7 +223,7 @@
       "originalUrl": "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule",
       "featuredContent": null,
       "highlight": null,
-      "heat": 480,
+      "heat": 500,
       "tags": null,
       "images": [
         {
@@ -1488,7 +1540,7 @@
       "originalUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 305,
+      "heat": 325,
       "tags": null,
       "images": [
         {
@@ -1529,63 +1581,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins.md",
-      "title": "Haley, Noem Differ in Approach to Trump as 2024 Jockeying Begins",
-      "excerpt": "The only two women so far on lists of potential 2024 Republican presidential candidates—Nikki Haley and Kristi Noem—have taken divergent paths in navigating around the sizable political shadow of former President Donald Trump.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
-      "originalUrl": "https://www.wsj.com/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 155,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-308058/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/haley-noem-differ-in-approach-to-trump-as-2024-jockeying-begins-11615032000",
-      "publishedDateTime": "2021-03-06T04:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

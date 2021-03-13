@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3910
+heat: 3930
 published: true
 
 provider:
@@ -2028,6 +2028,22 @@ related:
       - url: "https://static.politico.com/35/54/5b331c6f434dba9d923146ec516b/ap21069764524804.jpg"
         width: 5306
         height: 3535
+        isCached: true
+  - title: "Refugee Flights Canceled as Biden Fails to Lift Trump Cutback"
+    excerpt: "Each year, the president must set a cap on the number of refugees that the United States will admit. Former President Donald J. Trump lowered that number to a historic low of 15,000 for the current fiscal year and placed new restrictions that effectively ..."
+    publishedDateTime: 2021-03-13T00:57:00Z
+    webUrl: "https://www.nytimes.com/2021/03/12/us/refugees-biden.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/12/us/refugees-biden.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/12/us/refugees-biden.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 150
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/12/us/12REFUGEES1/12REFUGEES1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
   - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
     excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."

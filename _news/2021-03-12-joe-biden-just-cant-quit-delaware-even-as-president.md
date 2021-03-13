@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration asks Supreme Court to dismiss abortion counseling case"
+    excerpt: "The Biden administration asked the Supreme Court late Friday to dismiss a dispute over a Trump era rule barring federally funded health care providers in the Title X family planning program from referring patients for abortions.\n    \n"
+    publishedDateTime: 2021-03-13T00:46:44Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xCaejvsQgEA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/biden-administration-supreme-court-dismiss-abortion-counseling-case/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/biden-administration-supreme-court-dismiss-abortion-counseling-case/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312155403-05-white-house-covid-relief-event-0312-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senior Biden administration officials to meet with Chinese counterparts next week in Alaska"
     excerpt: "Two top Biden administration officials will meet with their Chinese counterparts next week in what will be the first meeting of officials from both countries since President Joe Biden took office in January.\n    \n"
     publishedDateTime: 2021-03-10T18:07:19Z

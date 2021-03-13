@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-ja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
 type: article
 quality: 190
-heat: 830
+heat: 850
 published: true
 
 provider:
@@ -222,6 +222,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/77ea87d1-171c-49ab-b026-7a118ad1121c/5c416a23-d04b-4f32-b24b-c473bceb46e9/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Pompeo: Trump administration focused on America First, Biden prioritizes fancy deals on climate change"
+    excerpt: "Former Secretary of State Mike Pompeo expressed concern with the Biden administration's priorities on 'Fox News Primetime'"
+    publishedDateTime: 2021-03-13T01:26:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/tJEaHcBlRX4/pompeo-trump-administration-focused-on-america-first-biden-prioritizes-fancy-deals-on-climate-change"
+    ampWebUrl: "https://www.foxnews.com/politics/pompeo-trump-administration-focused-on-america-first-biden-prioritizes-fancy-deals-on-climate-change.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pompeo-trump-administration-focused-on-america-first-biden-prioritizes-fancy-deals-on-climate-change.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden’s COVID-19 bill heads back to the House: What’s in it, and what’s out?"
     excerpt: "Senate Democrats passed a sweeping coronavirus relief package on a party-line basis Saturday, sending the nearly $2 trillion measure back over to the House, after which it will head to President Biden's desk for his signature."

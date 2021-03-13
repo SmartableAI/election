@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-13-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off-stage-report.md",
+      "title": "Trump rally organizer claims Alex Jones threatened to throw her off stage: report",
+      "excerpt": "Women for America First had been planning an event to support then-President Trump Donald Trump The Memo: Nation rallies for Biden on his COVID-19 response Maryland GOP governor applauds Biden ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off",
+      "originalUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/jonesalex_stoneroger_121118gn_lead.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/543039-trump-rally-organizer-claims-alex-jones-threatened-to-throw-her-off?amp",
+      "publishedDateTime": "2021-03-12T17:26:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-former-trump-adviser-pans-bidens-address-as-gloomy-that-failed-to-inspire-or-uplift.md",
       "title": "Former Trump adviser pans Biden's address as 'gloomy' that failed to 'inspire or uplift'",
       "excerpt": "\"Exactly, that’s what it was,\" remarked Miller. \"John F. Kennedy said let’s put a man on the moon. Donald Trump said let’s put a man on Mars. Joe Biden said let's see if you can eat BBQ ribs with your own relatives and loved ones July 4.\" \"Newsflash ...",
@@ -183,7 +235,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -515,7 +567,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 195,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1051,7 +1103,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 830,
+      "heat": 850,
       "tags": null,
       "images": [
         {
@@ -1309,58 +1361,6 @@
         "Election",
         "Kamala Harris",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-biden-rescinds-trumps-public-charge-rule.md",
-      "title": "Biden rescinds Trump's 'public charge' rule",
-      "excerpt": "The Biden administration on Thursday formally rescinded the Trump-era “public charge” rule, which tightened restrictions on poorer immigrants seeking U.S. residency, as a dozen GOP state ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule",
-      "originalUrl": "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 480,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/bidenjoe_030521getty_immigration.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp",
-      "publishedDateTime": "2021-03-11T16:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -48,6 +48,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Cuomo accuser Lindsey Boylan slams Biden, Harris over silence on sexual harassment scandal"
+    excerpt: "Lindsey Boylan, the first woman to accuse New York Gov. Andrew Cuomo of sexual harassment in a widening scandal, slammed President Biden and Vice President Kamala Harris in a now-deleted tweet for staying silent on the allegations."
+    publishedDateTime: 2021-03-13T02:27:38Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/psUqsFbCiCw/cuomo-accuser-lindsey-boylan-slams-biden-harris-silence-sexual-harassment-scandal"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-accuser-lindsey-boylan-slams-biden-harris-silence-sexual-harassment-scandal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-accuser-lindsey-boylan-slams-biden-harris-silence-sexual-harassment-scandal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 190
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Lindsey-Boylan-TWEET.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Kayleigh McEnany tells Harris Faulkner of 'shock' and 'disbelief' at deadly Capitol riot"
     excerpt: "Former Trump press secretary Kayleigh McEnany has described her emotions during the Jan. 6 attack on the U.S. Capitol in her first interview since leaving the White House."
     publishedDateTime: 2021-03-01T22:41:03Z

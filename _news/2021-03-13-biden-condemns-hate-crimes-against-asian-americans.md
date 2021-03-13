@@ -301,6 +301,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Dentists and midwives giving shots, 4,000 troops to help: How Biden is expanding COVID-19 vaccinations"
+    excerpt: "WASHINGTON – Americans wanting a COVID-19 vaccination will now have many more ways to get the shot. President Joe Biden’s administration is dramatically expanding the pool of medical professionals who can administer the vaccinations, is launching new ..."
+    publishedDateTime: 2021-03-12T19:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/covid-19-vaccine-joe-biden-expands-ways-americans-can-get-shot/4662975001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4662975001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4662975001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/310e23e6-2afc-4b4f-a10a-20d113035fa5-AFP_AFP_94T4PB.jpg?auto=webp&crop=5132,2887,x0,y260&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Live updates: President Joe Biden will sign COVID-19 stimulus package on Friday; Pelosi, Schumer laud it"
     excerpt: "Joe Biden announced his COVID-19 stimulus plan before he even entered office. It's up for a final vote Wednesday in the House."
     publishedDateTime: 2021-03-10T20:26:00Z
@@ -408,6 +424,6 @@ related:
         height: 675
         isCached: true
 
-secured: "cA7t72HcI6G5qxOohSeZ8tRf20QrbVxc93B4SN97fyTojHTdQznu9U9wrk8Yn9vxYGeea38jdGcmlO1ukLCPjIe4VLm6NZM1Q1V6dlA63aBIerjXlypZtJFhWdjJIDCm8azH8zyB7o70cBa3K6wVy4TJL0nSPd21C9n/nxKlvNxslOU6ubiJlUyRCleO9glQfk/EgohnYsbuNuhZQBfaVTvJrkW3U9haOweFwlIl8u1BZci1BvHKdthlzXP5f+8rzftCvz+XkavlmdeGyef6pqssgV2WH+5p4EHVJb7OU1CFvdgs1GLYSYBGG3xtUbRswkmFGCQakInErIfC+APbknG77a1I5/uPT9dNhlJJbH4=;PvIPETHEexFpj0ic7tUEog=="
+secured: "nwKzorzRFrvPyhm2Xr7Y2H44EUwZDXtBwtypaNG4gTU8tC/cXBWS8lvBWkq/+SMSkYbhOzb1Qgwfen/h1ZCzMozZA3YDqoNEae0PBZlKAbCZ8jZ3zmKRZfTibHuXquU3H3MXM+CRepFvlWIdzy5WJdMV9k5/YCGlJppVsqF3lxjywBrtlMvk3YcxeL1vbtTl8zuLgv4kCA5yNASqef5ig8GMYRl5h5RLF6dq9+4oNBOHO9/iSNHHMR62u1QaFr/pIuzU4U/CQb4nuKj0/52e4tYAD58iLV5y0qGspytAJ2NjJ425d6sH/j+XcJK/pcP4O32YG8pnF0qgQ/5vO1YDo3ve+kjwgDe9v2n7OdMg+GGQdwr0tduHbaMeyhZWOosYOb88XAm4fuym6sC9UV8WceZReSiirzwI4Phzcjpu2EysI2t05FchgXh3XEcM7Ts9Cf7TQ0mQss+0aQ7HRQrH14kUDrN8PIBjVqASbcTXXqLW8voEAzBs/Pp/sS4rul7pFCt8SumrmqU+cqAVizSkaw==;Ns9KHm13ANopb5/kuGxTJA=="
 ---
 

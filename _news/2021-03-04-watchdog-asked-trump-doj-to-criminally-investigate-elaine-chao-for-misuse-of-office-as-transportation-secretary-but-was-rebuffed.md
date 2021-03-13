@@ -141,6 +141,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Psaki declines to give Trump credit on vaccines"
+    excerpt: "White House press secretary Jen Psaki isn't giving former President Donald Trump any credit for his administration's early vaccine efforts, saying the progress was a \"Herculean incredible effort by science and by medical experts."
+    publishedDateTime: 2021-03-12T22:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/12/psaki-declines-give-trump-credit-vaccines/4673401001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/18de3b0d-ebd6-4ac0-82dc-ac0e37dd97c8_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "He's baaack (kind of). Inside Trump's bid to get on Twitter without officially being allowed on Twitter."
     excerpt: "Trump's most recent statements from his new political action committee and his post-presidential office read exactly like his tweets. Most are crafted just under Twitter's 280-character threshold. Journalists,"
     publishedDateTime: 2021-03-11T22:47:00Z

@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden asks Supreme Court to dismiss suit on Trump-era abortion issue"
+    excerpt: "WASHINGTON – President Joe Biden's administration on Friday requested the Supreme Court dismiss a series of cases involving former President Donald Trump's effort to cut federal funding for medical centers that refer patients for abortions ..."
+    publishedDateTime: 2021-03-13T00:27:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/supreme-court-biden-asks-court-dismiss-trump-era-abortion-rule/4674355001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4674355001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4674355001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 140
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/22/USAT/1da3e37c-5766-4204-bc86-02a0edca70b1-AP_Supreme_Court_Trump_Policies.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden Visa Decision on Donald Trump's 'Muslim Ban' Infuriates Progressives"
     excerpt: "The American Civil Liberties Union (ACLU) said that a large number of Africans would be affected and that Biden \"has failed to help so many of those harmed\" by the Trump administration's immigration restrictions. \"Instead of restoring this opportunity ..."
     publishedDateTime: 2021-03-10T10:19:00Z

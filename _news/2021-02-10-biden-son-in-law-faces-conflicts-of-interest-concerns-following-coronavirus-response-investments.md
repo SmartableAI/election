@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Presidential Speech Highlights: Biden Calls For U.S. to ‘Mark Our Independence From This Virus’ by 4th of July"
+    excerpt: "The president delivered his first prime-time White House address, hours after signing into law a $1.9 trillion stimulus package."
+    publishedDateTime: 2021-03-12T16:18:00Z
+    webUrl: "https://www.nytimes.com/live/2021/03/11/us/joe-biden-news"
+    ampWebUrl: "https://www.nytimes.com/live/2021/03/11/us/joe-biden-news.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/11/us/joe-biden-news.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 115
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/11/us/politics/11new-washington-briefing/11new-washington-briefing-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "gs3wViCfMY6LFE7GZL00GlgJ+G7KKwhmiLFKvxE2P0H41IB83SUa1tBky8qD9cZFZy9b/KF22KIx7ys9rtz7qBmRvCU6K/vxH+Yqzzrf7nqk52feO+Z2KOODXIxk2JaK0KJE3aDiUiO5AaWGb5MNi/k7cW20A7GA0PJ/ILB+CpP7qIyyjXCabRJE/vV8YgVhPIWWWzW8RtSi0NbiOR3yOaOUI6QYyRBFz5C+ocTfDNy+N0D4HcemGKYeBHXiKnvwk9JFMCxdRLpza7pvzgMkrQnA5mxVfO2X0czrcGEMIjRpnsE3L0bEgSFk0iz7/jkYi1PBCa7F1ug1oxLyz7Y65XVVfk7IpPBpRqBHXzgTtus=;Xq54igavBfpr0E+nyhntFQ=="
 ---

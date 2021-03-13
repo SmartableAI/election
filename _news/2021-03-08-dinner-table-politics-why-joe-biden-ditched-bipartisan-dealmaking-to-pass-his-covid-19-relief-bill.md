@@ -299,6 +299,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Dentists and midwives giving shots, 4,000 troops to help: How Biden is expanding COVID-19 vaccinations"
+    excerpt: "WASHINGTON – Americans wanting a COVID-19 vaccination will now have many more ways to get the shot. President Joe Biden’s administration is dramatically expanding the pool of medical professionals who can administer the vaccinations, is launching new ..."
+    publishedDateTime: 2021-03-12T19:25:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/covid-19-vaccine-joe-biden-expands-ways-americans-can-get-shot/4662975001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4662975001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4662975001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/310e23e6-2afc-4b4f-a10a-20d113035fa5-AFP_AFP_94T4PB.jpg?auto=webp&crop=5132,2887,x0,y260&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Live updates: President Joe Biden will sign COVID-19 stimulus package on Friday; Pelosi, Schumer laud it"
     excerpt: "Joe Biden announced his COVID-19 stimulus plan before he even entered office. It's up for a final vote Wednesday in the House."
     publishedDateTime: 2021-03-10T20:26:00Z

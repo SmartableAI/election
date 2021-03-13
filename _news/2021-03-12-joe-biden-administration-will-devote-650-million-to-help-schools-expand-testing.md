@@ -47,6 +47,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Former Trump coronavirus coordinator Birx takes job at Texas air purifier maker"
+    excerpt: "An expert in global health, Birx came to the White House in 2020 to help lead the Trump administration’s response to the pandemic. But she was criticized for not standing up to former President Donald Trump as he played down the virus, predicted it would ..."
+    publishedDateTime: 2021-03-13T00:16:00Z
+    webUrl: "https://www.reuters.com/article/usa-trump-birx/update-2-former-trump-coronavirus-coordinator-birx-takes-job-at-texas-air-purifier-maker-idUSL1N2LA32X"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B42LV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B42LV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 121
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554720225&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B1JR"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden stimulus calls for expanded paid sick leave to help workers facing coronavirus challenges"
     excerpt: "The U.S. is an outlier for its lack of mandatory paid sick leave. Biden's plan seeks to eliminate loopholes that prevented some 100 million workers from accessing it during the pandemic."
     publishedDateTime: 2021-01-16T00:25:00Z

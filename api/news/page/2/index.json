@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-12-biden-rescinds-trumps-public-charge-rule.md",
+      "title": "Biden rescinds Trump's 'public charge' rule",
+      "excerpt": "The Biden administration on Thursday formally rescinded the Trump-era “public charge” rule, which tightened restrictions on poorer immigrants seeking U.S. residency, as a dozen GOP state ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule",
+      "originalUrl": "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 500,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/bidenjoe_030521getty_immigration.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/regulation/court-battles/542860-biden-rescinds-trumps-public-charge-rule?amp",
+      "publishedDateTime": "2021-03-11T16:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-biden-civil-rights-pick-promoted-jussie-smollett-hoax-criticized-police-handling-of-case.md",
       "title": "Biden civil rights pick promoted Jussie Smollett hoax, criticized police handling of case",
       "excerpt": "President of the Lawyers’ Committee for Civil Rights Under Law and Biden nominee Kristen Clarke made multiple posts on Twitter pushing the alleged hate crimes Smollett claimed had occurred.",
@@ -1263,7 +1315,7 @@
       "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U",
       "featuredContent": null,
       "highlight": null,
-      "heat": 203,
+      "heat": 223,
       "tags": null,
       "images": [
         {
@@ -1304,62 +1356,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-marcia-fudge-confirmed-as-bidens-hud-secretary.md",
-      "title": "Marcia Fudge confirmed as Biden's HUD secretary",
-      "excerpt": "The Senate on Wednesday confirmed Marcia Fudge to be President Biden's new secretary of Housing and Urban Development (HUD).",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NB-3hIYgcwU/marcia-fudge-confirmed-to-be-hud-secretary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NB-3hIYgcwU/marcia-fudge-confirmed-to-be-hud-secretary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 355,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-secretary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-secretary.amp",
-      "publishedDateTime": "2021-03-10T09:39:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

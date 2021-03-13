@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-genera
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
     quality: 105
     images:
       - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/cbd54c1b-e085-4f82-b284-8eb00dc4f800_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Psaki declines to give Trump credit on vaccines"
+    excerpt: "White House press secretary Jen Psaki isn't giving former President Donald Trump any credit for his administration's early vaccine efforts, saying the progress was a \"Herculean incredible effort by science and by medical experts."
+    publishedDateTime: 2021-03-12T22:49:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/12/psaki-declines-give-trump-credit-vaccines/4673401001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/18de3b0d-ebd6-4ac0-82dc-ac0e37dd97c8_poster.jpg?quality=10"
         width: 1920
         height: 1080
         isCached: true
