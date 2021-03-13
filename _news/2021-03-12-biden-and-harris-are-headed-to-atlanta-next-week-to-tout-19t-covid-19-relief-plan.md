@@ -44,7 +44,7 @@ related:
   - title: "Former Trump coronavirus coordinator Birx takes job at Texas air purifier maker"
     excerpt: "An expert in global health, Birx came to the White House in 2020 to help lead the Trump administration’s response to the pandemic. But she was criticized for not standing up to former President Donald Trump as he played down the virus, predicted it would ..."
     publishedDateTime: 2021-03-13T00:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-birx-idUSKBN2B42LV"
+    webUrl: "https://www.reuters.com/article/us-usa-trump-birx-exclusive/exclusive-dr-deborah-birx-former-trump-coronavirus-coordinator-to-join-texas-air-purifier-maker-idUSKBN2B42LV"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B42LV"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B42LV"
     type: article

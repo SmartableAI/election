@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden signs $1.9 trillion rescue package into law, starting the clock on distributing $1,400 stimulus checks"
-excerpt: "The measure authorizes direct payments for most taxpayers; renews unemployment benefits; and provides funding for vaccine distribution."
-publishedDateTime: 2021-03-11T20:22:00Z
-originalUrl: "https://www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3"
-webUrl: "https://www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3"
-ampWebUrl: "https://www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3?amp"
+title: "Biden, Democrats celebrate 'transformational' victory on COVID-19 relief"
+excerpt: "Biden begins ‘Help is Here’ tour to tout COVID relief bill Surrounded by his fellow Democrats for the first Rose Garden event of his presidency, President Joe Biden celebrated signing his ..."
+publishedDateTime: 2021-03-12T22:00:00Z
+originalUrl: "https://abcnews.go.com/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
+webUrl: "https://abcnews.go.com/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
 type: article
-quality: 106
+quality: 124
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.insider.com/604547c244d8e300117b97e5?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://s.abcnews.com/images/Politics/president-joe-biden-rose-garden-american-rescue-plan-covid-04-ap-llr-210311_1615581633885_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -126,22 +126,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/10/461fb591-be60-4a58-bebb-c908871d9234/thumbnail/1200x630/1950d4fb8ac3c83f3784c1f47ab20b14/2021-03-10t191936z-1953990643-rc2j8m915qnv-rtrmadp-3-health-coronavirus-usa-congress.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden, Democrats celebrate 'transformational' victory on COVID-19 relief"
-    excerpt: "Biden begins ‘Help is Here’ tour to tout COVID relief bill Surrounded by his fellow Democrats for the first Rose Garden event of his presidency, President Joe Biden celebrated signing his ..."
-    publishedDateTime: 2021-03-12T22:00:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 124
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-rose-garden-american-rescue-plan-covid-04-ap-llr-210311_1615581633885_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Biden's $1.9 trillion COVID-19 package clears procedural vote in U.S. House"
     excerpt: "The U.S. House of Representatives voted on Tuesday to advance President Joe Biden's $1.9 trillion COVID-19 relief bill, clearing the way for the measure to be considered on Wednesday, when it is expected to pass."
@@ -351,6 +335,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden signs $1.9 trillion rescue package into law, starting the clock on distributing $1,400 stimulus checks"
+    excerpt: "The measure authorizes direct payments for most taxpayers; renews unemployment benefits; and provides funding for vaccine distribution."
+    publishedDateTime: 2021-03-11T20:22:00Z
+    webUrl: "https://www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/stimulus-biden-signs-trillion-covid-relief-package-checks-direct-payments-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 106
+    images:
+      - url: "https://i.insider.com/604547c244d8e300117b97e5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "WH: Biden signature won't be on COVID relief check"
     excerpt: "The White House announces the US is making an additional 900,000 doses of Pfizer and Moderna vaccines available this week. White House press secretary Jen Psaki also says that President Joe Biden's signature will not be on any relief checks,"
     publishedDateTime: 2021-03-09T21:05:00Z
@@ -440,6 +440,6 @@ related:
         height: 675
         isCached: true
 
-secured: "S9DiwTXT1mjmzd9+MBr3lngQjIzX0MOPXRdm+/A7Tv462b6ZGmHi4LYKv9t20XQS1eRwRvmc42HpaD66s5YYS6iqqov8AbW6IchgXC3+thSB/mJrd3xPpfeZguLTNkewl2hCnaRgcAioscofM22znzXQT4I20hlNJOk94+Er8cKgf/HG3es3jOhe5XbhSToU2+vKAU9+qnKoy+Bch0IUYU09yk4xQtMKuexQ9UjfpzdJ6KUOJIg1zdj3EBFlcKQ92GflMhig3ZX5pr/0luNYAi0W/sNmHuyx8k3sorulZf4VPxfuR1BiZQibDnNy6Rj4kfCxyY2uD6gVLCXDet6dVe/Fv6DpYL88u5PIBJhm40FzYOhTtfPYJS3eyjp2JdWXLB+40uR8Qp05/BqXSiFixMWBqFgH1l5VFabJyN/VcitbRRCs0Lp9KAJWnrXll4IASQhRlF1ekVdolKIIrrXnYM8O2BvTjyegmAau2FIQrLl1+USlYntII12NpPqD3w+KgdctaB905kzvwsSb55tXxQ==;nZyFLuAV6fMrfnn0ObqC7w=="
+secured: "JaSd3esrsOlokF4o0C0aC6uym8YLjRlH1AUJyPh8oYA7BpQ2/93JOPF6HcvafhXjNop6GCqS1LyuuCHXKHEFI0HXnOE9vYjg72dKr319eJj+wwLVxbsrir3POYh7Ybc/XKwd4dzgk4RaoTEmaEls8ajkPO6BJg2NssvSC+gN0YmDJBUwHY4zn3ekEEi4HiXPdwjx1tAVeCN2NuD1NoKz0DThErbbip8ejQsOeoe+a0UH9686cT1osZn3fcxIBed/O1vwvFWEDkWm4mQ9llh0Qyw6Wa8SBdSstLuh+qhOjSVbJ9d23Vg/FLDQ1SvImLfB0rSUvgSGcrA2LyAlRwS+gSgxEP1R1FdanaXlzRzIaLw=;p6fZdQ7rphZU6oebBodlMQ=="
 ---
 

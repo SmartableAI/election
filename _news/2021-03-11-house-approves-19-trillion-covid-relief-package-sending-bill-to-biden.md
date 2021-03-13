@@ -64,9 +64,9 @@ related:
         height: 551
         isCached: true
   - title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
-    excerpt: "Senator Joe Manchin announced in a statement that he will vote to confirm Xavier Becerra, Biden’s nominee to lead the Department of Health and Human Services. The Senate Finance Committee was deadlocked along party lines over advancing his candidacy to ..."
-    publishedDateTime: 2021-03-11T19:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a53f48f0849a7378fcf04"
+    excerpt: "Lauren Gambino in Washington (now), Joanna Walters and Martin Belam (earlier) The Senate voted on Thursday to advance the nomination of Deb Haaland to be the next interior secretary, bringing her one step closer to becoming the first Native American ..."
+    publishedDateTime: 2021-03-11T20:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a4f528f08089f0d4af6b0"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
     type: article
@@ -110,6 +110,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/7871561baf29d41f794c57e18dbc46cc9e3cb8c9/0_232_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=4fe8abbe3d64db734907fbdda6dc55a9"
         width: 600
         height: 360
+        isCached: true
+  - title: "Biden, Democrats celebrate 'transformational' victory on COVID-19 relief"
+    excerpt: "Biden begins ‘Help is Here’ tour to tout COVID relief bill Surrounded by his fellow Democrats for the first Rose Garden event of his presidency, President Joe Biden celebrated signing his ..."
+    publishedDateTime: 2021-03-12T22:00:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-democrats-celebrate-transformational-victory-covid-19-relief/story?id=76418231"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 124
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-rose-garden-american-rescue-plan-covid-04-ap-llr-210311_1615581633885_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden's $1.9 trillion COVID-19 package clears procedural vote in U.S. House"
     excerpt: "The U.S. House of Representatives voted on Tuesday to advance President Joe Biden's $1.9 trillion COVID-19 relief bill, clearing the way for the measure to be considered on Wednesday, when it is expected to pass."
