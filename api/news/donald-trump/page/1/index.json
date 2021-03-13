@@ -111,6 +111,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-13-psaki-refuses-to-give-trump-credit-for-vaccine-rollout-and-says-it-was-an-incredible-effort-by-science-and-by-medical-experts.md",
+      "title": "Psaki refuses to give Trump credit for vaccine rollout and says it was an 'incredible effort by science and by medical experts'",
+      "excerpt": "It indicates a way to close an interaction, or dismiss a notification. White House press secretary Jen Psaki has repeatedly refused to give credit to former President Donald Trump for the coronavirus-vaccine development and rollout under his administration.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/psaki-trump-vaccine-development-science-experts-2021-3",
+      "originalUrl": "https://www.businessinsider.com/psaki-trump-vaccine-development-science-experts-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/604bb0fafea127001886a7e3?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/psaki-trump-vaccine-development-science-experts-2021-3?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/psaki-trump-vaccine-development-science-experts-2021-3?amp",
+      "publishedDateTime": "2021-03-12T11:17:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-chris-miller-defense-secretary-on-jan-6-sees-cause-and-effect-between-trumps-words-and-capitol-riot.md",
       "title": "Chris Miller, defense secretary on Jan. 6, sees 'cause and effect' between Trump's words and Capitol riot",
       "excerpt": "The top official in charge of the Pentagon and America's defenses when rioters stormed the U.S. Capitol on Jan. 6 said he believes there was direct \"cause-and-effect\" between then-President Donald Trump's words and the actions of the insurrectionist mob.",
@@ -1512,58 +1564,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-white-house-fires-trump-eeoc-official-after-she-refuses-to-step-down.md",
-      "title": "White House fires Trump EEOC official after she refuses to step down",
-      "excerpt": "The move is part of a push to oust controversial Trump appointees who were seen by some Democrats as hostile to the mission of the agencies they served.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
-      "originalUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UB5BBTT574I6XDC6GLSHWQVVDM.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/03/05/biden-eeoc-general-counsel-trump/?outputType=amp",
-      "publishedDateTime": "2021-03-06T07:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

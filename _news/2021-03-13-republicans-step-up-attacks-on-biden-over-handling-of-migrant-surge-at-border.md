@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden officials visit US-Mexico border to monitor increase in crossings"
-excerpt: "Alejandro Mayorkas and Susan Rice in White House delegation as Republicans seek to make immigration central electoral issue"
-publishedDateTime: 2021-03-07T12:32:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
-webUrl: "https://www.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+title: "Republicans step up attacks on Biden over handling of migrant surge at border"
+excerpt: "On Location: March 12, 2021 Republicans on Capitol Hill are seizing on the record surge in migrants at the southern border to bring increased scrutiny to President Joe Biden’s immigration ..."
+publishedDateTime: 2021-03-12T22:31:00Z
+originalUrl: "https://abcnews.go.com/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
+webUrl: "https://abcnews.go.com/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
 type: article
-quality: 125
+quality: 122
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/a781cba07bd450a169afecf73368213bb77d4f4a/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5a89ad2aba0ecfee1a4a7259c005b38a"
-    width: 600
-    height: 360
+  - url: "https://s.abcnews.com/images/US/deported-migrants-rtr-jc-210312_1615585988585_hpMain_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -94,6 +94,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden officials visit US-Mexico border to monitor increase in crossings"
+    excerpt: "Alejandro Mayorkas and Susan Rice in White House delegation as Republicans seek to make immigration central electoral issue"
+    publishedDateTime: 2021-03-07T12:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a781cba07bd450a169afecf73368213bb77d4f4a/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5a89ad2aba0ecfee1a4a7259c005b38a"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden poised to sign executive order aimed at promoting voting rights"
     excerpt: "President Biden is set to take unilateral action Sunday focused on voting rights and using the tools of the federal government to boost access for Americans to voter registration services. Mr. Biden will sign the executive order on the 56th anniversary of \"Bloody Sunday,"
@@ -302,22 +318,6 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554553270&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A1CU"
         width: 817
         height: 545
-        isCached: true
-  - title: "Republicans step up attacks on Biden over handling of migrant surge at border"
-    excerpt: "On Location: March 12, 2021 Republicans on Capitol Hill are seizing on the record surge in migrants at the southern border to bring increased scrutiny to President Joe Biden’s immigration ..."
-    publishedDateTime: 2021-03-12T22:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 122
-    images:
-      - url: "https://s.abcnews.com/images/US/deported-migrants-rtr-jc-210312_1615585988585_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "White House: Biden believes U.S. authorizations for military force need updating"
     excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
@@ -548,6 +548,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ZEzwaSg4xmEGq0749soDNHRo5h8vXCcYCHbmp3EZu5GLLTnoLJ/+1t5PiapdnAwnAAXzZdP/CaeBCO+MWmEL9LJyQeCEhh9HBRYOJn36DP4DXYvLQ4pkJgPhApRtRCdLRCRyBHTgKcdBgrjcHD7BCxvY6UtCO9o9r4yPdJBVmTWxVzXH+FR5xnIb0NeCFx5EiIJeXv13jFy/WHAJyBC8l0iVpwZ3MCwAq9bXfWbnZ5Lp9YjD3zDTxPnWnsOzeLK09cdkmrvYIc8uP3X0h4FNs+M9qM5g/dQiOULc9QKhSDnSkCmCUSMW/1GV8iq0iZaJAGAWOfvb3MZ0DPv4zTPblnJXdKfqaZacYMe5dED+mD7LsEM7yDcFwbqUMsyrnHy9TGipMpOskOzM2G47mSA3O2JbWmL0uRS2aAf1riBIk9xfO3U2flaVrlfSjgjCEmHlPvSib045UcILaLMD1rQyvqa27bjlD23dWtm+grfRVjS2X75tfsPRvdPIrlPbP6dA1CA3mJvyrpOLYxggNFIBBg==;pLFvLJSF+ySUAzLIw2kP1w=="
+secured: "Gqc3nyEP9NOChwS9m8Zku5mddQJnjq7K+QzyDOylAbBKoJQTsj+SBTYcY0Zb3KbeTcQTrOd/SUA1PI1sceuBwJcFKk8DQYa9GX4Wvgya+TFwnujK7RuO/5AiojAaCampJedWVeaZb61/AkeFStPkn3craX7YpMWxRBxARv/Hil93/Lfnfz5E5siTHgwayKQgbCA3AAv0lI9+hcLO4KIDkhc9oXCzpotSh6KmPiFuwyTk7QzKEnC3rBfy2U1/6xGEvFHPRQxAKcajGLG4WUGOcq4mhYCFe8Hn7r4DtdJSwzsx/K2E1HjhwvTxmTw/vRwZiPaXJcNZJoIOcwmMkv16nU5cyLpkhAHJ7dwE24wdL3k=;XAS83A4eSOIcyU1lLwSl5w=="
 ---
 

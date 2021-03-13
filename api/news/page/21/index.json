@@ -2,6 +2,63 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2021-02-08-tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr.md",
+      "title": "Tampa Bay Bucs are Super Bowl champs — Major turnover for DeSantis administration — Parscale urges Trump to run again as 'martyr'",
+      "excerpt": "The Tampa Bay Buccaneers won their second Super Bowl in franchise history, following a dominating performance on both sides of the ball. In the quarterback battle of the aging yet savvy veteran vs. the rising superstar,",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/08/tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr-491668",
+      "originalUrl": "https://www.politico.com/newsletters/florida-playbook/2021/02/08/tampa-bay-bucs-are-super-bowl-champs-major-turnover-for-desantis-administration-parscale-urges-trump-to-run-again-as-martyr-491668",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/d3/05/ba68c9f5400bbef72003544b41ba/fineoutlogo.jpg",
+          "width": 900,
+          "height": 1165,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-08T03:58:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-08-biden-team-says-it-sees-first-signs-of-improvement-in-fight-against-pandemic-but-its-a-daunting-challenge.md",
       "title": "Biden team says it sees first signs of improvement in fight against pandemic but it's a 'daunting challenge'",
       "excerpt": "Fully ensconced in the depths of the coronavirus crisis, the Biden administration says it is seeing the first signs of improvement -- though officials say they're far from celebrating.\n    \n",
@@ -1278,62 +1335,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-going-back-good-old-days-iran-nuclear-deal-mcfarland-middle-east-foreign-policy.amp",
       "publishedDateTime": "2021-02-05T13:35:08-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-05-stunning-hypocrisy-for-biden-administration-to-push-back-against-the-cdcs-approval-to-open-schools-farah.md",
-      "title": "‘Stunning hypocrisy’ for Biden administration to push back against the CDC’s approval to open schools: Farah",
-      "excerpt": "The Biden administration is hypocritical for appearing to dismiss the Center for Disease Control's guidance for reopening schools, former Trump White House Director of Strategic Communications Alyssa Farah said on Friday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXmOUjyrUA4/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZXmOUjyrUA4/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/stunning-hypocrisy-biden-administration-cdcs-approval-schools-farah.amp",
-      "publishedDateTime": "2021-02-05T13:21:50-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -319,6 +319,22 @@ related:
         width: 817
         height: 545
         isCached: true
+  - title: "Republicans step up attacks on Biden over handling of migrant surge at border"
+    excerpt: "On Location: March 12, 2021 Republicans on Capitol Hill are seizing on the record surge in migrants at the southern border to bring increased scrutiny to President Joe Biden’s immigration ..."
+    publishedDateTime: 2021-03-12T22:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/republicans-step-attacks-biden-handling-migrant-surge-border/story?id=76423045"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 122
+    images:
+      - url: "https://s.abcnews.com/images/US/deported-migrants-rtr-jc-210312_1615585988585_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "White House: Biden believes U.S. authorizations for military force need updating"
     excerpt: "U.S. President Joe Biden believes that authorizations for the use of military force that have been used to justify U.S. attacks on overseas targets should be re-examined, the White House said on Friday."
     publishedDateTime: 2021-03-06T01:26:00Z
@@ -463,6 +479,17 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Biden's $1.9T rescue signed, and now things get tougher"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — Tough as it was for Democrats, passing President Joe Biden’s sweeping package into law was the easy part. Now, they are hunkering down to push the next priorities ..."
+    publishedDateTime: 2021-03-12T05:20:00Z
+    webUrl: "https://www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 105
   - title: "Why did Biden decide to sign the bill today?"
     excerpt: "Watch \"Why did Biden decide to sign the bill today?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-03-11T19:24:00Z

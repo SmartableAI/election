@@ -1,34 +1,28 @@
 ---
 category: news
-title: "Biden officials visit US-Mexico border to monitor increase in crossings"
-excerpt: "Alejandro Mayorkas and Susan Rice in White House delegation as Republicans seek to make immigration central electoral issue"
-publishedDateTime: 2021-03-07T12:32:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
-webUrl: "https://www.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+title: "Biden's $1.9T rescue signed, and now things get tougher"
+excerpt: "It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — Tough as it was for Democrats, passing President Joe Biden’s sweeping package into law was the easy part. Now, they are hunkering down to push the next priorities ..."
+publishedDateTime: 2021-03-12T05:20:00Z
+originalUrl: "https://www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3"
+webUrl: "https://www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3"
+ampWebUrl: "https://www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3?amp"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
   - Joe Biden
-
-images:
-  - url: "https://i.guim.co.uk/img/media/a781cba07bd450a169afecf73368213bb77d4f4a/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5a89ad2aba0ecfee1a4a7259c005b38a"
-    width: 600
-    height: 360
-    isCached: true
 
 related:
   - title: "Hiring surged in February, the first full month of Biden's presidency"
@@ -94,6 +88,22 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Biden officials visit US-Mexico border to monitor increase in crossings"
+    excerpt: "Alejandro Mayorkas and Susan Rice in White House delegation as Republicans seek to make immigration central electoral issue"
+    publishedDateTime: 2021-03-07T12:32:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/07/biden-us-mexico-border-migrants-mayorkas-rice"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/a781cba07bd450a169afecf73368213bb77d4f4a/0_267_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=5a89ad2aba0ecfee1a4a7259c005b38a"
+        width: 600
+        height: 360
         isCached: true
   - title: "Biden poised to sign executive order aimed at promoting voting rights"
     excerpt: "President Biden is set to take unilateral action Sunday focused on voting rights and using the tools of the federal government to boost access for Americans to voter registration services. Mr. Biden will sign the executive order on the 56th anniversary of \"Bloody Sunday,"
@@ -479,17 +489,6 @@ related:
         width: 1440
         height: 810
         isCached: true
-  - title: "Biden's $1.9T rescue signed, and now things get tougher"
-    excerpt: "It indicates a way to close an interaction, or dismiss a notification. WASHINGTON (AP) — Tough as it was for Democrats, passing President Joe Biden’s sweeping package into law was the easy part. Now, they are hunkering down to push the next priorities ..."
-    publishedDateTime: 2021-03-12T05:20:00Z
-    webUrl: "https://www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/bidens-19t-rescue-signed-and-now-things-get-tougher-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 105
   - title: "Why did Biden decide to sign the bill today?"
     excerpt: "Watch \"Why did Biden decide to sign the bill today?\", a CBSN video on CBSNews.com. View more CBSN videos and watch CBSN, a live news stream featuring original CBS News reporting."
     publishedDateTime: 2021-03-11T19:24:00Z
@@ -548,6 +547,6 @@ related:
         height: 675
         isCached: true
 
-secured: "ZEzwaSg4xmEGq0749soDNHRo5h8vXCcYCHbmp3EZu5GLLTnoLJ/+1t5PiapdnAwnAAXzZdP/CaeBCO+MWmEL9LJyQeCEhh9HBRYOJn36DP4DXYvLQ4pkJgPhApRtRCdLRCRyBHTgKcdBgrjcHD7BCxvY6UtCO9o9r4yPdJBVmTWxVzXH+FR5xnIb0NeCFx5EiIJeXv13jFy/WHAJyBC8l0iVpwZ3MCwAq9bXfWbnZ5Lp9YjD3zDTxPnWnsOzeLK09cdkmrvYIc8uP3X0h4FNs+M9qM5g/dQiOULc9QKhSDnSkCmCUSMW/1GV8iq0iZaJAGAWOfvb3MZ0DPv4zTPblnJXdKfqaZacYMe5dED+mD7LsEM7yDcFwbqUMsyrnHy9TGipMpOskOzM2G47mSA3O2JbWmL0uRS2aAf1riBIk9xfO3U2flaVrlfSjgjCEmHlPvSib045UcILaLMD1rQyvqa27bjlD23dWtm+grfRVjS2X75tfsPRvdPIrlPbP6dA1CA3mJvyrpOLYxggNFIBBg==;pLFvLJSF+ySUAzLIw2kP1w=="
+secured: "LTL+KSoa5zAdAOe2tmKCiZ2Sr6PVP9dkUKfhCNCznLE7KJIEy1R1AFiypQ6k/i3B7+mZGJha2g6ysRklWZ3XmQ5xrtYyyY609I8wP/pItxvwPBmUQ+X62AKpAdwi8NmhKhDfhTEunJcPksp0K2uQEEUSNLAah+rK7HZI86W2PoF/Rmx/1gCreTsYC7PImLtlIDX81qbEb1v9Jn09uipM1am5IyBcxIMYaYOHTuAkF4QH8AF2ghBQqlVcGg5vZgyEcpBgo06lJLYPQ7K4YU2z9kt9u4BF8snOBg9B8mQYTpBb1GEBtdb++s3mKArloRrZ7ym7pNPGd6JS1NHL9RwMfAu8RE4/eBakZJE4EuKshMc=;hv57vn/cBz4/SXWNowlNmg=="
 ---
 
