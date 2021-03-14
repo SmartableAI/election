@@ -158,20 +158,20 @@ related:
         height: 545
         isCached: true
   - title: "Democrats finding support for Biden in small-city America"
-    excerpt: "She cast her vote for Democrat Joe Biden in November, and nearly three months later, she is pleased with how hard the new president is fighting for his priorities. “He’s trying to get something done,"
-    publishedDateTime: 2021-03-13T10:15:00Z
-    webUrl: "https://www.latimes.com/world-nation/story/2021-03-13/democrats-finding-support-for-biden-in-small-city-america"
-    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-13/democrats-finding-support-for-biden-in-small-city-america?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-13/democrats-finding-support-for-biden-in-small-city-america?_amp=true"
+    excerpt: "MANKATO, Minnesota — Mary McGaw grew up in a Republican home on the rural prairie of south central Minnesota. But as she moved from her tiny town of Amboy to the nearest city of Mankato to study nursing, her politics migrated too. Support our journalism."
+    publishedDateTime: 2021-03-13T14:17:00Z
+    webUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
+      name: Washington Post
+      domain: washingtonpost.com
     quality: 125
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/e815db8/2147483647/strip/true/crop/5568x3637+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff5%2F70%2F1bb9caa74e1fb00503890826a124%2Fla-videos-1staff-730674-me-0310-vaccine-appointments-help2-wjs.jpg"
-        width: 320
-        height: 209
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "‘Celebrating America’ review: Earnest inauguration special encapsulates President Joe Biden"
     excerpt: "Celebrating America” traded the usual inauguration night balls for socially distanced performances from around the country, spotlights of “everyday heroes,” and solemn acknowledgments of the extraordinarily tough few years the country has muscled through to get to this moment."

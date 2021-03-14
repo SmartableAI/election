@@ -207,6 +207,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "States launch legal effort after Biden drops Trump rule on immigrants and welfare"
+    excerpt: "A coalition of 11 states are seeking to intervene in a lawsuit to challenge the Biden administration’s move to drop a Trump-era policy that restricts immigrants deemed reliant on welfare from receiving green cards."
+    publishedDateTime: 2021-03-13T23:56:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EcHUaC2B8hM/states-biden-trump-rule-public-charge-immigrants"
+    ampWebUrl: "https://www.foxnews.com/politics/states-biden-trump-rule-public-charge-immigrants.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/states-biden-trump-rule-public-charge-immigrants.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f82ab0d-6852-4fda-8dd3-648abdd5dd2f/8214fb0e-3c22-4944-b2ae-b77b89e99fe9/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden to issue new immigration orders as part of push to roll back Trump-era policies"
     excerpt: "President Biden on Tuesday will sign three executive orders on illegal and legal immigration -- as part of an aggressive push in the early days of his presidency to roll back many of his predecessor’s policies."
     publishedDateTime: 2021-02-02T14:07:13Z

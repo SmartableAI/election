@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden administration plans to reengage with UN rights council, reversing Trump"
-excerpt: "The Biden administration is set to announce this week that it will reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago, U."
-publishedDateTime: 2021-02-08T12:35:00Z
-originalUrl: "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal"
-webUrl: "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal"
-ampWebUrl: "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp"
+title: "States launch legal effort after Biden drops Trump rule on immigrants and welfare"
+excerpt: "A coalition of 11 states are seeking to intervene in a lawsuit to challenge the Biden administration’s move to drop a Trump-era policy that restricts immigrants deemed reliant on welfare from receiving green cards."
+publishedDateTime: 2021-03-13T23:56:16Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EcHUaC2B8hM/states-biden-trump-rule-public-charge-immigrants"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EcHUaC2B8hM/states-biden-trump-rule-public-charge-immigrants"
+ampWebUrl: "https://www.foxnews.com/politics/states-biden-trump-rule-public-charge-immigrants.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/states-biden-trump-rule-public-charge-immigrants.amp"
 type: article
-quality: 146
+quality: 185
 heat: -1
 published: false
 
@@ -22,11 +22,10 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg"
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f82ab0d-6852-4fda-8dd3-648abdd5dd2f/8214fb0e-3c22-4944-b2ae-b77b89e99fe9/1280x720/match/image.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -207,22 +206,6 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Jen-Psaki-Joe-Biden.jpg?ve=1&tl=1"
         width: 640
         height: 320
-        isCached: true
-  - title: "States launch legal effort after Biden drops Trump rule on immigrants and welfare"
-    excerpt: "A coalition of 11 states are seeking to intervene in a lawsuit to challenge the Biden administration’s move to drop a Trump-era policy that restricts immigrants deemed reliant on welfare from receiving green cards."
-    publishedDateTime: 2021-03-13T23:56:16Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EcHUaC2B8hM/states-biden-trump-rule-public-charge-immigrants"
-    ampWebUrl: "https://www.foxnews.com/politics/states-biden-trump-rule-public-charge-immigrants.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/states-biden-trump-rule-public-charge-immigrants.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 185
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6f82ab0d-6852-4fda-8dd3-648abdd5dd2f/8214fb0e-3c22-4944-b2ae-b77b89e99fe9/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "Trump, in CPAC 2021 speech, to rip Biden and map out how to retake Congress in 2022"
     excerpt: "Former President Donald Trump will use his much-anticipated speech at the Conservative Political Action Conference (CPAC) on Sunday to offer a stinging rebuke of the first month of the Biden presidency -- while laying out what the GOP needs to do to take Congress in the 2022 midterms, sources with knowledge"
@@ -894,6 +877,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Biden administration plans to reengage with UN rights council, reversing Trump"
+    excerpt: "The Biden administration is set to announce this week that it will reengage with the much-maligned U.N. Human Rights Council that former President Donald Trump withdrew from almost three years ago, U."
+    publishedDateTime: 2021-02-08T12:35:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-to-rejoin-un-rights-council-in-reversal-of-trump-withdrawal.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/06033aca-08b3-48f8-b198-95163a765304/d8e75191-a19d-41d7-b41c-27e56d336a1b/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Trump slams Biden for comment on vaccine distribution, won’t rule out 2024 run"
     excerpt: "Former President Trump blasted President Biden for claiming that he left the White House without a vaccine distribution plan — calling it a “very dumb statement,” late Wednesday"
     publishedDateTime: 2021-02-18T12:31:00Z
@@ -1069,6 +1068,6 @@ related:
         height: 500
         isCached: true
 
-secured: "Q4PRLFQpMkaM95KGQqMPu3JXqUWp1vDgs+YaGDhhDJbRXGF+QwWw8kuC07/eScd6DxoH1gouhS+ENjKno4sLoH54Iyo981zH4RP4ZEQNGC7Zs275J3nIZeEzQjQSMepYt8usc0s2Ru+vgAM7Uc0OvqfmiSyYjf+HZv7DUjDnDM7+dfMQCN1iyGNLdq1PKrZIFeiAvNT5D5XVnZL8/pq5/ZYzvfOhSLMGaO/CnkoskOmXup6y+J2ApWMS6O9e6KMTOAalU0hNb+swj+++qxl79x4q6FGseOUvl/zP+j8CkDXQECKDjPo7Nb+ANeeMf2TeQrTmnKnq2rNkvutT1hZQWXbZ2i++9MTYxYH7bLB9Hbk/yVLNr9nIS8MYQtwXuJPnpVJCvlsAxGFaRjWMRDW3Nc2b4+d5RbEEHTfMRfoSOl4riJx9W89OiWSntLUZ/2Sq7ELmBw+yFo6YlG7DS+zkaHrwJRJPKmjo2GDLx00feCW0pLgT7OaAKJW91jHegD4NI/wx8nNltJdTHxUzINl6Dg==;QbhxTgbkJDdM91GShh4Dqw=="
+secured: "+3UN7n7goMqVxeb9yEYdGpSKesnwoyqUcGSoUIwhT1IKofolclB8Bv9s3kGeOU7VQTJ53sTxjE3JCG9YM+/vYGhjTbe/tt28zRzo4aoJpISpQmD6tIR0pEYjJQfVIuRhi5YPXOG/B915qJtuUmcePFP0RULdObqy6sVXOq8A9DnlQCJLo3UQ0T70KhtL9dyWUwVBKn4aDuKdbMRqGKEObHqZ7SNg14yZsI+zeCu1ZtZT0ncSdfIvjmbGIgxqh7WiYmDi8IiMQF5GB/b6H7fW4zDOd0VZIHxXK7oRCcIDqgbmjkmQ7lJtwtGmeWuXk8YuvQhkiZx47Mb+WTqwo+zOcP1OVmCZ2P8N2Eb6ASOFyYE=;URBMPHjtu9VtkhnkXxllKg=="
 ---
 

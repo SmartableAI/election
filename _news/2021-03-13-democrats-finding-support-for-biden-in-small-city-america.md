@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Democrats finding support for Biden in small-city America"
-excerpt: "She cast her vote for Democrat Joe Biden in November, and nearly three months later, she is pleased with how hard the new president is fighting for his priorities. “He’s trying to get something done,"
-publishedDateTime: 2021-03-13T10:15:00Z
-originalUrl: "https://www.latimes.com/world-nation/story/2021-03-13/democrats-finding-support-for-biden-in-small-city-america"
-webUrl: "https://www.latimes.com/world-nation/story/2021-03-13/democrats-finding-support-for-biden-in-small-city-america"
-ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-13/democrats-finding-support-for-biden-in-small-city-america?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-13/democrats-finding-support-for-biden-in-small-city-america?_amp=true"
+excerpt: "MANKATO, Minnesota — Mary McGaw grew up in a Republican home on the rural prairie of south central Minnesota. But as she moved from her tiny town of Amboy to the nearest city of Mankato to study nursing, her politics migrated too. Support our journalism."
+publishedDateTime: 2021-03-13T14:17:00Z
+originalUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html"
+webUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html"
+ampWebUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/e815db8/2147483647/strip/true/crop/5568x3637+0+38/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff5%2F70%2F1bb9caa74e1fb00503890826a124%2Fla-videos-1staff-730674-me-0310-vaccine-appointments-help2-wjs.jpg"
-    width: 320
-    height: 209
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -247,6 +247,6 @@ related:
       domain: reuters.com
     quality: 105
 
-secured: "BSWpVhSbiazkfyz4sf0bvPJwN5+SA5Nn9GMQzxngRZsE08KJvEJbYLa/iD1BZFOZos3xmlkeH+5/6Lwj3p5vV34p9gt+VgiEdQs3uL+X83sybPvL2s4FfGZJHhrVZPuLyiNBqTt4jerqY1rJytNn5wdovJEry3ZLX95yWI6z+CJqYdSf0eelWSFBl8NLGZs0MkdOxJuJqW0jtwItLul9+U3MkeMGSk0/W5k3X5j9fTn4fiCPbAntyQzYyLScGfp1ozXzz4VSZIlmNKTJ/DaNRUTtMm4qAytnxeG7zb9X0lzRiSioNjbHx1T10IxffB06b+me/MoaPQPNMs1UlNi11RYmwuInjGEEhsMeQ1f6tgA=;koxuXdShB4yGG8vWbPq/ww=="
+secured: "A9PZAtiGogv7GtjQC/gQRG4BZf3TxV6UcgWTMRELR1C5YeBYxke85tK2hOqP1PbQcTMDz2tE0bWJGCSaRUwVswI6+fWMB0/CuSZQCXzMUB1Ok82vXO1Y32if3GdLj/mt+Qx4nGdpJg61IFF7kB9DVyjg+2Alfco3Lar9LuwrVrJt7C8OMp8xvG7XKachEI8KzSCU+3YUS1JJvV/+tRnE7Arz1eAhhat2xVULUfQ4vdD11oBWCZIfCj63En3MUB37IxKgMMSCsegZCu4+RTpjxLBIXEWscd4aGv0WXmGdtP6Qnt5r5JwRKFuAVHPPtrxWcUxfwIrIKdHzq2otZQb9t8/DFE6bwkPKup74Ku9o7KA=;pprwZnYeYmSxpa7n/vLipQ=="
 ---
 

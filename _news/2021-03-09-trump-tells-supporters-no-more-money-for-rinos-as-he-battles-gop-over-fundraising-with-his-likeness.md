@@ -47,22 +47,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Trump makes surprise appearance at Mar-a-Lago event, hints at Lara Senate bid"
-    excerpt: "Former President Donald Trump made a surprise appearance at a dog rescue fundraiser being held at Mar-a-Lago on Friday -- a rare sighting of the 45th president in post-White House life."
-    publishedDateTime: 2021-03-13T13:58:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QkvoSOGkcis/trump-appearance-mar-a-lago-event"
-    ampWebUrl: "https://www.foxnews.com/politics/trump-appearance-mar-a-lago-event.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-appearance-mar-a-lago-event.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a54eb17-0e55-4279-bd6a-59a28902cfe9/f95a643f-bb8d-40e0-9fde-6f56b2458351/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Georgia Gov. Kemp says he would 'absolutely' back Trump 2024, despite Trumps' calls for his resignation"
     excerpt: "Georgia Gov. Brian Kemp said he would \"absolutely\" back Donald Trump in a bid for the presidency in 2024, despite Trump’s recent criticism of the Republican governor."
     publishedDateTime: 2021-03-04T02:20:57Z
@@ -124,6 +108,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/hooper3.jpg"
         width: 746
         height: 438
+        isCached: true
+  - title: "Trump makes surprise appearance at Mar-a-Lago event, hints at Lara Senate bid"
+    excerpt: "Former President Donald Trump made a surprise appearance at a dog rescue fundraiser being held at Mar-a-Lago on Friday -- a rare sighting of the 45th president in post-White House life. WPTV caught images of Trump, sporting a \"Make America Great Again\" hat ..."
+    publishedDateTime: 2021-03-13T14:01:00Z
+    webUrl: "https://www.foxnews.com/politics/trump-appearance-mar-a-lago-event"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-appearance-mar-a-lago-event.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-appearance-mar-a-lago-event.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 132
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3a54eb17-0e55-4279-bd6a-59a28902cfe9/f95a643f-bb8d-40e0-9fde-6f56b2458351/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
     excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."

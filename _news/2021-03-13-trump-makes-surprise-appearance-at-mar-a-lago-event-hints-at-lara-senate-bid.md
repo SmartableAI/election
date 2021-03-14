@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Trump makes surprise appearance at Mar-a-Lago event, hints at Lara Senate bid"
-excerpt: "Former President Donald Trump made a surprise appearance at a dog rescue fundraiser being held at Mar-a-Lago on Friday -- a rare sighting of the 45th president in post-White House life."
-publishedDateTime: 2021-03-13T13:58:52Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QkvoSOGkcis/trump-appearance-mar-a-lago-event"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QkvoSOGkcis/trump-appearance-mar-a-lago-event"
+excerpt: "Former President Donald Trump made a surprise appearance at a dog rescue fundraiser being held at Mar-a-Lago on Friday -- a rare sighting of the 45th president in post-White House life. WPTV caught images of Trump, sporting a \"Make America Great Again\" hat ..."
+publishedDateTime: 2021-03-13T14:01:00Z
+originalUrl: "https://www.foxnews.com/politics/trump-appearance-mar-a-lago-event"
+webUrl: "https://www.foxnews.com/politics/trump-appearance-mar-a-lago-event"
 ampWebUrl: "https://www.foxnews.com/politics/trump-appearance-mar-a-lago-event.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-appearance-mar-a-lago-event.amp"
 type: article
-quality: 172
+quality: 132
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -186,6 +187,6 @@ related:
         height: 562
         isCached: true
 
-secured: "KcmFbQ04t+nJ1hTnFMS3hinWfzxo8hWHcHiiGd09IgCFJgNXXMjb7B/c0polU6zBvleJw8y40gD5l63n2L/N7gYpfyIoZwXoyE9ciPTdv28uI2fFa+VPEbEm8TEONDst2cXTqWOFm/RogyzsbD3E59cZ2ZxT9Os4ASaKxatyDrnXXQsz+xhbcmtIsnCelvKXmOGUH6nZZdfK5tdZP6cCGzD/vn2OIv7T3byI9udpgo3t4tV9EhRx1n9jTRP/jxhOJ8HL+cLz5K484BrR61wLpxgJB4le8KombLYfDkiqeswbWKlCCvAmCUM35d5W7QqcQKfyno3jQKJj45xwDojfOpMj7pWfKBO4RErSNTAkREk=;Uo+3CN7VMTyaHCkyYo0dBA=="
+secured: "Mq81UulTgU7mrUCuyWMt7UW1UDT3ILzRqmfcFa+hRwV1GCB+8enCMny5upy+bHKV9WjsWWvOk/+6bKSHd71TX67Xe1QcWBT/aiY0Ge2CzgjtRy2HgkMQYI1s+XG5FejQJzjnCPNnZDt2jFfuroAIki3vuNsWr4ZgsVs2PGJiHQOVYb2jatbPg5apc2vPJNWV7AnjB6RmTdNnqhZulUVkKGfajB/eJc+AElMIdzyFC8rbduCTBjBIJnCgXd2bT5WzDHJVj/DAvPblDGGEG1GGg7tjCvmnSw0EPJbsWMNo+JQ3MqLrO6H3i8m74AVd0I5ybNk4j6wL9vT3ozRnsq3FcS3ZQT+PT/6uYs0gq/Z2wZ8=;wO5Nl6HE7lQwx/6a3VNFow=="
 ---
 
