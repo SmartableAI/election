@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Fauci backs Biden pledge of normal Fourth of July, 3 million vaccines per day"
+    excerpt: "Around 3 million vaccines were administered for the first time over the weekend."
+    publishedDateTime: 2021-03-14T16:06:48Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QD9KMj4IVuM/fauci-biden-pledge-normal-july-3-million-vaccines"
+    ampWebUrl: "https://www.foxnews.com/politics/fauci-biden-pledge-normal-july-3-million-vaccines.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-biden-pledge-normal-july-3-million-vaccines.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 172
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6579499f-993a-4584-a386-7cd91ec889b6/7e691339-64be-4012-9d3a-60567bd772f2/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden won White House with ‘put your dumb uncle in the basement’ strategy, new book says"
     excerpt: "President Biden won the White House because the coronavirus let him stay hidden in his basement, protecting his campaign from its biggest liability — the candidate himself, a new book says."
     publishedDateTime: 2021-03-03T02:36:40Z

@@ -126,6 +126,22 @@ related:
         width: 746
         height: 438
         isCached: true
+  - title: "Alabama GOP passes resolution naming Trump ‘one of the greatest’ presidents"
+    excerpt: "The Alabama Republican Party passed a unanimous resolution declaring former President Donald Trump “one of the greatest and most effective” presidents in US history, presenting him"
+    publishedDateTime: 2021-03-14T17:23:00Z
+    webUrl: "https://nypost.com/2021/03/14/alabama-gop-passes-resolution-naming-trump-among-greatest-presidents/"
+    ampWebUrl: "https://nypost.com/2021/03/14/alabama-gop-passes-resolution-naming-trump-among-greatest-presidents/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/14/alabama-gop-passes-resolution-naming-trump-among-greatest-presidents/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Media-Trump_s_Return_1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Jane Timken, ex-Ohio GOP chair running for Senate, calls on Gonzalez to resign for voting to impeach Trump"
     excerpt: "EXCLUSIVE: Former Ohio GOP chair and U.S. Senate candidate Jane Timken on Monday called on Republican Rep. Anthony Gonzalez to resign, after voting to impeach former President Trump last month."
     publishedDateTime: 2021-03-01T18:48:00Z

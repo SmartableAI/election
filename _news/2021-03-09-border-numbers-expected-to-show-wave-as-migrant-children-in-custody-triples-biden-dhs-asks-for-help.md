@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden's 'open border' policies enriching drug cartels as migrant crisis escalates: Gov. Abbott"
+    excerpt: "President Biden’s “open border policies” are not only inviting more illegal immigration to the U.S. but also enriching and empowering drug cartels in Mexico who profit from smuggling migrants across the border, Texas Gov. Greg Abbott said Sunday."
+    publishedDateTime: 2021-03-14T17:38:02Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbAxoxVDSqo/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/550f6423-a32c-452f-bdfd-b560fe6553e7/7ba82ed6-7af9-448b-8ff7-aa6485e70ef4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "gh+tjkipagjBpKwillT+5CFyeaCq6IlmBS/JIF/Oq8q+y9l0vE7Arbuhzscj4otbPgbthOQmCaiYREZGYFGN6xqpM5x2wwb5qqdryJeKlxmILcoGY3Ju9MfnN+9R3ekRE3/MUcacuJCQ/U8QAxseU0R359FlwDWEIJxs5Cx90zxuQ1mlU3x891VIeWra+rkO+nNNpzDb/LE1Bh8BCZp7NYYT6fDfqHcFE9fi3Rvyb4EkF/ux57/GprbRM3PEpo2ujzv7TemXzDB4UyFv7X1TPqUpAP6oo4v0VWFjdR5hYnuFDXz3QeQwETyjm2N+51o7YQ5ZYHuMz3wfe2xSky8F8qvLNgoSnWCsPqmWeueOM7M=;YPV0yoSOHfjTuHdy/BcFqw=="
 ---

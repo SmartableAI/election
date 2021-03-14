@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-senate-republican-retirements
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-senate-republican-retirements.amp"
 type: article
 quality: 175
-heat: 375
+heat: 395
 published: true
 
 provider:
@@ -108,6 +108,22 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/hooper3.jpg"
         width: 746
         height: 438
+        isCached: true
+  - title: "Alabama GOP passes resolution naming Trump ‘one of the greatest’ presidents"
+    excerpt: "The Alabama Republican Party passed a unanimous resolution declaring former President Donald Trump “one of the greatest and most effective” presidents in US history, presenting him"
+    publishedDateTime: 2021-03-14T17:23:00Z
+    webUrl: "https://nypost.com/2021/03/14/alabama-gop-passes-resolution-naming-trump-among-greatest-presidents/"
+    ampWebUrl: "https://nypost.com/2021/03/14/alabama-gop-passes-resolution-naming-trump-among-greatest-presidents/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/14/alabama-gop-passes-resolution-naming-trump-among-greatest-presidents/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 133
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/Media-Trump_s_Return_1.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Trump makes surprise appearance at Mar-a-Lago event, hints at Lara Senate bid"
     excerpt: "Former President Donald Trump made a surprise appearance at a dog rescue fundraiser being held at Mar-a-Lago on Friday -- a rare sighting of the 45th president in post-White House life. WPTV caught images of Trump, sporting a \"Make America Great Again\" hat ..."
