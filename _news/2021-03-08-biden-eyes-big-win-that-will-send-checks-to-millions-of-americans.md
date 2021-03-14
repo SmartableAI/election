@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-c
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/biden-big-win-stimulus-checks/index.html"
 type: article
 quality: 175
-heat: 615
+heat: 635
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311201521-03-biden-address-0311-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden scored a major legislative victory, but now comes the hard part "
+    excerpt: "After savoring the passage of his $1.9 trillion Covid-19 relief package in the Rose Garden last week, President Joe Biden begins the tough work of enacting what he called a \"transformational\" piece of legislation, while also trying to sell Americans on the progressive goals the bill embraced.\n    \n"
+    publishedDateTime: 2021-03-14T05:01:41Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/E5zeOc4GSX0/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/14/politics/joe-biden-covid-stimulus-tour/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/14/politics/joe-biden-covid-stimulus-tour/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312155403-05-white-house-covid-relief-event-0312-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

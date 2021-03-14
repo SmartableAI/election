@@ -399,38 +399,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "'Independence from this virus': President Biden shifts from 'darkest days' to hope on the horizon"
-    excerpt: "Making his first primetime address as president, President Joe Biden mourned a \"collective suffering\" over the last year but pivoted to a more hopeful future"
-    publishedDateTime: 2021-03-12T05:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/president-biden-address-shifts-darkest-days-hope-horizon/4648511001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4648511001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4648511001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/f289ce21-471d-4cd2-85bc-0cf6241078ba-AP21071051320807.jpg?auto=webp&crop=5223,2938,x1,y336&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "On war powers, Biden has pushed for both more congressional oversight and broad presidential authority"
-    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
-    publishedDateTime: 2021-03-09T22:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "$1.9 trillion COVID-19 relief bill with $1,400 stimulus checks passes House, heads to President Biden for signature"
     excerpt: "President Biden will sign the bill into law Friday, the White House said. He started pushing the measure in January before he took office."
     publishedDateTime: 2021-03-10T20:20:00Z

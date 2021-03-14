@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B22IG"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22IG"
 type: article
 quality: 123
-heat: 223
+heat: 203
 published: true
 
 provider:
@@ -94,20 +94,6 @@ related:
       - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YH33X5XWHVBVBN2AQ2NQZKFA2M.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
-    excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
-    publishedDateTime: 2021-03-12T02:22:00Z
-    webUrl: "https://www.ajc.com/politics/politics-blog/biden-and-harris-are-headed-to-atlanta-next-week-after-signing-19t-covid-19-relief-plan/Q7JFFTZBGFH2JMHNYT2BOB3CFA/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 64
-    images:
-      - url: "https://www.ajc.com/resizer/MMXL-u7FbeNag8S3s5fgZvuqLZU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/G7QYTXK4ABLJ6ZLT5W64ISOBU4.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "nFyubcPLR8S0BvIRtr4VaP/Dd0RjJ4qfNBnbbjxeF//c+ZV7KKnESDywijBLVanOdbgGOsK/J2UDkyeZsJ6lN72wlC8mo9KMoXnpX/teNs24lNHXsU1GMbPHdUOK4CV47qBHZwLPmQJNyjCL9pw/brMYyC68EUUc/hyhf+a1jisNOBn20iVODnI20HJReFRTyV2dawhJtVatXuw7Uoo21JcctGVbx54O71UAJaOFAsiD2HkGNSEFP0FbWr+rBPJgb+edTnlJblNmx5kPe97414rNl/oynlEc662s2AIiPcrmkn/MLQa++71mDAQT9IHGY5LFZQEcIgcFCgbS9BL7+UnvzE2ER4QqczV1KKQqQos=;TQ+CpN8QThIHowCNkWkO/w=="

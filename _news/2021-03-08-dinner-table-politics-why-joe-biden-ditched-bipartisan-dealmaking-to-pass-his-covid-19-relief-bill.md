@@ -91,6 +91,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Joe Biden writes a cheque for America – and the rest of the world"
+    excerpt: "The president’s $1.9tn stimulus package should lift US GDP by up to 4% – and thus buoy up the whole of the global economy US president Joe Biden did the world a favour last Thursday when he signed a bill handing $1.9 trillion (£1.4tn) of rescue funds ..."
+    publishedDateTime: 2021-03-13T15:00:00Z
+    webUrl: "https://www.theguardian.com/business/2021/mar/13/joe-biden-writes-a-cheque-for-america-and-the-rest-of-the-world"
+    ampWebUrl: "https://amp.theguardian.com/business/2021/mar/13/joe-biden-writes-a-cheque-for-america-and-the-rest-of-the-world"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/business/2021/mar/13/joe-biden-writes-a-cheque-for-america-and-the-rest-of-the-world"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/d2193751d44666d3bd5f3a954e00c7cfc3012188/0_0_6216_3729/master/6216.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=8431f5b96275f25f8db2499ccc1c9432"
+        width: 600
+        height: 360
+        isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
     publishedDateTime: 2021-03-04T12:33:00Z

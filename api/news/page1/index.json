@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-14-kamala-harris-says-young-leaders-inspire-me-and-president-biden-every-day-at-kids-choice-awards.md",
+      "title": "Kamala Harris says young leaders 'inspire me and President Biden every day' at Kids' Choice Awards",
+      "excerpt": "Vice President Kamala Harris honored young people for doing their part to help others amid the coronavirus pandemic while accepting an award at the 2021 Kids' Choice Awards. \"Thank you to the young leaders for being so incredible, and for all that you do ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/14/kids-choice-awards-kamala-harris-thanks-kids-helping-amid-covid/4691421001/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/14/kids-choice-awards-kamala-harris-thanks-kids-helping-amid-covid/4691421001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 386,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/08/USAT/fce28786-c318-4bd3-a93f-c48fcefc93dd-harris_NLC.jpg?auto=webp&crop=4999,2812,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4691421001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4691421001",
+      "publishedDateTime": "2021-03-14T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-levin-biden-white-house-using-huge-propaganda-effort-to-push-tyrannical-agenda-claim-vaccine-credit.md",
       "title": "Levin: Biden White House using 'huge propaganda effort' to push 'tyrannical agenda,' claim vaccine credit",
       "excerpt": "The Biden administration is in \"a mad rush\" to institute a \"radical, tyrannical agenda\" as quickly as possible with minimal scrutiny, \"Life, Liberty & Levin\" host Mark Levin argued Sunday.",
@@ -487,7 +539,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1246,
+      "heat": 1286,
       "tags": null,
       "images": [
         {
@@ -1288,49 +1340,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-vice-president-kamala-harris-to-deliver-special-remarks-during-nickelodeons-kids-choice-awards-2021.md",
-      "title": "Vice President Kamala Harris to Deliver Special Remarks During Nickelodeon’s Kids’ Choice Awards 2021",
-      "excerpt": "Vice President Kamala Harris will deliver special remarks during the Nickelodeon’s Kids Choice Awards 2021 on Saturday, March 13, at 7:30 p.m. (ET/PT). The Vice President, who will be introduced by actress Jennifer Garner, is set to appear as part of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/entertainment-award-shows-justin-bieber-north-america-daryl-dragon-8cd9fe50082e4475903537ec4f2506fa",
-      "originalUrl": "https://apnews.com/press-release/business-wire/entertainment-award-shows-justin-bieber-north-america-daryl-dragon-8cd9fe50082e4475903537ec4f2506fa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-12T07:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

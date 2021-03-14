@@ -504,20 +504,6 @@ related:
         width: 1680
         height: 876
         isCached: true
-  - title: "Vice President Kamala Harris Delivers Virtual Remarks"
-    excerpt: "Vice President Kamala Harris delivers virtual remarks to the National League of Cities' (NLC) Congressional City Conference, at the Eisenhower Executive Office Building at the White House complex in Washington,"
-    publishedDateTime: 2021-03-08T20:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/USA-WHITE-HOUSE-HARRIS.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "Fuentes AP: Vicepresidente de EEUU llama a vicepresidenta electa Kamala Harris para felicitarla y ofrecerle asistencia"
     excerpt: "Vicepresidente de EEUU llama a vicepresidenta electa Kamala Harris para felicitarla y ofrecerle asistencia."
     publishedDateTime: 2021-01-15T13:07:00Z
@@ -581,15 +567,6 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
-  - title: "Vice President Harris American Rescue Plan Briefing"
-    excerpt: "Vice President Harris participated in a brief conversation on the American Rescue Plan that preceded a closed… Vice President-elect Kamala Harris volunteered with her husband, Doug Emhoff, at Martha’s Table in Washington, D.C., to… President-elect ..."
-    publishedDateTime: 2021-03-11T20:01:00Z
-    webUrl: "https://www.c-span.org/video/?509795-1/vice-president-harris-american-rescue-plan-briefing"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
     quality: 35
 
 secured: "ZVkPzeSspScRY248RqgqnxBGnWE0N2x6h0S2YAT/bK8iwMAAorETLV0N4y25VkDVSmdBX3I8rm4aVdXxKH0FRmOnXT4lL/GJm4YyTRIy9uLj+t20rwKvUU2pMcoTeDVDlbSaXFZrb3ctamK2TqAeaVmDdYagXKQGbBWdiZ+NIiOCKXkJLkrE++oJEP/OOgSdTam4tljGVuhv6NaR6uh3/eXMCJDkiF8OIK6aBfJWMbano+UowaKaDjlw17t8A3liSQeZOV05vvfELnTFYGDKPNspSVuBv2Hk51zozj1QPl3fbh2PdNGP1j22n1EvBXJTG76tKniDX1mN8v8cfmhBO6C4KvsOjeRVsvyzA/uboCvGFo/U5IUIA7576CRo4jVwf0Ni9YfMyAyXzLDnU3Ly/6Bbvu9TziRwSmn4bL/vS53NvuRxQsfXQf773zlWgljHi3CE9Fp/JHyMECXDutNotgqUbntcrcfdFN8N1ifXO10xXat6bi5qtHnGfwwtkir6JTdrqLOEJEMOI7XfgwTJaQ==;+A9Mu19N+afdltzED3nKUA=="

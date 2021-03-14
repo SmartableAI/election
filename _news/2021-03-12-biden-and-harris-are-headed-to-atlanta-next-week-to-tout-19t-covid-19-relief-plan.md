@@ -25,86 +25,192 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's $1.9 trillion coronavirus aid bill gets enough votes to pass House"
-    excerpt: "WASHINGTON, March 10 (Reuters) - President Joe Biden’s $1.9 trillion COVID-19 relief bill secured enough votes in the U.S. House of Representatives to pass on Wednesday. The Senate has already approved the legislation. The next step will be the White ..."
-    publishedDateTime: 2021-03-10T18:07:00Z
-    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-vote-idUSL1N2L818U"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B22IG"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B22IG"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 123
-    images:
-      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210310&t=2&i=1554436201&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH291I2"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Former Trump coronavirus coordinator Birx takes job at Texas air purifier maker"
-    excerpt: "An expert in global health, Birx came to the White House in 2020 to help lead the Trump administration’s response to the pandemic. But she was criticized for not standing up to former President Donald Trump as he played down the virus, predicted it would ..."
-    publishedDateTime: 2021-03-13T00:16:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-trump-birx-exclusive/exclusive-dr-deborah-birx-former-trump-coronavirus-coordinator-to-join-texas-air-purifier-maker-idUSKBN2B42LV"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B42LV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B42LV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 121
-    images:
-      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554720225&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B1JR"
-        width: 817
-        height: 545
-        isCached: true
-  - title: "Joe Biden administration will devote $650 million to help schools expand testing"
-    excerpt: "During his prime time speech Thursday, President Joe Biden noted his announcement last week to vaccinate teachers and school officials by the end of March will help the majority of K-8 schools reopen within his first 100 days in office, or by the end of ..."
-    publishedDateTime: 2021-03-12T01:58:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/11/joe-biden-administration-send-millions-schools-expand-testing/4657459001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4657459001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4657459001"
+  - title: "Kamala Harris says young leaders 'inspire me and President Biden every day' at Kids' Choice Awards"
+    excerpt: "Vice President Kamala Harris honored young people for doing their part to help others amid the coronavirus pandemic while accepting an award at the 2021 Kids' Choice Awards. \"Thank you to the young leaders for being so incredible, and for all that you do ..."
+    publishedDateTime: 2021-03-14T13:42:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/03/14/kids-choice-awards-kamala-harris-thanks-kids-helping-amid-covid/4691421001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4691421001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4691421001"
     type: article
     provider:
       name: USA Today
       domain: usatoday.com
-    quality: 120
+    quality: 126
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/07/USAT/59e31eb1-a074-4387-83f2-c87d0ebf692c-VPC_BIDEN_EXEC_ORDER_desk.jpg?auto=webp&crop=1274,717,x5,y0&format=pjpg&width=1200"
+      - url: "https://www.gannett-cdn.com/presto/2021/03/08/USAT/fce28786-c318-4bd3-a93f-c48fcefc93dd-harris_NLC.jpg?auto=webp&crop=4999,2812,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
         isCached: true
-  - title: "Biden stimulus calls for expanded paid sick leave to help workers facing coronavirus challenges"
-    excerpt: "The U.S. is an outlier for its lack of mandatory paid sick leave. Biden's plan seeks to eliminate loopholes that prevented some 100 million workers from accessing it during the pandemic."
-    publishedDateTime: 2021-01-16T00:25:00Z
-    webUrl: "https://www.washingtonpost.com/business/2021/01/15/biden-economy-stimulus-sick-pay/"
-    ampWebUrl: "https://www.washingtonpost.com/business/2021/01/15/biden-economy-stimulus-sick-pay/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/2021/01/15/biden-economy-stimulus-sick-pay/?outputType=amp"
+  - title: "'Independence from this virus': President Biden shifts from 'darkest days' to hope on the horizon"
+    excerpt: "Making his first primetime address as president, President Joe Biden mourned a \"collective suffering\" over the last year but pivoted to a more hopeful future"
+    publishedDateTime: 2021-03-12T05:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/president-biden-address-shifts-darkest-days-hope-horizon/4648511001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4648511001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4648511001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/f289ce21-471d-4cd2-85bc-0cf6241078ba-AP21071051320807.jpg?auto=webp&crop=5223,2938,x1,y336&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "On war powers, Biden has pushed for both more congressional oversight and broad presidential authority"
+    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
+    publishedDateTime: 2021-03-09T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 113
+    quality: 109
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/36AJD4CW3EI6XLGFSLJIDGQ4ZM.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1440"
         width: 1440
-        height: 960
+        height: 810
         isCached: true
-  - title: "New stimulus plan, Joe Biden, Coronavirus news & more: What’s trending today"
-    excerpt: "A look at some of the top stories trending today including news on Joe Biden and his new stimulus plan, coronavirus updates and much more."
-    publishedDateTime: 2021-01-15T11:07:00Z
-    webUrl: "https://www.cleveland.com/nation/2021/01/new-stimulus-plan-joe-biden-coronavirus-news-more-whats-trending-today.html"
-    ampWebUrl: "https://www.cleveland.com/nation/2021/01/new-stimulus-plan-joe-biden-coronavirus-news-more-whats-trending-today.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-cleveland-com.cdn.ampproject.org/c/s/www.cleveland.com/nation/2021/01/new-stimulus-plan-joe-biden-coronavirus-news-more-whats-trending-today.html?outputType=amp"
+  - title: "Vice President Kamala Harris to Deliver Special Remarks During Nickelodeon’s Kids’ Choice Awards 2021"
+    excerpt: "Vice President Kamala Harris will deliver special remarks during the Nickelodeon’s Kids Choice Awards 2021 on Saturday, March 13, at 7:30 p.m. (ET/PT). The Vice President, who will be introduced by actress Jennifer Garner, is set to appear as part of the ..."
+    publishedDateTime: 2021-03-12T15:46:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/entertainment-award-shows-justin-bieber-north-america-daryl-dragon-8cd9fe50082e4475903537ec4f2506fa"
     type: article
     provider:
-      name: Cleveland.com
-      domain: cleveland.com
-    quality: 72
+      name: Associated Press
+      domain: apnews.com
+    quality: 90
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/YH33X5XWHVBVBN2AQ2NQZKFA2M.jpg"
-        width: 1024
-        height: 683
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
+  - title: "Vice President Kamala Harris coming to Las Vegas on Monday"
+    excerpt: "Vice President Kamala Harris and her husband, Doug Emhoff, will visit Las Vegas on Monday to tout the $1.9 trillion American Rescue Plan approved by Congress on Wednesday."
+    publishedDateTime: 2021-03-11T02:25:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-coming-to-las-vegas-on-monday-2299493/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-coming-to-las-vegas-on-monday-2299493/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-coming-to-las-vegas-on-monday-2299493/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14897275_web1_KAMALA-VISIT-102720_es_010.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The Biggest Thing Kamala Harris Could Do This Year"
+    excerpt: "The battle to protect voting rights needs a field general. Vice President Kamala Harris needs a cause to define her tenure. The second problem suggests the answer to the first: President Joe Biden could designate Harris as the administration’s point ..."
+    publishedDateTime: 2021-03-11T19:58:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/03/why-democrats-voting-rights-battle-needs-kamala-harris/618260/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/618260/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618260/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/vQL0Pc2lGf46uSug5fkjUvxOXaI=/570x321/media/img/mt/2021/03/0321_Nora_Katie_Kamala/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
+  - title: "What Kamala Harris Could Do for Voting Rights"
+    excerpt: "The cause needs a prominent leader who can draw national attention to Republican efforts to suppress the vote."
+    publishedDateTime: 2021-03-11T18:20:00Z
+    webUrl: "https://www.theatlantic.com/politics/archive/2021/03/why-democrats-voting-rights-battle-needs-kamala-harris/618260/"
+    ampWebUrl: "https://amp.theatlantic.com/amp/article/618260/"
+    cdnAmpWebUrl: "https://amp-theatlantic-com.cdn.ampproject.org/c/s/amp.theatlantic.com/amp/article/618260/"
+    type: article
+    provider:
+      name: The Atlantic
+      domain: theatlantic.com
+    quality: 75
+    images:
+      - url: "https://cdn.theatlantic.com/thumbor/vQL0Pc2lGf46uSug5fkjUvxOXaI=/570x321/media/img/mt/2021/03/0321_Nora_Katie_Kamala/original.jpg"
+        width: 570
+        height: 321
+        isCached: true
+  - title: "Kamala Harris to speak at Nickelodeon Kids' Choice Awards"
+    excerpt: "March 12 (UPI) --Vice President Kamala Harris will speak at the 2021 Nickelodeon Kids' Choice Awards. Nickelodeon confirmed in a press release Friday that Harris, 56, will deliver special remarks during the awards show Saturday. Advertisement Harris will ..."
+    publishedDateTime: 2021-03-12T16:40:00Z
+    webUrl: "https://www.upi.com/Entertainment_News/2021/03/12/Kamala-Harris-Nickelodeon-Kids-Choice-Awards-Vice-President-speak-remarks/8601615566021/"
+    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/2021/03/12/Kamala-Harris-Nickelodeon-Kids-Choice-Awards-Vice-President-speak-remarks/8601615566021/"
+    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/2021/03/12/Kamala-Harris-Nickelodeon-Kids-Choice-Awards-Vice-President-speak-remarks/8601615566021/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 75
+    images:
+      - url: "https://cdnph.upi.com/sv/ph/og/upi/8601615566021/2021/1/3333515b46ab5ca653c20fdc04d459e1/v1.5/Kamala-Harris-to-speak-at-Nickelodeon-Kids-Choice-Awards.jpg"
+        width: 800
+        height: 534
+        isCached: true
+  - title: "Vice President Kamala Harris Delivers Virtual Remarks"
+    excerpt: "Vice President Kamala Harris delivers virtual remarks to the National League of Cities' (NLC) Congressional City Conference, at the Eisenhower Executive Office Building at the White House complex in Washington,"
+    publishedDateTime: 2021-03-08T20:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/USA-WHITE-HOUSE-HARRIS.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Vice President Harris Swears in HUD Secretary Marcia Fudge"
+    excerpt: "U.S. Vice President Kamala Harris speaks to members of the press after swearing in Marcia Fudge, U.S. secretary of Housing And Urban Development (HUD), during a virtual ceremony in Washington, DC on Wednesday, March 10, 2021. During her confirmation ..."
+    publishedDateTime: 2021-03-11T00:34:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/801cc58e1186bced134ddaa50c600a99/Vice-President-Harris-Swears-in-HUD-Secretary-Marcia-Fudge/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/801cc58e1186bced134ddaa50c600a99/HUD-FUDGE.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Vice President Kamala Harris scheduled to visit Colorado"
+    excerpt: "Vice President Kamala Harris will visit Denver on March 16 to highlight the $1.9 trillion COVID relief bill passed by Congress on Wednesday."
+    publishedDateTime: 2021-03-10T23:43:00Z
+    webUrl: "https://gazette.com/news/vice-president-kamala-harris-scheduled-to-visit-colorado/article_fdc4eaa2-81fa-11eb-ba45-8b30c57abbaf.html"
+    type: article
+    provider:
+      name: The Gazette
+      domain: gazette.com
+    quality: 55
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/6/2a/62accf86-5b9d-11eb-9ba0-1b643862cb4d/6008fcd797f38.image.jpg?resize=944%2C630"
+        width: 944
+        height: 630
+        isCached: true
+  - title: "Kamala Harris Carves Out a Role of Her Own"
+    excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
+    publishedDateTime: 2021-03-12T11:13:00Z
+    webUrl: "https://www.usnews.com/news/the-report/articles/2021-03-12/kamala-harris-carves-out-a-vice-presidential-of-role-of-her-own"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 35
+  - title: "Vice President Harris American Rescue Plan Briefing"
+    excerpt: "Vice President Harris participated in a brief conversation on the American Rescue Plan that preceded a closed… Vice President-elect Kamala Harris volunteered with her husband, Doug Emhoff, at Martha’s Table in Washington, D.C., to… President-elect ..."
+    publishedDateTime: 2021-03-11T20:01:00Z
+    webUrl: "https://www.c-span.org/video/?509795-1/vice-president-harris-american-rescue-plan-briefing"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "z+T50bm+Un3m+VwEC2b/MfbVPTmTMckxMjOn0UtgFADdEcKSXM1likb5FvM++adV976NCwPGfyY8TcgFZ0AeAL1sj+AgP35c3eA4m6zpjHBm5ByrKhZjFTPlBulxjJX5kj9yFLBZbpYqhAzIhY+EOqeJSw8UmIL3nADtm5cmRgoS2XkrAANV4gZ1ux5WnkxcwYp8KlbLueX29viw4gt7f6YHL1QYa37Um1WHA/yfFw+lb14isICG3Wz7ze85ja15RLCSKflnmIXemo+B1SY9joX4zNS8RFlV9RlFBgDCrLLOPDEsmOK1zcXyHF6wd+5MH1n5V8b35+bkmENv05L8lRdmyGjq/wSJDD84YXchA1I=;hR87Z5+REZHw8Qas79zfVw=="
 ---

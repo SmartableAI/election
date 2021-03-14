@@ -500,20 +500,6 @@ related:
         width: 1680
         height: 876
         isCached: true
-  - title: "Vice President Kamala Harris Delivers Virtual Remarks"
-    excerpt: "Vice President Kamala Harris delivers virtual remarks to the National League of Cities' (NLC) Congressional City Conference, at the Eisenhower Executive Office Building at the White House complex in Washington,"
-    publishedDateTime: 2021-03-08T20:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/USA-WHITE-HOUSE-HARRIS.jpg"
-        width: 650
-        height: 433
-        isCached: true
   - title: "Fuentes AP: Vicepresidente de EEUU llama a vicepresidenta electa Kamala Harris para felicitarla y ofrecerle asistencia"
     excerpt: "Vicepresidente de EEUU llama a vicepresidenta electa Kamala Harris para felicitarla y ofrecerle asistencia."
     publishedDateTime: 2021-01-15T13:07:00Z
@@ -577,15 +563,6 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 35
-  - title: "Vice President Harris American Rescue Plan Briefing"
-    excerpt: "Vice President Harris participated in a brief conversation on the American Rescue Plan that preceded a closed… Vice President-elect Kamala Harris volunteered with her husband, Doug Emhoff, at Martha’s Table in Washington, D.C., to… President-elect ..."
-    publishedDateTime: 2021-03-11T20:01:00Z
-    webUrl: "https://www.c-span.org/video/?509795-1/vice-president-harris-american-rescue-plan-briefing"
-    type: article
-    provider:
-      name: C-SPAN
-      domain: c-span.org
     quality: 35
 
 secured: "2BoqjKi+Bp1Kxt4hLkoFjlcVkIjCbGLFUznZzpqlRDVDEEQICaInbCf/usVFxjsH9cs7bmWvnYP1UCAVXoxZzj2uvJF69KIGl4mMd9/hrcJBig6D0BNjCx7rwrNOr45Yag6oI4eyUD2kIG5fZ2bwTpXG64G1YwHw318oypryyOeCW3/wpCxkKmgPEVK0TQBZfdLIH/9/Q11k3pDgs2BBAgY4NB06mvDKw/559HFYJARkaCmD1eRAPLFj86OSsZMv7K+jTQrxy8vvJbn45RBeUYNt53be89eA0DKJikcnOZg7adHoyAMH8TDqcCmXsRVxvHlCW7tz/eQTolEtKXtmHCJHfD2iJY8Dyyi9O0lGj9w=;U31iRHTo+4uVohtSuu6Bjw=="

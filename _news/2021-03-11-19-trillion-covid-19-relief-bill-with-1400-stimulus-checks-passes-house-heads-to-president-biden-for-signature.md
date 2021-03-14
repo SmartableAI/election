@@ -415,38 +415,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "'Independence from this virus': President Biden shifts from 'darkest days' to hope on the horizon"
-    excerpt: "Making his first primetime address as president, President Joe Biden mourned a \"collective suffering\" over the last year but pivoted to a more hopeful future"
-    publishedDateTime: 2021-03-12T05:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/president-biden-address-shifts-darkest-days-hope-horizon/4648511001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4648511001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4648511001"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/f289ce21-471d-4cd2-85bc-0cf6241078ba-AP21071051320807.jpg?auto=webp&crop=5223,2938,x1,y336&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "On war powers, Biden has pushed for both more congressional oversight and broad presidential authority"
-    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
-    publishedDateTime: 2021-03-09T22:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1440"
-        width: 1440
-        height: 810
-        isCached: true
 
 secured: "ETwsAo+cMQPRnIGSz+YCXaQ91SBZfm/zH6QUPG8sM2F5mU32dKX5CrafVeJolJVwa6FcI+RIxwo7GW8Tnk+mHyLXzy+RIm5iPDgf3xeeXTN019qqjjf2jdV1GM7+tbelxzWoniuV9gU9x6YT1ecnf427qdTuD0SgKQ1rPEzM95NIiAIJF/mIptosX38nkStU4FQtd5lswZCdUJKXgqKga1M+5ZKOnnnLl4d0hemAIlPOPlU0XbFpFJHugjEBv16bgWJ0+AvniImmmA7bBe9EK1nXypDxkbNNL9I1tjvU4ZrFmRZBdd83oJYiIO05DBSCbwO246v9xW5MvLVJcqaiYG0HM9cGu8VwWAzHVqyc+QO/I8GRBaoE4w+X/81tZlCh5wyQf9D1ey714oTcWQGlB3rlWjJ503jjj2DuZGKVXn1nFBekinOJUi3d5QV8ogWvMY7f69mL2Krx6dVIbL6jxqCwBxG45WEBkmfY3OsdtJzsrzF0ZeIfc71QqPiLYD4sJS3teu0EcUAq47ClqnWacQ==;HDBTA7FK8dikqdPHw85wPA=="
 ---

@@ -91,20 +91,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
-    excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
-    publishedDateTime: 2021-03-12T02:22:00Z
-    webUrl: "https://www.ajc.com/politics/politics-blog/biden-and-harris-are-headed-to-atlanta-next-week-after-signing-19t-covid-19-relief-plan/Q7JFFTZBGFH2JMHNYT2BOB3CFA/"
-    type: article
-    provider:
-      name: Atlanta Journal-Constitution
-      domain: ajc.com
-    quality: 64
-    images:
-      - url: "https://www.ajc.com/resizer/MMXL-u7FbeNag8S3s5fgZvuqLZU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/G7QYTXK4ABLJ6ZLT5W64ISOBU4.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ODWjQbDStVUiW9dRi4H0jDaY6guZ+I36OXVUlVwoyWTuhLJ5F0/WgOXpQFeF8tY46bI+14j4MVfsM/VYyrjVYGhFq3M6zZT+or8viX6SRZ1HnTFllUO+zCd72UNGLQVTduSU9a42GPPTBk1PmURFRIAjJtsgOpm9q4HF9bS+O95G/LuOIunJRDvLHFQG+egr6IAXfrg6YXRgbYV4m2uvUKe9jGUPGdzzKJtpqtHIb7zPOKCPauAPtUmJz2gIOyp9E8cs5d9xXRZkr/jBCBlt4vX5l1dPbH7cD0/l+zfTUN9qnN1RdUEAdWZHKtBMYO39567242Jt7PqHIN5tf7/+ClF/TMRsmIdOw9P9MBMCwAgGOyWwgA+h0IZUxGDzwanfkG5GffCm233WXm+IwZbN4+w+yZgySPm3SOjRoqbzplXORmLEofqaJXytvQlrWIKTzAJtra6cQgsHkdE8Q3jCC+JoZsNuP2WYT05RaTjFp67oJru1ggacLRh61EUhXtVxtpYi5S2ACOUHe5XHq4eHrw==;G5zWrV7XgPloScs9GvYF6A=="
 ---
