@@ -39,6 +39,20 @@ related:
         width: 1440
         height: 959
         isCached: true
+  - title: "Trump's Washington hotel echoes to silence of missing Maga crowd"
+    excerpt: "The beverage had to be opened in front of the germophobe commander in chief, ‘never beforehand’. Donald Trump, then a presidential candidate, walks into the atrium of his new hotel on 16 September 2016, with his future national security adviser Michael ..."
+    publishedDateTime: 2021-03-14T02:02:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/13/trump-hotel-washington-missing-maga-crowd"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 105
+    images:
+      - url: "https://i.guim.co.uk/img/media/710160d2104dceac095854c61e61a18445b21de1/0_41_4989_2993/master/4989.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d2edb2006fcf4db3edf01ea98b13bfc5"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "//ha3WQB01A5OtY4R71D4z1cFmsFNvpUr5uJdSPN9/dDiV/RsomB1FxgaxtI2naNv03Jupqlb8ykkf/t5Hf5mmQb77dk+6qDylLTCJpqDsdMGUZXOFqVMymQqIwmwF3QIgEEVO1iBfKw3uKP3IiYs46rxwCPdUieHZPCa7RdWTgu79DYVCgTkWIv7EjmDUZD/RN5yjktc5MSiet8i1gGdG7jkZuyqkX7fJrs+7eKtvjgGsp2wNaFbIj+bZWekrvtHzDTYGPLVum0m8SJdhuAF33cUPDfW0YfkbWmYGdH9rL25iVzI9oIfQGs35fJv8SrOpuV6bHVD0twCzR8V6iRco7pIVFr4FvZWKwgiVNTnDfr0bv4K6yEtdMj1OH72yt1rHT8sn+KAiZAjgoHyk46hnrPRqG46iOst62n9tTWLlqV+q1CZQpjJRxuYdSpSLiCIzTPrPqW3ASo5MYbcLaHSAoYgOMl3xnGWV6zVRrAZ9PRtCFdtEDFoAqqRiayaFY6jAYRQvKq46YuM5h6siSK3Q==;noTwSQshfaAAcEn+1UkvLw=="
 ---

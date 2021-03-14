@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Senate leaders win over key Democratic holdout as party struggles to push through Biden's Covid relief plan"
-excerpt: "The Senate is bracing for a series of politically tough amendment votes Friday that could stretch late into the night and into the early hours of Saturday, the last major hurdle senators face before voting on President Joe Biden's sweeping pandemic relief bill.\n    \n"
-publishedDateTime: 2021-03-06T04:40:23Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DG0C4vk-u-I/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DG0C4vk-u-I/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/senate-covid-relief-vote-a-rama/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/senate-covid-relief-vote-a-rama/index.html"
+title: "Joe Biden just can't quit Delaware -- even as president"
+excerpt: "(CNN)Bidding farewell to his adopted home state in January, Joe Biden-- then the President-elect -- grew emotional as he boarded his flight to Washington for the inauguration. \"When I die,\" he said, wiping away tears, \"Delaware will be written on my heart ..."
+publishedDateTime: 2021-03-12T20:44:00Z
+originalUrl: "https://www.cnn.com/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
+webUrl: "https://www.cnn.com/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
 type: article
-quality: 157
+quality: 135
 heat: -1
 published: false
 
@@ -22,10 +22,11 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223152543-joe-manchin-january-27-2021-super-tease.jpg"
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302111433-biden-nov-7-2020-super-tease.jpg"
     width: 1100
     height: 619
     isCached: true
@@ -95,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate leaders win over key Democratic holdout as party struggles to push through Biden's Covid relief plan"
+    excerpt: "The Senate is bracing for a series of politically tough amendment votes Friday that could stretch late into the night and into the early hours of Saturday, the last major hurdle senators face before voting on President Joe Biden's sweeping pandemic relief bill.\n    \n"
+    publishedDateTime: 2021-03-06T04:40:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DG0C4vk-u-I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/05/politics/senate-covid-relief-vote-a-rama/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/05/politics/senate-covid-relief-vote-a-rama/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210223152543-joe-manchin-january-27-2021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden: Covid-19 relief deal puts working people first"
     excerpt: "President Joe Biden touted his $1.9 trillion Covid-19 stimulus deal while speaking from the White House Rose Garden, saying it \"changes the paradigm\" for workers in the United States."
     publishedDateTime: 2021-03-12T21:39:00Z
@@ -111,23 +128,7 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Joe Biden just can't quit Delaware -- even as president"
-    excerpt: "(CNN)Bidding farewell to his adopted home state in January, Joe Biden-- then the President-elect -- grew emotional as he boarded his flight to Washington for the inauguration. \"When I die,\" he said, wiping away tears, \"Delaware will be written on my heart ..."
-    publishedDateTime: 2021-03-12T20:44:00Z
-    webUrl: "https://www.cnn.com/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302111433-biden-nov-7-2020-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
-secured: "6nujVSwOGAIjmboS8/SI6JlDOd2Dg7F0DH28DKDdfH4w0EfoFqAeBkYpk+d1L83nHrkeyPSM0zybA/uhd5gOiaXmb7X4rvvY0ZBR8v60hsAfR44Snxb9t87xQP4s9cTlwB6ZmopJN+DgCg6zuz5xpkAXCLxxZdSI/xzaq1yXP3F8aHmxp1ZNdVP7NEMjooxmta0fzVnId9eBB7jXXGDenOBJAh+zC99RB84LqE6UhPXOY8waQabDibgh1BblVQ2AKd3i5kry5LWBKWV4nNg3X7Gs7uCzzm3CmaZpiZbRbqcEWhnCAKeWqkkbvQRYQGTUcLgGc9PA/PiLpPkWkoeU+eNfFDUNQ+SxZo0Z/9fKgvo=;11V46zloKtZN4pEbJK11Jg=="
+secured: "u4kF7GBsr5AB9lmj5T3xhGr0fnCXsDjwwa3lTg+pZGjySjpIHNsz54A0TC6oc8P8Q4ngQ7Ojrqa58S+pfSNZilMoWzsT18VpNNph9aQsu1JvCejog5dEYfgxCkXOb+/7JnwkyiZdHPKsRpGfAy1OKP/wjKh6Ovld/eWauOapDm3WuLdLh9icfNjEQFoSmVQa2VGTgfW61TaDztdpglYQtPZLX1Hwb+CNiD8ajdcCYZrJlpvpOT8O8+pL+ZIkvGxBcnf3COW2Dg2G0gfspIrXgVl20rC79K29tQ6llB7SHOMldQlQ9FJksAJJDXmvQlIB6fwELwR1FtsCyXdcLp0RSetKCZ7b8CTpw5pZ5KdCweM=;adjrVPwbRp4BqMunECJEKQ=="
 ---
 

@@ -111,6 +111,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Joe Biden just can't quit Delaware -- even as president"
+    excerpt: "(CNN)Bidding farewell to his adopted home state in January, Joe Biden-- then the President-elect -- grew emotional as he boarded his flight to Washington for the inauguration. \"When I die,\" he said, wiping away tears, \"Delaware will be written on my heart ..."
+    publishedDateTime: 2021-03-12T20:44:00Z
+    webUrl: "https://www.cnn.com/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-delaware-white-house/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302111433-biden-nov-7-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "x+Tf/zdBZ1yeqCteKL05V5mfoFxQPmv+clVzNRXsCqZVUUP9lmsaour80dtG4LZ209cTkdi/mFCXXc19IDm7PMB5vnsErAQJVLr8mnA/a9aW8zHXCSIjtbi/utYJcIjgB/oucMS/Si8JbIeOv9cPhPm0nBHSemzE7227fyQk0ONv3DYP/g6/hM4Lj7xsKbiyOLpzrvkEPvmXLcj6hT8npz3ZZRpOMw8DePgUh1gKCD9Y2XlyP9pbkiPchWNVkoMYpw3/2DSu6wO9a0GCG0OpNEmIH2NJNvzgyXnr00d5fPQyx6eDTBvrI06enqptd5PrbVc31DMtp+wK7NI1gWE265rD9nFgb7RvS5zWc0hno7E=;mH0dZHUvkbSkubprmFBrhA=="
 ---
