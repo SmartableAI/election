@@ -2718,6 +2718,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kim Jong Un gives President Biden cold shoulder, unlike with Donald Trump"
+    excerpt: "North Korean leader Kim Jong Un has been giving President Biden the cold shoulder — a sharp contrast to his relationship with his predecessor Donald Trump. A Biden administration official,"
+    publishedDateTime: 2021-03-14T08:14:00Z
+    webUrl: "https://nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/"
+    ampWebUrl: "https://nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/North_Korea.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden Administration to Ask Dozens of Trump-Appointed U.S. Attorneys to Resign"
     excerpt: "Exempt from the decision are two top prosecutors overseeing politically sensitive inquiries, including the U.S. attorney leading the Hunter Biden tax probe."
     publishedDateTime: 2021-02-09T04:48:00Z

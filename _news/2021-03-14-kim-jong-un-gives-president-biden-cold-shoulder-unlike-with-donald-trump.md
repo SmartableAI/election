@@ -1,33 +1,30 @@
 ---
 category: news
-title: "Ted Cruz rips Senate Dems for pursuing 'vindictive' Trump impeachment despite Biden call for unity"
-excerpt: "Cruz also took aim at a slate of 17 executive orders and actions taken by Biden immediately after he entered the Oval Office."
-publishedDateTime: 2021-01-21T21:52:16Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ksTsVvAyMKM/ted-cruz-rips-senate-dems-trump-impeachment-biden-call-for-unity"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ksTsVvAyMKM/ted-cruz-rips-senate-dems-trump-impeachment-biden-call-for-unity"
-ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-rips-senate-dems-trump-impeachment-biden-call-for-unity.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-rips-senate-dems-trump-impeachment-biden-call-for-unity.amp"
+title: "Kim Jong Un gives President Biden cold shoulder, unlike with Donald Trump"
+excerpt: "North Korean leader Kim Jong Un has been giving President Biden the cold shoulder — a sharp contrast to his relationship with his predecessor Donald Trump. A Biden administration official,"
+publishedDateTime: 2021-03-14T08:14:00Z
+originalUrl: "https://nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/"
+webUrl: "https://nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/"
+ampWebUrl: "https://nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/amp/"
 type: article
-quality: 176
+quality: 149
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b173d16-0c20-4697-8eac-83c678872f0b/30cd7a30-5edd-4683-9053-993c62795c91/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/North_Korea.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -988,6 +985,22 @@ related:
     quality: 178
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/29ad43be-ef82-4891-814c-c63e8428c1be/341602a7-fa65-4e5f-aed0-8d066037eff0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Ted Cruz rips Senate Dems for pursuing 'vindictive' Trump impeachment despite Biden call for unity"
+    excerpt: "Cruz also took aim at a slate of 17 executive orders and actions taken by Biden immediately after he entered the Oval Office."
+    publishedDateTime: 2021-01-21T21:52:16Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ksTsVvAyMKM/ted-cruz-rips-senate-dems-trump-impeachment-biden-call-for-unity"
+    ampWebUrl: "https://www.foxnews.com/politics/ted-cruz-rips-senate-dems-trump-impeachment-biden-call-for-unity.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ted-cruz-rips-senate-dems-trump-impeachment-biden-call-for-unity.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2b173d16-0c20-4697-8eac-83c678872f0b/30cd7a30-5edd-4683-9053-993c62795c91/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -2701,22 +2714,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Kim Jong Un gives President Biden cold shoulder, unlike with Donald Trump"
-    excerpt: "North Korean leader Kim Jong Un has been giving President Biden the cold shoulder — a sharp contrast to his relationship with his predecessor Donald Trump. A Biden administration official,"
-    publishedDateTime: 2021-03-14T08:14:00Z
-    webUrl: "https://nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/"
-    ampWebUrl: "https://nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 149
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/North_Korea.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Sen. Graham urges Biden to 'stand down' on 'Scarlet Letter' Trump impeachment"
     excerpt: "S.C., argued on Sunday that pursuing the impeachment of President Trump after he leaves office will ruin the start of Joe Biden's presidency and urged the president-elect to “stand down.”"
     publishedDateTime: 2021-01-17T19:56:00Z
@@ -3540,6 +3537,6 @@ related:
       domain: realclearpolitics.com
     quality: 45
 
-secured: "/qdWNsJCaekAsc9j8QwoUIg/rs1Or8+tcaT74NwcrWc+OcQG3y0MP15rgzvbBL7jB1Po7f2eEZLyyKW7sxuN4Y5KVOwiGa9w8IGwFsjrEToorBbq8bG/Ur6zFtUcpxziqsIs3SocFE/AZboodAyRA3crPBSKV1WpV/FEMhMYL7pj3nnuxTsZd8zS/0lWiqGtBeMTLRM26vxvVBPMnUJKyOkzXapSDqKVj/xEG7w8uxuGHJ4JbmTsHAv81mhJa39PDFjsR5ldQ+2itXs8+ia4abI0tPiTtLIZt6Fp5jrn0OQTOKKsTktGH5jZCveZ1rNrsdcNJki3L1w2oGIAZuksGyUULduGZ2v5Rfa/cIr6b+Q=;8a3s9QzTQnyOxn1sESAynA=="
+secured: "puN3k/xcNa7nVjcoxBeSkUCgM4GDoY8K34rqZ/a9/MWlScZWVOr61wU1zEEkx1ay2Ns/lKex4Bgln/aUCEFEoZtlUNxXWBm6SnhV1ZrLHG++/dBc9b23LppdiAaNJVEViR6/olovvdQY5Dx37vO1cqRVfb6eODaIjt6cWD4qWlzRR1+O1cah38F8mzzeVln1hoFm5jqOObyupTHAD2CDnIehEZXHgl1piuA6Rdcfqlcx0ZBI/6BGksCjtsbANwwPXaRFNyF3W5uEFoyz9crYtWjb7w7hdTLC5EGzHFoenf8xyAoN/OTXipJFoms70H2cGbkuP9p1K/IuzdNcXmzccZI1wIFO3uyMXf7VJVQ9WXc=;swF8WkI7vzFq8DmJ5A8yKA=="
 ---
 

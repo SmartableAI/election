@@ -2718,6 +2718,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Kim Jong Un gives President Biden cold shoulder, unlike with Donald Trump"
+    excerpt: "North Korean leader Kim Jong Un has been giving President Biden the cold shoulder — a sharp contrast to his relationship with his predecessor Donald Trump. A Biden administration official,"
+    publishedDateTime: 2021-03-14T08:14:00Z
+    webUrl: "https://nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/"
+    ampWebUrl: "https://nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/North_Korea.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Sen. Graham urges Biden to 'stand down' on 'Scarlet Letter' Trump impeachment"
     excerpt: "S.C., argued on Sunday that pursuing the impeachment of President Trump after he leaves office will ruin the start of Joe Biden's presidency and urged the president-elect to “stand down.”"
     publishedDateTime: 2021-01-17T19:56:00Z

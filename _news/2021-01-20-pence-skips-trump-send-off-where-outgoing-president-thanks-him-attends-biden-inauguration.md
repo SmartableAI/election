@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pence-trump-sendoff-biden-inaugurat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pence-trump-sendoff-biden-inauguration-farewell.amp"
 type: article
 quality: 205
-heat: 4645
+heat: 4665
 published: true
 
 provider:
@@ -2699,6 +2699,22 @@ related:
     quality: 149
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/01/donald-trump-9.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kim Jong Un gives President Biden cold shoulder, unlike with Donald Trump"
+    excerpt: "North Korean leader Kim Jong Un has been giving President Biden the cold shoulder — a sharp contrast to his relationship with his predecessor Donald Trump. A Biden administration official,"
+    publishedDateTime: 2021-03-14T08:14:00Z
+    webUrl: "https://nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/"
+    ampWebUrl: "https://nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/14/kim-jong-un-gives-president-biden-cold-shoulder-unlike-president-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 149
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/North_Korea.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true
