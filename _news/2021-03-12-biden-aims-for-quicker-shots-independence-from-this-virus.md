@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-sho
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-aims-quicker-shots-independence-virus-76408407"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Immigrant crime victims hope for change to visas under Biden"
+    excerpt: "That’s all I work for, apart from paying my rent and eating, that’s all I work for — helping my family.” Her best, and perhaps last, hope for remaining in the U.S. is her application for a U visa, carved out for people without legal status who become victims of serious crimes — or in some cases,"
+    publishedDateTime: 2021-03-14T15:28:00Z
+    webUrl: "https://www.washingtonpost.com/national/immigrant-crime-victims-hope-for-change-to-visas-under-biden/2021/03/14/eb03ed46-84d9-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/immigrant-crime-victims-hope-for-change-to-visas-under-biden/2021/03/14/eb03ed46-84d9-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/immigrant-crime-victims-hope-for-change-to-visas-under-biden/2021/03/14/eb03ed46-84d9-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden: All U.S. adults to be eligible for vaccines by May, some normalcy coming by summer"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden told U.S. states on Thursday to make all adults eligible for a coronavirus vaccine by May 1 and urged Americans to stay vigilant or face more restrictions, hours after he signed a $1.9 trillion stimulus bill into law."
     publishedDateTime: 2021-03-12T08:17:00Z

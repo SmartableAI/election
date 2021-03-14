@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-j
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid"
 type: article
 quality: 125
-heat: 125
+heat: 165
 published: true
 
 provider:
@@ -29,6 +29,40 @@ images:
     width: 600
     height: 360
     isCached: true
+
+related:
+  - title: "Murphy: Immigration surge began under Trump"
+    excerpt: "An ally of President Biden argued Sunday that U.S. policy was not the primary driving factor behind a surge of migrants at the U.S.-Mexico border, instead blaming longstanding conditions in Central America and the desperation of migrants."
+    publishedDateTime: 2021-03-14T15:10:00Z
+    webUrl: "https://thehill.com/homenews/sunday-talk-shows/543116-murphy-immigration-surge-began-under-trump"
+    ampWebUrl: "https://thehill.com/homenews/sunday-talk-shows/543116-murphy-immigration-surge-began-under-trump?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/sunday-talk-shows/543116-murphy-immigration-surge-began-under-trump?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/murphychris_012721gn_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "GOP Polling Firm Finds Just 15 Percent of Republican Hold Anti-Trump Views"
+    excerpt: "Although a vocal faction of Republican lawmakers hope to end former President Donald Trump's hold over the GOP, new polling shows that they represent just a slim minority of their party's voters. Meanwhile, the survey divided respondents into four ..."
+    publishedDateTime: 2021-03-14T15:20:00Z
+    webUrl: "https://www.newsweek.com/gop-polling-firm-finds-just-15-percent-republican-hold-anti-trump-views-1576007"
+    ampWebUrl: "https://www.newsweek.com/gop-polling-firm-finds-just-15-percent-republican-hold-anti-trump-views-1576007?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-polling-firm-finds-just-15-percent-republican-hold-anti-trump-views-1576007?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1755650/donald-trump.jpg"
+        width: 1024
+        height: 705
+        isCached: true
 
 secured: "6QTlZabPqfiaYT+LqBuJExJJil6kRYu+qMoS31jYXpQM4npzndd61O5b0AX/c62sisRFuU7tUGAgKKGWFGlHlMj4WcSkGdU6Zmg9yRJSoS7UAh0mjJ8vBb5wcpi9oLZJEqI1a9DcOUwpxq7ZhCAPLRXIwYyztW3zlLFKjo8EcHc+umYW6GI34qb9vthrFayzXrrB+x5wb6+doX4M54vjDQlokmDo9lCu7zA2gvASdM+46wWL9EShrqxtQ4KaBFz43ixwX35A0EyKsBrFq3h+kRUSkvcNG5ovf59nDfQ3yqw1irY9aZEYGeDIF6gLUojjVVB8lKPS7k5CJJeNdmo1KyK0F1PgftYuijwrSs2hVdg=;bqOkbZvye8kqDKl+YQw93g=="
 ---

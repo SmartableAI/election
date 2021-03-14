@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Immigrant crime victims hope for change to visas under Biden"
+    excerpt: "That’s all I work for, apart from paying my rent and eating, that’s all I work for — helping my family.” Her best, and perhaps last, hope for remaining in the U.S. is her application for a U visa, carved out for people without legal status who become victims of serious crimes — or in some cases,"
+    publishedDateTime: 2021-03-14T15:28:00Z
+    webUrl: "https://www.washingtonpost.com/national/immigrant-crime-victims-hope-for-change-to-visas-under-biden/2021/03/14/eb03ed46-84d9-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/immigrant-crime-victims-hope-for-change-to-visas-under-biden/2021/03/14/eb03ed46-84d9-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/immigrant-crime-victims-hope-for-change-to-visas-under-biden/2021/03/14/eb03ed46-84d9-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
 
 secured: "prGooGeMs5DvE9x+QNVZN7ozGYe/mi+ZMyP5HZUF11lV2ydPWA8W0moGnbRRgVSJjly9MIsb10dd9VRIkjrnZ70vl5ZuI9bN+AFo0PASpooWZfwb0Hc5WRWflOsgrMPZPkzsOKz7E4NS2iLNPdY4hYWrw845fTION4eNYqeLp1oYdK1JrFvCZvYUK1xTG4ugxsiPX1S4yovXFfY4ugBESDqdhkLuNU1LZQrDFAXQX1PBg/L9ts7r38PPQj2gu2ejGRTOy29uOBfJZCbxsSKp01E25heL2pzsJ9yKKLOzL1qqYrpluqtZGc+w5eagNGFP1dErGbNc8cVbITy2DSiCXcmEcRYdgQOeAmZxpEsPbRM=;gUjQNf7mJQzfiWd1Vf42cQ=="
 ---
