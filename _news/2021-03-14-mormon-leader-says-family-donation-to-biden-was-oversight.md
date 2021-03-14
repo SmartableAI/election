@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Manhattan prosecutor who is investigating Trump will not seek re-election"
-excerpt: "(Reuters) - Manhattan District Attorney Cyrus Vance Jr said on Friday he will not seek re-election in November, making it likely that his criminal investigation into former U.S. President Donald Trump will be left for his successor. The decision by Vance ..."
-publishedDateTime: 2021-03-12T15:46:00Z
-originalUrl: "https://www.reuters.com/article/new-york-vance-idINKBN2B424O"
-webUrl: "https://www.reuters.com/article/new-york-vance-idINKBN2B424O"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B424O"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B424O"
+title: "Mormon leader says family donation to Biden was 'oversight'"
+excerpt: "Mormon leader says family donation to Biden was 'oversight' A top leader with The Church of Jesus Christ of Latter-day Saints says political donations made in his name to several Democratic ..."
+publishedDateTime: 2021-03-14T00:55:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
+webUrl: "https://abcnews.go.com/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
 type: article
-quality: 139
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554700481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B188"
-    width: 817
-    height: 545
+  - url: "https://s.abcnews.com/images/Politics/WireAP_dde3e9a9863549f4a776ea52e709f16f_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -174,6 +174,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/2c7fcf5a2f1313f8aa336c4fa2504fdf6743d221/0_126_4831_2899/master/4831.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ee28447913645e84fd822afb3fef60c2"
         width: 600
         height: 360
+        isCached: true
+  - title: "Manhattan prosecutor who is investigating Trump will not seek re-election"
+    excerpt: "(Reuters) - Manhattan District Attorney Cyrus Vance Jr said on Friday he will not seek re-election in November, making it likely that his criminal investigation into former U.S. President Donald Trump will be left for his successor. The decision by Vance ..."
+    publishedDateTime: 2021-03-12T15:46:00Z
+    webUrl: "https://www.reuters.com/article/new-york-vance-idINKBN2B424O"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B424O"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B424O"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 139
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554700481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B188"
+        width: 817
+        height: 545
         isCached: true
   - title: "Biden won’t be putting his signature on COVID-19 relief checks, unlike Trump"
     excerpt: "President Biden will not be attaching his signature to the $1,400 relief checks that are expected to be mailed soon — a break with his predecessor, who last year had “President Donald J. Trump” printed on the economic impact payments approved by ..."
@@ -543,22 +559,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Mormon leader says family donation to Biden was 'oversight'"
-    excerpt: "Mormon leader says family donation to Biden was 'oversight' A top leader with The Church of Jesus Christ of Latter-day Saints says political donations made in his name to several Democratic ..."
-    publishedDateTime: 2021-03-14T00:55:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_dde3e9a9863549f4a776ea52e709f16f_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
     publishedDateTime: 2021-03-10T20:24:00Z
@@ -880,6 +880,6 @@ related:
       domain: usnews.com
     quality: 48
 
-secured: "y2DZKlf0CoBVDDBAutOg0c0ZOnEdJzMv1HXblGmT7h9kRIO6cM+CSeHBElxJRmbCYqlusx7hVXePKXJMr8didkJxfXbCtAMkbl8LhUsazCHbmXkcsW80lbZR5f5Km7mIM/MeoNrACQ+gy3ra3pyVrkgUBy3TKjVtAd2cih1+7h7UqZDxF2hWImMr8+UrQQV80199msUxNRbsLJSExJKsD2IXbY+Ur8+DtVh9c7j6x6M68bgbyomVmb1Wi+l37wn/g1mh/c2bNxPoHP7lDDzbkFUqJoXwDeket9mySnRhFCpdp0ZHkXLMWhn8GzyB0ZzJSNzIGd96pSpBz4V/AYf+M349zK7wmUY7VLUVkYN90a8cju6v/bVDcybgzRp1Vrd0fB0U2QE1MnCBFMT5Cfu/iCAycmws166Tprwma5DZ5c6G1l1UBeZleXG/gERhpjgLzQtVsOYMDJD3fn+MO7ygcLPdSdDGR6P4IES0tWJ3PklIojyXzdvW2ke3Tofu10klktEYNHFGbcPR7vRZCCk2Yg==;ubh3nYvq53Trz6ArcKhsVw=="
+secured: "aWc8Z/uhBdTBUAe6aCApgfK1nJPQjYRRDfSJ7TiAZVEgN1hQFgijzFqGg5gs3MqOG2stoGs1bjSOguekwLJS02EEkv0fg3wL3j15hyiC6qmXeTMmjwKKtTfWRoI+PpFyuzu9Ygri7US5wPZAmcjyNRSfxiYi2HpYrnlxg3ajaSCaADtxHPiM7DsjsqgtvcpDzP52IsyQlI4GGpwXcxWQVUux+BEx1BEz6bJ7RMSAjFn6juE5PP6ulzXxv1iolWHK7C0YcdtoztHmdMsKm96Bcgy4lNgq1L1N9q53KvOCOwD4nIJlU+bzI6BKOBGM6eI7soWR7xslh3/2SeJ44xr8nAnSFbRFFQEhuLsmF9qP/ss=;Jfq0ySzCxc0Lpl61OdUuZA=="
 ---
 

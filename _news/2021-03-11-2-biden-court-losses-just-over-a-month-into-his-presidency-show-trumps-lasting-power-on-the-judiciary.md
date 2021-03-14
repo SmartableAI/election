@@ -559,6 +559,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Mormon leader says family donation to Biden was 'oversight'"
+    excerpt: "Mormon leader says family donation to Biden was 'oversight' A top leader with The Church of Jesus Christ of Latter-day Saints says political donations made in his name to several Democratic ..."
+    publishedDateTime: 2021-03-14T00:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dde3e9a9863549f4a776ea52e709f16f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Trump pressured another Georgia elections official, Frances Watson, to uncover nonexistent voter fraud"
     excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump urged a Georgia elections official to uncover nonexistent evidence of mass fraud before the \"very important date\" of ..."
     publishedDateTime: 2021-03-11T01:27:00Z

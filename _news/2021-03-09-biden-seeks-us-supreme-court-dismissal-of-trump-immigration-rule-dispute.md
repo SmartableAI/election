@@ -551,6 +551,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Mormon leader says family donation to Biden was 'oversight'"
+    excerpt: "Mormon leader says family donation to Biden was 'oversight' A top leader with The Church of Jesus Christ of Latter-day Saints says political donations made in his name to several Democratic ..."
+    publishedDateTime: 2021-03-14T00:55:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/clarification-us-mormon-leader-biden-donation-story-76442776"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_dde3e9a9863549f4a776ea52e709f16f_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
     publishedDateTime: 2021-03-10T20:24:00Z
