@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-01-ap-fact-check-trump-clings-to-his-core-election-falsehoods.md",
+      "title": "AP FACT CHECK: Trump clings to his core election falsehoods",
+      "excerpt": "An AP Fact Check that takes a look at Donald Trump's first post-presidential speech is finding a lot of familiar falsehoods",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364",
+      "originalUrl": "https://abcnews.go.com/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 640,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Politics/WireAP_d6a861210180462dafa02ba81ab1c0ba_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/ap-fact-check-trump-clings-core-election-falsehoods-76171364",
+      "publishedDateTime": "2021-02-28T19:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-01-trump-gives-first-public-speech-since-leaving-office-and-declares-journey-is-not-over.md",
       "title": "Trump gives first public speech since leaving office and declares \"journey\" is not over",
       "excerpt": "Former President Trump on Sunday gave his first public speech since he left office and was acquitted in his second Senate impeachment trial. CBS News political reporter Adam Brewster, CBSN political contributor and Democratic strategist Antjuan Seawright and Maggie's List spokeswoman Lauren Zelt join CBSN's Lana Zak to discuss the former president's speech.",
@@ -1528,59 +1580,6 @@
       ],
       "topics": [
         "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-22-biden-to-mark-covid-death-milestone-with-candle-ceremony-at-white-house-live-updates.md",
-      "title": "Biden to mark Covid death milestone with candle ceremony at White House – live updates",
-      "excerpt": "President will address nation this evening on the American lives lost to the pandemic",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates?page=with:block-603385838f088c613adceff6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1747,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/ecd26e64a62e2a874f9252d229d29e4dff42152c/0_0_3000_1800/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a3043c626a971a82677c75ca62086185",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/22/joe-biden-coronavirus-covid-white-house-texas-donald-trump-live-updates",
-      "publishedDateTime": "2021-02-22T01:40:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
         "Donald Trump"
       ]
     }

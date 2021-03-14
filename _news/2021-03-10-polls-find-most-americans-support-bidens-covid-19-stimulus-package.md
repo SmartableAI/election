@@ -48,9 +48,9 @@ related:
         height: 551
         isCached: true
   - title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
-    excerpt: "Senator Joe Manchin announced in a statement that he will vote to confirm Xavier Becerra, Biden’s nominee to lead the Department of Health and Human Services. The Senate Finance Committee was deadlocked along party lines over advancing his candidacy to ..."
-    publishedDateTime: 2021-03-11T19:46:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a6aba8f081f2101760a4a"
+    excerpt: "President signs bill and says ‘this historic legislation is about rebuilding the backbone of this country’ – follow all the latest"
+    publishedDateTime: 2021-03-11T19:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a712c8f08089f0d4af8e3"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
     type: article

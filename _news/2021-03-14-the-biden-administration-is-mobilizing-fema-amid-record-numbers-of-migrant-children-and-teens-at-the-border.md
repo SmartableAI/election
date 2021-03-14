@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Biden order could change how colleges handle sex misconduct"
-excerpt: "Administration officials say President Joe Biden is rethinking Trump administration policies that weakened how colleges and universities that get federal dollars handle sexual assault accusations on c"
-publishedDateTime: 2021-03-08T14:28:00Z
-originalUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html"
-webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
+title: "The Biden administration is mobilizing FEMA amid record numbers of migrant children and teens at the border"
+excerpt: "One recent New York Times report revealed that under the Biden administration, border officials had detained more than 1,360 migrant children longer than the mandatory 72-hour limit permitted by US law. President Joe Biden has vowed to set a new tone with ..."
+publishedDateTime: 2021-03-14T02:53:00Z
+originalUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3"
+webUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3"
+ampWebUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
 type: article
-quality: 125
+quality: 107
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://i.insider.com/604d771610c8760018b931ac?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210306&t=2&i=1553982286&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH250C2"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden order could change how colleges handle sex misconduct"
+    excerpt: "Administration officials say President Joe Biden is rethinking Trump administration policies that weakened how colleges and universities that get federal dollars handle sexual assault accusations on c"
+    publishedDateTime: 2021-03-08T14:28:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/biden-order-could-change-how-colleges-handle-sex-misconduct/2021/03/08/87922976-801a-11eb-be22-32d331d87530_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Biden order could change how colleges handle sex misconduct"
     excerpt: "President Joe Biden has ordered his administration to review federal rules guiding colleges in their handling of campus sexual assaults"
@@ -95,23 +111,7 @@ related:
         width: 600
         height: 360
         isCached: true
-  - title: "The Biden administration is mobilizing FEMA amid record numbers of migrant children and teens at the border"
-    excerpt: "One recent New York Times report revealed that under the Biden administration, border officials had detained more than 1,360 migrant children longer than the mandatory 72-hour limit permitted by US law. President Joe Biden has vowed to set a new tone with ..."
-    publishedDateTime: 2021-03-14T02:53:00Z
-    webUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 107
-    images:
-      - url: "https://i.insider.com/604d771610c8760018b931ac?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
-secured: "9lctuJAqq6hKOhgy8Ug7jQADw0RFAypgFTgwUz10MRJ2ocJox/O8nu5GwygUIDqST9YzS136lpXV/7fAIdSDuUnGvizWQ+ne6lPhX9WO+JXLXPkj49446PZnLdd3WuJBinZoOc2c2xlDFoc4wJhRseO6GA3Lqdb7z/qxvAXrt9j4U6JavsZwe74gbHHoussyM/6uyjXdPQqu1dYjDefqutZMS1HIM3HuJEbHtRnFfE8QfD/hdepQb1VkOWQ1PczcfioWI8zHXMrNHMuGAB7jBx0FRoUFDvFQ9Jr+Gl+nJGzHQ7i7Q1kOjJzTKq8IujBHj02pINFZj0LlIuEbx2jN0o/r/K8FfHBOseaAe1Gpu1s=;01olijkbf9Txh2ppmUmOEA=="
+secured: "lCQi1LIjbyEwuqHRrAnY76sxVFUX+Plx9E6rTJ37LVx0nIrgDaw0UqQ+Ht2dxmAdwgQR6qGvUBin8tVMyEiMxyAzyG9Tl8xmCzQG720GpDpjBxMHXdATJGYXcDrOeYGsusdALANtQZ3rU+9FdKYY7sLhutTt/ZpN8e5eUcmJmzUPTneY6IyR2M5US/AqxZYONR0KViors3xaqBGP1R2ts1I9Uph5WvqiWfzoVBr+U27BjqypDRN+SQrWQPUdlAOBoC7HqkeCWmU/VuZM/J9ANYgZcXgC1qcicBQfJQtx24ABzJB1SCxf9SDzQXaqxIJGEJhhAK5boPcTSif6KNXbGJUoC5kpBz5ssVdvmtiMsQA=;dx6rxBkx1InAORWVZiMtbw=="
 ---
 

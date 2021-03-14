@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-14-chaos-under-heaven-review-trump-as-raging-bull-in-a-china-policy-shop.md",
+      "title": "Chaos Under Heaven review: Trump as raging bull in a China policy shop",
+      "excerpt": "Before Covid upended everything, the US president upended relations with Beijing – without interest or ability to build anew",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/168f33036b5291f725aa69009a9fb865b046f7dd/0_19_3038_1823/master/3038.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=324f482f84ea1622e8e74215d12a035a",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
+      "publishedDateTime": "2021-03-13T21:02:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-alabama-republican-party-to-gift-trump-with-resolution-acknowledging-him-as-one-of-the-greatest-presidents.md",
       "title": "Alabama Republican Party to gift Trump with resolution acknowledging him as one of the 'greatest' presidents",
       "excerpt": "The Alabama Republican Party will honor former President Trump Donald Trump Pentagon takes heat for extending Guard's time at Capitol Fundraising spat points to Trump-GOP fissures Trump rally ...",
@@ -1506,63 +1558,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-08-making-the-most-of-135b-laufs-pro-trump-hire-for-il-16-still-no-fans-for-baseball.md",
-      "title": "MAKING THE MOST OF $13.5B — LAUF's PRO-TRUMP HIRE FOR IL-16 — STILL NO FANS FOR BASEBALL",
-      "excerpt": "The state Senate is returning to Springfield for session on Tuesday. — Biden rides a ‘Keep It Simple, Stupid’ strategy to early success: “Biden kept Democrats from splintering and barreled ahead without Republican support.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/newsletters/illinois-playbook/2021/03/08/making-the-most-of-135b-laufs-pro-trump-hire-for-il-16-still-no-fans-for-baseball-492030",
-      "originalUrl": "https://www.politico.com/newsletters/illinois-playbook/2021/03/08/making-the-most-of-135b-laufs-pro-trump-hire-for-il-16-still-no-fans-for-baseball-492030",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
-          "width": 1120,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T05:24:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

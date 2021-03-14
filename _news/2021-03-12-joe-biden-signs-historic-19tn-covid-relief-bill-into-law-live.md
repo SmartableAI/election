@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
-excerpt: "Senator Joe Manchin announced in a statement that he will vote to confirm Xavier Becerra, Biden’s nominee to lead the Department of Health and Human Services. The Senate Finance Committee was deadlocked along party lines over advancing his candidacy to ..."
-publishedDateTime: 2021-03-11T19:46:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a6aba8f081f2101760a4a"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a6aba8f081f2101760a4a"
+excerpt: "President signs bill and says ‘this historic legislation is about rebuilding the backbone of this country’ – follow all the latest"
+publishedDateTime: 2021-03-11T19:48:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a712c8f08089f0d4af8e3"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a712c8f08089f0d4af8e3"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
 type: article
@@ -472,6 +472,6 @@ related:
         height: 675
         isCached: true
 
-secured: "/FgjwFcV7joSCfePOOduHhMkukEOUnUGeVlz1P4NpSR++EB0YbQa7UqBQs4yXE/ZcWl4DfJk3zJcfCSc/6dRIn45GY/xsMGyEzcNUvIWUNlKX4qUe5BW8SW9f0OZ+rEpqTPQTHXO9z5sMhW577z9XcYqNOQcX2ScRb/kpwLq0Tqa6PfSJWgaI1l9c/NY5UkQk8cNbA1O2ZhK8KuYQAS38Ru4rf7e0U96L0u3tOAQRe8CIw5SBe8ZG8D0n5wE1pgSi0BRO13VIDuhw52qPI8x9yF6FksADWfz3MoyiogeBVq1Ifa8PfIQbsrXM/s9WMxKc3L7i9ehPlVQj0hYulWBXkmQ0jkkfmQsghgPQQo7dgxgak0f+zd4dWkce5rU/hsuuOEeVfcNIgTG4S4OgIMxrTvg7zVdqdkQXXyEdNVPyF2v9sSHJSPXuO9+RAU/eXos+d/pK04dDC/Ny38x0GFQP4uRfK1W0fpUTBouaDApO0Lu1Lwd1Ms1RmN7HR2TNpXWbu9BlYBu/UD3IyXX06fFoA==;OpmY1dRpSCHfS9T7j/Z92Q=="
+secured: "eH+K74EBgDVQAHguXEPohYFfPyxnvbYYagieRfz5Bum7+d3v/ie2XNVYc+u1AeanlFIiAFiFOBYVkaQL3L8vVHq+Faik94OjeAtjrJ+gbM2IPmjQnMvNndtry2BHPRJgGj+8WE7wK3EmYsgZ7/UxID6MokOqmtGtaIOPhDwUdfNYQhnk+/qRZ78qX7cUY+WSEJ2VmmoAvi2KxJDBog/At1YHWJQD+WW8RNfW5QDylsbIkaZfovvwKQsSTSTXpne3Tmsb19SQJ2gxRBuz46NgBBft1PFUcWkXS7U//WdX1t+9Rhu47RFBP678tZpk2aXDQJlNWqJG0EIsPUFvQ/W2F3wLOeqcTJcj9GgfsNOOLi4=;Zhd3iKsh0++XJZFASvNW3w=="
 ---
 

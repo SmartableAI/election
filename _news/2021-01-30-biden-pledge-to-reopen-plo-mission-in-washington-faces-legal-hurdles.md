@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN29Y1FB"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29Y1FB"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden, Japan PM Suga likely to meet in Washington on April 9: media"
+    excerpt: "Japanese Prime Minister Yoshihide Suga is likely to meet U.S. President Joe Biden on April 9, the first foreign leader to meet the president in the White House, Japan's Yomiuri newspaper reported on Sunday."
+    publishedDateTime: 2021-03-14T01:47:00Z
+    webUrl: "https://www.reuters.com/article/uk-usa-japan-idUKKBN2B601K"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2B601K"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2B601K"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210314&t=2&i=1554810958&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2D00W"
+        width: 817
+        height: 545
+        isCached: true
   - title: "In first lawsuit against Biden administration, Texas AG Paxton challenges deportation freeze"
     excerpt: "Texas Attorney General Ken Paxton asked a federal judge to block a new Biden administration policy that pauses most deportations for the next 100 days."
     publishedDateTime: 2021-01-22T22:48:00Z
