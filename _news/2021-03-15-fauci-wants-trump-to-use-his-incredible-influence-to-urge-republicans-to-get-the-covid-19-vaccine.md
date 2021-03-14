@@ -107,6 +107,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Fauci: it's 'disturbing' that Trump voters say they won't get vaccinated for COVID-19"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
+    publishedDateTime: 2021-03-14T15:03:00Z
+    webUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/604e1ef510c8760018b931d5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Cuomo chastised states, Trump for obscuring COVID information. Now he's accused of the same"
     excerpt: "Before Cuomo and aides were accused of downplaying nursing home deaths for political gain, he warned others about the risk of 'politics of denial'"
     publishedDateTime: 2021-03-08T14:25:00Z
@@ -139,7 +155,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
+    excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
+    publishedDateTime: 2021-03-14T19:08:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2021/mar/15/morning-mail-women-march4justice-covid-free-streak-ends-silent-echo-of-trump-hotel"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/f4f20a7661ff59a053aa5dd825fc1f75f80afc29/0_302_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3079d7acb36c2746d9ccdbdc47a46f79"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "Pg4XEwirUVuyIfhsj+R3ImElfAWGk5rdQLDvb7CSk9jFNk2GqbruEXKs+2LbAivF2TvUcDR4StGTg2JS4NXwQO963cVO6i3YfU48HXGY0FAoHc85+ofAfpi/JmaALnPMPHmjmSiAzO7gkY/NWtyTY6U6i+R/Ln6uftAOytv+Iew+9r12lR8NUn6EwyNvFHP31Z34+38Ke7xFAF2xapotc2EV3MTWPvKGw0mDEmGnTWZPR6BiRcLn+ilCwD6Niwc8hlRPWPqs1F/2ZWfvMKlp8lfyBAhJ7IT5Whf6v0hoZ5/0cAD0Yl0iuczRcXS6QcR/IKgoeDXcobmexSKKsAF3G0y+/4zEVpysmHl8ys+ys/0=;bWR4MAivjPGmj0Yk7rmdwg=="
+secured: "AtzHW9/nXDmfjT6K79Qya19rEGLfbTdC5+2VdKlDGaTgJVWDkHWLXP6t08OaGA+ZlXpIhl+WmHlWU5Xa/pVTsd25jUuU737D8iy8gdeqyFMoF1pIcWMcm2gkzHmhi0qlIe27O23Nar8aFjK/epSbwsduvnQVZKnQZxcGyh03BipoI/EuJArRkIl/80ChvaXzIZiVdtNHMoMIlSKaL9de1wdZwSXM26Qm+JwcvYA5jNRSu9JKmUBDn+UPI1rdnmZZjuxw5qcUOYY77CZoSJ2mszZntnOLjs0XBzwcds8KzzkY804rr8WOneh+i5iQzDPdJSkxRBZ0arIfDe2G6X96i1OAHV3u6msqHHdD2/wt2dqIF/Cc2bJ8BVqiq1S6ACnARHUWniPwog5FGO72hkdr2JNLVoiOaQHPjUZEJtLuYGoWT8BwRpReLf21eiwm+QeeD4OQmnDm/gZHPawwdI5aafKVBZD28k378qeTi+TAr2ZixFc2R4QfnbXid1pjtyJT03ULjNdkbfti3wDAxbZbQA==;h3ZLOjm7rILnYPYgikNf5A=="
 ---
 

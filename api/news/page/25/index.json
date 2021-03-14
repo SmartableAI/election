@@ -2,6 +2,62 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-02-02-senate-approves-pete-buttigieg-as-bidens-transportation-secretary.md",
+      "title": "Senate approves Pete Buttigieg as Biden's transportation secretary",
+      "excerpt": "Pete Buttigieg, known throughout his 2020 presidential bid as \"Mayor Pete,\" got a big promotion Tuesday to become President Biden's next transportation secretary. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7OsBlX8zki0/senate-approves-pete-buttigieg-as-bidens-transportation-secretary",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/7OsBlX8zki0/senate-approves-pete-buttigieg-as-bidens-transportation-secretary",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 295,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21009751368144.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/senate-approves-pete-buttigieg-as-bidens-transportation-secretary.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/senate-approves-pete-buttigieg-as-bidens-transportation-secretary.amp",
+      "publishedDateTime": "2021-02-02T10:17:10-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-lindsey-graham-defends-liz-cheney-amid-attacks-from-trump-allies.md",
       "title": "Lindsey Graham defends Liz Cheney amid attacks from Trump allies",
       "excerpt": "Sen. Lindsey Graham, a South Carolina Republican, became the latest high-profile GOP elected official to defend Rep. Liz Cheney of Wyoming amid attacks from Donald Trump loyalists critical of her vote to impeach the former president last month.\n    \n",
@@ -1315,58 +1371,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-01-melania-trump-may-be-advised-to-move-fast-and-divorce-husband-donald-for-this-reason-report.md",
-      "title": "Melania Trump May Be Advised To 'Move Fast' And Divorce Husband Donald For This Reason: Report",
-      "excerpt": "A brand and reputation management expert suggested that Melania Trump will be told by her advisers to divorce her husband, Donald Trump, soon while he still has millions to pay out.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/melania-trump-may-be-advised-move-fast-divorce-husband-donald-reason-report-3134439",
-      "originalUrl": "https://www.ibtimes.com/melania-trump-may-be-advised-move-fast-divorce-husband-donald-reason-report-3134439",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2020/12/24/donald-trump-and-his-wife-melania-left-washington.jpg",
-          "width": 1024,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/melania-trump-may-be-advised-move-fast-divorce-husband-donald-reason-report-3134439?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/melania-trump-may-be-advised-move-fast-divorce-husband-donald-reason-report-3134439?amp=1",
-      "publishedDateTime": "2021-01-31T18:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

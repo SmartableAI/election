@@ -95,6 +95,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Fauci: it's 'disturbing' that Trump voters say they won't get vaccinated for COVID-19"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
+    publishedDateTime: 2021-03-14T15:03:00Z
+    webUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/604e1ef510c8760018b931d5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Cuomo chastised states, Trump for obscuring COVID information. Now he's accused of the same"
     excerpt: "Before Cuomo and aides were accused of downplaying nursing home deaths for political gain, he warned others about the risk of 'politics of denial'"
     publishedDateTime: 2021-03-08T14:25:00Z
@@ -126,6 +142,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
+    excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
+    publishedDateTime: 2021-03-14T19:08:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2021/mar/15/morning-mail-women-march4justice-covid-free-streak-ends-silent-echo-of-trump-hotel"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 98
+    images:
+      - url: "https://i.guim.co.uk/img/media/f4f20a7661ff59a053aa5dd825fc1f75f80afc29/0_302_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3079d7acb36c2746d9ccdbdc47a46f79"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."

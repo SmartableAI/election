@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Fauci hopes Trump will urge his supporters to get Covid vaccine"
-excerpt: "Polls shows about half of US men who identified themselves as Republicans said they had no plans to get the vaccine"
-publishedDateTime: 2021-03-14T14:48:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
-webUrl: "https://www.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
+title: "Fauci: it's 'disturbing' that Trump voters say they won't get vaccinated for COVID-19"
+excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
+publishedDateTime: 2021-03-14T15:03:00Z
+originalUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3"
+webUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3"
+ampWebUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3?amp"
 type: article
-quality: 125
+quality: 118
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/007b58038ebc73a7f815a742e5d8226fa91a5c3d/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a20a8dd0c5e186bd3839618bb4c4d819"
-    width: 600
-    height: 360
+  - url: "https://i.insider.com/604e1ef510c8760018b931d5?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -46,6 +46,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210314&t=2&i=1554843892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2D0A6"
         width: 817
         height: 545
+        isCached: true
+  - title: "Fauci hopes Trump will urge his supporters to get Covid vaccine"
+    excerpt: "Polls shows about half of US men who identified themselves as Republicans said they had no plans to get the vaccine"
+    publishedDateTime: 2021-03-14T14:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/007b58038ebc73a7f815a742e5d8226fa91a5c3d/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a20a8dd0c5e186bd3839618bb4c4d819"
+        width: 600
+        height: 360
         isCached: true
   - title: "Fauci: Trump should urge his followers to get vaccinated"
     excerpt: "Dr. Anthony Fauci says he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine Here’s every public figure who has ..."
@@ -94,22 +110,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1751781/donald-trump-suv.jpg"
         width: 2500
         height: 1667
-        isCached: true
-  - title: "Fauci: it's 'disturbing' that Trump voters say they won't get vaccinated for COVID-19"
-    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
-    publishedDateTime: 2021-03-14T15:03:00Z
-    webUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 118
-    images:
-      - url: "https://i.insider.com/604e1ef510c8760018b931d5?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Cuomo chastised states, Trump for obscuring COVID information. Now he's accused of the same"
     excerpt: "Before Cuomo and aides were accused of downplaying nursing home deaths for political gain, he warned others about the risk of 'politics of denial'"
@@ -174,6 +174,6 @@ related:
         height: 675
         isCached: true
 
-secured: "YVRJHCDyjdsmb6MZ/95+FktUylSq4Ha53OXDHQHuSj4J5xGVVwzRoaMTozt4F/VGsHsI00nXwKQkH7CrXyLX6zg3W5tS6yY0jEug7UHwy2zMdQN39pwU+7v3Jv1Zy1f1hKKnI6plmcBXXPwGuFCM1dWGSkyRgbn/puBrioJB9f7gILgLYHUEjgTZFPYH6ysOI78HHqt/4mu9QY74FTo8mCFIb4/eIgV61hw3u5gpbm4DR2xxZg8kdGMh8pO9kGrFwznSE+tWwtG2VcongOQTN7cjocD7oxUyXiWj85DYDVH8UWp7IxlnIobhoEoiCWabsl3C7C3Imls+PIop7TiErcY/vzEzrxbJrDAngpRe36bssLblv5eczla8OPpzau6/2hQcW9ZdSOsoD0QPSKluaqqNS+RCkPEEPofHqYVLb7MB1+mQftkh7EP/L9HJX0rEhZUQ8MzACBL98nF1d4I/baQSoE3CXd0h9bChe5j77OA5CViRUfROdG5WOtHbBHspCMGH8HCAARkf6twWlfjhFw==;AHSZdctNx+qR9NMPMgoEow=="
+secured: "IYU+ufGE2cEln/P6/mHqaqUIo3R0DgvBDfe7bpFv3hmlwbTPJJAJjG5a5SlcDzLRmwATP5SVTkvKBdZ8WZnCohK6r6ZLpwsph1IvqHRMbD6CGsDpbdlVVREMR9t9qu/q0FYDHlAJWqS8x2uwQUiii6K1CGFa/JVjqiMf+p2b5HWKyJrQKkRlgb+KMeRJdmzHnVbeoZC0XyfZ908/uDHlBumcZyLotxNaENN/zoRoSvLfUNY3f5PX9V/U5WBbMbpPKvKI+Gb5wSd6X0mK5etjzVJ/gNNUAx7W4wTZ6g5xSBNhXR+xxaUn3n+LEu6+NvsX7qMM5wdDvBqHeea2P8W/p8zZ0dyxmGdYZT/10kFGiEU=;CY5VRme+kh1GaxuOcB4xlw=="
 ---
 

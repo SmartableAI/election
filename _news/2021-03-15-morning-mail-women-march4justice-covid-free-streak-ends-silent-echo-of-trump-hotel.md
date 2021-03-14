@@ -1,14 +1,12 @@
 ---
 category: news
-title: "Fauci hopes Trump will urge his supporters to get Covid vaccine"
-excerpt: "Polls shows about half of US men who identified themselves as Republicans said they had no plans to get the vaccine"
-publishedDateTime: 2021-03-14T14:48:00Z
-originalUrl: "https://www.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
-webUrl: "https://www.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
-ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
+title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
+excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
+publishedDateTime: 2021-03-14T19:08:00Z
+originalUrl: "https://www.theguardian.com/australia-news/2021/mar/15/morning-mail-women-march4justice-covid-free-streak-ends-silent-echo-of-trump-hotel"
+webUrl: "https://www.theguardian.com/australia-news/2021/mar/15/morning-mail-women-march4justice-covid-free-streak-ends-silent-echo-of-trump-hotel"
 type: article
-quality: 125
+quality: 98
 heat: -1
 published: false
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://i.guim.co.uk/img/media/007b58038ebc73a7f815a742e5d8226fa91a5c3d/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a20a8dd0c5e186bd3839618bb4c4d819"
-    width: 600
-    height: 360
+  - url: "https://i.guim.co.uk/img/media/f4f20a7661ff59a053aa5dd825fc1f75f80afc29/0_302_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3079d7acb36c2746d9ccdbdc47a46f79"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -46,6 +44,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210314&t=2&i=1554843892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2D0A6"
         width: 817
         height: 545
+        isCached: true
+  - title: "Fauci hopes Trump will urge his supporters to get Covid vaccine"
+    excerpt: "Polls shows about half of US men who identified themselves as Republicans said they had no plans to get the vaccine"
+    publishedDateTime: 2021-03-14T14:48:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/fauci-trump-supporters-covid-vaccine"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 125
+    images:
+      - url: "https://i.guim.co.uk/img/media/007b58038ebc73a7f815a742e5d8226fa91a5c3d/0_0_3500_2101/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a20a8dd0c5e186bd3839618bb4c4d819"
+        width: 600
+        height: 360
         isCached: true
   - title: "Fauci: Trump should urge his followers to get vaccinated"
     excerpt: "Dr. Anthony Fauci says he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine Here’s every public figure who has ..."
@@ -143,20 +157,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
-    excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
-    publishedDateTime: 2021-03-14T19:08:00Z
-    webUrl: "https://www.theguardian.com/australia-news/2021/mar/15/morning-mail-women-march4justice-covid-free-streak-ends-silent-echo-of-trump-hotel"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 98
-    images:
-      - url: "https://i.guim.co.uk/img/media/f4f20a7661ff59a053aa5dd825fc1f75f80afc29/0_302_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3079d7acb36c2746d9ccdbdc47a46f79"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
     publishedDateTime: 2021-03-14T18:42:00Z
@@ -174,6 +174,6 @@ related:
         height: 675
         isCached: true
 
-secured: "YVRJHCDyjdsmb6MZ/95+FktUylSq4Ha53OXDHQHuSj4J5xGVVwzRoaMTozt4F/VGsHsI00nXwKQkH7CrXyLX6zg3W5tS6yY0jEug7UHwy2zMdQN39pwU+7v3Jv1Zy1f1hKKnI6plmcBXXPwGuFCM1dWGSkyRgbn/puBrioJB9f7gILgLYHUEjgTZFPYH6ysOI78HHqt/4mu9QY74FTo8mCFIb4/eIgV61hw3u5gpbm4DR2xxZg8kdGMh8pO9kGrFwznSE+tWwtG2VcongOQTN7cjocD7oxUyXiWj85DYDVH8UWp7IxlnIobhoEoiCWabsl3C7C3Imls+PIop7TiErcY/vzEzrxbJrDAngpRe36bssLblv5eczla8OPpzau6/2hQcW9ZdSOsoD0QPSKluaqqNS+RCkPEEPofHqYVLb7MB1+mQftkh7EP/L9HJX0rEhZUQ8MzACBL98nF1d4I/baQSoE3CXd0h9bChe5j77OA5CViRUfROdG5WOtHbBHspCMGH8HCAARkf6twWlfjhFw==;AHSZdctNx+qR9NMPMgoEow=="
+secured: "mlYjHPm0uPymBLBCNnpLjYVdZG4ozWx+1s4yY9vQHP6gH4AdbrSukR7zXFoZg6OJ2fgUcsPEtdzLDGTF+NvWv7G+iX0lHrNu+DIYGa/KJU+8/j6+ALAkFHDiG7ZGYEVq7f2hRpR1rzLxFEvEWOUBqhNej7r2cgPSD9CDOngGmqqoGngmeITsdtvJHQSJfQjLXMnKAXTcFSbpJsuxBH8+4xokU9sTz6nFE7Ra99fpHVGxHFd/PpJFNKPWG4SvGNHmroBTYpRPmvvFGZWXF0457tdIhGMBPzcYGxTAMMJ7G8ObFo+cF2Uq3GV3ozHlvXfHk7NGKjsqcTOqZXiODt3rWNb/jBPe0sqZWyK1a3XbY8U=;OcO2rovHe6oJPfuejqve8A=="
 ---
 
