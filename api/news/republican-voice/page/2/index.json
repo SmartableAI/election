@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-10-florida-lawsuit-against-biden-administration-says-ice-guidance-puts-americans-in-danger.md",
+      "title": "Florida lawsuit against Biden administration says ICE guidance puts Americans in danger",
+      "excerpt": "Florida’s attorney general on Tuesday filed a lawsuit to halt Immigration and Customs Enforcement (ICE) guidance that narrows the illegal immigrants prioritized for arrest and deportation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MqHpCXds8b8/florida-lawsuit-biden-administration-ice-guidance",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MqHpCXds8b8/florida-lawsuit-biden-administration-ice-guidance",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3fb25b4-be53-4871-a0e0-07f16e230641/42e8ab05-3320-490b-aeb2-4cba2e2fdb05/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp",
+      "publishedDateTime": "2021-03-09T18:14:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-09-clyburn-concerns-over-biden-mental-state-much-ado-about-nothing.md",
       "title": "Clyburn: Concerns over Biden mental state 'much ado about nothing'",
       "excerpt": "House Majority Whip Jim Clyburn of South Carolina told Fox News on Tuesday he hopes to see federal checks from the coronavirus relief bill be sent out to Americans \"next week,\" before dispelling rumors of the president having any type of acuity-related shortcomings after he appeared to forget Defense",
@@ -1610,62 +1666,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/abbott-biden-proposal-migrant-testing-border.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/abbott-biden-proposal-migrant-testing-border.amp",
       "publishedDateTime": "2021-03-04T15:43:41-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-19t-coronavirus-bill-this-week.md",
-      "title": "Schumer prepared to outlast GOP delays tactics to pass Biden's $1.9T coronavirus bill this week",
-      "excerpt": "Senate Democrats are prepared to work long nights and through the weekend to push through President Biden's $1.9 trillion coronavirus relief legislation, determined to outlast an onslaught of expected GOP delay tactics.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/qu6TdZbkNog/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/d3342b12-c01b-47c2-8873-0b049df6cfd6/606ea425-b5de-4601-8e55-e4bb1312cc7d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/schumer-prepared-to-outlast-gop-delays-tactics-to-pass-bidens-1-9t-coronavirus-bill-this-week.amp",
-      "publishedDateTime": "2021-03-04T12:31:12-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

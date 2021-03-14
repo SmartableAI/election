@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-02-17-biden-administration-urges-dhs-officials-to-stop-using-illegal-alien-in-favor-of-inclusive-language.md",
+      "title": "Biden administration urges DHS officials to stop using ‘illegal alien’ in favor of ‘inclusive’ language",
+      "excerpt": "The Biden administration is urging officials at the Department of Homeland Security to stop using phrases like “illegal alien” in favor of what it says are more “inclusive” terms -- part of a broader effort by the administration to change language use on immigration.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ujGB8wO0Qkg/biden-dhs-officials-illegal-alien-inclusive-language",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ujGB8wO0Qkg/biden-dhs-officials-illegal-alien-inclusive-language",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 159,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/445ed9ed-cd0c-41f3-83e6-58a88f7d11ba/8d88fc84-ae2d-47e0-a180-90c427f3db5e/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-dhs-officials-illegal-alien-inclusive-language.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-dhs-officials-illegal-alien-inclusive-language.amp",
+      "publishedDateTime": "2021-02-16T16:38:42-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-16-fauci-defends-harris-starting-from-scratch-claim-now-knocks-trump-vaccine-rollout.md",
       "title": "Fauci defends Harris 'starting from scratch' claim, now knocks Trump vaccine rollout",
       "excerpt": "White House chief medical adviser Dr. Anthony Fauci reversed his previous rejection Tuesday of claims that the Biden administration was \"starting from scratch\" with the rollout of the coronavirus vaccine.",
@@ -1606,62 +1662,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/warren-says-republicans-who-stand-with-trump-must-be-stopped.amp",
       "publishedDateTime": "2021-02-10T22:43:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-10-biden-admin-erects-tent-city-in-texas-to-handle-influx-of-illegal-immigrants.md",
-      "title": "Biden admin erects tent city in Texas to handle influx of illegal immigrants",
-      "excerpt": "The Biden administration announced this week that it opened a soft-sided facility for immigrants in Donna, Texas, as Republican lawmakers warn of a “rising crisis” at the U.S.-Mexico border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDVywhq6xKM/biden-admin-tent-city-texas-illegal-immigrants",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KDVywhq6xKM/biden-admin-tent-city-texas-illegal-immigrants",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 252,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/52334b32-16cb-4d2a-b31d-a7d4fdb3a6b1/68c321f8-4a31-4940-9404-549a71453d54/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-tent-city-texas-illegal-immigrants.amp",
-      "publishedDateTime": "2021-02-10T15:48:18-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

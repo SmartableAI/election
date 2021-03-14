@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-14-levin-biden-white-house-using-huge-propaganda-effort-to-push-tyrannical-agenda-claim-vaccine-credit.md",
+      "title": "Levin: Biden White House using 'huge propaganda effort' to push 'tyrannical agenda,' claim vaccine credit",
+      "excerpt": "The Biden administration is in \"a mad rush\" to institute a \"radical, tyrannical agenda\" as quickly as possible with minimal scrutiny, \"Life, Liberty & Levin\" host Mark Levin argued Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjcavFYC0Tc/mark-levin-biden-white-house-propaganda-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjcavFYC0Tc/mark-levin-biden-white-house-propaganda-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3c5b849-d650-48b2-9a7c-0c5540d5eccc/b4f75905-f0b6-4447-9b85-b378fba51502/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mark-levin-biden-white-house-propaganda-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-levin-biden-white-house-propaganda-campaign.amp",
+      "publishedDateTime": "2021-03-14T04:30:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-floridas-ron-desantis-slams-bidens-disastrous-border-policy-trump-had-it-right.md",
       "title": "Florida's Ron DeSantis slams Biden's 'disastrous' border policy: 'Trump had it right'",
       "excerpt": "Florida Gov. Ron DeSantis slammed President Biden’s \"disastrous\" immigration policy on Saturday amid an influx of migrants coming to the border.",
@@ -111,21 +167,21 @@
       ]
     },
     {
-      "path": "_news/2021-03-14-alabama-republican-party-to-gift-trump-with-resolution-acknowledging-him-as-one-of-the-greatest-presidents.md",
-      "title": "Alabama Republican Party to gift Trump with resolution acknowledging him as one of the 'greatest' presidents",
-      "excerpt": "The Alabama Republican Party will honor former President Trump Donald Trump Pentagon takes heat for extending Guard's time at Capitol Fundraising spat points to Trump-GOP fissures Trump rally ...",
+      "path": "_news/2021-03-14-trump-prophet-jeremiah-johnson-who-predicted-2020-victory-ends-ministry.md",
+      "title": "Trump prophet Jeremiah Johnson who predicted 2020 victory ends ministry",
+      "excerpt": "Jeremiah Johnson, an evangelical Christian who predicted that former President Trump Donald Trump Pentagon takes heat for extending Guard's time at Capitol Fundraising spat points to Trump-GOP ...",
       "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/state-watch/543086-alabama-republican-party-to-gift-trump-with-resolution-acknowledging-him",
-      "originalUrl": "https://thehill.com/homenews/state-watch/543086-alabama-republican-party-to-gift-trump-with-resolution-acknowledging-him",
+      "webUrl": "https://thehill.com/homenews/news/543081-trump-prophet-jeremiah-johnson-who-predicted-2020-victory-ends-ministry",
+      "originalUrl": "https://thehill.com/homenews/news/543081-trump-prophet-jeremiah-johnson-who-predicted-2020-victory-ends-ministry",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 145,
       "tags": null,
       "images": [
         {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg",
+          "url": "https://thehill.com/sites/default/files/trumpgettyimages-1304602669.jpg",
           "width": 980,
-          "height": 551,
+          "height": 692,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -133,9 +189,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/state-watch/543086-alabama-republican-party-to-gift-trump-with-resolution-acknowledging-him?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/state-watch/543086-alabama-republican-party-to-gift-trump-with-resolution-acknowledging-him?amp",
-      "publishedDateTime": "2021-03-13T13:42:00-08:00",
+      "ampWebUrl": "https://thehill.com/homenews/news/543081-trump-prophet-jeremiah-johnson-who-predicted-2020-victory-ends-ministry?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543081-trump-prophet-jeremiah-johnson-who-predicted-2020-victory-ends-ministry?amp",
+      "publishedDateTime": "2021-03-13T12:41:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Hill",
@@ -379,7 +435,7 @@
       "originalUrl": "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229",
       "featuredContent": null,
       "highlight": null,
-      "heat": 145,
+      "heat": 165,
       "tags": null,
       "images": [
         {
@@ -1275,58 +1331,6 @@
       "topics": [
         "Election",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-chris-miller-defense-secretary-on-jan-6-sees-cause-and-effect-between-trumps-words-and-capitol-riot.md",
-      "title": "Chris Miller, defense secretary on Jan. 6, sees 'cause and effect' between Trump's words and Capitol riot",
-      "excerpt": "The top official in charge of the Pentagon and America's defenses when rioters stormed the U.S. Capitol on Jan. 6 said he believes there was direct \"cause-and-effect\" between then-President Donald Trump's words and the actions of the insurrectionist mob.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/12/chris-miller-pentagon-chief-trump-caused-capitol-riot/4661721001/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/12/chris-miller-pentagon-chief-trump-caused-capitol-riot/4661721001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/03/12/USAT/599b80bb-094c-4e05-8b72-0c00e23a4fbf-GettyImages-1285497255.jpg?auto=webp&crop=5980,3364,x0,y123&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/4661721001",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4661721001",
-      "publishedDateTime": "2021-03-12T06:13:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

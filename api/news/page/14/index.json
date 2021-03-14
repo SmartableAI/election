@@ -2,6 +2,62 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2021-02-19-iran-learning-it-can-threaten-biden-to-get-its-way-on-nuclear-talks-ric-grenell.md",
+      "title": "Iran learning it can threaten Biden to get its way on nuclear talks: Ric Grenell",
+      "excerpt": "Iran has already shown it can pressure the Biden administration into granting concessions related to its nuclear weapons program, former Acting Director of National Intelligence Richard Grenell told \"Your World\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd154628-c42a-42cb-829c-9a04557dc5a5/869775b1-e778-487c-a2ef-b385b0432f76/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
+      "publishedDateTime": "2021-02-19T14:58:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-biden-used-3-key-stats-to-make-a-point-except-they-werent-true.md",
       "title": "Biden used 3 key stats to make a point. Except they weren't true",
       "excerpt": "During President Joe Biden's CNN town hall, he made several false statistical claims. Here's what you need to know.\n    \n",
@@ -1309,58 +1365,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-joe-biden-north-korea-review-will-consider-malicious-cyber-activity-as-hackers-charged.md",
-      "title": "Joe Biden North Korea Review Will Consider 'Malicious' Cyber Activity As Hackers Charged",
-      "excerpt": "Three North Korean hackers were charged Wednesday over a plot to steal $1.3 billion in crypto and traditional currencies from banks and individuals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188",
-      "originalUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1738417/kim-il-sung-kim-jong-il.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188?amp=1",
-      "publishedDateTime": "2021-02-18T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

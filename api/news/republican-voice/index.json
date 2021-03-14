@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-14-levin-biden-white-house-using-huge-propaganda-effort-to-push-tyrannical-agenda-claim-vaccine-credit.md",
+      "title": "Levin: Biden White House using 'huge propaganda effort' to push 'tyrannical agenda,' claim vaccine credit",
+      "excerpt": "The Biden administration is in \"a mad rush\" to institute a \"radical, tyrannical agenda\" as quickly as possible with minimal scrutiny, \"Life, Liberty & Levin\" host Mark Levin argued Sunday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjcavFYC0Tc/mark-levin-biden-white-house-propaganda-campaign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/jjcavFYC0Tc/mark-levin-biden-white-house-propaganda-campaign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b3c5b849-d650-48b2-9a7c-0c5540d5eccc/b4f75905-f0b6-4447-9b85-b378fba51502/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/mark-levin-biden-white-house-propaganda-campaign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-levin-biden-white-house-propaganda-campaign.amp",
+      "publishedDateTime": "2021-03-14T04:30:18-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-floridas-ron-desantis-slams-bidens-disastrous-border-policy-trump-had-it-right.md",
       "title": "Florida's Ron DeSantis slams Biden's 'disastrous' border policy: 'Trump had it right'",
       "excerpt": "Florida Gov. Ron DeSantis slammed President Biden’s \"disastrous\" immigration policy on Saturday amid an influx of migrants coming to the border.",
@@ -1604,62 +1660,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-florida-lawsuit-against-biden-administration-says-ice-guidance-puts-americans-in-danger.md",
-      "title": "Florida lawsuit against Biden administration says ICE guidance puts Americans in danger",
-      "excerpt": "Florida’s attorney general on Tuesday filed a lawsuit to halt Immigration and Customs Enforcement (ICE) guidance that narrows the illegal immigrants prioritized for arrest and deportation.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MqHpCXds8b8/florida-lawsuit-biden-administration-ice-guidance",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/MqHpCXds8b8/florida-lawsuit-biden-administration-ice-guidance",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 227,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3fb25b4-be53-4871-a0e0-07f16e230641/42e8ab05-3320-490b-aeb2-4cba2e2fdb05/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp",
-      "publishedDateTime": "2021-03-09T18:14:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,63 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2021-02-05-pence-reveals-his-post-white-house-plans.md",
+      "title": "Pence reveals his post-White House plans",
+      "excerpt": "Former Vice President Mike Pence is joining the Heritage Foundation as a distinguished fellow, according to three people familiar with the matter. The move comes a day after the former vice president launched his transition office and announced plans to relocate to his home state of Indiana this summer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/02/04/pence-heritage-foundation-fellow-465884",
+      "originalUrl": "https://www.politico.com/news/2021/02/04/pence-heritage-foundation-fellow-465884",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/bf/e0/c41b2f7042f88a0644c8730922ae/210204-pence-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-02-04T17:31:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-05-weve-learned-to-love-the-guy-how-biden-charmed-the-left.md",
       "title": "‘We’ve learned to love the guy:’ How Biden charmed the left",
       "excerpt": "It’s early, but progressive say they’re being included, heard and respected by the Biden White House. But rocky roads are still ahead.",
@@ -1277,62 +1334,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-biden-says-no-one-in-our-family-will-be-involved-in-government-decisions.md",
-      "title": "Biden says ‘no one in our family’ will be involved in government decisions",
-      "excerpt": "President Biden said he intends to keep his family and his administration separate as reports surrounding the business dealings of his son and brother raised questions of potential impropriety.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo13sqIj8mU/biden-says-no-one-in-our-family-involved-government-decisions",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/Fo13sqIj8mU/biden-says-no-one-in-our-family-involved-government-decisions",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 293,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/314f29b6-b9c9-4c05-b3d2-ae7a2ac645a0/68c889cf-b668-4b8c-a9f0-a272442f7d6f/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-says-no-one-in-our-family-involved-government-decisions.amp",
-      "publishedDateTime": "2021-02-03T06:07:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

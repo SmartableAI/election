@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-ho
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/8953951b-8480-4aa9-bd02-06c6ebe10ae8-VPC_JILL_BIDEN_PSA_PUPPY_BOWL_DESK_THUMB.00_00_20_18.Still001.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Biden will deploy FEMA to care for teenagers and children crossing border in record numbers"
+    excerpt: "The Biden administration is mobilizing the Federal Emergency Management Agency to help care for the overwhelming number of unaccompanied migrant teens and children filling detention cells and tent shelters along the Mexico border,"
+    publishedDateTime: 2021-03-14T00:35:00Z
+    webUrl: "https://www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 115
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZYDDWEELUI6XAO3WAXQHGHUTI.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
 
 secured: "K2OnD+uiHpSOIub1QW/A802rsr/zlcOs92oCDEnmfMdXzQKm1fx7ujcPTDoA4J0QU+S+WQFAA9dBiHLyZtgr/F7MM9Kp7M4K8unSpWDDMgFenSSZ6CgzZLz6bgR5/3vqsVd+ZR5bfgtMmrh9nMlIH2zqT9uyXXQRcwOGOa543sAiiEvmUy96Bg2oLDrz+JjWWd3g+9riZljRgIrgZLyuYmX5NLgEk7BdmezNftXoBsFFXskZJL1IveUFkCXjGisKgJIYMFCJXTj+nmY6zCKZ4VkLjuwqV/aNS1Wk4+RrL/azG91MBcTRxdH6OvOM4Z8lqaRZsZDiw4g95YtKHDYWb8bi2wGliFzd2o/H83z/enY=;bWnPMZDp3gLrXIq149OkBg=="

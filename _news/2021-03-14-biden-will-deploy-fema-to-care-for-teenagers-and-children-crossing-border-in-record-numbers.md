@@ -1,0 +1,69 @@
+---
+category: news
+title: "Biden will deploy FEMA to care for teenagers and children crossing border in record numbers"
+excerpt: "The Biden administration is mobilizing the Federal Emergency Management Agency to help care for the overwhelming number of unaccompanied migrant teens and children filling detention cells and tent shelters along the Mexico border,"
+publishedDateTime: 2021-03-14T00:35:00Z
+originalUrl: "https://www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html"
+webUrl: "https://www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html"
+ampWebUrl: "https://www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national/fema-border-unaccompanied-minors/2021/03/13/738366a4-8455-11eb-bb5a-ad9a91faa4ef_story.html?outputType=amp"
+type: article
+quality: 115
+heat: -1
+published: false
+
+provider:
+  name: Washington Post
+  domain: washingtonpost.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Joe Biden
+
+images:
+  - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CZYDDWEELUI6XAO3WAXQHGHUTI.jpg&w=1440"
+    width: 1440
+    height: 961
+    isCached: true
+
+related:
+  - title: "For Biden, there's no place like a weekend home in Delaware"
+    excerpt: "For President Joe Biden, there's no place like a weekend home in Delaware WILMINGTON, Del. -- As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured ..."
+    publishedDateTime: 2021-03-13T14:03:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-place-weekend-home-delaware-76435229"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-place-weekend-home-delaware-76435229"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_3b0cbd70660341528ecdc742bc6d4056_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden dogs are in Delaware while Jill Biden travels after Major caused a 'minor injury'"
+    excerpt: "The statements came Tuesday after CNN reported Monday that President Joe Biden and first lady Jill Biden's two German shepherds returned to their family home in Delaware last week following \"aggressive behavior at the White House\" involving Major."
+    publishedDateTime: 2021-03-10T11:04:00Z
+    webUrl: "https://www.usatoday.com/story/entertainment/celebrities/2021/03/09/biden-dogs-delaware-while-jill-biden-travels-white-house-says/4640961001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4640961001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4640961001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 117
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/05/USAT/8953951b-8480-4aa9-bd02-06c6ebe10ae8-VPC_JILL_BIDEN_PSA_PUPPY_BOWL_DESK_THUMB.00_00_20_18.Still001.jpg?auto=webp&crop=1911,1075,x4,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "jr0jKcy2kTwDAnVUL6QkSmmURFuTMDka3b0jlMD9SxzUB7nSaYuGxG/V2fbf8ksX71dfMggz3aZw0BoKdvAlinVg3+S+42kPWc6xkklLkNY68kX5/8qXhyeYeBzunJHLMpsWGJZWcGbl6ohc1nQ02pGhfNl1g04aOdsSGXXefmfNC0joiIzTTXtDt5ix3PJsGHLNBoZnGKX+FfN3qiIuNM3rqe1C+TjgzTU1hlA91tvn9f6AmPmFYksvK08tPJwC7nr4zIAKjoznu3RrKoN7yxNviu0uQfrJUaszlkZsTYzqR3hDfylxPr/2kphidskkWqLC5cFdnp7W5qkJ6ByH8LIDOjBvvev2qZu9OqOyH3Q=;gnuZCvZ1Fpa+/4stw1JY4g=="
+---
+
