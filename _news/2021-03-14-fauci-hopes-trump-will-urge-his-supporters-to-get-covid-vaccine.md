@@ -127,7 +127,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
+    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
+    publishedDateTime: 2021-03-14T18:42:00Z
+    webUrl: "https://www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 61
+    images:
+      - url: "https://www.nydailynews.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "IIKaNHb24M+fZolJc/3FPJSxxGc5ngRwTZNAQUTCHyMaa/alGRaV7wVGUC7ulT5tsEqx8a9EPr7Jav4XrX/jvWMWqZsmS77DBKVUXMBzdNUk4SXIUUoLV/IsB3zr+WY8NmlK3yT0dZ5i584nmJNFPL+GaoHERhr2aunOrUGyZFv8POs3E7TpSFtU7y/fQfqnG42AelqxSiJIEKLSBh/D4/u7r87/mptndzRbjc1UOj1vL1FnzpRMJvnJvsDRleMCTZwqfVStkwhzjFD2RA7TDq2c7jaxW8pvz/QRuN/HHgkwSQrGLAKWsHGq6jo9iLjgxMwjY7C+HmIKsQlfvaexpHJmoWH4hkIHWc2Nyeb2kOc=;S6KyzF9q/sNGut2q8CPssA=="
+secured: "YVRJHCDyjdsmb6MZ/95+FktUylSq4Ha53OXDHQHuSj4J5xGVVwzRoaMTozt4F/VGsHsI00nXwKQkH7CrXyLX6zg3W5tS6yY0jEug7UHwy2zMdQN39pwU+7v3Jv1Zy1f1hKKnI6plmcBXXPwGuFCM1dWGSkyRgbn/puBrioJB9f7gILgLYHUEjgTZFPYH6ysOI78HHqt/4mu9QY74FTo8mCFIb4/eIgV61hw3u5gpbm4DR2xxZg8kdGMh8pO9kGrFwznSE+tWwtG2VcongOQTN7cjocD7oxUyXiWj85DYDVH8UWp7IxlnIobhoEoiCWabsl3C7C3Imls+PIop7TiErcY/vzEzrxbJrDAngpRe36bssLblv5eczla8OPpzau6/2hQcW9ZdSOsoD0QPSKluaqqNS+RCkPEEPofHqYVLb7MB1+mQftkh7EP/L9HJX0rEhZUQ8MzACBL98nF1d4I/baQSoE3CXd0h9bChe5j77OA5CViRUfROdG5WOtHbBHspCMGH8HCAARkf6twWlfjhFw==;AHSZdctNx+qR9NMPMgoEow=="
 ---
 

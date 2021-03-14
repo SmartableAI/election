@@ -2,6 +2,115 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2021-01-20-do-latino-voters-think-joe-biden-can-unite-the-country.md",
+      "title": "Do Latino voters think Joe Biden can unite the country?",
+      "excerpt": "\"It's going to be hard, because there's still going to be people that think the election was a fraud,\" said Yumaira Saavedra of Pennsylvania.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
+      "originalUrl": "https://www.nbcnews.com/news/latino/do-latino-voters-think-joe-biden-can-unite-country-n1254800",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media1.s-nbcnews.com/i/newscms/2021_03/3443384/210119-washington-capitol-inauguration-prep-2x1-ac-1055p_febc111051f1ce6e390fc8d524eb2182.jpg",
+          "width": 2500,
+          "height": 1250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1254800",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1254800",
+      "publishedDateTime": "2021-01-20T03:16:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-20-donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency.md",
+      "title": "Donald Trump pardons Steve Bannon amid last acts of presidency",
+      "excerpt": "Former senior adviser had previously been considered an unlikely name among the 143 people who received clemency",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 565,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/885db9682b9b36653c7209be17740b92e8d006af/0_108_3200_1920/master/3200.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=cbad3454b95c8ab8d879dbe443aab4c1",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/20/donald-trump-pardons-steve-bannon-amid-last-acts-of-presidency-report",
+      "publishedDateTime": "2021-01-20T02:21:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-biden-will-extend-student-loan-payment-deferrals-until-october.md",
       "title": "Biden will extend student loan payment deferrals until October",
       "excerpt": "President-elect Joe Biden will direct the Department of Education Wednesday to extend the suspension of federal student loan payments and interest.\n    \n",
@@ -1226,105 +1335,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-trump-rebuts-ny-times-1619-project-with-1776-report-urging-schools-to-reject-ideological-poison.md",
-      "title": "Trump rebuts NY Times '1619 Project' with '1776 Report' urging schools to reject 'ideological poison'",
-      "excerpt": "The Trump-backed panel released a 45-page report on the state of American education in what the White House described as a \"rebuttal\" to \"reckless\" historical accounts of the country's founding.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g22oZoGTwJs/trump-1776-commission-report-schools-should-reject-activist-proganda",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/g22oZoGTwJs/trump-1776-commission-report-schools-should-reject-activist-proganda",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 160,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/03fa13ed-e368-4b5a-9522-1142491d3d4f/2a5aaae2-3ae4-4701-974e-0cfcab852a88/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-1776-commission-report-schools-should-reject-activist-proganda.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-1776-commission-report-schools-should-reject-activist-proganda.amp",
-      "publishedDateTime": "2021-01-18T18:03:04-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-19-progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast.md",
-      "title": "Progressive Indian bistro Aurum opens in Los Altos with a Kamala Harris tribute feast",
-      "excerpt": "Now in Los Altos, he has teamed up with Anupam Bhatia, the restaurateur who founded Broadway Masala in Redwood City, to open a contemporary Indian bistro called Aurum. After a soft opening, Aurum — the name,",
-      "sourceUrl": null,
-      "webUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/",
-      "originalUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mercurynews.com/wp-content/uploads/2021/01/SJM-L-AURUM-0118.jpg?w=1024&h=683",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/amp/",
-      "cdnAmpWebUrl": "https://www-mercurynews-com.cdn.ampproject.org/c/s/www.mercurynews.com/2021/01/18/progressive-indian-bistro-aurum-opens-in-los-altos-with-a-kamala-harris-tribute-feast/amp/",
-      "publishedDateTime": "2021-01-18T12:05:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mercury News",
-        "domain": "mercurynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

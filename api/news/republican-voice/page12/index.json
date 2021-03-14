@@ -2,6 +2,63 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2021-01-20-biden-harris-partake-in-arlington-wreath-laying-ceremony.md",
+      "title": "Biden, Harris partake in Arlington wreath laying ceremony",
+      "excerpt": "President Joe Biden and Vice President Kamala Harris, after being sworn in at the Capitol, traveled to Arlington National Cemetery for a ceremony at the Tomb of the Unknown Soldier. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGCJkdoT_Lc/biden-harris-arlington-wreath-laying-ceremony",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/dGCJkdoT_Lc/biden-harris-arlington-wreath-laying-ceremony",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 720,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Arlington-Wreath-Biden-Harris-AP-2.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-harris-arlington-wreath-laying-ceremony.amp",
+      "publishedDateTime": "2021-01-20T12:38:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-01-20-marco-rubio-rejects-biden-immigration-bill-calls-it-blanket-amnesty.md",
       "title": "Marco Rubio rejects Biden immigration bill, calls it ‘blanket amnesty’",
       "excerpt": "Sen. Marco Rubio, R-Fla., on Tuesday rejected an immigration proposal by President Biden, describing its call for an 8-year pathway to citizenship for illegal immigrants as a “blanket amnesty.”",
@@ -1599,62 +1656,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/dan-scavino-slams-cancel-culture-tells-trump-officials-to-be-proud-of-accomplishments.amp",
       "publishedDateTime": "2021-01-14T23:33:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-14-wyoming-gop-rips-rep-liz-cheney-for-voting-to-impeach-trump.md",
-      "title": "Wyoming GOP rips Rep. Liz Cheney for voting to impeach Trump",
-      "excerpt": "Wyoming Republican leaders said Cheney’s decision led to a “whirlwind” of criticism in her home state.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EJtMBnZ6JXQ/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/EJtMBnZ6JXQ/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 475,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a35816a3-7e51-448c-bda9-a5a8814c76e9/2b740dbc-bc7a-45b2-bb1b-f8049089ff41/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/wyoming-gop-rips-rep-liz-cheney-voting-impeach-trump.amp",
-      "publishedDateTime": "2021-01-14T13:08:40-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

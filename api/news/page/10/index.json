@@ -2,6 +2,114 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2021-02-28-sen-scott-says-he-will-support-incumbent-gop-senators-over-trump-backed-primary-challengers.md",
+      "title": "Sen. Scott says he will support incumbent GOP senators over Trump-backed primary challengers",
+      "excerpt": "Sen. Rick Scott, R-Fl., chair of the National Republican Senatorial Committee, told \"Fox News Sunday\" that he will support any incumbent Republican senator against primary challengers, even if that challenge is supported by former President Donald Trump.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SrdREIvNP3E/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SrdREIvNP3E/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/60882bba-ad86-452b-beef-b07964f6391f/34dc9eed-02bc-4f87-8cdd-58592c1f82b4/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/rick-scott-incumbent-gop-senators-trump-backed-primary-challengers.amp",
+      "publishedDateTime": "2021-02-28T07:00:47-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-28-allies-of-rep-adam-kinzinger-launch-new-super-pac-to-support-republicans-who-have-bucked-trump.md",
+      "title": "Allies of Rep. Adam Kinzinger launch new super PAC to support Republicans who have bucked Trump",
+      "excerpt": "The effort will be up against significant head winds, as Trump still holds vast sway over the Republican Party, even after his supporters attacked the U.S. Capitol last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCWAUHTZN4I6XFENDFDS42BVEE.jpg&w=1440",
+          "width": 1440,
+          "height": 968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-28T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-28-biden-will-not-sanction-mbs-over-khashoggis-killing-despite-us-report-implicating-the-saudi-leader.md",
       "title": "Biden will not sanction MBS over Khashoggi's killing despite US report implicating the Saudi leader",
       "excerpt": "Other than being downgraded in the eyes of the US under Biden, it's unclear what other consequences, if any, MBS will face over Khashoggi's killing.",
@@ -1251,114 +1359,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-nikki-haley-iced-out-of-cpac-after-underestimating-donald-trumps-influence.md",
-      "title": "Nikki Haley Iced Out Of CPAC After Underestimating Donald Trump's Influence",
-      "excerpt": "The former ambassador hasn't been invited to speak, another blow to any presidential ambitions she may harbor.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228",
-      "originalUrl": "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2019/11/10/us-president-donald-trump-shakes-hands-with-nikki.jpg",
-          "width": 1024,
-          "height": 674,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/nikki-haley-iced-out-cpac-after-underestimating-donald-trumps-influence-3152228?amp=1",
-      "publishedDateTime": "2021-02-25T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-biden-should-not-give-up-his-sole-nuclear-authority-gop-lawmakers-say.md",
-      "title": "Biden should not give up his sole nuclear authority, GOP lawmakers say",
-      "excerpt": "Three Republican members of the House Armed Services Committee on Wednesday issued a statement pushing back on Democrats' letter to President Biden urging him to give up his sole nuclear authority.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_ao_yWQyWO0/republicans-biden-nuclear-authority",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/_ao_yWQyWO0/republicans-biden-nuclear-authority",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 335,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/military-aide-carries.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/republicans-biden-nuclear-authority.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-nuclear-authority.amp",
-      "publishedDateTime": "2021-02-25T12:18:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

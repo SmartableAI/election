@@ -127,6 +127,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
+    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
+    publishedDateTime: 2021-03-14T18:42:00Z
+    webUrl: "https://www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 61
+    images:
+      - url: "https://www.nydailynews.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "j61dMXJ32p1kTVL4XNfZ7zSuILVAEExnp8Vy1pvNnWf2pQky86EX9ezTOIWtOgSDrwuP/xEO+e4CEd6YbjXloajSh/+gj6tc81EF8tKDvRlqgCB97fjpDhQXNTNQFGRWWes7kN4NTbTaaKik40RUZQBxaJYdpMmlQ8zSbRCBD2EJ5NUBU9s90VyXB5F3s/BU0vgOqxw22noSnY67EZnUhrryOiVoGZUgfv34bqm2IAj/6k/vCprGXiBUeQ5RGRJOpWcNwnItM6bZS6SDzE5b7s1WBodMI/XDadgtyUkhYT/VaESedvWDCoemOsruNdO5aUWHK54AVEFjqw+C7TTfxX5WIovvUmOShvS0GdWwpk0=;Xja7pBLx39blLWJbA9suFQ=="
 ---

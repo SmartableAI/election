@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2B60D8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2B60D8"
 type: article
 quality: 125
-heat: 245
+heat: 265
 published: true
 
 provider:
@@ -124,6 +124,22 @@ related:
     quality: 111
     images:
       - url: "https://www.chicagotribune.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
+    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
+    publishedDateTime: 2021-03-14T18:42:00Z
+    webUrl: "https://www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html"
+    ampWebUrl: "https://www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-nydailynews-com.cdn.ampproject.org/c/s/www.nydailynews.com/coronavirus/ct-aud-nw-fauci-trump-coronavirus-vaccine-20210314-mfq6zptj4vaybejq32k77shgnu-story.html?outputType=amp"
+    type: article
+    provider:
+      name: New York Daily News
+      domain: nydailynews.com
+    quality: 61
+    images:
+      - url: "https://www.nydailynews.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
         width: 1200
         height: 675
         isCached: true

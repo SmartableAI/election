@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-14-bidens-silence-on-cuomo-not-sustainable-the-more-allegations-pile-up-axios-jonathan-swan.md",
+      "title": "Biden's silence on Cuomo not sustainable the more allegations 'pile up': Axios' Jonathan Swan",
+      "excerpt": "Axios national political reporter Jonathan Swan says President Biden's silence on the Andrew Cuomo scandal becomes “more conspicuous” the more Democrats call for the New York governor’s resignation.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xua7kDcV9Q0/bidens-silence-on-gov-cuomo-scandal-not-sustainable-the-more-allegations-pile-up-axios-jonathan-swan",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xua7kDcV9Q0/bidens-silence-on-gov-cuomo-scandal-not-sustainable-the-more-allegations-pile-up-axios-jonathan-swan",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/bidens-silence-on-gov-cuomo-scandal-not-sustainable-the-more-allegations-pile-up-axios-jonathan-swan.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-silence-on-gov-cuomo-scandal-not-sustainable-the-more-allegations-pile-up-axios-jonathan-swan.amp",
+      "publishedDateTime": "2021-03-14T12:14:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-cnns-brian-stelter-tucker-carlson-is-the-new-donald-trump.md",
       "title": "CNN's Brian Stelter: \"Tucker Carlson Is The New Donald Trump\"",
       "excerpt": "CNN's \"Reliable Sources\" anchor Brian Stelter compares Fox News host Tucker Carlson to the former president. \"Tucker has taken Trump's place as a right-wing leader. As an outrage generator. As a fire starter,",
@@ -842,7 +898,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 850,
+      "heat": 870,
       "tags": null,
       "images": [
         {
@@ -1581,62 +1637,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
       "publishedDateTime": "2021-03-10T11:28:20-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-marcia-fudge-confirmed-as-bidens-hud-secretary.md",
-      "title": "Marcia Fudge confirmed as Biden's HUD secretary",
-      "excerpt": "The Senate on Wednesday confirmed Marcia Fudge to be President Biden's new secretary of Housing and Urban Development (HUD).",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NB-3hIYgcwU/marcia-fudge-confirmed-to-be-hud-secretary",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NB-3hIYgcwU/marcia-fudge-confirmed-to-be-hud-secretary",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 375,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-secretary.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/marcia-fudge-confirmed-to-be-hud-secretary.amp",
-      "publishedDateTime": "2021-03-10T09:39:33-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

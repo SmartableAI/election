@@ -1,24 +1,20 @@
 ---
 category: news
-title: "Mark Meadows slams Biden for attacking Trump, taking credit for vaccines in primetime address"
-excerpt: "MARK MEADOWS: \"Well you know obviously we saw Joe Biden not only trying to take credit from Donald Trump-which is really interesting because Joe Biden actually got the vaccine-he got a shot in the arm before Donald Trump left office... So, when we look at ..."
-publishedDateTime: 2021-03-12T16:48:00Z
-originalUrl: "https://www.foxnews.com/politics/mark-meadows-biden-trump-primetime-coronavirus"
-webUrl: "https://www.foxnews.com/politics/mark-meadows-biden-trump-primetime-coronavirus"
-ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-biden-trump-primetime-coronavirus.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-biden-trump-primetime-coronavirus.amp"
+title: "Fauci: Trump endorsing COVID-19 vaccine would be ‘game-changer’"
+excerpt: "Dr. Anthony Fauci said Sunday that it would be a “game-changer” for President Trump to encourage his supporters to get the jab — after a poll found many GOP voters indicated that"
+publishedDateTime: 2021-03-14T19:22:00Z
+originalUrl: "https://nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/"
+webUrl: "https://nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/"
+ampWebUrl: "https://nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/amp/"
+cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/amp/"
 type: article
-quality: 139
+quality: 135
 heat: -1
 published: false
 
 provider:
-  name: Fox News
-  domain: foxnews.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: New York Post
+  domain: nypost.com
 
 topics:
   - Election
@@ -26,9 +22,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4e11fbf-005b-4b50-995c-dc44c3e0c968/86ac2847-eab6-48f9-983e-6df5f9c97ef4/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-fauci-vaccine.jpg?quality=90&strip=all&w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -464,6 +460,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Mark Meadows slams Biden for attacking Trump, taking credit for vaccines in primetime address"
+    excerpt: "MARK MEADOWS: \"Well you know obviously we saw Joe Biden not only trying to take credit from Donald Trump-which is really interesting because Joe Biden actually got the vaccine-he got a shot in the arm before Donald Trump left office... So, when we look at ..."
+    publishedDateTime: 2021-03-12T16:48:00Z
+    webUrl: "https://www.foxnews.com/politics/mark-meadows-biden-trump-primetime-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/mark-meadows-biden-trump-primetime-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mark-meadows-biden-trump-primetime-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 139
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4e11fbf-005b-4b50-995c-dc44c3e0c968/86ac2847-eab6-48f9-983e-6df5f9c97ef4/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden hits 50 days without press conference: ABC News calls out 'striking' difference from Trump"
     excerpt: "President Biden has not held a formal press conference 50 days into his presidency, drawing criticism from ABC News of the \"striking\" contrast in transparency with predecessor Donald Trump. \"Halfway into his first 100 days, President Joe Biden has yet to ..."
     publishedDateTime: 2021-03-11T15:26:00Z
@@ -479,22 +491,6 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a2188c1-0aaf-4609-b058-c291349e97ae/0ad8b79a-d025-4da9-bfa4-d9bf54f3431d/1280x720/match/image.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Fauci: Trump endorsing COVID-19 vaccine would be ‘game-changer’"
-    excerpt: "Dr. Anthony Fauci said Sunday that it would be a “game-changer” for President Trump to encourage his supporters to get the jab — after a poll found many GOP voters indicated that"
-    publishedDateTime: 2021-03-14T19:22:00Z
-    webUrl: "https://nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/"
-    ampWebUrl: "https://nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 135
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-fauci-vaccine.jpg?quality=90&strip=all&w=1200"
-        width: 1200
-        height: 800
         isCached: true
   - title: "Hannity urges Biden to 'just thank Donald Trump' for Operation Warp Speed: 'No Trump, no vaccine, Joe'"
     excerpt: "Fox News host Sean Hannity urged President Biden Thursday to call former President Donald Trump and thank him for all that he did to fight the coronavirus pandemic."
@@ -568,6 +564,6 @@ related:
       domain: realclearpolitics.com
     quality: 60
 
-secured: "hiufO2rUNL6OEo7tialgjN4f+oc9D8W5fui2yTqe5dzPcOtW/z7H6bz+PXDOlEVIGNKe0xVauqlLRKRwEKxKbryQKr+LHRKKR22dk76N8mdnNYoEmJElHvEeiKIVPpenodmF9pMt5ak9UJc9D+8hm45H3YM+YS+GG01LsrFDOkAmrGteKFIJQ6sxCqjZKL85X98w5dP6BAGFR0HqpW4ZqE36ifS3oXpd7uKN6RKuTwMOKhKXXw28RhvA4PmLXd895RGP929H3z/k2m+IUtxk7FZttWmGik86g+SW9Oy5PKzKj42k7vWLrHn+ywsCohZXqCtcPg8+qXQ3xn6hCQccXHLkiID2rRIGt6bSAcnxFwqn3W/qxz1W5JBGYfBW3952J9Omy+XZhM4aKvqoPCbxxaRjv3ykpybLeFl42lSuLuNyq8axTsfExAeO9QlwwCltHZc2e/WAN1g/+eHm2P/V+As0WfZ9RymoD0Xyb/yI0Bam9ypasuZtC2G1w2S8sATWsIlvL/jfEoCaOxxUCV7e4g==;R2zk/nlmWt9A/kAcQ+0AVw=="
+secured: "rOLLR08zIzeQegKwyB4RPqCI4qzC/Heh5Wg0f6ch6Y4PuCrv+poZomBEa91VM/JFFhvFJs2pupuIgKUw2vdqB5CkaQyvgQ8QD8sFC/zaMTz5rxXFj+OjjlcZFLtvtFtCL/WxVggj01U7HRD3Jw760VsEsfEZU2p0/bJjFLGofAzVlFTdLouM3Lk67d9VxRSkOMAbcrD9qb/XKUFBc0rSEZWnGSl9w1XsCxhikManzRQEPtS/kyHhDGdgT4GB0UW0qqGNy9+izgfoC/RVecGZl95Vn9E5v3LlWqdMhWNxSdIepMHewEtXDCxjHijcBC4Q2JqmDOZ+1HhjAUBbJACSOoEDim/FmzCPNIQPZ7ZGJ04=;m+CfMjT/nPJSUyyBbwLlbA=="
 ---
 

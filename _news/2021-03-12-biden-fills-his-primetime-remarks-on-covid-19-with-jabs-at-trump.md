@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-ja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
 type: article
 quality: 190
-heat: 850
+heat: 870
 published: true
 
 provider:
@@ -478,6 +478,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a2188c1-0aaf-4609-b058-c291349e97ae/0ad8b79a-d025-4da9-bfa4-d9bf54f3431d/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Fauci: Trump endorsing COVID-19 vaccine would be ‘game-changer’"
+    excerpt: "Dr. Anthony Fauci said Sunday that it would be a “game-changer” for President Trump to encourage his supporters to get the jab — after a poll found many GOP voters indicated that"
+    publishedDateTime: 2021-03-14T19:22:00Z
+    webUrl: "https://nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/"
+    ampWebUrl: "https://nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-fauci-vaccine.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Hannity urges Biden to 'just thank Donald Trump' for Operation Warp Speed: 'No Trump, no vaccine, Joe'"
     excerpt: "Fox News host Sean Hannity urged President Biden Thursday to call former President Donald Trump and thank him for all that he did to fight the coronavirus pandemic."

@@ -48,9 +48,9 @@ related:
         height: 675
         isCached: true
   - title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
-    excerpt: "President signs bill and says ‘this historic legislation is about rebuilding the backbone of this country’ – follow all the latest"
-    publishedDateTime: 2021-03-11T19:48:00Z
-    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a712c8f08089f0d4af8e3"
+    excerpt: "Lauren Gambino in Washington (now), Joanna Walters and Martin Belam (earlier) The Senate voted on Thursday to advance the nomination of Deb Haaland to be the next interior secretary, bringing her one step closer to becoming the first Native American ..."
+    publishedDateTime: 2021-03-11T20:13:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a5e348f08089f0d4af7b7"
     ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
     type: article

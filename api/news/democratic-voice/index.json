@@ -115,6 +115,62 @@
       ]
     },
     {
+      "path": "_news/2021-03-14-analysis-bidens-toughest-test-on-economic-inequality-will-be-reinvigorating-the-labor-movement.md",
+      "title": "Analysis: Biden's toughest test on economic inequality will be reinvigorating the labor movement",
+      "excerpt": "For the Democratic left, President Joe Biden's mammoth victory on Covid relief has inspired new hope of rebalancing America's increasingly unequal economy.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/66LP6lRyWDw/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/66LP6lRyWDw/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 162,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210122171207-joe-biden-unions-1010-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/14/politics/president-biden-labor-unions-economic-inequality/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/14/politics/president-biden-labor-unions-economic-inequality/index.html",
+      "publishedDateTime": "2021-03-14T06:00:24-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-analysis-how-early-pandemic-praise-for-cuomo-newsom-and-trump-disappeared.md",
       "title": "Analysis: How early pandemic praise for Cuomo, Newsom and Trump disappeared",
       "excerpt": "Nearly a year ago, New York Democratic Gov. Andrew Cuomo announced that all nonessential workers in the state would have to stay home. The announcement was one of many that marked the beginning of the coronavirus pandemic.\n    \n",
@@ -1630,63 +1686,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-fact-check-pence-echoes-trumps-big-lie-in-dishonest-op-ed-on-election-rules.md",
-      "title": "Fact check: Pence echoes Trump's Big Lie in dishonest op-ed on election rules",
-      "excerpt": "In an opinion article published on Wednesday, former Vice President Mike Pence did something he used to do in office: echo a lie from former President Donald Trump in a slightly more sophisticated way.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfcK-1gqPKY/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jfcK-1gqPKY/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 632,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210101151233-mike-pence-louie-gohmert-ignore-certify-election-results-dantonio-nr-vpx-00033124-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/fact-check-pence-election-hr1-democrats-elections/index.html",
-      "publishedDateTime": "2021-03-03T16:00:13-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice",
-        "Mike Pence"
       ]
     }
   ],

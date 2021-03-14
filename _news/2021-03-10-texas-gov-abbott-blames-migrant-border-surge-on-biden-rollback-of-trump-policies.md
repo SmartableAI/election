@@ -476,6 +476,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fauci: Trump endorsing COVID-19 vaccine would be ‘game-changer’"
+    excerpt: "Dr. Anthony Fauci said Sunday that it would be a “game-changer” for President Trump to encourage his supporters to get the jab — after a poll found many GOP voters indicated that"
+    publishedDateTime: 2021-03-14T19:22:00Z
+    webUrl: "https://nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/"
+    ampWebUrl: "https://nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-fauci-vaccine.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Hannity urges Biden to 'just thank Donald Trump' for Operation Warp Speed: 'No Trump, no vaccine, Joe'"
     excerpt: "Fox News host Sean Hannity urged President Biden Thursday to call former President Donald Trump and thank him for all that he did to fight the coronavirus pandemic."
     publishedDateTime: 2021-03-12T05:17:00Z

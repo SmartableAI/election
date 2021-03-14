@@ -2,6 +2,114 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-12-mcconnell-quietly-courts-senate-primary-candidates-who-can-win-regardless-of-trump-ties.md",
+      "title": "McConnell quietly courts Senate primary candidates 'who can win' regardless of Trump ties ",
+      "excerpt": "Senate Minority Leader Mitch McConnell is quietly maneuvering to field a slate of GOP Senate candidates in critical battleground states, attempting to avoid a repeat of election cycles a decade ago when candidates emerged from primaries only to implode and deny his party the chance to take back the majority.\n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hHVw17Pt17o/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/hHVw17Pt17o/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210213165012-mitch-mcconnell-february-13-2021-02-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/12/politics/mitch-mcconnell-donald-trump-2022-senate-races/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/mitch-mcconnell-donald-trump-2022-senate-races/index.html",
+      "publishedDateTime": "2021-03-12T15:46:41-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-no-july-4th-fireworks-at-mount-rushmore-this-year-after-controversial-2020-trump-event.md",
+      "title": "No July 4th Fireworks at Mount Rushmore This Year After Controversial 2020 Trump Event",
+      "excerpt": "Although former President Donald Trump held a 4th of July celebration at the memorial in 2020, NPS Regional Director Herbert Frost rejected South Dakota's request for 2021. In his letter to South Dakota Tourism Secretary Jim Hagen, Frost said that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/no-july-4th-fireworks-mount-rushmore-this-year-after-controversial-2020-trump-event-1575857",
+      "originalUrl": "https://www.newsweek.com/no-july-4th-fireworks-mount-rushmore-this-year-after-controversial-2020-trump-event-1575857",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1755256/mount-rushmore-fireworks-ban-4th-july-trump.jpg",
+          "width": 2500,
+          "height": 1685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/no-july-4th-fireworks-mount-rushmore-this-year-after-controversial-2020-trump-event-1575857?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/no-july-4th-fireworks-mount-rushmore-this-year-after-controversial-2020-trump-event-1575857?amp=1",
+      "publishedDateTime": "2021-03-12T15:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-biden-administration-grants-humanitarian-protection-for-burmese-in-us.md",
       "title": "Biden administration grants humanitarian protection for Burmese in US",
       "excerpt": "The Biden administration on Friday granted humanitarian protection to Burmese nationals and residents in the United States due to the military coup and violence against civilians in Myanmar.\n    \n",
@@ -839,7 +947,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 850,
+      "heat": 870,
       "tags": null,
       "images": [
         {
@@ -1241,114 +1349,6 @@
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/politics/miller-on-trump-january-6/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/miller-on-trump-january-6/index.html",
       "publishedDateTime": "2021-03-11T14:01:06-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-the-daily-202-missing-from-the-american-rescue-package-debate-donald-trump.md",
-      "title": "The Daily 202: Missing from the “American Rescue Package” debate? Donald Trump.",
-      "excerpt": "Welcome to The Daily 202 newsletter! Today, we look at f Donald Trump's absence from the fight over President Biden's massive rescue package. But don’t miss the latest on commemorations of one year since the pandemic began,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M7TQR4A2XNCMLCF4HPOVLW24CE.jpg&w=1440",
-          "width": 1440,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/?outputType=amp",
-      "publishedDateTime": "2021-03-11T13:39:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-trump-estranged-from-presidents-club-excluded-from-predecessors-psa.md",
-      "title": "Trump, estranged from Presidents Club, excluded from predecessors' PSA",
-      "excerpt": "When President Donald Trump received his Covid-19 vaccine at the White House in January, it was not recorded by official photographers or videographers, according to a person familiar with the matter, who said it wasn't clear there was any photographic documentation of the moment. \n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KxIrfiRdWoA/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KxIrfiRdWoA/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/190423072847-donald-trump-04182019-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/politics/donald-trump-presidents-club-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/donald-trump-presidents-club-vaccine/index.html",
-      "publishedDateTime": "2021-03-11T12:54:57-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",

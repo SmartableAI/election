@@ -496,6 +496,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Fauci: Trump endorsing COVID-19 vaccine would be ‘game-changer’"
+    excerpt: "Dr. Anthony Fauci said Sunday that it would be a “game-changer” for President Trump to encourage his supporters to get the jab — after a poll found many GOP voters indicated that"
+    publishedDateTime: 2021-03-14T19:22:00Z
+    webUrl: "https://nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/"
+    ampWebUrl: "https://nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/14/fauci-trump-covid-vaccine-endorsement-would-be-game-changer/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-fauci-vaccine.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden expected to roll back Trump administration Title IX changes; falsely accused student's father speaks out"
     excerpt: "The father of a student falsely accused of sexual assault is speaking out after President Biden ordered education officials to start considering how to roll back Trump administration changes to Title IX, which had bolstered the rights for those accused of ..."
     publishedDateTime: 2021-03-11T11:44:00Z

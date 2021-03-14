@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Joe Biden signs 'historic' $1.9tn Covid relief bill into law – live"
-excerpt: "President signs bill and says ‘this historic legislation is about rebuilding the backbone of this country’ – follow all the latest"
-publishedDateTime: 2021-03-11T19:48:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a712c8f08089f0d4af8e3"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a712c8f08089f0d4af8e3"
+excerpt: "Lauren Gambino in Washington (now), Joanna Walters and Martin Belam (earlier) The Senate voted on Thursday to advance the nomination of Deb Haaland to be the next interior secretary, bringing her one step closer to becoming the first Native American ..."
+publishedDateTime: 2021-03-11T20:13:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a5e348f08089f0d4af7b7"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates?page=with:block-604a5e348f08089f0d4af7b7"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/11/joe-biden-covid-coronavirus-relief-bill-trillion-andrew-cuomo-live-updates"
 type: article
@@ -488,6 +488,6 @@ related:
         height: 675
         isCached: true
 
-secured: "oieywRjHH66aL2yVJpY0p/fpuOAZXQOWbrwAjPX0yi7NPVoDldWCauBWe+qU5MXvjPPUCIXqHdy1DI35ayrsZfyIxz+H/IpHwdCk9QRYwHo4x8EKfoNlS3uSEiWR1at5DiqgJ8KBUb328FKHVEl+OqSOqWwaq4dRMqSKJNKVJ9NazNCWpAejsDPaKD15uG7GxUuSkE0yelgXoiAQPpEoFpISQ7jChHyLAuoewAefjHdxfrsOOtMOphNyZyXwIZ6qqry8IVVpNQZB3TuN095xmCig7lYIX+W6z0k/bbXVNX97hYSn36SHeJRw564X6B4Wzd8V7LwngtpS/W+BU5EHZX8dQ+g12tzLNH+KG09MbwxobT9VNLzDPZBp6CdMP9LmaV4tv6+lcZXiPdCVfGLh1Ca4k7zAP8KRMPNce1ZNRoeWCIyTQ088BWPJpqZ/Sz/StbUnUA3gEK/2+dWM3FxPFVotIW/OhfZ7Fb17KmUCg0X4C09kflEocbFcxvFT2WM8iHddZNUw0nyVos5TOrp2qg==;aQ/ZF0keot5jmnd94k0vbw=="
+secured: "PspwSCHY3rIwnvZ0Oi+5ibY4/RshbPq43jyMZ7j0qWvLlBWMH3Yaep7CH8/sZukQltiuVuUxPko6QgeTgP9FbxO8DSGUTa3TA8dEzeDrkvOfGAP+HvAMDFdvQl+jsrrnZXJcG52Wc1flHfQhPlkra8WyFdUe5jyoSdFV7Swv6jvYwcSqmLRyuPCtDjkQLq/lFJmIbKg11hXEZ+UEZOoGu4pKt3q8XWAQhXt/zTsjF9TBwNL7+ic0krYi2zDu/KnqTfd/r+ZAlUiKD2AS7S9XZOmF99bV7jrnLlyNC98IhUjvfyEorpQThkoWciFffhWE316dnNrurj02lWlF2Es6jovPZK3Yp7P5Ru+LbZj7xWE=;Qtj5L3mBgRFE7zzJM597EA=="
 ---
 
