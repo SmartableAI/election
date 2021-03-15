@@ -709,6 +709,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "The Biden administration has reached out to North Korea, seeking to prevent further escalation"
+    excerpt: "During the 2020 campaign, Joe Biden blasted Trump's meetings with Kim as \"photo-ops,\" calling them a \"vanity project\" that gave the ruthless dictator undeserved legitimacy with no concessions in return. The Biden administration is currently in the ..."
+    publishedDateTime: 2021-03-14T03:54:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/13/biden-administration-reaches-out-north-korea/4688610001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4688610001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4688610001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/11/27/USAT/b9aca122-1ad1-457b-a073-193c93c2c00c-AP20332238773340.jpg?auto=webp&crop=2783,1566,x0,y141&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Trump hinted at Lara Trump's rumored Senate run during a speech at a fundraiser for dogs at Mar-a-Lago"
     excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump on Friday gave a short speech during an apparently impromptu appearance at a dog rescue at his Mar-a-Lago club in Palm ..."
     publishedDateTime: 2021-03-13T17:34:00Z

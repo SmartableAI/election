@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2B60D8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2B60D8"
 type: article
 quality: 125
-heat: 305
+heat: 325
 published: true
 
 provider:
@@ -142,6 +142,22 @@ related:
       - url: "https://www.chicagotribune.com/resizer/tAsAY9e1QbKA0beH3-PwyoVHJNg=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/X7YK43QVEVCLHGJEFVDTOOQX6I.aspx"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Fauci says Trump should push supporters to get covid vaccine after ‘disturbing’ poll results show they won’t"
+    excerpt: "Anthony S. Fauci, the nation’s top infectious-disease expert, said in interviews Sunday that former president Donald Trump should be enlisted to encourage his supporters to get a coronavirus vaccine, after recent polling showed Republican men and Trump ..."
+    publishedDateTime: 2021-03-14T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/03/14/fauci-trump-supporters-vaccine/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/14/fauci-trump-supporters-vaccine/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/14/fauci-trump-supporters-vaccine/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XHWUTGD3WMI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
     excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"

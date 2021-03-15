@@ -157,6 +157,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fauci says Trump should push supporters to get covid vaccine after ‘disturbing’ poll results show they won’t"
+    excerpt: "Anthony S. Fauci, the nation’s top infectious-disease expert, said in interviews Sunday that former president Donald Trump should be enlisted to encourage his supporters to get a coronavirus vaccine, after recent polling showed Republican men and Trump ..."
+    publishedDateTime: 2021-03-14T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/03/14/fauci-trump-supporters-vaccine/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/14/fauci-trump-supporters-vaccine/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/14/fauci-trump-supporters-vaccine/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XHWUTGD3WMI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
     publishedDateTime: 2021-03-14T18:42:00Z
@@ -174,6 +190,6 @@ related:
         height: 675
         isCached: true
 
-secured: "mlYjHPm0uPymBLBCNnpLjYVdZG4ozWx+1s4yY9vQHP6gH4AdbrSukR7zXFoZg6OJ2fgUcsPEtdzLDGTF+NvWv7G+iX0lHrNu+DIYGa/KJU+8/j6+ALAkFHDiG7ZGYEVq7f2hRpR1rzLxFEvEWOUBqhNej7r2cgPSD9CDOngGmqqoGngmeITsdtvJHQSJfQjLXMnKAXTcFSbpJsuxBH8+4xokU9sTz6nFE7Ra99fpHVGxHFd/PpJFNKPWG4SvGNHmroBTYpRPmvvFGZWXF0457tdIhGMBPzcYGxTAMMJ7G8ObFo+cF2Uq3GV3ozHlvXfHk7NGKjsqcTOqZXiODt3rWNb/jBPe0sqZWyK1a3XbY8U=;OcO2rovHe6oJPfuejqve8A=="
+secured: "awJvG8J0R53Cr/9E4K7pAo5D8FXFfTCQEFkr47So3D9LopcKSJW+hSej4UUogLmoRZxMLU4nrT4LcRovi4+/oyqxjLb36VQunG8FKkSl8nOS4fr5pvI/5EY9i1MtHqGXgB0A9LRJ9uavNYpm7cfKViGTV8u89HMTdRpnswylrdbnEACQ4Tilr+iCo5ohMYNYbiEXbu3jmoN8Y3lz978RtPwBTYhezZXoQJmJtFh50fDxVdgmuHQvnCrPT+JhJluC/RLI1v7nKZZXRIt2qFf4+16kThi1S9Cniwl3MJxYog6c8abZwVFAAzict2Gf6MG2JmGEzP3Q91sT9UjNHCRTxPIsCzF0dtgdNace5+FyVB8MW6buYzm2GIr1CuEpkPxHQW9wKJCPU+8Fs/gjJgNF2vKw/f8shFsBC4JH4GGgIOT8R7gMJjKXhI1WYOu+MwDAcliCb5P7HHNGA5fE6ApA1jqOTpbUreQMR1QCskxktRmMaja10Htq6iDIsjPPKKcYQI34tIgt10Ry//YF5WfoLQ==;fKuAffVFVN7b8OHEX7gl2Q=="
 ---
 

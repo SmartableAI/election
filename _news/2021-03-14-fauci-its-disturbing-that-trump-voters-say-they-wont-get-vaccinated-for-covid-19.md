@@ -143,6 +143,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Fauci says Trump should push supporters to get covid vaccine after ‘disturbing’ poll results show they won’t"
+    excerpt: "Anthony S. Fauci, the nation’s top infectious-disease expert, said in interviews Sunday that former president Donald Trump should be enlisted to encourage his supporters to get a coronavirus vaccine, after recent polling showed Republican men and Trump ..."
+    publishedDateTime: 2021-03-14T22:53:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/03/14/fauci-trump-supporters-vaccine/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/14/fauci-trump-supporters-vaccine/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/14/fauci-trump-supporters-vaccine/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 106
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XHWUTGD3WMI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
     excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
     publishedDateTime: 2021-03-14T19:08:00Z
@@ -174,6 +190,6 @@ related:
         height: 675
         isCached: true
 
-secured: "IYU+ufGE2cEln/P6/mHqaqUIo3R0DgvBDfe7bpFv3hmlwbTPJJAJjG5a5SlcDzLRmwATP5SVTkvKBdZ8WZnCohK6r6ZLpwsph1IvqHRMbD6CGsDpbdlVVREMR9t9qu/q0FYDHlAJWqS8x2uwQUiii6K1CGFa/JVjqiMf+p2b5HWKyJrQKkRlgb+KMeRJdmzHnVbeoZC0XyfZ908/uDHlBumcZyLotxNaENN/zoRoSvLfUNY3f5PX9V/U5WBbMbpPKvKI+Gb5wSd6X0mK5etjzVJ/gNNUAx7W4wTZ6g5xSBNhXR+xxaUn3n+LEu6+NvsX7qMM5wdDvBqHeea2P8W/p8zZ0dyxmGdYZT/10kFGiEU=;CY5VRme+kh1GaxuOcB4xlw=="
+secured: "uEFe+hrxcP+qUlKuBOaX6fVjlkavw/iO1jQv03vuCSgNig6BuOjFWpbTk9bTOWmhG2CLahQT1MORPVJj7+hTPwcvJr32RV9Gw0DyuDa4f42bJTjKOnSM1ZJ0gusDNVrNzalmiQAJ5vryoDgR0phy3v0Mk7s3eFEVhgULgpttLodmCT+I4vBM5b4DdZeYPtjiV24FXeMd0oD79cKcR4NYCQC34OjLUAfqmMsrENtmG4vlm23i5tnUZ+tI68uelFn+gOsXg2M3rN0+Y4aPhOmycKOB+jcC2IWXp7sIKGsJ/IXnGKW50z0lvEu1vzVD0XN6R1y4PxVkXcrrDGDU3xYRzNuFBS4Uam8jbyAlm+FEE52WPH0AXZWmpfGT+0rX5a6QodokBZvpcF2mfUy2LO8cExiOwTUPFU5DymQ2V2dn10HXKT1jlwL/tWxp9ACsZIXJpnWJYsmboZlzajC3bzC2faXLDv9U7z0aZS73tVcOm0SMnNLMKix17JM+H4gLf/RFPEOhdYDieOhDRLRlRKeQ/g==;BYazeHH74JjS1ggjxNK0Lg=="
 ---
 

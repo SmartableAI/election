@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B32VX"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B32VX"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden wants to see outcome of investigation into Cuomo"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden told reporters at the White House he wanted to see the outcome of the investigation into New York Governor Andrew Cuomo, who is facing pressure to resign over sexual harassment allegations. Asked if Cuomo ..."
+    publishedDateTime: 2021-03-14T22:24:00Z
+    webUrl: "https://www.reuters.com/article/us-new-york-cuomo-biden/biden-wants-to-see-outcome-of-investigation-into-cuomo-idUSKBN2B60QF"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B60QF"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B60QF"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210314&t=2&i=1554871154&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2D0J7"
+        width: 820
+        height: 545
+        isCached: true
   - title: "Biden's dog Major caused 'minor' injury: White House"
     excerpt: "White House. Posted . President Joe Biden's younger dog, a rescue named Major, has decamped the White House after causing a \"mino"
     publishedDateTime: 2021-03-09T21:43:00Z
