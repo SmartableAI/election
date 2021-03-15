@@ -436,6 +436,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Biden: Trump isn’t needed to persuade ‘MAGA folks’ to get COVID-19 vaccine"
+    excerpt: "President Biden on Monday said he sees no need for former President Donald Trump to get involved in urging “MAGA folks” who may be skeptical of COVID-19 vaccines to take them. Biden ..."
+    publishedDateTime: 2021-03-15T19:51:00Z
+    webUrl: "https://nypost.com/2021/03/15/biden-trump-isnt-needed-to-persuade-maga-folks-to-get-covid-vax/"
+    ampWebUrl: "https://nypost.com/2021/03/15/biden-trump-isnt-needed-to-persuade-maga-folks-to-get-covid-vax/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/15/biden-trump-isnt-needed-to-persuade-maga-folks-to-get-covid-vax/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 148
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/biden-ap.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Texas Gov. Abbott blames migrant border surge on Biden rollback of Trump policies"
     excerpt: "Texas Gov. Greg Abbott said the surge of migrants at the southern border is a problem the Biden administration has “self-inflicted” on itself by rolling back former President Donald"
     publishedDateTime: 2021-03-09T20:42:00Z

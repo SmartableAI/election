@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/sen-cassidy-biden-policies-border-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cassidy-biden-policies-border-surge.amp"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
     quality: 170
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/857ee1c8-b07d-47e2-8382-5ec89d629096/90d961b8-6fe7-4a5d-943a-88196b31011f/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden immigration policies have created 'disorder at the border,' GOP lawmakers say"
+    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., and other GOP lawmakers called on President Biden to admit fault and work to reverse changes to immigration policies that they said have caused a dangerous surge in migrants at the southern border."
+    publishedDateTime: 2021-03-15T19:44:25Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yRAWSOw5O4c/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-immigration-policies-created-disorder-at-the-border-gop-lawmakers-say.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e6edc5-273d-4ae0-bc11-ade7978f4b52/4937540a-6dc0-462f-8ed1-ba85163f4f57/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

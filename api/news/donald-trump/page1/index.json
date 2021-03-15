@@ -2,6 +2,63 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-15-trumps-pollster-says-the-republican-party-is-made-up-of-these-five-tribes.md",
+      "title": "Trump's pollster says the Republican Party is made up of these 'five tribes'",
+      "excerpt": "A national survey conducted by former President Donald Trump's 2016 and 2020 pollster suggests that the Republican Party is divided into what it calls five distinct \"tribes.\" The poll by the Republican firm Fabrizio, Lee and Associates highlights that four ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-pollster-republican-party-five-tribes",
+      "originalUrl": "https://www.foxnews.com/politics/trump-pollster-republican-party-five-tribes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Donald-Trump-CPAC-Speech-Florida-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pollster-republican-party-five-tribes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pollster-republican-party-five-tribes.amp",
+      "publishedDateTime": "2021-03-15T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-the-30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump.md",
       "title": "The 30-second, post-presidency speech about dogs that perfectly summarizes Donald Trump",
       "excerpt": "Donald Trump was the first president since Andrew Johnson to have not had any pets while living in the White House. In 2019, after singer Barbra Streisand criticized the then-president for not having a dog,",
@@ -744,7 +801,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1446,
+      "heat": 1486,
       "tags": null,
       "images": [
         {
@@ -1523,58 +1580,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-fox-news-maria-bartiromo-went-all-in-on-trump-her-gamble-risks-alienating-corporate-america.md",
-      "title": "Fox News' Maria Bartiromo went all in on Trump. Her gamble risks alienating Corporate America.",
-      "excerpt": "The legendary business reporter is aiming for a coveted primetime slot as her next big career move.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fox-news-maria-bartiromo-career-gamble-to-get-on-primetime-2021-3",
-      "originalUrl": "https://www.businessinsider.com/fox-news-maria-bartiromo-career-gamble-to-get-on-primetime-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6048005cdf53f8001802a61b?width=700",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

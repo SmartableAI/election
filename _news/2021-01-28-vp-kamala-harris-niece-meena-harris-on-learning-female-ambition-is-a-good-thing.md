@@ -605,6 +605,20 @@ related:
         width: 3000
         height: 1957
         isCached: true
+  - title: "VP Harris, Jill Biden hit the road to promote relief plan"
+    excerpt: "Biden, Vice President Kamala Harris and their spouses have begun an ambitious, cross-country tour this week to promote the $1.9 trillion plan as a way to battle the coronavirus and boost the economy. The road show — dubbed the “Help is here” tour by ..."
+    publishedDateTime: 2021-03-15T19:06:00Z
+    webUrl: "https://apnews.com/article/joe-biden-pennsylvania-coronavirus-pandemic-jill-biden-new-mexico-20daf5a372454ce90589606d0f53d620"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/f7bc58f8932946c0a08be1db07bef66d/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "Biden brother touts relationship with president in Inauguration Day ad for law firm"
     excerpt: "President Joe Biden's brother Frank promoted his relationship to the commander-in-chief in an Inauguration Day advertisement for the law firm he advises. Frank Biden is a non-attorney senior ..."
     publishedDateTime: 2021-01-28T20:49:00Z

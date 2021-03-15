@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden is boxed in on immigration as migrant children crisis continues"
+    excerpt: "President Joe Biden is facing growing political tension, including from within his own party, over his administration's strategy on the US-Mexico border as officials race to address the number of children crossing the border alone.\n    \n"
+    publishedDateTime: 2021-03-15T19:50:54Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_CgkQfK9_2U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/biden-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/biden-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210305225206-09-migrants-us-biden-trump-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senior Biden administration officials to meet with Chinese counterparts next week in Alaska"
     excerpt: "Two top Biden administration officials will meet with their Chinese counterparts next week in what will be the first meeting of officials from both countries since President Joe Biden took office in January.\n    \n"
     publishedDateTime: 2021-03-10T18:07:19Z
@@ -156,6 +172,22 @@ related:
     quality: 158
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200914023143-01-yoshihide-suga-0912-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden says he wants to see investigation outcome when asked if Cuomo should resign"
+    excerpt: "(CNN)President Joe Biden said Sunday he wants to see what comes of an investigation into allegations of sexual harassment against New York Gov. Andrew Cuomo when asked if the Democratic governor should resign. \"I think the investigation is underway and we ..."
+    publishedDateTime: 2021-03-14T20:45:00Z
+    webUrl: "https://www.cnn.com/2021/03/14/politics/joe-biden-andrew-cuomo/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/14/politics/joe-biden-andrew-cuomo/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/14/politics/joe-biden-andrew-cuomo/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 129
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311182531-01-joe-biden-0210-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

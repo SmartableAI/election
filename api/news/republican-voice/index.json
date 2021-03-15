@@ -2,25 +2,25 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2021-03-15-trumps-pollster-says-the-republican-party-is-made-up-of-these-five-tribes.md",
-      "title": "Trump's pollster says the Republican Party is made up of these 'five tribes'",
-      "excerpt": "A national survey conducted by former President Donald Trump's 2016 and 2020 pollster suggests that the Republican Party is divided into what it calls five distinct \"tribes.\"",
+      "path": "_news/2021-03-15-psaki-acknowledges-big-problem-at-border-blames-trump-administration.md",
+      "title": "Psaki acknowledges ‘big problem’ at border, blames Trump administration",
+      "excerpt": "White House press secretary Jen Psaki on Monday referred to the influx of migrants at the southern border as a “big problem” and blamed the Trump administration for an “unworkable system” -- following weeks of the Biden administration refusing to call it a “crisis.”",
       "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NvLTvpIOkjM/trump-pollster-republican-party-five-tribes",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NvLTvpIOkjM/trump-pollster-republican-party-five-tribes",
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yJNGeaJjy10/psaki-acknowledges-big-problem-at-border-blames-trump-administration",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yJNGeaJjy10/psaki-acknowledges-big-problem-at-border-blames-trump-administration",
       "featuredContent": null,
       "highlight": {
         "text": "Republican Voice",
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 192,
+      "heat": 175,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/cdea85e2-ea28-429b-a835-9cd14914c963/761c5027-d1f1-4704-bcc4-9a870e352bf8/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -28,9 +28,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-pollster-republican-party-five-tribes.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pollster-republican-party-five-tribes.amp",
-      "publishedDateTime": "2021-03-15T08:02:07-07:00",
+      "ampWebUrl": "https://www.foxnews.com/politics/psaki-acknowledges-big-problem-at-border-blames-trump-administration.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-acknowledges-big-problem-at-border-blames-trump-administration.amp",
+      "publishedDateTime": "2021-03-15T11:33:46-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",
@@ -54,6 +54,63 @@
       ],
       "topics": [
         "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-trumps-pollster-says-the-republican-party-is-made-up-of-these-five-tribes.md",
+      "title": "Trump's pollster says the Republican Party is made up of these 'five tribes'",
+      "excerpt": "A national survey conducted by former President Donald Trump's 2016 and 2020 pollster suggests that the Republican Party is divided into what it calls five distinct \"tribes.\" The poll by the Republican firm Fabrizio, Lee and Associates highlights that four ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/trump-pollster-republican-party-five-tribes",
+      "originalUrl": "https://www.foxnews.com/politics/trump-pollster-republican-party-five-tribes",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 132,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Donald-Trump-CPAC-Speech-Florida-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-pollster-republican-party-five-tribes.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-pollster-republican-party-five-tribes.amp",
+      "publishedDateTime": "2021-03-15T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -456,7 +513,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 235,
+      "heat": 255,
       "tags": null,
       "images": [
         {
@@ -729,7 +786,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 191,
+      "heat": 211,
       "tags": null,
       "images": [
         {
@@ -1066,7 +1123,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 890,
+      "heat": 910,
       "tags": null,
       "images": [
         {
@@ -1588,62 +1645,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-advisor-botches-her-spanish-mistakenly-tells-migrants-border-is-not-closed.amp",
       "publishedDateTime": "2021-03-10T15:20:30-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-blinken-says-trump-era-israel-peace-deals-were-a-very-good-thing.md",
-      "title": "Blinken says Trump-era Israel peace deals were a 'very good thing'",
-      "excerpt": "Secretary of State Antony Blinken on Wednesday paid a compliment to the Trump administration for its Abraham Accords in the Middle East. ",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvuKjfjyVh4/blinken-trump-israel-peace-deals-very-good-thing",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yvuKjfjyVh4/blinken-trump-israel-peace-deals-very-good-thing",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 195,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/0741f843-e9f8-4028-af2f-1a250d66796e/97e579a3-5542-4c1d-965b-c6f6dcb0efac/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/blinken-trump-israel-peace-deals-very-good-thing.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-trump-israel-peace-deals-very-good-thing.amp",
-      "publishedDateTime": "2021-03-10T14:54:35-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-i
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/18/politics/joe-biden-donald-trump-inauguration-coronavirus/index.html"
 type: article
 quality: 190
-heat: 3930
+heat: 3950
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 190
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201207182000-immigrant-citizenship-exam-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden White House would welcome Trump's help in promoting vaccine"
+    excerpt: "The White House said it would welcome former President Donald Trump's help in promoting the coronavirus vaccine to his supporters but cited other ways to convince conservatives to get the shot.\n    \n"
+    publishedDateTime: 2021-03-15T18:36:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zDRx9-6rEng/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/trump-vaccine-promotion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/trump-vaccine-promotion/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302134454-04-trump-cpac-0228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

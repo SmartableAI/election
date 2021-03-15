@@ -599,6 +599,20 @@ related:
         width: 3000
         height: 1957
         isCached: true
+  - title: "VP Harris, Jill Biden hit the road to promote relief plan"
+    excerpt: "Biden, Vice President Kamala Harris and their spouses have begun an ambitious, cross-country tour this week to promote the $1.9 trillion plan as a way to battle the coronavirus and boost the economy. The road show — dubbed the “Help is here” tour by ..."
+    publishedDateTime: 2021-03-15T19:06:00Z
+    webUrl: "https://apnews.com/article/joe-biden-pennsylvania-coronavirus-pandemic-jill-biden-new-mexico-20daf5a372454ce90589606d0f53d620"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 120
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/f7bc58f8932946c0a08be1db07bef66d/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
   - title: "VP Kamala Harris' niece Meena Harris on learning 'female ambition is a good thing'"
     excerpt: "Meena Harris spoke with \"The View\" co-host Sunny Hostin on her children's book \"Ambitious Girl\" and how her family serves as a constant inspiration to her work."
     publishedDateTime: 2021-01-28T00:39:00Z

@@ -623,6 +623,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Joe Biden Prompts Republican Crisis of Confidence on World Stage"
+    excerpt: "President Joe Biden declared last month that \"America is back,\" as his administration looks to revive traditional U.S. diplomacy and global leadership that he and his allies said were severely weakened under former President Donald Trump. Early polls ..."
+    publishedDateTime: 2021-03-15T15:02:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-prompts-republican-crisis-confidence-world-stage-gallup-foreign-policy-1576191?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 125
+    images:
+      - url: "https://d.newsweek.com/en/full/1755891/joe-biden-pictured-south-lawn-dc.jpg"
+        width: 2500
+        height: 1782
+        isCached: true
   - title: "Kushner calls Biden move on Iran 'smart'"
     excerpt: "Jared Kushner, former President Trump's son-in-law and a former senior White House adviser, praised President Biden for signaling he is open to rejoining the Iran deal and said his administration has"
     publishedDateTime: 2021-03-15T13:36:00Z
@@ -642,7 +658,7 @@ related:
   - title: "White House says Biden continues to support same-sex unions"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden continues to support same-sex unions, White House Press Secretary Jen Psaki said on Monday after the Vatican said priests cannot bless same-sex unions. Psaki said Biden, a devout Catholic, had no personal ..."
     publishedDateTime: 2021-03-15T16:20:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-lgbt-idUSKBN2B72B1"
+    webUrl: "https://www.reuters.com/article/topNews/idUSKBN2B72B1"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B72B1"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B72B1"
     type: article
@@ -911,6 +927,20 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "What Joe Biden’s Planned Tax Hikes Mean for Your Money"
+    excerpt: "The U.S. president’s proposal will primarily affect those earning more than $400,000 a year. At the same time, states are also considering tax hikes."
+    publishedDateTime: 2021-03-15T18:58:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-15/biden-tax-hike-how-the-u-s-president-s-plan-could-affect-your-money"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_iN2k5PDBvI/v1/1200x900.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."
     publishedDateTime: 2021-03-10T12:13:00Z
@@ -1038,6 +1068,6 @@ related:
         height: 663
         isCached: true
 
-secured: "YdYGoPnvhUGh0vtDtzFUfxTvYgJtZUQzCl92SRomxOh+wHkotTR9aSWtjyB3TiY4MNwVyXzkqUKKUorKtifJsK4RGKxrurPFms+v5QhN3PE8NWUTfDlVkG05xY6Jynu9flV2nr4cCa8f14YvHMQkWOCw0bwpCzOGWOcJz01j+bNHlPj87qSsBgJ5KhE32tPznQGad6Y/Q7aTDSSkv5Q5lZY6r0f8EKJLKBxDwUV9Y5zRLxJVKtcLOqHdOs06FLmCdreVVnI0pYB0tRzBFSU+/yb3tP7hcGZG7iB+g8J0jLHa8ajfYH+UH9GpVLx+VUvNOjE1E0XqKBD8Srrps1Wvs57gPShUypMEOprJP8HkxbQ=;EyTJB10uSSD8MRuJSWkgig=="
+secured: "wL0FwY9eTqRF5qslIaSLuiXHZXG/erMBKLtcvaWSviLWeqgxwmUo2/Uz2HRVLzLCaKOSM8cmdFkauIO6P6ZW3KuEsZgPqw14hqcENyY81ohHu6bhk3L3zhTQYzXGJE2VrshipLZTgUR5N99kJFziI7HWwfElTNmD5Nu4y4H+o2bGDr3YHja+XgKbJ/GtvApNpkAsEfHaoVnwd9n2VT7rq445BvgPzwIuQvrsFW/TM7BEEd/DowWRlpHUS9ebqoTw0ieus2aUYwLRmhSMTMFGUM/gutJQnAfvkUzMa0bzM5/hpQp/koXBu5R74XIqpPzR+nYBk1YAtvHZlE0xMJiCRWTtU/mhuHBpnsmRSjoK4B9D/OaF1aplIueSHdq7ztLQawkYOvEaarQkjpTCkcQ85qnxNOZHxwKUDAyGLWyXGrpmMXtCaXWapsn077xblBLbNTGY6hf81hzben//fANEvCR3Em8hg4UX4qAGcZdBTWiF9Rrwb9VR2Rm752KXlHXVdVcHpbWHjxCs21bJK2qZ9A==;Yw76eXiehzHkJ+Xl/ubL8A=="
 ---
 

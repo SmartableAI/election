@@ -243,6 +243,15 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
+  - title: "Vice President Harris Visit to Las Vegas Vaccination Clinic"
+    excerpt: "President Biden spoke to reporters about the urgent need to pass the American Rescue Plan before taking part in an economic… President Biden and Vice President Kamala Harris took a virtual tour of the COVID-19 vaccine distribution site set up at… Vice ..."
+    publishedDateTime: 2021-03-15T19:45:00Z
+    webUrl: "https://www.c-span.org/video/?509908-1/vice-president-harris-visit-las-vegas-vaccination-clinic"
+    type: article
+    provider:
+      name: C-SPAN
+      domain: c-span.org
+    quality: 35
 
 secured: "2sr9vpNmKQQzK4Hu/CHcFvOSf1exNZXHIYlvC1eEZw6BeCZTt5XLknhHLWCNZOaEemPuMW1oiBaWRulN050YcX3s/T2sp2JngZALa7SI4hySRYBPfML62Xf3idHnnpaF/OyRWu3SMASK2MhJe7ve05MrpF/eQXR6cU8ptqCB2mcExjx03podgcOPbYuu0zOYRcTdRaTSRIRjgPKU9ZdgSWCuvs9KpBo9ARa25sST47p/7+KrdSr/5srp8cmVjD544TGMT2c/Oc/i4lcKEKscaRVT+fEWpW5+AFiaeVd67pl6ZWpmVUJ1YZbilSmM6U/iNeLvgPXn2YvggHakjPq5ys10wMyM4SgDje0ylqdmAvDNcHjF4ywT/lnrTvvkrxcHfr7neQ63RHFeCrPBLaxrG64ogRBsOzDLmrXusZXu0D+i2IsYoXGmvcvC3iD/kbRw5re8ruY+UTS7hmi/J4vjeV/g8a10GiEdYCThzkWznFfSPYxMoq0U4Sskdqrr2oFrwKf9B7n4EttFl/hyg351VQ==;BP8LgYo10OZ9VOX5af0d4Q=="
 ---

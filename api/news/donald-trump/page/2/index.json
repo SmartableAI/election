@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-10-fox-news-maria-bartiromo-went-all-in-on-trump-her-gamble-risks-alienating-corporate-america.md",
+      "title": "Fox News' Maria Bartiromo went all in on Trump. Her gamble risks alienating Corporate America.",
+      "excerpt": "The legendary business reporter is aiming for a coveted primetime slot as her next big career move.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/fox-news-maria-bartiromo-career-gamble-to-get-on-primetime-2021-3",
+      "originalUrl": "https://www.businessinsider.com/fox-news-maria-bartiromo-career-gamble-to-get-on-primetime-2021-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6048005cdf53f8001802a61b?width=700",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T01:01:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-trump-says-country-is-being-destroyed-at-border-amid-migrant-surge.md",
       "title": "Trump says country is being ‘destroyed’ at border amid migrant surge",
       "excerpt": "Former President Donald Trump on Tuesday said the country is being “destroyed” at the US-Mexico border as it experiences a surge in migrants. “Our country is being destroyed at the Southern",
@@ -1554,63 +1606,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-tim-allen-says-he-liked-that-president-trump-pissed-people-off.md",
-      "title": "Tim Allen says he 'liked' that President Trump 'pissed people off'",
-      "excerpt": "Tim Allen makes a living making people laugh but one person who's apparently made the funnyman chuckle himself is former President Donald Trump. The \" Last Man Standing \" star appeared on the \"WTF with Marc Maron\" podcast this week where he was asked about whether he views himself as an \"old school conservative\" as opposed to a \"right-wing wack job.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/tim-allen-liked-president-trump-pissed-people-off",
-      "originalUrl": "https://www.foxnews.com/entertainment/tim-allen-liked-president-trump-pissed-people-off",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Tim-Allen-1.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/tim-allen-liked-president-trump-pissed-people-off.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/tim-allen-liked-president-trump-pissed-people-off.amp",
-      "publishedDateTime": "2021-03-03T08:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

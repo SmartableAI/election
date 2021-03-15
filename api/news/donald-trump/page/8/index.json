@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2021-01-26-trump-is-threatening-to-form-the-patriot-party-that-name-has-already-been-used-by-hillbilly-socialists.md",
+      "title": "Trump is threatening to form the Patriot Party. That name has already been used — by ‘hillbilly’ socialists.",
+      "excerpt": "The original Patriot Party was a group of socialist radicals who sought to stoke revolutionary fervor among poor and working-class White people, decking themselves out in Confederate flags while taking their political inspiration from the Black Panthers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/",
+      "originalUrl": "https://www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EJN6TCWUF5GYFMPY24WTPRXZ3M.jpg&w=1440",
+          "width": 1440,
+          "height": 922,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/01/25/patriot-party-history-socialist-trump/?outputType=amp",
+      "publishedDateTime": "2021-01-25T09:24:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-01-26-deborah-birx-said-trump-was-being-given-parallel-data-on-covid-19.md",
       "title": "Deborah Birx said Trump was being given ‘parallel data’ on covid-19",
       "excerpt": "Deborax Birx saw Trump presenting graphs that she never made, the former White House coronavirus response coordinator said Sunday.",
@@ -86,58 +138,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-25-sarah-sanders-former-trump-press-secretary-running-for-arkansas-governor.md",
-      "title": "Sarah Sanders, former Trump press secretary, running for Arkansas governor",
-      "excerpt": "Sarah Sanders, Donald Trump’s former chief spokeswoman and one of his closest aides, is running for Arkansas governor, a senior campaign official told The Associated Press.",
-      "sourceUrl": null,
-      "webUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html",
-      "originalUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 183,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.chicagotribune.com/resizer/0JsbnzrsD48NyOvJ__X1lH1FNKQ=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/Q75DM32LIRBHLLUCEEZ6NJKLGI.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/ct-nw-sarah-sanders-arkansas-governor-20210125-su7bqehy7famzpdai6nxzk2pba-story.html?outputType=amp",
-      "publishedDateTime": "2021-01-25T03:44:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Chicago Tribune",
-        "domain": "chicagotribune.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/chicagotribune.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -432,7 +432,7 @@
       "originalUrl": "https://www.cbsnews.com/news/trump-second-impeachment-managers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 203,
       "tags": null,
       "images": [
         {
@@ -910,7 +910,7 @@
       "originalUrl": "https://www.washingtonpost.com/world/europe/nato-stoltenberg-trump-biden/2021/01/21/e9bb2dae-5b5e-11eb-a849-6f9423a75ffd_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 140,
       "tags": null,
       "images": [
         {

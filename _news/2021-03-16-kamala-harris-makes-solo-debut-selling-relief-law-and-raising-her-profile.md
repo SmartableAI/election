@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/on-small-business/kamala-h
 webUrl: "https://www.washingtonpost.com/business/on-small-business/kamala-harris-makes-solo-debut-selling-relief-law-and-raising-her-profile/2021/03/15/6d48ad28-85b1-11eb-be4a-24b89f616f2c_story.html"
 type: article
 quality: 103
-heat: 143
+heat: 163
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Harris arrives in Las Vegas to tout COVID relief bill"
+    excerpt: "Vice President Kamala Harris touched down in Las Vegas on Monday, where she visited a vaccination clinic at UNLV and will speak at an event at the Culinary Training Center in North Las Vegas. Harris’ trip was one part of a larger push by officials in ..."
+    publishedDateTime: 2021-03-15T19:58:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14916651_web1_web-Harris4-0315.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
     excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
     publishedDateTime: 2021-03-13T10:00:00Z

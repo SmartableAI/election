@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/trump-republican-fundrai
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/trump-republican-fundraising-midterms/index.html"
 type: article
 quality: 170
-heat: 210
+heat: 230
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://static.politico.com/dc/c0/a8f7784b41aebcd07dfd92d4f058/20210128-bill-de-blasio-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "An unlikely Trump turncoat shows the GOP way to resist his influence"
+    excerpt: "Jaime Herrera Beutler is not one to make waves on Capitol Hill. But during Donald Trump’s second impeachment trial, she almost created a tsunami. After she publicly revealed damaging details about Trump’s phone call with House Minority Leader Kevin ..."
+    publishedDateTime: 2021-03-15T13:57:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/jaime-herrera-beutler-profile-475932"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/44/7d/570675084c038e258a75ce3660b1/gettyimages-1134736564.jpg"
+        width: 5594
+        height: 3727
         isCached: true
 
 secured: "M/Hh9DQaw21Dxgign20lpT8FPWAgTqDozU5fIaVsJR+dYHtQARsq/Zu5Zg5yRIzyl+9N3upbnm3WP2hD4l4n/P/ply4jWrDBrUkTV/RI4GJJ/mYuociPg1UvSTUqC6HPIZ02Ru3EX+nlBZoULifPhgGro7AoHxtlX1O9cmmcy2mCMjPqnJf15bQJx5B6hphfvn/D/XhgbYWP/nA7cW6sC/1bcknbQUHJ7zLFpJeHRURyRhlg2LJhW3b6weSrDc1VOzVnoTzFWEHlhlxvqjxUX8UiZyFGdAM8LbzcDsOPJhRgPwcuqM82ZCt2GJru8Ky6Ku74Z7AIhX9A3GQLPqvAjbD9+6j2oS04LaiE/G0h2as=;CUgIROe4dmCccmE6ZF/VxA=="

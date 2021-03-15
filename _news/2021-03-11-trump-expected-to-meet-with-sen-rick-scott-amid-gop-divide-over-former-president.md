@@ -61,6 +61,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "An unlikely Trump turncoat shows the GOP way to resist his influence"
+    excerpt: "Jaime Herrera Beutler is not one to make waves on Capitol Hill. But during Donald Trump’s second impeachment trial, she almost created a tsunami. After she publicly revealed damaging details about Trump’s phone call with House Minority Leader Kevin ..."
+    publishedDateTime: 2021-03-15T13:57:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/jaime-herrera-beutler-profile-475932"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/44/7d/570675084c038e258a75ce3660b1/gettyimages-1134736564.jpg"
+        width: 5594
+        height: 3727
+        isCached: true
 
 secured: "CIs85jej1TKcS7ZF/wsoby0YlNeBOvjlcZ+my5y1k1CvTWofSRNaWqeJMv5P/1fHtiLr8HkQWuWY2cfaYTsu+M/U0motcnIJJ6K7UnSOD5WT9o052Sdat39sfQFQupUtoZQGBFqPnLO+KSzgIIC8ljfCGYa+Kx8wictifro34kN3C0K2pHLZhBiem10DRmWV/PZZDg5x3LqHbuggLPDvypVPqT6hnu+SHCp6WaJRVXULtonOkbQdP0pKtly5a4y8WWN+VqW8a7pz5+BRxCHuCV4Vp5BUyaUC7Hf0JEygeoQ3HKQEPCdz2bxEV+Mx2U6bdFRYZfJz8+amTfiDIe6Y29Fg0pb8ODo59O5Ts9PAfw8=;wSlVuqmwk2kUypa+gVYuPQ=="
 ---

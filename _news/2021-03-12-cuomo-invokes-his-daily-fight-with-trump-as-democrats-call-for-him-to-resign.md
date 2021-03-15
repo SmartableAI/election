@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/cuomo-fight-trump-daily-resign.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-fight-trump-daily-resign.amp"
 type: article
 quality: 171
-heat: 191
+heat: 211
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d000a34-5ccc-46aa-8af4-9f28c864e571/35df76f6-3d51-490b-9688-2a831c83b17b/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Bill Maher suggests Cuomo's refusal to resign is inspired by Trump: He 'never backed down'"
+    excerpt: "\"Real Time\" host Bill Maher suggested on Friday night that embattled New York Gov. Andrew Cuomo may be taking a page from former President Trump's playbook as the Democrat faces growing calls to resign. \"It is amazing when you think about it: In just 12 ..."
+    publishedDateTime: 2021-03-13T06:03:00Z
+    webUrl: "https://www.foxnews.com/entertainment/bill-maher-andrew-cuomo-trump-never-backed-down"
+    ampWebUrl: "https://www.foxnews.com/entertainment/bill-maher-andrew-cuomo-trump-never-backed-down.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/bill-maher-andrew-cuomo-trump-never-backed-down.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/02/640/320/Northam-Trump-AP.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "9H6gEaaVeNdTuLJJr00esFZP+v2pin0KJ9QDtF9xcxwrCdEuEh5NCXucdMhBuy5Jpm0EDtXlUQdVYpdIJxmS6ENPH9/l5P2NHPIk65x/yiPgRoNsA5OKmKxAcNwbJTBQaeeQN4xfo9Ivohh9weyw2s0TfjueJodWf3TVT0VSwv7fsVsQi1BEulcIdYA7TOP9ExmKx2K8c4a992VvkMupoCw/zFU7SEd/GmSuEL8FizS1MxqLDdRNz8jnTj2Q9oYGwpNwY3Sza91iK5qdU6SyV+fmPS6f3rjfHPnrD8pzhV+XBK+VW9mSLbpxFIS2LA9bhROltbSKuDX52ZBhZ2dTjJpv6+jqCnElqSin6Ojl1l8=;FdIbUdCQiU/S7SVzGgrnJQ=="

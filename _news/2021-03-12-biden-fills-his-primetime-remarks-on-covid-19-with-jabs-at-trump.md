@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-ja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
 type: article
 quality: 190
-heat: 890
+heat: 910
 published: true
 
 provider:
@@ -428,6 +428,22 @@ related:
     quality: 150
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-biden.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Biden: Trump isn’t needed to persuade ‘MAGA folks’ to get COVID-19 vaccine"
+    excerpt: "President Biden on Monday said he sees no need for former President Donald Trump to get involved in urging “MAGA folks” who may be skeptical of COVID-19 vaccines to take them. Biden ..."
+    publishedDateTime: 2021-03-15T19:51:00Z
+    webUrl: "https://nypost.com/2021/03/15/biden-trump-isnt-needed-to-persuade-maga-folks-to-get-covid-vax/"
+    ampWebUrl: "https://nypost.com/2021/03/15/biden-trump-isnt-needed-to-persuade-maga-folks-to-get-covid-vax/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/15/biden-trump-isnt-needed-to-persuade-maga-folks-to-get-covid-vax/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 148
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/biden-ap.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

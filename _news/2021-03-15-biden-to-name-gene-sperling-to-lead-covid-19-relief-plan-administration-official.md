@@ -128,20 +128,36 @@ related:
         height: 558
         isCached: true
   - title: "Biden taps Gene Sperling to oversee COVID-19 relief package"
-    excerpt: "The White House says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package"
-    publishedDateTime: 2021-03-15T17:01:00Z
-    webUrl: "https://www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    excerpt: "The White House says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package ..."
+    publishedDateTime: 2021-03-15T18:22:00Z
+    webUrl: "https://abcnews.go.com/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
+    ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABCNews
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Health/WireAP_1f585f6d25c046ac96827091c1f322cd_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "Biden touts direct checks ahead of American Rescue Plan tour"
+    excerpt: "Washington — President Biden continued his message that \"help is here\" on Monday, speaking briefly on the implementation of his $1.9 trillion COVID-19 relief package as he, Vice President Kamala Harris and their spouses prepare to depart on a nationwide ..."
+    publishedDateTime: 2021-03-15T19:20:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-covid-relief-bill-american-rescue-act-remarks-live-stream-today-2021-03-15/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-covid-relief-bill-american-rescue-act-remarks-live-stream-today-2021-03-15/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-covid-relief-bill-american-rescue-act-remarks-live-stream-today-2021-03-15/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/15/b69c1c03-363c-4d82-a08d-6a1c76fc816d/thumbnail/1200x630/a3f25d54f8264a3111da18afbe05aae3/gettyimages-1307093617.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
@@ -302,6 +318,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden taps Gene Sperling to oversee implementation of $1.9 trillion American Rescue Plan"
+    excerpt: "President Biden has tapped Gene Sperling, a longtime economic adviser under Democratic administrations, to oversee implementation of his $1.9 trillion coronavirus relief plan, the White House announced Monday."
+    publishedDateTime: 2021-03-15T13:43:00Z
+    webUrl: "https://www.cbsnews.com/news/biden-gene-sperling-implementation-american-rescue-plan/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-gene-sperling-implementation-american-rescue-plan/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-gene-sperling-implementation-american-rescue-plan/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 116
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/15/40187898-7362-4551-bc6e-84607736896e/thumbnail/1200x630/f7fa0cbfadb1363e4d116f35cd2d8c98/gettyimages-460966663.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Biden White House launching 'Help is Here' tour to promote stimulus package in key states"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden and his allies are hitting the road this week to promote the $1.9 trillion pandemic relief bill he signed in law last week as the right prescription for a country humbled by the COVID-19 pandemic. Biden and a ..."

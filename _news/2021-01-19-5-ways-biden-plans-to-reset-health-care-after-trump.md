@@ -271,6 +271,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden White House would welcome Trump's help in promoting vaccine"
+    excerpt: "The White House said it would welcome former President Donald Trump's help in promoting the coronavirus vaccine to his supporters but cited other ways to convince conservatives to get the shot.\n    \n"
+    publishedDateTime: 2021-03-15T18:36:05Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zDRx9-6rEng/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/trump-vaccine-promotion/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/trump-vaccine-promotion/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 190
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302134454-04-trump-cpac-0228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden puts Trump's climate and environmental rollbacks in his crosshairs"
     excerpt: "Among incoming President Joe Biden's Day One priorities: Begin rolling back climate and environmental policies of the Trump administration, many of which were rollbacks of Obama-era or earlier rules.\n    \n"
     publishedDateTime: 2021-01-20T10:07:12Z
