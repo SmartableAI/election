@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Sheriff who flew Trump flag on patrol boat violated ban on partisan political activity, officials say"
+    excerpt: "with the banner depicting President Donald Trump’s face superimposed over an American flag. Hilton, a Republican, acknowledged that an attendee gave deputies the flag and he approved its exhibition, drawing criticism from residents and other officials ..."
+    publishedDateTime: 2021-03-15T02:27:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/03/14/hatch-act-trump-boat-flag-sheriff/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/14/hatch-act-trump-boat-flag-sheriff/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/14/hatch-act-trump-boat-flag-sheriff/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MTWNMX7RMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
 
 secured: "KlmHP8KYh/rRy4IX2pzrT6ieKoDM1qD34PUl2Mg9zE85RFNF7OXg6K4OKmfXwyf77ZxN+io0axk/0HSfh8Xlzb9aJCcq7EwLgS4YdmF2RSxUlYExf7kl7hPVGXBkPVyhzHi7cTvj5vCb1cEDyKz0i/KSCaHcBJajTb/1hkINHMIwCet+Dve4RtIBf5+0dmKBqUE0iKgJyH9lyi2DIZ1lmF8YUhgfkyJLa0aMtrvIZ1EXWhO6zAAsCuWsTuxDLlO4Ry0GgAHCKxgz8Pn2WvzhKRWDZtnCkaOZBX9e4hZrK0exSeEWY2er9qJYBQ4mdOV9AyPG+1bay9YjwL14t8KQ1Lfjk2+JheVJVtTLZ275Vlk=;/UAscrzyctvrxzknEIc4bQ=="
 ---

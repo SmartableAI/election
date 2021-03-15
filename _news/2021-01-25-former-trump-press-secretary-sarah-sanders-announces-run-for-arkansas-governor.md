@@ -47,6 +47,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Donald Trump a surprise visitor at Sarah Huckabee Sanders campaign event"
+    excerpt: "Former President Donald Trump made a surprise appearance at a weekend campaign event for Sarah Huckabee Sanders in her run for Arkansas governor. "
+    publishedDateTime: 2021-03-15T03:17:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pXElnTkMVbQ/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Trump-Sanders-Split.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Huckabee pushes back on calls for 'deprogramming' Trump voters: 'The cult of the left'"
     excerpt: "In response to some people claiming Trump supporters need to be \"deprogrammed,\" Fox News contributor Mike Huckabee on Tuesday explained why people voted for the former reality TV star to lead the country."
     publishedDateTime: 2021-01-19T14:11:33Z

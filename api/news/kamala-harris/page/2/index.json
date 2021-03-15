@@ -2,6 +2,63 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-01-30-kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together.md",
+      "title": "Kamala Harris TV appearance in West Virginia surprises Manchin: 'That's not working together'",
+      "excerpt": "Vice President Kamala Harris promoted the Biden administration’s \"critical\" coronavirus \"American Rescue Plan\" this week in a pair of interviews with local TV stations in West Virginia and Arizona.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/politics/kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together",
+      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/HarrisManchinSplit.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-tv-appearance-in-west-virginia-surprises-manchin-thats-not-working-together.amp",
+      "publishedDateTime": "2021-01-30T01:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-27-ex-drug-kingpin-and-death-row-records-founder-michael-harry-o-harris-weeps-thanks-trump-for-pardon.md",
       "title": "Ex-drug kingpin and 'Death Row Records' founder Michael ‘Harry-O’ Harris weeps, thanks Trump for pardon",
       "excerpt": "His was one of 73 pardons and 70 sentence commutations issued by Trump during his finals days in office last week. \"I appreciate Donald Trump, his children, his son-in-law. Whyever he did it, he did it, when so many others wouldn't do it,\" Harris said of ...",

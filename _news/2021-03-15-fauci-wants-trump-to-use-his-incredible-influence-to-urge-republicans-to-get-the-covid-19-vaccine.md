@@ -28,11 +28,11 @@ images:
 
 related:
   - title: "Fauci hopes Trump will push his supporters to get COVID-19 vaccine"
-    excerpt: "WASHINGTON (Reuters) - Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will push his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should not be ..."
+    excerpt: "Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will push his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should not be lifted prematurely."
     publishedDateTime: 2021-03-14T15:49:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUKKBN2B60D8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2B60D8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2B60D8"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2B60D8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B60D8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B60D8"
     type: article
     provider:
       name: Reuters
@@ -184,6 +184,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f4f20a7661ff59a053aa5dd825fc1f75f80afc29/0_302_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3079d7acb36c2746d9ccdbdc47a46f79"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Every living former president has urged Americans to get vaccinated in a new ad series — apart from Trump who is demanding credit for the vaccine"
+    excerpt: "DOW S&P 500 NASDAQ 100 Every living former US president has appeared in an ad campaign telling Americans to get vaccinated against COVID-19, apart from Donald Trump, who has instead released a statement demanding credit for the vaccine. On Thursday ..."
+    publishedDateTime: 2021-03-11T11:48:00Z
+    webUrl: "https://www.businessinsider.com/former-us-presidents-urge-vaccinations-while-trump-demands-credit-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/former-us-presidents-urge-vaccinations-while-trump-demands-credit-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-us-presidents-urge-vaccinations-while-trump-demands-credit-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/6049fe89f196be0018beec7e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Fauci: Trump should use his sway to promote COVID vaccinations"
     excerpt: "The government's top infectious disease expert lamented polling showing that Trump supporters are more likely to refuse to get vaccinated."

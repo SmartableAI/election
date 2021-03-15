@@ -156,13 +156,13 @@
     {
       "path": "_news/2021-03-14-fauci-hopes-trump-will-push-his-supporters-to-get-covid-19-vaccine.md",
       "title": "Fauci hopes Trump will push his supporters to get COVID-19 vaccine",
-      "excerpt": "WASHINGTON (Reuters) - Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will push his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should not be ...",
+      "excerpt": "Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will push his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should not be lifted prematurely.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUKKBN2B60D8",
-      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUKKBN2B60D8",
+      "webUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2B60D8",
+      "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2B60D8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 345,
+      "heat": 365,
       "tags": null,
       "images": [
         {
@@ -176,8 +176,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUKKBN2B60D8",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2B60D8",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B60D8",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B60D8",
       "publishedDateTime": "2021-03-14T08:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -962,7 +962,7 @@
       "originalUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 121,
       "tags": null,
       "images": [
         {

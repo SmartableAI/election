@@ -48,6 +48,22 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Donald Trump a surprise visitor at Sarah Huckabee Sanders campaign event"
+    excerpt: "Former President Donald Trump made a surprise appearance at a weekend campaign event for Sarah Huckabee Sanders in her run for Arkansas governor. "
+    publishedDateTime: 2021-03-15T03:17:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pXElnTkMVbQ/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event"
+    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Trump-Sanders-Split.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Former Trump press secretary Sarah Sanders announces run for Arkansas governor"
     excerpt: "Former White House press secretary Sarah Sanders announced Monday that she is running for governor of Arkansas in 2022."
     publishedDateTime: 2021-01-25T12:16:06Z

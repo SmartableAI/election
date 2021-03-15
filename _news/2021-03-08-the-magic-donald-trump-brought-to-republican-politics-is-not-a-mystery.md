@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trum
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp"
 type: article
 quality: 124
-heat: 144
+heat: 164
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1751479/senator-lindsey-graham.jpg"
         width: 1024
         height: 683
+        isCached: true
+  - title: "Sheriff who flew Trump flag on patrol boat violated ban on partisan political activity, officials say"
+    excerpt: "with the banner depicting President Donald Trump’s face superimposed over an American flag. Hilton, a Republican, acknowledged that an attendee gave deputies the flag and he approved its exhibition, drawing criticism from residents and other officials ..."
+    publishedDateTime: 2021-03-15T02:27:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/03/14/hatch-act-trump-boat-flag-sheriff/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/14/hatch-act-trump-boat-flag-sheriff/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/14/hatch-act-trump-boat-flag-sheriff/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MTWNMX7RMI6VMHEGUHE4YGMSE.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
 
 secured: "1xybjxliIyYQACLmYnW9HLwev72XNGrQLnKSuVA2wJ6oNdZxTaX1PbsltOAQC/cKVOxe3swblJ5gRX8SEAyyyAeb+8jZfGjwvpxsAsagE02nnQF6llDctF8ZfT2VfbSdquIz5ajagpH6cKBviJxqryiS2/6ohdtDLHSPzeb4DLqugv4DFmw5koAZNxURuxwMpXTnyLYuNmRHTwpXbgLZgPYdHfay6y8Mj/q+GUxYXX5vx9j4Mg/NBuXvlX6C7zNF7LRHmVxGzkQsVHWIdg7FZKDQ5zEsKeP8IFi/VVBaUo13w0UyGo8ty2HI2yMjnfg3qXC5hu/XiHBMnbp71w8u51c5cxm14iciDAfr3n3OjnW28mLrdgxlBsC5295ttDsRi9fU0Y3KIqMFsegnLRzNM+iqddVpWT67CRzTnFG4OC7+aKdGQS54CogtrhzpZVhAsNoddC6fB81fO89LsVGJy4P7GtnN04PQ1VtLcnV5Abi2hbHCTyR3UOdHkEgqgQmXOzgQ+N30mgcvWUWnbsKpdw==;Js+ZQFeDM4nySEpWx524fA=="

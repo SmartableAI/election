@@ -2,6 +2,49 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-02-03-trump-previews-impeachment-defense-it-wasnt-incitement-it-was-free-speech.md",
+      "title": "Trump Previews Impeachment Defense: It Wasn’t Incitement, It Was Free Speech",
+      "excerpt": "Donald Trump’s lawyers on Tuesday previewed their defense of the ex-president during next week’s impeachment trial, responding to pre-trial brief filed by House managers accusing him of a “grievous betrayal” of his oath of office for inciting last month’s attack on the Capitol.",
+      "sourceUrl": null,
+      "webUrl": "https://nymag.com/intelligencer/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
+      "originalUrl": "https://nymag.com/intelligencer/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pyxis.nymag.com/v1/imgs/296/878/25434125e8951267e3143453e27a549073-trump-jan-6.1x.rsocial.w1200.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
+      "cdnAmpWebUrl": "https://nymag-com.cdn.ampproject.org/c/s/nymag.com/intelligencer/amp/2021/02/trump-impeachment-violates-my-right-to-free-speech.html",
+      "publishedDateTime": "2021-02-02T10:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Magazine",
+        "domain": "nymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-02-whistleblower-accuses-former-trump-official-of-abuse-of-authority-for-last-day-deal-with-ice-union.md",
       "title": "Whistleblower accuses former Trump official of 'abuse of authority' for last day deal with ICE union",
       "excerpt": "Former senior Department of Homeland Security official Ken Cuccinelli is accused in a new whistleblower complaint of mismanagement, waste and abuse of authority over a deal he signed with a union representing Immigration and Customs Enforcement officers that endorsed President Donald Trump.\n    \n",
@@ -1319,58 +1362,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-02-the-daily-202-kinzinger-says-republicans-need-an-intervention-to-kick-trump-habit.md",
-      "title": "The Daily 202: Kinzinger says Republicans need ‘an intervention’ to kick Trump habit",
-      "excerpt": "We’ve got to reject the dark conspiracy theories and lies,\" said the Illinois Republican, who is starting a PAC to break Donald Trump's stranglehold on the GOP.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 138,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A7RO4YTEB4I6XOVYOB7YO2OXQU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/?outputType=amp",
-      "publishedDateTime": "2021-02-01T08:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2021-02-19-coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme.md",
+      "title": "Coronavirus live news: global weekly cases lowest since October; Biden to pledge $4bn to Covax scheme",
+      "excerpt": "WHO urges against letting guard down; fifth of Australians say they are unlikely to get vaccine; Israel extends coronavirus border closure",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f38ed8f08ad21ea5ffb3c",
+      "originalUrl": "https://www.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme?page=with:block-602f38ed8f08ad21ea5ffb3c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b267b2a5999d9339326ccf723ce9b3dffcea75d3/0_289_5000_3000/master/5000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=a43ff7ab73a19700af0ed7a6e315be97",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/live/2021/feb/19/coronavirus-live-news-global-weekly-cases-lowest-since-october-biden-to-pledge-4bn-to-covax-scheme",
+      "publishedDateTime": "2021-02-18T22:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-18-scalise-rips-biden-school-reopening-goal-youre-afraid-of-standing-up-to-the-teachers-union.md",
       "title": "Scalise rips Biden school-reopening goal: 'You're afraid of standing up to the teachers union'",
       "excerpt": "Rep. Steve Scalise, R-La., said President Biden's goal to open the majority of K-8 schools by April 30 falls way short of what school children need, and the Republican Whip urged Biden to choose science over teacher unions.",
@@ -1306,62 +1358,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-17-new-york-times-trump-pentagon-officials-delayed-promotions-of-female-generals-due-to-fear-over-trumps-reaction.md",
-      "title": "New York Times: Trump Pentagon officials delayed promotions of female generals due to fear over Trump's reaction",
-      "excerpt": "Promotions of two female generals were delayed by Pentagon officials until after the 2020 presidential election out of fear of \"turmoil\" from President Donald Trump's White House, The New York Times reported Wednesday.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wqnJmokEy3o/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210217123321-us-army-gen-laura-richardson-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/17/politics/pentagon-delayed-female-nominations/index.html",
-      "publishedDateTime": "2021-02-17T12:20:32-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

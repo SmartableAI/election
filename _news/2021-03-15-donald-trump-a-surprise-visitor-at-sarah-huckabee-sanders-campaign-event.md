@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Trump endorses Sarah Huckabee Sanders for Arkansas governor"
-excerpt: "Former President Donald Trump endorsed Sarah Huckabee Sanders in her run for Arkansas governor on Monday night."
-publishedDateTime: 2021-01-26T04:54:39Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor"
-ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp"
+title: "Donald Trump a surprise visitor at Sarah Huckabee Sanders campaign event"
+excerpt: "Former President Donald Trump made a surprise appearance at a weekend campaign event for Sarah Huckabee Sanders in her run for Arkansas governor. "
+publishedDateTime: 2021-03-15T03:17:06Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pXElnTkMVbQ/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pXElnTkMVbQ/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event"
+ampWebUrl: "https://www.foxnews.com/politics/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event.amp"
 type: article
-quality: 175
-heat: 255
-published: true
+quality: 174
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -25,27 +25,27 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Sanders-Split.jpg?ve=1&tl=1"
-    width: 640
-    height: 320
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Trump-Sanders-Split.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
-  - title: "Donald Trump a surprise visitor at Sarah Huckabee Sanders campaign event"
-    excerpt: "Former President Donald Trump made a surprise appearance at a weekend campaign event for Sarah Huckabee Sanders in her run for Arkansas governor. "
-    publishedDateTime: 2021-03-15T03:17:06Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pXElnTkMVbQ/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event"
-    ampWebUrl: "https://www.foxnews.com/politics/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/donald-trump-a-surprise-visitor-at-sarah-huckabee-sanders-campaign-event.amp"
+  - title: "Trump endorses Sarah Huckabee Sanders for Arkansas governor"
+    excerpt: "Former President Donald Trump endorsed Sarah Huckabee Sanders in her run for Arkansas governor on Monday night."
+    publishedDateTime: 2021-01-26T04:54:39Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/6RtMOZNBUTE/trump-endorses-sanders-in-run-for-arkansas-governor"
+    ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 174
+    quality: 175
     images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/01/Trump-Sanders-Split.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/Trump-Sanders-Split.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Former Trump press secretary Sarah Sanders announces run for Arkansas governor"
     excerpt: "Former White House press secretary Sarah Sanders announced Monday that she is running for governor of Arkansas in 2022."
@@ -96,6 +96,6 @@ related:
         height: 320
         isCached: true
 
-secured: "Aqvt0CbkPZUfPufkNXqnb5vg0HJ8sODHrTQqfdrqnQo+Zpjf0V8gj7H7kP0NgpwNkEDnp3AP3iG11vGqIhK8P0KQO0QX68zUJU2uxmLCKvibnZ3hjCeff4rUzpBJHi1nd5CQ9KeYM+w+/D10AxtPmyJyHfmkLWsbKssKUV+UYdVNZLM+qwjrrB6VXAyqU0sgupmJL9yO2Gyh2NFNP4fxIhe/AFp8CMgviwMq/vKn0QtU3JlSR1YXKuLDo5fO1bzDvHsOYsmeW+cdiHQiW76fm0yWHGM12pTpI/NsE6+ckadRBLDe7IQfEHPXId/JQIK23/v7iPrGl69f2YZ0av5LeTdswvzpJipet9tHfNiNW24=;0nee1PnD35z+WlQu06Ll4A=="
+secured: "IdXUkd0A1iXiBeNu7UKqgg5lApyLZrXXVfJTynaHsdu85y+K1xlk9zI3vU5Ze1rp7ggD41fT8Yv6WUCXDInQqe3EhclcKaGOLEX9qka6epnPKMY4yHMI7Agdgxc79X/0vvWgfCUNGGrPn2J0iyTgZ0EAdcZ9MU+6cy4Be0BPLNPUmvP86Jx0VxzoS7daZGtkTWqU8bFhMBqHrrHTx3WGAkgCbPaCLxSGC/XvvwmfvhpD1nXmw//DYL7cTM7NND+VS+GdSf1hDRyhTgR5wo12k4fKbV5/WH2OPQOpswuDN6zKIgcwYuxM3Ye9CAhAqdeROUPHaNyYjFgZ7PgVvcy3JXBmnIEtj5oyUOEEvy9V9Xs=;fMmKXWdFAeGzefM6FsoxeQ=="
 ---
 

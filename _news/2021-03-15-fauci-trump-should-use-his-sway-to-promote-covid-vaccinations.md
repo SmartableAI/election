@@ -28,11 +28,11 @@ images:
 
 related:
   - title: "Fauci hopes Trump will push his supporters to get COVID-19 vaccine"
-    excerpt: "WASHINGTON (Reuters) - Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will push his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should not be ..."
+    excerpt: "Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will push his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should not be lifted prematurely."
     publishedDateTime: 2021-03-14T15:49:00Z
-    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUKKBN2B60D8"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2B60D8"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2B60D8"
+    webUrl: "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2B60D8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B60D8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B60D8"
     type: article
     provider:
       name: Reuters
@@ -185,6 +185,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Every living former president has urged Americans to get vaccinated in a new ad series — apart from Trump who is demanding credit for the vaccine"
+    excerpt: "DOW S&P 500 NASDAQ 100 Every living former US president has appeared in an ad campaign telling Americans to get vaccinated against COVID-19, apart from Donald Trump, who has instead released a statement demanding credit for the vaccine. On Thursday ..."
+    publishedDateTime: 2021-03-11T11:48:00Z
+    webUrl: "https://www.businessinsider.com/former-us-presidents-urge-vaccinations-while-trump-demands-credit-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/former-us-presidents-urge-vaccinations-while-trump-demands-credit-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/former-us-presidents-urge-vaccinations-while-trump-demands-credit-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 88
+    images:
+      - url: "https://i.insider.com/6049fe89f196be0018beec7e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
     publishedDateTime: 2021-03-14T18:42:00Z
@@ -202,6 +218,6 @@ related:
         height: 675
         isCached: true
 
-secured: "C4fF5LUn1UrUuNGfq73m6gdPchgtJY7VZDursyIwHpAX8F2CF+iV657LQn9tkdJngvAVidQFY/KuxDLq6HHGOgmsheXGNeOvTjkRMBdSrmhhUa9h+Yv2Ps2s6bDb3KINzJJfEzeTl968+QutOH4ntSYDREFjh8kLnYyDH6jev+AaOjyHiqDzdp+eeH5DlBAEqCx2vKALJ44qRe2LdROLNbujuBjCHvg9LE0plDnVsubku+WUbf7L22ch56xXyzfb/NMuppFjnV4b0/eJ7IDfOg6Q6iX/SBuu+WfW1qhWWxz3XnAizaCn/EOUTKwueTtvc0DFnQu489p9ZQZwRByI4M3kl0vSpED1bwDS0xfXD5E=;QNi8InS5MMRsHqYkKG5dGQ=="
+secured: "KtcH8sGYP4oMFPxYcEH5rQot7XGF4wx2y3xopDVXXsax5vZlEorzpvSFyh5EbqKtvGNPjE5xDVkjCpcmNNulkqYd9Zsh+hOlhoKduom1FZJn3bZ1jCqbGMe1MvX6KmAfj66N+iqO6kI8aSk7IBC2200S/S5Dn8bDaPcQmB+7WvD0HoZtrRMSyYn4zPW0c0lVU9He4g79Tr9FhfgEUhzBVW4jlc7x3FUMkvuP0ttjT9p86Jmx3u4lNXdZI6/Ps1WPq+g98imHm/dJMjThlhJL4uZdq1K0ZFxFH/CNg7vLwbZwMzJ+uxss6hcq0W7rPae11PRX3MR9/rbq79dEGyGzFdSHXkiW6j0I17kIF84qOOipzchIWfC1l2CXK4yJvZUbDinoUN8OGS0GLBDxi7V0fGXNAyUUE41/F1Gn9Hc9C0JkWKvyseTFXPSalUR+D+Wrf8/6My2l5k+84WDT+408tvnF+yTht5WJvTyTTyaPWHCrp8xQtb/k3EduyYG84VwQMN7qQ4CzK/jMuPO9E8ZhrA==;S8AFsBCCPMcNX9uLPsmOIQ=="
 ---
 
