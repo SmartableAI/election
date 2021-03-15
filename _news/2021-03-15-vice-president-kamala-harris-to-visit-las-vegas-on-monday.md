@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Vice President Harris Swears in HUD Secretary Marcia Fudge"
-excerpt: "U.S. Vice President Kamala Harris speaks to members of the press after swearing in Marcia Fudge, U.S. secretary of Housing And Urban Development (HUD), during a virtual ceremony in Washington, DC on Wednesday, March 10, 2021. During her confirmation ..."
-publishedDateTime: 2021-03-11T00:34:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/801cc58e1186bced134ddaa50c600a99/Vice-President-Harris-Swears-in-HUD-Secretary-Marcia-Fudge/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/801cc58e1186bced134ddaa50c600a99/Vice-President-Harris-Swears-in-HUD-Secretary-Marcia-Fudge/"
+title: "Vice President Kamala Harris to visit Las Vegas on Monday"
+excerpt: "Details have emerged about Vice President Kamala Harris’ visit to Las Vegas on Monday to tout the $1.9 trillion American Rescue Plan approved by Congress."
+publishedDateTime: 2021-03-15T04:21:00Z
+originalUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-monday-2299493/"
+webUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-monday-2299493/"
+ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-monday-2299493/amp/"
+cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-monday-2299493/amp/"
 type: article
-quality: 55
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: UPI.com
-  domain: upi.com
+  name: Las Vegas Review-Journal
+  domain: reviewjournal.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/801cc58e1186bced134ddaa50c600a99/HUD-FUDGE.jpg"
-    width: 650
-    height: 433
+  - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14897275_web1_KAMALA-VISIT-102720_es_010.jpg?w=1200"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -151,22 +153,6 @@ related:
         width: 800
         height: 534
         isCached: true
-  - title: "Vice President Kamala Harris to visit Las Vegas on Monday"
-    excerpt: "Details have emerged about Vice President Kamala Harris’ visit to Las Vegas on Monday to tout the $1.9 trillion American Rescue Plan approved by Congress."
-    publishedDateTime: 2021-03-15T04:21:00Z
-    webUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-monday-2299493/"
-    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-monday-2299493/amp/"
-    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/vice-president-kamala-harris-to-visit-las-vegas-on-monday-2299493/amp/"
-    type: article
-    provider:
-      name: Las Vegas Review-Journal
-      domain: reviewjournal.com
-    quality: 75
-    images:
-      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14897275_web1_KAMALA-VISIT-102720_es_010.jpg?w=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'"
     excerpt: "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ..."
     publishedDateTime: 2021-03-14T15:43:00Z
@@ -211,6 +197,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Vice President Harris Swears in HUD Secretary Marcia Fudge"
+    excerpt: "U.S. Vice President Kamala Harris speaks to members of the press after swearing in Marcia Fudge, U.S. secretary of Housing And Urban Development (HUD), during a virtual ceremony in Washington, DC on Wednesday, March 10, 2021. During her confirmation ..."
+    publishedDateTime: 2021-03-11T00:34:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/801cc58e1186bced134ddaa50c600a99/Vice-President-Harris-Swears-in-HUD-Secretary-Marcia-Fudge/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/801cc58e1186bced134ddaa50c600a99/HUD-FUDGE.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Vice President Kamala Harris scheduled to visit Colorado"
     excerpt: "Vice President Kamala Harris will visit Denver on March 16 to highlight the $1.9 trillion COVID relief bill passed by Congress on Wednesday."
     publishedDateTime: 2021-03-10T23:43:00Z
@@ -244,6 +244,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "BvD+h5ZDSmKLxCOn5uSobTpNm03nYLN7vxk8YDoDDpVNLTjGL4osZGr35JTNY7CkssIlw/svmf5t0Bj4ng4bUQxyXNsbu2f40+Pr30oyOVjYbd9WhUqQ9lHunNuXidHIg6rS3/wNdUUhT+m3gPDitsLaEZYIJ4YrTYDUSB0Hil5+MuvsAFhpd4n0GFmjRcSS5QlycUS2zD4StY1QZbB0Owls3Ziu08IiIzgDQPXOwxzLHMyxglOYfTJj4z7Jj7d/48S2OA10lMsakS4alU2D0Hbf6kkpKtCp1rSsTcqbfpk/+pQg0qX2V+Z7ilHuD0YXUk3oV0Ddn2mkJH4uhUh2zkEVwUwFjHr87Eu3E6nxUrQ=;KCUSJpZoRy3/N9vprzDybQ=="
+secured: "H9bXU8Ht+PvS8nzO42kpuV5T/emWtG9z8ZNBsclRT0on68HZuhYTE+HSWINRQHXcnVbDXyT/08ctgYIVlTmsN6BBcmSJYTfxIjPlwKyL0GkTl+AttD+Bxoss1EY2pnottUAuK7IMeK3v+VSh9fqvvOMr1vgJUDcKntqStsbxRSjpud8we6EMNxY4xtxg4VQ2Lm1lT5zhaJD1eHpwAE66kFy4CA1jHkuLng5yVvddw7JmaI+LB+pLTMyhL2xg28ufvsA6GgNjLXugpP9uxXOY/qBh4oTH2xMfu/ny8I9id3X9Mampo+qasVgED50S8fURvhD13PtTBnXtLNllTDeu0qJz+dhJXc07UMBAdsBRiyg=;P+3okDIz2U7DXqip0qCB9w=="
 ---
 

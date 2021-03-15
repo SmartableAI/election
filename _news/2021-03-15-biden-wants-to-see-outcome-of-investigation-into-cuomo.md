@@ -3,8 +3,8 @@ category: news
 title: "Biden wants to see outcome of investigation into Cuomo"
 excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden told reporters at the White House he wanted to see the outcome of the investigation into New York Governor Andrew Cuomo, who is facing pressure to resign over sexual harassment allegations. Asked if Cuomo ..."
 publishedDateTime: 2021-03-14T22:24:00Z
-originalUrl: "https://www.reuters.com/article/us-new-york-cuomo-biden/biden-wants-to-see-outcome-of-investigation-into-cuomo-idUSKBN2B60QF"
-webUrl: "https://www.reuters.com/article/us-new-york-cuomo-biden/biden-wants-to-see-outcome-of-investigation-into-cuomo-idUSKBN2B60QF"
+originalUrl: "https://www.reuters.com/article/us-new-york-cuomo-biden-idUSKBN2B60QF"
+webUrl: "https://www.reuters.com/article/us-new-york-cuomo-biden-idUSKBN2B60QF"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B60QF"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B60QF"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210314&t=2&i=1554871154&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2D0J7"
+  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554875456&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2D0J7"
     width: 820
     height: 545
     isCached: true
@@ -76,6 +76,6 @@ related:
         height: 630
         isCached: true
 
-secured: "vbE6TyYQBcPG6sjQg32CFCQN1O9nqgvvuyi01d2Q3w5FnOM8h5TMr30RX70PfBOyIIlvTdduedxxeoBs17tjJoJyXRoBUiHt3KLwziXajbz0zzesL9bV3l2a+ih3zcZorAW2lu6X8TaawUtv+IYbu24U8Yaswbjm3iuTXc+h1RmZerpQQI+3PPLNFxHHV8n6YhrpiBneQpeyXgy8WaRRBCrNILrRxCNb/ZeS/Hix4/NqmiyAclk/I9MYXwlD72zTpy96nQXEWMK0NbUpXM8m0BA4a4YZLcT7hqBwflAJQlo7jPaxpxuHkk4kEtGH18WmAgsrGVgejMV71wrZmlv24arWjcQmIZ5EEClLHd4ALJc=;msFU2rZA+n1YADvRfipHLw=="
+secured: "swgmKlumWHZ++ziUXrFoH7TnABUviw33Q3IaRnT2m9aq0HlwlsrXN+mY7V+IDiM1AAIfcKMst5t3xF/fSpT98GtnYUgeBD90ry7XNywNoro50xzjTtRLlXTkMLJd8SbWsJyirbqJrij30u06sxqy2+zK8jYwcnaaxUSsSMjtkPhXEnmH1XNaw2rI1+lGY2VoJZM1XmrZo6fjA/cDNKxxc7sN7YmTWmNxWDfRk2PeqwL7/xxqeERv/OxgOwraMQbmzqC56WYN0eAiBcgKn8bk4UCMLEubGgQI1wmofmSh6tuFJ77x3pA18IlA9F+bCsR+5pD5j7kpWkygVN0sBRTyAtn2m4geYXIdpF2Gg+fYD+I=;VQPj7seFE/HtdUCmtdQcrA=="
 ---
 

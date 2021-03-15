@@ -1,29 +1,33 @@
 ---
 category: news
-title: "President Joe Biden to make first prime-time address to nation Thursday"
-excerpt: "The president will look forward, highlighting the role that Americans will play in beating the virus,' the White House said."
-publishedDateTime: 2021-03-08T17:56:00Z
-originalUrl: "https://www.indystar.com/story/news/politics/2021/03/08/president-biden-make-first-prime-time-address-nation-thursday/4630051001/"
-webUrl: "https://www.indystar.com/story/news/politics/2021/03/08/president-biden-make-first-prime-time-address-nation-thursday/4630051001/"
-ampWebUrl: "https://amp.indystar.com/amp/4630051001"
-cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4630051001"
+title: "Biden's $1,400 Stimulus Checks Aided by Trump Leaving $1Tn Cash Pile for Further Relief Spending"
+excerpt: "Former President Donald Trump's administration paved the way for the federal government to quickly deliver the $1,400 stimulus checks in President Joe Biden's $1.9 trillion American Rescue Plan by leaving behind a massive cash pile in preparation for ..."
+publishedDateTime: 2021-03-14T23:44:00Z
+originalUrl: "https://www.newsweek.com/bidens-1400-stimulus-checks-aided-trump-leaving-1tn-cash-pile-further-relief-spending-1576051"
+webUrl: "https://www.newsweek.com/bidens-1400-stimulus-checks-aided-trump-leaving-1tn-cash-pile-further-relief-spending-1576051"
+ampWebUrl: "https://www.newsweek.com/bidens-1400-stimulus-checks-aided-trump-leaving-1tn-cash-pile-further-relief-spending-1576051?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-1400-stimulus-checks-aided-trump-leaving-1tn-cash-pile-further-relief-spending-1576051?amp=1"
 type: article
-quality: 75
+quality: 127
 heat: -1
 published: false
 
 provider:
-  name: Indianapolis Star
-  domain: indystar.com
+  name: Newsweek
+  domain: newsweek.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Election
-  - Joe Biden
+  - Donald Trump
 
 images:
-  - url: "https://www.gannett-cdn.com/presto/2021/02/19/USAT/603162ef-b26b-4e0b-a54c-c91b0da0868d-AP21050597735960.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
-    width: 1200
-    height: 675
+  - url: "https://d.newsweek.com/en/full/1755697/donald-trump-cpac.jpg"
+    width: 3000
+    height: 2117
     isCached: true
 
 related:
@@ -394,22 +398,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden's $1,400 Stimulus Checks Aided by Trump Leaving $1Tn Cash Pile for Further Relief Spending"
-    excerpt: "Former President Donald Trump's administration paved the way for the federal government to quickly deliver the $1,400 stimulus checks in President Joe Biden's $1.9 trillion American Rescue Plan by leaving behind a massive cash pile in preparation for ..."
-    publishedDateTime: 2021-03-14T23:44:00Z
-    webUrl: "https://www.newsweek.com/bidens-1400-stimulus-checks-aided-trump-leaving-1tn-cash-pile-further-relief-spending-1576051"
-    ampWebUrl: "https://www.newsweek.com/bidens-1400-stimulus-checks-aided-trump-leaving-1tn-cash-pile-further-relief-spending-1576051?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-1400-stimulus-checks-aided-trump-leaving-1tn-cash-pile-further-relief-spending-1576051?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 127
-    images:
-      - url: "https://d.newsweek.com/en/full/1755697/donald-trump-cpac.jpg"
-        width: 3000
-        height: 2117
         isCached: true
   - title: "Biden getting 1st shot at making mark on federal judiciary"
     excerpt: "President Joe Biden has two seats to fill on the influential appeals court in the nation’s capital that regularly feeds judges to the Supreme Court"
@@ -914,6 +902,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "President Joe Biden to make first prime-time address to nation Thursday"
+    excerpt: "The president will look forward, highlighting the role that Americans will play in beating the virus,' the White House said."
+    publishedDateTime: 2021-03-08T17:56:00Z
+    webUrl: "https://www.indystar.com/story/news/politics/2021/03/08/president-biden-make-first-prime-time-address-nation-thursday/4630051001/"
+    ampWebUrl: "https://amp.indystar.com/amp/4630051001"
+    cdnAmpWebUrl: "https://amp-indystar-com.cdn.ampproject.org/c/s/amp.indystar.com/amp/4630051001"
+    type: article
+    provider:
+      name: Indianapolis Star
+      domain: indystar.com
+    quality: 75
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/02/19/USAT/603162ef-b26b-4e0b-a54c-c91b0da0868d-AP21050597735960.jpg?auto=webp&crop=5999,3375,x0,y305&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Archbishop Who Fears for Joe Biden’s Soul"
     excerpt: "Archbishop Joseph Naumann is anxious about President Joe Biden’s soul. The two men are in some ways similar: cradle Catholics born in the 1940s who witnessed John F. Kennedy become America’s first Catholic president. Both found a natural home in the ..."
     publishedDateTime: 2021-03-14T12:00:00Z
@@ -954,6 +958,6 @@ related:
         height: 663
         isCached: true
 
-secured: "RR6t1D0HHXdY4FLBmksSYxsXbWhUIcDxfupt4HcJkXq0BB4HecU+AIIeqOO8tevOGYGyJBMK7uFZOX7M+Z78RLVJ4pahozXwXOJ+hZVls8tNxPJCYKjeAZrJffXuqKpHc0VWhCRq+pBl+FFerNixdfyF8qr7wf+cYE6NSd4lpAezp8hfcxHRze86kefFDLADkkEdMkEg/kj+AdFr9BNlMmH8/woe6L0Gjh5AWPOB4Wf8L36hbk/2S/D3wVM7e6EtZ8Q5r87pBqgvUiLpZTd6bd9kbXKJNmIlfbm2UEVCGQj6/R5Ls7hdN0eDxnv8Qdg1RcJk33PUpWNHsRJ4Hs2YsnaQ3EAMobaQyJG6/esAUkY=;yj2NmZdzcLLcxITSxMWg6g=="
+secured: "h7LrtbEZpdlTEdVgtBLNc+lr08XQ+6dODFZOO9MuLlB1/4tEwDRtQYi5E810CFwnIpzzr2LZ5M8Ae/yotEUTfKVLROo5+iqU3D1dXMy/P/J1D8S0cefCOPnsvQm9lWi2xFPm+O8qyNz7v/BofU4avLgbbM+PtLflFnwfo3sXDCds3MP6nFyaxcGfe1TlnLGwJgXWHJhJ7sDu+uAdBZm92KfDRdORQjfZDKhIhpySFAJGlLzSX1eIweppdfU65cii3KQnUZkslKJxCI/QF2/vHEYQQuWx7cL65rufcrVaMQ3FD5g6foBS57o3znvaZskb/kyHMQjgPwzM28x4C5JJyJ401TOoZfPddJuuUN+tZ44=;uoNd6UHaMHg57DvzjUJKZQ=="
 ---
 

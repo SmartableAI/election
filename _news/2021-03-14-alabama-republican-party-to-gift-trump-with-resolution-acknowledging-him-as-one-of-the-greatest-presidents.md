@@ -47,6 +47,22 @@ related:
         width: 980
         height: 692
         isCached: true
+  - title: "Self-styled evangelical prophet Jeremiah Johnson apologizes for predicting Trump's re-election and says he's dismantling his ministry"
+    excerpt: "\"I believe that it is a tremendous mistake to take the next four years to argue and debate and cause division and grow more prideful talking about how we think the election was taken from Donald Trump. I actually believe we need to take the next four years ..."
+    publishedDateTime: 2021-03-15T03:00:00Z
+    webUrl: "https://www.businessinsider.com/evangelist-jeremiah-johnson-apologizes-for-prophesying-trumps-re-election-3"
+    ampWebUrl: "https://www.businessinsider.com/evangelist-jeremiah-johnson-apologizes-for-prophesying-trumps-re-election-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelist-jeremiah-johnson-apologizes-for-prophesying-trumps-re-election-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/604ebb4d10c8760018b93251?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "cawCY5m928XIZYqLu/KskUHLeymCRRdGT/BcFyevuJ/bV4wvOOb2EkEcgHGwAKsbAeGmykhxNcjy+gSYsRDvp/SQxxQy9uOzNft1CyWwV/b8qTXPz7UhXR4KzyPicHBKEQ8WOAY3u1Kotgr7PBxwohGlOUYWl0ysiY/h67Vds35Mg+q2HGFc/evDkAoh0TTTmn/Z7etu52z1Wtv1QMmgF7eJwfuCjZPJ3KudOce6TVrwCFIHY8ypf/uy39ruahebtq/KDcBr0TQFV2bJjoTDG8ytpmaMUf9G/dMS7/88rxVRNcvtqBGneGXfqy2XLv8jLkzoiVzYNNAef2vjX5f7kyW1V87WG759hU9NS21+8k/bMFSlvElGRVNIV10fGgIWG0sf7N5SZv16SP6qUe/JFjgNMC8kz3pXXuScy2sIqacCWoj0OJeUqNgFSSYgDxU7dae0pmcdGHVPHEkJT4aY+6/wCqA5g7IkY3Qw/Qt74143G+b/DskjPvx4LhxOWCURI3le3VYhgnUbamTgh7CDJQ==;vbcbIymtrHTEm/pI/0Ud+A=="
 ---

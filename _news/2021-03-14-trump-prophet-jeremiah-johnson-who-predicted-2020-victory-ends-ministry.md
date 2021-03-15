@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/homenews/news/543081-trump-prophet-jeremiah-john
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543081-trump-prophet-jeremiah-johnson-who-predicted-2020-victory-ends-ministry?amp"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-styled evangelical prophet Jeremiah Johnson apologizes for predicting Trump's re-election and says he's dismantling his ministry"
+    excerpt: "\"I believe that it is a tremendous mistake to take the next four years to argue and debate and cause division and grow more prideful talking about how we think the election was taken from Donald Trump. I actually believe we need to take the next four years ..."
+    publishedDateTime: 2021-03-15T03:00:00Z
+    webUrl: "https://www.businessinsider.com/evangelist-jeremiah-johnson-apologizes-for-prophesying-trumps-re-election-3"
+    ampWebUrl: "https://www.businessinsider.com/evangelist-jeremiah-johnson-apologizes-for-prophesying-trumps-re-election-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/evangelist-jeremiah-johnson-apologizes-for-prophesying-trumps-re-election-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 109
+    images:
+      - url: "https://i.insider.com/604ebb4d10c8760018b93251?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Alabama Republican Party to gift Trump with resolution acknowledging him as one of the 'greatest' presidents"
     excerpt: "The Alabama Republican Party will honor former President Trump Donald Trump Pentagon takes heat for extending Guard's time at Capitol Fundraising spat points to Trump-GOP fissures Trump rally ..."
     publishedDateTime: 2021-03-13T21:42:00Z

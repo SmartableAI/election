@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
-excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
-publishedDateTime: 2021-01-23T12:00:00Z
-originalUrl: "https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-webUrl: "https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-ampWebUrl: "https://www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
-cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+title: "Biden, Harris and others to promote COVID-19 relief plan’s benefits"
+excerpt: "The stops at vaccination sites, businesses, schools and more are meant to educate the public about different aspects of the giant American Rescue Plan and how it will help people get to the other side of the coronavirus pandemic."
+publishedDateTime: 2021-03-15T09:30:00Z
+originalUrl: "https://www.hawaiinewsnow.com/2021/03/15/biden-harris-others-promote-covid-relief-plans-benefits/"
+webUrl: "https://www.hawaiinewsnow.com/2021/03/15/biden-harris-others-promote-covid-relief-plans-benefits/"
 type: article
-quality: 88
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: San Francisco Chronicle
-  domain: sfchronicle.com
+  name: KHNL
+  domain: hawaiinewsnow.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://s.hdnux.com/photos/01/16/20/70/20516384/16/rawImage.jpg"
-    width: 2048
-    height: 1367
+  - url: "https://www.hawaiinewsnow.com/resizer/wn9ftX0yWJIOCKf_3lqHpSXsZYU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/UHSUGHIXQNC73CXRGBVGVRVFGY.jpg"
+    width: 1200
+    height: 800
     isCached: true
 
 related:
@@ -881,6 +879,22 @@ related:
         width: 810
         height: 602
         isCached: true
+  - title: "Willie Brown: How Kamala Harris can be the face of the Biden administration"
+    excerpt: "Make no mistake, President Biden is the star of the new administration. But it was our own Kamala Harris in her new role as the multiracial, multicultural, Democratic female power ideal who stole the show on Inauguration Day."
+    publishedDateTime: 2021-01-23T12:00:00Z
+    webUrl: "https://www.sfchronicle.com/bayarea/williesworld/article/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    ampWebUrl: "https://www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    cdnAmpWebUrl: "https://www-sfchronicle-com.cdn.ampproject.org/c/s/www.sfchronicle.com/bayarea/williesworld/amp/Willie-Brown-How-Kamala-Harris-can-be-the-face-15891384.php"
+    type: article
+    provider:
+      name: San Francisco Chronicle
+      domain: sfchronicle.com
+    quality: 88
+    images:
+      - url: "https://s.hdnux.com/photos/01/16/20/70/20516384/16/rawImage.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Essential Politics: A TV interview backfired for Kamala Harris. It was a small stumble with a big lesson"
     excerpt: "A brief TV interview backfired on the vice president. It's a reminder that landmines await as she carves out a role in the Biden administration."
     publishedDateTime: 2021-02-03T14:28:00Z
@@ -1235,20 +1249,6 @@ related:
       - url: "https://cdnph.upi.com/pv/upi/346314840156eb433168da30c1dd98b2/BIDEN-LABOR-MEETING.jpg"
         width: 650
         height: 433
-        isCached: true
-  - title: "Biden, Harris and others to promote COVID-19 relief plan’s benefits"
-    excerpt: "The stops at vaccination sites, businesses, schools and more are meant to educate the public about different aspects of the giant American Rescue Plan and how it will help people get to the other side of the coronavirus pandemic."
-    publishedDateTime: 2021-03-15T09:30:00Z
-    webUrl: "https://www.hawaiinewsnow.com/2021/03/15/biden-harris-others-promote-covid-relief-plans-benefits/"
-    type: article
-    provider:
-      name: KHNL
-      domain: hawaiinewsnow.com
-    quality: 70
-    images:
-      - url: "https://www.hawaiinewsnow.com/resizer/wn9ftX0yWJIOCKf_3lqHpSXsZYU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/UHSUGHIXQNC73CXRGBVGVRVFGY.jpg"
-        width: 1200
-        height: 800
         isCached: true
   - title: "JD Greear urges pastors not to call VP Kamala Harris ‘Jezebel,' but to pray for her"
     excerpt: "Southern Baptist Convention President J.D. Greear is urging pastors in the denomination to refrain from calling Vice President Kamala Harris “Jezebel” due to the racist connotations of the moniker. He is calling on them to honor and pray for her as an elected leader instead."
@@ -1767,6 +1767,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "sW+HrMo0dJRha+c4JWQiaBhdWtf+EesH8Y3XNoZU/FeXdom9mElJxVFoL99L3iik2foGLRdG5FogOsJIsnuVgnUJyDzMlrxWrCmUt5uLXp33FcO1mMUIaU1zfuEU26bfvURltt+patihu72t9CnL6I6VL9NCc8bq6xBV+2b1FFsy/jhYsFsKNCwmyCXjt3e2Suz2kd75FBS/u2HOAw6Qi78qlb+mmYzfcvSQuHeOUVqHUmcx4cb5ppZvNw6F4FwTTOrDgtOCcAYO0ha8RUyEXu45dCiC/RRC5/uW6KROsquEiulYrPCYu/c4mLlsCX0g23wckAFpCbbS+rWhN2+kP/TofNRYw8IIQq5ktGMIhFWntTY/GX2qHHLyXdIX7dxSXH5O2/FfnhCV2Gmmfp02v/oM4RXohXjA8Zz38NDL633MgPmJUK3zY1clWmLv/QsJv8d747vJoO0FykIU4PQAxHC57WUvZJCrUUWCnhWhULxEzwNjAZK4t9fLISl3UkJ2H/fII3eOXQcE0tmd4i9R5g==;chT1/BZcTAJP9afjadECYg=="
+secured: "SltATS5GbIX0678CgPoy1oNUoT5S+KUndN5isK2X00sCWaZu90T3hDop+qmtv2eSVusvoF9QsnPZgVYz3mO0eUHXsa7Xz64n8jXwGlL8Z8gVaxr6ljpopiPrsOb7lyc5q4v+7ziG60nN10ImeG/AsY+7RSvo7/rCOE8G4YTEb/19/o0ROfdgdUFsnDsCyK9ag8FxE5SdY5C2UBrSZx4GyRzs+KWZNaK4Vb+GA3AYoJKbRT20rxU720f3xE7P2md4pmGm57Sf05+9wdP6jAtNFFzvNtvTFmzAJX3naYctSlReYbZmKMqCpSl/wPLcTUXgBQMdRUCXuK07+e5RWU5avP3NnppgqKNcqqLd1T2QP/Q=;eX9OIHXc6OyjX5yzUAUHxg=="
 ---
 

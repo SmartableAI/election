@@ -1252,6 +1252,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Biden, Harris and others to promote COVID-19 relief plan’s benefits"
+    excerpt: "The stops at vaccination sites, businesses, schools and more are meant to educate the public about different aspects of the giant American Rescue Plan and how it will help people get to the other side of the coronavirus pandemic."
+    publishedDateTime: 2021-03-15T09:30:00Z
+    webUrl: "https://www.hawaiinewsnow.com/2021/03/15/biden-harris-others-promote-covid-relief-plans-benefits/"
+    type: article
+    provider:
+      name: KHNL
+      domain: hawaiinewsnow.com
+    quality: 70
+    images:
+      - url: "https://www.hawaiinewsnow.com/resizer/wn9ftX0yWJIOCKf_3lqHpSXsZYU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/UHSUGHIXQNC73CXRGBVGVRVFGY.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Biden, Harris, Blinken meet with members of the Quad from the White House"
     excerpt: "Vice President Kamala Harris and President Joe Biden (not shown) meet virtually with the 'Quad,' Prime Minister Narendra Modi of India, Prime Minister Scott Morrison of Australia, and Prime Minister Yoshihide Suga of Japan,"
     publishedDateTime: 2021-03-12T14:44:00Z

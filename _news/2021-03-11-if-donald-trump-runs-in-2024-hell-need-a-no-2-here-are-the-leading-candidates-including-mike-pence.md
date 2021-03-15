@@ -398,6 +398,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Biden's $1,400 Stimulus Checks Aided by Trump Leaving $1Tn Cash Pile for Further Relief Spending"
+    excerpt: "Former President Donald Trump's administration paved the way for the federal government to quickly deliver the $1,400 stimulus checks in President Joe Biden's $1.9 trillion American Rescue Plan by leaving behind a massive cash pile in preparation for ..."
+    publishedDateTime: 2021-03-14T23:44:00Z
+    webUrl: "https://www.newsweek.com/bidens-1400-stimulus-checks-aided-trump-leaving-1tn-cash-pile-further-relief-spending-1576051"
+    ampWebUrl: "https://www.newsweek.com/bidens-1400-stimulus-checks-aided-trump-leaving-1tn-cash-pile-further-relief-spending-1576051?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/bidens-1400-stimulus-checks-aided-trump-leaving-1tn-cash-pile-further-relief-spending-1576051?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 127
+    images:
+      - url: "https://d.newsweek.com/en/full/1755697/donald-trump-cpac.jpg"
+        width: 3000
+        height: 2117
+        isCached: true
   - title: "Biden getting 1st shot at making mark on federal judiciary"
     excerpt: "President Joe Biden has two seats to fill on the influential appeals court in the nation’s capital that regularly feeds judges to the Supreme Court"
     publishedDateTime: 2021-03-06T14:27:00Z
