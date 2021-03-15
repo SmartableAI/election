@@ -80,6 +80,20 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden readies campaign to combat vaccine skeptics"
+    excerpt: "Plans for the latest campaign were first reported by STAT. Health officials like Dr. Anthony Fauci, President Joe Biden’s chief medical officer, have for months raised concerns over the possibility that large swaths of the country would not sign up for ..."
+    publishedDateTime: 2021-03-15T16:17:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/03/15/biden-readies-campaign-to-combat-vaccine-skeptics-1368275"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b5/08/9ece206e4f819ffb7b46fdd71163/biden-vaccination-site-773-ap.jpg"
+        width: 1160
+        height: 773
+        isCached: true
 
 secured: "bhgm71TP5Jy2Jo2KgzSwJN1jzwB1uD/p3G9SuRBBX9kBbW57QNKeKxKM0RrIW03YaGAWHTxFxI7rxcDmpsALdTFXv9bFqC8/df0TWr+EF+n15SfLeWbsz81jEABeRTiUE4N8coWOSj4gt+JYZxOED5wi/EfFi9X3EdM5lYDQ/v9mUOGOzHgM3v4Kx1qY11lmlSAVYfZB4vEVhnpfuTGvnJp7GY8RY3MyV5800vZ6ziQYJtoBTcRN4yB2nnhMFMq1qbsr+z5yaA0IIqsdM4rd+jgQL5Kw5zr9LEPaKqy3n+aI+Vx3zeJGCFo4HEtXDNs/N6wafZDR+SqPOzwkq7WKLvgpSriUaBODMOgpa2kzIFI=;a6J5yIIyIT8PwIvi07imQQ=="
 ---

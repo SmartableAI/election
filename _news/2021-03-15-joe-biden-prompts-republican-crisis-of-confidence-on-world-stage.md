@@ -287,6 +287,22 @@ related:
         width: 1440
         height: 1149
         isCached: true
+  - title: "Biden, Fauci appear at odds over calling on Trump to urge supporters get vaccinated"
+    excerpt: "Vaccinations rise as travel picks up President Joe Biden appeared to be at odds with his top scientist in the pandemic fight, Dr. Anthony Fauci, about whether former president Donald Trump should ..."
+    publishedDateTime: 2021-03-15T21:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-fauci-odds-calling-trump-urge-supporters-vaccinated/story?id=76471342"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-fauci-odds-calling-trump-urge-supporters-vaccinated/story?id=76471342"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-fauci-odds-calling-trump-urge-supporters-vaccinated/story?id=76471342"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/US/fauci-white-house-reut_hpMain_20210221-170211_2_16x9_992.jpg"
+        width: 992
+        height: 559
+        isCached: true
   - title: "Trump's Election Lawsuit Battles End as Supreme Court Declines to Take Wisconsin Case"
     excerpt: "The former president and his Republican allies have lost dozens of election-related lawsuits filed in the wake of the November race."
     publishedDateTime: 2021-03-08T15:30:00Z
@@ -941,6 +957,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "A Dominion exec forced into hiding due to death threats from Trump fans is beefing up his lawsuit against Newsmax over election conspiracy theories"
+    excerpt: "The lawsuit accuses Donald Trump's presidential campaign, conspiracy theorist attorneys Rudy Giuliani and Sidney Powell, and right-wing media outlets like Newsmax, One America News, and The Gateway Pundit of boosting false claims about him. The defendants ..."
+    publishedDateTime: 2021-03-15T18:03:00Z
+    webUrl: "https://www.businessinsider.com/dominion-executive-eric-coomer-defamation-lawsuit-amended-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/dominion-executive-eric-coomer-defamation-lawsuit-amended-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dominion-executive-eric-coomer-defamation-lawsuit-amended-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/604f909287891e0019850d47?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."
     publishedDateTime: 2021-03-10T12:13:00Z
@@ -1068,6 +1100,6 @@ related:
         height: 663
         isCached: true
 
-secured: "CeN/+MsSfLa45mvP08P1Y++4pDe4pyC55VI1ryG014mMEBNJduetUb7SNThcWj7RJh8xSeKsAuMd7teLtKPM97Qgz+c/f5QKo+8qAt8ucaqu/NFO+xyBg4BXzCnnLeKgldambLsLyeNFyLZ0uSeYkS/SbQStlX6ynR4xLguBGOC2uH4BDRtbgC2quoreJC9x/+HRTu+Itdua0D1ftQd0Ohsqd1uqVQ3y31RwzohCvIVBs1uOlTJgKJ35i75Rs7XQ+NV0NYvHTFdhnTRwQb5l7IUKJxyc9RvC8frzhO9fmmnkelcZJwfpFOeynzDG11oYgkevBcWFfjgwRDsBlfvqY7vGyQR60AEspwNuRC2ua4w=;jgxeqm8Uu5aYMDZki+Y52g=="
+secured: "Hz944/MBI+2qKyFSq/dA6DjdLoYqp0VShd4eDhzEuiTFuMKtzir83l2jt8w5LcJLb0LLUBO7sf+ac/MIesfMpTeRea62cT2EDIy3F+veWyovZGPF2PTjshVnFbaugTabTV7SSJ9eTw2GJdVOQyo7cfcZzZHegKjycdtmISgh/6qQYcr6w1loXKp4bmyzysn8e5yaHlgr88hRC35x2u5Y4pPjdOzseHSR92R9LkcfzXv7fM1ONowIxKC631cbfxuKH66AGooQ5tD1+fcitDI3BmeA3i5xLNLc/SkpPj8LNw3sc6dWxdMMfaCyaEHmu43EuziOprAkR8GVsn57fes7SSec2JDL0TFgsWdO/8FcVDSssmnGV/0jrQvOUyoZl/b9EOKsThDb4A0TU30co3ZhyTBNmJ9H+HpZPq4fAKlJvH2cgaBtLrhD5ROWtP6hdXt19wAKGhsIAg0Gn1Kn7H94R4Uo1hn9qJHA+WI1GK7DWCnBW+ID1HM7NjiuSFbu2zpSHwrzGtk+NKIH05gJSaMhAQ==;2jyoR/UCmXKBHYLS2tyu/g=="
 ---
 

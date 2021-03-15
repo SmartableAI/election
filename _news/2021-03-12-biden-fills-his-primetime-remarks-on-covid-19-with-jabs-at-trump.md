@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-ja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
 type: article
 quality: 190
-heat: 910
+heat: 930
 published: true
 
 provider:
@@ -188,6 +188,22 @@ related:
     quality: 176
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/b4742e1d-ecaa-4e75-bea0-b49dd6cc1f80/b6fcb948-6b38-487e-b018-fb3f60e13598/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says 'local preachers' better than Trump for convincing ‘MAGA folks’ to take COVID-19 vaccine"
+    excerpt: "President Biden argued Monday that “local preachers” and other community leaders will be more influential than former President Donald Trump in efforts to convince skeptics to take COVID-19 vaccines amid a nationwide inoculation drive."
+    publishedDateTime: 2021-03-15T21:00:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VIATPIpYSv8/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1b366d5-f41f-4dec-9b1a-0d4970a202d6/fca490bf-59fa-419e-9b59-f38d68e2db46/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

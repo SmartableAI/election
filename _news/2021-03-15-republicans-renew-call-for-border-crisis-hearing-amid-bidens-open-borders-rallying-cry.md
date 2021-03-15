@@ -93,6 +93,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McCarthy hammers Biden over border crisis, urges him to visit and see 'what he's created'"
+    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., urged President Biden Monday to visit the southern border and see \"what he's created,\" blaming the administration's policies for an alarming migrant and drug smuggling crisis."
+    publishedDateTime: 2021-03-15T20:27:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oOm2EuTjS0A/mccarthy-hammers-biden-border-crisis-created"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-hammers-biden-border-crisis-created.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-hammers-biden-border-crisis-created.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/633385c4-0cd9-4caf-a274-b3fe5d11cff3/40c4bf9c-ce0c-40af-8f5c-0fd276ec264e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tom Cotton channels 'Billy Madison,' slams Pelosi's irrational defense of Biden border policy"
     excerpt: "Sen. Tom Cotton, R-Ark., channeled the movie \"Billy Madison\" Monday on \"Fox & Friends\" as he hit back at House Speaker Nancy Pelosi, D-Calif., for claiming that the Biden administration inherited a broken immigration system from former President Trump. "
     publishedDateTime: 2021-03-15T12:51:43Z

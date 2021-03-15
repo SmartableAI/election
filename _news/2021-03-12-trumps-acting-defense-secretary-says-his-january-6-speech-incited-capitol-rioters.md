@@ -320,6 +320,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Vindman twin set for promotion after bad evaluations from Trump appointees"
+    excerpt: "Army Lt. Col. Yevgeny Vindman is set to be promoted to full colonel, despite attempts by loyalists to former President Donald Trump to derail his career following his bit role in the president's first impeachment, according to two people familiar with the ..."
+    publishedDateTime: 2021-03-15T17:02:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/yevgeny-vindman-promotion-post-trump-476038"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/yevgeny-vindman-promotion-post-trump-476038"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/yevgeny-vindman-promotion-post-trump-476038"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 133
+    images:
+      - url: "https://static.politico.com/c8/ba/b179bcff47c29f2790130692dfb8/20210315-yevgeny-vindman-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Manhattan DA Cy Vance, whose office is investigating Trump, won't seek re-election"
     excerpt: "WASHINGTON — Manhattan District Attorney Cy Vance, whose office is investigating former President Donald Trump and the Trump Organization, announced Friday that he won’t run for re-election and will leave office at the end of the year. The 66-year-old ..."
     publishedDateTime: 2021-03-12T14:54:00Z

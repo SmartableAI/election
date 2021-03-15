@@ -285,6 +285,22 @@ related:
         width: 1440
         height: 1149
         isCached: true
+  - title: "Biden, Fauci appear at odds over calling on Trump to urge supporters get vaccinated"
+    excerpt: "Vaccinations rise as travel picks up President Joe Biden appeared to be at odds with his top scientist in the pandemic fight, Dr. Anthony Fauci, about whether former president Donald Trump should ..."
+    publishedDateTime: 2021-03-15T21:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-fauci-odds-calling-trump-urge-supporters-vaccinated/story?id=76471342"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-fauci-odds-calling-trump-urge-supporters-vaccinated/story?id=76471342"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-fauci-odds-calling-trump-urge-supporters-vaccinated/story?id=76471342"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 134
+    images:
+      - url: "https://s.abcnews.com/images/US/fauci-white-house-reut_hpMain_20210221-170211_2_16x9_992.jpg"
+        width: 992
+        height: 559
+        isCached: true
   - title: "Trump's Election Lawsuit Battles End as Supreme Court Declines to Take Wisconsin Case"
     excerpt: "The former president and his Republican allies have lost dozens of election-related lawsuits filed in the wake of the November race."
     publishedDateTime: 2021-03-08T15:30:00Z
@@ -954,6 +970,22 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_iN2k5PDBvI/v1/1200x900.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "A Dominion exec forced into hiding due to death threats from Trump fans is beefing up his lawsuit against Newsmax over election conspiracy theories"
+    excerpt: "The lawsuit accuses Donald Trump's presidential campaign, conspiracy theorist attorneys Rudy Giuliani and Sidney Powell, and right-wing media outlets like Newsmax, One America News, and The Gateway Pundit of boosting false claims about him. The defendants ..."
+    publishedDateTime: 2021-03-15T18:03:00Z
+    webUrl: "https://www.businessinsider.com/dominion-executive-eric-coomer-defamation-lawsuit-amended-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/dominion-executive-eric-coomer-defamation-lawsuit-amended-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dominion-executive-eric-coomer-defamation-lawsuit-amended-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
+    images:
+      - url: "https://i.insider.com/604f909287891e0019850d47?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."

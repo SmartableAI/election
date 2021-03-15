@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/coronavirus-response-tea
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/coronavirus-response-team-goals-biden-administration/index.html"
 type: article
 quality: 175
-heat: 235
+heat: 255
 published: true
 
 provider:
@@ -78,6 +78,20 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/11/us/politics/11new-washington-briefing/11new-washington-briefing-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
+        isCached: true
+  - title: "Biden readies campaign to combat vaccine skeptics"
+    excerpt: "Plans for the latest campaign were first reported by STAT. Health officials like Dr. Anthony Fauci, President Joe Biden’s chief medical officer, have for months raised concerns over the possibility that large swaths of the country would not sign up for ..."
+    publishedDateTime: 2021-03-15T16:17:00Z
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/03/15/biden-readies-campaign-to-combat-vaccine-skeptics-1368275"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/b5/08/9ece206e4f819ffb7b46fdd71163/biden-vaccination-site-773-ap.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "OVvRbGSlHg9nxwxMnDN1tYarYqcA+DrY/wLC3H6R077a36SH8fR1Y3h9bF3TOaKh3USPILtTdfyn0lQcHrhmZ2U7DJx6rRdMZsisxl1Khh4mLJ6aBy0jrb3HJ1Rvja7/GN9FJu/ROpnn5Ffgl4mWjDOhIzxtnDlF6NW9ExwvkzuZqb4bcMNBaRIWScySHJJ+zQ1Eojxls+YguEIks5kcKH0ggDD3960Jmt8J/XlTkPd4TAwxuQi2UyNhC81SEUY1gagKMYf0QlLvRwbk6dmiuvErU8gb2b1z4j7pxxl3liJuLe7yKQk6GYo8/sS5vk8gW0BBePzLk1CLdfAOs2qBt6CMndLlPLMSUJncwiIpZxk=;JXnWaIklFXdNzpphjz4ZEg=="

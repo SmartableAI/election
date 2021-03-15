@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "McCarthy, GOP delegation visiting US-Mexico border Monday amid migration surge under Biden"
-    excerpt: "House Minority Leader Kevin McCarthy and 12 other House Republicans are at the Southern border and will make comments from El Paso, Texas later Monday as the GOP continues to hammer President Biden over immigration. "
-    publishedDateTime: 2021-03-15T14:57:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pzNyh-3l1lo/mccarthy-leads-gop-visit-to-us-mexico-border"
-    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-leads-gop-visit-to-us-mexico-border.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-leads-gop-visit-to-us-mexico-border.amp"
+  - title: "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott"
+    excerpt: "Sen. Rick Scott, R-Fla., blasted the Biden administration's handling of the ongoing border crisis Monday on \"America Reports.\""
+    publishedDateTime: 2021-03-15T21:32:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhQ9SuzVQkU/biden-border-policy-separating-families-rick-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 165
+    quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
-        isCached: true
-  - title: "Biden adviser admits immigration policy 'may have driven' migrant surge, encouraged 'smugglers'"
-    excerpt: "Southern Border Coordinator Roberta Jacobson said Wednesday that it was not a “coincidence” border crossing attempts spiked after President Biden took office."
-    publishedDateTime: 2021-03-10T19:28:20Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/T0a6dR5VEtQ/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 163
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2018/10/ap18060626927363.jpg"
-        width: 1920
-        height: 1301
         isCached: true
 
 secured: "tMaW7FM4v8DAB11m4zvf3R9OWnAhGHpYBZaurZ8k5a5nuoj87/BTWbZNpJyo2LTCbcu7Np6luHhGm/UlIXm4hIQbBR5FTCdpIXU8k3JLzWKZyj+MoxSZ58PapCDSwxXekZQCZEsM+WPQjyKIpOoDYfTwGgslroY4NYOml+lMFliIyJMXMLZMRZ5rNjp+RlIpf/pzhoOEqWzs+j/2OC1sNu7X8C7SOxicM/jgkr7gS5nMc6bvrARvKMeVjKrSfIlBWuKpbG3FwAOtGCHKdP0y1eosc7j+/WLHTTHufgjgIvGShbIEVryEHPmn+Hf6pDbh3LpgbCNYQ2uuqYr7LnV9TaEhptEaB0qiYTmp5SPWSwM=;6OAFarleSXQ752UDOTHbHg=="

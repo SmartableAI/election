@@ -44,6 +44,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Washington Post runs correction admitting it ‘misquoted’ Trump in Georgia election story"
+    excerpt: "The Washington Post admitted in a correction that it had “misquoted” former President Donald Trump telling Georgia’s top elections investigator “to find the fraud,”"
+    publishedDateTime: 2021-03-15T21:05:00Z
+    webUrl: "https://nypost.com/2021/03/15/washington-post-runs-correction-admitting-it-misquoted-trump/"
+    ampWebUrl: "https://nypost.com/2021/03/15/washington-post-runs-correction-admitting-it-misquoted-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/15/washington-post-runs-correction-admitting-it-misquoted-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 141
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-georgia-wapo-04.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Trump Call to Georgia Lead Investigator Reveals New Details"
     excerpt: "Photo: Associated Press/Brynn Anderson/STAR MAX (Video from 1/3/21) ATLANTA—Then-President Donald Trump urged the chief investigator of the Georgia Secretary of State’s office to look for fraud during an audit of mail-in ballots in a suburban Atlanta ..."
     publishedDateTime: 2021-03-11T15:08:00Z

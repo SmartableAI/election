@@ -95,6 +95,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "McCarthy hammers Biden over border crisis, urges him to visit and see 'what he's created'"
+    excerpt: "House Minority Leader Kevin McCarthy, R-Calif., urged President Biden Monday to visit the southern border and see \"what he's created,\" blaming the administration's policies for an alarming migrant and drug smuggling crisis."
+    publishedDateTime: 2021-03-15T20:27:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/oOm2EuTjS0A/mccarthy-hammers-biden-border-crisis-created"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-hammers-biden-border-crisis-created.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-hammers-biden-border-crisis-created.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 166
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/633385c4-0cd9-4caf-a274-b3fe5d11cff3/40c4bf9c-ce0c-40af-8f5c-0fd276ec264e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's border crisis complicates coronavirus fight, Homan says: 'The president is putting America at risk'"
     excerpt: "The crisis at the border continues to worsen as a growing number of unaccompanied migrant children remain in Border Patrol custody this week — and critics fear the situation will \"greatly complicate\" the spread of COVID-19."
     publishedDateTime: 2021-03-10T17:44:19Z

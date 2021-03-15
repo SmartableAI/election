@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "OnPolitics: Four presidents minus Trump"
+    excerpt: "Former presidents Barack Obama, George W. Bush, Bill Clinton and Jimmy Carter appeared in an ad that includes photos of all four – along with their wives – getting vaccinated.  \"Four presidents. Two political parties."
+    publishedDateTime: 2021-03-15T20:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/15/biden-goes-covid-stimulus-tour-tout-american-rescue-plan/4706481001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4706481001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4706481001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/f6157bb9-4255-45ac-b607-7d01b8c3f48e-AP_APTOPIX_Presidents_Club.jpg?auto=webp&crop=1986,1117,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The ‘magic’ Donald Trump brought to Republican politics is not a mystery"
     excerpt: "Lindsey Graham (R-S.C.) painted former president Donald Trump as a sort of magical conservative chimera. That made it trickier, he suggested, for the Republican Party to leverage Trumpism without Trump."
     publishedDateTime: 2021-03-08T14:50:00Z
@@ -45,37 +61,37 @@ related:
         width: 1440
         height: 961
         isCached: true
-  - title: "Lindsey Graham Warns Donald Trump Could 'Destroy' GOP After Combative CPAC Speech"
-    excerpt: "Senator Lindsey Graham has warned that former President Donald Trump could destroy the Republican Party or rebuild it as a bigger and more diverse coalition after his combative speech at the Conservative Political Action Conference."
-    publishedDateTime: 2021-03-08T10:41:00Z
-    webUrl: "https://www.newsweek.com/lindsey-graham-warns-donald-trump-destroy-gop-cpac-1574411"
-    ampWebUrl: "https://www.newsweek.com/lindsey-graham-warns-donald-trump-destroy-gop-cpac-1574411?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/lindsey-graham-warns-donald-trump-destroy-gop-cpac-1574411?amp=1"
+  - title: "Former presidents, except Trump, urge Americans to be vaccinated in new PSA"
+    excerpt: "The Ad Council, which is overseeing the project, told ABC News that the ads were shot at the inauguration of President Joe Biden in January, which Trump did not attend."
+    publishedDateTime: 2021-03-12T02:41:00Z
+    webUrl: "https://abcnews.go.com/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 120
+      name: ABC
+      domain: abcnews.go.com
+    quality: 123
     images:
-      - url: "https://d.newsweek.com/en/full/1751479/senator-lindsey-graham.jpg"
-        width: 1024
-        height: 683
+      - url: "https://s.abcnews.com/images/Politics/president-psa-vaccine-02-ht-jt-210311_1615493485600_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Amid Republican civil war, Trump holds court — and his grip on GOP — at Mar-a-Lago"
-    excerpt: "The question of how much clout former president Donald Trump would retain after leaving office and where he would wield it has been answered."
-    publishedDateTime: 2021-03-15T13:23:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/15/donald-trump-holds-court-and-his-grip-gop-mar-lago/4698811001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4698811001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4698811001"
+  - title: "The 30-second, post-presidency speech about dogs that perfectly summarizes Donald Trump"
+    excerpt: "Donald Trump was the first president since Andrew Johnson to have not had any pets while living in the White House. In 2019, after singer Barbra Streisand criticized the then-president for not having a dog,"
+    publishedDateTime: 2021-03-15T14:09:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 119
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 117
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/01/07/NPPP/bea9dd40-3c2d-4ec8-bd5c-bf4858badbd3-IMG-1949_2.jpg?auto=webp&crop=1727,972,x97,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOJSJBQPWII6VESMWNGQTO6JJA.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Sheriff who flew Trump flag on patrol boat violated ban on partisan political activity, officials say"
     excerpt: "with the banner depicting President Donald Trump’s face superimposed over an American flag. Hilton, a Republican, acknowledged that an attendee gave deputies the flag and he approved its exhibition, drawing criticism from residents and other officials ..."
@@ -92,6 +108,36 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MTWNMX7RMI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 961
+        isCached: true
+  - title: "Trump's South Texas Gains Vex Democrats"
+    excerpt: "He thought things had gone O.K. during Donald Trump’s presidency. He didn’t think Trump was fair on immigration, but thought he was good on the economy. Neither party had tried hard to win his ..."
+    publishedDateTime: 2021-03-15T09:58:00Z
+    webUrl: "https://time.com/5946848/donald-trump-hispanic-latino-voters-texas/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/03/zapata-county-texas-trump.jpg"
+        width: 2400
+        height: 2400
+        isCached: true
+  - title: "Democrats' 2018 Trump Country hero faces hard political path"
+    excerpt: "HARRISBURG, Pa. (AP) — In 2018, Conor Lamb wasn’t just a candidate — he was a symbol. Barely a year into Donald Trump’s presidency, Democrats were desperate to show they could reconnect with the white, working-class voters who had turned against them."
+    publishedDateTime: 2021-03-15T18:13:00Z
+    webUrl: "https://www.chron.com/news/article/Democrats-2018-Trump-Country-hero-faces-hard-16026976.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Democrats-2018-Trump-Country-hero-faces-hard-16026976.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Democrats-2018-Trump-Country-hero-faces-hard-16026976.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
 
 secured: "ncejEX7etQA0okiY0aWd7wPNTpAFOULPlkwxlbh+uI6/J/GJWKq5SJkrgvlmsOrVap1aD/RhUey6hM5DtMqSbVUSktY1cc8A0QTifc1TwFnpE8vtQK14KwV1K6wcaedwJOgnSXLY0IxWOTkrWz6kQ8SFYsnf2llbHo8OSFYcSpYDj2j1xzhJQhvJwIkLs90jWeYxiRKyycx0Yd+4uuHDnytbJbpikA4ssJkKXQNkPEcYc3DW/Mo7f9roPgs41oTpfj2swMPM+W2OZCD03z2NB8JIOz9O0uqWhDhyy3G3BkVKt3sjWhZPCXz/LICBnoHtB28E+sqVyZ4cgXmo6ch799T6Er+D0J8MUaHZezLWgH8=;y7F/2chMcllOW00txBbaKw=="

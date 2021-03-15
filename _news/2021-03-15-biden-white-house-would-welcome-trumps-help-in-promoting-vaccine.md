@@ -2,7 +2,7 @@
 category: news
 title: "Biden White House would welcome Trump's help in promoting vaccine"
 excerpt: "The White House said it would welcome former President Donald Trump's help in promoting the coronavirus vaccine to his supporters but cited other ways to convince conservatives to get the shot.\n    \n"
-publishedDateTime: 2021-03-15T18:36:05Z
+publishedDateTime: 2021-03-15T20:55:19Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zDRx9-6rEng/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zDRx9-6rEng/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/trump-vaccine-promotion/index.html"
@@ -3022,6 +3022,6 @@ related:
         height: 773
         isCached: true
 
-secured: "Tb4AoLeuhSQKouLCjfcweN3WW67JfdF/bny6GWzndEDJLmYtVS+7reuT/LPojjD9hTVpIJBm0pebChLDC9ipZHxoRDqWl0+rVTASZlPDy8Ssah5ayrrTVsJ5gBD84okRdFdIlDVPDj2CdpEmqhIeXT6E88E1WVipGBdG5n4V49qWJHYIHkZVhSCMoSTpSonCO9QfRKosHWan9dZAbTXpVrq0lQcWopPDxf2QfmVmgOSgOBfjvqgm4s0flijyF0XK3Kp8ufsZ3nVk6TK2SyHFRTcWzjtpqdtXI0Juz3TzPDMsEqlJKBfo01p0uyqjilA/tZAG1ZP9Jpu/TYcm/PJBgv94BuAC6FMue9LZk5B6gRU=;/b48Y816NmR1n1RMeSZB5w=="
+secured: "Na25icTPAhS/PcU7NZFAvHbGs5t6Seqf32I1hA5C3Wnpcpro13ESvX/HV68vj0KQhY4Ddw994HmyO57W+6N3RmY+F6YsZjcUjiZJKRKHInXM+qGp2KswedFGZaOKEKUz0CfFmI8ZMyjJvuFpIBhPTU000leagAw4mjJlHli+PB9i9YBx4vkvSDDwSqHq2zDlPBwIvtdj3+qFtqfsG58xKE+GQyFz+FyL35e2vX9f0CBm0N36guTPMASHG0bNFVk+UcmV6ptdjTSQ3DbdcONLgWClXi0gzQGNZnHT1tC87jt4rb7bSJNvxaLsR8+SaHIcC3go0UPdym2e+zfgSkm45IKuqPPSFld5a80wLMz2J34=;nhVM2l/hOD+kCesIX6XREg=="
 ---
 

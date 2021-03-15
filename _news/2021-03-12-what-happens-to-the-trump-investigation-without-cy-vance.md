@@ -107,6 +107,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Washington Post adds lengthy correction to report on Trump call with Georgia elections investigator"
+    excerpt: "The Washington Post has added a lengthy correction to a bombshell report from early January that had said then-President Trump told Georgia's top elections investigator during a phone call to \"find th"
+    publishedDateTime: 2021-03-15T20:40:00Z
+    webUrl: "https://thehill.com/homenews/media/543271-wapost-adds-lengthy-correction-to-story-on-trump-georgia-call"
+    ampWebUrl: "https://thehill.com/homenews/media/543271-wapost-adds-lengthy-correction-to-story-on-trump-georgia-call?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/media/543271-wapost-adds-lengthy-correction-to-story-on-trump-georgia-call?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 126
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_raffenspergerbrad_010420getty_split.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "RICO expert hired by prosecutor investigating Trump call"
     excerpt: "An expert on Georgia’s racketeering law was sworn in Wednesday to help the prosecutor who’s investigating potential efforts by former President Donald Trump and others to influence last year’s general"
     publishedDateTime: 2021-03-10T20:53:00Z

@@ -191,6 +191,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says 'local preachers' better than Trump for convincing ‘MAGA folks’ to take COVID-19 vaccine"
+    excerpt: "President Biden argued Monday that “local preachers” and other community leaders will be more influential than former President Donald Trump in efforts to convince skeptics to take COVID-19 vaccines amid a nationwide inoculation drive."
+    publishedDateTime: 2021-03-15T21:00:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VIATPIpYSv8/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 176
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1b366d5-f41f-4dec-9b1a-0d4970a202d6/fca490bf-59fa-419e-9b59-f38d68e2db46/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden's COVID-19 relief package slammed by pro-GOP group"
     excerpt: "EXCLUSIVE: A pro-GOP outside group closely aligned with the Republican Governors Association (RGA) is launching an effort in three states against Democratic governors ‒ who could face challenging reelections next year ‒ over the $1.9 trillion COVID-19 relief package being pushed by President Joe Biden."
     publishedDateTime: 2021-03-04T15:45:33Z

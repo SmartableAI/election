@@ -873,6 +873,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "The road show begins: VP Harris, Jill Biden promote aid plan"
+    excerpt: "From a vaccination site in the desert West to a grade school on the Eastern seaboard, President Joe Biden’s top messengers — his vice president and wife among"
+    publishedDateTime: 2021-03-15T21:54:00Z
+    webUrl: "https://www.twincities.com/2021/03/15/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/"
+    ampWebUrl: "https://www.twincities.com/2021/03/15/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/amp/"
+    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2021/03/15/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/amp/"
+    type: article
+    provider:
+      name: TwinCities.com
+      domain: twincities.com
+    quality: 90
+    images:
+      - url: "https://www.twincities.com/wp-content/uploads/2021/03/Harris_82103-1.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Biden wants Harris to have a major role. What it is hasn’t been defined."
     excerpt: "President Joe Biden has worked to include VP Kamala Harris in nearly all his public appearances, and stress that she is a full partner in the decisions he makes."
     publishedDateTime: 2021-02-07T00:34:00Z
@@ -1305,6 +1321,20 @@ related:
       - url: "https://www.hawaiinewsnow.com/resizer/wn9ftX0yWJIOCKf_3lqHpSXsZYU=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/raycom/UHSUGHIXQNC73CXRGBVGVRVFGY.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Vice President Harris, Jill Biden hit the road to promote relief plan"
+    excerpt: "Biden, Vice President Kamala Harris and their spouses have begun an ambitious, cross-country tour this week to promote the $1.9 trillion plan as a way to battle the coronavirus and boost the economy. The road show — dubbed the \"Help is here\" tour by the ..."
+    publishedDateTime: 2021-03-15T21:21:00Z
+    webUrl: "https://www.postandcourier.com/ap/vice-president-harris-jill-biden-hit-the-road-to-promote-relief-plan/article_f1955d5a-85cb-11eb-b36b-474cbd07ce77.html"
+    type: article
+    provider:
+      name: Post and Courier Charleston
+      domain: postandcourier.com
+    quality: 70
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/postandcourier.com/content/tncms/assets/v3/editorial/c/79/c79c744d-9f83-5763-a65c-91eb66d9731c/604fc490a598b.image.jpg?resize=945%2C630"
+        width: 945
+        height: 630
         isCached: true
   - title: "JD Greear urges pastors not to call VP Kamala Harris ‘Jezebel,' but to pray for her"
     excerpt: "Southern Baptist Convention President J.D. Greear is urging pastors in the denomination to refrain from calling Vice President Kamala Harris “Jezebel” due to the racist connotations of the moniker. He is calling on them to honor and pray for her as an elected leader instead."

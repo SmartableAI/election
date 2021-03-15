@@ -47,6 +47,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Republican message on Biden border 'crisis' draws fire from Democrats"
+    excerpt: "Republicans in the U.S. Congress stepped up attacks on President Joe Biden on Monday over a surge of migrants at the U.S.-Mexico border, but were criticized in turn by Democrats for their own immigration record and opposing the coronavirus relief program."
+    publishedDateTime: 2021-03-15T20:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-immigration-congress/republican-message-on-biden-border-crisis-draws-fire-from-democrats-idUSL1N2LD2L3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B72RU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B72RU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554995153&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E1NY"
+        width: 827
+        height: 545
+        isCached: true
   - title: "Biden: All U.S. adults to be eligible for vaccines by May, some normalcy coming by summer"
     excerpt: "WASHINGTON (Reuters) - President Joe Biden told U.S. states on Thursday to make all adults eligible for a coronavirus vaccine by May 1 and urged Americans to stay vigilant or face more restrictions, hours after he signed a $1.9 trillion stimulus bill into law."
     publishedDateTime: 2021-03-12T08:17:00Z

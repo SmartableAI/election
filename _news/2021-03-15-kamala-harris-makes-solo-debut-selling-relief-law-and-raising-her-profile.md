@@ -1,0 +1,97 @@
+---
+category: news
+title: "Kamala Harris Makes Solo Debut, Selling Relief Law and Raising Her Profile"
+excerpt: "Kamala Harris embarked Monday on her first official trip as vice president to promote the just-signed $1.9 trillion stimulus law, a two-day swing that doubles as a chance to boost her own profile. She’s traveling to Nevada and Colorado, both important ..."
+publishedDateTime: 2021-03-15T16:53:00Z
+originalUrl: "https://www.bloomberg.com/news/articles/2021-03-15/harris-sells-stimulus-to-nevada-colorado-in-first-solo-trip"
+webUrl: "https://www.bloomberg.com/news/articles/2021-03-15/harris-sells-stimulus-to-nevada-colorado-in-first-solo-trip"
+type: article
+quality: 103
+heat: 183
+published: true
+
+provider:
+  name: Bloomberg
+  domain: bloomberg.com
+  images:
+    - url: "https://smartableai.github.io/election/assets/images/organizations/bloomberg.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Election
+  - Kamala Harris
+
+images:
+  - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izBuQ5qE9GnA/v0/1200x800.jpg"
+    width: 1200
+    height: 800
+    isCached: true
+
+related:
+  - title: "Kamala Harris Makes Solo Debut, Selling Relief Law and Raising Her Profile"
+    excerpt: "Kamala Harris embarked Monday on her first official trip as vice president to promote the just-signed $1.9 trillion stimulus law, a two-day swing that doubles as a chance to boost her own profile."
+    publishedDateTime: 2021-03-15T17:09:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/kamala-harris-makes-solo-debut-selling-relief-law-and-raising-her-profile/2021/03/15/6d48ad28-85b1-11eb-be4a-24b89f616f2c_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
+  - title: "Harris arrives in Las Vegas to tout COVID relief bill"
+    excerpt: "Vice President Kamala Harris touched down in Las Vegas on Monday, where she visited a vaccination clinic at UNLV and will speak at an event at the Culinary Training Center in North Las Vegas. Harris’ trip was one part of a larger push by officials in ..."
+    publishedDateTime: 2021-03-15T19:58:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14916651_web1_web-Harris4-0315.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
+    excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
+    publishedDateTime: 2021-03-13T10:00:00Z
+    webUrl: "https://www.sacbee.com/news/politics-government/article249862338.html"
+    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article249862338.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249862338.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 68
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/b0018f62-b6fe-41a9-92e0-177f1e3c9a2c/6e22477c-e373-4d34-af79-1d8070ada578/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
+    excerpt: "It’s an unpaid position, but Doug Emhoff says he is approaching the role of being the first second gentleman like a full-time job"
+    publishedDateTime: 2021-03-13T16:24:00Z
+    webUrl: "https://www.detroitnews.com/story/news/nation/2021/03/13/first-second-gentleman-doug-emhoff-husband-kamala-harris-breaks-new-ground/4670261001/"
+    ampWebUrl: "https://amp.detroitnews.com/amp/4670261001"
+    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4670261001"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 68
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/PDTN/bf269e26-7cb4-4442-9726-72b55f2654d6-US-NEWS-EMHOFF-3-AK.jpg?auto=webp&crop=942,530,x150,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "ugLHHRGcIUukZGXH+HrE1klujn0sMQxMLw3aICzcdICt8yx+Bqvr6MgD9OWT2T+Yr/M5MLoDLPVmRChIz3hWEMxU8pE9eQdv0APJIWfkxuvsaT5IyxPIoMQ0cPsNozJn3nG0c7qVVHLOf2d8RWDsk7sy63k4c9iEi2+n+3udHKHH1mGXnGu2/jsIWt9U7ZbT0nKzjZXPG/uRmZ9Z6VN6wSKNAbFcQrHrjv+zBJbn66RIyyWep7NzoBGJbqXuW7HZ1I4TjFPYdXNxgwCfr/+c9LQAVwQgMkyyj4c/HegI/Lefq+Jk/mgegJOoaVrq0s8PeOUc1hGGvQd6kWJjo/YnbPkL3isBsRaZaVhEwE8h7wM=;GHsMDUl8L+r0XeDYGEoPrQ=="
+---
+

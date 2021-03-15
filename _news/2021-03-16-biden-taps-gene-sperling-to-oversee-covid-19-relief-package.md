@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Biden taps Gene Sperling to oversee COVID-19 relief package"
-excerpt: "The White House says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package ..."
-publishedDateTime: 2021-03-15T18:22:00Z
-originalUrl: "https://abcnews.go.com/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
-webUrl: "https://abcnews.go.com/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
-ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
+excerpt: "The White House says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package"
+publishedDateTime: 2021-03-15T17:26:00Z
+originalUrl: "https://www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html"
+webUrl: "https://www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html"
+ampWebUrl: "https://www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: ABCNews
-  domain: abcnews.go.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s.abcnews.com/images/Health/WireAP_1f585f6d25c046ac96827091c1f322cd_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -584,6 +584,6 @@ related:
         height: 675
         isCached: true
 
-secured: "YjruZsOuRRN848ZKT25URLPyipGvLsnF8oOyi0PEL0Mkimk5ozhuRqJs24rzlgD9sZ62q0FIUzc/QSUh5cuoMOM0IySxPW8jN833G/642gAerbftXPfKEcWQPO1hHC+mBGsaxN2qz1dnw25db/JLRrQG21JacFNxVg4hNSg3KKAKjnZt/CZPrh0yZHXxY7efhnxQvzdUJ4sf+W8TSnCZ+8Ncm0ch3v4RepuQskylvbNfsPWCbVVMkqH0LYG9ZetKgKtJ4ynnTwWREa3o/32peQVIJM2aJ1EIzvk3afoTtDKWC/hLB1d4/sm4YLlmhCcqWCZ/wz2moUaD0I+bJ6OjSzK0TgjKJQZXWbjwNfhAoT8=;j0gANJ2CzjpRi5ItL25Qsg=="
+secured: "zHvmC4765/xmI5DoE/tKHIrhs/iNAKnQlTTB6qqBEsmnXon3AawXjC9LfInzPFJGloTRuHg832eSFP8QyWD+nhPgvtH8PYfv0b0prlraEKP0Cy4508LezBoStNXeB+Xvd5AX2wZzL8YSXs6hXs0mqEHC6nAO9yHFUwDEuCNyVRY/jhOXwaNwIKDk3vWjyR91e8TCmuhFn1g/qMEoR2VxSnjrmeahzW2wSRk93C0MkcN0K6Jc5vuQ5HpoWZ2PvpGHyLTVrrNFxj8JybuQIpYrmslsRMXIwWtx1kE4P0SklWqYODK4CBjyjUDFZR0DmY2Uj8G3w7ZFSsfKpcGrLaVbno5t7FzNat09vVyMmJsTtjQ=;xKa61h2nSfsS4PVhCzkEHQ=="
 ---
 

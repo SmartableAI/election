@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-former-nfl-player-herschel-wa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp"
 type: article
 quality: 172
-heat: 212
+heat: 232
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Washington Post runs correction admitting it ‘misquoted’ Trump in Georgia election story"
+    excerpt: "The Washington Post admitted in a correction that it had “misquoted” former President Donald Trump telling Georgia’s top elections investigator “to find the fraud,”"
+    publishedDateTime: 2021-03-15T21:05:00Z
+    webUrl: "https://nypost.com/2021/03/15/washington-post-runs-correction-admitting-it-misquoted-trump/"
+    ampWebUrl: "https://nypost.com/2021/03/15/washington-post-runs-correction-admitting-it-misquoted-trump/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/15/washington-post-runs-correction-admitting-it-misquoted-trump/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 141
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-georgia-wapo-04.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Donald Trump urges Herschel Walker to enter Georgia Senate race"
     excerpt: "Former President Donald Trump on Wednesday urged retired pro-football running back Herschel Walker to run for the U.S. Senate next year in Georgia. Walker, 59, was born in the Peach State and"
     publishedDateTime: 2021-03-11T00:06:00Z

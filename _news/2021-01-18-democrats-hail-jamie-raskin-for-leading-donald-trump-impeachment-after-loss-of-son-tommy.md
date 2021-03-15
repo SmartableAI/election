@@ -79,22 +79,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Democrats' 2018 Trump Country hero faces hard political path"
-    excerpt: "HARRISBURG, Pa. (AP) — In 2018, Conor Lamb wasn’t just a candidate — he was a symbol. Barely a year into Donald Trump’s presidency, Democrats were desperate to show they could reconnect with the white, working-class voters who had turned against them."
-    publishedDateTime: 2021-03-15T18:13:00Z
-    webUrl: "https://www.chron.com/news/article/Democrats-2018-Trump-Country-hero-faces-hard-16026976.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Democrats-2018-Trump-Country-hero-faces-hard-16026976.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Democrats-2018-Trump-Country-hero-faces-hard-16026976.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
-        isCached: true
 
 secured: "elrkz8rj7FN5EgJZjgOAsn0YJc3Evy3y6Zda0hvP++ib8vOO9SX7KERq5dT/i+A4hAKUkOp2V6TTBLnDGqYGKgwQe5xpqn/n4UJDyJql3Ul/H0n/UYuh/J9S7Sp6Pkuv8G3eHeo1OEHnIDB+hHH8tr8eTeJqE3v3w5Jp/+Fq+8EKlzv6G9FPuzoo1PRs/nuZuTmcEut6dFpBqQFBS5vUwZHs22mKYChQnIdjqbvaQtnLA5IMD2W9hkKFgZ6U1q95FNPaKK2B529XyJQyBQaOdeZkA6tXJdWV3wa42qfrL3bkJV0iGjhpl79+hB9FRBC/ssAUpDMatSXTF0v/QRUs5wLB2zO0iN7kRiAyc1rnrT8=;mdJw9VgYtwBjgmpzn8oZPw=="
 ---

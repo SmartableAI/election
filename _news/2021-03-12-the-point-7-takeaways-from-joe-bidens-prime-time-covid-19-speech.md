@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-speech-takeawa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-speech-takeaways/index.html"
 type: article
 quality: 175
-heat: 315
+heat: 335
 published: true
 
 provider:
@@ -140,6 +140,22 @@ related:
     quality: 135
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210302111433-biden-nov-7-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden touts 'shots in arms and money in pockets' as he prepares to hit the road to sell Covid relief"
+    excerpt: "CNN's Phil Mattingly reports."
+    publishedDateTime: 2021-03-15T21:26:00Z
+    webUrl: "https://www.cnn.com/videos/tv/2021/03/15/lead-phil-mattingly-dnt-live-jake-tapper.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2021/03/15/lead-phil-mattingly-dnt-live-jake-tapper.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2021/03/15/lead-phil-mattingly-dnt-live-jake-tapper.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 120
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315163638-lead-phil-mattingly-dnt-live-jake-tapper-00001620-super-tease.png"
         width: 1100
         height: 619
         isCached: true

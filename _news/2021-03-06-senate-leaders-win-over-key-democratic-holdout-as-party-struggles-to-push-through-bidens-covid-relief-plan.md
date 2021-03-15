@@ -143,6 +143,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden touts 'shots in arms and money in pockets' as he prepares to hit the road to sell Covid relief"
+    excerpt: "CNN's Phil Mattingly reports."
+    publishedDateTime: 2021-03-15T21:26:00Z
+    webUrl: "https://www.cnn.com/videos/tv/2021/03/15/lead-phil-mattingly-dnt-live-jake-tapper.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/tv/2021/03/15/lead-phil-mattingly-dnt-live-jake-tapper.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2021/03/15/lead-phil-mattingly-dnt-live-jake-tapper.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 120
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315163638-lead-phil-mattingly-dnt-live-jake-tapper-00001620-super-tease.png"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "6nujVSwOGAIjmboS8/SI6JlDOd2Dg7F0DH28DKDdfH4w0EfoFqAeBkYpk+d1L83nHrkeyPSM0zybA/uhd5gOiaXmb7X4rvvY0ZBR8v60hsAfR44Snxb9t87xQP4s9cTlwB6ZmopJN+DgCg6zuz5xpkAXCLxxZdSI/xzaq1yXP3F8aHmxp1ZNdVP7NEMjooxmta0fzVnId9eBB7jXXGDenOBJAh+zC99RB84LqE6UhPXOY8waQabDibgh1BblVQ2AKd3i5kry5LWBKWV4nNg3X7Gs7uCzzm3CmaZpiZbRbqcEWhnCAKeWqkkbvQRYQGTUcLgGc9PA/PiLpPkWkoeU+eNfFDUNQ+SxZo0Z/9fKgvo=;11V46zloKtZN4pEbJK11Jg=="
 ---

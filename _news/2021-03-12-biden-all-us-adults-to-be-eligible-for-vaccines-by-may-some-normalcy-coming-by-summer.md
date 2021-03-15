@@ -63,6 +63,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Republican message on Biden border 'crisis' draws fire from Democrats"
+    excerpt: "Republicans in the U.S. Congress stepped up attacks on President Joe Biden on Monday over a surge of migrants at the U.S.-Mexico border, but were criticized in turn by Democrats for their own immigration record and opposing the coronavirus relief program."
+    publishedDateTime: 2021-03-15T20:24:00Z
+    webUrl: "https://www.reuters.com/article/usa-immigration-congress/republican-message-on-biden-border-crisis-draws-fire-from-democrats-idUSL1N2LD2L3"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B72RU"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B72RU"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554995153&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E1NY"
+        width: 827
+        height: 545
+        isCached: true
 
 secured: "prGooGeMs5DvE9x+QNVZN7ozGYe/mi+ZMyP5HZUF11lV2ydPWA8W0moGnbRRgVSJjly9MIsb10dd9VRIkjrnZ70vl5ZuI9bN+AFo0PASpooWZfwb0Hc5WRWflOsgrMPZPkzsOKz7E4NS2iLNPdY4hYWrw845fTION4eNYqeLp1oYdK1JrFvCZvYUK1xTG4ugxsiPX1S4yovXFfY4ugBESDqdhkLuNU1LZQrDFAXQX1PBg/L9ts7r38PPQj2gu2ejGRTOy29uOBfJZCbxsSKp01E25heL2pzsJ9yKKLOzL1qqYrpluqtZGc+w5eagNGFP1dErGbNc8cVbITy2DSiCXcmEcRYdgQOeAmZxpEsPbRM=;gUjQNf7mJQzfiWd1Vf42cQ=="
 ---
