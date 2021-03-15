@@ -749,6 +749,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump said Meghan Markle was 'no good' following bombshell Oprah interview, says former adviser"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump said that Meghan Markle was \"no good\" following the Duke and Duchess of Sussex's explosive interview with Oprah Winfrey."
+    publishedDateTime: 2021-03-15T12:12:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-meghan-markle-is-no-good-claims-stephen-miller-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-meghan-markle-is-no-good-claims-stephen-miller-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-meghan-markle-is-no-good-claims-stephen-miller-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/604f4ef5fea127001886ac36?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump hinted at Lara Trump's rumored Senate run during a speech at a fundraiser for dogs at Mar-a-Lago"
     excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump on Friday gave a short speech during an apparently impromptu appearance at a dog rescue at his Mar-a-Lago club in Palm ..."
     publishedDateTime: 2021-03-13T17:34:00Z

@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Jared Kushner says Biden should build on 'strong hand' inherited from Trump on Middle East policy"
+    excerpt: "Jared Kushner, the son-in-law of former President Donald Trump who led the previous administration's efforts to negotiate peace in the Middle East, wrote Sunday that President Biden should build on Trump's successes with the \"strong hand\" he inherited."
+    publishedDateTime: 2021-03-15T15:42:04Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xyGUimOREzs/jared-kushner-says-biden-should-build-on-strong-hand-inherited-from-trump-on-middle-east-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/jared-kushner-says-biden-should-build-on-strong-hand-inherited-from-trump-on-middle-east-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/jared-kushner-says-biden-should-build-on-strong-hand-inherited-from-trump-on-middle-east-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 177
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's COVID-19 relief package slammed by pro-GOP group"
     excerpt: "EXCLUSIVE: A pro-GOP outside group closely aligned with the Republican Governors Association (RGA) is launching an effort in three states against Democratic governors ‒ who could face challenging reelections next year ‒ over the $1.9 trillion COVID-19 relief package being pushed by President Joe Biden."
     publishedDateTime: 2021-03-04T15:45:33Z

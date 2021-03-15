@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-14-mike-pence-welcomes-first-grandchild-with-sweet-photo.md",
+      "title": "Mike Pence welcomes first grandchild with sweet photo",
+      "excerpt": "Former Vice President Mike Pence’s premature gray always made him look the part of a grandfather — now he has the grandchild to go with it. Pence and wife Karen announced the birth of Avery",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/",
+      "originalUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/210313-mike-pence-grandchild.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/13/mike-pence-welcomes-first-grandchild-with-sweet-photo/amp/",
+      "publishedDateTime": "2021-03-13T11:45:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-many-in-gop-hope-trump-loses-in-court-goes-away-says-former-admin-member-miles-taylor.md",
+      "title": "Many in GOP Hope Trump Loses in Court, Goes Away, Says Former Admin Member Miles Taylor",
+      "excerpt": "Miles Taylor, a former Department of Homeland Security's chief of staff in the Trump administration, said Saturday that many in the GOP hope Donald Trump will lose in future court battles and move on from the party. Speaking on MSNBC, Taylor said he wouldn ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914",
+      "originalUrl": "https://www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1755343/donald-trump.jpg",
+          "width": 3500,
+          "height": 2333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/many-gop-hope-trump-loses-court-goes-away-says-former-admin-member-miles-taylor-1575914?amp=1",
+      "publishedDateTime": "2021-03-13T08:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-13-analysis-how-early-pandemic-praise-for-cuomo-newsom-and-trump-disappeared.md",
+      "title": "Analysis: How early pandemic praise for Cuomo, Newsom and Trump disappeared",
+      "excerpt": "Nearly a year ago, New York Democratic Gov. Andrew Cuomo announced that all nonessential workers in the state would have to stay home. The announcement was one of many that marked the beginning of the coronavirus pandemic.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cu3YeBLGDKI/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cu3YeBLGDKI/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210312193508-cuomo-trump-newsom-split-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/13/politics/cuomo-newsom-trump-one-year-pandemic/index.html",
+      "publishedDateTime": "2021-03-13T08:00:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-lara-trump-called-so-gross-after-dog-charity-scam-exposed.md",
       "title": "Lara Trump Called ‘So Gross’ After Dog Charity Scam Exposed",
       "excerpt": "Another member of the Trump family is under scrutiny for allegedly funneling charity money into Donald Trump’s pockets after Lara Trump, the former President’s daughter-in-law, was exposed for spending money from a dog charity at Mar-A-Lago resort.",
@@ -114,7 +270,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1366,
+      "heat": 1386,
       "tags": null,
       "images": [
         {
@@ -598,7 +754,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 211,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -1184,174 +1340,6 @@
         "Election",
         "Republican Voice",
         "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-oliver-north-i-dont-think-biden-has-military-service-members-collective-back.md",
-      "title": "Oliver North: 'I don't think' Biden has military service members' collective back",
-      "excerpt": "Defense Secretary Lloyd Austin's stated ambition to drive domestic terrorists and extremists out of the military amounts to a \"witch hunt,\" former Marine Lt. Col. Oliver North told \"Tucker Carlson Tonight\" Thursday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s5AALGE7FZg/oliver-north-biden-lloyd-austin-military",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/s5AALGE7FZg/oliver-north-biden-lloyd-austin-military",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a538c523-198f-4598-9ac9-408a1a25956b/c74e1063-dbb2-4cd1-9dbb-899b7c95628a/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/oliver-north-biden-lloyd-austin-military.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/oliver-north-biden-lloyd-austin-military.amp",
-      "publishedDateTime": "2021-03-11T19:38:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-biden-fills-his-primetime-remarks-on-covid-19-with-jabs-at-trump.md",
-      "title": "Biden fills his primetime remarks on COVID-19 with jabs at Trump",
-      "excerpt": "In his first primetime address to the nation Thursday night, President Biden lobbed barely-conceal criticism at Donald Trump for his handling of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 870,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8382acb7-c09b-4e8e-a27d-19150c65075b/3cfe5695-e576-41ec-bf4b-ab25d5900187/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp",
-      "publishedDateTime": "2021-03-11T18:49:11-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-the-point-7-takeaways-from-joe-bidens-prime-time-covid-19-speech.md",
-      "title": "The Point: 7 takeaways from Joe Biden's prime-time Covid-19 speech",
-      "excerpt": "President Joe Biden marked a year since the Covid-19 pandemic swept across the country with his first prime-time address -- a speech in which he mixed hard numbers on vaccine distribution with appeals to unity and a deep-seated belief in the power of America to overcome any challenge.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9BznrUPmI6I/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9BznrUPmI6I/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 315,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311205938-06-biden-address-0311-i-need-you-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-speech-takeaways/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-speech-takeaways/index.html",
-      "publishedDateTime": "2021-03-11T18:46:33-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

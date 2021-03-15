@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Biden, Harris and others to promote relief plan’s benefits"
-excerpt: "WASHINGTON (AP) — Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost ..."
-publishedDateTime: 2021-03-15T13:38:00Z
-originalUrl: "https://www.seattletimes.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/"
-webUrl: "https://www.seattletimes.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/"
-ampWebUrl: "https://www.seattletimes.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/?amp=1"
-cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/?amp=1"
+title: "Biden, Harris and others to promote relief plan's benefits"
+excerpt: "WASHINGTON (AP) — Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses have begun an ambitious, cross-country tour this week to highlight the benefits of ..."
+publishedDateTime: 2021-03-15T16:00:00Z
+originalUrl: "https://tulsaworld.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/article_36a90a47-5067-5deb-a191-97ba688ea194.html"
+webUrl: "https://tulsaworld.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/article_36a90a47-5067-5deb-a191-97ba688ea194.html"
+ampWebUrl: "https://tulsaworld.com/news/national/govt-and-politics/biden-harris-and-others-to-promote-relief-plans-benefits/article_36a90a47-5067-5deb-a191-97ba688ea194.amp.html"
+cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/govt-and-politics/biden-harris-and-others-to-promote-relief-plans-benefits/article_36a90a47-5067-5deb-a191-97ba688ea194.amp.html"
 type: article
-quality: 70
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: Tulsa World
+  domain: tulsaworld.com
 
 topics:
   - Election
   - Kamala Harris
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/a/bc/abc2e2d1-2bb1-5c84-a75f-bb19dbcc2a8f/604f76fd47765.image.jpg?resize=1024%2C682"
+    width: 1024
+    height: 682
+    isCached: true
 
 related:
   - title: "Biden, Harris pay respects to Capitol officer killed in riot"
@@ -1793,6 +1799,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "beSy/MWIJNmft8cltVu4iek2An0OwmOdTdAIZK97DGbgswYWINzZuiwi1fy4JOJ3muMaEBexJsAkUdj1aI6Zy7Nc1CvVnUXoLWd3Qr0m93hI8iKtpwtN1Lm/W9WXx3AOAOziDMrtBzgGcAJX+OJtQ48kROkaqEAj4vpXqjkRE/861+aHpDrxw8/c6qd+sG1iuxrceSqU6X7Rb36yGOeNmX/KH5WX6mOtGCu/9pQGRxwfiMKsHdAZzFO/Dacp9HAbtcsAnzeqZpzPhZ4hiiZZnT6Quh+rfI5l7AcvKWYgGyBr+RrW1af6/uS+KKogQIG9Uo9Ug/VmZNHSkhEcZCKsZQ/T6EoWOiUfp5XCB39B7foz82CXGOuEKz4YcPmNOv0rBlF9mktJJnopySZoQu8oPT8VcLBZTWW/RZDXhXZxg1thdTWdXxODZAba1wXnZD7YwCO9A1TGihKLcKd0AcIxXRwhS9v9VZG+EgSb1JujYkzKN2PKFQgkXhUtfpE2829KihCxgk1u0ORC3OZdx+2y6g==;/tdc0j76DisUlnfE6Z7F2w=="
+secured: "mV2+YzRe0ke9h58aNGWlo2Wr7S8hVCOnro7wRqGkRGS1K+0bT1BIXQqxH8Jt417N91S9F2dr7QJLiRWc0dPBEzbJKbSJm1dtWYr038LzgkqL9elwJafusJuiee5MkzwKeCcnRFAJlOJMyM4ZSv8GMUF3kMHwGHbx0JrcE0SH4ZkIicrN0jdDVPrI0bROx5t52Dfr1VEnxbw10Fl8sG1kyg7xwY8gBjc2M7561iRLE7nhCLob1cwr4cnC8Vys7tqXRvp1faLp9yccL4VJgtGV6FCbPplXm9WTpNhkBJUGNSTssIJ9SVDuRmILIpZuJHbkkp18TNsPYmmnNIyMrcdFgk1cSpd6/i3p5E/YMogXQJQ=;39e/Rqk1TjtvoYyhhZjdxA=="
 ---
 

@@ -843,6 +843,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Biden, Harris and others to promote relief plan's benefits"
+    excerpt: "WASHINGTON (AP) — Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses have begun an ambitious, cross-country tour this week to highlight the benefits of ..."
+    publishedDateTime: 2021-03-15T16:00:00Z
+    webUrl: "https://tulsaworld.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/article_36a90a47-5067-5deb-a191-97ba688ea194.html"
+    ampWebUrl: "https://tulsaworld.com/news/national/govt-and-politics/biden-harris-and-others-to-promote-relief-plans-benefits/article_36a90a47-5067-5deb-a191-97ba688ea194.amp.html"
+    cdnAmpWebUrl: "https://tulsaworld-com.cdn.ampproject.org/c/s/tulsaworld.com/news/national/govt-and-politics/biden-harris-and-others-to-promote-relief-plans-benefits/article_36a90a47-5067-5deb-a191-97ba688ea194.amp.html"
+    type: article
+    provider:
+      name: Tulsa World
+      domain: tulsaworld.com
+    quality: 90
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/tulsaworld.com/content/tncms/assets/v3/editorial/a/bc/abc2e2d1-2bb1-5c84-a75f-bb19dbcc2a8f/604f76fd47765.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Biden wants Harris to have a major role. What it is hasn’t been defined."
     excerpt: "President Joe Biden has worked to include VP Kamala Harris in nearly all his public appearances, and stress that she is a full partner in the decisions he makes."
     publishedDateTime: 2021-02-07T00:34:00Z
@@ -1265,17 +1281,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Biden, Harris and others to promote relief plan’s benefits"
-    excerpt: "WASHINGTON (AP) — Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost ..."
-    publishedDateTime: 2021-03-15T13:38:00Z
-    webUrl: "https://www.seattletimes.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/"
-    ampWebUrl: "https://www.seattletimes.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 70
   - title: "JD Greear urges pastors not to call VP Kamala Harris ‘Jezebel,' but to pray for her"
     excerpt: "Southern Baptist Convention President J.D. Greear is urging pastors in the denomination to refrain from calling Vice President Kamala Harris “Jezebel” due to the racist connotations of the moniker. He is calling on them to honor and pray for her as an elected leader instead."
     publishedDateTime: 2021-02-04T21:48:00Z

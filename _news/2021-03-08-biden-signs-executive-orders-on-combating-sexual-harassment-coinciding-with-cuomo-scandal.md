@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden, no stranger to inappropriate touching accusations, gives Cuomo pass"
+    excerpt: "President Biden refused to join the chorus of fellow Democrats calling for New York Gov. Andrew Cuomo to resign, as Cuomo faces multiple scandals, including allegations of improper touching."
+    publishedDateTime: 2021-03-15T15:09:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fIN5Q2skAIo/biden-inappropriate-touching-accusations-cuomo"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden's silence on Cuomo not sustainable the more allegations 'pile up': Axios' Jonathan Swan"
     excerpt: "Axios national political reporter Jonathan Swan says President Biden's silence on the Andrew Cuomo scandal becomes “more conspicuous” the more Democrats call for the New York governor’s resignation."
     publishedDateTime: 2021-03-14T19:14:37Z

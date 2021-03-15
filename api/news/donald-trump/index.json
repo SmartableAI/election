@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-15-the-30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump.md",
+      "title": "The 30-second, post-presidency speech about dogs that perfectly summarizes Donald Trump",
+      "excerpt": "Donald Trump was the first president since Andrew Johnson to have not had any pets while living in the White House. In 2019, after singer Barbra Streisand criticized the then-president for not having a dog,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOJSJBQPWII6VESMWNGQTO6JJA.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp",
+      "publishedDateTime": "2021-03-15T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-jason-miller-trump-said-meghan-was-no-good.md",
       "title": "Jason Miller: Trump said Meghan was 'no good'",
       "excerpt": "Jason Miller, who served as a senior adviser to former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator ...",
@@ -34,6 +86,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-15-trumps-south-texas-gains-vex-democrats.md",
+      "title": "Trump's South Texas Gains Vex Democrats",
+      "excerpt": "He thought things had gone O.K. during Donald Trump’s presidency. He didn’t think Trump was fair on immigration, but thought he was good on the economy. Neither party had tried hard to win his ...",
+      "sourceUrl": null,
+      "webUrl": "https://time.com/5946848/donald-trump-hispanic-latino-voters-texas/",
+      "originalUrl": "https://time.com/5946848/donald-trump-hispanic-latino-voters-texas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://api.time.com/wp-content/uploads/2021/03/zapata-county-texas-trump.jpg",
+          "width": 2400,
+          "height": 2400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Time",
+        "domain": "time.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -424,58 +528,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-14-jared-kushner-to-write-a-behind-the-scenes-look-at-the-significant-events-of-the-trump-presidency-in-new-book.md",
-      "title": "Jared Kushner to write a behind-the-scenes look at the significant events of the Trump presidency in new book",
-      "excerpt": "The arrangement, brokered with Kushner's help, was the first official peace deal between the UAE and Israel in a decade and has become a key accomplishment touted by Trump. Kushner is \"not looking to settle scores but rather to provide historical context ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3",
-      "originalUrl": "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/604de62a10c8760018b931bd?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/report-jared-kushner-plans-write-book-about-time-white-house-2021-3?amp",
-      "publishedDateTime": "2021-03-14T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-03-14-chaos-under-heaven-review-trump-as-raging-bull-in-a-china-policy-shop.md",
       "title": "Chaos Under Heaven review: Trump as raging bull in a China policy shop",
       "excerpt": "Before Covid upended everything, the US president upended relations with Beijing – without interest or ability to build anew",
@@ -484,7 +536,7 @@
       "originalUrl": "https://www.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid",
       "featuredContent": null,
       "highlight": null,
-      "heat": 165,
+      "heat": 185,
       "tags": null,
       "images": [
         {
@@ -692,7 +744,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1366,
+      "heat": 1386,
       "tags": null,
       "images": [
         {
@@ -1523,54 +1575,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-trump-says-country-is-being-destroyed-at-border-amid-migrant-surge.md",
-      "title": "Trump says country is being ‘destroyed’ at border amid migrant surge",
-      "excerpt": "Former President Donald Trump on Tuesday said the country is being “destroyed” at the US-Mexico border as it experiences a surge in migrants. “Our country is being destroyed at the Southern",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/",
-      "originalUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/E86E2F68-40AC-4573-9256-2C761F843B35.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/",
-      "publishedDateTime": "2021-03-09T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

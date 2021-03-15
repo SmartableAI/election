@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-j
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid"
 type: article
 quality: 125
-heat: 165
+heat: 185
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://thehill.com/sites/default/files/murphychris_012721gn_lead.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Fauci says Trump should urge Republicans to get vaccinated"
+    excerpt: "\"He has such an influence over people in the Republican Party. It would really be a game changer if he did,\" Fauci said."
+    publishedDateTime: 2021-03-15T15:46:00Z
+    webUrl: "https://www.cbsnews.com/news/fauci-trump-republicans-covid-vaccine/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/fauci-trump-republicans-covid-vaccine/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fauci-trump-republicans-covid-vaccine/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/11/50adae92-3f78-41b8-8460-21b3cfa69070/thumbnail/1200x630g2/1686752ca2c27ade8ae82c9d9804d9ee/gettyimages-1229866325.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "GOP Polling Firm Finds Just 15 Percent of Republican Hold Anti-Trump Views"
     excerpt: "Although a vocal faction of Republican lawmakers hope to end former President Donald Trump's hold over the GOP, new polling shows that they represent just a slim minority of their party's voters. Meanwhile, the survey divided respondents into four ..."

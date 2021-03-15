@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Fauci says Trump should urge Republicans to get vaccinated"
+    excerpt: "\"He has such an influence over people in the Republican Party. It would really be a game changer if he did,\" Fauci said."
+    publishedDateTime: 2021-03-15T15:46:00Z
+    webUrl: "https://www.cbsnews.com/news/fauci-trump-republicans-covid-vaccine/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/fauci-trump-republicans-covid-vaccine/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/fauci-trump-republicans-covid-vaccine/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/11/50adae92-3f78-41b8-8460-21b3cfa69070/thumbnail/1200x630g2/1686752ca2c27ade8ae82c9d9804d9ee/gettyimages-1229866325.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "gJIKJ85DzuJ3RGoZAPJz23xj7SfUjVm0nE0K2zjs21bmv6qXo0i/ePrY9viiQMrp9Y9IoINkTDKpitBIFCMULw/5xP1Eyotos11q4SE0vly+J+HYpYs0p3wU6exYlrrdh3h8WlEDcoBAKTVSM9JJV5+iOwykqOopEby8BS1wQDaPwMdatvnhI/9CP/e1Z5JRupKioPivfRved7d/zfYpkM8w6BCGvYN7X1iS1wcDqDpjgS3AIZ5YTvucJB1DfQBYbqe+R/QrdixqG1417wDHIziZmGbxiUi9jR7YLj4FS6l3H9SyA3PW+scVMDJ6sVP+GvVEZPKRUSuzzZaPWiV5cS0gdVxwwmQGt+7Tp4Pk8rU=;S1M2jcNCTZR4M7/yStE9pA=="
 ---

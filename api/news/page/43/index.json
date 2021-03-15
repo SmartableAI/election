@@ -2,6 +2,118 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-01-08-capitol-riots-will-be-used-to-deplatform-trump-supporters-ben-domenech.md",
+      "title": "Capitol riots will be used to 'deplatform' Trump supporters: Ben Domenech",
+      "excerpt": "The left will do to regular people what it's doing to President Trump, The Federalist publisher Ben Domenech warned Thursday night.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yz8sy0wNcGE/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yz8sy0wNcGE/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 194,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/calebparkeheadshot0622182.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-capitol-riot-supporters-facebook-twitter-instagram-ben-domenech.amp",
+      "publishedDateTime": "2021-01-08T05:24:49-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-01-08-with-merrick-garland-pick-biden-signals-stark-contrast-with-trump-on-justice-department.md",
+      "title": "With Merrick Garland pick, Biden signals stark contrast with Trump on Justice Department",
+      "excerpt": "President Donald Trump declared nearly a year ago, \"I am actually, I guess, the chief law enforcement officer,\" as he tried to assert control over Department of Justice decisions.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wx7gj9P4Zdo/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Wx7gj9P4Zdo/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 301,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210107142027-03-biden-announcement-0107-garland-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-doj/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/merrick-garland-biden-doj/index.html",
+      "publishedDateTime": "2021-01-08T04:04:04-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-08-biden-picks-california-official-isabel-guzman-to-head-sba.md",
       "title": "Biden Picks California Official Isabel Guzman to Head SBA",
       "excerpt": "President-elect Joe Biden announced Thursday that he picked California official Isabel Guzman to lead the Small Business Administration.",
@@ -1221,110 +1333,6 @@
       "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN29C1FY",
       "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN29C1FY",
       "publishedDateTime": "2021-01-07T08:31:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-trump-pledges-orderly-transition-after-congress-affirms-biden-win.md",
-      "title": "Trump pledges \"orderly transition\" after Congress affirms Biden win",
-      "excerpt": "President didn't concede but his statement was as close as he's come to conceding an election he falsely insists was stolen,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/trump-transfer-power-biden-congress-electoral-college-win/",
-      "originalUrl": "https://www.cbsnews.com/news/trump-transfer-power-biden-congress-electoral-college-win/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 660,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/12/25/4ae36525-7e22-474c-8329-5a6dc8ef6f10/thumbnail/1200x630/a76ed4b9ca5e55c18da62ee84bf08078/trump-reid-615985-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/trump-transfer-power-biden-congress-electoral-college-win/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-transfer-power-biden-congress-electoral-college-win/",
-      "publishedDateTime": "2021-01-07T04:16:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-01-07-us-house-rejects-attempt-to-overturn-biden-victory-in-arizona.md",
-      "title": "U.S. House rejects attempt to overturn Biden victory in Arizona",
-      "excerpt": "The U.S. House of Representatives on Wednesday night joined the Senate in rejecting a move by allies of President Donald Trump to overturn Democrat Joe Biden's victory in Arizona, a vote delayed by rioters earlier pushing their way into the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/usa-congress-election-arizona-house-idINKBN29C0H3",
-      "originalUrl": "https://www.reuters.com/article/usa-congress-election-arizona-house-idINKBN29C0H3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 765,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210107&t=2&i=1546906712&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH060AF",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN29C0H3",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN29C0H3",
-      "publishedDateTime": "2021-01-06T23:04:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",

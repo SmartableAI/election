@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-prioritizing-illegal-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp"
 type: article
 quality: 164
-heat: 184
+heat: 164
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "Mexican government fears Biden admin policies fueling illegal immigration, organized crime: report"
-    excerpt: "The report also revealed that the gangs involved in facilitating the illegal immigration are looking at the policies “incentiviz[ing] migration” and adjusting their modus operandi for smuggling accordingly."
-    publishedDateTime: 2021-03-10T17:21:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EoWrh25_zuo/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report"
-    ampWebUrl: "https://www.foxnews.com/politics/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e917dbc8-eefb-415f-9b27-5e3e16132d85/5d68fd92-d27f-4acb-b296-191f2f577df4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "ljmUdzBRXdQdfPDnimy6OytTC/QQRwArX++I86briKbKRZ7cEtJ1BPg2IA8vcHlsAzmVhWvmbmDlX7HPdV5AEdiAYbZSMl+hqL03AX+OrEKMgwXxNGsB/rI6jAYZWZ2gxX1ciDnfxMC68MSvIluq2aS69krbipZ70bbzO4f7p7wC3dq1oqvQWPPy8k0uRRtinuZG1qnWYasTeFOdL0wEmE6sc+QCY/3ltE90j1R218Sf4tismew0kxmeZPBNRg/YLxR0daIBllPNpfastEfnOoIvA0WHog+1yIXICIq8U4AS9M8Li48BNxlhsHVLnCISsE6B41GsfLTf7Bj6sQHRZyoIJTJnCa2BaBxRJ5rJ54I=;Gyu7Z24s8mLEuqC68iwIaQ=="
 ---

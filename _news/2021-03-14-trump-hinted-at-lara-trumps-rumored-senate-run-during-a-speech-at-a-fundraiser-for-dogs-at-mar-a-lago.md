@@ -765,6 +765,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump said Meghan Markle was 'no good' following bombshell Oprah interview, says former adviser"
+    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Former President Donald Trump said that Meghan Markle was \"no good\" following the Duke and Duchess of Sussex's explosive interview with Oprah Winfrey."
+    publishedDateTime: 2021-03-15T12:12:00Z
+    webUrl: "https://www.businessinsider.com/donald-trump-meghan-markle-is-no-good-claims-stephen-miller-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/donald-trump-meghan-markle-is-no-good-claims-stephen-miller-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/donald-trump-meghan-markle-is-no-good-claims-stephen-miller-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/604f4ef5fea127001886ac36?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump's Twitter ban saga continues: The social platform sues Texas AG, claiming retaliation for Trump ban"
     excerpt: "Twitter filed a lawsuit against Texas AG Ken Paxton, claiming he used his office to retaliate against it for banning former President Trump."
     publishedDateTime: 2021-03-09T21:52:00Z
