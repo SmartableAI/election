@@ -830,20 +830,20 @@ related:
         height: 700
         isCached: true
   - title: "Biden, Harris and others to promote relief plan's benefits"
-    excerpt: "WASHINGTON (AP) - Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost ..."
-    publishedDateTime: 2021-03-15T05:33:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
+    excerpt: "President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost the economy."
+    publishedDateTime: 2021-03-15T07:34:00Z
+    webUrl: "https://www.expressnews.com/news/article/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
+    ampWebUrl: "https://www.expressnews.com/news/amp/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
+    cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
     type: article
     provider:
-      name: Washington Times
-      domain: washingtontimes.com
+      name: San Antonio Express-News
+      domain: expressnews.com
     quality: 90
     images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/15/biden_19705_c0-229-5507-3441_s1200x700.jpg?530c4705bb4904c085a3ca07ecc31a797ad754a1"
-        width: 1200
-        height: 700
+      - url: "https://s.hdnux.com/photos/01/17/10/13/20742858/5/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "Biden wants Harris to have a major role. What it is hasn’t been defined."
     excerpt: "President Joe Biden has worked to include VP Kamala Harris in nearly all his public appearances, and stress that she is a full partner in the decisions he makes."
@@ -1430,6 +1430,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden, Harris and others to promote relief plan’s benefits | Raleigh News & Observer"
+    excerpt: "Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost the economy."
+    publishedDateTime: 2021-03-15T07:31:00Z
+    webUrl: "https://www.newsobserver.com/news/article249942068.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article249942068.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article249942068.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 63
   - title: "Kamala Harris Called 'Jezebel' By 2 Texas Pastors; Experts Weigh In On 'Horrendous' Racist Trope"
     excerpt: "Two white pastors in Texas have yet to apologize for referring to Vice President Kamala Harris as a \"Jezebel,\" a label that experts said had a racist and sexist undertone."
     publishedDateTime: 2021-02-10T03:25:00Z

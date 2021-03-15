@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-15-police-chief-art-acevedo-outspoken-against-trump-leaves-houston-for-miami.md",
+      "title": "Police Chief Art Acevedo, Outspoken Against Trump, Leaves Houston For Miami",
+      "excerpt": "Acevedo has defied both a governor and a president, but he has walked arm-in-arm with protestors. Now he will lead the Miami police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078",
+      "originalUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1755724/police-chief-art-acevedo.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078?amp=1",
+      "publishedDateTime": "2021-03-14T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-cnns-brian-stelter-tucker-carlson-is-the-new-donald-trump.md",
       "title": "CNN's Brian Stelter: \"Tucker Carlson Is The New Donald Trump\"",
       "excerpt": "CNN's \"Reliable Sources\" anchor Brian Stelter compares Fox News host Tucker Carlson to the former president. \"Tucker has taken Trump's place as a right-wing leader. As an outrage generator. As a fire starter,",
@@ -162,7 +214,7 @@
       "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2B60D8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1524,54 +1576,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-trump-says-country-is-being-destroyed-at-border-amid-migrant-surge.md",
-      "title": "Trump says country is being ‘destroyed’ at border amid migrant surge",
-      "excerpt": "Former President Donald Trump on Tuesday said the country is being “destroyed” at the US-Mexico border as it experiences a surge in migrants. “Our country is being destroyed at the Southern",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/",
-      "originalUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/E86E2F68-40AC-4573-9256-2C761F843B35.jpeg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/10/trump-says-us-is-being-destroyed-amid-migrant-surge/amp/",
-      "publishedDateTime": "2021-03-09T22:19:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

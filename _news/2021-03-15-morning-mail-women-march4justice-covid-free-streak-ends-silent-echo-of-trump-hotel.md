@@ -173,6 +173,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Fauci hopes Trump will tell his supporters to get COVID-19 vaccine"
+    excerpt: "WASHINGTON, March 14 (Reuters) - Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will urge his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should ..."
+    publishedDateTime: 2021-03-14T13:27:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-idUSL1N2LC06Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LC06Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LC06Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Every living former president has urged Americans to get vaccinated in a new ad series — apart from Trump who is demanding credit for the vaccine"
     excerpt: "DOW S&P 500 NASDAQ 100 Every living former US president has appeared in an ad campaign telling Americans to get vaccinated against COVID-19, apart from Donald Trump, who has instead released a statement demanding credit for the vaccine. On Thursday ..."
     publishedDateTime: 2021-03-11T11:48:00Z

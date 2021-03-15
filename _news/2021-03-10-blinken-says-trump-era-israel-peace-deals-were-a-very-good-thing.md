@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/blinken-trump-israel-peace-deals-ve
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinken-trump-israel-peace-deals-very-good-thing.amp"
 type: article
 quality: 175
-heat: 175
+heat: 195
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Blinken’s ‘diplomacy is back’ tweet seen as dig at Trump team"
+    excerpt: "U.S. Secretary of State Antonin Blinken marked his first trip to Asia as the country’s top diplomat by appearing to take a parting shot at the Trump administration."
+    publishedDateTime: 2021-03-15T06:13:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/E7mU1irXoLg/blinkens-diplomacy-is-back-tweet-seen-as-unprovoked-dig-at-trump-team"
+    ampWebUrl: "https://www.foxnews.com/politics/blinkens-diplomacy-is-back-tweet-seen-as-unprovoked-dig-at-trump-team.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/blinkens-diplomacy-is-back-tweet-seen-as-unprovoked-dig-at-trump-team.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "i/UBJU8iRVDMgD1fbJh31/SP/WIsN03Bl57p7WMar+ozzun1cV1rYrCQBG+4kpOeD3qKw1xM1lnDVxhFQ2FogFMVJ6ued5NFVXRdoQmMDqflo8T5N9wKixRugbwgGYAvZZgwJ7JKEw3LtC9mTMC6CZkcDB8J4xC+Zx+7PxfcV+NOpMk7/H+nAHaSA7QAiAJrX5EkbbHecdc9GGRu0RsoYa8LR0inTe/Ma1z21RaxXy+Fm7EbboVVsNWqGujCmmoSskfXp1jhKoJ3oIOxFCBV0X/C8Rj0qhdnoiqbD1nyn+dC955B4qcRGYxEpHFJfsj29uwUrjviEvjvki1IbOkNaod2CPUrPX4fxYRqOr+25vc=;gAcXb18/73RouJN+ZHDxuw=="
 ---

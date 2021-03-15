@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B60D8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B60D8"
 type: article
 quality: 125
-heat: 365
+heat: 385
 published: true
 
 provider:
@@ -159,6 +159,17 @@ related:
         width: 1440
         height: 960
         isCached: true
+  - title: "Fauci hopes Trump will tell his supporters to get COVID-19 vaccine"
+    excerpt: "WASHINGTON, March 14 (Reuters) - Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will urge his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should ..."
+    publishedDateTime: 2021-03-14T13:27:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-trump-idUSL1N2LC06Y"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL1N2LC06Y"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL1N2LC06Y"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
   - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
     excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
     publishedDateTime: 2021-03-14T19:08:00Z

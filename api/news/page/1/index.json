@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-15-police-chief-art-acevedo-outspoken-against-trump-leaves-houston-for-miami.md",
+      "title": "Police Chief Art Acevedo, Outspoken Against Trump, Leaves Houston For Miami",
+      "excerpt": "Acevedo has defied both a governor and a president, but he has walked arm-in-arm with protestors. Now he will lead the Miami police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078",
+      "originalUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1755724/police-chief-art-acevedo.jpg",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/police-chief-art-acevedo-outspoken-against-trump-leaves-houston-miami-1576078?amp=1",
+      "publishedDateTime": "2021-03-14T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-trump-said-meghan-markle-is-no-good-following-bombshell-oprah-interview.md",
       "title": "Trump said Meghan Markle is ‘no good’ following bombshell Oprah interview",
       "excerpt": "Former President Donald Trump thought Meghan Markle was “no good” following her bombshell interview with Oprah Winfrey last week but felt publicly saying so would cause the sort of backlash experienced by British TV host Piers Morgan after he openly criticized the Duchess of Sussex, according to a former",
@@ -330,7 +382,7 @@
       "originalUrl": "https://www.reuters.com/article/us-health-coronavirus-usa-trump-idUSKBN2B60D8",
       "featuredContent": null,
       "highlight": null,
-      "heat": 365,
+      "heat": 385,
       "tags": null,
       "images": [
         {
@@ -1286,58 +1338,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-trumps-twitter-ban-hurt-him-more-than-losing-the-election-to-biden-his-niece-mary-says.md",
-      "title": "Trump's Twitter ban hurt him more than losing the election to Biden, his niece Mary says",
-      "excerpt": "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. Donald Trump's Twitter ban will have upset him more than losing November's presidential election to Joe Biden, his niece Mary has told Insider.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
-      "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 1326,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/604ba442fea127001886a77d?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp",
-      "publishedDateTime": "2021-03-13T03:33:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Biden, Harris and others to promote relief plan's benefits"
-excerpt: "WASHINGTON (AP) - Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost ..."
-publishedDateTime: 2021-03-15T05:33:00Z
-originalUrl: "https://www.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
-webUrl: "https://www.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
-ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
-cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
+excerpt: "President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost the economy."
+publishedDateTime: 2021-03-15T07:34:00Z
+originalUrl: "https://www.expressnews.com/news/article/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
+webUrl: "https://www.expressnews.com/news/article/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
+ampWebUrl: "https://www.expressnews.com/news/amp/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
+cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Washington Times
-  domain: washingtontimes.com
+  name: San Antonio Express-News
+  domain: expressnews.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/15/biden_19705_c0-229-5507-3441_s1200x700.jpg?530c4705bb4904c085a3ca07ecc31a797ad754a1"
-    width: 1200
-    height: 700
+  - url: "https://s.hdnux.com/photos/01/17/10/13/20742858/5/rawImage.jpg"
+    width: 2048
+    height: 1365
     isCached: true
 
 related:
@@ -1418,6 +1418,17 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden, Harris and others to promote relief plan’s benefits | Raleigh News & Observer"
+    excerpt: "Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost the economy."
+    publishedDateTime: 2021-03-15T07:31:00Z
+    webUrl: "https://www.newsobserver.com/news/article249942068.html"
+    ampWebUrl: "https://amp.newsobserver.com/news/article249942068.html"
+    cdnAmpWebUrl: "https://amp-newsobserver-com.cdn.ampproject.org/c/s/amp.newsobserver.com/news/article249942068.html"
+    type: article
+    provider:
+      name: Raleigh News & Observer
+      domain: newsobserver.com
+    quality: 63
   - title: "Kamala Harris Called 'Jezebel' By 2 Texas Pastors; Experts Weigh In On 'Horrendous' Racist Trope"
     excerpt: "Two white pastors in Texas have yet to apologize for referring to Vice President Kamala Harris as a \"Jezebel,\" a label that experts said had a racist and sexist undertone."
     publishedDateTime: 2021-02-10T03:25:00Z
@@ -1742,6 +1753,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "wveQ6Bu1ywAAIx+Ex7AUBekNwNQDVkTjZhKhNlWfYd2WMxeK7XyyQQdyfi1E9WEs76Rnyhi9Y8TjT5d1za1u09vnUUsQ+TiWCl2GHjyrfdacBSGusNfip6VNBD9g0Ydk3jocR4qQioZy8nOI2Y5qSFmObK1JDg1MBbF7STnTH/WQKXTVQTw0DnA9UK51jHzOJUxjRIuechRHM6gU2ciYw3JH7jGMlJ+7CaDZjKfyrSh5+AgeZWEb96hzS+WW9AOVbGldoxziSEWbRfVC8lzLM3uXWfoP8/yp75wqgMKLWuKiLqV2mU/7MPI2+aT3ztSTkk+MJFwsSOYYLuBccSkc24W5WvzY/PZlDkPlaMnkqew=;X6Q8ehDrUtPzC+2sObqjfQ=="
+secured: "vRHogqfoeu1wA3T925uZDoiZIaVW5CNSBIEkqVELSrxwI2YvKc0N8cc/pUol3FCgwOnHFskRDtW/fd33BkQKfG5D/0J9gGcatWKg9YSDZmvjCpRL4wWw0H2aCmgAZjzBCh9XKCd09318KI5/IXChH87Mx2Bfj5Qy3552yX2Rnavc60fxSE5GVES9uVDddl3ZqM7SEfFvD/nOpMm1eQbzlrxsY3WAMyIbu7TqHU1LgJcR6szyRmbUs5bQMAPNr3eFXKm2EwRcffd3iV3ZGOY2MkvDP63loUTrpW9ybzO4Di5jpyDxNDYqnSsTWmPTvsiavJqoP6Nsch0karRTGgYCNzpv/ss04nNGheEHgFpfutw=;tP2XYzII+xa5RD+OM9IYkg=="
 ---
 
