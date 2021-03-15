@@ -185,6 +185,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fauci: Trump should use his sway to promote COVID vaccinations"
+    excerpt: "The government's top infectious disease expert lamented polling showing that Trump supporters are more likely to refuse to get vaccinated."
+    publishedDateTime: 2021-03-14T23:46:00Z
+    webUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJPCM6T3LFASDDS7LXUUNGRCEM.jpg"
+        width: 4307
+        height: 2871
+        isCached: true
 
 secured: "AtzHW9/nXDmfjT6K79Qya19rEGLfbTdC5+2VdKlDGaTgJVWDkHWLXP6t08OaGA+ZlXpIhl+WmHlWU5Xa/pVTsd25jUuU737D8iy8gdeqyFMoF1pIcWMcm2gkzHmhi0qlIe27O23Nar8aFjK/epSbwsduvnQVZKnQZxcGyh03BipoI/EuJArRkIl/80ChvaXzIZiVdtNHMoMIlSKaL9de1wdZwSXM26Qm+JwcvYA5jNRSu9JKmUBDn+UPI1rdnmZZjuxw5qcUOYY77CZoSJ2mszZntnOLjs0XBzwcds8KzzkY804rr8WOneh+i5iQzDPdJSkxRBZ0arIfDe2G6X96i1OAHV3u6msqHHdD2/wt2dqIF/Cc2bJ8BVqiq1S6ACnARHUWniPwog5FGO72hkdr2JNLVoiOaQHPjUZEJtLuYGoWT8BwRpReLf21eiwm+QeeD4OQmnDm/gZHPawwdI5aafKVBZD28k378qeTi+TAr2ZixFc2R4QfnbXid1pjtyJT03ULjNdkbfti3wDAxbZbQA==;h3ZLOjm7rILnYPYgikNf5A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUKKBN2B60D8"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUKKBN2B60D8"
 type: article
 quality: 125
-heat: 325
+heat: 345
 published: true
 
 provider:
@@ -172,6 +172,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/f4f20a7661ff59a053aa5dd825fc1f75f80afc29/0_302_4032_2419/master/4032.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3079d7acb36c2746d9ccdbdc47a46f79"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fauci: Trump should use his sway to promote COVID vaccinations"
+    excerpt: "The government's top infectious disease expert lamented polling showing that Trump supporters are more likely to refuse to get vaccinated."
+    publishedDateTime: 2021-03-14T23:46:00Z
+    webUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJPCM6T3LFASDDS7LXUUNGRCEM.jpg"
+        width: 4307
+        height: 2871
         isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."

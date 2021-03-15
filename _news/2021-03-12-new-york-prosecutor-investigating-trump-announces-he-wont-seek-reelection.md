@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/index.html"
 type: article
 quality: 188
-heat: 588
+heat: 608
 published: true
 
 provider:
@@ -268,6 +268,22 @@ related:
     quality: 135
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312133111-chris-miller-file-november-13-2020-01-super-tease.jpeg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "December Trump call to GA investigator found by officials in trash folder"
+    excerpt: "Officials in the Georgia Secretary of State's Office located a recently released recording of former President Donald Trump's call to a state investigator in a trash folder on her device, a state official familiar with the situation confirmed to CNN."
+    publishedDateTime: 2021-03-14T23:41:00Z
+    webUrl: "https://www.cnn.com/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 134
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

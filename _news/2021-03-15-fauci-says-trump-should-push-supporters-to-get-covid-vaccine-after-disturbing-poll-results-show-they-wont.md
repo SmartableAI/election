@@ -173,6 +173,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fauci: Trump should use his sway to promote COVID vaccinations"
+    excerpt: "The government's top infectious disease expert lamented polling showing that Trump supporters are more likely to refuse to get vaccinated."
+    publishedDateTime: 2021-03-14T23:46:00Z
+    webUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJPCM6T3LFASDDS7LXUUNGRCEM.jpg"
+        width: 4307
+        height: 2871
+        isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
     publishedDateTime: 2021-03-14T18:42:00Z
@@ -190,6 +206,6 @@ related:
         height: 675
         isCached: true
 
-secured: "WwvWeYyl8ePm6jkOQzGIcs5yF3GSdgwA+qrlAR1ozmOeMsaf8J96uuISc6Db2U4dufzIk83LATFqNgiLgwe4fCwhVZ+IRHT0vqgyjIULvHdROEZvBzX/Qs8o7792BgHOS/ItEEGwE/lRJouA+XeNqvkdmhTrHrDsOxWgaPg1b76O3H68Etrlr8ZnuWLAy+D5gHst/EYtm6W+iYAghkahaynEA041/eNwb8NKJ+mFgXE6aY1HVmapF/VH1+L5EExFY4P4j4exhemERoZwd0BXf9bOFf/do9PBHJ2la2TcAAZzo+d/EebSxZxnoPktMDGGOYH3Qt7WzYKcdkf6tTu8xfU+RIeLUuTdLBrqkFIjp18=;wnrxGtHLjvdw7K4j4TfxiA=="
+secured: "h6+qiOmSB1tVPQ2VNeFepiAdY8VPTfneXr1q/ZRN5Ia+O0ONyN78RrNYupdzYqssnhphy12Vn2uFLGN9PU0wYBJRt/qXobR5UrPc/6jUNwtHEc4al6QRDdi2tWL2cxlEx2P06RaColSTpHdfZBehVd944WROdckbyIwbAAx28+WVXXXGceG78rOOQcpAYZ6X03cPQUj7IBoLQCFMRpSnBjIHfC+9cXQdeVGPqBJ+UEhIhqz4OA5OT3kPBQYRDZHTth1L2b7fIl3/NmvxboH3KKGvtXX2WLtNlrDL5IxfQvw9Xp+Yrvhq6pevoubdcguEKYO/VppdJstdTLfiv8Dcq7wQZobesp7DpXjGQUOv5l0Srg2maLKDhRfCZ1VhZ0KUA3uDw0dnZgaAD8j21lJRlf1qL37/1QnLJzpn7lrACw/E9pJDXnfm5XOSWjb9VnnpKA4XeacZhQn9M8z3w3usOEHc1Mq7xyyCKssQ67bVQaF4xr80iAzlPT8yiaGYP7O4XEnDqYGaLiNJuawdYmxfTQ==;xfKPx3OuPhIpM/ONFmzg6Q=="
 ---
 

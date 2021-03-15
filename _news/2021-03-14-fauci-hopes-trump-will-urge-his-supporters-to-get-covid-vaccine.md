@@ -173,6 +173,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Fauci: Trump should use his sway to promote COVID vaccinations"
+    excerpt: "The government's top infectious disease expert lamented polling showing that Trump supporters are more likely to refuse to get vaccinated."
+    publishedDateTime: 2021-03-14T23:46:00Z
+    webUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJPCM6T3LFASDDS7LXUUNGRCEM.jpg"
+        width: 4307
+        height: 2871
+        isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
     publishedDateTime: 2021-03-14T18:42:00Z

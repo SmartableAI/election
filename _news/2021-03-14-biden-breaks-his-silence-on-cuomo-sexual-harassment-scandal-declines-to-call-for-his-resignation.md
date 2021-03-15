@@ -1,7 +1,7 @@
 ---
 category: news
 title: "Biden breaks his silence on Cuomo sexual harassment scandal, declines to call for his resignation"
-excerpt: ""
+excerpt: "President Joe Biden broke his silence on Governor Andrew Cuomo's mounting allegations of sexual misconduct on Sunday – but fell short of calling on the embattled New York Democrat to resign."
 publishedDateTime: 2021-03-14T23:28:09Z
 originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U5lufCZypRo/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation"
 webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U5lufCZypRo/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation"
@@ -31,117 +31,149 @@ images:
     isCached: true
 
 related:
-  - title: "Biden backs House gun background check bills that would tighten restrictions"
-    excerpt: "The Biden administration said Monday it \"looks forward\" to working with Congress to strengthen the federal gun background check system and to implement \"commonsense\" steps to reduce gun violence, urging the House to pass two measures that would \"close existing loopholes\" in the system."
-    publishedDateTime: 2021-03-08T17:31:07Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_d_Y_MdnyAE/biden-gun-background-check-bills"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-gun-background-check-bills.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gun-background-check-bills.amp"
+  - title: "Silence on Cuomo continues for Kamala Harris, who crusaded against Brett Kavanaugh"
+    excerpt: "Vice President Kamala Harris has not weighed in on the swelling sexual misconduct allegations against New York Gov. Andrew Cuomo. "
+    publishedDateTime: 2021-03-11T20:18:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/AdV-fUDkekw/silencecuomo-continues-kamala-harris-kavanaugh"
+    ampWebUrl: "https://www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/silencecuomo-continues-kamala-harris-kavanaugh.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 172
+    quality: 179
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Fauci backs Biden pledge of normal Fourth of July, 3 million vaccines per day"
-    excerpt: "Around 3 million vaccines were administered for the first time over the weekend."
-    publishedDateTime: 2021-03-14T16:06:48Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QD9KMj4IVuM/fauci-biden-pledge-normal-july-3-million-vaccines"
-    ampWebUrl: "https://www.foxnews.com/politics/fauci-biden-pledge-normal-july-3-million-vaccines.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-biden-pledge-normal-july-3-million-vaccines.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 172
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6579499f-993a-4584-a386-7cd91ec889b6/7e691339-64be-4012-9d3a-60567bd772f2/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e5e96535-8049-4a95-9d9c-69ba9b304ef5/573d402d-aa19-4ae7-b06f-a22eb03424e7/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden wants to negotiate with GOP but outside 'forces' holding him back: Sen. Capito"
-    excerpt: "Sen. Shelley Moore Capito, R-W. Va., said the Democratic coronavirus stimulus bill was a \"non-starter\" on Friday, calling it \"bloated\" and a wasted opportunity to work across the aisle."
-    publishedDateTime: 2021-03-05T16:31:22Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/nmWiXPUpXko/biden-coronavirus-bill-bloated-wasted-opportunity-capito"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-coronavirus-bill-bloated-wasted-opportunity-capito.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-coronavirus-bill-bloated-wasted-opportunity-capito.amp"
+  - title: "Cuomo won't be getting Emmy for apology 'performance,' GOP assemblyman tells Harris Faulkner"
+    excerpt: "New York lawmakers \"must act\" to impeach Gov. Andrew Cuomo, a New York State Assemblyman Doug Smith said on Thursday."
+    publishedDateTime: 2021-03-04T20:38:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/iJPqXU--9FM/andrew-cuomo-apology-performance-faulkner-focus"
+    ampWebUrl: "https://www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 168
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/aea660e1-50db-4302-ab95-32e29d2d4cad/78743621-74f9-4557-a785-713a3cc77c6a/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Gillibrand's stance on Cuomo allegations contrast with past comments about Trump, Clinton, Kavanaugh, Franken"
+    excerpt: "Sen. Kirsten Gillibrand, D-N.Y., appears to have departed from her previous stances on sexual misconduct allegations with her current stance on the accusations against New York Gov. Andrew Cuomo."
+    publishedDateTime: 2021-03-10T18:31:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqkeckRBzpk/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh"
+    ampWebUrl: "https://www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 156
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879b5155-2393-4d14-b171-2c72feb69f0a/2d308622-72a3-4427-aedb-93f15761af39/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden won White House with ‘put your dumb uncle in the basement’ strategy, new book says"
-    excerpt: "President Biden won the White House because the coronavirus let him stay hidden in his basement, protecting his campaign from its biggest liability — the candidate himself, a new book says."
-    publishedDateTime: 2021-03-03T02:36:40Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ZHgjoN7dPBs/biden-won-white-house-put-dumb-uncle-in-basement-strategy"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-won-white-house-put-dumb-uncle-in-basement-strategy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-won-white-house-put-dumb-uncle-in-basement-strategy.amp"
+  - title: "VP Kamala Harris takes another solo call with a world leader"
+    excerpt: "Vice President Kamala Harris had another call with a foreign leader Tuesday, independent of President Biden. Harris spoke with the prime minister of Norway, Erna Solberg, where Harris \"affirmed her commitment to deepening the strong alliance between Norway ..."
+    publishedDateTime: 2021-03-10T01:45:00Z
+    webUrl: "https://www.foxnews.com/politics/harris-call-norway-prime-minister"
+    ampWebUrl: "https://www.foxnews.com/politics/harris-call-norway-prime-minister.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-call-norway-prime-minister.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21061782817925.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/AP21036028847140.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden to sign voter registration executive order as he pushes Senate to pass sweeping HR 1 bill"
-    excerpt: "President Biden is scheduled to sign an executive order designed to increase voter access on Sunday as he pushes the Senate to pass H.R. 1, House Democrats' sweeping voting rights package."
-    publishedDateTime: 2021-03-07T13:44:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/IE-fnE_wPkc/biden-voter-registration-executive-order-senate-hr-1"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-voter-registration-executive-order-senate-hr-1.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-voter-registration-executive-order-senate-hr-1.amp"
+  - title: "Kamala Harris ignores question on Cuomo sexual harassment scandal"
+    excerpt: "Vice President Kamala Harris ignored a question about Democratic New York Gov. Andrew Cuomo’s widening sexual harassment scandal while speaking with reporters on Wednesday. Harris briefly spoke with reporters after House lawmakers passed the Senate ..."
+    publishedDateTime: 2021-03-11T02:18:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-ignores-question-on-cuomo-sexual-harassment-scandal"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-ignores-question-on-cuomo-sexual-harassment-scandal.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-ignores-question-on-cuomo-sexual-harassment-scandal.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Biden-Voting-Executive-Order-AP.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6114d9a-f847-43c3-a7ad-38b44749138c/da7bcf3d-f970-4418-948f-6904dfa22813/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Biden Pentagon pick faces questions over ties to group that helped create Iran deal 'echo chamber'"
-    excerpt: "One of President Biden's top Pentagon picks is facing concern from Republicans about his views on Iran and his ties to a group that helped create an \"echo chamber\" to sell the Iran nuclear deal to the public."
-    publishedDateTime: 2021-03-04T21:53:50Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/2guRl2zshQc/biden-pentagon-ploughshares-fund-iran-colin-kahl"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-pentagon-ploughshares-fund-iran-colin-kahl.amp"
+  - title: "Kamala Harris ignores question on Cuomo’s sexual misconduct scandal"
+    excerpt: "Vice President Kamala Harris refused to comment on Gov. Andrew Cuomo’s mounting sexual misconduct scandal — despite previously swiftly condemning former Democratic Sen. Al Franken when"
+    publishedDateTime: 2021-03-11T16:07:00Z
+    webUrl: "https://nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/"
+    ampWebUrl: "https://nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/kamala-harris-ignores-question-on-cuomos-sexual-misconduct-scandal/amp/"
     type: article
     provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 161
+      name: New York Post
+      domain: nypost.com
+    quality: 135
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Colin-Kahl-GETTY.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/kamala-harris-4.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Biden celebrates House passing HR 1, Dems' campaign bill, vows work to 'refine and advance' legislation"
-    excerpt: "President Biden on Thursday celebrated the House passing a sweeping election reform bill, saying he would sign it if it passes the Senate."
-    publishedDateTime: 2021-03-04T14:22:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/prjm5q22-xc/biden-house-passes-hr1-campaign-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-house-passes-hr1-campaign-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-house-passes-hr1-campaign-bill.amp"
+  - title: "Merrick Garland speaks at DOJ before swearing-in by VP Kamala Harris"
+    excerpt: "Attorney General Merrick Garland paid a visit to his new office Thursday morning to deliver his first remarks to Justice Department staff ahead of his swearing-in by Vice President Kamala Harris."
+    publishedDateTime: 2021-03-11T18:30:00Z
+    webUrl: "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/"
+    ampWebUrl: "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/merrick-garland-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris silent on mounting Cuomo allegations after Kavanaugh crusade, #MeToo support"
+    excerpt: "While more and more members of both parties are weighing in on the sexual harassment allegations brought by multiple women against New York Gov. Andrew Cuomo, one voice absent in the conversation has been Vice President '."
+    publishedDateTime: 2021-03-02T15:36:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 159
+    quality: 125
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Gillibrand's stance on Cuomo allegations contrast with past comments about Trump, Clinton, Kavanaugh, Franken"
+    excerpt: "She also called on former President Donald Trump — of whom she was a staunch critic — to resign amid sexual assault allegations made against him in 2017. Gillibrand’s office did not immediately respond to Fox News’ request for comment on her statem ..."
+    publishedDateTime: 2021-03-10T18:39:00Z
+    webUrl: "https://www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh"
+    ampWebUrl: "https://www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 116
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879b5155-2393-4d14-b171-2c72feb69f0a/2d308622-72a3-4427-aedb-93f15761af39/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "xxHSFc54d/NjqS4Y6QA5SadQ+J9Tf7DfvR9zfFHWin/1vbQte+oAZdabG0NUIQHZ4+K4X9H8GnoO1n9P8FK/KhuYKLHcxJzgyFisyKP8I8XGm+rjXLKYxkkyXtREfPasix8BEojf21n2vvjmPytmDYQ0U0618GKhIv6b+N38p87mGdNMR+2ox8KEFfLrWZAvPMHbBXRml/JT1hJmonRrfYdyYmj5Bk5yPDtvueoKwrrHp+r0okTpceDcgEpzoKUpksIjZABGlBeUQ3cbon9sssqh4WHTw/jlUPsgNFepRiBZCpCzs5j4IaqcFFJFvnwU2jgvX5W55DydMxCQqnppb432YdRKp3+ShP2oxZdJbQM=;kytq13vfCc04fQzwfyon9w=="

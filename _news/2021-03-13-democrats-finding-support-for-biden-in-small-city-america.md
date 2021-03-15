@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Democrats finding support for Biden in small-city America"
-excerpt: "MANKATO, Minnesota — Mary McGaw grew up in a Republican home on the rural prairie of south central Minnesota. But as she moved from her tiny town of Amboy to the nearest city of Mankato to study nursing, her politics migrated too. Support our journalism."
-publishedDateTime: 2021-03-13T14:17:00Z
-originalUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html"
-webUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html"
-ampWebUrl: "https://www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/democrats-find-support-for-biden-in-small-city-america/2021/03/13/ac9209a8-83bc-11eb-be22-32d331d87530_story.html?outputType=amp"
+excerpt: "Democrats are looking for new sources of political strength as the election map is shifting MANKATO, Minnesota -- Mary McGaw grew up in a Republican home on the rural prairie of south central Minnesota."
+publishedDateTime: 2021-03-13T14:14:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
+webUrl: "https://abcnews.go.com/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-find-support-biden-small-city-america-76432635"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_4624562d5d2047398c5455b0cd122e58_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -247,6 +247,6 @@ related:
       domain: reuters.com
     quality: 105
 
-secured: "A9PZAtiGogv7GtjQC/gQRG4BZf3TxV6UcgWTMRELR1C5YeBYxke85tK2hOqP1PbQcTMDz2tE0bWJGCSaRUwVswI6+fWMB0/CuSZQCXzMUB1Ok82vXO1Y32if3GdLj/mt+Qx4nGdpJg61IFF7kB9DVyjg+2Alfco3Lar9LuwrVrJt7C8OMp8xvG7XKachEI8KzSCU+3YUS1JJvV/+tRnE7Arz1eAhhat2xVULUfQ4vdD11oBWCZIfCj63En3MUB37IxKgMMSCsegZCu4+RTpjxLBIXEWscd4aGv0WXmGdtP6Qnt5r5JwRKFuAVHPPtrxWcUxfwIrIKdHzq2otZQb9t8/DFE6bwkPKup74Ku9o7KA=;pprwZnYeYmSxpa7n/vLipQ=="
+secured: "Cl7r+bnIGs3tDtF2nd/Wvr85KKUqthR9F3dS5v+3OxjsJPO0atblYdYdrl9dUdbxdT/bNUUZlXaBejZbwrGcIwMwA0CdW4NZ+n+BbVPZFCvJbuXLvW8yZlPQrYyczRWR0TpNWYx9fA+fMnb5vc6lGOX82ydiLBbJ1NAHvGNRvnPrpiZ35fSfP591sxkM7lpSFE7VH0NLNdDSdeT08Jc2A4JFp4Is/VoF01Q8SCZOYBGah5e37Sk5k2i9w3wLVhxiu6to/3bDOriKXz6cZ/G0bI30eW0aWqAjuienPUFuUafjCTBvSrEDHM89C81XFinl7Qg7I8gpEjet75bmkExs3UMLkXLIWrCZ64y1gzFys/4=;xgjNArTfts2RSuY5gxDTKA=="
 ---
 

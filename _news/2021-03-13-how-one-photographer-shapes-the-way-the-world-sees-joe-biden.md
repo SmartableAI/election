@@ -3,8 +3,8 @@ category: news
 title: "How one photographer shapes the way the world sees Joe Biden"
 excerpt: "Adam Schultz is the new chief official White House photographer. He’s with the President for high-level meetings, but also for the quiet moments in between."
 publishedDateTime: 2021-03-13T08:00:00Z
-originalUrl: "https://www.cnn.com/interactive/2021/03/politics/joe-biden-photographer-cnnphotos/"
-webUrl: "https://www.cnn.com/interactive/2021/03/politics/joe-biden-photographer-cnnphotos/"
+originalUrl: "https://www.cnn.com/interactive/2021/03/politics/joe-biden-photographer-cnnphotos/index.html"
+webUrl: "https://www.cnn.com/interactive/2021/03/politics/joe-biden-photographer-cnnphotos/index.html"
 type: article
 quality: 115
 heat: -1
@@ -390,6 +390,6 @@ related:
         height: 630
         isCached: true
 
-secured: "bmRBdrrTKoUtqdn7mzIcQ1m1yjh2zcC/lmO2APCCB3iyYcv51okJ+f7Td0WLi19JyE8ouqQME8AG+DczD+Aiq5BkT6wP0k/1ruzMzf9sBZhc9rvUmsrQN6c7BsGooiUFzKLnufxrD/Z14xqnQMQsu1YIN3dtn0KkDXjj+mMfo9OC8DZUS+4PrOucUhVjT4iCIAJytcv5Gl0WbjvczldE1vFCwEzSuk00Ft64Fr3fUOzSKe4215anAPLf5kTtcWHkDylJfUCoJ+qvDRftOAT/IlB3LJbr1BEq13KlOAvB79/F+bSutNt+Pd9174usUxeExJHwSl3T93UBApLMYtQbF+cESuvylIEFJOqayy/J5Xw=;5XokPpv/8hQ/QtgSgxmvBA=="
+secured: "Qw25MqsY2QgfT+jx0L3feM3tUio7XS62Xoz0KtO/4hu3Qq5bPirxRxct0zzmL72y4gbU2MivRoHFjbubA963zKu9nffHaeWOIPeqUwBTpXd0jNwesayKAtcyOIwoj3FE3qx3UP7iJpI6ni+ZHFou/qDfRjEWDcmbaeSIYxjmpEIXdLjo0mih6UqJvX7ROuSmfbWLN8lDlOiarMAZKtRV5CUs6RzzKV9toswYUr/LIVCYMu576cgoDnEA5rvR7/tPTTR7X9/biyq1qKN8LbHviSpz55vbDlR6ghjyUjlyjNfB86mKDlVR7u8yfiZ7E/eY52CVW52A/CD4mmtUrMx31I1vVHvKpyPqykE4znusTuA=;06oYF8js/EI9gcAGv6DVNw=="
 ---
 

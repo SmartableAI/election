@@ -63,6 +63,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden breaks his silence on Cuomo sexual harassment scandal, declines to call for his resignation"
+    excerpt: "President Joe Biden broke his silence on Governor Andrew Cuomo's mounting allegations of sexual misconduct on Sunday – but fell short of calling on the embattled New York Democrat to resign."
+    publishedDateTime: 2021-03-14T23:28:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U5lufCZypRo/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b105bf2-41fd-43b2-b0e7-a1100cbc737c/d57ad943-de85-4d3b-8af4-9e0d08e50f89/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "VP Kamala Harris takes another solo call with a world leader"
     excerpt: "Vice President Kamala Harris had another call with a foreign leader Tuesday, independent of President Biden. Harris spoke with the prime minister of Norway, Erna Solberg, where Harris \"affirmed her commitment to deepening the strong alliance between Norway ..."
     publishedDateTime: 2021-03-10T01:45:00Z

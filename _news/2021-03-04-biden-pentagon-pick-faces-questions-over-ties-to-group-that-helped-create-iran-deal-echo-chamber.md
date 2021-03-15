@@ -111,22 +111,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Biden breaks his silence on Cuomo sexual harassment scandal, declines to call for his resignation"
-    excerpt: ""
-    publishedDateTime: 2021-03-14T23:28:09Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/U5lufCZypRo/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-breaks-his-silence-on-cuomo-sexual-harassment-scandal-declines-to-call-for-his-resignation.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 162
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9b105bf2-41fd-43b2-b0e7-a1100cbc737c/d57ad943-de85-4d3b-8af4-9e0d08e50f89/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden celebrates House passing HR 1, Dems' campaign bill, vows work to 'refine and advance' legislation"
     excerpt: "President Biden on Thursday celebrated the House passing a sweeping election reform bill, saying he would sign it if it passes the Senate."
     publishedDateTime: 2021-03-04T14:22:51Z

@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Trump, Hungry for Power, Tries to Wrestle Away G.O.P. Fund-Raising"
-excerpt: "Angry at his critics in the party and seeking to keep his options for raising money open, the former president is trying to take charge of the online fund-raising juggernaut he helped create."
-publishedDateTime: 2021-03-09T23:14:00Z
-originalUrl: "https://www.nytimes.com/2021/03/09/us/politics/trump-republican-fundraising.html"
-webUrl: "https://www.nytimes.com/2021/03/09/us/politics/trump-republican-fundraising.html"
-ampWebUrl: "https://www.nytimes.com/2021/03/09/us/politics/trump-republican-fundraising.amp.html"
-cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/09/us/politics/trump-republican-fundraising.amp.html"
+title: "December Trump call to GA investigator found by officials in trash folder"
+excerpt: "Officials in the Georgia Secretary of State's Office located a recently released recording of former President Donald Trump's call to a state investigator in a trash folder on her device, a state official familiar with the situation confirmed to CNN."
+publishedDateTime: 2021-03-14T23:41:00Z
+originalUrl: "https://www.cnn.com/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
+webUrl: "https://www.cnn.com/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
 type: article
-quality: 135
+quality: 134
 heat: -1
 published: false
 
 provider:
-  name: New York Times
-  domain: nytimes.com
+  name: CNN
+  domain: cnn.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -26,9 +26,9 @@ topics:
   - Democratic Voice
 
 images:
-  - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09trumpmoney1/09trumpmoney1-facebookJumbo.jpg"
-    width: 1050
-    height: 550
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -208,6 +208,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Trump, Hungry for Power, Tries to Wrestle Away G.O.P. Fund-Raising"
+    excerpt: "Angry at his critics in the party and seeking to keep his options for raising money open, the former president is trying to take charge of the online fund-raising juggernaut he helped create."
+    publishedDateTime: 2021-03-09T23:14:00Z
+    webUrl: "https://www.nytimes.com/2021/03/09/us/politics/trump-republican-fundraising.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/09/us/politics/trump-republican-fundraising.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/09/us/politics/trump-republican-fundraising.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/09/us/politics/09trumpmoney1/09trumpmoney1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Why Donald Trump is fighting Republicans over his name"
     excerpt: "While Donald Trump has long championed himself as a master real estate tycoon, talk to anyone familiar with how he built his fortune and they will tell you that the key to his success wasn't buying buildings."
     publishedDateTime: 2021-03-09T22:18:00Z
@@ -269,22 +285,6 @@ related:
     quality: 135
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312133111-chris-miller-file-november-13-2020-01-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "December Trump call to GA investigator found by officials in trash folder"
-    excerpt: "Officials in the Georgia Secretary of State's Office located a recently released recording of former President Donald Trump's call to a state investigator in a trash folder on her device, a state official familiar with the situation confirmed to CNN."
-    publishedDateTime: 2021-03-14T23:41:00Z
-    webUrl: "https://www.cnn.com/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/03/14/trump-call-to-georgia-investigator-trash-folder-brown-nr-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 134
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210227143700-president-donald-trump-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -356,6 +356,6 @@ related:
       domain: politico.com
     quality: 110
 
-secured: "n9tlnQsTuOciSxG0p/3N6z7O5ElPzP12lJ9cmCj3W0Hyn2tvebyBxvtoAYJMowHwQwcPah3UFBibEExyLv7cZhIHzKEXxqpcrGV1AyA6tBdd18RwBx5EEIBz0hlpQ3OUGdNu/cigkqHYbtelVhyoZm27lyxrQrdiTaoHYCqeoAwNp+HU5cNWoUPKCjy4LuoYTQUZhSXI5er+dFP7DSHF2jAV6wPyQ3AEb1gD14Wz+q2k6vZ+q5acB2StJ98+C/2hZfQV3oLPA61t+NtjLkh8Iz82EsodgoLwajLqI9Kybo1p6bKDiFCfCP6mZa+g0GG1TwdYw2899AmzhE6HEGXq/zehnxc4C2QHwV1rkpNAXrIG7Xph8ohejVefHbp7TLRPzGmc9E0Me6SymRgQNAhGVdCF7Ddivk1AlsN1qABlBgECvCzZxosDgJ4qLGIklGCoE4tnZErKZzj8w2VuE7W4wyfVJ2HHnyhyfsfqGsm2Nv3i0O01iM3dt+0G2OtAOSgrFgnTECwqwZBxKHMOJ/SGEA==;0i4jFrO7rjCAra5mCGHhgA=="
+secured: "h7STN9wmvZz27rssDZ7xgeAG/f7Y7UwRGUk7nVGl0JlXjWQTlooyMMZyEhJv/YxJyFbJBQJmQvJltoEcbji/ovvPtAUZ2qBkXjIFPFIeHHMz6RVa0fL42otltSb6c8o2OU4K8pQWzayES2LsaCUYAQXVpVbNU8Kmgxluu7z4i9+0xHTzuyj4HPYCuZGtslrRbAK9BV+WiqSBDv7bpvPZUmotPH5OXyBJnoUT2D38qQb6Hrz71KwienkLVfgAFplCFLg7o4vUkKl0NNzwclUiVyE/cls7YlEpyRKPF1dfUM/C+bp9K7321BxUioZnrNdrIfBVMrzB2VsyIDgtcx3sO6a6Ao163ilpqcYwxdiNaGg=;c6PfWGkE/xkt3sqMmWbQkA=="
 ---
 

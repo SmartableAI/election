@@ -1,33 +1,29 @@
 ---
 category: news
-title: "Fauci: it's 'disturbing' that Trump voters say they won't get vaccinated for COVID-19"
-excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
-publishedDateTime: 2021-03-14T15:03:00Z
-originalUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3"
-webUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3"
-ampWebUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3?amp"
+title: "Fauci: Trump should use his sway to promote COVID vaccinations"
+excerpt: "The government's top infectious disease expert lamented polling showing that Trump supporters are more likely to refuse to get vaccinated."
+publishedDateTime: 2021-03-14T23:46:00Z
+originalUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html"
+webUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html"
+ampWebUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
+cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
 type: article
-quality: 118
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: al.com
+  domain: al.com
 
 topics:
   - Election
   - Donald Trump
 
 images:
-  - url: "https://i.insider.com/604e1ef510c8760018b931d5?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJPCM6T3LFASDDS7LXUUNGRCEM.jpg"
+    width: 4307
+    height: 2871
     isCached: true
 
 related:
@@ -111,6 +107,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Fauci: it's 'disturbing' that Trump voters say they won't get vaccinated for COVID-19"
+    excerpt: "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ..."
+    publishedDateTime: 2021-03-14T15:03:00Z
+    webUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/fauci-says-vaccine-hesitancy-among-trump-supporters-is-distrubing-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 118
+    images:
+      - url: "https://i.insider.com/604e1ef510c8760018b931d5?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Cuomo chastised states, Trump for obscuring COVID information. Now he's accused of the same"
     excerpt: "Before Cuomo and aides were accused of downplaying nursing home deaths for political gain, he warned others about the risk of 'politics of denial'"
     publishedDateTime: 2021-03-08T14:25:00Z
@@ -173,22 +185,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fauci: Trump should use his sway to promote COVID vaccinations"
-    excerpt: "The government's top infectious disease expert lamented polling showing that Trump supporters are more likely to refuse to get vaccinated."
-    publishedDateTime: 2021-03-14T23:46:00Z
-    webUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html"
-    ampWebUrl: "https://www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/fauci-trump-should-use-his-sway-to-promote-covid-vaccinations.html?outputType=amp"
-    type: article
-    provider:
-      name: al.com
-      domain: al.com
-    quality: 75
-    images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/TJPCM6T3LFASDDS7LXUUNGRCEM.jpg"
-        width: 4307
-        height: 2871
-        isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
     publishedDateTime: 2021-03-14T18:42:00Z
@@ -206,6 +202,6 @@ related:
         height: 675
         isCached: true
 
-secured: "uEFe+hrxcP+qUlKuBOaX6fVjlkavw/iO1jQv03vuCSgNig6BuOjFWpbTk9bTOWmhG2CLahQT1MORPVJj7+hTPwcvJr32RV9Gw0DyuDa4f42bJTjKOnSM1ZJ0gusDNVrNzalmiQAJ5vryoDgR0phy3v0Mk7s3eFEVhgULgpttLodmCT+I4vBM5b4DdZeYPtjiV24FXeMd0oD79cKcR4NYCQC34OjLUAfqmMsrENtmG4vlm23i5tnUZ+tI68uelFn+gOsXg2M3rN0+Y4aPhOmycKOB+jcC2IWXp7sIKGsJ/IXnGKW50z0lvEu1vzVD0XN6R1y4PxVkXcrrDGDU3xYRzNuFBS4Uam8jbyAlm+FEE52WPH0AXZWmpfGT+0rX5a6QodokBZvpcF2mfUy2LO8cExiOwTUPFU5DymQ2V2dn10HXKT1jlwL/tWxp9ACsZIXJpnWJYsmboZlzajC3bzC2faXLDv9U7z0aZS73tVcOm0SMnNLMKix17JM+H4gLf/RFPEOhdYDieOhDRLRlRKeQ/g==;BYazeHH74JjS1ggjxNK0Lg=="
+secured: "C4fF5LUn1UrUuNGfq73m6gdPchgtJY7VZDursyIwHpAX8F2CF+iV657LQn9tkdJngvAVidQFY/KuxDLq6HHGOgmsheXGNeOvTjkRMBdSrmhhUa9h+Yv2Ps2s6bDb3KINzJJfEzeTl968+QutOH4ntSYDREFjh8kLnYyDH6jev+AaOjyHiqDzdp+eeH5DlBAEqCx2vKALJ44qRe2LdROLNbujuBjCHvg9LE0plDnVsubku+WUbf7L22ch56xXyzfb/NMuppFjnV4b0/eJ7IDfOg6Q6iX/SBuu+WfW1qhWWxz3XnAizaCn/EOUTKwueTtvc0DFnQu489p9ZQZwRByI4M3kl0vSpED1bwDS0xfXD5E=;QNi8InS5MMRsHqYkKG5dGQ=="
 ---
 
