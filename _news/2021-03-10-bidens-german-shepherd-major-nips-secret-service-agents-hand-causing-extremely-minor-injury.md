@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Senate set to confirm Deb Haaland as Biden's Interior secretary in historic vote "
+    excerpt: "The Senate is slated to vote on Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary.\n    \n"
+    publishedDateTime: 2021-03-15T10:05:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iXRGveVPo_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224140455-01-haaland-confirmation-hearing-0224-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "iMtcyKNA/nzU56uamGfZaYjI61eUM5nqqDYeafyquEh7pNrEVzt6tzCg9E6k2hQwHfT8UEpBLaJZoEqt62/uKwxeUpl8/hsC8Zj4QPNtp+5guN0WXCTJVUlQWpnTrmgV/HUUI+hmZRUpIW4ViXMIw9x991e+ClAG1DANnhFI2VQGpXvUs2hNnt3D73709XlNzQibn0mwTWwtPhTXJhhObYoz2A6LAC0tIWWugl2nT/QTZPy7X99e7XHX11nKnBLXLxG4rTge5ieyP51naTro7Ye7/F2zWMY/HKQUrUyObrt5KIFDMMW78V3/B5KfcHEm9WkMCN5pInsa+H7LfvoCC2H94QljMIFs5tc5+mGQfLs=;cei2D2aWcorEsFeXSYv/Eg=="
 ---

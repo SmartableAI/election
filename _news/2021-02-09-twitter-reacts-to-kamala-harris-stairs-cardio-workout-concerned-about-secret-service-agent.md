@@ -837,6 +837,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Biden, Harris and others to promote coronavirus relief plan’s benefits"
+    excerpt: "President Biden will talk about the plan Monday at the White House, and he plans to visit a small business in Delaware County, Penn., on Tuesday."
+    publishedDateTime: 2021-03-15T11:45:00Z
+    webUrl: "https://www.tampabay.com/news/health/2021/03/15/biden-harris-and-others-to-promote-coronavirus-relief-plans-benefits/"
+    ampWebUrl: "https://www.tampabay.com/news/health/2021/03/15/biden-harris-and-others-to-promote-coronavirus-relief-plans-benefits/?outputType=amp"
+    cdnAmpWebUrl: "https://www-tampabay-com.cdn.ampproject.org/c/s/www.tampabay.com/news/health/2021/03/15/biden-harris-and-others-to-promote-coronavirus-relief-plans-benefits/?outputType=amp"
+    type: article
+    provider:
+      name: Tampa Bay Times
+      domain: tampabay.com
+    quality: 90
+    images:
+      - url: "https://www.tampabay.com/resizer/DC_I-luibb2QccxZ1Em8Kww5Vug=/800x450/smart/cloudfront-us-east-1.images.arcpublishing.com/tbt/5LCRA62QNNAHNC5VL7OGW66DYA.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Biden, Harris and others to promote relief plan's benefits"
     excerpt: "President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost the economy."
     publishedDateTime: 2021-03-15T07:34:00Z
@@ -1024,6 +1040,22 @@ related:
       - url: "https://i.insider.com/60133e001d2df20018b717a3?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Biden, Harris to promote relief plan’s benefits on cross-country tour that includes Pa."
+    excerpt: "President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost the economy."
+    publishedDateTime: 2021-03-15T11:50:00Z
+    webUrl: "https://www.pennlive.com/coronavirus/2021/03/biden-harris-to-promote-relief-plans-benefits-on-cross-country-tour-that-includes-pa.html"
+    ampWebUrl: "https://www.pennlive.com/coronavirus/2021/03/biden-harris-to-promote-relief-plans-benefits-on-cross-country-tour-that-includes-pa.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-pennlive-com.cdn.ampproject.org/c/s/www.pennlive.com/coronavirus/2021/03/biden-harris-to-promote-relief-plans-benefits-on-cross-country-tour-that-includes-pa.html?outputType=amp"
+    type: article
+    provider:
+      name: Penn Live
+      domain: pennlive.com
+    quality: 82
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UOEMW73WK5C4JNNOK3CTMZXQQA.jpg"
+        width: 5507
+        height: 3671
         isCached: true
   - title: "Kamala Harris silent on Cuomo sexual harassment scandal as ex-Biden campaign aide speaks up"
     excerpt: "Vice President Kamala Harris, who has been a champion of the #MeToo movement, isn’t saying anything about the increasing number of women accusing New York Gov. Andrew Cuomo of sexual harassment."

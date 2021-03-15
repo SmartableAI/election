@@ -175,6 +175,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Republican AGs fight Biden rollback of Trump immigration agenda"
+    excerpt: "Republican state attorneys general are increasingly turning to the courts in hopes of preserving pieces of former President Trump’s hardline immigration agenda as President Biden hurries to roll back the policies."
+    publishedDateTime: 2021-03-15T11:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/543026-republican-ags-fight-biden-rollback-of-trump-immigration-agenda"
+    ampWebUrl: "https://thehill.com/homenews/administration/543026-republican-ags-fight-biden-rollback-of-trump-immigration-agenda?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543026-republican-ags-fight-biden-rollback-of-trump-immigration-agenda?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/paxtonken_022721getty_ags_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Manhattan prosecutor who is investigating Trump will not seek re-election"
     excerpt: "(Reuters) - Manhattan District Attorney Cyrus Vance Jr said on Friday he will not seek re-election in November, making it likely that his criminal investigation into former U.S. President Donald Trump will be left for his successor. The decision by Vance ..."
     publishedDateTime: 2021-03-12T15:46:00Z

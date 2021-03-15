@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/index.html"
 type: article
 quality: 188
-heat: 608
+heat: 628
 published: true
 
 provider:
@@ -270,6 +270,22 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312133111-chris-miller-file-november-13-2020-01-super-tease.jpeg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "A Pro-Trump scam PAC returns with a vengeance"
+    excerpt: "President Donald Trump is out of office, but the scammers that used his name to raise money aren’t stopping. Over the past few weeks, POLITICO has received a number of robocalls from generically named political groups asking for cash in order to help in ..."
+    publishedDateTime: 2021-03-15T09:30:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/trump-scam-pac-robocalls-475917"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/trump-scam-pac-robocalls-475917"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/trump-scam-pac-robocalls-475917"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/01/68/675ec1ea48d8a38b552c157e9ae2/210314-trump-cpac-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
   - title: "December Trump call to GA investigator found by officials in trash folder"
     excerpt: "Officials in the Georgia Secretary of State's Office located a recently released recording of former President Donald Trump's call to a state investigator in a trash folder on her device, a state official familiar with the situation confirmed to CNN."

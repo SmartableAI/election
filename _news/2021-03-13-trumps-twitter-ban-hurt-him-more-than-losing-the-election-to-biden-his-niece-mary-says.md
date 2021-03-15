@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp"
 type: article
 quality: 146
-heat: 1346
+heat: 1366
 published: true
 
 provider:
@@ -156,6 +156,22 @@ related:
     quality: 140
     images:
       - url: "https://thehill.com/sites/default/files/flag_012121getty_venezuela.jpg"
+        width: 980
+        height: 551
+        isCached: true
+  - title: "Republican AGs fight Biden rollback of Trump immigration agenda"
+    excerpt: "Republican state attorneys general are increasingly turning to the courts in hopes of preserving pieces of former President Trump’s hardline immigration agenda as President Biden hurries to roll back the policies."
+    publishedDateTime: 2021-03-15T11:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/543026-republican-ags-fight-biden-rollback-of-trump-immigration-agenda"
+    ampWebUrl: "https://thehill.com/homenews/administration/543026-republican-ags-fight-biden-rollback-of-trump-immigration-agenda?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543026-republican-ags-fight-biden-rollback-of-trump-immigration-agenda?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/paxtonken_022721getty_ags_0.jpg"
         width: 980
         height: 551
         isCached: true

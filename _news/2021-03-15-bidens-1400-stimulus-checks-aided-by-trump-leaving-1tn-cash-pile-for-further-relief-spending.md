@@ -175,6 +175,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Republican AGs fight Biden rollback of Trump immigration agenda"
+    excerpt: "Republican state attorneys general are increasingly turning to the courts in hopes of preserving pieces of former President Trump’s hardline immigration agenda as President Biden hurries to roll back the policies."
+    publishedDateTime: 2021-03-15T11:00:00Z
+    webUrl: "https://thehill.com/homenews/administration/543026-republican-ags-fight-biden-rollback-of-trump-immigration-agenda"
+    ampWebUrl: "https://thehill.com/homenews/administration/543026-republican-ags-fight-biden-rollback-of-trump-immigration-agenda?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543026-republican-ags-fight-biden-rollback-of-trump-immigration-agenda?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 140
+    images:
+      - url: "https://thehill.com/sites/default/files/paxtonken_022721getty_ags_0.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Lucky review: how Biden beat Trump – and doubters like Obama and Hillary"
     excerpt: "Jonathan Allen and Amie Parnes deliver a clear-eyed account of an election which could not cure a country’s wounds"
     publishedDateTime: 2021-03-07T05:02:00Z
@@ -958,6 +974,6 @@ related:
         height: 663
         isCached: true
 
-secured: "h7LrtbEZpdlTEdVgtBLNc+lr08XQ+6dODFZOO9MuLlB1/4tEwDRtQYi5E810CFwnIpzzr2LZ5M8Ae/yotEUTfKVLROo5+iqU3D1dXMy/P/J1D8S0cefCOPnsvQm9lWi2xFPm+O8qyNz7v/BofU4avLgbbM+PtLflFnwfo3sXDCds3MP6nFyaxcGfe1TlnLGwJgXWHJhJ7sDu+uAdBZm92KfDRdORQjfZDKhIhpySFAJGlLzSX1eIweppdfU65cii3KQnUZkslKJxCI/QF2/vHEYQQuWx7cL65rufcrVaMQ3FD5g6foBS57o3znvaZskb/kyHMQjgPwzM28x4C5JJyJ401TOoZfPddJuuUN+tZ44=;uoNd6UHaMHg57DvzjUJKZQ=="
+secured: "ahebPXO+XRdiWMz5bGU3xsAqBauKN7tnQxvfcA9AJ2jxACSa1BVtjTssedoycX6Kvk3YuFNX/n6TOWgynthk6CeIfSX6n1huiNaL/WLT3GI6aDlEvP6ahgKngyKPdyGxsIp6u04H68JNKjVmXxk3NAOY3wY5TGQRM8+/NbSIFSs+K1FSDAqW+GrF6tfkaQGqfP5Okq/9RtB993qzNBYeTiUlviU8LuGEoeq6SqyaXvDLGOzDomDMZ+vG/jj+ra9T6jQax4g9nZjOYZ2IO7CzBJYBkp4bpHEN3M4V2ZQwKmYBIDvimJy2WH/jEMoStn3LrrHSNrpQK9s8x87gRzqS5mDy5ingk5llFKwB+IJxAYltdVKbSqwgKycTztJrF6thSjKSfF18Gf7C/iBi1dz22dPrwCq5lSPN9imr1E7hBJeSs5tZ0vhFJRTb+uvFLKaSjOKuwNWWL+uHEJGgzwNq+kjWrhCnWxbABqRnB9zAu8ubNFRH0qqy/08T4KTnmBKvFwLK9yPOgWKy3CosaAQ9uw==;rU4hUysOP1KQgXJjtF3KVw=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-speech-takeawa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-speech-takeaways/index.html"
 type: article
 quality: 175
-heat: 295
+heat: 315
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
     quality: 169
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210304180339-biden-roosevelt-room-0304-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden to announce Gene Sperling will oversee rollout of $1.9 trillion in Covid relief "
+    excerpt: "President Joe Biden will announce Monday that Gene Sperling, a former top economic official in the last two Democratic presidential administrations, will serve as the point person in overseeing the implementation of the newly signed $1.9 trillion Covid relief law, according to two people briefed on the"
+    publishedDateTime: 2021-03-15T11:18:13Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/85PC-e_2KP8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/joe-biden-american-rescue-plan-gene-sperling/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/joe-biden-american-rescue-plan-gene-sperling/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 167
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315071529-gene-sperling-2015-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

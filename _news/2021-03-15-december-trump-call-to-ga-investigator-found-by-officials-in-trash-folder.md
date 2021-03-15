@@ -288,6 +288,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "A Pro-Trump scam PAC returns with a vengeance"
+    excerpt: "President Donald Trump is out of office, but the scammers that used his name to raise money aren’t stopping. Over the past few weeks, POLITICO has received a number of robocalls from generically named political groups asking for cash in order to help in ..."
+    publishedDateTime: 2021-03-15T09:30:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/trump-scam-pac-robocalls-475917"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/trump-scam-pac-robocalls-475917"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/trump-scam-pac-robocalls-475917"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 135
+    images:
+      - url: "https://static.politico.com/01/68/675ec1ea48d8a38b552c157e9ae2/210314-trump-cpac-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump's acting Defense Secretary says his January 6 speech incited Capitol rioters"
     excerpt: "(CNN)Former acting Secretary of Defense Christopher Miller believes former President Donald Trump's speech on the morning of January 6 incited the rioters who stormed the US Capitol. \"The question is would anybody have marched on the Capitol and overrun ..."
     publishedDateTime: 2021-03-11T22:02:00Z
