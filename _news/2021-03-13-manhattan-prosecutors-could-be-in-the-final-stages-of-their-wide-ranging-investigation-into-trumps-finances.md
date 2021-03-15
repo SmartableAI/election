@@ -927,6 +927,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
+  - title: "Trump Says Meghan Markle Is 'No Good' Following Oprah Interview, Sides Piers Morgan: Miller"
+    excerpt: "Donald Trump has previously clashed with Meghan Markle after she and Prince Harry endorsed Joe Biden in the 2020 presidential race."
+    publishedDateTime: 2021-03-15T05:31:00Z
+    webUrl: "https://www.ibtimes.com/trump-says-meghan-markle-no-good-following-oprah-interview-sides-piers-morgan-miller-3162126"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 45
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
+        width: 1024
+        height: 663
+        isCached: true
 
 secured: "bcB+U9INp0D+Qh3aRVMs69i1f4qw+yYHpXryG9we942/HVg3gYTHT3DdEpaJf8vDoLgIVM3Q1o93zctW6l3OOWLX5z3AKCNZ+fsgTOJcFCkXF/sxGxM9EpCHa7kBnQqQiOYKVpLiCkZoGFTIACR9CjQL1ca4Oq4QjI1FfwQj56KOAaNpJLSVPi9BNNMC42IPrNX5145JaxNcLr7zm9IRl5/JQ5+HflcedvMV4XfMI6skZEBp4zI5TpneIw59LOMW3HZeCedbX1Xv9SUS8KjdFN69Nk1jBOXwfOgka9uWOFax7rURngr9+eO3GmZpOcl7HKQrPgKls9b+xHWrcs+iIdFFxJoZTUL01e+uQRYC6icMA/ybwzA8+ZiTbWLlnBIobcLM4PpkghX0KM3ZgxUKJ10fWu0a7nqS5CxG4e6+JbSdN74GHNaxHHhQkho8zXChg7Y0UrvsP4tgUoMVJR9J9xVQpoolbMEhY4OZF4U+lJc2KOUcgMwopyrsFI/iOsaCIfdyS/R95hCK1fndPLML6Q==;CJhn0CryVuzX/9IqS8SdRw=="
 ---

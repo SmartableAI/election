@@ -833,6 +833,22 @@ related:
         width: 1200
         height: 700
         isCached: true
+  - title: "Biden, Harris and others to promote relief plan's benefits"
+    excerpt: "WASHINGTON (AP) - Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost ..."
+    publishedDateTime: 2021-03-15T05:33:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/15/biden_19705_c0-229-5507-3441_s1200x700.jpg?530c4705bb4904c085a3ca07ecc31a797ad754a1"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Joe Biden, Kamala Harris close out Black History Month with a celebration"
     excerpt: "Five things Joe Biden should do in Houston after he gives me $1,400 U.S. presidents of both political parties have a history of hosting official celebrations for Black History Month, bringing celebrities,"
     publishedDateTime: 2021-02-26T18:54:00Z

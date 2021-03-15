@@ -1,29 +1,29 @@
 ---
 category: news
-title: "What do Black women in rural NC think of Kamala Harris?"
-excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
-publishedDateTime: 2021-02-01T01:56:00Z
-originalUrl: "https://www.sacbee.com/news/article248902064.html"
-webUrl: "https://www.sacbee.com/news/article248902064.html"
-ampWebUrl: "https://amp.sacbee.com/news/article248902064.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article248902064.html"
+title: "Biden, Harris and others to promote relief plan's benefits"
+excerpt: "WASHINGTON (AP) - Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost ..."
+publishedDateTime: 2021-03-15T05:33:00Z
+originalUrl: "https://www.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
+webUrl: "https://www.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
+ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
+cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
 type: article
-quality: 75
+quality: 90
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Washington Times
+  domain: washingtontimes.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/b519aa9c-2e56-419d-b46c-228a6887a74d/dd47c3d3-0d54-48fc-a407-5613900967df/1280x720/match/image.jpg"
-    width: 1280
-    height: 720
+  - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/15/biden_19705_c0-229-5507-3441_s1200x700.jpg?530c4705bb4904c085a3ca07ecc31a797ad754a1"
+    width: 1200
+    height: 700
     isCached: true
 
 related:
@@ -833,22 +833,6 @@ related:
         width: 1200
         height: 700
         isCached: true
-  - title: "Biden, Harris and others to promote relief plan's benefits"
-    excerpt: "WASHINGTON (AP) - Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost ..."
-    publishedDateTime: 2021-03-15T05:33:00Z
-    webUrl: "https://www.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
-    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
-    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 90
-    images:
-      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/15/biden_19705_c0-229-5507-3441_s1200x700.jpg?530c4705bb4904c085a3ca07ecc31a797ad754a1"
-        width: 1200
-        height: 700
-        isCached: true
   - title: "Biden wants Harris to have a major role. What it is hasn’t been defined."
     excerpt: "President Joe Biden has worked to include VP Kamala Harris in nearly all his public appearances, and stress that she is a full partner in the decisions he makes."
     publishedDateTime: 2021-02-07T00:34:00Z
@@ -1164,6 +1148,22 @@ related:
       - url: "https://i0.wp.com/www.nationalreview.com/wp-content/uploads/2021/01/kamala-harris-biden-inauguration.jpg?fit=1200%2C700&ssl=1"
         width: 1200
         height: 700
+        isCached: true
+  - title: "What do Black women in rural NC think of Kamala Harris?"
+    excerpt: "On the day of the inauguration, Jackie Covington kept thinking about her grandparents and wished they could see the first Black and South Asian woman be sworn in as vice president of the United States."
+    publishedDateTime: 2021-02-01T01:56:00Z
+    webUrl: "https://www.sacbee.com/news/article248902064.html"
+    ampWebUrl: "https://amp.sacbee.com/news/article248902064.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/article248902064.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
+    quality: 75
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5502557042001/b519aa9c-2e56-419d-b46c-228a6887a74d/dd47c3d3-0d54-48fc-a407-5613900967df/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Ascension of Kamala Harris inspires visual tribute"
     excerpt: "It’s about the longing for beauty in our culture (due to Covid-19 and the closure of arts venues) and the hopefulness of the election, with Kamala Harris as the first woman at that level,” says Rockwell."
@@ -1742,6 +1742,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "7MP18avxVXx4AQTI4NV/IjlVb1tNMucWIPsUfNErc35C6WLWMruS8zNCCoD8lPSl3fP1Xag22fokew6vI3ILj9lVtvulFb+JwRVKnQBKRGK8pxoUXgDFWTbmwCBUwpirSUFXfsCmUvAYIlxy7lz0Fvi6hpVG8uHRnLokjVdiSyl1J+ZAwvqbzcZ6YW7KT5ocglqoEEnIH7IONgMZjs44TINiSFlulnrg9eKk8ofEX8N1BZ44AZE1vOdmDiKFcBOhuZM+3EQ61lo3wRky/dTJvs0oQ6DESkuUbwS5453cWFTMlYF6DlwyeG0BfoUsXxkfZT9noszeiWt8yGDRRvPgxGvlUEuyn4P9Ni1nYXauaiA=;XOzC+iyHlD6NxnUBpOFzOw=="
+secured: "wveQ6Bu1ywAAIx+Ex7AUBekNwNQDVkTjZhKhNlWfYd2WMxeK7XyyQQdyfi1E9WEs76Rnyhi9Y8TjT5d1za1u09vnUUsQ+TiWCl2GHjyrfdacBSGusNfip6VNBD9g0Ydk3jocR4qQioZy8nOI2Y5qSFmObK1JDg1MBbF7STnTH/WQKXTVQTw0DnA9UK51jHzOJUxjRIuechRHM6gU2ciYw3JH7jGMlJ+7CaDZjKfyrSh5+AgeZWEb96hzS+WW9AOVbGldoxziSEWbRfVC8lzLM3uXWfoP8/yp75wqgMKLWuKiLqV2mU/7MPI2+aT3ztSTkk+MJFwsSOYYLuBccSkc24W5WvzY/PZlDkPlaMnkqew=;X6Q8ehDrUtPzC+2sObqjfQ=="
 ---
 

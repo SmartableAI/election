@@ -1,14 +1,12 @@
 ---
 category: news
-title: "White House returns Bush, Clinton portraits to prominent display after Trump admin hid them away: Report"
-excerpt: "The official portraits of former Presidents Bill Clinton and George W. Bush returned to prominent display in the White House after both were relegated to a little-used area in the final months of Donald Trump’s presidency, according to a report Monday."
-publishedDateTime: 2021-03-09T00:02:22Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vQV-rCy4wzo/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vQV-rCy4wzo/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin"
-ampWebUrl: "https://www.foxnews.com/politics/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin.amp"
+title: "Alabama GOP gives Trump framed resolution calling him one of the ‘greatest’ presidents in history"
+excerpt: "The Alabama Republican Party on Saturday will present former President Donald Trump with a framed copy of a resolution, passed unanimously by the party, that declares him “one of the greatest and most effective” presidents in U."
+publishedDateTime: 2021-03-15T05:07:00Z
+originalUrl: "https://www.foxnews.com/politics/alabama-gop-trump-resolution-greatest-presidents-in-history"
+webUrl: "https://www.foxnews.com/politics/alabama-gop-trump-resolution-greatest-presidents-in-history"
 type: article
-quality: 158
+quality: 102
 heat: -1
 published: false
 
@@ -22,10 +20,11 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/fcaaa105-67b3-4ec9-a3b0-dacfaa031001/e4b00e39-162a-4a3a-b1d7-a82da094d666/1280x720/match/image.jpg"
+  - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Alabama1a.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -76,6 +75,22 @@ related:
     quality: 159
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e6afddb1-7574-4ce5-a3f9-dfc745f8508f/0cca49e0-9bd0-4822-a5cf-ad62dc7c2a7c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "White House returns Bush, Clinton portraits to prominent display after Trump admin hid them away: Report"
+    excerpt: "The official portraits of former Presidents Bill Clinton and George W. Bush returned to prominent display in the White House after both were relegated to a little-used area in the final months of Donald Trump’s presidency, according to a report Monday."
+    publishedDateTime: 2021-03-09T00:02:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/vQV-rCy4wzo/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin"
+    ampWebUrl: "https://www.foxnews.com/politics/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/white-house-returns-bush-clinton-portraits-prominent-display-relocation-trump-admin.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/990505083001/fcaaa105-67b3-4ec9-a3b0-dacfaa031001/e4b00e39-162a-4a3a-b1d7-a82da094d666/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
@@ -157,20 +172,6 @@ related:
         width: 640
         height: 320
         isCached: true
-  - title: "Alabama GOP gives Trump framed resolution calling him one of the ‘greatest’ presidents in history"
-    excerpt: "The Alabama Republican Party on Saturday will present former President Donald Trump with a framed copy of a resolution, passed unanimously by the party, that declares him “one of the greatest and most effective” presidents in U."
-    publishedDateTime: 2021-03-15T05:07:00Z
-    webUrl: "https://www.foxnews.com/politics/alabama-gop-trump-resolution-greatest-presidents-in-history"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 102
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Alabama1a.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Alabama GOP to give Trump framed resolution calling him one of the ‘greatest’ presidents in history"
     excerpt: "The Alabama Republican Party on Saturday will present former President Donald Trump with a framed copy of a resolution, passed unanimously by the party, that declares him \"one of the greatest and most effective\" presidents in U.S.history. ‘The resolution ..."
     publishedDateTime: 2021-03-13T20:32:00Z
@@ -216,6 +217,6 @@ related:
         height: 562
         isCached: true
 
-secured: "wpYoplYoWvc0JqBifzhhz9IWZRf4GROrCITRIgzqnnBRrNRB9a3CtcXZPV6Q3Dwzl/MAlCU61tjyeE2tWF70DLFKy+IlrWjeyngQWsS9FNZsa5TiJ8fbJUmfnzTK67W/YFynTav+O0xU7fNw8NZi7G+urfX/ui8/gRhr6e9GdWUyZ/aHjTbslxhVTITMBea97JUd/+2Mp7i+kwjsgsMDVRofQO+oEIGq8YfG7QS2qmS+U9Q8tX+t2ff/nGd2jEv60Omgc0nW0Izb+RnLlsBSVWbKPipztXakufSXLpFshgcxSI0rQKf/2pBpjdSeIwVqCpeUnFM4sN0vtAuwBQ+4mgEiVLxuOZMmzv/H8YHxznc=;oHQBclJHeHPho8aQ9XiOVQ=="
+secured: "EGxOb+lO4AM6tZlI1wHAbwBoNSdjXWXsOthstUeMHQj27g+BZ1jMTd801UcGZ2NHFMGCNa0rUqXXr3ulPrdSGD5QMrGiyeN1TuH6w1xeS+Eqcu7KPKdU5tnyq0XdIHSZ44Wv5QAAJfFYnKZfIFJZLV4eNxZT+HFBF4/DBVp4I2+Rrv13nyPwvLQE2wUkwt9dlIOAfQ8NXkDOcEe8Sn6UgdOAgv/0w5CQ7R1Dii0HEM8Ynad8W9qviwRqnJ97jHmbQMyF4dx8/xK0KvMK/kKpEY7i+AjhJ6S4AlRziSOdnskQexwk2OXRyaW8QVazYsnUvVpfVjWYZkIMyii49Ja/V4K8bK88ZZfUENz2VPvBwOw=;VBsQk8LFtTQxCTA5VIZ6SQ=="
 ---
 

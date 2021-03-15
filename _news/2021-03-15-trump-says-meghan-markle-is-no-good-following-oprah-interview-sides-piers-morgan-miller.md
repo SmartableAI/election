@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Biden won’t be putting his signature on COVID-19 relief checks, unlike Trump"
-excerpt: "President Biden will not be attaching his signature to the $1,400 relief checks that are expected to be mailed soon — a break with his predecessor, who last year had “President Donald J. Trump” printed on the economic impact payments approved by ..."
-publishedDateTime: 2021-03-10T01:36:00Z
-originalUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks"
-webUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks"
-ampWebUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
+title: "Trump Says Meghan Markle Is 'No Good' Following Oprah Interview, Sides Piers Morgan: Miller"
+excerpt: "Donald Trump has previously clashed with Meghan Markle after she and Prince Harry endorsed Joe Biden in the 2020 presidential race."
+publishedDateTime: 2021-03-15T05:31:00Z
+originalUrl: "https://www.ibtimes.com/trump-says-meghan-markle-no-good-following-oprah-interview-sides-piers-morgan-miller-3162126"
+webUrl: "https://www.ibtimes.com/trump-says-meghan-markle-no-good-following-oprah-interview-sides-piers-morgan-miller-3162126"
 type: article
-quality: 137
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: International Business Times
+  domain: ibtimes.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/27e2771/2147483647/strip/true/crop/3618x2363+281+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F1e%2F6f3fd75dd8cf337e371f4b0065a0%2Fac3f35f2c1554c75ac18550bee411639"
-    width: 320
-    height: 209
+  - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
+    width: 1024
+    height: 663
     isCached: true
 
 related:
@@ -206,6 +204,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554700481&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B188"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden won’t be putting his signature on COVID-19 relief checks, unlike Trump"
+    excerpt: "President Biden will not be attaching his signature to the $1,400 relief checks that are expected to be mailed soon — a break with his predecessor, who last year had “President Donald J. Trump” printed on the economic impact payments approved by ..."
+    publishedDateTime: 2021-03-10T01:36:00Z
+    webUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks"
+    ampWebUrl: "https://www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/politics/story/2021-03-10/biden-not-putting-signature-covid-relief-checks?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 137
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/27e2771/2147483647/strip/true/crop/3618x2363+281+0/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F74%2F1e%2F6f3fd75dd8cf337e371f4b0065a0%2Fac3f35f2c1554c75ac18550bee411639"
+        width: 320
+        height: 209
         isCached: true
   - title: "Joe Biden Visa Decision on Donald Trump's 'Muslim Ban' Infuriates Progressives"
     excerpt: "The American Civil Liberties Union (ACLU) said that a large number of Africans would be affected and that Biden \"has failed to help so many of those harmed\" by the Trump administration's immigration restrictions. \"Instead of restoring this opportunity ..."
@@ -927,21 +941,7 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 48
-  - title: "Trump Says Meghan Markle Is 'No Good' Following Oprah Interview, Sides Piers Morgan: Miller"
-    excerpt: "Donald Trump has previously clashed with Meghan Markle after she and Prince Harry endorsed Joe Biden in the 2020 presidential race."
-    publishedDateTime: 2021-03-15T05:31:00Z
-    webUrl: "https://www.ibtimes.com/trump-says-meghan-markle-no-good-following-oprah-interview-sides-piers-morgan-miller-3162126"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 45
-    images:
-      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/04/former-us-president-donald-trump-repeated-his-claims.jpg"
-        width: 1024
-        height: 663
-        isCached: true
 
-secured: "nKMmASNyZUH2NJMNCHSVSDP8zjRucf31HB33uGCOs2XbEss6/VSkGirfpLDKYY0HKhJaOTKVDDex4B6N/gzZnnsRSysgmQNDiHZ+oIqhAfgMlldwG1Sn3xeg8tW0LeSv2m6TSmGixC1AyYQklRCS1vXUKBIUl+7Ao9cxZ6IKeYnP4X82zjoSslbi7UGXKTD/qww32rP+nG2LPHoS/VJw+vrCvd7pmc/v2tG3LafWHuRDvFuEj0ITDD2mSCqdRvWAGHV4zAJXZo4LGixzqRA2EJZEAF1PYB/03UCvXpPnl0UG8sahgwerew2NcPbqQrjKQqYcOlG/d5vZ8ZESxOixq3H+lVl/pPADo3LwCRpgspQ=;BUKSqOKv3lRfLf6bqeI0Ag=="
+secured: "uK1bIVOwp1lcDMo17e8PZsqRMfHEtylsAVmBQGgitLNPHu1P3JDZ3SCp3iNp8x8Zky0QD1jiZT7weizJaHRwWZdk7Whf7M6OoMrzDmjtgqB8s9H9rdHNXoD6By0OArpnh/67/y9KICQHrSjlwONNfVkYRC362EzlNb8EeRSNZ7a5zNGNV+e+gjWaa8+VE56h9CR3jEPTOey37AR6cYFQz+PqyVNRksfP4/DURQzuMgCH4xypwbeqyezaAnPQP7z9zC0a0U9JqQd7TpYHW2yWbmXofuhyMlrqJAmKazcGKeCEMcVUq4qhJKZpiUPReRWm26Niw62umubXuyCwydejeAWxhlLpFsONT/vyDP28yIk=;C91izgyG45DOWdhdrw46DA=="
 ---
 

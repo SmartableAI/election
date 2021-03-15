@@ -172,6 +172,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Alabama GOP gives Trump framed resolution calling him one of the ‘greatest’ presidents in history"
+    excerpt: "The Alabama Republican Party on Saturday will present former President Donald Trump with a framed copy of a resolution, passed unanimously by the party, that declares him “one of the greatest and most effective” presidents in U."
+    publishedDateTime: 2021-03-15T05:07:00Z
+    webUrl: "https://www.foxnews.com/politics/alabama-gop-trump-resolution-greatest-presidents-in-history"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 102
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Alabama1a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Maddow: GOP Fixates On Pop Culture War Issues As Trump Hijacks Party Fundraising"
     excerpt: "Rachel Maddow looks at the bizarre fight between Donald Trump and the Republican Party in which Trump won't allow the party to use his name and insists that fundraising be done through his personal PAC, as Republican politicians focus on Mr. Potato Head ..."
     publishedDateTime: 2021-03-11T14:43:00Z

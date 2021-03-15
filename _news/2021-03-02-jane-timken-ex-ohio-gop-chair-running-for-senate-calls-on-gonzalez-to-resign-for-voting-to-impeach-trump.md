@@ -158,6 +158,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Alabama GOP gives Trump framed resolution calling him one of the ‘greatest’ presidents in history"
+    excerpt: "The Alabama Republican Party on Saturday will present former President Donald Trump with a framed copy of a resolution, passed unanimously by the party, that declares him “one of the greatest and most effective” presidents in U."
+    publishedDateTime: 2021-03-15T05:07:00Z
+    webUrl: "https://www.foxnews.com/politics/alabama-gop-trump-resolution-greatest-presidents-in-history"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 102
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Alabama1a.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Alabama GOP to give Trump framed resolution calling him one of the ‘greatest’ presidents in history"
     excerpt: "The Alabama Republican Party on Saturday will present former President Donald Trump with a framed copy of a resolution, passed unanimously by the party, that declares him \"one of the greatest and most effective\" presidents in U.S.history. ‘The resolution ..."
     publishedDateTime: 2021-03-13T20:32:00Z

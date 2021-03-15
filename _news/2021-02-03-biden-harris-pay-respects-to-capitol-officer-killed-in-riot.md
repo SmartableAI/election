@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/capitol-police-of
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/capitol-police-officer-who-died-after-riot-to-lie-in-honor/2021/02/02/8f908fb8-65b8-11eb-bab8-707f8769d785_story.html?outputType=amp"
 type: article
 quality: 150
-heat: 2430
+heat: 2450
 published: true
 
 provider:
@@ -819,6 +819,22 @@ related:
     quality: 90
     images:
       - url: "https://twt-thumbs.washtimes.com/media/image/2021/02/08/Biden_17394.jpg-79310_c0-120-2866-1791_s1200x700.jpg?67075f200bc1cc5cad831ec15bdb630fd20fc51b"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Biden, Harris and others to promote relief plan's benefits"
+    excerpt: "WASHINGTON (AP) - Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost ..."
+    publishedDateTime: 2021-03-15T05:33:00Z
+    webUrl: "https://www.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
+    ampWebUrl: "http://amp.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/amp.washingtontimes.com/news/2021/mar/15/biden-harris-and-others-to-promote-relief-plans-be/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 90
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2021/03/15/biden_19705_c0-229-5507-3441_s1200x700.jpg?530c4705bb4904c085a3ca07ecc31a797ad754a1"
         width: 1200
         height: 700
         isCached: true
