@@ -64,11 +64,11 @@ related:
         height: 551
         isCached: true
   - title: "Biden played ‘sheriff’ on ‘09 aid, now salesman on COVID law"
-    excerpt: "WASHINGTON — In 2009, then-Vice President Joe Biden was “Sheriff Joe,” the enforcer making sure federal dollars from a massive economic aid package were getting to the right places and quickly. This time, President Biden’s role is different ..."
-    publishedDateTime: 2021-03-13T05:19:00Z
-    webUrl: "https://www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-played-sheriff-on-09-aid-now-salesman-on-covid-law/2021/03/13/b358b6f2-83bb-11eb-be22-32d331d87530_story.html?outputType=amp"
+    excerpt: "In 2009, then-Vice President Joe Biden acted as “Sheriff Joe” in making sure federal dollars from a massive economic aid package were getting to the right places and getting there quickly"
+    publishedDateTime: 2021-03-12T20:46:00Z
+    webUrl: "https://www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/biden-was-sheriff-joe-on-09-aid-now-salesman-on-covid-law/2021/03/12/673254a8-8362-11eb-be22-32d331d87530_story.html?outputType=amp"
     type: article
     provider:
       name: Washington Post
@@ -269,6 +269,22 @@ related:
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
         width: 817
+        height: 545
+        isCached: true
+  - title: "Biden White House launching 'Help is Here' tour to promote stimulus package in key states"
+    excerpt: "WASHINGTON (Reuters) - President Joe Biden and his allies are hitting the road this week to promote the $1.9 trillion pandemic relief bill he signed in law last week as the right prescription for a country humbled by the COVID-19 pandemic. Biden and a ..."
+    publishedDateTime: 2021-03-15T09:02:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-tour/biden-white-house-launching-help-is-here-tour-to-promote-stimulus-package-in-key-states-idUSKBN2B7137?edition-redirect=ca"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B7137"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B7137"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 116
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554920146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E0O2"
+        width: 805
         height: 545
         isCached: true
   - title: "$1,400 Stimulus Checks Start Arriving in Bank Accounts as Biden Hits Road to Tout Rescue Plan"

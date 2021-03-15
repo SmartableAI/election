@@ -127,22 +127,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Texas Gov. Abbott blames Biden reversal of Trump policies for 'self-inflicted' migrant surge at border"
-    excerpt: "Texas Republican Gov. Greg Abbott blamed the Biden administration for what he called a \"self-inflicted\" influx of migrants at the southern border by reversing the immigration policies implemented under former President Donald Trump."
-    publishedDateTime: 2021-03-09T23:20:10Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fh2sQQIQcJg/greg-abbott-biden-border-surge-self-inflicted"
-    ampWebUrl: "https://www.foxnews.com/politics/greg-abbott-biden-border-surge-self-inflicted.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-biden-border-surge-self-inflicted.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4c7eed-17f3-4a11-b656-8f6b7b68295f/da644133-079a-4496-9cc5-4b9dd6a4fdc6/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Jen Psaki defends Biden 'Neanderthal' reopening quip targeting Texas and Mississippi"
     excerpt: "White House press secretary Jen Psaki said President Biden’s “neanderthal thinking” quip about states removing their mask mandates was an expression of his “frustration and exasperation.” "
     publishedDateTime: 2021-03-04T19:27:23Z

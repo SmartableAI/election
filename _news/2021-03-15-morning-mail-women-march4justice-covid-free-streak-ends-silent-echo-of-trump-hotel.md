@@ -93,6 +93,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "‘We want to be educated, not indoctrinated,’ say Trump voters wary of covid shots"
+    excerpt: "Tout the number of people who got the vaccines in trials. And don’t show pro-vaccine ads with politicians — not even ones with Donald Trump. That’s what a focus group of vaccine-hesitant Trump voters insisted to politicians and pollsters this weekend ..."
+    publishedDateTime: 2021-03-15T10:38:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/03/15/vaccine-hesitant-republicans-focus-group/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/03/15/vaccine-hesitant-republicans-focus-group/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/03/15/vaccine-hesitant-republicans-focus-group/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 120
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RAD2SMQAOVG3HNABLM5FMKKBPM.png&w=1440"
+        width: 1440
+        height: 809
+        isCached: true
   - title: "Donald Trump Greeted by Lone Supporter and Angry Protesters As He Returns to New York"
     excerpt: "Protesters gathered outside the building calling for his arrest on Monday morning with signs that read, \"Florida Man Go Home,\" \"Indict Trump\" and \"Arrest Trump.\""
     publishedDateTime: 2021-03-08T22:33:00Z
@@ -184,6 +200,22 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "Fauci: Trump should urge his followers to get vaccinated"
+    excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade more of his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows,"
+    publishedDateTime: 2021-03-15T05:07:00Z
+    webUrl: "https://www.chron.com/news/article/Fauci-Trump-should-urge-his-followers-to-get-16024842.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Fauci-Trump-should-urge-his-followers-to-get-16024842.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Fauci-Trump-should-urge-his-followers-to-get-16024842.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Fauci: Trump should use his sway to promote COVID vaccinations"
     excerpt: "The government's top infectious disease expert lamented polling showing that Trump supporters are more likely to refuse to get vaccinated."
     publishedDateTime: 2021-03-14T23:46:00Z

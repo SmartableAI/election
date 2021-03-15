@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trum
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp"
 type: article
 quality: 124
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MTWNMX7RMI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
         height: 961
+        isCached: true
+  - title: "Essential Politics: Making California’s recall about Trump"
+    excerpt: "If the effort to force a recall election against Gov. Gavin Newsom makes it to the ballot, the most intriguing political figure may be the one whose shadow looms large for the governor's friends and foes."
+    publishedDateTime: 2021-03-15T13:00:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-03-15/making-california-recall-newsom-about-trump-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 105
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/a13a66e/2147483647/strip/true/crop/2048x1075+0+145/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb8%2F7e%2F5482f5e9e8ac69792beff8bcf338%2Fla-donald-trump-20171025"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "1xybjxliIyYQACLmYnW9HLwev72XNGrQLnKSuVA2wJ6oNdZxTaX1PbsltOAQC/cKVOxe3swblJ5gRX8SEAyyyAeb+8jZfGjwvpxsAsagE02nnQF6llDctF8ZfT2VfbSdquIz5ajagpH6cKBviJxqryiS2/6ohdtDLHSPzeb4DLqugv4DFmw5koAZNxURuxwMpXTnyLYuNmRHTwpXbgLZgPYdHfay6y8Mj/q+GUxYXX5vx9j4Mg/NBuXvlX6C7zNF7LRHmVxGzkQsVHWIdg7FZKDQ5zEsKeP8IFi/VVBaUo13w0UyGo8ty2HI2yMjnfg3qXC5hu/XiHBMnbp71w8u51c5cxm14iciDAfr3n3OjnW28mLrdgxlBsC5295ttDsRi9fU0Y3KIqMFsegnLRzNM+iqddVpWT67CRzTnFG4OC7+aKdGQS54CogtrhzpZVhAsNoddC6fB81fO89LsVGJy4P7GtnN04PQ1VtLcnV5Abi2hbHCTyR3UOdHkEgqgQmXOzgQ+N30mgcvWUWnbsKpdw==;Js+ZQFeDM4nySEpWx524fA=="

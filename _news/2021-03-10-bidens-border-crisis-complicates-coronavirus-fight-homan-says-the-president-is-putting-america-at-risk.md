@@ -31,37 +31,101 @@ images:
     isCached: true
 
 related:
-  - title: "Homan says Biden should be 'embarrassed' after inheriting most secure border in decades"
-    excerpt: "The Biden administration should be \"embarrassed\" about their immigration policies after \"inheriting the most secure border\" in decades,\" Fox News contributor Tom Homan said on Wednesday."
-    publishedDateTime: 2021-03-10T14:56:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-WCFa2sza4/homan-biden-embarrassed-border-crisis-trump-secure"
-    ampWebUrl: "https://www.foxnews.com/politics/homan-biden-embarrassed-border-crisis-trump-secure.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homan-biden-embarrassed-border-crisis-trump-secure.amp"
+  - title: "Tom Homan slams Biden, Dems for blaming Trump for new border surge: 'They planned this crisis'"
+    excerpt: "Former acting ICE director Tom Homan slammed the Biden administration for blaming Trump over the migrant surge at the border."
+    publishedDateTime: 2021-03-15T12:35:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VG3Kz7lKiy8/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 178
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Texas Gov. Abbott blames Biden reversal of Trump policies for 'self-inflicted' migrant surge at border"
+    excerpt: "Texas Republican Gov. Greg Abbott blamed the Biden administration for what he called a \"self-inflicted\" influx of migrants at the southern border by reversing the immigration policies implemented under former President Donald Trump."
+    publishedDateTime: 2021-03-09T23:20:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fh2sQQIQcJg/greg-abbott-biden-border-surge-self-inflicted"
+    ampWebUrl: "https://www.foxnews.com/politics/greg-abbott-biden-border-surge-self-inflicted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-biden-border-surge-self-inflicted.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 174
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4c7eed-17f3-4a11-b656-8f6b7b68295f/da644133-079a-4496-9cc5-4b9dd6a4fdc6/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "The word the Biden administration won't use when it comes to the border? 'Crisis'"
+    excerpt: "The Biden administration is facing what it admits is an \"overwhelming\" number of migrants at the southern border, while scrambling to construct new facilities to hold child migrants -- but it is doggedly refusing to describe the situation as a \"crisis.\""
+    publishedDateTime: 2021-03-12T14:53:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/H8EtxD3tVPc/biden-administration-wont-use-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-administration-wont-use-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-administration-wont-use-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/58b5303f-1cc5-4819-ac7f-0ff6be8a874d/5d3b5642-d252-4d6f-a4f0-c41cadfb9fc0/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Texas Democrat knocks Biden delegation over border visit: 'They didn’t talk to anybody'"
+    excerpt: "Rep. Henry Cuellar, D-Texas, criticized the Biden administration’s handling of the border crisis on Friday, telling \"Your World\" a delegation from the White House neglected to talk to anybody when they visited the region this week."
+    publishedDateTime: 2021-03-12T23:48:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekRjwQIiDAo/henry-cuellar-knocks-biden-delegation-border-trip"
+    ampWebUrl: "https://www.foxnews.com/politics/henry-cuellar-knocks-biden-delegation-border-trip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/henry-cuellar-knocks-biden-delegation-border-trip.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 167
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Texas congressman, ex-sheriff: Biden admin 'almost aiding and abetting' human trafficking"
-    excerpt: "The Biden administration is nearly “aiding and abetting in human trafficking” due to what is occurring at the southern border, Texas sheriff turned congressman Troy Nehls said on Thursday."
-    publishedDateTime: 2021-03-11T14:22:51Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-ij7Ut9Dm8M/biden-border-crisis-human-trafficking-texas-nehls"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-human-trafficking-texas-nehls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-human-trafficking-texas-nehls.amp"
+  - title: "Tom Cotton channels 'Billy Madison,' slams Pelosi's irrational defense of Biden border policy"
+    excerpt: "Sen. Tom Cotton, R-Ark., channeled the movie \"Billy Madison\" Monday on \"Fox & Friends\" as he hit back at House Speaker Nancy Pelosi, D-Calif., for claiming that the Biden administration inherited a broken immigration system from former President Trump. "
+    publishedDateTime: 2021-03-15T12:51:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4Mw_bKZ24U/tom-cotton-billy-madison-pelosi-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-billy-madison-pelosi-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-billy-madison-pelosi-biden-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 166
+    quality: 164
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Florida's Ron DeSantis slams Biden's 'disastrous' border policy: 'Trump had it right'"
+    excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s \"disastrous\" immigration policy on Saturday amid an influx of migrants coming to the border."
+    publishedDateTime: 2021-03-14T07:26:00Z
+    webUrl: "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy"
+    ampWebUrl: "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/114a33b8-ebad-4e1c-8c89-c639c966c2a7/82772f54-2d9d-440a-8640-896b0a23a31d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "S4YBVeQcVuxxmxRDkxTBSmRCwUg+lkO4+o3uhKCA0ZUBJPXEOHmoiWPmfIjU/5+TNOr1n9kftygK+SU0NIM2qa8dlmvwLTAG5L/yixTiuqxwvzmEq/Ls1y4ACHrRZYcSNZChlNWGlMnMxf1ZbRDoIr5/xzC2Iovxg4qMsnE3D/b7NM0D3d0WOrS1Pj+WSzpfWtfMtxAI8v14LbfrWJxnZkY9WzzyyzTrYxpDJkan9JWKVk+ehL7o6sCxqEB6VnqKAJkZgGL/UACMHRjebq5XOWnXswOXKH2sCEHxbPB8YNHulb5sO5a0jLGmLl8oIxai5vDbXFbHJKG0ZpJDjom7izsFyp4sTuj2a8KkKUSDHKY=;ZR20yLWdcFQLxhurhgMBmg=="

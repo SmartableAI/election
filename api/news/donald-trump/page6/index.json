@@ -2,58 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2021-02-09-house-managers-reject-trump-impeachment-brief-he-betrayed-the-american-people-live.md",
-      "title": "House managers reject Trump impeachment brief: 'He betrayed the American people' – live",
-      "excerpt": "Polling shows slim majority of Americans want Trump convicted and barred from office",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-602169868f080f5eb75b712c",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates?page=with:block-602169868f080f5eb75b712c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f53e10ada477be2183e26f567e2cac2af4414528/271_94_5297_3178/master/5297.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=fb527600bf70b7acda51a2517a391f50",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/feb/08/donald-trump-impeachment-trial-senate-covid-coronavirus-joe-biden-live-updates",
-      "publishedDateTime": "2021-02-08T12:35:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
       "path": "_news/2021-02-09-donald-trump-jr-slams-super-bowl-2021-commercials-as-woketopia.md",
       "title": "Donald Trump Jr. slams Super Bowl 2021 commercials as 'woketopia'",
       "excerpt": "Donald Trump Jr. wasn’t impressed with the Super Bowl 2021 commercial lineup. The son of former president Donald Trump tuned into the big game between the Tampa Bay Buccaneers and the Kansas City Chiefs on Sunday but was rolling his eyes at the broadcast almost immediately at the typically sought after ad breaks.",
@@ -1546,6 +1494,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-02-the-daily-202-kinzinger-says-republicans-need-an-intervention-to-kick-trump-habit.md",
+      "title": "The Daily 202: Kinzinger says Republicans need ‘an intervention’ to kick Trump habit",
+      "excerpt": "We’ve got to reject the dark conspiracy theories and lies,\" said the Illinois Republican, who is starting a PAC to break Donald Trump's stranglehold on the GOP.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A7RO4YTEB4I6XOVYOB7YO2OXQU.jpg&w=1440",
+          "width": 1440,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/01/daily-202-kinzinger-says-republicans-need-an-intervention-kick-trump-habit/?outputType=amp",
+      "publishedDateTime": "2021-02-01T08:53:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

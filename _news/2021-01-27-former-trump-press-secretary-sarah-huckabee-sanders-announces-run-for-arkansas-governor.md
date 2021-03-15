@@ -96,6 +96,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump makes surprise stop at campaign event for Sarah Huckabee Sanders"
+    excerpt: "Former President Donald Trump made a surprise appearance at a campaign event for Sarah Huckabee Sanders, his former press secretary and current Republican candidate for governor in Arkansas."
+    publishedDateTime: 2021-03-15T13:54:00Z
+    webUrl: "https://nypost.com/2021/03/15/donald-trump-stops-at-sarah-huckabee-sanders-campaign-event/"
+    ampWebUrl: "https://nypost.com/2021/03/15/donald-trump-stops-at-sarah-huckabee-sanders-campaign-event/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/15/donald-trump-stops-at-sarah-huckabee-sanders-campaign-event/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/sarah-huckabee-sanders-event-77.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "JhfT+cr6Kua6KPBjtPLN2GTh6rvj1LQb3kAU+w1Hvq4KOW3ebT9btw8YBJmgBL1iFhehUP68iHUj1fsr7eiw+clON2aR3e+KaGK07U+LPbEy1jfr7xsKQevx7eD+YDduP6XtyTsZ3ZOdqYqXrx8X45EJ3X3BcSlbSjgyMYJn+RCL1VzpbpeEWOZXxqwgKd/lWx0rbxt8+Iqw0vMZCpVkYRyAhYzQKfsQ3Y+yvyiSBwvzvMyTSvFBZTqXdGKpgPw9REmwu4YhbKxHuQifTrJs0xAN+D5G50kWQ35rdq+5aUj5Mn3BQV3UAF5QWcLnPJuZr2d0QCkrNU634FTT4IquvRRgRDXIC+4yU8yCNm+nhhk=;jmpGgc5lPAxwJt1LUt0ecw=="
 ---

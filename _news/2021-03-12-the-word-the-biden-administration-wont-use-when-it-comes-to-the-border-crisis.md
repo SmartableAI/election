@@ -31,67 +31,99 @@ images:
     isCached: true
 
 related:
-  - title: "Sen. Cassidy: Biden policies 'entirely' to blame for border surge"
-    excerpt: "Sen. Bill Cassidy, R-La., blames President Biden for the surge of migrants that have presented a crisis at the U.S. southern border."
-    publishedDateTime: 2021-03-14T13:58:44Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/1mHC9bQtyxc/sen-cassidy-biden-policies-border-surge"
-    ampWebUrl: "https://www.foxnews.com/politics/sen-cassidy-biden-policies-border-surge.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cassidy-biden-policies-border-surge.amp"
+  - title: "Tom Homan slams Biden, Dems for blaming Trump for new border surge: 'They planned this crisis'"
+    excerpt: "Former acting ICE director Tom Homan slammed the Biden administration for blaming Trump over the migrant surge at the border."
+    publishedDateTime: 2021-03-15T12:35:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/VG3Kz7lKiy8/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 178
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true
-  - title: "Biden order on gender identity harms women and girls, warns women's rights group"
-    excerpt: "Women's Human Rights Campaign member and outspoken feminist Kara Dansky ramped up warnings against President Biden's gender identity initiative on Tuesday, telling \"Tucker Carlson Tonight\" that America is heading for a \"complete obliteration of biological sex\"."
-    publishedDateTime: 2021-03-10T03:38:17Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0oQLmODpalA/biden-gender-identity-order-women-girls"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-gender-identity-order-women-girls.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-gender-identity-order-women-girls.amp"
+  - title: "Texas Gov. Abbott blames Biden reversal of Trump policies for 'self-inflicted' migrant surge at border"
+    excerpt: "Texas Republican Gov. Greg Abbott blamed the Biden administration for what he called a \"self-inflicted\" influx of migrants at the southern border by reversing the immigration policies implemented under former President Donald Trump."
+    publishedDateTime: 2021-03-09T23:20:10Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fh2sQQIQcJg/greg-abbott-biden-border-surge-self-inflicted"
+    ampWebUrl: "https://www.foxnews.com/politics/greg-abbott-biden-border-surge-self-inflicted.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/greg-abbott-biden-border-surge-self-inflicted.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 170
+    quality: 174
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/857ee1c8-b07d-47e2-8382-5ec89d629096/90d961b8-6fe7-4a5d-943a-88196b31011f/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/6a4c7eed-17f3-4a11-b656-8f6b7b68295f/da644133-079a-4496-9cc5-4b9dd6a4fdc6/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden's 'open border' policies enriching drug cartels as migrant crisis escalates: Gov. Abbott"
-    excerpt: "President Biden’s “open border policies” are not only inviting more illegal immigration to the U.S. but also enriching and empowering drug cartels in Mexico who profit from smuggling migrants across the border, Texas Gov. Greg Abbott said Sunday."
-    publishedDateTime: 2021-03-14T17:38:02Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/cbAxoxVDSqo/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-open-border-policies-drug-cartels-migrant-crisis-texas-greg-abbott.amp"
+  - title: "Texas Democrat knocks Biden delegation over border visit: 'They didn’t talk to anybody'"
+    excerpt: "Rep. Henry Cuellar, D-Texas, criticized the Biden administration’s handling of the border crisis on Friday, telling \"Your World\" a delegation from the White House neglected to talk to anybody when they visited the region this week."
+    publishedDateTime: 2021-03-12T23:48:49Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekRjwQIiDAo/henry-cuellar-knocks-biden-delegation-border-trip"
+    ampWebUrl: "https://www.foxnews.com/politics/henry-cuellar-knocks-biden-delegation-border-trip.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/henry-cuellar-knocks-biden-delegation-border-trip.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 163
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/550f6423-a32c-452f-bdfd-b560fe6553e7/7ba82ed6-7af9-448b-8ff7-aa6485e70ef4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
-  - title: "Border numbers expected to show wave as migrant children in custody triples, Biden DHS asks for help"
-    excerpt: "The Biden administration is set to release new border numbers this week, figures expected to show a wave of migration crashing down on the southern border in recent weeks -- just as the Department of Homeland Security  (DHS) is urging its staff to volunteer to help with what it admits are \"overwhelming\""
-    publishedDateTime: 2021-03-09T17:17:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DAlSIcjiiDU/border-numbers-wave-migrant-children-triples-biden-dhs"
-    ampWebUrl: "https://www.foxnews.com/politics/border-numbers-wave-migrant-children-triples-biden-dhs.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-numbers-wave-migrant-children-triples-biden-dhs.amp"
+  - title: "Tom Cotton channels 'Billy Madison,' slams Pelosi's irrational defense of Biden border policy"
+    excerpt: "Sen. Tom Cotton, R-Ark., channeled the movie \"Billy Madison\" Monday on \"Fox & Friends\" as he hit back at House Speaker Nancy Pelosi, D-Calif., for claiming that the Biden administration inherited a broken immigration system from former President Trump. "
+    publishedDateTime: 2021-03-15T12:51:43Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B4Mw_bKZ24U/tom-cotton-billy-madison-pelosi-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/tom-cotton-billy-madison-pelosi-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-cotton-billy-madison-pelosi-biden-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 160
+    quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4394b12e-936e-4fd0-a56a-b3b597c07b47/d65ba80f-6261-4802-8b7c-78ce7d9f54fd/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Biden's border crisis complicates coronavirus fight, Homan says: 'The president is putting America at risk'"
+    excerpt: "The crisis at the border continues to worsen as a growing number of unaccompanied migrant children remain in Border Patrol custody this week — and critics fear the situation will \"greatly complicate\" the spread of COVID-19."
+    publishedDateTime: 2021-03-10T17:44:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/GIoqQXLWGcA/border-crisis-covid-crisis-president-america-risk-com"
+    ampWebUrl: "https://www.foxnews.com/politics/border-crisis-covid-crisis-president-america-risk-com.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/border-crisis-covid-crisis-president-america-risk-com.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Mexico-migrants-Biden-sign.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
+  - title: "Florida's Ron DeSantis slams Biden's 'disastrous' border policy: 'Trump had it right'"
+    excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s \"disastrous\" immigration policy on Saturday amid an influx of migrants coming to the border."
+    publishedDateTime: 2021-03-14T07:26:00Z
+    webUrl: "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy"
+    ampWebUrl: "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 143
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/114a33b8-ebad-4e1c-8c89-c639c966c2a7/82772f54-2d9d-440a-8640-896b0a23a31d/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

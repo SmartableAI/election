@@ -63,6 +63,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Essential Politics: Making California’s recall about Trump"
+    excerpt: "If the effort to force a recall election against Gov. Gavin Newsom makes it to the ballot, the most intriguing political figure may be the one whose shadow looms large for the governor's friends and foes."
+    publishedDateTime: 2021-03-15T13:00:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-03-15/making-california-recall-newsom-about-trump-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 105
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/a13a66e/2147483647/strip/true/crop/2048x1075+0+145/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb8%2F7e%2F5482f5e9e8ac69792beff8bcf338%2Fla-donald-trump-20171025"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "k0EBlqPIa2NxlgDMVDjadwhTJ833mZn58JBSotrxHsFvZiVqKSxQUbjKSFyTFm23YebA2VO55EnZQJWMM0rPjVvKPl5ibkjsHFQFImpiSkCaqMSLcYX9ezQjS+ZJyJLeeit4ES2HmUBNuINHSAJ0csGuplPpNybD/pfrXWg8k+mWbbS0cpz6qhiNjlh79WrLNrXwhroNqqh4bx7T70m0GlJfxMWLEEUFPqtb2Wf90V2SrbzmuFWPMb4ONvXGGdAvOJ2XN3BBJaBbWd1g9VQOHObT2thos+N3EV0KwtQrDkfeNZxR5C6atNi6CommETR2rSVK79nWOECoYAuNta5YG4EAKzDNRl8dQmdK0Xl/r1VU/01AGUz8a5WB2Z77Ov0dGutFMPGIX8t14eOn/pMYFWAicZkKN4MXPHSc33W9nY7WF8vGrJizmzhAlOYhvdZlbfOKoyQ31MymT5rjKRSqKjVhhTrJuDJD/NU13XtErPnntYM6HioQtBx2Alyg/nZ5qBdSK6EQte/JIkwDz58Wiw==;gISVDIl1AfRpg5p0FyYEnA=="
 ---

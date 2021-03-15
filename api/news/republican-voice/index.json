@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-15-tom-homan-slams-biden-dems-for-blaming-trump-for-new-border-surge-they-planned-this-crisis.md",
+      "title": "Tom Homan slams Biden, Dems for blaming Trump for new border surge: 'They planned this crisis'",
+      "excerpt": "Former acting ICE director Tom Homan slammed the Biden administration for blaming Trump over the migrant surge at the border.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VG3Kz7lKiy8/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VG3Kz7lKiy8/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 298,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp",
+      "publishedDateTime": "2021-03-15T05:35:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-biden-harris-refuse-to-call-for-cuomo-to-resign-as-governors-support-collapses-in-new-york-nationwide.md",
       "title": "Biden, Harris refuse to call for Cuomo to resign as governor's support collapses in New York, nationwide",
       "excerpt": "President Biden and Vice President Kamala Harris are not calling for New York Gov. Andrew Cuomo to resign even as a growing number of New York and national Democrats say it's time for the scandal-ridden governor to step down.",
@@ -288,7 +344,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 235,
       "tags": null,
       "images": [
         {
@@ -384,63 +440,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-floridas-ron-desantis-slams-bidens-disastrous-border-policy-trump-had-it-right.md",
-      "title": "Florida's Ron DeSantis slams Biden's 'disastrous' border policy: 'Trump had it right'",
-      "excerpt": "Florida Gov. Ron DeSantis slammed President Biden’s \"disastrous\" immigration policy on Saturday amid an influx of migrants coming to the border.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy",
-      "originalUrl": "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/114a33b8-ebad-4e1c-8c89-c639c966c2a7/82772f54-2d9d-440a-8640-896b0a23a31d/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/floridas-ron-desantis-slams-bidens-disasterous-border-policy.amp",
-      "publishedDateTime": "2021-03-13T23:26:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     },
@@ -546,62 +545,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-texas-democrat-knocks-biden-delegation-over-border-visit-they-didnt-talk-to-anybody.md",
-      "title": "Texas Democrat knocks Biden delegation over border visit: 'They didn’t talk to anybody'",
-      "excerpt": "Rep. Henry Cuellar, D-Texas, criticized the Biden administration’s handling of the border crisis on Friday, telling \"Your World\" a delegation from the White House neglected to talk to anybody when they visited the region this week.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekRjwQIiDAo/henry-cuellar-knocks-biden-delegation-border-trip",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/ekRjwQIiDAo/henry-cuellar-knocks-biden-delegation-border-trip",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/henry-cuellar-knocks-biden-delegation-border-trip.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/henry-cuellar-knocks-biden-delegation-border-trip.amp",
-      "publishedDateTime": "2021-03-12T15:48:49-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Republican Voice"
       ]
     },
@@ -1645,6 +1588,62 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-immigration-policy-may-have-driven-migrant-surge-encouraged-smugglers.amp",
       "publishedDateTime": "2021-03-10T11:28:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-10-gillibrands-stance-on-cuomo-allegations-contrast-with-past-comments-about-trump-clinton-kavanaugh-franken.md",
+      "title": "Gillibrand's stance on Cuomo allegations contrast with past comments about Trump, Clinton, Kavanaugh, Franken",
+      "excerpt": "Sen. Kirsten Gillibrand, D-N.Y., appears to have departed from her previous stances on sexual misconduct allegations with her current stance on the accusations against New York Gov. Andrew Cuomo.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqkeckRBzpk/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/LqkeckRBzpk/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/879b5155-2393-4d14-b171-2c72feb69f0a/2d308622-72a3-4427-aedb-93f15761af39/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gillibrand-cuomo-sexual-harassment-accusations-franken-trump-clinton-kavanaugh.amp",
+      "publishedDateTime": "2021-03-10T10:31:22-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

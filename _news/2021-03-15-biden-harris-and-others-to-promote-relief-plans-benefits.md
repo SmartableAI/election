@@ -1,30 +1,24 @@
 ---
 category: news
-title: "Biden, Harris and others to promote relief plan's benefits"
-excerpt: "President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost the economy."
-publishedDateTime: 2021-03-15T07:34:00Z
-originalUrl: "https://www.expressnews.com/news/article/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
-webUrl: "https://www.expressnews.com/news/article/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
-ampWebUrl: "https://www.expressnews.com/news/amp/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
-cdnAmpWebUrl: "https://www-expressnews-com.cdn.ampproject.org/c/s/www.expressnews.com/news/amp/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
+title: "Biden, Harris and others to promote relief plan’s benefits"
+excerpt: "WASHINGTON (AP) — Let the sales push begin. President Joe Biden, Vice President Kamala Harris and their spouses are opening an ambitious, cross-country tour this week to highlight the benefits of his $1.9 trillion plan to defeat the coronavirus and boost ..."
+publishedDateTime: 2021-03-15T13:38:00Z
+originalUrl: "https://www.seattletimes.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/"
+webUrl: "https://www.seattletimes.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/"
+ampWebUrl: "https://www.seattletimes.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/biden-harris-and-others-to-promote-relief-plans-benefits/?amp=1"
 type: article
-quality: 90
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: San Antonio Express-News
-  domain: expressnews.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://s.hdnux.com/photos/01/17/10/13/20742858/5/rawImage.jpg"
-    width: 2048
-    height: 1365
-    isCached: true
 
 related:
   - title: "Biden, Harris pay respects to Capitol officer killed in riot"
@@ -1799,6 +1793,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "vRHogqfoeu1wA3T925uZDoiZIaVW5CNSBIEkqVELSrxwI2YvKc0N8cc/pUol3FCgwOnHFskRDtW/fd33BkQKfG5D/0J9gGcatWKg9YSDZmvjCpRL4wWw0H2aCmgAZjzBCh9XKCd09318KI5/IXChH87Mx2Bfj5Qy3552yX2Rnavc60fxSE5GVES9uVDddl3ZqM7SEfFvD/nOpMm1eQbzlrxsY3WAMyIbu7TqHU1LgJcR6szyRmbUs5bQMAPNr3eFXKm2EwRcffd3iV3ZGOY2MkvDP63loUTrpW9ybzO4Di5jpyDxNDYqnSsTWmPTvsiavJqoP6Nsch0karRTGgYCNzpv/ss04nNGheEHgFpfutw=;tP2XYzII+xa5RD+OM9IYkg=="
+secured: "beSy/MWIJNmft8cltVu4iek2An0OwmOdTdAIZK97DGbgswYWINzZuiwi1fy4JOJ3muMaEBexJsAkUdj1aI6Zy7Nc1CvVnUXoLWd3Qr0m93hI8iKtpwtN1Lm/W9WXx3AOAOziDMrtBzgGcAJX+OJtQ48kROkaqEAj4vpXqjkRE/861+aHpDrxw8/c6qd+sG1iuxrceSqU6X7Rb36yGOeNmX/KH5WX6mOtGCu/9pQGRxwfiMKsHdAZzFO/Dacp9HAbtcsAnzeqZpzPhZ4hiiZZnT6Quh+rfI5l7AcvKWYgGyBr+RrW1af6/uS+KKogQIG9Uo9Ug/VmZNHSkhEcZCKsZQ/T6EoWOiUfp5XCB39B7foz82CXGOuEKz4YcPmNOv0rBlF9mktJJnopySZoQu8oPT8VcLBZTWW/RZDXhXZxg1thdTWdXxODZAba1wXnZD7YwCO9A1TGihKLcKd0AcIxXRwhS9v9VZG+EgSb1JujYkzKN2PKFQgkXhUtfpE2829KihCxgk1u0ORC3OZdx+2y6g==;/tdc0j76DisUlnfE6Z7F2w=="
 ---
 

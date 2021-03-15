@@ -2,62 +2,6 @@
   "page": 24,
   "value": [
     {
-      "path": "_news/2021-02-04-biden-addresses-national-prayer-breakfast-says-we-need-to-defeat-political-extremism.md",
-      "title": "Biden addresses National Prayer Breakfast, says 'we need to defeat political extremism'",
-      "excerpt": "President Biden addressed the National Prayer Breakfast on Thursday, saying the country needs to \"defeat political extremism\" and rely on \"faith to guide us out of the darkness and into the light\" amid the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCrIDa9-o9U/biden-addresses-national-prayer-breakfast",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nCrIDa9-o9U/biden-addresses-national-prayer-breakfast",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 167,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-addresses-national-prayer-breakfast.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-addresses-national-prayer-breakfast.amp",
-      "publishedDateTime": "2021-02-04T06:35:01-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
       "path": "_news/2021-02-04-biden-at-prayer-breakfast-calls-out-political-extremism.md",
       "title": "Biden, at prayer breakfast, calls out ‘political extremism’",
       "excerpt": "President Joe Biden has called for a confrontation of the “political extremism” that inspired the U.S. Capitol riot in remarks at the National Prayer Breakfast",
@@ -1318,6 +1262,49 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-03-dems-trump-aimed-loaded-cannon-of-supporters-at-capitol.md",
+      "title": "Dems: Trump aimed 'loaded cannon' of supporters at Capitol",
+      "excerpt": "Donald Trump endangered the lives of all members of Congress when he aimed a mob of supporters “like a loaded cannon” at the U.S. Capitol, House Democrats said Tuesday in making their most detailed case yet for why the former president should be convicted and permanently barred from office.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2",
+      "originalUrl": "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dems-trump-aimed-loaded-cannon-of-supporters-at-capitol-2021-2?amp",
+      "publishedDateTime": "2021-02-02T12:09:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

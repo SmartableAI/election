@@ -79,6 +79,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Trump makes surprise stop at campaign event for Sarah Huckabee Sanders"
+    excerpt: "Former President Donald Trump made a surprise appearance at a campaign event for Sarah Huckabee Sanders, his former press secretary and current Republican candidate for governor in Arkansas."
+    publishedDateTime: 2021-03-15T13:54:00Z
+    webUrl: "https://nypost.com/2021/03/15/donald-trump-stops-at-sarah-huckabee-sanders-campaign-event/"
+    ampWebUrl: "https://nypost.com/2021/03/15/donald-trump-stops-at-sarah-huckabee-sanders-campaign-event/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/15/donald-trump-stops-at-sarah-huckabee-sanders-campaign-event/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/sarah-huckabee-sanders-event-77.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Former Trump press secretary Sarah Huckabee Sanders announces run for Arkansas governor"
     excerpt: "Former White House press secretary Sarah Huckabee Sanders announced Monday that she is running for governor of Arkansas in 2022."
     publishedDateTime: 2021-01-27T09:24:00Z
