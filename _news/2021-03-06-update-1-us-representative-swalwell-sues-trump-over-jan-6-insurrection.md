@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "White House would welcome Trump urging supporters to get vaccinated"
+    excerpt: "The Biden administration would welcome former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes ..."
+    publishedDateTime: 2021-03-15T17:53:00Z
+    webUrl: "https://thehill.com/homenews/administration/543252-white-house-would-welcome-trump-urging-supporters-to-get-vaccinated"
+    ampWebUrl: "https://thehill.com/homenews/administration/543252-white-house-would-welcome-trump-urging-supporters-to-get-vaccinated?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543252-white-house-would-welcome-trump-urging-supporters-to-get-vaccinated?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_8_1.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Republicans Insist Donald Trump Should Take Credit for COVID Vaccinations"
     excerpt: "But prominent GOP figures have criticized the president for not recognizing the administration of Donald Trump, which launched Operation Warp Speed last April. This public-private partnership was set up to facilitate the development, manufacturing and ..."
     publishedDateTime: 2021-03-12T10:27:00Z

@@ -61,6 +61,22 @@ related:
         width: 820
         height: 545
         isCached: true
+  - title: "Biden taking hands-off approach to Justice Department barrier on Equal Rights Amendment, White House says"
+    excerpt: "WASHINGTON – President Joe Biden is a big backer of renewed efforts to add the proposed Equal Rights Amendment to the Constitution, but it remains to be seen if his administration will remove a barrier put up by his predecessor. During the Trump ..."
+    publishedDateTime: 2021-03-15T17:19:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/15/equal-rights-amendment-biden-taking-hands-off-approach-doj-barrier/4691895001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4691895001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4691895001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 108
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/02/12/USAT/f20c3822-6f54-473a-88df-f4f94bb697ea-AP_Congress_Equal_Rights_Amendment.JPG?auto=webp&crop=3999,2250,x0,y566&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Joe Biden 'neanderthal' comment a reflection of frustration, says White House – video"
     excerpt: "White House press secretary Jen Psaki defended Joe Biden’s comments comparing Republican governors to Nearnderthals for lifting mask mandates in Mississippi and Texas"
     publishedDateTime: 2021-03-04T20:54:00Z

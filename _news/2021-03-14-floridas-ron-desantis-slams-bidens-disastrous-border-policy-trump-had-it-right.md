@@ -128,6 +128,20 @@ related:
         width: 640
         height: 320
         isCached: true
+  - title: "Republicans renew call for border crisis hearing amid Biden's 'open-borders rallying cry'"
+    excerpt: "EXCLUSIVE: Republicans are renewing calls for Democrats to hold a hearing on the growing crisis at the southern border -- while warning that the Biden administration has been sounding an “open-borders rally cry.”"
+    publishedDateTime: 2021-03-15T16:09:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwduK8UUyqE/republicans-renew-call-border-crisis-hearing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe9eafdf-a54e-4b6d-b45e-420094e73a89/7cc93579-97ff-4493-8721-9ea5284ab154/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "fyT0joZ4vuvapyltxcFZqVKUGGsQlRtpBfjE5FlmTxoVE95vL8pbH/x3eG4ObMDpihzkrjAnYKsjWZL/glk04t0wUBzs3wqOJ/2ceqDy/kEPWMQOzOfmwO6jD+UFD6jfao1RGrclZd4YFoNBtWpYX2TO9/OOQfl+uAZEzpUaKK7V3f+f5hUAJJEypN+7BbcAeEetK9NqGpZc8k3SCItS9q0UInID3cssKcuyefykY7zj/s8QNbrIxi3dV22aIlExJtzRJ+jmXYKiZrfiv1yiMD3Hg0bpUR9E8Z4Kq485MAN9NfXw85BiZKVsYZJFiY1adGz9+BzR0B5CzueAyfdYbPTumTfCCDL7IK8jHnIbyCPCh4PyN25OZLOWMeynrP71ToSPhJ+mTxj/eQtEFLGHUkn+pS/Z56WSrP6Ifmc0AeRChl4aSZdzYMLwEYsHA6UEhuUbtp/CayHoAhIPYOvNkiuLW1+sPSIka1B0vW7Jwp/gQc1Bd2mLF2A2FTrF/HO3kaX+Bo9CFAF/t9T7GvifrQ==;8NV06PLYdCOBVScvpbiiyw=="
 ---

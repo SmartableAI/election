@@ -95,6 +95,22 @@ related:
         width: 320
         height: 209
         isCached: true
+  - title: "Trump Voters Hesitant About COVID Vaccine Won't Be Swayed by Former President"
+    excerpt: "When trying to convince former President Donald Trump's supporters to get vaccinated against COVID-19, officials should look to hammering home facts about those who have been vaccinated and not rely on the former president's persuasion, a recent focus ..."
+    publishedDateTime: 2021-03-15T17:45:00Z
+    webUrl: "https://www.newsweek.com/trump-voters-hesitant-about-covid-vaccine-wont-swayed-former-president-1576242"
+    ampWebUrl: "https://www.newsweek.com/trump-voters-hesitant-about-covid-vaccine-wont-swayed-former-president-1576242?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-voters-hesitant-about-covid-vaccine-wont-swayed-former-president-1576242?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1756434/donald-trump-vaccine-hesitancy.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Donald Trump Greeted by Lone Supporter and Angry Protesters As He Returns to New York"
     excerpt: "Protesters gathered outside the building calling for his arrest on Monday morning with signs that read, \"Florida Man Go Home,\" \"Indict Trump\" and \"Arrest Trump.\""
     publishedDateTime: 2021-03-08T22:33:00Z

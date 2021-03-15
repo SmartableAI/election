@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tom-homan-democrats-trump-border-su
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp"
 type: article
 quality: 178
-heat: 298
+heat: 318
 published: true
 
 provider:
@@ -110,6 +110,20 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Mexico-migrants-Biden-sign.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Republicans renew call for border crisis hearing amid Biden's 'open-borders rallying cry'"
+    excerpt: "EXCLUSIVE: Republicans are renewing calls for Democrats to hold a hearing on the growing crisis at the southern border -- while warning that the Biden administration has been sounding an “open-borders rally cry.”"
+    publishedDateTime: 2021-03-15T16:09:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rwduK8UUyqE/republicans-renew-call-border-crisis-hearing"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 146
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe9eafdf-a54e-4b6d-b45e-420094e73a89/7cc93579-97ff-4493-8721-9ea5284ab154/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Florida's Ron DeSantis slams Biden's 'disastrous' border policy: 'Trump had it right'"
     excerpt: "Florida Gov. Ron DeSantis slammed President Biden’s \"disastrous\" immigration policy on Saturday amid an influx of migrants coming to the border."

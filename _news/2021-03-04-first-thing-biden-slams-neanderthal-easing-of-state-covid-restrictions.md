@@ -127,6 +127,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden taps Gene Sperling to oversee COVID-19 relief package"
+    excerpt: "The White House says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package"
+    publishedDateTime: 2021-03-15T17:01:00Z
+    webUrl: "https://www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "House approves $1.9 trillion COVID relief package, sending bill to Biden"
     excerpt: "Mr. Biden celebrated the passage of his plan in the wake of the ... These compromises were negotiated to satisfy moderate Democrats in the Senate, particularly Senator Joe Manchin. As Democrats have a 50-seat majority in the Senate, they require support ..."
     publishedDateTime: 2021-03-11T12:01:00Z

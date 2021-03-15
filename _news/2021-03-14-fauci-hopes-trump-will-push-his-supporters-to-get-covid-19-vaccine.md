@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B60DA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B60DA"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/d494534/2147483647/strip/true/crop/4800x3135+0+78/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F70%2F0c%2F6f8f529e4ea0a1798b8a2a22b80b%2Fla-photos-1staff-598594-la-policevictimsrally-001-ls.jpg"
         width: 320
         height: 209
+        isCached: true
+  - title: "Trump Voters Hesitant About COVID Vaccine Won't Be Swayed by Former President"
+    excerpt: "When trying to convince former President Donald Trump's supporters to get vaccinated against COVID-19, officials should look to hammering home facts about those who have been vaccinated and not rely on the former president's persuasion, a recent focus ..."
+    publishedDateTime: 2021-03-15T17:45:00Z
+    webUrl: "https://www.newsweek.com/trump-voters-hesitant-about-covid-vaccine-wont-swayed-former-president-1576242"
+    ampWebUrl: "https://www.newsweek.com/trump-voters-hesitant-about-covid-vaccine-wont-swayed-former-president-1576242?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-voters-hesitant-about-covid-vaccine-wont-swayed-former-president-1576242?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1756434/donald-trump-vaccine-hesitancy.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "‘We want to be educated, not indoctrinated,’ say Trump voters wary of covid shots"
     excerpt: "Tout the number of people who got the vaccines in trials. And don’t show pro-vaccine ads with politicians — not even ones with Donald Trump. That’s what a focus group of vaccine-hesitant Trump voters insisted to politicians and pollsters this weekend ..."

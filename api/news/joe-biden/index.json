@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-15-biden-addresses-allegations-against-new-york-governor-andrew-cuomo-for-the-first-time.md",
+      "title": "Biden addresses allegations against New York Governor Andrew Cuomo for the first time",
+      "excerpt": "Asked whether he thinks New York Governor Andrew Cuomo should resign over allegations of sexual harassment, President Joe Biden said he will wait and see what the investigation turns up. Josefa Velasquez,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/biden-addresses-allegations-against-new-york-governor-andrew-cuomo-for-the-first-time/",
+      "originalUrl": "https://www.cbsnews.com/video/biden-addresses-allegations-against-new-york-governor-andrew-cuomo-for-the-first-time/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/15/8ae72aaa-a7fa-49a2-b50c-8a2679d337e7/thumbnail/1200x630/d8e212994733673996daf8014ea9a9ee/0325-cbsnam-bidensremarksoncuomo-668533-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-15T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-13-for-biden-theres-no-place-like-a-weekend-home-in-delaware.md",
       "title": "For Biden, there's no place like a weekend home in Delaware",
       "excerpt": "For President Joe Biden, there's no place like a weekend home in Delaware WILMINGTON, Del. -- As he stood in the Rose Garden celebrating his first big legislative win, President Joe Biden gestured ...",
@@ -218,7 +270,7 @@
       "originalUrl": "https://www.reuters.com/article/us-usa-biden-ethiopia-idUSKBN2B32VX",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -374,7 +426,7 @@
       "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/10/covid-19-stimulus-package-polls-find-strong-support-relief/6936053002/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 765,
+      "heat": 785,
       "tags": null,
       "images": [
         {
@@ -1497,58 +1549,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-biden-urged-to-back-water-justice-bill-to-reverse-decades-of-underinvestment.md",
-      "title": "Biden urged to back water justice bill to reverse decades of underinvestment",
-      "excerpt": "Water Act proposes injection of federal dollars to overhaul ageing infrastructure, create jobs and address inequalities",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
-      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/58c77231dce552c519cfbadca53546bbbe4b92fa/0_218_3000_1801/master/3000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=bc900b56a61f274f18064c23b1e15ed8",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/25/joe-biden-water-act-bernie-sanders",
-      "publishedDateTime": "2021-02-25T04:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

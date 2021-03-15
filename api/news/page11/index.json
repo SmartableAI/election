@@ -2,6 +2,62 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2021-02-26-ted-cruz-in-cpac-speech-says-trump-aint-goin-anywhere-jokes-about-cancun-controversy.md",
+      "title": "Ted Cruz in CPAC speech says ‘Trump ain’t goin’ anywhere,’ jokes about Cancun controversy",
+      "excerpt": "Sen. Ted Cruz says the GOP is the party of the working class and vows that former President Trump will remain a power player in the Republican Party.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W421qeGQnHg/cruz-cpac-speech-trump-aint-goin-anywhere",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W421qeGQnHg/cruz-cpac-speech-trump-aint-goin-anywhere",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 166,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cruz-cpac-speech-trump-aint-goin-anywhere.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-cpac-speech-trump-aint-goin-anywhere.amp",
+      "publishedDateTime": "2021-02-26T09:13:02-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-02-26-bidens-syria-airstrike-earns-applause-from-prominent-republicans.md",
       "title": "Biden's Syria airstrike earns applause from prominent Republicans",
       "excerpt": "Following the airstrike ordered by Biden against Iranian-backed militia members Thursday night, House Foreign Affairs Committee ranking member Rep. Michael McCaul, R-Texas, and Rep. French Hill, R-Ark., applauded the successful airstrike.",
@@ -1298,58 +1354,6 @@
       "topics": [
         "Election",
         "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-25-a-year-after-trump-said-coronavirus-was-under-control-a-look-back-at-the-first-news-stories.md",
-      "title": "A year after Trump said coronavirus was ‘under control,’ a look back at the first news stories",
-      "excerpt": "Wednesday that then-President Trump offered words of assurance about the coronavirus which had only recently been detected in the United States. “The Coronavirus is very much under control in the USA,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/",
-      "originalUrl": "https://www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/C3JNHGTAAII6VLCQDBYB4FHANU.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/02/24/year-after-trump-said-coronavirus-was-under-control-look-back-first-news-stories/?outputType=amp",
-      "publishedDateTime": "2021-02-24T12:36:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

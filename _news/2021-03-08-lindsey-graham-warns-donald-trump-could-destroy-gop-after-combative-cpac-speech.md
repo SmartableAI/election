@@ -47,6 +47,22 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Amid Republican civil war, Trump holds court — and his grip on GOP — at Mar-a-Lago"
+    excerpt: "The question of how much clout former president Donald Trump would retain after leaving office and where he would wield it has been answered."
+    publishedDateTime: 2021-03-15T13:23:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/15/donald-trump-holds-court-and-his-grip-gop-mar-lago/4698811001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4698811001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4698811001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 119
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/01/07/NPPP/bea9dd40-3c2d-4ec8-bd5c-bf4858badbd3-IMG-1949_2.jpg?auto=webp&crop=1727,972,x97,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Sheriff who flew Trump flag on patrol boat violated ban on partisan political activity, officials say"
     excerpt: "with the banner depicting President Donald Trump’s face superimposed over an American flag. Hilton, a Republican, acknowledged that an attendee gave deputies the flag and he approved its exhibition, drawing criticism from residents and other officials ..."
     publishedDateTime: 2021-03-15T02:27:00Z
