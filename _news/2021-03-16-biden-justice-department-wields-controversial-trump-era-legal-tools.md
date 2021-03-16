@@ -1,33 +1,34 @@
 ---
 category: news
-title: "Biden administration in fraught position with some Trump-appointed US attorneys"
-excerpt: "Distrust of Trump-era appointees led the Biden administration to appoint a career Justice Department official as acting attorney general while it waits for the US Senate to confirm Merrick Garland, the President's nominee to lead the department.\n    \n"
-publishedDateTime: 2021-02-08T21:28:25Z
-originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MGBoBmInjaw/index.html"
-webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MGBoBmInjaw/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/leftover-trump-us-attorneys/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/leftover-trump-us-attorneys/index.html"
+title: "Biden Justice Department wields controversial Trump-era legal tools"
+excerpt: "President Joe Biden’s Justice Department is defending its use of an anti-riot statute that critics say is racist — a tool the Trump-era DOJ made aggressive use of to pursue some of those accused of violence in connection with last year’s racial justice protests."
+publishedDateTime: 2021-03-16T02:53:00Z
+originalUrl: "https://www.politico.com/news/2021/03/15/biden-trump-riot-statute-capitol-prosecution-476208"
+webUrl: "https://www.politico.com/news/2021/03/15/biden-trump-riot-statute-capitol-prosecution-476208"
+ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/biden-trump-riot-statute-capitol-prosecution-476208"
+cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/biden-trump-riot-statute-capitol-prosecution-476208"
 type: article
-quality: 186
+quality: 150
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
+  name: Politico
+  domain: politico.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
+  - Donald Trump
   - Democratic Voice
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124427-trump-doj-acting-attorney-plot-super-tease.jpg"
-    width: 1100
-    height: 619
+  - url: "https://static.politico.com/a7/a0/835222644c3ba3587c9c95561364/20210312-capitol-riot-ap-773.jpg"
+    width: 1160
+    height: 773
     isCached: true
 
 related:
@@ -380,6 +381,22 @@ related:
     quality: 186
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/201111195736-ron-kain-feb-2020-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden administration in fraught position with some Trump-appointed US attorneys"
+    excerpt: "Distrust of Trump-era appointees led the Biden administration to appoint a career Justice Department official as acting attorney general while it waits for the US Senate to confirm Merrick Garland, the President's nominee to lead the department.\n    \n"
+    publishedDateTime: 2021-02-08T21:28:25Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/MGBoBmInjaw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/08/politics/leftover-trump-us-attorneys/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/08/politics/leftover-trump-us-attorneys/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 186
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210125124427-trump-doj-acting-attorney-plot-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -2061,22 +2078,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden Justice Department wields controversial Trump-era legal tools"
-    excerpt: "President Joe Biden’s Justice Department is defending its use of an anti-riot statute that critics say is racist — a tool the Trump-era DOJ made aggressive use of to pursue some of those accused of violence in connection with last year’s racial justice protests."
-    publishedDateTime: 2021-03-16T02:53:00Z
-    webUrl: "https://www.politico.com/news/2021/03/15/biden-trump-riot-statute-capitol-prosecution-476208"
-    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/biden-trump-riot-statute-capitol-prosecution-476208"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/biden-trump-riot-statute-capitol-prosecution-476208"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 150
-    images:
-      - url: "https://static.politico.com/a7/a0/835222644c3ba3587c9c95561364/20210312-capitol-riot-ap-773.jpg"
-        width: 1160
-        height: 773
-        isCached: true
   - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
     excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."
     publishedDateTime: 2021-01-19T03:23:00Z
@@ -3038,6 +3039,6 @@ related:
         height: 773
         isCached: true
 
-secured: "dNNAhIUTs0xz/dL1fquw2oWtutrdwXH8jcSbbay1lDfemDiDFWIbHbAiby+0UxUmSdvAqt3bjwvyZYj5bJx1yMdM/Qnp0F8rkqYxAzN/Fx0I8CRsCMXKw4c4YLigVRZBTCyhyPgpZ+kVuG9jbaR/dcPFud+HyxkA9Yd8Bg2o2pgG65uc6cscHNRlfhTr9QRE/UrJQcfYqciJQnrOoJxoXB/e0heEt5TqQEVgUW9i+EAi7Ks3UKrl2Ta08LAhI/+UNOqredBQxyJC7sOyzt7YqmFhMt6jWZ5bIp2LDClxo86hUJaOkpCrfcigKuvDyKpXj+NOZSLPN5JmcqJ30GTzBFt866tF++Qgtq/AZtB76gE=;At2CpwKCSaOaCDFXybRKVQ=="
+secured: "9lD9OS+OGCmzI5piVn+/AeB5otbnNQbf2/0d+5l1zAiYc4IVMhO1x1Vlkz4OzBd7SHL/LgRQgHfON4M4IX3UA989bRrRjWt/MidF9ybrrTs4XZ+Ov+3gqKdwIYrUTEUJloN4z+YqO1CsgDkSHWKRqAJbp/yED3a7AcBg4qRh/3XBIXNFmGOU+cUrHIyTskDlWvBGlTcb80s4P2Myz4VtuCQmuUKj3yN9Tt67JCpwSAUHeI6mM3RQbmPaRTz9DUKwhI2nnFinJZ39sNOsQG7YYXVEny5oFJ2TPnwKUSJwzPxEpeysNeadBAoKJJUqN2NPdlEj2oOredi3JDxKvyS+kfAnN4UcC5N0IJ9XeLXZexM=;PFmVIr38Eg81nVGmDUf1BQ=="
 ---
 

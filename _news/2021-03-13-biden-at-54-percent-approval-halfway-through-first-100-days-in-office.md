@@ -81,9 +81,9 @@ related:
         height: 550
         isCached: true
   - title: "Biden readies campaign to combat vaccine skeptics"
-    excerpt: "The new vaccine confidence drive underscores the extent to which the administration is still concerned about Americans' desire to get vaccinated."
+    excerpt: "Plans for the latest campaign were first reported by STAT. Health officials like Dr. Anthony Fauci, President Joe Biden’s chief medical officer, have for months raised concerns over the possibility that large swaths of the country would not sign up for ..."
     publishedDateTime: 2021-03-15T16:17:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/story/2021/03/15/biden-readies-campaign-to-combat-vaccine-skeptics-1368275"
+    webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/03/15/biden-readies-campaign-to-combat-vaccine-skeptics-1368275"
     type: article
     provider:
       name: Politico

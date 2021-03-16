@@ -2062,6 +2062,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden Justice Department wields controversial Trump-era legal tools"
+    excerpt: "President Joe Biden’s Justice Department is defending its use of an anti-riot statute that critics say is racist — a tool the Trump-era DOJ made aggressive use of to pursue some of those accused of violence in connection with last year’s racial justice protests."
+    publishedDateTime: 2021-03-16T02:53:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/biden-trump-riot-statute-capitol-prosecution-476208"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/biden-trump-riot-statute-capitol-prosecution-476208"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/biden-trump-riot-statute-capitol-prosecution-476208"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 150
+    images:
+      - url: "https://static.politico.com/a7/a0/835222644c3ba3587c9c95561364/20210312-capitol-riot-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Trump Orders Lifting of Virus Travel Ban, but Biden Aides Vow to Block Move"
     excerpt: "The president’s proclamation, which would not take effect until Jan. 26, after Joe Biden assumes office, was part of a flurry of orders that Mr. Biden is likely to reverse."
     publishedDateTime: 2021-01-19T03:23:00Z

@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden readies campaign to combat vaccine skeptics"
-excerpt: "The new vaccine confidence drive underscores the extent to which the administration is still concerned about Americans' desire to get vaccinated."
+excerpt: "Plans for the latest campaign were first reported by STAT. Health officials like Dr. Anthony Fauci, President Joe Biden’s chief medical officer, have for months raised concerns over the possibility that large swaths of the country would not sign up for ..."
 publishedDateTime: 2021-03-15T16:17:00Z
-originalUrl: "https://www.politico.com/states/new-york/albany/story/2021/03/15/biden-readies-campaign-to-combat-vaccine-skeptics-1368275"
-webUrl: "https://www.politico.com/states/new-york/albany/story/2021/03/15/biden-readies-campaign-to-combat-vaccine-skeptics-1368275"
+originalUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/03/15/biden-readies-campaign-to-combat-vaccine-skeptics-1368275"
+webUrl: "https://www.politico.com/states/new-york/city-hall/story/2021/03/15/biden-readies-campaign-to-combat-vaccine-skeptics-1368275"
 type: article
 quality: 115
 heat: -1
@@ -95,6 +95,6 @@ related:
         height: 550
         isCached: true
 
-secured: "tlDTegx7jSRDKiU7pdiq48gS4gQqjxBEyxCiwClkoAyLNVP0pq3X8C/m+d5zEvhldm+juLD+2LNJsACfEVaqFm99dXYmX892s0n+K1RNgP9V4CkHgbUv+4e9FBiI7xGk1U2qkfMPIz6G7IJJNdnowrSdwN/ihbsHdQAT9byglETjonAoW9G3KaSXXg6dK0dzjoq2d4BDttgZw3n9JWd9qMrqXjTxcKsC4aoRKZrwS84jlYMtFcKCWJ0WFlYNaSM1UlHy0QXunCYV1X4VBuMK4HGl4e3dyPBq5Bg5TAcsxJQaGqeIDE1BCnqULPwjbgzOqfbio7J3E1/XcWlb0RD+bcXZSuGRfMIddwvWWGvQkktZTEIsUHTBIeGBwyBrWrh/lHzccJsyPZ27WqrDT6EBs/LadvKNe08kBu3wKAeb/036C31osHk4e12GKHBNBJhviv9mSV4S9vKLs1pjnSOAr6QrvLJ8wKptNpNYXqsvQavrRH96FgMiq7spwjXW08SxKnn4/xvtsjNglcd8x2B+4w==;gUszwYb4euUG3ebRhzdVtA=="
+secured: "g0Er+CVKn3bQEA9ogkev3HgdkP525P+mNywJPJYYb3iuxqNdxU3/cfF8XWf8yCiBpAxV39/1+CwB5AnC3WSY4U2bBzdJjNpOnXsiTQ/pek92JJHuIMQdzZ0apk5Xo8bqUWOxZ3a1wZrzs9eoKpK/mmGCqVgM+CP94H4UPYDL76uhNUOU4jSzhj8ShttReNwoh3Fn3l/SPm9X4V83wCWeA72ZBn5Rw6Z+irPv+/pYX7/zRFLoP5GtknzHRqUn5YHWX0vdGR1zJxIU5O2rmyLBotN39SNTUBP8vFll9DINAnpsmWRZtDDZFid6cCcs4rPizELlaVj9VmbbrsXIynWeMwf3840Ncbgfcl11V45zxOw=;3C5hq6g5wp0Cakm6h1xMhQ=="
 ---
 
