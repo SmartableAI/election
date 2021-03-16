@@ -62,6 +62,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Trump doesn't commit to stay out of Senate primaries despite prodding by top GOP senator "
+    excerpt: "Florida Sen. Rick Scott, the chairman of the National Republican Senatorial Committee, urged former President Donald Trump to back the candidates who win Senate primaries next year rather than engage in intra-party fights that could harm the party's chances at taking back the majority in the midterm"
+    publishedDateTime: 2021-03-16T15:51:33Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cUU6MqhaS2I/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/rick-scott-trump-senate-primaries-2022/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/rick-scott-trump-senate-primaries-2022/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 166
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310190838-trump-scott-split-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "De Blasio compares Cuomo to Trump after governor's apology"
     excerpt: "Mayor Bill de Blasio compared Gov. Andrew Cuomo to Donald Trump Thursday, panning his attempt to fend off calls for his resignation by criticizing conditions in New York City. “To paint an apocalyptic picture [of the city] — that’s what Donald Trump would have done."
     publishedDateTime: 2021-03-04T18:34:00Z

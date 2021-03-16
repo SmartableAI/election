@@ -112,6 +112,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Mike Pence endorses Sarah Huckabee Sanders in Arkansas governor’s race"
+    excerpt: "In the statement, released Monday by Sanders’ campaign as well as on Pence’s Twitter account, the former vice president praised his ex-colleague for her conservative, Christian"
+    publishedDateTime: 2021-03-16T17:50:00Z
+    webUrl: "https://nypost.com/2021/03/16/pence-endorses-sarah-huckabee-sanders-in-arkansas-governor-race/"
+    ampWebUrl: "https://nypost.com/2021/03/16/pence-endorses-sarah-huckabee-sanders-in-arkansas-governor-race/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/16/pence-endorses-sarah-huckabee-sanders-in-arkansas-governor-race/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/mike-pence-endorses-sarah-huckabee-28.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "JhfT+cr6Kua6KPBjtPLN2GTh6rvj1LQb3kAU+w1Hvq4KOW3ebT9btw8YBJmgBL1iFhehUP68iHUj1fsr7eiw+clON2aR3e+KaGK07U+LPbEy1jfr7xsKQevx7eD+YDduP6XtyTsZ3ZOdqYqXrx8X45EJ3X3BcSlbSjgyMYJn+RCL1VzpbpeEWOZXxqwgKd/lWx0rbxt8+Iqw0vMZCpVkYRyAhYzQKfsQ3Y+yvyiSBwvzvMyTSvFBZTqXdGKpgPw9REmwu4YhbKxHuQifTrJs0xAN+D5G50kWQ35rdq+5aUj5Mn3BQV3UAF5QWcLnPJuZr2d0QCkrNU634FTT4IquvRRgRDXIC+4yU8yCNm+nhhk=;jmpGgc5lPAxwJt1LUt0ecw=="
 ---

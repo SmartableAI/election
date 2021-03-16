@@ -9,7 +9,7 @@ ampWebUrl: "https://www.aljazeera.com/amp/news/2021/1/21/kamala-harris-americas-
 cdnAmpWebUrl: "https://www-aljazeera-com.cdn.ampproject.org/c/s/www.aljazeera.com/amp/news/2021/1/21/kamala-harris-americas-first-woman-black-vice-president"
 type: article
 quality: 125
-heat: 845
+heat: 865
 published: true
 
 provider:
@@ -503,6 +503,20 @@ related:
       - url: "https://assets.startribune.com/static/img/branding/logos/strib-social-card.png?d=1611350604"
         width: 1680
         height: 876
+        isCached: true
+  - title: "Vice President Kamala Harris Delivers Virtual Remarks"
+    excerpt: "Vice President Kamala Harris delivers virtual remarks to the National League of Cities' (NLC) Congressional City Conference, at the Eisenhower Executive Office Building at the White House complex in Washington,"
+    publishedDateTime: 2021-03-08T20:08:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/USA-WHITE-HOUSE-HARRIS.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Fuentes AP: Vicepresidente de EEUU llama a vicepresidenta electa Kamala Harris para felicitarla y ofrecerle asistencia"
     excerpt: "Vicepresidente de EEUU llama a vicepresidenta electa Kamala Harris para felicitarla y ofrecerle asistencia."

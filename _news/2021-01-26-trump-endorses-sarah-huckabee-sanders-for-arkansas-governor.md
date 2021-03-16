@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-endorses-sanders-in-run-for-a
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-endorses-sanders-in-run-for-arkansas-governor.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
     quality: 135
     images:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/sarah-huckabee-sanders-event-77.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Mike Pence endorses Sarah Huckabee Sanders in Arkansas governor’s race"
+    excerpt: "In the statement, released Monday by Sanders’ campaign as well as on Pence’s Twitter account, the former vice president praised his ex-colleague for her conservative, Christian"
+    publishedDateTime: 2021-03-16T17:50:00Z
+    webUrl: "https://nypost.com/2021/03/16/pence-endorses-sarah-huckabee-sanders-in-arkansas-governor-race/"
+    ampWebUrl: "https://nypost.com/2021/03/16/pence-endorses-sarah-huckabee-sanders-in-arkansas-governor-race/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/16/pence-endorses-sarah-huckabee-sanders-in-arkansas-governor-race/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/mike-pence-endorses-sarah-huckabee-28.jpg?quality=90&strip=all&w=1200"
         width: 1200
         height: 800
         isCached: true

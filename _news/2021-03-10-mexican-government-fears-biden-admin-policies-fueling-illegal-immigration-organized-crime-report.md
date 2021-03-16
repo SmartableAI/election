@@ -47,6 +47,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Cruz, Cornyn to lead Senate delegation to border, as GOP ramps up pressure on Biden over border crisis"
+    excerpt: "Texas Sens. Ted Cruz and John Cornyn will lead a Senate delegation to the border next week, as Republicans are ramping up the pressure on the Biden administration for what they say is a crisis fueled by the administration's own immigration policies."
+    publishedDateTime: 2021-03-16T17:19:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kyWqWaUBEcw/cruz-cornyn-senate-border-gop-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-cornyn-senate-border-gop-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-cornyn-senate-border-gop-biden-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c57185e-ca00-4a31-8a79-5263e0ffb1bf/734d5af6-eb8b-41e0-b2e7-97595737b564/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "tMaW7FM4v8DAB11m4zvf3R9OWnAhGHpYBZaurZ8k5a5nuoj87/BTWbZNpJyo2LTCbcu7Np6luHhGm/UlIXm4hIQbBR5FTCdpIXU8k3JLzWKZyj+MoxSZ58PapCDSwxXekZQCZEsM+WPQjyKIpOoDYfTwGgslroY4NYOml+lMFliIyJMXMLZMRZ5rNjp+RlIpf/pzhoOEqWzs+j/2OC1sNu7X8C7SOxicM/jgkr7gS5nMc6bvrARvKMeVjKrSfIlBWuKpbG3FwAOtGCHKdP0y1eosc7j+/WLHTTHufgjgIvGShbIEVryEHPmn+Hf6pDbh3LpgbCNYQ2uuqYr7LnV9TaEhptEaB0qiYTmp5SPWSwM=;6OAFarleSXQ752UDOTHbHg=="
 ---

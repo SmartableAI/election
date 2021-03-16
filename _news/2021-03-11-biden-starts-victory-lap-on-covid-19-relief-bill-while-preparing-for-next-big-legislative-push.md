@@ -159,22 +159,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "US reports surge of kids at SW border, a challenge for Biden"
-    excerpt: "a challenge for President Joe Biden as he works to undo the restrictive immigration policies of his predecessor. Statistics released Wednesday by U.S. Customs and Border Protection showed the ..."
-    publishedDateTime: 2021-03-10T21:32:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
-    type: article
-    provider:
-      name: ABCNews
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_7b29382f34b343d48f3c413aa580d499_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Transcript: President Joe Biden on the coronavirus pandemic"
     excerpt: "Transcript of President Joe Biden's speech Thursday, March 11, 2021, on the coronavirus pandemic, as provided by the White House: Good evening, my fellow Americans. Tonight, I’d like to talk to you about where we are as we mark one year since everything stopped because of this pandemic."
     publishedDateTime: 2021-03-12T04:17:00Z
@@ -398,6 +382,38 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/11/USAT/3acf1a45-984a-402c-838e-091862c58383-AFP_AFP_94R9VB.jpg?auto=webp&crop=5707,3210,x0,y290&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'Independence from this virus': President Biden shifts from 'darkest days' to hope on the horizon"
+    excerpt: "Making his first primetime address as president, President Joe Biden mourned a \"collective suffering\" over the last year but pivoted to a more hopeful future"
+    publishedDateTime: 2021-03-12T05:33:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/president-biden-address-shifts-darkest-days-hope-horizon/4648511001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4648511001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4648511001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 112
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/f289ce21-471d-4cd2-85bc-0cf6241078ba-AP21071051320807.jpg?auto=webp&crop=5223,2938,x1,y336&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "On war powers, Biden has pushed for both more congressional oversight and broad presidential authority"
+    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
+    publishedDateTime: 2021-03-09T22:10:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 109
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1440"
+        width: 1440
+        height: 810
         isCached: true
   - title: "$1.9 trillion COVID-19 relief bill with $1,400 stimulus checks passes House, heads to President Biden for signature"
     excerpt: "President Biden will sign the bill into law Friday, the White House said. He started pushing the measure in January before he took office."

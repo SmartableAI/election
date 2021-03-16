@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Nearly 70% of Female Biden Voters Say Harris Being on the Ticket Was Factor in Decision: Poll"
+    excerpt: "President Joe Biden's choice of Kamala Harris as his running mate in the 2020 election resonated with women across the U.S. According to a report released Tuesday by Gender on the Ballot, a nonpartisan project to examine gender dynamics in politics ..."
+    publishedDateTime: 2021-03-16T17:51:00Z
+    webUrl: "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571"
+    ampWebUrl: "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 129
+    images:
+      - url: "https://d.newsweek.com/en/full/1757384/kamala-harris-joe-biden-3-12-2021.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Kamala Harris says young leaders 'inspire me and President Biden every day' at Kids' Choice Awards"
     excerpt: "Vice President Kamala Harris honored young people for doing their part to help others amid the coronavirus pandemic while accepting an award at the 2021 Kids' Choice Awards. \"Thank you to the young leaders for being so incredible, and for all that you do ..."
     publishedDateTime: 2021-03-14T13:42:00Z
@@ -41,37 +57,53 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "'Independence from this virus': President Biden shifts from 'darkest days' to hope on the horizon"
-    excerpt: "Making his first primetime address as president, President Joe Biden mourned a \"collective suffering\" over the last year but pivoted to a more hopeful future"
-    publishedDateTime: 2021-03-12T05:33:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/12/president-biden-address-shifts-darkest-days-hope-horizon/4648511001/"
-    ampWebUrl: "https://amp.usatoday.com/amp/4648511001"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4648511001"
+  - title: "US reports surge of kids at SW border, a challenge for Biden"
+    excerpt: "a challenge for President Joe Biden as he works to undo the restrictive immigration policies of his predecessor. Statistics released Wednesday by U.S. Customs and Border Protection showed the ..."
+    publishedDateTime: 2021-03-10T21:32:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-reports-surge-kids-sw-border-challenge-biden-76373179"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 112
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/12/USAT/f289ce21-471d-4cd2-85bc-0cf6241078ba-AP21071051320807.jpg?auto=webp&crop=5223,2938,x1,y336&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.abcnews.com/images/Politics/WireAP_7b29382f34b343d48f3c413aa580d499_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "On war powers, Biden has pushed for both more congressional oversight and broad presidential authority"
-    excerpt: "President Biden has often called for more congressional involvement when president’s have exercised their war and use of force authorities."
-    publishedDateTime: 2021-03-09T22:10:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/09/war-powers-biden-has-pushed-both-more-congressional-oversight-broad-presidential-authority/?outputType=amp"
+  - title: "In early foreign policy tests, Biden takes on world as it is"
+    excerpt: "President Joe Biden in his early days in office has vowed a dramatic reordering of U.S. foreign policy from his predecessor"
+    publishedDateTime: 2021-03-15T17:26:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/03-09-2021/t_d77763c612b2428a8efe384c9c98242b_name_20210308_BIDEN_WAR_V3.png&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f9ce496c7d34449c9f422668858143f4_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "The Biden administration is mobilizing FEMA amid record numbers of migrant children and teens at the border"
+    excerpt: "One recent New York Times report revealed that under the Biden administration, border officials had detained more than 1,360 migrant children longer than the mandatory 72-hour limit permitted by US law. President Joe Biden has vowed to set a new tone with ..."
+    publishedDateTime: 2021-03-14T02:53:00Z
+    webUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/604d771610c8760018b931ac?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Watch Live: Vice President Kamala Harris speaks at U.N. meeting on gender equality and women's empowerment"
     excerpt: "Vice President Kamala Harris is delivering a statement Tuesday on behalf of the United States during a session of the United Nations' Commission on the Status of Women. The theme of this year's session, the 65th, is women's \"full and effective ..."
@@ -88,6 +120,48 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Harris pitches COVID relief bill in Las Vegas"
+    excerpt: "Vice President Kamala Harris says she's on a mission to ensure people know what they were entitled to in the American Rescue Plan. (March 15)"
+    publishedDateTime: 2021-03-15T23:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/15/harris-pitches-covid-relief-bill-las-vegas/4710865001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08776f89-5741-489a-bc95-2abf1b2bb016_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Kamala Harris Makes Solo Debut, Selling Relief Law and Raising Her Profile"
+    excerpt: "Kamala Harris embarked Monday on her first official trip as vice president to promote the just-signed $1.9 trillion stimulus law, a two-day swing that doubles as a chance to boost her own profile. She’s traveling to Nevada and Colorado, both important ..."
+    publishedDateTime: 2021-03-15T16:53:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-15/harris-sells-stimulus-to-nevada-colorado-in-first-solo-trip"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 103
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izBuQ5qE9GnA/v0/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris Makes Solo Debut, Selling Relief Law and Raising Her Profile"
+    excerpt: "Kamala Harris embarked Monday on her first official trip as vice president to promote the just-signed $1.9 trillion stimulus law, a two-day swing that doubles as a chance to boost her own profile."
+    publishedDateTime: 2021-03-15T17:09:00Z
+    webUrl: "https://www.washingtonpost.com/business/on-small-business/kamala-harris-makes-solo-debut-selling-relief-law-and-raising-her-profile/2021/03/15/6d48ad28-85b1-11eb-be4a-24b89f616f2c_story.html"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 103
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Vice President Kamala Harris coming to Las Vegas on Monday"
     excerpt: "Vice President Kamala Harris and her husband, Doug Emhoff, will visit Las Vegas on Monday to tout the $1.9 trillion American Rescue Plan approved by Congress on Wednesday."
@@ -169,6 +243,38 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Harris arrives in Las Vegas to tout COVID relief bill"
+    excerpt: "Vice President Kamala Harris touched down in Las Vegas on Monday, where she visited a vaccination clinic at UNLV and will speak at an event at the Culinary Training Center in North Las Vegas. Harris’ trip was one part of a larger push by officials in ..."
+    publishedDateTime: 2021-03-15T19:58:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/harris-arrives-in-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14916651_web1_web-Harris4-0315.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Black colleges counting on Harris to make funding a priority | Charlotte Observer"
+    excerpt: "Black colleges and universities hope high-profile graduates in the Biden administration will push for increased federal support for HBCUs."
+    publishedDateTime: 2021-03-16T10:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article249959349.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249959349.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249959349.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/63fb6cbf-6fea-4217-b61a-3a15a9ef9139/c98eabd7-999d-4061-87d6-76d995916018/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Vice President Kamala Harris will visit Denver on Tuesday, but details are scarce"
     excerpt: "Vice President Kamala Harris is scheduled to visit Denver on Tuesday, but the White House has not said where she will be or whether the event will be public."
     publishedDateTime: 2021-03-15T21:35:00Z
@@ -185,22 +291,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'"
-    excerpt: "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ..."
-    publishedDateTime: 2021-03-14T15:43:00Z
-    webUrl: "https://www.upi.com/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/"
-    ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/"
-    cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 69
-    images:
-      - url: "https://cdnph.upi.com/sv/ph/og/upi/1841615727690/2021/1/beb597aa620d51fb657376388a969933/v1.5/Kamala-Harris-tells-kids-at-Choice-Awards-You-make-us-and-your-country-so-proud.jpg"
-        width: 800
-        height: 532
-        isCached: true
   - title: "Biden and Harris are headed to Atlanta next week to tout $1.9T COVID-19 relief plan"
     excerpt: "President Joe Biden and Vice President Kamala Harris will visit Georgia next week as part of a nationwide victory lap to celebrate the passage of the $1.9 trillion coronavirus relief package that Democrats couldn’t have muscled through Congress without v ..."
     publishedDateTime: 2021-03-12T02:22:00Z
@@ -214,20 +304,6 @@ related:
       - url: "https://www.ajc.com/resizer/MMXL-u7FbeNag8S3s5fgZvuqLZU=/1200x630/cloudfront-us-east-1.images.arcpublishing.com/ajc/G7QYTXK4ABLJ6ZLT5W64ISOBU4.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Vice President Kamala Harris Delivers Virtual Remarks"
-    excerpt: "Vice President Kamala Harris delivers virtual remarks to the National League of Cities' (NLC) Congressional City Conference, at the Eisenhower Executive Office Building at the White House complex in Washington,"
-    publishedDateTime: 2021-03-08T20:08:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/Vice-President-Kamala-Harris-Delivers-Virtual-Remarks/"
-    type: article
-    provider:
-      name: UPI.com
-      domain: upi.com
-    quality: 55
-    images:
-      - url: "https://cdnph.upi.com/pv/upi/efc7e9f2246e4d0b3129d5ba741c2bdd/USA-WHITE-HOUSE-HARRIS.jpg"
-        width: 650
-        height: 433
         isCached: true
   - title: "Vice President Harris Swears in HUD Secretary Marcia Fudge"
     excerpt: "U.S. Vice President Kamala Harris speaks to members of the press after swearing in Marcia Fudge, U.S. secretary of Housing And Urban Development (HUD), during a virtual ceremony in Washington, DC on Wednesday, March 10, 2021. During her confirmation ..."

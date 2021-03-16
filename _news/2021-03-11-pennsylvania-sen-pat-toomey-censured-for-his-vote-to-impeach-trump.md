@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-gop-censures-toomey-20210310-f5444sh4fzgfhbkxlwhml23bn4-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,12 +31,28 @@ images:
     isCached: true
 
 related:
+  - title: "In Pennsylvania, Biden to highlight aid to small businesses"
+    excerpt: "WASHINGTON — After opening his presidency by playing down expectations for combating the pandemic, President Joe Biden and his top messengers are touring the country to raise hopes over his $1.9 trillion relief package. Support our journalism."
+    publishedDateTime: 2021-03-16T16:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/2021/03/15/7d0ccd6e-85f9-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/2021/03/15/7d0ccd6e-85f9-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/2021/03/15/7d0ccd6e-85f9-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Virginia Republican candidates for governor show grip Trump has on party"
     excerpt: "The first 2021 statewide election has Republicans relitigating the 2020 election through the topic of \"election integrity.\""
-    publishedDateTime: 2021-03-16T04:47:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-virginia-republican-governors-race/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-virginia-republican-governors-race/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-virginia-republican-governors-race/"
+    publishedDateTime: 2021-03-16T11:47:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-virginia-governors-race-republicans/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
     type: article
     provider:
       name: CBS News

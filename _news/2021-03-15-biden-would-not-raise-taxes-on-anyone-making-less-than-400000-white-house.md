@@ -63,22 +63,6 @@ related:
         width: 820
         height: 545
         isCached: true
-  - title: "In early foreign policy tests, Biden takes on world as it is"
-    excerpt: "President Joe Biden in his early days in office has vowed a dramatic reordering of U.S. foreign policy from his predecessor"
-    publishedDateTime: 2021-03-15T17:26:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 125
-    images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_f9ce496c7d34449c9f422668858143f4_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "Biden taking hands-off approach to Justice Department barrier on Equal Rights Amendment, White House says"
     excerpt: "WASHINGTON – President Joe Biden is a big backer of renewed efforts to add the proposed Equal Rights Amendment to the Constitution, but it remains to be seen if his administration will remove a barrier put up by his predecessor. During the Trump ..."
     publishedDateTime: 2021-03-15T17:19:00Z

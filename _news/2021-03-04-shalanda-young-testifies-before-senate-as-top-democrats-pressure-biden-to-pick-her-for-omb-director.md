@@ -47,22 +47,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Harris, Biden announce nominations of two women to be 4-star combatant commanders"
-    excerpt: "President Joe Biden and Kamala Harris announced the nominations of Gen. Jacqueline D. Van Ovost of the Air Force and Lt. Gen. Laura J. Richardson of the Army to be four-star combatants. Once confirmed by the Senate the women will become the second and third in U."
-    publishedDateTime: 2021-03-10T02:18:00Z
-    webUrl: "https://www.nbcnews.com/now/video/harris-biden-announce-nominations-of-two-women-to-be-4-star-combatant-commanders-102620229958"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo102620229958"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo102620229958"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 145
-    images:
-      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/bidenharrisntl.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "haRoal2wlG535zyN7b3mYeXobbNnJeIrFruNg0j99ZfJ+EwbnIKLphA7GC7uefXf6JaSpwiQfPJjTQkBou+emmt1FJIl5OHR8MjqXbZCfk9hxCeApcDR6+OmfecexeQD0AO9ULzBRTcSaEHpjeJyDWCAOpHwbIrlCBf2Vm2mbzM8RPEPF8r7HCa55ElpzHfcDZinGqUlbIR43vS8P+eYaD/Kmgb+Ep/Ai4/Eh11eBtgFKWGt/glvGJn13yDp/r70WcqeeEZv8gsK7LP7oGUR2ix80HSrEGtQ2s0LDRvqZ7q6kdGzsSDovJCR2LrnyYfizGXT7lSOxTxM7vaIHhs0qRl0WlLwfUsIJYY/o4B+VE0=;lDq/jA5SgkecpiP8j39jTw=="
 ---

@@ -2,11 +2,11 @@
 category: news
 title: "Virginia Republican candidates for governor show grip Trump has on party"
 excerpt: "The first 2021 statewide election has Republicans relitigating the 2020 election through the topic of \"election integrity.\""
-publishedDateTime: 2021-03-16T04:47:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-virginia-republican-governors-race/"
-webUrl: "https://www.cbsnews.com/news/trump-virginia-republican-governors-race/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-virginia-republican-governors-race/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-virginia-republican-governors-race/"
+publishedDateTime: 2021-03-16T11:47:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-virginia-governors-race-republicans/"
+webUrl: "https://www.cbsnews.com/news/trump-virginia-governors-race-republicans/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
 type: article
 quality: 124
 heat: -1
@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "In Pennsylvania, Biden to highlight aid to small businesses"
+    excerpt: "WASHINGTON — After opening his presidency by playing down expectations for combating the pandemic, President Joe Biden and his top messengers are touring the country to raise hopes over his $1.9 trillion relief package. Support our journalism."
+    publishedDateTime: 2021-03-16T16:01:00Z
+    webUrl: "https://www.washingtonpost.com/politics/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/2021/03/15/7d0ccd6e-85f9-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/2021/03/15/7d0ccd6e-85f9-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/2021/03/15/7d0ccd6e-85f9-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden Opens Stimulus Road Show in Pennsylvania to Rebut GOP Attacks"
     excerpt: "President Joe Biden will visit voters in the key swing state of Pennsylvania on Tuesday as part of an effort to persuade Americans that the $1.9 trillion relief measure he signed will help struggling individuals and businesses."
     publishedDateTime: 2021-03-16T14:29:00Z
@@ -78,6 +94,6 @@ related:
         height: 600
         isCached: true
 
-secured: "65Q7Jgk9zX9eyRc4yaqrl0CltV1O9yHkzq93gD5Xl5AFdrru9ByrP99nLXCaRHQwE+1fnvOiYzOpwGrK2oqWmCGOolqr6ivabCmoPGuL3oyJqaAZLLJHwD74fXg2mj45vitD3jRmatetHh6RMgIIseBZgLW8kVQJwJGL9Em+BGMcbxU1R7mbxFRCNUK8f7duadyes0xK45CAKcz0DZ6im9ShdQJeh7iBA7dAlWx3vZD7qlfxz/+SUCe/quD8eCARLfNxox0Ixv9Lhc7GHd+fVBDq/vMYI4AC6NCJZl51/KPa5lqe4n2wBLkvClQi9dnU9fubXSlZO9es1D9e4sdOwLflOVSkWxZZEWynNBJ0VX8=;5Rpz906nzTcCYJ0qZZDS7g=="
+secured: "OlBfwcjhX7DOPmJa9gSqPKujg2wwv8QBaLunF6Xw0y94s6d1BJ2rHf8to3HVwpp9CvqJNK7jy7KKvr2sC8DoDgKEGXMEk8qBxwZnkiIlLOhIBXjOH1v5mRHK4PvKkiwSH/HfwLFZIwaVB8+d0OOZ0mYkdmuewNOPZBzKZ6iObKyZIJWA3vH/IRtwabNXf31jm/wn66XXTOgxtzEcJY/OiEA6DZyihyceu3o6Kiqw+JnXk6J5ZB8pnKE/tHEqP3Jvy5A0m53L6B1dAVJYGw+ruaARuoyOP8JYXrdH3ckoB8W72r647VYroFb3u1FRHP+fFq9lW97b5xXIFiNJuST+CUfCy8nnEW0RcJMWf47PAXg=;ajiUW6/DYy7YAdsWWzN2fA=="
 ---
 
