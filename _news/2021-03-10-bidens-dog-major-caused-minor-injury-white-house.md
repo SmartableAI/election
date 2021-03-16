@@ -77,6 +77,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden would not raise taxes on anyone making less than $400,000: White House"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden remains committed to his campaign pledge that no one earning less than $400,000 should see an increase in their taxes, White House Press Secretary Jen Psaki said on Monday. Psaki said the Biden administration ..."
+    publishedDateTime: 2021-03-15T16:36:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-taxes/biden-would-not-raise-taxes-on-anyone-making-less-than-400000-white-house-idUSKBN2B72CV?edition-redirect=uk"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B72CV"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B72CV"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554969374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E1FG"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden taking hands-off approach to Justice Department barrier on Equal Rights Amendment, White House says"
     excerpt: "WASHINGTON – President Joe Biden is a big backer of renewed efforts to add the proposed Equal Rights Amendment to the Constitution, but it remains to be seen if his administration will remove a barrier put up by his predecessor. During the Trump ..."
     publishedDateTime: 2021-03-15T17:19:00Z

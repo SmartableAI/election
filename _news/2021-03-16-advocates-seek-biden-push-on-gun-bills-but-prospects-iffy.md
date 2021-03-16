@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Senate delays debate on Biden's $1.9 trillion COVID-19 bill while it is read aloud"
-excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill is read aloud."
-publishedDateTime: 2021-03-04T21:00:00Z
-originalUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-6-senate-delays-debate-on-bidens-19-trillion-covid-19-bill-while-it-is-read-aloud-idUSL2N2L21QX"
-webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-6-senate-delays-debate-on-bidens-19-trillion-covid-19-bill-while-it-is-read-aloud-idUSL2N2L21QX"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
+title: "Advocates seek Biden push on gun bills, but prospects iffy"
+excerpt: "The House recently passed legislation that would require background checks for gun purchases, a signature Democratic issue for decades"
+publishedDateTime: 2021-03-16T04:12:00Z
+originalUrl: "https://www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html"
+webUrl: "https://www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html"
+ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
 type: article
-quality: 119
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: Washington Post
+  domain: washingtonpost.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
-    width: 817
-    height: 545
+  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+    width: 1484
+    height: 779
     isCached: true
 
 related:
@@ -126,22 +126,6 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_1f585f6d25c046ac96827091c1f322cd_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "Advocates seek Biden push on gun bills, but prospects iffy"
-    excerpt: "The House recently passed legislation that would require background checks for gun purchases, a signature Democratic issue for decades"
-    publishedDateTime: 2021-03-16T04:12:00Z
-    webUrl: "https://www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 125
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
         isCached: true
   - title: "Biden puts muscle into implementing relief package"
     excerpt: "President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster debate This ..."
@@ -316,6 +300,22 @@ related:
     quality: 120
     images:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554893091&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E04N"
+        width: 817
+        height: 545
+        isCached: true
+  - title: "Senate delays debate on Biden's $1.9 trillion COVID-19 bill while it is read aloud"
+    excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill is read aloud."
+    publishedDateTime: 2021-03-04T21:00:00Z
+    webUrl: "https://www.reuters.com/article/health-coronavirus-usa-congress/update-6-senate-delays-debate-on-bidens-19-trillion-covid-19-bill-while-it-is-read-aloud-idUSL2N2L21QX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2AW18U"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2AW18U"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 119
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776808&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH230NM"
         width: 817
         height: 545
         isCached: true
@@ -630,6 +630,6 @@ related:
         height: 675
         isCached: true
 
-secured: "9Eu0gHpqSStoY6ul2MthoW/mecR6+9QmQn+YNN5IzQEA9NVm5l+0E/TiaBuOtcYyo/fS5x1EiNcMdz8Yvhp65iu5TmYNboCa0Q6JwR+L7xL5rQmu3JccN6OWGd/xvq2x6OhKh1TPGfFVSDQ6MF+yBqDN0cVLvO35PmylBAcC5KJz6TJjdXW/g9G0Pi2xytJdZPlOqMuN0jc3kXtNcM553DovK4XZmFWcthFow13GMZyUnXcWs1YBt1aF8pnqjscVDJofdNWzTqU/mx4fliHN+m7TN4Zvuhq4jT8xz1hl+tsPvX4gc1wwbAaFyt2S/29XN1LqeDHsCaPCZWHp1+7/OiDXyF3thJDJMgts846hJHHwiCOBksbIySkqQNcvC4oInFXjO7MqiaUUXAc/JUQ6cgIW0KajFtX3+xObEO12DFx1BgztWWKygnR/30AFMDPcTMFEUKjMfw8EfM4SZzrMCHcdgTZbZjRInqoWiIHwxq1y4tJogAnQn/Qg0thxDi85K0Xtojc3eRzPmHxsJETiAA==;ACA5G9TCbxmyPwXjwFBJ5Q=="
+secured: "RPjb/zVlKUs2VSjkDv0IcUUUGEhI46RdjUwTfCzKAe+FUBbtn3sgf3WXbkF5/vz2ISbt+tQOiu4IFOms6LVxoM4e5TLgbcdDCtITgjT0iuk2zSrsckB/Ob6r6lWT5ZLclbme8Ba6+73FXueyigeJN2v39CDHBuVruATTdx5hrq9wNc+96I2YHBR8ZF+pwdmQnMRL6CIYXwL+NGtMclUGrsjHEBW8chGrihknjhu1k6CxXbxV799NgARcUgnE3W8+cJV0DCNGCp0JR8rBC7huseai3NjHwVuawgp4ufcyKZyi6L2me2YItRdm6/uRpTA2SgH8xdsoJLE+Qal9SbhfiOTStgM02aYklR8wrC0i+4c=;SQcNc66rQQpf/sAzDAmo3Q=="
 ---
 

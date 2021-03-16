@@ -123,6 +123,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Advocates seek Biden push on gun bills, but prospects iffy"
+    excerpt: "The House recently passed legislation that would require background checks for gun purchases, a signature Democratic issue for decades"
+    publishedDateTime: 2021-03-16T04:12:00Z
+    webUrl: "https://www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/courts_law/advocates-seek-biden-push-on-gun-bills-but-prospects-iffy/2021/03/16/ce12579c-860d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden puts muscle into implementing relief package"
     excerpt: "President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster debate This ..."
     publishedDateTime: 2021-03-15T22:47:00Z

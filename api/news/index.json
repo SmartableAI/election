@@ -595,6 +595,58 @@
       ]
     },
     {
+      "path": "_news/2021-03-16-president-joe-biden-finds-allegations-about-gov-andrew-cuomo-hard-to-read-white-house-says.md",
+      "title": "President Joe Biden finds allegations about Gov. Andrew Cuomo 'hard to read,' White House says",
+      "excerpt": "Growing reports of misbehavior by New York Gov. Andrew Cuomo concern President Joe Biden. He is making sure vaccine distribution is not affected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/president-joe-biden-finds-allegations-against-andrew-cuomo-troubling/4705303001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/president-joe-biden-finds-allegations-against-andrew-cuomo-troubling/4705303001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/01/USAT/71247f0c-deaf-4c48-88f6-e1c6dc48268c-VPC_ANDREW_CUOMO_SEXUAL_HARASSMENT_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4705303001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4705303001",
+      "publishedDateTime": "2021-03-15T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-biden-shots-in-arms-and-money-in-pockets.md",
       "title": "Biden: ‘Shots in Arms and Money in Pockets’",
       "excerpt": "new video loaded: Biden: ‘Shots in Arms and Money in Pockets’ President Biden declared on Monday that within 10 days the U.S. would achieve his goal of administering 100 million vaccination shots and delivering 100 million stimulus checks to Americans.",
@@ -926,58 +978,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-biden-addresses-allegations-against-new-york-governor-andrew-cuomo-for-the-first-time.md",
-      "title": "Biden addresses allegations against New York Governor Andrew Cuomo for the first time",
-      "excerpt": "Asked whether he thinks New York Governor Andrew Cuomo should resign over allegations of sexual harassment, President Joe Biden said he will wait and see what the investigation turns up. Josefa Velasquez,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/biden-addresses-allegations-against-new-york-governor-andrew-cuomo/",
-      "originalUrl": "https://www.cbsnews.com/video/biden-addresses-allegations-against-new-york-governor-andrew-cuomo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/15/8ae72aaa-a7fa-49a2-b50c-8a2679d337e7/thumbnail/1200x630/d8e212994733673996daf8014ea9a9ee/0325-cbsnam-bidensremarksoncuomo-668533-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-15T07:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     },
     {

@@ -7,8 +7,8 @@ originalUrl: "https://www.cbsnews.com/video/biden-addresses-allegations-against-
 webUrl: "https://www.cbsnews.com/video/biden-addresses-allegations-against-new-york-governor-andrew-cuomo/"
 type: article
 quality: 98
-heat: 98
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -28,6 +28,24 @@ images:
     height: 630
     isCached: true
 
-secured: "8ILldECy+QtKPGllU1ZsUvDMnkYUvPWqhC3DFF26sMk24/V+1aVa7XAjzxDIoPYAAkQB6Iinpq2wgFokUmi5BF4W7V5KkzWpbjK6q7GNc5Y/abY+36Sfbv0xQAOLolFWfTMhDc+oaTUPH5KW1HSKWQnfbm0FQiw8tL3N212azwub9qzGLOUyQFHo5RVYu8dnHLvSBzD6RdK39Y9pLFmi1bU/l0gM/fbLVuf5u1EOrnBQkMsIlL4fWgCzEX5BptIgLID9MMhHHA+QGXWZf+3xvgN+9EyRf1lgnxg1/9AF+SK7KdBvQT40NkC/Jjqjp2JeYHPDRDNyyq98vGgx4uq60Lqhz0iJjb3D3C5hF9vshk0=;UNuQfI1fgFxPwUhJz1upxg=="
+related:
+  - title: "President Joe Biden finds allegations about Gov. Andrew Cuomo 'hard to read,' White House says"
+    excerpt: "Growing reports of misbehavior by New York Gov. Andrew Cuomo concern President Joe Biden. He is making sure vaccine distribution is not affected."
+    publishedDateTime: 2021-03-15T19:30:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/15/president-joe-biden-finds-allegations-against-andrew-cuomo-troubling/4705303001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4705303001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4705303001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 113
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/01/USAT/71247f0c-deaf-4c48-88f6-e1c6dc48268c-VPC_ANDREW_CUOMO_SEXUAL_HARASSMENT_DESK_THUMB.jpg?auto=webp&crop=1911,1075,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
+
+secured: "QhsoRNXpZTiFgOD0ZcPkXFnAcCBbdyV44FrbLxHFTc8L9pAQLKeLuFaEf9JNtxL2lYHnwaOKJfSjDcIz/XhIClWQzpVo9gFmUazl7mvKdoYBRz1m9rmT7x8VoNl5uo5esSB/DdJplAoJ/LG+mEGR4u72mdotXEwFsjC2U1riufe94qDL7K79GKva/nKEwmYmsMS6UZexfRWWqOxl003gX/sFgWMDrD1Csso92EQVElejGzVDNvD3s3NYqKCkzQWzGPsg1oaWa5BI+9q9MBOf4U2LXLPH/lAQYSiaw9BZC9YrlfAcVb+6w5pBTipsRZJC/Huaau2HNE6qIIYApx5JXvgfzZbcZ3GtKngMHfm6dood9HzDBNIXsiqK1JjTIoMNGfVB/ao+n2p1xHxkT1XSQVHWHLsfKzF13Gg51wXJ88VCY25MrTCgY83GJMSdL6nYFfVGy6+phGYO9Li3PGqjIH88fSNcXEMBeMiNTqVRMKi6ypG66xxYH5Kq9M8GJm6l6cM8A/M/73PYRKskAVJkfA==;GFwLBNyC4aq7qXcCzqL4nQ=="
 ---
 

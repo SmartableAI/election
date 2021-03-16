@@ -1,16 +1,16 @@
 ---
 category: news
-title: "Biden is deeply concerned, highly engaged on Ethiopia: White House"
-excerpt: "U.S. President Joe Biden is deeply concerned and highly engaged on the humanitarian situation in Ethiopia, White House press secretary Jen Psaki told reporters on Thursday."
-publishedDateTime: 2021-03-12T01:08:00Z
-originalUrl: "https://www.reuters.com/article/us-usa-biden-ethiopia-idUSKBN2B32VX"
-webUrl: "https://www.reuters.com/article/us-usa-biden-ethiopia-idUSKBN2B32VX"
-ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B32VX"
-cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B32VX"
+title: "Biden would not raise taxes on anyone making less than $400,000: White House"
+excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden remains committed to his campaign pledge that no one earning less than $400,000 should see an increase in their taxes, White House Press Secretary Jen Psaki said on Monday. Psaki said the Biden administration ..."
+publishedDateTime: 2021-03-15T16:36:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-biden-taxes/biden-would-not-raise-taxes-on-anyone-making-less-than-400000-white-house-idUSKBN2B72CV?edition-redirect=uk"
+webUrl: "https://www.reuters.com/article/us-usa-biden-taxes/biden-would-not-raise-taxes-on-anyone-making-less-than-400000-white-house-idUSKBN2B72CV?edition-redirect=uk"
+ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B72CV"
+cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B72CV"
 type: article
-quality: 125
-heat: 245
-published: true
+quality: 122
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -25,12 +25,28 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554584892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A1PP"
+  - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554969374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E1FG"
     width: 817
     height: 545
     isCached: true
 
 related:
+  - title: "Biden is deeply concerned, highly engaged on Ethiopia: White House"
+    excerpt: "U.S. President Joe Biden is deeply concerned and highly engaged on the humanitarian situation in Ethiopia, White House press secretary Jen Psaki told reporters on Thursday."
+    publishedDateTime: 2021-03-12T01:08:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-ethiopia-idUSKBN2B32VX"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B32VX"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B32VX"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210311&t=2&i=1554584892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2A1PP"
+        width: 817
+        height: 545
+        isCached: true
   - title: "Biden wants to see outcome of investigation into Cuomo"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden told reporters at the White House he wanted to see the outcome of the investigation into New York Governor Andrew Cuomo, who is facing pressure to resign over sexual harassment allegations. Asked if Cuomo ..."
     publishedDateTime: 2021-03-14T22:24:00Z
@@ -62,22 +78,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Biden would not raise taxes on anyone making less than $400,000: White House"
-    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden remains committed to his campaign pledge that no one earning less than $400,000 should see an increase in their taxes, White House Press Secretary Jen Psaki said on Monday. Psaki said the Biden administration ..."
-    publishedDateTime: 2021-03-15T16:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-taxes/biden-would-not-raise-taxes-on-anyone-making-less-than-400000-white-house-idUSKBN2B72CV?edition-redirect=uk"
-    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B72CV"
-    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B72CV"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 122
-    images:
-      - url: "https://s2.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554969374&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E1FG"
-        width: 817
-        height: 545
         isCached: true
   - title: "Biden taking hands-off approach to Justice Department barrier on Equal Rights Amendment, White House says"
     excerpt: "WASHINGTON – President Joe Biden is a big backer of renewed efforts to add the proposed Equal Rights Amendment to the Constitution, but it remains to be seen if his administration will remove a barrier put up by his predecessor. During the Trump ..."
@@ -124,6 +124,6 @@ related:
         height: 630
         isCached: true
 
-secured: "jvCwHi+mxAF1vxQzO3DqPSI3d+JITfPSYmMA1iZ9KjsUHCKbiG/tq2GY7Nl07U1YNHx8fys0BYycxUyaLPM8aZv7R7QEujVDpOs1nM2cv34USDnjtnVmMBRabf7x4JuTWgdR13I1Ds66O1VZIrKxQDz/Q2T+6fFX8yRkW2umJrs4M2DKz6u6li0YZY45FKCrf7bOKupn2Mv9y0p+GW6tdyOtPUjPkRYs65NedMiuM5JENi+5ECZZotTETZgGR89JJYOEYIWkCijfpSfhZL/zlgbJ84N7reXicpyRmo/i9hkJYoHOYzeLmYk74yPxwUVGtpe+77ICURHkwdQWWJS9vGcKXWrrWCQbRDTmajTA3tY=;2eFgW4wYvX8OzPcjCESc2Q=="
+secured: "8it6CiW7kP+rteDu0ou0yuKXzm6xyqVYN1zCPrQmeEXUnjXoMec91r2vCvJPWXh/g9BctAohHgeDMQqdPREw5ZjVAjMnLVrFhgrmTuPurEaiI1KYPfK1r349+aFRhm2lk4xAtVnxrdHvOKFqpGps+5F2CiPJppnSDBPdePV+64y04ojusE35oB7GIu00b1wFvgZohbjdbYDaXAyIvOn3JhwcmpRLXJ9E0jFquDLwMsd7mBB/yNBmrPBo8Zg9Wvsf0O80NyYCvSSNMr9sGWH6aTvQVCOZbvOesMt899UZtHq7+90e5YpOre3oVfLVNz5KfO/+MNB+IaePUCM7iYO4Iyl0yXQ14MsrlV7/VxGRJ40=;oSyQfodrBgSvFnypc3/ocA=="
 ---
 
