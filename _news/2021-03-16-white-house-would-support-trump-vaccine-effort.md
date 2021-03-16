@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Trump should urge his followers to get vaccinated, Fauci says"
-excerpt: "Dr. Anthony Fauci says he wishes former President Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
-publishedDateTime: 2021-03-14T09:59:00Z
-originalUrl: "https://www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated"
-webUrl: "https://www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated"
-ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated?_amp=true"
-cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated?_amp=true"
+title: "White House would 'support' Trump vaccine effort"
+excerpt: "Top News White House would 'support' Trump vaccine effort. Posted . White House Press Secretary Jen Psaki told reporters on Monday that the Biden administration would welcome an e"
+publishedDateTime: 2021-03-16T00:03:00Z
+originalUrl: "https://www.reuters.com/video/watch/idOVE478I5B"
+webUrl: "https://www.reuters.com/video/watch/idOVE478I5B"
 type: article
-quality: 125
+quality: 105
 heat: -1
 published: false
 
 provider:
-  name: Los Angeles Times
-  domain: latimes.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/latimes.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +23,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://ca-times.brightspotcdn.com/dims4/default/d494534/2147483647/strip/true/crop/4800x3135+0+78/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F70%2F0c%2F6f8f529e4ea0a1798b8a2a22b80b%2Fla-photos-1staff-598594-la-policevictimsrally-001-ls.jpg"
-    width: 320
-    height: 209
+  - url: "https://static.reuters.com/resources/r/?d=20210315&i=OVE478I5B&r=OVE478I5B&t=2"
+    width: 960
+    height: 540
     isCached: true
 
 related:
@@ -78,6 +76,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_826ac61e54da4defa9b2b4d1443a216a_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Trump should urge his followers to get vaccinated, Fauci says"
+    excerpt: "Dr. Anthony Fauci says he wishes former President Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
+    publishedDateTime: 2021-03-14T09:59:00Z
+    webUrl: "https://www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated"
+    ampWebUrl: "https://www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/world-nation/story/2021-03-14/fauci-trump-should-urge-his-followers-to-get-vaccinated?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 125
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/d494534/2147483647/strip/true/crop/4800x3135+0+78/resize/320x209!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F70%2F0c%2F6f8f529e4ea0a1798b8a2a22b80b%2Fla-photos-1staff-598594-la-policevictimsrally-001-ls.jpg"
+        width: 320
+        height: 209
         isCached: true
   - title: "Trump Voters Hesitant About COVID Vaccine Won't Be Swayed by Former President"
     excerpt: "When trying to convince former President Donald Trump's supporters to get vaccinated against COVID-19, officials should look to hammering home facts about those who have been vaccinated and not rely on the former president's persuasion, a recent focus ..."
@@ -202,20 +216,6 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
-  - title: "White House would 'support' Trump vaccine effort"
-    excerpt: "Top News White House would 'support' Trump vaccine effort. Posted . White House Press Secretary Jen Psaki told reporters on Monday that the Biden administration would welcome an e"
-    publishedDateTime: 2021-03-16T00:03:00Z
-    webUrl: "https://www.reuters.com/video/watch/idOVE478I5B"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 105
-    images:
-      - url: "https://static.reuters.com/resources/r/?d=20210315&i=OVE478I5B&r=OVE478I5B&t=2"
-        width: 960
-        height: 540
-        isCached: true
   - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
     excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
     publishedDateTime: 2021-03-14T19:08:00Z
@@ -279,6 +279,6 @@ related:
         height: 675
         isCached: true
 
-secured: "TLJ0WKhqAaadyb0eARtz0Y1jRA7On0NW67wEuYz6ynBgiNqQ6FnYVPMZYozq1aUS+36xRCAiUEhMdnQDxPSsFzMGTGkve/HDdHO8LdvUi1VP1CX36kRu8u19ho4FX5a5SzPYPyQyZHKB8Mc2Z5xNCx9Ubw26WVqXe3loKt34FaevvlYWTLM7OH0peCDyilkBGbkLgfdCsK5N1pSL0hURLH9pQfsRBn/74WFarOt5Mzp/D3jQzL9TpEZjAG9/mFTN/XofwG1JKjU8hQCS29v59RKOx20gAQgoi0NA4NTdQkYDRCKd37XdNpnX7vt0BoeNisxhzU2c7q57VeHrijPumTohwXqjaTB9a+Bassjcf9V7OuyVn4PsdVENUy+7pzAvoASBNz2QmwoExZtbnoAloQH7XpsN6cqbYGPGN9sAiMViFOAl7FVA6oYy0dSQDFAmvyFcBz6c2It7lQrzWW3seMrzYp3oxHxuRLmPWh6ls558a9miykh2t0hVVlYr/lZ4YHbuqJO85BnxDQd7BSlMYQ==;P76Y7d4YDUY0ZEQ7KiK+IQ=="
+secured: "mBf52yCW92UdrcWO60EYYf5v3w5WVMPw2m++UMX/BdkCQN2TEwmbqK7LvhWA2d/IKgGhGz9Kv67vZD9MCRITJybgcMCXOK+y0QRvGhJiUbr/3OW9K3uIM7rRRiYicaDwpMEoDqpCWZMGBx1dZ8YaTh0/i/uLwGvEOgCSsXhjVXDubJQessSmFcsmUv8a3gnjEnZCXd5921HVeG+ioYhAbogd8k1iKjoVBicMRIe2qb2pWmI54x1Q7jX+eTTHbSWjVh+yJAU1STcC8w2wFJqOS+Fw+DBhacjCWMYXBJzEPBxBYeaAIIu/RH136OZYsXGSIglIGHDTLfjZAUHbL7fvoDD4D0mrdNeI9FgMgDwGIz8=;BkMKUKSCvT6SRIQBmS1J/w=="
 ---
 

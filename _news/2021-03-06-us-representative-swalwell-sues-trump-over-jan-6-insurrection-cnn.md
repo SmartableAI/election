@@ -153,6 +153,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump pressed Georgia investigator to look at Fulton County"
+    excerpt: "While election officials in Georgia were verifying signatures on absentee ballot envelopes in one metro-Atlanta county, President Donald Trump pressed a lead investigator to look at a different county"
+    publishedDateTime: 2021-03-15T23:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_447afb8a1e93499b90e2ad3b70c53073_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "White House would welcome Trump urging supporters to get vaccinated"
     excerpt: "The Biden administration would welcome former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes ..."
     publishedDateTime: 2021-03-15T17:53:00Z

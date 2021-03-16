@@ -216,6 +216,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "White House would 'support' Trump vaccine effort"
+    excerpt: "Top News White House would 'support' Trump vaccine effort. Posted . White House Press Secretary Jen Psaki told reporters on Monday that the Biden administration would welcome an e"
+    publishedDateTime: 2021-03-16T00:03:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE478I5B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210315&i=OVE478I5B&r=OVE478I5B&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Fauci: Trump should urge his followers to get vaccinated"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade more of his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows,"
     publishedDateTime: 2021-03-15T05:07:00Z

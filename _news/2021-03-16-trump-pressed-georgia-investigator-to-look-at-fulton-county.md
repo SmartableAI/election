@@ -1,22 +1,22 @@
 ---
 category: news
-title: "White House would welcome Trump urging supporters to get vaccinated"
-excerpt: "The Biden administration would welcome former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes ..."
-publishedDateTime: 2021-03-15T17:53:00Z
-originalUrl: "https://thehill.com/homenews/administration/543252-white-house-would-welcome-trump-urging-supporters-to-get-vaccinated"
-webUrl: "https://thehill.com/homenews/administration/543252-white-house-would-welcome-trump-urging-supporters-to-get-vaccinated"
-ampWebUrl: "https://thehill.com/homenews/administration/543252-white-house-would-welcome-trump-urging-supporters-to-get-vaccinated?amp"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543252-white-house-would-welcome-trump-urging-supporters-to-get-vaccinated?amp"
+title: "Trump pressed Georgia investigator to look at Fulton County"
+excerpt: "While election officials in Georgia were verifying signatures on absentee ballot envelopes in one metro-Atlanta county, President Donald Trump pressed a lead investigator to look at a different county"
+publishedDateTime: 2021-03-15T23:31:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
+webUrl: "https://abcnews.go.com/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://thehill.com/sites/default/files/trumpdonald_8_1.jpg"
-    width: 980
-    height: 551
+  - url: "https://s.abcnews.com/images/Politics/WireAP_447afb8a1e93499b90e2ad3b70c53073_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -159,21 +159,21 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Trump pressed Georgia investigator to look at Fulton County"
-    excerpt: "While election officials in Georgia were verifying signatures on absentee ballot envelopes in one metro-Atlanta county, President Donald Trump pressed a lead investigator to look at a different county"
-    publishedDateTime: 2021-03-15T23:31:00Z
-    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
+  - title: "White House would welcome Trump urging supporters to get vaccinated"
+    excerpt: "The Biden administration would welcome former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes ..."
+    publishedDateTime: 2021-03-15T17:53:00Z
+    webUrl: "https://thehill.com/homenews/administration/543252-white-house-would-welcome-trump-urging-supporters-to-get-vaccinated"
+    ampWebUrl: "https://thehill.com/homenews/administration/543252-white-house-would-welcome-trump-urging-supporters-to-get-vaccinated?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543252-white-house-would-welcome-trump-urging-supporters-to-get-vaccinated?amp"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: The Hill
+      domain: thehill.com
     quality: 125
     images:
-      - url: "https://s.abcnews.com/images/Politics/WireAP_447afb8a1e93499b90e2ad3b70c53073_16x9_992.jpg"
-        width: 992
-        height: 558
+      - url: "https://thehill.com/sites/default/files/trumpdonald_8_1.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
@@ -377,6 +377,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "dJ7gQ0ohf1f0GL5as7gdpTLJ3gV5/oTOKrG028mrIUSMQukNUA6iGy9VVSJljFi1I0GGnJRHJrtSken0YLwUc+6y/5x5IQtgSvPgyDZMa/xy0HAYBTxLtQfEDzlYutg7lNd6FBYadJ/VZ4cMWuSC1QYuNxp5FiLr0lJhJwFLz6p2ij/3FiiHLJywDwWDfUPBLcL2/6S0u/lgQmvcIO6w/aFrQ9AqPVBnr38a9oEfzLEOxtIl1B1knROPEStmyE6SPuv9jknWW1pyLwnQDZpJot9UxIsUPobR5/PDFiw0XPtAHrZIKnCUrzTFkYn9bV1E7mKQYfpVVHxv3o4VrqD9DWnPz/N3UhS2efN2fX+Yck5MVSoP/kPdbKhHRVUSd+SxSiaC6xekPTFbqtg7NDHTU/pZnG9txKfTH7ufxLYaF/T6jQCwghd84nlWEjv76gsC0ycEyh4lpdcqgn8d4NISL7S50zVhJMUqB5ltug/0XfPxi+5Qbcz3MSaEc0cE35wwPYqGOoKyOChViblIoTHIyQ==;Ncal/dkDFAA5XGTT0cR1ZA=="
+secured: "tPBtUHXlF+JZcijwrWIt/ReqY6sZOiw0bsVGKjaVC1CuQ0weZrVf8mjk6TB/NslesINB6bD9NjqMp7hGaOp33pxXAKfwUbNdegOOWgZzJi55q2PoqNuD/s8E8xrvRQvgNmFxqk/iw2BJvn/5b8inj4uwqx1U0MmHB2h4H1n/AyVtcq30ngJX1WtV494UVr5IyMLngUPXGS9tD9Eh05wWhGAi7K5lWnxb3dh0BSErzncTAoz/CRxHJBblp/Zahj4bP2oHU6FgrZEl7KEGjcxHgijFFduj6iwt9sgjjGRm+wE5M/3UNszNPC7hMpCzRzk4ap6XESzrMuJr9od97IqtyySEOJg2ER89Kt4zGBpvu6Y=;nXdLREk0sdwcSY8PCB3vkw=="
 ---
 

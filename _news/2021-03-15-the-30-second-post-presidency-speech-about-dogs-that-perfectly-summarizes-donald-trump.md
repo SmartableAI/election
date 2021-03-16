@@ -9,7 +9,7 @@ ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-pr
 cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp"
 type: article
 quality: 117
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "CDC identifies public-health guidance from the Trump administration that downplayed pandemic severity"
+    excerpt: "The analysis was done to promote public trust and ensure that CDC’s coronavirus guidance \"is evidence-based and free of politics,\" a memo says."
+    publishedDateTime: 2021-03-15T20:44:00Z
+    webUrl: "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/"
+    ampWebUrl: "https://www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/2021/03/15/cdc-removes-some-trump-era-guidance/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 110
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/UH7PHDC3EMI6XKCJN6KCHJ277U.jpg&w=1440"
+        width: 1440
+        height: 960
+        isCached: true
   - title: "Jared Kushner to write a behind-the-scenes look at the significant events of the Trump presidency in new book"
     excerpt: "The arrangement, brokered with Kushner's help, was the first official peace deal between the UAE and Israel in a decade and has become a key accomplishment touted by Trump. Kushner is \"not looking to settle scores but rather to provide historical context ..."
     publishedDateTime: 2021-03-14T14:04:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B60DA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B60DA"
 type: article
 quality: 125
-heat: 425
+heat: 445
 published: true
 
 provider:
@@ -202,6 +202,20 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 105
+  - title: "White House would 'support' Trump vaccine effort"
+    excerpt: "Top News White House would 'support' Trump vaccine effort. Posted . White House Press Secretary Jen Psaki told reporters on Monday that the Biden administration would welcome an e"
+    publishedDateTime: 2021-03-16T00:03:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE478I5B"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210315&i=OVE478I5B&r=OVE478I5B&t=2"
+        width: 960
+        height: 540
+        isCached: true
   - title: "Morning mail: women March4Justice, Covid-free streak ends, silent echo of Trump hotel"
     excerpt: "Tens of thousands of women will hold demonstrations across the country. Plus: Queensland and NSW investigate Covid cases"
     publishedDateTime: 2021-03-14T19:08:00Z

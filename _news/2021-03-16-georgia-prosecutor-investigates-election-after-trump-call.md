@@ -143,6 +143,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Trump pressed Georgia investigator to look at Fulton County"
+    excerpt: "While election officials in Georgia were verifying signatures on absentee ballot envelopes in one metro-Atlanta county, President Donald Trump pressed a lead investigator to look at a different county"
+    publishedDateTime: 2021-03-15T23:31:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/trump-pressed-georgia-investigator-fulton-county-76477203"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_447afb8a1e93499b90e2ad3b70c53073_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "White House would welcome Trump urging supporters to get vaccinated"
     excerpt: "The Biden administration would welcome former President Trump Donald Trump The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes ..."
     publishedDateTime: 2021-03-15T17:53:00Z
@@ -361,6 +377,6 @@ related:
       domain: usnews.com
     quality: 35
 
-secured: "j2R2qeN3DpBS98ehC9s4aLxXGjGLZgwNn6TfD2knLBjtAGk+hvGnDuuJ6KrPlRX/IvH95D7Mn0aOB585UvDXrsIVMwa5fats94bQqyE69uRuEW8KUPtmERtHflmPUv7XDwSWhao5bXLzP+lyle0WIldxd7WYEisfnoUReljTRw4Z1lk3EEDDMIyTU7vhd0lGfAi7zllX8xAhBJXgo8YJoCugjeqn7u0EkFYqm13ujaa0t9Ya2BGgxF623Bcp5RXF17hJcfxyy8xbV8mjrAv2S9aMj14p47Vc+Wakj9L9UeOiJMcZV1/RCW2rlVroHNr5PmT+GRdMjzvAM6bLcS8EzX1SoV6bhQ6Za2T7ezMW3ek=;yZ7hKD62tyLwJItUJVfVXQ=="
+secured: "N1UnwtJ2F70aBgBMc0eJutl1Uaqa5oKhRuaAFhGjErTwZoJosLOk+lunDYqUS4xlK9zCvaMUayczQwzk3II6qalq4BZePo6myX6wMsfKHF79vXp8I50U4TllMpXhVBSQ/+eHzGPBtVzllzimR7oked1lrgDyDPBCkmsvpDYLfjCWm+xN+9f9EA92qBVnVPqHzQcRG30E9I/P2/STe3p4qEUlDNhWPnibjC2boZ+vDUhBuKaPNAjfHC7lsY/vvC3m8z7+OT4HKBQrlrN7Lk8eRFRG593zb7S6gQ5JQKt19wnjH1pTTKXJ6/M2CamBCzy3x9T0RLcsIh25qMQ9SWF1l5jsmVw6r3iUn6KGuLBtclUwU2VLR/F4LhIICt0r+JWqIV1pe9SW5ojFge20TrRnwDzSMU0hoeGXc4bZzuFfk0gQ5ImkA3ejrXX1zTnaVJP9awv8Ar4MAE5qvzTLmN4QzMDSC3wRej75zLcgsMpWgqsY5KonHaS+TefZIMqirq8EI15fHrSfNzwx1fF1Q6gFOg==;zEfVqE6dYs7/xrvYReWX/g=="
 ---
 

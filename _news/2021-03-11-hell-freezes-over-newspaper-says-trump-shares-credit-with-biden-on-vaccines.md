@@ -414,6 +414,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Farmers blame Biden for 'promoting division' with billions in COVID-19 relief for non-Whites"
+    excerpt: "The $1.9 trillion coronavirus relief package enacted last week by President Biden includes billions of dollars in debt relief and other assistance for farmers of color. However, the incorporation of race-based criteria is leaving other farmers scratching their heads."
+    publishedDateTime: 2021-03-16T02:55:55Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xIh_BgV_PsI/farmers-covid-relief-non-whites-division-biden"
+    ampWebUrl: "https://www.foxnews.com/politics/farmers-covid-relief-non-whites-division-biden.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/farmers-covid-relief-non-whites-division-biden.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f92fb62-f50a-4ec3-b476-74c9239f5669/4402202b-284c-4f54-9cd8-63b3723ab7d7/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Mark Levin rips Biden over 'disgusting, propagandistic' address to nation on coronavirus pandemic"
     excerpt: "President Biden's remarks on the progress in the fight against the coronavirus pandemic were \"the most disgusting, propagandistic speech\" any politician has ever given, Mark Levin told \"Hannity\" Thursday."
     publishedDateTime: 2021-03-12T04:58:14Z
@@ -555,6 +571,22 @@ related:
     quality: 137
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4a2188c1-0aaf-4609-b058-c291349e97ae/0ad8b79a-d025-4da9-bfa4-d9bf54f3431d/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden says 'local preachers' better than Trump for convincing ‘MAGA folks’ to take COVID-19 vaccine"
+    excerpt: "President Biden argued Monday that “local preachers” and other community leaders will be more influential than former President Donald Trump in efforts to convince skeptics to take COVID-19 vaccines amid a nationwide inoculation drive."
+    publishedDateTime: 2021-03-15T21:03:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 136
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1b366d5-f41f-4dec-9b1a-0d4970a202d6/fca490bf-59fa-419e-9b59-f38d68e2db46/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

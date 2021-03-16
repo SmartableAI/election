@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
-excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."
-publishedDateTime: 2021-03-08T17:22:13Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0k5ZmzU8ZEI/biden-first-primetime-address-anniversary-covid-shutdowns"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0k5ZmzU8ZEI/biden-first-primetime-address-anniversary-covid-shutdowns"
-ampWebUrl: "https://www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
+title: "Biden says 'local preachers' better than Trump for convincing ‘MAGA folks’ to take COVID-19 vaccine"
+excerpt: "President Biden argued Monday that “local preachers” and other community leaders will be more influential than former President Donald Trump in efforts to convince skeptics to take COVID-19 vaccines amid a nationwide inoculation drive."
+publishedDateTime: 2021-03-15T21:03:00Z
+originalUrl: "https://www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics"
+webUrl: "https://www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics"
+ampWebUrl: "https://www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics.amp"
 type: article
-quality: 160
+quality: 136
 heat: -1
 published: false
 
@@ -22,12 +22,13 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1b366d5-f41f-4dec-9b1a-0d4970a202d6/fca490bf-59fa-419e-9b59-f38d68e2db46/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -447,6 +448,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
+    excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."
+    publishedDateTime: 2021-03-08T17:22:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0k5ZmzU8ZEI/biden-first-primetime-address-anniversary-covid-shutdowns"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Texas GOP rep tells 'FOX News Primetime' Biden 'complicit' in human trafficking across US-Mexico border"
     excerpt: "The Biden administration is \"aiding and abetting in the crime of human trafficking\" by allowing migrant children to be released into the U.S., Rep. Troy Nehls, R-Texas, told \"Fox News Primetime\" Monday."
     publishedDateTime: 2021-03-16T00:36:07Z
@@ -559,22 +576,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden says 'local preachers' better than Trump for convincing ‘MAGA folks’ to take COVID-19 vaccine"
-    excerpt: "President Biden argued Monday that “local preachers” and other community leaders will be more influential than former President Donald Trump in efforts to convince skeptics to take COVID-19 vaccines amid a nationwide inoculation drive."
-    publishedDateTime: 2021-03-15T21:03:00Z
-    webUrl: "https://www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-local-preachers-more-influential-trump-convincing-covid-19-vaccine-skeptics.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 136
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c1b366d5-f41f-4dec-9b1a-0d4970a202d6/fca490bf-59fa-419e-9b59-f38d68e2db46/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Fauci: Trump endorsing COVID-19 vaccine would be ‘game-changer’"
     excerpt: "Dr. Anthony Fauci said Sunday that it would be a “game-changer” for President Trump to encourage his supporters to get the jab — after a poll found many GOP voters indicated that"
     publishedDateTime: 2021-03-14T19:22:00Z
@@ -663,6 +664,6 @@ related:
       domain: realclearpolitics.com
     quality: 60
 
-secured: "PBd5J7aq1UchaGbGumaulbUtI+qCxqhfD5hH7rLq1unm9NPEenf2FofbACEyBYUaQsrr0OypaWUBWTcAsfgs69praONi6al4cUb7ZksWacRjY6CbmLbSyVMaSuhIhsPSmgBghtuas3CUxTj10gPCIyerHjCEPXpwJL2pmcsmxB6LuRn9WTc3OJyJEFfdo/loBkHwsrVFIAcgg66DlLYh3afD93sWDygPsJhUtRwGoJySmGQ8Q5P0bvR9+5wIzru50/4EsMYpLmCV0jQMKFMgV90y3uPxjpXXJwN8T7+eA8AStj6fGCOawAusRf3OSs46xyEGDdehQevzrcjdYRT5koWi8S7u+ytAzlvANoUgsVE=;mATw03dnuBia+yUYds5K1Q=="
+secured: "HkNxNHSTvtGMnJAPhdk4fME1T1cLTwuehLSGnofZ2JtwnNMh0FLTJALyfBP/KgPahsYwrcs3d58QonVM8qHHGQIgL3Czr5s4i3O9mupelNWLdbxmUBK1lunkFjoW9DnOJGRnz4CkAlDM7loJTIGBdo5PAPico9TQ+oc3meH4G21hWPT2gygAJ+YVz5L8Y9jOv+BNcEv3YhhUZpwXaJt1LSCbIqYCccJoYTfBbkSVyJjNsrZqDmgbK2AXu+kzxl8Z7qAMxUwDB3necTSFufaecibZCpgom8Cr3+nkW67DRxZD6JOXtkSSFdwkNYgLKGOienQfsfDuRHXxywDW/1d4oGwdoFqfAi2P0Dc6bYVYFZM=;o4Li9OK0nmymAF7FNQm/Dg=="
 ---
 

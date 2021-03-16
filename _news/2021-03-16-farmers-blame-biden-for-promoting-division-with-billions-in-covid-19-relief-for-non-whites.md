@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
-excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."
-publishedDateTime: 2021-03-08T17:22:13Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0k5ZmzU8ZEI/biden-first-primetime-address-anniversary-covid-shutdowns"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0k5ZmzU8ZEI/biden-first-primetime-address-anniversary-covid-shutdowns"
-ampWebUrl: "https://www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
-cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
+title: "Farmers blame Biden for 'promoting division' with billions in COVID-19 relief for non-Whites"
+excerpt: "The $1.9 trillion coronavirus relief package enacted last week by President Biden includes billions of dollars in debt relief and other assistance for farmers of color. However, the incorporation of race-based criteria is leaving other farmers scratching their heads."
+publishedDateTime: 2021-03-16T02:55:55Z
+originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xIh_BgV_PsI/farmers-covid-relief-non-whites-division-biden"
+webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xIh_BgV_PsI/farmers-covid-relief-non-whites-division-biden"
+ampWebUrl: "https://www.foxnews.com/politics/farmers-covid-relief-non-whites-division-biden.amp"
+cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/farmers-covid-relief-non-whites-division-biden.amp"
 type: article
-quality: 160
+quality: 164
 heat: -1
 published: false
 
@@ -25,9 +25,9 @@ topics:
   - Republican Voice
 
 images:
-  - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-    width: 340
-    height: 340
+  - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f92fb62-f50a-4ec3-b476-74c9239f5669/4402202b-284c-4f54-9cd8-63b3723ab7d7/1280x720/match/image.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -415,22 +415,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Farmers blame Biden for 'promoting division' with billions in COVID-19 relief for non-Whites"
-    excerpt: "The $1.9 trillion coronavirus relief package enacted last week by President Biden includes billions of dollars in debt relief and other assistance for farmers of color. However, the incorporation of race-based criteria is leaving other farmers scratching their heads."
-    publishedDateTime: 2021-03-16T02:55:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xIh_BgV_PsI/farmers-covid-relief-non-whites-division-biden"
-    ampWebUrl: "https://www.foxnews.com/politics/farmers-covid-relief-non-whites-division-biden.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/farmers-covid-relief-non-whites-division-biden.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1f92fb62-f50a-4ec3-b476-74c9239f5669/4402202b-284c-4f54-9cd8-63b3723ab7d7/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Mark Levin rips Biden over 'disgusting, propagandistic' address to nation on coronavirus pandemic"
     excerpt: "President Biden's remarks on the progress in the fight against the coronavirus pandemic were \"the most disgusting, propagandistic speech\" any politician has ever given, Mark Levin told \"Hannity\" Thursday."
     publishedDateTime: 2021-03-12T04:58:14Z
@@ -446,6 +430,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7002c7b-ee57-4840-9db6-1fc0336cd311/8a7eb0bc-d8a9-4224-a564-6130ee1f0967/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
+    excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."
+    publishedDateTime: 2021-03-08T17:22:13Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/0k5ZmzU8ZEI/biden-first-primetime-address-anniversary-covid-shutdowns"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-first-primetime-address-anniversary-covid-shutdowns.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Texas GOP rep tells 'FOX News Primetime' Biden 'complicit' in human trafficking across US-Mexico border"
     excerpt: "The Biden administration is \"aiding and abetting in the crime of human trafficking\" by allowing migrant children to be released into the U.S., Rep. Troy Nehls, R-Texas, told \"Fox News Primetime\" Monday."
@@ -663,6 +663,6 @@ related:
       domain: realclearpolitics.com
     quality: 60
 
-secured: "PBd5J7aq1UchaGbGumaulbUtI+qCxqhfD5hH7rLq1unm9NPEenf2FofbACEyBYUaQsrr0OypaWUBWTcAsfgs69praONi6al4cUb7ZksWacRjY6CbmLbSyVMaSuhIhsPSmgBghtuas3CUxTj10gPCIyerHjCEPXpwJL2pmcsmxB6LuRn9WTc3OJyJEFfdo/loBkHwsrVFIAcgg66DlLYh3afD93sWDygPsJhUtRwGoJySmGQ8Q5P0bvR9+5wIzru50/4EsMYpLmCV0jQMKFMgV90y3uPxjpXXJwN8T7+eA8AStj6fGCOawAusRf3OSs46xyEGDdehQevzrcjdYRT5koWi8S7u+ytAzlvANoUgsVE=;mATw03dnuBia+yUYds5K1Q=="
+secured: "knMt5yA2YfMB9rBxBjWfKUydMEqiWR0MA8TIhKCvT8uSSlowG4xCIDUDkjI0HovX+S2xuR9gOIU1vfB59jgT8k0BQRkbq7pLOFkb7r4mDTvVmZMAx7KG/EpwGYndhgfg4L0G9UNHoMqEREJxzwjPH/LZiogGLc7xPlfnrK0vOd8YaTL9LMfq28+qWvNb2ca5u8qQh7KMDv9s5tJzVYjt7GiXmaumJR2ea66dwsh/KtkdOU0fr9rRlHAH6xiFbhAKKXTtYjfxk6FDSdo0wFQ2RQlDJg6zGgVFMraa5RMFVPX1+/BryEm1tcZnAW6pIITgUG7DPJ6qHD3gE38Wi5VQryGdd2XERjxGqhwPbaZjAqY=;M97sMz9RFHyVoB2EHF+yOg=="
 ---
 
