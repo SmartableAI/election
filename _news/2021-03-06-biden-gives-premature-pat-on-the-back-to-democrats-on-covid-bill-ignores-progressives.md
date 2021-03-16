@@ -271,6 +271,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden to hold first press conference March 25"
+    excerpt: "President Biden will hold his first formal news briefing on Thursday afternoon, March 25, press secretary Jen Psaki announced Tuesday. "
+    publishedDateTime: 2021-03-16T20:31:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/BR51-wHitSs/biden-to-hold-first-news-conference-march-25"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-to-hold-first-news-conference-march-25.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-to-hold-first-news-conference-march-25.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f29b4e2a-886f-491f-ba9f-d209269089f0/6042c3e1-2a94-4628-9ae1-57d01f5b3b7c/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden signs $1.9T coronavirus relief bill in first major legislative win"
     excerpt: "President Biden on Thursday signed into law the sweeping $1.9 trillion coronavirus relief package that Democrats muscled through Congress without any Republican support, securing the first big legislative win of his presidency. "
     publishedDateTime: 2021-03-11T19:10:04Z
@@ -383,6 +399,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Biden's words on migrant children without beds, soap could come back to haunt him"
+    excerpt: "In 2019, then-candidate Biden went after then-President Donald Trump online over the conditions at detention centers holding migrant children as the Trump administration argued in defense of the facilities in federal court."
+    publishedDateTime: 2021-03-16T20:15:11Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/91pjycfr2jY/biden-border-crisis-child-migrant-toothbrushes-sleeping-floor"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-crisis-child-migrant-toothbrushes-sleeping-floor.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-crisis-child-migrant-toothbrushes-sleeping-floor.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 170
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e6edc5-273d-4ae0-bc11-ade7978f4b52/4937540a-6dc0-462f-8ed1-ba85163f4f57/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Scalise demands Biden rescind praise of Cuomo as 'gold standard' of COVID-19 leadership"
     excerpt: "House Minority Whip Steve Scalise, R-LA, called Tuesday for President Biden to rescind his past praise of New York Gov. Andrew Cuomo’s handling of the coronavirus pandemic amid the state’s burgeoning nursing home scandal."
     publishedDateTime: 2021-03-10T00:46:31Z
@@ -462,6 +494,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Former President Donald Trump to appear exclusively on 'Fox News Primetime' with Maria Bartiromo"
+    excerpt: "Former President Donald J. Trump will appear exclusively Tuesday on \"Fox News Primetime\" with Maria Bartiromo."
+    publishedDateTime: 2021-03-16T21:29:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Gu3-jLNcZts/former-president-donald-trump-to-appear-exclusively-on-fox-news-primetime-with-maria-bartiromo"
+    ampWebUrl: "https://www.foxnews.com/politics/former-president-donald-trump-to-appear-exclusively-on-fox-news-primetime-with-maria-bartiromo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-president-donald-trump-to-appear-exclusively-on-fox-news-primetime-with-maria-bartiromo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
     excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."
@@ -682,6 +730,22 @@ related:
     quality: 127
     images:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-to-hold-news-conf.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Former President Donald Trump to appear exclusively on 'Fox News Primetime' with Maria Bartiromo"
+    excerpt: "Former President Donald J. Trump will appear exclusively Tuesday on \"Fox News Primetime\" with Maria Bartiromo. Trump recently spoke out against the mounting crisis at the U.S.-Mexico border, where illegal immigrants and asylum seekers have overwhelmed ..."
+    publishedDateTime: 2021-03-16T21:33:00Z
+    webUrl: "https://www.foxnews.com/politics/former-president-donald-trump-to-appear-exclusively-on-fox-news-primetime-with-maria-bartiromo"
+    ampWebUrl: "https://www.foxnews.com/politics/former-president-donald-trump-to-appear-exclusively-on-fox-news-primetime-with-maria-bartiromo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/former-president-donald-trump-to-appear-exclusively-on-fox-news-primetime-with-maria-bartiromo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 122
+    images:
+      - url: "https://media2.foxnews.com/BrightCove/694940094001/2018/03/19/694940094001_5754212826001_5614615980001-vs.jpg"
         width: 1280
         height: 720
         isCached: true

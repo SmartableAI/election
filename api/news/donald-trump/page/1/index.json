@@ -2,6 +2,115 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-17-trump-to-be-interviewed-by-foxs-bartiromo.md",
+      "title": "Trump to be interviewed by Fox's Bartiromo",
+      "excerpt": "Former President Trump will appear on “Fox News Primetime” with host Maria Bartiromo on Wednesday night at 7 p.m., the former president’s office announced in a statement.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo",
+      "originalUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpcpac2_030121getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/543486-trump-to-be-interviewed-by-foxs-bartiromo?amp",
+      "publishedDateTime": "2021-03-16T14:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-russia-tried-to-help-trump-in-2020-iran-tried-to-hurt-him-and-china-stayed-out-of-it-says-new-report.md",
+      "title": "Russia tried to help Trump in 2020, Iran tried to hurt him and China stayed out of it, says new report",
+      "excerpt": "WASHINGTON — Despite repeated assertions by senior Trump administration officials that China sought to hurt then-President Donald Trump in the 2020 election, a newly declassified intelligence assessment finds that China did not seek to influence the outcome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/national-security/u-s-intel-agencies-say-russia-tried-help-trump-china-n1261234",
+      "originalUrl": "https://www.nbcnews.com/politics/national-security/u-s-intel-agencies-say-russia-tried-help-trump-china-n1261234",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615920341633_n_tur_brk_dilanian_russia_210316_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261234",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261234",
+      "publishedDateTime": "2021-03-16T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-birx-trumps-disinfectant-injection-moment-was-extraordinarily-uncomfortable.md",
       "title": "Birx: Trump's disinfectant injection moment was 'extraordinarily uncomfortable'",
       "excerpt": "Deborah Birx, the former White House coronavirus response coordinator, said on Monday that former President Trump’s suggestion to treat COVID-19 by injecting disinfectant and using ultraviolet rays wa",
@@ -1124,7 +1233,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1626,
+      "heat": 1666,
       "tags": null,
       "images": [
         {
@@ -1389,7 +1498,7 @@
       "originalUrl": "https://www.cbsnews.com/news/cyrus-vance-wont-seek-reelection-manhattan-da/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 640,
+      "heat": 660,
       "tags": null,
       "images": [
         {
@@ -1465,110 +1574,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-clueless-alum-stacey-dash-apologizes-for-past-support-of-donald-trump-thats-not-who-i-am.md",
-      "title": "'Clueless' alum Stacey Dash apologizes for past support of Donald Trump: 'That's not who I am'",
-      "excerpt": "\"Clueless\" actress-turned-conservative commentator Stacey Dash is walking back her previous support of former President Donald Trump. Dash, 54, told the Daily Mail in an interview published Wednesday that the Jan. 6 Capitol riots were a turning point for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/11/stacey-dash-clueless-actress-done-supporting-donald-trump/6952792002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/11/stacey-dash-clueless-actress-done-supporting-donald-trump/6952792002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/06/16/USAT/5d4985a5-802f-4faa-8573-cdeeab9820eb-GTY_1211016708.JPG?auto=webp&crop=4159,2340,x0,y156&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6952792002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6952792002",
-      "publishedDateTime": "2021-03-11T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race.md",
-      "title": "Trump endorses widow of Rep.-elect Luke Letlow in Louisiana House race",
-      "excerpt": "Former President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate commitment to working with Trump amid back-and-forth Top ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race",
-      "originalUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/sites/default/files/trumpdonald_9_1.jpg",
-          "width": 980,
-          "height": 551,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race?amp",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race?amp",
-      "publishedDateTime": "2021-03-10T19:12:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

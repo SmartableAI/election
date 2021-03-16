@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/florida-lawsuit-biden-administratio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp"
 type: article
 quality: 167
-heat: 207
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Florida AG sues Biden admin over release of criminal aliens: 'My frustration has boiled over'"
-    excerpt: "Florida Attorney General Ashley Moody announced Tuesday that she is suing the Biden administration over \"egregious\" immigration policies that she believes go against federal law and endanger American citizens."
-    publishedDateTime: 2021-03-09T14:59:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mxw8VTn1Rqg/florida-sues-biden-criminal-aliens-released-immigration-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-sues-biden-criminal-aliens-released-immigration-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-sues-biden-criminal-aliens-released-immigration-policy.amp"
+  - title: "Biden tells Americans to keep wearing masks 'until everyone is, in fact, vaccinated'"
+    excerpt: "President Biden wants Americans to wear face masks to prevent the spread of coronavirus \"until everyone is, in fact, vaccinated.\""
+    publishedDateTime: 2021-03-16T20:42:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/NKcn9wCnYtU/biden-americans-coronavirus-mask-all-vaccinated"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 168
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11a2ee3-f012-4ad0-8cbb-047f5c5c23c1/603bf374-1eb6-41ff-a784-64d19c5a8789/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Psaki says Biden will sign COVID measure Friday, calls it 'most progressive bill in American history'"
-    excerpt: "President Biden will sign the $1.9 trillion coronavirus relief bill on Friday afternoon, White House press secretary Jen Psaki announced, calling it the “most progressive bill in American history.” "
-    publishedDateTime: 2021-03-10T20:02:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tnr_2iMTGic/biden-sign-covid-legislation-friday-most-progressive-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-sign-covid-legislation-friday-most-progressive-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sign-covid-legislation-friday-most-progressive-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/biden_doublemask_ap.jpg"
-        width: 1280
-        height: 720
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21074656169869.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "+zf0GXfdM+ICMxMaAcKpwwed3pzIMgnU+vGGvC+Y40zEWEEmSyPdsCG8+M/eaI955ywTvYWzo6i+lMtvy3s63pZ1l0v1+4/nlpOLdePyM/99mJXmgIzMthLKzbNcw2Zzdfq9eySid0DdxpB6XeXLrwsNoZNO4A22rk4xHe2EUvcoAFMF7dskL4ZwhdbQUC188l4E/b0f7g7nEXRbNO++nwpORJX6zISg+80etTIVzm7EXVMYVB5UfdtgUDqLwPg1wk2a4bDgVodc1RpSNwEbZkLCVY8cN72tVkaAwYRYv4Jy402xeoYWxPlDJ44NvBHLENHfhIbk3uLDL+WZ8e4n3g0EpfzASOgW8FWX7cjMEEM=;h7Nx153gCahds8p+tCE+XA=="

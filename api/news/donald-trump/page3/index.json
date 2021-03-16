@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-05-qanon-shaman-still-feels-sympathy-for-former-president-donald-trump.md",
+      "title": "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump",
+      "excerpt": "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
+      "originalUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-04T13:28:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-another-trump-on-the-ballot-lara-trump-eyes-north-carolina-senate-seat.md",
       "title": "Another Trump on the ballot? Lara Trump eyes North Carolina Senate seat",
       "excerpt": "A Trump may be on the ballot next year — but not Donald Trump. The former president’ Lara Trump, is eyeing the North Carolina Senate seat being vacated by Republican Richard Burr. While many in the state are skeptical she will move forward,",
@@ -1529,54 +1581,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-26-donald-trump-jr-blasts-springsteens-dropped-dwi-charge-as-liberal-privilege.md",
-      "title": "Donald Trump Jr. blasts Springsteen’s dropped DWI charge as ‘liberal privilege’",
-      "excerpt": "Donald Trump Jr. tweeted Thursday that federal prosecutors only dismissed charges of DWI and reckless driving against rock icon Bruce Springsteen because of “liberal privilege,” Trump Jr., 43,",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2021/02/25/donald-trump-jr-blasts-springsteens-dropped-dwi-charges/",
-      "originalUrl": "https://nypost.com/2021/02/25/donald-trump-jr-blasts-springsteens-dropped-dwi-charges/",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/02/don-jr-springsteen.jpg?quality=90&strip=all&w=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2021/02/25/donald-trump-jr-blasts-springsteens-dropped-dwi-charges/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/02/25/donald-trump-jr-blasts-springsteens-dropped-dwi-charges/amp/",
-      "publishedDateTime": "2021-02-25T11:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
       ]
     }
   ],

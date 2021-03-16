@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-be
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1"
 type: article
 quality: 129
-heat: 629
+heat: 649
 published: true
 
 provider:
@@ -166,6 +166,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Why is the spotlight on HBCUs? It’s more than just Vice President Kamala Harris"
+    excerpt: "The recent inauguration of Vice President Kamala Harris exists at the intersection of several historical firsts. Among them, Harris is the first graduate of a Historically Black College and University (HBCU) to hold the nation’s second-highest office."
+    publishedDateTime: 2021-03-16T20:47:00Z
+    webUrl: "https://www.chicagotribune.com/business/careers-finance/sns-hbcu-spotlight-kamala-harris-20210316-f7rg3d4gwfg47py5t5i7rtor4u-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/crQzkjNidk5NhtpkJam48A0ZW1Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJESQ7B73VCMJH3GOI3PJ6NCGA.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Kamala Harris addresses the UN: 'The status of women is the status of democracy' – video"
     excerpt: "Kamala Harris spoke about democracy and its connection with women’s equality in her debut address to the UN as US vice-president"

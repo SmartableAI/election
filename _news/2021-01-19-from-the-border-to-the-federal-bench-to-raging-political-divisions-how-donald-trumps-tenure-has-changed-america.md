@@ -57,22 +57,6 @@ related:
         width: 804
         height: 545
         isCached: true
-  - title: "Former presidents, except Trump, urge Americans to be vaccinated in new PSA"
-    excerpt: "The Ad Council, which is overseeing the project, told ABC News that the ads were shot at the inauguration of President Joe Biden in January, which Trump did not attend."
-    publishedDateTime: 2021-03-12T02:41:00Z
-    webUrl: "https://abcnews.go.com/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 123
-    images:
-      - url: "https://s.abcnews.com/images/Politics/president-psa-vaccine-02-ht-jt-210311_1615493485600_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "For some Christians, the Capitol riot doesn’t change the prophecy: Trump will be president"
     excerpt: "As lawmakers prepared to impeach President Trump and Washington readied for President-elect Joe Biden’s inauguration, Cliff Dyrud wasn’t focused on man-made acts. He was listening for the words of prophets."
     publishedDateTime: 2021-01-15T02:34:00Z

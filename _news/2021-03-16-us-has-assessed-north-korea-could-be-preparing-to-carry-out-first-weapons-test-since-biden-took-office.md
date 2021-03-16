@@ -2,7 +2,7 @@
 category: news
 title: "US has assessed North Korea could be preparing to carry out first weapons test since Biden took office"
 excerpt: "US intelligence has assessed that North Korea could be preparing to carry out their first weapons test since President Joe Biden came into office, according to several US officials speaking to CNN on condition of anonymity.\n    \n"
-publishedDateTime: 2021-03-16T17:52:09Z
+publishedDateTime: 2021-03-16T20:38:35Z
 originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9-jQKnGWyII/index.html"
 webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9-jQKnGWyII/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/us-north-korea-assessment/index.html"
@@ -30,6 +30,6 @@ images:
     height: 619
     isCached: true
 
-secured: "W4lGu9XJt1FUNFMYZ2bNdyN0wxnLzJn7hxP+g6L5zAx620ruOI/GHl5BGP9iFOrlMhlNcX3SV4IbD/cOQ86+hfgsrCad1b8WMTKQ8zwwzGMviSutcOWmZpqqODwE6sYb2HX3v/6sZ32MwP+R3nBI0qdESVWk2kLKnc7i8/FFWO9IZIuHCPXeQi2g/y1+kox564bAEDh73w3RSL27osKDunrvsET6TyIUy4ccimk7bSxrupr8/BBNW5ofW6zRa+C6vc1aChMQsxeSV4516Z3A1tHDHq1pSiKDQ6ZxEjqHDhjrggN4f0pQNW5hPe7ljRA6QwjAXRImCA+T6xhCEL2UZa2h89zi/DCylWMvvt5vWcI=;utgaJtUusB+MN9Ulu66AMA=="
+secured: "QKA+2BEa9VrekEbixVz7DZG6Z2RJoDOZBVn8Ja3uxRQBFIkMHIrfq4PT4jBcJSuOoYUajvx082tinbex/ms+Q1jbSxsO5iKlxE0cPRhbMI/kyXJEvYu0ybMnJQUXwQH3koQGiq1uEVN6vHj0R+vByqRU/YpMPdjgSBfp8v9up2DD0GOcog1kThA6GJLsC6qnqRBnhLoHtqG8SnV6+ri1P3A7lGCUBVHZ1JzRrKY6+ouhyC90MUM4IIcD6kOOJz93Baes2LDpH/xykxB+2sIAKGszEtCV9WSzbtbzjkgmikNgtGgiloxuSs4kNR99msfzCfzo/qN2QWiG0XlMIWEd/hQgviS7oM+S1Gnu9msje0E=;0ubHLSzoF7fvm407gQ/J1A=="
 ---
 

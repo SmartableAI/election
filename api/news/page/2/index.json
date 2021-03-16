@@ -2,6 +2,162 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-15-north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.md",
+      "title": "North Korea warns Biden administration to avoid 'causing a stink' if it wants peace",
+      "excerpt": "The sister of North Korean leader, Kim Yo Jong, criticised ongoing military drills in South Korea and warned the new U.S. administration against “causing a stink” if it wants peace, state news reported on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hI8TJhtDfcM/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/hI8TJhtDfcM/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cbfcdd6-020a-4356-8354-e3b36978071e/8c4af3ca-6a87-4366-a264-f6213f22a7d2/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.amp",
+      "publishedDateTime": "2021-03-15T16:21:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-trump-says-washington-post-misquoting-of-his-call-with-ga-official-was-media-travesty.md",
+      "title": "Trump says Washington Post misquoting of his call with Ga. official was ‘media travesty’",
+      "excerpt": "Former President Donald Trump said Monday that the Washington Post’s now-admitted misquoting of his December phone call with a Georgia elections investigator was a “media",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2021/03/15/trump-says-washington-post-misquoting-was-media-travesty/",
+      "originalUrl": "https://nypost.com/2021/03/15/trump-says-washington-post-misquoting-was-media-travesty/",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2021/03/trump-6.jpg?quality=90&strip=all&w=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2021/03/15/trump-says-washington-post-misquoting-was-media-travesty/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/15/trump-says-washington-post-misquoting-was-media-travesty/amp/",
+      "publishedDateTime": "2021-03-15T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-undocumented-immigrants-see-light-of-hope-in-biden-relief-plan-which-gives-aid-to-their-us-born-children.md",
+      "title": "Undocumented immigrants see 'light of hope' in Biden relief plan which gives aid to their U.S.-born children",
+      "excerpt": "Undocumented workers were mostly left out of past COVID relief. Biden's $1.9 trillion plan would open that door through payments to their children.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/",
+      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/15/biden-stimulus-plan-children-undocumented-immigrants-get-aid/4709977001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2021/03/11/PNJM/56b66752-bcca-4b40-b322-99f5b37ab7d2-jl_MORENO_FAMILY_31121_01.JPG?auto=webp&crop=4499,2531,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/4709977001",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4709977001",
+      "publishedDateTime": "2021-03-15T15:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-15-biden-immigration-policy-clearly-separating-these-families-at-border-sen-rick-scott.md",
       "title": "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott",
       "excerpt": "Sen. Rick Scott, R-Fla., blasted the Biden administration's handling of the ongoing border crisis Monday on \"America Reports.\"",
@@ -1185,167 +1341,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-fauci-hopes-trump-will-push-his-supporters-to-get-covid-19-vaccine.md",
-      "title": "Fauci hopes Trump will push his supporters to get COVID-19 vaccine",
-      "excerpt": "WASHINGTON (Reuters) - Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will push his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should not be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-trump-idINKBN2B60DA",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-trump-idINKBN2B60DA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 465,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210314&t=2&i=1554843892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2D0A6",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2B60DA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B60DA",
-      "publishedDateTime": "2021-03-14T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters.md",
-      "title": "Fauci: 'It makes absolutely no sense' for vaccine hesitancy among Trump voters",
-      "excerpt": "WATCH: Dr. Fauci tells #MTP that \"it makes absolutely no sense\" for vaccine-hesitancy among Trump voters. Fauci: \"What is the problem here? This is a vaccine that is going to be life saving for millions of people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/meet-the-press/video/fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters-106516549714",
-      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters-106516549714",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615735913603_mtp_clip_faucivaxhesitance_210314_1920x1080.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo106516549714",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo106516549714",
-      "publishedDateTime": "2021-03-14T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-jeanine-pirro-blasts-kamala-harris-for-being-silent-on-cuomo-accusations-fraud-phony.md",
-      "title": "Jeanine Pirro Blasts Kamala Harris for Being Silent on Cuomo Accusations: 'Fraud,' 'Phony'",
-      "excerpt": "\"Some supporter of women, huh? A woman paraded around as a champion of women, quick to believe all women unless it doesn't work to her political advantage,\" the Fox News host said in comments about the vice president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006",
-      "originalUrl": "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1755647/jeanine-pirro-fox-news-andrew-cuomo.jpg",
-          "width": 3500,
-          "height": 2355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006?amp=1",
-      "publishedDateTime": "2021-03-14T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

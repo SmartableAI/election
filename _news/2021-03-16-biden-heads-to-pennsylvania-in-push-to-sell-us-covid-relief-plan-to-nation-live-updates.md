@@ -207,6 +207,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. talking to several countries about extra COVID-19 vaccine: Biden"
+    excerpt: "U.S. President Joe Biden said on Tuesday the United States is in talks with several countries about who will get any extra doses of COVID-19 vaccines."
+    publishedDateTime: 2021-03-16T19:05:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronaviurs-usa-vaccines-idUSKBN2B82O8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82O8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555107585&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1HQ"
+        width: 763
+        height: 545
+        isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
     publishedDateTime: 2021-03-04T12:33:00Z
@@ -444,6 +460,22 @@ related:
     quality: 116
     images:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554920146&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E0O2"
+        width: 805
+        height: 545
+        isCached: true
+  - title: "Promising people vaccine shots and cash payments, Biden White House kicks off stimulus tour"
+    excerpt: "WASHINGTON (Reuters) - With a promise of “shots in arms and money in pockets,” President Joe Biden on Monday kicked off a week of promotion and travel for the $1.9 trillion pandemic relief bill he signed into law last week to help the country move past ..."
+    publishedDateTime: 2021-03-16T01:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-tour-idUSKBN2B7137"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B7137"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B7137"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554984909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E0O2"
         width: 805
         height: 545
         isCached: true
@@ -694,6 +726,6 @@ related:
         height: 675
         isCached: true
 
-secured: "U23eNXROly7MlZptf/0wigZWfbGfWKv4uSdsUSm8ySHru1nzYiI+vZEmow34AdP+fdLA6VSfxylDC6jcLFIvguUXaUUKT9rD6x1DaBmd+jk6AFIVl0Nbs57d+fsMLnpuM3dZVCNlCs9LpSfesi6ohGDVMUPJ3dVawrH7BRu0KEWFSTe3JwaZuxNdqiMP+ynXZtR42FAYkrtHgWrrDVCITm7N2p8iQFuEYK3nTO7El1Ym6gCWhpeSfQ7BNcV2/A9gbvj97j/uQsXU5VlOKcRFkBe4ZWsAnTPeE9mfaFvbHo/1vqzCYWITDB69yyglp5ThcSBKPPoHnNkROc+O2tSxPH62xWbpQeyoVsmBGdNTqgo=;IZbz6m1Bwc95ORd4ksDkDA=="
+secured: "OYJTFc5ApDaK788I5MTR4LYlhjTVEJluRNG2/Ze3hlfryZVvKz19wQ04IoyTseFLrid2JZ4m6dJsgAI5Tq43wXw7VOXIQomFSU6srD4i87morZIzDa5ux0h9Jkufjzi079h7DRQfznRn9ZmVB/JhDY8EAY3NBNCZVZ3kEJCFMZwJvaG8XaIM+yNgyS3MOC/nMNIyvl+cULEZxVQ96BGw+urlS1Te4xpLF7XY6ftiVxNB6QzOUYcY/QbRU6xjuSOwHpNUPbYFKWiXmDxqRGesEKOaG9xRKFXdqy2Eb+fAb5BuFfm/Ssh449ubSHlqF/dcx/OsPGSLu7EHsTrNg5eKlKDbPL6F6OatlJ5rGmrFTJzAYIM6N2xLrK1KyIjSuPKaLn5R6/RE0YilpDI3TYjaIew+645s8VXSLsTOQwHTv7lnWwpgF23qlzxD9SlQsyLrc3WlatYSR1b04jLeVEAkG55Urie6qWIrU96ln99gNYhRxpLMXBAuOsdsV3+DFnR8c+U6f7lw/8GbKRwJlg8wYw==;FoRUxuYEki6aDo5avkUCEg=="
 ---
 

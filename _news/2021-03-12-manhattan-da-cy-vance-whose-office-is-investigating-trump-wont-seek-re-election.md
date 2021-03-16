@@ -382,6 +382,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Russian Interference in 2020 Included Influencing Trump Associates, Report Says"
+    excerpt: "Biden Jr., including intelligence operations to influence people close to former President Donald J. Trump, according to a declassified intelligence report released Tuesday. The report did not name those people but seemed to be a reference to the work of ..."
+    publishedDateTime: 2021-03-16T20:03:00Z
+    webUrl: "https://www.nytimes.com/2021/03/16/us/politics/election-interference-russia-2020-assessment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/16/us/politics/election-interference-russia-2020-assessment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/16/us/politics/election-interference-russia-2020-assessment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/16/us/politics/16dc-intel/16dc-intel-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump set for summit with Putin after 12 Russians charged with hacking Democrats"
     excerpt: "President Donald Trump is one day away from his high-stakes meeting with Russian President Vladimir Putin in Helsinki, Finland. The summit comes just days after the special counsel investigation brought charges against 12 Russian intelligence officers accused of hacking the emails of Hillary Clinton’s campaign and the Democratic party."
     publishedDateTime: 2021-03-16T00:18:00Z

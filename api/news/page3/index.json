@@ -2,6 +2,167 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-14-fauci-hopes-trump-will-push-his-supporters-to-get-covid-19-vaccine.md",
+      "title": "Fauci hopes Trump will push his supporters to get COVID-19 vaccine",
+      "excerpt": "WASHINGTON (Reuters) - Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will push his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should not be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-trump-idINKBN2B60DA",
+      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-trump-idINKBN2B60DA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 465,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210314&t=2&i=1554843892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2D0A6",
+          "width": 817,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2B60DA",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B60DA",
+      "publishedDateTime": "2021-03-14T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters.md",
+      "title": "Fauci: 'It makes absolutely no sense' for vaccine hesitancy among Trump voters",
+      "excerpt": "WATCH: Dr. Fauci tells #MTP that \"it makes absolutely no sense\" for vaccine-hesitancy among Trump voters. Fauci: \"What is the problem here? This is a vaccine that is going to be life saving for millions of people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/meet-the-press/video/fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters-106516549714",
+      "originalUrl": "https://www.nbcnews.com/meet-the-press/video/fauci-it-makes-absolutely-no-sense-for-vaccine-hesitancy-among-trump-voters-106516549714",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media13.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615735913603_mtp_clip_faucivaxhesitance_210314_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp-video/mmvo106516549714",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo106516549714",
+      "publishedDateTime": "2021-03-14T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-jeanine-pirro-blasts-kamala-harris-for-being-silent-on-cuomo-accusations-fraud-phony.md",
+      "title": "Jeanine Pirro Blasts Kamala Harris for Being Silent on Cuomo Accusations: 'Fraud,' 'Phony'",
+      "excerpt": "\"Some supporter of women, huh? A woman paraded around as a champion of women, quick to believe all women unless it doesn't work to her political advantage,\" the Fox News host said in comments about the vice president.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006",
+      "originalUrl": "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1755647/jeanine-pirro-fox-news-andrew-cuomo.jpg",
+          "width": 3500,
+          "height": 2355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jeanine-pirro-blasts-kamala-harris-being-silent-cuomo-accusations-fraud-phony-1576006?amp=1",
+      "publishedDateTime": "2021-03-14T07:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-03-14-biden-commits-to-free-open-secure-indo-pacific-in-rare-op-ed-with-quad-members.md",
       "title": "Biden commits to 'free, open, secure' Indo-Pacific in rare op-ed with 'Quad' members",
       "excerpt": "President Joe Biden declared the United States is \"committed to a free, open, secure and prosperous Indo-Pacific region\" in a rare op-ed penned with the leaders of India, Australia and Japan.\n    \n",
@@ -127,7 +288,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -655,7 +816,7 @@
       "originalUrl": "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3",
       "featuredContent": null,
       "highlight": null,
-      "heat": 1626,
+      "heat": 1666,
       "tags": null,
       "images": [
         {
@@ -1180,170 +1341,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-psaki-pressed-on-bidens-fourth-of-july-goal-cautions-its-not-a-return-to-total-normalcy.md",
-      "title": "Psaki pressed on Biden's Fourth of July goal, cautions it's not a 'return to total normalcy'",
-      "excerpt": "White House press secretary Jen Psaki said President Biden’s aspiration for Americans to have fourth of July celebrations is not calling for a “mass event” or “return to total normalcy.”",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/THMNIKEBip0/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/THMNIKEBip0/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp",
-      "publishedDateTime": "2021-03-12T11:21:19-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-white-house-says-biden-discussed-china-challenges-with-leaders-from-india-japan-australia.md",
-      "title": "White House says Biden discussed China challenges with leaders from India, Japan, Australia",
-      "excerpt": "U.S. President Joe Biden discussed challenges posed by China with leaders from India, Japan and Australia in a meeting on Friday, White House national security adviser Jake Sullivan said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-asia-diplomacy-idUSKBN2B42C4",
-      "originalUrl": "https://www.reuters.com/article/us-usa-asia-diplomacy-idUSKBN2B42C4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210312&t=2&i=1554718026&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2B1DK",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B42C4",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B42C4",
-      "publishedDateTime": "2021-03-12T10:27:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-bidens-coronavirus-team-outlines-efforts-to-meet-ambitious-new-goals.md",
-      "title": "Biden's coronavirus team outlines efforts to meet ambitious new goals",
-      "excerpt": "The White House's coronavirus response team on Friday outlined the different ways the federal government will be working to implement President Joe Biden's ambitious goals unveiled during his prime-time address to the nation Thursday night.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tu9GSTywdtU/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tu9GSTywdtU/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 275,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210311182531-01-joe-biden-0210-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/12/politics/coronavirus-response-team-goals-biden-administration/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/coronavirus-response-team-goals-biden-administration/index.html",
-      "publishedDateTime": "2021-03-12T10:14:45-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

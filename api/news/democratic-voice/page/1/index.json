@@ -30,7 +30,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/us-north-korea-assessment/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/us-north-korea-assessment/index.html",
-      "publishedDateTime": "2021-03-16T10:52:09-07:00",
+      "publishedDateTime": "2021-03-16T13:38:35-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -54,6 +54,63 @@
       ],
       "topics": [
         "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-russia-tried-to-help-trump-in-2020-iran-tried-to-hurt-him-and-china-stayed-out-of-it-says-new-report.md",
+      "title": "Russia tried to help Trump in 2020, Iran tried to hurt him and China stayed out of it, says new report",
+      "excerpt": "WASHINGTON — Despite repeated assertions by senior Trump administration officials that China sought to hurt then-President Donald Trump in the 2020 election, a newly declassified intelligence assessment finds that China did not seek to influence the outcome.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/national-security/u-s-intel-agencies-say-russia-tried-help-trump-china-n1261234",
+      "originalUrl": "https://www.nbcnews.com/politics/national-security/u-s-intel-agencies-say-russia-tried-help-trump-china-n1261234",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615920341633_n_tur_brk_dilanian_russia_210316_1920x1080.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1261234",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261234",
+      "publishedDateTime": "2021-03-16T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
         "Democratic Voice"
       ]
     },
@@ -1026,7 +1083,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 748,
+      "heat": 768,
       "tags": null,
       "images": [
         {
@@ -1628,63 +1685,6 @@
       "topics": [
         "Election",
         "Donald Trump",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-pence-will-make-his-first-speech-since-leaving-office.md",
-      "title": "Pence will make his first speech since leaving office.",
-      "excerpt": "The former vice president left Washington on the outs with former President Donald J. Trump, and his speech next month will be scrutinized for hints of his political future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.html",
-      "originalUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2021/03/08/us/politics/08new-was-pence-sub/08new-was-pence-sub-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/pence-speech.amp.html",
-      "publishedDateTime": "2021-03-08T08:03:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Democratic Voice"
       ]
     }

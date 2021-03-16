@@ -2,6 +2,62 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-16-biden-tells-americans-to-keep-wearing-masks-until-everyone-is-in-fact-vaccinated.md",
+      "title": "Biden tells Americans to keep wearing masks 'until everyone is, in fact, vaccinated'",
+      "excerpt": "President Biden wants Americans to wear face masks to prevent the spread of coronavirus \"until everyone is, in fact, vaccinated.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NKcn9wCnYtU/biden-americans-coronavirus-mask-all-vaccinated",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/NKcn9wCnYtU/biden-americans-coronavirus-mask-all-vaccinated",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 188,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21074656169869.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-americans-coronavirus-mask-all-vaccinated.amp",
+      "publishedDateTime": "2021-03-16T13:42:19-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-manchin-target-of-ad-in-west-virginia-pressuring-him-to-block-controversial-biden-doj-nominee.md",
       "title": "Manchin target of ad in West Virginia pressuring him to block controversial Biden DOJ nominee",
       "excerpt": "The Judicial Crisis Network (JCN) is launching a campaign aiming to scuttle the nomination of Vanita Gupta to be the associate attorney general for civil rights by targeting moderate Democratic Sen. Joe Manchin in his home state of West Virginia. ",
@@ -1067,7 +1123,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 255,
+      "heat": 275,
       "tags": null,
       "images": [
         {
@@ -1396,7 +1452,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 184,
+      "heat": 204,
       "tags": null,
       "images": [
         {
@@ -1581,62 +1637,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/oliver-north-biden-lloyd-austin-military.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/oliver-north-biden-lloyd-austin-military.amp",
       "publishedDateTime": "2021-03-11T19:38:24-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-12-biden-fills-his-primetime-remarks-on-covid-19-with-jabs-at-trump.md",
-      "title": "Biden fills his primetime remarks on COVID-19 with jabs at Trump",
-      "excerpt": "In his first primetime address to the nation Thursday night, President Biden lobbed barely-conceal criticism at Donald Trump for his handling of the coronavirus pandemic.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xYHPoM0o6Do/biden-remarks-filled-with-subtle-jabs-at-trump",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 1030,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/8382acb7-c09b-4e8e-a27d-19150c65075b/3cfe5695-e576-41ec-bf4b-ab25d5900187/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp",
-      "publishedDateTime": "2021-03-11T18:49:11-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

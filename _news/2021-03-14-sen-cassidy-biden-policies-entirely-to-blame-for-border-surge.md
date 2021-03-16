@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/sen-cassidy-biden-policies-border-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cassidy-biden-policies-border-surge.amp"
 type: article
 quality: 175
-heat: 255
+heat: 275
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/68e6edc5-273d-4ae0-bc11-ade7978f4b52/4937540a-6dc0-462f-8ed1-ba85163f4f57/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden admin can't keep up with border surge of migrant children, CBP official warns"
+    excerpt: "The number of migrant children in federal custody has passed 4,000, one source told Fox News."
+    publishedDateTime: 2021-03-16T21:51:18Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/e1tsjcCcU_k/migrant-children-border-dhs-families-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/migrant-children-border-dhs-families-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 169
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21071661472869.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden's 'open border' policies enriching drug cartels as migrant crisis escalates: Gov. Abbott"
     excerpt: "President Biden’s “open border policies” are not only inviting more illegal immigration to the U.S. but also enriching and empowering drug cartels in Mexico who profit from smuggling migrants across the border, Texas Gov. Greg Abbott said Sunday."

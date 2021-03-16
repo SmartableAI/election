@@ -367,6 +367,22 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "Vladimir Putin Approved Operations to Damage Biden's Campaign, Help Trump, Report Says"
+    excerpt: "According to the report, Putin authorized \"influence operations aimed at denigrating President Biden's candidacy and the Democratic Party, supporting former President Trump, undermining public confidence in the electoral process,"
+    publishedDateTime: 2021-03-16T21:18:00Z
+    webUrl: "https://www.newsweek.com/vladimir-putin-approved-operations-damage-bidens-campaign-help-trump-report-says-1576629"
+    ampWebUrl: "https://www.newsweek.com/vladimir-putin-approved-operations-damage-bidens-campaign-help-trump-report-says-1576629?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/vladimir-putin-approved-operations-damage-bidens-campaign-help-trump-report-says-1576629?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 132
+    images:
+      - url: "https://d.newsweek.com/en/full/1757550/vladimir-putin-chairs-video-meeting.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Biden’s Justice Dept. already has split from Trump. Merrick Garland will go even further."
     excerpt: "Now, with federal appeals court judge Merrick Garland set to take over as attorney general, the thornier work begins. Garland, who is expected to be confirmed by the Senate on Wednesday, will inherit a Justice Department damaged by President Donald Trump’s efforts to use its power to benefit his friends and hurt his enemies."
     publishedDateTime: 2021-03-09T20:54:00Z
@@ -446,6 +462,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Russia targeted people close to Trump in bid to influence 2020 election, U.S. intelligence says"
+    excerpt: "A new report appears to reference the former president’s associate Rudolph Giuliani as being used to launder misleading narratives to damage Biden’s candidacy"
+    publishedDateTime: 2021-03-16T20:37:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/intelligence-assessment-2020-election-russia-iran/2021/03/16/a2650478-8662-11eb-bfdf-4d36dab83a6d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/intelligence-assessment-2020-election-russia-iran/2021/03/16/a2650478-8662-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/intelligence-assessment-2020-election-russia-iran/2021/03/16/a2650478-8662-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 128
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TWT6V3UGQEI6XP67JU3NVOB2NU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Biden's $1,400 Stimulus Checks Aided by Trump Leaving $1Tn Cash Pile for Further Relief Spending"
     excerpt: "Former President Donald Trump's administration paved the way for the federal government to quickly deliver the $1,400 stimulus checks in President Joe Biden's $1.9 trillion American Rescue Plan by leaving behind a massive cash pile in preparation for ..."
@@ -1180,6 +1212,6 @@ related:
         height: 663
         isCached: true
 
-secured: "qIjCPowu+hD9hZYSb5kS1h4o3r8COQXdQFmusAAMXqcKjeMk16Y5f6xCqUFUTfQb7Olz7ueMSY+Hv4kgUHUsjGrLaAWm9OCsI1ADcOvIUYqPUujf+VmAELplI8xO8fBAK0KqboMky9BCMLq68FYgNDxXUubElObzMM+PwtN0NSq9inzr/pFCCJw3ET/mPmq134jok3XbmW0XCQL7Zmj4/Ze3mJi2TrHjQ7d6M/GAyKE1gq/02wUfv0+Sr1DmtKHQ5yDfHg9bvObqU/MGsCuKQhYYhbx8McZ+I+v7+X+GopB75PhPb5mrhOYcHDLRbraittsxzTZtw8XhI0ueed5aMuK6R3kg8pXdHWDFLaPKkv8=;hHUwf/8rxR3HoKbBTicqSg=="
+secured: "oUVadFkKqj7bOJLRR738mcl5JGGz6TQlCbsbWPGTliVAoa8jW9laJJvThsGkHu5X/SBIqfW1nictkt/R0pA/DX8heTrkLkM2pneXfxufVQhYLSA69KqnorpxCKbdtxqt9UPb3VAYVUTJmC2aeXi/rDTuRU+EtdLSQCIvCm0ln7GMWMKk8Al3lXtZqIus5IyCVIe6fev//za8KmbYhs3wGWTYxqJ27MPPDUVjum4WAOXKDnw2dCwFBkRk/T5i3OF5uj9Ca/P5UIPRG8v98xoW+zoixHMwUX3AqlTliR7ggsmgWigBZLOhf0C2w+KM+yzFQO5Tmz/V8sBimLgxvPGrVZAiQl071R3MQUDHrO+y3bCbWToj8WUlepoZcDGzcLBokVkpbM0TEO0OcfKOFkrcVYLVei0zW2p/R5rrkhFBb9fwD5n7DDdk1yNcoIE8JONsFyapzB4G9rSbMbS3tDEIUza8EXY+Tw/pgGAROoHqknaddGFwWpsHWKGqzNOw3BA0womJ3IssQ+up8M0D+rb6fw==;0DfOHjhewysyIKuDrKcduQ=="
 ---
 

@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-11-clueless-alum-stacey-dash-apologizes-for-past-support-of-donald-trump-thats-not-who-i-am.md",
+      "title": "'Clueless' alum Stacey Dash apologizes for past support of Donald Trump: 'That's not who I am'",
+      "excerpt": "\"Clueless\" actress-turned-conservative commentator Stacey Dash is walking back her previous support of former President Donald Trump. Dash, 54, told the Daily Mail in an interview published Wednesday that the Jan. 6 Capitol riots were a turning point for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/11/stacey-dash-clueless-actress-done-supporting-donald-trump/6952792002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/11/stacey-dash-clueless-actress-done-supporting-donald-trump/6952792002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/06/16/USAT/5d4985a5-802f-4faa-8573-cdeeab9820eb-GTY_1211016708.JPG?auto=webp&crop=4159,2340,x0,y156&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6952792002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6952792002",
+      "publishedDateTime": "2021-03-11T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race.md",
+      "title": "Trump endorses widow of Rep.-elect Luke Letlow in Louisiana House race",
+      "excerpt": "Former President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate commitment to working with Trump amid back-and-forth Top ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race",
+      "originalUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 145,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald_9_1.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/campaign/542674-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race?amp",
+      "publishedDateTime": "2021-03-10T19:12:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-trumps-former-fixer-michael-cohen-to-meet-again-with-manhattan-da-in-trump-probe.md",
       "title": "Trump’s former fixer Michael Cohen to meet again with Manhattan DA in Trump probe",
       "excerpt": "Donald Trump’s former lawyer and fixer, Michael Cohen, said he would go in for a seventh interview on Wednesday with the Manhattan district attorney’s office pursuing a criminal investigation into the former U.",
@@ -316,58 +420,6 @@
         "Election",
         "Donald Trump",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-fox-news-maria-bartiromo-went-all-in-on-trump-her-gamble-risks-alienating-corporate-america.md",
-      "title": "Fox News' Maria Bartiromo went all in on Trump. Her gamble risks alienating Corporate America.",
-      "excerpt": "The legendary business reporter is aiming for a coveted primetime slot as her next big career move.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/fox-news-maria-bartiromo-career-gamble-to-get-on-primetime-2021-3",
-      "originalUrl": "https://www.businessinsider.com/fox-news-maria-bartiromo-career-gamble-to-get-on-primetime-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6048005cdf53f8001802a61b?width=700",
-          "width": 700,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-10T01:01:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     },
     {
@@ -1536,58 +1588,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-qanon-shaman-still-feels-sympathy-for-former-president-donald-trump.md",
-      "title": "\"QAnon Shaman\" still feels \"sympathy\" for former President Donald Trump",
-      "excerpt": "In his first interview from jail, Jacob Chansley, known as the \"QAnon Shaman,\" says he still supports President Donald Trump. Laurie Segall spoke to Chansley for 60 Minutes+, a new show on ViacomCBS's new streaming platform,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
-      "originalUrl": "https://www.cbsnews.com/video/qanon-shaman-still-feels-sympathy-for-former-president-donald-trump/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/04/39edbe05-140c-4156-aa29-5ccd4829a6d1/thumbnail/1200x630/a26c5bf9238947a178c0b70f1da5f877/0304-cbsn-caq-qanonshaman-659236-640x360.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-04T13:28:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

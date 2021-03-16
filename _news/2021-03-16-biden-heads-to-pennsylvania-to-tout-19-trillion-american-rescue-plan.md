@@ -191,6 +191,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "U.S. talking to several countries about extra COVID-19 vaccine: Biden"
+    excerpt: "U.S. President Joe Biden said on Tuesday the United States is in talks with several countries about who will get any extra doses of COVID-19 vaccines."
+    publishedDateTime: 2021-03-16T19:05:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronaviurs-usa-vaccines-idUSKBN2B82O8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82O8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555107585&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1HQ"
+        width: 763
+        height: 545
+        isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
     publishedDateTime: 2021-03-04T12:33:00Z
@@ -447,6 +463,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Promising people vaccine shots and cash payments, Biden White House kicks off stimulus tour"
+    excerpt: "WASHINGTON (Reuters) - With a promise of “shots in arms and money in pockets,” President Joe Biden on Monday kicked off a week of promotion and travel for the $1.9 trillion pandemic relief bill he signed into law last week to help the country move past ..."
+    publishedDateTime: 2021-03-16T01:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-tour-idUSKBN2B7137"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B7137"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B7137"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554984909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E0O2"
+        width: 805
+        height: 545
+        isCached: true
   - title: "$1,400 Stimulus Checks Start Arriving in Bank Accounts as Biden Hits Road to Tout Rescue Plan"
     excerpt: "President Joe Biden and Vice President Kamala Harris are preparing to hit the road to boost support for the $1.9 trillion stimulus package, as some Americans have started to see the $1,400 checks arrive in their bank accounts."
     publishedDateTime: 2021-03-13T22:32:00Z
@@ -694,6 +726,6 @@ related:
         height: 675
         isCached: true
 
-secured: "WmV3rtwGSL8UQcNX5AP1QcrzY0CaqVtONZzh/UYa1nAFmJDZOGkyS3WXvEse/dtQ2veehVIZkKORI4vHGje+dWyv8T/IeTTr9eUDjhlnbWq3TNO5EnJebEleWCi+4MNPP8MFNGB+/SizSoBc0gXdMdPVIIYiVzJli2S1g5VxyI/UThA+bWV4nlxl/Ujiw0n41TWkMYoVUOzrt2vnBl3DsOlTmfe27KLH7dUrSZT18NUeLHtViSWNX604Fcv7lurOr6GAVZP67q6Il+AMt70Txy6lld2hL3mJ8pL9ndWfmCrcuThTThFSflFBjXS552zXcuykNSRWYQPQfUnxchSwPkEQhkKt0tSkCvfKlA3gEEI=;6VY7z57JZkWEh1HEPtQPGQ=="
+secured: "djU88QAli/JNxfF1V/4ELCDzKoCr98X5QaIaHLVneCevv60o4q+GcW8+9Uv9R5MGSdvWJoF3N91fOSnmVWkb/q5sdqoNkLG8eZGN5qNHolP1wSlLz27joAbAC/fBIHtu+byBjDoW6U9esh3Ic7o5hyPuFj7+kIL+Vbr5ajoXmH+3mnylRq1B+GeRR0Lhw7N2D2Gy/o1voM0U01ixWbiKIADMN0NkcD5bdH6d1s1x+EoouhUQ+uN6BlT8in1TUT2yqJNJG1Sh2O+Z+a7eDt+jKZVFJj6ePsXysvn+tENLPhILsuUs0Xz7R6fqJ3ajJz6oYbKRO3q2iiVrxYbLk23tgjRemIXsHM3NBfTsgCg2UpqLKEpmI+xmNAMJSzhaFvPcxpr8M4iLvMlqyJBasHb/GAxgKpYAougAeKxWxTz6JgBUE7AsQ12XfoTK8PU4Aem754KQPtuw/LWwl/uweh8Ske/GGGFqkLe+BUA/Qd7QanqhpvIdWjhSYgumFyHrT/hGBt/CnIN7nGLlDKtfeY8MNw==;Rz8Tefxppn6NkcC3XRMQpw=="
 ---
 

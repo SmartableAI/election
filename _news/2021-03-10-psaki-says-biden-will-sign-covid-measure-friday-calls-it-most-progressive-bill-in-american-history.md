@@ -31,37 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Florida lawsuit against Biden administration says ICE guidance puts Americans in danger"
-    excerpt: "Florida’s attorney general on Tuesday filed a lawsuit to halt Immigration and Customs Enforcement (ICE) guidance that narrows the illegal immigrants prioritized for arrest and deportation."
-    publishedDateTime: 2021-03-10T02:14:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MqHpCXds8b8/florida-lawsuit-biden-administration-ice-guidance"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3fb25b4-be53-4871-a0e0-07f16e230641/42e8ab05-3320-490b-aeb2-4cba2e2fdb05/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Florida AG sues Biden admin over release of criminal aliens: 'My frustration has boiled over'"
-    excerpt: "Florida Attorney General Ashley Moody announced Tuesday that she is suing the Biden administration over \"egregious\" immigration policies that she believes go against federal law and endanger American citizens."
-    publishedDateTime: 2021-03-09T14:59:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mxw8VTn1Rqg/florida-sues-biden-criminal-aliens-released-immigration-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-sues-biden-criminal-aliens-released-immigration-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-sues-biden-criminal-aliens-released-immigration-policy.amp"
+  - title: "Psaki pressed on Biden's Fourth of July goal, cautions it's not a 'return to total normalcy'"
+    excerpt: "White House press secretary Jen Psaki said President Biden’s aspiration for Americans to have fourth of July celebrations is not calling for a “mass event” or “return to total normalcy.”"
+    publishedDateTime: 2021-03-12T19:21:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/THMNIKEBip0/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
     quality: 164
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11a2ee3-f012-4ad0-8cbb-047f5c5c23c1/603bf374-1eb6-41ff-a784-64d19c5a8789/1280x720/match/image.jpg"
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Jen-Psaki-White-House-Briefing-Cuomo-Allegation-AP.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Republicans scratch heads at Biden's goals for May COVID vaccine eligibility, July Fourth family gatherings"
+    excerpt: "The CDC said that those who are fully vaccinated can spend time with unvaccinated people indoors as long as those who are unvaccinated are at low-risk."
+    publishedDateTime: 2021-03-12T14:08:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/u4mWSJVG9WY/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-biden-goal-may-covid-vaccine-eligibility-july-fourth.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 157
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21065030623614.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
 
 secured: "bPn8iveN1rarlOP4vXBgXSZmzsnMmM5CAtoaKRW8Gmuf/8Sa5fCZ6pMMD+oywScQSwlHRjo/8kK/q/ggXcNvG9jRSzYm1dLexTalo63kvsQVEDKOkfQ5v5CHkhL6xy6IpDLrY3F3P3Y7hko3ha5M4mVSUU9CvvpH3mtJn5mMZyDib+VR/wpTLPQH40Pxr4Y7JHucN4EzrKIMhLk+XBtEs3p/gnIJ9ApPLC1YmZclQvsn3DV3j2FuZwM1gkYPvkUugwKqiReZUkxUbb2wvRzW4VWSq6ZI9AiX5UNcdRByIjs5EXal87/qEjBvCASyuZBF+AWbXd2QGV2/qhNpsn0eY+r2in8I+Y8CeegUiPFsyl8=;5WSqsWn+TVagq4vOHuY1lg=="

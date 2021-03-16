@@ -181,6 +181,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Why is the spotlight on HBCUs? It’s more than just Vice President Kamala Harris"
+    excerpt: "The recent inauguration of Vice President Kamala Harris exists at the intersection of several historical firsts. Among them, Harris is the first graduate of a Historically Black College and University (HBCU) to hold the nation’s second-highest office."
+    publishedDateTime: 2021-03-16T20:47:00Z
+    webUrl: "https://www.chicagotribune.com/business/careers-finance/sns-hbcu-spotlight-kamala-harris-20210316-f7rg3d4gwfg47py5t5i7rtor4u-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/crQzkjNidk5NhtpkJam48A0ZW1Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJESQ7B73VCMJH3GOI3PJ6NCGA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Vice President Kamala Harris to Deliver Special Remarks During Nickelodeon’s Kids’ Choice Awards 2021"
     excerpt: "Vice President Kamala Harris will deliver special remarks during the Nickelodeon’s Kids Choice Awards 2021 on Saturday, March 13, at 7:30 p.m. (ET/PT). The Vice President, who will be introduced by actress Jennifer Garner, is set to appear as part of the ..."
     publishedDateTime: 2021-03-12T15:46:00Z
@@ -393,6 +407,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "qsbF+FhHo9mH5rK3zO2EnpaUif0Riegpufsi4prqZnDrhLGiTOZUyA3ZpceCmpWOdxKtSrR1Vo6E6qvk7hEO7ktCN99blxODse7m6EV8Q5o0FrzSVAyglJpokf54EdbIqz+TN2CAxFSWBYvcBXEC8RN6+o3AabhRwqbfe4T1kRR2k2qcK4bjSlK0HPKBD4Vhe0jd6LqhDw+UG/p086Dva7Vh9HoV6WODpCs4vXuHxGUFRH4x2RrrnbXvuzwqf6NsXK/bnOmaR0INMH3V417YqKbUmGsI4qpmGKD1sbQaIvP+eGDXdvEWXj0zQSNPS2G0wZgOgU5yC1Vrg7xbDAgODq8m4EzEQ4zGS1XNo5aKQl8=;2wo6VFZ0HtU3IteifImGKw=="
+secured: "7KuvHoHSSV66dETnW78A+U4K/HABQr6w40ZJQUbi8eAefZehPOFzSBq7EvUY9UdOg0NLXIXcRB2ALRXFGvOh1CbN0GASdc2eqk7oX3uFYuxm+VFdvoImzJwD1i8LgioNhGvcgF0R4R8Py8yCu2TP/jX8TMiGbCvXSsH7B4gtcvgM2bddpxMb7n+2m+bPy1Mt1f/BFzJEC0SQmZZimJCaycuZsBW8k84et483+EWzZOBu3axGADsSb15UxnlKPJJfRk9Pq1jBcj/3WmfzfTMXSuOe9Tfaf11KeBMJd40OV6u0lNWTdE4LqsT+ZEoxnTq27YT2J2rgpIVSAcEU7Ck3pheXRhaidV2x3PkFRH/zekW3NqsKRZu1WnOLECz25oeOqy9NIIwGUEBwf0QPR/9Pn3k7P7KSlfakApXXC2Os2FeRNd3l4aqPl8tEEDnw20uM/CxIZ/smIqksQJ5KKoXoXak4AreUJfoIEuQN8HMHB+qqtD7WHC72Sy3jqsa3rPNmFdvjjw+ATjnZA8JCJUWTLA==;G+3z+dAirmYOlSalEY7T7g=="
 ---
 

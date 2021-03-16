@@ -384,6 +384,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Russian Interference in 2020 Included Influencing Trump Associates, Report Says"
+    excerpt: "Biden Jr., including intelligence operations to influence people close to former President Donald J. Trump, according to a declassified intelligence report released Tuesday. The report did not name those people but seemed to be a reference to the work of ..."
+    publishedDateTime: 2021-03-16T20:03:00Z
+    webUrl: "https://www.nytimes.com/2021/03/16/us/politics/election-interference-russia-2020-assessment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/16/us/politics/election-interference-russia-2020-assessment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/16/us/politics/election-interference-russia-2020-assessment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 131
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/16/us/politics/16dc-intel/16dc-intel-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
   - title: "Trump's acting Defense Secretary says his January 6 speech incited Capitol rioters"
     excerpt: "(CNN)Former acting Secretary of Defense Christopher Miller believes former President Donald Trump's speech on the morning of January 6 incited the rioters who stormed the US Capitol. \"The question is would anybody have marched on the Capitol and overrun ..."
     publishedDateTime: 2021-03-11T22:02:00Z

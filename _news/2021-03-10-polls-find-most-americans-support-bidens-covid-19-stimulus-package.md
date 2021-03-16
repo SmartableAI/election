@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6936053002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6936053002"
 type: article
 quality: 125
-heat: 965
+heat: 1005
 published: true
 
 provider:
@@ -190,6 +190,22 @@ related:
       - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/15/b69c1c03-363c-4d82-a08d-6a1c76fc816d/thumbnail/1200x630/a3f25d54f8264a3111da18afbe05aae3/gettyimages-1307093617.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "U.S. talking to several countries about extra COVID-19 vaccine: Biden"
+    excerpt: "U.S. President Joe Biden said on Tuesday the United States is in talks with several countries about who will get any extra doses of COVID-19 vaccines."
+    publishedDateTime: 2021-03-16T19:05:00Z
+    webUrl: "https://www.reuters.com/article/us-health-coronaviurs-usa-vaccines-idUSKBN2B82O8"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82O8"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82O8"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555107585&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1HQ"
+        width: 763
+        height: 545
         isCached: true
   - title: "First Thing: Biden slams 'Neanderthal' easing of state Covid restrictions"
     excerpt: "Joe Biden strongly criticised states for lifting mask-wearing mandates, as the CDC warned ‘now is not the time’. Plus, Washington security has been ramped up amid possible Capitol attack plans"
@@ -446,6 +462,22 @@ related:
       - url: "https://i.guim.co.uk/img/media/0d5527ef8965a1f7abaaf21c99ddb64feb58858a/0_100_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d66423618d9e5709bb8cc359a6d6bb32"
         width: 600
         height: 360
+        isCached: true
+  - title: "Promising people vaccine shots and cash payments, Biden White House kicks off stimulus tour"
+    excerpt: "WASHINGTON (Reuters) - With a promise of “shots in arms and money in pockets,” President Joe Biden on Monday kicked off a week of promotion and travel for the $1.9 trillion pandemic relief bill he signed into law last week to help the country move past ..."
+    publishedDateTime: 2021-03-16T01:09:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-biden-tour-idUSKBN2B7137"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B7137"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B7137"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 115
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554984909&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E0O2"
+        width: 805
+        height: 545
         isCached: true
   - title: "$1,400 Stimulus Checks Start Arriving in Bank Accounts as Biden Hits Road to Tout Rescue Plan"
     excerpt: "President Joe Biden and Vice President Kamala Harris are preparing to hit the road to boost support for the $1.9 trillion stimulus package, as some Americans have started to see the $1,400 checks arrive in their bank accounts."

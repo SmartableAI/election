@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-no
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-bidens-fourth-of-july-goal-not-a-return-to-total-normalcy.amp"
 type: article
 quality: 164
-heat: 184
+heat: 204
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Psaki says Biden will sign COVID measure Friday, calls it 'most progressive bill in American history'"
+    excerpt: "President Biden will sign the $1.9 trillion coronavirus relief bill on Friday afternoon, White House press secretary Jen Psaki announced, calling it the “most progressive bill in American history.” "
+    publishedDateTime: 2021-03-10T20:02:12Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tnr_2iMTGic/biden-sign-covid-legislation-friday-most-progressive-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-sign-covid-legislation-friday-most-progressive-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sign-covid-legislation-friday-most-progressive-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 160
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/biden_doublemask_ap.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Republicans scratch heads at Biden's goals for May COVID vaccine eligibility, July Fourth family gatherings"
     excerpt: "The CDC said that those who are fully vaccinated can spend time with unvaccinated people indoors as long as those who are unvaccinated are at low-risk."
     publishedDateTime: 2021-03-12T14:08:28Z

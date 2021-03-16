@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-prioritizing-illegal-i
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-prioritizing-illegal-immigrants-us-citizens-crenshaw.amp"
 type: article
 quality: 164
-heat: 164
+heat: 184
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "Florida AG sues Biden admin over release of criminal aliens: 'My frustration has boiled over'"
+    excerpt: "Florida Attorney General Ashley Moody announced Tuesday that she is suing the Biden administration over \"egregious\" immigration policies that she believes go against federal law and endanger American citizens."
+    publishedDateTime: 2021-03-09T14:59:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mxw8VTn1Rqg/florida-sues-biden-criminal-aliens-released-immigration-policy"
+    ampWebUrl: "https://www.foxnews.com/politics/florida-sues-biden-criminal-aliens-released-immigration-policy.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-sues-biden-criminal-aliens-released-immigration-policy.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 164
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11a2ee3-f012-4ad0-8cbb-047f5c5c23c1/603bf374-1eb6-41ff-a784-64d19c5a8789/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "ljmUdzBRXdQdfPDnimy6OytTC/QQRwArX++I86briKbKRZ7cEtJ1BPg2IA8vcHlsAzmVhWvmbmDlX7HPdV5AEdiAYbZSMl+hqL03AX+OrEKMgwXxNGsB/rI6jAYZWZ2gxX1ciDnfxMC68MSvIluq2aS69krbipZ70bbzO4f7p7wC3dq1oqvQWPPy8k0uRRtinuZG1qnWYasTeFOdL0wEmE6sc+QCY/3ltE90j1R218Sf4tismew0kxmeZPBNRg/YLxR0daIBllPNpfastEfnOoIvA0WHog+1yIXICIq8U4AS9M8Li48BNxlhsHVLnCISsE6B41GsfLTf7Bj6sQHRZyoIJTJnCa2BaBxRJ5rJ54I=;Gyu7Z24s8mLEuqC68iwIaQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2021-02-05-voting-company-sues-fox-and-trump-lawyers-for-27bn-over-false-claims-of-election-fraud.md",
+      "title": "Voting company sues Fox and Trump lawyers for $2.7bn over false claims of election fraud",
+      "excerpt": "Smartmatic lawsuit charges that the defendants conspired to spread false claims that the company helped ‘steal’ the US election",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 331,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/e2fc6385843fd40dcbfd069855a5575972c1af6a/0_190_5694_3416/master/5694.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1ea2e2a58f97d190fdaa497cc2a39031",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/04/smartmatic-sues-fox-rudy-giuliani-sidney-powell-election",
+      "publishedDateTime": "2021-02-04T12:18:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-04-mike-pence-to-join-heritage-foundation-as-distinguished-visiting-fellow.md",
       "title": "Mike Pence to join Heritage Foundation as distinguished visiting fellow",
       "excerpt": "Former Vice President Mike Pence is joining the Heritage Foundation as a distinguished visiting fellow, according to a press release from the conservative think tank. \n    \n",
@@ -1280,58 +1332,6 @@
       "topics": [
         "Election",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-03-biden-shows-flexibility-but-tells-house-to-go-big-on-aid.md",
-      "title": "Biden shows flexibility but tells House to ‘go big’ on aid",
-      "excerpt": "President Joe Biden is telling House Democrats he’s not married to all the specifics of the $1.9 trillion COVID rescue plan",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 445,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-yellen-say-gop-virus-aid-too-small-democrats-push-on/2021/02/03/bddcc6da-65df-11eb-bab8-707f8769d785_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-03T02:22:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
       ]
     }
   ],

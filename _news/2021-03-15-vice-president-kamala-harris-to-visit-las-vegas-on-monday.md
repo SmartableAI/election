@@ -179,6 +179,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Why is the spotlight on HBCUs? It’s more than just Vice President Kamala Harris"
+    excerpt: "The recent inauguration of Vice President Kamala Harris exists at the intersection of several historical firsts. Among them, Harris is the first graduate of a Historically Black College and University (HBCU) to hold the nation’s second-highest office."
+    publishedDateTime: 2021-03-16T20:47:00Z
+    webUrl: "https://www.chicagotribune.com/business/careers-finance/sns-hbcu-spotlight-kamala-harris-20210316-f7rg3d4gwfg47py5t5i7rtor4u-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/crQzkjNidk5NhtpkJam48A0ZW1Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJESQ7B73VCMJH3GOI3PJ6NCGA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris addresses the UN: 'The status of women is the status of democracy' – video"
     excerpt: "Kamala Harris spoke about democracy and its connection with women’s equality in her debut address to the UN as US vice-president"
     publishedDateTime: 2021-03-16T13:21:00Z

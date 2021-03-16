@@ -350,6 +350,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Russia Helped Trump In 2020 Election, New Intelligence Confirms"
+    excerpt: "Intelligence officials have released a report alleging Russian interference in the 2020 presidential election, trying to keep Donald Trump in office but not repeating 2016 cyberattacks. The report also covered pro-Biden efforts by Iran and China ..."
+    publishedDateTime: 2021-03-16T21:14:00Z
+    webUrl: "https://www.ibtimes.com/russia-helped-trump-2020-election-new-intelligence-confirms-3163324"
+    ampWebUrl: "https://www.ibtimes.com/russia-helped-trump-2020-election-new-intelligence-confirms-3163324?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/russia-helped-trump-2020-election-new-intelligence-confirms-3163324?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 90
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/27/russian-president-vladimir-putin-urges-better-ties-between.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "What Happens to the Trump Investigation Without Cy Vance?"
     excerpt: "Donald Trump. Vance’s announcement that he will not seek a fourth term comes weeks after his team won a critical battle at the Supreme Court to obtain millions of pages of tax records and other ..."
     publishedDateTime: 2021-03-12T13:23:00Z

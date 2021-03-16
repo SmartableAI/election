@@ -167,6 +167,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Why is the spotlight on HBCUs? It’s more than just Vice President Kamala Harris"
+    excerpt: "The recent inauguration of Vice President Kamala Harris exists at the intersection of several historical firsts. Among them, Harris is the first graduate of a Historically Black College and University (HBCU) to hold the nation’s second-highest office."
+    publishedDateTime: 2021-03-16T20:47:00Z
+    webUrl: "https://www.chicagotribune.com/business/careers-finance/sns-hbcu-spotlight-kamala-harris-20210316-f7rg3d4gwfg47py5t5i7rtor4u-photogallery.html"
+    type: article
+    provider:
+      name: Chicago Tribune
+      domain: chicagotribune.com
+    quality: 101
+    images:
+      - url: "https://www.chicagotribune.com/resizer/crQzkjNidk5NhtpkJam48A0ZW1Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJESQ7B73VCMJH3GOI3PJ6NCGA.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris addresses the UN: 'The status of women is the status of democracy' – video"
     excerpt: "Kamala Harris spoke about democracy and its connection with women’s equality in her debut address to the UN as US vice-president"
     publishedDateTime: 2021-03-16T13:21:00Z
@@ -393,6 +407,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "L8lXjnhfP7Jqvbc49M93GFPL+RVALF7pZbvCeK+weeGOlGyM+fDMKRK2a8bPQJvJE1nokxSB/oK9OsJbEcFVUdJ7ivTgvBwLSXhQ6bwtOZYWolEV/4I0kGsjtUyMmeUWwmBlgpyhN56WpXciZQl+fbCG5MeWzKYcbGod/7SACWu+1x9ReZkwmYnvq0+oFSgWm1kW+R2oE7KyuI6GHGeIp4/7q+KynRMjkPp1C8WBK6BDriSgwK6b1XZ4t1LN/jGPAqUMiOVYnMr/ta3fQBc0K6ln1J7hPLbvvbRRmODeuSli9akuPgsKicL4hRDJ231CYH62Hdivn2yfO9ucOKSAmT0VQnL8Z4PMoMj6QzTdbWc=;PnlAA7238fvkegwOwxZDYg=="
+secured: "ueqc7R/YW3T5/QG0XOaVnmiEi9BIblWeA+QGH7jpzRUS3cKkOurJybvN/+vlMEotpI9VAR4NjbQbk2t4a8aimMLnwt9OCbUovf3d3d5p4RrQicTAPHyKtL52dRNrGyLUpiIMfqZ3m9H0ZkgTqphRVzuTtC9Un2U4GJxOrOUSl/mkFnrt5VF/RZRX/eDSxiwiRQfOdhMEcdFbG1mUT135sd/23wIymrFAmAoQ+f3EHAKJbs74s+NqxbGeXpb952vgbbd93/EYC00UEnH5pqsz0Yvc7suclZkEDiz2lGP8Lr8hjPSY8Bg3wy10BtOEyz9HKKkJ0K66LF7ZlzTeqKfMmDGS1wujqVjpzfnlH4EgyZmxkwWUrQa99t2Fn36Q54XiOwnm5lrAexopt1Gcg9p/BQsrE0II4ogCByL1y9rgAEN2WAtgCQH8ZGlrLDr7CxuCq7hclYtkrOLD7zdTsmOsv7B+Bna8lBiHsWE8Kso3V/6RZpeIW3kFH/Z4dR44wmC2DctT5ftqkBa2QKruGk+zDA==;op/tunZljZyiYP2zC3VGFw=="
 ---
 
