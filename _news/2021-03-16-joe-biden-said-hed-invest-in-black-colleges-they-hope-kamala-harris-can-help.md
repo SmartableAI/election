@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden said he’d invest in Black colleges. They hope Kamala Harris can help"
 excerpt: "Black colleges and universities hope high-profile graduates in the Biden administration will push for increased federal support for HBCUs."
-publishedDateTime: 2021-03-16T09:00:00Z
-originalUrl: "https://www.kansascity.com/news/politics-government/article249959349.html"
-webUrl: "https://www.kansascity.com/news/politics-government/article249959349.html"
-ampWebUrl: "https://amp.kansascity.com/news/politics-government/article249959349.html"
-cdnAmpWebUrl: "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article249959349.html"
+publishedDateTime: 2021-03-16T10:00:00Z
+originalUrl: "https://www.miamiherald.com/news/politics-government/article249959349.html"
+webUrl: "https://www.miamiherald.com/news/politics-government/article249959349.html"
+ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249959349.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249959349.html"
 type: article
 quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Kansas City Star
-  domain: kansascity.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - Election
@@ -1859,6 +1859,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "FjkM328y8Nav8QPmoewbAJKe8703+7ahQjTZwKHznJQL7K1+LNRQfE1cRa8B7/XjbiYdyl5Du1S8aeIvGD1pXBfgExNV67QbtRviJx2WeWO5hfISoFSBAsyKVorOb2ig4Y9c1/eye4Dx1w26wbsU7Wy5a39BdM027efBHyWPiAjckcjjuqyGaUIB6UrmjpVyOPflrccw5NnVSSXz8jMQpD89s8lDF96fQ+3dbCck5+Lpu6F6PLOSV+gk3UEqqJAvqTHFLcN17TeClm5itToFhdMuj/BOTtEqBPOwI/FIHJAGDKNBhiAaWj/tzEQE9ikS17iLWcX//1NwKDrJeqyawYABCzuCzmb7UHsfMMpDiAw=;LeaAs4OZJFnw8ZfwydTs7A=="
+secured: "GBCS1JiGebbJOgYTcveHH+mR/GFOoNK2ot4YtQwgHO7iDX0VELnH4F5bQF51SkB6jCoHZ1CPp3iGp4IopFwgoJe2y8tb8ijCwtkata5HWGU7or51bOzC4lmILBLD5cRWE/8CSUCs/wxaksWaVc/Y9mwqPKyyvqqoYUog5T5CHl8Dkdhl9kQzdCIX5tjvVUNMpUwuzBc+xf/P4nbploP6g9yVLOriFdMj99zJB3NpD3g2SP9UH4/sjWIqmI9VYwTd1KMjLvZEUxldasnGMsILauTHCyyrkzy+YSPDVERR6wIHp76HSMKqAFX1pGRWqK0Rjc6N7Emy2g1Zns3TWIssgjLmM3KgrRNOTvSUuaWCaic=;pdK0dcfYoWfgowNFWy3t+w=="
 ---
 

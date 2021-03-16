@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-ja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
 type: article
 quality: 190
-heat: 1010
+heat: 1030
 published: true
 
 provider:
@@ -446,6 +446,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e7002c7b-ee57-4840-9db6-1fc0336cd311/8a7eb0bc-d8a9-4224-a564-6130ee1f0967/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Biden speech to Congress still not scheduled despite White House pledge for post-COVID bill date"
+    excerpt: "The White House has yet to schedule a time for President Biden to deliver his first joint address to Congress, despite pledging to do so after the passage of his $1.9 trillion coronavirus relief package. "
+    publishedDateTime: 2021-03-16T10:50:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rUnn1LRtgk/biden-speech-congress-not-scheduled-post-covid-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-congress-not-scheduled-post-covid-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-congress-not-scheduled-post-covid-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
   - title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
     excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."

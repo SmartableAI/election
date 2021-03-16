@@ -462,6 +462,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden speech to Congress still not scheduled despite White House pledge for post-COVID bill date"
+    excerpt: "The White House has yet to schedule a time for President Biden to deliver his first joint address to Congress, despite pledging to do so after the passage of his $1.9 trillion coronavirus relief package. "
+    publishedDateTime: 2021-03-16T10:50:31Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7rUnn1LRtgk/biden-speech-congress-not-scheduled-post-covid-bill"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-speech-congress-not-scheduled-post-covid-bill.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-speech-congress-not-scheduled-post-covid-bill.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 162
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Biden to deliver first primetime address as president, will mark anniversary of coronavirus shutdowns"
     excerpt: "President Biden is expected to deliver his first primetime address since taking office on Thursday to commemorate the one year anniversary of the COVID-19 shutdowns."
     publishedDateTime: 2021-03-08T17:22:13Z

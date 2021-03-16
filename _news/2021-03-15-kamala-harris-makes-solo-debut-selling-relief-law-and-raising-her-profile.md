@@ -43,6 +43,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Kamala Harris visits vegan taco shop in Las Vegas"
+    excerpt: "Vice President Kamala Harris made an unscheduled stop at a vegan taco stand in Las Vegas, Nevada on Monday. Harris and other Biden Administration officials are on the road promoting the new $1.9 trillion COVID relief package."
+    publishedDateTime: 2021-03-16T10:20:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/16/kamala-harris-visits-vegan-taco-shop-las-vegas/4713671001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2638fa61-55b0-4ac1-b433-a1a414c3094b_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris Makes Solo Debut, Selling Relief Law and Raising Her Profile"
     excerpt: "Kamala Harris embarked Monday on her first official trip as vice president to promote the just-signed $1.9 trillion stimulus law, a two-day swing that doubles as a chance to boost her own profile."
     publishedDateTime: 2021-03-15T17:09:00Z
