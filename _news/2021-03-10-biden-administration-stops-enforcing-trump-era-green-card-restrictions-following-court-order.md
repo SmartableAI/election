@@ -415,6 +415,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden Urges Local Leaders to Promote COVID Vaccine to 'MAGA Folks' As Trump Remains Silent"
+    excerpt: "President Joe Biden on Monday urged local leaders and doctors to promote the coronavirus vaccine to MAGA supporters in their community as former President Donald Trump remained silent on the issue. White House Press Secretary Jen Psaki indicated during a ..."
+    publishedDateTime: 2021-03-16T02:55:00Z
+    webUrl: "https://www.newsweek.com/biden-urges-local-leaders-promote-covid-vaccine-maga-folks-trump-remains-silent-1576359"
+    ampWebUrl: "https://www.newsweek.com/biden-urges-local-leaders-promote-covid-vaccine-maga-folks-trump-remains-silent-1576359?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/biden-urges-local-leaders-promote-covid-vaccine-maga-folks-trump-remains-silent-1576359?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 130
+    images:
+      - url: "https://d.newsweek.com/en/full/1756583/fauci-biden.jpg"
+        width: 3724
+        height: 2482
+        isCached: true
   - title: "Biden's $1,400 Stimulus Checks Aided by Trump Leaving $1Tn Cash Pile for Further Relief Spending"
     excerpt: "Former President Donald Trump's administration paved the way for the federal government to quickly deliver the $1,400 stimulus checks in President Joe Biden's $1.9 trillion American Rescue Plan by leaving behind a massive cash pile in preparation for ..."
     publishedDateTime: 2021-03-14T23:44:00Z

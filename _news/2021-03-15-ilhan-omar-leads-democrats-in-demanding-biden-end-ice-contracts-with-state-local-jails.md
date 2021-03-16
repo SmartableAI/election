@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Ilhan Omar leads Democrats in demanding Biden end ICE contracts with state, local jails"
-excerpt: "Rep. Ilhan Omar, D-Minn., led a group of progressive Democrats on Monday in demanding that President Biden's administration end contracts between federal immigration enforcement agencies and state and local detention facilites. "
-publishedDateTime: 2021-03-15T16:15:55Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9r-Giu-zfOg/omar-end-contracts-ice-jails"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9r-Giu-zfOg/omar-end-contracts-ice-jails"
+excerpt: "Minn., led a group of progressive Democrats on Monday in demanding that President Biden's administration end contracts between federal immigration enforcement agencies and state and local detention facilites."
+publishedDateTime: 2021-03-15T16:20:00Z
+originalUrl: "https://www.foxnews.com/politics/omar-end-contracts-ice-jails"
+webUrl: "https://www.foxnews.com/politics/omar-end-contracts-ice-jails"
 ampWebUrl: "https://www.foxnews.com/politics/omar-end-contracts-ice-jails.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-end-contracts-ice-jails.amp"
 type: article
-quality: 167
+quality: 127
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Joe Biden
   - Republican Voice
 
 images:
@@ -224,6 +225,6 @@ related:
         height: 320
         isCached: true
 
-secured: "wplECDkqY76Eqrmao8VIhrb2wo8DzTAKLmQId+Zyv5AraWEfWJdqzZ0p4ycHTyjx7kMnsxamxBlCR9ozWjc/xcDwvLaLJeHZjEyfs8kU2bwlYVsZuuwQbBBtKy4h1e0Vu5nTtunjlPX1VwnNI1BhmW+dg59tHkv2E1aBtdfFbdAYD10L59ZWm6oHlISrORFM6ITerJip4JsGEP9gevq7UleSvykxAUWEBoJgmnnPu/WxcUo58b0Ny3NfoSQFer3bbLmtd3c4TzDwr/5jQ5wMgp3la8GihARMEIQIFjVBLCB311BX9rUfkUNeKTs0KSbUs+x4rpXhn3I6hI7eap2Rr8Lug8ldtxrOOi5mIZeZyyk=;2McR7pDMadCcUtxNgJHh2w=="
+secured: "6NrPnkwJldJ83LlINyLI9izv7AYh5jFtL3Dq9T2qkbWym2tb87lMWFKGPnSOZf42pBlE8xIJH3laE2J2I7KfCSHP5T5kR7bPr451oIGPNw1fTKSEfMgrjVrutK5l3ba4KNJTgpX9VlBymbXbuVXbSpaumSgO8adSsYp5PCyUFU4uRwh2vxgkIddyjoHFMbfpx2M72GJfmwAJeZOBaY3KYki3xZxRQN8GvwCwtce/dhqQcnU9OkECRoOfPYm9rPMv0f3nxbvpPCvjyjdLSGQsHu0cs5gr5a3/ZCDUVXniPDW/PvRkRXFCy9bKoFPOSYUaW9zwljUHDuc6W70ZBTOC9YPLVFhleBOZ3lBgmzyU2oo=;9arezeEcgJzr0ajW8fhzEw=="
 ---
 

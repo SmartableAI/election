@@ -2,11 +2,11 @@
 category: news
 title: "Virginia Republican candidates for governor show grip Trump has on party"
 excerpt: "The first 2021 statewide election has Republicans relitigating the 2020 election through the topic of \"election integrity.\""
-publishedDateTime: 2021-03-16T04:47:00Z
-originalUrl: "https://www.cbsnews.com/news/trump-virginia-republican-governors-race/"
-webUrl: "https://www.cbsnews.com/news/trump-virginia-republican-governors-race/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/trump-virginia-republican-governors-race/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-virginia-republican-governors-race/"
+publishedDateTime: 2021-03-16T11:47:00Z
+originalUrl: "https://www.cbsnews.com/news/trump-virginia-governors-race-republicans/"
+webUrl: "https://www.cbsnews.com/news/trump-virginia-governors-race-republicans/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
 type: article
 quality: 124
 heat: -1
@@ -64,6 +64,6 @@ related:
         height: 600
         isCached: true
 
-secured: "SlPy94Md84TOGEAyCVtTaxKWAlaggBoLh5R5v827fyrY+fv7WnfG0P1qHDx2FgJGQv+2+2LSGA3qPolAn4EQ1+o2tKPGOqz5lodkX3HESpzbU1o8nmoClrJCk12qOJB3wJqbE4J7nas016eyDjhMSQVS+21S0l7QC//+FMFpd1yqiXwUbxDlCkEp32EEmeb7VC5YM1ravakqhiQwFrRL5WqW/iQ0pQS2KQ/X4uaZH5YG+Xy4fEmICq/W6LxjJS2Fm/H5phXSUDH3CEP3fvIZmQ3WAyfkvtTLGYMyux+d+DThKSGmK/Dd9jYlcEbTUvVVp5KPHVyDGpAPnrBf2Ox6RpV/7ukN2Z9eLuqcFXgat7J+aiuB7TG31LqnzcSZvvW4f0J1BllhqBh6k/o3xQqQIGjc0KnHdLYg5pomVdhOBqfd1ApjviEQcnumIAeJiG5unmzuUY/6J1ELw9gncZGr3OhUXWhw8pXTsOzzZVEdQ+VDI4dd32lJa6odaWFuvhXjrE9bValDz3kUhowIEy1nxQ==;ibx7zNsRZv5H1U4Vptctyw=="
+secured: "EBKO/K7wWLDP/b+Q9vYA/uanm7TZX9Cf9KoDk0wV3U5244PAoOMA6emVLUHTjafFmenBt3RkKbF3vHrAEsjCYbW01IvPi/eELNSQw5LbK8qFt9UaBUAqkugTlnwNmxGynIlkea5gX3VLGlVx8oZ1WKBW4BFdiQMrAKRYmP+okClVQcjN4TiJKT1XznIq1NZhNCLUUdl2+Be/PUjxRVVcQHGRYZq2bwZOH2DU6FNEv7/4g6ZifLGBu0J6besVYnqkN0iMuDNzVIBt93DZS7fqs1ABnFWn9Ns86l71gWcUoplnzyiX1fk9Ma7jmngAxctY+TMxAhIHRFBEnAhRCQ7vfXTmKVA4LBbSO32Kmdu2x+U=;KRkb4FDOQ2piBFjP/5QALg=="
 ---
 

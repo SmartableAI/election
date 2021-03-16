@@ -80,7 +80,7 @@ related:
   - title: "Biden would not raise taxes on anyone making less than $400,000: White House"
     excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden remains committed to his campaign pledge that no one earning less than $400,000 should see an increase in their taxes, White House Press Secretary Jen Psaki said on Monday. Psaki said the Biden administration ..."
     publishedDateTime: 2021-03-15T16:36:00Z
-    webUrl: "https://www.reuters.com/article/us-usa-biden-taxes/biden-would-not-raise-taxes-on-anyone-making-less-than-400000-white-house-idUSKBN2B72CV?edition-redirect=uk"
+    webUrl: "https://www.reuters.com/article/idUSKBN2B72CV"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B72CV"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B72CV"
     type: article

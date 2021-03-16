@@ -73,6 +73,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Watch Live: Vice President Kamala Harris speaks at U.N. meeting on gender equality and women's empowerment"
+    excerpt: "Vice President Kamala Harris is delivering a statement Tuesday on behalf of the United States during a session of the United Nations' Commission on the Status of Women. The theme of this year's session, the 65th, is women's \"full and effective ..."
+    publishedDateTime: 2021-03-16T13:44:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Kamala Harris coming to Las Vegas on Monday"
     excerpt: "Vice President Kamala Harris and her husband, Doug Emhoff, will visit Las Vegas on Monday to tout the $1.9 trillion American Rescue Plan approved by Congress on Wednesday."
     publishedDateTime: 2021-03-11T02:25:00Z

@@ -49,10 +49,10 @@ related:
         isCached: true
   - title: "Virginia Republican candidates for governor show grip Trump has on party"
     excerpt: "The first 2021 statewide election has Republicans relitigating the 2020 election through the topic of \"election integrity.\""
-    publishedDateTime: 2021-03-16T04:47:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-virginia-republican-governors-race/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-virginia-republican-governors-race/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-virginia-republican-governors-race/"
+    publishedDateTime: 2021-03-16T11:47:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-virginia-governors-race-republicans/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-virginia-governors-race-republicans/"
     type: article
     provider:
       name: CBS News

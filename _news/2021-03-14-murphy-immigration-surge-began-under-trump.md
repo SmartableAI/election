@@ -79,6 +79,22 @@ related:
         width: 1024
         height: 705
         isCached: true
+  - title: "Under Trump, the US Navy picked up the pace of its challenges to Beijing in the South China Sea"
+    excerpt: "US Navy challenges to China's efforts to restrict transit in the South China Sea and in the Taiwan Strait increased sharply over the past two years."
+    publishedDateTime: 2021-03-16T13:39:00Z
+    webUrl: "https://www.businessinsider.com/sharp-jump-in-us-navy-transits-to-counter-china-under-trump-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/sharp-jump-in-us-navy-transits-to-counter-china-under-trump-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sharp-jump-in-us-navy-transits-to-counter-china-under-trump-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/6050b357fe6a340019aced9b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "M6Nd/OBv1NFPDomDNeNlHGgVoK1xn3sdAWpO8THNlqAvQznUKE43DOeZgMLjKQ3m6ECY6TndsIBZ3Qq2/HT4WS1Wbnoee5Ps4TTRR6BPg3ExgHJe9jHMmBA6Dje2YE2g9c93vtB+NGIwVoy4xhDrq6boksF/pherml63JtDHyKDh1WykDh828Mugg96x/t5B2Vo+JMtDk6vPfZclU8enw835RrALtc6Wy+S2R6qAT5jVxuptjgvjmybdVnFMWifsVwmMVu2eqkAk3ul7kP8n+USVZ2C8wGfQQnm3YUzCTpz1a9DFmpCiuGy1fx1o1MgOneZLuCgqvvYfwwKG1niZAL9y3M7DC3JYdnbTuembanYEB6hIhCyyM6BXOFyiiej+EEKGqqPbV/xPZevoQgpyzrt2RBcbjoDmzLQ/MIg6dHYtOn6ndJ7YoJbiWv5rAMzwCGkotMu8gINKa2NdzYMyf4gGvFMBq3dyn5fEScmXBDD25K1Z2QYFaDG4ULUG15VkoRVZmIgTaBg5WNlIrWIGdw==;nv3ctR9Ipxs7UYclVTZODQ=="
 ---

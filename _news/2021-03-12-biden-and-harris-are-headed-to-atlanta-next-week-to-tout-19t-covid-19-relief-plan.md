@@ -73,6 +73,22 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Watch Live: Vice President Kamala Harris speaks at U.N. meeting on gender equality and women's empowerment"
+    excerpt: "Vice President Kamala Harris is delivering a statement Tuesday on behalf of the United States during a session of the United Nations' Commission on the Status of Women. The theme of this year's session, the 65th, is women's \"full and effective ..."
+    publishedDateTime: 2021-03-16T13:44:00Z
+    webUrl: "https://www.cbsnews.com/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/kamala-harris-speak-commission-status-women-live-stream-today-2021-03-16/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 107
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/08/0fefa302-65ac-4ddd-a068-9dd807908488/thumbnail/1200x630/f9508121110b2995bd783ebece1f4341/gettyimages-1306014933.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Vice President Kamala Harris to Deliver Special Remarks During Nickelodeon’s Kids’ Choice Awards 2021"
     excerpt: "Vice President Kamala Harris will deliver special remarks during the Nickelodeon’s Kids Choice Awards 2021 on Saturday, March 13, at 7:30 p.m. (ET/PT). The Vice President, who will be introduced by actress Jennifer Garner, is set to appear as part of the ..."
     publishedDateTime: 2021-03-12T15:46:00Z

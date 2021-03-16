@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-j
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1755650/donald-trump.jpg"
         width: 1024
         height: 705
+        isCached: true
+  - title: "Under Trump, the US Navy picked up the pace of its challenges to Beijing in the South China Sea"
+    excerpt: "US Navy challenges to China's efforts to restrict transit in the South China Sea and in the Taiwan Strait increased sharply over the past two years."
+    publishedDateTime: 2021-03-16T13:39:00Z
+    webUrl: "https://www.businessinsider.com/sharp-jump-in-us-navy-transits-to-counter-china-under-trump-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/sharp-jump-in-us-navy-transits-to-counter-china-under-trump-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/sharp-jump-in-us-navy-transits-to-counter-china-under-trump-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 113
+    images:
+      - url: "https://i.insider.com/6050b357fe6a340019aced9b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "6QTlZabPqfiaYT+LqBuJExJJil6kRYu+qMoS31jYXpQM4npzndd61O5b0AX/c62sisRFuU7tUGAgKKGWFGlHlMj4WcSkGdU6Zmg9yRJSoS7UAh0mjJ8vBb5wcpi9oLZJEqI1a9DcOUwpxq7ZhCAPLRXIwYyztW3zlLFKjo8EcHc+umYW6GI34qb9vthrFayzXrrB+x5wb6+doX4M54vjDQlokmDo9lCu7zA2gvASdM+46wWL9EShrqxtQ4KaBFz43ixwX35A0EyKsBrFq3h+kRUSkvcNG5ovf59nDfQ3yqw1irY9aZEYGeDIF6gLUojjVVB8lKPS7k5CJJeNdmo1KyK0F1PgftYuijwrSs2hVdg=;bqOkbZvye8kqDKl+YQw93g=="

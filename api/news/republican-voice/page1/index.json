@@ -2,6 +2,118 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-16-joe-concha-slams-wapo-error-another-misleading-story-gobbled-up-by-anti-trump-media.md",
+      "title": "Joe Concha slams WaPo error: Another misleading story 'gobbled up' by anti-Trump media",
+      "excerpt": "The Washington Post misquoting former President Trump shows that the media will do whatever it takes to push an agenda against the 45th president, Fox News contributor Joe Concha said on Tuesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yG1TH3ae7Ps/washington-post-error-trump-georgia-election-concha",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/yG1TH3ae7Ps/washington-post-error-trump-georgia-election-concha",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 167,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/washington-post-error-trump-georgia-election-concha.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/washington-post-error-trump-georgia-election-concha.amp",
+      "publishedDateTime": "2021-03-16T06:36:32-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-biden-push-for-face-mask-standard-in-workplace-misses-self-imposed-deadline.md",
+      "title": "Biden push for face mask standard in workplace misses self-imposed deadline",
+      "excerpt": "President Biden planned to issue a temporary face mask standard in workplaces by his 55th day in office, but his administration missed that deadline as discussions continue on the potential new federal standard for private businesses. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QNhHL9qtHJ4/biden-face-mask-workplace-misses-self-imposed-deadline",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/QNhHL9qtHJ4/biden-face-mask-workplace-misses-self-imposed-deadline",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 193,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp",
+      "publishedDateTime": "2021-03-16T05:09:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today.md",
       "title": "Trump Jr: Andrew Cuomo the 'biggest predator in American politics today'",
       "excerpt": "Trump Organization executive vice president Donald Trump Jr. slammed New York Democratic Gov. Andrew Cuomo in the wake of a seventh accusation of sexual misconduct.",
@@ -1524,118 +1636,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/bidens-migrants-smugglers-traffickers-chad-wolf.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-migrants-smugglers-traffickers-chad-wolf.amp",
       "publishedDateTime": "2021-03-11T14:25:29-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-fauci-who-opposed-china-travel-ban-and-praised-their-transparency-criticizes-trump-response.md",
-      "title": "Fauci, who opposed China travel ban and praised their transparency, criticizes Trump response",
-      "excerpt": "White House chief medical adviser Dr. Anthony Fauci, who early on in the coronavirus pandemic opposed a travel ban on China and praised their transparency, on Tuesday criticized former President Donald Trump for not pushing the country harder for more information on the outbreak.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KffGTSsyd2I/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/KffGTSsyd2I/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/05/640/320/Anthony-Fauci-1-AP.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fauci-china-travel-ban-coronavirus-transparency-criticizes-trump-response.amp",
-      "publishedDateTime": "2021-03-11T12:13:23-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-mcconnell-trashes-bidens-covid-relief-package-as-multitrillion-dollar-trojan-horse.md",
-      "title": "McConnell trashes Biden's COVID relief package as 'multitrillion-dollar Trojan horse'",
-      "excerpt": "Senate Republican leader Mitch McConnell is lambasting President Biden's $1.9 trillion COVID relief package that Democrats passed through Congress along party-line votes as \"a multitrillion-dollar Trojan horse.\"",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2t84hFapu0k/mcconnell-biden-covid-relief-package",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/2t84hFapu0k/mcconnell-biden-covid-relief-package",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-biden-covid-relief-package.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-covid-relief-package.amp",
-      "publishedDateTime": "2021-03-11T10:52:25-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

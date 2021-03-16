@@ -143,22 +143,6 @@ related:
         width: 340
         height: 340
         isCached: true
-  - title: "Ilhan Omar leads Democrats in demanding Biden end ICE contracts with state, local jails"
-    excerpt: "Rep. Ilhan Omar, D-Minn., led a group of progressive Democrats on Monday in demanding that President Biden's administration end contracts between federal immigration enforcement agencies and state and local detention facilites. "
-    publishedDateTime: 2021-03-15T16:15:55Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9r-Giu-zfOg/omar-end-contracts-ice-jails"
-    ampWebUrl: "https://www.foxnews.com/politics/omar-end-contracts-ice-jails.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-end-contracts-ice-jails.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 167
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73f5fe50-ad30-425e-a755-e6ba57fca7e7/f25ef0a7-9f70-4c99-89ac-701e3eb10927/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Biden seems to forget defense secretary’s name, calls him ‘the guy who runs that outfit’"
     excerpt: "President Biden on Monday seemed to forget Defense Secretary Lloyd Austin’s name at a White House event — calling the Pentagon chief \"the guy who runs that outfit over there.\""
     publishedDateTime: 2021-03-09T15:07:10Z
@@ -222,6 +206,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Joe-Manchin-Susan-Collins.jpg?ve=1&tl=1"
         width: 640
         height: 320
+        isCached: true
+  - title: "Ilhan Omar leads Democrats in demanding Biden end ICE contracts with state, local jails"
+    excerpt: "Minn., led a group of progressive Democrats on Monday in demanding that President Biden's administration end contracts between federal immigration enforcement agencies and state and local detention facilites."
+    publishedDateTime: 2021-03-15T16:20:00Z
+    webUrl: "https://www.foxnews.com/politics/omar-end-contracts-ice-jails"
+    ampWebUrl: "https://www.foxnews.com/politics/omar-end-contracts-ice-jails.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/omar-end-contracts-ice-jails.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/73f5fe50-ad30-425e-a755-e6ba57fca7e7/f25ef0a7-9f70-4c99-89ac-701e3eb10927/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "IEXmXA7R8/pPoY9PoBNsVL8Cg9SlG/GI7/titUEvmCytLXB66RxkLJ+PHlb6umlPcteVkI0qgDUAt3+GwZzNMX9UdPDvWRzcHuHcMtG0hNEGrb4r6JRjHKzB8V5QfOG+3UdPQ59jL1C5d5smMAOLhBJ25+JxUmrWcUO57L4X0IiYDOZw0W39mY/9l3tgSkUnZcSu9Knv+RddGEfXO4REtu1DYfaEq+lM9O41ngJeD5f3SBcuO9wIc/qG59BQ6J7GK1LEQLHADBMs3zFh0sIdYmIBgnWSG37GLjZSwu2jlwMmHIoNQUpYOw44mTZ4HM9yHUaCAV+D6jtmDBZPz6tikUdrkIsPhkP9QGhjixbsASo=;6YNsYBx113P44ceNygKgug=="

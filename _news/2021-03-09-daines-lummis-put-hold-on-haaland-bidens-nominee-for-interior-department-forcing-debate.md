@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/daines-lummis-put-hold-on-haaland-b
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/daines-lummis-put-hold-on-haaland-bidens-nominee-for-interior-department-forcing-debate.amp"
 type: article
 quality: 165
-heat: 165
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Biden push for face mask standard in workplace misses self-imposed deadline"
+    excerpt: "President Biden planned to issue a temporary face mask standard in workplaces by his 55th day in office, but his administration missed that deadline as discussions continue on the potential new federal standard for private businesses. "
+    publishedDateTime: 2021-03-16T12:09:26Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/QNhHL9qtHJ4/biden-face-mask-workplace-misses-self-imposed-deadline"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 173
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "ZHAeIgAb7jyHIvjoKp+gsD86vXgrHjXp2s9fjg9tCcFwhelDzS36kxPntWJJai1f3CgBmq61pAPxBlXZcIGbGBu/lVwSfXrFLMuEJfUavtBlUibOEVqg3S4UMwtxsGjFAIVHF1Ra7WbR58fuX74RSeX7lT7CiY2PP9gxTxu+gCgS/0OvFpDlk37+EGWV8SMtfhjt23IwDyTwnE+v9kjBg7gZIXqq8mV98VuiWwFnvYRCYptEFUASsbVHYjywh8ijKXUfbe2PC291iQaz8yFBdqLMRFtG1OZtH/gnun/nQJG0zRHv+mu4XmhnfWZ7rMzJ4NzO+1vDS73fTFG8o/Oth8gCRHdrGUjU4MW+5DgLXUo=;aszvU6EZ60r3kwtx+3w41g=="
 ---

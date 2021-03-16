@@ -2,6 +2,62 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2021-01-15-fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane.md",
+      "title": "FBI agent in Trump-Russia's request for 'validation' of Steele reporting denied, left Crossfire Hurricane",
+      "excerpt": "An agent involved in the FBI’s original Trump-Russia case left the Crossfire Hurricane team amid a “professional disagreement” with Bill Priestap, after the former assistant director of counterintelligence denied his request for an “enhanced validation review” of Christopher Steele’s reporting. ",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OUwAiniZSNY/fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/OUwAiniZSNY/fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/fbi-agent-in-trump-russias-request-for-validation-of-steele-reporting-denied-left-crossfire-hurricane.amp",
+      "publishedDateTime": "2021-01-15T14:41:09-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-15-cuomo-takes-parting-shot-at-trump-admin-targets-reclamation-of-salt-funds.md",
       "title": "Cuomo takes parting shot at Trump admin, targets 'reclamation' of SALT funds",
       "excerpt": "The SALT cap has been one of the bigger thorns in Cuomo's side in recent years.",
@@ -1605,62 +1661,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/exclusive-pamela-anderson-trump-pardon-julian-assange.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/exclusive-pamela-anderson-trump-pardon-julian-assange.amp",
       "publishedDateTime": "2021-01-11T11:49:16-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-11-angela-merkel-rips-twitters-problematic-trump-ban.md",
-      "title": "Angela Merkel rips Twitter's 'problematic' Trump ban",
-      "excerpt": "German Chancellor Angela Merkel considers President Donald Trump's eviction from Twitter by the company \"problematic,\" her spokesman said Monday.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW-T3bm5Wzc/angela-merkel-rips-twitters-problematic-trump-ban",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/lW-T3bm5Wzc/angela-merkel-rips-twitters-problematic-trump-ban",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP20365599203324.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/angela-merkel-rips-twitters-problematic-trump-ban.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/angela-merkel-rips-twitters-problematic-trump-ban.amp",
-      "publishedDateTime": "2021-01-11T11:33:26-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

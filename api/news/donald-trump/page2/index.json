@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-11-i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief.md",
+      "title": "'I Was Speechless': Law Firm Investigated Its Own Ex-Client For Trump VOA Chief",
+      "excerpt": "McGuireWoods earned well over $2 million in taxpayer money to investigate The Open Technology Fund at the behest of Trump-appointed CEO Michael Pack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief",
+      "originalUrl": "https://www.npr.org/2021/03/10/974122042/i-was-speechless-law-firm-investigated-its-own-ex-client-for-trump-voa-chief",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2021/03/09/libby-liu_wide-fa5bf3a19e647452de52145ba3a5db9f98a64ecf.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2021-03-10T09:15:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/npr.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-she-voted-for-obama-and-died-for-trump-how-qanon-turned-ashli-babbitt-an-iraq-veteran-into-a-domestic-terrorist.md",
       "title": "She voted for Obama and died for Trump. How QAnon turned Ashli Babbitt, an Iraq veteran, into a domestic 'terrorist.'",
       "excerpt": "Capitol rioter Ashli Babbitt believed QAnon was \"a movement against evil in the world\" and died fighting for the Trump-condoned conspiracy.",
@@ -1529,63 +1581,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2021-03-03T18:46:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-04-msnbc-contributor-my-guts-telling-me-trump-white-house-behind-lack-of-capitol-protection-on-jan-6.md",
-      "title": "MSNBC contributor: 'My gut's telling me' Trump White House behind lack of Capitol protection on Jan. 6",
-      "excerpt": "MSNBC contributor Frank Figliuzzi speculated Wednesday that the Trump White House delayed sending military assets as the Capitol building was stormed by pro-Trump rioters during the certification of President Biden's election victory.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots",
-      "originalUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dceb1775-5059-410a-b2fa-59a4aa6a6de4/35762ff5-24b7-42c7-b4c0-e4c4511f85cd/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/msnbc-frank-figliuzzi-trump-white-house-capitol-riots.amp",
-      "publishedDateTime": "2021-03-03T16:47:00-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

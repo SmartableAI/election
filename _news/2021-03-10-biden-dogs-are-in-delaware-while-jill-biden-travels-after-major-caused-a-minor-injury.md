@@ -95,6 +95,20 @@ related:
         width: 1440
         height: 961
         isCached: true
+  - title: "Police unions and civil-rights groups are rarely on the same page. They both see an ally in this Biden Justice Department nominee."
+    excerpt: "Associate Attorney General nominee Vanita Gupta is seen as a potential bridge between progressives and the White House as it pushes for bolder criminal justice reform policies."
+    publishedDateTime: 2021-03-16T02:16:00Z
+    webUrl: "https://www.businessinsider.com/vanita-gupta-associate-attorney-general-justice-department-doj-police-reform-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 75
+    images:
+      - url: "https://i.insider.com/604fb8023c6489001943b3ad?width=700"
+        width: 700
+        height: 525
+        isCached: true
 
 secured: "JXpMUNrQ9epck5tcdgC7aa/tgNd5GkdH4ZJ/fpNussiQ49SkEAdmr8PQkxLV5sGvgoMgB8g6DNaSrynvReu7SWjLofrM1QkJGdffE6Yrsq5rRqTAgCzPqIPBttc3cWiV/WLYFM6JTaar3eWNELGKxM2WMVrhftzxZ9TZDHtKp8bfM3r0bumkgI5eCDDvQ5CVp+pId39CdKBvNhaEYgzvmYCCjZTJ0vfKEv9Yk3RUkoB3VhwYUQ2fErmSyi2sDonfAiSCHGIIwLxQH9yP2ZHQCrCyyC/Z/82XNAekub8ys/d8FI2asy+5Z3bXHpzFq+aw5mK4wEDgLdF50rKt1cVEPkCr/wnHKpUec97u8vBj2Zk=;OitiiPTyv8LNN2DLYe5czg=="
 ---
