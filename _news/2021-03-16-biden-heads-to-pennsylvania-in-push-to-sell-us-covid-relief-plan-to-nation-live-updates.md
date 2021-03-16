@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Biden heads to Pennsylvania in push to sell US Covid relief plan to nation – live updates"
-excerpt: "President will speak at small business in battleground state, while Kamala Harris visits Colorado"
-publishedDateTime: 2021-03-16T09:53:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates"
+excerpt: "President will speak at small business in battleground state, while Kamala Harris visits Colorado Martin Belam Hi and welcome to our live coverage of US politics for today. Here’s a catch-up on where we are, and some of what we have in the diary for ..."
+publishedDateTime: 2021-03-16T09:57:00Z
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-60505f2e8f0856ecbbc7a636"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-60505f2e8f0856ecbbc7a636"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates"
 type: article
@@ -25,7 +25,7 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://i.guim.co.uk/img/media/f9b5b7284e78aeadbdd5f0f0963512f419e95cbf/0_277_5601_3361/master/5601.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f2c64ec8558594fd4e9f43741062a397"
+  - url: "https://i.guim.co.uk/img/media/0d5527ef8965a1f7abaaf21c99ddb64feb58858a/0_100_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d66423618d9e5709bb8cc359a6d6bb32"
     width: 600
     height: 360
     isCached: true
@@ -286,6 +286,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/president-joe-biden-american-rescue-primetime-address-06-gty-llr-210311_1615511624482_hpMain_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Florida GOP Rules Out COVID Curbs Despite Joe Biden, Anthony Fauci Warnings"
+    excerpt: "Leading Florida Republicans have dismissed coronavirus warnings from President Joe Biden and his chief medical adviser Anthony Fauci as the Sunshine State looks to end pandemic restrictions and boost businesses ravaged by a year of turmoil. Biden warned ..."
+    publishedDateTime: 2021-03-14T17:12:00Z
+    webUrl: "https://www.newsweek.com/florida-gop-rules-out-covid-curbs-despite-joe-biden-anthony-fauci-warnings-1576009"
+    ampWebUrl: "https://www.newsweek.com/florida-gop-rules-out-covid-curbs-despite-joe-biden-anthony-fauci-warnings-1576009?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/florida-gop-rules-out-covid-curbs-despite-joe-biden-anthony-fauci-warnings-1576009?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 123
+    images:
+      - url: "https://d.newsweek.com/en/full/1755656/beachgoers-pictured-fort-lauderdale-florida.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Kimmel on Biden's Covid relief bill: 'Naturally, Republicans are against it'"
     excerpt: "Late-night hosts discuss Covid relief, the latest Fox News culture wars, and the role white women play in bolstering QAnon"
@@ -678,6 +694,6 @@ related:
         height: 675
         isCached: true
 
-secured: "nxxoiOeRKUhTGSzx03kd4nsfGr623qkdIe/sbkvZWPuk5PQ61ktn1vgKTgO5mcgvC0hwaZiuJm7qdME7XlZRTGDyyIivU0v4Lr4qPm3SfPBy6xWmrorXo1/AstBNHsRwoRCPKh8n0LoOiByAVP508gdVBSH83TmvF0todSHYpO6o8kBARoXwIQa72AHBfAPSoDD4BTYZ4AD9e1tf4av6asUSW8AQC4wVVDxinDd445r8lhiQh23x1U47I19Vlb9q/FOEUpaHRLD+Dj/zEFrX0Gk22TvEaw3mdFoMran3GT11qmKV6D5CphjhquD5ao0rv4EdjyB9iJ1UhmT15ybIX5BpIUo4pKwNTbnJP08rcmkDYpoq0Lx1Y/cIFw1PDAUx5+/yNENBXr3L/6qNdie4qRM1IESBKGGgJ7Wn/pFKtfHfIYR8o8FfrDfwhhfyS5rPdUK3BQgthhjsVuG70jKj6isR6k5k/z0M/bOLodQ+tCSkSyiPDTqiWN7rEjN9GJBiW3xWvbsQU+LeEBx3YppDDQ==;i2etliiM2s+yWD7nqFsudA=="
+secured: "U23eNXROly7MlZptf/0wigZWfbGfWKv4uSdsUSm8ySHru1nzYiI+vZEmow34AdP+fdLA6VSfxylDC6jcLFIvguUXaUUKT9rD6x1DaBmd+jk6AFIVl0Nbs57d+fsMLnpuM3dZVCNlCs9LpSfesi6ohGDVMUPJ3dVawrH7BRu0KEWFSTe3JwaZuxNdqiMP+ynXZtR42FAYkrtHgWrrDVCITm7N2p8iQFuEYK3nTO7El1Ym6gCWhpeSfQ7BNcV2/A9gbvj97j/uQsXU5VlOKcRFkBe4ZWsAnTPeE9mfaFvbHo/1vqzCYWITDB69yyglp5ThcSBKPPoHnNkROc+O2tSxPH62xWbpQeyoVsmBGdNTqgo=;IZbz6m1Bwc95ORd4ksDkDA=="
 ---
 

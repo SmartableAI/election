@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "US intelligence report says Russia attempted to interfere in 2020 election with goal of 'denigrating' Biden and helping Trump"
+    excerpt: "The Office of the Director of National Intelligence released its declassified report on foreign threats to 2020 US elections Tuesday, which concludes that foreign adversaries -- including Russia -- did attempt to interfere.\n    \n"
+    publishedDateTime: 2021-03-16T19:39:28Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rThfD0PTV_E/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/us-election-intel-report/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/us-election-intel-report/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 178
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/170626163907-russia-dnc-hacking-ron-2-00000808-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "This GOP senator slammed Trumpism on his way out the door"
     excerpt: "Missouri Republican Sen. Roy Blunt said something on Monday -- following his surprise retirement announcement -- that is worth paying attention to as we continue to monitor the control that former President Donald Trump continues to exert over his party.\n    \n"
     publishedDateTime: 2021-03-09T23:33:43Z

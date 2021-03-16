@@ -1,15 +1,15 @@
 ---
 category: news
 title: "Joe Concha slams WaPo error: Another misleading story 'gobbled up' by anti-Trump media"
-excerpt: "The Washington Post misquoting former President Trump shows that the media will do whatever it takes to push an agenda against the 45th president, Fox News contributor Joe Concha said on Tuesday."
-publishedDateTime: 2021-03-16T13:36:32Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yG1TH3ae7Ps/washington-post-error-trump-georgia-election-concha"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/yG1TH3ae7Ps/washington-post-error-trump-georgia-election-concha"
+excerpt: "WASHINGTON POST PANNED FOR MASSIVE CORRECTION TO TRUMP-GEORGIA ELECTION STORY: 'SO, THEY MADE UP QUOTES' The Washington Post made a massive correction Monday to a January report about a phone call between then-President Donald Trump and Georgia elections ..."
+publishedDateTime: 2021-03-16T13:38:00Z
+originalUrl: "https://www.foxnews.com/politics/washington-post-error-trump-georgia-election-concha"
+webUrl: "https://www.foxnews.com/politics/washington-post-error-trump-georgia-election-concha"
 ampWebUrl: "https://www.foxnews.com/politics/washington-post-error-trump-georgia-election-concha.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/washington-post-error-trump-georgia-election-concha.amp"
 type: article
-quality: 167
-heat: 167
+quality: 127
+heat: 127
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - Election
+  - Donald Trump
   - Republican Voice
 
 images:
@@ -30,6 +31,6 @@ images:
     height: 340
     isCached: true
 
-secured: "mndTfqNmOTxWdhZBSZEUMKovSKTSIjZYrOplRiBhD6RPmQhgdN05hCLLtJ44Ur0MVRG3v457OtguPYIH1V9OVvglyTZO9KUwUOFKmm/nEclQmB+FrUljY22bMhbpJSfYmhuUtDK5N238PukgS5MO68oiSLRvivc0/EkvD2ivmwTXqDZMTxb7RqkHXYYTmpgfaseYAPf9yF8Uxs9rvwn6YTI8/UVkMSQZzED/KgfMkmP9DH/87uTNdTuPPhK2LJN9lxS2/2lOGWrcoTJWEtgGeTpheDuRFTCYFp4FcNwNaSqoAGudUB38AJcsKcXgisgBykTIP9f/IBq9vCyRpLqWlQ4oU+Du+nTXO+4+FDh+jpY=;MyXnBg6isHPFzyE/b+GOvw=="
+secured: "P8A/7AEU/sIwneF04jH1Sgidf0OW/Y9fKHrk5UQsXoQ5vYRtpzWZnxPq2tGz9A10JyldZN+aHTzmDA+urz1rbLK14xX9sx5UTYkExWWtpIfghqlDrVr5E6WpgUPUCaYFEIlrQgTVwLJ9m2YQ/C+dgCK/GQG39UxXP44kZJwPxlOiBq7j7anKkBWF49SjLqG99tNYffNy4RNCjojP0FeJAwGZLifHWvdUHfJ6JEkMFuMhzhJdq6SAPdM8B6X59m0JNcRfqFwrwPKfI/TPRp2IaFc52RRkh1kzjI4Wklfio9wU+yYrViTM9j/LqPEPFj6DdB2CmIA1pCF7g97DgDRplR55/k/z7ZntNbaRM528mXc=;VQvYmu1Y+MNpPXibcUGgOg=="
 ---
 

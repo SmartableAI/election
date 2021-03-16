@@ -46,6 +46,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden says he has no immediate plans to visit US-Mexico border amid surge of migrant children"
+    excerpt: "President Joe Biden said on Tuesday that he currently has no plans to visit the southern border, even as his administration scrambles to respond to a surge of migrant children coming into the US.\n    \n"
+    publishedDateTime: 2021-03-16T19:02:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z4zbVQG23Tw/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/joe-biden-migrant-children-border-immigration/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/joe-biden-migrant-children-border-immigration/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 164
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210314200145-biden-03142021-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden son-in-law faces conflicts of interest concerns following coronavirus response investments"
     excerpt: "The White House has pledged to bar President Joe Biden's family from using the office for personal gain, but questions are being raised by good governance groups and news outlets about whether an investment firm co-founded by Biden's son-in-law could present a new set of ethical challenges for the administration.\n"
     publishedDateTime: 2021-02-10T17:54:47Z

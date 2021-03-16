@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-be
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1"
 type: article
 quality: 129
-heat: 589
+heat: 629
 published: true
 
 provider:
@@ -125,6 +125,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Kamala Harris Says the ‘Status of Women Is the Status of Democracy'"
+    excerpt: "U.S. Vice President Kamala Harris told the U.N.’s premiere global body fighting for gender equality that “the status of women is the status of democracy” and the Biden administration will work to improve both."
+    publishedDateTime: 2021-03-16T17:57:00Z
+    webUrl: "https://www.bloomberg.com/news/articles/2021-03-16/us-vp-harris-status-of-women-is-the-status-of-democracy"
+    type: article
+    provider:
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 105
+    images:
+      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isZFmFN.FJL8/v1/1200x800.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Kamala Harris Makes Solo Debut, Selling Relief Law and Raising Her Profile"
     excerpt: "Kamala Harris embarked Monday on her first official trip as vice president to promote the just-signed $1.9 trillion stimulus law, a two-day swing that doubles as a chance to boost her own profile. She’s traveling to Nevada and Colorado, both important ..."
     publishedDateTime: 2021-03-15T16:53:00Z
@@ -152,6 +166,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Kamala Harris addresses the UN: 'The status of women is the status of democracy' – video"
+    excerpt: "Kamala Harris spoke about democracy and its connection with women’s equality in her debut address to the UN as US vice-president"
+    publishedDateTime: 2021-03-16T13:21:00Z
+    webUrl: "https://www.theguardian.com/us-news/video/2021/mar/16/kamala-harris-un-address-women-democracy"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 96
+    images:
+      - url: "https://i.guim.co.uk/img/media/2676c303b84add821b441fed7dccf8507b304056/399_0_1515_909/master/1515.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=685183d342646a105ff34cf88e31a9a3"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Vice President Kamala Harris to Deliver Special Remarks During Nickelodeon’s Kids’ Choice Awards 2021"
     excerpt: "Vice President Kamala Harris will deliver special remarks during the Nickelodeon’s Kids Choice Awards 2021 on Saturday, March 13, at 7:30 p.m. (ET/PT). The Vice President, who will be introduced by actress Jennifer Garner, is set to appear as part of the ..."

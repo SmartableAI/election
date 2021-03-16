@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-l
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/feb/10/donald-trump-mar-a-lago-florida"
 type: article
 quality: 125
-heat: 145
+heat: 165
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1730202/donald-trump-mar-lago-mayor-residence-resort-live.jpg"
         width: 2500
         height: 1667
+        isCached: true
+  - title: "Florida Man Angry He Didn't Receive Stimulus Check Threw Smoke Bomb Outside Trump's Mar-A-Lago"
+    excerpt: "A Florida man upset with former President Donald Trump's administration was arrested on Sunday for throwing a smoke bomb at Mar-a-Lago, the former president's residence. Stimulus checks started going out over the weekend as part of President Joe Biden's $1 ..."
+    publishedDateTime: 2021-03-16T19:12:00Z
+    webUrl: "https://www.newsweek.com/florida-man-angry-he-didnt-receive-stimulus-check-threw-smoke-bomb-outside-trumps-mar-lago-1576610"
+    ampWebUrl: "https://www.newsweek.com/florida-man-angry-he-didnt-receive-stimulus-check-threw-smoke-bomb-outside-trumps-mar-lago-1576610?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/florida-man-angry-he-didnt-receive-stimulus-check-threw-smoke-bomb-outside-trumps-mar-lago-1576610?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1757532/donald-trump-smoke-bomb-mar-lago.jpg"
+        width: 2500
+        height: 1647
         isCached: true
 
 secured: "L3AAlEZTOQMCAGYbOzBbZ7teGChA5WC2P0y57XOKXjJl883jWHRlBADKP3+6ZXOsUv9lQmPmFIhrot/TffN0SRV9vRNI1txhpTfRPtqM8WJXCpaz+70unnqrWtf7d/2ztbPwrypT1TWqjxEg7Z4b5Z33a7hVHDrYjM6ybaCMp/cit6S7LSyS/43VQe4ScLMlYuygZ1hnaxPh4Pu6OGCpl6Fl/IsJ1WFw9srfdstXiH5g8C6g30tGoIUMmAYZOer2/GrYhE2Q1UplV2PpRTeWrWqeZvdYBF26mEQGsLeGXw9IEFQ9lmk3hZoyF5/tEfZKq1wKq/ADxTM1zjYbBbxK3wgvJt4PnoRyEzy5Yq5U8FAuq6equtQ6MRQaJs98qdGz/bX/hK80/Sp2wD+bc7jizXrrNZfX80HJ6eypLN5rvflkjDeO3Nut09H3sLpIhJZW19oMhSxEWOooZK3I09JN3UicFd18U/ildmh0ob0gQYdHC5W3w23AfHYoCXdlwkd+XJvqW2pob6WFe4OGZU8KtA==;XubMRYAINs7sC7bo/2ElkQ=="

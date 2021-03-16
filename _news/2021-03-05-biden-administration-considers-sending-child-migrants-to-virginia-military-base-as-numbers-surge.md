@@ -95,6 +95,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden says he has no plans to travel to the southern border"
+    excerpt: "President Biden said Tuesday he does not have any plans to travel to the southern border \"at the moment,\" amid a migrant surge in migrants and overwhelmed facilities. "
+    publishedDateTime: 2021-03-16T18:29:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/DIFlsdjZmWk/biden-travel-southern-border"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-travel-southern-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-travel-southern-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/02/Biden5.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden silent on whether Cuomo should resign after avalanche of Dem calls"
     excerpt: "President Biden isn't weighing in on whether New York Gov. Andrew Cuomo should resign even as top New York congressional Democrats say it's time for him to go, according to White House press secretary Jen Psaki."
     publishedDateTime: 2021-03-12T18:29:13Z
@@ -188,6 +204,22 @@ related:
     quality: 166
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/fe54b1cc-1664-4c31-9654-f7270f5caa7c/770e4e92-07a1-4015-a5bb-27fd7e6c2506/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden labor nominee grilled on California unemployment fraud scandal that happened on her watch"
+    excerpt: "President Biden’s nominee for deputy secretary of labor, Julie Su, was grilled on Tuesday over the massive unemployment insurance scandal that happened on her watch as California’s labor secretary"
+    publishedDateTime: 2021-03-16T19:25:42Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/TzTSgoFYWV4/california-unemployment-fraud-biden-labor-nominee-julie-su"
+    ampWebUrl: "https://www.foxnews.com/politics/california-unemployment-fraud-biden-labor-nominee-julie-su.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/california-unemployment-fraud-biden-labor-nominee-julie-su.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 163
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/3f8e39a8-db80-4c81-a024-901485a25e44/d6a17d8b-b2cf-47c9-a4ec-e4b9681fd2b3/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

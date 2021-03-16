@@ -79,6 +79,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott"
+    excerpt: "This is disgusting what Biden has done. Think about what he’s [the president] doing to individual families, he’s clearly separating these families. They are sending them here because they are hopeful that someday they will get citizenship and then the parents can come."
+    publishedDateTime: 2021-03-15T21:38:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1d2cf3c-87bc-4097-b388-bc8a29522be6/b5e9d12f-d8f8-463e-9d63-8bdafa2aa800/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "79Y+l6ocxtgegOFWvkKWo6gedN7M/SKgbB7FF/7a0dFS9ygwGxtWEQPOsXOuzSjIxXF9NLKmIzzdGlB0CuBPx1y5yYK7Zqm3VVcMZrOPxtGfC3EV1qLTOVtSt1CSrscUp5WBxxMsMoPcpnS+cSapPU+lS6laKRDUEldfhYWCoyuWR2dvpeL54bAwYSIdkOsBReoj1ndid39qwmBjhDXcA4T8FxqAdCbytTED4Q6CCmeXh0YD0s8KLt1Px4Ee+wHzri0sqvWwT6OnuYhJnH79xtrf5sDLNvqBmMLodmWaTndhO/Ve7+EclhttMGu05BKijNUU56iyuwsD++0BCVFOu8UECQ3PRu/IczGrySjKLvQ=;XNqlmdxSNky4miy2h/F9vA=="
 ---

@@ -391,6 +391,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "U.S. says Putin authorized operations to denigrate Biden and boost Trump in 2020 campaign"
+    excerpt: "03:40 Washington — Russian President Vladimir Putin authorized influence operations that sought to damage President Biden's candidacy during the 2020 election and boost former President Donald Trump, according to an unclassified report from the U.S ..."
+    publishedDateTime: 2021-03-16T19:51:00Z
+    webUrl: "https://www.cbsnews.com/news/putin-biden-trump-2020-election-campaign-report/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/putin-biden-trump-2020-election-campaign-report/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/putin-biden-trump-2020-election-campaign-report/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 131
+    images:
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/03/16/bc32f018-d648-4506-ad8f-eb443d5e569e/thumbnail/1200x630g2/457ff5f335e828bf1c318971b6618453/gettyimages-1231663176.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "'The mess we inherited': Biden leans heavily on Trump's 'Warp Speed' but won't give credit"
     excerpt: "President Joe Biden is taking credit for accelerating the vaccine rollout, without giving credit to former President Donald Trump's team that laid the groundwork."
     publishedDateTime: 2021-03-11T03:00:00Z
@@ -916,6 +932,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2020/12/09/USAT/ff3960a4-7ef7-4cb5-a03f-1763bf15f575-AP_TEXAS_AG_CRIMINAL_ACCUSATIONS.jpg?auto=webp&crop=3000,1688,x0,y44&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump's children won't be able to run in 2024 because they'll be stuck in court, his niece Mary predicts"
+    excerpt: "Ivanka Trump and Donald Trump Jr. have both been tipped within the GOP to run for president in 2024."
+    publishedDateTime: 2021-03-16T15:09:00Z
+    webUrl: "https://www.businessinsider.com/trump-children-wont-run-2024-legal-problems-predicts-niece-mary-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/trump-children-wont-run-2024-legal-problems-predicts-niece-mary-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-children-wont-run-2024-legal-problems-predicts-niece-mary-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 108
+    images:
+      - url: "https://i.insider.com/6050a0193c6489001943b4e6?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Manhattan prosecutors could be in the final stages of their wide-ranging investigation into Trump's finances"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. After a months-long battle with Donald Trump over his closely held tax returns, the Manhattan district attorney's office may finally be in the end stages of its wide-ranging ..."

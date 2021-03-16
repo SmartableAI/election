@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/arizona-rancher-biden-administratio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/arizona-rancher-biden-administration-letting-everybody-come-border.amp"
 type: article
 quality: 170
-heat: 230
+heat: 250
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 162
     images:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/393abe21-ee23-4eab-94db-2094b7296c74/7df572df-2db6-487c-a85e-16ff67f07932/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott"
+    excerpt: "This is disgusting what Biden has done. Think about what he’s [the president] doing to individual families, he’s clearly separating these families. They are sending them here because they are hopeful that someday they will get citizenship and then the parents can come."
+    publishedDateTime: 2021-03-15T21:38:00Z
+    webUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 127
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e1d2cf3c-87bc-4097-b388-bc8a29522be6/b5e9d12f-d8f8-463e-9d63-8bdafa2aa800/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

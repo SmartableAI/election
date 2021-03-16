@@ -95,6 +95,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "European Stocks Gain As Recovery Hopes Trump Inflation Fear"
+    excerpt: "Optimism over an economic recovery helped push European stock markets higher Tuesday, while early trading was subdued in New York with the focus on the Federal Reserve's much-anticipated policy meeting this week."
+    publishedDateTime: 2021-03-16T14:59:00Z
+    webUrl: "https://www.ibtimes.com/european-stocks-gain-recovery-hopes-trump-inflation-fear-3162824"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/15/federal-reserve-boss-jerome-powells-post-meeting-comments.jpg"
+        width: 1024
+        height: 765
+        isCached: true
 
 secured: "M6Nd/OBv1NFPDomDNeNlHGgVoK1xn3sdAWpO8THNlqAvQznUKE43DOeZgMLjKQ3m6ECY6TndsIBZ3Qq2/HT4WS1Wbnoee5Ps4TTRR6BPg3ExgHJe9jHMmBA6Dje2YE2g9c93vtB+NGIwVoy4xhDrq6boksF/pherml63JtDHyKDh1WykDh828Mugg96x/t5B2Vo+JMtDk6vPfZclU8enw835RrALtc6Wy+S2R6qAT5jVxuptjgvjmybdVnFMWifsVwmMVu2eqkAk3ul7kP8n+USVZ2C8wGfQQnm3YUzCTpz1a9DFmpCiuGy1fx1o1MgOneZLuCgqvvYfwwKG1niZAL9y3M7DC3JYdnbTuembanYEB6hIhCyyM6BXOFyiiej+EEKGqqPbV/xPZevoQgpyzrt2RBcbjoDmzLQ/MIg6dHYtOn6ndJ7YoJbiWv5rAMzwCGkotMu8gINKa2NdzYMyf4gGvFMBq3dyn5fEScmXBDD25K1Z2QYFaDG4ULUG15VkoRVZmIgTaBg5WNlIrWIGdw==;nv3ctR9Ipxs7UYclVTZODQ=="
 ---

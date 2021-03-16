@@ -47,6 +47,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Florida Man Angry He Didn't Receive Stimulus Check Threw Smoke Bomb Outside Trump's Mar-A-Lago"
+    excerpt: "A Florida man upset with former President Donald Trump's administration was arrested on Sunday for throwing a smoke bomb at Mar-a-Lago, the former president's residence. Stimulus checks started going out over the weekend as part of President Joe Biden's $1 ..."
+    publishedDateTime: 2021-03-16T19:12:00Z
+    webUrl: "https://www.newsweek.com/florida-man-angry-he-didnt-receive-stimulus-check-threw-smoke-bomb-outside-trumps-mar-lago-1576610"
+    ampWebUrl: "https://www.newsweek.com/florida-man-angry-he-didnt-receive-stimulus-check-threw-smoke-bomb-outside-trumps-mar-lago-1576610?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/florida-man-angry-he-didnt-receive-stimulus-check-threw-smoke-bomb-outside-trumps-mar-lago-1576610?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 113
+    images:
+      - url: "https://d.newsweek.com/en/full/1757532/donald-trump-smoke-bomb-mar-lago.jpg"
+        width: 2500
+        height: 1647
+        isCached: true
 
 secured: "i/vgMvj4blhdsf3J+wYi4sj6CHpFiDqrSR2VNaa9nBfI3YaYHyVSGPCs5DkduMF6t/CHVY8sUk4+wkko76hP2JewS8ENEnBk15Z7Djd45MmNA7OqEdSYqC8yb4lZJr8vwkT/Hf4iFwz9Ut6qpnPQALm0rtdzaDWYrRIw7g0k54WSX5KeSvjnCWC64sDjDBMq7S5lqC4MMBUQnjcTGguK/EUY/2TpNpSky9glePlnZP48yMhxmGvtAbSxgwxMcUdcVmD1er0O1Y+AdK/YLxKTWhS/NfZ31A4pc7wxWGMxOQdT/4xjzkZVBR0+mnrQsVvR6xKrGLa8RFtGWdOg8Q3xV8czd0JTdiDgpaXbSamtTgd+i2C875rWE4WKiUXlrRgnPylvYcqxq6xEba9xGQxWkVvOimc4Pp2bPggLJeHRmToqP1gpkjonJhubLo+pfJGcMUGzJ7qQBAAzQjrtJytGpVuqx/hNqjj4rx+i08Hrg2/42KS/g/837plVrFIXHEx05Vyw61tMlstgWAecEGT7SQ==;S0R5qneObqVLGDk8Fo3D5w=="
 ---

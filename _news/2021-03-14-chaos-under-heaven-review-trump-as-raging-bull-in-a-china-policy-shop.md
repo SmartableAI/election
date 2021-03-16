@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-j
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -94,6 +94,20 @@ related:
       - url: "https://i.insider.com/6050b357fe6a340019aced9b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "European Stocks Gain As Recovery Hopes Trump Inflation Fear"
+    excerpt: "Optimism over an economic recovery helped push European stock markets higher Tuesday, while early trading was subdued in New York with the focus on the Federal Reserve's much-anticipated policy meeting this week."
+    publishedDateTime: 2021-03-16T14:59:00Z
+    webUrl: "https://www.ibtimes.com/european-stocks-gain-recovery-hopes-trump-inflation-fear-3162824"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/15/federal-reserve-boss-jerome-powells-post-meeting-comments.jpg"
+        width: 1024
+        height: 765
         isCached: true
 
 secured: "6QTlZabPqfiaYT+LqBuJExJJil6kRYu+qMoS31jYXpQM4npzndd61O5b0AX/c62sisRFuU7tUGAgKKGWFGlHlMj4WcSkGdU6Zmg9yRJSoS7UAh0mjJ8vBb5wcpi9oLZJEqI1a9DcOUwpxq7ZhCAPLRXIwYyztW3zlLFKjo8EcHc+umYW6GI34qb9vthrFayzXrrB+x5wb6+doX4M54vjDQlokmDo9lCu7zA2gvASdM+46wWL9EShrqxtQ4KaBFz43ixwX35A0EyKsBrFq3h+kRUSkvcNG5ovf59nDfQ3yqw1irY9aZEYGeDIF6gLUojjVVB8lKPS7k5CJJeNdmo1KyK0F1PgftYuijwrSs2hVdg=;bqOkbZvye8kqDKl+YQw93g=="
