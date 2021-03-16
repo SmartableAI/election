@@ -230,6 +230,22 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "EU countries suspend AstraZeneca vaccine as US considers authorization; CDC review hints at Trump administration meddling: COVID-19 updates"
+    excerpt: "The CDC failed to live up to standards during Trump administration, according to agency review. U.S. death toll tops 535K. Latest COVID-19 updates."
+    publishedDateTime: 2021-03-16T00:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/03/15/covid-vaccines-restrictions-schools-spring-break/4693789001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4693789001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4693789001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/13/PIND/eb0f2bdd-b5bf-4042-8d4d-7349cf8977d8-scd1.jpg?auto=webp&crop=4031,2267,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fauci: Trump should urge his followers to get vaccinated"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade more of his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows,"
     publishedDateTime: 2021-03-15T05:07:00Z

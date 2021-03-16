@@ -127,6 +127,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "GOP chairwoman calls out Biden for ‘falsely claiming credit’ for Trump’s vaccine wins"
+    excerpt: "Ronna McDaniel, the GOP chairwoman, took to Twitter late Monday to criticize what she sees as President Biden’s attempt to take credit for his predecessor’s vaccine accomplishments—even after casting doubt about safety during the campaign."
+    publishedDateTime: 2021-03-16T08:15:54Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Ia5ZpH7U5GU/gop-chairwoman-calls-out-biden-for-falsely-claiming-credit-for-trumps-vaccine-wins"
+    ampWebUrl: "https://www.foxnews.com/politics/gop-chairwoman-calls-out-biden-for-falsely-claiming-credit-for-trumps-vaccine-wins.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/gop-chairwoman-calls-out-biden-for-falsely-claiming-credit-for-trumps-vaccine-wins.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 183
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/demarche.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
   - title: "Stephen Miller: Trump said let's put a man on Mars, Biden said let's see if we can eat BBQ"
     excerpt: "Former adviser to President Trump, Stephen Miller, tells 'Kudlow' that President Biden's address Thursday set low expectations for the United States"
     publishedDateTime: 2021-03-12T23:49:07Z

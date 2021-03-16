@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/15/harris-pitc
 webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/15/harris-pitches-covid-relief-bill-las-vegas/4710865001/"
 type: article
 quality: 105
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
       - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14916651_web1_webHARRIS-VEGAS-MAR16-21_031521kc_001.jpg?w=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Black colleges counting on Harris to make funding a priority | Charlotte Observer"
+    excerpt: "Black colleges and universities hope high-profile graduates in the Biden administration will push for increased federal support for HBCUs."
+    publishedDateTime: 2021-03-16T10:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article249959349.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249959349.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249959349.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/63fb6cbf-6fea-4217-b61a-3a15a9ef9139/c98eabd7-999d-4061-87d6-76d995916018/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "z9SmTrMV8NUURi/MmOGOLYbyDrH6I1PW6jgvp/kGYM68SJYjQqDIop5X/XCHCHJ7r91yEtIdsiWLZzIaEv51ZfrhWleGYkmkhdJ45hoRHScJbAHvZx475jgDGdEECzbF6CHelzCr5cILQLIcm+ZAfKSKnxJT2WDOpgY2v28yOspoj2FfBHEK80tT1612QnwY3KSSkDfGrLx89lu2RVEc1PpnOdyE2PX/CX8so7oP5T0dG01OnH0yV0y0iJjv5GgA7ED3k0judy92Utum0VO623jSBq02qLLtajMa6AA4PkMhltHIWsv2YehqsIDWJOeQ+v41Y036DLqGRMV7j7KUf5sY7yyAFQ8yioWAMVwrlJM=;8qqavmSjb6uqg5YYAt8uHA=="

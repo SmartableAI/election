@@ -687,6 +687,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden to join road show promoting relief plan with Pa. visit"
+    excerpt: "President Joe Biden is joining top messengers already crisscrossing the country to highlight the benefits of his massive COVID-19 rescue plan"
+    publishedDateTime: 2021-03-16T04:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-join-road-show-promoting-relief-plan-pa-76480847"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-join-road-show-promoting-relief-plan-pa-76480847"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-join-road-show-promoting-relief-plan-pa-76480847"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_98e1a414160e42f5b7ba7e98f244933d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
     publishedDateTime: 2021-03-10T20:24:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp"
 type: article
 quality: 146
-heat: 1546
+heat: 1566
 published: true
 
 provider:
@@ -686,6 +686,22 @@ related:
       - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554967312&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E1DV"
         width: 817
         height: 545
+        isCached: true
+  - title: "Biden to join road show promoting relief plan with Pa. visit"
+    excerpt: "President Joe Biden is joining top messengers already crisscrossing the country to highlight the benefits of his massive COVID-19 rescue plan"
+    publishedDateTime: 2021-03-16T04:12:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/biden-join-road-show-promoting-relief-plan-pa-76480847"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/biden-join-road-show-promoting-relief-plan-pa-76480847"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/biden-join-road-show-promoting-relief-plan-pa-76480847"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_98e1a414160e42f5b7ba7e98f244933d_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/index.html"
 type: article
 quality: 188
-heat: 708
+heat: 728
 published: true
 
 provider:
@@ -422,6 +422,20 @@ related:
     quality: 115
     images:
       - url: "https://static.politico.com/ee/48/91b116ee427d9fffb570fa005647/210311-trump-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
+  - title: "Dems pass on repealing Trump regulations — for now"
+    excerpt: "After taking full control of the government, Republicans and former President Donald Trump wielded a little-used law to roll back more than a dozen Obama-era regulations. But Democrats are taking a different approach. Democrats have yet to use the ..."
+    publishedDateTime: 2021-03-16T09:10:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/democrats-trump-regulations-476162"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f2/e4/32fcf83f46429404bcb7ceb4e4a4/gettyimages-1197853434-c.jpg"
         width: 1160
         height: 773
         isCached: true

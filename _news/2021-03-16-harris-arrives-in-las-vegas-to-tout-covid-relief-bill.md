@@ -85,6 +85,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Black colleges counting on Harris to make funding a priority | Charlotte Observer"
+    excerpt: "Black colleges and universities hope high-profile graduates in the Biden administration will push for increased federal support for HBCUs."
+    publishedDateTime: 2021-03-16T10:00:00Z
+    webUrl: "https://www.charlotteobserver.com/news/politics-government/article249959349.html"
+    ampWebUrl: "https://amp.charlotteobserver.com/news/politics-government/article249959349.html"
+    cdnAmpWebUrl: "https://amp-charlotteobserver-com.cdn.ampproject.org/c/s/amp.charlotteobserver.com/news/politics-government/article249959349.html"
+    type: article
+    provider:
+      name: Charlotte Observer
+      domain: charlotteobserver.com
+    quality: 70
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/63fb6cbf-6fea-4217-b61a-3a15a9ef9139/c98eabd7-999d-4061-87d6-76d995916018/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "kIbXCdgT6wtqAaRq8SxiCHCC+5QyMPfqsVH4emaIhiiR+byBXHeELUff64Dp48vQ+P8NIsLcHt41BlrvoMeoSpTOvSCbYVAl8RIXXNTMiJOAiF/a242F10uFjGqqpnL4TmgXfHUfVMgshbGdf9y+1iiEjnsunXW3w9EevKizForfQe23VDXm6rtlirrFsIgYx/cAUJzLJFQlML07zJmYmwAEc5P58lmb4WJ6oCCylbyuCq3bqtEdw1bbX+glAdoVHHfN4i6TQYPG6Qb3AfrbzWE+Hx05TXtor4BhxjUwGgFY4FOSJiU7FMNRMVZUeQ7tHnR04IIfivgbCiuTXQPfyYy1B1G3cwljz0H5Q8zuW3g=;l/Ckf9DdGKRdYYiAj0QWEw=="
 ---

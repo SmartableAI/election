@@ -230,6 +230,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "EU countries suspend AstraZeneca vaccine as US considers authorization; CDC review hints at Trump administration meddling: COVID-19 updates"
+    excerpt: "The CDC failed to live up to standards during Trump administration, according to agency review. U.S. death toll tops 535K. Latest COVID-19 updates."
+    publishedDateTime: 2021-03-16T00:36:00Z
+    webUrl: "https://www.usatoday.com/story/news/health/2021/03/15/covid-vaccines-restrictions-schools-spring-break/4693789001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4693789001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4693789001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 91
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/13/PIND/eb0f2bdd-b5bf-4042-8d4d-7349cf8977d8-scd1.jpg?auto=webp&crop=4031,2267,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Fauci: Trump should urge his followers to get vaccinated"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade more of his followers to get the COVID-19 vaccine. In a round of interviews on the morning news shows,"
     publishedDateTime: 2021-03-15T05:07:00Z
@@ -279,6 +295,6 @@ related:
         height: 675
         isCached: true
 
-secured: "mBf52yCW92UdrcWO60EYYf5v3w5WVMPw2m++UMX/BdkCQN2TEwmbqK7LvhWA2d/IKgGhGz9Kv67vZD9MCRITJybgcMCXOK+y0QRvGhJiUbr/3OW9K3uIM7rRRiYicaDwpMEoDqpCWZMGBx1dZ8YaTh0/i/uLwGvEOgCSsXhjVXDubJQessSmFcsmUv8a3gnjEnZCXd5921HVeG+ioYhAbogd8k1iKjoVBicMRIe2qb2pWmI54x1Q7jX+eTTHbSWjVh+yJAU1STcC8w2wFJqOS+Fw+DBhacjCWMYXBJzEPBxBYeaAIIu/RH136OZYsXGSIglIGHDTLfjZAUHbL7fvoDD4D0mrdNeI9FgMgDwGIz8=;BkMKUKSCvT6SRIQBmS1J/w=="
+secured: "wxNRTBQIvebXLBsaLUfa87/AjqeoyMiXSxcTXoYCvztB6rGLiLbyOYGifrngqgDvKTtMBLKpzSrmB+FBzH+O7CZw9I80KbO34B/EdUAPB+Vam11wScuA9oPMPEWc8vnU/ObBeNESeOX94t3G/Gxncs6tDWiitYCq/T05qU3xAm/uNPas/w0F7CVxrpWMMnW+1Ng34smAqiD1NUa0bTTeO2e3eQcANO3qEmmhHwVGSqyyc/wxR94SkdC/7nJoNKtZ4zOdpFwRSL/XJALdnGHjA484vmAQVf4OHxd3poYpp++UN0p7M/Hy7/+lFgEcaicWoONvVTB9BULlyaNcV2BgPzN/lBIPbfR4fwkmi3/3BRd9pcwTtlU2rawmrFIPo36XoQh+STaCTrGpYFVRsmPDHd7j0ndMwaenbyV75EONhXQh/vrGGoAKK1R2MWG6MN4h3C8GObB7offrcp6iEpE2/R3ccLnp9LFirEevSfpKaFMFhGvQDSXUpn9He5VBC8XwOZ0KgweqxeHjBwwzCMuWHg==;0OqfleTngeI+zpWhiOcHxA=="
 ---
 

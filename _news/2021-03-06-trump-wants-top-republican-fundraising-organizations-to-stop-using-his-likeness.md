@@ -425,6 +425,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Dems pass on repealing Trump regulations — for now"
+    excerpt: "After taking full control of the government, Republicans and former President Donald Trump wielded a little-used law to roll back more than a dozen Obama-era regulations. But Democrats are taking a different approach. Democrats have yet to use the ..."
+    publishedDateTime: 2021-03-16T09:10:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/democrats-trump-regulations-476162"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/f2/e4/32fcf83f46429404bcb7ceb4e4a4/gettyimages-1197853434-c.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "New York prosecutor targeting Trump won't stand for reelection"
     excerpt: "The move means the endgame of the Trump probe will almost certainly be overseen by a new DA elected in November."
     publishedDateTime: 2021-03-12T12:37:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/cyrus-vance-wont-seek-reelection-ma
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cyrus-vance-wont-seek-reelection-manhattan-da/"
 type: article
 quality: 140
-heat: 600
+heat: 620
 published: true
 
 provider:
@@ -357,6 +357,20 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/2b6/ae1/5cd2b0c410b6f6cd1db0c9832a5ef9871f-8-cyrus-vance.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Asia Stocks Track US Rally As Recovery Hopes Trump Inflation Fear"
+    excerpt: "Optimism over the economic recovery helped push Asian markets higher Tuesday following another record on Wall Street, with focus on the Federal Reserve's much-anticipated policy meeting this week. News that several European countries had stopped ..."
+    publishedDateTime: 2021-03-16T08:20:00Z
+    webUrl: "https://www.ibtimes.com/asia-stocks-track-us-rally-recovery-hopes-trump-inflation-fear-3162824"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 55
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/15/federal-reserve-boss-jerome-powells-post-meeting-comments.jpg"
+        width: 1024
+        height: 765
         isCached: true
   - title: "U.S. Representative Swalwell Sues Trump Over Jan. 6 Insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
