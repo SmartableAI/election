@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former coronavirus testing czar urges Trump to encourage vaccinations"
+    excerpt: "The Trump administration's coronavirus testing czar on Monday called on former President Donald Trump and former Vice President Mike Pence to encourage vaccinations in light of data indicating many Republicans do not intend to get inoculated against Covid-19.\n    \n"
+    publishedDateTime: 2021-03-15T22:43:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4hzpRhOEn7U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315172701-01-brett-giroir-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's time in White House could end up benefiting New York prosecutors  "
     excerpt: "Former President Donald Trump's time in the White House helped shield him from investigations and some lawsuits but it might open him up to greater legal peril from New York prosecutors investigating his finances.\n    \n"
     publishedDateTime: 2021-03-12T16:07:59Z
@@ -304,6 +320,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Former coronavirus testing czar urges Trump to encourage vaccinations"
+    excerpt: "(CNN)The Trump administration's coronavirus testing czar on Monday called on former President Donald Trump and former Vice President Mike Pence to encourage vaccinations in light of data indicating many Republicans do not intend to get inoculated against ..."
+    publishedDateTime: 2021-03-15T18:43:00Z
+    webUrl: "https://www.cnn.com/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315172701-01-brett-giroir-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "December Trump call to GA investigator found by officials in trash folder"
     excerpt: "Officials in the Georgia Secretary of State's Office located a recently released recording of former President Donald Trump's call to a state investigator in a trash folder on her device, a state official familiar with the situation confirmed to CNN."
     publishedDateTime: 2021-03-14T23:41:00Z
@@ -388,6 +420,6 @@ related:
       domain: politico.com
     quality: 110
 
-secured: "ITm+7filY2M6IGCw9YI5dhT/a6xrQteybkLbZXWKv7Mr86eYGLWtlOmTfaDgQaLi5erFq8L7JuIaWbl0f4zsPahFCz+mO8tcCdNml/5WJ7vw4b7chMzRz0cwmxhLxxGOXyvjuVcUO8EAhBVjv39BhZ5ng8ET6wN/r+Q+EgLNF4INgJd0sVCZMn4EzTDtuXyw/584yy2CWvzBOMqi3hlhu6/1vxNGM/x34o60WAWQDsJ/mh4INynKb0dhI2IrTnHBRumUgS7h+6nC41ih9q3MQ4lni6ifxckE7n6szhrLEmsX6GDdaOczUlCfgSpH02M+W7NH1S636g4LdJU0JtaNhm2tikOa/YdPKr0VnRwovaQ=;wMQzJ0/RHsutYvmhDRoyJQ=="
+secured: "yLqfhzUcHbFzEQOAi86L9+9IAHVinB+/mlTA4cK1BYP7I35mAbPC2BCjwg8bc2XEkuF1rqPTfH0OxnFAPLExksHrTTwiYC7jTXhk9F63clzX6M8F48jWtPcFxkPQurG2an6lkIeX8lKzBfxU3k/VudCYpDSpLxE3QuITvAg56wVveqQ3iO2x9zF932Fp4i3OJUb33Pt0jT0pYghbwa/JXZDxUiheJLSMEV4NMHjkFUgXv8bvTFhQpn9Sef+MQ3Ew9IMUOLnLVdU3zUSEs/g10MsQAyG5ubIRKV/GamGow3azHUFe709Tcmrsf3jSEa8GQqhs9x7iiKHX+lnP9ZAZi/JwhltUaDGBA15yYnRtP+U9InMUnxxUhErYuu9ZxWCJqAp4p7b5sEDFlDuI4kGPTewVKGc9pnJrN6j/wYxKEfY/1iWURC++a9j34wsl7ckPChITEqsswcV7XYbw0s+2Jb4OC9pGGKm8KfuIn2O4oPdQkb9We2jDen66uASCBnJXnAoYAft23ze2w7V+fSGzQQ==;UozWn1cRlZUM1cF1ONkuJA=="
 ---
 

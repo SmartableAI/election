@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/jamie-raskin-witness-testimony-trump
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2?amp"
 type: article
 quality: 112
-heat: 132
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Live impeachment updates: Trump's legal team, House prosecutors eye closing arguments with witness question unanswered"
-    excerpt: "Both sides are readying themselves for closing arguments in the Trump impeachment trial. But the decision on whether to call witnesses is unresolved."
-    publishedDateTime: 2021-02-13T11:49:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2021/02/13/trump-impeachment-trial-senate-readies-closing-arguments/6743661002/"
-    ampWebUrl: "https://amp.usatoday.com/amp/6743661002"
-    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6743661002"
+  - title: "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy"
+    excerpt: "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ..."
+    publishedDateTime: 2021-01-18T12:53:00Z
+    webUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336"
+    ampWebUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 101
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
     images:
-      - url: "https://www.gannett-cdn.com/presto/2021/02/13/USAT/df8f68dc-9b25-4a57-99d2-2e20ca5a5fab-AP_Trump_Impeachment_10.jpg?auto=webp&crop=4999,2812,x0,y254&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "In scathing draft of letter never made public, Trump chided James Comey for 'erratic,' 'self-indulgent' conduct"
+    excerpt: "In the days before President Donald Trump fired James Comey as FBI director -- one of the most defining moments of his presidency -- Trump penned a scathing letter to Comey that has never been publicly released."
+    publishedDateTime: 2021-01-18T14:49:00Z
+    webUrl: "https://abcnews.go.com/Politics/scathing-draft-letter-made-public-trump-chided-james/story?id=75298750"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/scathing-draft-letter-made-public-trump-chided-james/story?id=75298750"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/scathing-draft-letter-made-public-trump-chided-james/story?id=75298750"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/james-comey-donald-trump-fired-memo-01-gty-llr-210116_1610834288840_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
 
 secured: "ZnNQoM6cxUMyLisnbjURPlmyILDVua4U3O/wFBjN24lxud7nTtn9NE6xB6pKmJwCWB3wIXRuo8w1njwm5VUdKDV1dpcB6r3D2PEH84LNsWxwdIiDfMxJlLrX8IppSPrwrEiTfXeXF5rj4szUCEoN2dczmwmsCDTPSwHycEtoHrvrMc1CB8moxyJkWOWvAQbcCWeVQQML+eydqnVNcBF2ynFgqRjunBWmOrGwgfk/HYKvC7iuR6iEJ+bkD82kyS2orBKIrAnSjaHnJOwJz0UoNEUoFjxSxY63VHXzUBGy7OcvhC26UuOPMQJJuu65wblnBYO1pS/yg3WB782MR9EKyhvdQbkvnAvLikvrUOHHLDc=;k+hr571877Jp54QXXjbHKQ=="

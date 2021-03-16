@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
 type: article
 quality: 123
-heat: 183
-published: true
+heat: -1
+published: false
 
 provider:
   name: CBS News
@@ -31,53 +31,81 @@ images:
     isCached: true
 
 related:
-  - title: "GOP Lawmaker Claimed 'Democratic Machine' Paid Capitol Rioters to Make Trump Look Bad"
-    excerpt: "As rioters supporting President Donald Trump attacked the U.S. Capitol on January 6, newly elected Republican North Carolina Congressman Madison Cawthorn told conservative talk radio program The Charlie Kirk Show that the \"Democratic machine\" had placed \"agitators\" among the mob in order to make Trump and his followers look bad."
-    publishedDateTime: 2021-01-18T22:31:00Z
-    webUrl: "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458"
-    ampWebUrl: "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1"
+  - title: "Democrats' 2018 Trump Country hero faces hard political path"
+    excerpt: "Barely a year into Donald Trump’s presidency, Democrats were desperate to show they could reconnect with the white, working-class voters who had turned against them DNC Chair Jaime Harrison ..."
+    publishedDateTime: 2021-03-15T18:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 118
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1710490/madison-cawthorn-democratic-machine-rioters-trump-agitators.jpg"
-        width: 3308
-        height: 1932
+      - url: "https://s.abcnews.com/images/Politics/WireAP_712af980a1d74ef9a72e4711f09aa4aa_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
-  - title: "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy"
-    excerpt: "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ..."
-    publishedDateTime: 2021-01-18T12:53:00Z
-    webUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336"
-    ampWebUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
+  - title: "OnPolitics: Four presidents minus Trump"
+    excerpt: "Former presidents Barack Obama, George W. Bush, Bill Clinton and Jimmy Carter appeared in an ad that includes photos of all four – along with their wives – getting vaccinated.  \"Four presidents. Two political parties."
+    publishedDateTime: 2021-03-15T20:26:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/15/biden-goes-covid-stimulus-tour-tout-american-rescue-plan/4706481001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4706481001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4706481001"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
+      name: USA Today
+      domain: usatoday.com
+    quality: 125
     images:
-      - url: "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg"
-        width: 2500
-        height: 1667
+      - url: "https://www.gannett-cdn.com/presto/2020/08/11/USAT/f6157bb9-4255-45ac-b607-7d01b8c3f48e-AP_APTOPIX_Presidents_Club.jpg?auto=webp&crop=1986,1117,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
-  - title: "California man made pipe bombs, plotted attacks on Democrats to keep Trump in power, prosecutors allege"
-    excerpt: "Federal prosecutors alleged in charges made public Wednesday that a California man who wrongly believed Donald Trump had won the election built pipe bombs and planned to go to “war” against Democrats and others to keep him in power."
-    publishedDateTime: 2021-01-28T04:15:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/ian-benjamin-rogers-trump-pipe-bombs-democrats/2021/01/27/c9e2964e-60d5-11eb-9061-07abcc1f9229_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/ian-benjamin-rogers-trump-pipe-bombs-democrats/2021/01/27/c9e2964e-60d5-11eb-9061-07abcc1f9229_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/ian-benjamin-rogers-trump-pipe-bombs-democrats/2021/01/27/c9e2964e-60d5-11eb-9061-07abcc1f9229_story.html?outputType=amp"
+  - title: "Sheriff who flew Trump flag on patrol boat violated ban on partisan political activity, officials say"
+    excerpt: "with the banner depicting President Donald Trump’s face superimposed over an American flag. Hilton, a Republican, acknowledged that an attendee gave deputies the flag and he approved its exhibition, drawing criticism from residents and other officials ..."
+    publishedDateTime: 2021-03-15T02:27:00Z
+    webUrl: "https://www.washingtonpost.com/nation/2021/03/14/hatch-act-trump-boat-flag-sheriff/"
+    ampWebUrl: "https://www.washingtonpost.com/nation/2021/03/14/hatch-act-trump-boat-flag-sheriff/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/nation/2021/03/14/hatch-act-trump-boat-flag-sheriff/?outputType=amp"
     type: article
     provider:
       name: Washington Post
       domain: washingtonpost.com
-    quality: 109
+    quality: 110
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ZLN4RX63YI6PHJR24WPPDN65Y.jpg&w=1440"
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4MTWNMX7RMI6VMHEGUHE4YGMSE.jpg&w=1440"
         width: 1440
-        height: 960
+        height: 961
+        isCached: true
+  - title: "Essential Politics: Making California’s recall about Trump"
+    excerpt: "If the effort to force a recall election against Gov. Gavin Newsom makes it to the ballot, the most intriguing political figure may be the one whose shadow looms large for the governor's friends and foes."
+    publishedDateTime: 2021-03-15T13:00:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-03-15/making-california-recall-newsom-about-trump-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 105
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/a13a66e/2147483647/strip/true/crop/2048x1075+0+145/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb8%2F7e%2F5482f5e9e8ac69792beff8bcf338%2Fla-donald-trump-20171025"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Trump's South Texas Gains Vex Democrats"
+    excerpt: "He thought things had gone O.K. during Donald Trump’s presidency. He didn’t think Trump was fair on immigration, but thought he was good on the economy. Neither party had tried hard to win his ..."
+    publishedDateTime: 2021-03-15T09:58:00Z
+    webUrl: "https://time.com/5946848/donald-trump-hispanic-latino-voters-texas/"
+    type: article
+    provider:
+      name: Time
+      domain: time.com
+    quality: 105
+    images:
+      - url: "https://api.time.com/wp-content/uploads/2021/03/zapata-county-texas-trump.jpg"
+        width: 2400
+        height: 2400
         isCached: true
 
 secured: "t9Q7gRnoPKCynlun3Mrx/ZUdZs1AGQTqM/i36dAX/d49r1POvXWNJLUwi0bFBsm7JH17mlxZ3dsGmiKlDi0Q7s9vx8v9ZimMaqQtAZ3q3NZqBDXxAuZOQ9WZeXJ/8XZYYBKANcX+tLSBwhpPFq1lQGeUUd45ts1TWwRxBt8N9KEG+QSNbErUMnfk1JMoQp+JsNCFQwXaWuOro0cvSygZqVY6uPx+ikyZ9sGo25Os6gghkWpzumLYfoJi8Ok7T0rD6IoBDyFwECIusqNHkce1z7fuIObpTF4ZdEvZW1hNXAfjrW6TSwGLZoxxAK6eyiq1C4+Tc+4o4qC/1J2h8plmILD3I7tLKKmmDRqea7pM6W4=;tYKWY/M0FQhaLHOnWWU/Tw=="

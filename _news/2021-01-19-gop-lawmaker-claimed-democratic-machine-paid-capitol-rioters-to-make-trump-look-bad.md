@@ -9,8 +9,8 @@ ampWebUrl: "https://www.newsweek.com/gop-lawmaker-claimed-democratic-machine-pai
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/gop-lawmaker-claimed-democratic-machine-paid-capitol-rioters-make-trump-look-bad-1562458?amp=1"
 type: article
 quality: 118
-heat: -1
-published: false
+heat: 118
+published: true
 
 provider:
   name: Newsweek
@@ -29,56 +29,6 @@ images:
     width: 3308
     height: 1932
     isCached: true
-
-related:
-  - title: "Meet the impeachment managers who will argue Democrats' case against Trump"
-    excerpt: "Pelosi said the House will officially send the article of impeachment against Mr. Trump to the Senate on Monday. \"We are respectful of the Senate's constitutional power over the t"
-    publishedDateTime: 2021-01-24T12:05:00Z
-    webUrl: "https://www.cbsnews.com/news/trump-second-impeachment-managers/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 123
-    images:
-      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/24/57aaa662-8c1c-41a3-ad09-c83e6c55cbd8/thumbnail/1200x630/0bd961208cc571af7316daf6ffedf08b/gettyimages-1296220549.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy"
-    excerpt: "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ..."
-    publishedDateTime: 2021-01-18T12:53:00Z
-    webUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336"
-    ampWebUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 116
-    images:
-      - url: "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-  - title: "California man made pipe bombs, plotted attacks on Democrats to keep Trump in power, prosecutors allege"
-    excerpt: "Federal prosecutors alleged in charges made public Wednesday that a California man who wrongly believed Donald Trump had won the election built pipe bombs and planned to go to “war” against Democrats and others to keep him in power."
-    publishedDateTime: 2021-01-28T04:15:00Z
-    webUrl: "https://www.washingtonpost.com/national-security/ian-benjamin-rogers-trump-pipe-bombs-democrats/2021/01/27/c9e2964e-60d5-11eb-9061-07abcc1f9229_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/national-security/ian-benjamin-rogers-trump-pipe-bombs-democrats/2021/01/27/c9e2964e-60d5-11eb-9061-07abcc1f9229_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/ian-benjamin-rogers-trump-pipe-bombs-democrats/2021/01/27/c9e2964e-60d5-11eb-9061-07abcc1f9229_story.html?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 109
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/7ZLN4RX63YI6PHJR24WPPDN65Y.jpg&w=1440"
-        width: 1440
-        height: 960
-        isCached: true
 
 secured: "2GS/SmiKOX+8Ev17wHKVM4HBx3zHRHTygJwFkl+nlY9qpSOXwNxCv+tF/7KFSDax6ocj+z37dBE5nD+9i+kVJrSqwpWybwGwD91OXHWQKXqyhiSE+J3M740e1piccfK9BWRR4BNnq/lEzpL2k7klkZnYBOoweV1JwCiydrmiqNQbANRGq7MlnCl6Kzgz4OGHgQs5XBAe+9o3blTXYnCsSoRhaP+axg+rVeDASwdk6l26Hz/csFdlJvAoBCjUlRTpnJdcLIqXt61KrJlK7EQaVzEPkUMReWecFRCLJcVdTbZ58GwLw3utm1fG/POP1Um2twVzq2tJJnwfjURyjwWP2iwG5ESmQ061uML489KSdok=;GkqzVC/Ge3v6JMVYtkF1Cw=="
 ---

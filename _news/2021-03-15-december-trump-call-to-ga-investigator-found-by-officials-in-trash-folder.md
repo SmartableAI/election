@@ -64,6 +64,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former coronavirus testing czar urges Trump to encourage vaccinations"
+    excerpt: "The Trump administration's coronavirus testing czar on Monday called on former President Donald Trump and former Vice President Mike Pence to encourage vaccinations in light of data indicating many Republicans do not intend to get inoculated against Covid-19.\n    \n"
+    publishedDateTime: 2021-03-15T22:43:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4hzpRhOEn7U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315172701-01-brett-giroir-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's time in White House could end up benefiting New York prosecutors  "
     excerpt: "Former President Donald Trump's time in the White House helped shield him from investigations and some lawsuits but it might open him up to greater legal peril from New York prosecutors investigating his finances.\n    \n"
     publishedDateTime: 2021-03-12T16:07:59Z
@@ -303,6 +319,22 @@ related:
       - url: "https://static.politico.com/01/68/675ec1ea48d8a38b552c157e9ae2/210314-trump-cpac-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Former coronavirus testing czar urges Trump to encourage vaccinations"
+    excerpt: "(CNN)The Trump administration's coronavirus testing czar on Monday called on former President Donald Trump and former Vice President Mike Pence to encourage vaccinations in light of data indicating many Republicans do not intend to get inoculated against ..."
+    publishedDateTime: 2021-03-15T18:43:00Z
+    webUrl: "https://www.cnn.com/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315172701-01-brett-giroir-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Vindman twin set for promotion after bad evaluations from Trump appointees"
     excerpt: "Army Lt. Col. Yevgeny Vindman is set to be promoted to full colonel, despite attempts by loyalists to former President Donald Trump to derail his career following his bit role in the president's first impeachment, according to two people familiar with the ..."

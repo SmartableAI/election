@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Democrats' 2018 Trump Country hero faces hard political path"
+    excerpt: "Barely a year into Donald Trump’s presidency, Democrats were desperate to show they could reconnect with the white, working-class voters who had turned against them DNC Chair Jaime Harrison ..."
+    publishedDateTime: 2021-03-15T18:10:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/democrats-2018-trump-country-hero-faces-hard-political-76469641"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 125
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_712af980a1d74ef9a72e4711f09aa4aa_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "OnPolitics: Four presidents minus Trump"
     excerpt: "Former presidents Barack Obama, George W. Bush, Bill Clinton and Jimmy Carter appeared in an ad that includes photos of all four – along with their wives – getting vaccinated.  \"Four presidents. Two political parties."
     publishedDateTime: 2021-03-15T20:26:00Z
@@ -45,53 +61,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The ‘magic’ Donald Trump brought to Republican politics is not a mystery"
-    excerpt: "Lindsey Graham (R-S.C.) painted former president Donald Trump as a sort of magical conservative chimera. That made it trickier, he suggested, for the Republican Party to leverage Trumpism without Trump."
-    publishedDateTime: 2021-03-08T14:50:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp"
+  - title: "Meet the impeachment managers who will argue Democrats' case against Trump"
+    excerpt: "Pelosi said the House will officially send the article of impeachment against Mr. Trump to the Senate on Monday. \"We are respectful of the Senate's constitutional power over the t"
+    publishedDateTime: 2021-01-24T12:05:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-second-impeachment-managers/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-second-impeachment-managers/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 124
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5Q2IST6AYI6XDC6GLSHWQVVDM.jpg&w=1440"
-        width: 1440
-        height: 961
-        isCached: true
-  - title: "Former presidents, except Trump, urge Americans to be vaccinated in new PSA"
-    excerpt: "The Ad Council, which is overseeing the project, told ABC News that the ads were shot at the inauguration of President Joe Biden in January, which Trump did not attend."
-    publishedDateTime: 2021-03-12T02:41:00Z
-    webUrl: "https://abcnews.go.com/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/presidents-trump-urge-americans-vaccinated-psa/story?id=76390139"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
+      name: CBS News
+      domain: cbsnews.com
     quality: 123
     images:
-      - url: "https://s.abcnews.com/images/Politics/president-psa-vaccine-02-ht-jt-210311_1615493485600_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "The 30-second, post-presidency speech about dogs that perfectly summarizes Donald Trump"
-    excerpt: "Donald Trump was the first president since Andrew Johnson to have not had any pets while living in the White House. In 2019, after singer Barbra Streisand criticized the then-president for not having a dog,"
-    publishedDateTime: 2021-03-15T14:09:00Z
-    webUrl: "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/"
-    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/15/30-second-post-presidency-speech-about-dogs-that-perfectly-summarizes-donald-trump/?outputType=amp"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 117
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JOJSJBQPWII6VESMWNGQTO6JJA.jpg&w=1440"
-        width: 1440
-        height: 960
+      - url: "https://cbsnews2.cbsistatic.com/hub/i/r/2021/01/24/57aaa662-8c1c-41a3-ad09-c83e6c55cbd8/thumbnail/1200x630/0bd961208cc571af7316daf6ffedf08b/gettyimages-1296220549.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Sheriff who flew Trump flag on patrol boat violated ban on partisan political activity, officials say"
     excerpt: "with the banner depicting President Donald Trump’s face superimposed over an American flag. Hilton, a Republican, acknowledged that an attendee gave deputies the flag and he approved its exhibition, drawing criticism from residents and other officials ..."
@@ -122,22 +106,6 @@ related:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/a13a66e/2147483647/strip/true/crop/2048x1075+0+145/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb8%2F7e%2F5482f5e9e8ac69792beff8bcf338%2Fla-donald-trump-20171025"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Democrats' 2018 Trump Country hero faces hard political path"
-    excerpt: "HARRISBURG, Pa. (AP) — In 2018, Conor Lamb wasn’t just a candidate — he was a symbol. Barely a year into Donald Trump’s presidency, Democrats were desperate to show they could reconnect with the white, working-class voters who had turned against them."
-    publishedDateTime: 2021-03-15T18:13:00Z
-    webUrl: "https://www.chron.com/news/article/Democrats-2018-Trump-Country-hero-faces-hard-16026976.php"
-    ampWebUrl: "https://www.chron.com/news/amp/Democrats-2018-Trump-Country-hero-faces-hard-16026976.php"
-    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Democrats-2018-Trump-Country-hero-faces-hard-16026976.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 75
-    images:
-      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
-        width: 600
-        height: 336
         isCached: true
 
 secured: "kf71cGTRw1RkyanMS9hLlpTrZuBIaVljVbYclr85477WN6YEZ9prV7FiuazAoUh1cs/JDWamiP/wemjVZoIquIX/U+GrlJI37J4X3623t8bff/VvDdE09q5pqTJq5/AKsPWBHbt8hrhDZKvP/I0okkSZuVrgkSWf1tjpSUkh7wyAQmgQ0TxZ5GgaT8b1AviArzfnp4w7YXwy8CUqrubHsyeKDvCpjxuUIYPiYm+M//jhqTAS7dVCofDhLg0ixImGJ3v1xdWs+fZ6+idCxiYV088jSohbsIz7sUNGS/MCdNhArpA3j4F4MaQadpB0TBvtd1RjlsN0ynGXNDtTEI7UzFLZdKNXKBYiozZogYSUUWlOuSBDkQ/y9f4xjH2dGUO9BfNOQ4zSdA5/OAfCF9dHFfEbXa17gGeAQ5gcFDszZP14I2YNifZOXMErOLI/z96yXUfes3p+5ADPGuHyZWODHU9kZRA8jKhju0BI5PsdiPtdxDyrRJTUlj/61ojHvDOZK77kb35G1XwtQo8CGumwdA==;nRTIONF984OW9jisHRWR4w=="

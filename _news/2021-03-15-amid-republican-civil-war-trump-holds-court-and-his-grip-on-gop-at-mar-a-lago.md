@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The ‘magic’ Donald Trump brought to Republican politics is not a mystery"
+    excerpt: "Lindsey Graham (R-S.C.) painted former president Donald Trump as a sort of magical conservative chimera. That made it trickier, he suggested, for the Republican Party to leverage Trumpism without Trump."
+    publishedDateTime: 2021-03-08T14:50:00Z
+    webUrl: "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/"
+    ampWebUrl: "https://www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/08/magic-donald-trump-brought-republican-politics-is-not-mystery/?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 124
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Z5Q2IST6AYI6XDC6GLSHWQVVDM.jpg&w=1440"
+        width: 1440
+        height: 961
+        isCached: true
   - title: "Lindsey Graham Warns Donald Trump Could 'Destroy' GOP After Combative CPAC Speech"
     excerpt: "Senator Lindsey Graham has warned that former President Donald Trump could destroy the Republican Party or rebuild it as a bigger and more diverse coalition after his combative speech at the Conservative Political Action Conference."
     publishedDateTime: 2021-03-08T10:41:00Z
@@ -46,22 +62,6 @@ related:
       - url: "https://d.newsweek.com/en/full/1751479/senator-lindsey-graham.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "Geoff Duncan Criticizes Voting Restrictions and 'Divisive' Trump, Rules Out GOP Senate Run"
-    excerpt: "Georgia's Lt. Governor Geoff Duncan, a Republican, criticized GOP-led efforts in his state—and across the country—to restrict voting while also slamming former President Donald Trump's \"divisive\" politics. Earlier this month, Georgia's State House ..."
-    publishedDateTime: 2021-03-14T17:15:00Z
-    webUrl: "https://www.newsweek.com/geoff-duncan-criticizes-voting-restrictions-divisive-trump-rules-out-gop-senate-run-1576018"
-    ampWebUrl: "https://www.newsweek.com/geoff-duncan-criticizes-voting-restrictions-divisive-trump-rules-out-gop-senate-run-1576018?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/geoff-duncan-criticizes-voting-restrictions-divisive-trump-rules-out-gop-senate-run-1576018?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 115
-    images:
-      - url: "https://d.newsweek.com/en/full/1755663/geoff-duncan.png"
-        width: 1439
-        height: 796
         isCached: true
 
 secured: "AZ2UNuHmzEQrXGIaeuYUwrukIfq4Okb5CZr0QtwTnzQkzF34Mk0VLNTSSb02/3ad64NQHM2tXzsyDssBo5WuD/suSua4a6ANAO16Fytta+vkJhW3h6chU9juqN8i0+dmRAIAlTyCLCvn9Sn0093eAMGwPRZgR0OFKE/Dp1bg5VU1IA8Y/Uhu4a0EXK7bAWovGfGIAl9k89iRFqb0pPkr1jMVq5dv4uXWMxe/PnYI0ZqVGj8E+ut7jqfPePbHUPpaw1XQHqRTZfmCktIYo9TQsT5y6rxxRErhGfd9HgKZlZIaq8xCBM1478h+MVasBv5vbJhEvnfkxj1XSnv99MJE6toLXO3HEWTWq/ZACXAu1Q2HgpQxUUSctxuNFUaisxGCjdClwXlSM6fk0kW52brMEg25IV+1Df2PnmlVULNVPeilwHZ9d1VoKoHnfI6ZMCf6vajw8wjHCUs0fIrxvqmxtejVIzDcVXsMa4dyT805WG5fOmKacXX+jjEgYL+4lHku3RKtl+1R/7cCfiy3/8AS7A==;W6EHrn5zLZLZyhwKUPsMDA=="

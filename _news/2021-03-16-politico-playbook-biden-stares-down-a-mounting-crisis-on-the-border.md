@@ -30,21 +30,69 @@ images:
     isCached: true
 
 related:
-  - title: "Analysis: Biden's toughest test on economic inequality will be reinvigorating the labor movement"
-    excerpt: "For the Democratic left, President Joe Biden's mammoth victory on Covid relief has inspired new hope of rebalancing America's increasingly unequal economy.\n    \n"
-    publishedDateTime: 2021-03-14T13:00:24Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/66LP6lRyWDw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/14/politics/president-biden-labor-unions-economic-inequality/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/14/politics/president-biden-labor-unions-economic-inequality/index.html"
+  - title: "Schumer keeps pressure on Biden to cancel $50,000 in student loan debt"
+    excerpt: "Senate Majority Leader Chuck Schumer is keeping the pressure on President Joe Biden to forgive $50,000 in federal student loan debt.\n    \n"
+    publishedDateTime: 2021-03-15T23:36:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/niwL0qwQhMk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/student-loan-debt-forgiveness-biden-schumer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/student-loan-debt-forgiveness-biden-schumer/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 162
+    quality: 175
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210122171207-joe-biden-unions-1010-file-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306133945-chuck-schumer-press-conference-covid-relief-package-vote-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "Biden German Shepherd has aggressive incident and is sent back to Delaware"
+    excerpt: "The two German Shepherds belonging to President Joe Biden and first lady Jill Biden were returned to the Biden family home in Delaware last week after aggressive behavior at the White House involving Major Biden, two sources with knowledge tell CNN.\n    \n"
+    publishedDateTime: 2021-03-09T02:47:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i1ZUr17peEA/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/president-joe-biden-white-house-dogs/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/president-joe-biden-white-house-dogs/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201109135250-07-biden-dogs-champ-and-major-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Senate set to confirm Deb Haaland as Biden's Interior secretary in historic vote "
+    excerpt: "The Senate is slated to vote on Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary.\n    \n"
+    publishedDateTime: 2021-03-15T10:05:23Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/iXRGveVPo_c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/deb-haaland-senate-confirmation-vote/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210224140455-01-haaland-confirmation-hearing-0224-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Can Joe Biden Stay on the Sidelines of the Andrew Cuomo Saga?"
+    excerpt: "Should he become drawn into the turmoil surrounding Gov. Andrew M. Cuomo, President Biden could encourage him to resign or to not seek a fourth term in 2022.Credit...Amr Alfiky/The New York Times By Maggie Haberman and Shane Goldmacher So far, President ..."
+    publishedDateTime: 2021-03-15T23:29:00Z
+    webUrl: "https://www.nytimes.com/2021/03/15/us/politics/biden-cuomo-sex-harassment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/15/us/politics/biden-cuomo-sex-harassment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/15/us/politics/biden-cuomo-sex-harassment.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/15/us/politics/15cuomo-biden1/15cuomo-biden1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "9s9rynHe6SRaQ51LUmVePopCmzTd87wnqj8N5LeoEtoHnbqEaG/WAHtgmN7pMhxSGnteKgvcLH2uUjz0tfHZ3Adkh8P7jvr/wvo8G7g1HyxpMAiRs75nf8Gn20smURQyLTi67cR9ZuSVpGgpVcoEs3dxTi6MHN+dkE4jXoxIqg6IavACGeXFrl5DJRx7cj0RRpCGYW98XVoMKyX81hJ7KJM9P8LDpZV3KrCAV6cZT6XmK9xVox+zgpRQIt9Zi7D3kRcGlFYHVelopmPFLluNcrJT2s5ZkiI6yB9Ypf9HMw03qhNxDQ2S6fB63d3cHaUYpVO0UXd4WGra74ueDt6iiVX6gOpxTuIGPRYLj+RigUw=;6VutVhZGNrOflBrNI09teQ=="

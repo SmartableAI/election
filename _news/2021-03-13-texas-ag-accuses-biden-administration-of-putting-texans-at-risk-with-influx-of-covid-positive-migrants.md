@@ -31,51 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Florida lawsuit against Biden administration says ICE guidance puts Americans in danger"
-    excerpt: "Florida’s attorney general on Tuesday filed a lawsuit to halt Immigration and Customs Enforcement (ICE) guidance that narrows the illegal immigrants prioritized for arrest and deportation."
-    publishedDateTime: 2021-03-10T02:14:00Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MqHpCXds8b8/florida-lawsuit-biden-administration-ice-guidance"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp"
+  - title: "North Korea warns Biden administration to avoid 'causing a stink' if it wants peace"
+    excerpt: "The sister of North Korean leader, Kim Yo Jong, criticised ongoing military drills in South Korea and warned the new U.S. administration against “causing a stink” if it wants peace, state news reported on Tuesday."
+    publishedDateTime: 2021-03-15T23:21:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hI8TJhtDfcM/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace"
+    ampWebUrl: "https://www.foxnews.com/politics/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 169
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e3fb25b4-be53-4871-a0e0-07f16e230641/42e8ab05-3320-490b-aeb2-4cba2e2fdb05/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cbfcdd6-020a-4356-8354-e3b36978071e/8c4af3ca-6a87-4366-a264-f6213f22a7d2/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Florida AG sues Biden admin over release of criminal aliens: 'My frustration has boiled over'"
-    excerpt: "Florida Attorney General Ashley Moody announced Tuesday that she is suing the Biden administration over \"egregious\" immigration policies that she believes go against federal law and endanger American citizens."
-    publishedDateTime: 2021-03-09T14:59:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/mxw8VTn1Rqg/florida-sues-biden-criminal-aliens-released-immigration-policy"
-    ampWebUrl: "https://www.foxnews.com/politics/florida-sues-biden-criminal-aliens-released-immigration-policy.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-sues-biden-criminal-aliens-released-immigration-policy.amp"
+  - title: "Biden admin suspends probe into school allegedly segregating students by race; Rep. Owens blasts decision"
+    excerpt: "The U.S. Department of Education suspended an investigation that found students and faculty at an Illinois school were discriminated against through the use of racial \"affinity groups,\" Fox News has learned."
+    publishedDateTime: 2021-03-11T20:05:23Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_bpGui_6G0/biden-admin-education-department-racial-segregation-burgess-owens"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-education-department-racial-segregation-burgess-owens.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-education-department-racial-segregation-burgess-owens.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 164
+    quality: 158
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/c11a2ee3-f012-4ad0-8cbb-047f5c5c23c1/603bf374-1eb6-41ff-a784-64d19c5a8789/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Psaki says Biden will sign COVID measure Friday, calls it 'most progressive bill in American history'"
-    excerpt: "President Biden will sign the $1.9 trillion coronavirus relief bill on Friday afternoon, White House press secretary Jen Psaki announced, calling it the “most progressive bill in American history.” "
-    publishedDateTime: 2021-03-10T20:02:12Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Tnr_2iMTGic/biden-sign-covid-legislation-friday-most-progressive-bill"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-sign-covid-legislation-friday-most-progressive-bill.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-sign-covid-legislation-friday-most-progressive-bill.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 160
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/biden_doublemask_ap.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a462b847-64f6-4ab5-8b42-7debbc2c2c55/b45dd515-fde3-4cfe-a9f9-197377656a3c/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

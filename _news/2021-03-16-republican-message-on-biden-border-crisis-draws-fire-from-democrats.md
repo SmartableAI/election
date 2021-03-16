@@ -2,9 +2,9 @@
 category: news
 title: "Republican message on Biden border 'crisis' draws fire from Democrats"
 excerpt: "Republicans in the U.S. Congress stepped up attacks on President Joe Biden on Monday over a surge of migrants at the U.S.-Mexico border, but were criticized in turn by Democrats for their own immigration record and opposing the coronavirus relief program."
-publishedDateTime: 2021-03-15T20:24:00Z
-originalUrl: "https://www.reuters.com/article/usa-immigration-congress/republican-message-on-biden-border-crisis-draws-fire-from-democrats-idUSL1N2LD2L3"
-webUrl: "https://www.reuters.com/article/usa-immigration-congress/republican-message-on-biden-border-crisis-draws-fire-from-democrats-idUSL1N2LD2L3"
+publishedDateTime: 2021-03-15T20:44:00Z
+originalUrl: "https://www.reuters.com/article/us-usa-immigration-congress/republican-message-on-biden-border-crisis-draws-fire-from-democrats-idUSKBN2B72RU"
+webUrl: "https://www.reuters.com/article/us-usa-immigration-congress/republican-message-on-biden-border-crisis-draws-fire-from-democrats-idUSKBN2B72RU"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B72RU"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B72RU"
 type: article
@@ -80,6 +80,6 @@ related:
         height: 545
         isCached: true
 
-secured: "Cl71IqqrA9FJrlQMkZSMHij6dYeQsd15HJUBN6HZ/81yFlfw3EwZkQpfSYahlbAr8AxfXl0uX1ZT/NOnTJF1d8XuO0RpM5KXk8gH5pfN9bzVd1IR1j+3VEf/9cwj7Aha95UGpGwVlvaQCzgMph4+QxHTuntFfiB5XoyL3k0YqcGHrK/1Cx/s6lAHtiowpGCTeywjxOUU0WS7Bgcu2xv2tb5uu4jJg8+gkOcSx+TBw0EeBd1O4c/4I1GU8ssyT+S7jkP9BDfmcurZ6KV+KeCSi2hDUR9n/uPlvK7O2aRgXgoywvUmTKf/r1TOe7yAcvP5GpNMKzg6C5MnpCt5lcbHkJFFX7Z1OFwxm9vi++u4hX4=;/nEgoWyAod1v7S503wr+Jg=="
+secured: "XNpaU/DRRZ65/rK9k2bfjzC3TBi4t8PZ40HUUe2jBqaZU+mo3NiL8HbbU5bcoiEJ3PdJyh0iooasUX80Xw49n+YBU36Pibo4wDYkuAI26EcCRNrBZDYhDdIChgW+Eyf1W9t+XqKsxtowpuKtgc7E67XsgWkOzu3enfSa9hSAVnKwz5v6oVHzjoZHIHgHuv5k5KVoZCXsm9HgF1ct2X5PSmOeTBY4TgI1NMgvs48x+0hw5H98sYmGni39dOUJ1XZyQbnw92dCtciuJoZJemOZSQEitumry2rV8uIrcQHZGHW/8PkiqqHpNbJaeNZIYx+oj+dx1FzfL3n7WRQSoPqcpQpWJTvqYkLC6TddpI4HNdA=;L+DMbMVFXIiXTvg/tkr7Zg=="
 ---
 

@@ -957,6 +957,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "A Dominion exec forced into hiding due to death threats from Trump fans is beefing up his defamation lawsuit over election conspiracy theories"
+    excerpt: "The lawsuit accuses Donald Trump's presidential campaign, conspiracy theorist attorneys Rudy Giuliani and Sidney Powell, and right-wing media outlets like Newsmax, One America News, and The Gateway Pundit of boosting false claims about him. The defendants ..."
+    publishedDateTime: 2021-03-15T23:07:00Z
+    webUrl: "https://www.businessinsider.com/dominion-executive-eric-coomer-defamation-lawsuit-amended-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/dominion-executive-eric-coomer-defamation-lawsuit-amended-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dominion-executive-eric-coomer-defamation-lawsuit-amended-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/604f909287891e0019850d47?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "A Dominion exec forced into hiding due to death threats from Trump fans is beefing up his lawsuit against Newsmax over election conspiracy theories"
     excerpt: "The lawsuit accuses Donald Trump's presidential campaign, conspiracy theorist attorneys Rudy Giuliani and Sidney Powell, and right-wing media outlets like Newsmax, One America News, and The Gateway Pundit of boosting false claims about him. The defendants ..."
     publishedDateTime: 2021-03-15T18:03:00Z
@@ -1100,6 +1116,6 @@ related:
         height: 663
         isCached: true
 
-secured: "jlfxy5iA107XossQzERL/wp6Rv6fteMGYwqCJ/NzDRltl7P+a7SOGMW/DajqJDr3tJDdOYqMoavdV6d4CstEVMZJ7uUbjBiuQjSzdXs5sWwLQ1Bcr9grnyxOAd9W5ZKXn1DT3Waewcn6IvDWlNInXQvrPJpOeS1uDegat8AVpEH3SCj3rTfNncS0zuu/WqSG7DSLDD3wOjdNCOlRlrQd3dwxwYF37cdc1KMymTJIPikU6vPGXGj9lRLUu58Lm4LkRgY703a5ZCRMFTfpxMqiR6ppwr46/MhfBxhpb00UTl09dXl67UEFrcoPPI0NSqlaSv1a9ue4sTIX9TEsbpiQ3LHo0kaHqVJxD+cDSG9C3/o=;SzK7zSYMAU/HkkV+7NMCtA=="
+secured: "yq/WVYuRvHO7sNggJg0v7ZWSdE3Kn4CALBSopjsewHpeFosf9iOHF8Vk3/Kr6sN3pKQRiDqV9hKX1caQg3za02CwOcawBtIFt4+9VwUqWYW9jrTgQK9Ba8IX23s4SH8ndyyOVzL+VY7m67rQoF+qR8/SNgeLFQX1ombabE3v7NJcLHW7VU3xfWImvGn13s4oFzHAUE8G+FEvGipCksuOzBjAgsD7A0IMjA9zqO02SWfok3LmHCku0ohIUzHlFPMvG+wPjbDtWyaMZFVTiEfPqm1pYuuVcrdMHPD+Y6vwnmqBLHBaX+/cMY2w5V2+jO/HHu9irS0SfWUD3IkClPXjqBPj/yi34U2801MYJXYk9zSVt9XkymyA7Al6Fxcd6QTqEy4Q9A1VcYOVDTbkaelEIHJyxpjbyweDgh4tYiKWcjfAoP7OpVE0IJk8fjg6AdiEP0w12om58YFPjmGEwO3vBmhCnvvhoq9x+rRRMcjY8mVWC4Dy6rzzxcOWlN+OiWNFJag8MJ5JvpNOlr0mcAL//A==;vnw7V0LicDOngIFLhuH3yg=="
 ---
 

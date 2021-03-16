@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/articles/2021-03-15/harris-sells-st
 webUrl: "https://www.bloomberg.com/news/articles/2021-03-15/harris-sells-stimulus-to-nevada-colorado-in-first-solo-trip"
 type: article
 quality: 103
-heat: 183
-published: true
+heat: -1
+published: false
 
 provider:
   name: Bloomberg
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Harris pitches COVID relief bill in Las Vegas"
+    excerpt: "Vice President Kamala Harris says she's on a mission to ensure people know what they were entitled to in the American Rescue Plan. (March 15)"
+    publishedDateTime: 2021-03-15T23:07:00Z
+    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/15/harris-pitches-covid-relief-bill-las-vegas/4710865001/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 105
+    images:
+      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/08776f89-5741-489a-bc95-2abf1b2bb016_poster.jpg?quality=10"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Kamala Harris Makes Solo Debut, Selling Relief Law and Raising Her Profile"
     excerpt: "Kamala Harris embarked Monday on her first official trip as vice president to promote the just-signed $1.9 trillion stimulus law, a two-day swing that doubles as a chance to boost her own profile."
     publishedDateTime: 2021-03-15T17:09:00Z
@@ -59,39 +73,7 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
-    excerpt: "It’s an unpaid position, but Doug Emhoff, husband of Vice President Kamala Harris, says he is approaching second gentleman as a full-time job."
-    publishedDateTime: 2021-03-13T10:00:00Z
-    webUrl: "https://www.sacbee.com/news/politics-government/article249862338.html"
-    ampWebUrl: "https://amp.sacbee.com/news/politics-government/article249862338.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249862338.html"
-    type: article
-    provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 68
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/b0018f62-b6fe-41a9-92e0-177f1e3c9a2c/6e22477c-e373-4d34-af79-1d8070ada578/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The first second gentleman: Doug Emhoff, husband of Kamala Harris, breaks new ground"
-    excerpt: "It’s an unpaid position, but Doug Emhoff says he is approaching the role of being the first second gentleman like a full-time job"
-    publishedDateTime: 2021-03-13T16:24:00Z
-    webUrl: "https://www.detroitnews.com/story/news/nation/2021/03/13/first-second-gentleman-doug-emhoff-husband-kamala-harris-breaks-new-ground/4670261001/"
-    ampWebUrl: "https://amp.detroitnews.com/amp/4670261001"
-    cdnAmpWebUrl: "https://amp-detroitnews-com.cdn.ampproject.org/c/s/amp.detroitnews.com/amp/4670261001"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 68
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2021/03/12/PDTN/bf269e26-7cb4-4442-9726-72b55f2654d6-US-NEWS-EMHOFF-3-AK.jpg?auto=webp&crop=942,530,x150,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "ugLHHRGcIUukZGXH+HrE1klujn0sMQxMLw3aICzcdICt8yx+Bqvr6MgD9OWT2T+Yr/M5MLoDLPVmRChIz3hWEMxU8pE9eQdv0APJIWfkxuvsaT5IyxPIoMQ0cPsNozJn3nG0c7qVVHLOf2d8RWDsk7sy63k4c9iEi2+n+3udHKHH1mGXnGu2/jsIWt9U7ZbT0nKzjZXPG/uRmZ9Z6VN6wSKNAbFcQrHrjv+zBJbn66RIyyWep7NzoBGJbqXuW7HZ1I4TjFPYdXNxgwCfr/+c9LQAVwQgMkyyj4c/HegI/Lefq+Jk/mgegJOoaVrq0s8PeOUc1hGGvQd6kWJjo/YnbPkL3isBsRaZaVhEwE8h7wM=;GHsMDUl8L+r0XeDYGEoPrQ=="
+secured: "yPnXnDgxMxDMw8UN9Zmg1/kb/CQ+waUpBPB1SkWyxfZ22TX4noW3MUbyyriaRQ/EdguTeC6LyHkbjKItiz6cPc7Dw/HLnSdKlTFqxwvd5W+RCBMqXIYZ8DCdBp9E4UbQIuRVoy1Gc7yBYnDjjZMV42DRyPnrrCg1NQIxBWQjye99McBRrfDNFAmD3xxZgktWkXwymx5JaTsq1DyzULhjbaNupQwwWEvdMX93YcuCX+ecYiF5pozqbE/UNfgSZZUu7u8uk9Hgb8bgZST2Radpe3RnpGnpEl8cHX8eSeT/ZoQvo3Ws8hEAFmREDRJbUTtMHttNlrigFdZL9RIKIqQiAwx20i76iHogX4GvXclQGeYxXSPNulA+0ga2+dYYEemTsMH3mXGhwNT/sTqi0gCUZ/iY4WWCVdIl9R4wX3B5acSfPrqV4YUSPdxcsRdEa/Io4K8P+2DAW4g0wVdcqnggeK3DV/4qVr1+qZOOgmqkZFkbMXbvbzpoNaoKrZ8XZ/TjvWGVeOtwkgkYJRr+SYRHcQ==;//Xl1018GgYLvtywJ8B9Yw=="
 ---
 

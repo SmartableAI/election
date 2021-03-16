@@ -31,21 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "‘The Capitol riot was our Chernobyl’: James Comey on Trump, the ‘pee tape’ and Clinton’s emails"
-    excerpt: "The former FBI director was sickened and angered by the attack incited by the president. But has he come to terms with his part in getting him elected?"
-    publishedDateTime: 2021-01-19T05:00:00Z
-    webUrl: "https://www.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails"
-    ampWebUrl: "https://amp.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/jan/19/the-capitol-riot-was-our-chernobyl-james-comey-on-trump-the-pee-tape-and-clintons-emails"
+  - title: "Democrats Hail Jamie Raskin for Leading Donald Trump Impeachment After Loss of Son Tommy"
+    excerpt: "Rep. Jamie Raskin (D-MD) has been praised by his Democratic colleagues for his role leading the impeachment push against President Donald Trump following the death of his son in December. Raskin, whose son Thomas died aged 25 in December, took up the role ..."
+    publishedDateTime: 2021-01-18T12:53:00Z
+    webUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336"
+    ampWebUrl: "https://www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jamie-raskin-son-trump-impeachment-1562336?amp=1"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 113
+      name: Newsweek
+      domain: newsweek.com
+    quality: 116
     images:
-      - url: "https://i.guim.co.uk/img/media/c1670d9840b03e3422e575cb3d7bcb5acadfeb84/0_243_3598_2158/master/3598.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6802a03dd80cbc31d986ecc43d7b3ac"
-        width: 600
-        height: 360
+      - url: "https://d.newsweek.com/en/full/1710325/jamie-raskin-madeleine-dean-capitol.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "'I made the call': Jamie Raskin stands by decision to forgo witnesses in Trump impeachment trial"
+    excerpt: "\"We could have had 5,000 witnesses, and Mitch McConnell would be making the same speech,\" Raskin said of the GOP opposition to a Trump conviction."
+    publishedDateTime: 2021-02-14T19:54:00Z
+    webUrl: "https://www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2"
+    ampWebUrl: "https://www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/jamie-raskin-witness-testimony-trump-impeachment-trial-2021-2?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 112
+    images:
+      - url: "https://i.insider.com/6022eaf567d1e300113c519e?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "aFQgKx81Ox47TTFhW8wSg9kD2dh6PWvl1XFA9JxxSjE3SmpG7grkHXzAo6715p3mXrnh2ZfFI4kXF/BNzSPcIZavfoAq8zgVwQtRnVyV15peUZtHdeW4UcDwVHZ/v+H1Zx24elmuFMmfR+M9Hbzxrs2TpeSdOVJRGgz7A1jv3rzfF/MIvDZP12rtqGi+JbX4thFWo1pWnRVKlPAJu5dgpyZDrHS4+qjgfU+XOayC43GNDZqIT3yIFuONhn5kLVSoeYijh9q95TRS8DisiK5bo7Y93hyYaEKleEMaWnQvohrSEu0wFUcUAN4cBejJTtJ/hIVAjweW0ox9aR5+U8Qt7SmViqWlGePNMiN7ybHyr08=;OeWRgiMjsgvo984YF2s7Cg=="

@@ -1,22 +1,22 @@
 ---
 category: news
 title: "Biden taps Gene Sperling to oversee COVID-19 relief package"
-excerpt: "The White House says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package"
-publishedDateTime: 2021-03-15T17:26:00Z
-originalUrl: "https://www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html"
-webUrl: "https://www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html"
-ampWebUrl: "https://www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/business/biden-to-name-sperling-to-oversee-covid-19-relief-package/2021/03/15/7a79f5b0-859d-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+excerpt: "The White House says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package ..."
+publishedDateTime: 2021-03-15T18:22:00Z
+originalUrl: "https://abcnews.go.com/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
+webUrl: "https://abcnews.go.com/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
+ampWebUrl: "https://abcnews.go.com/amp/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Health/wireStory/biden-sperling-oversee-covid-19-relief-package-76466426"
 type: article
 quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABCNews
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Health/WireAP_1f585f6d25c046ac96827091c1f322cd_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -126,6 +126,22 @@ related:
       - url: "https://s.abcnews.com/images/Health/WireAP_1f585f6d25c046ac96827091c1f322cd_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden puts muscle into implementing relief package"
+    excerpt: "President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster debate This ..."
+    publishedDateTime: 2021-03-15T22:47:00Z
+    webUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package"
+    ampWebUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/bidenjoe_030421getty_optimism.jpg"
+        width: 980
+        height: 551
         isCached: true
   - title: "Biden touts direct checks ahead of American Rescue Plan tour"
     excerpt: "Washington — President Biden continued his message that \"help is here\" on Monday, speaking briefly on the implementation of his $1.9 trillion COVID-19 relief package as he, Vice President Kamala Harris and their spouses prepare to depart on a nationwide ..."
@@ -551,6 +567,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Biden touts American Rescue Plan: \"Shots in arms and money in pockets. That's important\""
+    excerpt: "President Joe Biden continued efforts to promote his American Rescue Plan, speaking Monday at the White House about how it will deliver much-needed assistance. Mr. Biden and Vice President Kamala Harris will spend this week traveling to promote the plan around the country."
+    publishedDateTime: 2021-03-15T19:21:00Z
+    webUrl: "https://www.cbsnews.com/video/biden-american-rescue-plan-covid-shots-in-arms-and-money-in-pockets/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 96
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/15/bd97d734-d062-464a-8747-7ef801963fed/thumbnail/1200x630/8283c876473a7508645e3fb40183592b/cbsn-fusion-biden-touts-shots-in-arms-and-money-in-pockets-thats-important-thumbnail-668817-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "American billionaires could fund two-thirds of Biden's COVID-19 relief package just using profits generated during the pandemic, a report shows"
     excerpt: "DOW S&P 500 NASDAQ 100 American billionaires have earned so much money during the pandemic that they could fund two-thirds of President Joe Biden's COVID-19 relief package using profits generated in the last year, a report shows. The combined fortune of ..."
     publishedDateTime: 2021-03-13T11:01:00Z
@@ -584,6 +614,6 @@ related:
         height: 675
         isCached: true
 
-secured: "zHvmC4765/xmI5DoE/tKHIrhs/iNAKnQlTTB6qqBEsmnXon3AawXjC9LfInzPFJGloTRuHg832eSFP8QyWD+nhPgvtH8PYfv0b0prlraEKP0Cy4508LezBoStNXeB+Xvd5AX2wZzL8YSXs6hXs0mqEHC6nAO9yHFUwDEuCNyVRY/jhOXwaNwIKDk3vWjyR91e8TCmuhFn1g/qMEoR2VxSnjrmeahzW2wSRk93C0MkcN0K6Jc5vuQ5HpoWZ2PvpGHyLTVrrNFxj8JybuQIpYrmslsRMXIwWtx1kE4P0SklWqYODK4CBjyjUDFZR0DmY2Uj8G3w7ZFSsfKpcGrLaVbno5t7FzNat09vVyMmJsTtjQ=;xKa61h2nSfsS4PVhCzkEHQ=="
+secured: "BGPeOxhtDZXVDcJ+k71QpYPSQQcblsBGl1prmqMnkCIylvBMF7eoH1t8oS+ilzqgNy9UOe0ncB8DJKRYHFg0FDd5zi/J4ZECm86vhTrHC5G6VV48hrdUjYhCdb5WxRDkMqz+U6QXKhPz4zXhlggbLMQwctVB+YQ4JnmxawFD6TKYPdsGDAXI1Q6yKzIQ1TAUCmyHar1G6aGmjNG7BiCM67RDMdhQRPrgmpr1tfjAHM6EYBdl5EnFHVf3fm4zSiH38Kr4lI+5ByHjoaKpNOERf521rC3SWVvvJ5ky0SR0/h4e18uiSapchq+Ei658BHXWw0/lrsqmv1X6xUCrhuq9Kc1LT6XibeLeVAz/RJMAqtE=;KptWxl3T6Q9mJL0Rf3/Tmw=="
 ---
 

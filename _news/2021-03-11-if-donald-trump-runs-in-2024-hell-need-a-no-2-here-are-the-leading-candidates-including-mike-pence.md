@@ -958,6 +958,22 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "A Dominion exec forced into hiding due to death threats from Trump fans is beefing up his defamation lawsuit over election conspiracy theories"
+    excerpt: "The lawsuit accuses Donald Trump's presidential campaign, conspiracy theorist attorneys Rudy Giuliani and Sidney Powell, and right-wing media outlets like Newsmax, One America News, and The Gateway Pundit of boosting false claims about him. The defendants ..."
+    publishedDateTime: 2021-03-15T23:07:00Z
+    webUrl: "https://www.businessinsider.com/dominion-executive-eric-coomer-defamation-lawsuit-amended-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/dominion-executive-eric-coomer-defamation-lawsuit-amended-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/dominion-executive-eric-coomer-defamation-lawsuit-amended-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 104
+    images:
+      - url: "https://i.insider.com/604f909287891e0019850d47?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "A Dominion exec forced into hiding due to death threats from Trump fans is beefing up his lawsuit against Newsmax over election conspiracy theories"
     excerpt: "The lawsuit accuses Donald Trump's presidential campaign, conspiracy theorist attorneys Rudy Giuliani and Sidney Powell, and right-wing media outlets like Newsmax, One America News, and The Gateway Pundit of boosting false claims about him. The defendants ..."
     publishedDateTime: 2021-03-15T18:03:00Z

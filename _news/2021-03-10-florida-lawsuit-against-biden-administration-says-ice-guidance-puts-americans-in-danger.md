@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/florida-lawsuit-biden-administratio
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/florida-lawsuit-biden-administration-ice-guidance.amp"
 type: article
 quality: 167
-heat: 227
+heat: 207
 published: true
 
 provider:
@@ -62,22 +62,6 @@ related:
       - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/biden_doublemask_ap.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Texas AG accuses Biden administration of putting Texans 'at risk' with influx of COVID-positive migrants"
-    excerpt: "The Biden administration's handling of the southern border is putting Texans at risk, Attorney General Ken Paxton told \"The Faulkner Focus\" on Friday."
-    publishedDateTime: 2021-03-13T00:52:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_BuhMpftRY/ken-paxton-biden-putting-texans-at-risk"
-    ampWebUrl: "https://www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
         isCached: true
 
 secured: "+zf0GXfdM+ICMxMaAcKpwwed3pzIMgnU+vGGvC+Y40zEWEEmSyPdsCG8+M/eaI955ywTvYWzo6i+lMtvy3s63pZ1l0v1+4/nlpOLdePyM/99mJXmgIzMthLKzbNcw2Zzdfq9eySid0DdxpB6XeXLrwsNoZNO4A22rk4xHe2EUvcoAFMF7dskL4ZwhdbQUC188l4E/b0f7g7nEXRbNO++nwpORJX6zISg+80etTIVzm7EXVMYVB5UfdtgUDqLwPg1wk2a4bDgVodc1RpSNwEbZkLCVY8cN72tVkaAwYRYv4Jy402xeoYWxPlDJ44NvBHLENHfhIbk3uLDL+WZ8e4n3g0EpfzASOgW8FWX7cjMEEM=;h7Nx153gCahds8p+tCE+XA=="

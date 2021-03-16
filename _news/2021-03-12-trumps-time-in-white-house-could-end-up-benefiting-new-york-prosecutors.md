@@ -63,6 +63,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Former coronavirus testing czar urges Trump to encourage vaccinations"
+    excerpt: "The Trump administration's coronavirus testing czar on Monday called on former President Donald Trump and former Vice President Mike Pence to encourage vaccinations in light of data indicating many Republicans do not intend to get inoculated against Covid-19.\n    \n"
+    publishedDateTime: 2021-03-15T22:43:02Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/4hzpRhOEn7U/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315172701-01-brett-giroir-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump wants top Republican fundraising organizations to stop using his likeness"
     excerpt: "Lawyers for former President Donald Trump sent out cease-and-desist letters Friday to the Republican National Committee, the National Republican Congressional Committee, and the National Republican Senatorial Committee for using his name and likeness on fundraising emails and merchandise, a Trump adviser"
     publishedDateTime: 2021-03-06T17:44:05Z
@@ -286,6 +302,22 @@ related:
       - url: "https://static.politico.com/01/68/675ec1ea48d8a38b552c157e9ae2/210314-trump-cpac-ap-773.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "Former coronavirus testing czar urges Trump to encourage vaccinations"
+    excerpt: "(CNN)The Trump administration's coronavirus testing czar on Monday called on former President Donald Trump and former Vice President Mike Pence to encourage vaccinations in light of data indicating many Republicans do not intend to get inoculated against ..."
+    publishedDateTime: 2021-03-15T18:43:00Z
+    webUrl: "https://www.cnn.com/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/brett-giroir-trump-vaccines-cnntv/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315172701-01-brett-giroir-file-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "December Trump call to GA investigator found by officials in trash folder"
     excerpt: "Officials in the Georgia Secretary of State's Office located a recently released recording of former President Donald Trump's call to a state investigator in a trash folder on her device, a state official familiar with the situation confirmed to CNN."

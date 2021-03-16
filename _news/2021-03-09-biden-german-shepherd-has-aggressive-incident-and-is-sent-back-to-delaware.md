@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/08/politics/president-joe-biden-whit
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/08/politics/president-joe-biden-white-house-dogs/index.html"
 type: article
 quality: 173
-heat: 213
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Schumer keeps pressure on Biden to cancel $50,000 in student loan debt"
+    excerpt: "Senate Majority Leader Chuck Schumer is keeping the pressure on President Joe Biden to forgive $50,000 in federal student loan debt.\n    \n"
+    publishedDateTime: 2021-03-15T23:36:36Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/niwL0qwQhMk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/15/politics/student-loan-debt-forgiveness-biden-schumer/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/15/politics/student-loan-debt-forgiveness-biden-schumer/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306133945-chuck-schumer-press-conference-covid-relief-package-vote-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Senate set to confirm Deb Haaland as Biden's Interior secretary in historic vote "
     excerpt: "The Senate is slated to vote on Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary.\n    \n"
     publishedDateTime: 2021-03-15T10:05:23Z
@@ -47,21 +63,35 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Bidens' German shepherd Major nips Secret Service agent's hand, causing 'extremely minor injury'"
-    excerpt: "The press secretary said in an interview on MSNBC's \"Morning Joe\" that it's typical for the dogs to be in Delaware when Jill Biden is traveling. The first lady is in Washington state as part of a West Coast trip to tour military bases and meet with service ..."
-    publishedDateTime: 2021-03-09T20:47:00Z
-    webUrl: "https://www.nbcnews.com/politics/white-house/biden-s-german-shepherd-major-involved-white-house-incident-resulting-n1260169"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1260169"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1260169"
+  - title: "Can Joe Biden Stay on the Sidelines of the Andrew Cuomo Saga?"
+    excerpt: "Should he become drawn into the turmoil surrounding Gov. Andrew M. Cuomo, President Biden could encourage him to resign or to not seek a fourth term in 2022.Credit...Amr Alfiky/The New York Times By Maggie Haberman and Shane Goldmacher So far, President ..."
+    publishedDateTime: 2021-03-15T23:29:00Z
+    webUrl: "https://www.nytimes.com/2021/03/15/us/politics/biden-cuomo-sex-harassment.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/15/us/politics/biden-cuomo-sex-harassment.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/15/us/politics/biden-cuomo-sex-harassment.amp.html"
     type: article
     provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 122
+      name: New York Times
+      domain: nytimes.com
+    quality: 135
     images:
-      - url: "https://media2.s-nbcnews.com/i/newscms/2021_10/3455382/210309-major-biden-mc-12442_b4ae073e2073a88753304c82d48c7cae.JPG"
-        width: 2500
-        height: 1666
+      - url: "https://static01.nyt.com/images/2021/03/15/us/politics/15cuomo-biden1/15cuomo-biden1-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
+  - title: "POLITICO Playbook: Biden stares down a mounting crisis on the border"
+    excerpt: "President JOE BIDEN is about to come under a mountain of pressure from both parties to fix the situation at the border — and address immigration overall. With a humanitarian crisis growing — read this CBS story for the latest — progressives are losing their patience over how long it’s taking Biden to undo Trump-era policies and implement a more humane system he campaigned on."
+    publishedDateTime: 2021-03-15T17:13:00Z
+    webUrl: "https://www.politico.com/newsletters/playbook/2021/03/15/biden-stares-down-a-mounting-crisis-on-the-border-492106"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/4d/ea/f33989ee43c7bd082e3cb7276aea/210314-biden-ap-773.jpg"
+        width: 1160
+        height: 773
         isCached: true
 
 secured: "YAsvbuatD5O678IqXl4BrMkzxMOx604nulpqgbEgc7KWzTAMjwd/O7XXRGfzjxrnr/SXAO2ooMHtyQffXPOf3c+KVfQuVzc8CgMIZafX37Sb8ZlSndFOXAaO2aUqHFI+op2qoJjH5i9K+halL8tM6x1wPH377xH7JawWAOggPLndJTmDFct8reWdrm/JgQmhRN4s0qHHltjKboj34h83FToiKKcwD3/qyUl79fwN+R7L+ulSft/Px9odR3v0VyWggpeW79KnqalgHufYE9GZ5T5uWR0UCEIKx5X9rcXeHv8Z4ah1gktKxlXTKLld9cK53Bq2BHsYKuZ6K95dQMCFC6UVlW6b6XmEGT46hZypZs4=;fItRszBl5bwetHwzhcpBiw=="
