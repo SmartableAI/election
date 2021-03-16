@@ -1,22 +1,22 @@
 ---
 category: news
-title: "Americans Have Saved Enough Amid Pandemic to Nearly Pay for Biden's Stimulus Plan"
-excerpt: "Oxford Economics estimated that U.S. households saved $1.8 trillion from March 2020 to January 2021—just shy of the $1.9 trillion price tag attached to Biden's relief package."
-publishedDateTime: 2021-03-15T21:34:00Z
-originalUrl: "https://www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318"
-webUrl: "https://www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318"
-ampWebUrl: "https://www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318?amp=1"
+title: "Biden heads to Pennsylvania to tout $1.9 trillion American Rescue Plan"
+excerpt: "The president, Vice President Kamala Harris and their spouses are traveling the country to advertise the legislation this week."
+publishedDateTime: 2021-03-16T15:17:00Z
+originalUrl: "https://www.cbsnews.com/news/biden-american-rescue-plan-pennsylvania-trip/"
+webUrl: "https://www.cbsnews.com/news/biden-american-rescue-plan-pennsylvania-trip/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/biden-american-rescue-plan-pennsylvania-trip/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-american-rescue-plan-pennsylvania-trip/"
 type: article
-quality: 120
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: CBS News
+  domain: cbsnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Joe Biden
 
 images:
-  - url: "https://d.newsweek.com/en/full/1756527/joe-biden-delivers-remarks-covid-package.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/16/0eb16c64-3214-459f-9228-5414b5510730/thumbnail/1200x630g2/81c6d595dbf360fb43d8beff85a3a63d/gettyimages-1231735168.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -142,22 +142,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Biden heads to Pennsylvania to tout $1.9 trillion American Rescue Plan"
-    excerpt: "The president, Vice President Kamala Harris and their spouses are traveling the country to advertise the legislation this week."
-    publishedDateTime: 2021-03-16T15:17:00Z
-    webUrl: "https://www.cbsnews.com/news/biden-american-rescue-plan-pennsylvania-trip/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/biden-american-rescue-plan-pennsylvania-trip/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/biden-american-rescue-plan-pennsylvania-trip/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 125
-    images:
-      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/16/0eb16c64-3214-459f-9228-5414b5510730/thumbnail/1200x630g2/81c6d595dbf360fb43d8beff85a3a63d/gettyimages-1231735168.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Biden puts muscle into implementing relief package"
     excerpt: "President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster debate This ..."
@@ -334,6 +318,22 @@ related:
       - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20210315&t=2&i=1554893091&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2E04N"
         width: 817
         height: 545
+        isCached: true
+  - title: "Americans Have Saved Enough Amid Pandemic to Nearly Pay for Biden's Stimulus Plan"
+    excerpt: "Oxford Economics estimated that U.S. households saved $1.8 trillion from March 2020 to January 2021—just shy of the $1.9 trillion price tag attached to Biden's relief package."
+    publishedDateTime: 2021-03-15T21:34:00Z
+    webUrl: "https://www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318"
+    ampWebUrl: "https://www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/americans-have-saved-enough-amid-pandemic-nearly-pay-bidens-stimulus-plan-1576318?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 120
+    images:
+      - url: "https://d.newsweek.com/en/full/1756527/joe-biden-delivers-remarks-covid-package.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Senate delays debate on Biden's $1.9 trillion COVID-19 bill while it is read aloud"
     excerpt: "The U.S. Senate voted on Thursday to take up President Joe Biden's $1.9 trillion coronavirus aid bill, but put off the start of a contentious debate until the full text of the 628-page bill is read aloud."
@@ -678,6 +678,6 @@ related:
         height: 675
         isCached: true
 
-secured: "zsmLpiJz/yXXpl50zhKP/l60rievFgKBCKht6T6s67AzZDSvaqRBLkhfQ3EZXFM+NSwZWW5bNGqEiNtQfDej1/gUzyzV+elXTwywdBp5HiHMu4CCttx1eSXy2Ws3zdOk+XjDKGgZlP7CWeKMF8Dp3vaWVlUQZwQlzSAYt8jAA/s09PvJVefvIJpOMEv604Pe60wFc8r/DYff8cmKXhRCdpOn0N4lSc2ep/KhK2pBvNu/EwhTe+KVXoUlyIwflJN00/2jF8tLTph/Rh4Bv2QbeCdLjB1cLGqtk3+c4ih8UuFLB4fbzam73+63SDG9+TJ0ENObSTL4nxnGcoMh5HCk44tJob3Hm/gthtnJ/goPmq8=;ao3UTdaRjkIwS8iUQczKBA=="
+secured: "WmV3rtwGSL8UQcNX5AP1QcrzY0CaqVtONZzh/UYa1nAFmJDZOGkyS3WXvEse/dtQ2veehVIZkKORI4vHGje+dWyv8T/IeTTr9eUDjhlnbWq3TNO5EnJebEleWCi+4MNPP8MFNGB+/SizSoBc0gXdMdPVIIYiVzJli2S1g5VxyI/UThA+bWV4nlxl/Ujiw0n41TWkMYoVUOzrt2vnBl3DsOlTmfe27KLH7dUrSZT18NUeLHtViSWNX604Fcv7lurOr6GAVZP67q6Il+AMt70Txy6lld2hL3mJ8pL9ndWfmCrcuThTThFSflFBjXS552zXcuykNSRWYQPQfUnxchSwPkEQhkKt0tSkCvfKlA3gEEI=;6VY7z57JZkWEh1HEPtQPGQ=="
 ---
 

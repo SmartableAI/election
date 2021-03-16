@@ -1,32 +1,24 @@
 ---
 category: news
 title: "Kamala Harris visits vegan taco shop in Las Vegas"
-excerpt: "Vice President Kamala Harris made an unscheduled stop at a vegan taco stand in Las Vegas, Nevada on Monday. Harris and other Biden Administration officials are on the road promoting the new $1.9 trillion COVID relief package."
-publishedDateTime: 2021-03-16T10:20:00Z
-originalUrl: "https://www.usatoday.com/videos/news/nation/2021/03/16/kamala-harris-visits-vegan-taco-shop-las-vegas/4713671001/"
-webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/16/kamala-harris-visits-vegan-taco-shop-las-vegas/4713671001/"
+excerpt: "U.S. Vice President Kamala Harris made an unscheduled stop at a vegan taco stand in Las Vegas, Nevada on Monday."
+publishedDateTime: 2021-03-16T13:26:00Z
+originalUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.html"
+webUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.html"
+ampWebUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.amp.html"
+cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.amp.html"
 type: article
-quality: 105
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Election
   - Kamala Harris
-
-images:
-  - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2638fa61-55b0-4ac1-b433-a1a414c3094b_poster.jpg?quality=10"
-    width: 1920
-    height: 1080
-    isCached: true
 
 related:
   - title: "Harris pitches COVID relief bill in Las Vegas"
@@ -120,6 +112,6 @@ related:
         height: 720
         isCached: true
 
-secured: "K98PYmkY/LleR7wak0CHTuDwY+Mds6lY0XtLF0PxfacyiU+ZyFlr8mef9l18TBQ9ZLiQOsWpGxBfyhJK8LrWaxIhIsi/27uHJykjxi2Zk13v8KQtRn10SjmCXemaEvczeUGnlbMZZfKEKK7e1P+l73cO9JzpQIjPBlETLaz+udu0cyz6+iTHONWATPh50keR3LD4pz7pLoPSqb1nVZfy8kg0A8bOhZX5XAimprToHSxClIy5mAgGNi0M/SWyKQztTrl1r0btW+zVBK/jz4Dtxr4OqTYXqvbAtk1GyW9h6PyzB5jzNl1cHMM0ow0AjOiaAijXbGevBcMdwyn7dgRCcc8BSXDGyL6yf/6A4ew1SmCz1sxbMAe/6vJRH6X78zNx4ms091I+48q8Dy4OY+g/6RSnlQDGRfCfqqD9EYX4DXKaa6n7qTbgI0idSu/r3sp3l3hRFS9a+k8QQUcbLM4R8OQiDWLtoLsAmbEvEPVzD5QHGq398V0XHUkD+yI92F0JLdx+bf/Gcwnh1QzkVlYqkw==;8WOYqgIcCxvPuzXS58V+fg=="
+secured: "jNrRN9X7dXRsa7o83qwibuQ4caKoCfeUblqN9t8LPT0MHx9bMTdWNP/tq41OUjhbtCE37C2qg5UTSAtx43Cu1ZgUrUPszO7Bkv9LwahwKQqOUB6wu0AwbvWlY8ohQO5fOCWkQl5K6zbDoghppdfx0P9SJ29F5z6eSa3R0XI/i7CzU7/9sXSrXlABsUwy0jpbCndxGaxtZQT+bW5xyzYEKHvC6uU/hjIchFAyg0ZyTZ2qu9LSDT8ROUWt4lZDHzxKAGsTZD+0F7QTElG5/ahMxm5PU+EM1Jh66A+N9JwbFLJoHXHltHHpLnoN52H0CrNTC6pdaoRRMnIca0PTjLtTfpDM4M1tFTBec8rj0+8HxhDJQQJkLjbtAEDar339ARWVzFDtT4ibXLjCCZCfbkAq6sp1rXe1tN2mOiqMWDNYDv9ryBTPWBbIfHQCepwTXygBacWnA6yDxJVq6LetpgmDm5qIXMnf/tSMfHKNCsMoppV81fDmOOXGZO/UCY4l7UMvldk3il83MbATOADsKowH1Q==;VElG+5A5uABsaGHJFQufMA=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Kamala Harris visits vegan taco shop in Las Vegas"
-    excerpt: "Vice President Kamala Harris made an unscheduled stop at a vegan taco stand in Las Vegas, Nevada on Monday. Harris and other Biden Administration officials are on the road promoting the new $1.9 trillion COVID relief package."
-    publishedDateTime: 2021-03-16T10:20:00Z
-    webUrl: "https://www.usatoday.com/videos/news/nation/2021/03/16/kamala-harris-visits-vegan-taco-shop-las-vegas/4713671001/"
-    type: article
-    provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 105
-    images:
-      - url: "https://www.gannett-cdn.com/authoring/video-thumbnails/2638fa61-55b0-4ac1-b433-a1a414c3094b_poster.jpg?quality=10"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Kamala Harris Makes Solo Debut, Selling Relief Law and Raising Her Profile"
     excerpt: "Kamala Harris embarked Monday on her first official trip as vice president to promote the just-signed $1.9 trillion stimulus law, a two-day swing that doubles as a chance to boost her own profile."
     publishedDateTime: 2021-03-15T17:09:00Z
@@ -119,6 +105,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Kamala Harris visits vegan taco shop in Las Vegas"
+    excerpt: "U.S. Vice President Kamala Harris made an unscheduled stop at a vegan taco stand in Las Vegas, Nevada on Monday."
+    publishedDateTime: 2021-03-16T13:26:00Z
+    webUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.html"
+    ampWebUrl: "https://www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.amp.html"
+    cdnAmpWebUrl: "https://www-stltoday-com.cdn.ampproject.org/c/s/www.stltoday.com/news/kamala-harris-visits-vegan-taco-shop-in-las-vegas/video_f134f4fa-2ae1-573b-9bf0-d86e47f6b0e7.amp.html"
+    type: article
+    provider:
+      name: St. Louis Post-Dispatch
+      domain: stltoday.com
+    quality: 55
 
 secured: "yPnXnDgxMxDMw8UN9Zmg1/kb/CQ+waUpBPB1SkWyxfZ22TX4noW3MUbyyriaRQ/EdguTeC6LyHkbjKItiz6cPc7Dw/HLnSdKlTFqxwvd5W+RCBMqXIYZ8DCdBp9E4UbQIuRVoy1Gc7yBYnDjjZMV42DRyPnrrCg1NQIxBWQjye99McBRrfDNFAmD3xxZgktWkXwymx5JaTsq1DyzULhjbaNupQwwWEvdMX93YcuCX+ecYiF5pozqbE/UNfgSZZUu7u8uk9Hgb8bgZST2Radpe3RnpGnpEl8cHX8eSeT/ZoQvo3Ws8hEAFmREDRJbUTtMHttNlrigFdZL9RIKIqQiAwx20i76iHogX4GvXclQGeYxXSPNulA+0ga2+dYYEemTsMH3mXGhwNT/sTqi0gCUZ/iY4WWCVdIl9R4wX3B5acSfPrqV4YUSPdxcsRdEa/Io4K8P+2DAW4g0wVdcqnggeK3DV/4qVr1+qZOOgmqkZFkbMXbvbzpoNaoKrZ8XZ/TjvWGVeOtwkgkYJRr+SYRHcQ==;//Xl1018GgYLvtywJ8B9Yw=="
 ---
