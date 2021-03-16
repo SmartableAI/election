@@ -352,6 +352,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump set for summit with Putin after 12 Russians charged with hacking Democrats"
+    excerpt: "President Donald Trump is one day away from his high-stakes meeting with Russian President Vladimir Putin in Helsinki, Finland. The summit comes just days after the special counsel investigation brought charges against 12 Russian intelligence officers accused of hacking the emails of Hillary Clinton’s campaign and the Democratic party."
+    publishedDateTime: 2021-03-16T00:18:00Z
+    webUrl: "https://www.nbcnews.com/101/video/trump-set-for-summit-with-putin-after-12-russians-charged-with-hacking-democrats-1277305411936"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo43791941870"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo43791941870"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201807/tdy_sun_kellyo_trump_180715_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Trump's acting Defense Secretary says his January 6 speech incited Capitol rioters"
     excerpt: "(CNN)Former acting Secretary of Defense Christopher Miller believes former President Donald Trump's speech on the morning of January 6 incited the rioters who stormed the US Capitol. \"The question is would anybody have marched on the Capitol and overrun ..."
     publishedDateTime: 2021-03-11T22:02:00Z
@@ -420,6 +436,6 @@ related:
       domain: politico.com
     quality: 110
 
-secured: "mwqT/loG9FkxvJp3qeuW5XqPRztuqXdd60YXdaaPU/Yqb0ffB0eC8/HaFiDUuYfGMR0Jr+B/dXCbeR7xAIDjClkhI9j/jziC2wDgK196KauP6IpDxo7OE7mQGmIskcNfoQ4UEY2xfO9qpkQ4V35N1GqCnTnOoP2QCMckvtNU2llVXtn/SO9QnmqKtPZizr6uvUVadT7Gthgo/HU9M/2oHLYDdFTZkz2Gh7jSvuZHd0Qi6rBKaMw09M5YWxJjrtX3UGPNDBSyVQUs+zgerzuuiiiyXFffSwnQCmxTTAfNWJFGphzoMxOPgfzg/XW32kVLsm/uH4IOrBc7npE2G3B3OalJYjMQogQsZgz+/Tiplbk=;qcM1Wt3osj0s0TDFBgmPUA=="
+secured: "vLTkhI725CraxYdjTm12h02vbxwBdbIg1GoIszOM9t1ulISfzIRs1bbsFUDG1OscbwJz4DddMyLR+L48v00AuiGos+Z3082PF3Jg2CnCCHi934M4ktZQLb/J+Azr9ozvZh5vXFpLL4res9f+3y6DEQhzNCMvDYeJ3JdAogPuH/GqZTvKn8KBMPHtPesTaYY0zMS04aA2aNfQjJuJTu+eeAX+I1RFn/l+RgUmHjzivpn21pNfiKYAJnc34SDuYzX811F10jANbQ3+IN+R+IcdD0X1cdTm0Ag0BVUL/BksF6XG7/BlZ8SGU/IsCaXwKOjzPCXiMLpmtJSXmVH5XB3ESkcioc1rB4NJOms3+KnTFsIlAoYrSRgrImXqgQWksZuaP+Yd8qya7RgwxCHlm7ylsocw010CwyHM58FRor4WfBX6yXlrg/ySttK+xZEiAhlEfLt1efJfNpdT/zO6BiT3ggJad9TaZEkhm8QHO3fSUcpNh42CmXEvNsX+M6kAQPZrq1+jVldgvzSIdaWEj5atzQ==;UBlcwYjbD6ryT5L5VmvsnQ=="
 ---
 

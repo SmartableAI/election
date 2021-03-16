@@ -864,20 +864,20 @@ related:
         height: 682
         isCached: true
   - title: "The road show begins: VP Harris, Jill Biden promote aid plan"
-    excerpt: "From a vaccination site in the desert West to a grade school on the Eastern seaboard, President Joe Biden’s top messengers — his vice president and wife among"
-    publishedDateTime: 2021-03-15T21:54:00Z
-    webUrl: "https://www.twincities.com/2021/03/15/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/"
-    ampWebUrl: "https://www.twincities.com/2021/03/15/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/amp/"
-    cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2021/03/15/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/amp/"
+    excerpt: "Biden, Vice President Kamala Harris and their spouses have launched an ambitious tour this week to promote the $1.9 trillion plan as a way to battle the pandemic and boost the economy. The road show — dubbed the “Help is here” tour by the White House — began with Harris visiting a COVID-19 vaccination site and a culinary academy in Las Vegas and first lady Jill Biden touring a New Jersey elementary school."
+    publishedDateTime: 2021-03-16T01:47:00Z
+    webUrl: "https://www.chron.com/news/article/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
     type: article
     provider:
-      name: TwinCities.com
-      domain: twincities.com
+      name: Houston Chronicle
+      domain: chron.com
     quality: 90
     images:
-      - url: "https://www.twincities.com/wp-content/uploads/2021/03/Harris_82103-1.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Biden wants Harris to have a major role. What it is hasn’t been defined."
     excerpt: "President Joe Biden has worked to include VP Kamala Harris in nearly all his public appearances, and stress that she is a full partner in the decisions he makes."

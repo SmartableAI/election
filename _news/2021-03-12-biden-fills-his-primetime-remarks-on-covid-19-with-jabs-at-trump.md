@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-ja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
 type: article
 quality: 190
-heat: 930
+heat: 950
 published: true
 
 provider:
@@ -428,6 +428,22 @@ related:
     quality: 160
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Texas GOP rep tells 'FOX News Primetime' Biden 'complicit' in human trafficking across US-Mexico border"
+    excerpt: "The Biden administration is \"aiding and abetting in the crime of human trafficking\" by allowing migrant children to be released into the U.S., Rep. Troy Nehls, R-Texas, told \"Fox News Primetime\" Monday."
+    publishedDateTime: 2021-03-16T00:36:07Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/9n9Soq6Wyxw/troy-nehls-biden-complicit-human-trafficking-border"
+    ampWebUrl: "https://www.foxnews.com/politics/troy-nehls-biden-complicit-human-trafficking-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/troy-nehls-biden-complicit-human-trafficking-border.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 159
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

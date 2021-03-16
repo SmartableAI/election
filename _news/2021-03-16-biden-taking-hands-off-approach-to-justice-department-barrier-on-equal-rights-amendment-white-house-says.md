@@ -66,18 +66,18 @@ related:
   - title: "In early foreign policy tests, Biden takes on world as it is"
     excerpt: "President Joe Biden in his early days in office has vowed a dramatic reordering of U.S. foreign policy from his predecessor"
     publishedDateTime: 2021-03-15T17:26:00Z
-    webUrl: "https://www.washingtonpost.com/world/national-security/in-early-foreign-policy-tests-biden-takes-on-world-as-it-is/2021/03/15/943e6e66-85b3-11eb-be4a-24b89f616f2c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/world/national-security/in-early-foreign-policy-tests-biden-takes-on-world-as-it-is/2021/03/15/943e6e66-85b3-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/in-early-foreign-policy-tests-biden-takes-on-world-as-it-is/2021/03/15/943e6e66-85b3-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    webUrl: "https://abcnews.go.com/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/early-foreign-policy-tests-biden-takes-world-76470959"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 125
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_f9ce496c7d34449c9f422668858143f4_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Biden's dog Major caused 'minor' injury: White House"
     excerpt: "White House. Posted . President Joe Biden's younger dog, a rescue named Major, has decamped the White House after causing a \"mino"

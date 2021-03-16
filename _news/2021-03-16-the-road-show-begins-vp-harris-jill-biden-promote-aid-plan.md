@@ -1,29 +1,29 @@
 ---
 category: news
 title: "The road show begins: VP Harris, Jill Biden promote aid plan"
-excerpt: "From a vaccination site in the desert West to a grade school on the Eastern seaboard, President Joe Biden’s top messengers — his vice president and wife among"
-publishedDateTime: 2021-03-15T21:54:00Z
-originalUrl: "https://www.twincities.com/2021/03/15/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/"
-webUrl: "https://www.twincities.com/2021/03/15/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/"
-ampWebUrl: "https://www.twincities.com/2021/03/15/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/amp/"
-cdnAmpWebUrl: "https://www-twincities-com.cdn.ampproject.org/c/s/www.twincities.com/2021/03/15/the-road-show-begins-vp-harris-jill-biden-promote-aid-plan/amp/"
+excerpt: "Biden, Vice President Kamala Harris and their spouses have launched an ambitious tour this week to promote the $1.9 trillion plan as a way to battle the pandemic and boost the economy. The road show — dubbed the “Help is here” tour by the White House — began with Harris visiting a COVID-19 vaccination site and a culinary academy in Las Vegas and first lady Jill Biden touring a New Jersey elementary school."
+publishedDateTime: 2021-03-16T01:47:00Z
+originalUrl: "https://www.chron.com/news/article/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
+webUrl: "https://www.chron.com/news/article/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
+ampWebUrl: "https://www.chron.com/news/amp/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
+cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Biden-Harris-and-others-to-promote-relief-plan-s-16025794.php"
 type: article
 quality: 90
 heat: -1
 published: false
 
 provider:
-  name: TwinCities.com
-  domain: twincities.com
+  name: Houston Chronicle
+  domain: chron.com
 
 topics:
   - Election
   - Kamala Harris
 
 images:
-  - url: "https://www.twincities.com/wp-content/uploads/2021/03/Harris_82103-1.jpg?w=1024&h=683"
-    width: 1024
-    height: 683
+  - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+    width: 600
+    height: 336
     isCached: true
 
 related:
@@ -1843,6 +1843,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "JqtJyB6r45OialWTXdXahIe4uHyD0ahHIobJl1d7XhVwtC1h/lyF+PUOtXjVL3auBWXsa86FWEXMxoHG+m7ocTqw8VDcuQ4XW9GWHWJDKWhXoEd6ipPnVNv66iqAhK3Y4UmgVswJQ6N2k2kxwEAuawMxmyLNSUQ2SSel8ot/jA0i0PeMO+r7oUaS3eh6ZgFxBr/aEMWCqtjUUI1tho/lsQrMFjjIgUkcxTHgOY9ylTaP7DVD2BbEQRhwPUBd5AoYztwomk/QP+gP5Eueb0Kuq9qUMNUoFn8A9/qZisyYYuEWlvpvzCRg1h1XxW6PHMWmjVc+syNmdTKES94OdhAQpP5xAzzR7HrsKV55DRwmMT8=;rDwtohbHHJfzp9Fy5zI9Cw=="
+secured: "mm7fbs4s4TUzfkAYoO0iUFu+TBiXQGUBIjh014GL033vb+VPbiTJrPMWwQW6BlisXknCSu1BXbK+INcUcRDDjjCYcSTxJK/Bf/1izLwz6sfGdJF0atUkTaa0Jy3R/nRhCotGzDsIkzGmG7ky6OSJcqh3+Q8K+qXg0GClkxC18kcc0nv4mdZBmYUyi1NOzXak2zpT3Ca7uCCZWD1yQqjardKsGq473KaImhzoxyi/WyBRRStJehavAcuI+v7WnGefMpn6XZ62UXNkaCAOhW7B60cmp0I1DY1rcgb4AtrqtD7KI9ZUYpcvKgb+0NxPZ4cqwBXihGkUbXRYcPMEebpts5DyYhJJz9mfbNa65uGCNdU=;RrcO2ULd9ql04zt4nQaACw=="
 ---
 

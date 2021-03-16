@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-pr
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-vows-to-keep-minimum-wage-provision-in-house-bill-harris-could-act.amp"
 type: article
 quality: 183
-heat: 363
+heat: 323
 published: true
 
 provider:
@@ -48,22 +48,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Psaki won't say if Harris will speak out on Cuomo sexual misconduct allegations"
-    excerpt: "White House press secretary Jen Psaki did not have an answer as to if or when Vice President Kamala Harris might speak out on the sexual misconduct allegations against New York Gov. Andrew Cuomo."
-    publishedDateTime: 2021-03-02T19:41:19Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TNkBgdkl2M/psaki-harris-cuomo-sexual-misconduct-allegations"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-harris-cuomo-sexual-misconduct-allegations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-harris-cuomo-sexual-misconduct-allegations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 181
-    images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ac83c37-360a-4688-9723-235035f9ff46/eb418ed8-fc9d-428b-aa57-4bde06c028ea/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Kamala Harris tweet celebrating Dr. Seuss in 2017 resurfaces after president's omission"
     excerpt: "A tweet written by Vice President Kamala Harris praising Dr. Seuss four years ago resurfaced Tuesday after President Biden failed to mention the children’s author when making his \"Read Across America Day\" proclamation."
     publishedDateTime: 2021-03-03T08:31:49Z
@@ -93,22 +77,6 @@ related:
     quality: 177
     images:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21036028847140.jpg?ve=1&tl=1"
-        width: 640
-        height: 320
-        isCached: true
-  - title: "Clinton, Harris, Warren all silent on Cuomo after second woman brings sexual misconduct allegations"
-    excerpt: "Multiple high-profile Democratic women have yet to publicly comment on sexual harassment allegations against New York Gov. Andrew Cuomo despite having fervently objected to the nomination of Brett Kavanaugh to the U.S. Supreme Court over decades-old allegations of sexual harassment."
-    publishedDateTime: 2021-02-28T22:09:28Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0RpL2G5P4Q/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations"
-    ampWebUrl: "https://www.foxnews.com/politics/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 171
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055530944049.jpg?ve=1&tl=1"
         width: 640
         height: 320
         isCached: true

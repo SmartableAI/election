@@ -368,6 +368,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Trump set for summit with Putin after 12 Russians charged with hacking Democrats"
+    excerpt: "President Donald Trump is one day away from his high-stakes meeting with Russian President Vladimir Putin in Helsinki, Finland. The summit comes just days after the special counsel investigation brought charges against 12 Russian intelligence officers accused of hacking the emails of Hillary Clinton’s campaign and the Democratic party."
+    publishedDateTime: 2021-03-16T00:18:00Z
+    webUrl: "https://www.nbcnews.com/101/video/trump-set-for-summit-with-putin-after-12-russians-charged-with-hacking-democrats-1277305411936"
+    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo43791941870"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo43791941870"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 130
+    images:
+      - url: "https://media1.s-nbcnews.com/i/MSNBC/Components/Video/201807/tdy_sun_kellyo_trump_180715_1920x1080.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Manhattan DA Cy Vance, whose office is investigating Trump, won't seek re-election"
     excerpt: "WASHINGTON — Manhattan District Attorney Cy Vance, whose office is investigating former President Donald Trump and the Trump Organization, announced Friday that he won’t run for re-election and will leave office at the end of the year. The 66-year-old ..."
     publishedDateTime: 2021-03-12T14:54:00Z

@@ -69,6 +69,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Kamala Harris visits Las Vegas to tout COVID relief bill"
+    excerpt: "Vice President Kamala Harris visited with health care providers at UNLV and workers packing food boxes for those in need at the Culinary Academy of Las Vegas on Monday in the first of a series of stops throughout the country to tout the benefits of the $1 ..."
+    publishedDateTime: 2021-03-16T00:11:00Z
+    webUrl: "https://www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/"
+    ampWebUrl: "https://www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+    cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/news/politics-and-government/kamala-harris-visits-las-vegas-to-tout-covid-relief-bill-2304863/amp/"
+    type: article
+    provider:
+      name: Las Vegas Review-Journal
+      domain: reviewjournal.com
+    quality: 75
+    images:
+      - url: "https://www.reviewjournal.com/wp-content/uploads/2021/03/14916651_web1_webHARRIS-VEGAS-MAR16-21_031521kc_001.jpg?w=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "kIbXCdgT6wtqAaRq8SxiCHCC+5QyMPfqsVH4emaIhiiR+byBXHeELUff64Dp48vQ+P8NIsLcHt41BlrvoMeoSpTOvSCbYVAl8RIXXNTMiJOAiF/a242F10uFjGqqpnL4TmgXfHUfVMgshbGdf9y+1iiEjnsunXW3w9EevKizForfQe23VDXm6rtlirrFsIgYx/cAUJzLJFQlML07zJmYmwAEc5P58lmb4WJ6oCCylbyuCq3bqtEdw1bbX+glAdoVHHfN4i6TQYPG6Qb3AfrbzWE+Hx05TXtor4BhxjUwGgFY4FOSJiU7FMNRMVZUeQ7tHnR04IIfivgbCiuTXQPfyYy1B1G3cwljz0H5Q8zuW3g=;l/Ckf9DdGKRdYYiAj0QWEw=="
 ---

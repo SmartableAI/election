@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Kamala Harris takes heat for silence on Cuomo accusations"
+    excerpt: "Vice President Harris is taking heat for staying silent amid sexual misconduct allegations against her fellow high-profile Democrat Andrew Cuomo."
+    publishedDateTime: 2021-03-16T00:16:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/ujkqM_blCvI/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silence-cuomo-accusations-kavanaugh-jeanine-pirro.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 185
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/02/640/320/AP20038674193000.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden, Harris refuse to call for Cuomo to resign as governor's support collapses in New York, nationwide"
     excerpt: "President Biden and Vice President Kamala Harris are not calling for New York Gov. Andrew Cuomo to resign even as a growing number of New York and national Democrats say it's time for the scandal-ridden governor to step down."
     publishedDateTime: 2021-03-15T11:33:14Z
@@ -43,6 +59,22 @@ related:
       - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Psaki won't say if Harris will speak out on Cuomo sexual misconduct allegations"
+    excerpt: "White House press secretary Jen Psaki did not have an answer as to if or when Vice President Kamala Harris might speak out on the sexual misconduct allegations against New York Gov. Andrew Cuomo."
+    publishedDateTime: 2021-03-02T19:41:19Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-TNkBgdkl2M/psaki-harris-cuomo-sexual-misconduct-allegations"
+    ampWebUrl: "https://www.foxnews.com/politics/psaki-harris-cuomo-sexual-misconduct-allegations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-harris-cuomo-sexual-misconduct-allegations.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 181
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9ac83c37-360a-4688-9723-235035f9ff46/eb418ed8-fc9d-428b-aa57-4bde06c028ea/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Silence on Cuomo continues for Kamala Harris, who crusaded against Brett Kavanaugh"
     excerpt: "Vice President Kamala Harris has not weighed in on the swelling sexual misconduct allegations against New York Gov. Andrew Cuomo. "
@@ -60,85 +92,37 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden has gone 48 days as president without formal news conference"
-    excerpt: "President Biden was sworn into office as the 46th president of the United States 48 days ago — but he has yet to schedule a formal press conference."
-    publishedDateTime: 2021-03-09T13:51:57Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/WJ06nnQ8u2M/biden-no-news-conference"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-no-news-conference.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-no-news-conference.amp"
+  - title: "Kamala Harris childhood home landmark-status effort dropped in Berkeley, California"
+    excerpt: "Vice President Kamala Harris' childhood home in Berkeley, California, won’t become a historical landmark anytime soon."
+    publishedDateTime: 2021-03-12T04:30:06Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Xw0b2dIOn0I/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-childhood-home-landmark-status-effort-dropped-in-berkeley-california.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 175
+    quality: 179
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/brooke-singman-headshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden silent on whether Cuomo should resign after avalanche of Dem calls"
-    excerpt: "President Biden isn't weighing in on whether New York Gov. Andrew Cuomo should resign even as top New York congressional Democrats say it's time for him to go, according to White House press secretary Jen Psaki."
-    publishedDateTime: 2021-03-12T18:29:13Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/r2seJnmpK5A/psaki-biden-cuomo-resign"
-    ampWebUrl: "https://www.foxnews.com/politics/psaki-biden-cuomo-resign.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/psaki-biden-cuomo-resign.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 174
-    images:
-      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a14e8454-6da2-4ad0-ac22-b98f9eeb2aff/adc0ac07-9da3-4087-90c4-ae385a9c3d17/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden, no stranger to inappropriate touching accusations, gives Cuomo pass"
-    excerpt: "President Biden refused to join the chorus of fellow Democrats calling for New York Gov. Andrew Cuomo to resign, as Cuomo faces multiple scandals, including allegations of improper touching."
-    publishedDateTime: 2021-03-15T15:09:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/fIN5Q2skAIo/biden-inappropriate-touching-accusations-cuomo"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-inappropriate-touching-accusations-cuomo.amp"
+  - title: "Clinton, Harris, Warren all silent on Cuomo after second woman brings sexual misconduct allegations"
+    excerpt: "Multiple high-profile Democratic women have yet to publicly comment on sexual harassment allegations against New York Gov. Andrew Cuomo despite having fervently objected to the nomination of Brett Kavanaugh to the U.S. Supreme Court over decades-old allegations of sexual harassment."
+    publishedDateTime: 2021-02-28T22:09:28Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B0RpL2G5P4Q/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations"
+    ampWebUrl: "https://www.foxnews.com/politics/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/clinton-harris-warren-silent-cuomo-after-second-woman-sexual-misconduct-allegations.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 173
+    quality: 171
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden signs executive orders on combating sexual harassment, coinciding with Cuomo scandal"
-    excerpt: "President Biden is taking action with the aim of advancing gender equality and combating sexual harassment, while a prominent member of his party, New York Gov. Andrew Cuomo, finds himself at the center of a growing harassment scandal."
-    publishedDateTime: 2021-03-08T15:02:54Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/Vp0fzUOzDo8/biden-executive-orders-sexual-harassment-cuomo-scandal"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-executive-orders-sexual-harassment-cuomo-scandal.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-executive-orders-sexual-harassment-cuomo-scandal.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 165
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
-  - title: "Biden's silence on Cuomo not sustainable the more allegations 'pile up': Axios' Jonathan Swan"
-    excerpt: "Axios national political reporter Jonathan Swan says President Biden's silence on the Andrew Cuomo scandal becomes “more conspicuous” the more Democrats call for the New York governor’s resignation."
-    publishedDateTime: 2021-03-14T19:14:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/xua7kDcV9Q0/bidens-silence-on-gov-cuomo-scandal-not-sustainable-the-more-allegations-pile-up-axios-jonathan-swan"
-    ampWebUrl: "https://www.foxnews.com/politics/bidens-silence-on-gov-cuomo-scandal-not-sustainable-the-more-allegations-pile-up-axios-jonathan-swan.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-silence-on-gov-cuomo-scandal-not-sustainable-the-more-allegations-pile-up-axios-jonathan-swan.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 164
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/AP21055530944049.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden breaks his silence on Cuomo sexual harassment scandal, declines to call for his resignation"
     excerpt: "President Joe Biden broke his silence on Governor Andrew Cuomo's mounting allegations of sexual misconduct on Sunday – but fell short of calling on the embattled New York Democrat to resign."
@@ -187,6 +171,38 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a6114d9a-f847-43c3-a7ad-38b44749138c/da7bcf3d-f970-4418-948f-6904dfa22813/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Merrick Garland speaks at DOJ before swearing-in by VP Kamala Harris"
+    excerpt: "Attorney General Merrick Garland paid a visit to his new office Thursday morning to deliver his first remarks to Justice Department staff ahead of his swearing-in by Vice President Kamala Harris."
+    publishedDateTime: 2021-03-11T18:30:00Z
+    webUrl: "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/"
+    ampWebUrl: "https://nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2021/03/11/merrick-garland-speaks-at-doj-before-swearing-in-by-kamala-harris/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 135
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2021/03/merrick-garland-01.jpg?quality=90&strip=all&w=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Kamala Harris silent on mounting Cuomo allegations after Kavanaugh crusade, #MeToo support"
+    excerpt: "While more and more members of both parties are weighing in on the sexual harassment allegations brought by multiple women against New York Gov. Andrew Cuomo, one voice absent in the conversation has been Vice President '."
+    publishedDateTime: 2021-03-02T15:36:00Z
+    webUrl: "https://www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo"
+    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 125
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "QJzR2q77cCmy+NWbaHXWyn/YnYgU2Y8iABVSHXO1qTnjFmVlAysM2fp5i1Df6paNtGK9kqnWYGOTF+45IcvS83p864uHqlSfsQi6WxdxgVG6r4m5ASrnOVXajwiuBpzzMort58RRnZVjlwH1FrsQ4WdS8kmjkSdtinUpqqask3a5GI8eP98rzK5me3aPrFn0wkxQtMm3EfnSd1tjYlvtj27GGtTvm02UQYrxhYoUxWUkQA+quTI+QgDYY7Q77ZkvMSGewcRq0vAQnKBv++Rhdlp6LBlU5systwVXD5xdK7nzzpPLljiQQx9FSIQirZ+tAT3D5nHr84YkkRXR73fyokHUjSVG4K9nAiDNiJ3l3wOUTplJYYIMEQWYsn6qiPT3l9EzInbFAUMRacQ/sUynVzj5HmEW6lQgoz8kpL3Bi23HnocHrWz9AhtpdkoSt59XmxsJ9+Y4sUZM+QjTtLNAJqziT+L7Slzm3s5Z0HD+pESdDyorel/95w3ji4CoZihts9N59GYgpkuZ/mgyQ39vow==;dNjzK4SNhs5it3Cgt7eOoA=="

@@ -3,8 +3,8 @@ category: news
 title: "Biden addresses allegations against New York Governor Andrew Cuomo for the first time"
 excerpt: "Asked whether he thinks New York Governor Andrew Cuomo should resign over allegations of sexual harassment, President Joe Biden said he will wait and see what the investigation turns up. Josefa Velasquez,"
 publishedDateTime: 2021-03-15T14:12:00Z
-originalUrl: "https://www.cbsnews.com/video/biden-addresses-allegations-against-new-york-governor-andrew-cuomo/"
-webUrl: "https://www.cbsnews.com/video/biden-addresses-allegations-against-new-york-governor-andrew-cuomo/"
+originalUrl: "https://www.cbsnews.com/video/biden-addresses-allegations-against-new-york-governor-andrew-cuomo-for-the-first-time/"
+webUrl: "https://www.cbsnews.com/video/biden-addresses-allegations-against-new-york-governor-andrew-cuomo-for-the-first-time/"
 type: article
 quality: 98
 heat: 98
@@ -28,6 +28,6 @@ images:
     height: 630
     isCached: true
 
-secured: "U9LQe3uDctnV0Cw9RvayLcWsPWaBRF54XEGadsMfxLw8SZ9USVExHBtIU3tt139yaCu3sTaJRYkwcuOk0LUjFPbypZG+aDRHY1ueYQ4wNRcEz92i2kUtBUsi3nEm7VqzLFM1bu/1YN+Dlge0tB9AHo354tg84UdMf3Pabcq4fD7xryqK+/ENyJ1idlHvUuTVAefz3kbMmV1TkHfmKoL5N0nqS//TTrRb5omCatUGCIgx0IRFOzoSnHAo+dn1HXqHFwTwgD+Gr03sJSSKf1JaVkBl6Bf4+NxNMSVqw5WTD/O63doKHJPJfuj6xPajbDmFNArhC3OwYsnDQH1ddRz0Sj816Xlzk7Gz57VcMUcDDUgy5TFJb2uMcXISiRTpI9T6dtRtBqXNQEvp6UzmPTeKLxNKCVmk5X9lVl0CO3tmeu+4X9d/JCScB2f2h4mvZwXHOW7mqhd2sl8PIZ1OrNev+cNgr8vJ+NVmbquIFsMOcY8ZpFt329O6P+QqvVN5VGwSf6FJzLDCI23XbiMbHk10zQ==;a1fPoH02XhxUJ1P61ALcRQ=="
+secured: "ItvZDG02oPziBGS1ju5IVGM0+2N+CABDl+jCS4b5eqqpT9VhHJFultYsFYmuiItOYGg+wMEyiTn4KNwmt/zPU+0o09TkOXtArLFXQFGbMmNa0SeB4ycGIJGXw7HTa0wzt7v/OoIx6SOX9fxVZYOX5koNYCy18mqDeyQVQNlMOGJjjbd+2b7vH6X9shes1octXnzZ1JzSOT2V6GDon3gmG7TTrp2t5r4/jXN6cEf7wt72T5XHY1tXEl1vwf42uHgAFCLzfrfc2+tV/TW80gaQje3egQ01tFZqfDQqkoccBiNm6Jbx2Z/+a6pxW5ALojtnvc6JHrFqM3x5eGUI25G5vgmRMOZhEzCyifAESTCxndc=;1MyX7q3IJtOBqmqnJTNsyQ=="
 ---
 

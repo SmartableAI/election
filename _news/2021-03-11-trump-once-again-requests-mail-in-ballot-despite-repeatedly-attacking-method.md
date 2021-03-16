@@ -79,6 +79,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Georgia prosecutor investigates election after Trump call"
+    excerpt: "U.S. Rep. Nikema Williams, who is also chair of the state Democratic Party, applauded Willis “for holding Donald Trump accountable for attempting to influence our elections and throw out the ..."
+    publishedDateTime: 2021-03-15T23:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/georgia-prosecutor-investigates-election-trump-call-76477270"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/georgia-prosecutor-investigates-election-trump-call-76477270"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/georgia-prosecutor-investigates-election-trump-call-76477270"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 140
+    images:
+      - url: "https://s.abcnews.com/images/Politics/WireAP_9eb67012a20b4c459146f9cfdda72568_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Recording reveals details of Trump call to Georgia’s chief elections investigator"
     excerpt: "In the Dec. 23 conversation, the then-president urged the chief investigator for Secretary of State Brad Raffensperger to do “whatever you can do” to uncover wrongdoing in the election."
     publishedDateTime: 2021-03-11T20:16:00Z

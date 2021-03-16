@@ -96,6 +96,22 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "Biden under pressure to tap fewer political ambassadors than Trump, Obama"
+    excerpt: "Donald Trump named more of his political allies to serve as ambassadors than any president in modern history. Now the pressure is on Joe Biden to reverse that trend — and set a new standard. Biden still plans to dole out ambassadorships to major campaign donors,"
+    publishedDateTime: 2021-03-16T00:55:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/biden-political-ambassadors-476050"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/biden-political-ambassadors-476050"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/biden-political-ambassadors-476050"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 149
+    images:
+      - url: "https://static.politico.com/58/29/ec2c93164ce1a866396b38fb43ee/20210315-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Biden compares himself to the alternative (Trump) in first prime-time speech"
     excerpt: "WASHINGTON — Many Americans want to forget about former President Donald Trump, but President Joe Biden won't let them. In nearly every sentiment of the new president's first prime-time address to the nation Thursday night, an unsentimental Trump loomed ..."
     publishedDateTime: 2021-03-12T15:46:00Z

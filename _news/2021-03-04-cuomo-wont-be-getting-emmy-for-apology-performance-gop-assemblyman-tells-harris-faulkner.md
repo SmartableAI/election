@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/andrew-cuomo-apology-performance-fa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/andrew-cuomo-apology-performance-faulkner-focus.amp"
 type: article
 quality: 174
-heat: 194
+heat: 174
 published: true
 
 provider:
@@ -30,24 +30,6 @@ images:
     width: 340
     height: 340
     isCached: true
-
-related:
-  - title: "Kamala Harris silent on mounting Cuomo allegations after Kavanaugh crusade, #MeToo support"
-    excerpt: "While more and more members of both parties are weighing in on the sexual harassment allegations brought by multiple women against New York Gov. Andrew Cuomo, one voice absent in the conversation has been Vice President '."
-    publishedDateTime: 2021-03-02T15:36:00Z
-    webUrl: "https://www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo"
-    ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-silent-cuomo-allegations-kavanaugh-metoo.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 125
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/340/340/RonnBlitzerHeadshot.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
-        isCached: true
 
 secured: "glI1g83CFUe8vKZFHOxRtN8ttp8kBzM7RhkfjYqWoAbLh6aK5btjxlx/2weq+yjLnBw0acmmdoVsQzBeATH4Y5oP/hiz3ztR5+pUWTADTH5wYMnFo8diO8ddF6VryLxh4zNB9lqjgUyOQPGZIOs0BKVy66rxPBJEuZKGCvvordNYtLDAwp/5vilO6Dv5ezwr2mzXes5v0hrQR/blzBCaoxA6VctWGo2PtJAgrSy+disjrpLyXplRwcJPL9iqpVN/zHum9cQk6q2cidXYCMysHhdD3vhPmBwtyEH5KZgSqCeItAdWq/QNkCOjLcJj4Xyo2Tr0C7s5Hn9OqASGAOO8mjEZTy+47lDc9jCGYeFjILQ=;3oTSdgVW4f9BnjMeR+4VWg=="
 ---

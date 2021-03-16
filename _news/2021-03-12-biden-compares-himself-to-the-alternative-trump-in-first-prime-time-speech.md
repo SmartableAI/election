@@ -112,6 +112,22 @@ related:
         width: 1050
         height: 550
         isCached: true
+  - title: "Biden under pressure to tap fewer political ambassadors than Trump, Obama"
+    excerpt: "Donald Trump named more of his political allies to serve as ambassadors than any president in modern history. Now the pressure is on Joe Biden to reverse that trend — and set a new standard. Biden still plans to dole out ambassadorships to major campaign donors,"
+    publishedDateTime: 2021-03-16T00:55:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/biden-political-ambassadors-476050"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/15/biden-political-ambassadors-476050"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/15/biden-political-ambassadors-476050"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 149
+    images:
+      - url: "https://static.politico.com/58/29/ec2c93164ce1a866396b38fb43ee/20210315-joe-biden-ap-773.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Live Updates: Biden to Begin Dismantling Trump-Era Title IX Rules on Campus Sexual Misconduct"
     excerpt: "The president has long vowed to dismantle rules that afforded greater protections to students accused of sexual assault. On Capitol Hill, House members will get an update from a task force examining the failures that allowed the breach of the Capitol."
     publishedDateTime: 2021-03-08T14:25:00Z
