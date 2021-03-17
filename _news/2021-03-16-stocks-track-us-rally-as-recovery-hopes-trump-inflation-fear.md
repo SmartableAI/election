@@ -189,6 +189,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Trump’s Florida resort touted as potential gambling destination"
+    excerpt: "Former president Donald Trump’s son Eric, who runs the family’s private company, touted the potential of transforming their Doral golf resort into a gambling destination amid a push among Florida Republicans to legalize casinos in areas of the state ..."
+    publishedDateTime: 2021-03-17T21:17:00Z
+    webUrl: "https://www.washingtonpost.com/politics/trump-florida-casino/2021/03/17/7679cb28-8699-11eb-82bc-e58213caa38e_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/trump-florida-casino/2021/03/17/7679cb28-8699-11eb-82bc-e58213caa38e_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/trump-florida-casino/2021/03/17/7679cb28-8699-11eb-82bc-e58213caa38e_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KKHZILEHEAI6XCULLT4CYPP74Q.jpg&w=1440"
+        width: 1440
+        height: 967
+        isCached: true
   - title: "UPDATE 1-U.S. Representative Swalwell sues Trump over Jan. 6 insurrection"
     excerpt: "U.S. Democrat Representative Eric Swalwell is suing former President Donald Trump, Trump's lawyer Rudy Giuliani, and others over the storming of the U.S. Capitol on Jan. 6, when violent protesters attempted to stop the counting of electoral ballots."
     publishedDateTime: 2021-03-05T18:29:00Z

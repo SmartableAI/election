@@ -47,6 +47,20 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "'Confounding' for Biden administration to announce press conference nine days in advance: McEnany"
+    excerpt: "The Biden administration announcing the date that the president will hold his first formal press conference nine days ahead of time is a \"confounding strategy,\" Fox News contributor and former White House press secretary Kayleigh McEnany told \"Outnumbered\" Wednesday."
+    publishedDateTime: 2021-03-17T20:39:46Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/lXooPDjUya0/mcenany-biden-press-conference-announcement-confounding"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 142
+    images:
+      - url: "https://static.foxnews.com/foxnews.com/content/uploads/2021/03/Biden-today.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "/+C907w2M86kkgbB6MHbUI+TgbsrCPTIGPvrljmI3xnor3l4/8Dc2l6JdSWEp4j/xAWxJmcRigK+b0s8W293Xls/R143nKx+D7b6+SAwd7GCFULAy4lzjXup+/xPXBRv020ZWQO4J59Ugh1DJgIeDRgm0X9mocfj0DBEvl06US8U8kqXb9TfJOz3StmPS/RTqiOxdmtQdvtVJIIjH4ePepit+GEgfM8a0Pfpk8acrriXLgMHUVdnEeXre5PP15Ri1OwB3O/3V3DUFJwjbxOroRfyBcArBfoUkjSM/eeOvCGkORxPm6eS6FM5Wu0jUit4SKswWIzKpf0eFITQCP58u3jq5JcWzeqq6GhFLrGg1bM=;zwQtv0DlkFNp6JWtp+Y62g=="
 ---

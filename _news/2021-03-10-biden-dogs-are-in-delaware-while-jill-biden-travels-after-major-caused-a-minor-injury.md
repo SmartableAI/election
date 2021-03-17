@@ -95,6 +95,20 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden puts Irish pride on display as he meets with Irish prime minister"
+    excerpt: "Biden has likely the closest ties to Ireland of any president since JFK. On Location: March 17, 2021 President Joe Biden's Irish pride is certainly showing during his first St. Patrick's Day as ..."
+    publishedDateTime: 2021-03-17T17:21:00Z
+    webUrl: "https://abcnews.go.com/Politics/biden-puts-irish-pride-display-meets-irish-prime/story?id=76511637"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 105
+    images:
+      - url: "https://s.abcnews.com/images/Politics/biden-2-ap-ps-210317_1616001648329_hpMain_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Police unions and civil-rights groups are rarely on the same page. They both see an ally in this Biden Justice Department nominee."
     excerpt: "Associate Attorney General nominee Vanita Gupta is seen as a potential bridge between progressives and the White House as it pushes for bolder criminal justice reform policies."
     publishedDateTime: 2021-03-16T02:16:00Z

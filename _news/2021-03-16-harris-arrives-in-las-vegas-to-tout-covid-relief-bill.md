@@ -449,6 +449,20 @@ related:
         width: 650
         height: 433
         isCached: true
+  - title: "Vice President Kamala Harris Swears in EPA Administrator Regan"
+    excerpt: "United States Vice President Kamala Harris ceremonially swears in Michael Regan as EPA Administrator in the Eisenhower Executive Office Building in Washington, U.S., March 17, 2021. The Bible is a bible that Administor Reagan received as a high school graduation present from his church."
+    publishedDateTime: 2021-03-17T21:05:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/913b6a56a5ff6478e03c32b87e7cf2de/Vice-President-Kamala-Harris-Swears-in-EPA-Administrator-Regan/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/913b6a56a5ff6478e03c32b87e7cf2de/VICE-PRESIDENT-HARRIS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Kamala Harris Carves Out a Role of Her Own"
     excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
     publishedDateTime: 2021-03-12T11:13:00Z

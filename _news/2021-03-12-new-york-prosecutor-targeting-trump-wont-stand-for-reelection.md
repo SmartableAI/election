@@ -40,6 +40,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "The Point: Here's why Donald Trump thinks he deserves credit for the 2020 election"
+    excerpt: "Donald Trump lost the presidential race last November. And in January, Senate Republicans lost their majority -- thanks to Trump's relentless focus on the false notion that the election in Georgia (and elsewhere!) was stolen from him. Those twin losses, coupled with Republicans' failure to win back the"
+    publishedDateTime: 2021-03-17T20:26:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/aAG_OxkAbHc/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/trump-election-2020-covid-19-vaccine/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/trump-election-2020-covid-19-vaccine/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 184
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210103220202-trump-phone-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "US intelligence report says Russia attempted to interfere in 2020 election with goal of 'denigrating' Biden and helping Trump"
     excerpt: "The Office of the Director of National Intelligence released its declassified report on foreign threats to 2020 US elections Tuesday, which concludes that foreign adversaries -- including Russia -- did attempt to interfere.\n    \n"
     publishedDateTime: 2021-03-16T19:39:28Z

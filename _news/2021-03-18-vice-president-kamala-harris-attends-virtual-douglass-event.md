@@ -449,6 +449,20 @@ related:
         width: 944
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris Swears in EPA Administrator Regan"
+    excerpt: "United States Vice President Kamala Harris ceremonially swears in Michael Regan as EPA Administrator in the Eisenhower Executive Office Building in Washington, U.S., March 17, 2021. The Bible is a bible that Administor Reagan received as a high school graduation present from his church."
+    publishedDateTime: 2021-03-17T21:05:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/913b6a56a5ff6478e03c32b87e7cf2de/Vice-President-Kamala-Harris-Swears-in-EPA-Administrator-Regan/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/913b6a56a5ff6478e03c32b87e7cf2de/VICE-PRESIDENT-HARRIS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Kamala Harris Carves Out a Role of Her Own"
     excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."
     publishedDateTime: 2021-03-12T11:13:00Z
@@ -486,6 +500,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "fNJG18744P77UPXMOD45Ngh8fZkk9O4HY1zm7fDP8NlxAdJdx6nHTUkrBOppcAoj3Nj8E1J92bBW353iz/uETirDM+UW8ppf5X1c6Bc3O8M9+i73lUTas+9q54Tm02+w8oE4VEGoT26Ry42xwpXB3inhkqJTe3dxG3GOMyHakwO7wZG54Ukn0aBJ7C8SjAmMTdJ4uzgQopig6yEPAz8rNScRQTA4EISS299iucdqaF3tbMghuA/wMQZi3ZkU0N61bYHS2tTSxWEMgLcUREj8WeWYmh9vOdPrNTtz7IRlDQH8s0kiXgSiLItQkKPJiwadFCcaXsoMNPooTSIJcUfBJ/7+YkJNjIb1z+ppxxkPIxQ=;yPrIQX0eV3stUBsFI2d2nQ=="
+secured: "tn4/u/FtS2GIPl6L1q/URZTjNTb3TqJ8XJaVyDWbg8r495VxTVzV9LtAznyqv5tOpjvAVb/GSf9mzAWIWhU+axwfHVq1irEHrUhgBscIge9n3r18Fzn0aK7cJ2cDz+6HfFE2JI31HGiWQACfUpePGBvJPoMgpx7tNCkSbfQR75UF6Eik1F+I/SDkdYnL2Yg7sMdeS9wG48OaSgTL/hs2OmCwudVkbhieHy7FmrIktrqjsMSZJzlA6y/fUWb3UJ6fPY347vpa9SuCu1Q1GHsiVe/ZcNjm50G3C/ICeoGJD/fGOqjFaLUL1DD6xJAoMKA87aHTyhrQ/TYulJL4O3ozCp4XoAhGweCo3vn9VPuKG0oYG1P8rupD2QhcbNAW+pfWu7jyz73ZoR2V4/j6i1pk9Yi8EZWCgliojlWr1XzfhJki+eP+Yq08yv/gjcLgBhKTAnXWxJQm2vetmQltFyDVrrhUUa00di/zVic41sD00jttY8R6usEJJEaLI5W7NjpZglAAyx9zXnRp4KFXHSziaA==;Zlr08EGfBoX+BZlfJUhjcA=="
 ---
 

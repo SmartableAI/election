@@ -2,19 +2,19 @@
 category: news
 title: "Joe Biden said he’d invest in Black colleges. They hope Kamala Harris can help"
 excerpt: "Black colleges and universities hope high-profile graduates in the Biden administration will push for increased federal support for HBCUs."
-publishedDateTime: 2021-03-16T10:00:00Z
-originalUrl: "https://www.miamiherald.com/news/politics-government/article249959349.html"
-webUrl: "https://www.miamiherald.com/news/politics-government/article249959349.html"
-ampWebUrl: "https://amp.miamiherald.com/news/politics-government/article249959349.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/politics-government/article249959349.html"
+publishedDateTime: 2021-03-16T09:00:00Z
+originalUrl: "https://www.sacbee.com/news/politics-government/article249959349.html"
+webUrl: "https://www.sacbee.com/news/politics-government/article249959349.html"
+ampWebUrl: "https://amp.sacbee.com/news/politics-government/article249959349.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/politics-government/article249959349.html"
 type: article
 quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - Election
@@ -1859,6 +1859,6 @@ related:
       domain: thestar.com
     quality: 35
 
-secured: "OhfNN5tdSl+Cs82mb2I5cIK5F9rHhdgM3xKBkm/sF+XJDvYuuizxEdgo9kWVHhBTonnpTtaNKFzjXDQ24mWs+wl9563X0gOqfedX0x3Cj26HFUfUgRaVlz7qB3mLYUgAtqBU+0xchLG8A9+w+P3zKH2Ipuhay/EcrgejGfKDESgwHBIDOJx18abv0wk1tdN/k7cnyDIEMGoUMjqyVCp+WVBoaqC5UIDrSggVblLjbwtM93eGKIYTyN64iu9stIY/SRpHmtr2xD7KMEXfZi4u8udiLnu5CjJ2yZaneJPAIaiYcP1GcVvK3eovcKPzdF+yQOhmJnerbA3Uuf9LrFvLrXgZgx1DKwjaoI9BNNJ/oucOsaBba7SnUtoV3uqSo5/3gTXMCDNp37L32wxmImLI+dHNw4ySNLCR+QJ0GBcZS4nO0a68N0G4fTH8DQF8fiAWtJerme6Fe7StxLFavm1eoGjsIpCO1AxvcWrkFdy4BS2/8Qqe6QLWcWHpoot0J3L9J09DnEu+itw8S43JkPimnw==;LFWgRWpjOLM3aLFoCH6e5Q=="
+secured: "KnFV0iQz4LQlj1a/mkJZLdQpXatXUEIRtEZkmNXpKcZaMy4tJYkdTFPmgSCSnN21uJuXwOWVCUB/KJXCi9gV2958CPm3klm1wNtkzXeRJtzlUAD2Ccpx6MRvSD/QYSdWIV3vIvTnwtBEs8P5BDJE5W6PbWGzyoGULvAxEVO/Q8ojonFX4Bqq48BflIeVyTOx1ecO3FvJ0Jl5TLBJuwB1CpIor4LdHhRRQQqORLPXwFZnGybpGntoBR1IzhdB0GzgI5QSmJHdgQbiP1vori2FjESm+STGTvONE30yPIbIdh2MBCi8fFR7La1IgfWzIMhzw5QuG6TgMWqF07IpgWXRxjrBV0We95YPyqspQRwdW3I=;XJR4kXiPfLtMX151t5BMrw=="
 ---
 

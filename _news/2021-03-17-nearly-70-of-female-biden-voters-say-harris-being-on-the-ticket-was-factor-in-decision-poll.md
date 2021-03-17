@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-be
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1"
 type: article
 quality: 129
-heat: 769
+heat: 789
 published: true
 
 provider:
@@ -450,6 +450,20 @@ related:
     quality: 55
     images:
       - url: "https://cdnph.upi.com/pv/upi/e271c84d4847f577c9ff5a6c4a09d2dd/VICE-PRESIDENT-HARRIS.jpg"
+        width: 650
+        height: 433
+        isCached: true
+  - title: "Vice President Kamala Harris Swears in EPA Administrator Regan"
+    excerpt: "United States Vice President Kamala Harris ceremonially swears in Michael Regan as EPA Administrator in the Eisenhower Executive Office Building in Washington, U.S., March 17, 2021. The Bible is a bible that Administor Reagan received as a high school graduation present from his church."
+    publishedDateTime: 2021-03-17T21:05:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/913b6a56a5ff6478e03c32b87e7cf2de/Vice-President-Kamala-Harris-Swears-in-EPA-Administrator-Regan/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/913b6a56a5ff6478e03c32b87e7cf2de/VICE-PRESIDENT-HARRIS.jpg"
         width: 650
         height: 433
         isCached: true

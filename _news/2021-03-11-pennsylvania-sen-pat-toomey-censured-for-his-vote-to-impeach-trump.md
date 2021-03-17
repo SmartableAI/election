@@ -9,7 +9,7 @@ ampWebUrl: "https://www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-
 cdnAmpWebUrl: "https://www-chicagotribune-com.cdn.ampproject.org/c/s/www.chicagotribune.com/nation-world/mc-nws-pa-lehigh-county-gop-censures-toomey-20210310-f5444sh4fzgfhbkxlwhml23bn4-story.html?outputType=amp"
 type: article
 quality: 125
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/16/989c5cef-0670-40aa-8072-fd3d770d1baf/thumbnail/1200x630/630e0ad1bc2443774b4a5018d77393d5/virginia-race-for-governor-side-by-side.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Army denies medals, Special Forces insignia to soldier Trump pardoned for alleged murder"
+    excerpt: "WASHINGTON – The Army has rejected an appeal to return medals for valor to retired Maj. Mathew Golsteyn, a Special Forces soldier former President Donald Trump pardoned for alleged murder in Afghanistan. It was one of three high-profile cases in which ..."
+    publishedDateTime: 2021-03-17T19:05:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/17/army-denies-medals-soldier-trump-pardoned-alleged-afghan-murder/4730488001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4730488001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4730488001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 116
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2018/12/19/USAT/8610465d-361d-460e-955a-4c22f52660e8-AP_627059237495.jpg?auto=webp&crop=3702,2080,x0,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Biden Opens Stimulus Road Show in Pennsylvania to Rebut GOP Attacks"
     excerpt: "President Joe Biden will visit voters in the key swing state of Pennsylvania on Tuesday as part of an effort to persuade Americans that the $1.9 trillion relief measure he signed will help struggling individuals and businesses."
