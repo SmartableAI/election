@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
+    excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."
+    publishedDateTime: 2021-03-17T10:33:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MiHX7ixSZjY/republicans-target-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
 
 secured: "SKdAOt+qbZ7SKYlQeOKG0DF8/bxeLqLIf34AiXwYcR70f0M1SvCagqNKoPnRAdGGbbm7uvxpvZIu39H/osZlqYN6jAtEIV8r23f4CA+p1k66jE/slFh8lIOW5OCU59HNRSC7EJ3R9DPSWhhXfUWjRCP8vqa+TyMzjyGEB3QgW2dFOdrjOSuWK6ud6V58aK13cdaLecHcv4BYfSQclmK50cUt6eu3Ep2PSx2FKxaLe5cJP532eJRIiANp7ieS/cSuAGDPyd+KEsXtfn5+xQDXe9ZCRGoY0LNjFo3aOB4ylV76V0smIjVnz+zue57smuQ4OxO0V6DPMTE0DZa+054jk3E6YHxGeDpRK0wxiRWA4Ag=;gvcKWKEJ++Xl0mVN+lvTJg=="
 ---

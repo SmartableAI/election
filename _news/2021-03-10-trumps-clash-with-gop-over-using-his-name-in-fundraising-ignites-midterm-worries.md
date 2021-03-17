@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/trump-republican-fundrai
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/trump-republican-fundraising-midterms/index.html"
 type: article
 quality: 170
-heat: 250
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,51 +31,37 @@ images:
     isCached: true
 
 related:
-  - title: "Trump expected to meet with Sen. Rick Scott amid GOP divide over former President"
-    excerpt: "Former President Donald Trump is expected to meet with Republican Sen. Rick Scott this week, a source familiar with the meeting told CNN, at a time when the party is heatedly debating Trump's role in its future.\n    \n"
-    publishedDateTime: 2021-03-11T02:13:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/40Zo2mlfAss/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/trump-rick-scott-nrsc/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/trump-rick-scott-nrsc/index.html"
+  - title: "New US intel report shows Russia, Trump and GOP acolytes have same goals"
+    excerpt: "A new US intelligence report that finds Russia interfered in the 2020 election to help Donald Trump and hurt Joe Biden also underscores a fundamental truth: The gravest threat to US democracy comes from within.\n    \n"
+    publishedDateTime: 2021-03-17T11:19:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l_bcpu7-1uU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/trump-russia-elections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/trump-russia-elections/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 170
+    quality: 174
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310190838-trump-scott-split-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301201624-donald-trump-210228-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
-  - title: "Trump doesn't commit to stay out of Senate primaries despite prodding by top GOP senator "
-    excerpt: "Florida Sen. Rick Scott, the chairman of the National Republican Senatorial Committee, urged former President Donald Trump to back the candidates who win Senate primaries next year rather than engage in intra-party fights that could harm the party's chances at taking back the majority in the midterm"
-    publishedDateTime: 2021-03-16T15:51:33Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cUU6MqhaS2I/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/rick-scott-trump-senate-primaries-2022/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/rick-scott-trump-senate-primaries-2022/index.html"
+  - title: "Russia tried to help Trump in 2020, Iran tried to hurt him and China stayed out of it, says new report"
+    excerpt: "WASHINGTON — Despite repeated assertions by senior Trump administration officials that China sought to hurt then-President Donald Trump in the 2020 election, a newly declassified intelligence assessment finds that China did not seek to influence the outcome."
+    publishedDateTime: 2021-03-16T19:53:00Z
+    webUrl: "https://www.nbcnews.com/politics/national-security/u-s-intel-agencies-say-russia-tried-help-trump-china-n1261234"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261234"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261234"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 166
+      name: NBC News
+      domain: nbcnews.com
+    quality: 119
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310190838-trump-scott-split-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "De Blasio compares Cuomo to Trump after governor's apology"
-    excerpt: "Mayor Bill de Blasio compared Gov. Andrew Cuomo to Donald Trump Thursday, panning his attempt to fend off calls for his resignation by criticizing conditions in New York City. “To paint an apocalyptic picture [of the city] — that’s what Donald Trump would have done."
-    publishedDateTime: 2021-03-04T18:34:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/story/2021/03/04/de-blasio-compares-cuomo-to-trump-after-governors-apology-1366867"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/dc/c0/a8f7784b41aebcd07dfd92d4f058/20210128-bill-de-blasio-ap-773.jpg"
-        width: 1160
-        height: 773
+      - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615920341633_n_tur_brk_dilanian_russia_210316_1920x1080.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "An unlikely Trump turncoat shows the GOP way to resist his influence"
     excerpt: "Jaime Herrera Beutler is not one to make waves on Capitol Hill. But during Donald Trump’s second impeachment trial, she almost created a tsunami. After she publicly revealed damaging details about Trump’s phone call with House Minority Leader Kevin ..."

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/ncna1261234"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1261234"
 type: article
 quality: 119
-heat: 119
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -30,6 +30,54 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "New US intel report shows Russia, Trump and GOP acolytes have same goals"
+    excerpt: "A new US intelligence report that finds Russia interfered in the 2020 election to help Donald Trump and hurt Joe Biden also underscores a fundamental truth: The gravest threat to US democracy comes from within.\n    \n"
+    publishedDateTime: 2021-03-17T11:19:16Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/l_bcpu7-1uU/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/trump-russia-elections/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/trump-russia-elections/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 174
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301201624-donald-trump-210228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Trump's clash with GOP over using his name in fundraising ignites midterm worries"
+    excerpt: "Donald Trump's push to route his supporters' money through his own political apparatus, rather than traditional Republican campaign committees, has ignited fears among GOP donors and operatives that the former president could hamstring the party's efforts to win House and Senate majorities in next year's"
+    publishedDateTime: 2021-03-10T12:32:27Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gvisxB0twZ8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/trump-republican-fundraising-midterms/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/trump-republican-fundraising-midterms/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 170
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210301201624-donald-trump-210228-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "An unlikely Trump turncoat shows the GOP way to resist his influence"
+    excerpt: "Jaime Herrera Beutler is not one to make waves on Capitol Hill. But during Donald Trump’s second impeachment trial, she almost created a tsunami. After she publicly revealed damaging details about Trump’s phone call with House Minority Leader Kevin ..."
+    publishedDateTime: 2021-03-15T13:57:00Z
+    webUrl: "https://www.politico.com/news/2021/03/15/jaime-herrera-beutler-profile-475932"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/44/7d/570675084c038e258a75ce3660b1/gettyimages-1134736564.jpg"
+        width: 5594
+        height: 3727
+        isCached: true
 
 secured: "XppvO7scWM5AVx707oiV7BGhBfNsmVVIMAsTWeXrDXNlZluquW5WMr68vIFEj9tntAWNVv69oAAmk3TgbdIY3iYy68XI4OnExwPRx/qVlDS61DVJ7nJz2P8HmkL1v1m4nPlp5s9eyx69D2xGN9G3H/IjWMpqjxSQqhwPY/XkBTh/a6cPLqlfU3Gd4glErtObF/9qa7yre3uAaAbduL5JeeYx0suDM8ylOPuyPQm4cRKghGxAzrhBI33FC2MsiLdsRRf+6jIR6dCCnnm3qhhRycQWYBZiARez2bBs7bz6tY/PNi3E+8f29lgy9yPMNecpGcl21jwlaKZF/LNhDr91Pn2bxuHYcmDin1WV2LetzgAqpq4Q2h2cvfGi69Xmxt0nkHHWlpaADBTVQfPRGqHjDnyt0Kha9LnwkT+848HFvb747EHXraKftvyaE6NyHR2TC2u/3oyi/gUNWnqgs7GyFRURz9m1OVpTJP6DRPjOfbpvRiJMFJwCUHuwoXpioFwc7tsV3AOLh++y/i9VCynL+A==;Pd8QKU1kLoDRmYIB1Qsn8A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-j
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/14/chaos-under-heaven-josh-rogin-donald-trump-china-covid"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -46,6 +46,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1755650/donald-trump.jpg"
         width: 1024
         height: 705
+        isCached: true
+  - title: "Donald Trump Spends His Days Gossiping, Golfing and Plotting Revenge on RINOs"
+    excerpt: "The ex-president seems calm, friends say, but he's busy making plans to defeat \"disloyal\" Republicans in 2022."
+    publishedDateTime: 2021-03-17T11:00:00Z
+    webUrl: "https://www.newsweek.com/donald-trump-spends-his-days-gossiping-golfing-plotting-revenge-rinos-1576347"
+    ampWebUrl: "https://www.newsweek.com/donald-trump-spends-his-days-gossiping-golfing-plotting-revenge-rinos-1576347?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/donald-trump-spends-his-days-gossiping-golfing-plotting-revenge-rinos-1576347?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 122
+    images:
+      - url: "https://d.newsweek.com/en/full/1757624/donald-trump-cpac-2024-2022.jpg"
+        width: 3000
+        height: 2031
         isCached: true
   - title: "Under Trump, the US Navy picked up the pace of its challenges to Beijing in the South China Sea"
     excerpt: "US Navy challenges to China's efforts to restrict transit in the South China Sea and in the Taiwan Strait increased sharply over the past two years."

@@ -1,14 +1,14 @@
 ---
 category: news
 title: "Kamala Harris continues to avoid commenting on Cuomo sexual misconduct allegations"
-excerpt: "New York Gov. Andrew Cuomo's sexual misconduct allegations have gone yet another day  without comment from Vice President Kamala Harris, who had been a crusader for sexual assault survivors as recently as 2018, during Brett Kavanaugh's Supreme Court confirmation hearings."
-publishedDateTime: 2021-03-17T01:00:09Z
-originalUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gbOZwP3Ov_8/kamala-harris-avoid-commenting-cuomo"
-webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/gbOZwP3Ov_8/kamala-harris-avoid-commenting-cuomo"
+excerpt: "New York Gov. Andrew Cuomo's sexual misconduct allegations have gone yet another day without comment from Vice President Kamala Harris, who had been a crusader for sexual assault survivors as recently as 2018, during Brett Kavanaugh's Supreme Court ..."
+publishedDateTime: 2021-03-17T01:03:00Z
+originalUrl: "https://www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo"
+webUrl: "https://www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo"
 ampWebUrl: "https://www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo.amp"
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-avoid-commenting-cuomo.amp"
 type: article
-quality: 179
+quality: 129
 heat: -1
 published: false
 
@@ -22,8 +22,8 @@ provider:
 
 topics:
   - Election
-  - Republican Voice
   - Kamala Harris
+  - Republican Voice
 
 images:
   - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/Harris-walkoff.jpg?ve=1&tl=1"
@@ -241,6 +241,6 @@ related:
         height: 340
         isCached: true
 
-secured: "ZQi6sx961OYXLWNqA2KRGaj9+/YkLNhbNgm1rm0hqVVmzEHKoDSWzRWPnbG6vNfI6Zo54AstHFgFKMmhQtLk61zHbbMSeWZwheDM0ZEuqlDj4zr/EeheIy57LoaiTCNe8hBaqNemCf3OQQAhepdrM/zNG0wXY+DN+/ibA6E/9i/8JqCmzxYM7cZ8084GkPUfyo50vdrlYCV9D7q6tmFKHJzXaURXPWg6CicLUKKU+NUE3nt+uxDOrp3H8a/oBmgytfJd6rlb3hHK9w8wl9Q+taB6/VG3VpvUdZQJt/2iGEkTnafZEvIqVJjdQUOhPoBMJEiFI2Ak6rygLqNZY6RWPsYuTi5wI/TAHmisg99N0Zs=;LfA/o8ual5DlkpQFC25FFg=="
+secured: "/UnWTDD6RI4prgYRO5FDYfZVLK76jWEn2l4JujobxKxEu3DogYLE9dH4koXKLsMKiNvJIUfAt4EGSBxORQ36HdCvNQ1LnSEtqC1UU6876V/RaFQVyZ3PVm6xvd5g8nV3jyMn7FJ1I62kGXxuidbEP0+3YNrtBP4s1aMsfWnBQ3bFHzLChY2S2gTlTvomBYO7D8vmDsFUjU5aHvI5Enzzs1DBNIwrP8n0XAT+nK2lpN7aeKCl80M1nAvBmqBiE6Fw4UzHkj7cT298FVzaz+N/2wGF6SArO8VAPqIRgUED6wAAk/7hwo5hb37MvHVHQW2iM8mUGuRj4UQR8lCOdew3Hwe94U7wiTGHp7AX5juzU3I=;RVgKhpgmtuZ8Yd2wiJs3oQ=="
 ---
 

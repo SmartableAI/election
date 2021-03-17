@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/sen-cassidy-biden-policies-border-s
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/sen-cassidy-biden-policies-border-surge.amp"
 type: article
 quality: 175
-heat: 275
+heat: 295
 published: true
 
 provider:
@@ -110,6 +110,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/4394b12e-936e-4fd0-a56a-b3b597c07b47/d65ba80f-6261-4802-8b7c-78ce7d9f54fd/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Republicans increasingly target Biden over border crisis as immigration shapes up to be key midterm issue"
+    excerpt: "President Biden is facing competition for the media spotlight as he takes to the road to showcase the $1.9 trillion coronavirus stimulus package, with Republicans zeroing in on the burgeoning crisis at the nation's southern border."
+    publishedDateTime: 2021-03-17T10:33:40Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/MiHX7ixSZjY/republicans-target-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/republicans-target-biden-border-crisis.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/03/340/340/PaulSteinhauser.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "92v/UvZKbiyyU9I286I5ezOKVeDfgGNsaF3iCdwBEpKLylpVOuoPIbKfraa31zEMFY4Vz3yMqU5go4afz6yqSOjINyaEhArBbN89PoaJsNkVNcro3aXNdZZDRIzVImu1ZDNHORphK76fvbd5BQJ6q3q3ztB93QpkUAdL+1GxfMKNg35euck0fuKoh702v7FZpzAGoHXyFdqcnZ6Qn9lX3w/xconVThWLwPHxLeQFgOTeuE2LYux2RzkPVMxpS1Yhwk8mLgedofwtlXYidR1OBcHkuc65NVZCWafAihuHrDBvDbS//0jgyaS+e7r9MxENrnsAqg72JJckRSssGwMlugqx58kKO9OH4fEK3UCHjaE=;gpivHgHQLe6I+fGcMXrSUA=="

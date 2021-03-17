@@ -695,6 +695,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "How Capital Gains Are Taxed and What Biden Might Do"
+    excerpt: "Capital gains taxes are the price of making a good investment. They’re levied on profitable stock trades and real estate deals and also can apply to sales of businesses, pieces of art, collectible cars,"
+    publishedDateTime: 2021-03-16T23:50:00Z
+    webUrl: "https://www.washingtonpost.com/business/how-capital-gains-are-taxed-and-what-biden-might-do/2021/03/16/67202cf8-86b2-11eb-be4a-24b89f616f2c_story.html?amp;amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 105
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/MY35HQUGWII6XPSKES4J6YLPFQ.jpg&w=1440"
+        width: 1440
+        height: 1080
+        isCached: true
   - title: "Biden touts American Rescue Plan: \"Shots in arms and money in pockets. That's important\""
     excerpt: "President Joe Biden continued efforts to promote his American Rescue Plan, speaking Monday at the White House about how it will deliver much-needed assistance. Mr. Biden and Vice President Kamala Harris will spend this week traveling to promote the plan around the country."
     publishedDateTime: 2021-03-15T19:21:00Z

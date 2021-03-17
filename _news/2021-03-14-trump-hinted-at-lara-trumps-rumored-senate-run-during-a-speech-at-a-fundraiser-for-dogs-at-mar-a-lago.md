@@ -1005,6 +1005,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Biden says that New York Gov. Cuomo should resign if investigation proves sexual harassment claims"
+    excerpt: "It indicates a way to close an interaction, or dismiss a notification. In a new interview with ABC News's George Stephanopoulos, President Joe Biden said that New York Gov. Andrew Cuomo should resign if an investigation supports sexual harassment claims ..."
+    publishedDateTime: 2021-03-17T00:35:00Z
+    webUrl: "https://www.businessinsider.com/biden-cuomo-should-resign-if-investigation-supports-sexual-harassment-claims-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-cuomo-should-resign-if-investigation-supports-sexual-harassment-claims-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-cuomo-should-resign-if-investigation-supports-sexual-harassment-claims-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 111
+    images:
+      - url: "https://i.insider.com/60514d810347cb00184b6299?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Trump's Twitter ban saga continues: The social platform sues Texas AG, claiming retaliation for Trump ban"
     excerpt: "Twitter filed a lawsuit against Texas AG Ken Paxton, claiming he used his office to retaliate against it for banning former President Trump."
     publishedDateTime: 2021-03-09T21:52:00Z

@@ -63,6 +63,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Trump urges people to get COVID vaccine, saying it's safe and works"
+    excerpt: "Many Republicans have said they don't intend to, and Trump has been urged to be more vocal in encouraging them to."
+    publishedDateTime: 2021-03-17T11:52:00Z
+    webUrl: "https://www.cbsnews.com/news/trump-covid-vaccine-urge-safe-works/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/trump-covid-vaccine-urge-safe-works/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/trump-covid-vaccine-urge-safe-works/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/03/23fda673-2a17-47c4-ba9a-b074c782df27/thumbnail/1200x630g3/1d9ca3752e21543f449330f1a67f6fa8/gettyimages-1304610267.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "‘We want to be educated, not indoctrinated,’ say Trump voters wary of covid shots"
     excerpt: "Tout the number of people who got the vaccines in trials. And don’t show pro-vaccine ads with politicians — not even ones with Donald Trump. That’s what a focus group of vaccine-hesitant Trump voters insisted to politicians and pollsters this weekend ..."
     publishedDateTime: 2021-03-15T10:38:00Z
@@ -158,6 +174,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1757626/trump.jpg"
         width: 2978
         height: 1820
+        isCached: true
+  - title: "'It's a great vaccine': Donald Trump recommends supporters get COVID-19 vaccine as polls show hesitancy"
+    excerpt: "WASHINGTON – Former President Donald Trump said Tuesday he would urge his supporters to get the COVID-19 vaccine, but acknowledged that some of them may refuse in the name of \"freedom.\" \"I would recommend it, and I would recommend it to a lot of people ..."
+    publishedDateTime: 2021-03-17T01:28:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/16/its-great-vaccine-donald-trump-asks-backers-get-covid-vaccine/4726016001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4726016001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4726016001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 109
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/03/05/USAT/919ad265-fb75-49fb-97ce-5eaeddec5787-Donald_Trump_at_CPAC_AP_pic.jpg?auto=webp&crop=3661,2060,x0,y186&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Fauci says Trump should push supporters to get covid vaccine after ‘disturbing’ poll results show they won’t"
     excerpt: "Anthony S. Fauci, the nation’s top infectious-disease expert, said in interviews Sunday that former president Donald Trump should be enlisted to encourage his supporters to get a coronavirus vaccine, after recent polling showed Republican men and Trump ..."

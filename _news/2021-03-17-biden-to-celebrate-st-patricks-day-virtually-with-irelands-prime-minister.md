@@ -1,16 +1,16 @@
 ---
 category: news
 title: "Biden to celebrate St. Patrick's Day virtually with Ireland's prime minister"
-excerpt: "(CNN)President Joe Biden will host Taioseach Micheál Martin of Ireland for a virtual bilateral meeting on Wednesday to celebrate St. Patrick's Day, the White House says, in yet another traditional head of state visit changed by the pandemic. \"St. Patrick ..."
-publishedDateTime: 2021-03-17T09:02:00Z
-originalUrl: "https://www.cnn.com/2021/03/17/politics/biden-virtual-st-patricks-day/index.html"
-webUrl: "https://www.cnn.com/2021/03/17/politics/biden-virtual-st-patricks-day/index.html"
+excerpt: "President Joe Biden will host Taioseach Micheál Martin of Ireland for a virtual bilateral meeting on Wednesday to celebrate St. Patrick's Day, the White House says, in yet another traditional head of state visit changed by the pandemic.\n    \n"
+publishedDateTime: 2021-03-17T09:02:12Z
+originalUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wCIaVSpJak8/index.html"
+webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wCIaVSpJak8/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/biden-virtual-st-patricks-day/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/biden-virtual-st-patricks-day/index.html"
 type: article
-quality: 132
-heat: -1
-published: false
+quality: 172
+heat: 192
+published: true
 
 provider:
   name: CNN
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - Election
-  - Joe Biden
   - Democratic Voice
 
 images:
@@ -49,6 +48,6 @@ related:
         height: 619
         isCached: true
 
-secured: "4Yh9dhaAXqOZy7y5pbkQALvf4LddW2jK5tXV1Pc8U/BjWciIHZp/xr5W6HGfNaI62UIyomPNpOWmhH7ICHJtxI5BUqOsgcHRUcSPtnieXG4MmU1XU/O3U+Y5pyatJxA4P7kF2BHns6zERd2tbZidWqRr286r2AkAXcuApgAbkCCEDOS9ciK8jL22Lma6ecIm7KkwqOFuA3FZr3fg2uQg7bYz+qWFTjmBwAqrz8zwjODrgVxgqnT0xyfO6lcP58M0TogcPz/nLsbpcz6BOhwxsRI9U//mn+uek9KznkLtae1045OUkyaH5Khb+tcuZtnWe2D2PB5wkvGyPWR97fuJXri7agekdjUx24310XqpDeg=;ogJ5SQ65OaWEAcWUaP3Sag=="
+secured: "ywt4VAaYzoyOIw/zQlpeZerL2P0Z5N0QwyEuGeoJTcYtX9b9/CTqPSlK39Ulad1beUJcYcVRXGxyR64+jdDm/1V6z+caSzRlbmgI/mWglihS6dWon2kTj95nKM9w5yqhxmc96RA3GCkEBhq17O5OaaMJpEvbbIWsmv9NnQNvzb1cvLXwfriKATXuGPti0DYRIkdHYlMg20YIsA6j/imXf3DN01xuIg5yGh+3KNf7FBYacQA1KllrQNeLrsG67zCZBleZPaouXr4EdxXm1Szj7DYrJgU7oImSf/xGHVuqCys/w8YtVt2dE4u1xgSffy3RBeu3RzR5YbK3NoQr5Lt3r0Z3hr7v65VTrxHZ4jyqxXo=;3oPUtnMZ2ttOIGzKn4GWsw=="
 ---
 
