@@ -9,8 +9,8 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82JS"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82JS"
 type: article
 quality: 122
-heat: 122
-published: true
+heat: -1
+published: false
 
 provider:
   name: Reuters
@@ -29,6 +29,24 @@ images:
     width: 777
     height: 545
     isCached: true
+
+related:
+  - title: "Biden swings by Pennsylvania in Covid relief tour and promises ‘more help’"
+    excerpt: "President stopped by unionized, Black-owned company to highlight how $1.9tn package will lift small businesses Last modified on Tue 16 Mar 2021 18.36 EDT Joe Biden stopped by a unionized, Black-owned flooring company in the battleground state of ..."
+    publishedDateTime: 2021-03-16T21:36:00Z
+    webUrl: "https://www.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign"
+    ampWebUrl: "https://amp.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 123
+    images:
+      - url: "https://i.guim.co.uk/img/media/cbbdd38aaa534703e2351104e4b147bc6657d5a7/0_85_3187_1912/master/3187.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6854b7cf8fc8ae24db44335aaedf3fe"
+        width: 600
+        height: 360
+        isCached: true
 
 secured: "V9u44P4mvAdwchu3/YJkf0Oq/P6LBEZlY9e3BbTGAECU0s+iztgHmAABBLTkYQhjH9Cvsf9KN74oT0MqJUewj+AzB0qIFtDEwak7xHsduvcdEgffl7WpMBWi0vb6+nDOr9fv/RlFSVtwTAQsQIcQqJEFCyHKpYCXUyhJR0O6NGU5h3hVSHxwqOAQ0dwkzt+7wvi91pI+3n3tpT5RUL0wreU/bxZ0BFDqDcaZVUA/VuXMzARS23Mw3gTkdhr2qYNsGV8gi+xTGwlsevO2BMsPqihOZ2wbWQ2exQiVMCBAsT7N2DqDw3axgrqrCQevWHmBcBa5aT0rU+XIK57TyN7pNUmFuWz6mNLDsM3hbCuzsaE=;WqRG2+C70VoGevxe0eDy2w=="
 ---

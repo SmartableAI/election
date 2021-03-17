@@ -1143,6 +1143,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Florida teen pleads guilty to hacking Twitter accounts of Biden, celebrities"
+    excerpt: "The Florida teenager accused of being behind the hack of celebrity Twitter accounts last year has pleaded guilty in the state's 13th Judicial Circuit Court in Tampa and agreed to serve three years in juvenile prison."
+    publishedDateTime: 2021-03-17T07:27:00Z
+    webUrl: "https://www.businessinsider.com/florida-teen-pleads-guilty-to-hacking-twitter-accounts-of-biden-celebrities-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/florida-teen-pleads-guilty-to-hacking-twitter-accounts-of-biden-celebrities-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/florida-teen-pleads-guilty-to-hacking-twitter-accounts-of-biden-celebrities-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
   - title: "Psaki refuses to give Trump credit for vaccine rollout and says it was an 'incredible effort by science and by medical experts'"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. White House press secretary Jen Psaki has repeatedly refused to give credit to former President Donald Trump for the coronavirus-vaccine development and rollout under his administration."
     publishedDateTime: 2021-03-12T19:17:00Z

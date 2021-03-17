@@ -2,6 +2,63 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2021-03-09-pence-will-make-his-first-speech-since-leaving-office.md",
+      "title": "Pence will make his first speech since leaving office.",
+      "excerpt": "The former vice president left Washington on the outs with former President Donald J. Trump, and his speech next month will be scrutinized for hints of his political future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/08/us/politics/08new-was-pence-sub/08new-was-pence-sub-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/08/us/politics/pence-speech.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/pence-speech.amp.html",
+      "publishedDateTime": "2021-03-08T08:03:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Mike Pence",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-pence-to-deliver-first-post-vp-speech-in-south-carolina-as-he-eyes-political-future.md",
       "title": "Pence to deliver first post-VP speech in South Carolina as he eyes political future",
       "excerpt": "Former Vice President Mike Pence will head to South Carolina next month to deliver his first public address since the end of the Trump administration.",
@@ -1300,63 +1357,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-06-kamala-harris-speaks-with-netanyahu-in-latest-talk-with-a-major-world-leader.md",
-      "title": "Kamala Harris speaks with Netanyahu in latest talk with a major world leader",
-      "excerpt": "Vice President Kamala Harris and Israeli Prime Minister Benjamin Netanyahu had a call Thursday amid the Middle Eastern ally's growing tension with Iran.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call",
-      "originalUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 132,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/f7750b86-b666-441d-ad85-e004befe43e3/3f70789c-8232-4f13-a178-f669a03f6443/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/kamala-harris-netanyahu-call.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kamala-harris-netanyahu-call.amp",
-      "publishedDateTime": "2021-03-05T11:06:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris",
         "Republican Voice"
       ]
     }

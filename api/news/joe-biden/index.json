@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-17-biden-backs-filibuster-reform-after-top-senate-republican-says-democrats-would-pay-if-its-scrapped.md",
+      "title": "Biden backs filibuster reform after top Senate Republican says Democrats would pay if it's scrapped",
+      "excerpt": "WASHINGTON (Reuters) - President Joe Biden on Tuesday backed reforming, rather than scrapping, the filibuster after Senate Minority Leader Mitch McConnell warned Democrats that ending the long-standing Senate procedure that can block partisan legislation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-senate-filibuster-biden-idUSKBN2B902U",
+      "originalUrl": "https://www.reuters.com/article/us-usa-senate-filibuster-biden-idUSKBN2B902U",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555137824&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G016",
+          "width": 822,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B902U",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B902U",
+      "publishedDateTime": "2021-03-16T20:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-cuomo-should-resign-if-investigation-confirms-claims.md",
       "title": "Biden: Cuomo should resign if investigation confirms claims",
       "excerpt": "President Joe Biden says New York Gov. Andrew Cuomo should resign if the state attorney general’s investigation confirms the sexual harassment allegations against him",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.washingtonpost.com/national/biden-cuomo-should-resign-if-investigation-confirms-claims/2021/03/16/bfe2f9da-86ba-11eb-be4a-24b89f616f2c_story.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -54,19 +106,19 @@
       ]
     },
     {
-      "path": "_news/2021-03-17-biden-says-he-supports-reforming-senate-filibuster-in-abc-news-exclusive-interview.md",
-      "title": "Biden says he supports reforming Senate filibuster in ABC News exclusive interview",
-      "excerpt": "President Joe Biden said he supports reforming the Senate filibuster in an ABC News exclusive interview Tuesday.",
+      "path": "_news/2021-03-17-biden-tells-migrants-dont-come-over-in-abc-news-exclusive-interview.md",
+      "title": "Biden tells migrants 'don't come over' in ABC News exclusive interview",
+      "excerpt": "The president spoke with ABC News' George Stephanopoulos. On Location: March 16, 2021 President Joe Biden said in an exclusive interview with ABC News' George Stephanopoulos on Tuesday that his ...",
       "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
-      "originalUrl": "https://abcnews.go.com/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
+      "webUrl": "https://abcnews.go.com/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159",
+      "originalUrl": "https://abcnews.go.com/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 165,
       "tags": null,
       "images": [
         {
-          "url": "https://s.abcnews.com/images/US/president-joe-biden-interview-04-exclusive-abc-jc-210316_1615931643517_hpMain_16x9_992.jpg",
+          "url": "https://s.abcnews.com/images/US/president-joe-biden-interview-01-exclusive-abc-jc-210316_1615930676504_hpMain_16x9_992.jpg",
           "width": 992,
           "height": 558,
           "title": null,
@@ -76,16 +128,68 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156",
-      "publishedDateTime": "2021-03-16T17:27:00-07:00",
+      "ampWebUrl": "https://abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159",
+      "publishedDateTime": "2021-03-16T16:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "ABC",
+        "name": "ABCNews",
         "domain": "abcnews.go.com",
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-biden-swings-by-pennsylvania-in-covid-relief-tour-and-promises-more-help.md",
+      "title": "Biden swings by Pennsylvania in Covid relief tour and promises ‘more help’",
+      "excerpt": "President stopped by unionized, Black-owned company to highlight how $1.9tn package will lift small businesses Last modified on Tue 16 Mar 2021 18.36 EDT Joe Biden stopped by a unionized, Black-owned flooring company in the battleground state of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
+      "originalUrl": "https://www.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/cbbdd38aaa534703e2351104e4b147bc6657d5a7/0_85_3187_1912/master/3187.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f6854b7cf8fc8ae24db44335aaedf3fe",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/2021/mar/16/joe-biden-pennsylvania-covid-relief-campaign",
+      "publishedDateTime": "2021-03-16T14:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -138,58 +242,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-republicans-struggle-to-drown-out-bidens-help-is-here-pandemic-relief-tour.md",
-      "title": "Republicans struggle to drown out Biden's 'Help is Here' pandemic relief tour",
-      "excerpt": "PHILADELPHIA (Reuters) - Thomas McGarrigle, Republican Party chairman in Pennsylvania’s Delaware County, is certain that President Joe Biden’s $1.9 trillion coronavirus relief package is bloated with Democratic goodies and benefits Americans who have ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-biden-republicans-idUSKBN2B82JS",
-      "originalUrl": "https://www.reuters.com/article/us-usa-biden-republicans-idUSKBN2B82JS",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555101260&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1EC",
-          "width": 777,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B82JS",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82JS",
-      "publishedDateTime": "2021-03-16T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1510,58 +1562,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-03-biden-in-vaccine-rollout-push-as-states-rush-to-reopen-live-updates.md",
-      "title": "Biden in vaccine rollout push as states rush to reopen – live updates",
-      "excerpt": "Promised increase in vaccine supply comes as Republican Governors drop Covid restrictions",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates?page=with:block-603f372d8f08be9d080d97cd",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates?page=with:block-603f372d8f08be9d080d97cd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 325,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0d374997ea15d3d82e0e9cc669c176a17b2f06bd/0_99_4000_2400/master/4000.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=1231205c6cf2cf6d1ad5813d6d260444",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/03/joe-biden-covid-coronavirus-vaccine-xavier-becerra-donald-trump-live-updates",
-      "publishedDateTime": "2021-03-03T01:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

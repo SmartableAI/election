@@ -750,6 +750,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump on rumors Meghan Markle will run for president: 'I hope that happens'"
+    excerpt: "Former President Donald Trump told 'Fox News Primetime' on Tuesday that if the rumors surrounding Meghan Markle's potential 2024 presidential bid prove to be true, he'd have an 'even stronger feel toward running' in the next election."
+    publishedDateTime: 2021-03-17T01:24:00Z
+    webUrl: "https://www.foxnews.com/media/trump-meghan-markle-president-2024"
+    ampWebUrl: "https://www.foxnews.com/media/trump-meghan-markle-president-2024.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/trump-meghan-markle-president-2024.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 133
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/636729bb-8c6a-4cc7-8149-376394b7ba77/a9210477-e36a-4624-a3ec-4e5b680fb9ff/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Biden expected to roll back Trump administration Title IX changes; falsely accused student's father speaks out"
     excerpt: "The father of a student falsely accused of sexual assault is speaking out after President Biden ordered education officials to start considering how to roll back Trump administration changes to Title IX, which had bolstered the rights for those accused of ..."
     publishedDateTime: 2021-03-11T11:44:00Z

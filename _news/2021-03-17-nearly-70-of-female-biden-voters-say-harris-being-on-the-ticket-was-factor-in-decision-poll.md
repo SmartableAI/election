@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-be
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1"
 type: article
 quality: 129
-heat: 709
+heat: 729
 published: true
 
 provider:
@@ -182,6 +182,20 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
+        isCached: true
+  - title: "Dem insiders say Kamala Harris will follow Biden's lead on Andrew Cuomo. 'It's not her call,' one ally says."
+    excerpt: "Harris has been quiet about sexual-misconduct accusations against Gov. Andrew Cuomo as Democrats have demanded his resignation."
+    publishedDateTime: 2021-03-16T22:20:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-biden-andrew-cuomo-misconduct-allegations-resignation-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/605125ccfe6a340019acf008?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Why is the spotlight on HBCUs? It’s more than just Vice President Kamala Harris"
     excerpt: "The recent inauguration of Vice President Kamala Harris exists at the intersection of several historical firsts. Among them, Harris is the first graduate of a Historically Black College and University (HBCU) to hold the nation’s second-highest office."

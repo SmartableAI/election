@@ -47,6 +47,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Senate confirms Biden's pick to lead Small Business Administration"
+    excerpt: "The Senate on Tuesday confirmed Isabel Guzman to lead the Small Business Administration (SBA), approving another member of President Biden's economic team."
+    publishedDateTime: 2021-03-16T22:07:00Z
+    webUrl: "https://thehill.com/policy/finance/543498-senate-confirms-bidens-pick-to-lead-sba"
+    ampWebUrl: "https://thehill.com/policy/finance/543498-senate-confirms-bidens-pick-to-lead-sba?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/543498-senate-confirms-bidens-pick-to-lead-sba?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/casillasguzmanisabella_020321getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "President Joe Biden finds allegations about Gov. Andrew Cuomo 'hard to read,' White House says"
     excerpt: "Growing reports of misbehavior by New York Gov. Andrew Cuomo concern President Joe Biden. He is making sure vaccine distribution is not affected."
     publishedDateTime: 2021-03-15T19:30:00Z
@@ -78,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "6OnZ57560grcvWnt3bOv6VILe6g0T4O8FaEui63dTmpRCJ25w8qejZqiG0M/lyhYQIEje82jKANtCqdQhdO6GBOzQGLx9qpn41lUgfvoT7fJTvJO8Wc+PQQs+8Ud2T73n3Y76KflgLQe4k+8IYpDCM9iZzJouMOk/Sly0ag7WYpJNfvTlgnrBZvOd/clW/tUQsfVcUFvpD1qZh4FbE+uVBrFUXV6p7seMciao1XitToqKoGq68vn2klg39b/Wg9WSTNpTZCFiNGQMOrmk4qsWn7bwUoXhs3HFBAJvlQzxi7WoRVHMkYfq/dOHVrkkoKx/tAGGWGy3px1ty3IatXTBmEHFPmPmPQPQ1gTYY3m6TM=;iX//QIKr4Rcgbz8eHOZPJQ=="
+secured: "1aZ8zSKTWGksszhb1OFi0dSEI9jIcYZsYuIgO+AXxq+H9VY+e3qt1JTphppl/pqNcHDZ+JCce+y3rxKh3EltuQ9Q106U708b8P9Yhp7gl5iU0q5GcaLAAeARB7NeFi7DhuXy4hnnuTxl+d2E3YsXGrdRB8+ZSGsgQoyMy9CLqvgkfPLk5Yfx53A5FW5ib25E722jP05j5HZHxS3Lzh4jEjcoYcx8VKX9UtbJBWTSgi2hm15LSSOxOZKfP6h7ETbcv0pcWstsyEsEN5gN2EiOp/iRaKyMDsa3d8VY7sjJ16QxF8y6eib8wY+jqs7aiBYjQMMvl1aGZkpjpFTrY1JayjVIFIovdy+xry5LaJCAKFlXaGsE1kVhUA+5qyZFum/TfIAv3anW8PQR+GSQZmHsP9BV/opiEeij8BkXHjlMLgj8M7KhOec2PfK2vuAySjg6O5iGPqBCAk7yFdD3zEaeYxMG3eEPETf2Qf7ZdsAftG49aZwfRrkqgsdgVyLHKh2cLx99XnBmWgDZqjjU06kfmg==;xGx6WAH7zTOojkVlsO5ddw=="
 ---
 

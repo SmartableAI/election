@@ -195,6 +195,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Dem insiders say Kamala Harris will follow Biden's lead on Andrew Cuomo. 'It's not her call,' one ally says."
+    excerpt: "Harris has been quiet about sexual-misconduct accusations against Gov. Andrew Cuomo as Democrats have demanded his resignation."
+    publishedDateTime: 2021-03-16T22:20:00Z
+    webUrl: "https://www.businessinsider.com/kamala-harris-biden-andrew-cuomo-misconduct-allegations-resignation-2021-3"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 101
+    images:
+      - url: "https://i.insider.com/605125ccfe6a340019acf008?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Why is the spotlight on HBCUs? It’s more than just Vice President Kamala Harris"
     excerpt: "The recent inauguration of Vice President Kamala Harris exists at the intersection of several historical firsts. Among them, Harris is the first graduate of a Historically Black College and University (HBCU) to hold the nation’s second-highest office."
     publishedDateTime: 2021-03-16T20:47:00Z
@@ -444,6 +458,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "rKyh9JOH20UpjNdrXhJcLKY0HIjaYC/1tj0rmzszvKbpScyVCcFqNBH0VoZWc1feu/jU7BbtlNkAAwy8DVPx6HOkK0GpAkv+gDD6Tg3te1Q8zNmrrOBFGkUDdxo+WNKjViBZipxIDvFlyqPSySXtb98LgWXXBTHoJoRXf5epbaq0QvrVoqPEy/Y5jwq7ACBm6L36cTXptsYmOD07YVj4NcWhK5J7mOqUN2dbsruDduHIBri/IWq1bPWc9uHnFfYiIzvkteHBEi/cTZ3GAK4Blu3FeR4i6NrR5MHc+jiikGAmfSz/Pux7TcM9CODG1bBcaxvJPDfgsYfFEhNvleC//2Pm0EIBQD0/RGY5qf5gE2o=;3jVoAh5lXM+3MBVu4LYM5A=="
+secured: "5T61d84CTlYaZmw/8Q3J5CuUiBCNn8Er5hvmvv8YdTMuplR5+WcOGIDX947rvGXgwuc/xLBoNu3u6nGcg+cTbWFQRYIkpAiM/Uxls4IjcX1xpvL8gSM1agqz/1EAxIweLK3Zw5bB5YgUQcjKpI/4mMorFkT87O+bSTRUZ1jnQQIXaAiVShdPvnrdCZVAn4VM/vOFoFwLX/zT6qRhvY97a3H+slzKmjaSqZ9TA5dLEJLRYbkXd66KiY0X6WJNgXAcClNDMW1F/i46/MmEUrlBQs5laI2D4pb5CK3enPozBBdbPkPxuGwpfwnIlAPGNySUnALAF9aHw2TcRPMggd/lYyHmq2A7BZqJ8+rgGegzg6IPoD+hyqpJLNATWCy9ndD3RosTGi+hqAwQBbTcfWEqmvAe5Bq/ZIgECDs4GQIL5pkvidxR9f1vuViYz/i7G6hw03VF+901X25Su52vBTBttjtXIpCTEIzSxVzBy07EguTXxo5XG18c4gB+otfAJhookgwzg0NpTgkHUS1w62z/Cw==;h+6aDWBZfRtVq+fNREFhJQ=="
 ---
 

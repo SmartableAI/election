@@ -1133,6 +1133,17 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Florida teen pleads guilty to hacking Twitter accounts of Biden, celebrities"
+    excerpt: "The Florida teenager accused of being behind the hack of celebrity Twitter accounts last year has pleaded guilty in the state's 13th Judicial Circuit Court in Tampa and agreed to serve three years in juvenile prison."
+    publishedDateTime: 2021-03-17T07:27:00Z
+    webUrl: "https://www.businessinsider.com/florida-teen-pleads-guilty-to-hacking-twitter-accounts-of-biden-celebrities-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/florida-teen-pleads-guilty-to-hacking-twitter-accounts-of-biden-celebrities-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/florida-teen-pleads-guilty-to-hacking-twitter-accounts-of-biden-celebrities-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 102
   - title: "U.S. House set for final approval of $1.9 trillion COVID-19 bill in early win for Biden"
     excerpt: "It indicates a way to close an interaction, or dismiss a notification. By Makini Brice WASHINGTON (Reuters) - President Joe Biden is poised on Wednesday for his first major legislative victory when the House of Representatives is expected to approve his $1 ..."
     publishedDateTime: 2021-03-10T12:13:00Z
@@ -1260,6 +1271,6 @@ related:
         height: 663
         isCached: true
 
-secured: "Da+msT9ls94APSi6ov/EJDX9c8n242OOcf2T7SZqmQTH8S2b1P7j3emaedS2Hy2NL9epj9SK0Ezsh370qaU4593rGSlsUHC+fvZH0eidz05hBYU9mLF/nltNrCGcxZP5A6dUVJ3q6AjnnIM1c5j5odk6IeF62cL3ajRGBfkg++NB01VN7FK/eJ5VgxHB0kuxM+Fsqdi1xxkRFg2akkl5FOo2/6lopo6+lpidyvpo8gTBINaSyXlQcyPMEIhTFyWCPgNNuPdWYJY0X81Hdn1Rfyb1zv3SdNLtX2wFrCXcKHJT/12FcNTD/yEYi6dBUL/zLMclq/zakUf5maP6IEV17AErGPB4JDQ1CIq9yjwcJZY=;hiC5fB4zAwF48DXVplIM2w=="
+secured: "yzV7wELwqZeIfFMHSI0Ybj9eeZY7eJjnCWdsJdToXQOzLg/svMvBPEN/Je+EyeGoUXxeuNaDdijQPkqU7OeyYrgHs18mDUXupLOgpFMsoadpJlDuAGKp/iX9CVsMwz17sFcMyg9pwZQX9qcffAjygyrJDBBaQgO+XNF3MyC4xN1VfLeTfohhQdRBfpKf3DlG7l0xeBVSwkkaXGdMqqhdijsn2W9wwTcjmoL63/W0OgzS7AZ4/dc2GKp7rjKmHW54oBHgM/SQpiL5pjy/uylREa8M3rpRx9Fww2qEs5O6IIrDxeXafEYdkEA1WLpqcG7kW7QorSThkgXNWY6pkkNGSsT8eyuNSlp3S+YrP6j/hOWvKGXVI3+ZJx3I8G2qZw8o83eptSeYR1pq92Ci0TagAIhWtRn1P6sp79g0B6pPf3nVtywNB2r3ZKBXa5eQ9HewG3a8IevrXnORF2XT+ugbcvSbZa+Cf+sk37NvkUHqPtKhjvSdT81jNzE8eskNzXiZfIdllCK0vzPQPfSAmRo8Yg==;ShfKthJcZ85plJu4OhfVAQ=="
 ---
 

@@ -45,6 +45,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Senate confirms Biden's pick to lead Small Business Administration"
+    excerpt: "The Senate on Tuesday confirmed Isabel Guzman to lead the Small Business Administration (SBA), approving another member of President Biden's economic team."
+    publishedDateTime: 2021-03-16T22:07:00Z
+    webUrl: "https://thehill.com/policy/finance/543498-senate-confirms-bidens-pick-to-lead-sba"
+    ampWebUrl: "https://thehill.com/policy/finance/543498-senate-confirms-bidens-pick-to-lead-sba?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/finance/543498-senate-confirms-bidens-pick-to-lead-sba?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/casillasguzmanisabella_020321getty_lead.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "President Biden says Gov. Andrew Cuomo should resign if allegations of harassment are true"
     excerpt: "WASHINGTON — President Joe Biden said Tuesday that New York Gov. Andrew Cuomo should resign if an investigation into allegations he sexually harassed multiple women finds the claims are true. \"Yes,\" Biden said when asked in an interview with ABC's ..."
     publishedDateTime: 2021-03-17T02:16:00Z

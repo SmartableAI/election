@@ -45,58 +45,6 @@
       ]
     },
     {
-      "path": "_news/2021-03-17-kamala-harris-tells-un-democracy-depends-on-empowerment-of-women-live.md",
-      "title": "Kamala Harris tells UN: 'Democracy depends on empowerment of women' – live",
-      "excerpt": "Vice-President gives pointed address to the UN on gender equality and women’s rights Joanna Walters (now) and Martin Belam (earlier) Martin Pengelly Russia sought to influence the 2020 election, a US government report out today says, by planting ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-6050d9fd8f08b617ed427c0d",
-      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-6050d9fd8f08b617ed427c0d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/0d5527ef8965a1f7abaaf21c99ddb64feb58858a/0_100_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d66423618d9e5709bb8cc359a6d6bb32",
-          "width": 600,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates",
-      "publishedDateTime": "2021-03-16T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
       "path": "_news/2021-03-17-nearly-70-of-female-biden-voters-say-harris-being-on-the-ticket-was-factor-in-decision-poll.md",
       "title": "Nearly 70% of Female Biden Voters Say Harris Being on the Ticket Was Factor in Decision: Poll",
       "excerpt": "President Joe Biden's choice of Kamala Harris as his running mate in the 2020 election resonated with women across the U.S. According to a report released Tuesday by Gender on the Ballot, a nonpartisan project to examine gender dynamics in politics ...",
@@ -105,7 +53,7 @@
       "originalUrl": "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571",
       "featuredContent": null,
       "highlight": null,
-      "heat": 709,
+      "heat": 729,
       "tags": null,
       "images": [
         {
@@ -129,6 +77,58 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-kamala-harris-tells-un-democracy-depends-on-empowerment-of-women-live.md",
+      "title": "Kamala Harris tells UN: 'Democracy depends on empowerment of women' – live",
+      "excerpt": "Vice-President gives pointed address to the UN on gender equality and women’s rights Joanna Walters (now) and Martin Belam (earlier) Martin Pengelly Meghan Markle’s comments about the royal family in her bombshell interview with Oprah Winfrey ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-6050b3a78f08b617ed42799b",
+      "originalUrl": "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-6050b3a78f08b617ed42799b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/0d5527ef8965a1f7abaaf21c99ddb64feb58858a/0_100_3500_2100/master/3500.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=d66423618d9e5709bb8cc359a6d6bb32",
+          "width": 600,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates",
+      "publishedDateTime": "2021-03-16T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
