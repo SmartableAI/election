@@ -329,6 +329,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vice President Kamala Harris will visit Colorado on Tuesday"
+    excerpt: "Vice President Kamala Harris is scheduled to visit Colorado on Tuesday. The Democrat and her husband, Doug Emhoff, will begin their trip at a COVID-19 vaccination clinic at Plan De Salud Del Valle in Fort Lupton, in northern Colorado. After that ..."
+    publishedDateTime: 2021-03-15T22:35:00Z
+    webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
+    ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Black colleges counting on Harris to make funding a priority | Charlotte Observer"
     excerpt: "Black colleges and universities hope high-profile graduates in the Biden administration will push for increased federal support for HBCUs."
     publishedDateTime: 2021-03-16T10:00:00Z
@@ -411,6 +427,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "Kamala Harris Makes U.N. Debut, Pledges to Fight for Women, Democracy"
+    excerpt: "U.S. Vice President Kamala Harris made her debut at the United Nations on Tuesday, telling a meeting on gender equality that democracy fundamentally depends on the empowerment of women and that democracy globally is increasingly \"under great strain."
+    publishedDateTime: 2021-03-16T13:34:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-03-16/kamala-harris-makes-un-debut-pledges-to-fight-for-women-democracy"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 35
   - title: "Vice President Harris Visit to Las Vegas Vaccination Clinic"
     excerpt: "President Biden spoke to reporters about the urgent need to pass the American Rescue Plan before taking part in an economic… President Biden and Vice President Kamala Harris took a virtual tour of the COVID-19 vaccine distribution site set up at… Vice ..."

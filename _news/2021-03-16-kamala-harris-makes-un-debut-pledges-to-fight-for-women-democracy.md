@@ -1,34 +1,26 @@
 ---
 category: news
-title: "The Biden administration is mobilizing FEMA amid record numbers of migrant children and teens at the border"
-excerpt: "One recent New York Times report revealed that under the Biden administration, border officials had detained more than 1,360 migrant children longer than the mandatory 72-hour limit permitted by US law. President Joe Biden has vowed to set a new tone with ..."
-publishedDateTime: 2021-03-14T02:53:00Z
-originalUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3"
-webUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3"
-ampWebUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
+title: "Kamala Harris Makes U.N. Debut, Pledges to Fight for Women, Democracy"
+excerpt: "U.S. Vice President Kamala Harris made her debut at the United Nations on Tuesday, telling a meeting on gender equality that democracy fundamentally depends on the empowerment of women and that democracy globally is increasingly \"under great strain."
+publishedDateTime: 2021-03-16T13:34:00Z
+originalUrl: "https://www.usnews.com/news/world/articles/2021-03-16/kamala-harris-makes-un-debut-pledges-to-fight-for-women-democracy"
+webUrl: "https://www.usnews.com/news/world/articles/2021-03-16/kamala-harris-makes-un-debut-pledges-to-fight-for-women-democracy"
 type: article
-quality: 107
+quality: 35
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Joe Biden
-
-images:
-  - url: "https://i.insider.com/604d771610c8760018b931ac?width=1200&format=jpeg"
-    width: 1200
-    height: 600
-    isCached: true
+  - Kamala Harris
 
 related:
   - title: "Nearly 70% of Female Biden Voters Say Harris Being on the Ticket Was Factor in Decision: Poll"
@@ -110,6 +102,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555123879&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1K0"
         width: 663
         height: 545
+        isCached: true
+  - title: "The Biden administration is mobilizing FEMA amid record numbers of migrant children and teens at the border"
+    excerpt: "One recent New York Times report revealed that under the Biden administration, border officials had detained more than 1,360 migrant children longer than the mandatory 72-hour limit permitted by US law. President Joe Biden has vowed to set a new tone with ..."
+    publishedDateTime: 2021-03-14T02:53:00Z
+    webUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/604d771610c8760018b931ac?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Watch Live: Vice President Kamala Harris speaks at U.N. meeting on gender equality and women's empowerment"
     excerpt: "Vice President Kamala Harris is delivering a statement Tuesday on behalf of the United States during a session of the United Nations' Commission on the Status of Women. The theme of this year's session, the 65th, is women's \"full and effective ..."
@@ -429,15 +437,6 @@ related:
       name: C-SPAN
       domain: c-span.org
     quality: 35
-  - title: "Kamala Harris Makes U.N. Debut, Pledges to Fight for Women, Democracy"
-    excerpt: "U.S. Vice President Kamala Harris made her debut at the United Nations on Tuesday, telling a meeting on gender equality that democracy fundamentally depends on the empowerment of women and that democracy globally is increasingly \"under great strain."
-    publishedDateTime: 2021-03-16T13:34:00Z
-    webUrl: "https://www.usnews.com/news/world/articles/2021-03-16/kamala-harris-makes-un-debut-pledges-to-fight-for-women-democracy"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 35
   - title: "Vice President Harris Visit to Las Vegas Vaccination Clinic"
     excerpt: "President Biden spoke to reporters about the urgent need to pass the American Rescue Plan before taking part in an economic… President Biden and Vice President Kamala Harris took a virtual tour of the COVID-19 vaccine distribution site set up at… Vice ..."
     publishedDateTime: 2021-03-15T19:45:00Z
@@ -448,6 +447,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "lCQi1LIjbyEwuqHRrAnY76sxVFUX+Plx9E6rTJ37LVx0nIrgDaw0UqQ+Ht2dxmAdwgQR6qGvUBin8tVMyEiMxyAzyG9Tl8xmCzQG720GpDpjBxMHXdATJGYXcDrOeYGsusdALANtQZ3rU+9FdKYY7sLhutTt/ZpN8e5eUcmJmzUPTneY6IyR2M5US/AqxZYONR0KViors3xaqBGP1R2ts1I9Uph5WvqiWfzoVBr+U27BjqypDRN+SQrWQPUdlAOBoC7HqkeCWmU/VuZM/J9ANYgZcXgC1qcicBQfJQtx24ABzJB1SCxf9SDzQXaqxIJGEJhhAK5boPcTSif6KNXbGJUoC5kpBz5ssVdvmtiMsQA=;dx6rxBkx1InAORWVZiMtbw=="
+secured: "svq6DnLOdi5h2Y8RLqqeMa8JBMTZzpGifR9xiKBmNu8aY81DPE1w4D56k6IU1B23uGPJ/EChOu1rG9by+i5lZ6gSTZveck8qpUpH2l4XIXsXhdkbaVgQ15jLAVqSO+8/AHKJQEEGfomgRQ0Q7F0f8fqgZiYXqPxnDJlJO49cNtJLyXf4/RqZCjknjXWJvDBYpQokU1GKAn8yzE35NSOhatGUphOW9o48hQ7XoHaPUChe7KSoLK6Cold9s5ITItjQ/8rqVshSJdH+h0qVoRhs7p0/CgPW56WQeG9KIBQdsWYqXPsAhAIOKOD8Rqg3n/BJGe2dYrNPogCtBjymKq9uW/D9HaeAAiEHdardeX7pgUXbBriDY+O0KPpICoSvzXRpKrhkXYd8bvcf+e2vBjXb59WeyRM8vm/2RLfdPLggZn179ucOP5ZgRUHkho6ql8QNkChlUOT97KbaQlhTkLUQRACWDuu839wf10kZW0s431SljE7ZIQ+sv0oSmOVySicvMIdC3bBgEiNXV4Y/5vmJnQ==;+UbdAcMcdXZmeEp4i06q0w=="
 ---
 

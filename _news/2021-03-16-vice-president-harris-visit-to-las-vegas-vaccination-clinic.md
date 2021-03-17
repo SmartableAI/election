@@ -325,6 +325,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Vice President Kamala Harris will visit Colorado on Tuesday"
+    excerpt: "Vice President Kamala Harris is scheduled to visit Colorado on Tuesday. The Democrat and her husband, Doug Emhoff, will begin their trip at a COVID-19 vaccination clinic at Plan De Salud Del Valle in Fort Lupton, in northern Colorado. After that ..."
+    publishedDateTime: 2021-03-15T22:35:00Z
+    webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
+    ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 75
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Black colleges counting on Harris to make funding a priority | Charlotte Observer"
     excerpt: "Black colleges and universities hope high-profile graduates in the Biden administration will push for increased federal support for HBCUs."
     publishedDateTime: 2021-03-16T10:00:00Z
@@ -416,6 +432,15 @@ related:
     provider:
       name: C-SPAN
       domain: c-span.org
+    quality: 35
+  - title: "Kamala Harris Makes U.N. Debut, Pledges to Fight for Women, Democracy"
+    excerpt: "U.S. Vice President Kamala Harris made her debut at the United Nations on Tuesday, telling a meeting on gender equality that democracy fundamentally depends on the empowerment of women and that democracy globally is increasingly \"under great strain."
+    publishedDateTime: 2021-03-16T13:34:00Z
+    webUrl: "https://www.usnews.com/news/world/articles/2021-03-16/kamala-harris-makes-un-debut-pledges-to-fight-for-women-democracy"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
     quality: 35
 
 secured: "Hs+zbItBZEwDB8nF40wpD3rivm1xV886b89xQXNt95pfINJx7k3joFApzB2DSl4Gvs8kpOODE9bitSXkViKmHbv9aTBLZSvtDZ++Ghwnv+3eWD9QlOnktf7ugjGNBkUam33fasQrNvcrLcdcU7AGruXi4xZ38SvqVOcETIxOW0mnBf3vH2srJBdQuGAgPjD+kyaDGlrcpH2tbIX482OdO+Z3tgqmYY/dho6e7iF8SFnJnuerTMT+hN6hk+OmvKlVf5+nKbxUt/+FZGao0jJOEK4GV2tl2qlALnU1O5S1IJVs1lmM0r1SB3rD25bFi7InmHx9DEHwDo1amC5j7XyaF3bpKC4TF17Uzhzl/R6VKenj1xBbGhdI0wI0kETJarGSrYmsIC4dI7sm+Ou+Uw32w5XGRl4PlRt0JEd9qXlLgU4TpMi2QMQOavHEJIVOKzynjqvoTRdp8GAE367aeVIfBYGvMPSBQ0PtYIE/R8hFeLhdt2NUcBTxQVCPxCw4+i0Bz9GcnV7pCOdgQCXhLvJLPw==;fT5zRcDi2+Nsy8qlVNLQMw=="

@@ -1,33 +1,29 @@
 ---
 category: news
-title: "The Biden administration is mobilizing FEMA amid record numbers of migrant children and teens at the border"
-excerpt: "One recent New York Times report revealed that under the Biden administration, border officials had detained more than 1,360 migrant children longer than the mandatory 72-hour limit permitted by US law. President Joe Biden has vowed to set a new tone with ..."
-publishedDateTime: 2021-03-14T02:53:00Z
-originalUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3"
-webUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3"
-ampWebUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
-cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
+title: "Vice President Kamala Harris will visit Colorado on Tuesday"
+excerpt: "Vice President Kamala Harris is scheduled to visit Colorado on Tuesday. The Democrat and her husband, Doug Emhoff, will begin their trip at a COVID-19 vaccination clinic at Plan De Salud Del Valle in Fort Lupton, in northern Colorado. After that ..."
+publishedDateTime: 2021-03-15T22:35:00Z
+originalUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
+webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
+ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
+cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
 type: article
-quality: 107
+quality: 75
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Denver Post
+  domain: denverpost.com
 
 topics:
   - Election
-  - Joe Biden
+  - Kamala Harris
 
 images:
-  - url: "https://i.insider.com/604d771610c8760018b931ac?width=1200&format=jpeg"
-    width: 1200
-    height: 600
+  - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -110,6 +106,22 @@ related:
       - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555123879&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1K0"
         width: 663
         height: 545
+        isCached: true
+  - title: "The Biden administration is mobilizing FEMA amid record numbers of migrant children and teens at the border"
+    excerpt: "One recent New York Times report revealed that under the Biden administration, border officials had detained more than 1,360 migrant children longer than the mandatory 72-hour limit permitted by US law. President Joe Biden has vowed to set a new tone with ..."
+    publishedDateTime: 2021-03-14T02:53:00Z
+    webUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3"
+    ampWebUrl: "https://www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-administration-mobilizing-fema-amid-influx-of-migrant-children-2021-3?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 107
+    images:
+      - url: "https://i.insider.com/604d771610c8760018b931ac?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
   - title: "Watch Live: Vice President Kamala Harris speaks at U.N. meeting on gender equality and women's empowerment"
     excerpt: "Vice President Kamala Harris is delivering a statement Tuesday on behalf of the United States during a session of the United Nations' Commission on the Status of Women. The theme of this year's session, the 65th, is women's \"full and effective ..."
@@ -321,22 +333,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Vice President Kamala Harris will visit Colorado on Tuesday"
-    excerpt: "Vice President Kamala Harris is scheduled to visit Colorado on Tuesday. The Democrat and her husband, Doug Emhoff, will begin their trip at a COVID-19 vaccination clinic at Plan De Salud Del Valle in Fort Lupton, in northern Colorado. After that ..."
-    publishedDateTime: 2021-03-15T22:35:00Z
-    webUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/"
-    ampWebUrl: "https://www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
-    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/15/kamala-harris-denver-visit-covid-relief/amp/"
-    type: article
-    provider:
-      name: The Denver Post
-      domain: denverpost.com
-    quality: 75
-    images:
-      - url: "https://www.denverpost.com/wp-content/uploads/2021/01/AP21020776409909.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Black colleges counting on Harris to make funding a priority | Charlotte Observer"
     excerpt: "Black colleges and universities hope high-profile graduates in the Biden administration will push for increased federal support for HBCUs."
     publishedDateTime: 2021-03-16T10:00:00Z
@@ -448,6 +444,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "lCQi1LIjbyEwuqHRrAnY76sxVFUX+Plx9E6rTJ37LVx0nIrgDaw0UqQ+Ht2dxmAdwgQR6qGvUBin8tVMyEiMxyAzyG9Tl8xmCzQG720GpDpjBxMHXdATJGYXcDrOeYGsusdALANtQZ3rU+9FdKYY7sLhutTt/ZpN8e5eUcmJmzUPTneY6IyR2M5US/AqxZYONR0KViors3xaqBGP1R2ts1I9Uph5WvqiWfzoVBr+U27BjqypDRN+SQrWQPUdlAOBoC7HqkeCWmU/VuZM/J9ANYgZcXgC1qcicBQfJQtx24ABzJB1SCxf9SDzQXaqxIJGEJhhAK5boPcTSif6KNXbGJUoC5kpBz5ssVdvmtiMsQA=;dx6rxBkx1InAORWVZiMtbw=="
+secured: "rKyh9JOH20UpjNdrXhJcLKY0HIjaYC/1tj0rmzszvKbpScyVCcFqNBH0VoZWc1feu/jU7BbtlNkAAwy8DVPx6HOkK0GpAkv+gDD6Tg3te1Q8zNmrrOBFGkUDdxo+WNKjViBZipxIDvFlyqPSySXtb98LgWXXBTHoJoRXf5epbaq0QvrVoqPEy/Y5jwq7ACBm6L36cTXptsYmOD07YVj4NcWhK5J7mOqUN2dbsruDduHIBri/IWq1bPWc9uHnFfYiIzvkteHBEi/cTZ3GAK4Blu3FeR4i6NrR5MHc+jiikGAmfSz/Pux7TcM9CODG1bBcaxvJPDfgsYfFEhNvleC//2Pm0EIBQD0/RGY5qf5gE2o=;3jVoAh5lXM+3MBVu4LYM5A=="
 ---
 

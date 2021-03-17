@@ -1,33 +1,33 @@
 ---
 category: news
-title: "Should Joe Biden Thank Donald Trump For Vaccine Rollout? Operation Warp Speed Debated"
-excerpt: "A number of conservative and Republican figures are saying that Joe Biden should be thanking Donald Trump for spurring on the development of a COVID-19 vaccine as the president announced hopes for the country to be \"back to normal\" by July 4. In an address ..."
-publishedDateTime: 2021-03-12T08:56:00Z
-originalUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607"
-webUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607"
-ampWebUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607?amp=1"
-cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607?amp=1"
+title: "Biden tells Central American migrants: 'Don't come over'"
+excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. President Biden has told people from Central America not to come to the US after reports of a massive surge in migrants at the US-Mexico border."
+publishedDateTime: 2021-03-17T03:28:00Z
+originalUrl: "https://www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3"
+webUrl: "https://www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3"
+ampWebUrl: "https://www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3?amp"
+cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3?amp"
 type: article
-quality: 133
+quality: 125
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
+  name: Business Insider
+  domain: businessinsider.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - Election
-  - Donald Trump
+  - Joe Biden
 
 images:
-  - url: "https://d.newsweek.com/en/full/1754112/trump.jpg"
-    width: 2500
-    height: 1667
+  - url: "https://i.insider.com/6051614a0347cb00184b62a2?width=1200&format=jpeg"
+    width: 1200
+    height: 600
     isCached: true
 
 related:
@@ -334,6 +334,22 @@ related:
       - url: "https://d.newsweek.com/en/full/1751601/trump-cpac-florida-2021.jpg"
         width: 3000
         height: 2000
+        isCached: true
+  - title: "Should Joe Biden Thank Donald Trump For Vaccine Rollout? Operation Warp Speed Debated"
+    excerpt: "A number of conservative and Republican figures are saying that Joe Biden should be thanking Donald Trump for spurring on the development of a COVID-19 vaccine as the president announced hopes for the country to be \"back to normal\" by July 4. In an address ..."
+    publishedDateTime: 2021-03-12T08:56:00Z
+    webUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607"
+    ampWebUrl: "https://www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-vaccine-trump-operation-warp-speed-1575607?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 133
+    images:
+      - url: "https://d.newsweek.com/en/full/1754112/trump.jpg"
+        width: 2500
+        height: 1667
         isCached: true
   - title: "Mary Trump Says Uncle Donald Trump More Upset About Twitter Ban Than Losing Election"
     excerpt: "Mary Trump, a clinical psychologist and the niece of former President Donald Trump, said that she believes her uncle was more upset about being banned from Twitter and forfeiting his high-profile golf tournament than losing the presidential election."
@@ -799,22 +815,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "Biden tells Central American migrants: 'Don't come over'"
-    excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. President Biden has told people from Central America not to come to the US after reports of a massive surge in migrants at the US-Mexico border."
-    publishedDateTime: 2021-03-17T03:28:00Z
-    webUrl: "https://www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3"
-    ampWebUrl: "https://www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/biden-tells-central-american-migrants-dont-come-over-2021-3?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 125
-    images:
-      - url: "https://i.insider.com/6051614a0347cb00184b62a2?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
     publishedDateTime: 2021-03-10T20:24:00Z
@@ -1260,6 +1260,6 @@ related:
         height: 663
         isCached: true
 
-secured: "MyYLBcaGrJA7G/did055p/aYb7zHeOCcc9cXInvOIOC7n1OB4sC7OaH9WOBCCxgy8wsUxygbUaKTfNEHMY9Oz+5ovSLbZ0bUQOds/DFaQvUD5BxNLDlqYop7Ty0HyTExu+6yoFAEPgXuf2tc72Qrnu6cuV1uSjjsv7V1MT67/PXlvwx1rr5njaADXHWczazYALEhdM+8YS4PgrSNupFdcCM3hBc017bvutqdUb56qZmqTNbjp0sCWVO8x5eHo8LZirzEHxa70nltsQGmUlaNXswkNlid3KgbXh2Gav94c5ZM7FygEsS+4wvnhr3i6bjBg+Y9VmdLQjhdhY70EXxz9nFAn11hi3X9FTZnTOGUn5M=;Kg2ef/bNcuzP1HQc1evw+Q=="
+secured: "njT5I167SueZsYHn7z/2adba8XetRROschQBgMjsW0QCNhdDJem3QBf24jyGMRhUN46kjGzXWb3dJDHT58BSCDpEwCb+66l8hzF+IN/CJOaB1ZVo3k7a1ZduwWBXvHFaKJ9LyZ9q4StdSlotAuohTgoX8uHgPzyYQgNMYXFulhboJR2FZMj+0MX3oqsQwLfRLbWGHrK5ZMsSEVCJx7GvNqDLAwWUmqRl4D0NtrhbwKu1FiDl7YF0YAEVuh/yMcJh+jBHiwEdP220hHUlWwHKrBbzsRXtbgCeVrGg8EdzwcuHv2n0f/sFwPHWx8qb4DmyyuoJecLRLcxrzCxeeCDhnvK6sK67ACIhH/UmhSG1jX0=;7DDKvnJIqQoXwMCOnjfWWg=="
 ---
 
