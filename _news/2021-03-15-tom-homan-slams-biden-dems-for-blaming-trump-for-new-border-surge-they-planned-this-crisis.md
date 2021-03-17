@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/tom-homan-democrats-trump-border-su
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp"
 type: article
 quality: 178
-heat: 358
+heat: 378
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Biden tells migrants 'don't come' to US as border crisis surges"
+    excerpt: "President Biden is now urging migrants planning on embarking to the United States not to come. "
+    publishedDateTime: 2021-03-16T23:53:20Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/_TAk6aNcUkE/biden-tells-migrants-dont-come-to-us-as-border-crisis-surges"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-tells-migrants-dont-come-to-us-as-border-crisis-surges.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-tells-migrants-dont-come-to-us-as-border-crisis-surges.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 175
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e52c0609-4d29-486e-b174-b42ba89aa3fb/e3ebda85-242a-4429-b83e-06e05f008e44/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Texas Gov. Abbott blames Biden reversal of Trump policies for 'self-inflicted' migrant surge at border"
     excerpt: "Texas Republican Gov. Greg Abbott blamed the Biden administration for what he called a \"self-inflicted\" influx of migrants at the southern border by reversing the immigration policies implemented under former President Donald Trump."
     publishedDateTime: 2021-03-09T23:20:10Z

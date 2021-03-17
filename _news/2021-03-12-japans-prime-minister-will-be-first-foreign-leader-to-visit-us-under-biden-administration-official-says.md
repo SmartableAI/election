@@ -79,6 +79,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden to hold first formal news conference on March 25"
+    excerpt: "President Joe Biden will hold his first formal news conference since taking office on March 25, White House press secretary Jen Psaki said Tuesday.\n    \n"
+    publishedDateTime: 2021-03-16T21:58:22Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zPUFknuK2Sk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/biden-first-news-conference/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/biden-first-news-conference/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315141013-01-biden-remarks-0315-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Southwest border crisis leaves Biden vulnerable on all sides"
     excerpt: "The White House may be loath to call the situation on the Southwestern border, which hundreds of migrant children are crossing alone, a crisis. But it's fast becoming a political emergency for the new President.\n    \n"
     publishedDateTime: 2021-03-16T10:45:05Z
@@ -188,6 +204,22 @@ related:
     quality: 158
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210310154048-02-central-american-minors-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Border crisis stymies Congress as GOP bashes Biden and Democrats spar internally over immigration strategy"
+    excerpt: "The migrant crisis roiling the United States has made the complicated politics in Congress over immigration even dicier, with Democrats at sharp odds over how to proceed and Republicans pushing for far stricter measures than the White House would likely accept.\n    \n"
+    publishedDateTime: 2021-03-16T22:51:09Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i-ohJ42ioO8/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/immigration-politics-congress-senate/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/immigration-politics-congress-senate/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 157
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311103227-08-blinken-diversity-state-dept-menendez-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

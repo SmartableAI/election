@@ -2,6 +2,170 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2021-02-19-iran-learning-it-can-threaten-biden-to-get-its-way-on-nuclear-talks-ric-grenell.md",
+      "title": "Iran learning it can threaten Biden to get its way on nuclear talks: Ric Grenell",
+      "excerpt": "Iran has already shown it can pressure the Biden administration into granting concessions related to its nuclear weapons program, former Acting Director of National Intelligence Richard Grenell told \"Your World\" Friday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/xE8-btjy02c/iran-learning-threaten-biden-way-nuclear-talks-grenell",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/dd154628-c42a-42cb-829c-9a04557dc5a5/869775b1-e778-487c-a2ef-b385b0432f76/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/iran-learning-threaten-biden-way-nuclear-talks-grenell.amp",
+      "publishedDateTime": "2021-02-19T14:58:54-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-19-biden-used-3-key-stats-to-make-a-point-except-they-werent-true.md",
+      "title": "Biden used 3 key stats to make a point. Except they weren't true",
+      "excerpt": "During President Joe Biden's CNN town hall, he made several false statistical claims. Here's what you need to know.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BXHccdyeTw0/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/BXHccdyeTw0/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 495,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210216230847-05-biden-town-hall-selects-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/politics/2021/02/19/fact-check-minimum-wage-immigration-china-joe-biden-orig-me.cnn",
+      "publishedDateTime": "2021-02-19T11:49:30-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-02-20-trump-repeats-election-claims-in-interviews-is-unchallenged.md",
+      "title": "Trump repeats election claims in interviews, is unchallenged",
+      "excerpt": "Former President Donald Trump repeated false claims that the election was stolen from him 10 times during interviews this week on Fox News Channel, Newsmax and One America News Networks",
+      "sourceUrl": null,
+      "webUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "originalUrl": "https://abcnews.go.com/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 2260,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.abcnews.com/images/Entertainment/WireAP_797a515557004f9aae322fd80b74b431_16x9_992.jpg",
+          "width": 992,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Entertainment/wireStory/trump-repeats-election-claims-interviews-unchallenged-76002370",
+      "publishedDateTime": "2021-02-19T11:25:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ABC",
+        "domain": "abcnews.go.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-02-19-america-is-back-biden-affirms-transatlantic-relationships.md",
       "title": "'America is back': Biden affirms transatlantic relationships",
       "excerpt": "Seeking a sharp break from the \"America First\" policies of his predecessor, President Joe Biden reaffirmed the US position of global leadership, the power of its alliances and the resilience of democracy in the United States and abroad.\n    \n",
@@ -1201,153 +1365,6 @@
         "Election",
         "Mike Pence",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-joe-biden-north-korea-review-will-consider-malicious-cyber-activity-as-hackers-charged.md",
-      "title": "Joe Biden North Korea Review Will Consider 'Malicious' Cyber Activity As Hackers Charged",
-      "excerpt": "Three North Korean hackers were charged Wednesday over a plot to steal $1.3 billion in crypto and traditional currencies from banks and individuals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188",
-      "originalUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1738417/kim-il-sung-kim-jong-il.jpg",
-          "width": 2500,
-          "height": 1664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-biden-north-korea-review-consider-malicious-cyber-activity-hackers-charged-1570188?amp=1",
-      "publishedDateTime": "2021-02-18T06:07:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-did-kamala-harris-bail-out-minneapolis-rioters-last-year-here-are-the-facts.md",
-      "title": "Did Kamala Harris bail out Minneapolis rioters last year? Here are the facts",
-      "excerpt": "If you use this model, I don’t know how Kamala Harris doesn’t get impeached if the Republicans take over the House, because she actually bailed out rioters, and one of the rioters went back to the streets and broke somebody’s head open,",
-      "sourceUrl": null,
-      "webUrl": "https://www.kansascity.com/news/politics-government/article249293135.html",
-      "originalUrl": "https://www.kansascity.com/news/politics-government/article249293135.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5615998022001/7c958e2a-8609-4d9d-819e-605abd03947c/22a0d5a2-2296-4a79-a350-caed77e40c72/1280x720/match/image.jpg?pubId=5615998035001",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kansascity.com/news/politics-government/article249293135.html",
-      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/article249293135.html",
-      "publishedDateTime": "2021-02-18T04:00:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kansas City Star",
-        "domain": "kansascity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-18-naacp-lawsuit-will-put-trump-out-of-business-congressman-bennie-thompson-says.md",
-      "title": "NAACP lawsuit will put Trump \"out of business,\" Congressman Bennie Thompson says",
-      "excerpt": "Congressman Bennie Thompson and NAACP President Derrick Johnson talk to CBSN about their legal case over the Capitol riot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/naacp-trump-lawsuit-bennie-thompson/",
-      "originalUrl": "https://www.cbsnews.com/news/naacp-trump-lawsuit-bennie-thompson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cbsnews1.cbsistatic.com/hub/i/r/2020/03/11/4919888d-d71c-4945-b12e-61536282e8dc/thumbnail/1200x630/0ea5fbfc8c1175126f3ad66fa9f1cd69/30-polarizing-trump.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/news/naacp-trump-lawsuit-bennie-thompson/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/naacp-trump-lawsuit-bennie-thompson/",
-      "publishedDateTime": "2021-02-18T03:58:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cbsnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

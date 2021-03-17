@@ -105,7 +105,7 @@
       "originalUrl": "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571",
       "featuredContent": null,
       "highlight": null,
-      "heat": 649,
+      "heat": 669,
       "tags": null,
       "images": [
         {
@@ -292,6 +292,49 @@
       "provider": {
         "name": "Las Vegas Review-Journal",
         "domain": "reviewjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Kamala Harris"
+      ]
+    },
+    {
+      "path": "_news/2021-03-14-kamala-harris-tells-kids-at-choice-awards-you-make-us-and-your-country-so-proud.md",
+      "title": "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'",
+      "excerpt": "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/",
+      "originalUrl": "https://www.upi.com/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnph.upi.com/sv/ph/og/upi/1841615727690/2021/1/beb597aa620d51fb657376388a969933/v1.5/Kamala-Harris-tells-kids-at-Choice-Awards-You-make-us-and-your-country-so-proud.jpg",
+          "width": 800,
+          "height": 532,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/",
+      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/",
+      "publishedDateTime": "2021-03-14T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1503,58 +1546,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
-      ]
-    },
-    {
-      "path": "_news/2021-02-12-twitter-reacts-to-terrence-k-williams-calling-vp-kamala-harris-a-pole-model.md",
-      "title": "Twitter Reacts To Terrence K. Williams Calling VP Kamala Harris A ‘Pole Model’",
-      "excerpt": "Terrence K. Williams refused to apologize to Vice President Kamala Harris after calling her a \"pole model\" on social media.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020",
-      "originalUrl": "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/01/04/images-and-soundbitesus-vice-president-elect-kamala-harris.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/twitter-reacts-terrence-k-williams-calling-vp-kamala-harris-pole-model-3144020?amp=1",
-      "publishedDateTime": "2021-02-11T20:56:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

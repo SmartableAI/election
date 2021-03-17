@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-12-the-daily-202-missing-from-the-american-rescue-package-debate-donald-trump.md",
+      "title": "The Daily 202: Missing from the “American Rescue Package” debate? Donald Trump.",
+      "excerpt": "Welcome to The Daily 202 newsletter! Today, we look at f Donald Trump's absence from the fight over President Biden's massive rescue package. But don’t miss the latest on commemorations of one year since the pandemic began,",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/",
+      "originalUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 141,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/M7TQR4A2XNCMLCF4HPOVLW24CE.jpg&w=1440",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/2021/03/11/daily-202-missing-american-rescue-package-debate-donald-trump/?outputType=amp",
+      "publishedDateTime": "2021-03-11T13:39:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-clueless-alum-stacey-dash-apologizes-for-past-support-of-donald-trump-thats-not-who-i-am.md",
       "title": "'Clueless' alum Stacey Dash apologizes for past support of Donald Trump: 'That's not who I am'",
       "excerpt": "\"Clueless\" actress-turned-conservative commentator Stacey Dash is walking back her previous support of former President Donald Trump. Dash, 54, told the Daily Mail in an interview published Wednesday that the Jan. 6 Capitol riots were a turning point for ...",
@@ -1536,58 +1588,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-05-youtube-will-lift-ban-on-trump-channel-when-risk-of-violence-decreases-ceo.md",
-      "title": "YouTube will lift ban on Trump channel when risk of violence decreases: CEO",
-      "excerpt": "Alphabet Inc's YouTube will lift its suspension on former U.S. President Donald Trump's channel when it determines the risk of real-world violence has decreased, the company's CEO, Susan Wojcicki, said on Thursday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-youtube-trump-suspension-idINKBN2AW2LI",
-      "originalUrl": "https://www.reuters.com/article/us-youtube-trump-suspension-idINKBN2AW2LI",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210304&t=2&i=1553776485&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH231FS",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2AW2LI",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2AW2LI",
-      "publishedDateTime": "2021-03-04T16:49:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

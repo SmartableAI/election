@@ -9,8 +9,8 @@ ampWebUrl: "https://www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice
 cdnAmpWebUrl: "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: UPI.com
@@ -25,6 +25,24 @@ images:
     width: 800
     height: 532
     isCached: true
+
+related:
+  - title: "“We want to make sure you stay open”: Vice President Kamala Harris, husband promote federal stimulus plan in Colorado"
+    excerpt: "Vice President Kamala Harris and her husband, Doug Emhoff, sat down at a table at Denver’s Maria Empanada restaurant on Tuesday afternoon. It wasn’t for a bite to eat, but instead part"
+    publishedDateTime: 2021-03-16T23:04:00Z
+    webUrl: "https://www.denverpost.com/2021/03/16/kamala-harris-colorado-visit-denver-covid-stimulus/"
+    ampWebUrl: "https://www.denverpost.com/2021/03/16/kamala-harris-colorado-visit-denver-covid-stimulus/amp/"
+    cdnAmpWebUrl: "https://www-denverpost-com.cdn.ampproject.org/c/s/www.denverpost.com/2021/03/16/kamala-harris-colorado-visit-denver-covid-stimulus/amp/"
+    type: article
+    provider:
+      name: The Denver Post
+      domain: denverpost.com
+    quality: 52
+    images:
+      - url: "https://www.denverpost.com/wp-content/uploads/2021/03/AP21075736963900.jpg?w=1024&h=683"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "2sr9vpNmKQQzK4Hu/CHcFvOSf1exNZXHIYlvC1eEZw6BeCZTt5XLknhHLWCNZOaEemPuMW1oiBaWRulN050YcX3s/T2sp2JngZALa7SI4hySRYBPfML62Xf3idHnnpaF/OyRWu3SMASK2MhJe7ve05MrpF/eQXR6cU8ptqCB2mcExjx03podgcOPbYuu0zOYRcTdRaTSRIRjgPKU9ZdgSWCuvs9KpBo9ARa25sST47p/7+KrdSr/5srp8cmVjD544TGMT2c/Oc/i4lcKEKscaRVT+fEWpW5+AFiaeVd67pl6ZWpmVUJ1YZbilSmM6U/iNeLvgPXn2YvggHakjPq5ys10wMyM4SgDje0ylqdmAvDNcHjF4ywT/lnrTvvkrxcHfr7neQ63RHFeCrPBLaxrG64ogRBsOzDLmrXusZXu0D+i2IsYoXGmvcvC3iD/kbRw5re8ruY+UTS7hmi/J4vjeV/g8a10GiEdYCThzkWznFfSPYxMoq0U4Sskdqrr2oFrwKf9B7n4EttFl/hyg351VQ==;BP8LgYo10OZ9VOX5af0d4Q=="
 ---

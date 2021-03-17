@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-be
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1"
 type: article
 quality: 129
-heat: 649
+heat: 669
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://s.abcnews.com/images/Politics/WireAP_f9ce496c7d34449c9f422668858143f4_16x9_992.jpg"
         width: 992
         height: 558
+        isCached: true
+  - title: "Biden trade nominee Tai wins unanimous U.S. Senate backing in procedural vote"
+    excerpt: "The U.S. Senate advanced President Joe Biden's nominee for U.S. trade representative, Katherine Tai, a step closer to confirmation on Tuesday, voting unanimously in favor of her in a procedural vote."
+    publishedDateTime: 2021-03-16T20:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-tai-idUSKBN2B82T0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82T0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82T0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555123879&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1K0"
+        width: 663
+        height: 545
         isCached: true
   - title: "The Biden administration is mobilizing FEMA amid record numbers of migrant children and teens at the border"
     excerpt: "One recent New York Times report revealed that under the Biden administration, border officials had detained more than 1,360 migrant children longer than the mandatory 72-hour limit permitted by US law. President Joe Biden has vowed to set a new tone with ..."

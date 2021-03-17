@@ -191,6 +191,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "US: Putin approved operations to help Trump against Biden"
+    excerpt: "Russian President Vladimir Putin authorized influence operations to help Donald Trump in last November’s presidential election"
+    publishedDateTime: 2021-03-16T23:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Manhattan prosecutor who is investigating Trump will not seek re-election"
     excerpt: "(Reuters) - Manhattan District Attorney Cyrus Vance Jr said on Friday he will not seek re-election in November, making it likely that his criminal investigation into former U.S. President Donald Trump will be left for his successor. The decision by Vance ..."
     publishedDateTime: 2021-03-12T15:46:00Z
@@ -462,6 +478,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Putin targeted people close to Trump in bid to influence 2020 election, U.S. intelligence says"
+    excerpt: "A new report appears to reference the former president’s associate Rudolph Giuliani as being used to launder misleading narratives to damage Biden’s candidacy."
+    publishedDateTime: 2021-03-16T23:03:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/intelligence-assessment-2020-election-russia-iran/2021/03/16/a2650478-8662-11eb-bfdf-4d36dab83a6d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/intelligence-assessment-2020-election-russia-iran/2021/03/16/a2650478-8662-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/intelligence-assessment-2020-election-russia-iran/2021/03/16/a2650478-8662-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 128
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TWT6V3UGQEI6XP67JU3NVOB2NU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Russia targeted people close to Trump in bid to influence 2020 election, U.S. intelligence says"
     excerpt: "A new report appears to reference the former president’s associate Rudolph Giuliani as being used to launder misleading narratives to damage Biden’s candidacy"

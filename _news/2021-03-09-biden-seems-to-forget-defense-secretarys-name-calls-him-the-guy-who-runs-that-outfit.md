@@ -175,6 +175,22 @@ related:
         width: 340
         height: 340
         isCached: true
+  - title: "Scandal-plagued Cuomo joins White House call as Biden refuses to call for resignation"
+    excerpt: "New York Gov. Andrew Cuomo took part in a call between the National Governors Association and the White House on Tuesday."
+    publishedDateTime: 2021-03-16T23:07:51Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/4hIs7_A2QI4/cuomo-joins-white-house-call-biden-resignation-coronavirus"
+    ampWebUrl: "https://www.foxnews.com/politics/cuomo-joins-white-house-call-biden-resignation-coronavirus.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-joins-white-house-call-biden-resignation-coronavirus.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 168
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Andrew-Cuomo-Nursing-Home-Scandal-AP-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Ilhan Omar joins Democrats in demanding Biden admin suspend standardized tests in schools"
     excerpt: "\"Squad\" member Rep. Ilhan Omar, D-Minn., joined a group of her Democratic colleagues in calling on President Biden's education secretary to suspend standardized testing requirements"
     publishedDateTime: 2021-03-10T22:47:32Z

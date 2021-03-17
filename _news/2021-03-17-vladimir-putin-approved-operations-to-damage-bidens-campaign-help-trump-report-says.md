@@ -191,6 +191,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "US: Putin approved operations to help Trump against Biden"
+    excerpt: "Russian President Vladimir Putin authorized influence operations to help Donald Trump in last November’s presidential election"
+    publishedDateTime: 2021-03-16T23:52:00Z
+    webUrl: "https://www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 140
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Lucky review: how Biden beat Trump – and doubters like Obama and Hillary"
     excerpt: "Jonathan Allen and Amie Parnes deliver a clear-eyed account of an election which could not cure a country’s wounds"
     publishedDateTime: 2021-03-07T05:02:00Z
@@ -462,6 +478,22 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/01/26/97585bc0-de27-431b-8f3d-1234bf157b19/thumbnail/1200x630/9a65966895908c6c0fdbe52241ab4a75/gettyimages-1088237672.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Putin targeted people close to Trump in bid to influence 2020 election, U.S. intelligence says"
+    excerpt: "A new report appears to reference the former president’s associate Rudolph Giuliani as being used to launder misleading narratives to damage Biden’s candidacy."
+    publishedDateTime: 2021-03-16T23:03:00Z
+    webUrl: "https://www.washingtonpost.com/national-security/intelligence-assessment-2020-election-russia-iran/2021/03/16/a2650478-8662-11eb-bfdf-4d36dab83a6d_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/national-security/intelligence-assessment-2020-election-russia-iran/2021/03/16/a2650478-8662-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/national-security/intelligence-assessment-2020-election-russia-iran/2021/03/16/a2650478-8662-11eb-bfdf-4d36dab83a6d_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 128
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/TWT6V3UGQEI6XP67JU3NVOB2NU.jpg&w=1440"
+        width: 1440
+        height: 960
         isCached: true
   - title: "Russia targeted people close to Trump in bid to influence 2020 election, U.S. intelligence says"
     excerpt: "A new report appears to reference the former president’s associate Rudolph Giuliani as being used to launder misleading narratives to damage Biden’s candidacy"
@@ -1212,6 +1244,6 @@ related:
         height: 663
         isCached: true
 
-secured: "0Z8lv0WramT3D4pNAm7KSppzp50uCixalQs7yV5MwPEpoVBTE6j7WRMExVgyHJDnS3uP4rgsgaZMNPOuI58KQqhH0hjol8cQzxpQJdMtZb78585GHZ7d8/3zvQXAsJae3dBFDQk4UwYT7aFv00HkOMtNB+4GF9zZupiLeQBXUx1UbCAylEDlWOAfp4nfZq5YmZQ5j77wdyNYkJpyysqh5VZ8dlOy+86CtyEwUq5EBttg+3Ua8GUFbdFCXdGRpBZHUDaRvd2ehM6p6+XgyYOZaCgd2n02rBk8xw6/30oBIyx7mYIA1JjAqCzurJkDJTR636Na+iwh/AV+RMlaZxLBAva4NUr3I4/RjrkgbcLNQ5I=;wlkPU5yG2nSMKpYjEspCmw=="
+secured: "B0pTeTATslgJyiiIsYPsS6ssAv0UazIcVEaoMsh/pYzIu9ifdLwGbQVUeiBPqhwx9pnF21SUK8QcDhVTgkqDqBchllelP6ZPHN739G0+w80EMwNchX6ABVpkCSfmh4OUJUmjV2qWDnYtriXQZwpqz6NUBEMBLFFq4iGvEJDvbs2FJMUYET6Kx2icrWsdSBpe8JGfhWqjhGZjvfuaU23hNF+FBhoOe1koD+FlnWpNHzwBeJSZDDQTZpYAuqRNOlGeRxd9zEJ7gpaBOZCOA4EoBat5DmtU0KKqx/pq4zw0z64pPP5Wo494viHmYB47t4zsASxNP/NBQcjT9lXvlTeOAk4eWreMA+ojSYm4TgTgE5qm3idrdc7j5kXM4OBoKaw2gRIiNCS4mK0BLqPqZ+GsgL+LSFs/s/QrErrPlkao/KL+OTpIOJQ625o2NWwYqw0TAI96Hp7K0J4qOrr2plo0oji/PPaYkf4fUNzSb/BMhZFdnWkneIuxtk2palF6vMa5Dp+62vlkD2LYoJ1Gn1nyUw==;1poIVhld4ooAeAzewzhKQg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/index.html"
 type: article
 quality: 188
-heat: 768
+heat: 788
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315172701-01-brett-giroir-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Georgia prosecutor investigating Trump hires new evidence expert"
+    excerpt: "The Atlanta-area district attorney investigating former President Donald Trump, Fani Willis, is beefing up her office with a new evidence expert, according to a source familiar with the situation.\n    \n"
+    publishedDateTime: 2021-03-16T23:11:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Yvs6xr9qmM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/georgia-trump-investigation-evidence-expert-hired/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/georgia-trump-investigation-evidence-expert-hired/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316184757-mike-carlson-gbi-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

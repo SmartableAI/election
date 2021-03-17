@@ -76,6 +76,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Greg Gutfeld blasts WaPo's 'deep-fake news' after massive retraction in Trump-Georgia reporting"
+    excerpt: "Greg Gutfeld slammed the mainstream media in the wake of a massive correction by The Washington Post, which read in part that, contrary to the paper's original reporting, former President Donald Trump did not tell Georgia state elections investigator Frances Watson to 'find the fraud."
+    publishedDateTime: 2021-03-16T23:07:00Z
+    webUrl: "https://www.foxnews.com/media/greg-gutfeld-blasts-wapos-deep-fake-news-after-massive-retraction-in-trump-georgia-reporting"
+    ampWebUrl: "https://www.foxnews.com/media/greg-gutfeld-blasts-wapos-deep-fake-news-after-massive-retraction-in-trump-georgia-reporting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/greg-gutfeld-blasts-wapos-deep-fake-news-after-massive-retraction-in-trump-georgia-reporting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/328f1d5b-d529-4e88-8490-e0379d34c001/5028207a-bf2a-4a39-b87f-df5df24e887e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "TnH72yJtLbKHsXw5O8J+TdFelAqy+fqzQLeEsggpbITC6L8r9Qs0/OKwkGHc0vcPRj1JxPa10QW2Bov5nMi/2zg7EpqX/srTgI/jkDUnsUd0/BJBHBkXteKjaGp7WYmyY3p+WWRSQT0JWFom7f2clODlh3oi1N1DJDOuNTP5k+UymRi+sYEWbvWrmyThVtpAiTnr8yWTk/T1hRKznnQtKWFOKUsniynpbqt3mS32HwpQkVImin/FNCWijvfxXP2/58fD39F3U/AT3V3S800hkNpMxpIFWXdHVRMTZOEoOsIp3J9IgF5RshXyoJm5X338BrtW/4KW6IABuf3RYmjSedkOaouetn2G2WNYXKwBwwX1/qwdBbEm2kwxH3lm5vHlNPlLQk4ME9Kob95FsciT/oQLmZjicqUMXKrVD2ad7QQrzuBZVKDO04CcRZgsugWyONOeBKGqdG72qpGGFlvY/SPNQ1vX6OZAvT75mYvTdgfJytLscK2pvKsPYZPhdJGgJouVX+V/6tdA2kRiLcMV9w==;u+wHfLUEzbJa4hK68C5xbg=="
 ---

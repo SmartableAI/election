@@ -47,6 +47,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "What's *really* at stake in Donald Trump's legal fights"
+    excerpt: "(CNN)Donald Trump isn't president anymore. So questions about whether he paid his taxes -- and how much he paid -- and how much he knew about the hush money paid during 2016 to two women alleging they had extramarital affairs with him, which he denies ..."
+    publishedDateTime: 2021-03-16T19:25:00Z
+    webUrl: "https://www.cnn.com/2021/03/16/politics/trump-legal-battles-message-trumpism/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/trump-legal-battles-message-trumpism/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/trump-legal-battles-message-trumpism/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 135
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311184305-trump-white-house-jan-2019-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
 
 secured: "YKPgHDjMfuTfj6pWNoB57C/oUYketfoXGy8hRadXBaJvWsrogY2Q8kyO+od0sOyfC/eJt5zlg9L+HvaOUEpFhP/yLE/jfXWegLa1srUUhsUP1YYb1RFKvkK7OQY8X22uH31rcRPeIzoQJHePsTvDuy0M3kCnDoH+9L3tJY5ESqapZx/2Ogm8N7a318rSF+E2ehxR6z96V2jCAyNECTGWZCwVLxqn3qgzN2hQOW7iZNhkbZ9/bpAMY90FNAuMtWu43RVZDw98uP+/ge9r0QwSH849UEge66QMDoS38mkiwC9r5bYIogIQpdTRx6QTyIe3T7jLgQbg4xk6pc4J+izYSfCd32DBQ6PBQoK98tc4qxE=;v53WeThdZHOlfadiyGbkuw=="
 ---

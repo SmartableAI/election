@@ -2,6 +2,166 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-03-11-clueless-alum-stacey-dash-apologizes-for-past-support-of-donald-trump-thats-not-who-i-am.md",
+      "title": "'Clueless' alum Stacey Dash apologizes for past support of Donald Trump: 'That's not who I am'",
+      "excerpt": "\"Clueless\" actress-turned-conservative commentator Stacey Dash is walking back her previous support of former President Donald Trump. Dash, 54, told the Daily Mail in an interview published Wednesday that the Jan. 6 Capitol riots were a turning point for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/11/stacey-dash-clueless-actress-done-supporting-donald-trump/6952792002/",
+      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/11/stacey-dash-clueless-actress-done-supporting-donald-trump/6952792002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2020/06/16/USAT/5d4985a5-802f-4faa-8573-cdeeab9820eb-GTY_1211016708.JPG?auto=webp&crop=4159,2340,x0,y156&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.usatoday.com/amp/6952792002",
+      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6952792002",
+      "publishedDateTime": "2021-03-11T05:08:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "USA Today",
+        "domain": "usatoday.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-bidens-party-line-approach-in-congress-has-worked-so-far-but-sen-joe-manchin-wants-bipartisanship.md",
+      "title": "Biden’s party-line approach in Congress has worked so far. But Sen. Joe Manchin wants bipartisanship.",
+      "excerpt": "Manchin has reiterated that he believes the 60-vote requirement is what makes the Senate a unique legislative body across the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
+      "originalUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I37U2VEB7YI6XLBXIOB7O4E2XY.jpg&w=1440",
+          "width": 1440,
+          "height": 979,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
+      "publishedDateTime": "2021-03-11T03:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-11-pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.md",
+      "title": "Pelosi-Milley phone call about ‘unhinged’ Trump is target of Judicial Watch lawsuit",
+      "excerpt": "House Speaker Nancy Pelosi’s January phone call with U.S. Army Gen. Mark Milley, chairman of the Joint Chiefs of Staff -- in which Pelosi raised concerns about what she described as an \"unhinged\" President Trump -- is now the subject of a Freedom of Information Act (FOIA) lawsuit.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT1wQWKY4X4/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT1wQWKY4X4/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/pelosi-milley.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.amp",
+      "publishedDateTime": "2021-03-11T01:47:20-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-11-trump-endorses-widow-of-rep-elect-luke-letlow-in-louisiana-house-race.md",
       "title": "Trump endorses widow of Rep.-elect Luke Letlow in Louisiana House race",
       "excerpt": "Former President Trump Donald Trump Manhattan prosecutors intensifying probe into Trump's New York estate: report GOP leaders reiterate commitment to working with Trump amid back-and-forth Top ...",
@@ -178,7 +338,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 232,
+      "heat": 252,
       "tags": null,
       "images": [
         {
@@ -666,7 +826,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 455,
+      "heat": 475,
       "tags": null,
       "images": [
         {
@@ -1192,172 +1352,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-this-cant-be-the-end-of-the-matter-advocates-lawmakers-press-biden-to-punish-saudi-crown-prince.md",
-      "title": "'This can't be the end of the matter': Advocates, lawmakers press Biden to punish Saudi crown prince",
-      "excerpt": "WASHINGTON – Several prominent human rights advocates blasted President Joe Biden on Tuesday for failing to directly penalize Saudi Arabia's crown prince for his role in the murder of Washington Post columnist Jamal Khashoggi. It comes as Democrats in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/news/politics/2021/03/09/biden-pressed-punish-mohammad-bin-salman-jamal-khashoggi-death/6926968002/",
-      "originalUrl": "https://www.usatoday.com/story/news/politics/2021/03/09/biden-pressed-punish-mohammad-bin-salman-jamal-khashoggi-death/6926968002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2021/02/28/USAT/2b4b8963-ba75-4b58-8f3c-9b54cb63507b-AFP_8XQ2CT.jpg?auto=webp&crop=2351,1322,x1,y168&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6926968002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6926968002",
-      "publishedDateTime": "2021-03-09T15:15:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-former-vp-pence-narrates-the-age-of-rush-a-look-at-the-man-behind-the-golden-microphone.md",
-      "title": "Former VP Pence narrates 'The Age of Rush', a look at the man behind the golden microphone",
-      "excerpt": "How did Rush Limbaugh, a shy college dropout, become the most powerful radio talk show host of all time? A new FOX Nation special, \"The Age of Rush\" examines the late conservative icon's life and legacy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/age-of-rush-mike-pence-fox-nation",
-      "originalUrl": "https://www.foxnews.com/media/age-of-rush-mike-pence-fox-nation",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7de868b9-f13f-46e9-b925-00a0931cee67/cf3c51c9-4438-4f96-83a7-82ff737b32a1/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/age-of-rush-mike-pence-fox-nation.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/age-of-rush-mike-pence-fox-nation.amp",
-      "publishedDateTime": "2021-03-09T15:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-10-bidens-german-shepherd-major-nips-secret-service-agents-hand-causing-extremely-minor-injury.md",
-      "title": "Bidens' German shepherd Major nips Secret Service agent's hand, causing 'extremely minor injury'",
-      "excerpt": "The press secretary said in an interview on MSNBC's \"Morning Joe\" that it's typical for the dogs to be in Delaware when Jill Biden is traveling. The first lady is in Washington state as part of a West Coast trip to tour military bases and meet with service ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/white-house/biden-s-german-shepherd-major-involved-white-house-incident-resulting-n1260169",
-      "originalUrl": "https://www.nbcnews.com/politics/white-house/biden-s-german-shepherd-major-involved-white-house-incident-resulting-n1260169",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media2.s-nbcnews.com/i/newscms/2021_10/3455382/210309-major-biden-mc-12442_b4ae073e2073a88753304c82d48c7cae.JPG",
-          "width": 2500,
-          "height": 1666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/ncna1260169",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/ncna1260169",
-      "publishedDateTime": "2021-03-09T12:47:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/nbcnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden",
-        "Democratic Voice"
       ]
     }
   ],

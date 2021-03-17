@@ -93,6 +93,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden trade nominee Tai wins unanimous U.S. Senate backing in procedural vote"
+    excerpt: "The U.S. Senate advanced President Joe Biden's nominee for U.S. trade representative, Katherine Tai, a step closer to confirmation on Tuesday, voting unanimously in favor of her in a procedural vote."
+    publishedDateTime: 2021-03-16T20:18:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-trade-tai-idUSKBN2B82T0"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B82T0"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B82T0"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 122
+    images:
+      - url: "https://s1.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555123879&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F1K0"
+        width: 663
+        height: 545
+        isCached: true
   - title: "The Biden administration is mobilizing FEMA amid record numbers of migrant children and teens at the border"
     excerpt: "One recent New York Times report revealed that under the Biden administration, border officials had detained more than 1,360 migrant children longer than the mandatory 72-hour limit permitted by US law. President Joe Biden has vowed to set a new tone with ..."
     publishedDateTime: 2021-03-14T02:53:00Z
@@ -407,6 +423,6 @@ related:
       domain: c-span.org
     quality: 35
 
-secured: "bQtc9m/opOheMl3VVHurtc8Ed5CQDyP/FqNCF1HA0yzOVJ+h/Rey/F7UmmslS/FeGUuVh7T3xLCNZO1+fgjYVUjF3upg7uWJTPFFSul6BHu/fp0/eLSaVvqBFdYAcaPN9BWERhtnd5bVbt0LmhjmmgwJOBvUf1xcqvt4G3yjHUHv+pIKwayvPx7zoij8kObT0zL/CGjabvXnI8QpsIJXR1E4cQfDH7WWe6LYFALLW0qkpSTxyiO6Ue6cIc4ac/STYKJTWLJ9bf6Y3d/3qUxYQo/aVNnapnxn9ku/K0XC79BzBDpxti+OHOQPEJNu0W+GrSlIeSK8b29yPVCWoytyhOndHo/LuUcwl4O6u0SuzRk=;0cC0hLJ/usyXtV3z5/4jRw=="
+secured: "ZmTeQFjgFm5UZMgKBp6ykfVoXL2ZYtTF3bGPpxdAxasoeFymy/UNiguJhiEp1WAZWWfmKOx5zYQat+nCdgQUdm+iL9lalZkwI09W10HH7qv3UPaBRe3xxs35TKEPuNQToLIOXV9no1VQirzZvRuSZ15yG+IXxTpg5AhxQ//b1wnSLNypul3Ke51zobji0vakVY5Scl8I4vFlT9xiNRDkUCtsnA45MWxhriVPMJc09NccIesKOT2zMZc4fZGkSiojex88Y73Fy7N00PKF2rBoqlKhQl23mA5QEHBH+soZJ32pgoJ3RIihjDURfkrXo8/gFYB/pKf1tLXycI+tXo9s6qmLMXkgJxTVjeo67l/TTimGBcbJq75swOk4fdtwZeAo3f0HGA+BJ5OiJd4bnPi2GPcqFxUvjD6cYFFnSc/2wY5TxPLJ6g4VYk+kcdD9zYeraN3F8Xl4D1R2wV1sYH6cvxDxkrjCzhCtWa+3Jaw5fDAvSwxR2wSbPdiwY0rirbLgMQvlQQZetmtEesfG7hDV4A==;2Yk0F4fqx4czSi6E3TxJww=="
 ---
 

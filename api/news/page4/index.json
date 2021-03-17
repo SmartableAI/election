@@ -2,6 +2,174 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-03-12-alex-jones-allegedly-threatened-to-throw-trump-rally-organizer-off-a-stage.md",
+      "title": "Alex Jones allegedly threatened to throw Trump rally organizer off a stage",
+      "excerpt": "Police in Washington, DC, are investigating an allegation that conspiracy theorist Alex Jones threatened to push a pro-Trump political organizer off of an event stage in December, according to people familiar with the incident.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jMozUEzlxs8/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jMozUEzlxs8/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 213,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210312163200-alex-jones-200418-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/12/politics/alex-jones-police-investigation-invs/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/alex-jones-police-investigation-invs/index.html",
+      "publishedDateTime": "2021-03-12T15:01:58-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-dem-new-mexico-gov-grisham-concerned-with-bidens-energy-agenda-doesnt-make-any-sense.md",
+      "title": "Dem New Mexico Gov. Grisham concerned with Biden's energy agenda: 'Doesn't make any sense'",
+      "excerpt": "New Mexico Democratic Gov. Michelle Lujan Grisham said during Wednesday's event that President Biden's moratorium pausing oil and gas leasing on federal lands \"hurts New Mexico.\"",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQunnf9DxHE/new-mexico-grisham-biden-oil-moratorium",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQunnf9DxHE/new-mexico-grisham-biden-oil-moratorium",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/new-mexico-grisham-biden-oil-moratorium.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-mexico-grisham-biden-oil-moratorium.amp",
+      "publishedDateTime": "2021-03-12T14:37:21-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-12-cuomo-invokes-his-daily-fight-with-trump-as-democrats-call-for-him-to-resign.md",
+      "title": "Cuomo invokes his daily ‘fight’ with Trump as Democrats call for him to resign",
+      "excerpt": "New York Gov. Andrew Cuomo defended his ability to govern despite the controversy surrounding him, saying that he has handled multiple issues -- like feuding with former President Trump -- simultaneously.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F5Knj6xoRcY/cuomo-fight-trump-daily-resign",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/F5Knj6xoRcY/cuomo-fight-trump-daily-resign",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 211,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1d000a34-5ccc-46aa-8af4-9f28c864e571/35df76f6-3d51-490b-9688-2a831c83b17b/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/cuomo-fight-trump-daily-resign.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cuomo-fight-trump-daily-resign.amp",
+      "publishedDateTime": "2021-03-12T12:02:31-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-12-psaki-pressed-on-bidens-fourth-of-july-goal-cautions-its-not-a-return-to-total-normalcy.md",
       "title": "Psaki pressed on Biden's Fourth of July goal, cautions it's not a 'return to total normalcy'",
       "excerpt": "White House press secretary Jen Psaki said President Biden’s aspiration for Americans to have fourth of July celebrations is not calling for a “mass event” or “return to total normalcy.”",
@@ -394,7 +562,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 768,
+      "heat": 788,
       "tags": null,
       "images": [
         {
@@ -1180,166 +1348,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/mcconnell-biden-covid-relief-package.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mcconnell-biden-covid-relief-package.amp",
       "publishedDateTime": "2021-03-11T10:52:25-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-clueless-alum-stacey-dash-apologizes-for-past-support-of-donald-trump-thats-not-who-i-am.md",
-      "title": "'Clueless' alum Stacey Dash apologizes for past support of Donald Trump: 'That's not who I am'",
-      "excerpt": "\"Clueless\" actress-turned-conservative commentator Stacey Dash is walking back her previous support of former President Donald Trump. Dash, 54, told the Daily Mail in an interview published Wednesday that the Jan. 6 Capitol riots were a turning point for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/11/stacey-dash-clueless-actress-done-supporting-donald-trump/6952792002/",
-      "originalUrl": "https://www.usatoday.com/story/entertainment/celebrities/2021/03/11/stacey-dash-clueless-actress-done-supporting-donald-trump/6952792002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2020/06/16/USAT/5d4985a5-802f-4faa-8573-cdeeab9820eb-GTY_1211016708.JPG?auto=webp&crop=4159,2340,x0,y156&format=pjpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.usatoday.com/amp/6952792002",
-      "cdnAmpWebUrl": "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6952792002",
-      "publishedDateTime": "2021-03-11T05:08:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "USA Today",
-        "domain": "usatoday.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/usatoday.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-bidens-party-line-approach-in-congress-has-worked-so-far-but-sen-joe-manchin-wants-bipartisanship.md",
-      "title": "Biden’s party-line approach in Congress has worked so far. But Sen. Joe Manchin wants bipartisanship.",
-      "excerpt": "Manchin has reiterated that he believes the 60-vote requirement is what makes the Senate a unique legislative body across the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
-      "originalUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/I37U2VEB7YI6XLBXIOB7O4E2XY.jpg&w=1440",
-          "width": 1440,
-          "height": 979,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/powerpost/manchin-biden-senate-filibuster-republicans/2021/03/10/9a581cd2-81b4-11eb-9ca6-54e187ee4939_story.html?outputType=amp",
-      "publishedDateTime": "2021-03-11T03:04:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-11-pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.md",
-      "title": "Pelosi-Milley phone call about ‘unhinged’ Trump is target of Judicial Watch lawsuit",
-      "excerpt": "House Speaker Nancy Pelosi’s January phone call with U.S. Army Gen. Mark Milley, chairman of the Joint Chiefs of Staff -- in which Pelosi raised concerns about what she described as an \"unhinged\" President Trump -- is now the subject of a Freedom of Information Act (FOIA) lawsuit.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT1wQWKY4X4/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/nT1wQWKY4X4/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/pelosi-milley.jpg?ve=1&tl=1",
-          "width": 640,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/pelosi-milley-phone-call-about-unhinged-trump-is-target-of-judicial-watch-lawsuit.amp",
-      "publishedDateTime": "2021-03-11T01:47:20-08:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

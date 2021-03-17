@@ -96,6 +96,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Georgia prosecutor investigating Trump hires new evidence expert"
+    excerpt: "The Atlanta-area district attorney investigating former President Donald Trump, Fani Willis, is beefing up her office with a new evidence expert, according to a source familiar with the situation.\n    \n"
+    publishedDateTime: 2021-03-16T23:11:48Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6Yvs6xr9qmM/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/georgia-trump-investigation-evidence-expert-hired/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/georgia-trump-investigation-evidence-expert-hired/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 175
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210316184757-mike-carlson-gbi-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Trump's time in White House could end up benefiting New York prosecutors  "
     excerpt: "Former President Donald Trump's time in the White House helped shield him from investigations and some lawsuits but it might open him up to greater legal peril from New York prosecutors investigating his finances.\n    \n"
     publishedDateTime: 2021-03-12T16:07:59Z
@@ -482,6 +498,6 @@ related:
       domain: politico.com
     quality: 110
 
-secured: "5GcKHpZGtzHh5Zn/Odw3rA4M8ix2YlAIHAhzSfH94xIuYb+SAg259MsJaGIyGCGqfn5C02moRUCBIBkqNPdQs3qxhg4fBE8Veee4pSYMQW7cJJncGXW+VWyH0zAkNIdC9255AT27agiNqMtzfhVrCMElJfX/Xm36VQ0GK0CONZmspncJtNoxbQ3EUGvZp01gDLvuWGvT/5x+IMYRLS3lbHJeFiY94W/7nWeiqipu8cFdDwJrTuVWilwzefmso03P6RzjuNsEYz0VfPn74v7JQrnkutZ0XkGX1XIMjjDK8ghDPvd2u2eBpqjbF0GlFeHI1ndSQS3WdTkOmAwXIAHMutDfR5xfk8kpMbMaCYcotlM=;o+eumg1E/71194V93CgQVQ=="
+secured: "RcHdWGbaG/DdaDzS81CJCxC2foJO2ZwjjvLl5ekgB8IQZqpy/QoOP4KwSPCMRUkXnVYW71qtLDkuZZpMU3Mae30p4DORSRNm5DOXUNPhrs1YWitnW01d4JCEUvymf683oWgt8n8ysehFAy0G480fB6liHYHYY0pFI6vZS7boAjGz9hjew2I4XCj5i/Rmj00TTbZQbNMGGKFThbyo33BzeMSDtMZvbRDQ+kQJtMHGZQHRCX8airbJ9sXfuNo4NK2s+qTKj4boR2JZtv8AY02KqO25UTAYKRzckGHM5v4a2g6w00DMiEd7n8Eitdqsj875Z+9ANl/Te5jH1vDIGGpQDB3DxFfxaHCCgE4sy2WsuSDVydV3LvPgYa9b9H2KxZBVInyiNwvTa2XLD4NSbTCvFaol0RIf8LWyM/Yq7UbMh3FMQ7yuebEW2Srf3tP9CInwbU0AWHyICDsYc/TUFh+ACaEZWZ4UYEmOW2jUsI4AyeOjpvNG3p3xSOE1jsuiK36Z0sV/MjPj21XWp39UkR6p1Q==;snHNE22V/fkRV3PKX/bhMg=="
 ---
 

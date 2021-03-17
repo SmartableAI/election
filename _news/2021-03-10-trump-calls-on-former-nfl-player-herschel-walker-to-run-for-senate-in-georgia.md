@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/trump-former-nfl-player-herschel-wa
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-former-nfl-player-herschel-walker-senate-georgia.amp"
 type: article
 quality: 172
-heat: 232
+heat: 252
 published: true
 
 provider:
@@ -78,6 +78,22 @@ related:
       - url: "https://images.wsj.net/im-309890/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Greg Gutfeld blasts WaPo's 'deep-fake news' after massive retraction in Trump-Georgia reporting"
+    excerpt: "Greg Gutfeld slammed the mainstream media in the wake of a massive correction by The Washington Post, which read in part that, contrary to the paper's original reporting, former President Donald Trump did not tell Georgia state elections investigator Frances Watson to 'find the fraud."
+    publishedDateTime: 2021-03-16T23:07:00Z
+    webUrl: "https://www.foxnews.com/media/greg-gutfeld-blasts-wapos-deep-fake-news-after-massive-retraction-in-trump-georgia-reporting"
+    ampWebUrl: "https://www.foxnews.com/media/greg-gutfeld-blasts-wapos-deep-fake-news-after-massive-retraction-in-trump-georgia-reporting.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/greg-gutfeld-blasts-wapos-deep-fake-news-after-massive-retraction-in-trump-georgia-reporting.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 123
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/328f1d5b-d529-4e88-8490-e0379d34c001/5028207a-bf2a-4a39-b87f-df5df24e887e/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "vVe8RUP4eyx7R49pQUgnrVXON9c4l5i3GdDEsRPfrGihT21/ynACriUNXI1LgwSROyUjTBLbost8x0bxXbmIEGSs5MPCvQaTCdi9QEdUu09d/HM7uBBEkiN1kF+CfVFN4Josm0CV72cKyLp0aT/E4ElTqzOcWj0i7Bu4FqD+ANAcy2SR9ktGA8WKdVClXTWgHSCXjyVytyo6mshppy3YvHbl4TqbJuSERbJaqG18uqDPOlElZGsC5Wcnkr4/Y0v7TuFnnYOb9S9/8ktu2opx9+lA9u5GXT2HXNYlixH5iTVOvZ1ElK/wRL1bwiz/Oq0KXBrva6undNeCeIFBgbHXni2DODAvpnr7Q5CZFcVoMjE=;Q4ft52wTr+wtUZL7Njx5TQ=="
