@@ -127,22 +127,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Southwest border crisis leaves Biden vulnerable on all sides"
-    excerpt: "The White House may be loath to call the situation on the Southwestern border, which hundreds of migrant children are crossing alone, a crisis. But it's fast becoming a political emergency for the new President.\n    \n"
-    publishedDateTime: 2021-03-16T10:45:05Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jxxANoSNWxc/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/joe-biden-immigration-border/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/joe-biden-immigration-border/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210308160143-children-border-patrol-210225-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden tells migrants not to come to US: 'Don't leave your town'"
     excerpt: "President Joe Biden said on Tuesday that he currently has no plans to visit the southern border, even as his administration scrambles to respond to a surge of migrant children coming into the US.\n    \n"
     publishedDateTime: 2021-03-17T00:41:24Z
@@ -351,22 +335,6 @@ related:
         width: 1050
         height: 550
         isCached: true
-  - title: "Biden Endorses Filibuster Rule Changes"
-    excerpt: "In his speech on Monday, Mr. Durbin argued that the burden should be shifted to opponents of a given bill to maintain a filibuster rather than on supporters to produce 60 votes to advance it, a view similar to the one expressed by Mr. Biden. Senator Joe ..."
-    publishedDateTime: 2021-03-16T23:05:00Z
-    webUrl: "https://www.nytimes.com/2021/03/16/us/politics/mcconnell-filibuster-senate.html"
-    ampWebUrl: "https://www.nytimes.com/2021/03/16/us/politics/mcconnell-filibuster-senate.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/16/us/politics/mcconnell-filibuster-senate.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 135
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/16/us/politics/16new-washington-briefing-filibuster-video/16new-washington-briefing-filibuster-video-facebookJumbo.jpg"
-        width: 1050
-        height: 550
-        isCached: true
   - title: "Senate confirms Deb Haaland as Biden's Interior secretary in historic vote"
     excerpt: "(CNN)The Senate voted Monday to confirm Deb Haaland as President Joe Biden's Interior secretary, a historic move that will make her the first Native American Cabinet secretary. The vote was 51 to 40, with most Republicans voting against her after several ..."
     publishedDateTime: 2021-03-15T18:50:00Z
@@ -430,20 +398,6 @@ related:
       - url: "https://static01.nyt.com/images/2021/03/11/us/politics/11new-washington-briefing/11new-washington-briefing-facebookJumbo-v2.jpg"
         width: 1050
         height: 550
-        isCached: true
-  - title: "Biden readies campaign to combat vaccine skeptics"
-    excerpt: "The new vaccine confidence drive underscores the extent to which the administration is still concerned about Americans' desire to get vaccinated."
-    publishedDateTime: 2021-03-15T16:17:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/story/2021/03/15/biden-readies-campaign-to-combat-vaccine-skeptics-1368275"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/b5/08/9ece206e4f819ffb7b46fdd71163/biden-vaccination-site-773-ap.jpg"
-        width: 1160
-        height: 773
         isCached: true
   - title: "POLITICO Playbook: Biden stares down a mounting crisis on the border"
     excerpt: "President JOE BIDEN is about to come under a mountain of pressure from both parties to fix the situation at the border — and address immigration overall. With a humanitarian crisis growing — read this CBS story for the latest — progressives are losing their patience over how long it’s taking Biden to undo Trump-era policies and implement a more humane system he campaigned on."

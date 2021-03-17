@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845?amp=1"
 type: article
 quality: 125
-heat: 185
+heat: 205
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Trump's net worth dropped by $700 million during presidency: report"
+    excerpt: "Former President Trump’s net worth dropped by approximately $700 million during his presidency, according to an analysis from"
+    publishedDateTime: 2021-03-17T19:39:00Z
+    webUrl: "https://thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency"
+    ampWebUrl: "https://thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "Former presidents, except Trump, urge Americans to be vaccinated in new PSA"
     excerpt: "The Ad Council, which is overseeing the project, told ABC News that the ads were shot at the inauguration of President Joe Biden in January, which Trump did not attend."
     publishedDateTime: 2021-03-12T02:41:00Z

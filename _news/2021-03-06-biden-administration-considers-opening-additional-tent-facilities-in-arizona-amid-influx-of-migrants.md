@@ -239,6 +239,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Biden administration never considered MBS sanctions a viable option in response to Khashoggi report"
+    excerpt: "The Biden administration never considered sanctions as a viable option against the powerful Saudi crown prince named as responsible for the murder of journalist Jamal Khashoggi, even though the new President promised to punish senior Saudi leaders during the election.\n    \n"
+    publishedDateTime: 2021-03-03T12:49:03Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/L6MzO_QJ54c/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/biden-administration-mbs-sanction-never-a-viable-option/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/biden-administration-mbs-sanction-never-a-viable-option/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 161
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200422091533-mohammed-bin-salman-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Biden administration disappointed after Iran rejects invite to discuss nuclear deal with US and other nations "
     excerpt: "The Biden administration is disappointed after Iran rejected an offer by the European Union to partake in nuclear talks with the US and the other signatories of the nuclear deal on Sunday, but said they remain open to diplomacy with Iran.\n    \n"
     publishedDateTime: 2021-02-28T23:04:30Z

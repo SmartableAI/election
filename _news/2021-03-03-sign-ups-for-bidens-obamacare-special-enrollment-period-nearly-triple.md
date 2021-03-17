@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enroll
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/03/politics/obamacare-special-enrollment-period/index.html"
 type: article
 quality: 175
-heat: 335
+heat: 315
 published: true
 
 provider:
@@ -124,22 +124,6 @@ related:
     quality: 167
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/180705105817-obamacare-crowd-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Why these lifelong Republicans support Biden's relief bill"
-    excerpt: "A lifelong Republican who switched parties says shame on the GOP for not supporting President Joe Biden's $1.9 trillion Covid-19 relief plan. CNN's Vanessa Yurkevich reports the Republican-turned-Democrat isn't alone."
-    publishedDateTime: 2021-03-11T01:47:00Z
-    webUrl: "https://www.cnn.com/videos/economy/2021/03/11/trump-supporters-biden-coronavirus-relief-bill-yurkevich-dnt-ebof-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/economy/2021/03/11/trump-supporters-biden-coronavirus-relief-bill-yurkevich-dnt-ebof-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/economy/2021/03/11/trump-supporters-biden-coronavirus-relief-bill-yurkevich-dnt-ebof-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222195207-capitol-file-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

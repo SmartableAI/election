@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 690
         isCached: true
+  - title: "Trump's net worth dropped by $700 million during presidency: report"
+    excerpt: "Former President Trump’s net worth dropped by approximately $700 million during his presidency, according to an analysis from"
+    publishedDateTime: 2021-03-17T19:39:00Z
+    webUrl: "https://thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency"
+    ampWebUrl: "https://thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543672-trumps-net-worth-dropped-by-700-million-during-presidency?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpdonald_02282021getty.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "The 30-second, post-presidency speech about dogs that perfectly summarizes Donald Trump"
     excerpt: "Donald Trump was the first president since Andrew Johnson to have not had any pets while living in the White House. In 2019, after singer Barbra Streisand criticized the then-president for not having a dog,"
     publishedDateTime: 2021-03-15T14:09:00Z

@@ -62,38 +62,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden and his Covid-relief bill prove popular in new poll  "
-    excerpt: "The economic relief bill moving rapidly through Congress is broadly popular, according to a new CNN Poll conducted by SSRS.\n    \n"
-    publishedDateTime: 2021-03-10T11:28:11Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/pvrxpdVZafY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/cnn-poll-biden-covid-relief-bill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/cnn-poll-biden-covid-relief-bill/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210306205527-01-joe-biden-0305-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden to sign $1.9 trillion Covid-19 relief package into law"
-    excerpt: "President Joe Biden will sign his sweeping $1.9 trillion Covid-19 economic relief package into law on Thursday afternoon, the White House said. He had originally been expected to sign it on Friday.\n    \n"
-    publishedDateTime: 2021-03-11T18:25:22Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cIyJLRjTgpU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/biden-sign-covid-bill/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/biden-sign-covid-bill/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden's pick to lead HHS heads toward confirmation"
     excerpt: "Health and Human Services Secretary nominee Xavier Becerra picked up the support of two crucial votes on Thursday, all but ensuring his eventual Senate confirmation.\n    \n"
     publishedDateTime: 2021-03-11T18:08:36Z
@@ -110,22 +78,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "READ: Transcript of Biden's prime-time address"
-    excerpt: "President Joe Biden addressed the nation in prime time on Thursday, where he directed states to open coronavirus vaccine eligibility to all adults no later than May 1 and said small gatherings may be possible again by the Fourth of July. Read his full remarks below:\n    \n"
-    publishedDateTime: 2021-03-12T02:24:01Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/lY-HjEKm-7w/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/transcript-biden-covid-prime-time-address/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/transcript-biden-covid-prime-time-address/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311201521-03-biden-address-0311-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden scored a major legislative victory, but now comes the hard part "
     excerpt: "After savoring the passage of his $1.9 trillion Covid-19 relief package in the Rose Garden last week, President Joe Biden begins the tough work of enacting what he called a \"transformational\" piece of legislation, while also trying to sell Americans on the progressive goals the bill embraced.\n    \n"
     publishedDateTime: 2021-03-14T05:01:41Z
@@ -139,22 +91,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210312155403-05-white-house-covid-relief-event-0312-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
-    excerpt: "Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president.\n    \n"
-    publishedDateTime: 2021-03-11T18:37:36Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-9qsEXmlphI/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/biden-republicans-culture-war-covid-relief/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/biden-republicans-culture-war-covid-relief/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 173
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -342,34 +278,6 @@ related:
     quality: 127
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/200130165125-corona-virus-cdc-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "How one photographer shapes the way the world sees Joe Biden"
-    excerpt: "Adam Schultz is the new chief official White House photographer. He’s with the President for high-level meetings, but also for the quiet moments in between."
-    publishedDateTime: 2021-03-13T08:00:00Z
-    webUrl: "https://www.cnn.com/interactive/2021/03/politics/joe-biden-photographer-cnnphotos/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 115
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210313074901-01-joe-biden-photographer-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Faced with Biden's popular Covid law, Republicans stick to the culture war"
-    excerpt: "Washington (CNN)Despite a busy start to Joe Biden's administration, Republicans are struggling to find effective lines of attack against the new Democratic president. No Republicans on Capitol Hill supported the Biden-backed Covid stimulus package ..."
-    publishedDateTime: 2021-03-11T18:37:00Z
-    webUrl: "https://www.cnn.com/2021/03/11/politics/biden-republicans-culture-war-covid-relief/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 113
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true

@@ -2,6 +2,163 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2021-02-28-allies-of-rep-adam-kinzinger-launch-new-super-pac-to-support-republicans-who-have-bucked-trump.md",
+      "title": "Allies of Rep. Adam Kinzinger launch new super PAC to support Republicans who have bucked Trump",
+      "excerpt": "The effort will be up against significant head winds, as Trump still holds vast sway over the Republican Party, even after his supporters attacked the U.S. Capitol last month.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
+      "originalUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KCWAUHTZN4I6XFENDFDS42BVEE.jpg&w=1440",
+          "width": 1440,
+          "height": 968,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/adam-kinzinger-super-pac-trump/2021/02/27/6202f346-792d-11eb-ae66-8b9e3c6918a1_story.html?outputType=amp",
+      "publishedDateTime": "2021-02-28T05:04:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-trump-thinks-hes-a-god-cpac-packed-with-cult-followers-michael-cohen-says.md",
+      "title": "Trump 'Thinks He's a God,' CPAC Packed With Cult Followers, Michael Cohen Says",
+      "excerpt": "Organizers installed a golden statue of Trump, whose behavior Cohen described as \"sociopathic,\" at the conservative event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576",
+      "originalUrl": "https://www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1744731/michael-cohen-attorney-donald-trump.jpg",
+          "width": 2500,
+          "height": 1666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-thinks-hes-god-cpac-packed-cult-followers-michael-cohen-says-1572576?amp=1",
+      "publishedDateTime": "2021-02-27T06:42:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
+      "path": "_news/2021-02-27-jake-tapper-says-joe-biden-is-like-donald-trump-on-saudi-prince-save-mbs-ass.md",
+      "title": "Jake Tapper Says Joe Biden Is Like Donald Trump on Saudi Prince: 'Save MBS' Ass'",
+      "excerpt": "CNN's Jake Tapper compared President Joe Biden to former President Donald Trump on Friday following the administration's decision not to sanction Saudi. A U.S. intelligence report published on Friday concluded that bin Salman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561",
+      "originalUrl": "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 505,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/1744714/saudi-arabias-crown-prince-mohammed-bin-salman.jpg",
+          "width": 2500,
+          "height": 1658,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/jake-tapper-says-joe-biden-like-donald-trump-saudi-prince-save-mbs-ass-1572561?amp=1",
+      "publishedDateTime": "2021-02-27T00:36:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Joe Biden"
+      ]
+    },
+    {
       "path": "_news/2021-02-27-trump-loyalists-spurn-failed-republican-establishment-of-yesteryear.md",
       "title": "Trump Loyalists Spurn ‘Failed Republican Establishment of Yesteryear’",
       "excerpt": "At an annual gathering of conservatives, devotees of Donald J. Trump pledged their fealty to him and issued grave warnings about the political left.",
@@ -1430,162 +1587,6 @@
         "Election",
         "Donald Trump",
         "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-trump-to-give-first-big-speech-since-presidency-at-conservative-conference-in-florida.md",
-      "title": "Trump to Give First Big Speech Since Presidency at Conservative Conference in Florida",
-      "excerpt": "The former president will make his first major public appearance at the Conservative Political Action Conference (CPAC) in Orlando, Florida, on Sunday, February 28.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785",
-      "originalUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/1739496/donald-trump.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/trump-give-first-big-speech-since-presidency-conservative-conference-florida-1570785?amp=1",
-      "publishedDateTime": "2021-02-20T14:53:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-lindsey-graham-said-count-me-out-after-the-capitol-riot-but-hes-all-in-with-trump-again.md",
-      "title": "Lindsey Graham said ‘Count me out’ after the Capitol riot. But he’s all in with Trump again.",
-      "excerpt": "The South Carolina Republican senator is positioning himself as a leader of the pro-Trump wing of a party that is increasingly divided about how to reckon with the divisive 45th president.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html",
-      "originalUrl": "https://www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/3FMDI3TTCYI6XBSRNUYJD2WGH4.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/lindsey-graham-donald-trump/2021/02/20/178afc0a-72ca-11eb-a4eb-44012a612cf9_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-20T12:37:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-02-21-un-experts-trump-ally-uae-firms-violated-libya-sanctions.md",
-      "title": "UN experts: Trump ally, UAE firms violated Libya sanctions",
-      "excerpt": "U.N. experts say American security contractor Erik Prince, a close ally of former President Donald Trump, violated the U.N. arms embargo against Libya along with three United Arab Emirates-based compa",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/world/africa/un-experts-trump-ally-uae-firms-violated-libya-sanctions/2021/02/20/a3cc7a7a-73b7-11eb-8651-6d3091eac63f_story.html",
-      "originalUrl": "https://www.washingtonpost.com/world/africa/un-experts-trump-ally-uae-firms-violated-libya-sanctions/2021/02/20/a3cc7a7a-73b7-11eb-8651-6d3091eac63f_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.washingtonpost.com/world/africa/un-experts-trump-ally-uae-firms-violated-libya-sanctions/2021/02/20/a3cc7a7a-73b7-11eb-8651-6d3091eac63f_story.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/africa/un-experts-trump-ally-uae-firms-violated-libya-sanctions/2021/02/20/a3cc7a7a-73b7-11eb-8651-6d3091eac63f_story.html?outputType=amp",
-      "publishedDateTime": "2021-02-20T12:10:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
       ]
     }
   ],

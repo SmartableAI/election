@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp"
 type: article
 quality: 146
-heat: 1886
+heat: 1906
 published: true
 
 provider:
@@ -1324,6 +1324,22 @@ related:
       - url: "https://i.insider.com/604a92359942cf001865dea9?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Donald Trump vs. Joe Biden: Who Had Better Approval Ratings At This Point Of Their First Term?"
+    excerpt: "As Joe Biden’s first quarter as president comes to a close, polls indicate he’s substantially more popular than Donald Trump was during the same period. His net popularity, however, has struggled to climb much higher than half the population ..."
+    publishedDateTime: 2021-03-17T18:57:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-vs-joe-biden-who-had-better-approval-ratings-point-their-first-term-3164096"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-joe-biden-who-had-better-approval-ratings-point-their-first-term-3164096?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-joe-biden-who-had-better-approval-ratings-point-their-first-term-3164096?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 78
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/12/us-president-joe-bidens-name-will-not-appear.jpg"
+        width: 1024
+        height: 749
         isCached: true
   - title: "President Joe Biden to make first prime-time address to nation Thursday"
     excerpt: "The president will look forward, highlighting the role that Americans will play in beating the virus,' the White House said."

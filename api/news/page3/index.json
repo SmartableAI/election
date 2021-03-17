@@ -2,6 +2,170 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2021-03-16-us-and-japan-express-concern-over-chinas-aggressive-actions-during-first-trip-by-bidens-top-diplomat.md",
+      "title": "US and Japan express concern over China's 'aggressive actions' during first trip by Biden's top diplomat",
+      "excerpt": "US Secretary of State Antony Blinken criticized China's threats to regional stability during bilateral talks in Tokyo on Tuesday, warning that the United States and Japan would push back if necessary.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 158,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210316034657-antony-blinken-lloyd-austin-us-japan-0316-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
+      "publishedDateTime": "2021-03-16T04:54:51-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-bidens-top-diplomat-calls-for-deeper-japan-ties-as-china-north-korea-cast-shadow.md",
+      "title": "Biden's top diplomat calls for deeper Japan ties, as China, North Korea cast shadow",
+      "excerpt": "U.S. Secretary of State Antony Blinken on Tuesday called for deeper economic and security ties with Japan, as he and Defence Secretary Lloyd Austin seek to use their first trip abroad to strengthen Asian alliances in the face of China's assertiveness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/us-usa-asia-blinken-japan-idUSKBN2B71C9",
+      "originalUrl": "https://www.reuters.com/article/us-usa-asia-blinken-japan-idUSKBN2B71C9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555035634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0E8",
+          "width": 816,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B71C9",
+      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B71C9",
+      "publishedDateTime": "2021-03-15T23:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Joe Biden"
+      ]
+    },
+    {
+      "path": "_news/2021-03-16-trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today.md",
+      "title": "Trump Jr: Andrew Cuomo the 'biggest predator in American politics today'",
+      "excerpt": "Trump Organization executive vice president Donald Trump Jr. slammed New York Democratic Gov. Andrew Cuomo in the wake of a seventh accusation of sexual misconduct.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvqkoDKLX_M/trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvqkoDKLX_M/trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 174,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e51c902-2e32-430c-b7b3-56b5b1fe6650/16179807-06e0-4a45-9149-cf035b800f32/1280x720/match/image.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today.amp",
+      "publishedDateTime": "2021-03-15T17:39:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-kamala-harris-takes-heat-for-silence-on-cuomo-accusations.md",
       "title": "Kamala Harris takes heat for silence on Cuomo accusations",
       "excerpt": "Vice President Harris is taking heat for staying silent amid sexual misconduct allegations against her fellow high-profile Democrat Andrew Cuomo.",
@@ -1178,153 +1342,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-the-political-history-of-mike-lindell-mypillow-ceo-and-trump-ally-timeline.md",
-      "title": "The political history of Mike Lindell, MyPillow CEO and Trump ally: timeline",
-      "excerpt": "A leading-edge research firm focused on digital transformation. Good Subscriber Account active since Free subscriber-exclusive audiobook! “No Rules Rules: Netflix and the Culture of Reinvention” Get it now on Libro.fm using the button below. DOW S&P ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3",
-      "originalUrl": "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/604ccf5f10c8760018b93165?width=750&format=jpeg&auto=webp",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/timeline-mypillow-ceo-mike-lindell-political-history-so-far-2021-3?amp",
-      "publishedDateTime": "2021-03-14T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-fauci-hopes-trump-will-push-his-supporters-to-get-covid-19-vaccine.md",
-      "title": "Fauci hopes Trump will push his supporters to get COVID-19 vaccine",
-      "excerpt": "WASHINGTON (Reuters) - Dr. Anthony Fauci, the top U.S. infectious disease expert, said on Sunday he hopes former President Donald Trump will push his supporters to get the COVID-19 vaccine and emphasized that pandemic-related restrictions should not be ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/health-coronavirus-usa-trump-idINKBN2B60DA",
-      "originalUrl": "https://www.reuters.com/article/health-coronavirus-usa-trump-idINKBN2B60DA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 505,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3.reutersmedia.net/resources/r/?m=02&d=20210314&t=2&i=1554843892&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2D0A6",
-          "width": 817,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idINKBN2B60DA",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B60DA",
-      "publishedDateTime": "2021-03-14T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-14-kamala-harris-tells-kids-at-choice-awards-you-make-us-and-your-country-so-proud.md",
-      "title": "Kamala Harris tells kids at Choice Awards: 'You make us and your country so proud'",
-      "excerpt": "March 14 (UPI) --Kamala Harris, vice president of the United States, appeared virtually at Saturday night's Kids Choice Awards ceremony. Yes Day actress and mother of three Jennifer Garner, 48, introduced Harris, who presented the show's Generation Change ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.upi.com/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/",
-      "originalUrl": "https://www.upi.com/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdnph.upi.com/sv/ph/og/upi/1841615727690/2021/1/beb597aa620d51fb657376388a969933/v1.5/Kamala-Harris-tells-kids-at-Choice-Awards-You-make-us-and-your-country-so-proud.jpg",
-          "width": 800,
-          "height": 532,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/",
-      "cdnAmpWebUrl": "https://www-upi-com.cdn.ampproject.org/c/s/www.upi.com/amp/Entertainment_News/TV/2021/03/14/kids-choice-awards-kamala-harris/1841615727690/",
-      "publishedDateTime": "2021-03-14T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "UPI.com",
-        "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Kamala Harris"
       ]
     }
   ],

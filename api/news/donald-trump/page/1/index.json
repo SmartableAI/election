@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2021-03-18-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the-greats.md",
+      "title": "Juan Williams is wrong — Trump will be remembered as one of the greats",
+      "excerpt": "I look forward to a day when Americans can look past their hatred and admit that Donald Trump was the most effective, impactful, and forward-thinking president we’ve ever had.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the",
+      "originalUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 125,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpgettyimages-1304602669.jpg",
+          "width": 980,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/blogs/congress-blog/politics/543657-juan-williams-is-wrong-trump-will-be-remembered-as-one-of-the?amp",
+      "publishedDateTime": "2021-03-17T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-cnn-hemorrhaging-viewers-since-trump-left-office-down-nearly-50-percent-in-key-measurables.md",
       "title": "CNN hemorrhaging viewers since Trump left office, down nearly 50 percent in key measurables",
       "excerpt": "CNN has been hemorrhaging viewers since former President Donald Trump left office, losing roughly half of its audience in key measurables since January following a brief post-Election Day spike. CNN averaged 2.5 million primetime viewers from Nov. 4 ...",
@@ -158,7 +210,7 @@
       "originalUrl": "https://www.newsweek.com/trump-net-worth-dropped-700-million-during-presidency-report-1576845",
       "featuredContent": null,
       "highlight": null,
-      "heat": 185,
+      "heat": 205,
       "tags": null,
       "images": [
         {
@@ -1508,58 +1560,6 @@
         "images": [
           {
             "url": "https://smartableai.github.io/election/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-13-lara-trump-called-so-gross-after-dog-charity-scam-exposed.md",
-      "title": "Lara Trump Called ‘So Gross’ After Dog Charity Scam Exposed",
-      "excerpt": "Another member of the Trump family is under scrutiny for allegedly funneling charity money into Donald Trump’s pockets after Lara Trump, the former President’s daughter-in-law, was exposed for spending money from a dog charity at Mar-A-Lago resort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/lara-trump-called-so-gross-after-dog-charity-scam-exposed-3161442",
-      "originalUrl": "https://www.ibtimes.com/lara-trump-called-so-gross-after-dog-charity-scam-exposed-3161442",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/02/14/lara-trump.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/lara-trump-called-so-gross-after-dog-charity-scam-exposed-3161442?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/lara-trump-called-so-gross-after-dog-charity-scam-exposed-3161442?amp=1",
-      "publishedDateTime": "2021-03-13T07:48:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/ibtimes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

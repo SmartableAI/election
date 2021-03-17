@@ -436,16 +436,16 @@ related:
         height: 433
         isCached: true
   - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
-    excerpt: "United States Vice President Kamala Harris attends a virtual event celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
+    excerpt: "Nettie Douglas, top center, great, great granddaughter of Frederick Douglas, listens as United States Vice President Kamala Harris speaks during a virtual event with Irish Prime Minister Micheal Martin celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
     publishedDateTime: 2021-03-17T17:53:00Z
-    webUrl: "https://www.upi.com/News_Photos/view/upi/38b91d1d58a7e1444e67279a1c4e795e/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
+    webUrl: "https://www.upi.com/News_Photos/view/upi/e271c84d4847f577c9ff5a6c4a09d2dd/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
     type: article
     provider:
       name: UPI.com
       domain: upi.com
     quality: 55
     images:
-      - url: "https://cdnph.upi.com/pv/upi/38b91d1d58a7e1444e67279a1c4e795e/VICE-PRESIDENT-HARRIS.jpg"
+      - url: "https://cdnph.upi.com/pv/upi/e271c84d4847f577c9ff5a6c4a09d2dd/VICE-PRESIDENT-HARRIS.jpg"
         width: 650
         height: 433
         isCached: true

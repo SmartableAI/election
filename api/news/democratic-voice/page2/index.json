@@ -115,6 +115,63 @@
       ]
     },
     {
+      "path": "_news/2021-03-09-sanctions-are-reimposed-on-israeli-billionaire-granted-relief-under-trump.md",
+      "title": "Sanctions Are Reimposed on Israeli Billionaire Granted Relief Under Trump",
+      "excerpt": "The Biden administration moved to reverse an action that had benefited Dan Gertler, who has been accused of corruption over mining deals in the Democratic Republic of Congo.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.html",
+      "originalUrl": "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/03/09/us/politics/08dc-gertler-print/08dc-gertler-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/08/us/politics/dan-gertler-sanctions.amp.html",
+      "publishedDateTime": "2021-03-08T16:47:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-08-biden-to-mark-one-year-of-covid-19-shutdown-in-primetime-address-thursday.md",
       "title": "Biden to mark one-year of Covid-19 shutdown in primetime address Thursday",
       "excerpt": "President Joe Biden will deliver his first primetime address this Thursday, commemorating the milestone of one year since the global pandemic coronavirus shut down much of the nation.\n    \n",
@@ -410,7 +467,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 615,
+      "heat": 495,
       "tags": null,
       "images": [
         {
@@ -567,6 +624,63 @@
       ]
     },
     {
+      "path": "_news/2021-03-06-does-bidens-normal-foreign-policy-need-a-dash-of-trump.md",
+      "title": "Does Biden’s 'normal’ foreign policy need a dash of Trump?",
+      "excerpt": "The administration has ambitious goals and a deliberate process. But it might need to get a little unconventional to see results.",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2021/03/05/biden-foreign-policy-trump-473919",
+      "originalUrl": "https://www.politico.com/news/2021/03/05/biden-foreign-policy-trump-473919",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 190,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.politico.com/0c/d0/8e8949274a15961ca5be48edd33c/210305-joe-biden-getty-773.jpg",
+          "width": 1160,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2021/03/05/biden-foreign-policy-trump-473919",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/05/biden-foreign-policy-trump-473919",
+      "publishedDateTime": "2021-03-05T15:59:00-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/politico.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-05-newsom-recall-timing-is-everything-caleg-passes-schools-bill-high-school-sports-can-resume-youtube-eyes-trump-return.md",
       "title": "NEWSOM RECALL: Timing is everything — CALEG passes SCHOOLS bill — HIGH SCHOOL SPORTS can resume — YOUTUBE eyes TRUMP return",
       "excerpt": "Nearly a year after California schools closed their doors to in-person instruction, lawmakers moved on Thursday to get kids back to class by March. However lawmakers chose to vote on the school reopening bill,",
@@ -636,7 +750,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 295,
+      "heat": 215,
       "tags": null,
       "images": [
         {
@@ -1312,7 +1426,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 335,
+      "heat": 315,
       "tags": null,
       "images": [
         {
@@ -1578,118 +1692,6 @@
       "topics": [
         "Election",
         "Joe Biden",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-fbi-director-wray-knocks-down-conspiracy-theory-that-january-6-rioters-were-fake-trump-protesters.md",
-      "title": "FBI Director Wray knocks down conspiracy theory that January 6 rioters were 'fake Trump protesters'",
-      "excerpt": "FBI Director Chris Wray will finally have to answer questions about the January 6 insurrection when he appears before the Senate Judiciary Committee Tuesday, his first public testimony since the deadly riot occurred nearly two months ago.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V7Ea4-8OVv8/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V7Ea4-8OVv8/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201216092212-01-christopher-wray-lead-image-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/02/politics/fbi-director-chris-wray-january-6-riot-hearing/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/fbi-director-chris-wray-january-6-riot-hearing/index.html",
-      "publishedDateTime": "2021-03-02T08:40:54-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-02-biden-to-announce-merck-will-work-with-johnson-johnson-to-manufacture-coronavirus-vaccine.md",
-      "title": "Biden to announce Merck will work with Johnson & Johnson to manufacture coronavirus vaccine",
-      "excerpt": "President Joe Biden is expected to announce Tuesday that Merck & Co. will partner with Johnson & Johnson to help manufacture the company's coronavirus vaccine, administration officials familiar with the matter confirmed to CNN.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qnkKriE8GOI/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qnkKriE8GOI/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210301193858-biden-meeting-0301-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/02/politics/biden-merck-johnson--johnson-vaccine/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/02/politics/biden-merck-johnson--johnson-vaccine/index.html",
-      "publishedDateTime": "2021-03-02T06:16:14-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
         "Democratic Voice"
       ]
     }

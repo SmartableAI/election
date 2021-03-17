@@ -41,6 +41,22 @@ related:
         width: 600
         height: 360
         isCached: true
+  - title: "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live"
+    excerpt: "President’s comments come after declassified intelligence report bolstered allegations Putin was behind election interference – follow the latest"
+    publishedDateTime: 2021-03-17T18:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-60522b308f0832395ae5867f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
+    images:
+      - url: "https://i.guim.co.uk/img/media/14d2ea4245d94dafbfbd8b571738a91288809a70/0_44_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f663e0882a8ea6e02331c0fc4f1dfbbe"
+        width: 600
+        height: 360
+        isCached: true
   - title: "Biden brands Putin a 'killer' and says he will pay for Russian interference in US election – live"
     excerpt: "Biden’s comments come after declassified intelligence report bolstered allegations Putin was behind election interference"
     publishedDateTime: 2021-03-17T12:39:00Z
@@ -122,9 +138,9 @@ related:
         height: 961
         isCached: true
   - title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
-    excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
-    publishedDateTime: 2021-03-17T14:05:00Z
-    webUrl: "https://www.reuters.com/article/russia-bonds-biden-idUSL8N2LF3TP"
+    excerpt: "LONDON, March 17 (Reuters) - The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden’s hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank’s hand at this week ..."
+    publishedDateTime: 2021-03-17T14:04:00Z
+    webUrl: "https://www.reuters.com/article/russia-bonds-biden/update-1-russian-bonds-slide-as-biden-comment-seen-raising-sanctions-risk-idUSL8N2LF3TP"
     ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LF3TP"
     cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LF3TP"
     type: article

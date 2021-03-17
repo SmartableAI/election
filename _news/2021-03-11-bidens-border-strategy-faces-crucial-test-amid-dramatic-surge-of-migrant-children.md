@@ -144,22 +144,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Why these lifelong Republicans support Biden's relief bill"
-    excerpt: "A lifelong Republican who switched parties says shame on the GOP for not supporting President Joe Biden's $1.9 trillion Covid-19 relief plan. CNN's Vanessa Yurkevich reports the Republican-turned-Democrat isn't alone."
-    publishedDateTime: 2021-03-11T01:47:00Z
-    webUrl: "https://www.cnn.com/videos/economy/2021/03/11/trump-supporters-biden-coronavirus-relief-bill-yurkevich-dnt-ebof-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/economy/2021/03/11/trump-supporters-biden-coronavirus-relief-bill-yurkevich-dnt-ebof-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/economy/2021/03/11/trump-supporters-biden-coronavirus-relief-bill-yurkevich-dnt-ebof-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 135
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/201222195207-capitol-file-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "PFWDr44Qg+Yb1LFu5PKtssyV0TeWv8diQ8yhjOAtD4vk0VDZo59GYmwKBRqI/SBj9ZHDXqIfMXDJMDV5qftiKCsQM/TRO7UniHCMM2kyrK9/zPYrRtXRMeQas/WNOuZcJQSqoBYM8s6EBPIiXwq13dOtIHt6KSyH7R7lxY3+9kKEK8hazzpwSAU8IOAtsF4z7sOZht18gEozh8vNWprq+0tVXV206ix29aX9xfQ9p+2yeWTEQ++8c3ib9pekFmptoGPDJAf2m0jnpWm6xGZIjN9vuwyhSb8Bnx2wvBSmCUWjg9HBZnfawz2XEGJFSENNm51/OPuw2pEiFKIgnGk592cXi2TgcDUCZVCga7u/L6EvPBhOU5M/APH+/PEjn7LiF4910nS0zXvZjfsH8O6YIOleGbtJzKALVH9hpWYx8yi81RnUocyL40UQQJwRr6fB0Wx8TIAaa39drPE9m90dveSXkUjccgtdsL1A9nR9MuiRy6hPaOfklDGJJTzTRIVMmoVOVy70ovYkqhQUbP/GXQ==;KtzwI/53xyDL0VS1v9fXDg=="
 ---

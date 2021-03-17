@@ -1,10 +1,10 @@
 ---
 category: news
 title: "UPDATE 1-Russian bonds slide as Biden comment seen raising sanctions risk"
-excerpt: "The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden's hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank's hand at this week's meeting."
-publishedDateTime: 2021-03-17T14:05:00Z
-originalUrl: "https://www.reuters.com/article/russia-bonds-biden-idUSL8N2LF3TP"
-webUrl: "https://www.reuters.com/article/russia-bonds-biden-idUSL8N2LF3TP"
+excerpt: "LONDON, March 17 (Reuters) - The risk of fresh U.S. sanctions has rattled Russian debt after U.S. President Joe Biden’s hawkish comments appeared to raise the likelihood of more stringent curbs, and could even force the central bank’s hand at this week ..."
+publishedDateTime: 2021-03-17T14:04:00Z
+originalUrl: "https://www.reuters.com/article/russia-bonds-biden/update-1-russian-bonds-slide-as-biden-comment-seen-raising-sanctions-risk-idUSL8N2LF3TP"
+webUrl: "https://www.reuters.com/article/russia-bonds-biden/update-1-russian-bonds-slide-as-biden-comment-seen-raising-sanctions-risk-idUSL8N2LF3TP"
 ampWebUrl: "https://mobile.reuters.com/article/amp/idUSL8N2LF3TP"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSL8N2LF3TP"
 type: article
@@ -38,6 +38,22 @@ related:
     quality: 130
     images:
       - url: "https://i.guim.co.uk/img/media/5438c49dbe833f0a0154db58f338fa58bb287e54/0_128_5619_3371/master/5619.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=ef6cbd50a8b7d43ca0bdeda8bb91703a"
+        width: 600
+        height: 360
+        isCached: true
+  - title: "Biden brands Putin a 'killer' and says he will pay for Russian election interference – live"
+    excerpt: "President’s comments come after declassified intelligence report bolstered allegations Putin was behind election interference – follow the latest"
+    publishedDateTime: 2021-03-17T18:50:00Z
+    webUrl: "https://www.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates?page=with:block-60522b308f0832395ae5867f"
+    ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/17/joe-biden-covid-coronavirus-relief-plan-andrew-cuomo-atlanta-shooting-live-updates"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 130
+    images:
+      - url: "https://i.guim.co.uk/img/media/14d2ea4245d94dafbfbd8b571738a91288809a70/0_44_3900_2340/master/3900.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f663e0882a8ea6e02331c0fc4f1dfbbe"
         width: 600
         height: 360
         isCached: true
@@ -133,6 +149,6 @@ related:
       domain: businessinsider.com
     quality: 105
 
-secured: "pZreQXC/Qr06BkfFJsPG2iiGBso02WRB/iJbuOaBefHxDalfsnWVEaUkptR7q4OY93Q98FUwvXMPiM4Tg3cHpkP2vvvQQR8dIEDMAO/LqpcuD29l/c8i1EvBL599gIEOsheIzWX8PlpVEuhgdrlo0YD+TRQsD/xb3byrbdSuUxWYAc9diwCz/LJAncViLltUH5QwNJ6Qn1dcMhWPsSxUdZC6t6KrUBxRATBSzg5T5rS4yEQxR18TMQV5VfcEXCkTlJJouFmVOmCNvWE/vUKh7nUN73eODoO+3BVHSKQcNl7sMvPLNi9bOxnS5vapGfpDN+/rojpcL8i5WJPAwSVWW8x1Fs2Y+hoCDvE208seojA=;qdKDen2mRubNuQKiFaSmSw=="
+secured: "0pYscelTxkzTRezHZbd8wxJIc3Mix6Lg94tlr7/d4O6KG8oeySsIFe8rRd9iz5NUXRJzJlft31KJATOUaUU8rw0tKIZzrsbUCfIPfEUDLuwMYe3jKj1m4Z8LvY71JwVZcoFg69deTfzDzViOyAvvVKXfWxj6QOtoZKjvFAfQz/kobH7xMC7YDbjT1OU43ZosbMECsal1fOtD6PT9IbQ/U7p0qGUhjCIC+HvGdjucr+OqQyuxinI5dfzynLMob8q7bLTYBOjpTGn9NKh6G3FrDCqWZn3QiSZxP0YdHvFWERwcozMeN+l8M4eyUZpg83hEwWPBmQ5sEXbzmQpijmaP4rCrb6dyzBzD2xWb0znemtc=;mLHLpueBKClJsqAs5xFnNQ=="
 ---
 

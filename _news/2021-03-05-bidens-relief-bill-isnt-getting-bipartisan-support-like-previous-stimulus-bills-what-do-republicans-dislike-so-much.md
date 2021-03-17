@@ -693,6 +693,20 @@ related:
         width: 1440
         height: 1080
         isCached: true
+  - title: "Trump pushes Americans to get COVID-19 vaccine"
+    excerpt: "Reuters Now Trump pushes Americans to get COVID-19 vaccine Posted In an interview with Fox News, former President Donald Trump on Tuesday night pushed Americans to get vaccinated against the coronavirus, even those who might not want to."
+    publishedDateTime: 2021-03-17T18:24:00Z
+    webUrl: "https://www.reuters.com/video/watch/idPRoI?now=true"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://ajo.prod.reuters.tv/api/v2/img/60523a8ce4b0653eea184b1c-1616001676528?location=LANDSCAPE"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Biden touts American Rescue Plan: \"Shots in arms and money in pockets. That's important\""
     excerpt: "President Joe Biden continued efforts to promote his American Rescue Plan, speaking Monday at the White House about how it will deliver much-needed assistance. Mr. Biden and Vice President Kamala Harris will spend this week traveling to promote the plan around the country."
     publishedDateTime: 2021-03-15T19:21:00Z

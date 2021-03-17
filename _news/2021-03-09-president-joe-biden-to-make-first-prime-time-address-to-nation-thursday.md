@@ -1337,6 +1337,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump vs. Joe Biden: Who Had Better Approval Ratings At This Point Of Their First Term?"
+    excerpt: "As Joe Biden’s first quarter as president comes to a close, polls indicate he’s substantially more popular than Donald Trump was during the same period. His net popularity, however, has struggled to climb much higher than half the population ..."
+    publishedDateTime: 2021-03-17T18:57:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-vs-joe-biden-who-had-better-approval-ratings-point-their-first-term-3164096"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-joe-biden-who-had-better-approval-ratings-point-their-first-term-3164096?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-joe-biden-who-had-better-approval-ratings-point-their-first-term-3164096?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 78
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/12/us-president-joe-bidens-name-will-not-appear.jpg"
+        width: 1024
+        height: 749
+        isCached: true
   - title: "The Archbishop Who Fears for Joe Biden’s Soul"
     excerpt: "Archbishop Joseph Naumann is anxious about President Joe Biden’s soul. The two men are in some ways similar: cradle Catholics born in the 1940s who witnessed John F. Kennedy become America’s first Catholic president. Both found a natural home in the ..."
     publishedDateTime: 2021-03-14T12:00:00Z

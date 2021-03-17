@@ -2,6 +2,170 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-17-michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.md",
+      "title": "Michigan man, 21, threatened Biden, Pelosi, Whitmer, authorities say",
+      "excerpt": "A western Michigan man was arraigned Tuesday with allegedly making death threats against President Biden, House Speaker Nancy Pelosi and Michigan Gov. Gretchen Whitmer, according to reports.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3YjiuswNZOY/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/3YjiuswNZOY/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 195,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/04/640/320/ContentBroker_contentid-84b432a43c574b518a2ddfa84a53efc9.png?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/michigan-man-21-threatened-biden-pelosi-whitmer-authorities-say.amp",
+      "publishedDateTime": "2021-03-16T21:36:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-trump-urges-americans-to-get-covid-19-vaccine-i-would-recommend-it.md",
+      "title": "Trump urges Americans to get Covid-19 vaccine: 'I would recommend it'",
+      "excerpt": "Former President Donald Trump on Tuesday urged Americans to get vaccinated to help curb the Covid-19 pandemic, calling it \"safe\" and \"something that works.\"\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qcLYK2M2Xz4/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qcLYK2M2Xz4/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210303224724-donald-trump-file-201126-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/donald-trump-covid-19-vaccine/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/donald-trump-covid-19-vaccine/index.html",
+      "publishedDateTime": "2021-03-16T18:50:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
+      "path": "_news/2021-03-17-trump-says-election-should-have-been-overturned.md",
+      "title": "Trump says election 'should have been overturned'",
+      "excerpt": "Former President Trump said the 2020 election “should have been overturned,” citing his repeated claims of voter fraud despite a lack of evidence.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned",
+      "originalUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 300,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/sites/default/files/trumpdonald4_08192020getty.jpg",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543544-trump-says-election-should-have-been-overturned?amp",
+      "publishedDateTime": "2021-03-16T18:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/thehill.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Donald Trump"
+      ]
+    },
+    {
       "path": "_news/2021-03-17-biden-says-cuomo-should-resign-if-the-investigation-confirms-accusers-claims.md",
       "title": "Biden says Cuomo should resign if the investigation confirms accusers' claims",
       "excerpt": "President Biden said Democratic New York Gov. Andrew Cuomo should resign if investigations support the claims made by his accusers.",
@@ -231,7 +395,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#FF0000"
       },
-      "heat": 161,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1158,170 +1322,6 @@
       "ampWebUrl": "https://www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp",
       "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-face-mask-workplace-misses-self-imposed-deadline.amp",
       "publishedDateTime": "2021-03-16T05:09:26-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-us-and-japan-express-concern-over-chinas-aggressive-actions-during-first-trip-by-bidens-top-diplomat.md",
-      "title": "US and Japan express concern over China's 'aggressive actions' during first trip by Biden's top diplomat",
-      "excerpt": "US Secretary of State Antony Blinken criticized China's threats to regional stability during bilateral talks in Tokyo on Tuesday, warning that the United States and Japan would push back if necessary.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/s9dY3vISVbE/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 158,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210316034657-antony-blinken-lloyd-austin-us-japan-0316-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/blinken-austin-japan-trip-intl-hnk/index.html",
-      "publishedDateTime": "2021-03-16T04:54:51-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-bidens-top-diplomat-calls-for-deeper-japan-ties-as-china-north-korea-cast-shadow.md",
-      "title": "Biden's top diplomat calls for deeper Japan ties, as China, North Korea cast shadow",
-      "excerpt": "U.S. Secretary of State Antony Blinken on Tuesday called for deeper economic and security ties with Japan, as he and Defence Secretary Lloyd Austin seek to use their first trip abroad to strengthen Asian alliances in the face of China's assertiveness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/us-usa-asia-blinken-japan-idUSKBN2B71C9",
-      "originalUrl": "https://www.reuters.com/article/us-usa-asia-blinken-japan-idUSKBN2B71C9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s4.reutersmedia.net/resources/r/?m=02&d=20210316&t=2&i=1555035634&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2F0E8",
-          "width": 816,
-          "height": 545,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mobile.reuters.com/article/amp/idUSKBN2B71C9",
-      "cdnAmpWebUrl": "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B71C9",
-      "publishedDateTime": "2021-03-15T23:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Joe Biden"
-      ]
-    },
-    {
-      "path": "_news/2021-03-16-trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today.md",
-      "title": "Trump Jr: Andrew Cuomo the 'biggest predator in American politics today'",
-      "excerpt": "Trump Organization executive vice president Donald Trump Jr. slammed New York Democratic Gov. Andrew Cuomo in the wake of a seventh accusation of sexual misconduct.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvqkoDKLX_M/trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/FvqkoDKLX_M/trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/9e51c902-2e32-430c-b7b3-56b5b1fe6650/16179807-06e0-4a45-9149-cf035b800f32/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/trump-jr-andrew-cuomo-the-biggest-predator-in-american-politics-today.amp",
-      "publishedDateTime": "2021-03-15T17:39:25-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Fox News",

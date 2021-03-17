@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/kayleigh-mcenany-biden-administrati
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/kayleigh-mcenany-biden-administration-is-incentivizing-flow-of-migrant-children-at-southern-border.amp"
 type: article
 quality: 161
-heat: 161
+heat: 181
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 340
     height: 340
     isCached: true
+
+related:
+  - title: "Texas Gov. Abbott demands Biden admin give access to migrant children for trafficking investigation"
+    excerpt: "Texas Gov. Greg Abbott is demanding that the Biden administration allow the state to interview unaccompanied migrant children in federal facilities."
+    publishedDateTime: 2021-03-17T19:57:09Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/zNFOJ5W7nqo/texas-border-migrant-children-greg-abbott-biden-trafficking"
+    ampWebUrl: "https://www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/texas-border-migrant-children-greg-abbott-biden-trafficking.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/03/640/320/AP21075718186443.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
 
 secured: "g/pYz/VyDqw5qDRYav/yihpM2k3+b29qysGyXJf1pv6L8D4BlrhvJ2tE5Vj3QQgZpBZ0a4b5Jnw9S2WFIQnlP2pUeuOCuJLQu0/E4Am4D4khvaAf0ZfzOPWWa1oudZ1uKPNF4RHwzq/43ybrUSqbCaPiDRB2s7poMj4H9PWD/L8f8zmIrlyS+pVHxbCq+HSM4fi4dQM8H5Az3sRq0X4Ygr2CCmJ1nUo2hV7qbUpo1ziWdjGMhvkFPMDdydDzJPqY380Q8xrk5kgzLByQ+RoVQQ8kv+PA5k+nsiWsMrxtIXSGMwl9BEmye9/eaEuNxuPJZpiYlZi0Z3Xgy5Mj7y7qFyUCVHN8wChPL6p1XmQrfxM=;GJhM+i9HqipLuPrF+NHc2Q=="
 ---

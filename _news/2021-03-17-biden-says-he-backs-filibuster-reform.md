@@ -1325,6 +1325,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Donald Trump vs. Joe Biden: Who Had Better Approval Ratings At This Point Of Their First Term?"
+    excerpt: "As Joe Biden’s first quarter as president comes to a close, polls indicate he’s substantially more popular than Donald Trump was during the same period. His net popularity, however, has struggled to climb much higher than half the population ..."
+    publishedDateTime: 2021-03-17T18:57:00Z
+    webUrl: "https://www.ibtimes.com/donald-trump-vs-joe-biden-who-had-better-approval-ratings-point-their-first-term-3164096"
+    ampWebUrl: "https://www.ibtimes.com/donald-trump-vs-joe-biden-who-had-better-approval-ratings-point-their-first-term-3164096?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/donald-trump-vs-joe-biden-who-had-better-approval-ratings-point-their-first-term-3164096?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 78
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/12/us-president-joe-bidens-name-will-not-appear.jpg"
+        width: 1024
+        height: 749
+        isCached: true
   - title: "President Joe Biden to make first prime-time address to nation Thursday"
     excerpt: "The president will look forward, highlighting the role that Americans will play in beating the virus,' the White House said."
     publishedDateTime: 2021-03-08T17:56:00Z
@@ -1381,6 +1397,6 @@ related:
         height: 663
         isCached: true
 
-secured: "GAFMPM7ZhunuEw5XvVjCr37H6RF5DSsxFSjdS4BQlaGoLRqioE6wI/oMaZTfpsAiLnVGL4kJl8EL9MiQ8TdPt0wDgmvNljKAdSFxW2YQ8Od5L9X2Lx5K16eqUUgrPSL4ewHwufs9s4sWiYd+SDOxete/RynVatAss8tZSdlBbOWteQM0vmdvmnsJbtsP8LngQ6yu+iVk/VlxpLbUpbqzjxDMC5rcr8Xoyw7ZO8xmJcwdkn//aED01Az+vxkorgPJjYp0mpN/L6X9eykTEe0vkEgg+7ayp2LElHSVCaUS8RCWAT6ME8bUmOi3nAS+730tUey6r34TsSSDjUXFyTICJBWgbyKhbYUjaItwF/3ypsc=;hmlv7K83lGKYVSH3qnEtOA=="
+secured: "GLoq6LKKN+ObjllqbJSwn1Oy01wG70ecG4Mp8IBnbfXDqEe9aeguDjxNSsUWVxHDBdE5t74jyuF/bPtZrcmWtRarKfsNc3cCV8uikmls+J5P7TSPEzWdgUxG1hbHRucFrhOvoQ2DSwZiM02hU6FCHjv7vk5Sc6ui00v8SXSUV+nmqors29Dw5DzcX8+qI8SppO/RefXKQgjQ0S+e3ISWul+z+FfMEx1EiW+nPV479kzoG2xGJiAd3k81xLS9BVliOfTdfRyjx1Og1ZUdKxbbKDCgUtd4wFyn886rSrJTJQRsiYJCb18azuPU8RSEHaJV+va+y6zZai/7C2Hek6KdB51VMUdug/cHzlCO6TOug4IDR8hoJJiDl3Q4hCy3ymldrT+YwoJO00tWDi6IfjtdzUAHo12keDzY0srqWze+8lxDQjcQBz+mEDJIXnuOT5U6M99ZAQLnk15koA5mW05YctShesAy2uYoD7zUfo4Zhiz5mWp33ZbhplwoQzTCvANLD7WM1kyIVQPuRMP29gPitw==;ZbKrC6jm0PRKDYVjDv3p6A=="
 ---
 
