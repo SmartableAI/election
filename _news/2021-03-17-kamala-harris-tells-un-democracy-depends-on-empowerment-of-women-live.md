@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Kamala Harris tells UN: 'Democracy depends on empowerment of women' – live"
-excerpt: "Biden is set to visit a small business in suburban Philadelphia on Tuesday, his initial trip outside Washington for the “Help is here” tour that got underway yesterday when VP Kamala Harris dropped in on a Covid-19 vaccination site and a culinary ..."
+excerpt: "Vice-President gives pointed address to the UN on gender equality and women’s rights Joanna Walters (now) and Martin Belam (earlier) Martin Pengelly Russia sought to influence the 2020 election, a US government report out today says, by planting ..."
 publishedDateTime: 2021-03-16T18:00:00Z
-originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-60509bce8f08b2dc0e124426"
-webUrl: "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-60509bce8f08b2dc0e124426"
+originalUrl: "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-6050d9fd8f08b617ed427c0d"
+webUrl: "https://www.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates?page=with:block-6050d9fd8f08b617ed427c0d"
 ampWebUrl: "https://amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/us-news/live/2021/mar/16/joe-biden-covid-coronavirus-american-rescue-plan-delaware-pennsylvania-live-updates"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 360
     isCached: true
 
-secured: "5Q+uzSOjjw2C6rgx0RMvSSc/YDrN5aa9d5yEgk6e1/hiLKO+Ng3rVkkOW4JntpmFbLEc17xN3rFysjvzYcGjl9vHNnOVKl3ZXhU2ClP5EXYmzVZdmYr3eL13JfJMdOs6BC0ZwFykYj4EBTfYUXeYDUUIqOrpboVHQXDh592CD3aNva3EtBi5EukSAVEs9ohp7E1mxRtEGolKbsLUB3JnyMUfQMEyNb11vmaCSbsxCHJfPVpCq7EvfZ0MVoqfy2+SmX3IeYTUU3Gtw5NBJ9bbLI/Sje/ipqL/eJ3ZTrt7S9z35NBLF+pjWQhE5B4Eso4p5FwmtbdHbgJjFA7g1VycNx49uyqnA6+tupZu6wTi0VLoIEuCqWXML8FP8in9Jnchxp9ltSQZojXcMS0DfxltD63ua+UOV6ExpUYFOMQ7KDCa3UkarBxi5PZUjv1ZnvYIdxrMww+sVPpbHFTrJ0tMyjvkc439YyB8l4qRnqfzQMM+sZSliQ5hPc6m/qGKpN4xsPL2fk1KLzu1LNXuwEm62w==;9cLUVfHmaEH1YzGYJ9UG9A=="
+secured: "TJzjmMHAmS7uMRCTQ6tXE5sde/3QIzjhrfhxPkbRT619/tmRlqTpbXC3aYtL2wdOJvjnjmVCBKuvdxEXcP6GJRmxKRygpangAwOqUg2Z1Xzq7MnqvuSnJ97jmnRepVLzC6Quq6d3UlJ7ygASgOIIPcf58P+Cb2m2Nv4xiutjqnBbrpcgiaARy0UWEMggMncpe2qwrn9/QeSb8QZcMuK9Zcn/v134H4Ev/aujYo9y6SbPqJq5UkpNQFpp/nXOYvayf6UK9yYhOGroY8QqSjgooebg3SRo+sBUu1SoHY4bOyAyvrPPkDxDWnqihUKQBqzsaU5FvW/SlxKZ1EEini1ODRPOq3s1h9gCakH36Lz4y3U=;+ZqJsmhCB5I2bN5vh36uxQ=="
 ---
 

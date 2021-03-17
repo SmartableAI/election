@@ -9,7 +9,7 @@ ampWebUrl: "https://mobile.reuters.com/article/amp/idINKBN2B60DA"
 cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idINKBN2B60DA"
 type: article
 quality: 125
-heat: 405
+heat: 425
 published: true
 
 provider:
@@ -215,6 +215,22 @@ related:
       - url: "https://www.gannett-cdn.com/presto/2021/03/13/PIND/eb0f2bdd-b5bf-4042-8d4d-7349cf8977d8-scd1.jpg?auto=webp&crop=4031,2267,x0,y0&format=pjpg&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Trump assures supporters that COVID-19 vaccination is safe"
+    excerpt: "In an interview Tuesday night on Fox News, Trump acknowledged that people were free to decide for themselves whether they would be vaccinated against COVID-19. “We have our freedoms and we have to live by that and I agree with that also."
+    publishedDateTime: 2021-03-17T05:15:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-assures-supporters-that-COVID-19-16031554.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-assures-supporters-that-COVID-19-16031554.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-assures-supporters-that-COVID-19-16031554.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
         isCached: true
   - title: "Trump urges supporters to get COVID vaccine, but tells them he also respects ‘freedom’"
     excerpt: "The ex-president urged Americans late Tuesday to get vaccinated before saying he also “agrees” with their “freedom” to not do it, leaving his supporters with a distinctly mixed message. “I would recommend it and I would recommend it to a lot of people that don’t want to get it and a lot of those people voted for me,"

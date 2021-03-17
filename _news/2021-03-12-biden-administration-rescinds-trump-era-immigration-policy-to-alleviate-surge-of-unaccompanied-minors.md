@@ -143,6 +143,22 @@ related:
         width: 1050
         height: 549
         isCached: true
+  - title: "Russia stoked Ukraine allegations, used Trump allies to undermine Biden, U.S. intel agencies say"
+    excerpt: "Russia tried again last year to help former President Donald Trump win the White House, the U.S. intelligence community said Tuesday in a long-awaited postmortem — adding that a \"primary\" tactic in that effort was the spreading of corruption allegations ..."
+    publishedDateTime: 2021-03-17T05:24:00Z
+    webUrl: "https://www.politico.com/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
+    ampWebUrl: "https://www.politico.com/amp/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
+    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2021/03/16/russia-stoked-ukraine-allegations-biden-476363"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 137
+    images:
+      - url: "https://static.politico.com/fb/c3/d776387447ef8a78d7ede679465d/webp.net-resizeimage%20-%202021-02-09T235133.366.jpg"
+        width: 1160
+        height: 773
+        isCached: true
   - title: "Sanctions Are Reimposed on Israeli Billionaire Granted Relief Under Trump"
     excerpt: "The Biden administration moved to reverse an action that had benefited Dan Gertler, who has been accused of corruption over mining deals in the Democratic Republic of Congo."
     publishedDateTime: 2021-03-09T00:47:00Z

@@ -228,6 +228,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump assures supporters that COVID-19 vaccination is safe"
+    excerpt: "In an interview Tuesday night on Fox News, Trump acknowledged that people were free to decide for themselves whether they would be vaccinated against COVID-19. “We have our freedoms and we have to live by that and I agree with that also."
+    publishedDateTime: 2021-03-17T05:15:00Z
+    webUrl: "https://www.chron.com/news/article/Trump-assures-supporters-that-COVID-19-16031554.php"
+    ampWebUrl: "https://www.chron.com/news/amp/Trump-assures-supporters-that-COVID-19-16031554.php"
+    cdnAmpWebUrl: "https://www-chron-com.cdn.ampproject.org/c/s/www.chron.com/news/amp/Trump-assures-supporters-that-COVID-19-16031554.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 75
+    images:
+      - url: "https://cdn.ex.co/amp/mcd/logo_600x336.png"
+        width: 600
+        height: 336
+        isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
     publishedDateTime: 2021-03-14T18:42:00Z

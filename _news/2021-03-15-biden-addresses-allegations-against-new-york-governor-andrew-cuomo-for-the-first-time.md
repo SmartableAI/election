@@ -45,6 +45,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "President Biden says Gov. Andrew Cuomo should resign if allegations of harassment are true"
+    excerpt: "WASHINGTON — President Joe Biden said Tuesday that New York Gov. Andrew Cuomo should resign if an investigation into allegations he sexually harassed multiple women finds the claims are true. \"Yes,\" Biden said when asked in an interview with ABC's ..."
+    publishedDateTime: 2021-03-17T02:16:00Z
+    webUrl: "https://www.usatoday.com/story/news/politics/2021/03/16/joe-biden-andrew-cuomo-sexual-harassment-allegations/4727248001/"
+    ampWebUrl: "https://amp.usatoday.com/amp/4727248001"
+    cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/4727248001"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 115
+    images:
+      - url: "https://www.gannett-cdn.com/-mm-/3906fbcabf1ce3703967b341d5182f9676840ead/c=0-12-3665-2083/local/-/media/2016/06/15/USATODAY/USATODAY/636015771773498194-AP-Biden-Cuomo-LaGuardia-Airport.jpg?auto=webp&format=pjpg&width=1200"
+        width: 1200
+        height: 678
+        isCached: true
   - title: "President Joe Biden finds allegations about Gov. Andrew Cuomo 'hard to read,' White House says"
     excerpt: "Growing reports of misbehavior by New York Gov. Andrew Cuomo concern President Joe Biden. He is making sure vaccine distribution is not affected."
     publishedDateTime: 2021-03-15T19:30:00Z

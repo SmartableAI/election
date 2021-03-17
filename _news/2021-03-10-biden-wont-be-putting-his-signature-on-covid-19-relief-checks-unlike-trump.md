@@ -193,19 +193,19 @@ related:
         isCached: true
   - title: "US: Putin approved operations to help Trump against Biden"
     excerpt: "Russian President Vladimir Putin authorized influence operations to help Donald Trump in last November’s presidential election"
-    publishedDateTime: 2021-03-16T23:52:00Z
-    webUrl: "https://www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html"
-    ampWebUrl: "https://www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    publishedDateTime: 2021-03-17T04:24:00Z
+    webUrl: "https://abcnews.go.com/Politics/wireStory/us-putin-approved-operations-trump-biden-76504079"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-putin-approved-operations-trump-biden-76504079"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-putin-approved-operations-trump-biden-76504079"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 140
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://s.abcnews.com/images/Politics/WireAP_91967fa26edc4c13be5abe16085a4238_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "Lucky review: how Biden beat Trump – and doubters like Obama and Hillary"
     excerpt: "Jonathan Allen and Amie Parnes deliver a clear-eyed account of an election which could not cure a country’s wounds"

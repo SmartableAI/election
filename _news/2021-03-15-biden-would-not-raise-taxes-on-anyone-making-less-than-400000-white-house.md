@@ -63,6 +63,22 @@ related:
         width: 820
         height: 545
         isCached: true
+  - title: "Man charged in alleged threats to Biden, Pelosi and Whitmer"
+    excerpt: "A 21-year-old western Michigan man has been arraigned after authorities say he made death threats to President Joe Biden, U.S. House Speaker Nancy Pelosi and Michigan Gov. Gretchen Whitmer"
+    publishedDateTime: 2021-03-16T19:17:00Z
+    webUrl: "https://www.washingtonpost.com/health/man-charged-in-alleged-threats-to-biden-pelosi-and-whitmer/2021/03/16/330ba65c-868c-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/health/man-charged-in-alleged-threats-to-biden-pelosi-and-whitmer/2021/03/16/330ba65c-868c-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/health/man-charged-in-alleged-threats-to-biden-pelosi-and-whitmer/2021/03/16/330ba65c-868c-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Biden taking hands-off approach to Justice Department barrier on Equal Rights Amendment, White House says"
     excerpt: "WASHINGTON – President Joe Biden is a big backer of renewed efforts to add the proposed Equal Rights Amendment to the Constitution, but it remains to be seen if his administration will remove a barrier put up by his predecessor. During the Trump ..."
     publishedDateTime: 2021-03-15T17:19:00Z

@@ -2,21 +2,21 @@
 category: news
 title: "US: Putin approved operations to help Trump against Biden"
 excerpt: "Russian President Vladimir Putin authorized influence operations to help Donald Trump in last November’s presidential election"
-publishedDateTime: 2021-03-16T23:52:00Z
-originalUrl: "https://www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html"
-webUrl: "https://www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html"
-ampWebUrl: "https://www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
-cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/politics/us-despite-threats-foreign-hackers-didnt-disrupt-election/2021/03/16/afdeefa4-868c-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+publishedDateTime: 2021-03-17T04:24:00Z
+originalUrl: "https://abcnews.go.com/Politics/wireStory/us-putin-approved-operations-trump-biden-76504079"
+webUrl: "https://abcnews.go.com/Politics/wireStory/us-putin-approved-operations-trump-biden-76504079"
+ampWebUrl: "https://abcnews.go.com/amp/Politics/wireStory/us-putin-approved-operations-trump-biden-76504079"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/wireStory/us-putin-approved-operations-trump-biden-76504079"
 type: article
 quality: 140
 heat: -1
 published: false
 
 provider:
-  name: Washington Post
-  domain: washingtonpost.com
+  name: ABC
+  domain: abcnews.go.com
   images:
-    - url: "https://smartableai.github.io/election/assets/images/organizations/washingtonpost.com-50x50.jpg"
+    - url: "https://smartableai.github.io/election/assets/images/organizations/abcnews.go.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -25,9 +25,9 @@ topics:
   - Donald Trump
 
 images:
-  - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-    width: 1484
-    height: 779
+  - url: "https://s.abcnews.com/images/Politics/WireAP_91967fa26edc4c13be5abe16085a4238_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -1260,6 +1260,6 @@ related:
         height: 663
         isCached: true
 
-secured: "jKekMbubsQT55BpnkGZxtxM3QDqYnn714TV267ZL5lXvqxHCqSe2DWr/0F3iYZTBQXVo3eqhZZI1vOe3PlU55t+mPIRg+/ooNY+aMZpc0wQC8fLN0WP38WlcXi6MsFmivZ2qpL6/EPRwoffBkipSuh1dLeHjJ3CWBpe9n5KymuaCp2nd8CY3zYln/9qYtzM/ZvOqWwyfIKkJq4mnyiybend5BDwx5JxD8Yig9CjwwAgGlSoIqU0Qgbx3mGumSu1tuLjEQztkW3lTR/7F2Fn9fl8bhaI/F80RZdJL7CuoIq+C0YB/VrVQp8pYOnQGJzZOLLRuvAcQGE4uNZKsCijm8BAOWO0XzreAeM+KqTJbc2Y=;hWTzgt3fVlZz2M5kQWPOWA=="
+secured: "Da+msT9ls94APSi6ov/EJDX9c8n242OOcf2T7SZqmQTH8S2b1P7j3emaedS2Hy2NL9epj9SK0Ezsh370qaU4593rGSlsUHC+fvZH0eidz05hBYU9mLF/nltNrCGcxZP5A6dUVJ3q6AjnnIM1c5j5odk6IeF62cL3ajRGBfkg++NB01VN7FK/eJ5VgxHB0kuxM+Fsqdi1xxkRFg2akkl5FOo2/6lopo6+lpidyvpo8gTBINaSyXlQcyPMEIhTFyWCPgNNuPdWYJY0X81Hdn1Rfyb1zv3SdNLtX2wFrCXcKHJT/12FcNTD/yEYi6dBUL/zLMclq/zakUf5maP6IEV17AErGPB4JDQ1CIq9yjwcJZY=;hiC5fB4zAwF48DXVplIM2w=="
 ---
 

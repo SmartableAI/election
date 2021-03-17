@@ -47,6 +47,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "'Not a Fan': Trump Criticizes Meghan Markle But Hopes She Runs for President in 2024"
+    excerpt: "Meghan Markle is rumored to run for president in 2024, and former President Donald Trump responded in an interview with Fox News Tuesday night."
+    publishedDateTime: 2021-03-17T05:28:00Z
+    webUrl: "https://www.newsweek.com/not-fan-trump-criticizes-meghan-markle-hopes-she-runs-president-2024-1576697"
+    ampWebUrl: "https://www.newsweek.com/not-fan-trump-criticizes-meghan-markle-hopes-she-runs-president-2024-1576697?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/not-fan-trump-criticizes-meghan-markle-hopes-she-runs-president-2024-1576697?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 118
+    images:
+      - url: "https://d.newsweek.com/en/full/1757651/meghan-markle.jpg"
+        width: 1620
+        height: 1136
+        isCached: true
 
 secured: "He73mrbmU4HEHSfnZkiZ6vFkP6D+f23hoMqV/nge0QetR/DH1Nqu/+RKNflkw5kJ6r3kWyhpWYoeAMB0i0qoUJbgFStsZswwCEvP2dGLSj5VVwDhL7kPlle3Ua6zGHvn9wb11zz4IgsFLntGBPuSDYucLv5UD9XWwdkYgpEqW3atBfg+466v2om5BYW0SqFy9g4ux4wmwbyrtQntbwz+y299hYOLT3GS2C0Q+2EDuWg0mzljcQzm2F+kuwC8IvCz+N6yTMql1xItCeAoiukoN5OixtK9izALX3xFpkudrgPU97T4Nn2YZE7uF6BynRZTi7oRjed4P1vDaYyiEdt8l9ZoGmBi/sLPHVW4yqM8UwPYVlqOJWYZlep9tkB/3YsmFmwHV3B0EP2HLV54QyL7QjWd99+me/otqIt86CsewtXYJ2jcik8Z09AKBjxSvXh91Xk9E/+fzCCHLiEitVitynyJcsHu2//Bogyp+jy6IUg/wUnFxswterBpDpK3UUkbPUAq+9j6IzR+QyiXhbGekA==;mejY5Z/FtuwsL8IVYRVytA=="
 ---
