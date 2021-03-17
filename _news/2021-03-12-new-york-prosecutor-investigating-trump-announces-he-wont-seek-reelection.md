@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/cyrus-vance-not-running/index.html"
 type: article
 quality: 188
-heat: 788
+heat: 808
 published: true
 
 provider:
@@ -486,6 +486,20 @@ related:
       - url: "https://static.politico.com/f2/e4/32fcf83f46429404bcb7ceb4e4a4/gettyimages-1197853434-c.jpg"
         width: 1160
         height: 773
+        isCached: true
+  - title: "The former Trump official advising House Republicans on immigration"
+    excerpt: "Chad Wolf, the former acting homeland security secretary, has been meeting with House Republicans, providing them with advice and counseling as it relates to immigration, your Huddle host has learned."
+    publishedDateTime: 2021-03-17T13:11:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/03/17/the-former-trump-official-advising-house-gop-on-immigration-492143"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
         isCached: true
   - title: "New York prosecutor targeting Trump won't stand for reelection"
     excerpt: "The move means the endgame of the Trump probe will almost certainly be overseen by a new DA elected in November."

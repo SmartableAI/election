@@ -1,12 +1,12 @@
 ---
 category: news
 title: "U.S. says Putin authorized operations to denigrate Biden and boost Trump in 2020 campaign"
-excerpt: "03:40 Washington — Russian President Vladimir Putin authorized influence operations that sought to damage President Biden's candidacy during the 2020 election and boost former President Donald Trump, according to an unclassified report from the U.S ..."
-publishedDateTime: 2021-03-16T19:51:00Z
-originalUrl: "https://www.cbsnews.com/news/putin-biden-trump-2020-election-campaign-report/"
-webUrl: "https://www.cbsnews.com/news/putin-biden-trump-2020-election-campaign-report/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/putin-biden-trump-2020-election-campaign-report/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/putin-biden-trump-2020-election-campaign-report/"
+excerpt: "01:34 Washington — Russian President Vladimir Putin authorized influence operations that sought to damage President Biden's candidacy during the 2020 election and boost former President Donald Trump, according to an unclassified report from the U.S ..."
+publishedDateTime: 2021-03-17T12:05:00Z
+originalUrl: "https://www.cbsnews.com/news/putin-biden-trump-2020-election-intelligence-report/"
+webUrl: "https://www.cbsnews.com/news/putin-biden-trump-2020-election-intelligence-report/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/putin-biden-trump-2020-election-intelligence-report/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/putin-biden-trump-2020-election-intelligence-report/"
 type: article
 quality: 131
 heat: -1
@@ -831,6 +831,22 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Trump on possible Meghan 2024 presidential bid: 'I hope that happens'"
+    excerpt: "Former President Trump in an interview late Tuesday said that he is hopeful that Meghan, the Duchess of Sussex, runs for the White House in 2024, saying her candidacy might compel him to jump into the race as well."
+    publishedDateTime: 2021-03-17T12:56:00Z
+    webUrl: "https://thehill.com/homenews/news/543562-trump-on-possible-meghan-2024-presidential-bid-i-hope-that-happens"
+    ampWebUrl: "https://thehill.com/homenews/news/543562-trump-on-possible-meghan-2024-presidential-bid-i-hope-that-happens?amp"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/news/543562-trump-on-possible-meghan-2024-presidential-bid-i-hope-that-happens?amp"
+    type: article
+    provider:
+      name: The Hill
+      domain: thehill.com
+    quality: 125
+    images:
+      - url: "https://thehill.com/sites/default/files/trumpmarkle.jpg"
+        width: 980
+        height: 551
+        isCached: true
   - title: "2 Biden court losses just over a month into his presidency show Trump's lasting power on the judiciary"
     excerpt: "These two losses — from judges appointed by former President Donald Trump — show his lasting legacy on the judiciary and how that could impact the Biden administration. During Trump's four years in office — and with a Republican Senate majority ..."
     publishedDateTime: 2021-03-10T20:24:00Z
@@ -1303,6 +1319,6 @@ related:
         height: 663
         isCached: true
 
-secured: "oUVadFkKqj7bOJLRR738mcl5JGGz6TQlCbsbWPGTliVAoa8jW9laJJvThsGkHu5X/SBIqfW1nictkt/R0pA/DX8heTrkLkM2pneXfxufVQhYLSA69KqnorpxCKbdtxqt9UPb3VAYVUTJmC2aeXi/rDTuRU+EtdLSQCIvCm0ln7GMWMKk8Al3lXtZqIus5IyCVIe6fev//za8KmbYhs3wGWTYxqJ27MPPDUVjum4WAOXKDnw2dCwFBkRk/T5i3OF5uj9Ca/P5UIPRG8v98xoW+zoixHMwUX3AqlTliR7ggsmgWigBZLOhf0C2w+KM+yzFQO5Tmz/V8sBimLgxvPGrVZAiQl071R3MQUDHrO+y3bCbWToj8WUlepoZcDGzcLBokVkpbM0TEO0OcfKOFkrcVYLVei0zW2p/R5rrkhFBb9fwD5n7DDdk1yNcoIE8JONsFyapzB4G9rSbMbS3tDEIUza8EXY+Tw/pgGAROoHqknaddGFwWpsHWKGqzNOw3BA0womJ3IssQ+up8M0D+rb6fw==;0DfOHjhewysyIKuDrKcduQ=="
+secured: "ZopO/jW9Is6r0N9Uo9maUw7/+C6UXxUEcqcwRqeSsShHr9861epK7NI7ZT8oRVP9taC0XFR18BAxsCSrkzkMgerTyuj8SRXp1TYmp3SGcf3g2X9YIHIfq2GRy3yS+Ng6aS9sDjrELoTDsSc1QD9GwEVzPsnFactEm/4M5Fvae5NsYCRoTxVNUj7naOvyhLhSbUNOJdmSSz7+8SfnZ6VfXKDyz5X6gWP9gS2xADU7OkPgEj0cKp0TAKfCk+dtpej8b3LHYvlwyyIYNJ7yu6BSRakwMAl3nJp9QxDuKVhNKzxaIGW7sERdo5ZGD2KTTjOXvVtOI0ZnX6hroNxztX5J2satj6Jw3RMcawLmXICB9rQ=;BPHfxLxzn676Co5so3Pk6w=="
 ---
 

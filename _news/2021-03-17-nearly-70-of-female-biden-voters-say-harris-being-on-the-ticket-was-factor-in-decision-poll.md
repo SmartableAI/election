@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-be
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1"
 type: article
 quality: 129
-heat: 729
+heat: 749
 published: true
 
 provider:
@@ -210,6 +210,20 @@ related:
       - url: "https://www.chicagotribune.com/resizer/crQzkjNidk5NhtpkJam48A0ZW1Y=/1200x0/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/CJESQ7B73VCMJH3GOI3PJ6NCGA.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Essential Politics: Kamala Harris takes a victory lap, with an eye on the 2022 midterms"
+    excerpt: "Politicians politicking. But it’s early and Harris’ role in making the case for Democrats looks as if it’s going to be a big one, perhaps on par with Biden’s. Good morning, and welcome to Essential Politics: Kamala Harris road edition. Today ..."
+    publishedDateTime: 2021-03-17T13:45:00Z
+    webUrl: "https://www.latimes.com/politics/newsletter/2021-03-17/kamala-harris-coronavirus-relief-2022-midterms-essential-politics"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 97
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/285d75c/2147483647/strip/true/crop/3158x1658+0+224/resize/1200x630!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fb7%2Fc5%2F715ac64f424587ff60735848b2c8%2Fharris-55517.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Kamala Harris addresses the UN: 'The status of women is the status of democracy' – video"
     excerpt: "Kamala Harris spoke about democracy and its connection with women’s equality in her debut address to the UN as US vice-president"

@@ -31,35 +31,51 @@ images:
     isCached: true
 
 related:
-  - title: "North Korea warns Biden administration to avoid 'causing a stink' if it wants peace"
-    excerpt: "The sister of North Korean leader, Kim Yo Jong, criticised ongoing military drills in South Korea and warned the new U.S. administration against “causing a stink” if it wants peace, state news reported on Tuesday."
-    publishedDateTime: 2021-03-15T23:21:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/hI8TJhtDfcM/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace"
-    ampWebUrl: "https://www.foxnews.com/politics/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.amp"
+  - title: "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott"
+    excerpt: "Sen. Rick Scott, R-Fla., blasted the Biden administration's handling of the ongoing border crisis Monday on \"America Reports.\""
+    publishedDateTime: 2021-03-15T21:32:37Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhQ9SuzVQkU/biden-border-policy-separating-families-rick-scott"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 169
+    quality: 167
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/7cbfcdd6-020a-4356-8354-e3b36978071e/8c4af3ca-6a87-4366-a264-f6213f22a7d2/1280x720/match/image.jpg"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Mexican government fears Biden admin policies fueling illegal immigration, organized crime: report"
+    excerpt: "The report also revealed that the gangs involved in facilitating the illegal immigration are looking at the policies “incentiviz[ing] migration” and adjusting their modus operandi for smuggling accordingly."
+    publishedDateTime: 2021-03-10T17:21:52Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EoWrh25_zuo/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report"
+    ampWebUrl: "https://www.foxnews.com/politics/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 161
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e917dbc8-eefb-415f-9b27-5e3e16132d85/5d68fd92-d27f-4acb-b296-191f2f577df4/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true
-  - title: "Biden admin suspends probe into school allegedly segregating students by race; Rep. Owens blasts decision"
-    excerpt: "The U.S. Department of Education suspended an investigation that found students and faculty at an Illinois school were discriminated against through the use of racial \"affinity groups,\" Fox News has learned."
-    publishedDateTime: 2021-03-11T20:05:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_bpGui_6G0/biden-admin-education-department-racial-segregation-burgess-owens"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-education-department-racial-segregation-burgess-owens.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-education-department-racial-segregation-burgess-owens.amp"
+  - title: "Cruz, Cornyn to lead Senate delegation to border, as GOP ramps up pressure on Biden over border crisis"
+    excerpt: "Texas Sens. Ted Cruz and John Cornyn will lead a Senate delegation to the border next week, as Republicans are ramping up the pressure on the Biden administration for what they say is a crisis fueled by the administration's own immigration policies."
+    publishedDateTime: 2021-03-16T17:19:50Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/kyWqWaUBEcw/cruz-cornyn-senate-border-gop-biden-border-crisis"
+    ampWebUrl: "https://www.foxnews.com/politics/cruz-cornyn-senate-border-gop-biden-border-crisis.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/cruz-cornyn-senate-border-gop-biden-border-crisis.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 159
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a462b847-64f6-4ab5-8b42-7debbc2c2c55/b45dd515-fde3-4cfe-a9f9-197377656a3c/1280x720/match/image.jpg"
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c57185e-ca00-4a31-8a79-5263e0ffb1bf/734d5af6-eb8b-41e0-b2e7-97595737b564/1280x720/match/image.jpg"
         width: 1280
         height: 720
         isCached: true

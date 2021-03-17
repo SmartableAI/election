@@ -496,6 +496,20 @@ related:
         width: 1160
         height: 773
         isCached: true
+  - title: "The former Trump official advising House Republicans on immigration"
+    excerpt: "Chad Wolf, the former acting homeland security secretary, has been meeting with House Republicans, providing them with advice and counseling as it relates to immigration, your Huddle host has learned."
+    publishedDateTime: 2021-03-17T13:11:00Z
+    webUrl: "https://www.politico.com/newsletters/huddle/2021/03/17/the-former-trump-official-advising-house-gop-on-immigration-492143"
+    type: article
+    provider:
+      name: Politico
+      domain: politico.com
+    quality: 115
+    images:
+      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
+        width: 1120
+        height: 629
+        isCached: true
 
 secured: "lPPb5H2TE427MtUzqnc6Y5Vdv3a32msvIGKpeAMhS1nzINvllMLBG7mtOClaxdPnA5lj7A8P18HfmtC2CufLzfXHK2lsKuQwlL4RH5GCks3u3ZWLAMwXgdpGv2YZmVKPXZq2xB1GsNMqe/jZBLWjDVf0Tl9XBaqmBCZfzTIDO8kaL7UZjxZ5Qa/opqRphQsAt97q/Aqf+YKtj/kaEHMb3f+PlZ1GUJ3kiVbSua5yUZUT9NMfc5SA7L1KAMJa40t+1IY7c6m53L2Vm3lX2ZqLxFwjP3ge0mpRWG7WpJLsuCz9yQnHpS/2JpPuiDOZU3Qzx72N1Sya+hvobNvbjj3l/hSM2WlGVHPMWVyN6XKxPiY=;ztTukbjrPQaAbCXFkgDulQ=="
 ---

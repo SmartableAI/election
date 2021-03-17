@@ -9,8 +9,8 @@ ampWebUrl: "https://www.foxnews.com/politics/north-korea-warns-biden-administrat
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/north-korea-warns-biden-administration-to-avoid-causing-a-stink-if-it-wants-peace.amp"
 type: article
 quality: 169
-heat: 209
-published: true
+heat: -1
+published: false
 
 provider:
   name: Fox News
@@ -31,37 +31,53 @@ images:
     isCached: true
 
 related:
-  - title: "Biden admin suspends probe into school allegedly segregating students by race; Rep. Owens blasts decision"
-    excerpt: "The U.S. Department of Education suspended an investigation that found students and faculty at an Illinois school were discriminated against through the use of racial \"affinity groups,\" Fox News has learned."
-    publishedDateTime: 2021-03-11T20:05:23Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/B_bpGui_6G0/biden-admin-education-department-racial-segregation-burgess-owens"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-admin-education-department-racial-segregation-burgess-owens.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-admin-education-department-racial-segregation-burgess-owens.amp"
+  - title: "Chad Wolf warns migrants won't listen to Biden's 'don't come' plea"
+    excerpt: "Former Acting DHS Secretary Chad Wolf warned on Wednesday that the surge of migrants to the southern border won't stop as long as those making the journey \"see other individuals\" being allowed to stay in the U.S."
+    publishedDateTime: 2021-03-17T13:31:44Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/wb9ZgLr97Ho/joe-biden-dont-come-migrants-border-chad-wolf"
+    ampWebUrl: "https://www.foxnews.com/politics/joe-biden-dont-come-migrants-border-chad-wolf.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/joe-biden-dont-come-migrants-border-chad-wolf.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 158
+    quality: 175
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a462b847-64f6-4ab5-8b42-7debbc2c2c55/b45dd515-fde3-4cfe-a9f9-197377656a3c/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Texas AG accuses Biden administration of putting Texans 'at risk' with influx of COVID-positive migrants"
-    excerpt: "The Biden administration's handling of the southern border is putting Texans at risk, Attorney General Ken Paxton told \"The Faulkner Focus\" on Friday."
-    publishedDateTime: 2021-03-13T00:52:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_BuhMpftRY/ken-paxton-biden-putting-texans-at-risk"
-    ampWebUrl: "https://www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/Talia-Kaplan.jpg?ve=1&tl=1"
         width: 340
         height: 340
+        isCached: true
+  - title: "Biden’s ‘inhumane’ message puts migrants in hands of smugglers, traffickers: Chad Wolf"
+    excerpt: "President Biden’s \"inhumane\" border policies are encouraging migrants to put themselves in the \"hands of smugglers and traffickers,\" former Acting DHS Secretary Chad Wolf told \"America Reports\" Thursday."
+    publishedDateTime: 2021-03-11T22:25:29Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/7Mu2FW-fEnE/bidens-migrants-smugglers-traffickers-chad-wolf"
+    ampWebUrl: "https://www.foxnews.com/politics/bidens-migrants-smugglers-traffickers-chad-wolf.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/bidens-migrants-smugglers-traffickers-chad-wolf.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 167
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/340/340/FOX-headshot-2-1.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
+        isCached: true
+  - title: "Dem New Mexico Gov. Grisham concerned with Biden's energy agenda: 'Doesn't make any sense'"
+    excerpt: "New Mexico Democratic Gov. Michelle Lujan Grisham said during Wednesday's event that President Biden's moratorium pausing oil and gas leasing on federal lands \"hurts New Mexico.\""
+    publishedDateTime: 2021-03-12T22:37:21Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/SQunnf9DxHE/new-mexico-grisham-biden-oil-moratorium"
+    ampWebUrl: "https://www.foxnews.com/politics/new-mexico-grisham-biden-oil-moratorium.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/new-mexico-grisham-biden-oil-moratorium.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 165
+    images:
+      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/5bc8ed77-7b1c-4576-a05c-0510dde3bc53/d9d2eed5-2f56-461c-b084-f8c607445d29/1280x720/match/image.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "A8HGu8nDsbAoOtZq5QA7DwTILOkUX1wbkOINjDRGaoAbcp5flrO8yLuoIITueK+Edhtyvczb6B/I3XwyrvPOQtylf2tYIwVh5r84aVxN8O1XYGUvt9sjpJGXt23AAFQA05MH4aiURfu4BdEc8OBP0sCFf2tGa9wEStENTs3gTAshHD62vFN/pjoBsS2NDSJs5mVBFgHmTk4FF8nSJB6u0glVh2fDhjCOMGCMyU3WBav5PbTI928ErYP+ENMcEXhTzoFSYYi+hRh438hanuBEntRSs3PmgRw6zB4G9MMAnFz17hsK/oekwApnaTKz7QaCgTn+6LcRT3p3ozASZjhhSL3FnXqfC7W+uCOmrPL+Wvs=;eJ/hBaopBKzC/ph2DHWQTw=="

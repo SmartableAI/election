@@ -61,6 +61,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Biden says Cuomo should resign if investigation confirms sexual harassment claims"
+    excerpt: "President Biden said Tuesday that New York Governor Andrew Cuomo should resign if the state attorney general's investigation confirms the claims of the women who have accused the governor of sexual harassment."
+    publishedDateTime: 2021-03-17T12:13:00Z
+    webUrl: "https://www.cbsnews.com/news/cuomo-sexuaul-harrassment-investigation-biden-resign/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/cuomo-sexuaul-harrassment-investigation-biden-resign/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cuomo-sexuaul-harrassment-investigation-biden-resign/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 120
+    images:
+      - url: "https://cbsnews3.cbsistatic.com/hub/i/r/2021/03/16/e5b5cb81-84e1-400b-b8d0-0c9bca68ea56/thumbnail/1200x630/f7ae7d2a55b10073c60e65ff0391428c/cbsn-fusion-cuomo-accuser-reveals-new-details-about-governors-alleged-behavior-thumbnail-669558-640x360.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "President Biden says Gov. Andrew Cuomo should resign if allegations of harassment are true"
     excerpt: "WASHINGTON — President Joe Biden said Tuesday that New York Gov. Andrew Cuomo should resign if an investigation into allegations he sexually harassed multiple women finds the claims are true. \"Yes,\" Biden said when asked in an interview with ABC's ..."
     publishedDateTime: 2021-03-17T02:16:00Z

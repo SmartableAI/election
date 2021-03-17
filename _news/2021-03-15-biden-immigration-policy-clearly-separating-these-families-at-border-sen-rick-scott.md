@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-fami
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
 type: article
 quality: 167
-heat: 207
+heat: 227
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/1c57185e-ca00-4a31-8a79-5263e0ffb1bf/734d5af6-eb8b-41e0-b2e7-97595737b564/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Texas AG accuses Biden administration of putting Texans 'at risk' with influx of COVID-positive migrants"
+    excerpt: "The Biden administration's handling of the southern border is putting Texans at risk, Attorney General Ken Paxton told \"The Faulkner Focus\" on Friday."
+    publishedDateTime: 2021-03-13T00:52:05Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_BuhMpftRY/ken-paxton-biden-putting-texans-at-risk"
+    ampWebUrl: "https://www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 158
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+        width: 340
+        height: 340
         isCached: true
 
 secured: "dQC5I37FVFQNUsoN77LD5VsGprAoFrd9WpR26AxaMq9pwhiUeUTMB4oSoiAhsA8dTNkwvNtKgNa9quj5chLakElijGDl2B6iMUj9VTOWvSpRF1xTVP0HZkPzIZy2LsfsSX2TJVvL8+FgB1xIW+emgCa+3705ghslQ1GM7fOjfGBll01+yQW+ZGOrzK8cpzOEsrMUw7BuBmrhU8zEmypxvlC41cmDhMjDNEsKANM/V9tcpCheoXO7HCFrEqlfPv4sdp0FPlnwv9t4IaiVmVXDFS4jTzbX9uJx7xOrjBGCoplJsg1db53EGUZLg5JqlvzbAMgGRC1a3Q9NSLVzNhtHNRH+0x/MQFtzdyt9AkLI3lQ=;eRsKBnR991m6TvZ7K9xSkg=="

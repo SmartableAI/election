@@ -9,7 +9,7 @@ ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-ne
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-tells-migrants-dont-abc-news-exclusive-interview/story?id=76490159"
 type: article
 quality: 125
-heat: 165
+heat: 145
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Biden says he supports reforming Senate filibuster in ABC News exclusive interview"
-    excerpt: "President Joe Biden said he supports reforming the Senate filibuster in an ABC News exclusive interview Tuesday."
-    publishedDateTime: 2021-03-17T00:27:00Z
-    webUrl: "https://abcnews.go.com/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156"
-    ampWebUrl: "https://abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/biden-supports-reforming-senate-filibuster-abc-news-exclusive/story?id=76499156"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 119
-    images:
-      - url: "https://s.abcnews.com/images/US/president-joe-biden-interview-04-exclusive-abc-jc-210316_1615931643517_hpMain_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
   - title: "President Biden tells potential migrants: 'Don't come' to the US amid surge at southern border"
     excerpt: "WASHINGTON — President Joe Biden sent a direct message to potential migrants hoping to enter the United States: \"Don't come.\" His message comes as the administration is dealing with a surge of unaccompanied minors at the U.S.-Mexico border and criticism ..."
     publishedDateTime: 2021-03-17T01:57:00Z

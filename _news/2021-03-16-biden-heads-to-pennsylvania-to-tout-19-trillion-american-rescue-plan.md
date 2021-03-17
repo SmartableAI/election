@@ -143,22 +143,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Biden puts muscle into implementing relief package"
-    excerpt: "President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster debate This ..."
-    publishedDateTime: 2021-03-15T22:47:00Z
-    webUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package"
-    ampWebUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_030421getty_optimism.jpg"
-        width: 980
-        height: 551
-        isCached: true
   - title: "Biden taps Gene Sperling to oversee COVID-19 relief package"
     excerpt: "The White House says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package ..."
     publishedDateTime: 2021-03-15T18:22:00Z

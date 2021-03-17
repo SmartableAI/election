@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.usatoday.com/amp/6936053002"
 cdnAmpWebUrl: "https://amp-usatoday-com.cdn.ampproject.org/c/s/amp.usatoday.com/amp/6936053002"
 type: article
 quality: 125
-heat: 1045
+heat: 1025
 published: true
 
 provider:
@@ -142,22 +142,6 @@ related:
       - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/16/0eb16c64-3214-459f-9228-5414b5510730/thumbnail/1200x630g2/81c6d595dbf360fb43d8beff85a3a63d/gettyimages-1231735168.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Biden puts muscle into implementing relief package"
-    excerpt: "President Biden Joe Biden The Hill's Morning Report - Presented by Facebook - Biden to hit road, tout COVID-19 relief law Oregon senator takes center stage in Democratic filibuster debate This ..."
-    publishedDateTime: 2021-03-15T22:47:00Z
-    webUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package"
-    ampWebUrl: "https://thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/administration/543299-biden-puts-muscle-into-implementing-relief-package?amp"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 125
-    images:
-      - url: "https://thehill.com/sites/default/files/bidenjoe_030421getty_optimism.jpg"
-        width: 980
-        height: 551
         isCached: true
   - title: "Biden taps Gene Sperling to oversee COVID-19 relief package"
     excerpt: "The White House says Clinton and Obama administration veteran Gene Sperling will lead the oversight for distributing funds from President Joe Biden’s $1.9 trillion coronavirus rescue package ..."

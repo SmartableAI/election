@@ -260,6 +260,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Trump recommends COVID vaccine, tells supporters it’s safe"
+    excerpt: "Former President Donald Trump is urging people to get the Covid-19 vaccine, including his supporters. “I would recommend it, and I would recommend it to a lot of people that don’t want to get it, and I lot of those people voted for me frankly,” Trump ..."
+    publishedDateTime: 2021-03-17T11:14:00Z
+    webUrl: "https://www.al.com/news/2021/03/trump-recommends-covid-vaccine-tells-supporters-its-safe.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/trump-recommends-covid-vaccine-tells-supporters-its-safe.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/trump-recommends-covid-vaccine-tells-supporters-its-safe.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/J2UQFSQVDVAS5IWR7TCCZ4HRPA.jpg"
+        width: 3395
+        height: 2264
+        isCached: true
   - title: "Trump urges supporters to get COVID vaccine, but tells them he also respects ‘freedom’"
     excerpt: "The ex-president urged Americans late Tuesday to get vaccinated before saying he also “agrees” with their “freedom” to not do it, leaving his supporters with a distinctly mixed message. “I would recommend it and I would recommend it to a lot of people that don’t want to get it and a lot of those people voted for me,"
     publishedDateTime: 2021-03-17T01:21:00Z

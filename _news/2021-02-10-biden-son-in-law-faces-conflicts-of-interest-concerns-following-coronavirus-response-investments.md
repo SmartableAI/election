@@ -31,83 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden's coronavirus team outlines efforts to meet ambitious new goals"
-    excerpt: "The White House's coronavirus response team on Friday outlined the different ways the federal government will be working to implement President Joe Biden's ambitious goals unveiled during his prime-time address to the nation Thursday night.\n    \n"
-    publishedDateTime: 2021-03-12T18:14:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Tu9GSTywdtU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/coronavirus-response-team-goals-biden-administration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/coronavirus-response-team-goals-biden-administration/index.html"
+  - title: "Biden laments lack of Black NFL coaches during Super Bowl halftime interview"
+    excerpt: "President Joe Biden lamented the lack of Black coaches in the NFL during a Super Bowl halftime interview Sunday evening, urging teams to emphasize diversity in their hiring process.\n    \n"
+    publishedDateTime: 2021-02-08T04:16:34Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/bEWwVeqQzhk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/02/07/politics/super-bowl-nfl-biden-covid-19/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/02/07/politics/super-bowl-nfl-biden-covid-19/index.html"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 175
+    quality: 172
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210311182531-01-joe-biden-0210-super-tease.jpg"
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210207183825-04-super-bowl-2021-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "Biden says he has no immediate plans to visit US-Mexico border amid surge of migrant children"
-    excerpt: "President Joe Biden said on Tuesday that he currently has no plans to visit the southern border, even as his administration scrambles to respond to a surge of migrant children coming into the US.\n    \n"
-    publishedDateTime: 2021-03-16T19:02:34Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/z4zbVQG23Tw/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/joe-biden-migrant-children-border-immigration/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/joe-biden-migrant-children-border-immigration/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 164
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210314200145-biden-03142021-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden at 54 percent approval halfway through first 100 days in office"
-    excerpt: "Halfway through President Joe Biden's first 100 days in office, his presidential approval rating is at 53.7 percent. NBC News' Steve Kornacki discusses where Biden ranks against former President Donald Trump and other modern presidents at the same point in their presidency."
-    publishedDateTime: 2021-03-13T05:18:00Z
-    webUrl: "https://www.nbcnews.com/now/video/biden-at-54-percent-approval-halfway-through-first-100-days-in-office-104242757874"
-    ampWebUrl: "https://www.nbcnews.com/news/amp-video/mmvo104242757874"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp-video/mmvo104242757874"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 135
-    images:
-      - url: "https://media14.s-nbcnews.com/i/MSNBC/Components/Video/202103/1615481215363_ott_now_am_kornacki_biden_approval_210311_1920x1080.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "Presidential Speech Highlights: Biden Calls For U.S. to ‘Mark Our Independence From This Virus’ by 4th of July"
-    excerpt: "The president delivered his first prime-time White House address, hours after signing into law a $1.9 trillion stimulus package."
-    publishedDateTime: 2021-03-12T16:18:00Z
-    webUrl: "https://www.nytimes.com/live/2021/03/11/us/joe-biden-news"
-    ampWebUrl: "https://www.nytimes.com/live/2021/03/11/us/joe-biden-news.amp.html"
-    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/live/2021/03/11/us/joe-biden-news.amp.html"
-    type: article
-    provider:
-      name: New York Times
-      domain: nytimes.com
-    quality: 115
-    images:
-      - url: "https://static01.nyt.com/images/2021/03/11/us/politics/11new-washington-briefing/11new-washington-briefing-facebookJumbo-v2.jpg"
-        width: 1050
-        height: 550
-        isCached: true
-  - title: "Biden readies campaign to combat vaccine skeptics"
-    excerpt: "The new vaccine confidence drive underscores the extent to which the administration is still concerned about Americans' desire to get vaccinated."
-    publishedDateTime: 2021-03-15T16:17:00Z
-    webUrl: "https://www.politico.com/states/new-york/albany/story/2021/03/15/biden-readies-campaign-to-combat-vaccine-skeptics-1368275"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 115
-    images:
-      - url: "https://static.politico.com/b5/08/9ece206e4f819ffb7b46fdd71163/biden-vaccination-site-773-ap.jpg"
-        width: 1160
-        height: 773
         isCached: true
 
 secured: "gs3wViCfMY6LFE7GZL00GlgJ+G7KKwhmiLFKvxE2P0H41IB83SUa1tBky8qD9cZFZy9b/KF22KIx7ys9rtz7qBmRvCU6K/vxH+Yqzzrf7nqk52feO+Z2KOODXIxk2JaK0KJE3aDiUiO5AaWGb5MNi/k7cW20A7GA0PJ/ILB+CpP7qIyyjXCabRJE/vV8YgVhPIWWWzW8RtSi0NbiOR3yOaOUI6QYyRBFz5C+ocTfDNy+N0D4HcemGKYeBHXiKnvwk9JFMCxdRLpza7pvzgMkrQnA5mxVfO2X0czrcGEMIjRpnsE3L0bEgSFk0iz7/jkYi1PBCa7F1ug1oxLyz7Y65XVVfk7IpPBpRqBHXzgTtus=;Xq54igavBfpr0E+nyhntFQ=="

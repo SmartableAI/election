@@ -276,6 +276,22 @@ related:
         width: 600
         height: 336
         isCached: true
+  - title: "Trump recommends COVID vaccine, tells supporters it’s safe"
+    excerpt: "Former President Donald Trump is urging people to get the Covid-19 vaccine, including his supporters. “I would recommend it, and I would recommend it to a lot of people that don’t want to get it, and I lot of those people voted for me frankly,” Trump ..."
+    publishedDateTime: 2021-03-17T11:14:00Z
+    webUrl: "https://www.al.com/news/2021/03/trump-recommends-covid-vaccine-tells-supporters-its-safe.html"
+    ampWebUrl: "https://www.al.com/news/2021/03/trump-recommends-covid-vaccine-tells-supporters-its-safe.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/news/2021/03/trump-recommends-covid-vaccine-tells-supporters-its-safe.html?outputType=amp"
+    type: article
+    provider:
+      name: al.com
+      domain: al.com
+    quality: 75
+    images:
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/J2UQFSQVDVAS5IWR7TCCZ4HRPA.jpg"
+        width: 3395
+        height: 2264
+        isCached: true
   - title: "Fauci wants Trump to use his ‘incredible influence’ to urge Republicans to get the COVID-19 vaccine"
     excerpt: "Dr. Anthony Fauci said Sunday he wishes former President Donald Trump would use his popularity among Republicans to persuade his followers to get the COVID-19 vaccine."
     publishedDateTime: 2021-03-14T18:42:00Z

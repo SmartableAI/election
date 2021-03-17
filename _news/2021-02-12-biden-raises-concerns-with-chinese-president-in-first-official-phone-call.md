@@ -240,22 +240,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "House to take final vote on Biden's $1.9 trillion pandemic plan"
-    excerpt: "The House of Representatives is slated to take a final vote Wednesday to approve President Joe Biden's $1.9 trillion coronavirus relief plan, paving the way for the President to sign his top legislative priority into law later this week and deliver aid to most American households amid the pandemic.\n"
-    publishedDateTime: 2021-03-10T15:41:59Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KUGypbneNqU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/10/politics/covid-relief-bill-house-vote/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/10/politics/covid-relief-bill-house-vote/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210115123927-nancy-pelosi-january-15-2021-01-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden speaks with Chinese President Xi Jinping for first time as President"
     excerpt: "President Joe Biden spoke with China's President Xi Jinping late Wednesday, according to a senior administration official, their first call since Biden took office.\n    \n"
     publishedDateTime: 2021-02-11T02:39:57Z

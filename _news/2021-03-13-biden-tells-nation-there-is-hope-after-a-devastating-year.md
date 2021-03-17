@@ -80,22 +80,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Biden seeks to chart a path out of the pandemic in prime-time address"
-    excerpt: "President Joe Biden can report in his first prime-time address Thursday that a vaccination drive now reaching 2 million people daily has brought America far closer to exiting the pandemic than when he took office 50 days ago.\n    \n"
-    publishedDateTime: 2021-03-11T10:20:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/qgAwu8WlDDY/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/11/politics/joe-biden-coronavirus-relief-address/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/200310190456-103-joe-biden-lead-image-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Biden to sign $1.9 trillion Covid-19 relief package into law"
     excerpt: "President Joe Biden will sign his sweeping $1.9 trillion Covid-19 economic relief package into law on Thursday afternoon, the White House said. He had originally been expected to sign it on Friday.\n    \n"
     publishedDateTime: 2021-03-11T18:25:22Z
@@ -125,22 +109,6 @@ related:
     quality: 175
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210225141715-01-becerra-nomination-hearing-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Biden returns once again to the Rose Garden for stimulus celebration"
-    excerpt: "President Joe Biden will take to the Rose Garden on Friday for the first time as president, celebrating passage of his $1.9 trillion Covid-19 relief measure as the kickoff to a weeks-long sales effort to promote his debut legislative victory.\n    \n"
-    publishedDateTime: 2021-03-12T17:19:45Z
-    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wOZsZvxoQrU/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/12/politics/joe-biden-covid-19-law-rose-garden/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/12/politics/joe-biden-covid-19-law-rose-garden/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 175
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/161109120807-02-obama-rose-garden-speech-1109-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -189,6 +157,22 @@ related:
     quality: 173
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/210219080429-01-joe-biden-0210-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Biden reiterates pledge to raise taxes on Americans making $400,000 or more"
+    excerpt: "President Joe Biden again reiterated he intends to raise taxes for the most wealthy Americans in an ABC News interview aired Wednesday, saying \"anybody making more than $400,000 a year will see a small to significant tax increase.\" He also pledged that individual Americans who make less than $400,000"
+    publishedDateTime: 2021-03-17T13:39:52Z
+    webUrl: "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U8NW5W2Rw5o/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2021/03/17/politics/biden-tax-wealthy-americans/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/17/politics/biden-tax-wealthy-americans/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 173
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/210315141013-01-biden-remarks-0315-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
