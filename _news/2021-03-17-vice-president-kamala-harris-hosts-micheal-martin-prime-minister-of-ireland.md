@@ -3,8 +3,8 @@ category: news
 title: "Vice President Kamala Harris hosts Micheál Martin, Prime Minister of Ireland"
 excerpt: "United States Vice President Kamala Harris hosts Irish Prime Minister Micheál Martin during a virtual bilateral meeting in the Vice President's Ceremonial Office in Washington, DC on St. Patrick's Day,"
 publishedDateTime: 2021-03-17T15:50:00Z
-originalUrl: "https://www.upi.com/News_Photos/view/upi/6b6bc9db283edf2ba9affe858e9c3c4a/Vice-President-Kamala-Harris-hosts-Michel-Martin-Prime-Minister-of-Ireland/"
-webUrl: "https://www.upi.com/News_Photos/view/upi/6b6bc9db283edf2ba9affe858e9c3c4a/Vice-President-Kamala-Harris-hosts-Michel-Martin-Prime-Minister-of-Ireland/"
+originalUrl: "https://www.upi.com/News_Photos/view/upi/6660f0f2aa0cf0b4b4a0a34c53daa788/Vice-President-Kamala-Harris-hosts-Michel-Martin-Prime-Minister-of-Ireland/"
+webUrl: "https://www.upi.com/News_Photos/view/upi/6660f0f2aa0cf0b4b4a0a34c53daa788/Vice-President-Kamala-Harris-hosts-Michel-Martin-Prime-Minister-of-Ireland/"
 type: article
 quality: 52
 heat: -1
@@ -19,7 +19,7 @@ topics:
   - Kamala Harris
 
 images:
-  - url: "https://cdnph.upi.com/pv/upi/6b6bc9db283edf2ba9affe858e9c3c4a/VICE-PRESIDENT-HARRIS.jpg"
+  - url: "https://cdnph.upi.com/pv/upi/6660f0f2aa0cf0b4b4a0a34c53daa788/VICE-PRESIDENT-HARRIS.jpg"
     width: 650
     height: 433
     isCached: true
@@ -58,6 +58,6 @@ related:
         height: 683
         isCached: true
 
-secured: "ao+BKFM1kFCwKOg+NcOuY6NqVrJYNIZBbq+0npGigIN3M97KoIhsfyr6D7TJV1nWCzgSl2JXqXFM9odFchc/aE0gxrCjgDH6e7fD8CYFdg17uL4E2H8AbyslxVwqwhdIHx52I1R9zKiTwEnXc5tl4pEAD7CBViCvbPVAaKFY8RXwXQdVg3X99Dceqh9MB1cTRy7UPWcFgYS7V+4186QhE5Ss6YntNs9Q/Z2e+Q6dMTvga/1GziAcZad3DtU05hDoVKO9b7AjtsI5JwlTnYk40nipZnPZKrByq5NJmUDDIjmiviErT2Z/jLSRHAZgvJVL6DSx6VqxdutQQ4mFZZUDqiq7DiIMXbgvG2O3H1OdExY=;+g9OanI967PoCBzLjyAhFw=="
+secured: "yZuNpYTWf9acv4jZSfaCqPwLiT9WrcE/9IdkQu2fZkXbRdnz7CnIOclrh7oNBxZ0nl++1ZdgnDuBtACKy9f3YKc975qC73Dpzo+pOiBKTQVe0YyIVCBzng+d9D5i0RRihzYhpKxEfVZkVY4AKbugXzNgwvTzRyrVlj9WUvfqUwQmUoKXYfKLSPbp3Py0rFMRfKMq3v20vcDvxuWDh/erGgn93Ic23ChOTdc6OhVANwAzdufbGSObo6txylqN96TqVZH8kK35T0ZBoT0/wJ7/UTXrfcUQ/ylWrqZzUVOZc/x/czM1oM7Se2kwvAHAHhJTYUU8Owm5plwzyfCS6Tyrbii3n+TtEfWXWMWV5sNmVVI=;p0sEkMW0JTrCdw4XJ8RuDg=="
 ---
 

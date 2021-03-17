@@ -847,6 +847,22 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Biden says he backs filibuster reform"
+    excerpt: "Mr. Biden lamented that the filibuster rule ... While Democrats could end the filibuster with a simple-majority vote, two Democratic senators, Joe Manchin of West Virginia and Kyrsten Sinema of Arizona, have come out against eliminating the rule."
+    publishedDateTime: 2021-03-17T14:01:00Z
+    webUrl: "https://www.cbsnews.com/news/joe-biden-filibuster-reform/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/joe-biden-filibuster-reform/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/joe-biden-filibuster-reform/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 125
+    images:
+      - url: "https://cbsnews1.cbsistatic.com/hub/i/r/2021/03/17/a05c5ca3-7ad5-4a6e-badc-3ab9994d7092/thumbnail/1200x630/9d65b4b7d5e5e510fea7b8742d351efc/gettyimages-1231752985.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Biden tells Central American migrants: 'Don't come over'"
     excerpt: "Two crossed lines that form an 'X'. It indicates a way to close an interaction, or dismiss a notification. President Biden has told people from Central America not to come to the US after reports of a massive surge in migrants at the US-Mexico border."
     publishedDateTime: 2021-03-17T03:28:00Z
@@ -862,6 +878,22 @@ related:
       - url: "https://i.insider.com/6051614a0347cb00184b62a2?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Expanded testing part of Biden administration school plans"
+    excerpt: "The Biden administration is pushing forward with its plan to reopen schools, and as part of that, it’s expanding coronavirus testing for teachers, staff and students"
+    publishedDateTime: 2021-03-17T12:20:00Z
+    webUrl: "https://www.washingtonpost.com/world/national-security/education-department-convening-summit-to-help-schools-reopen/2021/03/17/247f60b2-871b-11eb-be4a-24b89f616f2c_story.html"
+    ampWebUrl: "https://www.washingtonpost.com/world/national-security/education-department-convening-summit-to-help-schools-reopen/2021/03/17/247f60b2-871b-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-washingtonpost-com.cdn.ampproject.org/c/s/www.washingtonpost.com/world/national-security/education-department-convening-summit-to-help-schools-reopen/2021/03/17/247f60b2-871b-11eb-be4a-24b89f616f2c_story.html?outputType=amp"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 125
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
         isCached: true
   - title: "Trump on possible Meghan 2024 presidential bid: 'I hope that happens'"
     excerpt: "Former President Trump in an interview late Tuesday said that he is hopeful that Meghan, the Duchess of Sussex, runs for the White House in 2024, saying her candidacy might compel him to jump into the race as well."
@@ -1164,6 +1196,20 @@ related:
       - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_iN2k5PDBvI/v1/1200x900.jpg"
         width: 1200
         height: 900
+        isCached: true
+  - title: "Biden backs filibuster reform, not elimination"
+    excerpt: "President Joe Biden on Tuesday backed reforming, rather than scrapping, the filibuster after Senate Minority Leader Mitch McConnell warned Democrats that ending the long-standing Senate procedure that can block legislation would bring the Democratic ..."
+    publishedDateTime: 2021-03-17T17:08:00Z
+    webUrl: "https://www.reuters.com/video/watch/idOVE4H889R"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 105
+    images:
+      - url: "https://static.reuters.com/resources/r/?d=20210317&i=OVE4H889R&r=OVE4H889R&t=2"
+        width: 960
+        height: 540
         isCached: true
   - title: "A Dominion exec forced into hiding due to death threats from Trump fans is beefing up his defamation lawsuit over election conspiracy theories"
     excerpt: "The lawsuit accuses Donald Trump's presidential campaign, conspiracy theorist attorneys Rudy Giuliani and Sidney Powell, and right-wing media outlets like Newsmax, One America News, and The Gateway Pundit of boosting false claims about him. The defendants ..."

@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "TRANSCRIPT: ABC News' George Stephanopoulos interviews President Joe Biden"
+    excerpt: "EXCLUSIVE: Biden says Cuomo should resign if investigation confirms women’s claims On Tuesday, March 16, 2021, ABC News' George Stephanopoulos interviewed President Joe Biden. The following is a ..."
+    publishedDateTime: 2021-03-17T16:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-interview-01-exclusive-abc-jc-210316_1615930676504_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "President Biden says Gov. Andrew Cuomo should resign if allegations of harassment are true"
     excerpt: "WASHINGTON — President Joe Biden said Tuesday that New York Gov. Andrew Cuomo should resign if an investigation into allegations he sexually harassed multiple women finds the claims are true. \"Yes,\" Biden said when asked in an interview with ABC's ..."
     publishedDateTime: 2021-03-17T02:16:00Z

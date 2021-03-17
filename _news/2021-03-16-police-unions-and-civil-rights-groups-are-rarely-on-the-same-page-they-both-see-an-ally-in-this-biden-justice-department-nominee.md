@@ -61,6 +61,22 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Biden says political stability of Northern Ireland is important"
+    excerpt: "WASHINGTON (Reuters) - U.S. President Joe Biden expressed support on Wednesday for the Good Friday Agreement and said political stability in Northern Ireland is critically important as he marked St. Patrick’s Day with a virtual meeting with Irish Prime ..."
+    publishedDateTime: 2021-03-17T16:44:00Z
+    webUrl: "https://www.reuters.com/article/us-usa-ireland-biden-idUSKBN2B92LC"
+    ampWebUrl: "https://mobile.reuters.com/article/amp/idUSKBN2B92LC"
+    cdnAmpWebUrl: "https://mobile-reuters-com.cdn.ampproject.org/c/s/mobile.reuters.com/article/amp/idUSKBN2B92LC"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 125
+    images:
+      - url: "https://s4.reutersmedia.net/resources/r/?m=02&d=20210317&t=2&i=1555239252&w=&fh=545px&fw=&ll=&pl=&sq=&r=LYNXMPEH2G1HS"
+        width: 731
+        height: 545
+        isCached: true
   - title: "Pelosi says Biden inherited broken system at the border as Fema deployed"
     excerpt: "“So this, again, is a transition from what was wrong before to what is right.” Celebration by Democrats over Joe Biden’s signature last week of a historic aid package combining Covid relief with economic stimulus and anti-poverty programs has been ..."
     publishedDateTime: 2021-03-14T14:12:00Z

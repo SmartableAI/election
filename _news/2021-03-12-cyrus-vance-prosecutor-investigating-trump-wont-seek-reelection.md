@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/news/cyrus-vance-wont-seek-reelection-ma
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/cyrus-vance-wont-seek-reelection-manhattan-da/"
 type: article
 quality: 140
-heat: 680
+heat: 700
 published: true
 
 provider:
@@ -373,6 +373,20 @@ related:
       - url: "https://pyxis.nymag.com/v1/imgs/2b6/ae1/5cd2b0c410b6f6cd1db0c9832a5ef9871f-8-cyrus-vance.1x.rsocial.w1200.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Netanyahu Fights For Re-election Without Key Ally Trump"
+    excerpt: "As Israeli Prime Minister Benjamin Netanyahu faces a re-election battle next week, he's missing an ally he could rely on during three previous votes over the past two years: Donald Trump. The American former president's conservative base was avidly pro ..."
+    publishedDateTime: 2021-03-17T15:43:00Z
+    webUrl: "https://www.ibtimes.com/netanyahu-fights-re-election-without-key-ally-trump-3164016"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 70
+    images:
+      - url: "https://s1.ibtimes.com/sites/www.ibtimes.com/files/styles/full/public/2021/03/17/a-file-photo-from-january-28-shows-then.jpg"
+        width: 985
+        height: 768
         isCached: true
   - title: "Asia Stocks Track US Rally As Recovery Hopes Trump Inflation Fear"
     excerpt: "Optimism over the economic recovery helped push Asian markets higher Tuesday following another record on Wall Street, with focus on the Federal Reserve's much-anticipated policy meeting this week. News that several European countries had stopped ..."

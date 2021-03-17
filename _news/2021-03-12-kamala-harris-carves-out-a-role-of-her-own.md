@@ -447,6 +447,20 @@ related:
         width: 944
         height: 630
         isCached: true
+  - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
+    excerpt: "United States Vice President Kamala Harris attends a virtual event celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
+    publishedDateTime: 2021-03-17T17:53:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/38b91d1d58a7e1444e67279a1c4e795e/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/38b91d1d58a7e1444e67279a1c4e795e/VICE-PRESIDENT-HARRIS.jpg"
+        width: 650
+        height: 433
+        isCached: true
   - title: "Vice President Harris American Rescue Plan Briefing"
     excerpt: "Vice President Harris participated in a brief conversation on the American Rescue Plan that preceded a closed… Vice President-elect Kamala Harris volunteered with her husband, Doug Emhoff, at Martha’s Table in Washington, D.C., to… President-elect ..."
     publishedDateTime: 2021-03-11T20:01:00Z

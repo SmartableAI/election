@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2021/03/16/politics/kamala-harris-united-nat
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/kamala-harris-united-nations-women-democracy/index.html"
 type: article
 quality: 185
-heat: 205
+heat: 225
 published: true
 
 provider:
@@ -47,6 +47,22 @@ related:
       - url: "https://media11.s-nbcnews.com/i/MSNBC/Components/Video/202103/bidenharrisntl.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "‘Kamala Harris says the Atlanta attacks have ‘frightened and shocked and outraged all people.’"
+    excerpt: "Vice President Kamala Harris, the first woman and the first Asian-American to hold the office, expressed condolences for the families of the victims during a meeting with Irish officials on Wednesday. “This speaks to a larger issue which is the issue of ..."
+    publishedDateTime: 2021-03-17T09:40:00Z
+    webUrl: "https://www.nytimes.com/2021/03/17/us/kamala-harris-says-the-atlanta-attacks-have-frightened-and-shocked-and-outraged-all-people.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/17/us/kamala-harris-says-the-atlanta-attacks-have-frightened-and-shocked-and-outraged-all-people.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/17/us/kamala-harris-says-the-atlanta-attacks-have-frightened-and-shocked-and-outraged-all-people.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 123
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-kamala/17atlanta-shooting-briefing-kamala-facebookJumbo.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "OrzM3UFTx2C392aA8lj5MRsK1cfLwZC3pBga4zHCaAuvkwZS/JV5K2WnCoFTr+x08J90RGjr7UTfBxYp1ogeWiSL1ad27s4ucK99XiC6ccTdGBImsF1UwDKmMO66D2p4r7Bm+jQkG/O3R212HU8A+IC32n6pX0IEfFWb4zboRJa/mUm/jAJOFdsrC/16cE8eMz//2/XQ8LI3p13fwEh0wmAuUl/lFMoVjd52NP4SGJgty7Aw7yBrXF3fGvYETP/tTPH3wg+wmLhXcphGYTnxnYuIXrsL3Fs29YRSdRyApNj7VuFS7Jv0hVUb19kOjA4Hy/lwkrTK4zebgoanpZ6avuFEO9sMjUavDHD5MYKTR/U=;k8WHz5WVFE/3utdZLlNWbg=="

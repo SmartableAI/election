@@ -31,51 +31,35 @@ images:
     isCached: true
 
 related:
-  - title: "Biden immigration policy 'clearly separating these families' at border: Sen. Rick Scott"
-    excerpt: "Sen. Rick Scott, R-Fla., blasted the Biden administration's handling of the ongoing border crisis Monday on \"America Reports.\""
-    publishedDateTime: 2021-03-15T21:32:37Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/rhQ9SuzVQkU/biden-border-policy-separating-families-rick-scott"
-    ampWebUrl: "https://www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-policy-separating-families-rick-scott.amp"
+  - title: "Biden border wall freeze unlawful, 40 GOP senators tell GAO in letter"
+    excerpt: "A group of 40 GOP senators on Wednesday asked the Government Accountability Office to decide whether President Biden's decision to freeze more than $1 billion in congressionally approved border wall funding violates federal law."
+    publishedDateTime: 2021-03-17T16:22:00Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/-5shomOtuZQ/biden-border-wall-freeze-unlawful-senators-gao"
+    ampWebUrl: "https://www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-border-wall-freeze-unlawful-senators-gao.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 167
+    quality: 175
     images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
-        width: 340
-        height: 340
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/AP21021726310142-1.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
-  - title: "Mexican government fears Biden admin policies fueling illegal immigration, organized crime: report"
-    excerpt: "The report also revealed that the gangs involved in facilitating the illegal immigration are looking at the policies “incentiviz[ing] migration” and adjusting their modus operandi for smuggling accordingly."
-    publishedDateTime: 2021-03-10T17:21:52Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/EoWrh25_zuo/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report"
-    ampWebUrl: "https://www.foxnews.com/politics/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mexican-government-fears-biden-admin-policies-fueling-illegal-immigration-organized-crime-report.amp"
+  - title: "McCarthy, GOP delegation visiting US-Mexico border Monday amid migration surge under Biden"
+    excerpt: "House Minority Leader Kevin McCarthy and 12 other House Republicans are at the Southern border and will make comments from El Paso, Texas later Monday as the GOP continues to hammer President Biden over immigration. "
+    publishedDateTime: 2021-03-15T14:57:22Z
+    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/pzNyh-3l1lo/mccarthy-leads-gop-visit-to-us-mexico-border"
+    ampWebUrl: "https://www.foxnews.com/politics/mccarthy-leads-gop-visit-to-us-mexico-border.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/mccarthy-leads-gop-visit-to-us-mexico-border.amp"
     type: article
     provider:
       name: Fox News
       domain: foxnews.com
-    quality: 161
+    quality: 165
     images:
-      - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/e917dbc8-eefb-415f-9b27-5e3e16132d85/5d68fd92-d27f-4acb-b296-191f2f577df4/1280x720/match/image.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Texas AG accuses Biden administration of putting Texans 'at risk' with influx of COVID-positive migrants"
-    excerpt: "The Biden administration's handling of the southern border is putting Texans at risk, Attorney General Ken Paxton told \"The Faulkner Focus\" on Friday."
-    publishedDateTime: 2021-03-13T00:52:05Z
-    webUrl: "http://feeds.foxnews.com/~r/foxnews/politics/~3/b_BuhMpftRY/ken-paxton-biden-putting-texans-at-risk"
-    ampWebUrl: "https://www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
-    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/ken-paxton-biden-putting-texans-at-risk.amp"
-    type: article
-    provider:
-      name: Fox News
-      domain: foxnews.com
-    quality: 158
-    images:
-      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1"
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/340/340/Screen-Shot-2020-01-15-at-11.36.03-AM.png?ve=1&tl=1"
         width: 340
         height: 340
         isCached: true

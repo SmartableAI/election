@@ -48,6 +48,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "‘Kamala Harris says the Atlanta attacks have ‘frightened and shocked and outraged all people.’"
+    excerpt: "Vice President Kamala Harris, the first woman and the first Asian-American to hold the office, expressed condolences for the families of the victims during a meeting with Irish officials on Wednesday. “This speaks to a larger issue which is the issue of ..."
+    publishedDateTime: 2021-03-17T09:40:00Z
+    webUrl: "https://www.nytimes.com/2021/03/17/us/kamala-harris-says-the-atlanta-attacks-have-frightened-and-shocked-and-outraged-all-people.html"
+    ampWebUrl: "https://www.nytimes.com/2021/03/17/us/kamala-harris-says-the-atlanta-attacks-have-frightened-and-shocked-and-outraged-all-people.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2021/03/17/us/kamala-harris-says-the-atlanta-attacks-have-frightened-and-shocked-and-outraged-all-people.amp.html"
+    type: article
+    provider:
+      name: New York Times
+      domain: nytimes.com
+    quality: 123
+    images:
+      - url: "https://static01.nyt.com/images/2021/03/17/us/17atlanta-shooting-briefing-kamala/17atlanta-shooting-briefing-kamala-facebookJumbo.jpg"
+        width: 1050
+        height: 550
+        isCached: true
 
 secured: "CyGpUSJcV7bXOaTyA0JyqXcGsaI8xIAYphZSZCHtpcKLz5cu+Itm99ycBhhRgF9q4Q0b5NCIV0zmZ7CGH7eupu0WhAp5rHyp1celpopeffJQSv4OgoWdgSeu8kG67Yy1p/LuDGATJ+qCt3DYo5znERai0H/0MHtDlROPxaTBYVrjdtKXQ2N4uKxhHUja/ihieb/nYXdwdPRe+8T9KiLHwLltBy3omtHHdyTw136zhGyrlGI8q8JwR4stICOqyYGW1QY57RK6tNRYkHxR0rCfcuoJ3fsoGs61UW5yrkoUU0aOp2J14mjYvpXRqdrfOpv0WKIYpGOiaZixW4gDtanK/8mxHQ2Af/h1nTomTj6TKTM=;KDqDn/jGTqsDWQ8nlzinDw=="
 ---

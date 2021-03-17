@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/nearly-70-female-biden-voters-say-harris-be
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/nearly-70-female-biden-voters-say-harris-being-ticket-was-factor-decision-poll-1576571?amp=1"
 type: article
 quality: 129
-heat: 749
+heat: 769
 published: true
 
 provider:
@@ -438,6 +438,20 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/6/2a/62accf86-5b9d-11eb-9ba0-1b643862cb4d/6008fcd797f38.image.jpg?resize=944%2C630"
         width: 944
         height: 630
+        isCached: true
+  - title: "Vice President Kamala Harris Attends Virtual Douglass Event"
+    excerpt: "United States Vice President Kamala Harris attends a virtual event celebrating the Frederick Douglass Global Fellows in the South Court Auditorium of the Eisenhower Executive Office Building in Washington,"
+    publishedDateTime: 2021-03-17T17:53:00Z
+    webUrl: "https://www.upi.com/News_Photos/view/upi/38b91d1d58a7e1444e67279a1c4e795e/Vice-President-Kamala-Harris-Attends-Virtual-Douglass-Event/"
+    type: article
+    provider:
+      name: UPI.com
+      domain: upi.com
+    quality: 55
+    images:
+      - url: "https://cdnph.upi.com/pv/upi/38b91d1d58a7e1444e67279a1c4e795e/VICE-PRESIDENT-HARRIS.jpg"
+        width: 650
+        height: 433
         isCached: true
   - title: "Kamala Harris Carves Out a Role of Her Own"
     excerpt: "Vice President Kamala Harris is enjoying an unusually high profile as second-in-command, in part because of the groundbreaking nature of her election and in part because of the front-and-center role President Joe Biden has given her. With widespread ..."

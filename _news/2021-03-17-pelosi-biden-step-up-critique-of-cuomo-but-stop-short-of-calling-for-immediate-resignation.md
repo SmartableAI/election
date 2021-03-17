@@ -63,6 +63,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "TRANSCRIPT: ABC News' George Stephanopoulos interviews President Joe Biden"
+    excerpt: "EXCLUSIVE: Biden says Cuomo should resign if investigation confirms women’s claims On Tuesday, March 16, 2021, ABC News' George Stephanopoulos interviewed President Joe Biden. The following is a ..."
+    publishedDateTime: 2021-03-17T16:36:00Z
+    webUrl: "https://abcnews.go.com/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
+    ampWebUrl: "https://abcnews.go.com/amp/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/transcript-abc-news-george-stephanopoulos-interviews-president-joe/story?id=76509669"
+    type: article
+    provider:
+      name: ABCNews
+      domain: abcnews.go.com
+    quality: 123
+    images:
+      - url: "https://s.abcnews.com/images/Politics/president-joe-biden-interview-01-exclusive-abc-jc-210316_1615930676504_hpMain_2_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Biden says Cuomo should resign if investigation confirms sexual harassment claims"
     excerpt: "President Biden said Tuesday that New York Governor Andrew Cuomo should resign if the state attorney general's investigation confirms the claims of the women who have accused the governor of sexual harassment."
     publishedDateTime: 2021-03-17T12:13:00Z
@@ -126,6 +142,6 @@ related:
         height: 630
         isCached: true
 
-secured: "oerw3Km3JPWt8ZRFY+vDZi9a/Efa06WjtQ7rQmbiUfTUZJllns29IaiOiF+dYZDqGxtqk1t6s7HsdVyNUy2ZVBHBZA1oyHWyOZ1NxF2KJx6gDKZIUqr2o3KxrNK5d8vr5xDpa+A7apTE2G6HDlCGCClT8FbJTZgbVr/dkYanZ3h0ddMg5SnblRpkeRp8XRqWD+UhimoCv5qAcCOSBn9YbDaGBBDT/WXN0ZwCLgA4Ug2259CX9n8Zdu4VxoZdTOuhVH6yYRICM0OX3gzttpCMqc6xmzehQxcFcIFR+gFvsXoN5mythxrHVYjbq6EE7RtqWEqn6pKcCzLyFpjNgjwNG831fyS+uGXHJOu3n/NHwpc=;2n24iSJDLuWK7pwxNNlZNA=="
+secured: "8oBkk+KK66Z7iLbVX+jZ2spFsRSRNjFs//BgYxUIJGkjeFqd7Rwef78qMBEdhhbX8GL82wPP2FfcKcDfvQUajaA4qUXnni3jPw+8LCnouqk9lJcu8RTQ7ahPbRXuaqVjcJbTBfK3mLnxNXAc2mCgiZBvKHuNDtORlTN3FcWrMirHu580m0OdoznWJXlLyPFlLIrLrK2YNFa5A1cLP8fNVrOp4drsLjCSzaVhtfQpZsf8lwAMJr1CND440ZLIR1yOS5bhunFdYEvvZ4u+qCipgZPxaOQejobbzqRzgq7MxtzhNOnAq72bvOP2e5INgdUt0q0NdS0X9kp8jJ9tlpKhSqlioORcY5qkZNsuZJI0O+u4j6eBskC0S6pBbSoEoSnP/6kbG5DPe1BD0IrY8WC5UpAByL4wOOwSKAwvm63iIeOdOxnNT9VML02GC9/uHCRuxS80J2nk910ZYlyBLlx90Fwj51ynAj+Yh13nIUH0qOykrceFPo5mASiePm0LKbJkBTFuI4XohQrgIwn5qEhKsw==;TJmd1nggjyaV/OW5DKST4A=="
 ---
 
