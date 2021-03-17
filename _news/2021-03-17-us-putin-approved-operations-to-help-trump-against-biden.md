@@ -191,6 +191,22 @@ related:
         width: 980
         height: 551
         isCached: true
+  - title: "Russia Reacts to U.S Claims of Pro-Trump Election Interference"
+    excerpt: "The report by the Office of the Director of National Intelligence found that Russia wanted to harm Joe Biden's candidacy."
+    publishedDateTime: 2021-03-17T09:39:00Z
+    webUrl: "https://www.newsweek.com/russia-kremlin-sanctions-election-interference-biden-trump-putin-1576708"
+    ampWebUrl: "https://www.newsweek.com/russia-kremlin-sanctions-election-interference-biden-trump-putin-1576708?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-kremlin-sanctions-election-interference-biden-trump-putin-1576708?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1757684/putin-trump.jpg"
+        width: 2500
+        height: 1822
+        isCached: true
   - title: "Lucky review: how Biden beat Trump – and doubters like Obama and Hillary"
     excerpt: "Jonathan Allen and Amie Parnes deliver a clear-eyed account of an election which could not cure a country’s wounds"
     publishedDateTime: 2021-03-07T05:02:00Z

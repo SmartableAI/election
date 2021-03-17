@@ -636,6 +636,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump warns Biden's border 'crisis' will get 'much worse': 'They are coming in from everywhere'"
+    excerpt: "Trump, on 'Fox News Primetime,' warns Biden's border 'crisis' will 'destroy our country' Former President Donald Trump slammed President Biden as the border crisis further unravels, speaking with Maria Bartiromo in an exclusive interview on \"Fox News Primetime."
+    publishedDateTime: 2021-03-17T09:08:00Z
+    webUrl: "https://www.foxnews.com/us/trump-warns-bidens-border-crisis-will-get-much-worse-they-are-coming-in-from-everywhere"
+    ampWebUrl: "https://www.foxnews.com/us/trump-warns-bidens-border-crisis-will-get-much-worse-they-are-coming-in-from-everywhere.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-warns-bidens-border-crisis-will-get-much-worse-they-are-coming-in-from-everywhere.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/trump-maria-AP-FOX.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden hits 50 days without press conference: ABC News calls out 'striking' difference from Trump"
     excerpt: "President Biden has not held a formal press conference 50 days into his presidency, drawing criticism from ABC News of the \"striking\" contrast in transparency with predecessor Donald Trump. \"Halfway into his first 100 days, President Joe Biden has yet to ..."
     publishedDateTime: 2021-03-11T15:26:00Z

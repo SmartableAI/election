@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/politics/biden-remarks-filled-with-subtle-ja
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/biden-remarks-filled-with-subtle-jabs-at-trump.amp"
 type: article
 quality: 190
-heat: 1190
+heat: 1210
 published: true
 
 provider:
@@ -638,6 +638,22 @@ related:
       - url: "https://cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/a4e11fbf-005b-4b50-995c-dc44c3e0c968/86ac2847-eab6-48f9-983e-6df5f9c97ef4/1280x720/match/image.jpg"
         width: 1280
         height: 720
+        isCached: true
+  - title: "Trump warns Biden's border 'crisis' will get 'much worse': 'They are coming in from everywhere'"
+    excerpt: "Trump, on 'Fox News Primetime,' warns Biden's border 'crisis' will 'destroy our country' Former President Donald Trump slammed President Biden as the border crisis further unravels, speaking with Maria Bartiromo in an exclusive interview on \"Fox News Primetime."
+    publishedDateTime: 2021-03-17T09:08:00Z
+    webUrl: "https://www.foxnews.com/us/trump-warns-bidens-border-crisis-will-get-much-worse-they-are-coming-in-from-everywhere"
+    ampWebUrl: "https://www.foxnews.com/us/trump-warns-bidens-border-crisis-will-get-much-worse-they-are-coming-in-from-everywhere.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-warns-bidens-border-crisis-will-get-much-worse-they-are-coming-in-from-everywhere.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/trump-maria-AP-FOX.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
         isCached: true
   - title: "Biden hits 50 days without press conference: ABC News calls out 'striking' difference from Trump"
     excerpt: "President Biden has not held a formal press conference 50 days into his presidency, drawing criticism from ABC News of the \"striking\" contrast in transparency with predecessor Donald Trump. \"Halfway into his first 100 days, President Joe Biden has yet to ..."

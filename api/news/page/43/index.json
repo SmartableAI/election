@@ -2,6 +2,62 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2021-01-10-google-microsoft-verizon-on-biden-inauguration-committee-donor-list.md",
+      "title": "Google, Microsoft, Verizon on Biden Inauguration Committee donor list",
+      "excerpt": "Google, Microsoft, and Verizon are among President-elect Joe Biden's Inauguration Committee donors.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/u0gqqBSjynQ/google-microsoft-verizon-biden-inauguration-committee",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 275,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/01/640/320/00e79b30-AP21006762088029.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/google-microsoft-verizon-biden-inauguration-committee.amp",
+      "publishedDateTime": "2021-01-10T08:59:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-01-10-immediate-removal-of-president-trump-full-hakeem-jeffries-interview.md",
       "title": "'Immediate removal' of President Trump: Full Hakeem Jeffries Interview",
       "excerpt": "In an exclusive interview with Meet the Press, Rep. Hakeem Jeffries (D-N.Y.), Chair, House Democratic Caucus, talks to Chuck Todd about the Democrats' impeachment plans.",
@@ -1302,62 +1358,6 @@
       "topics": [
         "Election",
         "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-01-09-federal-judge-blocks-trump-administration-asylum-rule-from-taking-effect.md",
-      "title": "Federal judge blocks Trump administration asylum rule from taking effect",
-      "excerpt": "A federal judge on Friday blocked a sweeping asylum rule that had been scheduled to take effect nationwide in a matter of days, issuing yet another legal blow to the Trump administration.\n    \n",
-      "sourceUrl": null,
-      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rb2CMYeyGs/index.html",
-      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-rb2CMYeyGs/index.html",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Democratic Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#0015BC"
-      },
-      "heat": 254,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/201210215838-panorama-nuevas-restricciones-asilo-eeuu-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/01/08/politics/judge-blocks-us-asylum-rule/index.html",
-      "publishedDateTime": "2021-01-08T18:50:07-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Democratic Voice"
       ]
     }
   ],

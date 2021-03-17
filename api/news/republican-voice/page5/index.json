@@ -2,6 +2,63 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2021-02-25-harris-acknowledges-righteous-skepticism-over-covid-19-vaccine-but-says-it-will-save-your-life.md",
+      "title": "Harris acknowledges 'righteous skepticism' over COVID-19 vaccine, but says 'it will save your life'",
+      "excerpt": "Vice President Kamala Harris is urging Americans to get vaccinated for coronavirus while acknowledging the mistrust some have for medical research and development.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a7DNSERocQg/harris-covid-vaccine-skepticism-save-your-life",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/a7DNSERocQg/harris-covid-vaccine-skepticism-save-your-life",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 171,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2021/02/640/320/Kamala-Harris-COVID-19-Vaccine-AP.jpg?ve=1&tl=1",
+          "width": 640,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/harris-covid-vaccine-skepticism-save-your-life.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/harris-covid-vaccine-skepticism-save-your-life.amp",
+      "publishedDateTime": "2021-02-25T06:13:13-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice",
+        "Kamala Harris"
+      ]
+    },
+    {
       "path": "_news/2021-02-24-nikki-haley-slams-biden-push-for-seat-on-sham-human-rights-council-with-tyrants-dictators.md",
       "title": "Nikki Haley slams Biden push for seat on ‘sham’ Human Rights Council with ‘tyrants,' 'dictators’",
       "excerpt": "Former U.N. Ambassador Nikki Haley on Wednesday slammed the Biden administration’s move to reclaim a seat on the controversial Human Rights Council – noting that the Geneva-based body’s table includes human rights abusers.",
@@ -1625,63 +1682,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-02-19-trump-praising-rush-revives-his-stolen-election-claims-on-tv.md",
-      "title": "Trump, praising Rush, revives his ‘stolen election’ claims on TV",
-      "excerpt": "Donald Trump has taken to the airwaves to praise the late Rush Limbaugh and declare that he still believes the election was stolen.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/trump-praising-rush-revives-his-stolen-election-claims-on-tv",
-      "originalUrl": "https://www.foxnews.com/media/trump-praising-rush-revives-his-stolen-election-claims-on-tv",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2020/10/THUMB-trumps-425A.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-02-19T00:02:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Donald Trump",
         "Republican Voice"
       ]
     }

@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2021-03-16-gop-targets-biden-border-crisis-in-new-ad-campaign-aimed-at-battleground-districts.md",
+      "title": "GOP targets \"Biden border crisis\" in new ad campaign aimed at battleground districts",
+      "excerpt": "Republicans are ramping up their attacks on Democrats over the ongoing crisis at the Southern border, including a new ad campaign accusing President Joe Biden of opening the border instead of focusing on opening schools and businesses.\n    \n",
+      "sourceUrl": null,
+      "webUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zfN3O6F0ZLQ/index.html",
+      "originalUrl": "http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zfN3O6F0ZLQ/index.html",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Democratic Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#0015BC"
+      },
+      "heat": 168,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/210312143856-02-border-migrant-crisis-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2021/03/16/politics/republicans-ad-campaign-biden-border-crisis-immigration/index.html",
+      "publishedDateTime": "2021-03-16T09:46:34-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Democratic Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-16-dan-bongino-slams-biden-immigration-agenda-without-a-border-you-dont-have-a-country.md",
       "title": "Dan Bongino slams Biden immigration agenda: Without a border, 'you don't have a country'",
       "excerpt": "Fox News contributor Dan Bongino rips Biden's immigration policy on \"Fox & Friends,\" and asserts that we don't have a country without a border.",
@@ -993,7 +1049,7 @@
         "textColor": "#FFFFFF",
         "backgroundColor": "#0015BC"
       },
-      "heat": 133,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -1308,62 +1364,6 @@
       "topics": [
         "Election",
         "Donald Trump"
-      ]
-    },
-    {
-      "path": "_news/2021-03-15-tom-homan-slams-biden-dems-for-blaming-trump-for-new-border-surge-they-planned-this-crisis.md",
-      "title": "Tom Homan slams Biden, Dems for blaming Trump for new border surge: 'They planned this crisis'",
-      "excerpt": "Former acting ICE director Tom Homan slammed the Biden administration for blaming Trump over the migrant surge at the border.",
-      "sourceUrl": null,
-      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VG3Kz7lKiy8/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys",
-      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/VG3Kz7lKiy8/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 378,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2018/09/340/340/fox-news.jpg?ve=1&tl=1",
-          "width": 340,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/tom-homan-democrats-trump-border-surge-planned-crisis-immigration-policys.amp",
-      "publishedDateTime": "2021-03-15T05:35:06-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Republican Voice"
       ]
     }
   ],

@@ -2,6 +2,62 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2021-03-10-homan-says-biden-should-be-embarrassed-after-inheriting-most-secure-border-in-decades.md",
+      "title": "Homan says Biden should be 'embarrassed' after inheriting most secure border in decades",
+      "excerpt": "The Biden administration should be \"embarrassed\" about their immigration policies after \"inheriting the most secure border\" in decades,\" Fox News contributor Tom Homan said on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-WCFa2sza4/homan-biden-embarrassed-border-crisis-trump-secure",
+      "originalUrl": "http://feeds.foxnews.com/~r/foxnews/politics/~3/W-WCFa2sza4/homan-biden-embarrassed-border-crisis-trump-secure",
+      "featuredContent": null,
+      "highlight": {
+        "text": "Republican Voice",
+        "textColor": "#FFFFFF",
+        "backgroundColor": "#FF0000"
+      },
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/10/340/340/image-5.png?ve=1&tl=1",
+          "width": 340,
+          "height": 340,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/politics/homan-biden-embarrassed-border-crisis-trump-secure.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/politics/homan-biden-embarrassed-border-crisis-trump-secure.amp",
+      "publishedDateTime": "2021-03-10T06:56:55-08:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://smartableai.github.io/election/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Election",
+        "Republican Voice"
+      ]
+    },
+    {
       "path": "_news/2021-03-10-polls-find-most-americans-support-bidens-covid-19-stimulus-package.md",
       "title": "Polls find most Americans support Biden's COVID-19 stimulus package",
       "excerpt": "President Joe Biden is also enjoying a positive approval rating as the package heads to his desk. A FiveThirtyEight aggregate of polls finds Biden's approval rating sits at 53.4% approving and 38.8% disapproving. Specifically, on his response to the ...",
@@ -1320,63 +1376,6 @@
       ],
       "topics": [
         "Election",
-        "Republican Voice"
-      ]
-    },
-    {
-      "path": "_news/2021-03-09-wsj-opinion-mike-pence-goes-from-hero-to-villain.md",
-      "title": "WSJ Opinion: Mike Pence Goes From Hero to Villain",
-      "excerpt": "For criticizing H.R.1 as an \"unconstitutional power grab,\" Mike Pence is accused of spreading Donald Trump’s ‘big lie.’ Images: AFP via Getty Image",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-mike-pence-goes-from-hero-to-villain/6291AD56-4420-4EBE-9AF9-E3D9B88DBE00",
-      "originalUrl": "https://www.wsj.com/video/series/main-street-mcgurn/wsj-opinion-mike-pence-goes-from-hero-to-villain/6291AD56-4420-4EBE-9AF9-E3D9B88DBE00",
-      "featuredContent": null,
-      "highlight": {
-        "text": "Republican Voice",
-        "textColor": "#FFFFFF",
-        "backgroundColor": "#FF0000"
-      },
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://m.wsj.net/video/20210308/030821opvidmainstreet/030821opvidmainstreet_1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2021-03-08T08:51:00-08:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://smartableai.github.io/election/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Election",
-        "Mike Pence",
         "Republican Voice"
       ]
     }

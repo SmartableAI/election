@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessinsider.com/trump-twitter-ban-hurt-more-losing-t
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trump-twitter-ban-hurt-more-losing-to-biden-niece-mary-2021-3?amp"
 type: article
 quality: 146
-heat: 1746
+heat: 1766
 published: true
 
 provider:
@@ -174,6 +174,22 @@ related:
       - url: "https://thehill.com/sites/default/files/paxtonken_022721getty_ags_0.jpg"
         width: 980
         height: 551
+        isCached: true
+  - title: "Russia Reacts to U.S Claims of Pro-Trump Election Interference"
+    excerpt: "The report by the Office of the Director of National Intelligence found that Russia wanted to harm Joe Biden's candidacy."
+    publishedDateTime: 2021-03-17T09:39:00Z
+    webUrl: "https://www.newsweek.com/russia-kremlin-sanctions-election-interference-biden-trump-putin-1576708"
+    ampWebUrl: "https://www.newsweek.com/russia-kremlin-sanctions-election-interference-biden-trump-putin-1576708?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/russia-kremlin-sanctions-election-interference-biden-trump-putin-1576708?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 140
+    images:
+      - url: "https://d.newsweek.com/en/full/1757684/putin-trump.jpg"
+        width: 2500
+        height: 1822
         isCached: true
   - title: "US: Putin approved operations to help Trump against Biden"
     excerpt: "Russian President Vladimir Putin authorized influence operations to help Donald Trump in last November’s presidential election"

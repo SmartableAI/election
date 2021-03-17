@@ -656,6 +656,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Trump warns Biden's border 'crisis' will get 'much worse': 'They are coming in from everywhere'"
+    excerpt: "Trump, on 'Fox News Primetime,' warns Biden's border 'crisis' will 'destroy our country' Former President Donald Trump slammed President Biden as the border crisis further unravels, speaking with Maria Bartiromo in an exclusive interview on \"Fox News Primetime."
+    publishedDateTime: 2021-03-17T09:08:00Z
+    webUrl: "https://www.foxnews.com/us/trump-warns-bidens-border-crisis-will-get-much-worse-they-are-coming-in-from-everywhere"
+    ampWebUrl: "https://www.foxnews.com/us/trump-warns-bidens-border-crisis-will-get-much-worse-they-are-coming-in-from-everywhere.amp"
+    cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/trump-warns-bidens-border-crisis-will-get-much-worse-they-are-coming-in-from-everywhere.amp"
+    type: article
+    provider:
+      name: Fox News
+      domain: foxnews.com
+    quality: 138
+    images:
+      - url: "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2020/01/640/320/trump-maria-AP-FOX.jpg?ve=1&tl=1"
+        width: 640
+        height: 320
+        isCached: true
   - title: "Biden says 'local preachers' better than Trump for convincing ‘MAGA folks’ to take COVID-19 vaccine"
     excerpt: "President Biden argued Monday that “local preachers” and other community leaders will be more influential than former President Donald Trump in efforts to convince skeptics to take COVID-19 vaccines amid a nationwide inoculation drive."
     publishedDateTime: 2021-03-15T21:03:00Z
